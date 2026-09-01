@@ -1,7 +1,9 @@
 /**
  * Regression guardrail for issue #199 (guardrail b): for every year
  * 2019-2025, count(name-derived divided) must equal count(tally-derived
- * divided).
+ * divided) - AND both must equal the absolute count confirmed by an
+ * independent walk of the raw data/*.json roll calls (issue #199
+ * verification): 310/289/287/176/382/541/540 for 2019-2025 respectively.
  *
  *   - name-derived divided: a motion with at least one named voter in its
  *     `nays` array (fusion-repaired per PR #197/#201, so this is the
@@ -13,23 +15,18 @@
  *
  * These are two independent signals derived from the same underlying
  * eSCRIBE page (the per-row voter list vs. the printed summary tally).
- * Confirmed exact for 2019-2022, 2024 and 2026 against the current
- * regenerated corpus; a real fusion or coverage regression (the two
- * failure modes issue #199 investigated) would move this identity, which
- * is exactly why it's asserted as a canary here, per-year, not as one
- * combined total that could hide a one-year regression inside
- * flat-overall numbers.
- *
- * 2023 and 2025 each carry ONE pre-existing exception, present before any
- * of the issue #199 fixes and unrelated to them (confirmed via a
- * before/after diff against the pre-fix _all-motions.json: identical in
- * both states) - an eSCRIBE-published "(N to 0)" tally alongside a
- * recorded dissenting voter, i.e. a genuine tally-vs-voter-list
- * disagreement on THIS axis, distinct from the Yeas>Nays-vs-Passed/Failed
- * axis scraping/verify_vote_tallies.py already tracks known anomalies
- * for. Named explicitly below (same convention as that script's
- * KNOWN_SUPERMAJORITY_EXCEPTIONS), not silently absorbed - flagged for
- * follow-up, not fixed here (out of scope for this PR).
+ * The identity holds EXACTLY at the raw roll-call level; it previously
+ * held only approximately (308/287/286/176/382/539/537, with 2023 and
+ * 2025 off by one) in the shipped data/votes/_all-motions.json, because
+ * motionKey there omitted rollCallOrdinal for 2018+ dates, so a handful of
+ * genuinely distinct roll calls under one item merged into one stored
+ * record that inherited the FIRST roll call's tally while absorbing the
+ * SECOND roll call's nay voters (issue #199 d3, not actually pre-2018-
+ * specific - see the motionKey comment in generate-votes.ts). Once
+ * rollCallOrdinal is part of the 2018+ key too, the two absolute-count
+ * assertions below hold with zero exceptions - this is a stronger, and
+ * simpler, guarantee than "modulo known exceptions", so it's asserted
+ * directly rather than inferred from the mismatch-count check alone.
  *
  * 2018 is a known transition year (mixed eSCRIBE/Word-format minutes
  * mid-year) and is deliberately excluded from this oracle, same as the
@@ -57,13 +54,34 @@ interface AllMotionsFile {
   motions: Motion[]
 }
 
-// (year, itemNumber) pairs known, ahead of time, to disagree between the
-// two signals - see the module doc comment above for why each is not a
-// regression.
+// (date, itemNumber) pairs known, ahead of time, to disagree between the
+// two signals. Keyed on the exact DATE (not just year), because keying on
+// `${year}|${itemNumber}` alone matched 48 motions across 16 different
+// meetings for these two item numbers (2023 item 3.5 recurs across 14
+// meetings that year; 2025 item 8.3.16 across 2) - silently suppressing
+// any future, unrelated mismatch that happens to land on the same item
+// number in the same year. Each entry here is exactly the one dated
+// motion the exception was found for:
 const KNOWN_TALLY_VS_VOTER_LIST_EXCEPTIONS = new Set([
-  "2023|3.5", // 2023-07-17 "Motion Passed (5 to 0)" with a recorded Nay voter
-  "2025|8.3.16", // 2025-06-03 "Motion Passed (14 to 0)" with a recorded Nay voter
+  "2023-07-17|3.5", // "Motion Passed (5 to 0)" with a recorded Nay voter
+  "2025-06-03|8.3.16", // "Motion Passed (14 to 0)" with a recorded Nay voter
 ])
+
+// Absolute name-derived (== tally-derived, modulo the exceptions above)
+// divided-motion count expected for each oracle year - see the module doc
+// comment. A regression that dropped N divided motions from BOTH signals
+// equally would still satisfy "the two signals agree with each other", so
+// this absolute check is required to actually catch a coverage
+// regression, not just a fusion (name-vs-tally disagreement) regression.
+const EXPECTED_DIVIDED_COUNTS: Record<string, number> = {
+  "2019": 310,
+  "2020": 289,
+  "2021": 287,
+  "2022": 176,
+  "2023": 382,
+  "2024": 541,
+  "2025": 540,
+}
 
 const ORACLE_YEARS = ["2019", "2020", "2021", "2022", "2023", "2024", "2025"]
 
@@ -100,9 +118,9 @@ describe("generate-votes.ts: 2019-2025 name-vs-tally divided identity oracle (is
         if (tallyDivided) tallyCount++
 
         if (nameDivided !== tallyDivided) {
-          const key = `${year}|${m.itemNumber}`
+          const key = `${m.date}|${m.itemNumber}`
           if (!KNOWN_TALLY_VS_VOTER_LIST_EXCEPTIONS.has(key)) {
-            mismatches.push(`item ${m.itemNumber} (id ${m.id}): name=${nameDivided} tally=${tallyDivided}, result=${JSON.stringify(m.result)}`)
+            mismatches.push(`item ${m.itemNumber} (id ${m.id}, date ${m.date}): name=${nameDivided} tally=${tallyDivided}, result=${JSON.stringify(m.result)}`)
           }
         }
       }
@@ -120,11 +138,21 @@ describe("generate-votes.ts: 2019-2025 name-vs-tally divided identity oracle (is
       // named exceptions fails via the assertion above, so this is a
       // belt-and-suspenders total-count check.
       const knownExceptionsThisYear = [...KNOWN_TALLY_VS_VOTER_LIST_EXCEPTIONS].filter(k =>
-        k.startsWith(`${year}|`)
+        k.startsWith(`${year}-`)
       ).length
       assert.ok(
         Math.abs(nameCount - tallyCount) <= knownExceptionsThisYear,
         `${year}: name=${nameCount} tally=${tallyCount} differ by more than the ${knownExceptionsThisYear} known exception(s)`
+      )
+
+      // Absolute count check (issue #199 verification finding: the
+      // mismatch-count check above can't see a coverage regression that
+      // drops N divided motions from both signals equally - only an
+      // absolute check against the independently-confirmed raw count can).
+      assert.strictEqual(
+        nameCount,
+        EXPECTED_DIVIDED_COUNTS[year],
+        `${year}: name-derived divided count is ${nameCount}, expected exactly ${EXPECTED_DIVIDED_COUNTS[year]} (issue #199's independently-confirmed raw-roll-call count) - a coverage regression, not just a fusion mismatch`
       )
     })
   }

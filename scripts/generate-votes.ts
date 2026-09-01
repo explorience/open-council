@@ -82,15 +82,22 @@ interface VoteRecord {
   // How `unanimous` was determined - see parseResult(). "tally" means the
   // eSCRIBE-format "(N to M)" markup was present (2018+, always); "votes"
   // means it was derived from a resolvable Nay in the parsed rows
-  // (pre-2018, genuinely divided); "unknown" means neither signal was
-  // available and `unanimous: true` is a default, not a confirmed fact -
-  // see issue #199 (d1).
-  unanimousSource: "tally" | "votes" | "unknown"
+  // (pre-2018 only, genuinely divided - see the pre-2018 scoping in
+  // parseResult()); "unresolved" means a Nay row was present but every
+  // name in it failed to resolve against the registry (garbled Word-export
+  // text) - there IS recorded dissent, it just can't be attributed to a
+  // specific councillor, so `unanimous` is false but not "confirmed
+  // divided" the way "votes" is (issue #199 d7); "unknown" means neither
+  // signal was available and `unanimous: true` is a default, not a
+  // confirmed fact - see issue #199 (d1).
+  unanimousSource: "tally" | "votes" | "unresolved" | "unknown"
   // Position of this roll call's content object within its containing
-  // agenda item's content array. Pre-2018 minutes can render two distinct
-  // roll calls under the same item with textually-identical boilerplate
-  // ("Motion Passed"), which would otherwise collide in motionKey below -
-  // see issue #199 (d3).
+  // agenda item's content array. Pre-2018 AND 2018+ minutes can both render
+  // two distinct roll calls under the same item with textually-identical
+  // (often boilerplate) motion text, which would otherwise collide in
+  // motionKey below - see issue #199 (d3). Not pre-2018-specific: 49 stored
+  // 2018-2026 motions were confirmed merging two roll calls with different
+  // results before this field was included in the 2018+ key too.
   rollCallOrdinal: number
 }
 
@@ -182,6 +189,24 @@ function hasResolvableNay(voteRows: VoteRow[], registry: ReturnType<typeof loadR
   })
 }
 
+// Does this vote have a Nay row that names at least one voter, but NONE of
+// those names resolve against the registry? This is the "garbled Word-
+// export text" case (issue #199 d7) - e.g. a Nays row whose entries are
+// paragraph fragments instead of names, or a name split across a page
+// break. There IS recorded dissent here; it's just unattributable. Must
+// not be silently folded into "no dissent recorded" (which parseResult()
+// treats as presumed-unanimous) - see the "unresolved" unanimousSource.
+function hasUnresolvableNay(voteRows: VoteRow[], registry: ReturnType<typeof loadRegistry>): boolean {
+  return voteRows.some(row => {
+    if (classifyVoteType(row.vote) !== "nay") return false
+    if (row.voters.length === 0) return false
+    return !row.voters.some(voterName => {
+      const canonical = normalizeVoterName(voterName)
+      return canonical !== null && !!registry[canonical]
+    })
+  })
+}
+
 // Parse vote result string.
 //
 // eSCRIBE (2018+) always renders a machine-readable "(N to M)" tally in
@@ -193,19 +218,33 @@ function hasResolvableNay(voteRows: VoteRow[], registry: ReturnType<typeof loadR
 // `unanimous` false for every single pre-2018 record in every year
 // 2011-2017 - "contested" was the default, not a classification.
 //
-// When there's no tally, derive divided/unanimous from the vote rows
-// themselves instead: a resolvable Nay voter means the motion was
-// genuinely divided; otherwise mark it unanimous, but flag that as
-// `unanimousSource: "unknown"` rather than `"votes"` so downstream code
-// can tell "confirmed unanimous" apart from "no dissent recorded, so
-// presumed unanimous" (a motion with an unresolvable/garbled Nays list -
-// see issue #199's ~25 Word-parser garbled-Nays cases - would otherwise be
-// silently misread as unanimous with no way to tell the two apart later).
+// When there's no tally AND the record is pre-2018, derive divided/
+// unanimous from the vote rows themselves instead:
+//   - a resolvable Nay voter means the motion was genuinely divided
+//     (unanimousSource "votes");
+//   - a Nay row that names voters but resolves none of them means there
+//     IS recorded dissent, just unattributable - garbled Word-export text,
+//     issue #199 d7 (unanimousSource "unresolved"; NOT folded into
+//     unanimous:true - that would silently convert real dissent into
+//     presumed unanimity);
+//   - otherwise mark it unanimous, but flag that as `unanimousSource:
+//     "unknown"` rather than `"votes"` so downstream code can tell
+//     "confirmed unanimous" apart from "no dissent recorded, so presumed
+//     unanimous".
+//
+// A missing tally on a 2018+ record is itself anomalous (eSCRIBE always
+// emits one) - issue #199 d8 found 299 such 2018+ records. These do NOT
+// get the votes-based fallback: that fallback exists solely to solve pre-
+// 2018's total lack of tally markup, and applying it here silently flipped
+// 299 records from unanimous:false to unanimous:true relative to the
+// pre-tri-state baseline. 2018+ falls straight through to unanimous:false/
+// "unknown", matching prior (pre-tri-state) behavior exactly.
 function parseResult(
   result: string,
   voteRows: VoteRow[],
-  registry: ReturnType<typeof loadRegistry>
-): { passed: boolean; unanimous: boolean; unanimousSource: "tally" | "votes" | "unknown" } {
+  registry: ReturnType<typeof loadRegistry>,
+  isPre2018: boolean
+): { passed: boolean; unanimous: boolean; unanimousSource: "tally" | "votes" | "unresolved" | "unknown" } {
   const passed = /passed|carried|approved/i.test(result)
   const tallyMatch = result.match(/\((\d+) to (\d+)\)/)
 
@@ -213,8 +252,16 @@ function parseResult(
     return { passed, unanimous: tallyMatch[2] === "0", unanimousSource: "tally" }
   }
 
+  if (!isPre2018) {
+    return { passed, unanimous: false, unanimousSource: "unknown" }
+  }
+
   if (hasResolvableNay(voteRows, registry)) {
     return { passed, unanimous: false, unanimousSource: "votes" }
+  }
+
+  if (hasUnresolvableNay(voteRows, registry)) {
+    return { passed, unanimous: false, unanimousSource: "unresolved" }
   }
 
   return { passed, unanimous: true, unanimousSource: "unknown" }
@@ -229,6 +276,7 @@ function findVotes(
 ): VoteRecord[] {
   const votes: VoteRecord[] = []
   const registry = loadRegistry()
+  const isPre2018 = meeting.datetime.split(" ")[0] < "2018-01-01"
 
   for (const [num, item] of Object.entries(items)) {
     const itemPath = parentPath ? `${parentPath}.${num}` : num
@@ -241,7 +289,7 @@ function findVotes(
           const ordinal = rollCallOrdinal++
           const motionText = extractMotionText(content)
           const resultStr = content.result?.string || ""
-          const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry)
+          const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry, isPre2018)
 
           // Process each voter
           for (const row of content.vote.rows) {
@@ -332,6 +380,37 @@ function computeVoteBlockFingerprint(meeting: Meeting): string {
   return crypto.createHash("sha256").update(rows.join("\n")).digest("hex")
 }
 
+// Fingerprint a meeting's full set of agenda-item titles (every item, at
+// every nesting depth, normalized and concatenated in document order).
+// The vote-block fingerprint above collapses to just `result|voter-lists`
+// for pre-2018 COMMITTEE files, because their motionText is still
+// boilerplate "Motion Passed" (those files were never re-scraped by the
+// d2/d5 recovery - see issue #199's disclosure of that gap). Two routine
+// committee meetings sharing the same small standing membership voting
+// unanimously produce byte-identical `result|voter-lists` fingerprints by
+// pure coincidence (confirmed: issue #199 found 5 genuinely distinct
+// meetings - different eSCRIBE meeting ids, different agenda-item counts
+// and titles - wrongly collapsed together this way, silently dropping 59
+// real roll calls and 5 real meetings). Requiring the item-title
+// fingerprint to ALSO match is what tells a genuine byte-identical
+// re-publication (same agenda, same items, same votes - the known d6
+// cases) apart from that coincidence (different agenda, different items,
+// same vote shape).
+function computeItemTitleFingerprint(meeting: Meeting): string {
+  const titles: string[] = []
+
+  const walk = (items: Record<string, MeetingItem> | undefined) => {
+    if (!items) return
+    for (const item of Object.values(items)) {
+      titles.push((item.title || "").trim().toLowerCase().replace(/\s+/g, " "))
+      walk(item.items)
+    }
+  }
+
+  walk(meeting.items)
+  return titles.join("|")
+}
+
 // Generate a hash of the source data for staleness detection
 function generateSourceHash(meetings: Meeting[]): string {
   const content = JSON.stringify(
@@ -377,10 +456,16 @@ async function main() {
   let totalVotes = 0
   const allMeetings: Meeting[] = []
 
-  // Vote-block fingerprint -> the first (chronologically earliest, since
-  // files are processed in sorted date order) file that produced it.
-  // Files scanned in date order within each month give the actual original
-  // meeting priority over a later re-publication - issue #199 d6.
+  // Combined (vote-block fingerprint, item-title fingerprint) -> the first
+  // (chronologically earliest, since files are processed in sorted date
+  // order) file that produced it. Files scanned in date order within each
+  // month give the actual original meeting priority over a later re-
+  // publication - issue #199 d6. Both fingerprints must match - see
+  // computeItemTitleFingerprint's doc comment for why the vote-block
+  // fingerprint alone isn't enough for pre-2018 committee files (issue
+  // #199 verification: the vote-block-only key wrongly collapsed 5
+  // genuinely distinct meetings into 3 "duplicates", dropping 59 real roll
+  // calls).
   const seenVoteFingerprints = new Map<string, string>()
   const duplicateFiles: { duplicate: string; original: string }[] = []
 
@@ -401,14 +486,15 @@ async function main() {
           continue
         }
 
-        const fingerprint = computeVoteBlockFingerprint(meeting)
-        if (fingerprint) {
-          const original = seenVoteFingerprints.get(fingerprint)
+        const voteFingerprint = computeVoteBlockFingerprint(meeting)
+        if (voteFingerprint) {
+          const dedupeKey = `${voteFingerprint}::${computeItemTitleFingerprint(meeting)}`
+          const original = seenVoteFingerprints.get(dedupeKey)
           if (original) {
             duplicateFiles.push({ duplicate: relativePath, original })
             continue // byte-identical re-published minutes - skip, don't double-count
           }
-          seenVoteFingerprints.set(fingerprint, relativePath)
+          seenVoteFingerprints.set(dedupeKey, relativePath)
         }
 
         totalMeetings++
@@ -546,7 +632,7 @@ async function main() {
     result: string
     passed: boolean
     unanimous: boolean
-    unanimousSource: "tally" | "votes" | "unknown"
+    unanimousSource: "tally" | "votes" | "unresolved" | "unknown"
     rollCallOrdinal: number
     procedural: boolean
     yeas: string[]
@@ -568,17 +654,21 @@ async function main() {
     const displayName = registry[canonicalName].displayName
 
     for (const vote of votes) {
-      // Create a unique key for each motion. Pre-2018 minutes can render
-      // two textually-identical (often boilerplate "Motion Passed") but
-      // genuinely distinct roll calls under the same item - rollCallOrdinal
-      // (this content object's position within the item) keeps them apart
-      // instead of silently merging their voter lists (issue #199 d3).
-      // 2018+ dates are untouched: eSCRIBE items don't share this failure
-      // mode, and the 2019-2025 name-vs-tally identity oracle must not move.
-      const isPre2018 = vote.date < "2018-01-01"
-      const motionKey = isPre2018
-        ? `${vote.date}|${vote.meetingSlug}|${vote.itemNumber}|${vote.motionText}|${vote.rollCallOrdinal}`
-        : `${vote.date}|${vote.meetingSlug}|${vote.itemNumber}|${vote.motionText}`
+      // Create a unique key for each motion. Minutes (pre-2018 AND 2018+
+      // eSCRIBE alike) can render two textually-identical roll calls under
+      // the same item - rollCallOrdinal (this content object's position
+      // within the item) keeps them apart instead of silently merging
+      // their voter lists and inheriting just one roll call's result
+      // (issue #199 d3). This was originally scoped to pre-2018 only on
+      // the theory that "eSCRIBE items don't share this failure mode" -
+      // that premise was false: 49 stored 2018-2026 motions were confirmed
+      // merging two roll calls with DIFFERENT results (e.g. 2019-03-05
+      // item 8.1.9 stored "Passed (8 to 7)" while unioning in the nay
+      // voters from a separate "Failed (7 to 8)" roll call). Applying
+      // rollCallOrdinal everywhere is also what makes the 2019-2025 name-
+      // vs-tally identity oracle hold exactly rather than merely
+      // approximately.
+      const motionKey = `${vote.date}|${vote.meetingSlug}|${vote.itemNumber}|${vote.motionText}|${vote.rollCallOrdinal}`
 
       if (!motionMap.has(motionKey)) {
         motionMap.set(motionKey, {
@@ -627,18 +717,17 @@ async function main() {
   }
 
   // Convert to array with IDs, sorted by date descending then item number.
-  // IDs mirror motionKey's uniqueness domain above: pre-2018 includes the
-  // roll-call ordinal (so two distinct motions sharing motionKey don't
-  // collide onto the same id), 2018+ stays exactly as before - existing
-  // 2018+ motion ids must not change.
+  // IDs mirror motionKey's uniqueness domain above: always include the
+  // roll-call ordinal so two distinct motions sharing the rest of the key
+  // don't collide onto the same id (issue #199 d3 - see the motionKey
+  // comment above for why this is no longer pre-2018-only). NOTE: this
+  // changes ids for the (rare) 2018-2026 motions that previously collided
+  // - by construction, those ids were already wrong (two distinct roll
+  // calls sharing one id/record).
   const allMotions = Array.from(motionMap.values())
     .map(m => ({
       id: crypto.createHash("sha256")
-        .update(
-          m.date < "2018-01-01"
-            ? `${m.date}|${m.meetingSlug}|${m.itemNumber}|${m.motionText}|${m.rollCallOrdinal}`
-            : `${m.date}|${m.meetingSlug}|${m.itemNumber}|${m.motionText}`
-        )
+        .update(`${m.date}|${m.meetingSlug}|${m.itemNumber}|${m.motionText}|${m.rollCallOrdinal}`)
         .digest("hex")
         .slice(0, 12),
       ...m,
@@ -708,6 +797,8 @@ function findVotesWithAttribution(
   registry: ReturnType<typeof loadRegistry>,
   parentPath: string = ""
 ): void {
+  const isPre2018 = meeting.datetime.split(" ")[0] < "2018-01-01"
+
   for (const [num, item] of Object.entries(items)) {
     const itemPath = parentPath ? `${parentPath}.${num}` : num
 
@@ -718,7 +809,7 @@ function findVotesWithAttribution(
           const ordinal = rollCallOrdinal++
           const motionText = extractMotionText(content)
           const resultStr = content.result?.string || ""
-          const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry)
+          const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry, isPre2018)
 
           for (const row of content.vote.rows) {
             const voteType = classifyVoteType(row.vote)

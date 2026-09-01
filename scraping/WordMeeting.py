@@ -7,6 +7,20 @@ and simple tables instead of structured div classes.
 
 This parser creates the SAME class instances (MeetingItem, Motion, Mover, Vote, etc.)
 as the eScribe parser, ensuring the JSON output is indistinguishable across all years.
+
+SCOPE DISCLOSURE (issue #199 d2, verification finding): the recovery
+re-scrape run against this fixed parser (recovery_scrape.py) covers only
+the ~150 pre-2018 COUNCIL meetings - it does NOT cover pre-2018 COMMITTEE
+meetings, which are the majority of pre-2018 motions. Boilerplate
+("Motion Passed/Failed/Carried", or empty) motionText share in the
+committed data/votes as of this fix: pre-2018 COUNCIL 2014-2017 dropped
+from ~98% to 9.1-16.2% (genuinely fixed by this parser's _attach_content
+merge); pre-2018 COMMITTEE stayed at 98.8-99.9% (thousands of stored
+motions per year, still on the old, never-rescraped data). isProcedural()
+in generate-votes.ts therefore still has no real motion text to match
+against for the large majority of pre-2018 records - a full committee
+recovery re-scrape is a separate, not-yet-scheduled follow-up, not
+something this parser fix alone completes.
 """
 
 import re
@@ -31,6 +45,19 @@ VOTE_ROW_CONTINUATION_RE = re.compile(r'^(YEAS?|NAYS?|ABSENT|RECUSED?|ABSTAIN(?:
 # the vote-bearing half of that split and needs the real text merged in -
 # see _attach_content's look-behind merge and issue #199 (d2).
 BOILERPLATE_RESULT_TEXT_RE = re.compile(r'^Motion\s+(Passed|Failed|Carried)(\s*\([^)]*\))?\.?$', re.IGNORECASE)
+
+# Procedural narration (someone entering/leaving the meeting, a recess)
+# that can immediately precede a boilerplate vote block purely by document
+# position, with no actual relationship to what was voted on. Without this
+# check, _attach_content's Paragraph look-behind merge would attach this
+# narration AS the motion text (issue #199 d10 - e.g. 2012-09-18 item 11#2,
+# an 11-nay-voter genuinely divided motion, ended up with motionText
+# "Councillor S.E. White enters the meeting at 7:54 PM." instead of what
+# was actually being voted on).
+NARRATIVE_PARAGRAPH_RE = re.compile(
+    r'\b(enters?|leaves?|left)\s+the\s+meeting\b|\brecess(es|ed)?\b|\breconven(e|es|ed)\b',
+    re.IGNORECASE
+)
 
 
 # Minimal MeetingItem class to avoid circular import while maintaining JSON compatibility
@@ -112,11 +139,12 @@ class WordMeeting:
         # Parse content and items
         self.content = self.extract_opening_content()
         self.items = self.parse_agenda_structure(word_section)
+        self._dedupe_repeated_vote_blocks()
 
         # Scrape-time guardrail (issue #199 guardrail a): a re-scrape that
-        # silently drops roll calls must fail loudly instead of shipping a
-        # quietly-undercounted meeting. Only meaningful when there's a
-        # document to check against.
+        # silently drops (or duplicates) roll calls must fail loudly instead
+        # of shipping a quietly mis-counted meeting. Only meaningful when
+        # there's a document to check against.
         if word_section is not None:
             self.assert_vote_coverage(word_section)
 
@@ -423,7 +451,11 @@ class WordMeeting:
                     item.moved_by = prev.moved_by
                 if not item.seconded_by.string:
                     item.seconded_by = prev.seconded_by
-            elif type(prev) is Paragraph and prev.string.strip():
+            elif (
+                type(prev) is Paragraph
+                and prev.string.strip()
+                and not NARRATIVE_PARAGRAPH_RE.search(prev.string)
+            ):
                 section.content.pop()
                 item.motion_texts = [prev]
 
@@ -434,22 +466,111 @@ class WordMeeting:
         combined = ' '.join(p.string for p in motion.motion_texts if getattr(p, 'string', '')).strip()
         return combined == '' or bool(BOILERPLATE_RESULT_TEXT_RE.match(combined))
 
+    def _dedupe_repeated_vote_blocks(self):
+        """Drop a vote-bearing Motion that's an exact repeat of one already
+        kept elsewhere in this meeting (issue #199 d5/verification).
+
+        Some pre-2018 roll calls get attached to more than one agenda-item
+        bucket: a floor amendment gets recorded once under its own
+        numbered clause, and again under whatever item happened to still
+        be `current_section` when a later stray table (with no section-
+        marker first cell of its own) got appended to it - a `current_
+        section` staleness bug, not a genuine second vote. Confirmed via
+        2015-05-26 Council: "Approve the addition of the following new
+        parts c) and d)..." (same mover, same seconder, same full
+        yeas+nays voter rows) is parsed as a vote-bearing Motion under BOTH
+        item 12 and item 14 - not two councillors independently wording
+        two different amendments identically, the same physical roll call
+        attached twice.
+
+        This mirrors the cross-FILE re-publication dedup in generate-
+        votes.ts (computeVoteBlockFingerprint) at the within-meeting level:
+        normalize away any trailing boilerplate result echo that
+        _attach_content's look-behind merge can append (that's exactly why
+        the later, buggy copy fails an exact string match against the
+        earlier, clean one otherwise), then treat an EXACT match on
+        (normalized motion text, mover, seconder, result, full vote rows)
+        as the same event and drop every occurrence after the first one
+        encountered (self.items iterates in document order, and so does
+        each item's own content list, so "first" is chronological). This
+        is intentionally narrow - matching on the full voter rows as well
+        as the text makes an accidental collision between two truly
+        distinct roll calls essentially impossible, unlike matching on
+        voters alone (many pre-2018 roll calls are legitimately unanimous
+        15-0 with the same standing council and would collide on that
+        basis alone).
+        """
+        seen = set()
+        for item in self.items.values():
+            kept = []
+            for c in item.content:
+                if isinstance(c, Motion) and c.vote.rows:
+                    signature = self._vote_block_signature(c)
+                    if signature and signature in seen:
+                        continue  # same physical roll call already kept elsewhere
+                    if signature:
+                        seen.add(signature)
+                kept.append(c)
+            item.content = kept
+
+    # Minimum normalized-text length before two vote blocks are trusted as
+    # "the same roll call" rather than dismissed as coincidence. Below
+    # this, a short/boilerplate/empty motion text is NOT deduped even on a
+    # full match.
+    MIN_TEXT_LEN_FOR_DEDUPE = 20
+
+    @staticmethod
+    def _vote_block_signature(motion):
+        # Require a NAMED mover and seconder. A routine phrase like "That
+        # it BE NOTED that no pecuniary interests were disclosed." is long
+        # enough to clear MIN_TEXT_LEN_FOR_DEDUPE and legitimately recurs
+        # verbatim many times in one meeting (once per report section),
+        # each time as a genuinely separate roll call, but always through
+        # parse_content_block's standalone-voting path (no "Moved by"),
+        # so mover/seconder are always empty for it - confirmed as a false
+        # positive against 2015-12-08 Council before this guard was added.
+        # A floor amendment/motion moved and seconded BY NAME is specific
+        # to one real event; requiring both to be present keeps this dedup
+        # narrow enough to only catch the actual bug (issue #199 d5/
+        # verification: the same named-mover amendment attached twice).
+        if not motion.moved_by.string or not motion.seconded_by.string:
+            return None
+
+        text = ' '.join(p.string for p in motion.motion_texts if getattr(p, 'string', '')).strip()
+        # Strip a trailing boilerplate result echo - _attach_content's
+        # look-behind merge can append one to an otherwise-identical
+        # earlier motion text (see the class doc comment above).
+        text = re.sub(r'\s*Motion\s+(Passed|Failed|Carried)(\s*\([^)]*\))?\.?\s*$', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'\s+', ' ', text).strip()
+        if len(text) < WordMeeting.MIN_TEXT_LEN_FOR_DEDUPE:
+            return None
+        vote_rows = tuple((r["vote"], tuple(r["voters"])) for r in motion.vote.rows)
+        return (text, motion.moved_by.string, motion.seconded_by.string, motion.result.string, vote_rows)
+
     def assert_vote_coverage(self, word_section):
         """Scrape-time guardrail (issue #199 guardrail a): count YEAS:
-        occurrences in the raw source text and fail loudly if fewer roll
-        calls were actually parsed. A silent drop here is exactly what let
-        34-61% of pre-2018 Council roll calls disappear without any signal
-        - see the investigation on issue #199.
+        occurrences in the raw source text and fail loudly if the parsed
+        Yeas-row count disagrees in EITHER direction. A silent undercount
+        is what let 34-61% of pre-2018 Council roll calls disappear without
+        any signal - see the investigation on issue #199. A silent
+        OVERcount is just as dangerous a way to fail the same coverage
+        promise: it means some physical roll call was parsed into more
+        than one stored vote record (issue #199 d5/verification - e.g.
+        2015-05-26 Council parses 48 Yeas rows against 45 raw 'YEAS:'
+        occurrences, because item '12' and item '14' both attach the same
+        physical vote block). Originally one-sided (`parsed <
+        raw_count`), which let that overcount ship silently.
         """
         raw_yeas_count = len(re.findall(r'YEAS?:', word_section.get_text(), re.IGNORECASE))
         parsed_yeas_rows = self._count_yea_rows(self.items)
 
-        if parsed_yeas_rows < raw_yeas_count:
+        if parsed_yeas_rows != raw_yeas_count:
+            direction = "fewer" if parsed_yeas_rows < raw_yeas_count else "more"
             raise ValueError(
                 f"WordMeeting vote-coverage guardrail failed for {self.url}: "
-                f"raw source has {raw_yeas_count} 'YEAS:' occurrence(s) but only "
-                f"{parsed_yeas_rows} Yeas row(s) were parsed. Refusing to silently "
-                f"undercount roll calls - see issue #199 guardrail (a)."
+                f"raw source has {raw_yeas_count} 'YEAS:' occurrence(s) but "
+                f"{parsed_yeas_rows} Yeas row(s) ({direction}) were parsed. Refusing to "
+                f"silently mis-count roll calls - see issue #199 guardrail (a)."
             )
 
     @staticmethod

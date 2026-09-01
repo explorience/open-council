@@ -145,6 +145,81 @@ def check_section_key_disambiguation():
         print(f"FAIL: section-key disambiguation: {e}")
 
 
+def check_guardrail_fires_on_genuine_overcount():
+    """The guardrail (issue #199 guardrail a) must fail loudly on an
+    OVERcount too, not just an undercount - the guardrail was originally
+    one-sided (only `parsed < raw`), which let 2015-05-26 Council ship 48
+    parsed Yeas rows against 45 raw 'YEAS:' occurrences silently (issue
+    #199 verification). This is a real fixture, not synthetic: even after
+    the same-meeting duplicate-vote-block dedupe (_dedupe_repeated_vote_
+    blocks) removes the one genuine duplicate it can safely identify (a
+    named-mover amendment attached under two different items), a residual
+    overcount remains and must still raise rather than ship quietly."""
+    global failures
+    path = "test_samples/Council - May 26, 2015.html"
+    html = open(path, encoding="utf-8", errors="replace").read()
+    soup = BeautifulSoup(html, "html.parser")
+
+    try:
+        WordMeeting(soup, "test_url", "Council", fallback_date=datetime(2015, 5, 26))
+        failures += 1
+        print("FAIL: guardrail did not raise for the known 2015-05-26 overcount")
+    except ValueError as e:
+        if "guardrail" in str(e).lower() and "more" in str(e).lower():
+            print("PASS: guardrail raised for the known 2015-05-26 overcount")
+        else:
+            failures += 1
+            print(f"FAIL: guardrail raised the wrong kind of error: {e}")
+
+
+def check_dedupe_removes_repeated_named_motion():
+    """issue #199 d5/verification: a floor amendment moved and seconded by
+    name gets attached as a vote-bearing Motion under TWO different items
+    in 2015-05-26 Council (the same physical roll call, not two
+    coincidentally-identical ones) - _dedupe_repeated_vote_blocks must
+    remove the later duplicate."""
+    global failures
+    path = "test_samples/Council - May 26, 2015.html"
+    html = open(path, encoding="utf-8", errors="replace").read()
+    soup = BeautifulSoup(html, "html.parser")
+    # This meeting still fails the (correct) guardrail on a residual,
+    # unresolved overcount - construct without triggering __init__'s
+    # guardrail call so the dedupe itself can be checked in isolation.
+    meeting = WordMeeting.__new__(WordMeeting)
+    meeting.url = "test_url"
+    meeting.meeting_type = "Council"
+    word_section = soup.find('div', class_=lambda x: x and 'WordSection' in str(x)) or soup.find('body')
+    meeting.paragraphs = [p for p in word_section.find_all('p') if p.get_text().strip()]
+    meeting.tables = word_section.find_all('table')
+    meeting.items = meeting.parse_agenda_structure(word_section)
+
+    pre_dedupe_yeas = sum(
+        1
+        for item in meeting.items.values()
+        for c in item.content
+        if hasattr(c, "vote") and c.vote.rows
+        for row in c.vote.rows
+        if row["vote"].lower().startswith("yea")
+    )
+    meeting._dedupe_repeated_vote_blocks()
+    post_dedupe_yeas = sum(
+        1
+        for item in meeting.items.values()
+        for c in item.content
+        if hasattr(c, "vote") and c.vote.rows
+        for row in c.vote.rows
+        if row["vote"].lower().startswith("yea")
+    )
+
+    try:
+        assert pre_dedupe_yeas == 48, f"expected 48 Yeas rows before dedupe, got {pre_dedupe_yeas}"
+        assert post_dedupe_yeas == 47, f"expected 47 Yeas rows after dedupe (one genuine duplicate removed), got {post_dedupe_yeas}"
+        print(f"PASS: dedupe removed the known duplicate ({pre_dedupe_yeas} -> {post_dedupe_yeas} Yeas rows)")
+    except AssertionError as e:
+        failures += 1
+        print(f"FAIL: dedupe-removes-repeated-named-motion: {e}")
+
+
 def check_guardrail_fires_on_genuine_undercount():
     """The guardrail (issue #199 guardrail a) must actually fail loudly,
     not just pass quietly, when parsing genuinely drops a roll call."""
@@ -224,6 +299,8 @@ check_motion_text_attached(
 
 check_section_key_disambiguation()
 check_guardrail_fires_on_genuine_undercount()
+check_guardrail_fires_on_genuine_overcount()
+check_dedupe_removes_repeated_named_motion()
 
 print("\n" + "=" * 60)
 if failures:

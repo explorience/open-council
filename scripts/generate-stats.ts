@@ -73,8 +73,18 @@ interface VoteRecord {
   unanimous: boolean
 }
 
-// Check if a motion is procedural (routine/administrative) vs substantive
-function isProcedural(motionText: string | undefined): boolean {
+// Check if a motion is procedural (routine/administrative) vs substantive.
+// `hasResolvableDissent` gates the whole check the same way generate-
+// votes.ts's isProcedural() does (issue #199 d4/d9): a motion with
+// recorded dissent is never procedural no matter what its text matches,
+// because compound substantive motions routinely contain a clause like
+// "...be received" alongside real, contested content. Before this gate,
+// data/stats used a plain-text-only isProcedural() with no such gate,
+// diverging from data/votes on 980 motions corpus-wide (both artifacts
+// are regenerated from the same source in the same run, so they must
+// agree on what "substantive" means).
+function isProcedural(motionText: string | undefined, hasResolvableDissent: boolean): boolean {
+  if (hasResolvableDissent) return false
   if (!motionText) return false
   const text = motionText.toLowerCase()
   return (
@@ -525,8 +535,11 @@ async function main() {
     const total = data.votes.length
     const participated = yeas + nays
 
-    // Calculate substantive votes (excluding procedural motions)
-    const substantiveVotes = data.votes.filter((v) => !isProcedural(v.motionText))
+    // Calculate substantive votes (excluding procedural motions). `!v.unanimous`
+    // is the same "was there recorded dissent" signal generate-votes.ts uses to
+    // gate isProcedural() (issue #199 d4/d9) - v.unanimous is computed once per
+    // roll call by parseResult() there and carried through unchanged here.
+    const substantiveVotes = data.votes.filter((v) => !isProcedural(v.motionText, !v.unanimous))
     const substantiveYeas = substantiveVotes.filter((v) => v.vote === "yea").length
     const substantiveNays = substantiveVotes.filter((v) => v.vote === "nay").length
     const substantiveTotal = substantiveVotes.length
