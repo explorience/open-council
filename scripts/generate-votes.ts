@@ -15,7 +15,7 @@ import {
   normalizeCouncillorName,
   getSlug,
 } from "../lib/councillors/index.js"
-import { classifyVoteType, type VoteType, MOTION_TEXT_TRUNCATION_MARKER } from "../lib/votes/vote-type.js"
+import { classifyVoteType, isProcedural, type VoteType, MOTION_TEXT_TRUNCATION_MARKER } from "../lib/votes/vote-type.js"
 
 // Cap on stored motion text length. Was 500 chars, which cut off ~25% of real motions
 // mid-word/mid-sentence while still being packaged downstream as "Full Motion Text" -
@@ -119,29 +119,10 @@ interface CouncillorVotesFile {
   votes: VoteRecord[]
 }
 
-// Check if a motion is procedural (routine/administrative) vs substantive.
-// `hasResolvableDissent` gates the whole check: a motion with a recorded,
-// resolvable Nay voter is never procedural, no matter what its text
-// matches. Compound substantive motions routinely contain a clause like
-// "...be received" alongside real, contested content (68/51/71 genuinely
-// divided motions were wrongly excluded this way in 2019/2020/2021 - see
-// issue #199 d4); recorded dissent is decisive evidence the motion was
-// substantive.
-function isProcedural(motionText: string | undefined, hasResolvableDissent: boolean): boolean {
-  if (hasResolvableDissent) return false
-  if (!motionText) return false
-  const text = motionText.toLowerCase()
-  return (
-    /be received/i.test(text) ||
-    /be noted/i.test(text) ||
-    /minutes.*be approved/i.test(text) ||
-    /be adjourned/i.test(text) ||
-    /closed session/i.test(text) ||
-    /public participation meeting/i.test(text) ||
-    /first reading|second reading|third reading/i.test(text) ||
-    /consent items/i.test(text)
-  )
-}
+// isProcedural() lives in lib/votes/vote-type.ts - shared with
+// generate-stats.ts so both artifacts, regenerated from the same source
+// in the same run, agree on what "substantive" means (issue #199 punch
+// list item 2). See that module for the hasResolvableDissent contract.
 
 // Extract motion text from content item
 function extractMotionText(content: ContentItem): string {
@@ -207,6 +188,41 @@ function hasUnresolvableNay(voteRows: VoteRow[], registry: ReturnType<typeof loa
   })
 }
 
+// London City Council: Mayor + 14 Councillors. A voter row naming more
+// people than that isn't a real roll call - it's Word-export text that
+// got split on the wrong delimiter (paragraph fragments, run-on
+// sentences) and landed in the voters array instead. Shared by
+// isGarbledRollCall() below; keep it here, not duplicated at each call
+// site (issue #199 punch list item 1).
+const MAX_COUNCIL_SIZE = 15
+
+// Is this roll call's raw vote-row data garbled - a voter row too long to
+// be real, or one where the MAJORITY of named "voters" fail to resolve
+// against the registry? (issue #199 punch list item 1, e.g. 2013-01-24
+// item 3's roll call 0: a 24-entry "Yeas" row and a 193-entry "Nays" row,
+// both Word-export text fragments, not real names.)
+//
+// This is a STRONGER, more general condition than hasUnresolvableNay()
+// above (which only looks at Nay rows, and only fires when ZERO names
+// resolve): a garbled row can still contain one or two names that happen
+// to coincidentally resolve against the registry among dozens of
+// fragments that don't, and hasResolvableNay() alone would take that as
+// "confirmed, resolvable dissent" - exactly the wrong conclusion for
+// mis-split text. Checked across ALL rows (not just Nays): a garbled Yeas
+// row is just as much evidence the whole roll call's voter data is
+// unreliable.
+function isGarbledRollCall(voteRows: VoteRow[], registry: ReturnType<typeof loadRegistry>): boolean {
+  return voteRows.some(row => {
+    if (row.voters.length === 0) return false
+    if (row.voters.length > MAX_COUNCIL_SIZE) return true
+    const resolvedCount = row.voters.filter(voterName => {
+      const canonical = normalizeVoterName(voterName)
+      return canonical !== null && !!registry[canonical]
+    }).length
+    return resolvedCount * 2 < row.voters.length // strictly fewer than half resolve
+  })
+}
+
 // Parse vote result string.
 //
 // eSCRIBE (2018+) always renders a machine-readable "(N to M)" tally in
@@ -256,6 +272,15 @@ function parseResult(
     return { passed, unanimous: false, unanimousSource: "unknown" }
   }
 
+  // Garbled voter data (issue #199 punch list item 1) takes priority over
+  // hasResolvableNay() below: a garbled row can still contain one
+  // coincidentally-resolvable name, and that must never read as
+  // "confirmed, resolvable dissent" - see isGarbledRollCall()'s doc
+  // comment. Demoted to "unresolved", never "votes".
+  if (isGarbledRollCall(voteRows, registry)) {
+    return { passed, unanimous: false, unanimousSource: "unresolved" }
+  }
+
   if (hasResolvableNay(voteRows, registry)) {
     return { passed, unanimous: false, unanimousSource: "votes" }
   }
@@ -291,29 +316,38 @@ function findVotes(
           const resultStr = content.result?.string || ""
           const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry, isPre2018)
 
-          // Process each voter
-          for (const row of content.vote.rows) {
-            const voteType = classifyVoteType(row.vote)
+          // A garbled roll call (issue #199 punch list item 1) emits NO
+          // per-councillor vote records at all, even for the names that
+          // happen to resolve - attributing an individual vote from a row
+          // that's mostly mis-split Word-export text isn't trustworthy
+          // just because one fragment coincidentally matches a real name.
+          // The roll call itself is still recorded (unanimousSource
+          // "unresolved" above), just with an empty voter attribution.
+          if (!isGarbledRollCall(content.vote.rows, registry)) {
+            // Process each voter
+            for (const row of content.vote.rows) {
+              const voteType = classifyVoteType(row.vote)
 
-            for (const voterName of row.voters) {
-              const canonicalName = normalizeVoterName(voterName)
-              if (canonicalName && registry[canonicalName]) {
-                votes.push({
-                  date: meeting.datetime.split(" ")[0],
-                  meetingSlug,
-                  meetingTitle: meeting.title,
-                  meetingType: meeting.meeting_type || "Unknown",
-                  meetingUrl: meeting.url,
-                  itemNumber: itemPath,
-                  itemTitle: item.title,
-                  motionText,
-                  vote: voteType,
-                  result: resultStr,
-                  passed,
-                  unanimous,
-                  unanimousSource,
-                  rollCallOrdinal: ordinal,
-                })
+              for (const voterName of row.voters) {
+                const canonicalName = normalizeVoterName(voterName)
+                if (canonicalName && registry[canonicalName]) {
+                  votes.push({
+                    date: meeting.datetime.split(" ")[0],
+                    meetingSlug,
+                    meetingTitle: meeting.title,
+                    meetingType: meeting.meeting_type || "Unknown",
+                    meetingUrl: meeting.url,
+                    itemNumber: itemPath,
+                    itemTitle: item.title,
+                    motionText,
+                    vote: voteType,
+                    result: resultStr,
+                    passed,
+                    unanimous,
+                    unanimousSource,
+                    rollCallOrdinal: ordinal,
+                  })
+                }
               }
             }
           }
@@ -437,6 +471,7 @@ async function main() {
   // Initialize vote collections per councillor
   const councillorVotes: Record<string, VoteRecord[]> = {}
   const councillorMeetings: Record<string, Set<string>> = {}
+  const garbledStats = { excludedRollCalls: 0 }
 
   for (const canonicalName of Object.keys(registry)) {
     const slug = getSlug(canonicalName)
@@ -551,7 +586,8 @@ async function main() {
           meetingSlug,
           councillorVotes,
           councillorMeetings,
-          registry
+          registry,
+          garbledStats
         )
 
       } catch (err) {
@@ -764,6 +800,9 @@ async function main() {
   console.log(`   Total motions: ${allMotions.length}`)
   console.log(`   Substantive: ${substantiveCount}`)
   console.log(`   Contested: ${contestedCount}`)
+  if (garbledStats.excludedRollCalls > 0) {
+    console.log(`   Garbled roll calls excluded from attribution: ${garbledStats.excludedRollCalls}`)
+  }
 
   // Write metadata file
   const metaFile = {
@@ -775,6 +814,12 @@ async function main() {
     substantiveMotions: substantiveCount,
     contestedMotions: contestedCount,
     duplicateFilesSkipped: duplicateFiles.length,
+    // Roll calls demoted to unanimousSource "unresolved" because the raw
+    // voter data was garbled (a row too long to be real, or a majority of
+    // named "voters" not resolving against the registry) - see
+    // isGarbledRollCall(). These get NO per-councillor vote records at
+    // all (issue #199 punch list item 1).
+    garbledRollCallsExcluded: garbledStats.excludedRollCalls,
   }
   await fs.writeFile(
     path.join(outputDir, "_meta.json"),
@@ -795,6 +840,11 @@ function findVotesWithAttribution(
   councillorVotes: Record<string, VoteRecord[]>,
   councillorMeetings: Record<string, Set<string>>,
   registry: ReturnType<typeof loadRegistry>,
+  // Mutated in place (not returned - this function recurses, and every
+  // level shares one running total): counts garbled roll calls excluded
+  // from per-councillor attribution, exposed in _meta.json's
+  // garbledRollCallsExcluded (issue #199 punch list item 1).
+  garbledStats: { excludedRollCalls: number },
   parentPath: string = ""
 ): void {
   const isPre2018 = meeting.datetime.split(" ")[0] < "2018-01-01"
@@ -811,33 +861,39 @@ function findVotesWithAttribution(
           const resultStr = content.result?.string || ""
           const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry, isPre2018)
 
-          for (const row of content.vote.rows) {
-            const voteType = classifyVoteType(row.vote)
+          // See the matching comment in findVotes() above - a garbled
+          // roll call emits NO per-councillor attribution at all.
+          if (isGarbledRollCall(content.vote.rows, registry)) {
+            garbledStats.excludedRollCalls++
+          } else {
+            for (const row of content.vote.rows) {
+              const voteType = classifyVoteType(row.vote)
 
-            for (const voterName of row.voters) {
-              const canonicalName = normalizeVoterName(voterName)
-              if (canonicalName && registry[canonicalName]) {
-                const slug = registry[canonicalName].slug
+              for (const voterName of row.voters) {
+                const canonicalName = normalizeVoterName(voterName)
+                if (canonicalName && registry[canonicalName]) {
+                  const slug = registry[canonicalName].slug
 
-                if (councillorVotes[slug]) {
-                  councillorVotes[slug].push({
-                    date: meeting.datetime.split(" ")[0],
-                    meetingSlug,
-                    meetingTitle: meeting.title,
-                    meetingType: meeting.meeting_type || "Unknown",
-                    meetingUrl: meeting.url,
-                    itemNumber: itemPath,
-                    itemTitle: item.title,
-                    motionText,
-                    vote: voteType,
-                    result: resultStr,
-                    passed,
-                    unanimous,
-                    unanimousSource,
-                    rollCallOrdinal: ordinal,
-                  })
+                  if (councillorVotes[slug]) {
+                    councillorVotes[slug].push({
+                      date: meeting.datetime.split(" ")[0],
+                      meetingSlug,
+                      meetingTitle: meeting.title,
+                      meetingType: meeting.meeting_type || "Unknown",
+                      meetingUrl: meeting.url,
+                      itemNumber: itemPath,
+                      itemTitle: item.title,
+                      motionText,
+                      vote: voteType,
+                      result: resultStr,
+                      passed,
+                      unanimous,
+                      unanimousSource,
+                      rollCallOrdinal: ordinal,
+                    })
 
-                  councillorMeetings[slug]?.add(meetingSlug)
+                    councillorMeetings[slug]?.add(meetingSlug)
+                  }
                 }
               }
             }
@@ -854,6 +910,7 @@ function findVotesWithAttribution(
         councillorVotes,
         councillorMeetings,
         registry,
+        garbledStats,
         itemPath
       )
     }

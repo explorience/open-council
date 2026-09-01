@@ -14,7 +14,7 @@ import {
   normalizeCouncillorName,
 } from "../lib/councillors/index.js"
 import { getAllTopics } from "../lib/topics/index.js"
-import { isParticipatingVote, type VoteType } from "../lib/votes/vote-type.js"
+import { isParticipatingVote, isProcedural, type VoteType } from "../lib/votes/vote-type.js"
 
 /**
  * Serialize a stats payload with a `generatedAt` timestamp, reusing the
@@ -71,33 +71,20 @@ interface VoteRecord {
   result: string
   passed: boolean
   unanimous: boolean
+  // How `unanimous` was determined - see generate-votes.ts's parseResult().
+  // Read here (not just `unanimous`) so the procedural gate below can
+  // require a CONFIRMED resolvable Nay ("votes"), not merely "not unanimous"
+  // - see isProcedural()'s doc comment in lib/votes/vote-type.ts for why
+  // `!unanimous` alone is the wrong signal (issue #199 punch list item 2).
+  unanimousSource?: "tally" | "votes" | "unresolved" | "unknown"
 }
 
-// Check if a motion is procedural (routine/administrative) vs substantive.
-// `hasResolvableDissent` gates the whole check the same way generate-
-// votes.ts's isProcedural() does (issue #199 d4/d9): a motion with
-// recorded dissent is never procedural no matter what its text matches,
-// because compound substantive motions routinely contain a clause like
-// "...be received" alongside real, contested content. Before this gate,
-// data/stats used a plain-text-only isProcedural() with no such gate,
-// diverging from data/votes on 980 motions corpus-wide (both artifacts
-// are regenerated from the same source in the same run, so they must
-// agree on what "substantive" means).
-function isProcedural(motionText: string | undefined, hasResolvableDissent: boolean): boolean {
-  if (hasResolvableDissent) return false
-  if (!motionText) return false
-  const text = motionText.toLowerCase()
-  return (
-    /be received/i.test(text) ||
-    /be noted/i.test(text) ||
-    /minutes.*be approved/i.test(text) ||
-    /be adjourned/i.test(text) ||
-    /closed session/i.test(text) ||
-    /public participation meeting/i.test(text) ||
-    /first reading|second reading|third reading/i.test(text) ||
-    /consent items/i.test(text)
-  )
-}
+// isProcedural() lives in lib/votes/vote-type.ts - shared with
+// generate-votes.ts so both artifacts, regenerated from the same source
+// in the same run, agree on what "substantive" means (issue #199 punch
+// list item 2). See that module for the hasResolvableDissent contract -
+// in particular, why `unanimousSource === "votes"` is the right argument
+// here, not `!unanimous`.
 
 // Check if a vote is budget-related based on meetingType, itemTitle, or motionText
 // Budget keywords: "budget", "tax", "levy", "fiscal", "appropriation", "expenditure"
@@ -535,25 +522,39 @@ async function main() {
     const total = data.votes.length
     const participated = yeas + nays
 
-    // Calculate substantive votes (excluding procedural motions). `!v.unanimous`
-    // is the same "was there recorded dissent" signal generate-votes.ts uses to
-    // gate isProcedural() (issue #199 d4/d9) - v.unanimous is computed once per
-    // roll call by parseResult() there and carried through unchanged here.
-    const substantiveVotes = data.votes.filter((v) => !isProcedural(v.motionText, !v.unanimous))
+    // Calculate substantive votes (excluding procedural motions).
+    // `v.unanimousSource === "votes"` is the SAME "is there a confirmed,
+    // resolvable Nay" signal generate-votes.ts passes as hasResolvableDissent
+    // (its `nays.length > 0`, the aggregated resolved-nay-voters for this
+    // exact motion) - not `!v.unanimous`, which is also true for
+    // `unanimousSource: "unresolved"` records (dissent recorded but
+    // unattributable to any councillor, issue #199 d7) and would wrongly
+    // treat those as "confirmed dissent" too. See isProcedural()'s doc
+    // comment in lib/votes/vote-type.ts (issue #199 punch list item 2).
+    const substantiveVotes = data.votes.filter((v) => !isProcedural(v.motionText, v.unanimousSource === "votes"))
     const substantiveYeas = substantiveVotes.filter((v) => v.vote === "yea").length
     const substantiveNays = substantiveVotes.filter((v) => v.vote === "nay").length
     const substantiveTotal = substantiveVotes.length
     const substantiveParticipated = substantiveYeas + substantiveNays
 
     // Calculate contested dissent rate:
-    // Only count non-unanimous votes where councillor participated
+    // Only count non-unanimous, non-procedural votes where councillor
+    // participated - "contested" here must mean the same thing
+    // generate-votes.ts's contestedMotions count means (`!procedural &&
+    // !unanimous`, see _all-motions.json generation), not just
+    // "!unanimous" on its own, or a procedural motion that happens to
+    // have one dissenting vote (e.g. an adjournment) would count as
+    // "contested" in data/stats but not in data/votes - issue #199 punch
+    // list item 2's divided-gate divergence. Filtering from
+    // substantiveVotes (already procedural-excluded, just above) gets
+    // this for free instead of re-deriving it.
     // Dissent = voted against final outcome (nay on passed OR yea on failed)
     // NOTE: "participated" means cast an actual yea/nay - a recusal or
     // abstention is not a position on the motion, so (like absences) it
     // must not count toward the contested-votes denominator. Using
     // isParticipatingVote() instead of `!== "absent"` keeps this correct
     // now that recuse/abstain/other are distinct from absent.
-    const contestedVotes = data.votes.filter(
+    const contestedVotes = substantiveVotes.filter(
       (v) => v.unanimous === false && isParticipatingVote(v.vote)
     )
     const dissentingVotes = contestedVotes.filter((v) => {

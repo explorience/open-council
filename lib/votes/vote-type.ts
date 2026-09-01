@@ -98,6 +98,51 @@ export function isMotionTextTruncated(motionText: string | undefined | null): bo
   return motionText.length === LEGACY_UNMARKED_TRUNCATION_LENGTH
 }
 
+/**
+ * Check if a motion is procedural (routine/administrative) vs substantive.
+ *
+ * `hasResolvableDissent` gates the whole check: a motion with a recorded,
+ * resolvable Nay voter is never procedural, no matter what its text
+ * matches. Compound substantive motions routinely contain a clause like
+ * "...be received" alongside real, contested content (68/51/71 genuinely
+ * divided motions were wrongly excluded this way in 2019/2020/2021 - see
+ * issue #199 d4); recorded dissent is decisive evidence the motion was
+ * substantive.
+ *
+ * SINGLE SOURCE OF TRUTH (issue #199 punch list item 2): scripts/generate-
+ * votes.ts and scripts/generate-stats.ts each carried their own copy of
+ * this function, textually identical but fed a DIFFERENT
+ * `hasResolvableDissent` argument at their respective call sites -
+ * generate-votes.ts passed the real signal (`nays.length > 0`, the
+ * aggregated RESOLVED nay voters for this exact motion), while
+ * generate-stats.ts passed a stand-in (`!v.unanimous`) that is also true
+ * for `unanimousSource: "unresolved"` records (dissent recorded but
+ * unattributable to any councillor - issue #199 d7) - a motion with only
+ * unresolved dissent is not the same as one with a confirmed, resolvable
+ * Nay. That divergence alone flipped the procedural classification on 10
+ * motions between data/votes and data/stats, generated from the SAME
+ * source in the SAME run. Import this one copy at every call site -
+ * see generate-stats.ts for how to pass `unanimousSource === "votes"` as
+ * the resolvable-dissent signal, matching generate-votes.ts's
+ * `nays.length > 0` exactly (both are "at least one resolvable Nay for
+ * this motion").
+ */
+export function isProcedural(motionText: string | undefined, hasResolvableDissent: boolean): boolean {
+  if (hasResolvableDissent) return false
+  if (!motionText) return false
+  const text = motionText.toLowerCase()
+  return (
+    /be received/i.test(text) ||
+    /be noted/i.test(text) ||
+    /minutes.*be approved/i.test(text) ||
+    /be adjourned/i.test(text) ||
+    /closed session/i.test(text) ||
+    /public participation meeting/i.test(text) ||
+    /first reading|second reading|third reading/i.test(text) ||
+    /consent items/i.test(text)
+  )
+}
+
 /** Human-readable label for a VoteType, used in chatbot-facing text. */
 export function voteTypeLabel(voteType: VoteType): string {
   switch (voteType) {
