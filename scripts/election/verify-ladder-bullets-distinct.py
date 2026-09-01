@@ -15,10 +15,27 @@ is guaranteed to differ whenever the motionIds differ (a distinct recorded
 vote has its own tally even when every other visible field matches).
 
 WHAT COUNTS AS A BOX: every "**N vote(s) excluded from the pattern
-above:**" block through to its first blank-line-terminated run of "- "
-bullet lines, in every content/election/councillors/*.md file. This is the
-actual rendered output, not stances.json re-parsed -- proving the markdown
-a reader sees, not just the generator's internal state.
+above:**" block through to the FULL run of "- " bullet lines that follows
+it, in every content/election/councillors/*.md file -- including bullets
+past a blank line. renderLadderExclusions (generate-hub-pages.ts) joins
+EACH decision group's own bullets with "\n", but joins one group to the
+next with a blank line ("\n\n") -- a box with more than one
+decisionGroupIndex therefore has one or more blank lines INSIDE it, not
+just the one blank line that opens it. This is the actual rendered output,
+not stances.json re-parsed -- proving the markdown a reader sees, not just
+the generator's internal state.
+
+FIXED 2026-08-31 (round-3 gate item 5): the previous BOX_RE's bullets group
+was `(?:^- .*(?:\n|$))+` -- a run of ONLY "- "-prefixed lines, with no
+alternative for a blank line. The moment a box's second (or later) decision
+group started past a blank line, that `+` run terminated at the FIRST
+blank line and left every bullet after it -- an entire second, third, ...
+decision group -- outside the match and unscanned. 405 of 829 bullets
+corpus-wide were never looked at by this script at all, silently. The
+bullets group now also accepts a bare blank line (`^\n`) as a member of the
+run, so it keeps consuming through every blank-line-separated decision
+group and only stops at a genuinely non-bullet, non-blank line (the
+"<details...>" tag that follows the last group).
 
 Usage: python3 scripts/election/verify-ladder-bullets-distinct.py
 """
@@ -30,7 +47,7 @@ FAIL = []
 
 BOX_RE = re.compile(
     r"\*\*\d+ votes? excluded from the pattern above:\*\*.*?\n\n"
-    r"(?P<bullets>(?:^- .*(?:\n|$))+)",
+    r"(?P<bullets>(?:^- .*(?:\n|$)|^\n)+)",
     re.MULTILINE,
 )
 
