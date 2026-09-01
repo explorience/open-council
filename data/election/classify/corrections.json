@@ -1470,5 +1470,13 @@
     "now": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next improvement cycle.",
     "reason": "Round-2 gate item 7: the motion's own operative text reads 'BE INCLUDED in the next improvement cycle' -- no 'capital' anywhere in it (see quote). 'capital improvement cycle' was an unsourced addition; dropped to match the motion verbatim.",
     "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+  },
+  {
+    "id": "b9c703769270",
+    "field": "whatAYeaDid",
+    "was": "Restarted the Wonderland Road environmental assessment with expanded study limits, to construct six new general-purpose through lanes with a long-term option to convert to Bus Rapid Transit.",
+    "now": "Added a clause directing Civic Administration to restart the Wonderland Road corridor Environmental Assessment (Southdale Road to Fanshawe Park Road) to build six general-purpose through lanes, with a long-term option to convert to Bus Rapid Transit, and to update the Mobility Master Plan maps accordingly.",
+    "reason": "Round-3 gate item 8: this is the 2025-03-25 Strategic Priorities and Policy COMMITTEE vote -- the motion's own operative text ADDS a new part e) directing a restart (see quote); it does not itself restart anything, and a committee recommendation isn't binding until Council ratifies it (which happened separately at f2540910623e, 2025-04-01 Council, whose whatAYeaDid already reads 'Directed Civic Administration to restart...'). 'Restarted the ... EA' overstated this motion's own effect -- the bare past-tense verb read as if the EA had already restarted by this vote alone. Reworded to describe the actual act: adding the directing clause, at committee stage (the '(committee stage)' suffix generate-hub-pages.ts's withStageQualifier appends still applies on top of this).",
+    "quote": "That with respect the Master Mobility Plan, the following part be added: e)  the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly"
   }
 ]
