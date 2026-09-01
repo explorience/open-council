@@ -390,12 +390,33 @@ function hasWhatAYeaDidLabel(label: string | null | undefined): boolean {
 const WHAT_A_YEA_DID_PLACEHOLDER =
   "Not classified — the direction wasn't clear from the motion text (listed for transparency)";
 
+/** Final gate item 1: the classify/correction layer authors every
+ * whatAYeaDid label as a fragment continuing an implicit "[Councillor] ..."
+ * subject ("endorsed ...", "added ...", "would have ..."), never as a
+ * standalone capitalized sentence — correct where that fragment gets a
+ * subject prepended at render time (e.g. renderLadderExclusions' bullets,
+ * "- Yea: endorsed ..."), wrong wherever it's the first thing in its own
+ * table cell instead. 187 "What a yea did" cells across 20 pages, tracing
+ * back to 13 distinct source labels, rendered lowercase-first as a result.
+ * Sentence-cased here, at the one render choke point every call site already
+ * goes through (see this function's own doc comment below), rather than
+ * touching the 13 source labels themselves — those stay grammatically
+ * correct continuations for the bullet usage. Applied before
+ * withStageQualifier appends its own " (committee stage)" suffix so the
+ * capitalized character is always the cell's actual first character, never
+ * buried after a qualifier; withStageQualifier only ever appends, so this
+ * ordering can't affect its own STAGE_SIGNAL_RE prefix check. A no-op on the
+ * placeholder text above, which is already capitalized. */
+function sentenceCase(s: string): string {
+  return s.length > 0 ? s.charAt(0).toUpperCase() + s.slice(1) : s;
+}
+
 function renderWhatAYeaDid(
   motion: { whatAYeaDid: string } | { direction: DirectionInfo },
   context: { meetingType: string },
 ): string {
   const raw = "direction" in motion ? motion.direction.label : motion.whatAYeaDid;
-  const label = hasWhatAYeaDidLabel(raw) ? raw : WHAT_A_YEA_DID_PLACEHOLDER;
+  const label = sentenceCase(hasWhatAYeaDidLabel(raw) ? raw : WHAT_A_YEA_DID_PLACEHOLDER);
   return tcell(withStageQualifier(label, context.meetingType));
 }
 

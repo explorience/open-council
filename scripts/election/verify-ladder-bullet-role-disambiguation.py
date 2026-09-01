@@ -65,6 +65,16 @@ def with_stage_qualifier(what_a_yea_did: str, meeting_type: str) -> str:
     return f"{what_a_yea_did} (committee stage)"
 
 
+# Final gate item 1: renderWhatAYeaDid (generate-hub-pages.ts) now
+# sentence-cases its label -- applied BEFORE withStageQualifier, same order
+# mirrored here -- so a "collision" test built from the raw (lowercase)
+# stances.json whatAYeaDid values would no longer match the actual rendered
+# page text this script greps for. Mirrors generate-hub-pages.ts's
+# sentenceCase exactly.
+def sentence_case(s: str) -> str:
+    return s[0].upper() + s[1:] if s else s
+
+
 def main():
     stances = json.load(open(STANCES_PATH, encoding="utf-8"))
 
@@ -91,7 +101,14 @@ def main():
 
                 for group in groups.values():
                     rendered = [
-                        (ex, tcell(with_stage_qualifier(ex["whatAYeaDid"], ex["meetingType"])))
+                        (
+                            ex,
+                            tcell(
+                                with_stage_qualifier(
+                                    sentence_case(ex["whatAYeaDid"]), ex["meetingType"]
+                                )
+                            ),
+                        )
                         for ex in group
                     ]
                     prefix_counts = Counter(text[:40] for _, text in rendered)
