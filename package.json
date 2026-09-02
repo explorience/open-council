@@ -13,7 +13,7 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "build": "tsx scripts/generate-pages.ts && npx quartz build",
+    "build": "tsx scripts/generate-pages.ts && tsx scripts/election/generate-hub-pages.ts && npx quartz build",
     "dev": "npx quartz build --serve",
     "start": "npx quartz build --serve --port 8080",
     "check": "tsc --noEmit && npx prettier . --check",
@@ -24,6 +24,7 @@
     "chat:server": "tsx server/index.ts",
     "chat:dev": "tsx --watch server/index.ts",
     "generate:pages": "tsx scripts/generate-pages.ts",
+    "generate:election-hub": "tsx scripts/election/generate-hub-pages.ts",
     "transcripts:sync": "cd scraping && python transcript.py",
     "transcripts:add-to-pages": "tsx scripts/add-transcripts-to-pages.ts",
     "transcripts:full": "npm run transcripts:sync && npm run transcripts:add-to-pages"

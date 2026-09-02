@@ -1,0 +1,644 @@
+[
+ {
+  "id": "6d5781ab215f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the question of dissolving the Urban Design Peer Review Panel to a future Planning and Environment Committee meeting instead of deciding it that day.",
+  "confidence": "high",
+  "quote": "That the matter of the dissolution of the Urban Design Peer Review Panel BE REFERRED to a future meeting of the Planning and Environment Committee.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-17 Council item 8.5.8 full text. Quote is verbatim (C. Rahman's referral motion, Failed 6-8). Correctly issue=none: UDPRP is an advisory design-review panel, not a tracked-issue rezoning/density/funding decision, and it's a pure referral either way."
+ },
+ {
+  "id": "9014e0698a78",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion to add a directive that Civic Administration bring the Community Advisory Committee on Planning's Terms of Reference to a future Strategic Priorities and Policy Committee meeting for consideration of adding urban design to its mandate.",
+  "confidence": "high",
+  "quote": "that Civic Administration BE DIRECTED to bring the Terms of Reference for the Community Advisory Committee on Planning (CACP) to a future Strategic Priorities and Policy Committee meeting for consideration of the inclusion of urban design.",
+  "flags": [
+   "informational_ask",
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-17 Council item 8.5.8. Quote verbatim (H. McAlister's amendment, Passed 11-3). Correctly none/null: directs a future SPPC referral on a committee's Terms of Reference, informational/governance, not a tracked issue."
+ },
+ {
+  "id": "454de550adf5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion to add a directive that Civic Administration provide an information report on the Urban Design Awards and other matters relevant to the panel's dissolution.",
+  "confidence": "high",
+  "quote": "that Civic Administration BE DIRECTED to provide an information report that addresses the matter of the Urban Design Awards and any other matters relevant to the dissolution of the Urban Design Peer Review Panel.",
+  "flags": [
+   "informational_ask",
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-17 Council item 8.5.8. Quote verbatim (C. Rahman's amendment, Passed 13-1). Correctly none/null: directs an information report, no substantive decision."
+ },
+ {
+  "id": "46abc0036756",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved directing Civic Administration to take the steps necessary to immediately dissolve the Urban Design Peer Review Panel.",
+  "confidence": "high",
+  "quote": "that Civic Administration BE DIRECTED to take the necessary steps to provide for the immediate dissolution of the Urban Design Peer Review Panel",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-17 Council item 8.5.8. Quote verbatim ('Motion to approve part a), as amended', Passed 10-4). Correctly none: dissolves an advisory design panel, not a housing/zoning decision."
+ },
+ {
+  "id": "032ec9230ce5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved directing Civic Administration to bring the Community Advisory Committee on Planning's Terms of Reference back to a future Strategic Priorities and Policy Committee meeting for consideration of adding urban design to its mandate.",
+  "confidence": "high",
+  "quote": "that Civic Administration BE DIRECTED to bring the Terms of Reference for the Community Advisory Committee on Planning (CACP) back to a future Strategic Priorities and Policy Committee meeting for consideration of the inclusion of urban design",
+  "flags": [
+   "informational_ask",
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-17 Council item 8.5.8. Quote verbatim ('Motion to approve part b), as amended', Passed 11-3). Correctly none/null: CACP Terms of Reference referral, governance not substance."
+ },
+ {
+  "id": "311b57b70796",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved directing Civic Administration to provide an information report on the Urban Design Awards and other matters relevant to the panel's dissolution.",
+  "confidence": "high",
+  "quote": "that Civic Administration BE DIRECTED to provide an information report that addresses the matter of the Urban Design Awards and any other matters relevant to the dissolution of the Urban Design Peer Review Panel.",
+  "flags": [
+   "informational_ask",
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-17 Council item 8.5.8. Quote verbatim ('Motion to APPROVE, as amended part c)', Passed 13-1). Correctly none/null: directs an information report."
+ },
+ {
+  "id": "9150abe5a408",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to study and report on the feasibility, purpose, and costs of a mandatory municipal lobbyist registry, including a public tracking portal and a registrar role.",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE DIRECTED to conduct a review and present a report on the feasibility, purpose, and associated expenses of implementing a mandatory municipal lobbyist registry.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-10 SPPC item 4.3. Quote verbatim (original motion as recorded after failing, 5-9). Correctly none (lobbyist regulation isn't a tracked issue) and would be null regardless (a study/report-back ask, no operative decision)."
+ },
+ {
+  "id": "8ab96e158b0c",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "expansive",
+  "whatAYeaDid": "Amended the motion to add council's advisory support for a provincial motion to establish and fund Homes Ontario to build 250,000 new affordable and non-market homes, and to refer the matter to AMO for consideration.",
+  "confidence": "medium",
+  "quote": "the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: \"That, in the opinion of this House, the Government of Ontario should establish and fund a new public agency called Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers\"",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-10 SPPC item 4.4 full text. Quote is a verbatim substring of S. Trosow's amendment motion (Passed 7-6) adding parts b) and c) \u2014 supports Ontario funding 250,000 affordable/non-market homes AND refers the matter to AMO. Housing/affordable-funding/expansive is correct: this is a genuine advocacy resolution supporting provincial affordable-housing funding, no denial verb, no business-case exclusion."
+ },
+ {
+  "id": "afa632a6cb38",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved advising the Government of Ontario that London City Council supports a provincial motion to establish and fund Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years.",
+  "confidence": "high",
+  "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: ... to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-10 SPPC item 4.4. This is the standalone 'Part b), as amended, BE APPROVED' vote (Passed 7-6) \u2014 distinct real motion from c0e0eab57589's amendment vote (same vote count, different content: this one is Part b alone, without the AMO referral). Quote (with disclosed ellipsis) matches Part b's substance verbatim. Correctly expansive."
+ },
+ {
+  "id": "a52df3668cd4",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved referring the Homes Ontario correspondence to the Association of Municipalities of Ontario for consideration.",
+  "confidence": "high",
+  "quote": "that this matter also BE REFERRED to the Association of Municipalities of Ontario (AMO) for consideration.",
+  "flags": [
+   "referral",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-10 SPPC item 4.4, 'Part c), as amended, BE APPROVED' (Passed 8-5). Quote verbatim. Correctly null: a referral to AMO decides nothing about the underlying funding ask."
+ },
+ {
+  "id": "d9a602abd77d",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Health and Homelessness Whole of Community System Response hubs implementation award decision back to the Strategic Priorities and Policy Committee to consider additional supporting information.",
+  "confidence": "high",
+  "quote": "That the matter of the Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results BE REFERRED back to the Strategic Priorities and Policy Committee meeting to be held on November 21, 2023, in order to consider additional supporting information (including projection data).",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3. Quote verbatim (S. Stevenson's referral motion, Failed 4-10). Correctly null: a referral, decided nothing, regardless of outcome."
+ },
+ {
+  "id": "23fc374f5e0e",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved awarding a homelessness-response hub contract to Atlohsa Family Healing Services, funded through the Provincial Homeless Prevention Program and the Fund for Change.",
+  "confidence": "high",
+  "quote": "a portion of the Request for Proposal 2023-199 BE AWARDED to Atlohsa Family Healing Services Inc. to provide a Hub for an initial two-year commitment at a total estimated operating cost of $2,118,146 per year and a one-time capital commitment at a total estimated cost of $1,303,750",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3, 'part a) of the recommendation BE APPROVED' (Passed 11-3). Quote is a verbatim substring of the Atlohsa award clause. Correctly expansive: this is the actual $2.1M/yr + $1.3M capital contract award, no denial language, no business-case exclusion."
+ },
+ {
+  "id": "a8ea53507571",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved awarding a homelessness-response hub contract to Youth Opportunities Unlimited, funded through the Provincial Homeless Prevention Program and the Fund for Change.",
+  "confidence": "high",
+  "quote": "a portion of the Request for Proposal 2023-199 BE AWARDED to Youth Opportunities Unlimited to provide a Hub for an initial two-year commitment at a total estimated operating cost of $1,317,500 for year 1 and $1,983,800 for year 2 and a one-time capital commitment at a total estimated cost of $3,123,550",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3, 'part b) ... BE APPROVED' (Passed 10-4), YOU hub award. Quote verbatim substring. Correctly expansive."
+ },
+ {
+  "id": "079b1303a18c",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved awarding a homelessness-response hub contract to Canadian Mental Health Association Thames Valley Addiction and Mental Health Services, funded through the Provincial Homeless Prevention Program and the Fund for Change.",
+  "confidence": "high",
+  "quote": "a portion of the Request for Proposal 2023-199 BE AWARDED to Canadian Mental Health Association Thames Valley Addiction and Mental Health Services to provide a hub for an initial two-year commitment at a total estimated operating cost of $4,056,416 per year and a one-time capital commitment at a total estimated cost of $538,300",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3, 'part c) ... BE APPROVED' (Passed 9-5), CMHA hub award. Quote verbatim substring. Correctly expansive."
+ },
+ {
+  "id": "5581a23af577",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a one-time contingency funding allocation of up to $1,500,000 from the Social Services Reserve Fund to cover any ineligible costs while finalizing the homelessness hubs' purchase-of-service contracts.",
+  "confidence": "medium",
+  "quote": "a one-time funding allocation of up to $1,500,000 from the Social Services Reserve Fund BE APPROVED, if required, should ineligible costs under existing provincial funding sources be identified while finalizing the agency purchase of service contracts and budgets",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3, 'part d) ... BE APPROVED' (Passed 11-3), $1.5M contingency funding. Quote verbatim. Correctly expansive: this is real contingency funding tied to finalizing the just-awarded contracts, not a mere formality \u2014 has its own dollar figure and independent APPROVED verb."
+ },
+ {
+  "id": "c8c10caa479f",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Authorized Civic Administration to carry out the administrative work needed to implement the already-awarded hubs, including site reviews and Planning Act application support.",
+  "confidence": "medium",
+  "quote": "that Civic Administration BE AUTHORIZED to undertake all administrative acts, including review of sites and support for Planning Act applications to align current or future hub sites with criteria, and any activities associated with additionally requested funding necessary in relation to this project",
+  "flags": [
+   "procedural",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3, part e) (Passed 9-5), admin authorization for site reviews/Planning Act support. Quote verbatim. Agree with classifier's second-pass call: this rides on the already-decided a/b/c awards and doesn't independently state a funding/scale figure of its own \u2014 correctly left null rather than forced onto response-scale."
+ },
+ {
+  "id": "0bc752e26f44",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved making the already-awarded hub funding conditional on the City entering into a purchase-of-service agreement with Youth Opportunities Unlimited.",
+  "confidence": "medium",
+  "quote": "the approval given herein BE CONDITIONAL upon the Corporation entering into a Purchase of Service Agreement with i. Youth Opportunities Unlimited",
+  "flags": [
+   "procedural",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3, part f)i) (Passed 13-1), PSA-conditionality formality for YOU. Quote verbatim. Correctly null: pure contract-formalization mechanics on an already-decided award (near-unanimous vote, 13-1, consistent with a formality rather than a substantive re-litigation)."
+ },
+ {
+  "id": "2a0187a5fcb1",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved making the already-awarded hub funding conditional on the City entering into a purchase-of-service agreement with Atlohsa Family Healing Services Inc.",
+  "confidence": "medium",
+  "quote": "ii. Atlohsa Family Healing Services Inc",
+  "flags": [
+   "procedural",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3, part f)ii) (Passed 13-1), PSA-conditionality formality for Atlohsa. Quote verbatim ('ii. Atlohsa Family Healing Services Inc'). Correctly null, same reasoning as f)i)."
+ },
+ {
+  "id": "9b182301e0e6",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved making the already-awarded hub funding conditional on the City entering into a purchase-of-service agreement with Canadian Mental Health Association Thames Valley Addiction and Mental Health Services.",
+  "confidence": "medium",
+  "quote": "iii. Canadian Mental Health Association Thames Valley Addiction and Mental Health Services",
+  "flags": [
+   "procedural",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3, part f)iii) (Passed 12-2), PSA-conditionality formality for CMHA. Quote verbatim. Correctly null."
+ },
+ {
+  "id": "19fc49d73604",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to keep working with the community on the hubs implementation to identify additional space for possible future procurement.",
+  "confidence": "medium",
+  "quote": "that Civic Administration BE DIRECTED to continue to work with the community on the hubs implementation to establish additional opportunities for future procurement of additional spaces",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3, part g) (Passed 11-3), 'continue to work with the community... future opportunities'. Quote verbatim. Correctly null: forward-looking, non-committal language, not a funding decision."
+ },
+ {
+  "id": "d882976eceb9",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved making the already-decided annual hub funding subject to the availability of funding through the City or other sources.",
+  "confidence": "high",
+  "quote": "the annual funding approval, noted in a), b) and c) above, is SUBJECT TO the availability of funding through the City of London, and/or other funding sources",
+  "flags": [
+   "procedural",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3, part h) (Passed 13-1), 'subject to the availability of funding' boilerplate. Quote verbatim. Correctly null: a standard funding-availability caveat, not an independent decision (13-1, near-unanimous, consistent with formality)."
+ },
+ {
+  "id": "3dc87e1cadff",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing the bylaw authorizing execution of purchase-of-service agreements with the three hub providers, finalizing a total operating and capital investment of up to $20,616,024 for the homelessness hubs program.",
+  "confidence": "high",
+  "quote": "the attached proposed bylaw (Schedule 2) BE INTRODUCED at the Municipal Council meeting to be held on October 5, 2023 to: i. authorize the Deputy City Manager, Social and Health Development, or written designate, to approve the Municipal Purchase of Service Agreement between The Corporation of the City of London and each hub provider for the purchase of services to provide and operate three hubs ... for a total operating and capital investment of up to $20,616,024",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-05 Special Council item 8.1.3, part i) (Passed 11-3), bylaw introduction to execute the PSAs. Quote is a disclosed-ellipsis splice of the bylaw-introduction clause and the 'it being noted... for a total operating and capital investment of up to $20,616,024' clause within the same operative text. Distinguishing check: unlike the e)/f)/h) formalities (which passed 9-5/13-1/13-1/12-2 with different, more consensus-y nay patterns), part i) drew the IDENTICAL 11-3 nay set (Van Meerbergen, Cuddy, Stevenson) as part a)'s original award vote \u2014 real evidence this was treated as a substantive decision on whether to actually execute the ~$20.6M in contracts, not a rubber-stamp formality. Correctly expansive."
+ },
+ {
+  "id": "6fbefa55c243",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the communication about the Urban Design Peer Review Panel to the October 17, 2023 Council meeting for a decision.",
+  "confidence": "high",
+  "quote": "That the communication from Deputy Mayor S. Lewis and Councillor S. Lehman with respect to the Urban Design Peer Review Panel BE REFERRED to the October 17, 2023 Council meeting for a decision",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-03 Planning and Environment Committee item 4.1 (Passed 3-1). Quote verbatim. Correctly none/null: referral to Oct 17 Council."
+ },
+ {
+  "id": "7cd53063b2f0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred both the Urban Design Peer Review Panel communication and the Deferred Matters List to the October 23, 2023 Planning and Environment Committee meeting for a decision.",
+  "confidence": "high",
+  "quote": "That the communication related to the Urban Design Peer Review Panel (4.1) and the Deferred Matters List dated September 28, 2023 (5.1) BE REFERRED to the October 23, 2023 Planning and Environment Committee meeting for a decision.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-03 PEC item 4.1, second motion (Failed 2-2, Yeas: Morgan/Franke, Nays: Lewis/Lehman). Quote verbatim. Correctly none/null (referral)."
+ },
+ {
+  "id": "0915bb420d56",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Deferred Matters List to the October 17, 2023 Council meeting for a decision.",
+  "confidence": "high",
+  "quote": "That the Deferred Matters List dated September 26, 2023 BE REFERRED to the October 17, 2023 Council meeting for a decision.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-03 PEC item 5.1 (Passed 3-1). Quote verbatim. Correctly none/null: Deferred Matters List referral, no substance."
+ },
+ {
+  "id": "95ba36df27f0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred both the Urban Design Peer Review Panel communication and the Deferred Matters List to the October 23, 2023 Planning and Environment Committee meeting for a decision.",
+  "confidence": "high",
+  "quote": "That the communication related to the Urban Design Peer Review Panel (4.1) and the Deferred Matters List dated September 28, 2023 (5.1) BE REFERRED to the October 23, 2023 Planning and Environment Committee meeting for a decision.",
+  "flags": [
+   "referral",
+   "not_divided"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-03 PEC item 5.1, second motion (Failed 2-2). Confirmed the not_divided flag is accurate: this motion's text and vote (Yeas: Morgan/Franke; Nays: Lewis/Lehman) are byte-for-byte identical to 7cd53063b2f0's, recorded under two item numbers (4.1 and 5.1) for what is genuinely one motion moved once covering both items. Correctly null; flag correctly prevents downstream double-counting."
+ },
+ {
+  "id": "5a06a03c216e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the confidential legal matter regarding the 689 Oxford Street West Ontario Land Tribunal appeal to the October 17, 2023 Council meeting for a decision.",
+  "confidence": "high",
+  "quote": "That the item relating to 689 Oxford Street West BE REFERRED to the October 17, 2023 Council meeting for a decision.",
+  "flags": [
+   "referral",
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-03 PEC item 6.1 (Passed 3-1). Full text confirms this is purely a procedural referral of a confidential solicitor-client-privileged OLT litigation matter to Oct 17 Council \u2014 no substantive position on the underlying 689 Oxford St W application is disclosed in this motion's text. Correctly issue=none/null; nothing here supports a housing classification even though the underlying appeal likely concerns a rezoning matter, because the operative text reveals no position."
+ },
+ {
+  "id": "f7266655df1b",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Amended the motion to broaden where the endorsed safety and security programs (additional Coordinated Informed Response programming and street cleaning, within existing Housing Stability Services budgets) apply, from the Old East Village area to all hotspot service request areas.",
+  "confidence": "medium",
+  "quote": "the additional programs identified to support safety and security in hotspot service request areas, including additional Coordinated Informed Response programming and street cleaning to be accommodated within existing Housing Stability Services budgets BE ENDORSED",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-26 Council item 8.2.5 full text, H. McAlister's amendment broadening part c) from 'Old East Village area' to 'hotspot service request areas' (Passed 8-7). Quote verbatim. Correctly encampments/response-scale/expansive: a genuine geographic broadening of the endorsed safety/security response, even though funded within existing budgets rather than new money."
+ },
+ {
+  "id": "d7371ed70b5a",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a one-time funding allocation of up to $174,210 for London Cares Homeless Response Services to support security services at two locations, plus endorsed additional safety programming within existing budgets.",
+  "confidence": "high",
+  "quote": "a one-time funding allocation of up to $174,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations BE AUTHORIZED AND APPROVED",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-26 Council item 8.2.5 full text, 'Item 5 (4.1), as amended, BE APPROVED' (Passed 14-1). Quote is a verbatim substring of part b) of the original motion (unamended, since only part c) was amended, and part b)'s text survives unchanged into the final vote via the wrapper). Correctly expansive: $174,210 funding for London Cares security services, no denial language."
+ },
+ {
+  "id": "340b7f873da6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Tim Watson and Tracy Gustafson to the London Hydro Board of Directors.",
+  "confidence": "high",
+  "quote": "Tim Watson and Tracy Gustafson BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held in 2025 for the financial year ending December 31, 2024",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-26 Council item 8.4.10 (Passed 12-3). Quote verbatim. Correctly none/null under the appointment GLOBAL_EXCLUDE rule: a personnel appointment to a utility board is not a substantive policy position."
+ },
+ {
+  "id": "d66f5cc7f172",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the London Hydro Board appointment decision back to the Strategic Priorities and Policy Committee for further consideration.",
+  "confidence": "high",
+  "quote": "That Item 10 (5.1), Consideration of Appointments to the London Hydro Board of Directors, BE REFERRED back to the Strategic Priorities and Policy Committee for consideration.",
+  "flags": [
+   "referral",
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-26 Council item 8.4.10, S. Stevenson's referral motion (Failed 4-11). Quote verbatim. Correctly none/null (referral + appointment)."
+ },
+ {
+  "id": "ac9799951604",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Closed debate by calling the question on the pending referral motion regarding the London Hydro Board appointments.",
+  "confidence": "high",
+  "quote": "That the question now be put - with respect to the referral motion on the floor.",
+  "flags": [
+   "procedural",
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-26 Council item 8.4.10, 'question now be put' (Passed 11-4). Quote verbatim. Correctly none/null: procedural closure of debate."
+ },
+ {
+  "id": "24dad408a093",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Upheld the Chair's ruling that Councillor S. Stevenson could not further speak to the London Hydro Board appointments matter.",
+  "confidence": "high",
+  "quote": "With respect to the Chair's decision that Councillor S. Stevenson cannot further speak to this mater, shall the ruling of the Chair BE SUSTAINED?",
+  "flags": [
+   "procedural",
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-26 Council item 8.4.10, chair-ruling sustain vote (Passed 11-4). Quote verbatim. Correctly none/null: procedural ruling on a councillor's speaking rights."
+ },
+ {
+  "id": "38d5a7d7d857",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved rezoning 1515 Trossacks Avenue from Residential R9 to Residential R9 Special Provision, enabling infill development the motion states provides choice and diversity in housing options.",
+  "confidence": "high",
+  "quote": "the recommended amendment facilitates the development of an underutilized site within the Built Area Boundary and Primary Transit Area with an appropriate form of infill development that provides choice and diversity in housing options",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-26 Council item 8.5.8 full text. Quote verbatim (main motion, Passed 14-1) \u2014 rezones 1515 Trossacks Ave from R9 to R9 Special Provision, explicit reasons clause cites 'infill development that provides choice and diversity in housing options'. Correctly housing/application-approval/expansive: a real rezoning approval, no denial language."
+ },
+ {
+  "id": "3fdd608ce400",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have added a request to the Site Plan Approval Authority to consider increased underground parking capacity as part of the 1515 Trossacks Avenue development.",
+  "confidence": "medium",
+  "quote": "increased capacity in the undergound parking",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-26 Council item 8.5.8, A. Hopkins's parking-capacity amendment (Failed 7-8). Quote verbatim. Correctly housing/null: 'increased underground parking capacity' doesn't map to density/use-permission/affordable-funding, and forcing it onto one of those axes would misstate what the vote was about."
+ },
+ {
+  "id": "9a9106abbfb3",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the site-plan design conditions for the 3234-3274 Wonderland Road South rezoning (landscaping, pedestrian network, glazing, tree planting, stormwater/low-impact-development features, and an updated transportation impact study).",
+  "confidence": "medium",
+  "quote": "the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process: i) ensure all landscaping fronting Wonderland Road South is designed and installed to create a strong built edge with a minimum depth of between 4.0 - 6.0 metres south of the proposed Wonderland Road South access",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-26 Council item 8.6.6 full text, S. Franke's site-plan-conditions amendment (Passed 13-2). Quote verbatim substring. Correctly housing/null: this amendment only revises landscaping/pedestrian-network/glazing/stormwater/TIS design conditions \u2014 no density, use-permission, or funding content; the actual rezoning approval ('item 6, as amended, BE APPROVED', 15-0 unanimous) is a separate, non-divided motion not in this batch."
+ },
+ {
+  "id": "b9f74a12e280",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion to add a request to the Site Plan Approval Authority to consider an increase to on-site parking at the 1364-1408 Hyde Park Road development.",
+  "confidence": "medium",
+  "quote": "an increase to parking on-site in the development",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-26 Council item 8.6.7, C. Rahman's parking amendment (Passed 8-7). Quote verbatim. Correctly housing/null, same reasoning as 3fdd608ce400: parking capacity isn't a tracked housing axis."
+ },
+ {
+  "id": "3492773f6fbc",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Official Plan and Zoning By-law amendments rezoning 1364-1408 Hyde Park Road from Urban Reserve to Special Provision R9 Residential and Open Space zones, enabling new residential development on the site.",
+  "confidence": "high",
+  "quote": "to change the zoning of the subject property FROM an Urban Reserve (UR3) Zone TO a Special Provision R9 Residential (R9-7(_)) and Open Space (OS1 and OS5) Zones",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-26 Council item 8.6.7 full text, 'Item 7 (clause 3.6), as amended, BE APPROVED' (Passed 13-2). Quote is a verbatim substring of part b) (the OP/zoning amendment clause, unaffected by the parking amendment). Correctly housing/application-approval/expansive: rezones Urban Reserve to Residential + Open Space, enabling development."
+ },
+ {
+  "id": "639a7d9250f5",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved awarding RFP 2023-199 hub contracts to Atlohsa, Youth Opportunities Unlimited, and CMHA Thames Valley, for a total operating and capital investment of up to $20,616,024, funded through the Provincial Homeless Prevention Program, the Fund for Change, and other sources.",
+  "confidence": "high",
+  "quote": "the Request for Proposal 2023-199 BE AWARDED to each of the following organizations to provide Hubs for an initial two-year commitment at a total estimated operating cost of $15,650,424 ... for a total operating and capital investment of up to $20,616,024",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-25 Special SPPC item 4.2 full text. Quote is a verbatim-with-disclosed-ellipsis substring of the main motion (Passed 9-6) \u2014 awards all three hub contracts (Atlohsa/YOU/CMHA) as a single combined SPPC-stage recommendation, total $20,616,024. Correctly expansive; this is the committee-stage precursor to the split a/b/c council votes ten days later, a distinct and legitimate decision point in its own right."
+ },
+ {
+  "id": "dafda519c95e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Upheld the Chair's ruling that a referral motion on the homelessness hubs implementation item was in order to be moved.",
+  "confidence": "high",
+  "quote": "With respect to the Chair's ruling that a Referral of this matter is in order, shall the ruling of the Chair BE SUSTAINED?",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-25 Special SPPC item 4.2, chair-ruling sustain vote (Passed 8-7). Quote verbatim. Correctly none/null: procedural ruling on whether a referral motion was in order to move, not a decision on the hubs themselves."
+ },
+ {
+  "id": "a7f9e47a54f5",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the homelessness hubs implementation award decision to the October 31, 2023 Strategic Priorities and Policy Committee meeting instead of deciding it that day.",
+  "confidence": "high",
+  "quote": "That consideration of Item 4.2, Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results, BE REFERRED to the October 31st meeting of the Strategic Priorities and Policy Committee.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-25 Special SPPC item 4.2, C. Rahman's referral motion (Failed 6-9). Quote verbatim. Correctly encampments/null: a referral, decides nothing regardless of outcome."
+ },
+ {
+  "id": "90bee6de59b8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recommended appointing Tim Watson and Tracy Gustafson to the London Hydro Board of Directors.",
+  "confidence": "high",
+  "quote": "Tim Watson and Tracy Gustafson BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held in 2025 for the financial year ending December 31, 2024",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-19 SPPC item 5.1 (Passed 13-2). Quote verbatim. Correctly none/null under appointment exclusion."
+ },
+ {
+  "id": "3de2f6088c1f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have appointed Tim Watson and Cedric Gomes to the London Hydro Board of Directors instead.",
+  "confidence": "high",
+  "quote": "Tim Watson and Cedric Gomes BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held in 2025",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-19 SPPC item 5.1, S. Trosow's alternate-candidate motion naming Watson+Gomes (Failed 4-11). Quote verbatim. Correctly none/null (appointment) \u2014 confirmed this is a genuinely distinct vote from 6af4354e1891 (different Yeas set: Pribil vs. Ferreira), not a duplicate."
+ },
+ {
+  "id": "6af4354e1891",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the London Hydro Board appointment decision to a future Strategic Priorities and Policy Committee meeting to interview the seven candidates.",
+  "confidence": "high",
+  "quote": "That the appointments to the London Hydro Board of Directors BE REFERRED to a future meeting of Strategic Priorities and Policy Committee to conduct interviews for the seven candidates as noted on the agenda.",
+  "flags": [
+   "referral",
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-19 SPPC item 5.1, S. Trosow's referral-to-interview motion (Failed 4-11). Quote verbatim. Correctly none/null (referral + appointment)."
+ },
+ {
+  "id": "11ce5ff13b30",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved directing Civic Administration to bring forward amended Ward Boundary Review Terms of Reference for adoption, and to run a competitive procurement process to retain an independent consultant for the ward boundary review.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to bring forward the amended Terms of Reference, with the inclusion of a target to strive for no greater than 15% population variance and consideration of ward naming conventions, for adoption at the October 17, 2023 Council meeting; iii) the Civic Administration BE DIRECTED to undertake a competitive procurement process to retain an independent third-party consultant to initiate Option 1",
+  "flags": [
+   "informational_ask",
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-09-19 SPPC item 5.3 full text, 'Motion TO APPROVE Governance Working Group recommendation parts a ii) and iii)' (Passed 11-3). Quote is a verbatim substring of parts a)ii) and a)iii). Correctly none/null: Ward Boundary Review Terms of Reference and consultant procurement is a council-governance/districting matter, not one of the 8 tracked issues."
+ }
+]

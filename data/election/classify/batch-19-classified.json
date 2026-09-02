@@ -1,0 +1,472 @@
+[
+ {
+  "id": "8251f112a558",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Granted a councillor five additional minutes to speak on the Business Case #P-51 budget amendment.",
+  "confidence": "high",
+  "quote": "BE PERMITTED to speak an additional 5 minutes with respect to this matter.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "8c93827f87c3",
+  "issue": "policing",
+  "axis": "budget-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Added $300,000/year in funding for winter maintenance (sweeping and plowing) of boulevard bike lanes, funded entirely by an equal, offsetting reduction to the London Police Service operating budget (net zero tax levy impact).",
+  "confidence": "medium",
+  "quote": "offset by an equal reduction to the London Police Services operating budget",
+  "flags": []
+ },
+ {
+  "id": "cdc1ceab9315",
+  "issue": "climate",
+  "axis": "natural-heritage",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved funding for 50% of Business Case #P-62 (Environmentally Significant Areas Management).",
+  "confidence": "medium",
+  "quote": "BE AMENDED to fund 50% of Business Case #P-62 \u2013 Environmentally Significant Areas Management",
+  "flags": []
+ },
+ {
+  "id": "46d4de9c4071",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed budgeted funding for two additional Administrative Assistant positions under the Legislative and Council Services business case (P-65).",
+  "confidence": "high",
+  "quote": "BE AMENDED by removing funding for the two additional Administrative Assistant positions related to Business Case #P-65",
+  "flags": []
+ },
+ {
+  "id": "604e3b7c6552",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Capital Project PD1218 (Downtown Plan Small Scale Projects) funding from the multi-year budget.",
+  "confidence": "medium",
+  "quote": "BE AMENDED to remove Capital Project PD1218 London\u2019s Downtown Plan \u2013 Small Scale Projects",
+  "flags": []
+ },
+ {
+  "id": "cb27cd682442",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Capital Project PD1218 (Downtown Plan Small Scale Projects) funding from the multi-year budget (re-vote of the same amendment).",
+  "confidence": "medium",
+  "quote": "BE AMENDED to remove Capital Project PD1218 London\u2019s Downtown Plan \u2013 Small Scale Projects",
+  "flags": []
+ },
+ {
+  "id": "e075baf71ae2",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Capital Project RC1036 (Dundas Place Equipment) funding from the multi-year budget.",
+  "confidence": "medium",
+  "quote": "BE AMENDED to remove Capital Project RC1036 Dundas Place Equipment",
+  "flags": []
+ },
+ {
+  "id": "ab1f56cc2b97",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved (as amended) single-source Housing Stability Services procurement contracts and associated reserve-fund drawdown, and authorized continued engagement with the Encampment Reference Table on an inclement-weather response plan.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE AUTHORIZED to continue to engage with the Encampment Reference Table in the design of an inclement weather plan that will be brought back for council endorsement",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "e408ead1fc53",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Community Advisory Committee on Planning's proposed Terms of Reference back to that committee for further consultation.",
+  "confidence": "high",
+  "quote": "BE REFERRED to the Community Advisory Committee on Planning for consultation on the amended Terms of Reference",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "7d8562fee87c",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Business Case #P-37 (CMHA Holly's House) funding from the multi-year budget entirely.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case #P-37 \u2013 CMHA Holly\u2019s House.",
+  "flags": []
+ },
+ {
+  "id": "280c741c7a8e",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added a 15% administration fee ($15,000/year) to Business Case #P-38 (Community Arts Investment Program Expansion) funding.",
+  "confidence": "high",
+  "quote": "BE AMENDED to include administration fees (15%) to Business Case #P-38",
+  "flags": []
+ },
+ {
+  "id": "1d40dd7cc4c1",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Business Case #P-38 (City of London Community Arts Investment Program Expansion) funding from the multi-year budget entirely.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case #P-38 \u2013 City of London Community Arts Investment Program Expansion",
+  "flags": []
+ },
+ {
+  "id": "6f3c002f427d",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Funded 50% of Initiative 10 under Business Case #P-42 (5-Year Community Improvement Plan Review Implementation), starting in 2026.",
+  "confidence": "high",
+  "quote": "BE AMENDED to fund 50% of Initiative 10 in Business Case #P-42 \u2013 5-Year Community Improvement Plan (CIP) Review Implementation",
+  "flags": []
+ },
+ {
+  "id": "e87fc2129ba9",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Business Case #P-27 (Neighbourhood Decision Making Program Expansion) funding from the multi-year budget.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case #P-27 \u2013 Neighbourhood Decision Making Program Expansion.",
+  "flags": []
+ },
+ {
+  "id": "f6aa1bc834a4",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Business Case #P-34 (City Hall Main Lobby Security Guard) funding from the multi-year budget.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case #P-34 \u2013 City Hall Main Lobby Security Guard.",
+  "flags": []
+ },
+ {
+  "id": "b4082101a336",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $100,000/year in funding for Business Case #P-39 (The Grand Theatre \u2013 Increasing Community Access to & Participation in the Arts).",
+  "confidence": "high",
+  "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 \u2013 The Grand Theatre",
+  "flags": []
+ },
+ {
+  "id": "a61e9b88ab0b",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $100,000/year in funding for Business Case #P-39 (The Grand Theatre \u2013 Increasing Community Access to & Participation in the Arts) (re-vote of the same amendment).",
+  "confidence": "high",
+  "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 \u2013 The Grand Theatre",
+  "flags": []
+ },
+ {
+  "id": "2705bd8983d4",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added one-time $65,000 funding for 2024 for Business Case #P-48 (Canadian Mental Health Transitional Case Worker at the London Public Library), drawn from the Community Investment Reserve Fund.",
+  "confidence": "high",
+  "quote": "BE AMENDED to include Business Case #P-48 \u2013 Canadian Mental Health Transitional Case Worker \u2013 London Public Library",
+  "flags": []
+ },
+ {
+  "id": "643807483f90",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Business Case #P-63 (Silver Creek Ecological Enhancements) funding, delaying implementation and the $200,000 annual funding until 2026.",
+  "confidence": "medium",
+  "quote": "BE AMENDED to include Business Case #P-63 \u2013 Silver Creek Ecological Enhancements",
+  "flags": []
+ },
+ {
+  "id": "13f0189fb7d2",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Reduced Business Case #P-2 (Vehicle and Equipment Replacement) annual costs by spreading reserve fund repayments over 6 years instead of 5.",
+  "confidence": "high",
+  "quote": "BE AMENDED by reducing Business Case #P-2 \u2013 Vehicle and Equipment Replacement to spread the reserve fund repayments over 6 years instead of 5 years",
+  "flags": []
+ },
+ {
+  "id": "9ae4b2d5a23c",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
+  "confidence": "low",
+  "quote": "reducing the contribution to the new Climate Change Investment Fund by $750,000 in 2024 and increasing the contribution by $250,000 per year in 2025, 2026 and 2027",
+  "flags": []
+ },
+ {
+  "id": "6712ca3fffe0",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Reversed a proposed reduction to Museum London's budget increase, restoring funding to the 6.3% base budget program level instead of the reduced 5.4% average increase.",
+  "confidence": "medium",
+  "quote": "BE AMENDED to remove Adj. #4 \u2013 Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget)",
+  "flags": []
+ },
+ {
+  "id": "543587b00733",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Reduced the Industrial Lands Reserve Fund contribution by $1 million for 2024 only, lowering the 2024 property tax levy by about 0.1%.",
+  "confidence": "high",
+  "quote": "BE AMENDED to reduce the current Industrial Lands Reserve Fund contribution by $1 million for 2024 only, noting it would have a 0.1% reduction on the 2024 property tax levy",
+  "flags": []
+ },
+ {
+  "id": "f10ecd532d39",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Business Case #P-9 (Giwetashkad Implementation) funding from the multi-year budget entirely.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case # P-9 \u2013 Giwetashkad Implementation.",
+  "flags": []
+ },
+ {
+  "id": "62fa897ab9ac",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Business Case #P-26 (Community Gardens Program Expansion to Support Food Security), delayed to 2026, funded partly by a new $12,000 property tax levy in 2026 and 2027.",
+  "confidence": "high",
+  "quote": "BE AMENDED to include Business Case #P-26 \u2013 Community Gardens Program Expansion to Support Food Security",
+  "flags": []
+ },
+ {
+  "id": "4ac84c713dc6",
+  "issue": "policing",
+  "axis": "budget-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Reduced Business Case #P-29 (Police Vehicle and Equipment Requirements) funding by $90,000 per year.",
+  "confidence": "high",
+  "quote": "BE AMENDED to reduce Business Case #P-29 \u2013 Police Vehicle and Equipment Requirements by $90,000 each year.",
+  "flags": []
+ },
+ {
+  "id": "7800e8b9ceae",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recessed the budget committee meeting for 1 hour and 15 minutes.",
+  "confidence": "high",
+  "quote": "That the Committee recess at this time, for 1 hour and 15 minutes.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "2158fadf169c",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $316,000 in 2026 funding for Action #3 (Extension of Parks Operations Services) under Business Case #P-31 (Parks Operations Service Delivery Enhancements).",
+  "confidence": "high",
+  "quote": "BE AMENDED to include funding for \u201cAction #3: Extension of Parks Operations Services\u201d of Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements",
+  "flags": []
+ },
+ {
+  "id": "b9122734bf86",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recessed the budget committee meeting.",
+  "confidence": "high",
+  "quote": "That the meeting BE RECESSED.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "f2f57f834998",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Removed Business Case #P-5 (Fire Department Breathing Apparatus and Decontamination) from the current 2024-2027 budget and referred it to the 2028-2031 Multi-Year Budget instead, citing the equipment's 2031 lifecycle renewal date.",
+  "confidence": "medium",
+  "quote": "that this Business Case BE REFERRED to the 2028-2031 MYB noting that the equipment\u2019s lifecycle renewal is 2031",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "fade80c99229",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Business Case #P-7 (a new Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting) from the multi-year budget.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case #P-7 \u2013 Implementation of a New Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting.",
+  "flags": []
+ },
+ {
+  "id": "2a814fa072c4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recessed the budget committee meeting.",
+  "confidence": "high",
+  "quote": "That the meeting BE RECESSED.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "00bf6e89f1ac",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Refused the requested rezoning of 934 Oxford Street West from Residential R1 to Residential R8 Special Provision, keeping the property at its existing lower-density zoning.",
+  "confidence": "high",
+  "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R1 (R1-10) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone, BE REFUSED",
+  "flags": []
+ },
+ {
+  "id": "75ab0695380f",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing the by-law to rezone 934 Oxford Street West from Residential R1 to Residential R8 Special Provision, a higher-density designation.",
+  "confidence": "high",
+  "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024, to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-10) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone",
+  "flags": []
+ },
+ {
+  "id": "414239a10fe9",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and rezone 1310 Adelaide Street North & 795 Windermere Road from Open Space to a Holding Open Space Special Provision, enabling the proposed development subject to a holding provision.",
+  "confidence": "medium",
+  "quote": "the attached, revised, proposed by-law (Appendix \"A\") BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024 to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Green Space Place Type and by ADDING the subject lands to Map 7",
+  "flags": []
+ },
+ {
+  "id": "140836134fdf",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion to receive the Municipal Compliance Annual Report by noting that acceptance doesn't preclude further inquiry into 2023 Short-Term-Accommodation and property-compliance data.",
+  "confidence": "high",
+  "quote": "it being noted that accepting this report does not preclude the committee from further inquiry into 2023 data and future reporting will provide additional information and fulsome aggregate tables on Short Term Accommodations and Property Compliance",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "bb3ce5952d8f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion to receive the Municipal Compliance Annual Report by noting that acceptance doesn't preclude further inquiry into 2023 Short-Term-Accommodation and property-compliance data.",
+  "confidence": "high",
+  "quote": "it being noted that accepting this report does not preclude the committee from further inquiry into 2023 data and future reporting will provide additional information and fulsome aggregate tables on Short Term Accommodations and Property Compliance",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "43617e79c864",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report",
+  "flags": []
+ },
+ {
+  "id": "6f73a1e65e6a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to implement 12.5% pay increases for the Deputy Mayor and Budget Chair council positions effective January 2024, and directed the Governance Working Group to review this as part of its broader remuneration policy review.",
+  "confidence": "high",
+  "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
+  "flags": []
+ },
+ {
+  "id": "7675c9f2dbb2",
+  "issue": "climate",
+  "axis": "target-strength",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed staff to update the Site Plan Control and/or Zoning By-laws by Q3 2024 to require EV-charging rough-ins, minimum native-species landscaping, short-term bicycle parking, and bird-friendly (CSA A460) building design standards, and to review a legislative framework for broader sustainable building requirements (energy efficiency, water conservation, green roofs).",
+  "confidence": "medium",
+  "quote": "5% of the required parking spaces for buildings over 40 units be roughed in for EV charging",
+  "flags": []
+ },
+ {
+  "id": "ddc57de69a2b",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report",
+  "flags": []
+ },
+ {
+  "id": "3f29f81fb746",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended part b) of the motion to set a 12.5% pay increase for the Budget Chair council position effective January 2024.",
+  "confidence": "high",
+  "quote": "a pay increase of 12.5% to the annual base Councillor salary for the position of Budget Chair effective January 2024",
+  "flags": []
+ },
+ {
+  "id": "5b9e95d03206",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Deputy Mayor and Budget Chair pay-increase motion to a future Governance Working Group meeting instead of deciding it that night.",
+  "confidence": "high",
+  "quote": "That the motion BE REFERRED to a future meeting of the Governance Working Group.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "86419cffb57c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a 12.5% pay increase to the annual base Councillor salary for the Deputy Mayor position, effective January 2024.",
+  "confidence": "medium",
+  "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
+  "flags": []
+ },
+ {
+  "id": "0beb8b008e0b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a 12.5% pay increase to the annual base Councillor salary for the Deputy Mayor position, effective January 2024 (source data does not distinguish this vote's tally from id 86419cffb57c \u2014 both matched the identical 'part a) Deputy Mayor' clause in the meeting JSON; itemNumber 4.4 records six distinct sub-motions and two of the four manifest ids sharing this tally could not be told apart from the JSON alone).",
+  "confidence": "medium",
+  "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
+  "flags": []
+ }
+]

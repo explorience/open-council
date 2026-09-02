@@ -1,0 +1,745 @@
+{
+  "generatedAt": "2026-08-31T16:05:38.113Z",
+  "note": "Motion IDs that were part of the pre-repair 82-motion result-mismatch exclusion (a result string that disagreed with its parsed yeas/nays arrays) and, after the 2026-08-31 voter-fusion corpus repair (origin/main #197) plus this hub's new supermajority-failure carve-out (see isSupermajorityFailure in generate-stances.ts), now pass every hard guard (no roster conflict, not an appointment ballot, not a result mismatch, not flagged not_divided) and rejoin the divided-vote universe. None of these has ever had an entry in data/election/classify/batch-*-verified.json -- they were excluded before the classify manifest (data/election/classify/manifest.json) was built, so the classify pipeline never covered them. They currently render on the hub as unclassified (issue \"none\") via generate-stances.ts's missingFromManifestCount path -- correct, not silently guessed at, but incomplete. This file is the intake list for a future classify batch to cover them; classification has not yet been run. 3 of these 82 carry supermajorityFailure:true -- they rejoin the divided universe via the new supermajority carve-out (tally matches arrays exactly, Failed despite a yea majority) rather than via the corpus repair, and already publish with a per-row resultNote (\"failed — required a supermajority\") on the hub; they still need an issue/axis/direction classification like every other entry here, this flag is just context for whoever classifies them next.",
+  "count": 82,
+  "motions": [
+    {
+      "id": "e244dd248540",
+      "date": "2026-06-17",
+      "meetingSlug": "months/2026-06/2026-06-17 10th Special Meeting of Council",
+      "itemNumber": "6.1",
+      "itemTitle": "Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program",
+      "result": "Motion Failed (9 to 4)",
+      "supermajorityFailure": true
+    },
+    {
+      "id": "de27b0d405ad",
+      "date": "2025-06-03",
+      "meetingSlug": "months/2025-06/2025-06-03 9th Council Meeting",
+      "itemNumber": "12",
+      "itemTitle": "Emergent Motions",
+      "result": "Motion Failed (9 to 5)",
+      "supermajorityFailure": true
+    },
+    {
+      "id": "4c7617aa8c7a",
+      "date": "2023-07-25",
+      "meetingSlug": "months/2023-07/2023-07-25 13th Meeting of City Council",
+      "itemNumber": "8.1.3",
+      "itemTitle": "(4.1) Master Accommodation Plan - Alternate Work Strategies Update",
+      "result": "Motion Failed (8 to 7)",
+      "supermajorityFailure": true
+    },
+    {
+      "id": "93cf1341956d",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "2.2",
+      "itemTitle": "Core Area Land and Building Vacancy Reduction Strategy",
+      "result": "Motion Failed (4 to 8)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "459571d81fed",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2022 Climate Emergency Action Plan Progress Report",
+      "result": "Motion Passed (11 to 2)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "04ef20f344ee",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+      "result": "Motion Passed (11 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "0f1b08e86421",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+      "result": "Motion Passed (11 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "86b1bf237179",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+      "result": "Motion Failed (3 to 9)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "9547b52b37af",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+      "result": "Motion Failed (6 to 6)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "9705aa6da1dc",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+      "result": "Motion Failed (3 to 9)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "5d65a79a8f55",
+      "date": "2023-05-23",
+      "meetingSlug": "months/2023-05/2023-05-23 10th Meeting of the Corporate Services Committee",
+      "itemNumber": "2",
+      "itemTitle": "Consent",
+      "result": "Motion Passed (3 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "6bd1831c4a13",
+      "date": "2023-05-23",
+      "meetingSlug": "months/2023-05/2023-05-23 10th Meeting of the Corporate Services Committee",
+      "itemNumber": "2.5",
+      "itemTitle": "Expropriation of Lands - East London Link Project Phase 3",
+      "result": "Motion Passed (3 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "eff54431a239",
+      "date": "2023-05-23",
+      "meetingSlug": "months/2023-05/2023-05-23 9th Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.4",
+      "itemTitle": "Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill 23) (OZ-9581)",
+      "result": "Motion Passed (3 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "04c7e4c30cd1",
+      "date": "2023-05-23",
+      "meetingSlug": "months/2023-05/2023-05-23 9th Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.8",
+      "itemTitle": "129-131 Base Line Road West (Z-9578)",
+      "result": "Motion Passed (3 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "670fb392c44f",
+      "date": "2023-05-16",
+      "meetingSlug": "months/2023-05/2023-05-16 10th Meeting of City Council",
+      "itemNumber": "8.1.6",
+      "itemTitle": "(4.1) Application - Issuance of Proclamation - Longest Day of SMILES",
+      "result": "Motion Failed (2 to 12)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "a619de739d13",
+      "date": "2023-05-16",
+      "meetingSlug": "months/2023-05/2023-05-16 10th Meeting of City Council",
+      "itemNumber": "8.2.5",
+      "itemTitle": "(2.4) Housing Collaborative Initiative (HCI) - Update",
+      "result": "Motion Passed (10 to 4)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "10efee30d126",
+      "date": "2023-05-09",
+      "meetingSlug": "months/2023-05/2023-05-09 15th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "2.1",
+      "itemTitle": "2023 Industrial Land Development Strategy",
+      "result": "Motion Failed (6 to 9)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "730abd01f37c",
+      "date": "2023-05-09",
+      "meetingSlug": "months/2023-05/2023-05-09 15th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "2.1",
+      "itemTitle": "2023 Industrial Land Development Strategy",
+      "result": "Motion Passed (12 to 3)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "4f5ea4ba9d7c",
+      "date": "2023-05-09",
+      "meetingSlug": "months/2023-05/2023-05-09 15th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "London Police Services Board Candidates Interview Process",
+      "result": "Motion Passed (11 to 4)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "bea27da74ca1",
+      "date": "2023-05-09",
+      "meetingSlug": "months/2023-05/2023-05-09 15th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "London Police Services Board Candidates Interview Process",
+      "result": "Motion Passed (8 to 7)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "ffb201358ddc",
+      "date": "2023-04-25",
+      "meetingSlug": "months/2023-04/2023-04-25 9th Meeting of City Council",
+      "itemNumber": "8.4.10",
+      "itemTitle": "(2.8) Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion",
+      "result": "Motion Failed (0 to 15)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "a4abd9e1fa3c",
+      "date": "2023-04-18",
+      "meetingSlug": "months/2023-04/2023-04-18 14th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2024-2027 Multi-Year Budget",
+      "result": "Motion Passed (12 to 3)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "0336e9e6a987",
+      "date": "2023-04-18",
+      "meetingSlug": "months/2023-04/2023-04-18 14th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "5.1",
+      "itemTitle": "(ADDED) Request to Update London Hydro Inc. Board of Director Recruitment, Interview and Nomination Process",
+      "result": "Motion Passed (14 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "af00b752ac42",
+      "date": "2023-04-18",
+      "meetingSlug": "months/2023-04/2023-04-18 14th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "5.2",
+      "itemTitle": "(ADDED) Request a Governance Working Group Meeting",
+      "result": "Motion Passed (14 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "0e50da462d3b",
+      "date": "2023-04-12",
+      "meetingSlug": "months/2023-04/2023-04-12 The 6th Meeting of the Civic Works Committee",
+      "itemNumber": "2.8",
+      "itemTitle": "Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion ",
+      "result": "Motion Failed (2 to 3)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "4583e0abd1db",
+      "date": "2023-04-12",
+      "meetingSlug": "months/2023-04/2023-04-12 The 6th Meeting of the Civic Works Committee",
+      "itemNumber": "2.8",
+      "itemTitle": "Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion ",
+      "result": "Motion Passed (4 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "0de5ebf1dc59",
+      "date": "2023-04-11",
+      "meetingSlug": "months/2023-04/2023-04-11 7th Meeting of the Corporate Services Committee",
+      "itemNumber": "2.8",
+      "itemTitle": "Members of Council Proof of COVID-19 Vaccination Policy",
+      "result": "Motion Passed (5 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "74fa3e7f59f6",
+      "date": "2023-04-04",
+      "meetingSlug": "months/2023-04/2023-04-04 8th Meeting of City Council",
+      "itemNumber": "8.2.5",
+      "itemTitle": "(4.2) Consideration of Appointment to the London Police Services Board",
+      "result": "Motion Passed (13 to 2)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "de69e893bdf9",
+      "date": "2023-04-04",
+      "meetingSlug": "months/2023-04/2023-04-04 8th Meeting of City Council",
+      "itemNumber": "8.2.5",
+      "itemTitle": "(4.2) Consideration of Appointment to the London Police Services Board",
+      "result": "Motion Passed (14 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "8ef9149768dd",
+      "date": "2023-04-04",
+      "meetingSlug": "months/2023-04/2023-04-04 8th Meeting of City Council",
+      "itemNumber": "8.3.9",
+      "itemTitle": "(3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes",
+      "result": "Motion Passed (13 to 2)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "b885e895012f",
+      "date": "2023-04-04",
+      "meetingSlug": "months/2023-04/2023-04-04 8th Meeting of City Council",
+      "itemNumber": "8.3.9",
+      "itemTitle": "(3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes",
+      "result": "Motion Failed (7 to 8)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "6b989391e04c",
+      "date": "2023-04-04",
+      "meetingSlug": "months/2023-04/2023-04-04 8th Meeting of City Council",
+      "itemNumber": "8.4.9",
+      "itemTitle": "(3.7) 614 Westmount Crescent (Z-9553) (Relates to Bill No. 116)",
+      "result": "Motion Passed (12 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "56da0b282a71",
+      "date": "2023-03-28",
+      "meetingSlug": "months/2023-03/2023-03-28 12th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Council's Draft 2023-2027 Strategic Plan",
+      "result": "Motion Passed (9 to 5)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "c1d069409d10",
+      "date": "2023-03-28",
+      "meetingSlug": "months/2023-03/2023-03-28 12th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Council's Draft 2023-2027 Strategic Plan",
+      "result": "Motion Failed (7 to 7)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "2d5719faac23",
+      "date": "2023-03-28",
+      "meetingSlug": "months/2023-03/2023-03-28 12th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "5.1",
+      "itemTitle": "(ADDED) Request to Declare a State of Emergency regarding Housing",
+      "result": "Motion Passed (14 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "17532664fd8d",
+      "date": "2023-03-20",
+      "meetingSlug": "months/2023-03/2023-03-20 5th Meeting of the Planning and Environment Committee",
+      "itemNumber": "2.6",
+      "itemTitle": "864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L)",
+      "result": "Motion Failed (2 to 3)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "092fca35d312",
+      "date": "2023-03-08",
+      "meetingSlug": "months/2023-03/2023-03-08 11th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan",
+      "result": "Motion Passed (8 to 5)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "9b0ced7ff8cd",
+      "date": "2023-03-08",
+      "meetingSlug": "months/2023-03/2023-03-08 11th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan",
+      "result": "Motion Failed (4 to 9)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "c0ce799340ac",
+      "date": "2023-03-08",
+      "meetingSlug": "months/2023-03/2023-03-08 11th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan",
+      "result": "Motion Passed (8 to 4)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "e50d80567a17",
+      "date": "2023-03-08",
+      "meetingSlug": "months/2023-03/2023-03-08 11th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan",
+      "result": "Motion Passed (10 to 3)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "f8aa33605af1",
+      "date": "2023-03-08",
+      "meetingSlug": "months/2023-03/2023-03-08 11th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan",
+      "result": "Motion Passed (7 to 6)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "a3765ca3c05a",
+      "date": "2023-03-07",
+      "meetingSlug": "months/2023-03/2023-03-07 6th Meeting of City Council",
+      "itemNumber": "8.1.5",
+      "itemTitle": "(2.4) Results of the 2022 Bike Share Request for Proposal Process and Next Steps ",
+      "result": "Motion Passed (8 to 6)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "be02e01cfa4a",
+      "date": "2023-02-28",
+      "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Health and Homelessness Summits - Proposed Whole of Community System Response",
+      "result": "Motion Passed (12 to 2)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "66ca1770eede",
+      "date": "2023-02-28",
+      "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Strategies and Order of Magnitude Costing",
+      "result": "Motion Passed (7 to 6)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "0c53add88983",
+      "date": "2023-02-28",
+      "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics",
+      "result": "Motion Failed (4 to 9)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "1df6fbb00d8f",
+      "date": "2023-02-28",
+      "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics",
+      "result": "Motion Failed (4 to 8)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "8baa7b364d97",
+      "date": "2023-02-28",
+      "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics",
+      "result": "Motion Failed (4 to 9)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "99a7585bc349",
+      "date": "2023-02-28",
+      "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics",
+      "result": "Motion Failed (6 to 6)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "9e1607333432",
+      "date": "2023-02-28",
+      "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics",
+      "result": "Motion Failed (5 to 8)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "a01600ddb427",
+      "date": "2023-02-28",
+      "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics",
+      "result": "Motion Failed (6 to 7)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "4d53764b60c7",
+      "date": "2023-02-22",
+      "meetingSlug": "months/2023-02/2023-02-22 The 4th Meeting of the Civic Works Committee",
+      "itemNumber": "2.3",
+      "itemTitle": "Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments",
+      "result": "Motion Passed (3 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "950e2a392a63",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.1.10",
+      "itemTitle": "(2.9) Housing Stability Services Purchase of Service Agreement Template (Relates to Bill No. 52)",
+      "result": "Motion Passed (14 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "7346985bd070",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.2.6",
+      "itemTitle": "(2.5) Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation - Wellington Street from Queens Avenue to the Thames River (South Branch) - Irregular Result",
+      "result": "Motion Passed (14 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "bd958457f861",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.5.4",
+      "itemTitle": "(4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan",
+      "result": "Motion Failed (5 to 10)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "d5d592483d76",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.5.4",
+      "itemTitle": "(4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan",
+      "result": "Motion Passed (14 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "cacc4eabf8e7",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.6.10",
+      "itemTitle": "(3.4) 489 Upper Queen Street (Z-9540) (Relates to Bill No. 66)",
+      "result": "Motion Passed (11 to 4)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "a4044aae6238",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.6.11",
+      "itemTitle": "(3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)",
+      "result": "Motion Failed (5 to 10)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "c699eb9cc94f",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.6.11",
+      "itemTitle": "(3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)",
+      "result": "Motion Passed (12 to 3)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "ad0f2860602f",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.7.5",
+      "itemTitle": "(2.4) Declare Surplus - City-Owned Property - Part of 641 Queens Avenue",
+      "result": "Motion Passed (13 to 2)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "f195645ca714",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.7.5",
+      "itemTitle": "(2.4) Declare Surplus - City-Owned Property - Part of 641 Queens Avenue",
+      "result": "Motion Failed (6 to 9)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "1b0706b75a71",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "9.1",
+      "itemTitle": "4th Report of Council in Closed Session",
+      "result": "Motion Passed (14 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "3f89c4b8843b",
+      "date": "2023-02-07",
+      "meetingSlug": "months/2023-02/2023-02-07 9th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "London's Housing Pledge: A Path to 47,000 Units by 2031",
+      "result": "Motion Passed (13 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "56e0acb80e48",
+      "date": "2023-02-07",
+      "meetingSlug": "months/2023-02/2023-02-07 9th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan",
+      "result": "Motion Passed (13 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "e9bc755a8186",
+      "date": "2023-01-31",
+      "meetingSlug": "months/2023-01/2023-01-31 The 3rd Meeting of the Civic Works Committee",
+      "itemNumber": "2.5",
+      "itemTitle": "Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) – Irregular Result",
+      "result": "Motion Passed (4 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "498b4ae404bf",
+      "date": "2023-01-31",
+      "meetingSlug": "months/2023-01/2023-01-31 The 3rd Meeting of the Community and Protective Services Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Exotic Animal Establishments",
+      "result": "Motion Passed (3 to 2)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "776dfdcda79f",
+      "date": "2023-01-31",
+      "meetingSlug": "months/2023-01/2023-01-31 The 3rd Meeting of the Community and Protective Services Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Exotic Animal Establishments",
+      "result": "Motion Passed (3 to 2)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "fb7023a739e9",
+      "date": "2023-01-30",
+      "meetingSlug": "months/2023-01/2023-01-30 3rd Meeting of the Corporate Services Committee",
+      "itemNumber": "2.4",
+      "itemTitle": "Declare Surplus - City-Owned Property - Part of 641 Queens Avenue",
+      "result": "Motion Passed (3 to 2)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "2debd88e147d",
+      "date": "2023-01-30",
+      "meetingSlug": "months/2023-01/2023-01-30 3rd Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.4",
+      "itemTitle": "489 Upper Queen Street (Z-9540)",
+      "result": "Motion Passed (3 to 2)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "7c12069f2f9b",
+      "date": "2023-01-30",
+      "meetingSlug": "months/2023-01/2023-01-30 3rd Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.5",
+      "itemTitle": "608 Commissioners Road West (Z-9516)",
+      "result": "Motion Passed (4 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "b18982431ad1",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.1",
+      "itemTitle": "Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "result": "Motion Failed (7 to 7)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "000f08211725",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "result": "Motion Passed (13 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "070efd97b686",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "result": "Motion Passed (11 to 3)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "192cc16c866a",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "result": "Motion Failed (0 to 14)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "3e356dd3852a",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "result": "Motion Passed (13 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "67e8f0bb6a90",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "result": "Motion Passed (11 to 3)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "75a10636d5f6",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "result": "Motion Failed (5 to 9)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "950b21d6cef5",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "result": "Motion Passed (9 to 5)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "b7f876655a41",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "result": "Motion Passed (11 to 3)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "fd27307f45a8",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "result": "Motion Passed (13 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "bb3d5775c299",
+      "date": "2023-01-23",
+      "meetingSlug": "months/2023-01/2023-01-23 7th Meeting of the Strategic Priorities and Policy Committee - Special Meeting",
+      "itemNumber": "4.1",
+      "itemTitle": "Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results",
+      "result": "Motion Passed (10 to 4)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "d0cbb048480e",
+      "date": "2023-01-23",
+      "meetingSlug": "months/2023-01/2023-01-23 7th Meeting of the Strategic Priorities and Policy Committee - Special Meeting",
+      "itemNumber": "4.1",
+      "itemTitle": "Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results",
+      "result": "Motion Passed (13 to 1)",
+      "supermajorityFailure": false
+    },
+    {
+      "id": "60d4ecbbfe78",
+      "date": "2023-01-09",
+      "meetingSlug": "months/2023-01/2023-01-09 2nd Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.2",
+      "itemTitle": "634 Commissioners Road West",
+      "result": "Motion Failed (2 to 3)",
+      "supermajorityFailure": false
+    }
+  ]
+}

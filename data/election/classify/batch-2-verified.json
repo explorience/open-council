@@ -1,0 +1,572 @@
+[
+ {
+  "id": "4aef343f8a7b",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Made permanent (replacing an expiring interim control by-law) a zoning amendment capping additional residential units at a maximum of two bedrooms, three bedrooms total, and 80% of the primary dwelling's gross floor area.",
+  "confidence": "medium",
+  "quote": "limit additional residential unit(s) to a maximum of two (2) bedrooms",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "2c152e11e58a",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Narrowed a proposed parking by-law amendment (wider driveways, front-yard parking) so it would not apply to lands within the Western University Near Campus Neighbourhood, leaving the existing stricter rules in place there.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: this clause's only verb is 'BE AMENDED' (reshaping the wording of the b)/c) driveway-parking sub-parts to exclude WUNCN before they are later voted on) -- not an AFFIRM/DENY/DEFER verb, so it has no independent approve/deny content of its own per the direction-rules methodology (a pure re-wording amendment, distinct from the later 'BE APPROVED' vote on the reworded text). Correctly left axis:null/polarity:null."
+ },
+ {
+  "id": "369de39b00f6",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have added a requirement to map on-street parking availability and explore best-practice options for linking parking minimums to site characteristics, then report back to Committee.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: sole operative content is a report-back/study/map directive to staff with no independent approve/deny verb \u2014 correctly excluded as a non-decision."
+ },
+ {
+  "id": "7e57700798d3",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed Civic Administration to bring forward a zoning by-law amendment increasing maximum driveway widths (6m on lots up to 12m wide; 9m on larger lots) and permitting parking in the front or exterior side yard for R1, R2, R3, R4 and R11 zoned lots, outside the Western University Near Campus Neighbourhood.",
+  "confidence": "medium",
+  "quote": "amend section 4.19.6) h) I) as it applies to lands outside of Western University Near Campus Neighbourhood to allow a maximum driveway width of 6m on lots with a lot width of up to 12m and to allow a maximum driveway width of 9m on lots greater than 12m",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "REFUTED the axis:null/polarity:null call. Full text (reconstructed from the item's 'as amended' POST block) shows this is a genuine, decided council direction relaxing driveway-width and front-yard-parking zoning standards -- not a bare procedural wrapper and not a non-binding 'consider' request. AFFIRM_RE's 'BE DIRECTED' verb governs specific, fully-specified numeric standards (not a vague study-ask), matching how the corpus classifies comparable parking-standard zoning approvals elsewhere (c7bf822cb0ae: reduced parking ratio for affordable housing, housing/application-approval/expansive; dd17ec0fa6f7: garage/parking special-provision zoning, housing/application-approval/expansive). Corrected via the same generic application-approval fallback used ~106 times elsewhere in the corpus when no specific density/use-permission axis literally matches but a real approve/deny decision exists."
+ },
+ {
+  "id": "f5ad254fd54f",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "expansive",
+  "whatAYeaDid": "Set a citywide residential parking minimum of 1 space per unit (with exemptions for affordable-housing-agreement and Protected Major Transit Station Area developments) and removed the zoning prohibition on adding an extra driveway for a lot with an additional residential unit.",
+  "confidence": "medium",
+  "quote": "amend section 4.37.8 to remove the prohibition on a new additional driveway in association with an additional residential unit",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "0791703e98a9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted Council to continue its meeting past the standard 6:00 PM cutoff.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: procedural (meeting-conduct) motion with no substantive issue content \u2014 correctly excluded."
+ },
+ {
+  "id": "cec422f3f37c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Old East Village BIA's cleaning/graffiti-removal reimbursement request to the next Infrastructure and Corporate Services Committee meeting rather than deciding it directly.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: BE REFERRED motion that itself Failed (5 to 8) -- decided nothing either way, and the underlying subject (BIA property clean-up/graffiti reimbursement) is outside the 8 tracked issue clusters regardless. Correctly excluded."
+ },
+ {
+  "id": "eee12d7924a3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the City to immediately reimburse the Old East Village BIA $14,152.33 from the Community Investment Reserve Fund for prior private-property clean-up, graffiti-removal, and safety/security costs.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: directs an immediate reimbursement from the Community Investment Reserve Fund for a BIA's prior clean-up/graffiti-removal costs. No budget-cluster keyword (capital/operating budget, tax levy, business case, development charges) appears, and a bare reserve-fund reimbursement was deliberately excluded from the budget cluster per issue-rules.ts's own calibration notes. Correctly issue:none."
+ },
+ {
+  "id": "e8fd57d3f197",
+  "issue": "climate",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved and authorized execution of a Federation of Canadian Municipalities Green Municipal Fund grant agreement (CORE-25-0485) to fund a study of the potential for net-zero community energy in London \u2014 a binding decision to accept and execute the funding agreement, not a staff report-back request.",
+  "confidence": "medium",
+  "quote": "APPROVE the Green Municipal Fund Grant Agreement, CORE-25-0485, (\u201cAgreement\u201d) between the Federation of Canadian Municipalities (\u201cFCM\u201d) and The Corporation of the City of London for the provision of funding for studying the potential of net-zero community energy in London, Ontario",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "REFUTED the 'informational_ask' null call. The clause's operative verbs are 'BE INTRODUCED' (the by-law) and imperative 'APPROVE'/'AUTHORIZE' (the grant agreement and its execution) -- a real, binding decision to accept FCM funding and authorize the Mayor to sign, not a 'BE DIRECTED to report back/study' non-decision. The word 'studying' describes what the FUNDED PROJECT will do, not what COUNCIL'S OWN motion asks staff to do -- conflating the two produced the miss. Corpus precedent for the identical FCM Green Municipal Fund Agreement pattern (b26197dd53d0, 70881ca02a83, near-identical wording) is classified climate/application-approval/expansive/high elsewhere; this batch's null call for the structurally identical 998400eb3bed-style report-back sub-motion is correct, but 55da1ef00dc2 is the main APPROVE-the-Agreement motion, not that sub-motion type."
+ },
+ {
+  "id": "c49848510eb3",
+  "issue": "climate",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved and authorized execution of a Federation of Canadian Municipalities Green Municipal Fund grant agreement (CORE-24-0309) to fund a feasibility study of electrifying the municipal vehicle fleet \u2014 a binding decision to accept and execute the funding agreement, not a staff report-back request.",
+  "confidence": "medium",
+  "quote": "APPROVE the Green Municipal Fund Grant Agreement, CORE-24-0309, (\u201cAgreement\u201d) between the Federation of Canadian Municipalities (\u201cFCM\u201d) and The Corporation of the City of London for the provision of funding for studying the feasibility of municipal fleet electrification in London, Ontario",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Same miss pattern as 55da1ef00dc2 (see that note): the motion's operative content is APPROVE the Agreement + AUTHORIZE execution, a genuine funding decision, not an informational ask. Corrected to climate/application-approval/expansive, matching corpus precedent (b26197dd53d0, 70881ca02a83) for this exact FCM Green Municipal Fund Agreement wording pattern."
+ },
+ {
+  "id": "a310fcf72321",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Awarded the construction contract and financing for the Wellington Gateway and Municipal Infrastructure Improvements Phase 2A project (Wilkins Street to Baseline Road) to the lowest of three bidders.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: a construction-contract award and financing for a road/infrastructure project (Wellington Gateway). No transit/roads keyword (road widening, traffic calming, transit, BRT) or budget keyword appears in the item title or motion body. Correctly issue:none."
+ },
+ {
+  "id": "3fd92530a275",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the audit firm MNP to swap the submission dates for its Privacy Audit and Continuous Improvement Audit reports.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: substance does not fall within any of the 8 tracked issue clusters (no qualifying keyword or code-pattern support in the motion's own text) \u2014 correctly excluded."
+ },
+ {
+  "id": "ed65603a2c2d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the Internal Audit summary update as amended, receiving MNP's report and directing MNP to swap the Privacy Audit and Continuous Improvement Audit submission dates.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text (wrapper 'item 6, clause 4.4, as amended, BE APPROVED' correctly read through to its POST-reconstructed substance: receiving an MNP audit report and directing a swap of two audit submission dates). Not a tracked issue. Correctly issue:none."
+ },
+ {
+  "id": "43249cca9133",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted Councillor Trosow to speak for up to two additional minutes on the UNESCO City of Music item.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: procedural (meeting-conduct) motion with no substantive issue content \u2014 correctly excluded."
+ },
+ {
+  "id": "27c398a24709",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved financing to purchase nine new 60-foot buses for the London Transit Commission's East London Link Rapid Transit corridor.",
+  "confidence": "high",
+  "quote": "approval BE GIVEN to finance the London Transit Commission purchase of nine 60-foot buses required for the East London Link corridor of the new Rapid Transit network",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "6c05cb59183e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the proposed Travel and Business Expenses policy update to Civic Administration, with direction to prepare separate policies for staff and for Members of Council and report back.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: a BE REFERRED motion (travel/business expense policy) that itself Failed (0 to 5) -- decided nothing, and the subject matter (council administrative policy) is outside the 8 tracked issues in any case. Correctly excluded."
+ },
+ {
+  "id": "54d67c9e6a5f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added direction for Civic Administration to prepare two separate Travel and Business Expenses policies (one for staff, one for Members of Council) and report back to a future Committee meeting.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: sole operative content is 'BE DIRECTED to prepare two separate policies ... and report back' -- an informational-ask/report-back with no independent approve/deny content, on a non-tracked subject (travel/expense policy). Correctly excluded."
+ },
+ {
+  "id": "d45532cf8cd8",
+  "issue": "climate",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved (at committee stage) and recommended authorizing execution of a Federation of Canadian Municipalities Green Municipal Fund grant agreement (CORE-24-0309) to fund a feasibility study of electrifying the municipal vehicle fleet \u2014 a binding recommendation, not a staff report-back request.",
+  "confidence": "medium",
+  "quote": "APPROVE the Green Municipal Fund Grant Agreement, CORE-24-0309, (\u201cAgreement\u201d) between the Federation of Canadian Municipalities (\u201cFCM\u201d) and The Corporation of the City of London for the provision of funding for studying the feasibility of municipal fleet electrification in London, Ontario",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Committee-stage counterpart of 362a510b1fad (2026-02-23 ICSC item 2.3, verbatim-identical operative text to the 2026-03-03 Council version). Same miss pattern: this is the APPROVE-the-Agreement motion, not a report-back ask. Corrected to climate/application-approval/expansive."
+ },
+ {
+  "id": "e08e54251f91",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the question of delegating authority for restricted acts of Council after Nomination Day/Voting Day to Civic Administration, directing it to report back with further definitions and details.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: BE REFERRED ... to report back with definitions and details -- a referral/informational-ask non-decision on a non-tracked subject (council governance after election day). Correctly excluded."
+ },
+ {
+  "id": "c5f120a9ce00",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Awarded the construction contract and financing for the Wellington Gateway and Municipal Infrastructure Improvements Phase 2A project to the lowest of three bidders.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: committee-stage duplicate of c8ea26a2f919 (same contract award, same reasoning) -- no transit/budget keyword support. Correctly issue:none."
+ },
+ {
+  "id": "4b2922f5c8f7",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Official Plan and Zoning By-law amendments permitting a 30-storey apartment building at 550 Ridout Street North & 82-90 Kent Street, raising the site's permitted height.",
+  "confidence": "high",
+  "quote": "permitting a 30 storey apartment building",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "8d356263249f",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to review and report back on the feasibility of posting rental property owners' professional or business contact information on the City's website.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Disambiguated against the OTHER Failed-2-to-2 motion on the same item (opposite yea/nay roster, 'findings BE RECEIVED, no further action BE TAKEN') using the exact yea/nay voter list in _all-motions.json cross-checked against the full meeting JSON -- id maps correctly to the 'review and report back on feasibility' motion (Trosow/Ferreira yea, Hopkins/Pribil nay), a genuine informational-ask non-decision. Correctly excluded."
+ },
+ {
+  "id": "8a06f31a64f5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Old East Village BIA's cleaning/graffiti-removal reimbursement request to the next Infrastructure and Corporate Services Committee meeting.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: BE REFERRED to the next ICSC meeting, Passed (5 to 1) -- a genuine referral/non-decision on a non-tracked subject. Correctly excluded."
+ },
+ {
+  "id": "0a6dbc9b34a5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved financing and authorized a pipeline decommissioning and new-pipeline agreement with Imperial Oil for the Sunningdale Road West improvements.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: approves financing and a pipeline decommissioning/relocation agreement with Imperial Oil for a road-improvement project. No transit/roads or climate keyword appears in the operative text (no 'road widening', 'pipeline' isn't a climate-cluster term). Correctly issue:none."
+ },
+ {
+  "id": "c11a27095483",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text and the full multi-motion amendment sequence on this item: this sub-motion's ultimate effect was superseded/mooted by a later vote restating the original (unamended) language, which the final 'as amended' text confirms. Correctly left unresolved rather than assigned a direction. (This is the Stevenson 'part a) BE AMENDED ... one-year contract renewal' motion, Passed 8-7; the item's FINAL 'as amended' text ultimately re-reads the original unamended multi-year language, per the S. Lewis 'a) ... BE ENDORSED' motion that passed 14-1 afterward -- see 24d580d71e55.)"
+ },
+ {
+  "id": "30d74e2a7ba7",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to review existing housing stability contracts for alignment with operational needs and report back to Council on recommended amendments.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: 'BE DIRECTED to review existing housing stability contracts ... and report back to Council on any recommended amendments' -- a report-back informational ask, and it Failed (7 to 8) regardless. Correctly excluded. Disambiguated against sibling ids on the same item via exact yea/nay roster match."
+ },
+ {
+  "id": "24d580d71e55",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Endorsed the City's proposed system-transformation approach and multi-year Housing Stability Services procurement framework.",
+  "confidence": "medium",
+  "quote": "the proposed system transformation approach and multi-year Housing Stability Services procurement framework as outlined in the December 1, 2025 staff report, BE ENDORSED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "7bb597179dbc",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text and the full multi-motion amendment sequence on this item: this sub-motion's ultimate effect was superseded/mooted by a later vote restating the original (unamended) language, which the final 'as amended' text confirms. Correctly left unresolved rather than assigned a direction. (This is the second, near-duplicate 'i) ... one-year contract renewal' re-vote (S. Lewis), Failed 7-8, disambiguated from c11a27095483 by its distinct yea/nay roster.)"
+ },
+ {
+  "id": "0fd864d6f943",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the System Area Update on supports for those living unsheltered to a future Community and Protective Services Committee meeting, for a report on the feasibility of a contract extension with 519Pursuit Umbrella Relief Programs for outdoor basic-needs outreach.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: BE REFERRED to a future CPSC meeting for a report back on the feasibility of a contract extension with 519Pursuit -- a referral/informational-ask non-decision. Issue correctly encampments (item substance is 'Supports for Those Living Unsheltered'). Correctly polarity:null."
+ },
+ {
+  "id": "1efb0d966119",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Limited the City's Community Grants Annual Program to the capital-funding category only for 2026 and 2027, ending operating-stream grant funding to community organizations for those two years.",
+  "confidence": "medium",
+  "quote": "limit the City of London Community Grants Annual Program to the capital funding category, as defined in the City of London Community Grants Policy for 2026 and 2027",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "f89356aef0d7",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Adopted the by-law limiting the City's Community Grants Annual Program to capital-only funding for 2026 and 2027.",
+  "confidence": "medium",
+  "quote": "limit the City of London Community Grants Annual Program to the capital funding category, as defined in the City of London Community Grants Policy for 2026 and 2027",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "2329df85e366",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
+  "confidence": "medium",
+  "quote": "ACTIVATE the Tier 3 Surge Response with the funding to be pulled from the Social Services Reserve Fund up to a maximum of $290,000 whenever it is -15 OR -20 with windchill",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "d328160d258a",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
+  "confidence": "medium",
+  "quote": "or when Environment Canada issues an extreme weather alert (yellow, orange, red) with respect to ice",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "079a29d967cf",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted Council to continue its meeting past the standard 6:00 PM cutoff.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: procedural (meeting-conduct) motion with no substantive issue content \u2014 correctly excluded."
+ },
+ {
+  "id": "dd1ffaa9ed13",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "expansive",
+  "whatAYeaDid": "Rezoned 732 Wellington Street and 282 Piccadilly Street from Day Care to Residential R3, facilitating conversion of the existing buildings to fourplex and triplex dwellings.",
+  "confidence": "high",
+  "quote": "the recommended amendment would facilitate the conversion of the existing buildings to fourplex and triplex dwellings, which are appropriate uses for the sites and surrounding context",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "7f44f3ad068b",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved Official Plan and Zoning By-law amendments reclassifying community-facility and open-space zoning at 5150 Wellington Road South for the Diocese of London's property.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: rezones from Community Facility/Open Space TO Community Facility/Open Space (Diocese property) -- no residential unit count, height, storeys, or dwelling-type change. Issue:housing is a structural code-pattern hit (OZ-25135) per issue-rules.ts's documented CODE_PATTERNS behavior, not a substantive housing content match, and correctly gets no axis/polarity since neither density nor use-permission content is present."
+ },
+ {
+  "id": "200aa0dd5d09",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Official Plan and Zoning By-law amendments permitting 18-storey and 16-storey residential towers with a gross density of up to 216 units per hectare at 3680 Wonderland Road South, rezoning from shopping-area commercial to residential.",
+  "confidence": "high",
+  "quote": "a gross density of up to 216 units per hectare for the subject lands",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "d8709843d45c",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Rezoned 233 Cambridge Street from Residential R1 to a Residential R2 special provision, permitting higher-intensity infill development than the site's previous single-family zoning allowed.",
+  "confidence": "medium",
+  "quote": "change the zoning of the subject property FROM a Residential R1 (R1-7) Zone TO a Holding Residential R2 Special Provision (h-9*R2-1(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "83c1d43b3506",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a zoning by-law amendment enabling redevelopment of 644-664 Southdale Road East and 821 Nadine Avenue at increased scale and intensity within the Rapid Transit Corridor Place Type.",
+  "confidence": "medium",
+  "quote": "the recommended amendment facilitates redevelopment of a site within the Built-Area Boundary and the Primary Transit Area at an appropriate scale and intensity for the site and surrounding context",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "0f359afc4f62",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have reduced the maximum permitted building height for the 767 Fanshawe Park Road East / 679 Dunboyne Crescent apartment rezoning to 24.5 metres.",
+  "confidence": "medium",
+  "quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "5549c33b0674",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a site-specific zoning condition prohibiting rooftop amenity space on the approved apartment building at 767 Fanshawe Park Road East.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: a non-binding 'Site Plan Approval Authority BE REQUESTED to consider' design condition (rooftop amenity, sidewalk access, transom windows), not a density or use-permission decision \u2014 matches the corpus's own treatment of comparable site-plan conditions elsewhere; correctly left axis:null. (rooftop amenity prohibition, Passed 11-4.)"
+ },
+ {
+  "id": "bc862dbf8b17",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a site-specific zoning condition prohibiting a sidewalk/access connection between the new apartment complex at 767 Fanshawe Park Road East and Dunboyne Crescent.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: a non-binding 'Site Plan Approval Authority BE REQUESTED to consider' design condition (rooftop amenity, sidewalk access, transom windows), not a density or use-permission decision \u2014 matches the corpus's own treatment of comparable site-plan conditions elsewhere; correctly left axis:null. (sidewalk/access connection prohibition, Passed 10-5.)"
+ },
+ {
+  "id": "02062f07951a",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a site-specific design condition requiring transom-style windows on the west side of the approved apartment building to limit privacy impacts on neighbouring low-rise homes.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified full motion text: a non-binding 'Site Plan Approval Authority BE REQUESTED to consider' design condition (rooftop amenity, sidewalk access, transom windows), not a density or use-permission decision \u2014 matches the corpus's own treatment of comparable site-plan conditions elsewhere; correctly left axis:null. (transom-style window design condition, Passed 13-2.)"
+ },
+ {
+  "id": "7bcf15574247",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Rezoned 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R1/R5 to a higher-density Residential R8 special provision, permitting an apartment complex.",
+  "confidence": "high",
+  "quote": "change the zoning of the subject property FROM a Residential R5 Special Provision (R5-7(25)) and a Residential R1 (R1-7) Zone TO a Holding Residential R8 Special Provision (h-8*R8-4(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ },
+ {
+  "id": "1b85a2cb32cf",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Official Plan and Zoning By-law amendments permitting a maximum height of 20 storeys and residential density up to 350 units per hectare at 3334-3354 Wonderland Road South, rezoning from commercial-recreational to residential.",
+  "confidence": "high",
+  "quote": "permit a maximum height of 20 storeys, excluding mechanical penthouses and rooftop amenity space, and a maximum residential density of 350 units per hectare",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
+ }
+]
