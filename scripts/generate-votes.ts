@@ -188,38 +188,105 @@ function hasUnresolvableNay(voteRows: VoteRow[], registry: ReturnType<typeof loa
   })
 }
 
-// London City Council: Mayor + 14 Councillors. A voter row naming more
-// people than that isn't a real roll call - it's Word-export text that
-// got split on the wrong delimiter (paragraph fragments, run-on
-// sentences) and landed in the voters array instead. Shared by
-// isGarbledRollCall() below; keep it here, not duplicated at each call
-// site (issue #199 punch list item 1).
-const MAX_COUNCIL_SIZE = 15
+// London City Council: Mayor + 14 Councillors, but that "15" must not be a
+// silently-stale magic number (issue #199 final verify: "derive from
+// functions, not scalars" - a hardcoded council size doesn't notice a
+// term with a different ward count). Derive it from the registry itself:
+// count canonical councillors whose terms cover the given year. A voter
+// row naming more people than that isn't a real roll call - it's
+// Word-export text that got split on the wrong delimiter (paragraph
+// fragments, run-on sentences) and landed in the voters array instead.
+export function councilSizeForYear(year: number, registry: ReturnType<typeof loadRegistry>): number {
+  let count = 0
+  for (const info of Object.values(registry)) {
+    if (info.terms.some(term => year >= term.start && year <= term.end)) count++
+  }
+  return count
+}
 
-// Is this roll call's raw vote-row data garbled - a voter row too long to
-// be real, or one where the MAJORITY of named "voters" fail to resolve
-// against the registry? (issue #199 punch list item 1, e.g. 2013-01-24
-// item 3's roll call 0: a 24-entry "Yeas" row and a 193-entry "Nays" row,
-// both Word-export text fragments, not real names.)
+// An entry that's just a bare tally marker - e.g. a Nays row rendered as
+// exactly `["(0)"]` to record "zero nay voters" (2012-04-10 item 15#3,
+// 2011-12-05 SPPC item 1 - issue #199 final verify case (a)). This is
+// bookkeeping, not a name that failed to parse, and must not count
+// against a row's name-shaped ratio below.
+const PURE_TALLY_MARKER = /^\(\d+\)$/
+
+// eSCRIBE/Word export fuses the row's total count onto its LAST entry
+// (e.g. "S.E. White (14)") rather than emitting it as a separate array
+// element. That's routine formatting, not evidence of garbling - strip it
+// before judging an entry's shape.
+const TRAILING_TALLY = /\s*\(\d+\)\s*$/
+
+// A rough sign this fragment is a timestamp ("9:50 PM") rather than a
+// name - narration like "At 9:50 PM Councillor H.L. Usher leaves the
+// meeting" occasionally lands in a voters array (see the narration fix,
+// issue #199 punch list item 4); a bare timestamp fragment is a giveaway
+// that a whole clause got swept in with it.
+const TIMESTAMP_PATTERN = /\b\d{1,2}:\d{2}\s*(AM|PM)\b/i
+
+// Common lowercase connective/narrative words that show up in Word-export
+// prose (minutes narration, "reads as follows" clause quotations, run-on
+// sentences spanning a page break) but never inside a councillor's name
+// or a short procedural annotation like "RECUSED:" / a trailing tally.
+// Two or more hits in one voter-array entry is strong evidence the entry
+// is a fragment of surrounding document text that got split into the
+// vote row by mistake, not a name (issue #199 final verify case (b) vs.
+// the genuinely garbled fragments in the 2013-01-24 monster).
+const PROSE_STOPWORDS =
+  /\b(the|is|are|was|were|being|noted|that|moved|seconded|carried|declared|interest|pecuniary|meeting|leaves|enters|returns|recess|adjourn|adjourned|reconvene|reconvened|order|present|absent|following|resolved|resolving|clause|clauses|approve|approved|passed|failed|amended|reads|follows|part|pursuant|section|separate|balance|remainder|by-laws?|BE\b)\b/gi
+
+// Is this single voter-array entry shaped like a name (issue #199 final
+// verify, punch list item 1)? Garbling is a TEXT-SHAPE property, not a
+// registry-resolution outcome: a name-shaped entry that the registry
+// can't resolve (an unrecorded spelling, a bare surname, a term-year
+// registry gap) is NOT garbling - it's reported separately as an
+// unresolved-name disclosure. Only entries that look like they're not
+// names at all - sentence fragments, clause-reference quotations,
+// timestamps - count as garbled shape.
+export function isNameShaped(rawEntry: string): boolean {
+  const entry = rawEntry.replace(TRAILING_TALLY, "").trim()
+  if (entry.length === 0) return false // e.g. "(0)" - a bare zero-count marker, not a name
+  if (TIMESTAMP_PATTERN.test(entry)) return false
+  if (entry.length > 60) return false // no real name + short annotation runs this long
+  if (entry.split(/\s+/).length > 8) return false // real names/annotations are short
+  if ((entry.match(PROSE_STOPWORDS) ?? []).length >= 2) return false
+  if (!/[A-Z][a-zA-Z.'-]*/.test(entry)) return false // must contain a capitalized token
+  return true
+}
+
+// Is this roll call's raw vote-row data garbled? A row is garbled when
+// EITHER (a) it names more people than the era's council size - Word-
+// export text mis-split on the wrong delimiter, landing dozens of
+// paragraph fragments in the voters array (the 2013-01-24 monster: a
+// 26-entry Yeas row and a 228-entry Nays row, 193 of them "resolving"-
+// style fragments, not names) - OR (b) fewer than half of its meaningful
+// entries (bare tally markers like "(0)" excluded - see
+// PURE_TALLY_MARKER) are name-shaped per isNameShaped() above.
 //
-// This is a STRONGER, more general condition than hasUnresolvableNay()
-// above (which only looks at Nay rows, and only fires when ZERO names
-// resolve): a garbled row can still contain one or two names that happen
-// to coincidentally resolve against the registry among dozens of
-// fragments that don't, and hasResolvableNay() alone would take that as
-// "confirmed, resolvable dissent" - exactly the wrong conclusion for
-// mis-split text. Checked across ALL rows (not just Nays): a garbled Yeas
-// row is just as much evidence the whole roll call's voter data is
-// unreliable.
-function isGarbledRollCall(voteRows: VoteRow[], registry: ReturnType<typeof loadRegistry>): boolean {
+// (b) is deliberately NOT "does the entry resolve against the registry" -
+// that was the bug (issue #199 final verify): 113 legitimate roll calls
+// were deleted because a real councillor's name carried a trailing tally
+// marker, a fused "RECUSED:" clause, or was rendered as a bare surname -
+// text that's still unmistakably name-shaped even though
+// normalizeVoterName() can't match it to a canonical name. Using a
+// per-row MAJORITY (not "any"), same as before, is what keeps one
+// genuinely garbled trailing entry (e.g. "S.E. White (14) The following
+// Bills are passed, enacted as by-laws...") from poisoning an otherwise
+// clean 13-name row - exactly the failure mode hasUnresolvableNay() and
+// hasResolvableNay() above must not fall into either.
+export function isGarbledRollCall(
+  voteRows: VoteRow[],
+  registry: ReturnType<typeof loadRegistry>,
+  year: number
+): boolean {
+  const cap = councilSizeForYear(year, registry)
   return voteRows.some(row => {
     if (row.voters.length === 0) return false
-    if (row.voters.length > MAX_COUNCIL_SIZE) return true
-    const resolvedCount = row.voters.filter(voterName => {
-      const canonical = normalizeVoterName(voterName)
-      return canonical !== null && !!registry[canonical]
-    }).length
-    return resolvedCount * 2 < row.voters.length // strictly fewer than half resolve
+    if (row.voters.length > cap) return true
+    const meaningful = row.voters.filter(v => !PURE_TALLY_MARKER.test(v.trim()))
+    if (meaningful.length === 0) return false // e.g. Nays: ["(0)"] - zero voters, not garbled
+    const shapedCount = meaningful.filter(isNameShaped).length
+    return shapedCount * 2 < meaningful.length // strictly fewer than half are name-shaped
   })
 }
 
@@ -259,7 +326,8 @@ function parseResult(
   result: string,
   voteRows: VoteRow[],
   registry: ReturnType<typeof loadRegistry>,
-  isPre2018: boolean
+  isPre2018: boolean,
+  year: number
 ): { passed: boolean; unanimous: boolean; unanimousSource: "tally" | "votes" | "unresolved" | "unknown" } {
   const passed = /passed|carried|approved/i.test(result)
   const tallyMatch = result.match(/\((\d+) to (\d+)\)/)
@@ -277,7 +345,7 @@ function parseResult(
   // coincidentally-resolvable name, and that must never read as
   // "confirmed, resolvable dissent" - see isGarbledRollCall()'s doc
   // comment. Demoted to "unresolved", never "votes".
-  if (isGarbledRollCall(voteRows, registry)) {
+  if (isGarbledRollCall(voteRows, registry, year)) {
     return { passed, unanimous: false, unanimousSource: "unresolved" }
   }
 
@@ -302,6 +370,7 @@ function findVotes(
   const votes: VoteRecord[] = []
   const registry = loadRegistry()
   const isPre2018 = meeting.datetime.split(" ")[0] < "2018-01-01"
+  const year = parseInt(meeting.datetime.slice(0, 4), 10)
 
   for (const [num, item] of Object.entries(items)) {
     const itemPath = parentPath ? `${parentPath}.${num}` : num
@@ -314,7 +383,7 @@ function findVotes(
           const ordinal = rollCallOrdinal++
           const motionText = extractMotionText(content)
           const resultStr = content.result?.string || ""
-          const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry, isPre2018)
+          const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry, isPre2018, year)
 
           // A garbled roll call (issue #199 punch list item 1) emits NO
           // per-councillor vote records at all, even for the names that
@@ -323,7 +392,7 @@ function findVotes(
           // just because one fragment coincidentally matches a real name.
           // The roll call itself is still recorded (unanimousSource
           // "unresolved" above), just with an empty voter attribution.
-          if (!isGarbledRollCall(content.vote.rows, registry)) {
+          if (!isGarbledRollCall(content.vote.rows, registry, year)) {
             // Process each voter
             for (const row of content.vote.rows) {
               const voteType = classifyVoteType(row.vote)
@@ -472,6 +541,7 @@ async function main() {
   const councillorVotes: Record<string, VoteRecord[]> = {}
   const councillorMeetings: Record<string, Set<string>> = {}
   const garbledStats = { excludedRollCalls: 0 }
+  const unresolvedStats = new Map<string, number>()
 
   for (const canonicalName of Object.keys(registry)) {
     const slug = getSlug(canonicalName)
@@ -587,7 +657,8 @@ async function main() {
           councillorVotes,
           councillorMeetings,
           registry,
-          garbledStats
+          garbledStats,
+          unresolvedStats
         )
 
       } catch (err) {
@@ -803,6 +874,10 @@ async function main() {
   if (garbledStats.excludedRollCalls > 0) {
     console.log(`   Garbled roll calls excluded from attribution: ${garbledStats.excludedRollCalls}`)
   }
+  if (unresolvedStats.size > 0) {
+    const totalUnresolvedHits = Array.from(unresolvedStats.values()).reduce((a, b) => a + b, 0)
+    console.log(`   Name-shaped but unresolved voter entries: ${unresolvedStats.size} distinct (${totalUnresolvedHits} occurrences) - see _meta.json unresolvedNameShapedVoters`)
+  }
 
   // Write metadata file
   const metaFile = {
@@ -815,11 +890,29 @@ async function main() {
     contestedMotions: contestedCount,
     duplicateFilesSkipped: duplicateFiles.length,
     // Roll calls demoted to unanimousSource "unresolved" because the raw
-    // voter data was garbled (a row too long to be real, or a majority of
-    // named "voters" not resolving against the registry) - see
+    // voter data was garbled (a row too long for the era's council size,
+    // or a majority of its entries aren't name-shaped) - see
     // isGarbledRollCall(). These get NO per-councillor vote records at
     // all (issue #199 punch list item 1).
     garbledRollCallsExcluded: garbledStats.excludedRollCalls,
+    // Disclosure list (issue #199 final verify, punch list item 1): raw
+    // voter-array entries that ARE name-shaped - so their roll call was
+    // kept alive, not garbled - but still didn't resolve against
+    // data/councillors/registry.json, with how many times each occurred.
+    // Checked against the registry for every era covered by this stage
+    // (2010-2018): none of these are a missing councillor - the 15-seat
+    // (Mayor + 14 wards) council of both 2010-2014 and 2014-2018 is fully
+    // present in registry.json. They're spelling/format variants
+    // (e.g. "W.J. Armstrong" for the registered "B. Armstrong", "S.E.
+    // White" for "S. White" - both added to name-map.json this stage) or
+    // bare-surname renderings ("Usher", "Hubert") that normalizeVoterName
+    // won't guess at when the surname is shared by more than one
+    // registered councillor (e.g. "Brown" - both M. Brown and D. Brown
+    // served 2010-2014) - left unresolved rather than attributed to the
+    // wrong person.
+    unresolvedNameShapedVoters: Object.fromEntries(
+      Array.from(unresolvedStats.entries()).sort((a, b) => b[1] - a[1])
+    ),
   }
   await fs.writeFile(
     path.join(outputDir, "_meta.json"),
@@ -845,9 +938,18 @@ function findVotesWithAttribution(
   // from per-councillor attribution, exposed in _meta.json's
   // garbledRollCallsExcluded (issue #199 punch list item 1).
   garbledStats: { excludedRollCalls: number },
+  // Also mutated in place: entries that ARE name-shaped (so their roll
+  // call stays alive - see isGarbledRollCall()'s doc comment) but that
+  // normalizeVoterName() still couldn't resolve to a registry entry - a
+  // spelling variant, a bare surname, or (if it ever happens) a genuine
+  // registry gap. Counted per raw entry text so a real gap stands out by
+  // volume, exposed in _meta.json's unresolvedNameShapedVoters (issue
+  // #199 final verify, punch list item 1's disclosure requirement).
+  unresolvedStats: Map<string, number>,
   parentPath: string = ""
 ): void {
   const isPre2018 = meeting.datetime.split(" ")[0] < "2018-01-01"
+  const year = parseInt(meeting.datetime.slice(0, 4), 10)
 
   for (const [num, item] of Object.entries(items)) {
     const itemPath = parentPath ? `${parentPath}.${num}` : num
@@ -859,17 +961,18 @@ function findVotesWithAttribution(
           const ordinal = rollCallOrdinal++
           const motionText = extractMotionText(content)
           const resultStr = content.result?.string || ""
-          const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry, isPre2018)
+          const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry, isPre2018, year)
 
           // See the matching comment in findVotes() above - a garbled
           // roll call emits NO per-councillor attribution at all.
-          if (isGarbledRollCall(content.vote.rows, registry)) {
+          if (isGarbledRollCall(content.vote.rows, registry, year)) {
             garbledStats.excludedRollCalls++
           } else {
             for (const row of content.vote.rows) {
               const voteType = classifyVoteType(row.vote)
 
               for (const voterName of row.voters) {
+                if (PURE_TALLY_MARKER.test(voterName.trim())) continue // "(0)" bookkeeping, not a name
                 const canonicalName = normalizeVoterName(voterName)
                 if (canonicalName && registry[canonicalName]) {
                   const slug = registry[canonicalName].slug
@@ -894,6 +997,12 @@ function findVotesWithAttribution(
 
                     councillorMeetings[slug]?.add(meetingSlug)
                   }
+                } else if (isNameShaped(voterName)) {
+                  // The row survived (it's not garbled), this entry looks
+                  // like a name, and it still didn't resolve - disclose it
+                  // rather than silently dropping it (issue #199 final
+                  // verify's disclosure requirement).
+                  unresolvedStats.set(voterName, (unresolvedStats.get(voterName) ?? 0) + 1)
                 }
               }
             }
@@ -911,10 +1020,17 @@ function findVotesWithAttribution(
         councillorMeetings,
         registry,
         garbledStats,
+        unresolvedStats,
         itemPath
       )
     }
   }
 }
 
-main().catch(console.error)
+// Guard so this module can be imported (e.g. by
+// generate-votes-garbled.test.ts) to exercise pure functions like
+// isGarbledRollCall() without triggering a full vote-extraction run as a
+// side effect of the import - same pattern as generate-pages.ts.
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main().catch(console.error)
+}
