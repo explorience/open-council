@@ -1,0 +1,419 @@
+[
+ {
+  "id": "8d37e0c503bc",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "expansive",
+  "whatAYeaDid": "A yea would have amended the Downtown Residential Development Charges Grant Program to require applicants to include at least 10% affordable housing units (at 80% AMR or better) as a condition of accessing the grant.",
+  "confidence": "medium",
+  "quote": "d) xi) that Civic Administration BE DIRECTED to amend the Downtown Residential Development Charges Grant Program to require that applicants accessing this CIP are required to include 10% affordable units (80% AMR or better) to access the Residential Development Charges Grant;",
+  "flags": []
+ },
+ {
+  "id": "dd75734e7fed",
+  "issue": "climate",
+  "axis": "target-strength",
+  "polarity": "expansive",
+  "whatAYeaDid": "A yea directed Civic Administration to implement specific Climate Emergency Action Plan actions, including developing a Net-Zero Emission Plan for corporate assets and aligning City infrastructure renewal work with the 2045 net-zero corporate targets.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to include the following specific actions as part of the implementation of the Climate Emergency Action Plan (CEAP): ... develop a Net-Zero Emission Plan for Corporate Assets to ensure Fleet & Facilities can achieve 2045 corporate targets ... ensure that asset management projects ... make significant and visible efforts to be in line with net zero emission 2045 corporate targets",
+  "flags": []
+ },
+ {
+  "id": "e487620d3c9f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea adopted a package of council governance/administrative items from the Governance Working Group report -- a 2024 meeting calendar, closed-session attendance practices, referrals on council expense and appointment policies, and scheduling the next GWG meeting -- none of which is a substantive position on any of the eight tracked issues.",
+  "confidence": "high",
+  "quote": "the following actions be taken with respect to the 1st Report of the Governance Working Group",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "bcf2885344bc",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea referred part c) -- a directed staff review of the five-bedroom limit on additional residential units -- to a future Planning and Environment Committee meeting rather than deciding it that day.",
+  "confidence": "high",
+  "quote": "That Item 13, clause 3.4, part c), BE REFERRED to a future Planning and Environment Committee for further discussion.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "6c2e1a86a1c1",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea broadened the scope of a directed staff review of the five-bedroom limit on additional residential units to also cover the Residential and Business Licensing By-laws for lodging houses, with a report back to a future committee -- no substantive decision on ARU rules was made.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to undertake a review of the current five-bedroom limit, with the review to include consideration of the Residential Licensing By-law and the Business Licensing By-law as it pertains to Lodging Houses and report back at a future Planning and Environment Committee meeting",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "24d2ad2e480c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea refused retroactive Ontario Heritage Act approval for a front-porch replacement at 27 Bruce Street in the Wortley Village-Old South Heritage Conservation District -- a heritage-permit matter, not one of the eight tracked issues.",
+  "confidence": "high",
+  "quote": "the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the replacement of the front porch on the heritage designated property at 27 Bruce Street ... BE REFUSED",
+  "flags": []
+ },
+ {
+  "id": "2beef75d7e4e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea granted retroactive Ontario Heritage Act approval for the front-porch replacement at 27 Bruce Street, overriding the staff recommendation to refuse it -- a heritage-permit matter, not one of the eight tracked issues.",
+  "confidence": "high",
+  "quote": "notwithstanding the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the replacement of the front porch ... BE APPROVED",
+  "flags": []
+ },
+ {
+  "id": "1a4209df6e71",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea referred the Action Anxiety Day proclamation application back to Civic Administration for more information about the applicant's connection to London, rather than approving or denying the proclamation.",
+  "confidence": "high",
+  "quote": "That based on the application dated April 7, 2023 from Anxiety Canada, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "c84bbb2b1571",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea referred the World Sickle Cell Day 2023 proclamation application back to Civic Administration for more information about the applicant's connection to London, rather than approving or denying the proclamation.",
+  "confidence": "high",
+  "quote": "That based on the application dated May 10, 2023 from Sickle Cell Awareness Group of Ontario, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "7d73116e38de",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea authorized Civic Administration to proceed with the legal expropriation process for land needed for the East London Link project (filing the application, serving notice, and introducing the authorizing by-law); the motion text itself contains no transit-service or infrastructure-policy content.",
+  "confidence": "high",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project",
+  "flags": []
+ },
+ {
+  "id": "28823ac8d4ec",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea authorized Civic Administration to proceed with the legal expropriation process for land needed for the Wellington Gateway project (filing the application, serving notice, and introducing the authorizing by-law); the motion text itself contains no transit-service or infrastructure-policy content.",
+  "confidence": "high",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project",
+  "flags": []
+ },
+ {
+  "id": "66b2ff5ae107",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea deferred consideration of the London Police Services Board appointment to the June 20, 2023 Strategic Priorities and Policy Committee meeting rather than deciding it that day.",
+  "confidence": "high",
+  "quote": "That the London Police Services Board appointment BE CONSIDERED at the Strategic Priorities and Policy Committee on June 20, 2023.",
+  "flags": [
+   "appointment",
+   "procedural"
+  ]
+ },
+ {
+  "id": "3ce47b175c5a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea gave final Council approval to rezone 4452 Wellington Road South from a Shopping Area/Commercial designation to Light Industrial use -- an industrial land-use change with no residential component.",
+  "confidence": "high",
+  "quote": "to change the zoning FROM a Holding Associated Shopping Area Commercial (h-17*ASA1/ASA2/ASA6) Zone TO a Holding Light Industrial (h-17*LI6) Zone, and an Environmental Review (ER) Zone",
+  "flags": []
+ },
+ {
+  "id": "4a247fdf3fd7",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "A yea gave final Council approval, as amended, to rezone 952 Southdale Road West from an Urban Reserve zone to a Holding Residential R8 zone (plus a shopping-area component and open space), enabling new residential development on the site.",
+  "confidence": "medium",
+  "quote": "the proposed, attached, revised  by-law (Appendix \"B\") BE INTRODUCED at the Municipal Council meeting to be held on December 13, 2022 to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject property FROM an Urban Reserve (UR2) Zone TO a Holding Residential R8 Special Provision Zone",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "dcd7e4ffefb8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea expanded a directed staff report on a potential Animal Control By-law amendment (to permit keeping class 7/exotic animals) to also include related previous recommendations -- a report-back request, not a policy decision.",
+  "confidence": "high",
+  "quote": "That clause 4.1 BE AMENDED following the words, \"prepare a staff report\" to add \"a)  including any related previous recommendations",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "96a1c1f8e2a3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea would have expanded the same directed staff report on class 7/exotic animals to also include an evaluation of onsite and offsite programs -- a report-back request, not a policy decision.",
+  "confidence": "high",
+  "quote": "That clause 4.1 BE AMENDED by adding the follow new part b) \"an evaluation of both onsite and offsite programs;\"",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "503e769d4aa5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea adopted clause 4.1 as amended, directing Civic Administration to prepare a staff report on a potential Animal Control By-law amendment to permit keeping class 7 (exotic) animals -- a report-back request, not a policy decision.",
+  "confidence": "high",
+  "quote": "That item 8, clause 4.1, as amended, BE APPROVED.",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "719eca77e93f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea approved item 4 of the 2nd Report of Council in Closed Session; the substance of a closed-session item is confidential and not disclosed in the public meeting record.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "268fa02a686f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea directed Civic Administration to apply an equity/anti-racism assessment tool to recruitment for citizen appointments to advisory committees, boards and commissions, and to report back to the Governance Working Group -- a governance-process matter, not one of the eight tracked issues.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to take the necessary steps to ensure the application of the above-noted tool to recruitment and public engagement endeavours related to appointments; and, b)  a staff report BE SUBMITTED to the Governance Working Group for consideration",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "b1f0197826e3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea directed Civic Administration to prepare a staff report on a potential Animal Control By-law amendment to permit keeping class 7 (exotic) animals in London, for the January 2023 Community and Protective Services Committee -- a report-back request, not a policy decision.",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE DIRECTED to prepare a staff report to be brought forward to the January 2023 Community and Protective Services Committee meeting with respect to a potential amendment to By-law PH-3, the Animal Control By-law, to permit the keeping of class 7 animals within the City of London",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "4289110cf317",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "A yea approved, at the Planning and Environment Committee stage, rezoning 952 Southdale Road West from an Urban Reserve zone to a Holding Residential R8 zone (plus a shopping-area component and open space), enabling new residential development on the site.",
+  "confidence": "medium",
+  "quote": "the proposed, attached, revised  by-law (Appendix \"B\") BE INTRODUCED at the Municipal Council meeting to be held on December 13, 2022 to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject property FROM an Urban Reserve (UR2) Zone TO a Holding Residential R8 Special Provision Zone",
+  "flags": []
+ },
+ {
+  "id": "233d1469bda7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea recommended, at the Planning and Environment Committee stage, rezoning 4452 Wellington Road South from a Shopping Area/Commercial designation to Light Industrial use -- an industrial land-use change with no residential component.",
+  "confidence": "high",
+  "quote": "to amend Zoning By-law No. Z.-1 ... to change the zoning FROM a Holding Associated Shopping Area Commercial (h-17*ASA1/ASA2/ASA6) Zone TO a Holding Light Industrial (h-17*LI6) Zone",
+  "flags": []
+ },
+ {
+  "id": "d04c855d36ae",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea appointed named citizens to the Committee of Adjustment for the term ending November 14, 2026 -- a personnel appointment, not a policy position.",
+  "confidence": "high",
+  "quote": "That the following BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026:",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "c1adfb086ca7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea confirmed a further round of named citizen appointments to the Committee of Adjustment for the term ending November 14, 2026 -- a personnel appointment, not a policy position.",
+  "confidence": "high",
+  "quote": "That the following BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026:",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "f784c70a1765",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea appointed Susan Toth to the London Police Services Board for the term ending November 14, 2026 -- a personnel appointment, not a policing-policy position.",
+  "confidence": "high",
+  "quote": "That Susan Toth BE APPOINTED to the London Police Services Board for the term ending November 14, 2026.",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "71979d3b6e86",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea appointed seven named citizens to the London Public Library Board for the term ending November 14, 2026 -- a personnel appointment, not a policy position.",
+  "confidence": "high",
+  "quote": "That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2026:",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "7bca351428fb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea appointed two named councillors to the London & Middlesex Community Housing board for the term ending November 14, 2026 -- a personnel appointment, not a housing-policy position.",
+  "confidence": "high",
+  "quote": "That the following BE APPOINTED to the London & Middlesex Community Housing for the term ending November 14, 2026:    Councillor S. Lewis  Councillor H. McAlister",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "aaba00ca2725",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea appointed three named members (Mayor Morgan, Councillor Lehman, Councillor Stevenson) to the London Police Services Board for the term ending November 14, 2026 -- a personnel appointment, not a policing-policy position.",
+  "confidence": "high",
+  "quote": "That the following BE APPOINTED to the London Police Services Board for the term ending November 14, 2026:    Mayor J. Morgan  Councillor S. Lehman  Councillor S. Stevenson",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "11b122141d17",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea appointed four named citizens to the Committee of Adjustment for the term ending November 14, 2026 -- a personnel appointment, not a policy position.",
+  "confidence": "high",
+  "quote": "That the following BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026:    Mohamed Mohamed El Hadary      Cheryl Miller          Steve Polhill      Daniela Schmidt",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "d5e847027143",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea appointed named citizens to the Covent Garden Market Corporation Board of Directors for the term ending November 14, 2026 -- a personnel appointment, not a policy position.",
+  "confidence": "high",
+  "quote": "That the following BE APPOINTED to the Covent Garden Market Corporation Board of Directors for the term ending November 14, 2026:    Tyrrell de Langley         Claudio De Vincenzo  Justin Dias",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "bfab0e69afad",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea appointed Susan Toth to the London Police Services Board (the single-member seat) for the term ending November 14, 2026 -- a personnel appointment, not a policing-policy position.",
+  "confidence": "high",
+  "quote": "That Susan Toth BE APPOINTED to the London Police Services Board for the term ending November 14, 2026.",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "b146643e52c0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea appointed a slate of seven named citizens to the London Public Library Board for the term ending November 14, 2026 -- a personnel appointment, not a policy position.",
+  "confidence": "high",
+  "quote": "That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2026:",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "1abfc99f396d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea amended the slate of London Public Library Board appointees to remove Ken Baldwin and add Heather Jack -- a personnel-appointment amendment, not a policy position.",
+  "confidence": "high",
+  "quote": "That the candidates to be appointed to the London Public Library Board BE AMENDED to remove Ken Baldwin and add Heather Jack.",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "d934777377ea",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea would have appointed the amended seven-member slate (substituting Heather Jack for Ken Baldwin) to the London Public Library Board for the term ending November 14, 2026 -- a personnel appointment, not a policy position.",
+  "confidence": "high",
+  "quote": "As Amended: That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2026: Brian Gibson ... Zeba Hashmi ... Scott Andrew Collyer ... Jeremy McCall ... Ryan O'Hagan ... Zak Rahim ... Heather Jack",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "73e3fc8ba7d7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea authorized an additional selection ballot (notwithstanding Council Policy) for the London Public Library Board, including every candidate who had received five or more votes in the previous round -- a personnel-appointment process step, not a policy position.",
+  "confidence": "high",
+  "quote": "That, notwithstanding the Council Policy, an additional selection process BE UNDERTAKEN whereby each candidate from the previous selection process who received five votes or more, be included on a new selection ballot for consideration of appointment to the London Public Library Board.",
+  "flags": [
+   "appointment",
+   "procedural"
+  ]
+ },
+ {
+  "id": "20ca3b4d67c7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "A yea appointed named individuals to classes of the RBC Place London Board of Directors for staggered terms -- a personnel appointment, not a policy position.",
+  "confidence": "high",
+  "quote": "That the following actions be taken with respect to the appointments to the RBC Place London Board of Directors:    a)  Jenny Diplock and David Smith - Class 1 - term ending November 14, 2023",
+  "flags": [
+   "appointment"
+  ]
+ }
+]

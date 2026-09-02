@@ -1,0 +1,525 @@
+[
+ {
+  "id": "7ea898383025",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have redirected $250,000 per year in funding for the Capital and Innovation Grants stream by reducing the City's annual contribution to the Economic Development Reserve Fund (contingent on that reserve keeping a minimum $1M balance).",
+  "confidence": "low",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "30f3d23e3afb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed a comprehensive review of the London Community Grants Program (including Neighbourhood Decision Making) with a report back by Q2 2027, referred five delegation requests to the next SPPC meeting, and directed a report back on the feasibility of KPMG-delivered service-review training for the City's Agencies, Boards and Commissions -- no substantive funding or policy decision.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "referral",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "785c5cf3d8aa",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back to the September SORWG meeting about the potential for partnerships in municipal golf operations.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "cb6a772b71be",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested Civic Administration attend a future SORWG meeting to discuss the City's policy and general information on venue naming rights as a potential revenue source -- no decision on naming rights was made.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "9f1342ea81f8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back on the potential to license City facilities for the sale of alcohol as a revenue stream, including a list of potential facilities.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "8ad37d0034c4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to report back on eliminating City snow-plowing of sidewalks on residential streets by passing a by-law requiring property owners to clear the sidewalk along their own property.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "1200d0404ab7",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back in Q1 2025 with potential options for Council's consideration on the City's Surplus Deficit Policy -- no funding decision itself.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "77d83b4180ff",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have extended one-time funding of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days (to September 30, 2024) of its stable responsive homelessness services, funded through the Community Investment Reserve Fund.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to extend one-time funding in the amount of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days until September 30, 2024 to be funded through the Community Investment Reserve Fund",
+  "flags": []
+ },
+ {
+  "id": "5e62ba894f1c",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to engage with the Old East Village BIA, local residents, and Ark Aid Street Mission Inc. to review the Year-Round Stable Responsive Services strategy -- a consultation directive, not a funding or operational decision.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "5ac012d88d30",
+  "issue": "budget",
+  "axis": "relocation",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
+  "confidence": "high",
+  "quote": "Civic Administration BE DIRECTED to engage with Ark Aid Street Mission Inc. to relocate the front door services off Dundas Street as part of the budget amendment preparation for the 2025 Budget Update process for funding in 2025 and future years",
+  "flags": [
+   "relocation"
+  ]
+ },
+ {
+  "id": "131b5caebf15",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a single-source contract award to Ark Aid Street Mission Inc. to provide Year-Round Stable Responsive Services for people experiencing homelessness (August 1-December 31, 2024, with options to renew for two more years), funded in part by reallocating $1.8 million from the Operating Budget Contingency Reserve.",
+  "confidence": "high",
+  "quote": "a single source award to Ark Aid Street Mission Inc. BE APPROVED, as per Section 14.4 e) of the Procurement of Goods and Services Policy, to provide Year-Round Stable Responsive Services for an initial period of August 1, 2024 to December 31, 2024, with options to renew for two (2) additional years",
+  "flags": []
+ },
+ {
+  "id": "9f378672df6f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the City Clerk to record and publicly post Governance Working Group and SORWG meetings using the Zoom application -- a council-meeting-logistics decision, not a position on any tracked public issue.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "c1adcf9424ef",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the request to record and livestream working group meetings to Civic Administration for a report back on alternate technology options.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "5c4be53fef4c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, as amended, directing the City Clerk to record and publicly post Governance Working Group and SORWG meetings via Zoom.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "d02e95968a7d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the draft Advocacy Message Sign By-law to require a warning sign be displayed alongside any sign showing images of deceased humans or animals, stating it may contain graphic or disturbing content.",
+  "confidence": "high",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "ae5e06026d97",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved holding a future public participation meeting on the draft Advocacy Message Sign By-law (and a related graphic-images by-law), incorporating the graphic-image warning-sign amendment, and referring one delegation request to that future meeting.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "referral"
+  ]
+ },
+ {
+  "id": "c78ce3165a89",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the procurement and ABC-consultation actions on the Master Accommodation Plan to a future SPPC meeting, and directed staff to reach out to agencies/boards/commissions about co-location while deferring further City Hall campus expansion pending a review and a report back on unsolicited proposals.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "fe68183e5e8b",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have deferred further action on expanding the City Hall campus until unsolicited proposals were evaluated, and directed a staff report comparing those proposals against campus expansion on factors including cost, downtown revitalization, and housing supply.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "2864b8cf1a5a",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Endorsed the City's Community Encampment Response Plan, including buffer-zone guidelines restricting encampments within 150 metres of schools/daycares and within 100 metres of playgrounds, pools, private residences, and sports fields.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "742887888895",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Official Plan and Zoning By-law amendments for 735 Southdale Road West permitting residential density up to 231 units per hectare and building heights up to 12 storeys (39 metres).",
+  "confidence": "high",
+  "quote": "to permit a density of 231 units per hectare and a maximum height of 12 storeys (39 metres)",
+  "flags": []
+ },
+ {
+  "id": "c711b2cdae09",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Official Plan and zoning amendments for 323 Oxford Street West and 92/825 Proudfoot Lane permitting building heights up to 18 storeys, and endorsed a draft plan of subdivision with medium- and high-density residential blocks.",
+  "confidence": "high",
+  "quote": "permit development with a maximum height of 18 storeys (60 metres)",
+  "flags": []
+ },
+ {
+  "id": "ecbe45bd3014",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted Official Plan Amendment schedules for the London Plan's Land Needs Assessment review, including a new Specific Area Policy permitting fourplexes, stacked townhomes, and mid-rise apartment buildings up to eight storeys on identified Hyde Park-area properties.",
+  "confidence": "high",
+  "quote": "the following may be permitted on any street classification: fourplexes and stacked townhomes up to four storeys and mid-rise apartment buildings of up to eight storeys",
+  "flags": []
+ },
+ {
+  "id": "a1b9fccc38ff",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to engage a third-party economic consultant to conduct a housing-supply marketplace analysis and recommend the land supply needed to meet Council's provincial housing pledge -- a study, not a housing-supply decision itself.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "a806722d5fb1",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Endorsed using the 2023 Ministry of Finance population projections, rather than the Council-approved 2021-2051 corporate growth projections, as the basis for the Land Needs Assessment and Urban Growth Boundary Review, subject to further consultation and consultant findings.",
+  "confidence": "low",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "da278f99b309",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a Heritage Alteration Permit under the Ontario Heritage Act for 332 St. James Street in the Bishop Hellmuth Heritage Conservation District.",
+  "confidence": "high",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "679751254bc1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a note to the Agencies, Boards and Commissions Asset Management Plans approval that the London & Middlesex Community Housing Asset Management Plan (dated November 2020) will be revised and brought back to Council for review and approval in 2025 -- an informational addition, not a housing decision.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "c98a1fcdbcb0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Master Accommodation Plan - Redevelopment of City Hall Campus to the next SPPC meeting to allow public engagement and input before proceeding.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "56ec9c413165",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "72280213a85e",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "0e2c478ec1f4",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the 150-metre encampment buffer-zone setback from elementary schools and children's daycare centres as part of the Community Encampment Response Plan.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "6c435c184251",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved endorsement of the Community Encampment Response Plan with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads, 100 metres from private residential properties, and 100 metres from sports fields.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "a0899f595ca6",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the second, third, and fourth encampment buffer-zone bullets (100 metres from playgrounds/pools, 100 metres from private residences, and 100 metres from sports fields) as amended.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "72730f1d4cfb",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the first encampment buffer-zone bullet -- a 150-metre setback from elementary schools and daycare centres -- as amended, as part of endorsing the Community Encampment Response Plan.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "7c23914fd476",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted the Strategic Priorities and Policy Committee to continue its meeting beyond 6:00 PM -- a scheduling procedure only.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "7b99c160a79f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recessed the Strategic Priorities and Policy Committee meeting for 15 minutes -- a scheduling break, not a substantive decision.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "9808e3cc73de",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back on existing public washroom facilities citywide (hours, locations, staffing, usage) to help Council assess whether access aligns with encampment and basic-needs services -- a study, not a service decision.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "26af775dc1b8",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed Civic Administration to continue running the depot meal program (a basic-needs service) until Council approves the full Basic Needs Response Plan, and to identify a funding source, including unspent Operating Budget Contingency Reserve funds.",
+  "confidence": "high",
+  "quote": "Civic Administration BE DIRECTED to continue the depot meal program until the time of which the Basic Needs Response Plan is approved by Council and to find a source of funding including any unspent previously approved sources of funding, including previously allocated Operating Budget Contingency Reserve funds",
+  "flags": []
+ },
+ {
+  "id": "4249874ccbdb",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved referring the decision on Encampment Response Option 2 (year-round depot services) and its funding source to a future SPPC meeting, pending a staff report on London's application for $250M in federal encampment funding, while directing the existing depot meal program continue in the interim.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "b8345065f9bc",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved taking no action on introducing affordable housing minimums (Consultant Recommendation #15), on the stated basis that doing so would negatively affect the City's existing affordable-housing financial incentive programs.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "adc4ff27ad63",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Sustained the Chair's ruling on a point of personal privilege -- a procedural ruling, not a substantive decision on gas-powered lawn equipment policy.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "2cb0278f388f",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to design and implement a public-awareness campaign (February-April 2025) promoting better lawn and garden practices to help the environment and support climate action.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "9cfa0991c40f",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have authorized Civic Administration to pursue a multi-municipality research project on gasoline-powered lawn and garden equipment (best practices, costs/benefits, incentive programs), including a funding submission to the Federation of Canadian Municipalities' Green Municipal Fund.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "d2101785a434",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back to the Civic Works Committee on transit, road-network, and active-transportation planning for West London, including a study of filtered-permeability measures to address cut-through traffic -- no substantive transit decision was made.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "985a8965516e",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Endorsed a proposed residential development at 193-199 College Avenue with special zoning provisions permitting density up to 196 units per hectare and building height up to 21 metres, notwithstanding a staff recommendation against approval.",
+  "confidence": "high",
+  "quote": "the development, as proposed, BE ENDORSED",
+  "flags": []
+ },
+ {
+  "id": "5773ea5a7c3e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Rezoned 743 Wellington Road from Restricted Office to a special-provision Restricted Office zone that removes 'Emergency Care Establishments' as a permitted use -- a non-residential zoning change, not a housing-density decision.",
+  "confidence": "high",
+  "quote": "",
+  "flags": []
+ }
+]

@@ -1,0 +1,6 @@
+{
+  "generatedAt": "2026-09-02T18:49:48.754Z",
+  "note": "Motions dropped from the divided-vote universe because the motion's own minuted result string (e.g. 'Motion Passed (11 to 4)') disagrees with its parsed yeas/nays arrays — either the tally numbers don't match the array lengths, or which side won doesn't match which side has more votes, and that disagreement isn't explained by a supermajority requirement. Mostly an early-term (2022-23) scraper gap. Needs manual repair against the source minutes; never guessed at or silently kept. A motion whose tally numbers DO match its arrays exactly but that Failed despite a yea majority is treated separately, as a legitimate supermajority failure — included in the divided universe with a per-row resultNote, not listed here (see isSupermajorityFailure in generate-stances.ts).",
+  "count": 0,
+  "motions": []
+}
