@@ -1,26 +1,10 @@
 {
-  "generatedAt": "2026-09-02T18:49:48.755Z",
+  "generatedAt": "2026-09-02T22:39:59.833Z",
   "note": "Motions dropped from the divided-vote universe because the same person appears in more than one vote-kind bucket (e.g. both yeas and nays). Needs manual repair against the source minutes; never resolved by last-write-wins.",
-  "count": 32,
+  "count": 31,
   "motions": [
     {
-      "id": "9d0e4d8c7901",
-      "date": "2025-11-20",
-      "meetingSlug": "months/2025-11/2025-11-20 6th Meeting of the Budget Committee",
-      "itemNumber": "4.3",
-      "itemTitle": "Amendment - Budget Case #P-2 - Councillor S. Stevenson",
-      "result": "Motion Failed (5 to 10)"
-    },
-    {
-      "id": "879d60ec213a",
-      "date": "2025-10-28",
-      "meetingSlug": "months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.3",
-      "itemTitle": "Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)",
-      "result": "Majority Winner: Jim Yanchula"
-    },
-    {
-      "id": "8ae181cf47c7",
+      "id": "c9363baaf996",
       "date": "2025-03-25",
       "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.2",
@@ -28,31 +12,63 @@
       "result": "Majority Winner: No majority"
     },
     {
-      "id": "e82b54bc8565",
-      "date": "2025-02-25",
-      "meetingSlug": "months/2025-02/2025-02-25 3rd Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.1",
-      "itemTitle": "Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)",
-      "result": "Majority Winner: Robert Fraser"
+      "id": "33b5a756fd7d",
+      "date": "2025-03-25",
+      "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
+      "result": "Majority Winner: No majority"
     },
     {
-      "id": "2aba135422d0",
-      "date": "2024-11-26",
-      "meetingSlug": "months/2024-11/2024-11-26 18th Meeting of City Council",
-      "itemNumber": "8.3",
-      "itemTitle": "17th Report of the Corporate Services Committee",
-      "result": "Motion Passed (13 to 1)"
+      "id": "52dfc71ff9bb",
+      "date": "2025-03-25",
+      "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
+      "result": "Majority Winner: No majority"
     },
     {
-      "id": "42f18f5742df",
-      "date": "2024-11-20",
-      "meetingSlug": "months/2024-11/2024-11-20 17th Meeting of the Strategic Priorities and Policy Committee - CONTINUATION",
-      "itemNumber": "4.5",
-      "itemTitle": "Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis",
-      "result": "Motion Passed (7 to 6)"
+      "id": "beb90f08b0ed",
+      "date": "2025-03-25",
+      "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
+      "result": "Majority Winner: No majority"
     },
     {
-      "id": "5b5f5ce16539",
+      "id": "649df4cb80c6",
+      "date": "2025-03-25",
+      "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
+      "result": "Majority Winner: No majority"
+    },
+    {
+      "id": "ca664a6574b8",
+      "date": "2025-03-25",
+      "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
+      "result": "Majority Winner: No majority"
+    },
+    {
+      "id": "24c909ccd155",
+      "date": "2025-03-25",
+      "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
+      "result": "Majority Winner: No majority"
+    },
+    {
+      "id": "3ffa64baba37",
+      "date": "2025-03-25",
+      "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
+      "result": "Majority Winner: No majority"
+    },
+    {
+      "id": "abb4264a541b",
       "date": "2024-10-29",
       "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.5",
@@ -60,15 +76,7 @@
       "result": "Majority Winner: Councillor P. Cuddy; Councillor E. Peloza; Councillor S. Hillier"
     },
     {
-      "id": "844b1feec4be",
-      "date": "2024-05-28",
-      "meetingSlug": "months/2024-05/2024-05-28 10th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "3.1",
-      "itemTitle": "Not to be heard before 1:05 PM - London Hydro Inc. - 2023 Annual General Meeting of the Shareholder Annual Resolutions",
-      "result": "Motion Failed (3 to 12)"
-    },
-    {
-      "id": "f26fe15847b4",
+      "id": "e4a68bd8c619",
       "date": "2024-05-28",
       "meetingSlug": "months/2024-05/2024-05-28 10th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.9",
@@ -76,7 +84,7 @@
       "result": "Majority Winner: Stephen D Amelio; Devinder Luthra; Leah Thomas Gray; Chantal Kamgne Tagatzi"
     },
     {
-      "id": "f81bdb7314b0",
+      "id": "ce164aa6e6cf",
       "date": "2024-05-28",
       "meetingSlug": "months/2024-05/2024-05-28 10th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.9",
@@ -84,7 +92,7 @@
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi"
     },
     {
-      "id": "58048f86eeec",
+      "id": "d488f22085ef",
       "date": "2024-05-28",
       "meetingSlug": "months/2024-05/2024-05-28 10th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.9",
@@ -92,7 +100,7 @@
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi"
     },
     {
-      "id": "93ef884440f7",
+      "id": "7ebf1cd4d771",
       "date": "2024-05-28",
       "meetingSlug": "months/2024-05/2024-05-28 10th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.9",
@@ -100,7 +108,7 @@
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Chantal Kamgne Tagatzi; Leah Thomas Gray"
     },
     {
-      "id": "95d186d45a15",
+      "id": "0b6294a3b815",
       "date": "2024-05-28",
       "meetingSlug": "months/2024-05/2024-05-28 10th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.9",
@@ -108,7 +116,7 @@
       "result": "Majority Winner: Nicole Karsch; Andrea Butnari; Lauralee Bushan Jazey"
     },
     {
-      "id": "7b403609b9eb",
+      "id": "4de0e97753c3",
       "date": "2024-05-28",
       "meetingSlug": "months/2024-05/2024-05-28 10th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.9",
@@ -116,7 +124,7 @@
       "result": "Majority Winner: Andrea Butnari; Lauralee Bushan Jazey; Nicole Karsch"
     },
     {
-      "id": "c809cbd2ef19",
+      "id": "6d80a77d55fc",
       "date": "2024-05-28",
       "meetingSlug": "months/2024-05/2024-05-28 10th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.9",
@@ -124,7 +132,7 @@
       "result": "Majority Winner: Nicole Karsch; Andrea Butnari; Lauralee Bushan Jazey"
     },
     {
-      "id": "c5195b0f812e",
+      "id": "0221f6a0e505",
       "date": "2024-05-28",
       "meetingSlug": "months/2024-05/2024-05-28 10th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.9",
@@ -132,7 +140,7 @@
       "result": "Majority Winner: Andrea Butnari; Nicole Karsch; Lauralee Bushan Jazey"
     },
     {
-      "id": "6b2fd73081aa",
+      "id": "8c92810635e8",
       "date": "2023-11-21",
       "meetingSlug": "months/2023-11/2023-11-21 27th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.1",
@@ -140,7 +148,7 @@
       "result": "Majority Winner: D. Ferreira; H. McAlister; J. Pribil; S. Trosow"
     },
     {
-      "id": "efd2b8672784",
+      "id": "bf0e322f9a07",
       "date": "2023-10-10",
       "meetingSlug": "months/2023-10/2023-10-10 25th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.2",
@@ -148,7 +156,7 @@
       "result": "Majority Winner: Jacqueline Madden; David Little"
     },
     {
-      "id": "9c8e17685290",
+      "id": "d4de3d22e293",
       "date": "2023-09-19",
       "meetingSlug": "months/2023-09/2023-09-19 22nd Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.1",
@@ -156,7 +164,7 @@
       "result": "Majority Winner: Shawn Lewis; Corrine Rahman; Steve Lehman; Jerry Pribil; Susan Stevenson"
     },
     {
-      "id": "507ac8e47e5e",
+      "id": "b42d3da58b04",
       "date": "2023-07-25",
       "meetingSlug": "months/2023-07/2023-07-25 13th Meeting of City Council",
       "itemNumber": "8.3.9",
@@ -164,7 +172,7 @@
       "result": "Majority Winner: Mark C Ambrogio; Sarvarinder Singh Dohil; Jeff Gard"
     },
     {
-      "id": "9fa2c87fd6b5",
+      "id": "c25ff33ef839",
       "date": "2023-07-25",
       "meetingSlug": "months/2023-07/2023-07-25 13th Meeting of City Council",
       "itemNumber": "8.3.9",
@@ -172,7 +180,7 @@
       "result": "Majority Winner: Emily Poirier; Amanda Pfeffer; Anuar Issa"
     },
     {
-      "id": "d6599bc348ce",
+      "id": "26dc0eb131a4",
       "date": "2023-07-19",
       "meetingSlug": "months/2023-07/2023-07-19 19th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.3",
@@ -180,7 +188,7 @@
       "result": "Majority Winner: Tim Watson; Cedric Gomes"
     },
     {
-      "id": "e6b03c4c733a",
+      "id": "ad8a2825ba8c",
       "date": "2023-07-17",
       "meetingSlug": "months/2023-07/2023-07-17 14th Meeting of the Corporate Services Committee",
       "itemNumber": "4.1",
@@ -188,7 +196,7 @@
       "result": "Majority Winner: Jeff Gard; Mark Ambrogio; Sarvarinder Singh Dohil"
     },
     {
-      "id": "29fa1d3a8890",
+      "id": "f6bb6126b29b",
       "date": "2023-07-17",
       "meetingSlug": "months/2023-07/2023-07-17 14th Meeting of the Corporate Services Committee",
       "itemNumber": "4.1",
@@ -196,7 +204,15 @@
       "result": "Majority Winner: No majority"
     },
     {
-      "id": "f2b043d17013",
+      "id": "c3f1d892cca2",
+      "date": "2023-07-17",
+      "meetingSlug": "months/2023-07/2023-07-17 14th Meeting of the Corporate Services Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
+      "result": "Majority Winner: No majority"
+    },
+    {
+      "id": "7490fc469b71",
       "date": "2023-07-17",
       "meetingSlug": "months/2023-07/2023-07-17 14th Meeting of the Corporate Services Committee",
       "itemNumber": "4.1",
@@ -204,7 +220,7 @@
       "result": "Majority Winner: Nandini Syed; Saleme Atieh; David Godwin; Margot Stothers"
     },
     {
-      "id": "cbc38ec70999",
+      "id": "39be0f486ab8",
       "date": "2023-07-17",
       "meetingSlug": "months/2023-07/2023-07-17 14th Meeting of the Corporate Services Committee",
       "itemNumber": "4.1",
@@ -212,7 +228,7 @@
       "result": "Majority Winner: Allison Pert; Becca Amendola; Mary Ann Hodge; Amy Ford; Russell Duvernoy"
     },
     {
-      "id": "4532b31f7d28",
+      "id": "f6cf3b2c1950",
       "date": "2023-07-17",
       "meetingSlug": "months/2023-07/2023-07-17 14th Meeting of the Corporate Services Committee",
       "itemNumber": "4.1",
@@ -220,44 +236,20 @@
       "result": "Majority Winner: No majority"
     },
     {
-      "id": "5d9446fd4db5",
-      "date": "2023-06-27",
-      "meetingSlug": "months/2023-06/2023-06-27 12th Meeting of City Council",
-      "itemNumber": "8.2.2",
-      "itemTitle": "(5.1) Consideration of Appointment to the London Police Services Board",
+      "id": "0f57a9c1dcf4",
+      "date": "2023-07-17",
+      "meetingSlug": "months/2023-07/2023-07-17 14th Meeting of the Corporate Services Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "result": "Majority Winner: No majority"
     },
     {
-      "id": "f378b74d1271",
+      "id": "46d317dfe83f",
       "date": "2023-04-18",
       "meetingSlug": "months/2023-04/2023-04-18 14th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.3",
       "itemTitle": "Consideration of Appointment to the London Police Services Board (Requires 1 Member)",
       "result": "Majority Winner: Gita Canaran; Joseph Wabegijig; Ryan Gauss; Stephen D Amelio; Michele Anderson"
-    },
-    {
-      "id": "0b664e189997",
-      "date": "2023-03-28",
-      "meetingSlug": "months/2023-03/2023-03-28 12th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.2",
-      "itemTitle": "Consideration of Appointment to the London Police Services Board (Requires 1 Member)",
-      "result": "Majority Winner: No majority"
-    },
-    {
-      "id": "f72ac72d3a97",
-      "date": "2023-02-14",
-      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
-      "itemNumber": "8.5.4",
-      "itemTitle": "(4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan",
-      "result": "Majority Winner: No majority"
-    },
-    {
-      "id": "5aad3703e3af",
-      "date": "2023-02-07",
-      "meetingSlug": "months/2023-02/2023-02-07 9th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.2",
-      "itemTitle": "Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan",
-      "result": "Majority Winner: No majority"
     }
   ]
 }
