@@ -5,18 +5,18 @@ slug: "a-kayabaga"
 meetingCount: 180
 yearsActive: "2018 - 2021"
 isCurrent: false
-totalVotes: 2952
+totalVotes: 2997
 votesYea: 2440
 votesNay: 152
-votesAbsent: 352
+votesAbsent: 360
 votesRecused: 1
 votesAbstained: 0
-votesOther: 7
+votesOther: 44
 attendanceRate: 88.6
-participationRate: 87.8
+participationRate: 86.5
 yeaRate: 94.1
-contestedDissentRate: 21.2
-contestedVotes: 468
+contestedDissentRate: 18.5
+contestedVotes: 654
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,952 |
-| Voted Yea | 2,440 (82.7%) |
+| Total Votes | 2,997 |
+| Voted Yea | 2,440 (81.4%) |
 | Voted Nay | 152 (5.1%) |
-| Absent | 352 (11.9%) |
+| Absent | 360 (12.0%) |
 | Recused (conflict of interest) | 1 (0.0%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 7 (0.2%) |
+| Other/Unrecorded | 44 (1.5%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 1,590 |
-| Voted Yea | 1,274 (91.1%) |
-| Voted Nay | 124 (8.9%) |
+| Substantive Votes | 1,844 |
+| Voted Yea | 1,432 (90.4%) |
+| Voted Nay | 152 (9.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 21.2%
-- **Contested Votes**: 468
+- **Dissent Rate**: 18.5%
+- **Contested Votes**: 654
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -96,8 +96,8 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,577 | 1,332 | 99 | 90.7% |
-| Strategic Priorities and Policy Committee | 656 | 530 | 44 | 87.5% |
-| Corporate Services Committee | 306 | 243 | 5 | 81.0% |
+| Strategic Priorities and Policy Committee | 680 | 530 | 44 | 84.4% |
+| Corporate Services Committee | 327 | 243 | 5 | 75.8% |
 | Planning and Environment Committee | 303 | 240 | 3 | 80.2% |
 | Community and Protective Services Committee | 110 | 95 | 1 | 87.3% |
 

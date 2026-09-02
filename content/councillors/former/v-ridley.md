@@ -5,8 +5,8 @@ slug: "v-ridley"
 meetingCount: 212
 yearsActive: "2014 - 2018"
 isCurrent: false
-totalVotes: 4083
-votesYea: 3806
+totalVotes: 4107
+votesYea: 3830
 votesNay: 172
 votesAbsent: 96
 votesRecused: 9
@@ -15,8 +15,8 @@ votesOther: 0
 attendanceRate: 91.7
 participationRate: 97.4
 yeaRate: 95.7
-contestedDissentRate: 18.4
-contestedVotes: 804
+contestedDissentRate: 18.2
+contestedVotes: 846
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,10 +33,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,083 |
-| Voted Yea | 3,806 (93.2%) |
+| Total Votes | 4,107 |
+| Voted Yea | 3,830 (93.3%) |
 | Voted Nay | 172 (4.2%) |
-| Absent | 96 (2.4%) |
+| Absent | 96 (2.3%) |
 | Recused (conflict of interest) | 9 (0.2%) |
 | Abstained | 0 (0.0%) |
 
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,208 |
-| Voted Yea | 2,990 (94.7%) |
-| Voted Nay | 167 (5.3%) |
+| Substantive Votes | 3,260 |
+| Voted Yea | 3,028 (94.6%) |
+| Voted Nay | 172 (5.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 18.4%
-- **Contested Votes**: 804
+- **Dissent Rate**: 18.2%
+- **Contested Votes**: 846
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 316 |
-| Voted Yea | 290 (93.9%) |
-| Voted Nay | 19 (6.1%) |
+| Budget Votes | 324 |
+| Voted Yea | 298 (94.0%) |
+| Voted Nay | 19 (6.0%) |
 | Absent | 7 |
 
 
@@ -94,11 +94,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,248 | 2,053 | 113 | 96.4% |
-| Strategic Priorities and Policy Committee | 728 | 682 | 39 | 99.0% |
+| Council | 2,261 | 2,066 | 113 | 96.4% |
+| Strategic Priorities and Policy Committee | 737 | 691 | 39 | 99.1% |
 | Civic Works Committee | 520 | 507 | 8 | 99.0% |
-| Community and Protective Services Committee | 386 | 365 | 10 | 97.2% |
-| Corporate Services Committee | 201 | 199 | 2 | 100.0% |
+| Community and Protective Services Committee | 387 | 366 | 10 | 97.2% |
+| Corporate Services Committee | 202 | 200 | 2 | 100.0% |
 
 
 ## Notable Dissenting Votes

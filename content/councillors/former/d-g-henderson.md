@@ -5,8 +5,8 @@ slug: "d-g-henderson"
 meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 3206
-votesYea: 2954
+totalVotes: 3232
+votesYea: 2980
 votesNay: 252
 votesAbsent: 0
 votesRecused: 0
@@ -14,9 +14,9 @@ votesAbstained: 0
 votesOther: 0
 attendanceRate: 95.5
 participationRate: 100.0
-yeaRate: 92.1
-contestedDissentRate: 35.3
-contestedVotes: 683
+yeaRate: 92.2
+contestedDissentRate: 34.4
+contestedVotes: 706
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,206 |
-| Voted Yea | 2,954 (92.1%) |
-| Voted Nay | 252 (7.9%) |
+| Total Votes | 3,232 |
+| Voted Yea | 2,980 (92.2%) |
+| Voted Nay | 252 (7.8%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,878 |
-| Voted Yea | 2,626 (91.2%) |
-| Voted Nay | 252 (8.8%) |
+| Substantive Votes | 2,901 |
+| Voted Yea | 2,649 (91.3%) |
+| Voted Nay | 252 (8.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 35.3%
-- **Contested Votes**: 683
+- **Dissent Rate**: 34.4%
+- **Contested Votes**: 706
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 347 |
-| Voted Yea | 291 (83.9%) |
-| Voted Nay | 56 (16.1%) |
+| Budget Votes | 355 |
+| Voted Yea | 299 (84.2%) |
+| Voted Nay | 56 (15.8%) |
 | Absent | 0 |
 
 
@@ -94,9 +94,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,252 | 2,074 | 178 | 100.0% |
+| Council | 2,276 | 2,098 | 178 | 100.0% |
 | Planning and Environment Committee | 685 | 668 | 17 | 100.0% |
-| Strategic Priorities and Policy Committee | 269 | 212 | 57 | 100.0% |
+| Strategic Priorities and Policy Committee | 271 | 214 | 57 | 100.0% |
 
 
 ## Notable Dissenting Votes

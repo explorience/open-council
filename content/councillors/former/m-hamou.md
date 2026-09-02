@@ -5,18 +5,18 @@ slug: "m-hamou"
 meetingCount: 71
 yearsActive: "2021 - 2022"
 isCurrent: false
-totalVotes: 1012
+totalVotes: 1071
 votesYea: 812
 votesNay: 28
 votesAbsent: 4
 votesRecused: 2
-votesAbstained: 8
-votesOther: 158
+votesAbstained: 10
+votesOther: 215
 attendanceRate: 100.0
-participationRate: 83.0
+participationRate: 78.4
 yeaRate: 96.7
-contestedDissentRate: 10.1
-contestedVotes: 99
+contestedDissentRate: 9.4
+contestedVotes: 170
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 1,012 |
-| Voted Yea | 812 (80.2%) |
-| Voted Nay | 28 (2.8%) |
+| Total Votes | 1,071 |
+| Voted Yea | 812 (75.8%) |
+| Voted Nay | 28 (2.6%) |
 | Absent | 4 (0.4%) |
 | Recused (conflict of interest) | 2 (0.2%) |
-| Abstained | 8 (0.8%) |
-| Other/Unrecorded | 158 (15.6%) |
+| Abstained | 10 (0.9%) |
+| Other/Unrecorded | 215 (20.1%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 605 |
-| Voted Yea | 416 (95.4%) |
-| Voted Nay | 20 (4.6%) |
+| Substantive Votes | 735 |
+| Voted Yea | 479 (94.5%) |
+| Voted Nay | 28 (5.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 10.1%
-- **Contested Votes**: 99
+- **Dissent Rate**: 9.4%
+- **Contested Votes**: 170
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -94,9 +94,9 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 470 | 454 | 14 | 99.6% |
-| Strategic Priorities and Policy Committee | 336 | 160 | 6 | 49.4% |
+| Strategic Priorities and Policy Committee | 393 | 160 | 6 | 42.2% |
 | Community and Protective Services Committee | 103 | 100 | 3 | 100.0% |
-| Corporate Services Committee | 77 | 72 | 5 | 100.0% |
+| Corporate Services Committee | 79 | 72 | 5 | 97.5% |
 | Planning and Environment Committee | 26 | 26 | 0 | 100.0% |
 
 

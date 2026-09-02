@@ -5,8 +5,8 @@ slug: "j-f-fontana"
 meetingCount: 139
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2747
-votesYea: 2609
+totalVotes: 2778
+votesYea: 2640
 votesNay: 138
 votesAbsent: 0
 votesRecused: 0
@@ -15,8 +15,8 @@ votesOther: 0
 attendanceRate: 95.6
 participationRate: 100.0
 yeaRate: 95.0
-contestedDissentRate: 15.2
-contestedVotes: 646
+contestedDissentRate: 14.8
+contestedVotes: 675
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,8 +33,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,747 |
-| Voted Yea | 2,609 (95.0%) |
+| Total Votes | 2,778 |
+| Voted Yea | 2,640 (95.0%) |
 | Voted Nay | 138 (5.0%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,484 |
-| Voted Yea | 2,346 (94.4%) |
-| Voted Nay | 138 (5.6%) |
+| Substantive Votes | 2,513 |
+| Voted Yea | 2,375 (94.5%) |
+| Voted Nay | 138 (5.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 15.2%
-- **Contested Votes**: 646
+- **Dissent Rate**: 14.8%
+- **Contested Votes**: 675
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 419 |
-| Voted Yea | 371 (88.5%) |
-| Voted Nay | 48 (11.5%) |
+| Budget Votes | 428 |
+| Voted Yea | 380 (88.8%) |
+| Voted Nay | 48 (11.2%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,862 | 1,780 | 82 | 100.0% |
-| Strategic Priorities and Policy Committee | 324 | 280 | 44 | 100.0% |
+| Council | 1,888 | 1,806 | 82 | 100.0% |
+| Strategic Priorities and Policy Committee | 329 | 285 | 44 | 100.0% |
 | Planning and Environment Committee | 299 | 296 | 3 | 100.0% |
 | Corporate Services Committee | 142 | 137 | 5 | 100.0% |
 | Civic Works Committee | 78 | 76 | 2 | 100.0% |

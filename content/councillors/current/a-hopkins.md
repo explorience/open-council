@@ -5,18 +5,18 @@ slug: "a-hopkins"
 meetingCount: 666
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 12875
-votesYea: 11551
+totalVotes: 13182
+votesYea: 11569
 votesNay: 958
-votesAbsent: 177
+votesAbsent: 180
 votesRecused: 16
-votesAbstained: 7
-votesOther: 166
+votesAbstained: 16
+votesOther: 443
 attendanceRate: 96.8
-participationRate: 97.2
-yeaRate: 92.3
-contestedDissentRate: 26.6
-contestedVotes: 2484
+participationRate: 95.0
+yeaRate: 92.4
+contestedDissentRate: 26.3
+contestedVotes: 3419
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 12,875 |
-| Voted Yea | 11,551 (89.7%) |
-| Voted Nay | 958 (7.4%) |
-| Absent | 177 (1.4%) |
+| Total Votes | 13,182 |
+| Voted Yea | 11,569 (87.8%) |
+| Voted Nay | 958 (7.3%) |
+| Absent | 180 (1.4%) |
 | Recused (conflict of interest) | 16 (0.1%) |
-| Abstained | 7 (0.1%) |
-| Other/Unrecorded | 166 (1.3%) |
+| Abstained | 16 (0.1%) |
+| Other/Unrecorded | 443 (3.4%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,586 |
-| Voted Yea | 6,642 (90.2%) |
-| Voted Nay | 719 (9.8%) |
+| Substantive Votes | 8,851 |
+| Voted Yea | 7,338 (88.5%) |
+| Voted Nay | 958 (11.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 26.6%
-- **Contested Votes**: 2,484
+- **Dissent Rate**: 26.3%
+- **Contested Votes**: 3,419
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,9 +71,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,238 |
-| Voted Yea | 1,064 (86.2%) |
-| Voted Nay | 170 (13.8%) |
+| Budget Votes | 1,244 |
+| Voted Yea | 1,070 (86.3%) |
+| Voted Nay | 170 (13.7%) |
 | Absent | 4 |
 
 
@@ -110,11 +110,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 6,649 | 5,957 | 606 | 98.7% |
-| Strategic Priorities and Policy Committee | 2,634 | 2,200 | 219 | 91.8% |
-| Planning and Environment Committee | 2,626 | 2,516 | 62 | 98.2% |
+| Council | 6,670 | 5,967 | 606 | 98.5% |
+| Strategic Priorities and Policy Committee | 2,913 | 2,206 | 219 | 83.2% |
+| Planning and Environment Committee | 2,629 | 2,518 | 62 | 98.1% |
 | Civic Works Committee | 318 | 313 | 5 | 100.0% |
-| Corporate Services Committee | 267 | 260 | 3 | 98.5% |
+| Corporate Services Committee | 271 | 260 | 3 | 97.0% |
 | Budget Committee | 189 | 138 | 49 | 98.9% |
 | Community and Protective Services Committee | 109 | 91 | 9 | 91.7% |
 | Infrastructure and Corporate Services Committee | 83 | 76 | 5 | 97.6% |

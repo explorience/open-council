@@ -5,18 +5,18 @@ slug: "e-peloza"
 meetingCount: 486
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7586
+totalVotes: 7926
 votesYea: 6306
 votesNay: 628
-votesAbsent: 455
+votesAbsent: 458
 votesRecused: 16
-votesAbstained: 2
-votesOther: 179
+votesAbstained: 7
+votesOther: 511
 attendanceRate: 98.0
-participationRate: 91.4
+participationRate: 87.5
 yeaRate: 90.9
-contestedDissentRate: 23.4
-contestedVotes: 1512
+contestedDissentRate: 20.2
+contestedVotes: 2289
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,586 |
-| Voted Yea | 6,306 (83.1%) |
-| Voted Nay | 628 (8.3%) |
-| Absent | 455 (6.0%) |
+| Total Votes | 7,926 |
+| Voted Yea | 6,306 (79.6%) |
+| Voted Nay | 628 (7.9%) |
+| Absent | 458 (5.8%) |
 | Recused (conflict of interest) | 16 (0.2%) |
-| Abstained | 2 (0.0%) |
-| Other/Unrecorded | 179 (2.4%) |
+| Abstained | 7 (0.1%) |
+| Other/Unrecorded | 511 (6.4%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,228 |
-| Voted Yea | 3,299 (86.5%) |
-| Voted Nay | 513 (13.5%) |
+| Substantive Votes | 5,472 |
+| Voted Yea | 3,961 (86.3%) |
+| Voted Nay | 628 (13.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 23.4%
-- **Contested Votes**: 1,512
+- **Dissent Rate**: 20.2%
+- **Contested Votes**: 2,289
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -110,13 +110,13 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,229 | 3,595 | 334 | 92.9% |
-| Strategic Priorities and Policy Committee | 1,886 | 1,424 | 158 | 83.9% |
+| Council | 4,240 | 3,595 | 334 | 92.7% |
+| Strategic Priorities and Policy Committee | 2,195 | 1,424 | 158 | 72.1% |
 | Planning and Environment Committee | 385 | 364 | 19 | 99.5% |
 | Civic Works Committee | 378 | 355 | 13 | 97.4% |
 | Community and Protective Services Committee | 374 | 316 | 30 | 92.5% |
 | Budget Committee | 189 | 122 | 67 | 100.0% |
-| Corporate Services Committee | 96 | 87 | 2 | 92.7% |
+| Corporate Services Committee | 116 | 87 | 2 | 76.7% |
 | Infrastructure and Corporate Services Committee | 49 | 43 | 5 | 98.0% |
 
 

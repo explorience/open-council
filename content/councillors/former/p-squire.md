@@ -5,18 +5,18 @@ slug: "p-squire"
 meetingCount: 372
 yearsActive: "2014 - 2021"
 isCurrent: false
-totalVotes: 7787
-votesYea: 7144
+totalVotes: 7830
+votesYea: 7161
 votesNay: 519
 votesAbsent: 118
 votesRecused: 5
-votesAbstained: 0
-votesOther: 1
+votesAbstained: 2
+votesOther: 25
 attendanceRate: 94.8
-participationRate: 98.4
+participationRate: 98.1
 yeaRate: 93.2
-contestedDissentRate: 25.9
-contestedVotes: 1480
+contestedDissentRate: 24.3
+contestedVotes: 1739
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,787 |
-| Voted Yea | 7,144 (91.7%) |
-| Voted Nay | 519 (6.7%) |
+| Total Votes | 7,830 |
+| Voted Yea | 7,161 (91.5%) |
+| Voted Nay | 519 (6.6%) |
 | Absent | 118 (1.5%) |
 | Recused (conflict of interest) | 5 (0.1%) |
-| Abstained | 0 (0.0%) |
-| Other/Unrecorded | 1 (0.0%) |
+| Abstained | 2 (0.0%) |
+| Other/Unrecorded | 25 (0.3%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,355 |
-| Voted Yea | 4,837 (91.1%) |
-| Voted Nay | 470 (8.9%) |
+| Substantive Votes | 5,646 |
+| Voted Yea | 5,047 (90.7%) |
+| Voted Nay | 519 (9.3%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 25.9%
-- **Contested Votes**: 1,480
+- **Dissent Rate**: 24.3%
+- **Contested Votes**: 1,739
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,9 +71,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 693 |
-| Voted Yea | 579 (84.6%) |
-| Voted Nay | 105 (15.4%) |
+| Budget Votes | 700 |
+| Voted Yea | 586 (84.8%) |
+| Voted Nay | 105 (15.2%) |
 | Absent | 9 |
 
 
@@ -95,9 +95,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,919 | 3,595 | 314 | 99.7% |
+| Council | 3,928 | 3,604 | 314 | 99.7% |
 | Planning and Environment Committee | 1,581 | 1,475 | 32 | 95.3% |
-| Strategic Priorities and Policy Committee | 1,409 | 1,231 | 144 | 97.6% |
+| Strategic Priorities and Policy Committee | 1,443 | 1,239 | 144 | 95.8% |
 | Civic Works Committee | 477 | 461 | 10 | 98.7% |
 | Community and Protective Services Committee | 401 | 382 | 19 | 100.0% |
 

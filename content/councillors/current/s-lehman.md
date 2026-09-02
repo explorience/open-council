@@ -5,18 +5,18 @@ slug: "s-lehman"
 meetingCount: 414
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 8696
+totalVotes: 9011
 votesYea: 7700
 votesNay: 486
-votesAbsent: 321
+votesAbsent: 325
 votesRecused: 54
-votesAbstained: 13
-votesOther: 122
+votesAbstained: 18
+votesOther: 428
 attendanceRate: 96.4
-participationRate: 94.1
+participationRate: 90.8
 yeaRate: 94.1
-contestedDissentRate: 15.2
-contestedVotes: 1555
+contestedDissentRate: 12.2
+contestedVotes: 2426
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,696 |
-| Voted Yea | 7,700 (88.5%) |
-| Voted Nay | 486 (5.6%) |
-| Absent | 321 (3.7%) |
+| Total Votes | 9,011 |
+| Voted Yea | 7,700 (85.5%) |
+| Voted Nay | 486 (5.4%) |
+| Absent | 325 (3.6%) |
 | Recused (conflict of interest) | 54 (0.6%) |
-| Abstained | 13 (0.1%) |
-| Other/Unrecorded | 122 (1.4%) |
+| Abstained | 18 (0.2%) |
+| Other/Unrecorded | 428 (4.7%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,221 |
-| Voted Yea | 3,531 (89.5%) |
-| Voted Nay | 414 (10.5%) |
+| Substantive Votes | 5,465 |
+| Voted Yea | 4,330 (89.9%) |
+| Voted Nay | 486 (10.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 15.2%
-- **Contested Votes**: 1,555
+- **Dissent Rate**: 12.2%
+- **Contested Votes**: 2,426
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -110,9 +110,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,228 | 3,823 | 259 | 96.5% |
-| Planning and Environment Committee | 2,226 | 2,057 | 39 | 94.2% |
-| Strategic Priorities and Policy Committee | 1,847 | 1,492 | 124 | 87.5% |
+| Council | 4,239 | 3,823 | 259 | 96.3% |
+| Planning and Environment Committee | 2,227 | 2,057 | 39 | 94.1% |
+| Strategic Priorities and Policy Committee | 2,150 | 1,492 | 124 | 75.2% |
 | Civic Works Committee | 206 | 198 | 6 | 99.0% |
 | Budget Committee | 189 | 130 | 58 | 99.5% |
 

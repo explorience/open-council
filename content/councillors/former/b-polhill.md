@@ -5,8 +5,8 @@ slug: "b-polhill"
 meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 3601
-votesYea: 3402
+totalVotes: 3635
+votesYea: 3436
 votesNay: 199
 votesAbsent: 0
 votesRecused: 0
@@ -15,8 +15,8 @@ votesOther: 0
 attendanceRate: 98.8
 participationRate: 100.0
 yeaRate: 94.5
-contestedDissentRate: 22.6
-contestedVotes: 765
+contestedDissentRate: 22.0
+contestedVotes: 796
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,8 +33,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,601 |
-| Voted Yea | 3,402 (94.5%) |
+| Total Votes | 3,635 |
+| Voted Yea | 3,436 (94.5%) |
 | Voted Nay | 199 (5.5%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,270 |
-| Voted Yea | 3,071 (93.9%) |
-| Voted Nay | 199 (6.1%) |
+| Substantive Votes | 3,301 |
+| Voted Yea | 3,102 (94.0%) |
+| Voted Nay | 199 (6.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 22.6%
-- **Contested Votes**: 765
+- **Dissent Rate**: 22.0%
+- **Contested Votes**: 796
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 450 |
-| Voted Yea | 404 (89.8%) |
-| Voted Nay | 46 (10.2%) |
+| Budget Votes | 461 |
+| Voted Yea | 415 (90.0%) |
+| Voted Nay | 46 (10.0%) |
 | Absent | 0 |
 
 
@@ -94,9 +94,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,285 | 2,151 | 134 | 100.0% |
+| Council | 2,313 | 2,179 | 134 | 100.0% |
 | Planning and Environment Committee | 728 | 717 | 11 | 100.0% |
-| Strategic Priorities and Policy Committee | 332 | 282 | 50 | 100.0% |
+| Strategic Priorities and Policy Committee | 338 | 288 | 50 | 100.0% |
 | Corporate Services Committee | 256 | 252 | 4 | 100.0% |
 
 

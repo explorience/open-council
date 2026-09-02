@@ -5,9 +5,9 @@ slug: "s-orser"
 meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2548
-votesYea: 2326
-votesNay: 222
+totalVotes: 2571
+votesYea: 2348
+votesNay: 223
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
@@ -15,8 +15,8 @@ votesOther: 0
 attendanceRate: 91.0
 participationRate: 100.0
 yeaRate: 91.3
-contestedDissentRate: 32.1
-contestedVotes: 660
+contestedDissentRate: 31.3
+contestedVotes: 683
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,548 |
-| Voted Yea | 2,326 (91.3%) |
-| Voted Nay | 222 (8.7%) |
+| Total Votes | 2,571 |
+| Voted Yea | 2,348 (91.3%) |
+| Voted Nay | 223 (8.7%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,245 |
-| Voted Yea | 2,023 (90.1%) |
-| Voted Nay | 222 (9.9%) |
+| Substantive Votes | 2,268 |
+| Voted Yea | 2,045 (90.2%) |
+| Voted Nay | 223 (9.8%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 32.1%
-- **Contested Votes**: 660
+- **Dissent Rate**: 31.3%
+- **Contested Votes**: 683
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 389 |
-| Voted Yea | 317 (81.5%) |
-| Voted Nay | 72 (18.5%) |
+| Budget Votes | 394 |
+| Voted Yea | 322 (81.7%) |
+| Voted Nay | 72 (18.3%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,041 | 1,893 | 148 | 100.0% |
-| Strategic Priorities and Policy Committee | 308 | 239 | 69 | 100.0% |
+| Council | 2,061 | 1,912 | 149 | 100.0% |
+| Strategic Priorities and Policy Committee | 311 | 242 | 69 | 100.0% |
 | Civic Works Committee | 199 | 194 | 5 | 100.0% |
 
 

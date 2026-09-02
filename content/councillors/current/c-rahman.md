@@ -5,18 +5,18 @@ slug: "c-rahman"
 meetingCount: 270
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4027
+totalVotes: 4263
 votesYea: 3563
 votesNay: 393
 votesAbsent: 48
 votesRecused: 23
-votesAbstained: 0
-votesOther: 0
+votesAbstained: 1
+votesOther: 235
 attendanceRate: 99.6
-participationRate: 98.2
+participationRate: 92.8
 yeaRate: 90.1
-contestedDissentRate: 20.2
-contestedVotes: 956
+contestedDissentRate: 16.6
+contestedVotes: 1563
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,12 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,027 |
-| Voted Yea | 3,563 (88.5%) |
-| Voted Nay | 393 (9.8%) |
-| Absent | 48 (1.2%) |
-| Recused (conflict of interest) | 23 (0.6%) |
-| Abstained | 0 (0.0%) |
+| Total Votes | 4,263 |
+| Voted Yea | 3,563 (83.6%) |
+| Voted Nay | 393 (9.2%) |
+| Absent | 48 (1.1%) |
+| Recused (conflict of interest) | 23 (0.5%) |
+| Abstained | 1 (0.0%) |
+| Other/Unrecorded | 235 (5.5%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -49,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,126 |
-| Voted Yea | 1,786 (85.4%) |
-| Voted Nay | 306 (14.6%) |
+| Substantive Votes | 2,988 |
+| Voted Yea | 2,306 (85.4%) |
+| Voted Nay | 393 (14.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 20.2%
-- **Contested Votes**: 956
+- **Dissent Rate**: 16.6%
+- **Contested Votes**: 1,563
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -109,8 +110,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,108 | 1,830 | 218 | 97.2% |
-| Strategic Priorities and Policy Committee | 867 | 776 | 91 | 100.0% |
+| Council | 2,119 | 1,830 | 218 | 96.6% |
+| Strategic Priorities and Policy Committee | 1,092 | 776 | 91 | 79.4% |
 | Planning and Environment Committee | 417 | 405 | 8 | 99.0% |
 | Budget Committee | 189 | 136 | 53 | 100.0% |
 | Community and Protective Services Committee | 157 | 148 | 8 | 99.4% |

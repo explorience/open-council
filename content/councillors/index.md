@@ -37,7 +37,7 @@ Browse London City Council members by their meeting attendance and voting record
 - [Mo Salih](/councillors/former/m-salih) - 350 meetings
 - [Matt Brown](/councillors/former/m-brown) - 328 meetings
 - [Ed Holder](/councillors/former/e-holder) - 313 meetings
-- [Bill Armstrong](/councillors/former/b-armstrong) - 245 meetings
+- [Bill Armstrong](/councillors/former/b-armstrong) - 286 meetings
 - [Tanya Park](/councillors/former/t-park) - 228 meetings
 - [Virginia Ridley](/councillors/former/v-ridley) - 212 meetings
 - [Bud Polhill](/councillors/former/b-polhill) - 199 meetings

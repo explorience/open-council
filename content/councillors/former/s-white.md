@@ -5,8 +5,8 @@ slug: "s-white"
 meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2740
-votesYea: 2573
+totalVotes: 2772
+votesYea: 2605
 votesNay: 167
 votesAbsent: 0
 votesRecused: 0
@@ -14,9 +14,9 @@ votesAbstained: 0
 votesOther: 0
 attendanceRate: 89.5
 participationRate: 100.0
-yeaRate: 93.9
-contestedDissentRate: 21.1
-contestedVotes: 692
+yeaRate: 94.0
+contestedDissentRate: 20.4
+contestedVotes: 721
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,740 |
-| Voted Yea | 2,573 (93.9%) |
-| Voted Nay | 167 (6.1%) |
+| Total Votes | 2,772 |
+| Voted Yea | 2,605 (94.0%) |
+| Voted Nay | 167 (6.0%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,526 |
-| Voted Yea | 2,359 (93.4%) |
-| Voted Nay | 167 (6.6%) |
+| Substantive Votes | 2,555 |
+| Voted Yea | 2,388 (93.5%) |
+| Voted Nay | 167 (6.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 21.1%
-- **Contested Votes**: 692
+- **Dissent Rate**: 20.4%
+- **Contested Votes**: 721
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 354 |
-| Voted Yea | 313 (88.4%) |
-| Voted Nay | 41 (11.6%) |
+| Budget Votes | 364 |
+| Voted Yea | 323 (88.7%) |
+| Voted Nay | 41 (11.3%) |
 | Absent | 0 |
 
 
@@ -94,9 +94,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,795 | 1,677 | 118 | 100.0% |
+| Council | 1,823 | 1,705 | 118 | 100.0% |
 | Planning and Environment Committee | 613 | 603 | 10 | 100.0% |
-| Strategic Priorities and Policy Committee | 278 | 242 | 36 | 100.0% |
+| Strategic Priorities and Policy Committee | 282 | 246 | 36 | 100.0% |
 | Civic Works Committee | 54 | 51 | 3 | 100.0% |
 
 

@@ -5,18 +5,18 @@ slug: "s-stevenson"
 meetingCount: 221
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3845
+totalVotes: 4085
 votesYea: 2900
 votesNay: 632
-votesAbsent: 310
+votesAbsent: 320
 votesRecused: 3
 votesAbstained: 0
-votesOther: 0
+votesOther: 230
 attendanceRate: 89.1
-participationRate: 91.9
+participationRate: 86.5
 yeaRate: 82.1
-contestedDissentRate: 34.7
-contestedVotes: 900
+contestedDissentRate: 38.3
+contestedVotes: 1469
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,12 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,845 |
-| Voted Yea | 2,900 (75.4%) |
-| Voted Nay | 632 (16.4%) |
-| Absent | 310 (8.1%) |
+| Total Votes | 4,085 |
+| Voted Yea | 2,900 (71.0%) |
+| Voted Nay | 632 (15.5%) |
+| Absent | 320 (7.8%) |
 | Recused (conflict of interest) | 3 (0.1%) |
 | Abstained | 0 (0.0%) |
+| Other/Unrecorded | 230 (5.6%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -49,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,034 |
-| Voted Yea | 1,526 (80.4%) |
-| Voted Nay | 371 (19.6%) |
+| Substantive Votes | 2,894 |
+| Voted Yea | 1,834 (74.4%) |
+| Voted Nay | 632 (25.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 34.7%
-- **Contested Votes**: 900
+- **Dissent Rate**: 38.3%
+- **Contested Votes**: 1,469
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -109,11 +110,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,108 | 1,498 | 432 | 91.6% |
-| Strategic Priorities and Policy Committee | 867 | 708 | 110 | 94.3% |
+| Council | 2,119 | 1,498 | 432 | 91.1% |
+| Strategic Priorities and Policy Committee | 1,072 | 708 | 110 | 76.3% |
 | Planning and Environment Committee | 335 | 288 | 9 | 88.7% |
+| Corporate Services Committee | 190 | 129 | 10 | 73.2% |
 | Budget Committee | 189 | 137 | 45 | 96.3% |
-| Corporate Services Committee | 166 | 129 | 10 | 83.7% |
 | Community and Protective Services Committee | 93 | 78 | 7 | 91.4% |
 | Infrastructure and Corporate Services Committee | 87 | 62 | 19 | 93.1% |
 

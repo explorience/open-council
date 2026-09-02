@@ -5,18 +5,18 @@ slug: "h-mcalister"
 meetingCount: 235
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3785
+totalVotes: 4028
 votesYea: 3200
 votesNay: 282
-votesAbsent: 296
+votesAbsent: 303
 votesRecused: 7
 votesAbstained: 0
-votesOther: 0
+votesOther: 236
 attendanceRate: 94.7
-participationRate: 92.0
+participationRate: 86.4
 yeaRate: 91.9
-contestedDissentRate: 18.7
-contestedVotes: 923
+contestedDissentRate: 14.0
+contestedVotes: 1468
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,12 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,785 |
-| Voted Yea | 3,200 (84.5%) |
-| Voted Nay | 282 (7.5%) |
-| Absent | 296 (7.8%) |
+| Total Votes | 4,028 |
+| Voted Yea | 3,200 (79.4%) |
+| Voted Nay | 282 (7.0%) |
+| Absent | 303 (7.5%) |
 | Recused (conflict of interest) | 7 (0.2%) |
 | Abstained | 0 (0.0%) |
+| Other/Unrecorded | 236 (5.9%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -49,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,136 |
-| Voted Yea | 1,741 (87.7%) |
-| Voted Nay | 245 (12.3%) |
+| Substantive Votes | 3,005 |
+| Voted Yea | 2,249 (88.9%) |
+| Voted Nay | 282 (11.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 18.7%
-- **Contested Votes**: 923
+- **Dissent Rate**: 14.0%
+- **Contested Votes**: 1,468
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -109,11 +110,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,108 | 1,778 | 140 | 91.0% |
-| Strategic Priorities and Policy Committee | 867 | 769 | 71 | 96.9% |
+| Council | 2,119 | 1,778 | 140 | 90.5% |
+| Strategic Priorities and Policy Committee | 1,092 | 769 | 71 | 76.9% |
 | Community and Protective Services Committee | 266 | 228 | 14 | 91.0% |
 | Budget Committee | 189 | 135 | 39 | 92.1% |
-| Corporate Services Committee | 166 | 130 | 1 | 78.9% |
+| Corporate Services Committee | 173 | 130 | 1 | 75.7% |
 | Civic Works Committee | 102 | 81 | 9 | 88.2% |
 | Infrastructure and Corporate Services Committee | 87 | 79 | 8 | 100.0% |
 

@@ -5,8 +5,8 @@ slug: "j-p-bryant"
 meetingCount: 168
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2821
-votesYea: 2610
+totalVotes: 2851
+votesYea: 2640
 votesNay: 211
 votesAbsent: 0
 votesRecused: 0
@@ -14,9 +14,9 @@ votesAbstained: 0
 votesOther: 0
 attendanceRate: 89.7
 participationRate: 100.0
-yeaRate: 92.5
-contestedDissentRate: 26.6
-contestedVotes: 685
+yeaRate: 92.6
+contestedDissentRate: 25.8
+contestedVotes: 712
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,821 |
-| Voted Yea | 2,610 (92.5%) |
-| Voted Nay | 211 (7.5%) |
+| Total Votes | 2,851 |
+| Voted Yea | 2,640 (92.6%) |
+| Voted Nay | 211 (7.4%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,524 |
-| Voted Yea | 2,313 (91.6%) |
-| Voted Nay | 211 (8.4%) |
+| Substantive Votes | 2,551 |
+| Voted Yea | 2,340 (91.7%) |
+| Voted Nay | 211 (8.3%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 26.6%
-- **Contested Votes**: 685
+- **Dissent Rate**: 25.8%
+- **Contested Votes**: 712
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 433 |
-| Voted Yea | 388 (89.6%) |
-| Voted Nay | 45 (10.4%) |
+| Budget Votes | 444 |
+| Voted Yea | 399 (89.9%) |
+| Voted Nay | 45 (10.1%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,096 | 1,944 | 152 | 100.0% |
-| Strategic Priorities and Policy Committee | 308 | 261 | 47 | 100.0% |
+| Council | 2,120 | 1,968 | 152 | 100.0% |
+| Strategic Priorities and Policy Committee | 314 | 267 | 47 | 100.0% |
 | Corporate Services Committee | 223 | 216 | 7 | 100.0% |
 | Community and Protective Services Committee | 166 | 162 | 4 | 100.0% |
 | Planning and Environment Committee | 28 | 27 | 1 | 100.0% |
