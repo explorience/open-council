@@ -14,7 +14,7 @@ import {
   normalizeCouncillorName,
 } from "../lib/councillors/index.js"
 import { getAllTopics } from "../lib/topics/index.js"
-import { isParticipatingVote, isProcedural, type VoteType } from "../lib/votes/vote-type.js"
+import { hasRecordedDissent, isParticipatingVote, isProcedural, type VoteType } from "../lib/votes/vote-type.js"
 
 /**
  * Serialize a stats payload with a `generatedAt` timestamp, reusing the
@@ -73,18 +73,18 @@ interface VoteRecord {
   unanimous: boolean
   // How `unanimous` was determined - see generate-votes.ts's parseResult().
   // Read here (not just `unanimous`) so the procedural gate below can
-  // require a CONFIRMED resolvable Nay ("votes"), not merely "not unanimous"
-  // - see isProcedural()'s doc comment in lib/votes/vote-type.ts for why
-  // `!unanimous` alone is the wrong signal (issue #199 punch list item 2).
+  // require CONFIRMED, attributable dissent via hasRecordedDissent(),
+  // not merely "not unanimous" - see that function's doc comment in
+  // lib/votes/vote-type.ts (issue #199 punch list item 2).
   unanimousSource?: "tally" | "votes" | "unresolved" | "unknown"
 }
 
-// isProcedural() lives in lib/votes/vote-type.ts - shared with
-// generate-votes.ts so both artifacts, regenerated from the same source
-// in the same run, agree on what "substantive" means (issue #199 punch
-// list item 2). See that module for the hasResolvableDissent contract -
-// in particular, why `unanimousSource === "votes"` is the right argument
-// here, not `!unanimous`.
+// isProcedural() and hasRecordedDissent() both live in lib/votes/vote-
+// type.ts - shared with generate-votes.ts so both artifacts, regenerated
+// from the same source in the same run, agree on what "substantive" means
+// (issue #199 punch list item 2). See hasRecordedDissent()'s doc comment
+// for the shared dissent signal this file passes into isProcedural()
+// below.
 
 // Check if a vote is budget-related based on meetingType, itemTitle, or motionText
 // Budget keywords: "budget", "tax", "levy", "fiscal", "appropriation", "expenditure"
@@ -523,15 +523,16 @@ async function main() {
     const participated = yeas + nays
 
     // Calculate substantive votes (excluding procedural motions).
-    // `v.unanimousSource === "votes"` is the SAME "is there a confirmed,
-    // resolvable Nay" signal generate-votes.ts passes as hasResolvableDissent
-    // (its `nays.length > 0`, the aggregated resolved-nay-voters for this
-    // exact motion) - not `!v.unanimous`, which is also true for
-    // `unanimousSource: "unresolved"` records (dissent recorded but
-    // unattributable to any councillor, issue #199 d7) and would wrongly
-    // treat those as "confirmed dissent" too. See isProcedural()'s doc
-    // comment in lib/votes/vote-type.ts (issue #199 punch list item 2).
-    const substantiveVotes = data.votes.filter((v) => !isProcedural(v.motionText, v.unanimousSource === "votes"))
+    // hasRecordedDissent() is THE shared "is there a confirmed, resolvable
+    // Nay" signal, also used by generate-votes.ts's `nays.length > 0` for
+    // the same roll call (issue #199 punch list item 2) - see its doc
+    // comment in lib/votes/vote-type.ts for why plain
+    // `unanimousSource === "votes"` (never true for a 2018+ tally-derived
+    // record) and plain `!v.unanimous` (also true for unattributable
+    // "unresolved" dissent) are both wrong.
+    const substantiveVotes = data.votes.filter(
+      (v) => !isProcedural(v.motionText, hasRecordedDissent(v.unanimousSource, v.unanimous))
+    )
     const substantiveYeas = substantiveVotes.filter((v) => v.vote === "yea").length
     const substantiveNays = substantiveVotes.filter((v) => v.vote === "nay").length
     const substantiveTotal = substantiveVotes.length
