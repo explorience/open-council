@@ -1086,3 +1086,85 @@ Mr. Van Meregan, thank you. I will second that. All those in favor?
 Motion carries. Good afternoon.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (3 contested, 3 unanimous). Procedural motions excluded.*
+
+### 1. Disclosures of Pecuniary Interest
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Infrastructure and Corporate Services Committee Agenda BE APPROVED, to provide for Stage 6, Confidential, to be considered before Stage 2, Consent.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. 2026 Reserve and Reserve Fund Monitoring and Housekeeping Report
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Infrastructure and Corporate Services Committee Agenda BE APPROVED, to provide for Item 2.7 in Stage 2, Consent, to be considered before item 2.1 in Stage 2, Consent.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.7. Standing Committee Meetings and Annual Meeting Calendar
+
+> That, on the recommendation of the City Clerk, the annual meeting calendar for the period January 1, 2027 to December 31, 2027, as appended to the staff report dated May 27, 2026 as Appendix “A”, BE APPROVED; it being understood that adjustments to the calendar may be required from time to time i...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.7. Standing Committee Meetings and Annual Meeting Calendar
+
+> That the motion BE AMENDED to add a new part that reads as follows: The Civic Administration BE DIRECTED to bring forward a by-law amendment to By-law No. A.-61, being the Council Procedure By-law, to delete the following provisions in section 3.1: a) one week without meetings to be set aside in ...
+
+**❌ Motion Failed (1 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.9. Contract Award: Tender RFT-2026-021 and Appointment of Consulting Engineer - Boler Road Watermain and Cycling Improvements Project
+
+> That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the award of contract for the Boler Road Watermain and Cycling Improvements project (RFT-2026-021):    a)    the bid submitted by PV-EX Construction Ltd., at its t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.12. Appointment of Consulting Engineer - Sunningdale Road West Improvements from Hyde Park Road to Jordan Boulevard
+
+> That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of consulting engineer for the Sunningdale Road West Improvements from Hyde Park Road to Jordan Boulevard:    a)     MTE Consultants Inc., BE AUTHO...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

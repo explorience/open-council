@@ -2,6 +2,25 @@ import re
 from callout import callout
 from bs4 import NavigableString
 
+# Bare presiding-officer titles eSCRIBE occasionally renders as an
+# appositive inside a comma-joined voter/name list instead of attached to
+# a name (e.g. "P. Squire, J. Morgan, Acting Mayor, A. Hopkins, ..." -
+# the chair's actual name, J. Morgan, already appears earlier in the same
+# list). A conservative, exact-match (post-trim) allowlist: this must
+# never match a real name fragment like "X. Chair" or "R. Mayoral", so no
+# regex/substring matching here - just direct set membership against the
+# whole trimmed token. Shared by content.py's Vote.add_row and
+# Meeting.py's get_names, the two places eSCRIBE's comma/"and"-joined
+# lists get split on this exact join logic.
+BARE_TITLE_TOKENS = {
+  "Acting Mayor",
+  "Mayor",
+  "Deputy Mayor",
+  "Chair",
+  "Vice Chair",
+  "Acting Chair",
+}
+
 class Content:
   def __init__(self):
     pass
@@ -279,6 +298,19 @@ class Vote(Content):
     # verify against test_vote_parsing.py before touching this line.
     voters_text = re.sub(r",?\s+and\s+", ", ", voters_cell.contents[0])
     voters = [v.strip() for v in voters_text.split(", ") if v.strip()]
+
+    # eSCRIBE sometimes renders the presiding officer as an appositive
+    # inline with the voter list rather than as a name, e.g.
+    # "P. Squire, J. Morgan, Acting Mayor, A. Hopkins, ..." - the comma
+    # before "Acting Mayor" is grammatical (setting off the title), not a
+    # list separator, but the split above has no way to know that and
+    # produces a bare "Acting Mayor" entry with no name attached: a
+    # phantom voter. Drop any split fragment that, after trimming, is
+    # EXACTLY one of these bare titles (not a substring match - a real
+    # name like "J. Chair" or "R. Mayoral" must survive untouched). See
+    # test_vote_parsing.py for the real appositive string and the minuted
+    # tally it must reproduce.
+    voters = [v for v in voters if v not in BARE_TITLE_TOKENS]
 
     self.rows.append({
       "vote": vote,

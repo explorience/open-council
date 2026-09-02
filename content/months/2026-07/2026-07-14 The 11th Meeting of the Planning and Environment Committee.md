@@ -1168,3 +1168,135 @@ The meeting adjourned at 5:51 PM.
 
 ****
 
+---
+
+## Votes
+
+*14 substantive votes at this meeting (2 contested, 12 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Item 2.2, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.1. Development Security Modernization
+
+> That the motion BE AMENDED by: a) adding the following to Section 4.4 to the proposed Subdivision and Development Agreement Security Policy: "for all Planning and Development Agreements, to the satisfaction of the City. This may include land security specifically for Subdivision Agreements."; and...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. Development Security Modernization
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. Development Security Modernization
+
+> That the delegation request from M. Wallace, LDI, as appended to the Added Agenda, be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 242 Huron Street
+
+> That the motion BE AMENDED to provide a referral date of September 29, 2026
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 242 Huron Street
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue
+
+> That the delegation request from P. Malloy, as appended to the Added Agenda, be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. Southwest Area Secondary Plan (SWAP) Detailed Review - OZ-25029
+
+> That the motion BE AMENDED to include a new part a) v) to designate:     the lands located at 443 and 447 Exeter Road be changed from Light Industrial Place Type to Shopping Area Place Type as part of the SWAP detailed review process; it being noted the Civic Administration confirm the transition...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. Southwest Area Secondary Plan (SWAP) Detailed Review - OZ-25029
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 1076-1080 Commissioners Road West and 396-402 North Street - OZ-26037
+
+> That the motion BE AMENDED to include a new part c) v) that reads as follows: v) utilize bird friendly policies using the adopted CSA standard;
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 1076-1080 Commissioners Road West and 396-402 North Street - OZ-26037
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055
+
+> That the motion BE AMENDED in part c) i) that reads as follows: i)    adding a park block within the Draft Plan of Subdivision to include a dedicated, publicly accessible parkland block or a cash in lieu contribution proportionate to the density of the development;
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Peter Cuddy](/councillors/current/p-cuddy)
+
+</details>
+
+### 3.8. 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055
+
+> That the Committee recess at this time, for 10 minutes.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+

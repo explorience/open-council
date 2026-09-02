@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T18:35:23.223Z",
+  "generatedAt": "2026-09-02T18:49:49.188Z",
   "sourceHash": "b7db59b827637e80",
-  "sourceGeneratedAt": "2026-09-02T11:37:23.020Z",
+  "sourceGeneratedAt": "2026-09-02T18:49:23.629Z",
   "cutoffDate": "2023-01-01",
   "methodology": "A \"divided\" vote is any council or committee motion since January 1, 2023 that wasn't approved unanimously and wasn't a routine procedural step, and it doesn't include a vote decided by secret ballot to fill an appointment, since those don't produce a recorded yea or nay by councillor. For each councillor, on each issue, on each axis: a vote counts as \"for\" when it matched that axis's more permissive outcome, and \"against\" when it matched the more restrictive one — but a nay is never described as if it enacted the restrictive outcome; it's described as opposing the motion it was cast on, and the same care is taken in the other direction. When every recorded vote on an axis since January 1, 2023 happens to fall on one side, the pattern sentence says so plainly instead of silently reporting a zero on the other side. Every motion's issue, axis, and direction (\"what a yea did\") come from an independent, motion-by-motion review, checked against that motion's own complete text in the official meeting record rather than a keyword search, with a small, separately published list of after-the-fact corrections applied on top — never a silent edit to the reviewed record. This is a genuine reading of what each clause did, not a raw yea/nay count, including for the generic \"approved or denied the item\" description used when no issue-specific axis applies. Recusals and absences are always counted on their own, never folded into \"against\" and never treated as a hidden position. A pattern sentence is only stated once a councillor has at least 5 separate underlying decisions on an axis — a committee vote followed later by a council vote on the same policy question counts as one decision, not two, so a motion with several stages can't inflate the count; below that threshold the individual votes are still shown, just without a summary sentence. Some motions were reviewed and confirmed to have no clear direction at all — a referral, a request for more information, or a genuinely ambiguous clause — and these are listed, on every relevant issue, as motions with no clear direction: never counted in any pattern or sample size, but never hidden either. This project has no source recording which committee a councillor belongs to — that list isn't published or collected anywhere; a meeting's own attendance record shows who was there that day, not who belongs to it. So when a councillor has no recorded vote on a motion, nothing is claimed about why, in either direction: only whether that meeting's own record separately listed this councillor as present without a recorded vote, or whether nothing else can be said at all. Before any of the above, motions were also dropped in 2 ways, none of them guessed at or repaired: 32 where the same person was recorded as voting more than one way on the same motion (a roster conflict in the source data); and 12 more that turned out, on review, not to be a genuine division at all — a lopsided result the source data's own \"unanimous\" marker missed, or the same motion recorded twice under two item numbers. Each motion is filed under exactly one issue, so a motion that touches two topics — a housing decision with a budget line, say — appears on one issue page only, never both. Where the source text has a hash symbol immediately followed by a case or item number — as in a title reading \"Business Case\", then a hash, then \"P-5\" — this hub shows it instead as \"Business Case No. P-5\", so the character can't be misread as a link; the underlying wording is not otherwise changed.",
   "truncatedDisplayCount": 338,
@@ -136,8 +136,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#23proposed-winter-response-for-2026-2027",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee",
+          "anchorAmbiguous": true,
           "matchedKeywords": [],
           "direction": {
             "axis": "response-scale",
@@ -20556,8 +20556,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee#361047-1055-dearness-drive--oz-26063",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble"
           ],
@@ -20601,8 +20601,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-07/2026-07-21 12th Meeting of Council#831236-1076-1080-commissioners-road-west-and-396-402-north-street---oz-26037relates-to-bill-no-273-and-no-289",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-07/2026-07-21 12th Meeting of Council",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble"
           ],
@@ -20656,8 +20656,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-07/2026-07-21 12th Meeting of Council#82733-parking-provisions-updaterelates-to-bill-no-285",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-07/2026-07-21 12th Meeting of Council",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble"
           ],
@@ -20711,8 +20711,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee#381454-fanshawe-park-road-east---block-2---39t-26502oz-25055",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble"
           ],
@@ -20962,8 +20962,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#38929-cheapside-street--z-26003",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble"
           ],
@@ -21008,8 +21008,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#38929-cheapside-street--z-26003",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble",
             "informational_ask"
@@ -21093,8 +21093,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#27award-of-nrfp-2025-248-municipal-land-for-affordable-housing-at-1958-duluth-crescent-block-6",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble"
           ],
@@ -21328,8 +21328,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee#43tolpuddle-co-operative-inc-capital-and-operational-transition-plan",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble",
             "informational_ask"
@@ -21537,8 +21537,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-03/2026-03-03 4th Council Meeting#811341-deputy-mayor-s-lewis-councillors-p-cuddy-and-c-rahman---zoning-by-law-amendment---parking-changes",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-03/2026-03-03 4th Council Meeting",
+          "anchorAmbiguous": true,
           "matchedKeywords": [],
           "direction": {
             "axis": "use-permission",
@@ -21590,8 +21590,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-03/2026-03-03 4th Council Meeting#811341-deputy-mayor-s-lewis-councillors-p-cuddy-and-c-rahman---zoning-by-law-amendment---parking-changes",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-03/2026-03-03 4th Council Meeting",
+          "anchorAmbiguous": true,
           "matchedKeywords": [],
           "direction": {
             "axis": "application-approval",

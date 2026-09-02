@@ -931,3 +931,96 @@ The meeting adjourned at 3:49PM.
 
 ****
 
+---
+
+## Votes
+
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 to 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. Addition to the Affordable Housing Community Improvement Plan - Dollars to Doors Variable Affordability Program Guidelines
+
+> That the staff report dated August 11, 2026, related to Addition to the Affordable Housing Community Improvement Plan - Dollars to Doors Variable Affordability Program Guidelines BE REFERRED to a future meeting of the Planning and Environment Committee to align with the Federal CMHC MLI Select de...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 7th Report of the Community Advisory Committee on Planning
+
+> That the motion BE AMENDED to part a) i) to read as follows: that the Civic Administration BE REQUESTED to report back to a future meeting of the Planning and Environment Committee with recommendations for implementation of a Heritage Property Tax Relief Program, including associated budget impac...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 7th Report of the Community Advisory Committee on Planning
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 3080 and 3514 Bostwick Road, 1875 Wharncliffe Road South, and 3341 Wonderland Road South - OZ-26066
+
+> That the motion BE AMENDED to include a new part that reads as follows: d)    the Civic Administration BE DIRECTED to consider the provision of enhanced transit service in this area as part of the next update of the Master of Mobility Plan.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 3080 and 3514 Bostwick Road, 1875 Wharncliffe Road South, and 3341 Wonderland Road South - OZ-26066
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 1047-1055 Dearness Drive - OZ-26063
+
+> that the motion BE AMENDED in part c) to add a new part that reads as follows:    iii)    a privacy fence be constructed along the north boundary to ensure additional privacy for the neighbours.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 1047-1055 Dearness Drive - OZ-26063
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Councillor S. Franke - Temporary Accommodation Commitments
+
+> That the Civic Administration BE DIRECTED to review and report back to the Planning and Environment Committee to be held on September 9, 2026, related to the Temporary Accommodation Commitments for the residents at 145 Base Line Road West, including: a)    the status of the temporary accommodatio...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Councillor S. Franke - Temporary Accommodation Commitments
+
+> That the delegation request from K. Pagniello, Neighbourhood Legal Services, as appended to the added agenda, be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

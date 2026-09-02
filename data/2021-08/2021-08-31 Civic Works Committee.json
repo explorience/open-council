@@ -89,7 +89,6 @@
                   "J. Helmer",
                   "M. Cassidy",
                   "J. Morgan",
-                  "Acting Mayor",
                   "S. Turner",
                   "E. Peloza",
                   "P. Van Meerbergen"
@@ -1101,7 +1100,6 @@
                       "J. Helmer",
                       "M. Cassidy",
                       "J. Morgan",
-                      "Acting Mayor",
                       "S. Turner",
                       "E. Peloza"
                     ]
@@ -1207,8 +1205,7 @@
                   {
                     "vote": "Recuse:",
                     "voters": [
-                      "J. Morgan",
-                      "Acting Mayor"
+                      "J. Morgan"
                     ]
                   },
                   {
@@ -1309,7 +1306,6 @@
                       "J. Helmer",
                       "M. Cassidy",
                       "J. Morgan",
-                      "Acting Mayor",
                       "S. Turner",
                       "E. Peloza",
                       "P. Van Meerbergen"
@@ -1403,7 +1399,6 @@
                       "J. Helmer",
                       "M. Cassidy",
                       "J. Morgan",
-                      "Acting Mayor",
                       "S. Turner",
                       "E. Peloza"
                     ]
@@ -1466,7 +1461,6 @@
                       "J. Helmer",
                       "M. Cassidy",
                       "J. Morgan",
-                      "Acting Mayor",
                       "S. Turner",
                       "E. Peloza",
                       "P. Van Meerbergen"
@@ -1543,7 +1537,6 @@
                       "J. Helmer",
                       "M. Cassidy",
                       "J. Morgan",
-                      "Acting Mayor",
                       "S. Turner",
                       "E. Peloza"
                     ]
@@ -1621,7 +1614,6 @@
                       "J. Helmer",
                       "M. Cassidy",
                       "J. Morgan",
-                      "Acting Mayor",
                       "S. Turner",
                       "E. Peloza"
                     ]

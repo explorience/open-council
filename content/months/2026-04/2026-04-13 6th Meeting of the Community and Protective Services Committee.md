@@ -1391,3 +1391,99 @@ Okay, seeing none, we will look to open the vote on the referral. Councillor Tro
 That takes us to item seven, adjournment, looking for a mover and seconder, Councillor Fer rera. Councillor Per beau, thank you by hand, all in favor. That motion carries. Thanks everyone, have a great evening.
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
+
+### 1. Disclosures of Pecuniary Interest
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Items 6.1 to 6.3 in Stage 6, Confidential, to be considered after Stage 1, Disclosures of Pecuniary Interest.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2. Consent
+
+> That Items 2.1 to 2.5 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.6. Renovictions: Rental Unit Repair Licensing Program One Year Update
+
+> That the staff report dated April 13, 2026, entitled Renovictions: Rental Unit Repair Licensing Program One Year Update, BE REFERRED to the next meeting of the Community and Protective Services Committee for further consultation with stakeholders, including but not limited to Neighbourhood Legal ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Parks and Recreation Master Plan - 2026 Update - Preliminary Findings
+
+> That the request for delegation status from K. Galloway BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Report Back: Basic Needs and Pathway Options Feasibility of Contract Extension - 519Pursuit Umbrella Relief Programs Inc.
+
+> That the requests for delegation from A. DeBlaire, M. Boissonneault, M. Ferguson, S. Horrell and M. Riley, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Report Back: Basic Needs and Pathway Options Feasibility of Contract Extension - 519Pursuit Umbrella Relief Programs Inc.
+
+> That the motion BE AMENDED to add a new part c) that reads as follows: c) the Civic Administration BE DIRECTED to re-engage with the agencies under the UHEI and Emergency Treatment Fund to explore service opportunities
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Report Back: Basic Needs and Pathway Options Feasibility of Contract Extension - 519Pursuit Umbrella Relief Programs Inc.
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.3. Tolpuddle Co-operative Inc. Capital and Operational Transition Plan
+
+> That the request for delegation status from J. Phoenix BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.3. Tolpuddle Co-operative Inc. Capital and Operational Transition Plan
+
+> That parts a) through d) of the motion BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.3. Tolpuddle Co-operative Inc. Capital and Operational Transition Plan
+
+> That part e) of the motion BE APPROVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+

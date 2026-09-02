@@ -102,6 +102,32 @@ check(
     ],
 )
 
+# --- Regression: presiding-officer appositive ("phantom title") bug ---
+# eSCRIBE renders the chair as an appositive inline with the voter list
+# rather than attaching the title to a name, e.g.
+# "P. Squire, J. Morgan, Acting Mayor, A. Hopkins, S. Lewis, S. Hillier,
+#  and S. Lehman" - the chair's real name (J. Morgan) is already in the
+# list, "Acting Mayor" is not a second voter. The comma-splitting logic
+# has no way to tell a title apposition from a list separator, so it
+# produced "Acting Mayor" as an eighth (phantom) entry in a row the
+# minutes recorded as a 6-0 division. Real string, from the current
+# corpus, 2021-08-30 Planning and Environment Committee, item 2.2:
+
+check(
+    "Real appositive string: 'Acting Mayor' dropped, minuted (6 to 0) reproduced",
+    row_html(
+        "Yeas:  (6)",
+        "P. Squire, J. Morgan, Acting Mayor, A. Hopkins, S. Lewis, S. Hillier,  and S. Lehman",
+    ),
+    ["P. Squire", "J. Morgan", "A. Hopkins", "S. Lewis", "S. Hillier", "S. Lehman"],
+)
+
+check(
+    "Bare 'Chair' appositive dropped, real name with 'Chair' substring survives",
+    row_html("Yeas:  (2)", "J. Chair, Chair, S. Hillier"),
+    ["J. Chair", "S. Hillier"],
+)
+
 print("\n" + "=" * 60)
 if failures:
     print(f"{failures} test(s) FAILED")

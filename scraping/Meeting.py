@@ -2,7 +2,7 @@ import re
 from callout import callout
 from datetime import datetime
 from MeetingItem import MeetingItem
-from content import Content, Paragraph
+from content import Content, Paragraph, BARE_TITLE_TOKENS
 from bs4 import BeautifulSoup, NavigableString
 
 
@@ -153,7 +153,18 @@ class Meeting:
       .replace(", ", ",") # names are usually separated by ", " but sometimes by just ","
       .split(",")
     )
-    return [name.strip() for name in names]
+    names = [name.strip() for name in names]
+
+    # Mirror the bare-title guard in content.py's Vote.add_row: eSCRIBE
+    # can render the presiding officer as an appositive inside a
+    # comma-joined list (e.g. "...J. Morgan, Chair, A. Hopkins...") and
+    # remove_titles() above only strips "Mayor" and the parenthesized
+    # "(Chair)"/"(Committee Clerk)" forms - a bare, unparenthesized
+    # "Chair", "Vice Chair", "Deputy Mayor", or "Acting Chair" appositive
+    # survives untouched and would otherwise become a phantom entry with
+    # no name attached. Exact match after trim only - never a substring
+    # match - so a real name is never dropped.
+    return [name for name in names if name not in BARE_TITLE_TOKENS]
 
   def li_to_name(self, li):
     # <li>Mayor J. Morgan,&nbsp;</li>

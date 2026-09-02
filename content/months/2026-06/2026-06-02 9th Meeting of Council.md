@@ -2095,3 +2095,117 @@ Motion carries 14 to zero. And second reading on that set of by-laws, any discus
 Third and final reading for that set of bylaws and on this one the third reading of bill 19 which is a drainage bylaw so same mover and seconder for all that plus the third reading of the other bylaw will open this final reading for voting. Motion carries 14 to 0. Okay that's it that means I just need a motion to adjourn. Councillor McAllister seconded by Councillor ramen we can use by hand all those in favor of adjournment thank you we're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (3 contested, 7 unanimous). Procedural motions excluded.*
+
+### 6.1. Expropriation of Lands - Wellington Gateway Project - Civil Works – Phase 2 – Report 2
+
+> That Council convene as the Approving Authority pursuant to the provisions of the Expropriations Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure with respect to the expropriation of the lands as ...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 6.1. Expropriation of Lands - Wellington Gateway Project - Civil Works – Phase 2 – Report 2
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 6.2. Expropriation of Lands - Wellington Gateway Project - Civil Works – Phase 3 – Report 3 (Relates to Bill No. 235)
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 6.8.1. 8th Report of the Planning and Environment Committee
+
+> That the 8th Report of the Planning and Environment Committee BE APPROVED with the exception of item 5 (3.3).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 6.8.1.5. (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne:  a) ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 6.8.2. 8th Report of the Community and Protective Services Committee
+
+> That the 8th Report of the Community and Protective Services Committee BE APPROVED with the exception of item 5 (2.4).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 6.8.2.5. (2.4) Thames Valley District School Board and City of London Joint Use of Facilities Agreement (Relates to Bill No. 218)
+
+> That on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed by-law, as appended to the staff report dated May 25, 2026, as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on June 2, 2026, to:    a)    AUTHORIZE and APPROVE...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 6.8.3. 7th Report of the Strategic Priorities and Policy Committee
+
+> That the 7th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 12 (4.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 6.8.4. 10th Report of the Infrastructure and Corporate Services Committee
+
+> That the 10th Report of the Infrastructure and Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 6.8.5. 2nd Report of the Audit Committee
+
+> That the 2nd Report of the Audit Committee BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
