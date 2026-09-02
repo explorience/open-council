@@ -1530,7 +1530,7 @@ And colleagues, let me also say thank you to you. It's been busy and it's been t
 
 ## Votes
 
-*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (3 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2.2. LMCH - CMHC Co-Investment - Loan Agreement
 
@@ -1589,6 +1589,19 @@ Unanimous (14-0)
 **✅ Motion Passed (13 to 0)**
 
 Unanimous (13-0)
+
+### 4.3. Consideration of Appointment to the Covent Garden Market Board (Requires 1 Member)
+
+> Appointment of a member to the Covent Garden Market Board.
+
+**❌ Majority Winner: Justin W. Dias 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
 
 ### 5.1. (ADDED) RBC Place London Board Appointment Recommendations for 2022
 

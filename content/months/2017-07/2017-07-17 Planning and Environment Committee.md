@@ -1773,7 +1773,7 @@ The meeting adjourned at 11:40 PM.
 
 ## Votes
 
-*33 substantive votes at this meeting (6 contested, 27 unanimous). Procedural motions excluded.*
+*34 substantive votes at this meeting (7 contested, 27 unanimous). Procedural motions excluded.*
 
 ### 2. 6th Report of the
   Environmental Ecological and Planning Advisory Committee
@@ -1978,6 +1978,22 @@ Unanimous (6-0)
 **Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
 
 **Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 15. PUBLIC
+  PARTICIPATION MEETING - City Wide Official Plan and Zoning By-law Amendments
+  - Secondary Dwelling Units (OZ-8053)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
 
 </details>
 

@@ -2517,7 +2517,7 @@ Motion Passed
 
 ## Votes
 
-*39 substantive votes at this meeting (13 contested, 26 unanimous). Procedural motions excluded.*
+*40 substantive votes at this meeting (14 contested, 26 unanimous). Procedural motions excluded.*
 
 ### 10#3. Committee Appointment Preferences submitted
   by Council Members
@@ -2959,4 +2959,18 @@ Unanimous (15-0)
 **✅ Motion Passed**
 
 Unanimous (15-0)
+
+### 19. Free Parking in
+  December
+
+> That, on the recommendation of the Managing   Director, Development and Compliance Services and the Managing Director,   Environmental and Engineering Services and City Engineer;   a)          the   removal of free parking in Downtown and Richmond Row in December BE APPROVED;   it being noted tha...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
 

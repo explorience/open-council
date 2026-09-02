@@ -1304,7 +1304,7 @@ Thank you everyone for your time today. I appreciate it.
 
 ## Votes
 
-*23 substantive votes at this meeting (12 contested, 11 unanimous). Procedural motions excluded.*
+*26 substantive votes at this meeting (15 contested, 11 unanimous). Procedural motions excluded.*
 
 ### 4.1. Appointments to the Greater London International Airport Authority Board of Directors
 
@@ -1472,11 +1472,48 @@ Unanimous (12-0)
 
 </details>
 
+### 4.5.e. Consideration of Appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (Requires up to 15 Members)
+
+> Consideration of appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.5.e. Consideration of Appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (Requires up to 15 Members)
+
+> Consideration of appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee - Round 2
+
+**❌ Majority Winner: ; Prabh Singh Gill; Lissette Ochoa; Michaela Hazel Castillo; Mphatso Mlotha; Nadia Fahd; Brian Hill; Hetham Hani Abu Karky; Rupinder Kaur Gill; Sue Brooks; Kymberley Ann Burke; Audra Stonefish; Niko Fragis; Ryan O'Hagan; Stacey Evoy 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
 ### 4.5.f. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 15 Members)
 
 > Consideration of appointment to the Ecological Community Advisory Committee
 
 **❌ Majority Winner: Berta Bella Krichker; Katrina Moser; Kiana Lee; Matheus Sanita Lima; Sandy Levin; Suba Sivakumar; Susan Hall; Vera Tai; Peter Baker; Simone Nicole Miklosi; Tim Hain; Steve Evans; Rob McGarry 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.5.g. Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (Requires up to 15 Members)
+
+> Consideration of appointment to the Environmental Stewardship and Action Community Advisory Committee
+
+**❌ Majority Winner: No majority 🔥**
 
 <details>
 <summary>View roll call</summary>

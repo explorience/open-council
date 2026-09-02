@@ -1260,7 +1260,7 @@ Meeting adjourned.
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 3.2. Not to be heard before 4:20 PM - London Hydro Inc. - 2020 Annual General Meeting of the Shareholder Annual Resolutions
 
@@ -1277,6 +1277,17 @@ Unanimous (13-0)
 **✅ Motion Passed (13 to 0)**
 
 Unanimous (13-0)
+
+### 3.3. Not to be heard before 4:40 PM - London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions
+
+> London City Council Member appointments (2) to the London & Middlesex Community Housing Board of Directors
+
+**❌ Majority Winner: P. Squire; M. van Holst 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.2. Strategy for Core Area Land and Vacant Buildings - Councillor M. Cassidy
 
@@ -1302,6 +1313,19 @@ Unanimous (13-0)
 
 Unanimous (13-0)
 
+### 4.4. Consideration of Appointment to Eldon House (Requires 1 Voting Member)
+
+> Appointment to Eldon House Board of Directors
+
+**❌ Majority Winner: Megan Halliday 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
 ### 4.5. Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Voting Member)
 
 > That JJ Strybosch BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 15, 2022.
@@ -1309,4 +1333,17 @@ Unanimous (13-0)
 **✅ Motion Passed (13 to 0)**
 
 Unanimous (13-0)
+
+### 4.5. Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Voting Member)
+
+> Appointment to the Lower Thames Valley Conservation Authority
+
+**❌ Majority Winner: JJ Strybosch 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
 

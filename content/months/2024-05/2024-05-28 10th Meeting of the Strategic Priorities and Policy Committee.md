@@ -2124,7 +2124,7 @@ Thank you, colleagues. There is dinner for you in the Councillor's lounge.
 
 ## Votes
 
-*17 substantive votes at this meeting (5 contested, 12 unanimous). Procedural motions excluded.*
+*26 substantive votes at this meeting (14 contested, 12 unanimous). Procedural motions excluded.*
 
 ### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2023 Annual General Meeting of the Shareholder Annual Resolutions
 
@@ -2244,6 +2244,58 @@ Unanimous (15-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 
+> Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (1).
+
+**❌ Majority Winner: Stephen D Amelio; Devinder Luthra; Leah Thomas Gray; Chantal Kamgne Tagatzi 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+> Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (2).
+
+**❌ Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+> Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (3).
+
+**❌ Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+> Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (4).
+
+**❌ Majority Winner: Devinder Luthra; Stephen D Amelio; Chantal Kamgne Tagatzi; Leah Thomas Gray 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
 > That the following individuals BE APPOINTED as Voting Members to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee for the term ending March 31, 2025: Stephen D Amelio      Devinder Luthra          Leah Thomas Gray      Chantal Kamgne Tagatzi
 
 **✅ Motion Passed (14 to 0)**
@@ -2260,11 +2312,76 @@ Unanimous (14-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 
+> Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (1).
+
+**❌ Majority Winner: Nicole Karsch; Andrea Butnari; Lauralee Bushan Jazey 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+> Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (2).
+
+**❌ Majority Winner: Andrea Butnari; Lauralee Bushan Jazey; Nicole Karsch 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+> Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (3).
+
+**❌ Majority Winner: Nicole Karsch; Andrea Butnari; Lauralee Bushan Jazey 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+> Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (4).
+
+**❌ Majority Winner: Andrea Butnari; Nicole Karsch; Lauralee Bushan Jazey 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
 > That the following individuals BE APPOINTED as Voting Members to the Environmental Stewardship and Action Community Advisory Committee for the term ending March 31, 2025; Andrea Butnari     Nicole Karsch      Lauralee Bushan Jazey
 
 **✅ Motion Passed (14 to 0)**
 
 Unanimous (14-0)
+
+### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+> Consideration of appointment to the Integrated Transportation Community Advisory Committee.
+
+**❌ Majority Winner: Leah Thomas Gray 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 

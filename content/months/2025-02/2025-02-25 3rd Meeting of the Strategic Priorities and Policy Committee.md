@@ -724,7 +724,7 @@ Thank you and pleased to report that progress was made on the matters of which w
 
 ## Votes
 
-*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (5 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -759,6 +759,32 @@ Unanimous (14-0)
 
 Unanimous (14-0)
 
+### 4.1. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+> Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+**❌ Majority Winner: Robert Fraser 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 4.1. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+> Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+**❌ Majority Winner: Robert Fraser 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
 ### 4.2. London Public Library Board of Directors Vacancy
 
 > That the following actions be taken with respect to the vacant position declared by the London Public Library Board of Directors: a)  the communication dated January 24, 2025 from B. Gibson, London Public Library Board Chair BE RECEIVED; and b) Mayor J. Morgan BE APPOINTED to the London Public Li...
@@ -771,6 +797,19 @@ Unanimous (14-0)
 **Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
 
 **Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 4.2. London Public Library Board of Directors Vacancy
+
+> Appointment to the London Public Library Board of Directors (Requires 1 Member of Council)
+
+**❌ Majority Winner: Josh Morgan 🔥**
+
+<details>
+<summary>View roll call</summary>
 
 **Absent (1):** [Jerry Pribil](/councillors/current/j-pribil)
 

@@ -1201,7 +1201,7 @@ We're adjourned.
 
 ## Votes
 
-*6 substantive votes at this meeting (4 contested, 2 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (5 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 4.2. Consideration of Appointments to the London Transit Commission (Requires 2 Members)
 
@@ -1210,6 +1210,19 @@ We're adjourned.
 **✅ Motion Passed (13 to 0)**
 
 Unanimous (13-0)
+
+### 4.2. Consideration of Appointments to the London Transit Commission (Requires 2 Members)
+
+> Consideration of Appointments to the London Transit Commission
+
+**❌ Majority Winner: Jacqueline Madden; David Little 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
 
 ### 4.3. Lobbyist Registrar - Councillors D. Ferreira and S. Franke
 

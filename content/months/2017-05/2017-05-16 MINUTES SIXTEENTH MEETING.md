@@ -3354,7 +3354,7 @@ Motion Passed
 
 ## Votes
 
-*50 substantive votes at this meeting (17 contested, 33 unanimous). Procedural motions excluded.*
+*51 substantive votes at this meeting (18 contested, 33 unanimous). Procedural motions excluded.*
 
 ### 1#6. Disclosures of
   Pecuniary Interest
@@ -3891,6 +3891,20 @@ Unanimous (11-0)
 **Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
 
 **Nay (3):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part g) of clause 10:   g)         subject   to the approval of c), the implementation of the Adelaide Street / CP railway   grade separation BE CONSIDERED a necessary element of the rapid transit   system and a request for funding under the Public Transit Infrastructure Fund   Phase II p...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
 
 </details>
 

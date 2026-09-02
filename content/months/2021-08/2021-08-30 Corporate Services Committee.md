@@ -1027,7 +1027,7 @@ Livingston. Thank you very much and it was a pleasure to spend all this time wit
 
 ## Votes
 
-*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 4.1. Vacant Residential Property Tax Review
 
@@ -1085,4 +1085,17 @@ Unanimous (4-0)
 **✅ Motion Passed (4 to 0)**
 
 Unanimous (4-0)
+
+### 5.2. (ADDED) Recommendation for Appointment to the London Hydro Inc. Board of Directors
+
+> Appointment recommendation to the London Hydro Inc. Board of Directors
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
 

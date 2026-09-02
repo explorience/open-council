@@ -1865,7 +1865,7 @@ Passed
 
 ## Votes
 
-*12 substantive votes at this meeting (2 contested, 10 unanimous). Procedural motions excluded.*
+*13 substantive votes at this meeting (3 contested, 10 unanimous). Procedural motions excluded.*
 
 ### 1#7. (ADDED) Councillor
   J. Baechler and Councillor N. Branscombe - Raising the Rainbow Flag on the
@@ -1919,6 +1919,20 @@ Unanimous (15-0)
 **✅ Motion Passed**
 
 Unanimous (13-0)
+
+### 2#6. A Community Cultural Investment Proposal
+  for a Downtown Arts and Entertainment District
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+</details>
 
 ### 2#6. A Community Cultural Investment Proposal
   for a Downtown Arts and Entertainment District

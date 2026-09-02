@@ -2703,7 +2703,7 @@ Everybody make it home safely for the Blue Jays game.
 
 ## Votes
 
-*28 substantive votes at this meeting (14 contested, 14 unanimous). Procedural motions excluded.*
+*32 substantive votes at this meeting (18 contested, 14 unanimous). Procedural motions excluded.*
 
 ### 2.1. London Hydro Inc. Amended and Restated Shareholder Declaration
 
@@ -2936,6 +2936,39 @@ Unanimous (15-0)
 
 Unanimous (15-0)
 
+### 4.3. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
+
+> Appointment to the Covent Garden Market Board of Directors
+
+**❌ Majority Winner: Jim Yanchula 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.3. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
+
+> Appointment to the Covent Garden Market Board of Directors
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.3. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
+
+> Appointment to the Covent Garden Market Board of Directors
+
+**❌ Majority Winner: David Little 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
 ### 4.4. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)
 
 > That Jeff Gard BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026.
@@ -2948,6 +2981,17 @@ Unanimous (15-0)
 **Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
 
 **Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.4. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)
+
+> Appointment to the Committee of Adjustment
+
+**❌ Majority Winner: Jeff Gard 🔥**
+
+<details>
+<summary>View roll call</summary>
 
 </details>
 

@@ -496,7 +496,7 @@ Motion
 **✅ Motion
   Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 3. London Hydro Inc. -
   2012 Annual Meeting of the Shareholder Annual Resolutions
@@ -506,7 +506,7 @@ Unanimous (13-0)
 **✅ Motion
   Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 3. London Hydro Inc. -
   2012 Annual Meeting of the Shareholder Annual Resolutions
@@ -516,7 +516,7 @@ Unanimous (13-0)
 **✅ Motion
   Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 4. London &
   Middlesex Housing Corporation - 2012 Annual Meeting of the Shareholder Annual
@@ -527,7 +527,7 @@ Unanimous (13-0)
 **✅ Motion
   Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 5. Development Charges
   Policy Review - Local Services Policy
@@ -535,12 +535,12 @@ Unanimous (13-0)
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
 
@@ -553,12 +553,12 @@ Unanimous (13-0)
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
 
@@ -571,12 +571,12 @@ Unanimous (13-0)
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
 

@@ -6445,7 +6445,7 @@ We'll do this by hand, all those in favour of adjournment. That motion carries. 
 
 ## Votes
 
-*50 substantive votes at this meeting (37 contested, 13 unanimous). Procedural motions excluded.*
+*52 substantive votes at this meeting (39 contested, 13 unanimous). Procedural motions excluded.*
 
 ### 6.1. Expropriation of Lands - East London Link Project - Phase 3 (As the "Approving Authority")
 
@@ -6689,6 +6689,28 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 8.3.9. (4.1) Consideration of Appointments to the London Community Advisory Committees
+
+> Appointment to the Community Advisory Committee on Planning
+
+**❌ Majority Winner: Mark C Ambrogio; Sarvarinder Singh Dohil; Jeff Gard 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 8.3.9. (4.1) Consideration of Appointments to the London Community Advisory Committees
+
+> Appointment to the Integrated Transportation Community Advisory Committee
+
+**❌ Majority Winner: Emily Poirier; Amanda Pfeffer; Anuar Issa 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 8.3.9. (4.1) Consideration of Appointments to the London Community Advisory Committees
 

@@ -2434,7 +2434,7 @@ That motion's passed. All right, thank you very much. We're adjourned.
 
 ## Votes
 
-*15 substantive votes at this meeting (10 contested, 5 unanimous). Procedural motions excluded.*
+*16 substantive votes at this meeting (11 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2.1. 2023 Assessment Growth Funding Allocation
 
@@ -2645,4 +2645,17 @@ Unanimous (13-0)
 **✅ Motion Passed (13 to 0)**
 
 Unanimous (13-0)
+
+### 4.5. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)
+
+> Consideration of Appointment to the Committee of Adjustment
+
+**❌ Majority Winner: Mariam Hamou 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
 

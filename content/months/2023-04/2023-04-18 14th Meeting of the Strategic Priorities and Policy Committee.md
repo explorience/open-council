@@ -1723,7 +1723,7 @@ That motion's passed. Thank you, we are adjourned.
 
 ## Votes
 
-*7 substantive votes at this meeting (4 contested, 3 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (5 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 4.1. 2024-2027 Multi-Year Budget
 
@@ -1770,6 +1770,17 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.3. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
+
+> Consideration of appointment to the London Police Services Board
+
+**❌ Majority Winner: Gita Canaran; Joseph Wabegijig; Ryan Gauss; Stephen D Amelio; Michele Anderson 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 5.1. (ADDED) Request to Update London Hydro Inc. Board of Director Recruitment, Interview and Nomination Process
 

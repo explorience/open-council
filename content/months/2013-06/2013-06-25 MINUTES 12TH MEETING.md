@@ -2500,7 +2500,7 @@ Motion Passed
 
 ## Votes
 
-*23 substantive votes at this meeting (4 contested, 19 unanimous). Procedural motions excluded.*
+*24 substantive votes at this meeting (5 contested, 19 unanimous). Procedural motions excluded.*
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
@@ -2599,6 +2599,20 @@ Unanimous (13-0)
 **✅ Motion Passed**
 
 Unanimous (15-0)
+
+### 3. Properties located at 3313-3405
+      Wonderland Road South and 1789 Wharncliffe Road South (OZ-7072/OZ-7073)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+</details>
 
 ### 5. Status of ReThink
   London Key Directions and Discussion Papers

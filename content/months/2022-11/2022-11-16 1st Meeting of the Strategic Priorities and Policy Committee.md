@@ -3539,7 +3539,7 @@ That motion's carried. Thank you, we're adjourned.
 
 ## Votes
 
-*54 substantive votes at this meeting (10 contested, 44 unanimous). Procedural motions excluded.*
+*71 substantive votes at this meeting (27 contested, 44 unanimous). Procedural motions excluded.*
 
 ### 4.1. Consideration of Appointment to the Civic Works Committee
 
@@ -3556,6 +3556,17 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.2. Consideration of Appointment to the Community and Protective Services Committee
+
+> Appointments to the Community and Protective Services Committee (Requires 5 Council Members)
+
+**❌ Majority Winner: Councillor Ferreira; Councillor Peloza; Councillor Pribil; Councillor Stevenson; Councillor Rahman 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.2. Consideration of Appointment to the Community and Protective Services Committee
 
@@ -3588,6 +3599,17 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.4. Consideration of Appointment to the Planning and Environment Committee
+
+> Appointments to the Planning and Environment Committee (Requires 5 Council Members)
+
+**❌ Majority Winner: Councillor Lehman; Councillor Hillier; Councillor Franke; Councillor Lewis; Councillor Hopkins 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.4. Consideration of Appointment to the Planning and Environment Committee
 
@@ -3668,6 +3690,17 @@ Unanimous (15-0)
 
 </details>
 
+### 4.10. Consideration of Appointment to the London & Middlesex Community Housing
+
+> Appointment to the London & Middlesex Community Housing (Requires 2 Council Members)
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
 ### 4.11. Consideration of Appointment to the London Hydro Inc.
 
 > That Councillor C. Rahman BE APPOINTED to London Hydro Inc. for the term ending November 14, 2026.
@@ -3675,6 +3708,17 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.11. Consideration of Appointment to the London Hydro Inc.
+
+> Appointment to London Hydro Inc. (Requires 1 Council Member)
+
+**❌ Majority Winner: Councillor Rahman 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.12. Consideration of Appointment to the London Police Services Board
 
@@ -3688,6 +3732,17 @@ Unanimous (15-0)
 **Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
 
 **Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.12. Consideration of Appointment to the London Police Services Board
+
+> Appointment to the London Police Services Board (Requires 2 Council Members)
+
+**❌ Majority Winner: Councillor Stevenson; Councillor Lehman 🔥**
+
+<details>
+<summary>View roll call</summary>
 
 </details>
 
@@ -3747,6 +3802,17 @@ Unanimous (15-0)
 
 Unanimous (15-0)
 
+### 4.19. Consideration of Appointment to the RBC Place London
+
+> Appointment to RBC Place London (Requires 2 Council Members)
+
+**❌ Majority Winner: Councillor Ferreira; Councillor Stevenson 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
 ### 4.20. Consideration of Appointment to the Tourism London
 
 > That the following BE APPOINTED to Tourism London Board for the term ending November 14, 2026:    Councillor S. Lewis   Councillor E. Peloza
@@ -3754,6 +3820,17 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.20. Consideration of Appointment to the Tourism London
+
+> Appointment to Tourism London (Requires 2 Council Members)
+
+**❌ Majority Winner: Councillor Lewis; Councillor Peloza 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.21. Consideration of Appointment to the University of Western Ontario Board of Governors
 
@@ -3853,6 +3930,17 @@ Unanimous (15-0)
 
 ### 4.33. Consideration of Appointment to the Upper Thames River Conservation Authority
 
+> Appointment to the Upper Thames River Conservation Authority (Requires 4 Council Members)
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.33. Consideration of Appointment to the Upper Thames River Conservation Authority
+
 > That the Civic Administration BE DIRECTED to take the following actions with respect to appointments to the Upper Thames River Conservation Authority (UTRCA): a)        advertise in the usual manner, including the City's social media channels, for applications from members of the public for one a...
 
 **✅ Motion Passed (15 to 0)**
@@ -3882,6 +3970,17 @@ Unanimous (15-0)
 
 </details>
 
+### 4.36. Consideration of Appointment to the Committee of Adjustment (Requires 5 Members)
+
+> Appointment to the Committee of Adjustment (Requires 5 Members)
+
+**❌ Majority Winner: John Fyfe Millar; Daniela Schmidt; Steve Polhill; Mohamed Mohamed El Hadary; Cheryl Miller 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
 ### 4.37. Consideration of Appointment to the Committee of Revision/Court of Revision (Requires 3 Members)
 
 > That the following BE APPOINTED to the Committee of Revision/Court of Revision for the term ending November 14, 2026:    Tariq Khan  Avdija Ramic  Donald Millar
@@ -3902,6 +4001,17 @@ Unanimous (15-0)
 **Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
 
 **Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.38. Consideration of Appointment to the Covent Garden Market Corporation Board of Directors (Requires 7 Members)
+
+> Appointment to the Covent Garden Market (Requires 7 Members)
+
+**❌ Majority Winner: Mike Marsman; Claudio De Vincenzo; Justin Dias; Donna Szpakowski; John Fyfe Millar; Zeba Hashmi; Tyrrel de Langley 🔥**
+
+<details>
+<summary>View roll call</summary>
 
 </details>
 
@@ -3936,6 +4046,17 @@ Unanimous (15-0)
 
 </details>
 
+### 4.40. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
+
+> Appointment to the London Police Services Board (Requires 1 Member)
+
+**❌ Majority Winner: Susan Toth 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
 ### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
 
 > That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2026: Brian Gibson       Zeba Hashmi          Heather Jack  Beth Allison     Scott Andrew Collyer        Jeremy McCall  Sharon Desserud it being noted that the Strategic Priorities and Policy Commi...
@@ -3948,6 +4069,17 @@ Unanimous (15-0)
 **Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
 
 **Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
+
+> Appointment to the London Public Library (Requires 7 Members)
+
+**❌ Majority Winner: Brian Gibson; Jeremy McCall; Ryan O'Hagan; Scott Andrew Collyer; Ken Baldwin; Zak Rahim; Zeba Hashmi 🔥**
+
+<details>
+<summary>View roll call</summary>
 
 </details>
 
@@ -3996,6 +4128,39 @@ Unanimous (15-0)
 
 </details>
 
+### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
+
+> Selection #2 - London Public Library Board
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
+
+> Selection #2 - London Public Library Board
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
+
+> Selection #2 - London Public Library Board
+
+**❌ Majority Winner: Brian Gibson; Zeba Hashmi; Heather Jack; Jeremy McCall; Beth Allison; Scott Andrew Collyer; Sharon Desserud 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
 ### 4.42. Consideration of Appointment to the London Transit Commission (Requires 3 Members)
 
 > That the following BE APPOINTED to the London Transit Commission for the term ending November 14, 2026: Sheryl Rooth  Scott Andrew Collyer Stephanie Marentette
@@ -4004,6 +4169,17 @@ Unanimous (15-0)
 
 Unanimous (15-0)
 
+### 4.42. Consideration of Appointment to the London Transit Commission (Requires 3 Members)
+
+> Appointment to London Transit Commission (Requires 3 Members)
+
+**❌ Majority Winner: Sheryl Rooth; Stephanie Marentette; Scott Andrew Collyer 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
 ### 4.43. Consideration of Appointment to the Middlesex-London Health Unit Board (Requires 1 Member)
 
 > That Matthew Reid BE APPOINTED to the Middlesex-London Health Unit Board for the term ending November 14, 2026; it being noted that the Strategic Priorities and Policy Committee received a communication dated November 14, 2022 from K. Elliot, Vice Chair and E. Williams, Secretary, Middlesex-Londo...
@@ -4011,6 +4187,17 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.43. Consideration of Appointment to the Middlesex-London Health Unit Board (Requires 1 Member)
+
+> Appointment to the Middlesex-London Health Unit Board (Requires 1 Member)
+
+**❌ Majority Winner: Matthew Reid 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.44. Consideration of Appointment to the Plumbers' and Drain Layers' Examining Board (Requires 3 Members)
 

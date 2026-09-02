@@ -1616,7 +1616,7 @@ That concludes the items on our agenda. I'm looking for a motion to adjourned. Y
 
 ## Votes
 
-*8 substantive votes at this meeting (3 contested, 5 unanimous). Procedural motions excluded.*
+*10 substantive votes at this meeting (5 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2.1. London Community Grants Program Policy Update
 
@@ -1676,6 +1676,17 @@ Unanimous (15-0)
 
 Unanimous (15-0)
 
+### 4.2. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+> Consideration of Appointment to the Eldon House Board of Directors.
+
+**❌ Majority Winner: Bryan McClure 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
 ### 4.3. Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members)
 
 > That the following actions be taken with respect to appointments to the London Hydro Board of Directors: a)  Tim Watson and Cedric Gomes BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held in...
@@ -1688,6 +1699,17 @@ Unanimous (15-0)
 **Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
 
 **Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 4.3. Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members)
+
+> Consideration of appointment to the London Hydro Board of Directors.
+
+**❌ Majority Winner: Tim Watson; Cedric Gomes 🔥**
+
+<details>
+<summary>View roll call</summary>
 
 </details>
 

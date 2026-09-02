@@ -2526,7 +2526,7 @@ The meeting adjourned at 11:04 PM.
 
 ## Votes
 
-*50 substantive votes at this meeting (4 contested, 46 unanimous). Procedural motions excluded.*
+*52 substantive votes at this meeting (6 contested, 46 unanimous). Procedural motions excluded.*
 
 ### 2. Election of
   Vice-Chair for term ending November 30, 2018
@@ -2618,6 +2618,36 @@ Unanimous (6-0)
   Passed**
 
 Unanimous (6-0)
+
+### 11. Planning for
+  Non-therapeutic Cannabis in Retail Stores
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
+
+</details>
+
+### 11. Planning for
+  Non-therapeutic Cannabis in Retail Stores
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
+
+</details>
 
 ### 11. Planning for
   Non-therapeutic Cannabis in Retail Stores

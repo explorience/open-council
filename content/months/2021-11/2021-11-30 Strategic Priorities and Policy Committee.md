@@ -2327,7 +2327,7 @@ Screen is on, all in favor. Councillor Palose, I'm guessing. Yes, that motion's 
 
 ## Votes
 
-*17 substantive votes at this meeting (6 contested, 11 unanimous). Procedural motions excluded.*
+*24 substantive votes at this meeting (13 contested, 11 unanimous). Procedural motions excluded.*
 
 ### 4.1. (ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members
 
@@ -2336,6 +2336,28 @@ Screen is on, all in favor. Councillor Palose, I'm guessing. Yes, that motion's 
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.1. (ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members
+
+> Appointment to the Planning and Environment Committee
+
+**❌ Majority Winner: Councillor S. Lehman; Councillor S. Lewis; Councillor A. Hopkins; Councillor S. Hillier; Councillor S. Turner 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.1. (ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members
+
+> Selection of Chair for the Civic Works Committee
+
+**❌ Majority Winner: Councillor E. Peloza 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.2. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Council Member)
 
@@ -2361,6 +2383,17 @@ Unanimous (15-0)
 
 Unanimous (15-0)
 
+### 4.4. Consideration of Appointment to the London Transit Commission (Requires 1 Council Member)
+
+> Councillor appointment to the London Transit Commission
+
+**❌ Majority Winner: Councillor Hopkins 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
 ### 4.5. Consideration of Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Council Member)
 
 > That Councillor M. Hamou BE APPOINTED to the Middlesex-London Health Unit Board of Directors for the term ending November 14, 2022.
@@ -2369,6 +2402,17 @@ Unanimous (15-0)
 
 Unanimous (15-0)
 
+### 4.5. Consideration of Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Council Member)
+
+> Councillor appointment to the Middlesex-London Health Unit
+
+**❌ Majority Winner: Councillor Hamou 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
 ### 4.6. Consideration of Appointment to the Tourism London Board of Directors (Requires 1 Council Member)
 
 > That Councillor S. Hillier BE APPOINTED to the Tourism London Board of Directors for the term ending November 14, 2022; it being noted that the Strategic Priorities and Policy Committee received a communication dated September 23, 2021 from C. Finn, General Manager, Tourism London regarding this ...
@@ -2376,6 +2420,28 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.6. Consideration of Appointment to the Tourism London Board of Directors (Requires 1 Council Member)
+
+> Appointment of a Councillor to the Tourism London Board of Directors
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.6. Consideration of Appointment to the Tourism London Board of Directors (Requires 1 Council Member)
+
+> Appointment of a Councillor to the Tourism London Board of Directors
+
+**❌ Majority Winner: Councillor S. Hillier 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.7. Consideration of Appointment to the Western Fair Association Programming Council (Requires 1 Council Member)
 
@@ -2397,6 +2463,17 @@ Unanimous (15-0)
 **Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Mariam Hamou](/councillors/current/m-hamou), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
 
 **Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 4.8. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member at Large)
+
+> Appointment to the Committee of Adjustment
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
 
 </details>
 

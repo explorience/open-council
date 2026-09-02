@@ -231,7 +231,7 @@ The meeting adjourned at 12:45 PM.
 
 ## Votes
 
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 4.1. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
 
@@ -240,6 +240,17 @@ The meeting adjourned at 12:45 PM.
 **✅ Motion Passed (6 to 0)**
 
 Unanimous (6-0)
+
+### 4.1. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
+
+> Appointment to the Ecological Community Advisory Committee
+
+**❌ Majority Winner: Patricia Almost; Girish Sankar 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.1. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
 

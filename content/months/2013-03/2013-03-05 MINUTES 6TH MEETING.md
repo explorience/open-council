@@ -2690,7 +2690,7 @@ Motion Passed
 
 ## Votes
 
-*28 substantive votes at this meeting (3 contested, 25 unanimous). Procedural motions excluded.*
+*29 substantive votes at this meeting (4 contested, 25 unanimous). Procedural motions excluded.*
 
 ### 10#2. Purchase of Service Agreements - Ontario
   Works Employment Assistance Services
@@ -2699,7 +2699,7 @@ Motion Passed
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 14#2. Ontario
   Water/Wastewater Agency Response Network
@@ -2708,7 +2708,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 2#7. Property located at 527 Wellington Road
 
@@ -2716,7 +2716,21 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
+
+### 3#8. Re-appointment of Ken Kalopsis to the
+  London International Airport Board of Directors
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+</details>
 
 ### 3#8. Re-appointment of Ken Kalopsis to the
   London International Airport Board of Directors
@@ -2725,7 +2739,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 4#2. Prohibiting Smoking Near Recreation
   Amenities and Entrances By-law
@@ -2737,7 +2751,7 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
 
 **Nay (1):** [Denise Brown](/councillors/current/d-brown)
 
@@ -2749,7 +2763,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 5#5. Update on Boler
   Mountain's Current Plans and Activities
@@ -2758,7 +2772,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 5#6. Sherwood Forest Public School
 
@@ -2766,7 +2780,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 6#2. Tax Adjustment
   Agenda
@@ -2775,7 +2789,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 8#2. Food Truck Proposal
 
@@ -2783,7 +2797,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 8#2. Food Truck Proposal
 
@@ -2791,7 +2805,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 8#2. Food Truck Proposal
 
@@ -2799,7 +2813,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 9#2. Annual Review, 2013
   Special Events Policies and Procedures Manual
@@ -2808,7 +2822,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
@@ -2817,7 +2831,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### IX. REPORTS
 
@@ -2825,7 +2839,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON FEBRUARY 12, 2013
@@ -2834,6 +2848,14 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
+Unanimous (15-0)
+
+### XIII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
 Unanimous (14-0)
 
 ### XIII. BY-LAWS
@@ -2842,7 +2864,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
@@ -2850,7 +2872,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
@@ -2858,7 +2880,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
@@ -2866,7 +2888,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
@@ -2874,15 +2896,7 @@ Unanimous (11-0)
 
 **✅ Motion Passed**
 
-Unanimous (11-0)
-
-### XIII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### 3. Properties located
   at 56-82 Wellington Street, 283-323 South Street and 69-77 Waterloo Street
@@ -2894,7 +2908,7 @@ Unanimous (11-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 14. Student Rental
   Housing
@@ -2903,7 +2917,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 15. Railway Pedestrian
   Crossing Safety
@@ -2915,7 +2929,7 @@ Unanimous (14-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
 
 **Nay (2):** [Joni Baechler](/councillors/current/j-l-baechler), [Denise Brown](/councillors/current/d-brown)
 
@@ -2931,7 +2945,7 @@ Unanimous (14-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
 
@@ -2944,7 +2958,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 16. Rental of General
   Equipment with Operators (Tender 13-06) - Revised
@@ -2953,5 +2967,5 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 

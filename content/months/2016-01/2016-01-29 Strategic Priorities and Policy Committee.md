@@ -1588,7 +1588,7 @@ Motion Passed
 
 ## Votes
 
-*54 substantive votes at this meeting (17 contested, 37 unanimous). Procedural motions excluded.*
+*55 substantive votes at this meeting (18 contested, 37 unanimous). Procedural motions excluded.*
 
 ### 2. CORPORATE OPERATING
   BUDGET
@@ -1764,6 +1764,22 @@ Unanimous (15-0)
 **✅ Motion Passed**
 
 Unanimous (15-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+(all amounts
+  rounded to the nearest $1,000s)
+
+> Motion to Approve that part   2d)v) BE ADOPTED.   Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
 
 ### 2. CORPORATE OPERATING
   BUDGET

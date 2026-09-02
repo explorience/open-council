@@ -524,7 +524,7 @@ Thank you, everyone. Have a great one. And for those who want to see the mayor l
 
 ## Votes
 
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 4.1. Code of Conduct for Members of Council and Local Boards
 
@@ -557,4 +557,17 @@ Unanimous (14-0)
 **✅ Motion Passed (14 to 0)**
 
 Unanimous (14-0)
+
+### 4.3. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+> Consideration of Appointment to the Eldon House Board of Directors.
+
+**❌ Majority Winner: Michelle Southern 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
 

@@ -2149,7 +2149,7 @@ Thank you colleagues moving on our next item 4.4 is the 10th report of the diver
 
 ## Votes
 
-*19 substantive votes at this meeting (12 contested, 7 unanimous). Procedural motions excluded.*
+*20 substantive votes at this meeting (13 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
@@ -2378,6 +2378,17 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.5. Committee Appointment Preferences Submitted by Council Members
+
+> Appointment to Planning and Environment Committee
+
+**❌ Majority Winner: Councillor P. Cuddy; Councillor E. Peloza; Councillor S. Hillier 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 5.1. (ADDED) 2025 Calendar Amendment Motion - Deputy Mayor S. Lewis and Councillor P. Cuddy
 

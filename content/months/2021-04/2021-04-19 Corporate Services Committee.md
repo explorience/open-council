@@ -648,7 +648,7 @@ Closing the vote, the motion's passed, five to zero. We'll just get things set u
 
 ## Votes
 
-*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
+*12 substantive votes at this meeting (5 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -689,6 +689,56 @@ Unanimous (5-0)
 **✅ Motion Passed (5 to 0)**
 
 Unanimous (5-0)
+
+### 4.2. Advisory Committees
+
+> Appointment to the Accessibility Advisory Committee
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.2. Advisory Committees
+
+> Appointment to the Accessibility Advisory Committee - 2nd Ballot
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.2. Advisory Committees
+
+> Appointment to the Cycling Advisory Committee
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.2. Advisory Committees
+
+> Appointment to the Cycling Advisory Committee  - 2nd Ballot
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
 
 ### 4.2. Advisory Committees
 

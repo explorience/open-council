@@ -166,7 +166,7 @@ The meeting adjourned at 12:16 PM.
 
 ## Votes
 
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 4.1. Consideration of Appointment to the Advisory Committee on the Environment (Requires 4 Voting Members)
 
@@ -175,4 +175,17 @@ The meeting adjourned at 12:16 PM.
 **✅ Motion Passed (4 to 0)**
 
 Unanimous (4-0)
+
+### 4.1. Consideration of Appointment to the Advisory Committee on the Environment (Requires 4 Voting Members)
+
+> Appointments to vacancies on the Advisory Committee on the Environment
+
+**❌ Majority Winner: Beauregard, Natalie; Santarelli, Joseph; Vogel, Brennan; Pate, Robert 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
 

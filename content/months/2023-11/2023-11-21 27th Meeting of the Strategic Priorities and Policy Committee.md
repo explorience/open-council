@@ -3000,7 +3000,7 @@ We are adjourned, thank you.
 
 ## Votes
 
-*23 substantive votes at this meeting (4 contested, 19 unanimous). Procedural motions excluded.*
+*24 substantive votes at this meeting (5 contested, 19 unanimous). Procedural motions excluded.*
 
 ### 2.1. Recruitment, Retention and Accommodation of Planning and Development and Building Staff
 
@@ -3066,6 +3066,17 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.1. Committee Appointment Preferences Submitted by Council Members
+
+> Appointments to the Community and Protective Services Committee.
+
+**❌ Majority Winner: D. Ferreira; H. McAlister; J. Pribil; S. Trosow 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.1. Committee Appointment Preferences Submitted by Council Members
 

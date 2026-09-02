@@ -1664,7 +1664,7 @@ on a sunday night to help bridge this communication gap and some things that we 
 
 ## Votes
 
-*30 substantive votes at this meeting (20 contested, 10 unanimous). Procedural motions excluded.*
+*39 substantive votes at this meeting (29 contested, 10 unanimous). Procedural motions excluded.*
 
 ### 2.2. Secondary School Transit Pass Pilot Program Update
 
@@ -1938,6 +1938,106 @@ Unanimous (15-0)
 
 Unanimous (14-0)
 
+### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+
+> Consideration of appointment to the Accessibility Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+
+> Consideration of appointment to the Accessibility Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+
+> Consideration of appointment to the Accessibility Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+
+> Consideration of appointment to the Accessibility Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+
+> Consideration of appointment to the Accessibility Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+
+> Consideration of appointment to the Accessibility Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+
+> Consideration of appointment to the Accessibility Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+
+> Consideration of appointment to the Accessibility Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
 ### 4.3. Consideration of Appointment to the Community Advisory Committee on Planning (Requires up to 11 Members)
 
 > That consideration of appointment to the Community Advisory Committee on Planning and the Environmental Stewardship and Action Community Advisory Committee BE REFERRED to the April 1, 2025 meeting of Council.
@@ -1961,6 +2061,17 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.5. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
+
+> Consideration of Appointment to the Covent Garden Market Board of Directors.
+
+**❌ Majority Winner: William Westgate 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.6. London Transit Commission Assessment Growth Business Case
 

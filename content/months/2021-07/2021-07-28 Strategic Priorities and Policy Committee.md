@@ -692,7 +692,7 @@ But that creates challenges as well as opportunities. So with that, Ms. Livingst
 
 ## Votes
 
-*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 1. Disclosures of Pecuniary Interest
 
@@ -730,6 +730,19 @@ Unanimous (14-0)
 **Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 **Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.2. Consideration of Appointment to the London & Middlesex Community Housing Board (Requires 1 Council Member)
+
+> Appointment of a Council Member to the London and Middlesex Community Housing Board
+
+**❌ Majority Winner: J. Morgan 🔥**
+
+<details>
+<summary>View roll call</summary>
 
 **Absent (1):** [Stephen Turner](/councillors/current/s-turner)
 

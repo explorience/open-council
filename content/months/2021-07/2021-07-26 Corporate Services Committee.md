@@ -507,7 +507,7 @@ The meeting adjourned at 1:10 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -532,6 +532,17 @@ Unanimous (6-0)
 **✅ Motion Passed (6 to 0)**
 
 Unanimous (6-0)
+
+### 4.1. Consideration of Applications to the London Hydro Inc. Board of Directors (Requires 1 Member)
+
+> London Hydro Inc. Board of Directors - selection of three candidates for interviews
+
+**❌ Majority Winner: Tania Goodine; Margaret Parks; Steven Stefanko 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.2. Application - Issuance of Proclamation - Bullying Elimination Week
 

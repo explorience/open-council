@@ -1451,7 +1451,7 @@ Motion
 <details>
 <summary>View roll call</summary>
 
-**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson)
+**Yea (9):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson)
 
 **Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson)
 
@@ -1464,6 +1464,15 @@ Motion
 
 **✅ Motion Passed**
 
+Unanimous (9-0)
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+
+> Motion Passed
+
+**✅ Motion Passed**
+
 Unanimous (8-0)
 
 ### 3. CORPORATE CAPITAL
@@ -1473,7 +1482,7 @@ Unanimous (8-0)
 
 **✅ Motion Passed**
 
-Unanimous (8-0)
+Unanimous (10-0)
 
 ### 3. CORPORATE CAPITAL
   BUDGET
@@ -1482,7 +1491,7 @@ Unanimous (8-0)
 
 **✅ Motion Passed**
 
-Unanimous (9-0)
+Unanimous (10-0)
 
 ### 3. CORPORATE CAPITAL
   BUDGET
@@ -1491,16 +1500,7 @@ Unanimous (9-0)
 
 **✅ Motion Passed**
 
-Unanimous (9-0)
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (9-0)
+Unanimous (10-0)
 
 ### 3. CORPORATE CAPITAL
   BUDGET
@@ -1514,7 +1514,7 @@ Unanimous (9-0)
 
 **Yea (7):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
 
-**Nay (2):** [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
+**Nay (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
 
 </details>
 
@@ -1528,7 +1528,7 @@ Unanimous (9-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Yea (9):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
 
 **Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
 
@@ -1544,7 +1544,7 @@ Unanimous (9-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
 
 **Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
 
@@ -1560,126 +1560,7 @@ Unanimous (9-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
-
-</details>
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-
-> Motion           Passed
-
-**✅ Motion
-          Passed**
-
-Unanimous (9-0)
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (8-0)
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (8-0)
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (9-0)
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (9-0)
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (9-0)
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-**Nay (2):** [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
-
-</details>
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
-
-</details>
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
-
-</details>
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
 
 **Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
 
@@ -1711,7 +1592,7 @@ Unanimous (9-0)
 
 **✅ Motion Passed**
 
-Unanimous (9-0)
+Unanimous (8-0)
 
 ### 3. CORPORATE CAPITAL
   BUDGET
@@ -1720,7 +1601,25 @@ Unanimous (9-0)
 
 **✅ Motion Passed**
 
-Unanimous (9-0)
+Unanimous (10-0)
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
 
 ### 3. CORPORATE CAPITAL
   BUDGET
@@ -1734,7 +1633,7 @@ Unanimous (9-0)
 
 **Yea (7):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
 
-**Nay (2):** [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
+**Nay (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
 
 </details>
 
@@ -1748,7 +1647,7 @@ Unanimous (9-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Yea (9):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
 
 **Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
 
@@ -1764,7 +1663,7 @@ Unanimous (9-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
 
 **Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
 
@@ -1780,7 +1679,108 @@ Unanimous (9-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+
+> Motion           Passed
+
+**✅ Motion
+          Passed**
+
+Unanimous (9-0)
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+**Nay (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
 
 **Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
 

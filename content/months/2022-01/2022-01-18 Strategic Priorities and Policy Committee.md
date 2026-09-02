@@ -432,7 +432,7 @@ Bye for now.
 
 ## Votes
 
-*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (3 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 4.1. London Public Library Board
 
@@ -441,6 +441,19 @@ Bye for now.
 **✅ Motion Passed (12 to 0)**
 
 Unanimous (12-0)
+
+### 4.2. Resubmitting - London Public Library Board Vacancy
+
+> Appointment to the London Public Library Board
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
 
 ### 4.2. Resubmitting - London Public Library Board Vacancy
 

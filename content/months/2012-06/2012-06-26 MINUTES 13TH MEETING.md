@@ -1212,7 +1212,7 @@ MOTION
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### V. COMMUNICATIONS AND
   PETITIONS
@@ -1221,7 +1221,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### VIII. REPORTS
 
@@ -1229,6 +1229,86 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
+Unanimous (15-0)
+
+### XII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
 Unanimous (14-0)
 
 ### XII. BY-LAWS
@@ -1237,87 +1317,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (11-0)
-
-### XII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### XII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### XII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### XII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### XII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### XII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### XII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### XII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### XII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### XII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 9. Agreement for
   On-Line Training System
@@ -1329,7 +1329,7 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
 
@@ -1342,7 +1342,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 10. 2nd and 3rd Reports
   of the Community Safety and Crime Prevention Advisory Committee
@@ -1351,7 +1351,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 15. Removal of Buses
   from Dundas Street
@@ -1363,7 +1363,7 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
 
 **Nay (2):** [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
 

@@ -1682,7 +1682,7 @@ Motion Passed
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 5#5. 2nd Report of the
   the London Housing Advisory Committee.
@@ -1691,7 +1691,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 6#3. Ontario Works
   Decentralization.
@@ -1700,7 +1700,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 6#4. Lorne Avenue Public
   School
@@ -1709,7 +1709,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### 8#2. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
@@ -1718,7 +1718,7 @@ Unanimous (11-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 8#2. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
@@ -1727,7 +1727,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
@@ -1736,7 +1736,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 29, 2013
@@ -1745,7 +1745,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
@@ -1779,7 +1779,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 8. Request for
   Delegation Status at the Corporate Services Committee re Post Secondary
@@ -1789,7 +1789,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 10. Property located at
   9345 Elviage Drive
@@ -1798,5 +1798,5 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 

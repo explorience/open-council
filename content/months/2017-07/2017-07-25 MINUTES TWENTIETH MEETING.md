@@ -3479,7 +3479,7 @@ Passed
 
 ## Votes
 
-*39 substantive votes at this meeting (22 contested, 17 unanimous). Procedural motions excluded.*
+*41 substantive votes at this meeting (24 contested, 17 unanimous). Procedural motions excluded.*
 
 ### 13#2. North American Free
   Trade Agreement (NAFTA)
@@ -3489,6 +3489,20 @@ Passed
 **✅ Motion Passed**
 
 Unanimous (10-0)
+
+### 13#2. North American Free
+  Trade Agreement (NAFTA)
+
+> Approve that clause 13 be further   amended by adding the word "Mexico" after the words "United   States of America" and by adding the following words to the end of   clause:   "and that the Government of Canada be   requested to engage in further consultation with the City of London and the   br...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
 
 ### 13#2. North American Free
   Trade Agreement (NAFTA)
@@ -3725,6 +3739,20 @@ Unanimous (13-0)
 **Yea (10):** [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
 
 **Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 4#6. Shift Rapid Transit – Master Plan and
+  Business Case
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
 
 </details>
 

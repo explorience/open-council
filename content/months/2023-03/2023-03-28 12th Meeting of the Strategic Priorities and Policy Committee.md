@@ -457,7 +457,7 @@ The meeting adjourned at 10:09 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
+*9 substantive votes at this meeting (5 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 1. Disclosures of Pecuniary Interest
 
@@ -516,6 +516,32 @@ Unanimous (15-0)
 **✅ Motion Passed (14 to 0)**
 
 Unanimous (14-0)
+
+### 4.2. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
+
+> Consideration of appointment to the London Police Services Board.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
+
+> Consideration of appointment to the London Police Services Board.
+
+**❌ Majority Winner: Ryan Gauss 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
 
 ### 4.3. Request for a Shareholder's Meeting - London & Middlesex Community Housing
 

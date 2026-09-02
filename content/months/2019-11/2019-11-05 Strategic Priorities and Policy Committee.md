@@ -408,7 +408,7 @@ The meeting adjourned at 7:02 PM.
 
 ## Votes
 
-*8 substantive votes at this meeting (4 contested, 4 unanimous). Procedural motions excluded.*
+*11 substantive votes at this meeting (7 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2.1. Update on the 2020-2023 Multi-Year Budget
 
@@ -501,6 +501,45 @@ Unanimous (13-0)
 **✅ Motion Passed (13 to 0)**
 
 Unanimous (13-0)
+
+### 4.1. 5th Report of the Governance Working Group
+
+> Selection Demonstration - ONE candidate to be selected
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. 5th Report of the Governance Working Group
+
+> Selection Demonstration - ONE candidate to be selected
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. 5th Report of the Governance Working Group
+
+> Selection Demonstration - ONE candidate to be selected
+
+**❌ Majority Winner: Kiwi Fruit 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
 
 ### 4.2. Resignation from the Middlesex-London Health Unit Board of Directors
 

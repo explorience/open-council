@@ -1151,7 +1151,7 @@ Passed
 
 ## Votes
 
-*20 substantive votes at this meeting (9 contested, 11 unanimous). Procedural motions excluded.*
+*22 substantive votes at this meeting (11 contested, 11 unanimous). Procedural motions excluded.*
 
 ### 5#2. 2016-2019
   Multi-Year Budget - Environmentally Significant Areas - A. Caveney
@@ -1173,6 +1173,19 @@ Unanimous (15-0)
 
 ### VIII. REPORTS
 
+> 8th Report of the   Strategic Priorities and Policy Committee
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### VIII. REPORTS
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1186,6 +1199,19 @@ Unanimous (12-0)
 **✅ Motion Passed**
 
 Unanimous (13-0)
+
+### VIII. REPORTS
+
+> Approve that the Strategic Investment related to  Business Case #14 – Ontario   Works Service Plan – Low Income Support Enhancement (clause 3h)xiv)) in the   amount of $2,080,000 BE ADOPTED; it being noted that $500,000 will be from   the Levy and $1,580,000 from other sources.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
 
 ### VIII. REPORTS
 

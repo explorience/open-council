@@ -562,7 +562,7 @@ Motion
 
 ## Votes
 
-*11 substantive votes at this meeting (0 contested, 11 unanimous). Procedural motions excluded.*
+*12 substantive votes at this meeting (1 contested, 11 unanimous). Procedural motions excluded.*
 
 ### 2. 5th Report of the
   Animal Welfare Advisory Committee
@@ -636,6 +636,21 @@ Unanimous (5-0)
   Passed**
 
 Unanimous (4-0)
+
+### 9. Vehicles for Hire -
+  New Technologies
+
+> Voting   Record:   Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
 
 ### 10. Status Report -
   Category 7 Refreshment Vehicles - Food Trucks

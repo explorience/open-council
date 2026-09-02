@@ -1057,7 +1057,7 @@ The meeting adjourned at 8:46 PM.
 
 ## Votes
 
-*18 substantive votes at this meeting (8 contested, 10 unanimous). Procedural motions excluded.*
+*21 substantive votes at this meeting (11 contested, 10 unanimous). Procedural motions excluded.*
 
 ### 2.1. 2021 Development Charges Update Covering Report and Proposed By-law
 
@@ -1175,6 +1175,28 @@ Unanimous (15-0)
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
 
+> Appointment to the Planning and Environment Committee - Ballot #1
+
+**❌ Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> Appointment to the Planning and Environment Committee - Ballot #2
+
+**❌ Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
 > That the following BE APPOINTED to the Planning and Environment Committee for the term December 1, 2020 to November 30, 2021:    Councillors: P. Squire, S. Hillier, A. Hopkins, S. Lehman and S. Lewis.
 
 **✅ Motion Passed (13 to 2)**
@@ -1210,6 +1232,17 @@ Unanimous (15-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> Appointment of Chair to the Corporate Services Committee
+
+**❌ Majority Winner: M. Cassidy 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
 

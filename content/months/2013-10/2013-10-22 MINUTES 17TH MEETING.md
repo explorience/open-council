@@ -2991,7 +2991,7 @@ Motion Passed
 
 ## Votes
 
-*37 substantive votes at this meeting (13 contested, 24 unanimous). Procedural motions excluded.*
+*38 substantive votes at this meeting (14 contested, 24 unanimous). Procedural motions excluded.*
 
 ### 11#2. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
@@ -3053,6 +3053,22 @@ Unanimous (15-0)
 **✅ Motion Passed**
 
 Unanimous (15-0)
+
+### 2#2. Traffic Calming
+  Program - 10 Year Annual Plan
+
+> Approve clause 2, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Matt Brown](/councillors/current/m-brown)
+
+</details>
 
 ### 2#2. Traffic Calming
   Program - 10 Year Annual Plan

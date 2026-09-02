@@ -1696,7 +1696,7 @@ All those in favor. Motion carries. Thank you, everyone. We're adjourned.
 
 ## Votes
 
-*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 4.2. Consideration of Appointment to the Kettle Creek Conservation Authority Board of Directors (Requires 1 Member)
 
@@ -1705,6 +1705,19 @@ All those in favor. Motion carries. Thank you, everyone. We're adjourned.
 **✅ Motion Passed (13 to 0)**
 
 Unanimous (13-0)
+
+### 4.2. Consideration of Appointment to the Kettle Creek Conservation Authority Board of Directors (Requires 1 Member)
+
+> Consideration of Appointment to the Kettle Creek Conservation Authority
+
+**❌ Majority Winner: John Joseph Strybosch 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
 
 ### 4.4. Request for a Review of the Code of Conduct for Members of Council - Councillor S. Stevenson and Deputy Mayor S. Lewis
 

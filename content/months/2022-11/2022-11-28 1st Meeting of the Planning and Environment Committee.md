@@ -1223,7 +1223,7 @@ The meeting adjourned at 9:50 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 1.2. Election of Vice-Chair
 
@@ -1232,6 +1232,19 @@ The meeting adjourned at 9:50 PM.
 **✅ Motion Passed (5 to 0)**
 
 Unanimous (5-0)
+
+### 1.2. Election of Vice-Chair
+
+> Election of Vice Chair
+
+**❌ Majority Winner: S. Lewis 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
 
 ### 2. Consent
 

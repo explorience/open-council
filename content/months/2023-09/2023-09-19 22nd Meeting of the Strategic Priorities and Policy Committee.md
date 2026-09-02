@@ -1285,7 +1285,7 @@ Thank you very much, everyone.
 
 ## Votes
 
-*10 substantive votes at this meeting (5 contested, 5 unanimous). Procedural motions excluded.*
+*11 substantive votes at this meeting (6 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 1. Disclosures of Pecuniary Interest
 
@@ -1323,6 +1323,17 @@ Unanimous (15-0)
 **Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
 
 **Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.1. City Manager, Recruitment and Selection Process
+
+> Appointment to the Recruitment and Selection Committee
+
+**❌ Majority Winner: Shawn Lewis; Corrine Rahman; Steve Lehman; Jerry Pribil; Susan Stevenson 🔥**
+
+<details>
+<summary>View roll call</summary>
 
 </details>
 

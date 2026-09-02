@@ -3625,7 +3625,7 @@ We are adjourned. Happy Valentine's Day.
 
 ## Votes
 
-*39 substantive votes at this meeting (26 contested, 13 unanimous). Procedural motions excluded.*
+*41 substantive votes at this meeting (28 contested, 13 unanimous). Procedural motions excluded.*
 
 ### 8.1. 3rd Report of the Community and Protective Services Committee
 
@@ -3748,6 +3748,28 @@ Unanimous (15-0)
 **Yea (5):** [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
 **Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.4. (4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> Consideration of Draft Value Sets 1. An affordable, prosperous, inclusive and healthy city for all Londoners. Sustainable and forward thinking through positive collaborations. Open and transparent decision making in the public interest to foster trust.  2. Inclusive and Respectful Accountability ...
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 8.5.4. (4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> Consideration of Draft Value Sets 1. An affordable, prosperous, inclusive and healthy city for all Londoners. Sustainable and forward thinking through positive collaborations. Open and transparent decision making in the public interest to foster trust.  2. Inclusive and Respectful Accountability ...
+
+**❌ Majority Winner: 2. Inclusive and Respectful Accountability and Trust Compassion Teamwork Committed and Driven Learning 🔥**
+
+<details>
+<summary>View roll call</summary>
 
 </details>
 

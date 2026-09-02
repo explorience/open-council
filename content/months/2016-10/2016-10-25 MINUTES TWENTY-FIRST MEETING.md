@@ -1999,7 +1999,7 @@ Passed
 
 ## Votes
 
-*26 substantive votes at this meeting (12 contested, 14 unanimous). Procedural motions excluded.*
+*27 substantive votes at this meeting (13 contested, 14 unanimous). Procedural motions excluded.*
 
 ### 11#2. Request for
   Delegation Status - Jason Timlick, President, London Professional Fire
@@ -2200,6 +2200,19 @@ Unanimous (12-0)
 **✅ Motion Passed**
 
 Unanimous (12-0)
+
+### IX#2. ADDED REPORTS (CONTINUED)
+
+> Approve clause 1 as follows:   1.                 That, as a procedural   matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation   be forwarded to City Council for deliberation and a vote in public session: That, on the recommendation of the Managing   Directo...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
 
 ### IX#2. ADDED REPORTS (CONTINUED)
 

@@ -3866,7 +3866,7 @@ Councillor Ferreira and Councillor van Neerbergen as a reminder this is on 1080 
 
 ## Votes
 
-*37 substantive votes at this meeting (19 contested, 18 unanimous). Procedural motions excluded.*
+*40 substantive votes at this meeting (22 contested, 18 unanimous). Procedural motions excluded.*
 
 ### 6. Communications and Petitions
 
@@ -3918,6 +3918,43 @@ Unanimous (15-0)
 **Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
 
 **Nay (3):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
+
+> Consideration of appointment to the London Police Services Board
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
+
+> Consideration of Selection to the London Police Services Board - run off (round 2)
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
+
+> Consideration of Selection to the London Police Services Board - run off (round 2)
+
+**❌ Majority Winner: Ryan Gauss 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Anna Hopkins](/councillors/current/a-hopkins)
 
 </details>
 

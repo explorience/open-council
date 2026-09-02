@@ -4483,7 +4483,7 @@ Motion Passed
 
 ## Votes
 
-*6 substantive votes at this meeting (6 contested, 0 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (7 contested, 0 unanimous). Procedural motions excluded.*
 
 ### 18#2. Special Provisions
   – Cedarhollow Developments Limited and Auburn Homes Inc. – Cedarhollow
@@ -4533,6 +4533,22 @@ Motion Passed
 **Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (3):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 9#4. Recorded Vote -
+  Investment and Economic Prosperity Committee
+
+> The Committee of the Whole (CW) held a   recorded vote on the appointments to the Investment and Economic Prosperity   Committee.  The motion carried, the Members voting as follows:
+
+**✅ motion carried 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Matt Brown](/councillors/current/m-brown)
 
 </details>
 

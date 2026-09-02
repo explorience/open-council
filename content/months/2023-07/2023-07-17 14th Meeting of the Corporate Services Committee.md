@@ -2945,7 +2945,7 @@ And folks, I believe that's it. Motion to adjourn. Acting Mayor Lewis, seconded 
 
 ## Votes
 
-*14 substantive votes at this meeting (2 contested, 12 unanimous). Procedural motions excluded.*
+*21 substantive votes at this meeting (9 contested, 12 unanimous). Procedural motions excluded.*
 
 ### 2.5. Council Policy Manual Review 2023
 
@@ -3030,11 +3030,63 @@ Unanimous (4-0)
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
 
+> Consideration of appointment to the Community Advisory Committee on Planning.
+
+**❌ Majority Winner: Jeff Gard; Mark Ambrogio; Sarvarinder Singh Dohil 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+> Second selection round - Community Advisory Committee on Planning
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+> Second selection round - Community Advisory Committee on Planning
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
 > That the consideration of appointments to the Community Advisory Committee on Planning BE FORWARDED to the Municipal Council for a decision; it being noted of the following voting record from the Corporate Services Committee: Ambrogio - 4 votes Dohil - 4 votes Danalynn - 2 votes Gard - 2 votes
 
 **✅ Motion Passed (4 to 0)**
 
 Unanimous (4-0)
+
+### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+> Consideration of Appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee.
+
+**❌ Majority Winner: Nandini Syed; Saleme Atieh; David Godwin; Margot Stothers 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
 
@@ -3055,11 +3107,50 @@ Unanimous (4-0)
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
 
+> Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee.
+
+**❌ Majority Winner: Allison Pert; Becca Amendola; Mary Ann Hodge; Amy Ford; Russell Duvernoy 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
 > That the following individuals BE APPOINTED as Voting Members to the Environmental Stewardship and Action Community Advisory Committee for the term ending February 2024: - Becca Amendola - Russell Duvernoy - Amy Ford - Mary Ann Hodge - Allison Pert
 
 **✅ Motion Passed (4 to 0)**
 
 Unanimous (4-0)
+
+### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+> Consideration of Appointment to the Integrated Transportation Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+> Consideration of Appointment to the Integrated Transportation Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
 

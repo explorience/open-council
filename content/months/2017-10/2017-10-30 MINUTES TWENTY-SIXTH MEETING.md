@@ -2792,7 +2792,7 @@ Approve Third Reading and Enactment of
 
 ## Votes
 
-*30 substantive votes at this meeting (11 contested, 19 unanimous). Procedural motions excluded.*
+*31 substantive votes at this meeting (12 contested, 19 unanimous). Procedural motions excluded.*
 
 ### 1#3. Expanded London
   Police Services Board – Additional City Council Appointment
@@ -2855,6 +2855,20 @@ Unanimous (11-0)
 **Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
 
 **Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 12#2. Properties located
+  at 661-667 Talbot Street (Z-8659) (Relates to Bill No. 638)
+
+> Approve clause 12 a) be amended to read   as follows:   “a)       the   proposed attached revised by-law  BE INTRODUCED at the Municipal   Council meeting to be held on October 30, 2017, to amend Zoning By-law No.   Z.-1, (in conformity with the Official Plan), to change the zoning of the   subje...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
 
 </details>
 

@@ -274,7 +274,7 @@ The Corporate Services Committee convened
 
 ## Votes
 
-*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
 
 ### 2. Corporate Asset
   Management System Acquisition - Assetic Canada Holdings
@@ -284,6 +284,15 @@ The Corporate Services Committee convened
 **✅ Motion Passed**
 
 Unanimous (4-0)
+
+### 4. Appointments to the
+  Animal Welfare Advisory Committee
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (3-0)
 
 ### 4. Appointments to the
   Animal Welfare Advisory Committee

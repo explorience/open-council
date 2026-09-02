@@ -251,7 +251,7 @@ The Strategic Priorities and Policy
 **✅ Motion
   Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### 3. J. Bennett, Chair,
   Board of Trustees, Thames Valley District School Board - Consideration of
@@ -273,7 +273,7 @@ Unanimous (10-0)
 **✅ Motion
   Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### 5. P. C. Johnson,
   Chair, London Hydro Inc. (LHI) - Request for Delegation Status at the
@@ -285,7 +285,7 @@ Unanimous (11-0)
 **✅ Motion
   Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### 6. S. Matthew, Interim
   Executive Director, London & Middlesex Housing Corporation (LMHC) -
@@ -297,5 +297,5 @@ Unanimous (11-0)
 **✅ Motion
   Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 

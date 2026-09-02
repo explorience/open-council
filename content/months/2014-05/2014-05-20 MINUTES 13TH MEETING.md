@@ -2298,7 +2298,7 @@ Passed
 
 ## Votes
 
-*22 substantive votes at this meeting (2 contested, 20 unanimous). Procedural motions excluded.*
+*23 substantive votes at this meeting (3 contested, 20 unanimous). Procedural motions excluded.*
 
 ### 1#2. Managing Director
   and City Engineer, Environmental and Engineering Services - Expropriation of
@@ -2360,6 +2360,20 @@ Unanimous (11-0)
 **Yea (11):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (1):** [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 3#8. Music London
+  Progress Update
+
+> That the Music London Business Plan dated   May 2014, for a mix-use development including a Performing Arts Centre BE   REFERRED to the Civic Administration for further review and for an   independent peer-review by Novita Interpares Ltd., with a report back to the   Investment and Economic Prosp...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
 </details>
 

@@ -1534,7 +1534,7 @@ We're adjourned.
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2.1. London: A Place to Call Home (London Development Institute (LDI) and London Home Builders' Association (LHBA))
 
@@ -1576,6 +1576,19 @@ Unanimous (15-0)
 
 Unanimous (14-0)
 
+### 4.3. Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Member)
+
+> Appointment to the Lower Thames Valley Conservation Authority
+
+**❌ Majority Winner: Marie Blosh 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
 ### 4.4. Consideration of Appointment to the Upper Thames River Conservation Authority (Requires 1 Member)
 
 > That Sandy Levin BE APPOINTED to the Upper Thames River Conservation Authority Board of Directors for the term ending November 14, 2026.
@@ -1583,4 +1596,15 @@ Unanimous (14-0)
 **✅ Motion Passed (15 to 0)**
 
 Unanimous (15-0)
+
+### 4.4. Consideration of Appointment to the Upper Thames River Conservation Authority (Requires 1 Member)
+
+> Appointment to the Upper Thames River Conservation Authority
+
+**❌ Majority Winner: Sandy Levin 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 

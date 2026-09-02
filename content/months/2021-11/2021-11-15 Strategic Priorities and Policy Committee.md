@@ -170,7 +170,7 @@ The meeting adjourned at 4:33 PM.
 
 ## Votes
 
-*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (4 contested, 0 unanimous). Procedural motions excluded.*
 
 ### 4.1. Consideration of Filling of Ward 6 Vacancy
 
@@ -186,6 +186,39 @@ The meeting adjourned at 4:33 PM.
 **Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
 
 **Absent (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 4.1. Consideration of Filling of Ward 6 Vacancy
+
+> Appointment to Ward 6
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.1. Consideration of Filling of Ward 6 Vacancy
+
+> Appointment to Ward 6
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.1. Consideration of Filling of Ward 6 Vacancy
+
+> Appointment to the office of Ward 6 Councillor
+
+**❌ Majority Winner: Mariam Hamou 🔥**
+
+<details>
+<summary>View roll call</summary>
 
 </details>
 

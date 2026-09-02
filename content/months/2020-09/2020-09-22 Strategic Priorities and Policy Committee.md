@@ -818,7 +818,7 @@ The meeting adjourns at 8:50 PM.
 
 ## Votes
 
-*8 substantive votes at this meeting (4 contested, 4 unanimous). Procedural motions excluded.*
+*11 substantive votes at this meeting (7 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -898,6 +898,39 @@ Unanimous (15-0)
 **✅ Motion Passed (14 to 0)**
 
 Unanimous (14-0)
+
+### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
+
+> Appointment to the London Public Library Board - Round 1
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
+
+> Appointment to the London Public Library Board - Round 2
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
+
+> Appointment to the London Public Library Board - Round 3
+
+**❌ Majority Winner: Chelsea Smith 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
 
 ### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
 

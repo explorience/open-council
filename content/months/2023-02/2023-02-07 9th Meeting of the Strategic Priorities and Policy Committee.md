@@ -2258,7 +2258,7 @@ That motion's carried. Okay, we're adjourned. Thank you for your time today.
 
 ## Votes
 
-*10 substantive votes at this meeting (3 contested, 7 unanimous). Procedural motions excluded.*
+*14 substantive votes at this meeting (7 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 4.1. London's Housing Pledge: A Path to 47,000 Units by 2031
 
@@ -2295,6 +2295,19 @@ Unanimous (14-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
+> Consideration of Vision Statement
+
+**❌ Majority Winner: 1. London is a sustainable city within a thriving region, committed to innovation and overcoming challenges to provide a safe, affordable, welcoming, and healthy future for today and for the next generation. 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
 > That the Draft Vision Statement BE AMENDED to remove the words "and overcoming challenges" to read as follows: London is a sustainable city within a thriving region, committed to innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation.
 
 **✅ Motion Passed (13 to 1)**
@@ -2312,11 +2325,50 @@ Unanimous (14-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
+> Consideration of Mission Statement
+
+**❌ Majority Winner: 1. The mission of the City of London is to improve quality of life through bold, proactive, responsive, and accountable public services and administration. 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
 > That the Draft Mission Statement BE AMENDED to add "and build a strong and vibrant community through" and replacing the word "public" with "city" to read as follows: "Our mission is to improve the quality of life and build a strong and vibrant community through bold, proactive, and accountable ci...
 
 **✅ Motion Passed (13 to 0)**
 
 Unanimous (13-0)
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> Consideration of Draft Values
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> Consideration of Draft Values
+
+**❌ Majority Winner: 1. An affordable, prosperous, inclusive and healthy city for all Londoners. Sustainable and forward thinking through positive collaborations. Open and transparent decision making in the public interest to foster trust. 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
