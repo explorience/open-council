@@ -656,3 +656,145 @@ The meeting adjourned at 5:50 PM.
 
 ****
 
+---
+
+## Votes
+
+*13 substantive votes at this meeting (4 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4 and 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Proposed Winter Response for 2026-2027
+
+> That the delegation request from S. Campbell, Ark Aid Street Mission, with respect to this matter, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Proposed Winter Response for 2026-2027
+
+> That part a) of the motion BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Proposed Winter Response for 2026-2027
+
+> That parts b), c) and d) of the motion BE APPROVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. 6th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> That the following actions be taken with respect to the 6th Report of the Environmental Stewardship and Action Community Advisory Committee, from the meeting held on June 25, 2026: a)    the following actions be taken with respect to the Environmental Stewardship and Action Community Advisory Com...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Amendments to Business Licensing By-Law to Regulate Driving School Instruction
+
+> That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee by Q2 2027 with options to amend the Business Licensing By-law to regulate driving school instruction within designated restricted areas, including: a)    proposed criteria for identifying ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.3. Pilot Program for Air Conditioning Support for Low-Income Seniors
+
+> That the motion BE AMENDED to add new parts b) and c) to read as follows: b)    the Mayor BE REQUESTED to advocate to the Federation of Canadian Municipalities (FCM)  for funding opportunities to support a pilot program to provide free or subsidized air conditioning units to low-income seniors in...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.3. Pilot Program for Air Conditioning Support for Low-Income Seniors
+
+> That the motion, as amended, BE APPROVED
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.4. City of London Special Constable Program
+
+> That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of establishing a City of London Special Constable Program, with the report to include: a)    the findings and recommendations of the Community Safety Knowledge Alliance ...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 4.4. City of London Special Constable Program
+
+> That the motion BE AMENDED by replacing the words "establishing a City of London Special Constable Program" with "implementing a permanent City of London Special Constable Program"; and amending clauses c) and d) as follows: c)    legislative and regulatory requirements, including any required ap...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.5. By-law Enforcement Administrative Fees
+
+> That the delegation request from K. Morrison, Old East Village Business Improvement Area, with respect to this matter, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.5. By-law Enforcement Administrative Fees
+
+> That the motion be amended to add "and any cost recovery associated" after the words "administrative fee".
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.5. By-law Enforcement Administrative Fees
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

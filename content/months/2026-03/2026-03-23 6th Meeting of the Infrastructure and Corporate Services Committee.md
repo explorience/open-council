@@ -1632,3 +1632,123 @@ Before we call adjournment, yeah, round of happy birthday. Yes, let's do a round
 Okay, Councillor and me, Rick, and I will second. All those in favor. Motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (7 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.2. Revised Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination)
+
+> That, on the recommendation of the Deputy City Manager, Enterprise Supports, and with the concurrence of the City Manager, the following actions be taken with respect to the Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination): a)    the proposed by-law, being the “Respectful Workpla...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 2.9. Final Program Design for BetterHomes London
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken; a)    the proposed by-law, as appended to the staff report dated March 23, 2026 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on March 31, 2026, to: i)...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 2.11. Meadowlily Environmental Assessment – Notice of Completion
+
+> That the delegation request from J. Ross, Director, Project Manager, Development Engineering (London) Limited BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.1. Pollution Prevention and Control Plan Update Study - Notice of Completion
+
+> That the following part BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee with a proposed implementation plan for a ‘Point of Purchase’ weeping tile disconnection program;
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension
+
+> That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding (MOU) Amendment and Extension Agreement and any future Smart Commute Association MOUs ; and
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 4.2. Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension
+
+> That the following part BE APPROVED b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding (MOU) Amendment and Extension Agreement and any future Smart Commute Association MOUs; and
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.3. Local and Regional Food Producers and Processors in City Managed Facilities - Councillors S. Franke and H. McAlister
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee on policy compliant actions that could be taken to support increased participation of local and regional food producers and processors in food sourcing for City mana...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.6. (ADDED) Contracts for Enwave Steam Service Transitions
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to providing alternative heating, domestic hot water and humidification for City Hall; Centennial Hall; Central Library and Museum London: a)    in accordance with Section 20 (Coo...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
