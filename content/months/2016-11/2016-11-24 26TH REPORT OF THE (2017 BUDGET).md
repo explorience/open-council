@@ -1238,26 +1238,9 @@ Unanimous (10-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Mo Salih](/councillors/former/m-salih), [Stephen Turner](/councillors/former/s-turner), [Bill Armstrong](/councillors/former/b-armstrong), [Tanya Park](/councillors/former/t-park)
 
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
-
-</details>
-
-### 2. CORPORATE OPERATING
-  AND CAPITAL BUDGETS
-  (rounded to the closest $1,000)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert)
 
 </details>
 
@@ -1272,9 +1255,26 @@ Unanimous (10-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
+
+</details>
+
+### 2. CORPORATE OPERATING
+  AND CAPITAL BUDGETS
+  (rounded to the closest $1,000)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Tanya Park](/councillors/former/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -1289,9 +1289,9 @@ Unanimous (10-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (6):** [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+**Yea (6):** [Michael van Holst](/councillors/former/m-van-holst), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Tanya Park](/councillors/former/t-park)
 
-**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire)
 
 </details>
 
@@ -1326,9 +1326,9 @@ Unanimous (10-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+**Yea (9):** [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Tanya Park](/councillors/former/t-park)
 
-**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Paul Hubert](/councillors/current/p-hubert)
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Paul Hubert](/councillors/former/p-hubert)
 
 </details>
 
@@ -1343,9 +1343,9 @@ Unanimous (10-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+**Yea (5):** [Michael van Holst](/councillors/former/m-van-holst), [Stephen Turner](/councillors/former/s-turner), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Tanya Park](/councillors/former/t-park)
 
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown)
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown)
 
 </details>
 
@@ -1380,9 +1380,9 @@ Unanimous (11-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Tanya Park](/councillors/former/t-park)
 
-**Nay (3):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Paul Hubert](/councillors/current/p-hubert)
+**Nay (3):** [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Paul Hubert](/councillors/former/p-hubert)
 
 </details>
 
@@ -1407,9 +1407,9 @@ Unanimous (10-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+**Yea (9):** [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Tanya Park](/councillors/former/t-park)
 
-**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Paul Hubert](/councillors/current/p-hubert)
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Paul Hubert](/councillors/former/p-hubert)
 
 </details>
 

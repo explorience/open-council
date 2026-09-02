@@ -661,7 +661,7 @@ Unanimous (5-0)
 
 **Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
 
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/former/e-holder), [Jesse Helmer](/councillors/former/j-helmer), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 
@@ -674,7 +674,7 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (3):** [Ed Holder](/councillors/former/e-holder), [Jesse Helmer](/councillors/former/j-helmer), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 **Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
 

@@ -1025,7 +1025,7 @@ Unanimous (5-0)
 
 **Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins)
 
-**Nay (3):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy)
 
 </details>
 
@@ -1040,9 +1040,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst)
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst)
 
-**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy)
 
 </details>
 

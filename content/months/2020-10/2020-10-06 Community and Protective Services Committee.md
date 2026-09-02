@@ -368,9 +368,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+**Yea (3):** [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Phil Squire](/councillors/former/p-squire)
 
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih)
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/former/m-salih)
 
 </details>
 

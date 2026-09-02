@@ -293,11 +293,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+**Nay (2):** [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -310,11 +310,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+**Nay (2):** [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

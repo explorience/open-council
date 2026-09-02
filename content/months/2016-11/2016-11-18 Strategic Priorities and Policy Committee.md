@@ -135,9 +135,9 @@ C-2      A
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park)
 
 </details>
 

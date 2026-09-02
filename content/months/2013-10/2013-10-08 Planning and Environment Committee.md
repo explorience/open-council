@@ -1154,26 +1154,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Yea (2):** [Paul Hubert](/councillors/former/p-hubert), [Nancy Branscombe](/councillors/former/n-branscombe)
 
-**Nay (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
-
-### 10. Property located at
-  660 Sunningdale Road East   (39T-09501/OZ-7638)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (4):** [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
 </details>
 
@@ -1183,6 +1166,23 @@ Unanimous (6-0)
 > Motion   Passed
 
 **✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
+
+**Nay (2):** [Paul Hubert](/councillors/former/p-hubert), [Nancy Branscombe](/councillors/former/n-branscombe)
+
+</details>
+
+### 10. Property located at
+  660 Sunningdale Road East   (39T-09501/OZ-7638)
+
+> Motion   Passed
+
+**✅ Motion
   Passed**
 
 Unanimous (6-0)
@@ -1198,9 +1198,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
-**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (2):** [Paul Hubert](/councillors/former/p-hubert), [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 
@@ -1235,9 +1235,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
-**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (2):** [Paul Hubert](/councillors/former/p-hubert), [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 
@@ -1252,9 +1252,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
-**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (2):** [Paul Hubert](/councillors/former/p-hubert), [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 

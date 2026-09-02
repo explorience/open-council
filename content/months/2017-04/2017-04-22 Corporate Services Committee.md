@@ -265,9 +265,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (3):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Tanya Park](/councillors/current/t-park)
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -282,9 +282,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Tanya Park](/councillors/current/t-park)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Tanya Park](/councillors/former/t-park)
 
-**Nay (3):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (3):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 

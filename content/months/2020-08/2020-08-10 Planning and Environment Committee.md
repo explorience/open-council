@@ -782,11 +782,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
 
-**Absent (2):** [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Absent (2):** [Jesse Helmer](/councillors/former/j-helmer), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 
@@ -799,11 +799,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+**Nay (1):** [Ed Holder](/councillors/former/e-holder)
 
-**Absent (2):** [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Absent (2):** [Jesse Helmer](/councillors/former/j-helmer), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 
@@ -832,11 +832,11 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
 
-**Absent (2):** [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Absent (2):** [Jesse Helmer](/councillors/former/j-helmer), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 

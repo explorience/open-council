@@ -276,11 +276,11 @@ The meeting adjourned at 5:03 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Absent (1):** [Michael van Holst](/councillors/current/m-van-holst)
+**Absent (1):** [Michael van Holst](/councillors/former/m-van-holst)
 
 </details>
 

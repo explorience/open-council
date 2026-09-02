@@ -667,9 +667,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (4):** [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong)
 
-**Nay (2):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley)
+**Nay (2):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley)
 
 </details>
 
@@ -733,9 +733,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (4):** [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley)
 
-**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+**Nay (1):** [Phil Squire](/councillors/former/p-squire)
 
 </details>
 
@@ -759,9 +759,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (3):** [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy), [Bill Armstrong](/councillors/former/b-armstrong)
 
-**Nay (2):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley)
+**Nay (2):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley)
 
 </details>
 

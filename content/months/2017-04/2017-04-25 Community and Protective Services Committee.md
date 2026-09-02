@@ -623,9 +623,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (4):** [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire)
+**Nay (2):** [Mo Salih](/councillors/former/m-salih), [Phil Squire](/councillors/former/p-squire)
 
 </details>
 
@@ -692,9 +692,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (3):** [Phil Squire](/councillors/former/p-squire), [Bill Armstrong](/councillors/former/b-armstrong), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (1):** [Maureen Cassidy](/councillors/former/m-cassidy)
 
 </details>
 

@@ -1033,9 +1033,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -1048,9 +1048,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1063,9 +1063,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -1078,7 +1078,7 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Stephen Turner](/councillors/current/s-turner)
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Stephen Turner](/councillors/former/s-turner)
 
 **Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
 
@@ -1093,9 +1093,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

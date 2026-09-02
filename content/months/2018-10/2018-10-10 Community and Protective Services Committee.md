@@ -356,9 +356,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (3):** [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown), [Virginia Ridley](/councillors/former/v-ridley)
 
-**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+**Nay (1):** [Mo Salih](/councillors/former/m-salih)
 
 </details>
 

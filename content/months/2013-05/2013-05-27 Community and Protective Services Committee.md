@@ -290,9 +290,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Denise Brown](/councillors/current/d-brown)
+**Yea (3):** [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (2):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler)
+**Nay (2):** [Bill Armstrong](/councillors/former/b-armstrong), [Joni Baechler](/councillors/former/j-l-baechler)
 
 </details>
 

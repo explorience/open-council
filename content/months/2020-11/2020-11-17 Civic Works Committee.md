@@ -376,11 +376,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/former/m-cassidy)
 
 **Nay (2):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

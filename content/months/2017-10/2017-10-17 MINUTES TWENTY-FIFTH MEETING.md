@@ -2568,9 +2568,9 @@ Approve Third Reading and Enactment of Bill
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Bill Armstrong](/councillors/former/b-armstrong)
 
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -2584,9 +2584,9 @@ Approve Third Reading and Enactment of Bill
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner), [Bill Armstrong](/councillors/former/b-armstrong), [Tanya Park](/councillors/former/t-park)
 
-**Nay (7):** [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+**Nay (7):** [Michael van Holst](/councillors/former/m-van-holst), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -2600,9 +2600,9 @@ Approve Third Reading and Enactment of Bill
 <details>
 <summary>View roll call</summary>
 
-**Yea (6):** [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (6):** [Michael van Holst](/councillors/former/m-van-holst), [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Tanya Park](/councillors/former/t-park), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -2653,9 +2653,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (10):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (10):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Tanya Park](/councillors/current/t-park)
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/former/m-salih), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -2678,9 +2678,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Tanya Park](/councillors/current/t-park)
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -2764,9 +2764,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Tanya Park](/councillors/former/t-park), [Jared Zaifman](/councillors/former/j-zaifman)
 
-**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+**Nay (1):** [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 

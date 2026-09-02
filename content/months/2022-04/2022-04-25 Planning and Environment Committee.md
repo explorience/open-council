@@ -530,7 +530,7 @@ Unanimous (5-0)
 
 **Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
 
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
 **Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
 
@@ -561,7 +561,7 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
 **Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
 

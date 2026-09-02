@@ -458,9 +458,9 @@ The meeting adjourned at 6:32 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (4):** [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy), [Bill Armstrong](/councillors/former/b-armstrong), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+**Nay (1):** [Phil Squire](/councillors/former/p-squire)
 
 </details>
 

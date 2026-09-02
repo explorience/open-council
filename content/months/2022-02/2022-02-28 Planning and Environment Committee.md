@@ -739,9 +739,9 @@ Unanimous (5-0)
 
 **Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
 
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

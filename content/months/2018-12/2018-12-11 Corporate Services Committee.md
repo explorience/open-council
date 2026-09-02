@@ -365,11 +365,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Steve Hillier](/councillors/current/s-hillier), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Steve Hillier](/councillors/current/s-hillier), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
-**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Jesse Helmer](/councillors/former/j-helmer)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

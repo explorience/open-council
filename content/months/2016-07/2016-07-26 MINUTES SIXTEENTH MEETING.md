@@ -3819,9 +3819,9 @@ Motion Passed
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
-**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (2):** [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer)
 
 </details>
 
@@ -3834,9 +3834,9 @@ Motion Passed
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -3868,9 +3868,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park)
 
-**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 
@@ -3884,9 +3884,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park)
 
-**Nay (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Stephen Turner](/councillors/former/s-turner), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 
@@ -3909,9 +3909,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
-**Nay (2):** [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert)
+**Nay (2):** [Stephen Turner](/councillors/former/s-turner), [Paul Hubert](/councillors/former/p-hubert)
 
 </details>
 
@@ -3925,9 +3925,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Tanya Park](/councillors/former/t-park)
 
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 
@@ -3960,9 +3960,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -3984,9 +3984,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Virginia Ridley](/councillors/current/v-ridley)
+**Nay (1):** [Virginia Ridley](/councillors/former/v-ridley)
 
 </details>
 
@@ -4055,9 +4055,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
-**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert)
 
 </details>
 
@@ -4072,9 +4072,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+**Nay (2):** [Paul Hubert](/councillors/former/p-hubert), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -4098,9 +4098,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
-**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert)
+**Nay (2):** [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert)
 
 </details>
 
@@ -4255,9 +4255,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+**Nay (1):** [Michael van Holst](/councillors/former/m-van-holst)
 
 </details>
 

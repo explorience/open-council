@@ -707,9 +707,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (4):** [Michael van Holst](/councillors/former/m-van-holst), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong)
 
-**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+**Nay (1):** [Paul Hubert](/councillors/former/p-hubert)
 
 </details>
 

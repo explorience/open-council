@@ -1070,11 +1070,11 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+**Nay (1):** [Michael van Holst](/councillors/former/m-van-holst)
 
-**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 
@@ -1095,7 +1095,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 

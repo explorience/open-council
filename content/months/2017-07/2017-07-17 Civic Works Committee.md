@@ -977,9 +977,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (4):** [Michael van Holst](/councillors/former/m-van-holst), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley)
 
-**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+**Nay (1):** [Phil Squire](/councillors/former/p-squire)
 
 </details>
 
@@ -1119,9 +1119,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (4):** [Michael van Holst](/councillors/former/m-van-holst), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Virginia Ridley](/councillors/former/v-ridley)
 
-**Nay (1):** [Bill Armstrong](/councillors/current/b-armstrong)
+**Nay (1):** [Bill Armstrong](/councillors/former/b-armstrong)
 
 </details>
 

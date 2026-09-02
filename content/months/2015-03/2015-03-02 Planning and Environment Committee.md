@@ -912,9 +912,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+**Yea (4):** [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert)
 
-**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+**Nay (2):** [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 

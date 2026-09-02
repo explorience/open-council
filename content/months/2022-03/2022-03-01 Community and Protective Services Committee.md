@@ -1177,11 +1177,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Steve Hillier](/councillors/current/s-hillier), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Mariam Hamou](/councillors/current/m-hamou)
+**Yea (4):** [Steve Hillier](/councillors/current/s-hillier), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Mariam Hamou](/councillors/former/m-hamou)
 
-**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+**Nay (1):** [Ed Holder](/councillors/former/e-holder)
 
-**Absent (1):** [Mo Salih](/councillors/current/m-salih)
+**Absent (1):** [Mo Salih](/councillors/former/m-salih)
 
 </details>
 
@@ -1202,11 +1202,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Yea (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
-**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Mariam Hamou](/councillors/current/m-hamou)
+**Nay (3):** [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Mariam Hamou](/councillors/former/m-hamou)
 
-**Absent (1):** [Mo Salih](/councillors/current/m-salih)
+**Absent (1):** [Mo Salih](/councillors/former/m-salih)
 
 </details>
 

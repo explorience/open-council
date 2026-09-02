@@ -1277,9 +1277,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Paul Hubert](/councillors/former/p-hubert), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
-**Nay (1):** [Joe Fontana](/councillors/current/j-f-fontana)
+**Nay (1):** [Joe Fontana](/councillors/former/j-f-fontana)
 
 </details>
 
@@ -1294,9 +1294,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe), [Sandy White](/councillors/current/s-white)
+**Yea (3):** [Paul Hubert](/councillors/former/p-hubert), [Nancy Branscombe](/councillors/former/n-branscombe), [Sandy White](/councillors/former/s-white)
 
-**Nay (2):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
+**Nay (2):** [Joe Fontana](/councillors/former/j-f-fontana), [Bud Polhill](/councillors/former/b-polhill)
 
 </details>
 

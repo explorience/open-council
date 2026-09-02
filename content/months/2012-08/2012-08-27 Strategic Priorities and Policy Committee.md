@@ -201,9 +201,9 @@ The
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson)
+**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson)
 
-**Nay (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
+**Nay (4):** [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Bud Polhill](/councillors/former/b-polhill)
 
 </details>
 

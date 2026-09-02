@@ -540,27 +540,9 @@ Unanimous (14-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/former/b-armstrong), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
-
-### 6. Managing Director,
-  Corporate Services and City Treasurer, Chief Financial Officer - Development
-  Charge Policy - DC Area Specific Charges
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
-
-**Nay (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (5):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 
@@ -576,9 +558,27 @@ Unanimous (14-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/former/b-armstrong), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (5):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant)
+
+</details>
+
+### 6. Managing Director,
+  Corporate Services and City Treasurer, Chief Financial Officer - Development
+  Charge Policy - DC Area Specific Charges
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/former/b-armstrong), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (5):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 

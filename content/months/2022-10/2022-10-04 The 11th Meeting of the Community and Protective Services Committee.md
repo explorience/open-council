@@ -494,9 +494,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (5):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Nay (1):** [Mariam Hamou](/councillors/current/m-hamou)
+**Nay (1):** [Mariam Hamou](/councillors/former/m-hamou)
 
 </details>
 

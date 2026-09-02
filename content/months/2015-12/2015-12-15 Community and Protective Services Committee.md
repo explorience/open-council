@@ -828,9 +828,9 @@ Motion
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (4):** [Mo Salih](/councillors/former/m-salih), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (3):** [Mo Salih](/councillors/current/m-salih), [Virginia Ridley](/councillors/current/v-ridley), [Jared Zaifman](/councillors/current/j-zaifman)
+**Nay (3):** [Mo Salih](/councillors/former/m-salih), [Virginia Ridley](/councillors/former/v-ridley), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 

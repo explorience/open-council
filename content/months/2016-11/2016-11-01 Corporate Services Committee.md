@@ -568,9 +568,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (2):** [Matt Brown](/councillors/former/m-brown), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park)
 
 </details>
 

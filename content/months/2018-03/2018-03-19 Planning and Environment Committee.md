@@ -1049,9 +1049,9 @@ The meeting adjourned at 9:34 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown)
 
-**Nay (2):** [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+**Nay (2):** [Stephen Turner](/councillors/former/s-turner), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -1072,9 +1072,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 

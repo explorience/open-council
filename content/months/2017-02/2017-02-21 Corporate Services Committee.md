@@ -608,9 +608,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (1):** [Tanya Park](/councillors/current/t-park)
+**Nay (1):** [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -625,9 +625,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (1):** [Tanya Park](/councillors/current/t-park)
+**Nay (1):** [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -642,9 +642,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Tanya Park](/councillors/current/t-park)
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Tanya Park](/councillors/former/t-park)
 
-**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (3):** [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 

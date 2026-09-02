@@ -415,9 +415,9 @@ Recommendation:  That consideration of the
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (2):** [Harold Usher](/councillors/current/h-l-usher), [Bud Polhill](/councillors/current/b-polhill)
+**Nay (2):** [Harold Usher](/councillors/former/h-l-usher), [Bud Polhill](/councillors/former/b-polhill)
 
 </details>
 
@@ -432,7 +432,7 @@ Recommendation:  That consideration of the
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (12):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
 **Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
@@ -471,27 +471,9 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (1):** [Matt Brown](/councillors/current/m-brown)
-
-</details>
-
-### 6. Consideration of
-  Nominees for Appointment to the Board of Directors of the Greater London
-  International Airport Authority
-
-> Motion   Failed
-
-**❌ Motion
-  Failed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Dale Henderson](/councillors/current/d-g-henderson)
-
-**Nay (8):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Nay (1):** [Matt Brown](/councillors/former/m-brown)
 
 </details>
 
@@ -507,27 +489,9 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Joe Fontana](/councillors/current/j-f-fontana), [Denise Brown](/councillors/current/d-brown)
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Dale Henderson](/councillors/former/d-g-henderson)
 
-**Nay (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
-
-### 6. Consideration of
-  Nominees for Appointment to the Board of Directors of the Greater London
-  International Airport Authority
-
-> Motion   Failed
-
-**❌ Motion
-  Failed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Dale Henderson](/councillors/current/d-g-henderson), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-**Nay (8):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Nay (8):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Joe Fontana](/councillors/former/j-f-fontana), [Stephen Orser](/councillors/former/s-orser), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
 </details>
 
@@ -543,9 +507,45 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
+**Yea (2):** [Joe Fontana](/councillors/former/j-f-fontana), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (8):** [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Nay (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant)
+
+</details>
+
+### 6. Consideration of
+  Nominees for Appointment to the Board of Directors of the Greater London
+  International Airport Authority
+
+> Motion   Failed
+
+**❌ Motion
+  Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Dale Henderson](/councillors/former/d-g-henderson), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (8):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
+
+</details>
+
+### 6. Consideration of
+  Nominees for Appointment to the Board of Directors of the Greater London
+  International Airport Authority
+
+> Motion   Failed
+
+**❌ Motion
+  Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/former/p-hubert), [Stephen Orser](/councillors/former/s-orser), [Sandy White](/councillors/former/s-white)
+
+**Nay (8):** [Matt Brown](/councillors/former/m-brown), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
 </details>
 
@@ -561,9 +561,9 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (3):** [Harold Usher](/councillors/current/h-l-usher), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white)
+**Nay (3):** [Harold Usher](/councillors/former/h-l-usher), [Dale Henderson](/councillors/former/d-g-henderson), [Sandy White](/councillors/former/s-white)
 
 </details>
 

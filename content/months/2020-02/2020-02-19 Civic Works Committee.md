@@ -364,7 +364,7 @@ Unanimous (5-0)
 
 **Yea (2):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
-**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Maureen Cassidy](/councillors/former/m-cassidy)
 
 **Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
 
@@ -379,11 +379,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/former/m-cassidy)
 
 **Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
-**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

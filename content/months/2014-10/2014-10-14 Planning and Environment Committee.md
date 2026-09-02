@@ -73,9 +73,9 @@ The
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), W.R. Monteith, [Joni Baechler](/councillors/current/j-l-baechler)
+**Yea (3):** [Paul Hubert](/councillors/former/p-hubert), [W.R. Monteith](/councillors/former/w-r-monteith), [Joni Baechler](/councillors/former/j-l-baechler)
 
-**Nay (3):** [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Nay (3):** [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
 </details>
 

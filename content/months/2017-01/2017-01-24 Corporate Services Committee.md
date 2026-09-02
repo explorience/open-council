@@ -466,9 +466,9 @@ The Corporate Services Committee convened in
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Tanya Park](/councillors/current/t-park)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Tanya Park](/councillors/former/t-park)
 
-**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (2):** [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 
@@ -483,9 +483,9 @@ The Corporate Services Committee convened in
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (1):** [Tanya Park](/councillors/current/t-park)
+**Nay (1):** [Tanya Park](/councillors/former/t-park)
 
 </details>
 

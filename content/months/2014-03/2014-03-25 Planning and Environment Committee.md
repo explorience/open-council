@@ -2373,9 +2373,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
+**Yea (4):** [Paul Hubert](/councillors/former/p-hubert), [Joe Fontana](/councillors/former/j-f-fontana), [Joni Baechler](/councillors/former/j-l-baechler), [Dale Henderson](/councillors/former/d-g-henderson)
 
-**Nay (2):** [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Nay (2):** [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
 </details>
 
@@ -2430,9 +2430,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
-**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler)
+**Nay (2):** [Paul Hubert](/councillors/former/p-hubert), [Joni Baechler](/councillors/former/j-l-baechler)
 
 </details>
 
@@ -2467,9 +2467,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler)
+**Yea (3):** [Paul Hubert](/councillors/former/p-hubert), [Joe Fontana](/councillors/former/j-f-fontana), [Joni Baechler](/councillors/former/j-l-baechler)
 
-**Nay (3):** [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Nay (3):** [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
 </details>
 

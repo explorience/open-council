@@ -563,9 +563,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park)
 
-**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (3):** [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 
@@ -581,9 +581,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park)
 
-**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (3):** [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 
@@ -599,9 +599,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (1):** [Virginia Ridley](/councillors/former/v-ridley)
 
-**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 

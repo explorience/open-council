@@ -220,9 +220,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (3):** [Phil Squire](/councillors/former/p-squire), [Bill Armstrong](/councillors/former/b-armstrong), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+**Nay (1):** [Mo Salih](/councillors/former/m-salih)
 
 </details>
 
@@ -237,9 +237,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (3):** [Mo Salih](/councillors/former/m-salih), [Phil Squire](/councillors/former/p-squire), [Bill Armstrong](/councillors/former/b-armstrong)
 
-**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+**Nay (1):** [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 

@@ -559,9 +559,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (3):** [Harold Usher](/councillors/former/h-l-usher), [Joni Baechler](/councillors/former/j-l-baechler), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (1):** [Denise Brown](/councillors/current/d-brown)
+**Nay (1):** [Denise Brown](/councillors/former/d-brown)
 
 </details>
 
@@ -596,9 +596,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (3):** [Joni Baechler](/councillors/former/j-l-baechler), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+**Nay (1):** [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 

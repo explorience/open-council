@@ -278,9 +278,9 @@ Unanimous (4-0)
 
 **Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
 
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (1):** [Jesse Helmer](/councillors/former/j-helmer)
 
-**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 

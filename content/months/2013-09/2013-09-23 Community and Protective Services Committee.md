@@ -171,9 +171,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (4):** [Harold Usher](/councillors/former/h-l-usher), [Joni Baechler](/councillors/former/j-l-baechler), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (1):** [Bill Armstrong](/councillors/current/b-armstrong)
+**Nay (1):** [Bill Armstrong](/councillors/former/b-armstrong)
 
 </details>
 

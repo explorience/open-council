@@ -1675,9 +1675,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Paul Hubert](/councillors/former/p-hubert), [Joni Baechler](/councillors/former/j-l-baechler), [Dale Henderson](/councillors/former/d-g-henderson), [Sandy White](/councillors/former/s-white)
 
-**Nay (1):** [Bud Polhill](/councillors/current/b-polhill)
+**Nay (1):** [Bud Polhill](/councillors/former/b-polhill)
 
 </details>
 

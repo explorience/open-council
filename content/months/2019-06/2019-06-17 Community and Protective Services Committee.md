@@ -696,11 +696,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih)
+**Yea (2):** [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/former/m-salih)
 
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -713,11 +713,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/former/m-salih)
 
-**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -732,9 +732,9 @@ Unanimous (5-0)
 
 **Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
 
-**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (2):** [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

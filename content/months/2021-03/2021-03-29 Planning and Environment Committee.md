@@ -3092,7 +3092,7 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Phil Squire](/councillors/current/p-squire)
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
 
 **Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
 
@@ -3107,9 +3107,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire)
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/former/p-squire)
 
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -3122,9 +3122,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder)
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder)
 
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/current/p-squire)
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/former/p-squire)
 
 </details>
 

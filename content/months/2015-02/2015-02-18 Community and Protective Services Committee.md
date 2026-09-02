@@ -1024,9 +1024,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/former/m-salih), [Matt Brown](/councillors/former/m-brown), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Bill Armstrong](/councillors/current/b-armstrong)
+**Nay (1):** [Bill Armstrong](/councillors/former/b-armstrong)
 
 </details>
 
@@ -1040,7 +1040,7 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+**Yea (5):** [Mo Salih](/councillors/former/m-salih), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park)
 
 **Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
 
@@ -1056,9 +1056,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (1):** [Bill Armstrong](/councillors/former/b-armstrong)
 
-**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/former/m-salih), [Matt Brown](/councillors/former/m-brown), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park)
 
 </details>
 

@@ -370,7 +370,7 @@ Unanimous (6-0)
 
 **Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
 
-**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Phil Squire](/councillors/current/p-squire)
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
 
 </details>
 

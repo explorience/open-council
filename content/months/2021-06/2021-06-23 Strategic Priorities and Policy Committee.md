@@ -1322,7 +1322,7 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Absent (2):** [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 
@@ -1343,7 +1343,7 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Absent (2):** [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 

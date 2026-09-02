@@ -662,11 +662,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+**Yea (2):** [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire)
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/former/p-squire)
 
-**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Maureen Cassidy](/councillors/former/m-cassidy)
 
 </details>
 

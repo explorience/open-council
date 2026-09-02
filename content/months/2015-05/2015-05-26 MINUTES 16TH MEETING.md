@@ -608,9 +608,9 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (2):** [Phil Squire](/councillors/former/p-squire), [Bill Armstrong](/councillors/former/b-armstrong)
 
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 

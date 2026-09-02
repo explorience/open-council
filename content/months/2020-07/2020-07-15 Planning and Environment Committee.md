@@ -616,7 +616,7 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (5):** [Ed Holder](/councillors/former/e-holder), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 **Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
 
@@ -639,11 +639,11 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder)
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder)
 
-**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Nay (3):** [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
-**Absent (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Absent (1):** [Maureen Cassidy](/councillors/former/m-cassidy)
 
 </details>
 
@@ -656,9 +656,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
-**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+**Nay (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

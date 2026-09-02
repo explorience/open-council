@@ -576,7 +576,7 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/former/m-cassidy), [Harold Usher](/councillors/former/h-l-usher), [Jared Zaifman](/councillors/former/j-zaifman)
 
 **Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
 

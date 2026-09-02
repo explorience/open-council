@@ -804,9 +804,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (3):** [Mo Salih](/councillors/former/m-salih), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley)
 
-**Nay (1):** [Bill Armstrong](/councillors/current/b-armstrong)
+**Nay (1):** [Bill Armstrong](/councillors/former/b-armstrong)
 
 </details>
 
@@ -821,9 +821,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (3):** [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+**Nay (1):** [Mo Salih](/councillors/former/m-salih)
 
 </details>
 

@@ -756,9 +756,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert)
+**Yea (2):** [Phil Squire](/councillors/former/p-squire), [Paul Hubert](/councillors/former/p-hubert)
 
-**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+**Nay (3):** [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner), [Tanya Park](/councillors/former/t-park)
 
 </details>
 

@@ -1370,9 +1370,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 **Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
 

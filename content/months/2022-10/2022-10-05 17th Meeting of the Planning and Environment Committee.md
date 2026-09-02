@@ -494,11 +494,11 @@ The meeting adjourned at 7:00 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder)
 
 **Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
 
-**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+**Absent (1):** [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -513,9 +513,9 @@ The meeting adjourned at 7:00 PM.
 
 **Yea (2):** [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
 
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder)
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder)
 
-**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+**Absent (1):** [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 

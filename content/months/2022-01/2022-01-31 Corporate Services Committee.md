@@ -372,9 +372,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Maureen Cassidy](/councillors/current/m-cassidy), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Maureen Cassidy](/councillors/former/m-cassidy), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
 
-**Nay (2):** [Ed Holder](/councillors/current/e-holder), [Mariam Hamou](/councillors/current/m-hamou)
+**Nay (2):** [Ed Holder](/councillors/former/e-holder), [Mariam Hamou](/councillors/former/m-hamou)
 
 </details>
 
@@ -387,9 +387,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Maureen Cassidy](/councillors/current/m-cassidy), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Maureen Cassidy](/councillors/former/m-cassidy), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
 
-**Nay (2):** [Ed Holder](/councillors/current/e-holder), [Mariam Hamou](/councillors/current/m-hamou)
+**Nay (2):** [Ed Holder](/councillors/former/e-holder), [Mariam Hamou](/councillors/former/m-hamou)
 
 </details>
 
@@ -402,11 +402,11 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Maureen Cassidy](/councillors/current/m-cassidy), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Maureen Cassidy](/councillors/former/m-cassidy), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
 
-**Nay (1):** [Mariam Hamou](/councillors/current/m-hamou)
+**Nay (1):** [Mariam Hamou](/councillors/former/m-hamou)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

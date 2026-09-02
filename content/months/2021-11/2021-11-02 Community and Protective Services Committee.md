@@ -1675,9 +1675,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Jesse Helmer](/councillors/former/j-helmer), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
 
-**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+**Nay (1):** [Mo Salih](/councillors/former/m-salih)
 
 </details>
 

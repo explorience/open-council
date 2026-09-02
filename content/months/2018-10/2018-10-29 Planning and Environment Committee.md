@@ -780,11 +780,11 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (1):** [Jesse Helmer](/councillors/former/j-helmer)
 
-**Absent (2):** [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+**Absent (2):** [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -805,11 +805,11 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
 
 **Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
 
-**Absent (2):** [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+**Absent (2):** [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -830,7 +830,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+**Absent (2):** [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
 
 </details>
 

@@ -277,11 +277,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert)
+**Yea (3):** [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert)
 
-**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Jared Zaifman](/councillors/current/j-zaifman)
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Jared Zaifman](/councillors/former/j-zaifman)
 
-**Absent (1):** [Matt Brown](/councillors/current/m-brown)
+**Absent (1):** [Matt Brown](/councillors/former/m-brown)
 
 </details>
 

@@ -405,9 +405,9 @@ Unanimous (5-0)
 
 **Yea (2):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

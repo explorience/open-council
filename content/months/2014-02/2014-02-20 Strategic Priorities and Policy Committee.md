@@ -320,9 +320,9 @@ Unanimous (11-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (3):** [Bill Armstrong](/councillors/former/b-armstrong), [Joni Baechler](/councillors/former/j-l-baechler), [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 
@@ -347,9 +347,9 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (3):** [Matt Brown](/councillors/current/m-brown), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (3):** [Matt Brown](/councillors/former/m-brown), [Joni Baechler](/councillors/former/j-l-baechler), [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 

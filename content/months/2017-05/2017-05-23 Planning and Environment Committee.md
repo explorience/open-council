@@ -1301,9 +1301,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
 
-**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (2):** [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy)
 
 </details>
 
@@ -1372,9 +1372,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner), [Tanya Park](/councillors/former/t-park)
 
-**Nay (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
+**Nay (2):** [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown)
 
 </details>
 
@@ -1401,9 +1401,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
+**Yea (2):** [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown)
 
-**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner), [Tanya Park](/councillors/former/t-park)
 
 </details>
 

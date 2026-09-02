@@ -1403,7 +1403,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1416,7 +1416,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1429,7 +1429,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1442,7 +1442,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1455,7 +1455,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1468,7 +1468,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1481,7 +1481,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1505,7 +1505,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1518,7 +1518,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1531,7 +1531,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1544,7 +1544,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1557,7 +1557,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1570,7 +1570,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1583,7 +1583,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (3):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Absent (3):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Maureen Cassidy](/councillors/former/m-cassidy)
 
 </details>
 

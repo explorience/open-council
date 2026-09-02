@@ -582,11 +582,11 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Phil Squire](/councillors/current/p-squire)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Phil Squire](/councillors/former/p-squire)
 
 **Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
 
-**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst)
 
 </details>
 
@@ -607,11 +607,11 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Phil Squire](/councillors/current/p-squire)
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Phil Squire](/councillors/former/p-squire)
 
 **Nay (2):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
 
-**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst)
 
 </details>
 

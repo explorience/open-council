@@ -1872,7 +1872,7 @@ Unanimous (6-0)
 
 **Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
 
-**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+**Absent (1):** [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -1887,7 +1887,7 @@ Unanimous (6-0)
 
 **Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
 
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Stephen Turner](/councillors/current/s-turner)
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -1904,7 +1904,7 @@ Unanimous (6-0)
 
 **Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
 
-**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+**Absent (1):** [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 

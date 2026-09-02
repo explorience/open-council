@@ -299,9 +299,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (3):** [Joe Swan](/councillors/former/j-b-swan), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+**Nay (1):** [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 

@@ -1195,7 +1195,7 @@ Unanimous (6-0)
 
 **Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
 
-**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Stephen Turner](/councillors/current/s-turner)
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder), [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 

@@ -454,7 +454,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -469,7 +469,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -484,7 +484,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -499,7 +499,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -514,7 +514,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -529,7 +529,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -544,7 +544,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -559,7 +559,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -575,7 +575,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -591,7 +591,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -606,7 +606,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -621,7 +621,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -636,7 +636,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -651,7 +651,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -666,7 +666,7 @@ The meeting adjourned at 2:13 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Matt Brown](/councillors/former/m-brown), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 

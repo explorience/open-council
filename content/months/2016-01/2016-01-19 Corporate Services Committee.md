@@ -608,9 +608,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (2):** [Maureen Cassidy](/councillors/former/m-cassidy), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Jared Zaifman](/councillors/current/j-zaifman)
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -625,9 +625,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Jared Zaifman](/councillors/former/j-zaifman)
 
-**Nay (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (2):** [Maureen Cassidy](/councillors/former/m-cassidy), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 

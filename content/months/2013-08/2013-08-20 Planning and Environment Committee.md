@@ -1499,9 +1499,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
-**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (2):** [Paul Hubert](/councillors/former/p-hubert), [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 
@@ -1536,9 +1536,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (5):** [Paul Hubert](/councillors/former/p-hubert), [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
-**Nay (1):** [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (1):** [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 
@@ -1553,9 +1553,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
-**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (2):** [Paul Hubert](/councillors/former/p-hubert), [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 
@@ -1723,9 +1723,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (5):** [Paul Hubert](/councillors/former/p-hubert), [Joe Fontana](/councillors/former/j-f-fontana), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
-**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+**Nay (1):** [Dale Henderson](/councillors/former/d-g-henderson)
 
 </details>
 

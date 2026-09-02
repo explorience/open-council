@@ -1294,9 +1294,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Tanya Park](/councillors/current/t-park)
+**Nay (2):** [Maureen Cassidy](/councillors/former/m-cassidy), [Tanya Park](/councillors/former/t-park)
 
 </details>
 

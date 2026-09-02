@@ -482,7 +482,7 @@ Unanimous (6-0)
 
 **Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
 
-**Nay (4):** [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Nay (4):** [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 
@@ -495,7 +495,7 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (4):** [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 **Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
 
@@ -510,7 +510,7 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (4):** [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 **Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
 

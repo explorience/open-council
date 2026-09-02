@@ -625,9 +625,9 @@ The meeting adjourned at 10:09 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
+**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Stephen Orser](/councillors/former/s-orser), [Sandy White](/councillors/former/s-white)
 
-**Nay (1):** [Matt Brown](/councillors/current/m-brown)
+**Nay (1):** [Matt Brown](/councillors/former/m-brown)
 
 </details>
 
@@ -652,9 +652,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
+**Yea (3):** [Matt Brown](/councillors/former/m-brown), [Stephen Orser](/councillors/former/s-orser), [Sandy White](/councillors/former/s-white)
 
-**Nay (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana)
+**Nay (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana)
 
 </details>
 
@@ -718,9 +718,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana)
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana)
 
-**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
+**Nay (2):** [Stephen Orser](/councillors/former/s-orser), [Sandy White](/councillors/former/s-white)
 
 </details>
 
@@ -735,26 +735,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
+**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Joe Fontana](/councillors/former/j-f-fontana), [Stephen Orser](/councillors/former/s-orser), [Sandy White](/councillors/former/s-white)
 
-**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
-
-### 11. Removal of Fluoride
-  from London's Drinking Water
-
-> Motion   Passed
-
-**✅ Motion
-  Passed 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Sandy White](/councillors/current/s-white)
-
-**Nay (1):** [Stephen Orser](/councillors/current/s-orser)
+**Nay (1):** [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 
@@ -769,9 +752,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Harold Usher](/councillors/former/h-l-usher), [Sandy White](/councillors/former/s-white)
 
-**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser)
+**Nay (1):** [Stephen Orser](/councillors/former/s-orser)
 
 </details>
 
@@ -786,9 +769,26 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Matt Brown](/councillors/former/m-brown), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Sandy White](/councillors/former/s-white)
 
-**Nay (1):** [Stephen Orser](/councillors/current/s-orser)
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/former/s-orser)
+
+</details>
+
+### 11. Removal of Fluoride
+  from London's Drinking Water
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Harold Usher](/councillors/former/h-l-usher), [Sandy White](/councillors/former/s-white)
+
+**Nay (1):** [Stephen Orser](/councillors/former/s-orser)
 
 </details>
 

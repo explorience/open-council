@@ -768,9 +768,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park)
 
-**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/current/v-ridley)
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/former/v-ridley)
 
 </details>
 

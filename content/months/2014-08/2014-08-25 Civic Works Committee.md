@@ -1091,9 +1091,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), W.R. Monteith
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/former/h-l-usher), [Stephen Orser](/councillors/former/s-orser), [W.R. Monteith](/councillors/former/w-r-monteith)
 
-**Nay (1):** [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (1):** [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 

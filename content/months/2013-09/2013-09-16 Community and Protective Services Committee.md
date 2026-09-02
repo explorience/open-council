@@ -103,9 +103,9 @@ Motion
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana)
+**Yea (2):** [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana)
 
-**Nay (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (3):** [Bill Armstrong](/councillors/former/b-armstrong), [Joni Baechler](/councillors/former/j-l-baechler), [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 
@@ -120,9 +120,9 @@ Motion
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (2):** [Joni Baechler](/councillors/former/j-l-baechler), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana)
+**Nay (3):** [Bill Armstrong](/councillors/former/b-armstrong), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana)
 
 </details>
 

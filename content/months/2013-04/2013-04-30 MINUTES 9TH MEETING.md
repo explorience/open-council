@@ -3912,9 +3912,9 @@ Unanimous (15-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (1):** [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (1):** [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 
@@ -3928,9 +3928,9 @@ Unanimous (15-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (12):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
+**Nay (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson)
 
 </details>
 
@@ -3944,9 +3944,9 @@ Unanimous (15-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Bud Polhill](/councillors/current/b-polhill)
+**Nay (2):** [Stephen Orser](/councillors/former/s-orser), [Bud Polhill](/councillors/former/b-polhill)
 
 </details>
 
@@ -3969,7 +3969,7 @@ Unanimous (15-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (14):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (14):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
 **Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
@@ -3994,7 +3994,7 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (13):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (13):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 
@@ -4007,9 +4007,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (12):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 
@@ -4107,9 +4107,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (3):** [Matt Brown](/councillors/current/m-brown), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (3):** [Matt Brown](/councillors/former/m-brown), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 
@@ -4123,9 +4123,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/former/b-armstrong), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (4):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (4):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 
@@ -4159,9 +4159,9 @@ Unanimous (15-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+**Nay (1):** [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 

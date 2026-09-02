@@ -406,9 +406,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (4):** [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (1):** [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (1):** [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 
@@ -423,9 +423,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (4):** [Joe Swan](/councillors/former/j-b-swan), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (1):** [Joe Fontana](/councillors/current/j-f-fontana)
+**Nay (1):** [Joe Fontana](/councillors/former/j-f-fontana)
 
 </details>
 
@@ -440,9 +440,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (4):** [Joe Swan](/councillors/former/j-b-swan), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (1):** [Joe Fontana](/councillors/current/j-f-fontana)
+**Nay (1):** [Joe Fontana](/councillors/former/j-f-fontana)
 
 </details>
 

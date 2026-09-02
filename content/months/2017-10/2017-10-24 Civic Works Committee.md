@@ -1444,9 +1444,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (2):** [Michael van Holst](/councillors/former/m-van-holst), [Bill Armstrong](/councillors/former/b-armstrong)
 
-**Nay (3):** [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
+**Nay (3):** [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Virginia Ridley](/councillors/former/v-ridley)
 
 </details>
 

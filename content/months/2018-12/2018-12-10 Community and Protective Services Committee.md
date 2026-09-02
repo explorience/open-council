@@ -679,11 +679,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/current/m-salih)
+**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/former/m-salih)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -706,9 +706,9 @@ Unanimous (5-0)
 
 **Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
 
-**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -729,11 +729,11 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/current/m-salih)
+**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/former/m-salih)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

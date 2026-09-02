@@ -544,7 +544,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -559,7 +559,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -574,7 +574,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -589,7 +589,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -605,7 +605,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -621,7 +621,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -636,7 +636,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -651,7 +651,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -666,7 +666,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -681,7 +681,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -696,7 +696,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -711,7 +711,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -726,7 +726,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -741,7 +741,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -757,7 +757,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 
@@ -775,7 +775,7 @@ The meeting adjourned at 1:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Jared Zaifman](/councillors/former/j-zaifman)
 
 </details>
 

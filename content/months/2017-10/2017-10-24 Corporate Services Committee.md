@@ -398,7 +398,7 @@ The meeting adjourned at 3:01 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (3):** [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 **Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
 
@@ -415,9 +415,9 @@ The meeting adjourned at 3:01 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (2):** [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Tanya Park](/councillors/current/t-park)
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -432,9 +432,9 @@ The meeting adjourned at 3:01 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+**Nay (1):** [Paul Hubert](/councillors/former/p-hubert)
 
 </details>
 
@@ -529,7 +529,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (3):** [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 **Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
 

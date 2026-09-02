@@ -99,9 +99,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Matt Brown](/councillors/current/m-brown), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Yea (2):** [Matt Brown](/councillors/former/m-brown), [Nancy Branscombe](/councillors/former/n-branscombe)
 
-**Nay (1):** [Bill Armstrong](/councillors/current/b-armstrong)
+**Nay (1):** [Bill Armstrong](/councillors/former/b-armstrong)
 
 </details>
 

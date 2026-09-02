@@ -1862,9 +1862,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), W.R. Monteith, [Bud Polhill](/councillors/current/b-polhill)
+**Yea (3):** [Paul Hubert](/councillors/former/p-hubert), [W.R. Monteith](/councillors/former/w-r-monteith), [Bud Polhill](/councillors/former/b-polhill)
 
-**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+**Nay (1):** [Dale Henderson](/councillors/former/d-g-henderson)
 
 </details>
 
@@ -2216,9 +2216,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), W.R. Monteith, [Bud Polhill](/councillors/current/b-polhill)
+**Yea (3):** [Paul Hubert](/councillors/former/p-hubert), [W.R. Monteith](/councillors/former/w-r-monteith), [Bud Polhill](/councillors/former/b-polhill)
 
-**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+**Nay (1):** [Dale Henderson](/councillors/former/d-g-henderson)
 
 </details>
 

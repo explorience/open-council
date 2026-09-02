@@ -451,7 +451,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
 
 </details>
 
@@ -464,7 +464,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
 
 </details>
 
@@ -477,11 +477,11 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Mariam Hamou](/councillors/current/m-hamou), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
 
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst)
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
 
 </details>
 

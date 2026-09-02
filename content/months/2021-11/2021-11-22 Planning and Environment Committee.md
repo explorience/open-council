@@ -1966,9 +1966,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Mariam Hamou](/councillors/current/m-hamou)
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Mariam Hamou](/councillors/former/m-hamou)
 
-**Nay (4):** [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Nay (4):** [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

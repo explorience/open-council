@@ -443,25 +443,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), W.R. Monteith, [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (11):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [W.R. Monteith](/councillors/former/w-r-monteith), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
-
-### 6. Review of Council
-  Policy 5(1) - Process for the Appointment of an Acting Mayor
-
-> Motion   Lost
-
-**❌ **
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser)
-
-**Nay (11):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), W.R. Monteith, [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/former/s-orser)
 
 </details>
 
@@ -475,9 +459,25 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
+**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/former/s-orser)
 
-**Nay (10):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), W.R. Monteith, [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (11):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [W.R. Monteith](/councillors/former/w-r-monteith), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant)
+
+</details>
+
+### 6. Review of Council
+  Policy 5(1) - Process for the Appointment of an Acting Mayor
+
+> Motion   Lost
+
+**❌ **
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/former/s-orser), [Sandy White](/councillors/former/s-white)
+
+**Nay (10):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [W.R. Monteith](/councillors/former/w-r-monteith), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 
@@ -492,9 +492,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), W.R. Monteith, [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (11):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [W.R. Monteith](/councillors/former/w-r-monteith), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser)
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/former/s-orser)
 
 </details>
 
@@ -509,9 +509,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
-**Nay (3):** [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (3):** [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 

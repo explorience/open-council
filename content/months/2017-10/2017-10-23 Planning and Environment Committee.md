@@ -975,9 +975,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
 
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -1015,9 +1015,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown)
 
-**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Tanya Park](/councillors/current/t-park)
+**Nay (2):** [Jesse Helmer](/councillors/former/j-helmer), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -1055,9 +1055,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown)
 
-**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Tanya Park](/councillors/current/t-park)
+**Nay (2):** [Jesse Helmer](/councillors/former/j-helmer), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -1073,9 +1073,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
+**Yea (4):** [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown)
 
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Tanya Park](/councillors/current/t-park)
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Tanya Park](/councillors/former/t-park)
 
 </details>
 

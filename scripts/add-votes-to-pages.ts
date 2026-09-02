@@ -22,6 +22,7 @@ import path from "path"
 import {
   loadRegistry,
   getSlug,
+  isCurrentCouncillor,
 } from "../lib/councillors/index.js"
 
 interface AggregatedMotion {
@@ -62,10 +63,15 @@ function buildCouncillorLinks(): Map<string, string> {
   for (const [canonicalName, info] of Object.entries(registry)) {
     const slug = (info as any).slug || getSlug(canonicalName)
     const displayName = (info as any).displayName || canonicalName
-    const isCurrent = (info as any).isCurrent !== false
+    // Registry entries carry no isCurrent field — the phantom-field check made EVERY
+    // councillor "current", 404ing all former-councillor mentions. Use the term-based check.
+    const isCurrent = isCurrentCouncillor(canonicalName)
 
     const folder = isCurrent ? "current" : "former"
     links.set(displayName, `/councillors/${folder}/${slug}`)
+    // The frozen vote data stores registry keys (initials form, e.g. "W.R. Monteith"),
+    // which can differ from displayName — register both so mentions always link.
+    links.set(canonicalName, `/councillors/${folder}/${slug}`)
   }
 
   return links

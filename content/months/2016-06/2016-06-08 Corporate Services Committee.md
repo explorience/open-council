@@ -331,9 +331,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/current/v-ridley), [Jared Zaifman](/councillors/current/j-zaifman)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/former/v-ridley), [Jared Zaifman](/councillors/former/j-zaifman)
 
-**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+**Nay (1):** [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 

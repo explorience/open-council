@@ -411,9 +411,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Tanya Park](/councillors/current/t-park)
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Tanya Park](/councillors/former/t-park)
 
-**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (2):** [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 

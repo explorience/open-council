@@ -310,9 +310,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown)
+**Yea (2):** [Bill Armstrong](/councillors/former/b-armstrong), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (3):** [Matt Brown](/councillors/current/m-brown), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (3):** [Matt Brown](/councillors/former/m-brown), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 

@@ -185,7 +185,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 

@@ -291,9 +291,9 @@ Unanimous (11-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (3):** [Dale Henderson](/councillors/former/d-g-henderson), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (9):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown)
+**Nay (9):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Bud Polhill](/councillors/former/b-polhill), [Denise Brown](/councillors/former/d-brown)
 
 </details>
 

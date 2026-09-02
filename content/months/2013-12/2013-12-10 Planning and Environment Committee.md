@@ -1607,9 +1607,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Joe Fontana](/councillors/former/j-f-fontana), [Joni Baechler](/councillors/former/j-l-baechler), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
-**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+**Nay (1):** [Dale Henderson](/councillors/former/d-g-henderson)
 
 </details>
 
@@ -1644,9 +1644,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill)
+**Yea (3):** [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill)
 
-**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
+**Nay (1):** [Joni Baechler](/councillors/former/j-l-baechler)
 
 </details>
 

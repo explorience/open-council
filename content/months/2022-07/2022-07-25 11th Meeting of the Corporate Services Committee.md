@@ -479,9 +479,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy), [Mariam Hamou](/councillors/current/m-hamou)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/former/e-holder), [Maureen Cassidy](/councillors/former/m-cassidy), [Mariam Hamou](/councillors/former/m-hamou)
 
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
 
 </details>
 

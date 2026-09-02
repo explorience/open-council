@@ -358,7 +358,7 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

@@ -987,9 +987,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (3):** [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Virginia Ridley](/councillors/former/v-ridley)
 
-**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+**Nay (1):** [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 
@@ -1005,9 +1005,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (2):** [Jesse Helmer](/councillors/former/j-helmer), [Virginia Ridley](/councillors/former/v-ridley)
 
-**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (2):** [Michael van Holst](/councillors/former/m-van-holst), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 
@@ -1093,9 +1093,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Michael van Holst](/councillors/current/m-van-holst), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (3):** [Michael van Holst](/councillors/former/m-van-holst), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (1):** [Jesse Helmer](/councillors/former/j-helmer)
 
 </details>
 

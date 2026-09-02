@@ -772,9 +772,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler)
+**Yea (3):** [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joni Baechler](/councillors/former/j-l-baechler)
 
-**Nay (1):** [Denise Brown](/councillors/current/d-brown)
+**Nay (1):** [Denise Brown](/councillors/former/d-brown)
 
 </details>
 
@@ -809,9 +809,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Denise Brown](/councillors/current/d-brown)
+**Yea (4):** [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joni Baechler](/councillors/former/j-l-baechler), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (1):** [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (1):** [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 

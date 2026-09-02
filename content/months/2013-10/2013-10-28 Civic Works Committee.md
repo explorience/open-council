@@ -523,9 +523,9 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser)
+**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/former/s-orser)
 
-**Nay (4):** [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Sandy White](/councillors/current/s-white)
+**Nay (4):** [Matt Brown](/councillors/former/m-brown), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Sandy White](/councillors/former/s-white)
 
 </details>
 

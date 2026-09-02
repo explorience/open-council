@@ -608,9 +608,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (3):** [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (2):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
+**Nay (2):** [Joe Fontana](/councillors/former/j-f-fontana), [Bud Polhill](/councillors/former/b-polhill)
 
 </details>
 
@@ -675,9 +675,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
+**Yea (3):** [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Bud Polhill](/councillors/former/b-polhill)
 
-**Nay (1):** [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (1):** [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 
@@ -692,9 +692,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
+**Yea (3):** [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Bud Polhill](/councillors/former/b-polhill)
 
-**Nay (1):** [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (1):** [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 

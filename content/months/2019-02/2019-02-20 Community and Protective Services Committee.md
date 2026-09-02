@@ -383,9 +383,9 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Nay (2):** [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih)
+**Nay (2):** [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih)
 
 </details>
 

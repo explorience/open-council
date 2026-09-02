@@ -346,11 +346,11 @@ The meeting adjourned at 2:14 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 **Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
 
-**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Absent (1):** [Jesse Helmer](/councillors/former/j-helmer)
 
 </details>
 
@@ -371,11 +371,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
-**Nay (2):** [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+**Nay (2):** [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst)
 
-**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Absent (1):** [Jesse Helmer](/councillors/former/j-helmer)
 
 </details>
 
@@ -388,11 +388,11 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
-**Nay (2):** [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+**Nay (2):** [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst)
 
-**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Absent (1):** [Jesse Helmer](/councillors/former/j-helmer)
 
 </details>
 
