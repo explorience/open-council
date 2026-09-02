@@ -241,7 +241,7 @@ The
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 3. Appointment of
   Consulting Engineer for the Detailed Design of Wickerson No. S-B SWM Facility
@@ -251,7 +251,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 4. UV Disinfection
   Equipment Parts and Service Single Source
@@ -261,7 +261,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 5. Active Transportation
   (AT) and Transportation Demand Management (TDM) - Status Report and the Next
@@ -272,7 +272,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 7. Optimization of
   London Wastewater Treatment Plants – A Strategy and Road Map
@@ -282,7 +282,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 8. 3rd Report of the
   Cycling Advisory Committee
@@ -292,7 +292,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 9. Update on Rainfall
   Event on September 10, 2014
@@ -302,5 +302,5 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 

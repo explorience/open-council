@@ -1229,7 +1229,7 @@ The
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 3. Property located at
   2070 Shore Road (H-8406)
@@ -1239,7 +1239,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 4. Property located at
   2031 Pennyroyal Street (39CD-14513)
@@ -1249,7 +1249,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 4. Property located at
   2031 Pennyroyal Street (39CD-14513)
@@ -1259,7 +1259,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 4. Property located at
   2031 Pennyroyal Street (39CD-14513)
@@ -1269,7 +1269,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 5. Properties located
   at 3550-3590 Singleton Avenue (39CD-14521)
@@ -1279,7 +1279,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 5. Properties located
   at 3550-3590 Singleton Avenue (39CD-14521)
@@ -1289,7 +1289,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 5. Properties located
   at 3550-3590 Singleton Avenue (39CD-14521)
@@ -1299,7 +1299,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 6. Property located at
   710 Proudfoot Lane (OZ-8423)
@@ -1309,7 +1309,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 6. Property located at
   710 Proudfoot Lane (OZ-8423)
@@ -1319,7 +1319,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 6. Property located at
   710 Proudfoot Lane (OZ-8423)
@@ -1329,7 +1329,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 7. Proposed Amendments
   to the Site Plan Control Area By-law
@@ -1339,7 +1339,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 7. Proposed Amendments
   to the Site Plan Control Area By-law
@@ -1349,7 +1349,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 7. Proposed Amendments
   to the Site Plan Control Area By-law
@@ -1359,7 +1359,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 8. Properties located
   at 445-447-449 Dundas Street - Demolition Request
@@ -1369,7 +1369,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 8. Properties located
   at 445-447-449 Dundas Street - Demolition Request
@@ -1379,7 +1379,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 8. Properties located
   at 445-447-449 Dundas Street - Demolition Request
@@ -1389,7 +1389,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 9. Properties located
   at 321 Central Avenue and 581 Waterloo Street - Demolition Requests (OZ-8371)
@@ -1399,7 +1399,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 9. Properties located
   at 321 Central Avenue and 581 Waterloo Street - Demolition Requests (OZ-8371)
@@ -1409,7 +1409,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 9. Properties located
   at 321 Central Avenue and 581 Waterloo Street - Demolition Requests (OZ-8371)
@@ -1419,7 +1419,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 10. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
@@ -1434,7 +1434,7 @@ Unanimous (5-0)
 
 **Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
-**Nay (1):** [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (2):** [W.R. Monteith](/councillors/current/w-r-monteith), [Judy Bryant](/councillors/current/j-p-bryant)
 
 </details>
 
@@ -1446,7 +1446,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 10. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
@@ -1456,7 +1456,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 10. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
@@ -1469,7 +1469,7 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Paul Hubert](/councillors/current/p-hubert), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [W.R. Monteith](/councillors/current/w-r-monteith), [Judy Bryant](/councillors/current/j-p-bryant)
 
 **Nay (3):** [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
@@ -1483,7 +1483,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 11. Standard
   Subdivision Agreement Template - Updated General Provisions
@@ -1493,7 +1493,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 11. Standard
   Subdivision Agreement Template - Updated General Provisions
@@ -1503,6 +1503,16 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
+Unanimous (6-0)
+
+### 12. Property located at
+  161 Windermere Road (39CD-14501/Z-8167)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
 Unanimous (5-0)
 
 ### 12. Property located at
@@ -1513,7 +1523,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 12. Property located at
   161 Windermere Road (39CD-14501/Z-8167)
@@ -1523,17 +1533,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
-
-### 12. Property located at
-  161 Windermere Road (39CD-14501/Z-8167)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 13. 12th Report of the
   London Advisory Committee on Heritage
@@ -1543,5 +1543,5 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 

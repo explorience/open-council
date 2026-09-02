@@ -1362,7 +1362,7 @@ The
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 3. Property located at
   1040 Coronation Drive (H-8376)
@@ -1372,7 +1372,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 4. Building Division
   Monthly Report for August 2014
@@ -1382,7 +1382,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 5. Potential Special
   Policy Area (SPA): West London
@@ -1392,7 +1392,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 6. 10th Report of the
   London Advisory Committee on Heritage
@@ -1402,7 +1402,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 7. Properties located
   at 322-324 York Street (Z-8382)
@@ -1412,7 +1412,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 7. Properties located
   at 322-324 York Street (Z-8382)
@@ -1422,7 +1422,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 7. Properties located
   at 322-324 York Street (Z-8382)
@@ -1432,7 +1432,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 8. Property located at
   1959 Mallard Road (Z-8377)
@@ -1442,7 +1442,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 8. Property located at
   1959 Mallard Road (Z-8377)
@@ -1452,7 +1452,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 8. Property located at
   1959 Mallard Road (Z-8377)
@@ -1462,7 +1462,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 9. Sanitary Sewage
   Servicing Policies for Southwest London (O-7971)
@@ -1472,7 +1472,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 9. Sanitary Sewage
   Servicing Policies for Southwest London (O-7971)
@@ -1482,7 +1482,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 9. Sanitary Sewage
   Servicing Policies for Southwest London (O-7971)
@@ -1492,7 +1492,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 10. Properties located
   on part of 3080 Bostwick Road and 491 and 499 Southdale Road West (Z-8386)
@@ -1502,7 +1502,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 10. Properties located
   on part of 3080 Bostwick Road and 491 and 499 Southdale Road West (Z-8386)
@@ -1512,7 +1512,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 10. Properties located
   on part of 3080 Bostwick Road and 491 and 499 Southdale Road West (Z-8386)
@@ -1522,7 +1522,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 11. Property located at
   1300 Fanshawe Park Road East (OZ-8358)
@@ -1535,7 +1535,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [W.R. Monteith](/councillors/current/w-r-monteith), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white)
 
 **Nay (1):** [Bud Polhill](/councillors/current/b-polhill)
 
@@ -1549,7 +1549,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 11. Property located at
   1300 Fanshawe Park Road East (OZ-8358)
@@ -1559,7 +1559,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 11. Property located at
   1300 Fanshawe Park Road East (OZ-8358)
@@ -1572,7 +1572,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Bud Polhill](/councillors/current/b-polhill)
+**Yea (2):** [W.R. Monteith](/councillors/current/w-r-monteith), [Bud Polhill](/councillors/current/b-polhill)
 
 **Nay (3):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white)
 
@@ -1586,7 +1586,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 12. Properties located
   at 321 Central Avenue and 585 and 581 Waterloo Street (OZ-8371)
@@ -1596,7 +1596,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 12. Properties located
   at 321 Central Avenue and 585 and 581 Waterloo Street (OZ-8371)
@@ -1606,7 +1606,17 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
+
+### 13. Properties located
+  at 471-473 Elizabeth Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
 
 ### 13. Properties located
   at 471-473 Elizabeth Street
@@ -1626,17 +1636,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
-
-### 13. Properties located
-  at 471-473 Elizabeth Street
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 14. Blackfriars/Petersville
   Official Plan/Zoning Study (OZ-8373)
@@ -1646,7 +1646,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 14. Blackfriars/Petersville
   Official Plan/Zoning Study (OZ-8373)
@@ -1656,7 +1656,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 14. Blackfriars/Petersville
   Official Plan/Zoning Study (OZ-8373)
@@ -1666,7 +1666,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 15. Industrial Land
   Review: Recommended Urban Growth Boundary Expansion for Future Industrial
@@ -1677,7 +1677,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 15. Industrial Land
   Review: Recommended Urban Growth Boundary Expansion for Future Industrial
@@ -1688,7 +1688,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 15. Industrial Land
   Review: Recommended Urban Growth Boundary Expansion for Future Industrial
@@ -1699,7 +1699,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 16. Property located at
   2118 Richmond Street (OZ-7890)
@@ -1709,7 +1709,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 16. Property located at
   2118 Richmond Street (OZ-7890)
@@ -1717,12 +1717,12 @@ Unanimous (5-0)
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
 **Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
 
@@ -1739,7 +1739,7 @@ Unanimous (5-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler)
+**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler)
 
 **Nay (3):** [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
@@ -1758,7 +1758,7 @@ Unanimous (5-0)
 
 **Yea (3):** [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
-**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler)
+**Nay (3):** [Paul Hubert](/councillors/current/p-hubert), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler)
 
 </details>
 
@@ -1769,7 +1769,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 18. Regulations limiting greenhouses
 
@@ -1777,7 +1777,7 @@ Unanimous (5-0)
 
 **✅ Motion Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 18. Regulations limiting greenhouses
 
@@ -1786,5 +1786,5 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 

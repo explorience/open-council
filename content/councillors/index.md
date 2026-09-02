@@ -54,3 +54,4 @@ Browse London City Council members by their meeting attendance and voting record
 - [Denise Brown](/councillors/former/d-brown) - 95 meetings
 - [John Fyfe-Millar](/councillors/former/j-fyfe-millar) - 74 meetings
 - [Mariam Hamou](/councillors/former/m-hamou) - 71 meetings
+- [W.R. Monteith](/councillors/former/w-r-monteith) - 21 meetings

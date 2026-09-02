@@ -805,7 +805,7 @@ The
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 2. 1st Report of the
   Cycling Advisory Committee
@@ -815,7 +815,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 2. 1st Report of the
   Cycling Advisory Committee
@@ -825,7 +825,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 5. 2014 Ridout Street
   Brick Sewer Rehabilitation RFP No. 14-23 - Irregular Result
@@ -835,7 +835,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 6. Long-Term Large
   Diameter Pipe Inspection Strategy and Single Source Procurement EW3717-13,
@@ -846,7 +846,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 7. Commissioners Road
   West Reconstruction: Contract 10 - 2014 Infrastructure Lifecycle Renewal
@@ -857,7 +857,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 8. Commissioners Road
   West Widening-Wonderland Road South to Viscount Road-Consulting Engineer
@@ -868,7 +868,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 9. Geotechnical and
   Hydrogeotechnical Investigations for Old Victoria Hospital Lands Secondary
@@ -879,7 +879,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 10. Large Diameter
   Watermain Inspection: Renewal of Monitoring Contract EW3538
@@ -889,7 +889,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 11. Custom Steel
   Fabrication-Joseph Adamou Steel Works Contract-Single Source Procurement
@@ -899,7 +899,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 12. PCP - Hauling of
   Biosolids - Irregular Bid  (Tender T14-55)
@@ -909,7 +909,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 13. Rapid Transit
   Corridors Environmental Assessment Study-Appointment of Consulting Engineer
@@ -919,7 +919,7 @@ Unanimous (2-0)
 **✅ Motion
     Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 13. Rapid Transit
   Corridors Environmental Assessment Study-Appointment of Consulting Engineer
@@ -929,7 +929,7 @@ Unanimous (2-0)
 **✅ Motion
     Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 14. Appointment of
   Consulting Engineer for the Functional and Detailed Design of the Old
@@ -940,7 +940,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 
 ### 15. Blue Box Recycling
   Collection and Processing Contracts
@@ -950,7 +950,7 @@ Unanimous (2-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 16. Community Energy
   Action Program
@@ -960,7 +960,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 17. Updates: Corporate
   Energy Management Program and Conservation and Demand Management (CDM) Plan
@@ -970,7 +970,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 18. Interim Waste
   Diversion Plan 2014-2015
@@ -980,7 +980,7 @@ Unanimous (3-0)
 **✅ Motion
     Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 18. Interim Waste
   Diversion Plan 2014-2015
@@ -990,5 +990,5 @@ Unanimous (3-0)
 **✅ Motion
     Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 

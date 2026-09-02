@@ -81,5 +81,5 @@ The
 **✅ Motion
   Passed**
 
-Unanimous (2-0)
+Unanimous (3-0)
 

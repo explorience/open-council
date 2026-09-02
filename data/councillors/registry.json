@@ -233,6 +233,13 @@
       { "start": 2010, "end": 2014, "role": "Councillor", "ward": 4 }
     ]
   },
+  "W.R. Monteith": {
+    "displayName": "W.R. Monteith",
+    "slug": "w-r-monteith",
+    "terms": [
+      { "start": 2014, "end": 2014, "role": "Councillor", "ward": 4 }
+    ]
+  },
   "J.L. Baechler": {
     "displayName": "Joni Baechler",
     "slug": "j-l-baechler",

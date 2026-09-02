@@ -1777,7 +1777,7 @@ Mayor-Elect M. Brown recognizes the
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 1#6. Proposed Change of
   Date - December 23, 2014 Council Meeting
@@ -1786,7 +1786,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 10#2. Striking Committee Review of Citizen
   Applications to Boards and Commissions
@@ -1795,7 +1795,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 2#5. Woodburning
   Appliances
@@ -1804,7 +1804,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 2#5. Woodburning
   Appliances
@@ -1813,7 +1813,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 5#3. 2015 Water and
   Wastewater Rates
@@ -1825,7 +1825,7 @@ Unanimous (14-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (3):** [Stephen Orser](/councillors/current/s-orser), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
@@ -1841,7 +1841,7 @@ Unanimous (14-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
 
 **Nay (1):** [Denise Brown](/councillors/current/d-brown)
 
@@ -1862,7 +1862,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 2. S. Chryssoulis,
   1377 Corley Drive - Property located at 161 Windermere Road
@@ -1874,7 +1874,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 6. Humane Wildlife
   Conflict Policy
@@ -1883,7 +1883,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 10. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
@@ -1895,7 +1895,7 @@ Unanimous (14-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (5):** [Stephen Orser](/councillors/current/s-orser), [W.R. Monteith](/councillors/current/w-r-monteith), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Judy Bryant](/councillors/current/j-p-bryant)
 
 **Nay (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
 
@@ -1908,7 +1908,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 10. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
@@ -1917,7 +1917,7 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 
 ### 13. 12th Report of the
   London Advisory Committee on Heritage
@@ -1926,5 +1926,5 @@ Unanimous (14-0)
 
 **✅ Motion Passed**
 
-Unanimous (14-0)
+Unanimous (15-0)
 

@@ -1301,7 +1301,7 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 3. 4th Report of the
   Agricultural Advisory Committee
@@ -1311,7 +1311,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 4. 7th Report of the
   Trees and Forests Advisory Committee
@@ -1321,7 +1321,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 5. A Statistical
   Portrait of London - Community & Neighbourhood Profiles
@@ -1331,7 +1331,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 6. Properties located
   at 51 and 99 Exeter Road (OZ-8324)
@@ -1344,7 +1344,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [W.R. Monteith](/councillors/current/w-r-monteith), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
 **Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
 
@@ -1358,7 +1358,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 8. Properties located
   at 3718, 3766 and 3812 Dingman Drive and 437 Exeter Road (39T-06504)
@@ -1368,7 +1368,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 9. Properties located
   at 55 and 60 Chalkstone Drive (39T-06508)
@@ -1378,7 +1378,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 10. Properties located
   at 3854 Dingman Drive and 4112-4432 White Oak Road - Request for Extension of
@@ -1389,7 +1389,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 11. Parking Section
   4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
@@ -1398,115 +1398,86 @@ Unanimous (4-0)
 
 **✅ Motion
   Passed**
-
-Unanimous (4-0)
-
-### 11. Parking Section
-  4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 11. Parking Section
-  4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 12. Old Victoria
-  Hospital Lands Zoning Study (Z-8344)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 12. Old Victoria
-  Hospital Lands Zoning Study (Z-8344)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 12. Old Victoria
-  Hospital Lands Zoning Study (Z-8344)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 13. Property located at
-  946 Longworth Road (Z-8293)
-
-> Voting   Record:   Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 13. Property located at
-  946 Longworth Road (Z-8293)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 13. Property located at
-  946 Longworth Road (Z-8293)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 14. Properties located
-  at 1643, 1649 and 1653 Richmond Street (OZ-8310)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (4-0)
-
-### 14. Properties located
-  at 1643, 1649 and 1653 Richmond Street (OZ-8310)
-
-> Motion     Passed
-
-**✅ Motion
-    Passed**
 
 Unanimous (5-0)
 
-### 14. Properties located
-  at 1643, 1649 and 1653 Richmond Street (OZ-8310)
+### 11. Parking Section
+  4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
 
-> Motion     Passed
+> Motion   Passed
 
 **✅ Motion
-    Passed**
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Parking Section
+  4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Old Victoria
+  Hospital Lands Zoning Study (Z-8344)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Old Victoria
+  Hospital Lands Zoning Study (Z-8344)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Old Victoria
+  Hospital Lands Zoning Study (Z-8344)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Property located at
+  946 Longworth Road (Z-8293)
+
+> Voting   Record:   Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Property located at
+  946 Longworth Road (Z-8293)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Property located at
+  946 Longworth Road (Z-8293)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
 
 Unanimous (5-0)
 
@@ -1527,7 +1498,7 @@ Unanimous (4-0)
 **✅ Motion
     Passed**
 
-Unanimous (5-0)
+Unanimous (6-0)
 
 ### 14. Properties located
   at 1643, 1649 and 1653 Richmond Street (OZ-8310)
@@ -1537,6 +1508,45 @@ Unanimous (5-0)
 **✅ Motion
     Passed**
 
+Unanimous (6-0)
+
+### 14. Properties located
+  at 1643, 1649 and 1653 Richmond Street (OZ-8310)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
+
+### 14. Properties located
+  at 1643, 1649 and 1653 Richmond Street (OZ-8310)
+
+> Motion     Passed
+
+**✅ Motion
+    Passed**
+
+Unanimous (6-0)
+
+### 14. Properties located
+  at 1643, 1649 and 1653 Richmond Street (OZ-8310)
+
+> Motion     Passed
+
+**✅ Motion
+    Passed**
+
+Unanimous (6-0)
+
+### 15. Property located at
+  175 Fanshawe Park Road West (Z-8397)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
 Unanimous (5-0)
 
 ### 15. Property located at
@@ -1547,10 +1557,10 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
-### 15. Property located at
-  175 Fanshawe Park Road West (Z-8397)
+### 16. Property located at
+  7 Annadale Drive (Z-8334)
 
 > Motion   Passed
 
@@ -1567,7 +1577,7 @@ Unanimous (5-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 16. Property located at
   7 Annadale Drive (Z-8334)
@@ -1577,17 +1587,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
-
-### 16. Property located at
-  7 Annadale Drive (Z-8334)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 17. Property Located at
   50 King Street (Z-8372)
@@ -1596,7 +1596,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 17. Property Located at
   50 King Street (Z-8372)
@@ -1608,7 +1608,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [W.R. Monteith](/councillors/current/w-r-monteith), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
 **Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
 
@@ -1621,7 +1621,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 18. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
@@ -1630,7 +1630,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 18. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
@@ -1639,7 +1639,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 19. Bonusing
   Regulations
@@ -1649,5 +1649,5 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 

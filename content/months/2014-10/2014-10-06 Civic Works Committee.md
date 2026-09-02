@@ -342,7 +342,7 @@ The
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 4. London Wastewater
   Facility Update, Operating Agreement and Next Steps
@@ -352,7 +352,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 5. Single Source
   Procurement Supply and Installation of Diesel Exhaust Fluid (DEF) Storage
@@ -363,7 +363,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 6. Hamilton Road and
   Highbury Avenue Intersection Improvements Environmental Assessment Study-Appointment
@@ -374,7 +374,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 7. Wharncliffe Road
   South Environmental Assessment Study-Appointment of Consulting Engineer
@@ -384,7 +384,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 8. Greenway Wastewater
   Treatment Plant Rotating Drum Thickener Engineering Project ES5084-11
@@ -394,7 +394,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 9. Riverside Drive and
   Beaverbrook Avenue Intersection Improvement
@@ -404,7 +404,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 10. Minor Revisions to
   the W12A Landfill Site Community Enhancement and Mitigative Measures Program
@@ -414,5 +414,5 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 

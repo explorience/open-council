@@ -251,7 +251,7 @@ Adjourn.
 
 **✅ Motion Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### XI. BY-LAWS
 
@@ -259,7 +259,7 @@ Unanimous (11-0)
 
 **✅ Motion Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### XI. BY-LAWS
 
@@ -267,7 +267,7 @@ Unanimous (11-0)
 
 **✅ Motion Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### XII. ADJOURNMENT
 
@@ -275,7 +275,7 @@ Unanimous (11-0)
 
 **✅ Motion Passed**
 
-Unanimous (10-0)
+Unanimous (11-0)
 
 ### 1. Disclosures of Pecuniary Interest
 
@@ -283,5 +283,5 @@ Unanimous (10-0)
 
 **✅ Motion Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 

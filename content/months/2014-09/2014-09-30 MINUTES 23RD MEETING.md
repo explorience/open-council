@@ -2276,7 +2276,7 @@ Motion Passed.
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 2#4. 10th Report of the
   Animal Welfare Advisory Committee
@@ -2285,7 +2285,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 2#4. 10th Report of the
   Animal Welfare Advisory Committee
@@ -2294,7 +2294,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 6#2. Consideration of
   Appointment to the Accessibility Advisory Committee
@@ -2304,7 +2304,7 @@ Unanimous (13-0)
 **✅ Motion
 Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 6#4. 10th Report of the
   London Advisory Committee on Heritage
@@ -2313,7 +2313,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 6#4. 10th Report of the
   London Advisory Committee on Heritage
@@ -2322,7 +2322,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### 6#5. Review of Noise
   Exemption Permits
@@ -2332,7 +2332,7 @@ Unanimous (11-0)
 **✅ Motion
 Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 7#3. By-law Amendments
   for Expanded Animal Welfare Initiatives
@@ -2344,7 +2344,7 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Denise Brown](/councillors/current/d-brown)
+**Yea (6):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
 
@@ -2360,7 +2360,7 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [W.R. Monteith](/councillors/current/w-r-monteith), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
 
@@ -2373,7 +2373,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-SECOND MEETING HELD ON SEPTEMBER 16,
@@ -2383,7 +2383,7 @@ Unanimous (11-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
@@ -2391,7 +2391,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
@@ -2399,7 +2399,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
@@ -2407,7 +2407,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 6. (ADDED) B.J.
   Semkowski, London Airport Auto Mall - Property located at 1300 Fanshawe Park
@@ -2419,7 +2419,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 6. (ADDED) B.J.
   Semkowski, London Airport Auto Mall - Property located at 1300 Fanshawe Park
@@ -2431,7 +2431,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 6. (ADDED) B.J.
   Semkowski, London Airport Auto Mall - Property located at 1300 Fanshawe Park
@@ -2443,7 +2443,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 6. (ADDED) B.J.
   Semkowski, London Airport Auto Mall - Property located at 1300 Fanshawe Park
@@ -2455,7 +2455,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 6. (ADDED) B.J.
   Semkowski, London Airport Auto Mall - Property located at 1300 Fanshawe Park
@@ -2467,7 +2467,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 11. Property located at
   1300 Fanshawe Park Road East (OZ-8358)
@@ -2479,7 +2479,7 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
+**Yea (6):** [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
 
 **Nay (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
@@ -2497,7 +2497,7 @@ Unanimous (13-0)
 
 **Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
-**Nay (5):** [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
+**Nay (6):** [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
 
 </details>
 
@@ -2511,7 +2511,7 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler)
+**Yea (4):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler)
 
 **Nay (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
@@ -2529,7 +2529,7 @@ Unanimous (13-0)
 
 **Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
-**Nay (3):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler)
+**Nay (4):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler)
 
 </details>
 
@@ -2549,7 +2549,7 @@ Unanimous (11-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 18. Regulations
   Limiting Greenhouses
@@ -2558,5 +2558,5 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 

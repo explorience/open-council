@@ -1076,7 +1076,7 @@ The
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 3. 8th Report of the
   Trees and Forests Advisory Committee
@@ -1086,7 +1086,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 4. Delegated Authority
   for Heritage Alteration Permits
@@ -1096,7 +1096,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 5. Heritage
   Conservation District Work Plans and Prioritization
@@ -1106,7 +1106,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 6. Property located at
   193 Clarke Road - Ontario Municipal Board Decision (Z-8143)
@@ -1116,7 +1116,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 7. Property located at
   1671 Fanshawe Park Road East - Cedarhollow Subdivision - Phase 3 - Removal of
@@ -1127,7 +1127,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 8. Property located at
   530 Sunningdale Road East - Powell Subdivision - Phase 3 - Removal of Holding
@@ -1138,7 +1138,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 9. Property located at
   1235 Eagletrace Drive (formerly 751 Fanshawe Park Road West) - Vista Woods
@@ -1149,7 +1149,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 10. Building Division
   Monthly Report for September 2014
@@ -1159,7 +1159,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 11. 11th Report of the
   London Advisory Committee on Heritage
@@ -1169,7 +1169,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 12. Properties located
   at 2526 Oxford Street West and 600 Sanatorium Road - Request for Demolition
@@ -1179,7 +1179,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 12. Properties located
   at 2526 Oxford Street West and 600 Sanatorium Road - Request for Demolition
@@ -1189,7 +1189,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 12. Properties located
   at 2526 Oxford Street West and 600 Sanatorium Road - Request for Demolition
@@ -1199,7 +1199,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 13. Property located at
   420 Fanshawe Park Road East - Demolition Request
@@ -1209,7 +1209,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 13. Property located at
   420 Fanshawe Park Road East - Demolition Request
@@ -1219,7 +1219,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 13. Property located at
   420 Fanshawe Park Road East - Demolition Request
@@ -1229,7 +1229,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 14. Property located at
   1470 Dundas Street (Z-8396)
@@ -1239,7 +1239,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 14. Property located at
   1470 Dundas Street (Z-8396)
@@ -1249,7 +1249,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 14. Property located at
   1470 Dundas Street (Z-8396)
@@ -1259,7 +1259,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 15. Coves ESA
   Conservation Master Plan
@@ -1269,7 +1269,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 15. Coves ESA
   Conservation Master Plan
@@ -1279,7 +1279,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 15. Coves ESA
   Conservation Master Plan
@@ -1289,7 +1289,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 16. Property located at
   130 Thompson Road (OZ-8404)
@@ -1299,7 +1299,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 16. Property located at
   130 Thompson Road (OZ-8404)
@@ -1309,7 +1309,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 16. Property located at
   130 Thompson Road (OZ-8404)
@@ -1319,7 +1319,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 17. Property located at
   6667 Wonderland Road South (Z-8402)
@@ -1329,7 +1329,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 17. Property located at
   6667 Wonderland Road South (Z-8402)
@@ -1339,7 +1339,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 17. Property located at
   6667 Wonderland Road South (Z-8402)
@@ -1349,7 +1349,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 18. Property located at
   1452 Byron Baseline Road (39CD-14512)
@@ -1359,7 +1359,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 18. Property located at
   1452 Byron Baseline Road (39CD-14512)
@@ -1369,7 +1369,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 18. Property located at
   1452 Byron Baseline Road (39CD-14512)
@@ -1379,7 +1379,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 19. 10th Report of the
   Advisory Committee on the Environment
@@ -1389,5 +1389,5 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 

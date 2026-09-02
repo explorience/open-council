@@ -571,7 +571,7 @@ Motion
 **✅ Motion
   Passed**
 
-Unanimous (10-0)
+Unanimous (11-0)
 
 ### 3. Board Structure
   Resolution for London and Middlesex Housing Corporation
@@ -581,17 +581,7 @@ Unanimous (10-0)
 **✅ Motion
   Passed**
 
-Unanimous (10-0)
-
-### 4. Public
-  Participation Meeting - Amendments to Consolidated Fees and Charges By-law
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (10-0)
+Unanimous (11-0)
 
 ### 4. Public
   Participation Meeting - Amendments to Consolidated Fees and Charges By-law
@@ -611,7 +601,17 @@ Unanimous (11-0)
 **✅ Motion
   Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
+
+### 4. Public
+  Participation Meeting - Amendments to Consolidated Fees and Charges By-law
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (12-0)
 
 ### 5. Public
   Participation Meeting - 2015 Water and Wastewater Rates
@@ -621,7 +621,7 @@ Unanimous (11-0)
 **✅ Motion
   Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### 5. Public
   Participation Meeting - 2015 Water and Wastewater Rates
@@ -631,7 +631,7 @@ Unanimous (11-0)
 **✅ Motion
   Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### 5. Public
   Participation Meeting - 2015 Water and Wastewater Rates
@@ -641,7 +641,7 @@ Unanimous (11-0)
 **✅ Motion
   Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### 6. Review of Acting
   Mayor Policy
@@ -651,7 +651,7 @@ Unanimous (11-0)
 **✅ Motion
   Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### 6. Review of Acting
   Mayor Policy
@@ -666,7 +666,7 @@ Unanimous (11-0)
 
 **Yea (9):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
-**Nay (2):** [Joe Swan](/councillors/current/j-b-swan), [Dale Henderson](/councillors/current/d-g-henderson)
+**Nay (3):** [Joe Swan](/councillors/current/j-b-swan), [W.R. Monteith](/councillors/current/w-r-monteith), [Dale Henderson](/councillors/current/d-g-henderson)
 
 </details>
 
@@ -678,7 +678,7 @@ Unanimous (11-0)
 **✅ Motion
   Passed**
 
-Unanimous (11-0)
+Unanimous (12-0)
 
 ### 7. Office Reallocation
   - 2014 - 2018 Council Term
@@ -688,7 +688,7 @@ Unanimous (11-0)
 **✅ Motion
   Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 8. Council Benefits
 
@@ -702,7 +702,7 @@ Unanimous (12-0)
 
 **Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
 
-**Nay (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Denise Brown](/councillors/current/d-brown)
+**Nay (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Denise Brown](/councillors/current/d-brown)
 
 </details>
 
@@ -723,7 +723,7 @@ Unanimous (11-0)
 **✅ Motion
   Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 9. ADDED -
   Confirmation of London Hydro Borrowing Requirements
@@ -733,5 +733,5 @@ Unanimous (12-0)
 **✅ Motion
   Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 

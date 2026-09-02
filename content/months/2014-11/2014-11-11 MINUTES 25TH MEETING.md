@@ -1568,7 +1568,7 @@ Approve Third Reading of Bill No.s 506
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 1#10. Councillor R.
   Monteith and Councillor N. Branscombe - Emergent Motion - Relocation of
@@ -1581,7 +1581,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Stephen Orser](/councillors/current/s-orser), [W.R. Monteith](/councillors/current/w-r-monteith), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (2):** [Harold Usher](/councillors/current/h-l-usher), [Bud Polhill](/councillors/current/b-polhill)
 
@@ -1597,7 +1597,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 1#4. Councillor N.
   Branscombe - Motion of Which Notice is Given - Reconsideration of Council
@@ -1607,7 +1607,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 1#4. Councillor N.
   Branscombe - Motion of Which Notice is Given - Reconsideration of Council
@@ -1620,7 +1620,7 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [W.R. Monteith](/councillors/current/w-r-monteith), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
 
@@ -1634,7 +1634,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 10#2. Decision of the
   Ontario College of Veterinarians
@@ -1644,7 +1644,7 @@ Unanimous (13-0)
 **✅ Motion
 Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### 12#2. Civic Works
   Committee Meeting - November 17, 2014
@@ -1654,7 +1654,7 @@ Unanimous (13-0)
 **✅ Motion
 Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 2#2. Property located at 420 Fanshawe Park Road
   East - Request for Demolition
@@ -1666,7 +1666,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [W.R. Monteith](/councillors/current/w-r-monteith), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
 
@@ -1679,7 +1679,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-FOURTH MEETING HELD ON OCTOBER 14,
@@ -1689,7 +1689,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
@@ -1697,7 +1697,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 19. 10th Report of the
   Advisory Committee on the Environment
@@ -1707,5 +1707,5 @@ Unanimous (12-0)
 **✅ Motion
 Passed**
 
-Unanimous (13-0)
+Unanimous (14-0)
 

@@ -319,17 +319,6 @@ Unanimous (8-0)
 **✅ Motion
   Passed**
 
-Unanimous (9-0)
-
-### 5. Not to be heard
-  before 4:00 PM - Public Participation Meeting - Proposed Establishment of a
-  Housing Development Corporation
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
 Unanimous (10-0)
 
 ### 5. Not to be heard
@@ -341,7 +330,7 @@ Unanimous (10-0)
 **✅ Motion
   Passed**
 
-Unanimous (10-0)
+Unanimous (11-0)
 
 ### 5. Not to be heard
   before 4:00 PM - Public Participation Meeting - Proposed Establishment of a
@@ -352,5 +341,16 @@ Unanimous (10-0)
 **✅ Motion
   Passed**
 
-Unanimous (10-0)
+Unanimous (11-0)
+
+### 5. Not to be heard
+  before 4:00 PM - Public Participation Meeting - Proposed Establishment of a
+  Housing Development Corporation
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (11-0)
 

@@ -882,16 +882,6 @@ The
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
-
-### 3. Water Quality
-  Evaluation of Waterways - Appointment of Consultant - Irregular Result
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
 Unanimous (4-0)
 
 ### 3. Water Quality
@@ -902,7 +892,17 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (5-0)
+
+### 3. Water Quality
+  Evaluation of Waterways - Appointment of Consultant - Irregular Result
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 5. Sifton Bog Surface
   Water Monitoring Program - Appointment of Consultant - Irregular Result
@@ -912,7 +912,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 6. Huron Industrial
   Park Stormwater Management Servicing Environmental Assessment - Consulting
@@ -923,7 +923,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 7. Fanshawe Park Road
   East Widening - Adelaide Street to McLean Drive Detailed Design and Tendering
@@ -934,7 +934,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 8. Southdale Road and
   Boler Road Intersection Improvements Environmental Assessment Study - Appointment
@@ -945,7 +945,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 9. Sarnia Road Widening
   - Wonderland Road North to Sleightholme Avenue - Detailed Design and
@@ -956,7 +956,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 10. Dundas Flexible
   Street Scoping Study - Consulting Engineer Assignment Increase
@@ -966,7 +966,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 11. Amendments to the
   Traffic and Parking By-law
@@ -976,7 +976,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 12. Amendments to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
@@ -986,7 +986,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 13. Pollution
   Prevention and Control Plan - Infoworks Modelling Consultant Appointment
@@ -996,7 +996,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 14. Truck Mounted, High
   Pressure Sewer Jetters - RFP 14-43
@@ -1006,16 +1006,6 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
-
-### 15. Boom Flail Mowers,
-  Single Source Procurement
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
 Unanimous (4-0)
 
 ### 15. Boom Flail Mowers,
@@ -1026,7 +1016,17 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (5-0)
+
+### 15. Boom Flail Mowers,
+  Single Source Procurement
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 17. Single Source Cured
   in Place Pipe - Lining Supplies
@@ -1036,7 +1036,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 18. Thames Sydenham
   Region Source Water Protection Plan Risk Management Services Agreement
@@ -1046,7 +1046,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 19. Appointment of
   Consultant - Design and Contract Administration Services for the New
@@ -1057,7 +1057,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 20. Landfill Gas
   Utilization - Request for Qualifications
@@ -1067,7 +1067,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 21. London Transit
   Commission 2013 Annual Report
@@ -1077,7 +1077,7 @@ Unanimous (3-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 22. Installation of
   Sidewalks
@@ -1091,7 +1091,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [W.R. Monteith](/councillors/current/w-r-monteith)
 
 **Nay (1):** [Nancy Branscombe](/councillors/current/n-branscombe)
 

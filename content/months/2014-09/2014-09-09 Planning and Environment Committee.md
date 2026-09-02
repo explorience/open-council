@@ -1289,7 +1289,7 @@ The
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 3. Properties located
   at 1195 Fanshawe Park Road West and 2151 Dalmagarry Road (H-8388)
@@ -1299,7 +1299,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 4. Property located at
   1057 Richmond Street
@@ -1309,7 +1309,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 5. Victoria on the
   River Subdivision - Phase 1 (formerly 1603 Hamilton Road) (H-8403)
@@ -1319,7 +1319,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 6. Property located at
   1959 Wharncliffe Road South (Foxwood Crossing - Phase 2) - Request for
@@ -1330,7 +1330,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 7. Properties located
   at 181 and 199 Commissioners Road East - Highland Green Subdivision -
@@ -1341,7 +1341,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 8. Property located at
   1070 Gainsborough Road (H-8398)
@@ -1351,7 +1351,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 9. Property located at
   1139 Fanshawe Park Road West (H-8337)
@@ -1361,7 +1361,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 10. Property located at
   312 Sunningdale Road West - Request for Extension of Draft Approval
@@ -1372,7 +1372,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 11. Cedarhollow
   Subdivision - Phase 3 (39T-03518)
@@ -1382,7 +1382,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 12. Powell-Uplands
   North Subdivision - Phase 3 (39T-05510)
@@ -1392,7 +1392,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 13. Property located at
   312 Oxford Street East
@@ -1402,7 +1402,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 13. Property located at
   312 Oxford Street East
@@ -1412,7 +1412,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 13. Property located at
   312 Oxford Street East
@@ -1422,7 +1422,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 14. Property located at
   720 Proudfoot Lane (OZ-8375)
@@ -1432,7 +1432,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 14. Property located at
   720 Proudfoot Lane (OZ-8375)
@@ -1442,7 +1442,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 14. Property located at
   720 Proudfoot Lane (OZ-8375)
@@ -1452,7 +1452,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 15. Wortley Village -
   Old South Heritage Conservation District
@@ -1462,7 +1462,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 15. Wortley Village -
   Old South Heritage Conservation District
@@ -1472,7 +1472,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 15. Wortley Village -
   Old South Heritage Conservation District
@@ -1482,7 +1482,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 16. Property located at
   915 Queens Avenue
@@ -1492,7 +1492,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 16. Property located at
   915 Queens Avenue
@@ -1502,7 +1502,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 16. Property located at
   915 Queens Avenue
@@ -1512,7 +1512,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 17. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
@@ -1522,7 +1522,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 17. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
@@ -1532,7 +1532,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 17. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
@@ -1542,7 +1542,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 18. Lands south of
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
@@ -1553,7 +1553,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 18. Lands south of
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
@@ -1564,7 +1564,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 18. Lands south of
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
@@ -1575,7 +1575,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 19. Property located at
   2151 Dalmagarry Road and 1195 Fanshawe Park Road West (Z-8387)
@@ -1585,7 +1585,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 19. Property located at
   2151 Dalmagarry Road and 1195 Fanshawe Park Road West (Z-8387)
@@ -1595,7 +1595,7 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 19. Property located at
   2151 Dalmagarry Road and 1195 Fanshawe Park Road West (Z-8387)
@@ -1605,5 +1605,5 @@ Unanimous (4-0)
 **✅ Motion
   Passed**
 
-Unanimous (4-0)
+Unanimous (5-0)
 

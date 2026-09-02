@@ -1451,7 +1451,7 @@ Passed
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
@@ -1460,7 +1460,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
@@ -1474,7 +1474,7 @@ Unanimous (12-0)
 
 **Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
 
-**Nay (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+**Nay (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [W.R. Monteith](/councillors/current/w-r-monteith), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
 
 </details>
 
@@ -1488,7 +1488,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [W.R. Monteith](/councillors/current/w-r-monteith), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
 
 **Nay (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant)
 
@@ -1502,7 +1502,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
@@ -1510,7 +1510,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
@@ -1518,7 +1518,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 2. J. Kennedy, London
   Development Institute - Lands south of Exeter Road, north of Dingman Drive,
@@ -1530,7 +1530,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 17. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
@@ -1539,7 +1539,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 17. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
@@ -1548,7 +1548,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
 ### 18. Lands south of
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
@@ -1558,5 +1558,5 @@ Unanimous (12-0)
 
 **✅ Motion Passed**
 
-Unanimous (12-0)
+Unanimous (13-0)
 
