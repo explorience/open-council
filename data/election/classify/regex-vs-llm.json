@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-02T22:40:00.416Z",
+  "generatedAt": "2026-09-02T22:55:00.182Z",
   "note": "Cross-check report only — the regex engine in issue-rules.ts/direction-rules.ts is NOT the source of any published claim as of the 2026-08-31 rebuild; every published issue/axis/polarity/whatAYeaDid comes from data/election/classify/batch-*-verified.json. This file records every motion in the divided universe where the regex engine's independent read (issue classification and/or direction) disagrees with the verified classification, for ongoing regex-quality monitoring.",
   "totalCompared": 1732,
-  "disagreementCount": 535,
+  "disagreementCount": 537,
   "disagreements": [
     {
       "motionId": "a8e2f548211a",
@@ -51,24 +51,6 @@
         "issue": "policing",
         "axis": "application-approval",
         "valence": 1
-      },
-      "llm": {
-        "issue": "policing",
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "1fd6e77e5a25",
-      "date": "2026-07-21",
-      "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
-      "itemNumber": "8.4.10",
-      "itemTitle": "(4.4) City of London Special Constable Program",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
       },
       "llm": {
         "issue": "policing",
@@ -3178,14 +3160,14 @@
       "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
       "itemNumber": "4.1",
       "itemTitle": "2026 Annual Budget Update - Status Update",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "business-case",
         "valence": -1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -3196,14 +3178,14 @@
       "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
       "itemNumber": "4.1",
       "itemTitle": "2026 Annual Budget Update - Status Update",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "business-case",
         "valence": -1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -3214,14 +3196,14 @@
       "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
       "itemNumber": "4.1",
       "itemTitle": "2026 Annual Budget Update - Status Update",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "business-case",
         "valence": -1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -3232,14 +3214,14 @@
       "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
       "itemNumber": "4.1",
       "itemTitle": "2026 Annual Budget Update - Status Update",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "business-case",
         "valence": -1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -3286,14 +3268,14 @@
       "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
       "itemNumber": "4.1",
       "itemTitle": "2026 Annual Budget Update - Status Update",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "business-case",
         "valence": -1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -3304,14 +3286,14 @@
       "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
       "itemNumber": "4.1",
       "itemTitle": "2026 Annual Budget Update - Status Update",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "business-case",
         "valence": -1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -3322,14 +3304,14 @@
       "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
       "itemNumber": "4.1",
       "itemTitle": "2026 Annual Budget Update - Status Update",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "levy-size",
         "valence": -1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -3340,14 +3322,14 @@
       "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
       "itemNumber": "4.1",
       "itemTitle": "2026 Annual Budget Update - Status Update",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "business-case",
         "valence": -1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -3358,14 +3340,14 @@
       "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
       "itemNumber": "4.1",
       "itemTitle": "2026 Annual Budget Update - Status Update",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "business-case",
         "valence": -1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -3376,14 +3358,14 @@
       "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
       "itemNumber": "4.1",
       "itemTitle": "2026 Annual Budget Update - Status Update",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "business-case",
         "valence": -1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -3394,14 +3376,14 @@
       "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
       "itemNumber": "4.1",
       "itemTitle": "2026 Annual Budget Update - Status Update",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "business-case",
         "valence": -1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -4991,6 +4973,24 @@
       }
     },
     {
+      "motionId": "19efb38c1dc0",
+      "date": "2024-11-05",
+      "meetingSlug": "months/2024-11/2024-11-05 17th Meeting of City Council",
+      "itemNumber": "8.2.4",
+      "itemTitle": "(4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": "response-scale",
+        "polarity": "restrictive"
+      }
+    },
+    {
       "motionId": "6482954d2c17",
       "date": "2024-10-29",
       "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
@@ -5068,14 +5068,14 @@
       "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.1",
       "itemTitle": "Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update ",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "encampments",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
-        "issue": null,
+        "issue": "encampments",
         "axis": null,
         "polarity": null
       }
@@ -8375,6 +8375,24 @@
       }
     },
     {
+      "motionId": "529af203914c",
+      "date": "2023-10-05",
+      "meetingSlug": "months/2023-10/2023-10-05 16th Special Meeting of City Council",
+      "itemNumber": "8.1.3",
+      "itemTitle": "(4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "a2f65361f969",
       "date": "2023-10-05",
       "meetingSlug": "months/2023-10/2023-10-05 16th Special Meeting of City Council",
@@ -9077,6 +9095,24 @@
       }
     },
     {
+      "motionId": "8f9d70f94956",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "cecebbd8ba33",
       "date": "2023-05-30",
       "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
@@ -9089,7 +9125,7 @@
         "valence": null
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -9568,16 +9604,16 @@
       "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
       "itemNumber": "4.3",
       "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
+        "issue": "budget",
+        "axis": "levy-size",
+        "polarity": "expansive"
       }
     },
     {

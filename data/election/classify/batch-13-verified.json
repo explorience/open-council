@@ -222,7 +222,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "5c6d802b2c95",
+  "id": "19efb38c1dc0",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",
@@ -404,7 +404,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "0b898d04d289",
+  "id": "4079dc909bd5",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",

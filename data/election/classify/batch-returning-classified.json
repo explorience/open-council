@@ -56,7 +56,7 @@
   "flags": []
  },
  {
-  "id": "86b1bf237179",
+  "id": "8f9d70f94956",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -76,7 +76,7 @@
   "flags": []
  },
  {
-  "id": "9705aa6da1dc",
+  "id": "cecebbd8ba33",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -694,6 +694,16 @@
   ]
  },
  {
+  "id": "27886bbec2b8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved amending draft Exotic Animal Establishments by-law PH-3, part a), to cap the indoor area covered at 35,000 square feet, for the property at 785 Wonderland Road South.",
+  "confidence": "high",
+  "quote": "Motion to approve a proposed amendment to By-law PH-3, part a) to read, \u201ca)  up to 35,000 square feet indoors of the property located at 785 Wonderland Road South.",
+  "flags": []
+ },
+ {
   "id": "297830e93540",
   "issue": "none",
   "axis": null,
@@ -810,7 +820,7 @@
   "flags": []
  },
  {
-  "id": "b7f876655a41",
+  "id": "b93cbde81dec",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",

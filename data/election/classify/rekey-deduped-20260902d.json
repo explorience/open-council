@@ -89,12 +89,5 @@
   "kept_in": "batch-6-verified.json",
   "moot_corrections_dropped": [],
   "note": "multiple pre-rekey classify entries converged on current motion bf7543d954d6 (a genuine motion merge upstream, or two roll calls that now regenerate as one); kept the entry in batch-6-verified.json (first encountered), dropped the duplicate from batch-6-verified.json."
- },
- {
-  "id": "732b40d37d8b",
-  "removed_from": "batch-returning-verified.json",
-  "kept_in": "batch-returning-verified.json",
-  "moot_corrections_dropped": [],
-  "note": "multiple pre-rekey classify entries converged on current motion 732b40d37d8b (a genuine motion merge upstream, or two roll calls that now regenerate as one); kept the entry in batch-returning-verified.json (from the returning batch), dropped the duplicate from batch-returning-verified.json."
  }
 ]

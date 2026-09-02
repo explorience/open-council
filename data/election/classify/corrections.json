@@ -32,7 +32,7 @@
   "quote": "Therefore it be resolved that Ontario\u2019s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency"
  },
  {
-  "id": "0b898d04d289",
+  "id": "4079dc909bd5",
   "field": "axis",
   "was": "response-scale",
   "now": null,
@@ -40,7 +40,7 @@
   "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of London\u2019s portion of a $250-million federal fund dedicated to addressing encampments"
  },
  {
-  "id": "0b898d04d289",
+  "id": "4079dc909bd5",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -304,7 +304,7 @@
   "quote": "the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix \"A\"... and to bring forward the corresponding business case for inclusion in the Mayor's proposed 2026 Budget Update"
  },
  {
-  "id": "e11dd21254b2",
+  "id": "5d8be07a288c",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -312,7 +312,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
  },
  {
-  "id": "e11dd21254b2",
+  "id": "5d8be07a288c",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -320,7 +320,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
  },
  {
-  "id": "d167a282544f",
+  "id": "1d7c40b467ec",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -328,7 +328,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements"
  },
  {
-  "id": "d167a282544f",
+  "id": "1d7c40b467ec",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -336,7 +336,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements"
  },
  {
-  "id": "3dd05e479854",
+  "id": "0c2a411423be",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -344,7 +344,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 3 Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching"
  },
  {
-  "id": "3dd05e479854",
+  "id": "0c2a411423be",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -352,7 +352,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 3 Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching"
  },
  {
-  "id": "1c8075648323",
+  "id": "a6473f2744cd",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -360,7 +360,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry \u2013 Tree Planting Grants & Non-replacement Tree Planting"
  },
  {
-  "id": "1c8075648323",
+  "id": "a6473f2744cd",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -400,7 +400,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management \u2013 Resident Satisfaction Survey"
  },
  {
-  "id": "e7b1e2dca5dc",
+  "id": "0f19b60c927d",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -408,7 +408,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources \u2013 Internships"
  },
  {
-  "id": "e7b1e2dca5dc",
+  "id": "0f19b60c927d",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -416,7 +416,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources \u2013 Internships"
  },
  {
-  "id": "17e2790f8249",
+  "id": "4750754213bc",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -424,7 +424,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology \u2013 Digital Transformation"
  },
  {
-  "id": "17e2790f8249",
+  "id": "4750754213bc",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -432,7 +432,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology \u2013 Digital Transformation"
  },
  {
-  "id": "45e004c6a94d",
+  "id": "2402cfe58258",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -440,7 +440,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 1 Traffic Control & Street Lighting - Eliminate Full Funding of New Streetlight Installations"
  },
  {
-  "id": "45e004c6a94d",
+  "id": "2402cfe58258",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -448,7 +448,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 1 Traffic Control & Street Lighting - Eliminate Full Funding of New Streetlight Installations"
  },
  {
-  "id": "7b22159ad688",
+  "id": "e350b258eb2f",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -456,7 +456,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion"
  },
  {
-  "id": "7b22159ad688",
+  "id": "e350b258eb2f",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -464,7 +464,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion"
  },
  {
-  "id": "48bb3106304c",
+  "id": "6799a7e69f77",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -472,7 +472,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
  },
  {
-  "id": "48bb3106304c",
+  "id": "6799a7e69f77",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -480,7 +480,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
  },
  {
-  "id": "0689312f36aa",
+  "id": "545479fa2b3f",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -488,7 +488,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 4 Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands"
  },
  {
-  "id": "0689312f36aa",
+  "id": "545479fa2b3f",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -496,7 +496,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 4 Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands"
  },
  {
-  "id": "57b785c0afb3",
+  "id": "0bd0c15f3d73",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -504,7 +504,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing \u2013 Climate Change Reserve Fund Contribution"
  },
  {
-  "id": "57b785c0afb3",
+  "id": "0bd0c15f3d73",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -528,7 +528,7 @@
   "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b \u2013 Climate Change Invest (CCI) Fund of Business Case # P-56 \u2013 Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
  },
  {
-  "id": "86b1bf237179",
+  "id": "8f9d70f94956",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -536,7 +536,7 @@
   "quote": "Motion to approve a) ii)\nii)  Invasive Species Management Plan;"
  },
  {
-  "id": "86b1bf237179",
+  "id": "8f9d70f94956",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -560,7 +560,7 @@
   "quote": "Motion to approve part c) ii)\nc) Reduction Cases:\nii)  Reduction in frequency of grass cutting on city property;"
  },
  {
-  "id": "9705aa6da1dc",
+  "id": "cecebbd8ba33",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -568,7 +568,7 @@
   "quote": "Motion to approve a) iii)\niii) Climate Emergency Action Plan;"
  },
  {
-  "id": "9705aa6da1dc",
+  "id": "cecebbd8ba33",
   "field": "polarity",
   "was": "expansive",
   "now": null,

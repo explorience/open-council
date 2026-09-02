@@ -163,7 +163,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[2] (10-4). Quote verbatim: 'the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix \"A\" ... and to bring forward the corresponding business case for inclusion in the Mayor's proposed 2026 Budget Update; and'. Checked the literal business-case-axis regex: it requires the word stem 'include' before 'business case', but this text has 'business case for inclusion' (word 'inclusion', not 'include') -- the regex as written would not fire on this exact phrasing and the motion would fall through to the generic application-approval fallback. The classifier's semantic read (a business case being brought forward FOR INCLUSION = business-case/expansive, the mirror of the 15 exclusion motions in this same batch) is the correct, consistent reading and I confirm it."
  },
  {
-  "id": "e11dd21254b2",
+  "id": "5d8be07a288c",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -175,7 +175,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[3] (10-4). Quote verbatim match, single business case (Sidewalk Maintenance, Appendix B Ref#1)."
  },
  {
-  "id": "d167a282544f",
+  "id": "1d7c40b467ec",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -187,7 +187,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[4] (9-5). Quote verbatim match (Reduced Road Network Improvements, Appendix B Ref#2)."
  },
  {
-  "id": "3dd05e479854",
+  "id": "0c2a411423be",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -199,7 +199,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[5] (8-6). Quote verbatim match (Urban Forestry brush mulching, Appendix B Ref#3)."
  },
  {
-  "id": "1c8075648323",
+  "id": "a6473f2744cd",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -235,7 +235,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[8] (Failed 4-10). Quote verbatim match (Resident Satisfaction Survey, Appendix B Ref#6). Tense correct."
  },
  {
-  "id": "e7b1e2dca5dc",
+  "id": "0f19b60c927d",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -247,7 +247,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[9] (Failed 1-13). Quote verbatim match (HR Internships, Appendix B Ref#7). Tense correct."
  },
  {
-  "id": "17e2790f8249",
+  "id": "4750754213bc",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -259,7 +259,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[10] (Failed 1-13). Quote verbatim match (IT Digital Transformation, Appendix B Ref#8). Tense correct."
  },
  {
-  "id": "45e004c6a94d",
+  "id": "2402cfe58258",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -271,7 +271,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[11] (Failed 7-7). Quote verbatim match (Eliminate Full Funding of New Streetlight Installations, Appendix C Ref#1). Checked specifically for a levy-size vs business-case axis collision: the excluded case's own NAME contains 'Eliminate ... Funding', which literally satisfies the levy-size DECREASE-word-near-funding pattern and (since levy-size is checked before business-case in AXIS_PATTERNS.budget) would mechanically win if the regex ran on this text alone. But that phrase is the referenced case's title, not this motion's own operative verb (identical sentence structure to all 15 sibling exclusion motions in this batch) -- classifying this one differently from its 15 siblings purely because of an incidental keyword collision in a case name would be inconsistent and less accurate. business-case/restrictive confirmed as the correct axis."
  },
  {
-  "id": "7b22159ad688",
+  "id": "e350b258eb2f",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -283,7 +283,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[12] (9-5). Quote verbatim match (Green Bin Cart Pilot, Appendix C Ref#2)."
  },
  {
-  "id": "48bb3106304c",
+  "id": "6799a7e69f77",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -295,7 +295,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[13] (10-4). Quote verbatim match (Blue Box NES, Appendix C Ref#3)."
  },
  {
-  "id": "0689312f36aa",
+  "id": "545479fa2b3f",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -307,7 +307,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[14] (8-6). Quote verbatim match (Traffic Circles/Gateway/Cul-de-sac maintenance, Appendix C Ref#4)."
  },
  {
-  "id": "57b785c0afb3",
+  "id": "0bd0c15f3d73",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",

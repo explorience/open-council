@@ -10,7 +10,7 @@
    "db5b01a2411e",
    "9350823647dc",
    "776d36b6bc34",
-   "1fd6e77e5a25",
+   "d18f8e672d56",
    "2b25c117ac0f",
    "0635364c133a",
    "778e12840488",
@@ -389,19 +389,19 @@
    "69de4d49a256",
    "928807eb478e",
    "a41ecd8d8212",
-   "e11dd21254b2",
-   "d167a282544f",
-   "3dd05e479854",
-   "1c8075648323",
+   "5d8be07a288c",
+   "1d7c40b467ec",
+   "0c2a411423be",
+   "a6473f2744cd",
    "c08daf018133",
    "2307b1d59a7d",
-   "e7b1e2dca5dc",
-   "17e2790f8249",
-   "45e004c6a94d",
-   "7b22159ad688",
-   "48bb3106304c",
-   "0689312f36aa",
-   "57b785c0afb3",
+   "0f19b60c927d",
+   "4750754213bc",
+   "2402cfe58258",
+   "e350b258eb2f",
+   "6799a7e69f77",
+   "545479fa2b3f",
+   "0bd0c15f3d73",
    "140242f2122f",
    "20f213a1fade",
    "6912b4a73fbb",
@@ -426,7 +426,7 @@
   [
    "acb7102f5869",
    "5d6dacbeccf1",
-   "78547156fa22",
+   "eadf45d9255e",
    "a2a597755fb0",
    "1f386d49f890",
    "c660067edb19",
@@ -629,7 +629,7 @@
    "1af065053546",
    "685e58c0f277",
    "8be756f3d937",
-   "5c6d802b2c95",
+   "19efb38c1dc0",
    "e3e298593604",
    "fbe0437076bc",
    "acc5af6cd54b",
@@ -643,7 +643,7 @@
    "92c5abcb31d2",
    "06f690a36f3c",
    "40a9582bc9df",
-   "0b898d04d289",
+   "4079dc909bd5",
    "6a1d7d9442f6",
    "cac27fdd685b",
    "62ff8e71e4c5",
@@ -1005,7 +1005,7 @@
    "875d47d4d0d3",
    "a76f4203b4e0",
    "4d0df5416ad2",
-   "2a0187a5fcb1",
+   "529af203914c",
    "a2f65361f969",
    "ef58d8aedcc0",
    "0e9fa79afacc",
@@ -1240,8 +1240,8 @@
    "itemTitle": "(4.4) City of London Special Constable Program",
    "result": "Motion Passed (10 to 5)"
   },
-  "1fd6e77e5a25": {
-   "id": "1fd6e77e5a25",
+  "d18f8e672d56": {
+   "id": "d18f8e672d56",
    "date": "2026-07-21",
    "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
    "itemNumber": "8.4.10",
@@ -4136,32 +4136,32 @@
    "itemTitle": "2026 Annual Budget Update - Status Update",
    "result": "Motion Passed (10 to 4)"
   },
-  "e11dd21254b2": {
-   "id": "e11dd21254b2",
+  "5d8be07a288c": {
+   "id": "5d8be07a288c",
    "date": "2025-05-22",
    "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
    "itemNumber": "4.1",
    "itemTitle": "2026 Annual Budget Update - Status Update",
    "result": "Motion Passed (10 to 4)"
   },
-  "d167a282544f": {
-   "id": "d167a282544f",
+  "1d7c40b467ec": {
+   "id": "1d7c40b467ec",
    "date": "2025-05-22",
    "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
    "itemNumber": "4.1",
    "itemTitle": "2026 Annual Budget Update - Status Update",
    "result": "Motion Passed (9 to 5)"
   },
-  "3dd05e479854": {
-   "id": "3dd05e479854",
+  "0c2a411423be": {
+   "id": "0c2a411423be",
    "date": "2025-05-22",
    "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
    "itemNumber": "4.1",
    "itemTitle": "2026 Annual Budget Update - Status Update",
    "result": "Motion Passed (8 to 6)"
   },
-  "1c8075648323": {
-   "id": "1c8075648323",
+  "a6473f2744cd": {
+   "id": "a6473f2744cd",
    "date": "2025-05-22",
    "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
    "itemNumber": "4.1",
@@ -4184,56 +4184,56 @@
    "itemTitle": "2026 Annual Budget Update - Status Update",
    "result": "Motion Failed (4 to 10)"
   },
-  "e7b1e2dca5dc": {
-   "id": "e7b1e2dca5dc",
+  "0f19b60c927d": {
+   "id": "0f19b60c927d",
    "date": "2025-05-22",
    "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
    "itemNumber": "4.1",
    "itemTitle": "2026 Annual Budget Update - Status Update",
    "result": "Motion Failed (1 to 13)"
   },
-  "17e2790f8249": {
-   "id": "17e2790f8249",
+  "4750754213bc": {
+   "id": "4750754213bc",
    "date": "2025-05-22",
    "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
    "itemNumber": "4.1",
    "itemTitle": "2026 Annual Budget Update - Status Update",
    "result": "Motion Failed (1 to 13)"
   },
-  "45e004c6a94d": {
-   "id": "45e004c6a94d",
+  "2402cfe58258": {
+   "id": "2402cfe58258",
    "date": "2025-05-22",
    "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
    "itemNumber": "4.1",
    "itemTitle": "2026 Annual Budget Update - Status Update",
    "result": "Motion Failed (7 to 7)"
   },
-  "7b22159ad688": {
-   "id": "7b22159ad688",
+  "e350b258eb2f": {
+   "id": "e350b258eb2f",
    "date": "2025-05-22",
    "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
    "itemNumber": "4.1",
    "itemTitle": "2026 Annual Budget Update - Status Update",
    "result": "Motion Passed (9 to 5)"
   },
-  "48bb3106304c": {
-   "id": "48bb3106304c",
+  "6799a7e69f77": {
+   "id": "6799a7e69f77",
    "date": "2025-05-22",
    "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
    "itemNumber": "4.1",
    "itemTitle": "2026 Annual Budget Update - Status Update",
    "result": "Motion Passed (10 to 4)"
   },
-  "0689312f36aa": {
-   "id": "0689312f36aa",
+  "545479fa2b3f": {
+   "id": "545479fa2b3f",
    "date": "2025-05-22",
    "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
    "itemNumber": "4.1",
    "itemTitle": "2026 Annual Budget Update - Status Update",
    "result": "Motion Passed (8 to 6)"
   },
-  "57b785c0afb3": {
-   "id": "57b785c0afb3",
+  "0bd0c15f3d73": {
+   "id": "0bd0c15f3d73",
    "date": "2025-05-22",
    "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
    "itemNumber": "4.1",
@@ -4416,8 +4416,8 @@
    "itemTitle": "London & Middlesex Community Housing Board of Directors Request for Extension of Terms",
    "result": "Motion Passed (13 to 1)"
   },
-  "78547156fa22": {
-   "id": "78547156fa22",
+  "eadf45d9255e": {
+   "id": "eadf45d9255e",
    "date": "2025-04-30",
    "meetingSlug": "months/2025-04/2025-04-30 8th Meeting of the Infrastructure and Corporate Services Committee",
    "itemNumber": "2.2",
@@ -5968,8 +5968,8 @@
    "itemTitle": "(4.1) Whole of Community System Response \u2013 Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update",
    "result": "Motion Failed (3 to 12)"
   },
-  "5c6d802b2c95": {
-   "id": "5c6d802b2c95",
+  "19efb38c1dc0": {
+   "id": "19efb38c1dc0",
    "date": "2024-11-05",
    "meetingSlug": "months/2024-11/2024-11-05 17th Meeting of City Council",
    "itemNumber": "8.2.4",
@@ -6080,8 +6080,8 @@
    "itemTitle": "Whole of Community System Response \u2013 Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update\u00a0",
    "result": "Motion Passed (12 to 3)"
   },
-  "0b898d04d289": {
-   "id": "0b898d04d289",
+  "4079dc909bd5": {
+   "id": "4079dc909bd5",
    "date": "2024-10-29",
    "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
    "itemNumber": "4.1",
@@ -8808,8 +8808,8 @@
    "itemTitle": "(4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)",
    "result": "Motion Passed (13 to 1)"
   },
-  "2a0187a5fcb1": {
-   "id": "2a0187a5fcb1",
+  "529af203914c": {
+   "id": "529af203914c",
    "date": "2023-10-05",
    "meetingSlug": "months/2023-10/2023-10-05 16th Special Meeting of City Council",
    "itemNumber": "8.1.3",

@@ -153,21 +153,39 @@ def get_full_motion_text(meeting_slug, item_number, roll_call_ordinal):
             ordinal += 1
     return None
 
+_WS_RE = re.compile(r"\s+")
+
+def _norm_ws(s):
+    """Collapse all whitespace (including eSCRIBE's literal U+00A0
+    non-breaking spaces, e.g. "j) \\xa0resting...") to single ASCII spaces.
+    A classify entry's stored quote was typically extracted through a path
+    that already normalized \\xa0 to a plain space (sometimes doubled, where
+    the source had "word\\xa0word" and the extractor emitted "word  word"),
+    while the raw meeting JSON keeps the literal \\xa0 - an exact substring
+    match on either side alone silently fails on an otherwise-correct,
+    otherwise-unique quote."""
+    return _WS_RE.sub(" ", s).strip()
+
 def disambiguate(old_id, mm, hits):
     """Tier 2: multiple natural-key candidates. Try, in order of
     specificity, the full verbatim quote against each candidate's own full
     (uncapped) raw text, then progressively shorter probes/fallbacks -
     returning the single candidate whose text contains the probe, or None
-    if zero or multiple match."""
+    if zero or multiple match. Both sides are whitespace-normalized first
+    (see _norm_ws) since exact-byte matching is too strict across eSCRIBE's
+    \\xa0 vs a quote-extraction path that already flattened it to spaces."""
     quote = quotes.get(old_id)
     item_title = mm.get("itemTitle") or ""
     probes = [p for p in (quote, quote[:80] if quote else None, quote[:40] if quote else None, item_title[:60]) if p]
+    probes = [_norm_ws(p) for p in probes]
     for probe in probes:
+        if not probe:
+            continue
         scored = []
         for h in hits:
             full_text = get_full_motion_text(h.get("meetingSlug"), h.get("itemNumber"), h.get("rollCallOrdinal"))
             text = full_text if full_text is not None else (h.get("motionText") or "")
-            if probe in text:
+            if probe in _norm_ws(text):
                 scored.append(h)
         if len(scored) == 1:
             return scored[0]

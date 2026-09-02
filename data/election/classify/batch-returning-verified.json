@@ -80,7 +80,7 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
-  "id": "86b1bf237179",
+  "id": "8f9d70f94956",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -104,7 +104,7 @@
   "verifierNote": "Same item. Sole Failed-(6-to-6) motion in item 4.3 -- part c)ii), Reduction Cases: reduction in grass-cutting frequency. Confirmed."
  },
  {
-  "id": "9705aa6da1dc",
+  "id": "cecebbd8ba33",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -834,6 +834,18 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
+  "id": "27886bbec2b8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved amending draft Exotic Animal Establishments by-law PH-3, part a), to cap the indoor area covered at 35,000 square feet, for the property at 785 Wonderland Road South.",
+  "confidence": "high",
+  "quote": "Motion to approve a proposed amendment to By-law PH-3, part a) to read, \u201ca)  up to 35,000 square feet indoors of the property located at 785 Wonderland Road South.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
+ },
+ {
   "id": "297830e93540",
   "issue": "none",
   "axis": null,
@@ -972,7 +984,7 @@
   "verifierNote": "Same item. Sole Passed-(9-to-5) motion: Case #P-10b, annual walkway-maintenance reduction, $60,000. Confirmed."
  },
  {
-  "id": "b7f876655a41",
+  "id": "b93cbde81dec",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
