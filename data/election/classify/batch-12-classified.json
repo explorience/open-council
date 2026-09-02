@@ -1,6 +1,6 @@
 [
  {
-  "id": "cab5f047b532",
+  "id": "3f6befa3e1b5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -12,7 +12,7 @@
   ]
  },
  {
-  "id": "2d1c9df16330",
+  "id": "26438ecf52cc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -24,7 +24,7 @@
   ]
  },
  {
-  "id": "487f0590afc3",
+  "id": "6bf4572b6a73",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -36,7 +36,7 @@
   ]
  },
  {
-  "id": "352ec4ffc728",
+  "id": "a83c2bb8e460",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -46,7 +46,7 @@
   "flags": []
  },
  {
-  "id": "1a0eb90548b4",
+  "id": "338599683183",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -56,7 +56,7 @@
   "flags": []
  },
  {
-  "id": "21e06031ea95",
+  "id": "99f660dff7c0",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -66,7 +66,7 @@
   "flags": []
  },
  {
-  "id": "2f211b46982b",
+  "id": "c70f0945732b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -78,7 +78,7 @@
   ]
  },
  {
-  "id": "60984ec54ba0",
+  "id": "6f989dcf2657",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -88,7 +88,7 @@
   "flags": []
  },
  {
-  "id": "c653c8ae7dc7",
+  "id": "c296b8122ad5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -100,7 +100,7 @@
   ]
  },
  {
-  "id": "fb3dbae6d4c0",
+  "id": "0390ff4b8ecc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -110,7 +110,7 @@
   "flags": []
  },
  {
-  "id": "dca86cc698dc",
+  "id": "6119bd037cc3",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -122,7 +122,7 @@
   ]
  },
  {
-  "id": "ac790983e4fa",
+  "id": "bd32dcf7005d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -134,7 +134,7 @@
   ]
  },
  {
-  "id": "24cfd392afd1",
+  "id": "a4f6dcdd0390",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -146,7 +146,7 @@
   ]
  },
  {
-  "id": "bcd96ab4da02",
+  "id": "4e8d5fa8440b",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -156,7 +156,7 @@
   "flags": []
  },
  {
-  "id": "b017923d55c1",
+  "id": "ee94470c8883",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -168,7 +168,7 @@
   ]
  },
  {
-  "id": "53d7c0656179",
+  "id": "21ff697b2bdc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -180,7 +180,7 @@
   ]
  },
  {
-  "id": "ba55077bc1cd",
+  "id": "09b59a9c3ac2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -192,7 +192,7 @@
   ]
  },
  {
-  "id": "b9401a169e2e",
+  "id": "98b1cc4021c2",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -202,7 +202,7 @@
   "flags": []
  },
  {
-  "id": "83a3e2f2b02d",
+  "id": "d6382c82f7e0",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -212,7 +212,7 @@
   "flags": []
  },
  {
-  "id": "c6ad1a8e0183",
+  "id": "d925b5e3502c",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -222,7 +222,7 @@
   "flags": []
  },
  {
-  "id": "e3176f80aaa0",
+  "id": "2789ce535bcb",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -232,7 +232,7 @@
   "flags": []
  },
  {
-  "id": "46814de75f89",
+  "id": "e8331ddb88ab",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -244,7 +244,7 @@
   ]
  },
  {
-  "id": "d30d0b87039f",
+  "id": "0947f5f92e12",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -254,7 +254,7 @@
   "flags": []
  },
  {
-  "id": "268379aca58d",
+  "id": "a16e518570bf",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -264,7 +264,7 @@
   "flags": []
  },
  {
-  "id": "c3dde3554af6",
+  "id": "b91c1ebdf094",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -276,7 +276,7 @@
   ]
  },
  {
-  "id": "d43d88aa0a6b",
+  "id": "7c2d6c2f7bc8",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "restrictive",
@@ -286,7 +286,7 @@
   "flags": []
  },
  {
-  "id": "0642b1c2e379",
+  "id": "1a0c5a5d3f17",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "restrictive",
@@ -296,7 +296,7 @@
   "flags": []
  },
  {
-  "id": "ae5d4bc00760",
+  "id": "cea338e764e4",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -306,7 +306,7 @@
   "flags": []
  },
  {
-  "id": "00c3c908ad85",
+  "id": "7073229bff6d",
   "issue": "policing",
   "axis": "budget-size",
   "polarity": "restrictive",
@@ -316,7 +316,7 @@
   "flags": []
  },
  {
-  "id": "a4588669787c",
+  "id": "3ecc977eb3f8",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -326,7 +326,7 @@
   "flags": []
  },
  {
-  "id": "da54634823a9",
+  "id": "76b785f49681",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -338,7 +338,7 @@
   ]
  },
  {
-  "id": "676704dcb291",
+  "id": "5c913d5c0ac8",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -348,7 +348,7 @@
   "flags": []
  },
  {
-  "id": "ddfb03d60d1a",
+  "id": "641e792f4e4d",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -358,7 +358,7 @@
   "flags": []
  },
  {
-  "id": "272a9581e6fe",
+  "id": "c16642a4b383",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -368,7 +368,7 @@
   "flags": []
  },
  {
-  "id": "5db05122ece8",
+  "id": "e159c6f63bf1",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -378,7 +378,7 @@
   "flags": []
  },
  {
-  "id": "c19601a52a62",
+  "id": "68d604999a94",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -388,7 +388,7 @@
   "flags": []
  },
  {
-  "id": "28c6e0bdd4ed",
+  "id": "673d3cd68a8b",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -398,7 +398,7 @@
   "flags": []
  },
  {
-  "id": "3210bc7212fa",
+  "id": "f4b52c20a24a",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -408,7 +408,7 @@
   "flags": []
  },
  {
-  "id": "97d72395ebc4",
+  "id": "4fb63c870e39",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "restrictive",
@@ -418,7 +418,7 @@
   "flags": []
  },
  {
-  "id": "f934ab9e7b10",
+  "id": "f40352f967da",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -430,7 +430,7 @@
   ]
  },
  {
-  "id": "edc2269e9c10",
+  "id": "9b4835e653ce",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -442,7 +442,7 @@
   ]
  },
  {
-  "id": "489521c250d9",
+  "id": "1557b9ae34fd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -454,7 +454,7 @@
   ]
  },
  {
-  "id": "1f3f992777aa",
+  "id": "c876745a9d49",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -466,7 +466,7 @@
   ]
  },
  {
-  "id": "c280fcc8b5bc",
+  "id": "eaea8ba6a89a",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -478,7 +478,7 @@
   ]
  },
  {
-  "id": "88814ca0f475",
+  "id": "0c7650084017",
   "issue": "none",
   "axis": null,
   "polarity": null,

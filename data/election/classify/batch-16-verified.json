@@ -1,6 +1,6 @@
 [
  {
-  "id": "687a08669e3b",
+  "id": "dfd1e18372ed",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -12,7 +12,7 @@
   "verifierNote": "Verified against 530 Oxford St W full item text (2024-06-04 Council 8.4.9): quote is verbatim part b), the operative zoning-change clause; density/mixed-use residential redevelopment content matches whatAYeaDid. Vote 13-1 matches manifest."
  },
  {
-  "id": "85f4e71a97c2",
+  "id": "eae252729dc9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -27,7 +27,7 @@
   "verifierNote": "Verified against full item 8.5.10 (2024-06-04 Council): this is the confirming vote (10-4) for part a) only, a clean referral (DEFER-only, no AFFIRM verb) -- polarity null correct."
  },
  {
-  "id": "10af824efbb5",
+  "id": "daa2c960adb0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -42,7 +42,7 @@
   "verifierNote": "Verified: confirming vote (13-1) for part b) only -- a pure report-back/policy-review ask, no position on the proclamation itself. Correct."
  },
  {
-  "id": "444ec1d15ea9",
+  "id": "173785078218",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -54,7 +54,7 @@
   "verifierNote": "Verified against full expropriation motion text (2024-06-04 Council 8.5.8). Cross-checked 'Wellington Gateway Project' independently against the 2023 corpus: Bill No. 92 explicitly titles it 'Project RT1430-1B - Wellington Gateway - Land Rapid Transit', confirming this is genuinely a Rapid Transit corridor project, not just a same-batch inference. transit/service-expansion/expansive upheld, confidence could reasonably move medium->high given the independent corroboration, left as classified."
  },
  {
-  "id": "72521ebff03e",
+  "id": "31008831aaee",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -66,7 +66,7 @@
   "verifierNote": "Verified: glass-barrier removal, no tracked-issue content anywhere in the text. issue=none correct."
  },
  {
-  "id": "9735f8e2584b",
+  "id": "53af1191ea9c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -80,7 +80,7 @@
   "verifierNote": "Verified: pure speaking-time procedural motion (failed 6-9), no substantive content. issue=none correct."
  },
  {
-  "id": "39004f51c2fc",
+  "id": "b325a818f08c",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -92,7 +92,7 @@
   "verifierNote": "Verified against full committee-stage expropriation text (2024-05-27 CSC); identical substance to 895b8202a9e6, correctly the committee-stage twin. Vote 3-2 matches manifest."
  },
  {
-  "id": "fd12c4bfd34e",
+  "id": "e79ffb05d1cd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -107,7 +107,7 @@
   "verifierNote": "Verified: full committee-stage referral/policy-review motion (3-2), identical substance to the two Council-stage sub-votes (85f4e71a97c2 + 10af824efbb5) bundled into one vote here. Correctly null."
  },
  {
-  "id": "1e081b244fe4",
+  "id": "3c8b22351970",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -122,7 +122,7 @@
   "verifierNote": "Verified against full item 2.12 (2024-05-22 Civic Works): the 3-1 vote is the confirming vote for part d) only; traced part d)'s full text back to content[0] and confirmed the quote is verbatim and is the clause this specific vote decided (not a different part). Report-back-only, correctly null polarity."
  },
  {
-  "id": "b983a5d7f655",
+  "id": "67a58ea5a61b",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -134,7 +134,7 @@
   "verifierNote": "Verified against full 743 Wellington Rd motion text: confirmed this is a use-removal (Emergency Care Establishments) on a Z-coded rezoning, not a residential density/dwelling-type change. housing/null correct -- appropriately conservative."
  },
  {
-  "id": "a1c258f9979c",
+  "id": "58f81ba0e912",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -172,7 +172,7 @@
   "verifierNote": "Verified: the confirming vote (11-3, same count as bce613972380 but a distinct content entry) re-stating parts c-f as approved. Quote verbatim in this content entry (not borrowed from elsewhere). Correct."
  },
  {
-  "id": "fa81d1038167",
+  "id": "05d0f12626d5",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -184,7 +184,7 @@
   "verifierNote": "Verified against full contract-award text: explicitly names 'Rapid Transit Implementation - Wellington Road' and 'East London Link Project' consultant contracts. transit/expansive well-supported directly in-clause (no cross-reference needed here)."
  },
  {
-  "id": "1728c9fc3739",
+  "id": "c6f6010dcbc4",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -198,7 +198,7 @@
   "verifierNote": "Verified against full item 8.4.8 (2024-05-14 Council): this is the confirming vote (7-7 FAILED) for part b) (the Safe Space referral) specifically. Correctly left null -- a failed confirming vote on a referral doesn't establish what ultimately happened to the funding."
  },
  {
-  "id": "7eafda7b451a",
+  "id": "2aa79a5d25a9",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -212,7 +212,7 @@
   "verifierNote": "Verified against full item 8.5.11: the 11-3 vote is the amendment ADDING the parking-lot-progress note, not the underlying one-year extension itself (that's a separate vote, e313598d210c). Quote verbatim. Correctly null (a note, decides nothing about extension length)."
  },
  {
-  "id": "e313598d210c",
+  "id": "c35d8ca5164a",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -226,7 +226,7 @@
   "verifierNote": "Verified: 'That the motion, as amended, BE APPROVED.' ends in a period with no colon-continuation, so it is NOT a stripped wrapper under the direction-rules wrapper regex -- it's a standalone final decision, correctly falls to generic application-approval/expansive. Substance (24-storey tower facilitation) confirmed against content[0]'s full application text."
  },
  {
-  "id": "5d8cbf4966ee",
+  "id": "156330f5b4a3",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -240,7 +240,7 @@
   "verifierNote": "Verified against full text: a genuine REFER motion (4-10 FAILED) with no AFFIRM verb of its own outside the referral. Correctly null."
  },
  {
-  "id": "79e6b8d45a67",
+  "id": "2516c4cd64bd",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -254,7 +254,7 @@
   "verifierNote": "Verified against full item 5.1 (2024-05-07 SPPC): clean, bare referral text, DEFER-only. Correctly null."
  },
  {
-  "id": "2c083e73b778",
+  "id": "9e23c5aa5984",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -268,7 +268,7 @@
   "verifierNote": "Verified: routine equipment procurement, no tracked-issue content. issue=none correct."
  },
  {
-  "id": "b8baf2ce562d",
+  "id": "764b3f62bda0",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -280,7 +280,7 @@
   "verifierNote": "Verified against full committee-stage Hewitt St motion: matches the Council-stage twin (e313598d210c) in substance. housing/expansive correct."
  },
  {
-  "id": "3afea2d2f184",
+  "id": "82934bf94ea3",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -292,21 +292,7 @@
   "verifierNote": "Verified against full item 2.5 (2024-04-29 CPSC): this is the weekday-narrowing amendment (2-2 FAILED), distinguished from the tied-count sibling 2c6d64497d4d by content. application-approval/expansive is the honest generic-fallback read (BE DIRECTED matches AFFIRM); no issue."
  },
  {
-  "id": "2c6d64497d4d",
-  "issue": "downtown",
-  "axis": "application-approval",
-  "polarity": "expansive",
-  "whatAYeaDid": "Would have approved implementing free one-hour on-street parking in the Core Area, funded up to $300,000; failed at committee (later passed at Council).",
-  "confidence": "high",
-  "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
-  "flags": [
-   "wrapper_preamble"
-  ],
-  "verdict": "confirmed",
-  "verifierNote": "Verified: 'Motion to approve parts a) and b) of the clause' (2-2 FAILED) is a bare wrapper; traced parts a)/b) back to content[1]'s original (pre-weekday-amendment) text since the weekday narrowing failed first -- quote is accurate for what 'parts a and b' refers to at the moment of this vote. Correct."
- },
- {
-  "id": "edfd6a26f47c",
+  "id": "77316a900d35",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -320,7 +306,7 @@
   "verifierNote": "Verified: 'Motion to approve parts c) and d) of the clause' (1-3 FAILED); traced parts c)/d) back to content[1]'s full text (Old East Village pilot + financing). Quote verbatim and correctly attributed. Correct."
  },
  {
-  "id": "8030492a76af",
+  "id": "e10e1dec975a",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -332,7 +318,7 @@
   "verifierNote": "Verified against full 634 Commissioners Rd W motion text: rezoning + site-plan design conditions match whatAYeaDid exactly. Correct."
  },
  {
-  "id": "bd7b7695c008",
+  "id": "e74cfb3eb123",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -346,7 +332,7 @@
   "verifierNote": "Verified against full item 8.1.5 (2024-04-23 Council): 4-10 FAILED amendment matches INFORMATIONAL_ASK pattern ('to study the issue of...'). Correctly null."
  },
  {
-  "id": "278ca6f36998",
+  "id": "6b0a99cf2013",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -360,7 +346,7 @@
   "verifierNote": "Verified: 6-8 FAILED 'BE FURTHER NOTED' amendment, a record-note request only, no operative decision. Correctly null."
  },
  {
-  "id": "cc4b3d0d54e6",
+  "id": "816469e6d839",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -374,7 +360,7 @@
   "verifierNote": "Verified: 'That item 5, clause 3.3, as amended, BE APPROVED.' ends in a period (no colon-continuation) -- a standalone final decision, not a stripped wrapper. Substance (BDC1 rezoning + affordable-housing site-plan consultation) confirmed against content[0]'s full application text. Correct."
  },
  {
-  "id": "f1d57d58bac3",
+  "id": "1cfbf371739d",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -386,7 +372,7 @@
   "verifierNote": "Verified against full item 8.1.6 (2024-04-23 Council, 5 content entries): parts ix (height 18->22 storeys) and x (affordable housing 25%->10-15%) ARE genuinely bundled into ONE 12-2 recorded vote here (unlike the committee-stage twin, see 057d37f642a6 correction) -- the height amendment has no separate vote at Council. Correctly left null; a single polarity would misstate one side of Hopkins/Trosow's nay."
  },
  {
-  "id": "7fc97879792f",
+  "id": "e1c6bcfbc67e",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -398,7 +384,7 @@
   "verifierNote": "Verified against full East London Link Phase 4 expropriation text; item title itself names the project, and the same-batch 6b28a5a67b85 independently confirms 'East London Link' as a Rapid Transit Implementation corridor (explicit RFP naming). transit/expansive well-supported."
  },
  {
-  "id": "b9b49881ef19",
+  "id": "a58e3879b5b5",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -412,7 +398,7 @@
   "verifierNote": "Verified: 5-9 FAILED amendment requesting a one-time reserve draw to 'offset' a tax increase -- doesn't contain a DECREASE-class verb (offset != reduce/lower/cut) so doesn't cleanly hit the levy-size axis either direction. Correctly left null rather than forcing a read."
  },
  {
-  "id": "895754219c7f",
+  "id": "32ce8f9f7e9c",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -426,7 +412,7 @@
   "verifierNote": "Verified: 3-11 FAILED, a clean 'notwithstanding the Council Procedure By-law...BE REFERRED' motion, no AFFIRM verb outside the referral. Correctly null."
  },
  {
-  "id": "08beca7153b5",
+  "id": "63d3d1c790ee",
   "issue": "budget",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -440,7 +426,7 @@
   "verifierNote": "Verified: 'without part d), as amended, BE APPROVED' (12-2) is a standalone final vote (no colon-continuation); traced the $33k Community Housing deficit-funding language to content[0]'s part c), confirmed verbatim and confirmed part d) (the RBC Place surplus item, unrelated) was excluded from this specific vote. Correct."
  },
  {
-  "id": "6f3b957830c2",
+  "id": "8a7bd3d17d57",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -452,7 +438,7 @@
   "verifierNote": "Verified against full committee-stage transit-pass-pilot text: MOU-development directive for free passes at Clarke Road SS. transit/service-expansion/expansive reasonable extension of the axis (fare/eligibility access expansion). Correct."
  },
  {
-  "id": "b510ab684a9b",
+  "id": "a757f5fccaa0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -466,7 +452,7 @@
   "verifierNote": "Verified: pure speaking-time procedural vote, no substantive content on the WCSR item. issue=none correct."
  },
  {
-  "id": "55bfa054657f",
+  "id": "b2fee6700457",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -478,7 +464,7 @@
   "verifierNote": "Verified: 'part a) i) BE APPROVED' (3-12 FAILED), traced to the Ward Option #1 status-quo language; a councillor-expense-account matter, doesn't match any of the 8 tracked issues' keywords. issue=none correct."
  },
  {
-  "id": "e9a18457d74d",
+  "id": "74f52522ffd6",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -492,7 +478,7 @@
   "verifierNote": "MISATTRIBUTED CLAUSE (confirmed via vote-roster cross-check): item 4.1 (2024-04-16 SPPC) has 4 content entries; the original 14-1 vote quotes/describes content[0]'s part a) ('the report...BE APPROVED', the whole Housing Supply report) via a generic content[0] quote, but that text carries NO vote of its own in this meeting record -- the actual 14-1 recorded vote (S. Hillier lone nay) is content[2], a narrow amendment to add part c) inviting UTRCA to an unrelated internal reference group. Publishing the original entry would have falsely stated Hillier's nay was cast against the Housing Supply report itself; it was cast against a committee-invitation amendment. Re-pointed the quote/whatAYeaDid to the clause this specific vote actually decided and reclassified issue to none: the clause contains no housing content, and while 'conservation authority' is a climate-issue keyword, this is a stakeholder-invite to a Customer Service process-improvement group, not a substantive environmental decision -- forcing either housing or climate here would misstate the vote same as the original error did."
  },
  {
-  "id": "b1e1d2fe8866",
+  "id": "b44c33d86dc3",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -504,7 +490,7 @@
   "verifierNote": "Verified against full Council-added-item transit-pass-pilot text, identical substance to d1fc73f17bb5 (the committee-stage twin). Correct."
  },
  {
-  "id": "407d903108b1",
+  "id": "4d1262df6cd6",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -518,7 +504,7 @@
   "verifierNote": "Verified against full text: contains BOTH a referral clause (part a) AND a distinct AFFIRM clause (part b, 'BE DIRECTED to extend an invitation') -- mechanically this would NOT trigger the deferOnly guard, and 'extend an invitation to attend the meeting' doesn't match any INFORMATIONAL_ASK phrase either, so a naive rule-based read would misclassify this FAILED (4-11) motion as 'approved the transit item.' The classifier's substance-based read (true intent = referral attempt, unclear) is the correct call here and is corroborated by the same item's motion[0] (e294e35cf969) separately passing 13-2 as the real decision. Confirmed as a deliberate, well-reasoned override, not an oversight."
  },
  {
-  "id": "ac70311aac71",
+  "id": "6158b535a43c",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -530,7 +516,7 @@
   "verifierNote": "Verified against full committee-stage East London Link expropriation text, identical substance to 6e54e9c40a61. Correct."
  },
  {
-  "id": "e4b98c6f2d6e",
+  "id": "312ee49489ad",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -542,7 +528,7 @@
   "verifierNote": "Verified against full committee-stage 735 Wonderland Rd N motion text, identical substance to the Council-stage final approval (cc4b3d0d54e6). Correct."
  },
  {
-  "id": "057d37f642a6",
+  "id": "da2b9d48655c",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "restrictive",
@@ -554,7 +540,7 @@
   "verifierNote": "The original entry treated this the same as the Council-stage vote (f1d57d58bac3) -- bundled height-increase + affordable-housing-cut, polarity null. Checked the full committee item (2024-04-09 Planning and Environment Committee, item 3.4): it has 6 content entries, and the height amendment ('AMEND Schedule 1 from 18 to 22 storeys') is a SEPARATE, unanimous 5-0 vote (content[1], not part of this batch, no dissent to misclassify) while the affordable-housing reduction is its own contested 4-1 vote (content[2] -- the one actually assigned to this id, confirmed by exact vote-count match against the manifest's 'Motion Passed (4 to 1)'). Unlike the Council vote, there is no bundling here: this specific record has exactly one, unambiguous direction (reducing a required affordable-housing percentage from 25% to 10-15% is a restrictive move on the affordable-housing axis), so upgraded from null to a confirmed restrictive call with my own quote. f1d57d58bac3 (Council stage, genuinely bundled in one recorded vote) is unaffected and correctly stays null."
  },
  {
-  "id": "92782636fd50",
+  "id": "403069dd4a08",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -568,7 +554,7 @@
   "verifierNote": "Verified: a Chair's-ruling sustain vote under section 10.5, pure chamber procedure, no tracked-issue content. issue=none correct."
  },
  {
-  "id": "6a37a73ce041",
+  "id": "4d20e6349c7e",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -580,7 +566,7 @@
   "verifierNote": "Verified against full Mobility Master Plan text: '...BE SET at...Option 2 (32.5%)...or greater' is a genuine, specific target-setting decision (not a report-back). transit/service-expansion/expansive reasonable; the 'more ambitious option' framing is unverified editorializing (couldn't independently confirm Option 1's value in this file) but doesn't affect polarity."
  },
  {
-  "id": "dd9bb8b6f9cb",
+  "id": "1b4c97a3522e",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",

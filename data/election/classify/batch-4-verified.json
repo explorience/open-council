@@ -1,6 +1,6 @@
 [
  {
-  "id": "782cbd02dbe0",
+  "id": "9fd54bd7fb7b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -14,7 +14,7 @@
   "verifierNote": "Quote verbatim in full item text (Blue Box part c). Waste/recycling is not one of the 8 tracked issue clusters; issue=none/polarity=null correct."
  },
  {
-  "id": "64d3c515b37a",
+  "id": "2e31ad2fa396",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -28,7 +28,7 @@
   "verifierNote": "Quote verbatim (Blue Box part d, advocacy to Mayor/AMO). Not a tracked issue; issue=none correct."
  },
  {
-  "id": "d1f25753475b",
+  "id": "d20ea0654bf6",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -40,7 +40,7 @@
   "verifierNote": "Quote verbatim. Rezoning from Urban Reserve/Environmental Review to a 16-storey mixed-use residential block is an unambiguous density increase; housing/density/expansive holds."
  },
  {
-  "id": "12577061e6ff",
+  "id": "feec70f79905",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -52,7 +52,7 @@
   "verifierNote": "Quote verbatim ('the heritage designation request...BE REFUSED'). Heritage isn't a tracked issue cluster (established precedent); issue=none correct."
  },
  {
-  "id": "e7b785ac2677",
+  "id": "03554b18bd4e",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -64,7 +64,7 @@
   "verifierNote": "Quote verbatim, sourced from the amended motion (14-1) that carries the substantive rezoning text. FROM an Associated Shopping Area Commercial zone (no D/H code) TO a Business District Commercial zone with explicit D400*H61 density/height code, plus the clause's own 'amended scale and intensity' language, supports an intensification read. Medium confidence appropriately reflects that this is inferential rather than a spelled-out storey count."
  },
  {
-  "id": "aa98fd07083d",
+  "id": "941b90071139",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -76,7 +76,7 @@
   "verifierNote": "Quote verbatim (Council final zoning-bylaw-introduction vote, part b). Correctly the final Council decision, distinct from the PEC recommendation on the same application (8730d4c18b05). Generic application-approval axis is an appropriately conservative call since no baseline height/density comparison is spelled out in the clause."
  },
  {
-  "id": "0d224299a0d2",
+  "id": "0c4da36cdb03",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -88,7 +88,7 @@
   "verifierNote": "Quote verbatim ('the balance' motion, parts a) and c) \u2014 OPA specific-policy addition plus heritage-commemoration site-plan direction). Correctly the final Council decision on the OPA component of the same application; consistent with entry aa98fd07083d."
  },
  {
-  "id": "c9107181549e",
+  "id": "39ff970e1bbd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -102,7 +102,7 @@
   "verifierNote": "Quote verbatim. Personnel appointment to an outside board \u2014 matches the documented GLOBAL_EXCLUDE precedent for 'consideration of appointment to' motions (decides WHO sits on a board, not a policy question). issue=none correct. This is the final Council confirming vote (13-1), distinct from the SPPC recommendation on the same appointment (06da30240e47) \u2014 see that entry's note."
  },
  {
-  "id": "3d77f4aac958",
+  "id": "452b08b6ad7e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -114,7 +114,7 @@
   "verifierNote": "Quote verbatim. Full text scanned for all 8 issue clusters' keywords \u2014 none hit (this is about civility/harassment toward elected officials, not a tracked policy issue). issue=none correct. Final Council adoption (12-2); see 06da30240e47-style note on the companion committee-stage entry."
  },
  {
-  "id": "b2076d3543ea",
+  "id": "60ef233a5e84",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -126,7 +126,7 @@
   "verifierNote": "Quote verbatim. No issue keyword (including climate cluster: 'climate', 'wetland', 'natural heritage', etc.) appears anywhere in the motion's own text or itemTitle \u2014 a bare membership endorsement in an intermunicipal Great Lakes initiative doesn't itself substantiate a climate classification under the documented body-text-required rule. issue=none correct."
  },
  {
-  "id": "18633398dd86",
+  "id": "22951914b4b2",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -138,7 +138,7 @@
   "verifierNote": "Quote verbatim. Checked whether 'EXCLUDED' here is a business-case-exclusion trap (case content was itself a proposed road-spending REDUCTION, so excluding it arguably preserves rather than cuts funding) \u2014 but the business-case axis in direction-rules.ts is defined purely as included-vs-excluded (not a fiscal-direction claim); the axisLabel 'excluded a business case from the budget' is neutrally true regardless of the case's own fiscal direction, so no false statement results. Confirmed as applied."
  },
  {
-  "id": "987a0e7529b2",
+  "id": "81604ebe0e88",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -150,7 +150,7 @@
   "verifierNote": "Quote verbatim. Same business-case-axis reasoning as 18633398dd86 \u2014 'included a business case in the budget' is a neutral, accurate label even though the case's own content (stop collecting Blue Box materials from non-eligible sources) is itself a service reduction/cost saving. No false statement."
  },
  {
-  "id": "ea03954e4926",
+  "id": "021ec895b691",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -162,7 +162,7 @@
   "verifierNote": "Quote verbatim. Checked issue tie-break: motion text contains both a budget keyword ('business case') and a climate keyword ('Climate' in the case's own name, 'Eliminate Climate Change Reserve Fund Contribution') \u2014 both single-hit, and issue-rules.ts's ISSUE_ORDER places budget before climate, so budget correctly wins the tie per the codified rule. Not a missed climate classification."
  },
  {
-  "id": "38ef207a1fb4",
+  "id": "3fd94ce8b2d4",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -174,7 +174,7 @@
   "verifierNote": "Quote verbatim ('annual budget update' keyword hit supports budget; no housing keyword phrase \u2014 e.g. 'housing needs', 'affordable housing' \u2014 actually appears despite the program's name, so housing is correctly not triggered). Explicit 'to fund the Housing Stability Bank Program $500,000' is an unambiguous levy-size increase; expansive confirmed."
  },
  {
-  "id": "9f8da8b851c0",
+  "id": "ab2d85adb603",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -189,7 +189,7 @@
   "verifierNote": "Quote verbatim. The isolated clause voted on ('MLHU BE REQUESTED to submit an additional funding request...') is itself a request for a future ask, not a spending decision \u2014 correctly unclear/informational_ask. Note: this specific sub-motion's own text doesn't literally contain a budget keyword (only sibling motions in the same item say 'Business Case #P-2'); issue=budget is inferred from item context. Since polarity stays null, this doesn't produce any false vote-direction claim, so left as-is, but flagged here for visibility."
  },
  {
-  "id": "8e944ea40c56",
+  "id": "2c11c8845ce9",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -203,7 +203,7 @@
   "verifierNote": "Quote verbatim. This sub-amendment only changes which years the capital portion draws from the Automated Enforcement Reserve Fund (3 yrs -> 2 yrs); the $155k/yr operating figure is unchanged in both variants shown in the item. Correctly unclear \u2014 a funding-duration/mechanism tweak, not a spending or service decision."
  },
  {
-  "id": "2511f1d1c461",
+  "id": "fa73c7cc4453",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -217,7 +217,7 @@
   "verifierNote": "Quote verbatim, but NOT present in this specific vote-instance's own text (a bare 'the amendment, as amended, BE APPROVED' wrapper, 8-7) \u2014 confirmed present instead in the sibling draft-amendment motions in the same item, which the amendment's own text incorporates. Verified this is the correct final, capital-and-two-years, reserve-fund-funded version (motion[2] switched to reserve-fund funding, motion[3] set duration to 2 years, both preceding this approval). Traffic calming is a transit keyword; tie-break with budget's 'annual budget update' hit correctly favors transit per ISSUE_ORDER. Expansive (expanded infrastructure/measures) is a reasonable reading of 'increasing...to implement traffic calming...and deploy more...devices' even though it isn't literally an INCREASE+service/route/frequency/network/infrastructure regex hit."
  },
  {
-  "id": "f7c197957c99",
+  "id": "0666282b30d3",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -229,7 +229,7 @@
   "verifierNote": "Quote verbatim. Business-case axis applied consistently with 18633398dd86/987a0e7529b2."
  },
  {
-  "id": "4b367baa5548",
+  "id": "9a6281e7a170",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -241,7 +241,7 @@
   "verifierNote": "Quote verbatim, explicit 'to increase funding for the Housing Stability Bank program' \u2014 direct levy-size expansive match. Confirmed."
  },
  {
-  "id": "44603a99e06b",
+  "id": "c77f2ff22429",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -253,7 +253,7 @@
   "verifierNote": "Quote verbatim (sourced from the amendment-restatement motion, 11-4, which is the substantive vote \u2014 motion[3]'s 12-3 final approval in item 4.8 is the wrapper that ratifies this same text, see 5329f0a29d55). Dollar figures show -$2,400,000 tax levy impact in both 2026 and 2027 \u2014 an unambiguous levy decrease even though the clause's own verb is 'utilize...for tax levy mitigation' rather than a literal 'reduce' verb. Restrictive (levy-size decrease) confirmed via the numeric evidence."
  },
  {
-  "id": "5329f0a29d55",
+  "id": "85e437b965cd",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -267,7 +267,7 @@
   "verifierNote": "Quote verbatim, NOT present in this vote's own bare wrapper text ('the motion, as amended, BE APPROVED', 12-3) but confirmed present in the immediately preceding amendment motion (11-4) that this wrapper ratifies \u2014 correctly the final, $2,400,000-tax-levy-reduction version (the earlier $4,800,000-only-2026 draft in motion[1] was superseded by motion[2] before this final vote). Restrictive confirmed, consistent with 369f78062e63."
  },
  {
-  "id": "9c72e43d3879",
+  "id": "d3b3b84ba64c",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -279,7 +279,7 @@
   "verifierNote": "Quote verbatim. 'Core Area' and 'Downtown' both appear in the motion's own text, giving downtown 2 keyword hits vs budget's 1 ('annual budget update') \u2014 downtown correctly wins on score, not just tie-break. This creates a brand-new $784k/yr free-parking program (Passed 11-4) \u2014 a genuine expansion decision; application-approval/expansive confirmed (downtown has no issue-specific axis in direction-rules.ts, so the generic fallback is the only option and is accurately applied here)."
  },
  {
-  "id": "890ef0e727d6",
+  "id": "e5ed3ed3f971",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -291,7 +291,7 @@
   "verifierNote": "REFUTED. This sub-amendment (Failed 7-8) does not decide whether the free two-hour parking program exists \u2014 that was already decided by the separate 11-4 vote (9c72e43d3879) earlier in the same item. Its own operative content is solely a funding-SOURCE reallocation (switch the $784k from general tax levy to the Economic Development Reserve Fund). That is the same class of funding-mechanism-only amendment the classifier itself correctly marked unclear elsewhere in this batch (8e944ea40c56, a 3-year-to-2-year funding-duration change) \u2014 labeling this one 'approved the downtown/core-area item' overstates what a yea actually decided (a councillor could vote nay here simply to keep the levy-funded version, without opposing the parking program at all). Downgraded to axis=null/polarity=null for consistency and to avoid a misleading direction claim; issue=downtown retained since the underlying $784k program is still the relevant subject."
  },
  {
-  "id": "621daef01a81",
+  "id": "a20cfb64c158",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -305,7 +305,7 @@
   "verifierNote": "Quote verbatim. 'Call the question' procedural motion ending debate \u2014 correctly issue=none, no substantive content."
  },
  {
-  "id": "9a2aea4a8c2f",
+  "id": "dd9311c86c89",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -317,7 +317,7 @@
   "verifierNote": "Quote verbatim. This is a genuine competing/alternative spending proposal (continue the $330k one-hour program instead of the $784k two-hour program that had just passed), a real program-continuation decision distinct from 890ef0e727d6's funding-source-only amendment. Application-approval/expansive (would-have) confirmed."
  },
  {
-  "id": "06da30240e47",
+  "id": "40de15123282",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -331,7 +331,7 @@
   "verifierNote": "Committee-stage-vs-decision check: this is the Strategic Priorities and Policy Committee's Nov 18 vote (14-1), which RECOMMENDS the appointment to Council \u2014 Council then holds its own confirming vote on Nov 25 (c9107181549e, 13-1), which is the actual appointment. The original whatAYeaDid ('Appointed Lori Higgs and Marlene McGrath...') stated the committee's action as a final decision; corrected to reflect it is a recommendation forwarded to Council. issue=none/polarity=null unchanged (personnel appointment, not a tracked issue either way)."
  },
  {
-  "id": "fcb89154ceb6",
+  "id": "fd5f87c156eb",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -343,7 +343,7 @@
   "verifierNote": "Same committee-stage-vs-decision issue as 06da30240e47: this SPPC vote (Nov 18, 13-1) recommends the Elect Respect resolution to Council, which separately adopted it Nov 25 (b7e548c6bb75, 12-2). Corrected whatAYeaDid from a declarative 'Adopted' to 'Recommended...for adoption.' issue=none/polarity=null unchanged."
  },
  {
-  "id": "3b49a83ca01d",
+  "id": "d61988b03ec9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -355,7 +355,7 @@
   "verifierNote": "Same committee-stage-vs-decision issue: this SPPC vote (Nov 18, 13-1) recommends the GLSCLCI membership endorsement to Council, which separately endorsed it Nov 25 (b2076d3543ea, 13-1). Corrected whatAYeaDid wording. issue=none/polarity=null unchanged."
  },
  {
-  "id": "d8d7bec31108",
+  "id": "403e4168879a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -367,7 +367,7 @@
   "verifierNote": "Same committee-stage-vs-decision issue: this is the Planning and Environment Committee's Nov 12 vote (4-1) recommending refusal of the heritage designation; Council made the actual refusal decision Nov 25 (12577061e6ff, 10-5). Corrected whatAYeaDid from declarative 'Refused' to 'Recommended...be refused.' issue=none/polarity=null unchanged (heritage isn't a tracked issue either way)."
  },
  {
-  "id": "5dc0c856904e",
+  "id": "9e43ce4ba281",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -379,7 +379,7 @@
   "verifierNote": "Quote verbatim. Already correctly framed as a PEC recommendation ('Recommended introducing...'), properly distinguished from the Council-level decision on the same application (aa98fd07083d/070a2bfcfe82). No committee-stage/decision conflation here."
  },
  {
-  "id": "452cfbf9fcb9",
+  "id": "e776add73445",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -393,7 +393,7 @@
   "verifierNote": "REFUTED (issue). The clause permits home occupations to produce low-risk home-prepared foods and employ up to three non-resident staff \u2014 this is home-based-business/commercial-licensing regulation, not a housing-supply, density, or dwelling-type question. The housing/use-permission axis in direction-rules.ts is built around dwelling types (ADU, secondary suite, triplex, townhouse, laneway house) \u2014 a home food-business employment rule doesn't fit that concept even loosely; only the itemTitle's Z-25103 structural code triggers the housing classification here, over content that isn't really about housing at all. Downstream, tagging this a 'housing/restrictive' position for the unanimous nays would misrepresent what they voted against (permitting home food businesses to hire staff, not permitting more homes). Since the vote was unanimous (0-5), no comparative signal is lost by downgrading. axis/polarity set to null; issue left as housing per the documented code-pattern precedent but this entry should be treated as a genuine edge case in that rule."
  },
  {
-  "id": "7e32ecf98ec2",
+  "id": "3a30a4ed49f4",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -407,7 +407,7 @@
   "verifierNote": "Quote verbatim. Pure speaking-time procedural motion; issue=none correct."
  },
  {
-  "id": "c8ca91ee2f31",
+  "id": "723aa52eb1eb",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -421,7 +421,7 @@
   "verifierNote": "Quote verbatim. Checked all 8 issue clusters' keyword lists against the full W12A Landfill motion text (including 'climate' cluster terms: wetland, stormwater, conservation authority, tree canopy, etc.) \u2014 no hits anywhere; a landfill community-mitigation-fund cap isn't a tracked issue. issue=none correct."
  },
  {
-  "id": "ae5cbf236970",
+  "id": "cd831c71fde1",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -433,7 +433,7 @@
   "verifierNote": "Quote verbatim. Distinguished from 890ef0e727d6: this directs CONTINUING the (already-funded, already-existing) one-hour free-parking program itself using already-approved funds \u2014 a genuine program-continuation decision, not a funding-source-only tweak on top of a separately-decided program. Downtown/application-approval/expansive confirmed."
  },
  {
-  "id": "daa75aaf5c58",
+  "id": "36ea8f6ce7c5",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -445,7 +445,7 @@
   "verifierNote": "Quote verbatim. No spelled-out density/height figures in the clause (special-provision code left as placeholder '(_)'), so the conservative generic application-approval axis (rather than density) is appropriate, matching the classifier's own stated rationale."
  },
  {
-  "id": "3a6a6b440800",
+  "id": "56e5ed0e5dac",
   "issue": "housing",
   "axis": "use-permission",
   "polarity": "restrictive",
@@ -457,7 +457,7 @@
   "verifierNote": "Quote verbatim, correctly sourced from motion[1] (the amendment adding parts e/f/g) rather than the separately-tallied final 'as amended, BE APPROVED' wrapper (48422a21c114) that shares the same 14-1 tally within the same item \u2014 content of the quote is unique to this motion, confirming no cross-wiring between the two same-tally motions. 'Temporarily restricts new ARUs that exceed bedroom count or unit size limits' is unambiguously restrictive."
  },
  {
-  "id": "eff72561e14d",
+  "id": "b8b33c211125",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -471,7 +471,7 @@
   "verifierNote": "Quote verbatim. A Chair's-ruling-sustained procedural vote; issue=none correct."
  },
  {
-  "id": "a2404144c8ae",
+  "id": "e2f006ebb728",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -483,7 +483,7 @@
   "verifierNote": "Quote verbatim, explicit 'increase the gross floor area (GFA) limit from eighty percent (80%) to ninety-five percent (95%)' \u2014 unambiguous density-axis expansive (GFA is a reasonable proxy for the density axis's 'permitted density' concept for ARUs, even though 'GFA' isn't literally in the axis's noun list)."
  },
  {
-  "id": "64dce7af848d",
+  "id": "a854039570a1",
   "issue": "housing",
   "axis": "density",
   "polarity": "restrictive",
@@ -509,7 +509,7 @@
   "verifierNote": "Quote verbatim, correctly sourced from the POST-motion reconstructed 'as amended' text of the final approval wrapper (motion[5], 14-1) \u2014 distinct from 8cd2d2b8a2ce's motion[1] despite the coincidental shared 14-1 tally within the item. Traced the full amendment history (GFA-increase-to-95% failed 6-9, GFA-decrease-to-70% failed 2-13) and confirmed the final package retains the original 80% GFA cap plus the 2-bedroom-per-ARU cap and Interim Control By-law \u2014 an unambiguous restrictive housing/use-permission package."
  },
  {
-  "id": "0573c2182ea7",
+  "id": "41d91ff8fa56",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -523,7 +523,7 @@
   "verifierNote": "Quote verbatim. Pure referral (DEFER_RE-type 'BE REFERRED to Civic Administration to report back'), correctly unclear/none regardless; underlying subject (Councillor compensation/severance) also isn't a tracked issue per the documented severance-package precedent."
  },
  {
-  "id": "5e35fc6c9b3c",
+  "id": "c12a4bd1fa2b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -538,7 +538,7 @@
   "verifierNote": "Quote verbatim. Amendment to the wording of the (failed) referral above; procedural, issue=none correct."
  },
  {
-  "id": "6f061fcc11a7",
+  "id": "d084402d2c8d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -550,7 +550,7 @@
   "verifierNote": "Quote verbatim. Councillor-compensation indexing; checked against all 8 issue keyword lists, no hits. Consistent with the documented 'severance package' GLOBAL_EXCLUDE precedent that Council-resourcing/remuneration items aren't a tracked issue. issue=none correct."
  },
  {
-  "id": "5c90f038db0d",
+  "id": "aaa66ee58563",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -562,7 +562,7 @@
   "verifierNote": "Quote verbatim, correctly sourced from motion[5] (part b) despite two other motions in the same item (parts f and l/m) also sharing the same 14-1 tally \u2014 the quote text ('current annual adjustment formula...BE MAINTAINED') is unique to part b) and doesn't collide with the others. issue=none correct (compensation policy, not tracked)."
  },
  {
-  "id": "415d5b51dbc5",
+  "id": "72a8554ec3ff",
   "issue": "none",
   "axis": null,
   "polarity": null,

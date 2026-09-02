@@ -1,6 +1,6 @@
 [
  {
-  "id": "aa61ec1f12b2",
+  "id": "049cfd44a474",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -14,7 +14,7 @@
   "verifierNote": "Checked full item 8.2.11 text (CC 2024-04-02). This is the split-off portion of the omnibus amendment (parts j+k: servicing-capacity review + London Plan policy review) that FAILED 6-7, distinct from part i) which passed separately (see f6ec0f5ba0a1's adopted text, which includes only part i). Correctly an informational/study ask with no decision \u2014 confirmed unclear."
  },
  {
-  "id": "f6ec0f5ba0a1",
+  "id": "97776c54a9ed",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -28,7 +28,7 @@
   "verifierNote": "Verbatim quote confirmed against motion_texts. Cross-checked the wrapper's post_motion_texts 'reads as follows' block: final adopted text includes reinitiating the OP review, industrial-land conversions (except 2496 Dundas), 25-yr horizon, and (from the separately-passed 9-4 vote) the higher-intensification growth-management directive tied to 32.5% mode share \u2014 matches whatAYeaDid exactly, and correctly excludes parts j)/k) which failed. No refutation."
  },
  {
-  "id": "a5c23169dedb",
+  "id": "2fb3a485ae99",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -40,7 +40,7 @@
   "verifierNote": "Verbatim quote confirmed. Fireworks by-law discharge-days amendment; correctly issue=none (fireworks isn't a tracked issue)."
  },
  {
-  "id": "d15f18913edf",
+  "id": "ee605e1404ab",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -54,7 +54,7 @@
   "verifierNote": "Confirmed against motion text (Trosow/Ferreira amendment, Failed 4-10) directing consultation with Toronto Fire Dept + report back. Pure informational ask, issue=none correct (fire code isn't tracked)."
  },
  {
-  "id": "6f7c833691fc",
+  "id": "b0e90db0293e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -82,7 +82,7 @@
   "verifierNote": "Confirmed against motion text (Ferreira/Lewis amendment, Passed 10-4): pure report-back on funding source + event-time suspension ability for Core Area free parking. 'Core Area' keyword present in this clause's own text, issue=downtown correct; no decision made so null polarity correct."
  },
  {
-  "id": "f10df9cb0a3b",
+  "id": "9cf092ea8e77",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -96,7 +96,7 @@
   "verifierNote": "Confirmed: 'proceed beyond 6:00 PM' procedural motion under Council Procedure By-law, Passed 12-2. GLOBAL_EXCLUDE match, correctly issue=none."
  },
  {
-  "id": "d4d68fba4967",
+  "id": "92a461314d2a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -138,7 +138,7 @@
   "verifierNote": "Checked the final wrapper's post_motion_texts closely: the adopted text for item 8.4.13 combines (1) a pure report-back ask on Core Area free-parking funding, (2) a report-back ask, and (3) a genuine implementation directive ('BE DIRECTED to implement a parking incentive as a pilot project ... for Municipal Lots 1 & 2') that is NOT purely informational. A naive whole-text keyword scan would tag this 'downtown' (the adjacent Core Area clause's text is present in the same combined motion) and, via the generic approve/deny fallback, read as 'approved the downtown/core-area item' \u2014 but that would misrepresent the vote: the Core Area content was never decided (still just a report-back), and the actual decision (the parking-lot pilot) has no downtown/core-area keyword in its own operative text. Deliberately did NOT overturn to a 'downtown, expansive' direction, since doing so would be a title-vs-substance mismatch producing a false characterization of what was decided. Left as issue=none/null \u2014 the safer, accurate call."
  },
  {
-  "id": "cd5c2375f033",
+  "id": "121cba68af30",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -152,7 +152,7 @@
   "verifierNote": "Verbatim quote confirmed (Passed 13-2). Item title contains the exact 'Consideration of Appointment to' GLOBAL_EXCLUDE phrase; this is a personnel appointment to a board, not a housing-policy vote. Correctly excluded."
  },
  {
-  "id": "e06a8f8cd5fb",
+  "id": "af8a22f08328",
   "issue": "encampments",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -178,7 +178,7 @@
   "verifierNote": "Confirmed against motion text (Stevenson/Pribil, Failed 2-13): pure report-back ask on rationale for the Horton St\u2192Dundas St switch. 'supportive housing' keyword present in own clause text, issue=housing correct; informational ask, correctly null."
  },
  {
-  "id": "9fbfccf943a4",
+  "id": "0545b6adf1a8",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -192,7 +192,7 @@
   "verifierNote": "Confirmed against motion text (Passed 10-5): report-back ask for cost breakdowns/draft operating budget. 'operating budget' keyword present, issue=budget correct; informational ask, correctly null."
  },
  {
-  "id": "20e248852e03",
+  "id": "a22e8750f2d2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -220,7 +220,7 @@
   "verifierNote": "Confirmed against motion text (Failed 2-13): report-back ask on funding sources for future HSH units + conversions list. 'supportive housing' keyword present, issue=housing correct; informational ask, correctly null."
  },
  {
-  "id": "47b3793a89d7",
+  "id": "b53e1a493fef",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -232,7 +232,7 @@
   "verifierNote": "Verbatim quote confirmed (Passed 8-7): the amendment substituting Option 2 as the 2050 mode-share target in place of the deferral/referral alternative that had just failed 5-10. Read in full sequence context (base motion already proposed Option 2; the referral alternative failed; this vote reaffirms Option 2), 'expansive' (adopting the higher, more ambitious transit/active-mode-share target) is an accurate, non-misleading characterization even though it doesn't literally trip the narrow density-style INCREASE-near-noun regex. No refutation."
  },
  {
-  "id": "b43302aa12d3",
+  "id": "7e4c4dd85e7e",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -244,7 +244,7 @@
   "verifierNote": "Confirmed against motion text (Passed 9-6): defines Option 2 as specifically 32.5% mode share, with no stated baseline for comparison in the clause itself. Low-confidence unclear is the responsible call; left as-is."
  },
  {
-  "id": "a4e6deb00a7e",
+  "id": "803a1f3590a9",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -256,7 +256,7 @@
   "verifierNote": "Verbatim quote confirmed (Passed 11-4): final combined clause a) setting the 2050 target at Option 2 (32.5%) 'or greater' for transit/walking/cycling. Substance is unambiguously expansive (locks in the higher target). No refutation."
  },
  {
-  "id": "0322689624f0",
+  "id": "5465e4d5eea9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -270,7 +270,7 @@
   "verifierNote": "Confirmed: 'proceed beyond 6:00 PM' committee procedural motion (Passed 13-2), Council Procedure By-law GLOBAL_EXCLUDE match. Correctly issue=none."
  },
  {
-  "id": "9a892d844d78",
+  "id": "75df021dbcb3",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -282,7 +282,7 @@
   "verifierNote": "Verbatim quote confirmed against motion text (Passed 4-1, the base/final recommendation for 613 Superior). R1\u2192R5 Special Provision is a real upzoning under London's Zoning By-law (R5 permits materially higher density/multi-residential forms than R1 single-detached) \u2014 the density-direction domain inference is sound. No refutation."
  },
  {
-  "id": "89053b09c443",
+  "id": "b4cf33d7987d",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -318,7 +318,7 @@
   "verifierNote": "Confirmed against motion text (Passed 4-1, add part c)ii)): east/west access condition, no outcome verb of its own. Same code-pattern basis for issue=housing. Correctly null."
  },
  {
-  "id": "99e90a7b11ad",
+  "id": "cf91899d3c0d",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -332,7 +332,7 @@
   "verifierNote": "Verbatim quote confirmed ('Motion to approve the recommendation, as amended.', Passed 4-1). Underlying substance (read from the parallel full-text motion in the same item) is the same R1\u2192R5 upzone plus the added site-plan/servicing conditions \u2014 wrapper direction assignment is justified and unambiguous. No refutation."
  },
  {
-  "id": "b67d0c25c3e2",
+  "id": "e4e37f855946",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -408,7 +408,7 @@
   "verifierNote": "Confirmed against motion text (Passed 3-2, approve part d): fireworks licence-fee schedule. Not a tracked issue; correctly none."
  },
  {
-  "id": "7266063dc187",
+  "id": "b4523bbf6fe5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -420,7 +420,7 @@
   "verifierNote": "Confirmed against motion text (Passed 3-2, approve part b): Rock the Park Harris Park exemption by-law directive. Not a tracked issue; correctly none regardless of the clause's own real decisiveness."
  },
  {
-  "id": "f22788c69cc6",
+  "id": "eaea2e9829b7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -432,7 +432,7 @@
   "verifierNote": "Confirmed against motion text (committee stage, Failed 1-4): implement-the-parking-pilot motion at CPSC, no 'Core Area'/downtown keyword present at this stage (that language was only added later at Council in the amended item 8.4.13 text). Correctly issue=none at this committee vote."
  },
  {
-  "id": "4f28e0ce5a4d",
+  "id": "61538ef08b23",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -446,7 +446,7 @@
   "verifierNote": "Confirmed against motion text (Passed 11-4): reconsideration motion citing 'Council Procedure by-law' verbatim \u2014 GLOBAL_EXCLUDE match. Correctly issue=none/procedural."
  },
  {
-  "id": "54bd15897075",
+  "id": "f95968b7214f",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -458,7 +458,7 @@
   "verifierNote": "Confirmed against motion text (Failed 7-8): directs a tax-transparency line item on property tax bills. 'Multi-Year Budget'/'property tax' keywords make issue=budget correct. Considered whether the generic approve/deny fallback should assign 'expansive' (approved the budget item), but this clause is a disclosure/transparency directive, not a levy-size or business-case decision \u2014 forcing a generic 'approved the budget item' label here risks misreading it as a spending position it isn't. Left null; the conservative call is the responsible one."
  },
  {
-  "id": "045bca718ebf",
+  "id": "1833bf752c26",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": null,
@@ -472,7 +472,7 @@
   "verifierNote": "Confirmed against motion text (Failed 2-13): genuinely mixed clause \u2014 approves London Cares funding (same $139,600 as base) while replacing the Safe Space London extension with a report-back-only ask on 602 Queens. Correctly left null; forcing either direction would misstate the substance."
  },
  {
-  "id": "45c5eb8c90a7",
+  "id": "328f077099b0",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -484,7 +484,7 @@
   "verifierNote": "Verbatim quote confirmed (Failed 4-11): explicit 'increase funding to $209,400'/'$193,500' language, extending both contracts further than the base motion. Unambiguously expansive on its face. No refutation."
  },
  {
-  "id": "6baeec3d4c4d",
+  "id": "57c26bc45f87",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -496,7 +496,7 @@
   "verifierNote": "Verbatim quote confirmed (Passed 14-1, approve part a only). This specific sub-vote's own text ('an extension...with London Cares...BE APPROVED, to continue temporary drop-in space and security services') has no literal encampments keyword by itself, but it is the single, unambiguous, single-topic item ('Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners') being voted on in isolated procedural pieces \u2014 unlike item 4.3's genuinely mixed-topic clauses, every clause here is the same one funding decision. issue=encampments and expansive polarity are accurate to the real substance. No refutation."
  },
  {
-  "id": "9810884a7f8a",
+  "id": "05fba17be97b",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -508,7 +508,7 @@
   "verifierNote": "Verbatim quote confirmed (Passed 14-1, approve part b only, Safe Space London). Same single-topic-item reasoning as 6baeec3d4c4d. No refutation."
  },
  {
-  "id": "99852bae0d8d",
+  "id": "0f5d526bd0b4",
   "issue": "housing",
   "axis": "density",
   "polarity": "restrictive",
@@ -520,7 +520,7 @@
   "verifierNote": "Verbatim quote confirmed (Passed 8-7). Text contains explicit 'BE REFUSED' (DENY_RE match). R1\u2192R8 Special Provision is also an upzoning request under London's Zoning By-law (higher density than R1); the denial flips this to a restrictive outcome, consistent with the 613 Superior R1\u2192R5 case. No refutation."
  },
  {
-  "id": "48160fc56db9",
+  "id": "b41a96d2fd0b",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -534,7 +534,7 @@
   "verifierNote": "Confirmed against motion text (Failed 3-12): pure referral ('BE REFERRED to the March 25th meeting...for further consideration'). Correctly null/referral, issue=budget via 'Multi-Year Budget'/'property tax' keywords."
  },
  {
-  "id": "273950e8b2c0",
+  "id": "ec2d48fa6d63",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -548,7 +548,7 @@
   "verifierNote": "Confirmed against motion text (Passed 9-6): referral of graphic-images report + directive for a draft by-law by Q2 2024. Not a tracked issue; correctly none."
  },
  {
-  "id": "638950cad187",
+  "id": "d571c71adfb7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -560,7 +560,7 @@
   "verifierNote": "Confirmed against motion text (Passed 14-1): two-month extension of a government-relations consulting contract. Not a tracked issue; correctly none."
  },
  {
-  "id": "771dced03d96",
+  "id": "b22e5aa8440a",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -572,7 +572,7 @@
   "verifierNote": "Verbatim quote confirmed (Passed 14-1, Council ratification of the London Cares extension). Same single-topic-item reasoning as 6baeec3d4c4d. No refutation."
  },
  {
-  "id": "0051377a8d37",
+  "id": "99871213993d",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",

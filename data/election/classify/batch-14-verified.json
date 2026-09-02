@@ -1,6 +1,6 @@
 [
  {
-  "id": "9dd3ed0445e0",
+  "id": "681604ce6d08",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -12,7 +12,7 @@
   "verifierNote": "Verified vs 2024-09-24 Council item 8.6.4: quote is verbatim from the operative rezoning clause (R1-5(3)->R6-5(_)), Passed 13-1 matches. Density-increase read (R1->R6) correct."
  },
  {
-  "id": "df3b5a1d423a",
+  "id": "1772ba6bb6a5",
   "issue": "housing",
   "axis": "use-permission",
   "polarity": "restrictive",
@@ -24,7 +24,7 @@
   "verifierNote": "Verified vs 2024-09-24 Council item 8.6.9, motion block 2 (Failed 6-8): quote verbatim; this is the amendment that would have narrowed stacked-townhouse permission to Central London only + required further consultation. Restrictive read correct."
  },
  {
-  "id": "856be743679b",
+  "id": "c568108c2fda",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -52,7 +52,7 @@
   "verifierNote": "Verified vs same item, block 5: 'That the motion, as amended, BE APPROVED' Passed 13-1 -- a bare wrapper vote with no colon-introduced clause (doesn't mechanically strip per WRAPPER_PREAMBLE_RE, but is substantively the final adoption vote on the whole Phase 2 package). Traced substance to block 0's original clause a)x) (stacked townhouses on all Neighbourhood Connectors), which survived because the narrowing amendment in block 2 (b616e778e552) FAILED 6-8. Quote is verbatim from block 0, not from this record's own bare motionText -- correct methodology given the wrapper, flagged consistently by the classifier."
  },
  {
-  "id": "6fb58b433de6",
+  "id": "48bab8d586e0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -66,7 +66,7 @@
   "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (1 to 13)', not passed. Verified vs 2024-09-17 SPPC item 2.2 block 1: 'That the motion related to the MAT BE REFERRED to the next meeting... to allow the accommodation industry to provide comment' -- Failed 1-13. Original whatAYeaDid said 'Referred... rather than deciding the increase' in passed-tense, which is doubly wrong: (1) the referral FAILED, and (2) the MAT increase WAS decided directly in a separate motion in the same item (block 0, 'BE DIRECTED to undertake the process to increase... from 4% to 5%', Passed 13-1) -- so 'rather than deciding the increase' misstates the actual outcome. Corrected whatAYeaDid to: 'Would have referred the proposed Municipal Accommodation Tax increase (4% to 5%) to the next SPPC meeting for accommodation-industry comment before proceeding; failed 1-13, so the increase proceeded on the original directed timeline via a separate, passing motion in the same item.' Issue stays none/axis null -- MAT is not a budget-keyword match (not tax levy/property tax) and this is a referral either way."
  },
  {
-  "id": "2801a5bb8f93",
+  "id": "88b6d8a4e3e5",
   "issue": "housing",
   "axis": "density",
   "polarity": "restrictive",
@@ -78,7 +78,7 @@
   "verifierNote": "Verified vs 2024-09-10 PEC item 3.4 block 0: quote verbatim (R9-7*H45 -> R9-7(_)*H30). H-suffix denotes a metre height cap in London's zoning by-law, so 45m->30m is a real height reduction. Passed 4-1 matches. Restrictive density read correct."
  },
  {
-  "id": "ef2c2268354d",
+  "id": "c915616e9c2a",
   "issue": "housing",
   "axis": "use-permission",
   "polarity": "expansive",
@@ -90,7 +90,7 @@
   "verifierNote": "Verified vs 2024-09-10 PEC item 3.6 block 3: 'G) amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along primary transit routes;' Failed 1-5. Quote verbatim, 'would have' framing correct for a failed motion."
  },
  {
-  "id": "f516a044ab47",
+  "id": "3f7fbb105c6e",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -102,7 +102,7 @@
   "verifierNote": "Verified vs 2024-09-10 PEC item 3.7 block 3 (Passed 5-1): motion to delete Emergency Care Establishment from TSA1/2/3/4/5/7 permitted-uses clauses. Correctly axis:null -- Emergency Care Establishment is a health-care use, not one of the dwelling-type nouns the use-permission axis covers (ADU/secondary suite/triplex/fourplex/multi-unit/townhouse/laneway house)."
  },
  {
-  "id": "e8408845b21e",
+  "id": "a19cd4554e1c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -143,7 +143,7 @@
   "verifierNote": "Verified vs same item, block 3 (Failed 2-4): 'BE DIRECTED to amend By-law No. L.-131-16... to include temporary alternative accommodation... modeled on the City of Hamilton By-law.' This IS a directive to amend the by-law substantively (not a mere report-back), but correctly axis:null since none of the three defined housing axes (density/use-permission/affordable-funding) cover tenant-relocation/rental-top-up regulation -- consistent with the classifier's own stated rule for this cluster."
  },
  {
-  "id": "6b9defad7fd1",
+  "id": "1109470cc9d1",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -155,7 +155,7 @@
   "verifierNote": "REFUTED: manifest result is 'Motion Failed (2 to 3)' for this ID (block 5, 'Motion to approve part e)... e) that NO ACTION BE TAKEN to amend By-law No. CP-19... to expand the program to licence all multi-unit residential dwellings up to and including four storeys'). Original whatAYeaDid said 'Approved not expanding...' in passed-tense -- but the 'no action' motion FAILED, meaning the committee did NOT approve inaction; a majority (3 of 5) voted against the no-action position. Corrected whatAYeaDid to: 'Would have approved taking no action on expanding the Residential Rental Unit Licensing By-law (CP-19) to multi-unit residential dwellings up to four storeys; failed 2-3, so no-action was rejected by the committee majority.' Axis stays null -- no licensing-expansion-scope axis is defined among the three housing axes."
  },
  {
-  "id": "5c04feb0794a",
+  "id": "f2f233a24d70",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -169,7 +169,7 @@
   "verifierNote": "Verified vs item 2.3 block 3 (Passed 4-1): 'a draft by-law BE PREPARED for a future meeting' -- pure report-back/preparatory step, no standard set. Correctly axis:null."
  },
  {
-  "id": "51cbca63a015",
+  "id": "c4927775b4f9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -183,7 +183,7 @@
   "verifierNote": "Verified vs item 2.4 block 2 (Passed 4-1): directs an additional hybrid community meeting near Victoria Park/Harris Park/Dundas Place re: Special Events Policy impact. Note this motion literally contains the downtown keyword 'Dundas Place', which issue-rules.ts's mechanical substring match would flag as issue:downtown -- but the clause is a pure meeting-scheduling directive with zero downtown-policy content (no axis exists for 'downtown' in direction-rules.ts regardless), so leaving it issue:none rather than force-fitting a keyword hit into a substantive position is the correct call, not a miss."
  },
  {
-  "id": "8142533138e8",
+  "id": "61610dc31109",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -197,7 +197,7 @@
   "verifierNote": "Verified vs 2024-08-27 Council item 6.1 block 0 (Passed 14-1): convenes Council as Expropriations Act Approving Authority. Purely procedural/jurisdictional; correctly none."
  },
  {
-  "id": "79340d8e98d5",
+  "id": "bfc13402a9cb",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -211,7 +211,7 @@
   "verifierNote": "Verified vs item 6.1 block 1 (Passed 13-2): approves expropriation, with stated reasons citing the project's design being 'in accordance with the Municipal Class EA Study recommendations... approved by Municipal Council' (i.e. the transportation merits were decided via the 2019 EA, not here). Statutory land-taking mechanism, correctly none/procedural -- also no literal 'transit' keyword hit in the text (only 'transportation demands', which doesn't match the word-boundary 'transit' keyword), so this is consistent with issue-rules.ts mechanically too."
  },
  {
-  "id": "4c2d4cf58da5",
+  "id": "2a74abfd080a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -253,7 +253,7 @@
   "verifierNote": "Verified vs item 6.3 block 1 (Passed 13-2): approves the expropriation, reasons again cite the prior-approved EA design. Correctly none/procedural."
  },
  {
-  "id": "7759798388fb",
+  "id": "2d6386c6430b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -267,7 +267,7 @@
   "verifierNote": "Verified vs item 6.4 block 0 (Passed 13-2): introduces the expropriating by-law for Wellington Gateway. Correctly none/procedural."
  },
  {
-  "id": "272a376d7260",
+  "id": "5efa4deecd81",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -281,7 +281,7 @@
   "verifierNote": "Verified vs 2024-08-27 Council item 8.1.11. Quote is verbatim from block 1 ('That the motion BE AMENDED to read as follows...', Passed 15-0), which adds a Holding (h-) prefix to the R9 special-provision zone; block 3 ('That item 11, clause 3.9, as amended, BE APPROVED.', Passed 14-1) is the wrapper ratification vote this ID maps to by result string. Since no competing restrictive amendment applied here, tracing the substance to the amended clause is correct and the quote matches it exactly."
  },
  {
-  "id": "f6d843df3f0c",
+  "id": "76ce43b94bb6",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -293,7 +293,7 @@
   "verifierNote": "Verified vs item 8.1.4 block 0 (Passed 14-1): quote verbatim (R1-9 -> R5-5(_)). Density-increase read correct."
  },
  {
-  "id": "3ef06014fccf",
+  "id": "6799d519a202",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -307,7 +307,7 @@
   "verifierNote": "Verified vs item 8.1.5 block 1 (Passed 8-7): 'BE REFERRED to Civic Administration to work with the applicant to develop a plan for a reduction in expansion to facilitate an adequate tree replacement plan.' Paraphrase accurate; pure referral, correctly axis:null."
  },
  {
-  "id": "359c0bbe6975",
+  "id": "f24b17247f48",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -319,7 +319,7 @@
   "verifierNote": "Verified vs item 8.2.4 block 0 (Passed 13-2): quote verbatim. Restrictive levy-size read (a $1M/yr tax-levy reduction) correct."
  },
  {
-  "id": "8b96be3d2891",
+  "id": "9398a8afb06f",
   "issue": "bikes",
   "axis": null,
   "polarity": null,
@@ -333,7 +333,7 @@
   "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (5 to 10)' (2024-08-27 Council item 8.4.9 block 0), not passed -- the companion committee-stage record (208e65b18189, same text, DID pass 5-1 at Civic Works Committee on 2024-08-13, and that one's passed-tense wording is correct). This Council-level record reused the identical passed-tense wording in error. Corrected whatAYeaDid to: 'Would have directed Civic Administration to flag a Hamilton Road Streetscape update... failed 5-10 at Council (a companion motion with identical text passed 5-1 at the earlier Civic Works Committee stage, 208e65b18189).' Axis stays null (informational/could-include language either way)."
  },
  {
-  "id": "ef99730d9b9a",
+  "id": "203b5c70dfb4",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -347,7 +347,7 @@
   "verifierNote": "Verified vs item 8.5.3 block 2 (Passed 9-6): procedural ruling sustained under s.10.5 of Council Procedure By-law. Correctly none/procedural."
  },
  {
-  "id": "3008ff6fbaad",
+  "id": "2c6659008840",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -361,7 +361,7 @@
   "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (5 to 10)' (item 8.5.3 block 3: 'BE REFERRED back to the Strategic Priorities and Policy Committee to explore options that serve other school routes.'). Original whatAYeaDid used passed-tense 'Referred...'. Corrected to: 'Would have referred the Secondary School Student Transit Pass Pilot Program back to the Strategic Priorities and Policy Committee to explore options serving other school routes; failed 5-10.' Axis stays null (referral)."
  },
  {
-  "id": "5091a40dd839",
+  "id": "a6101bbf6ee3",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -373,7 +373,7 @@
   "verifierNote": "Verified vs 2024-08-15 SPPC item 2.2 block 2 (Passed 9-3): deferral of the pilot start date + MOU directive. Correctly axis:null (deferral), tense correct since it passed."
  },
  {
-  "id": "77c33b832ef4",
+  "id": "6a1ae3494a0e",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -385,7 +385,7 @@
   "verifierNote": "Verified vs 2024-08-13 PEC item 3.9 block 0 (Passed 3-2): quote verbatim (LI/RSC -> R9-3(_) + OS5). Density-increase read correct."
  },
  {
-  "id": "208e65b18189",
+  "id": "7c10d991ee4e",
   "issue": "bikes",
   "axis": null,
   "polarity": null,
@@ -399,7 +399,7 @@
   "verifierNote": "Verified vs 2024-08-13 Civic Works Committee item 4.2 (Passed 5-1): identical text to 07f051a70bf5 but this record's passed-tense wording is correct since this committee-stage vote actually passed. Correctly axis:null (could-include, future-budget-cycle language)."
  },
  {
-  "id": "679858f9db53",
+  "id": "22ccb3ca5af2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -413,7 +413,7 @@
   "verifierNote": "Verified vs 2024-08-12 CPSC item 2.1 block 3 (Passed 4-1): approves 'clauses 1.1, 3.1, 4.1, 5.1, 5.4 and 5.5' of a prior committee report (confirmed via block 0's full text). Correctly none/procedural."
  },
  {
-  "id": "aa8bc314975b",
+  "id": "970a2aefebdf",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -427,7 +427,7 @@
   "verifierNote": "Verified vs 2024-07-23 Council item 8.1.4 block 1 (Passed 10-5): quote verbatim (Council Members' Expense Policy, $15,000->$13,500). Distinct from the 'Remuneration of Elected Officials' clause c) elsewhere in the same report -- this is about councillors' individual expense allowance, not compensation/remuneration. Not a literal 'council remuneration' phrase match, but the classifier's compensation-adjacent, self-governance reasoning for excluding it from all 8 tracked public-policy issues is defensible; not an unambiguous miss."
  },
  {
-  "id": "9ec6e89dab12",
+  "id": "e858749f1a8a",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -441,7 +441,7 @@
   "verifierNote": "Verified vs item 8.1.6 block 0 (Passed 10-5): an omnibus motion bundling the $250k grants cap with several unrelated report-back directives. Correctly axis:null -- the $250k cap 'while the program is undergoing further review' is genuinely ambiguous as expansive/restrictive without a known prior baseline, and the motion is compound rather than a single clean decision."
  },
  {
-  "id": "3085d20bd8d0",
+  "id": "d9a86996e7df",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -455,7 +455,7 @@
   "verifierNote": "Verified vs item 8.1.6 block 1 (Failed 7-8): report-back request on eliminating municipal sidewalk snow plowing. Not a match for any of the 8 tracked issues (not transit -- no transit/road-service keyword). Correctly none, 'would have' tense correct."
  },
  {
-  "id": "91d6ea081b23",
+  "id": "8523e07f1846",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -469,7 +469,7 @@
   "verifierNote": "Verified vs item 8.1.6 block 2 (Failed 3-12): 'in lieu of the current NDM Program... explore options to fund parks improvements through... Get Involved... $125,000... for 2025-2027.' Correctly axis:null -- ambiguous whether replacing NDM with a smaller Get Involved stream is expansive or restrictive without a clear NDM baseline comparison; 'would have' tense correct for a failed motion."
  },
  {
-  "id": "984fb0a5a45f",
+  "id": "6e4fcc2b7f1d",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -481,7 +481,7 @@
   "verifierNote": "Verified vs item 8.1.6 block 3 (Passed 9-6): quote verbatim. Directing a Business Case 'to pause funding for the Neighbourhood Decision Making program' is an unambiguous restrictive position (cutting an existing program's funding to zero) unlike the ambiguous $250k-cap case above; correctly restrictive levy-size."
  },
  {
-  "id": "1c3f10a6a436",
+  "id": "7e375de5e9ba",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -493,7 +493,7 @@
   "verifierNote": "Verified vs item 8.1.8 block 0 (Passed 12-3): quote verbatim. No 'relocat' language present in this motion (only 'reallocate', which does not match the \\brelocat\\w*\\b pattern), so this is not the relocation-axis trap the direction-rules.ts comments warn about for Ark Aid elsewhere in the corpus. Correctly expansive response-scale."
  },
  {
-  "id": "7f5068930d35",
+  "id": "2158ac4bd275",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -507,7 +507,7 @@
   "verifierNote": "Verified vs item 8.4.13 block 2 (Failed 5-10): report-back request re: N13-notice protection extension. Correctly informational-ask/axis:null, 'would have' tense correct."
  },
  {
-  "id": "ad339c9b06e8",
+  "id": "56386050f981",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -521,7 +521,7 @@
   "verifierNote": "Verified vs item 8.4.13 block 3 (Passed 8-7): report-back request re: temp accommodation/rental top-up. Correctly informational-ask/axis:null."
  },
  {
-  "id": "ba010161117b",
+  "id": "47df86124f9c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -535,7 +535,7 @@
   "verifierNote": "Verified vs item 8.4.14 block 0 (Failed 4-11): report-back request re: Dearness Home LTC capacity. Not a match for any of the 8 tracked issues. Correctly none, 'would have' tense correct."
  },
  {
-  "id": "31bd58f28e78",
+  "id": "7f926f81741a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -549,7 +549,7 @@
   "verifierNote": "Verified vs item 8.5.11 block 0 (Failed 0-14): report-back request re: a Service London Portal request button for property-standards violations. (A different, passing motion in the same item creates an unrelated Yard and Lot Maintenance By-law request button -- not this record.) Correctly none/informational-ask, 'would have' tense correct."
  },
  {
-  "id": "1ee68642ba23",
+  "id": "5fbe2ca656ee",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -561,7 +561,7 @@
   "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (5 to 9)' (item 8.5.8 block 0: introducing the school-zone speed-limit by-law). Original whatAYeaDid used passed-tense 'Introduced a by-law...'. Corrected to: 'Would have introduced a by-law amending the Traffic and Parking By-law to lower speed limits in school zones on major streets; failed 5-9.' Axis stays null."
  },
  {
-  "id": "eefed782c8cb",
+  "id": "10a0e09db07f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -587,7 +587,7 @@
   "verifierNote": "Verified vs item 4.2 block 2 (Passed 9-5): 'part a) i) A) be approved and reads as follows: ... to be funded to a maximum of $250,000/year... while the program is undergoing further review.' This is the SPPC committee-stage precursor to the same clause later in b682ed96bec6's Council-level omnibus motion. Correctly axis:null -- same ambiguity as b682ed96bec6 (no clear prior-funding baseline to judge the $250k cap against); leaving unclear is the safer call than guessing a direction."
  },
  {
-  "id": "3941f549d72a",
+  "id": "975066679d94",
   "issue": "budget",
   "axis": null,
   "polarity": null,

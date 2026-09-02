@@ -1,0 +1,100 @@
+[
+ {
+  "id": "dfe87ddfc742",
+  "removed_from": "batch-10-verified.json",
+  "kept_in": "batch-10-verified.json",
+  "moot_corrections_dropped": [
+   {
+    "id": "478dc258ce7d",
+    "field": "axis",
+    "was": "service-expansion",
+    "now": "road-capacity",
+    "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Final committee approval of part a), the Roads Projects maps as amended (including the Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0, old axis service-expansion was wrong.",
+    "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+   },
+   {
+    "id": "478dc258ce7d",
+    "field": "decisionKey",
+    "was": null,
+    "now": "road-capacity-bradley-roads-map-2025",
+    "reason": "Transit-split gate item 1: committee's final approval of part a), the Roads Projects maps as amended (incl. the Bradley Ave inclusion just voted in as 28ab00fbc3c0) -- same underlying decision, same decisionKey, so it groups with 28ab00fbc3c0 and the later council ratification (09385ddc0d7d) rather than with the unrelated Wonderland Road six-laning decision under the same agenda item.",
+    "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+   },
+   {
+    "id": "478dc258ce7d",
+    "field": "whatAYeaDid",
+    "was": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+    "now": "Recommended approving, as amended, the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+    "reason": "Transit-split gate item 4: this is the 2025-03-25 Strategic Priorities and Policy COMMITTEE vote, not Council -- final approval of the Roads Projects maps (as amended to include Bradley Ave) came at Council on 2025-04-01 (09385ddc0d7d). \"Gave final approval\" overstated this motion's own effect; reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus.",
+    "quote": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle."
+   }
+  ],
+  "note": "multiple pre-rekey classify entries converged on current motion dfe87ddfc742 (a genuine motion merge upstream, or two roll calls that now regenerate as one); kept the entry in batch-10-verified.json (referenced by corrections.json), dropped the duplicate from batch-10-verified.json, and its 3 now-moot corrections.json row(s)."
+ },
+ {
+  "id": "82934bf94ea3",
+  "removed_from": "batch-16-verified.json",
+  "kept_in": "batch-16-verified.json",
+  "moot_corrections_dropped": [],
+  "note": "multiple pre-rekey classify entries converged on current motion 82934bf94ea3 (a genuine motion merge upstream, or two roll calls that now regenerate as one); kept the entry in batch-16-verified.json (first encountered), dropped the duplicate from batch-16-verified.json."
+ },
+ {
+  "id": "c0a130b2b91f",
+  "removed_from": "batch-18-verified.json",
+  "kept_in": "batch-18-verified.json",
+  "moot_corrections_dropped": [],
+  "note": "multiple pre-rekey classify entries converged on current motion c0a130b2b91f (a genuine motion merge upstream, or two roll calls that now regenerate as one); kept the entry in batch-18-verified.json (first encountered), dropped the duplicate from batch-18-verified.json."
+ },
+ {
+  "id": "289eb85336e7",
+  "removed_from": "batch-19-verified.json",
+  "kept_in": "batch-19-verified.json",
+  "moot_corrections_dropped": [],
+  "note": "multiple pre-rekey classify entries converged on current motion 289eb85336e7 (a genuine motion merge upstream, or two roll calls that now regenerate as one); kept the entry in batch-19-verified.json (first encountered), dropped the duplicate from batch-19-verified.json."
+ },
+ {
+  "id": "29b9452b13f7",
+  "removed_from": "batch-19-verified.json",
+  "kept_in": "batch-19-verified.json",
+  "moot_corrections_dropped": [],
+  "note": "multiple pre-rekey classify entries converged on current motion 29b9452b13f7 (a genuine motion merge upstream, or two roll calls that now regenerate as one); kept the entry in batch-19-verified.json (first encountered), dropped the duplicate from batch-19-verified.json."
+ },
+ {
+  "id": "82920ae88a00",
+  "removed_from": "batch-21-verified.json",
+  "kept_in": "batch-21-verified.json",
+  "moot_corrections_dropped": [
+   {
+    "id": "afa632a6cb38",
+    "field": "axis",
+    "was": "affordable-funding",
+    "now": null,
+    "reason": "Round-4 gate item 2 sweep hit (2023-10-10 Strategic Priorities and Policy Committee, 'Establishing Homes Ontario'): 'the Government of Ontario BE ADVISED that ... Council supports the house debate of the following motion' asking Ontario to establish and fund Homes Ontario -- the standalone Part b) vote of the same underlying advocacy resolution already downgraded at its Council stage as c0e0eab57589 (same class, same motion text, different procedural wrapper). Downgraded to unclear for the same reason.",
+    "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: ... to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers"
+   },
+   {
+    "id": "afa632a6cb38",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: a resolution advising the Province of Council's support for a provincial motion is not a City funding/land decision.",
+    "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion"
+   }
+  ],
+  "note": "multiple pre-rekey classify entries converged on current motion 82920ae88a00 (a genuine motion merge upstream, or two roll calls that now regenerate as one); kept the entry in batch-21-verified.json (referenced by corrections.json), dropped the duplicate from batch-21-verified.json, and its 2 now-moot corrections.json row(s)."
+ },
+ {
+  "id": "bf7543d954d6",
+  "removed_from": "batch-6-verified.json",
+  "kept_in": "batch-6-verified.json",
+  "moot_corrections_dropped": [],
+  "note": "multiple pre-rekey classify entries converged on current motion bf7543d954d6 (a genuine motion merge upstream, or two roll calls that now regenerate as one); kept the entry in batch-6-verified.json (first encountered), dropped the duplicate from batch-6-verified.json."
+ },
+ {
+  "id": "732b40d37d8b",
+  "removed_from": "batch-returning-verified.json",
+  "kept_in": "batch-returning-verified.json",
+  "moot_corrections_dropped": [],
+  "note": "multiple pre-rekey classify entries converged on current motion 732b40d37d8b (a genuine motion merge upstream, or two roll calls that now regenerate as one); kept the entry in batch-returning-verified.json (from the returning batch), dropped the duplicate from batch-returning-verified.json."
+ }
+]

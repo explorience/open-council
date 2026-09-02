@@ -1,6 +1,6 @@
 [
  {
-  "id": "a5ad4d139512",
+  "id": "be567469932d",
   "field": "axis",
   "was": "target-strength",
   "now": null,
@@ -8,7 +8,7 @@
   "quote": "the Mayor of the City of London, Councillor C. Rahman and Councillor A. Hopkins BE DIRECTED to submit a letter to AMO to develop a position and advocate on behalf of Ontario municipalities to request the Government of Ontario to develop and implement a plan to move Ontario to a net zero-carbon electricity grid by 2035, consistent with the 2035 date of the proposed Federal Government Clean Electricity Regulations (CER), to help Ontario and London meet our climate targets"
  },
  {
-  "id": "a5ad4d139512",
+  "id": "be567469932d",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -16,7 +16,7 @@
   "quote": "the Mayor of the City of London, Councillor C. Rahman and Councillor A. Hopkins BE DIRECTED to submit a letter to AMO to develop a position and advocate on behalf of Ontario municipalities to request the Government of Ontario to develop and implement a plan to move Ontario to a net zero-carbon electricity grid by 2035"
  },
  {
-  "id": "df06b640777c",
+  "id": "77981d9da593",
   "field": "axis",
   "was": "response-scale",
   "now": null,
@@ -24,7 +24,7 @@
   "quote": "Therefore it be resolved that Ontario\u2019s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency to address homelessness caused by addictions and mental health that has created a community safety and humanitarian crisis across the province."
  },
  {
-  "id": "df06b640777c",
+  "id": "77981d9da593",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -48,7 +48,7 @@
   "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations"
  },
  {
-  "id": "6bc2898cdbff",
+  "id": "685e58c0f277",
   "field": "axis",
   "was": "response-scale",
   "now": null,
@@ -56,7 +56,7 @@
   "quote": "b) the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces (that are not located on the main street of any BIA), rent supplements and transactional encampment services as outlined in the report dated October 29, 2024, for a two-year period"
  },
  {
-  "id": "6bc2898cdbff",
+  "id": "685e58c0f277",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -64,7 +64,7 @@
   "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces (that are not located on the main street of any BIA)"
  },
  {
-  "id": "8ab96e158b0c",
+  "id": "82920ae88a00",
   "field": "axis",
   "was": "affordable-funding",
   "now": null,
@@ -72,7 +72,7 @@
   "quote": "the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: \"That, in the opinion of this House, the Government of Ontario should establish and fund a new public agency called Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers\""
  },
  {
-  "id": "8ab96e158b0c",
+  "id": "82920ae88a00",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -80,7 +80,7 @@
   "quote": "the Municipal Council of The Corporation of the City of London supports the house debate of the following motion"
  },
  {
-  "id": "a41ad53fb87f",
+  "id": "0988fef4c4ea",
   "field": "axis",
   "was": "density",
   "now": null,
@@ -88,7 +88,7 @@
   "quote": "the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-density housing, encouraging modular construction techniques, and public parking"
  },
  {
-  "id": "a41ad53fb87f",
+  "id": "0988fef4c4ea",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -96,7 +96,7 @@
   "quote": "the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals ... for high-density housing"
  },
  {
-  "id": "24d580d71e55",
+  "id": "3e039a97a7b1",
   "field": "axis",
   "was": "response-scale",
   "now": null,
@@ -104,7 +104,7 @@
   "quote": "the proposed system transformation approach and multi-year Housing Stability Services procurement framework as outlined in the December 1, 2025 staff report, BE ENDORSED"
  },
  {
-  "id": "24d580d71e55",
+  "id": "3e039a97a7b1",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -112,7 +112,7 @@
   "quote": "the proposed system transformation approach and multi-year Housing Stability Services procurement framework ... BE ENDORSED"
  },
  {
-  "id": "0f359afc4f62",
+  "id": "cfbddceb0790",
   "field": "axis",
   "was": "density",
   "now": null,
@@ -120,7 +120,7 @@
   "quote": "iii. Building Height (maximum): 24.5 metres;"
  },
  {
-  "id": "0f359afc4f62",
+  "id": "cfbddceb0790",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -128,7 +128,7 @@
   "quote": "BE AMENDED to reduce the building height maximum to 24.5 meters"
  },
  {
-  "id": "18633398dd86",
+  "id": "22951914b4b2",
   "field": "axis",
   "was": "business-case",
   "now": "levy-size",
@@ -136,7 +136,7 @@
   "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
  },
  {
-  "id": "18633398dd86",
+  "id": "22951914b4b2",
   "field": "polarity",
   "was": "restrictive",
   "now": "expansive",
@@ -144,7 +144,7 @@
   "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
  },
  {
-  "id": "ea03954e4926",
+  "id": "021ec895b691",
   "field": "axis",
   "was": "business-case",
   "now": "levy-size",
@@ -152,7 +152,7 @@
   "quote": "That Business Case #P-24 \u2013 Eliminate Climate Change Reserve Fund Contribution \u2013 BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
  },
  {
-  "id": "ea03954e4926",
+  "id": "021ec895b691",
   "field": "polarity",
   "was": "expansive",
   "now": "restrictive",
@@ -160,7 +160,7 @@
   "quote": "That Business Case #P-24 \u2013 Eliminate Climate Change Reserve Fund Contribution \u2013 BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
  },
  {
-  "id": "4df11e775c7f",
+  "id": "f74ed511bc6d",
   "field": "axis",
   "was": "affordable-funding",
   "now": null,
@@ -168,7 +168,7 @@
   "quote": "the Civic Administration BE DIRECTED to submit an application to Build Canada Homes to secure capital funds to support the development of new affordable housing in the city of London and Middlesex-County."
  },
  {
-  "id": "4df11e775c7f",
+  "id": "f74ed511bc6d",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -176,7 +176,7 @@
   "quote": "the Civic Administration BE DIRECTED to submit an application to Build Canada Homes to secure capital funds to support the development of new affordable housing in the city of London and Middlesex-County."
  },
  {
-  "id": "f256055d95cb",
+  "id": "3813f33f3f54",
   "field": "axis",
   "was": "application-approval",
   "now": null,
@@ -184,7 +184,7 @@
   "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London's new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
  },
  {
-  "id": "f256055d95cb",
+  "id": "3813f33f3f54",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -192,7 +192,7 @@
   "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London's new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
  },
  {
-  "id": "21e06031ea95",
+  "id": "99f660dff7c0",
   "field": "axis",
   "was": "application-approval",
   "now": null,
@@ -200,7 +200,7 @@
   "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London\u2019s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
  },
  {
-  "id": "21e06031ea95",
+  "id": "99f660dff7c0",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -208,23 +208,7 @@
   "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London\u2019s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
  },
  {
-  "id": "afa632a6cb38",
-  "field": "axis",
-  "was": "affordable-funding",
-  "now": null,
-  "reason": "Round-4 gate item 2 sweep hit (2023-10-10 Strategic Priorities and Policy Committee, 'Establishing Homes Ontario'): 'the Government of Ontario BE ADVISED that ... Council supports the house debate of the following motion' asking Ontario to establish and fund Homes Ontario -- the standalone Part b) vote of the same underlying advocacy resolution already downgraded at its Council stage as c0e0eab57589 (same class, same motion text, different procedural wrapper). Downgraded to unclear for the same reason.",
-  "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: ... to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers"
- },
- {
-  "id": "afa632a6cb38",
-  "field": "polarity",
-  "was": "expansive",
-  "now": null,
-  "reason": "Same defect as the axis correction on this id: a resolution advising the Province of Council's support for a provincial motion is not a City funding/land decision.",
-  "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion"
- },
- {
-  "id": "987a0e7529b2",
+  "id": "81604ebe0e88",
   "field": "axis",
   "was": "business-case",
   "now": "levy-size",
@@ -232,7 +216,7 @@
   "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Update Budget"
  },
  {
-  "id": "987a0e7529b2",
+  "id": "81604ebe0e88",
   "field": "polarity",
   "was": "expansive",
   "now": "restrictive",
@@ -240,7 +224,7 @@
   "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Update Budget"
  },
  {
-  "id": "f7c197957c99",
+  "id": "0666282b30d3",
   "field": "axis",
   "was": "business-case",
   "now": "levy-size",
@@ -248,7 +232,7 @@
   "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget"
  },
  {
-  "id": "f7c197957c99",
+  "id": "0666282b30d3",
   "field": "polarity",
   "was": "restrictive",
   "now": "restrictive",
@@ -256,7 +240,7 @@
   "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget"
  },
  {
-  "id": "be1f4927f690",
+  "id": "050a9f0f9146",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -264,7 +248,7 @@
   "quote": "the Civic Administration BE DIRECTED to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and find an appropriate source of funding"
  },
  {
-  "id": "be1f4927f690",
+  "id": "050a9f0f9146",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -272,7 +256,7 @@
   "quote": "the Civic Administration BE DIRECTED to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and find an appropriate source of funding"
  },
  {
-  "id": "69288d65e04c",
+  "id": "fdbfa59e401a",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -280,7 +264,7 @@
   "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
  },
  {
-  "id": "69288d65e04c",
+  "id": "fdbfa59e401a",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -288,7 +272,7 @@
   "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
  },
  {
-  "id": "5581ea6993ac",
+  "id": "90cb7d09948d",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -296,7 +280,7 @@
   "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
  },
  {
-  "id": "5581ea6993ac",
+  "id": "90cb7d09948d",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -304,7 +288,7 @@
   "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
  },
  {
-  "id": "a4eb827c855c",
+  "id": "a41ecd8d8212",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -312,7 +296,7 @@
   "quote": "the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix \"A\"... and to bring forward the corresponding business case for inclusion in the Mayor's proposed 2026 Budget Update"
  },
  {
-  "id": "a4eb827c855c",
+  "id": "a41ecd8d8212",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -384,7 +368,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry \u2013 Tree Planting Grants & Non-replacement Tree Planting"
  },
  {
-  "id": "ba9608551c5e",
+  "id": "c08daf018133",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -392,7 +376,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics \u2013 Closure of 5 Wading Pools"
  },
  {
-  "id": "ba9608551c5e",
+  "id": "c08daf018133",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -400,7 +384,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics \u2013 Closure of 5 Wading Pools"
  },
  {
-  "id": "294f2da7a27e",
+  "id": "2307b1d59a7d",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -408,7 +392,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management \u2013 Resident Satisfaction Survey"
  },
  {
-  "id": "294f2da7a27e",
+  "id": "2307b1d59a7d",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -528,7 +512,7 @@
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing \u2013 Climate Change Reserve Fund Contribution"
  },
  {
-  "id": "c975eb034a57",
+  "id": "7f9cba8155ba",
   "field": "axis",
   "was": "target-strength",
   "now": null,
@@ -536,7 +520,7 @@
   "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b \u2013 Climate Change Invest (CCI) Fund of Business Case # P-56 \u2013 Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
  },
  {
-  "id": "c975eb034a57",
+  "id": "7f9cba8155ba",
   "field": "polarity",
   "was": "restrictive",
   "now": null,
@@ -560,7 +544,7 @@
   "quote": "Motion to approve a) ii)\nii)  Invasive Species Management Plan;"
  },
  {
-  "id": "9547b52b37af",
+  "id": "2a15750df5a4",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -568,7 +552,7 @@
   "quote": "Motion to approve part c) ii)\nc) Reduction Cases:\nii)  Reduction in frequency of grass cutting on city property;"
  },
  {
-  "id": "9547b52b37af",
+  "id": "2a15750df5a4",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -592,7 +576,7 @@
   "quote": "Motion to approve a) iii)\niii) Climate Emergency Action Plan;"
  },
  {
-  "id": "a3765ca3c05a",
+  "id": "6af5a30fb1d7",
   "field": "axis",
   "was": "business-case",
   "now": null,
@@ -600,7 +584,7 @@
   "quote": "the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;"
  },
  {
-  "id": "a3765ca3c05a",
+  "id": "6af5a30fb1d7",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -608,7 +592,7 @@
   "quote": "the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;"
  },
  {
-  "id": "ccd852275515",
+  "id": "efbf1c660c72",
   "field": "whatAYeaDid",
   "was": "Declined to include costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on.",
   "now": "Would have included costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on.",
@@ -616,7 +600,7 @@
   "quote": "Declined to include costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on."
  },
  {
-  "id": "1a8f5640663c",
+  "id": "f7b19167db4a",
   "field": "whatAYeaDid",
   "was": "Rejected approving the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations.",
   "now": "Would have approved the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations.",
@@ -624,7 +608,7 @@
   "quote": "Rejected approving the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations."
  },
  {
-  "id": "20f037c8728d",
+  "id": "2f6c42df0f83",
   "field": "whatAYeaDid",
   "was": "Rejected amending the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council.",
   "now": "Would have amended the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council.",
@@ -656,7 +640,7 @@
   "quote": "Rejected directing Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site."
  },
  {
-  "id": "f365e5d918b3",
+  "id": "7a1bf40af82b",
   "field": "whatAYeaDid",
   "was": "Declined to accept the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project.",
   "now": "Would have accepted the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project, on the Tribunal's finding that the charges were correctly determined.",
@@ -664,7 +648,7 @@
   "quote": "Declined to accept the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project."
  },
  {
-  "id": "90431365e935",
+  "id": "c673d4492c44",
   "field": "whatAYeaDid",
   "was": "Rejected reverting the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years, leaving the ten-year term in place.",
   "now": "Would have reverted the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years.",
@@ -672,7 +656,7 @@
   "quote": "Rejected reverting the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years, leaving the ten-year term in place."
  },
  {
-  "id": "9cee8c55cfde",
+  "id": "d385bdf2c1a0",
   "field": "whatAYeaDid",
   "was": "Declined to refer the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions), leaving the original by-law on the table instead.",
   "now": "Would have referred the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions).",
@@ -680,7 +664,7 @@
   "quote": "Declined to refer the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions), leaving the original by-law on the table instead."
  },
  {
-  "id": "37014e8b1754",
+  "id": "5dac12a39641",
   "field": "whatAYeaDid",
   "was": "Rejected directing Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises.",
   "now": "Would have directed Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises.",
@@ -688,7 +672,7 @@
   "quote": "Rejected directing Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises."
  },
  {
-  "id": "b076ce02bb71",
+  "id": "e95523e53e00",
   "field": "whatAYeaDid",
   "was": "Moved to direct Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program; this motion failed.",
   "now": "Would have directed Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program.",
@@ -696,7 +680,7 @@
   "quote": "Moved to direct Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program; this motion failed."
  },
  {
-  "id": "d0b0c8c79902",
+  "id": "5b74052cf448",
   "field": "whatAYeaDid",
   "was": "Moved to amend the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection; this amendment failed.",
   "now": "Would have amended the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection.",
@@ -704,7 +688,7 @@
   "quote": "Moved to amend the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection; this amendment failed."
  },
  {
-  "id": "0ac4031b0f90",
+  "id": "5028230cdbbb",
   "field": "whatAYeaDid",
   "was": "Voted to refer the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting.",
   "now": "Would have referred the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting.",
@@ -712,7 +696,7 @@
   "quote": "Voted to refer the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting."
  },
  {
-  "id": "bcf2885344bc",
+  "id": "4714e20ea929",
   "field": "whatAYeaDid",
   "was": "A yea referred part c) -- a directed staff review of the five-bedroom limit on additional residential units -- to a future Planning and Environment Committee meeting rather than deciding it that day.",
   "now": "A yea would have referred part c) -- a directed staff review of the five-bedroom limit on additional residential units -- to a future Planning and Environment Committee meeting rather than deciding it that day.",
@@ -728,7 +712,7 @@
   "quote": "Shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year."
  },
  {
-  "id": "2d077b0b72af",
+  "id": "ef2e3e7e484c",
   "field": "whatAYeaDid",
   "was": "Made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions.",
   "now": "Would have made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions.",
@@ -736,7 +720,7 @@
   "quote": "Made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions."
  },
  {
-  "id": "e070b52f1e95",
+  "id": "7de65084166d",
   "field": "whatAYeaDid",
   "was": "Directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting.",
   "now": "Would have directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting.",
@@ -744,7 +728,7 @@
   "quote": "Directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting."
  },
  {
-  "id": "7673f3eaf052",
+  "id": "0c4349655744",
   "field": "whatAYeaDid",
   "was": "Directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language.",
   "now": "Would have directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language.",
@@ -752,7 +736,7 @@
   "quote": "Directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language."
  },
  {
-  "id": "4d07f4f1ca77",
+  "id": "8be756f3d937",
   "field": "whatAYeaDid",
   "was": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text.",
   "now": "Would have proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text.",
@@ -760,7 +744,7 @@
   "quote": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text."
  },
  {
-  "id": "88ae9c2045ab",
+  "id": "5eb83919fec3",
   "field": "whatAYeaDid",
   "was": "Referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting.",
   "now": "Would have referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting.",
@@ -768,7 +752,7 @@
   "quote": "Referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting."
  },
  {
-  "id": "f42a5b460702",
+  "id": "30cf45eb7320",
   "field": "whatAYeaDid",
   "was": "Referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA.",
   "now": "Would have referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA.",
@@ -776,7 +760,7 @@
   "quote": "Referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA."
  },
  {
-  "id": "9d2d16516460",
+  "id": "1d4dcf1c6588",
   "field": "whatAYeaDid",
   "was": "Directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble.",
   "now": "Would have directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble.",
@@ -784,7 +768,7 @@
   "quote": "Directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble."
  },
  {
-  "id": "0fd0f9c17a4c",
+  "id": "e7e111c30074",
   "field": "whatAYeaDid",
   "was": "Referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting.",
   "now": "Would have referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting.",
@@ -792,7 +776,7 @@
   "quote": "Referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting."
  },
  {
-  "id": "be1f4927f690",
+  "id": "050a9f0f9146",
   "field": "whatAYeaDid",
   "was": "Directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source.",
   "now": "Would have directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source.",
@@ -800,7 +784,7 @@
   "quote": "Directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source."
  },
  {
-  "id": "43c61ca512b8",
+  "id": "231c746f0d42",
   "field": "whatAYeaDid",
   "was": "Requested the London & Middlesex Housing Corporation to prepare a business case on pros, cons, costs and funding sources for additional investment in its properties.",
   "now": "Would have requested the London & Middlesex Housing Corporation to prepare a business case on pros, cons, costs and funding sources for additional investment in its properties.",
@@ -808,7 +792,7 @@
   "quote": "Requested the London & Middlesex Housing Corporation to prepare a business case on pros, cons, costs and funding sources for additional investment in its properties."
  },
  {
-  "id": "1904983f1fcc",
+  "id": "506ee5bad4e4",
   "field": "whatAYeaDid",
   "was": "Directed staff to prepare a business case setting out options for reducing the Advisory Committee budget, for Council's future consideration.",
   "now": "Would have directed staff to prepare a business case setting out options for reducing the Advisory Committee budget, for Council's future consideration.",
@@ -816,7 +800,7 @@
   "quote": "Directed staff to prepare a business case setting out options for reducing the Advisory Committee budget, for Council's future consideration."
  },
  {
-  "id": "0b88e8088ec8",
+  "id": "c93f0f0a55f2",
   "field": "whatAYeaDid",
   "was": "Directed staff to prepare a business case setting out options, cost savings and staffing impacts for reducing the Heritage Department's budget, for Council's future consideration.",
   "now": "Would have directed staff to prepare a business case setting out options, cost savings and staffing impacts for reducing the Heritage Department's budget, for Council's future consideration.",
@@ -824,7 +808,7 @@
   "quote": "Directed staff to prepare a business case setting out options, cost savings and staffing impacts for reducing the Heritage Department's budget, for Council's future consideration."
  },
  {
-  "id": "c0ce6cf62032",
+  "id": "e16a4d74c461",
   "field": "whatAYeaDid",
   "was": "Approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings.",
   "now": "Would have approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings.",
@@ -832,7 +816,7 @@
   "quote": "Approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings."
  },
  {
-  "id": "ac621e53bd84",
+  "id": "4976c983b20d",
   "field": "whatAYeaDid",
   "was": "Referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration.",
   "now": "Would have referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration.",
@@ -840,7 +824,7 @@
   "quote": "Referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration."
  },
  {
-  "id": "a076bd968c19",
+  "id": "c5759a177623",
   "field": "whatAYeaDid",
   "was": "Referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations.",
   "now": "Would have referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations.",
@@ -848,7 +832,7 @@
   "quote": "Referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations."
  },
  {
-  "id": "6fb8aac5501b",
+  "id": "480893a809c4",
   "field": "whatAYeaDid",
   "was": "Directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks.",
   "now": "Would have directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks.",
@@ -856,7 +840,7 @@
   "quote": "Directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks."
  },
  {
-  "id": "2d292d1a6b2d",
+  "id": "aac434f7d738",
   "field": "whatAYeaDid",
   "was": "Referred the BetterHomes London community efficiency financing report to a future committee meeting for a concierge-model report-back, rather than deciding on it.",
   "now": "Would have referred the BetterHomes London community efficiency financing report to a future committee meeting for a concierge-model report-back, rather than deciding on it.",
@@ -864,7 +848,7 @@
   "quote": "Referred the BetterHomes London community efficiency financing report to a future committee meeting for a concierge-model report-back, rather than deciding on it."
  },
  {
-  "id": "9ae4b2d5a23c",
+  "id": "1a0989cd5b32",
   "field": "whatAYeaDid",
   "was": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
   "now": "Would have reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
@@ -872,7 +856,7 @@
   "quote": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later."
  },
  {
-  "id": "9f632543eedb",
+  "id": "5f8aa51302f2",
   "field": "whatAYeaDid",
   "was": "Narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
   "now": "Would have narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
@@ -880,7 +864,7 @@
   "quote": "Narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation."
  },
  {
-  "id": "a1809ef17b5c",
+  "id": "d509b701e5cb",
   "field": "whatAYeaDid",
   "was": "Requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
   "now": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
@@ -888,7 +872,7 @@
   "quote": "Requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development."
  },
  {
-  "id": "0aca5a7bdd96",
+  "id": "c5c2152c940a",
   "field": "whatAYeaDid",
   "was": "Referred the 6309 Pack Road rezoning application to a future meeting rather than deciding it, to let staff and the applicant review reducing the proposed building heights and density.",
   "now": "Would have referred the 6309 Pack Road rezoning application to a future meeting rather than deciding it, to let staff and the applicant review reducing the proposed building heights and density.",
@@ -896,7 +880,7 @@
   "quote": "Referred the 6309 Pack Road rezoning application to a future meeting rather than deciding it, to let staff and the applicant review reducing the proposed building heights and density."
  },
  {
-  "id": "ee000df2b284",
+  "id": "2ed2545dd453",
   "field": "whatAYeaDid",
   "was": "Referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance).",
   "now": "Would have referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance).",
@@ -904,7 +888,7 @@
   "quote": "Referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance)."
  },
  {
-  "id": "2dd2f218b482",
+  "id": "4d05cae4db5c",
   "field": "whatAYeaDid",
   "was": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
   "now": "Would have referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
@@ -912,7 +896,7 @@
   "quote": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it."
  },
  {
-  "id": "b377bcba025b",
+  "id": "86cd192532a6",
   "field": "whatAYeaDid",
   "was": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
   "now": "Would have referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
@@ -920,7 +904,7 @@
   "quote": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it."
  },
  {
-  "id": "aa61ec1f12b2",
+  "id": "049cfd44a474",
   "field": "whatAYeaDid",
   "was": "Directed Civic Administration to undertake reviews of servicing capacity and of London Plan policy changes that would support increased intensification within the Urban Growth Boundaries, without itself approving any policy change.",
   "now": "Would have directed Civic Administration to undertake reviews of servicing capacity and of London Plan policy changes that would support increased intensification within the Urban Growth Boundaries, without itself approving any policy change.",
@@ -944,7 +928,7 @@
   "quote": "Asked Civic Administration to report back on the rationale for switching from 15 temporary resting-space beds at 448 Horton Street to 24 highly supportive housing units at 362 Dundas Street, deciding nothing itself."
  },
  {
-  "id": "4e2861ffc59a",
+  "id": "a8e2f548211a",
   "field": "axis",
   "was": "application-approval",
   "now": "transit-service",
@@ -952,7 +936,7 @@
   "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\n\n\n\ni) \u00a0 \u00a0approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund \u2013 Baseline Funding (the \u201cAgreement\u201d) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (\u201cCanada\u201d), and The Corporation of the City of London (the \u201cRecipient\u201d);"
  },
  {
-  "id": "0caaac4a596a",
+  "id": "e3edf6c6b7bc",
   "field": "axis",
   "was": "application-approval",
   "now": "transit-service",
@@ -960,7 +944,7 @@
   "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\ni) \u00a0 \u00a0approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund \u2013 Baseline Funding (the \u201cAgreement\u201d) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (\u201cCanada\u201d), and The Corporation of the City of London (the \u201cRecipient\u201d);"
  },
  {
-  "id": "be2ab15ee590",
+  "id": "9ab2a13766e3",
   "field": "axis",
   "was": "service-expansion",
   "now": "road-capacity",
@@ -968,19 +952,11 @@
   "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit"
  },
  {
-  "id": "28ab00fbc3c0",
+  "id": "dfe87ddfc742",
   "field": "axis",
   "was": "service-expansion",
   "now": "road-capacity",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion was wrong: this is the Roads Projects Timeline amendment adding the Bradley Ave (Wellington Rd-Highbury Ave) road expansion to the next improvement cycle -- general-purpose road capacity, not transit.",
-  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
- },
- {
-  "id": "478dc258ce7d",
-  "field": "axis",
-  "was": "service-expansion",
-  "now": "road-capacity",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Final committee approval of part a), the Roads Projects maps as amended (including the Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0, old axis service-expansion was wrong.",
   "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
  },
  {
@@ -992,7 +968,7 @@
   "quote": "the Transit Priority Network maps BE APPROVED"
  },
  {
-  "id": "0fd0f9c17a4c",
+  "id": "e7e111c30074",
   "field": "whatAYeaDid",
   "was": "Would have referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting.",
   "now": "Would have referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting; failed 3-12.",
@@ -1000,7 +976,7 @@
   "quote": "the motion regarding the London Transit Commission BE REFERRED to the next meeting of the Strategic Priorities and Policy Committee"
  },
  {
-  "id": "135897acab5a",
+  "id": "e57ac85b5f8f",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1008,7 +984,7 @@
   "quote": "the proposed by-law as appended to the staff report dated January 13, 2025 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on January 21, 2025 to approve the Transportation Services Licence Agreement between the City of London, London Transit Commission and Fanshawe College regarding the construction, maintenance and operations of a transit facility on Fanshawe College Property"
  },
  {
-  "id": "d43d88aa0a6b",
+  "id": "7c2d6c2f7bc8",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1016,7 +992,7 @@
   "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Development Charges supported funding"
  },
  {
-  "id": "0642b1c2e379",
+  "id": "1a0c5a5d3f17",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1024,7 +1000,7 @@
   "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Development Charges supported funding"
  },
  {
-  "id": "97d72395ebc4",
+  "id": "4fb63c870e39",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1032,7 +1008,7 @@
   "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED by reducing the London Transit Commission budget for the 2026 Budget Update. To reinstate this funding, LTC must submit an amendment for the 2026 Budget Update, the online booking system be operational and that a plan for implementing the 10,000 additional service hours for 2025 must be provided to Council no later than Q1 2025."
  },
  {
-  "id": "444ec1d15ea9",
+  "id": "173785078218",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1040,7 +1016,7 @@
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith"
  },
  {
-  "id": "39004f51c2fc",
+  "id": "b325a818f08c",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1048,7 +1024,7 @@
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith"
  },
  {
-  "id": "fa81d1038167",
+  "id": "05d0f12626d5",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1056,7 +1032,7 @@
   "quote": "the bid submitted by CH Excavating (2013) at its tendered price of $30,814,695.92 (excluding HST) for the Rapid Transit Implementation \u2013 Wellington Road from Harlech Gate to Wellington Commons Entrance project, BE ACCEPTED"
  },
  {
-  "id": "7fc97879792f",
+  "id": "e1c6bcfbc67e",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1064,7 +1040,7 @@
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith"
  },
  {
-  "id": "6f3b957830c2",
+  "id": "8a7bd3d17d57",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1072,7 +1048,7 @@
   "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School"
  },
  {
-  "id": "b1e1d2fe8866",
+  "id": "b44c33d86dc3",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1080,7 +1056,7 @@
   "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School"
  },
  {
-  "id": "ac70311aac71",
+  "id": "6158b535a43c",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1088,7 +1064,7 @@
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith"
  },
  {
-  "id": "6a37a73ce041",
+  "id": "4d20e6349c7e",
   "field": "axis",
   "was": "service-expansion",
   "now": null,
@@ -1096,7 +1072,7 @@
   "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling"
  },
  {
-  "id": "6a37a73ce041",
+  "id": "4d20e6349c7e",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -1104,7 +1080,7 @@
   "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling"
  },
  {
-  "id": "47b3793a89d7",
+  "id": "b53e1a493fef",
   "field": "axis",
   "was": "service-expansion",
   "now": null,
@@ -1112,7 +1088,7 @@
   "quote": "That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan"
  },
  {
-  "id": "47b3793a89d7",
+  "id": "b53e1a493fef",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -1120,7 +1096,7 @@
   "quote": "That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan"
  },
  {
-  "id": "a4e6deb00a7e",
+  "id": "803a1f3590a9",
   "field": "axis",
   "was": "service-expansion",
   "now": null,
@@ -1128,7 +1104,7 @@
   "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and"
  },
  {
-  "id": "a4e6deb00a7e",
+  "id": "803a1f3590a9",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -1136,7 +1112,7 @@
   "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and"
  },
  {
-  "id": "04664b9f96a1",
+  "id": "c8560208ccc7",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1144,7 +1120,7 @@
   "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for Business Case #P-51 \u2013 Transit Service Conventional Growth Hours, as approved by the London Transit Commission on January 31st, 2024 to provide for 18,000 hours of growth in each year, by increasing funding as follows"
  },
  {
-  "id": "370948fd7769",
+  "id": "4214b0fc1e5c",
   "field": "axis",
   "was": "application-approval",
   "now": "transit-service",
@@ -1152,7 +1128,7 @@
   "quote": "the bid submitted by Bre-Ex Construction Inc, at its tendered price of $18,297,251.48 (excluding HST), for the Rapid Transit Implementation, Clarks Bridge and Wellington Road from Thames River to Watson Street project, BE ACCEPTED"
  },
  {
-  "id": "26a1844b1671",
+  "id": "0006dd37efb2",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1160,7 +1136,7 @@
   "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for 2024 only for Business Case #P-51 \u2013 Transit Service Hours Growth, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, as approved by the London Transit Commission on January 31, 2024, by increasing funding as follows"
  },
  {
-  "id": "43617e79c864",
+  "id": "e9df87268bff",
   "field": "axis",
   "was": "application-approval",
   "now": null,
@@ -1168,7 +1144,7 @@
   "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report"
  },
  {
-  "id": "43617e79c864",
+  "id": "e9df87268bff",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -1176,7 +1152,7 @@
   "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report"
  },
  {
-  "id": "ddc57de69a2b",
+  "id": "7247063b1f07",
   "field": "axis",
   "was": "application-approval",
   "now": null,
@@ -1184,7 +1160,7 @@
   "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report"
  },
  {
-  "id": "ddc57de69a2b",
+  "id": "7247063b1f07",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -1192,7 +1168,7 @@
   "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report"
  },
  {
-  "id": "27c398a24709",
+  "id": "cbf71b0d4780",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1200,7 +1176,7 @@
   "quote": "approval BE GIVEN to finance the London Transit Commission purchase of nine 60-foot buses required for the East London Link corridor of the new Rapid Transit network"
  },
  {
-  "id": "a23c5771a121",
+  "id": "b05082d4707f",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1208,7 +1184,7 @@
   "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d, BE AUTHORIZED and BE APPROVED;"
  },
  {
-  "id": "77c61a6c4a03",
+  "id": "c18021c4f310",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1216,7 +1192,7 @@
   "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d , BE AUTHORIZED and BE APPROVED;"
  },
  {
-  "id": "2511f1d1c461",
+  "id": "fa73c7cc4453",
   "field": "axis",
   "was": "service-expansion",
   "now": null,
@@ -1224,7 +1200,7 @@
   "quote": "increasing the roadways budget to implement traffic calming in school zones across the city and deploy more temporary traffic calming devices to mitigate construction-related traffic diversions in neighbourhoods during capital projects"
  },
  {
-  "id": "2511f1d1c461",
+  "id": "fa73c7cc4453",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -1232,7 +1208,7 @@
   "quote": "increasing the roadways budget to implement traffic calming in school zones across the city and deploy more temporary traffic calming devices to mitigate construction-related traffic diversions in neighbourhoods during capital projects"
  },
  {
-  "id": "e805d2ddb3c4",
+  "id": "96ea8a87d491",
   "field": "axis",
   "was": "application-approval",
   "now": "transit-service",
@@ -1240,7 +1216,7 @@
   "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)"
  },
  {
-  "id": "667304ee4d37",
+  "id": "18b895f37109",
   "field": "axis",
   "was": "application-approval",
   "now": "transit-service",
@@ -1248,7 +1224,7 @@
   "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)"
  },
  {
-  "id": "9d2d16516460",
+  "id": "1d4dcf1c6588",
   "field": "whatAYeaDid",
   "was": "Would have directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble.",
   "now": "Would have directed Civic Administration to report back to a future meeting of the Community and Protective Services Committee with respect to other improvements at the Western Rd, Sarnia Ave / Phillip Aziz Ave intersection, including more detailed information about the feasibility of a pedestrian scramble; failed 1-4.",
@@ -1256,7 +1232,7 @@
   "quote": "the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with respect to other improvements at the Western Rd, Sarnia Ave / Phillip Aziz Ave intersection including more detailed information about the feasibility of a pedestrian scramble"
  },
  {
-  "id": "7126cff13284",
+  "id": "196fee010d78",
   "field": "axis",
   "was": "application-approval",
   "now": "transit-service",
@@ -1264,7 +1240,7 @@
   "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)"
  },
  {
-  "id": "7ae6c0ae05ef",
+  "id": "6bb73746bbfc",
   "field": "axis",
   "was": "application-approval",
   "now": "transit-service",
@@ -1272,7 +1248,7 @@
   "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)"
  },
  {
-  "id": "93a7f9754452",
+  "id": "0052db0821e2",
   "field": "axis",
   "was": null,
   "now": "transit-service",
@@ -1280,7 +1256,7 @@
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project"
  },
  {
-  "id": "93a7f9754452",
+  "id": "0052db0821e2",
   "field": "polarity",
   "was": null,
   "now": "expansive",
@@ -1288,7 +1264,7 @@
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project"
  },
  {
-  "id": "06f778b17f91",
+  "id": "e3164dd35fdf",
   "field": "axis",
   "was": "application-approval",
   "now": null,
@@ -1296,7 +1272,7 @@
   "quote": "the Mobility Master Plan Report BE APPROVED"
  },
  {
-  "id": "06f778b17f91",
+  "id": "e3164dd35fdf",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -1304,7 +1280,7 @@
   "quote": "the Mobility Master Plan Report BE APPROVED"
  },
  {
-  "id": "c34cee28168d",
+  "id": "c83c930c4582",
   "field": "axis",
   "was": "application-approval",
   "now": null,
@@ -1312,7 +1288,7 @@
   "quote": "parts a) and b) of the motion, as amended, BE APPROVED [resolving to: a) the Mobility Master Plan Report BE APPROVED; b) the Civic Administration BE DIRECTED to file a Notice of Completion and make the Report available for the statutory 30-day public review and comment period]"
  },
  {
-  "id": "c34cee28168d",
+  "id": "c83c930c4582",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -1320,7 +1296,7 @@
   "quote": "parts a) and b) of the motion, as amended, BE APPROVED [resolving to: a) the Mobility Master Plan Report BE APPROVED; b) the Civic Administration BE DIRECTED to file a Notice of Completion and make the Report available for the statutory 30-day public review and comment period]"
  },
  {
-  "id": "c7e50ba41dc6",
+  "id": "68a0dacac29e",
   "field": "axis",
   "was": "service-expansion",
   "now": "road-capacity",
@@ -1328,7 +1304,7 @@
   "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
  },
  {
-  "id": "1c01de0e5a7b",
+  "id": "8888017a8223",
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
@@ -1336,7 +1312,7 @@
   "quote": "the Transit Priority Network maps BE APPROVED"
  },
  {
-  "id": "47061fa4a390",
+  "id": "c00911f9ed6d",
   "field": "axis",
   "was": "service-expansion",
   "now": "road-capacity",
@@ -1360,7 +1336,7 @@
   "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b);"
  },
  {
-  "id": "d0cbb048480e",
+  "id": "208ee22b75a8",
   "field": "axis",
   "was": "application-approval",
   "now": null,
@@ -1368,7 +1344,7 @@
   "quote": "That the draft \"Wellbeing and Safety\" strategic focus Outcome 1, Expected Results, part e) of Outcome 1, BE APPROVED. e)  Improved traffic safety, traffic calming"
  },
  {
-  "id": "d0cbb048480e",
+  "id": "208ee22b75a8",
   "field": "polarity",
   "was": "expansive",
   "now": null,
@@ -1376,7 +1352,7 @@
   "quote": "That the draft \"Wellbeing and Safety\" strategic focus Outcome 1, Expected Results, part e) of Outcome 1, BE APPROVED. e)  Improved traffic safety, traffic calming"
  },
  {
-  "id": "be2ab15ee590",
+  "id": "9ab2a13766e3",
   "field": "decisionKey",
   "was": null,
   "now": "road-capacity-wonderland-six-laning-2025",
@@ -1384,7 +1360,7 @@
   "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit"
  },
  {
-  "id": "47061fa4a390",
+  "id": "c00911f9ed6d",
   "field": "decisionKey",
   "was": null,
   "now": "road-capacity-wonderland-six-laning-2025",
@@ -1392,7 +1368,7 @@
   "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly"
  },
  {
-  "id": "28ab00fbc3c0",
+  "id": "dfe87ddfc742",
   "field": "decisionKey",
   "was": null,
   "now": "road-capacity-bradley-roads-map-2025",
@@ -1400,15 +1376,7 @@
   "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
  },
  {
-  "id": "478dc258ce7d",
-  "field": "decisionKey",
-  "was": null,
-  "now": "road-capacity-bradley-roads-map-2025",
-  "reason": "Transit-split gate item 1: committee's final approval of part a), the Roads Projects maps as amended (incl. the Bradley Ave inclusion just voted in as 28ab00fbc3c0) -- same underlying decision, same decisionKey, so it groups with 28ab00fbc3c0 and the later council ratification (09385ddc0d7d) rather than with the unrelated Wonderland Road six-laning decision under the same agenda item.",
-  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
- },
- {
-  "id": "c7e50ba41dc6",
+  "id": "68a0dacac29e",
   "field": "decisionKey",
   "was": null,
   "now": "road-capacity-bradley-roads-map-2025",
@@ -1416,15 +1384,7 @@
   "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
  },
  {
-  "id": "478dc258ce7d",
-  "field": "whatAYeaDid",
-  "was": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
-  "now": "Recommended approving, as amended, the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
-  "reason": "Transit-split gate item 4: this is the 2025-03-25 Strategic Priorities and Policy COMMITTEE vote, not Council -- final approval of the Roads Projects maps (as amended to include Bradley Ave) came at Council on 2025-04-01 (09385ddc0d7d). \"Gave final approval\" overstated this motion's own effect; reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus.",
-  "quote": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle."
- },
- {
-  "id": "99e90a7b11ad",
+  "id": "cf91899d3c0d",
   "field": "whatAYeaDid",
   "was": "Gave final approval, as amended, to the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions.",
   "now": "Recommended approving, as amended, the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions.",
@@ -1432,7 +1392,7 @@
   "quote": "Gave final approval, as amended, to the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions."
  },
  {
-  "id": "002f87546a89",
+  "id": "340d20ce05e8",
   "field": "whatAYeaDid",
   "was": "Gave final approval, as amended, to the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
   "now": "Recommended approving, as amended, the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
@@ -1440,7 +1400,7 @@
   "quote": "Gave final approval, as amended, to the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out."
  },
  {
-  "id": "0d6f4304215e",
+  "id": "a3e4d5427c1e",
   "field": "whatAYeaDid",
   "was": "Gave final approval, as amended, to introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions.",
   "now": "Recommended approving, as amended, introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions.",
@@ -1448,7 +1408,7 @@
   "quote": "Gave final approval, as amended, to introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions."
  },
  {
-  "id": "c7e50ba41dc6",
+  "id": "68a0dacac29e",
   "field": "whatAYeaDid",
   "was": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next capital improvement cycle.",
   "now": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next improvement cycle.",
@@ -1456,7 +1416,7 @@
   "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
  },
  {
-  "id": "be2ab15ee590",
+  "id": "9ab2a13766e3",
   "field": "whatAYeaDid",
   "was": "Restarted the Wonderland Road environmental assessment with expanded study limits, to construct six new general-purpose through lanes with a long-term option to convert to Bus Rapid Transit.",
   "now": "Added a clause directing Civic Administration to restart the Wonderland Road corridor Environmental Assessment (Southdale Road to Fanshawe Park Road) to build six general-purpose through lanes, with a long-term option to convert to Bus Rapid Transit, and to update the Mobility Master Plan maps accordingly.",
@@ -1464,7 +1424,7 @@
   "quote": "That with respect the Master Mobility Plan, the following part be added: e)  the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly"
  },
  {
-  "id": "9ffe779c15c0",
+  "id": "70e66024727d",
   "field": "whatAYeaDid",
   "was": "endorsed continuing added Old East Village homelessness-response safety programming (coordinated outreach response and street cleaning) within the existing Housing Stability Services budget, with no new funding",
   "now": "Endorsed additional Old East Village safety and security programming -- Coordinated Informed Response programming and street cleaning -- accommodated within existing Housing Stability Services budgets, with no new funding.",
@@ -1472,7 +1432,7 @@
   "quote": "the additional programs identified to support safety and security in the Old East Village area, including additional Coordinated Informed Response programming and street cleaning to be accommodated within existing Housing Stability Services budgets BE ENDORSED"
  },
  {
-  "id": "9ddf707bf29d",
+  "id": "d2e0d07a90e6",
   "field": "motionText",
   "was": "",
   "now": "f)   a one-time funding allocation of up to $374,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023;",

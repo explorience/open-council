@@ -1,6 +1,6 @@
 [
  {
-  "id": "08013109f8d6",
+  "id": "ebe7a43fbc15",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -12,7 +12,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.2.13: Belvedere Park surplus-declaration/sale, no tracked-issue content. issue=none correct."
  },
  {
-  "id": "e9ed17e7e53a",
+  "id": "78955defd8d5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -26,7 +26,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.2.14 content[2] ('Motion to approve part b)', Failed 7-8): quote verbatim. issue=none is a judgment call (issue-rules.ts literally lists 'business case' under budget) but polarity stays null either way (informational ask to prepare a study/proposal, not a budget decision) so no downstream effect on stance aggregation. Not overturned \u2014 not a clear miss."
  },
  {
-  "id": "0a473b0f93d7",
+  "id": "ffe4fdd8ac50",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -40,7 +40,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.2.15 (Passed 10-5): quote verbatim, full text is a natural-gas-utility right-of-way advocacy ask to AMO \u2014 no tracked-issue keyword hit anywhere in the body. issue=none correct."
  },
  {
-  "id": "4153aca17ce9",
+  "id": "116a5624d686",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",
@@ -52,7 +52,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.10 content[1] (Passed 10-5): quote verbatim. Text has no literal DECREASE-vocabulary word adjacent to 'outreach', but substantively banning encampments and withholding outreach at an added park is unambiguously the restrictive end of the response-scale axis. Confirmed."
  },
  {
-  "id": "880ec0684742",
+  "id": "f6d4fc35731a",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -66,7 +66,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.10 content[2] ('Item 10, clause 2.9, as amended, BE APPROVED.', Passed 13-2): quote verbatim. Bundle genuinely mixes net-expansive funding increases (a-h) with the separately-adopted McCormick Park restriction (j) \u2014 correctly left null, matches the documented wrapper-preamble philosophy for mixed bundles."
  },
  {
-  "id": "bf59cb7d4545",
+  "id": "79ec4c4ba630",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -80,7 +80,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.11 (Passed 9-5): quote verbatim, pure delegation-of-signing-authority by-law, no tracked-issue substance. issue=none correct."
  },
  {
-  "id": "cf3488ecfcbc",
+  "id": "7ca20cbd745e",
   "issue": "encampments",
   "axis": "relocation",
   "polarity": "restrictive",
@@ -94,7 +94,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.12 content[1] (Failed 5-9): quote verbatim, matches manifest result exactly. Relocation-away framing (Main St BIA) correctly read as restrictive."
  },
  {
-  "id": "870bafcb5750",
+  "id": "70b072813e03",
   "issue": "encampments",
   "axis": "relocation",
   "polarity": "restrictive",
@@ -108,7 +108,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.12 content[2] (Failed 5-9): quote verbatim, matches manifest result exactly. Delayed-then-forced relocation after Aug 31 correctly read as restrictive (net effect is still relocation away)."
  },
  {
-  "id": "ff469e78c6e0",
+  "id": "955427f58d48",
   "issue": "encampments",
   "axis": "relocation",
   "polarity": "expansive",
@@ -122,7 +122,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.12 content[3] (Passed 9-5): quote verbatim, matches manifest result exactly. This is the alternative to the two failed relocation-forcing amendments and carries no relocation clause at all \u2014 'kept at current location' (expansive on relocation axis) is the accurate contextual read given the competing amendments on the same clause in the same debate."
  },
  {
-  "id": "8b7291d5a4bf",
+  "id": "17a06f9e0287",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -136,7 +136,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.12 content[4] (Passed 11-3): quote verbatim, procedural Chair's-ruling sustain vote, no issue substance. issue=none correct."
  },
  {
-  "id": "6d243ed59926",
+  "id": "2bed94176bb1",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -148,7 +148,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.12 content[5] (Passed 13-1): quote verbatim, matches manifest result exactly. Straightforward shelter-space funding increase, response-scale/expansive correct."
  },
  {
-  "id": "4e61480236e9",
+  "id": "19f813e3d11f",
   "issue": "encampments",
   "axis": "relocation",
   "polarity": "expansive",
@@ -162,7 +162,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.12 content[6] (Passed 11-3, moved by Hopkins \u2014 a second, separate vote on identical part-c text to content[3]): quote verbatim, matches manifest result exactly. Same relocation-axis/expansive reasoning as 1c0f60d005b5 applies."
  },
  {
-  "id": "d29b4c334f40",
+  "id": "4000e7f3d3a0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -174,7 +174,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.8 content[1] (Passed 13-2): quote verbatim, matches manifest result exactly. Primary-care recruitment funding is not one of the 8 tracked issues. issue=none correct."
  },
  {
-  "id": "a81c7a5a3a10",
+  "id": "6c37bba2b7e8",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -188,7 +188,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.8 content[2] (Passed 14-1): quote verbatim, procedural beyond-6pm motion. issue=none correct."
  },
  {
-  "id": "46a57873b91e",
+  "id": "eed23471aabd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -200,7 +200,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.3.8 content[4] (Failed 7-8): quote verbatim, matches manifest result exactly. issue=none correct (same reasoning as 7754da39e4ca)."
  },
  {
-  "id": "efc90ac5d0bf",
+  "id": "9471058de96d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -212,7 +212,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.4.3 (Passed 11-4): quote verbatim, heritage alteration permit \u2014 heritage is not a tracked issue. issue=none correct."
  },
  {
-  "id": "95b713ea86ac",
+  "id": "1733be88f413",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -224,7 +224,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.4.6 (Passed 12-3): quote verbatim, matches manifest result exactly. R5/R6 to +R8 rezoning, density/expansive correct."
  },
  {
-  "id": "10892fc2efb1",
+  "id": "a2d4dab5f85a",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -236,7 +236,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.4.8 content[1] ('Motion to approve a)', Failed 6-9): quote verbatim, matches manifest result exactly. R1-to-R8 rezoning, density/expansive correctly describes what a YEA supported (the motion itself failed, which is a separate fact from the direction label)."
  },
  {
-  "id": "7d042dc1a411",
+  "id": "753ff96a5693",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -248,7 +248,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.4.8 content[2] (Passed 13-2): quote verbatim, matches manifest result exactly. Correctly isolates the density-expansive rezoning (part a) from the co-bundled 'BE REFUSED' on setback/parking special provisions (part b) \u2014 the refusal clause is about yard/balcony/bike-parking/parking-setback asks, not density, so it does not flip the density-axis polarity. This is exactly the denial-flip trap and it was handled correctly."
  },
  {
-  "id": "f498b09bf877",
+  "id": "0b0464036608",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -262,7 +262,7 @@
   "verifierNote": "Verified vs 2025-04-01 Council item 8.4.8 content[3] ('Item 8, clause 3.4, as amended, BE APPROVED.', Passed 13-2): quote is the wrapper text, correctly flagged wrapper_preamble; the bundled content (density rezone + special-provision refusal + site-plan design requests) resolves unambiguously to the same density-expansive substance as 4446fedbea38. Confirmed."
  },
  {
-  "id": "528395ae632e",
+  "id": "1703a1233fd3",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -274,7 +274,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 3.1 content[1] (Passed 9-6): quote verbatim, matches manifest result exactly. Integrity Commissioner matters are GLOBAL_EXCLUDE by design. issue=none correct."
  },
  {
-  "id": "83a2282d58ed",
+  "id": "a1b4ff0be836",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -286,7 +286,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 3.1 content[3] (Passed 11-4): quote verbatim, matches manifest result exactly. Same GLOBAL_EXCLUDE reasoning as 92e9ca08e1dc."
  },
  {
-  "id": "be2ab15ee590",
+  "id": "9ab2a13766e3",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -298,7 +298,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[2] (Passed 9-6): quote verbatim, matches manifest result exactly. Road-widening-with-long-term-BRT-option correctly read as infrastructure expansion on the combined Transit & Roads axis."
  },
  {
-  "id": "d7254e98198d",
+  "id": "3d223bdef9d1",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -312,7 +312,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[4] (Passed 12-3): quote verbatim, matches manifest result exactly. Pure engage-in-discussions ask, no decision. Correctly unclear."
  },
  {
-  "id": "01584b77b9d3",
+  "id": "bb1201cb1a09",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",
@@ -324,7 +324,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[5] (Passed 13-2): quote verbatim, matches manifest result exactly."
  },
  {
-  "id": "341f026a730d",
+  "id": "8f30dc265f90",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",
@@ -336,7 +336,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[6] (Passed 9-6): quote verbatim, matches manifest result exactly."
  },
  {
-  "id": "a0eeb6647494",
+  "id": "0e1066f4e177",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",
@@ -348,7 +348,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[7] (Passed 11-4): quote verbatim, matches manifest result exactly."
  },
  {
-  "id": "ee71cd1c09f0",
+  "id": "916f3366234a",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",
@@ -360,7 +360,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[8] (Passed 9-6): quote verbatim, matches manifest result exactly."
  },
  {
-  "id": "345c9049c279",
+  "id": "52c97e75fea7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -374,7 +374,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[9] (Passed 14-1): quote verbatim, procedural beyond-6pm. issue=none correct."
  },
  {
-  "id": "28ab00fbc3c0",
+  "id": "dfe87ddfc742",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -386,7 +386,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[10] (Passed 14-1): quote verbatim, matches manifest result exactly. Roads Projects Timeline item under the Mobility Master Plan \u2014 the transit issue cluster is explicitly 'Transit & Roads' (GENERIC_NOUN maps it to 'the transit/roads item'), so tagging a road-expansion sub-motion under this item as transit is correct by design, not a title-only false positive."
  },
  {
-  "id": "71e69a8ea9f8",
+  "id": "2202865db756",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",
@@ -398,7 +398,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[11] (Passed 14-1): quote verbatim, matches manifest result exactly."
  },
  {
-  "id": "3304b5b1724a",
+  "id": "0f495e3fcd8d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -410,20 +410,6 @@
   ],
   "verdict": "confirmed",
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[12] (Passed 14-1): quote verbatim, matches manifest result exactly. Pure referral of a communication. issue=none correct."
- },
- {
-  "id": "478dc258ce7d",
-  "issue": "transit",
-  "axis": "service-expansion",
-  "polarity": "expansive",
-  "whatAYeaDid": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
-  "confidence": "medium",
-  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
-  "flags": [
-   "wrapper_preamble"
-  ],
-  "verdict": "confirmed",
-  "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[13] ('Motion to approve part a), as amended.', Passed 14-1): bare wrapper, but part a) was only ever touched by one amendment (content[10], reproduced verbatim in the original part a) text too) so the reconstructed quote is unambiguous and verbatim-sourced from elsewhere in the same item."
  },
  {
   "id": "1f742f938d33",
@@ -440,7 +426,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[14] ('Motion to approved part b).', Passed 14-1): bare wrapper; part b) ('the Transit Priority Network maps BE APPROVED') was never amended anywhere in this item, so the reconstruction is unambiguous and the quote is verbatim from content[0]."
  },
  {
-  "id": "002f87546a89",
+  "id": "340d20ce05e8",
   "issue": "bikes",
   "axis": null,
   "polarity": null,
@@ -454,7 +440,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[15] ('Motion to approve part c), as amended.', Passed 11-4): correctly left null \u2014 part c) bundles a blanket 'Cycling Network maps BE APPROVED' (scope not enumerated in the council record) together with the five specific removals already captured as their own entries; net direction on the whole bundle cannot be determined from the record. Appropriately conservative."
  },
  {
-  "id": "0fd0f9c17a4c",
+  "id": "e7e111c30074",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -468,7 +454,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.6 content[2] (Failed 3-12): quote verbatim, matches manifest result exactly. Pure referral. Correctly unclear."
  },
  {
-  "id": "74e052b6cc48",
+  "id": "95303dc8909c",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -480,7 +466,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.6 content[4] (Passed 9-6): quote verbatim, matches manifest result exactly. 'BE DISSOLVED' has no content-axis or generic affirm/deny match in direction-rules.ts's own verb vocabulary, independently reinforcing null regardless of the governance-vs-service-level argument given."
  },
  {
-  "id": "0141c9527b79",
+  "id": "5826583de120",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -495,7 +481,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.6 content[6] (Passed 14-1): quote verbatim, matches manifest result exactly. Pure referral/appointment. Correctly unclear."
  },
  {
-  "id": "b93ac9bfc198",
+  "id": "19ce88e3737f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -509,7 +495,7 @@
   "verifierNote": "Verified vs 2025-03-24 ICSC item 2.12 content[3] (Failed 1-4): quote verbatim, matches manifest result exactly. Pure referral. Correctly unclear, issue=none correct."
  },
  {
-  "id": "b6548b2bc4d4",
+  "id": "af27bf4fe10a",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -521,7 +507,7 @@
   "verifierNote": "Verified vs 2025-03-24 ICSC item 2.12 content[5] (Failed 2-3): quote verbatim, matches manifest result exactly. Cross-checked against the vote rows of the mutually-exclusive companion motion at the same item (content[6]/f0ba9d8a08f4, Passed 4-1): the same three members (Hopkins, Pribil, Franke) voted the pro-expansion way on both motions (NAY here / YEA there) and the same two (Van Meerbergen, Rahman) voted the anti-expansion way on both \u2014 internally consistent, confirms 'restrictive' correctly captures what a YEA here did (declined to pursue the expanded tax-deferral program on levy-cap grounds; 'tax levy' is a literal budget keyword hit)."
  },
  {
-  "id": "f0ba9d8a08f4",
+  "id": "79404237ec99",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -535,7 +521,7 @@
   "verifierNote": "Verified vs 2025-03-24 ICSC item 2.12 content[6] (Passed 4-1): quote verbatim, matches manifest result exactly. Same issue=none judgment call as e9ed17e7e53a (identical text) \u2014 not overturned, polarity null either way so no aggregation effect."
  },
  {
-  "id": "4161f6520c10",
+  "id": "5a1273557ecc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -549,7 +535,7 @@
   "verifierNote": "Verified vs 2025-03-24 ICSC item 4.1 (Passed 4-1): quote verbatim, matches manifest result exactly. Same reasoning as 08be53e2b291 (identical text, different meeting stage)."
  },
  {
-  "id": "d8ca1f2d39ff",
+  "id": "204fbd8ec86e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -561,7 +547,7 @@
   "verifierNote": "Verified vs 2025-03-19 Budget Committee item 2.2 content[3] (Passed 13-2): quote verbatim, matches manifest result exactly. Reserve-fund reallocation \u2014 issue=none matches the documented issue-rules.ts calibration note dropping generic reserve-fund keywords."
  },
  {
-  "id": "0d6f4304215e",
+  "id": "a3e4d5427c1e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -575,7 +561,7 @@
   "verifierNote": "Verified vs 2025-03-19 Budget Committee item 2.2 content[4] ('That the motion, as amended, BE APPROVED.', Passed 14-1): quote verbatim, matches manifest result exactly. Final approval of the same reserve-fund-reallocation by-law; issue=none consistent with d8ca1f2d39ff."
  },
  {
-  "id": "5583c7b5c406",
+  "id": "fe4bcd5e9e51",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",

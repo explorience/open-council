@@ -1,6 +1,6 @@
 [
  {
-  "id": "3c736ddcbc9b",
+  "id": "e2169c6265af",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -12,7 +12,7 @@
   "verifierNote": "Procedural advocacy resolution (deposit-return, non-alcoholic beverage containers). No tracked-issue keyword anywhere in the operative text (no 'climate', no housing/encampments/transit/policing/bikes/downtown/budget phrase); issue=none is correct, no direction possible."
  },
  {
-  "id": "c594b854f072",
+  "id": "6a417fd99d3c",
   "issue": "climate",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -24,7 +24,7 @@
   "verifierNote": "Verified against 2026-06-15 Infrastructure & Corporate Services Committee item 2.3 full text. Quote is verbatim (clause a). No denial language present; generic application-approval fallback is the correct read (no climate content-axis phrase like 'strengthen/weaken a target' present). Confirmed climate/expansive."
  },
  {
-  "id": "84f30e68204d",
+  "id": "88c4cb59b2a2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -36,7 +36,7 @@
   "verifierNote": "Verified against 2026-06-15 ICS Committee item 2.4 full text (contract award, Bre-Ex Construction, Wellington Gateway Phase 2B). No literal transit/bikes/downtown keyword anywhere in the operative clauses (generic road-construction contract mechanics only -- bid acceptance, consulting engineer authorization, financing, MOUs). issue=none correctly avoids the generic-infra-contract trap."
  },
  {
-  "id": "b2d6d1e17607",
+  "id": "e79067b564a0",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -48,7 +48,7 @@
   "verifierNote": "Verified against 2026-06-09 P&E Committee item 3.3 full text. Two competing clauses exist under this item: a 'BE REFUSED' block with no recorded vote, and the 'BE INTRODUCED ... permitting an addition' block that IS the one actually voted (Failed 2-3, Yeas S.Lehman/P.Cuddy, Nays S.Lewis/S.Hillier/S.Stevenson) -- the manifest's own result string 'Motion Failed (2 to 3)' uniquely picks out this second block, matching the quoted text. Per direction-rules.ts design, axis/valence reads what a YEA on THIS specific roll call meant (support for introducing/permitting the addition = expansive), independent of the committee's ultimate disposition -- so a Nay here truly did oppose the addition and a Yea truly did support it; no false-direction risk to any named councillor. Quote verbatim. This is a genuine committee-stage-vs-decision case (the committee's actual recommendation forward was refusal) but the tracked roll call itself is read correctly. Confirmed."
  },
  {
-  "id": "94c1663e8c24",
+  "id": "99fafa72d237",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -60,7 +60,7 @@
   "verifierNote": "Verified against 2026-06-09 P&E Committee item 3.7 full text, Passed 4-1. Quote verbatim. Straightforward R1 (low-density)->R5 (holding, higher-density) rezoning, no denial language. Confirmed housing/density/expansive."
  },
  {
-  "id": "06a1d24743c5",
+  "id": "99ce79471a1f",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -75,7 +75,7 @@
   "verifierNote": "Verified against 2026-06-09 P&E Committee item 3.8, 'That part c) of the motion, as amended, BE APPROVED' Passed 4-1. Clause c) directs the Site Plan Approval Authority to 'explore opportunities to relocate the ... lay-by' / 'explore opportunities to work with ... LTC' -- matches INFORMATIONAL_ASK_RE ('explore opportunities'), correctly unclear. Note for record (no correction, no direction implication either way): the clause's own text literally contains the word 'Transit' via 'London Transit Commission', which is a bare-keyword hit for the transit issue cluster and would tie-break ahead of housing per ISSUE_ORDER if scored mechanically -- but this is an incidental mention of the transit authority inside a site-plan design directive for a housing rezoning, not a substantive transit position, so housing is the more faithful characterization; moot either way since polarity is null under both readings (informational ask nullifies direction regardless of issue)."
  },
  {
-  "id": "ba89238687fa",
+  "id": "149b6fe87443",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -89,7 +89,7 @@
   "verifierNote": "Verified against 2026-06-09 P&E Committee item 3.8, 'Motion to approve part a)' Passed 3-2 (matches manifest's result string uniquely among this item's several sub-motions). Quote verbatim. R1+Convenience Commercial -> R9 Special Provision is a genuine density increase (R9 is a higher-density apartment zone in this corpus's zoning scheme). Correctly isolated to part a) only -- part b) (the requested special provisions: reduced setbacks/parking, higher lot coverage) was separately REFUSED and is NOT bundled into this entry's polarity, avoiding a business-case-exclusion-style false read. Confirmed housing/density/expansive."
  },
  {
-  "id": "1355dc9115e0",
+  "id": "4f85cf883f71",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -129,7 +129,7 @@
   "verifierNote": "Verified against 2026-06-02 Council item 6.1 full text (Wellington Gateway Phase 2 expropriation). Operative reasons cite 'current and future transportation demands along the corridor' -- not a literal hit on any tracked transit keyword (no 'transit', 'road widening', 'transportation master plan', etc.). issue=none correctly avoids the generic-infra-contract trap; this is a land-expropriation mechanics vote, not a transit policy position."
  },
  {
-  "id": "3b36aabde6a6",
+  "id": "688a9281ed59",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -143,7 +143,7 @@
   "verifierNote": "Verified against 2026-06-02 Council item 6.2 full text (Wellington Gateway Phase 3 expropriation by-law introduction/registration mechanics). No tracked-issue keyword present. issue=none correct."
  },
  {
-  "id": "0ac4031b0f90",
+  "id": "5028230cdbbb",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -157,7 +157,7 @@
   "verifierNote": "Verified against 2026-06-02 Council item 6.8.1.5 full text (1103 & 1111 Westdel Bourne, OZ-25072). Important: the REFERRAL motion tracked here genuinely FAILED (7 to 7) -- and per this item's full record, Council then separately voted 14-0 to REFUSE the rezoning application outright on a different motion not present in this batch (presumably tracked, if at all, under a different id/batch, since it appears to have passed unanimously and this pipeline tracks divided motions). The entry in hand is specifically and only about the referral vote, correctly quoted verbatim and correctly marked unclear (DEFER_RE fires, no AFFIRM_RE) -- it does not claim anything about the application's ultimate fate. Confirmed."
  },
  {
-  "id": "81d184dc75f1",
+  "id": "9909df222d54",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -171,7 +171,7 @@
   "verifierNote": "Procedural consent-agenda reordering. issue=none correct."
  },
  {
-  "id": "5a517b9865ad",
+  "id": "b435d2d8e2ab",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -185,7 +185,7 @@
   "verifierNote": "Procedural 2027 meeting-calendar approval. issue=none correct."
  },
  {
-  "id": "446995255bb8",
+  "id": "c52482b91bee",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -199,7 +199,7 @@
   "verifierNote": "Procedural failed amendment to remove meeting-free weeks. issue=none correct."
  },
  {
-  "id": "fffc06d5f355",
+  "id": "96c38e0db907",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -211,7 +211,7 @@
   "verifierNote": "Verified against 2026-05-12 Council item 8.1.8, 'part b) BE APPROVED' Passed 11-4 (e-scooter pilot bylaw introduction, repealing the prior 'Electric Kick-Scooter and Cargo Power-assisted Bicycle By-law'). No bikes-cluster keyword hit ('bicycle' appears only inside the repealed by-law's own name, not as 'bicycle facilit-'/'bike lane'/'cycling infrastructure' etc.), no transit keyword. issue=none correctly avoids over-attributing to bikes/transit."
  },
  {
-  "id": "8cdc065e1587",
+  "id": "2ce0b8b90178",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -225,7 +225,7 @@
   "verifierNote": "Verified against same item 8.1.8, 'part d) BE APPROVED' Passed 14-1 -- pure report-back directive ('report back to Committee and Council in May 2027 with an update ... on the use of e-scooters'). Correctly unclear/informational_ask."
  },
  {
-  "id": "8fc2c5196c2f",
+  "id": "c1f2298d27a1",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -237,7 +237,7 @@
   "verifierNote": "Verified against 2026-05-12 Council item 8.2.7 full text, Motion FAILED 5-10 -- this is the full-Council vote that reverses the 3-2 committee recommendation (see 12aa70133162 below, same clause, earlier reading). Axis/valence again correctly reads each councillor's own roll-call position on the INTRODUCE clause independent of overall outcome -- the 10 Nays' 'denied' characterization is accurate to their actual vote, and the substance (adding an OP policy + Map 7 designation enabling the LTC development) matches the quote verbatim. Confirmed housing/application-approval/expansive."
  },
  {
-  "id": "402c1cefd8e1",
+  "id": "6206994a7e9e",
   "issue": "encampments",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -249,7 +249,7 @@
   "verifierNote": "Verified against 2026-05-12 Council item 8.3.5 full text, Passed 12-1, quote verbatim (clause a). Issue=encampments correctly wins over an intuitive 'housing' label because only encampments-cluster vocabulary ('Homeless Prevention and Housing Plan', 'homeless prevention and housing plan') actually appears in the operative text -- no literal housing-cluster phrase ('affordable housing', 'housing needs', 'housing supply', etc.) appears anywhere in this motion, so housing would not even score under the rules. Confirmed."
  },
  {
-  "id": "931f44888a31",
+  "id": "922e6092ba08",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -263,7 +263,7 @@
   "verifierNote": "Verified against 2026-05-06 ICS Committee item 2.6 full text (committee-stage twin of fffc06d5f355/8cdc065e1587 above), 'parts b), c), and d) BE APPROVED' Passed 2-1 -- bundles the substantive bylaw introduction together with the report-back ask, but issue=none is correct regardless (same keyword analysis as fffc06d5f355) so no direction is computed either way. Confirmed."
  },
  {
-  "id": "0eae01592ab9",
+  "id": "dddc0585c411",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -275,7 +275,7 @@
   "verifierNote": "Verified against 2026-05-05 P&E Committee item 3.3 full text, Passed 3-2, quote verbatim. This is the committee-stage twin of 06a752a337a2 (same clause, earlier vote, later reversed 5-10 at Council) -- correctly tracked as its own separate roll call rather than conflated with the Council reading. Confirmed housing/application-approval/expansive."
  },
  {
-  "id": "0b74a27ea811",
+  "id": "942228a7566f",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -287,7 +287,7 @@
   "verifierNote": "Verified against 2026-04-21 Strategic Priorities and Policy Committee item 2.2, 'That part a) BE APPROVED and reads as follows: ... a proposed by-law BE INTRODUCED ...' Passed 9-4. Wrapper preamble correctly stripped per its own design (subject is the bare 'part a)', and the clause it introduces carries its own independent 'BE INTRODUCED'/'establishing' verbs) -- quote verbatim. Confirmed housing/application-approval/expansive."
  },
  {
-  "id": "109f354014ba",
+  "id": "ca6d842e2915",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -301,7 +301,7 @@
   "verifierNote": "Verified against 2026-04-21 SPPC item 4.2 full text, 'part b) BE APPROVED and reads as follows: ... BE DIRECTED to review the following opportunities and report back to Council on implementation ...' Passed 11-2. Despite the substantial, itemized sub-list (fare collection, vehicle specs, branding, station enhancements), the operative verb is 'review ... and report back on implementation' throughout -- textbook informational ask, not an approved service expansion. Correctly unclear."
  },
  {
-  "id": "43d8e93008db",
+  "id": "f1024cb0e07c",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -315,7 +315,7 @@
   "verifierNote": "Verified against 2026-04-14 P&E Committee item 4.1 full text, 'BE DIRECTED to explore and report back on the feasibility of establishing a Tenant Assistance and Relocation Program ... by end of Q1 2027' Passed 2-1. Textbook informational ask. Correctly unclear."
  },
  {
-  "id": "5d3409f3524d",
+  "id": "5f23c8297219",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -345,7 +345,7 @@
   "verifierNote": "Verified against 2026-03-24 Strategic Priorities and Policy Committee item 4.2 full text, 'part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development ...' Passed 10-4. This decides only what goes on the LIST of options a future report-back will study, not that a DC rebate is enacted -- correctly read as scoping a report's contents rather than a substantive funding decision. Confirmed unclear."
  },
  {
-  "id": "bfc8b0b06170",
+  "id": "64be30ac6236",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -373,7 +373,7 @@
   "verifierNote": "Procedural amendment routing a future report to a different committee. issue=none correct."
  },
  {
-  "id": "95f8191a78cd",
+  "id": "7b1107d626d1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -387,7 +387,7 @@
   "verifierNote": "Procedural delegation-hearing-order motion. issue=none correct."
  },
  {
-  "id": "343d5bd6437a",
+  "id": "93f104505178",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -399,7 +399,7 @@
   "verifierNote": "Respectful Workplace Policy by-law introduction. No tracked-issue keyword. issue=none correct."
  },
  {
-  "id": "0cd07d98f6e7",
+  "id": "6c97ec2f8434",
   "issue": "climate",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -411,7 +411,7 @@
   "verifierNote": "Verified against 2026-03-23 ICS Committee item 2.9 full text, Passed 5-1, quote verbatim (clause i). Issue=climate is a defensible substantive read (BetterHomes London is a home energy-efficiency/water-conservation retrofit financing program; body text also contains the bare word 'Climate' via the responsible director's title). Confirmed climate/application-approval/expansive."
  },
  {
-  "id": "b076ce02bb71",
+  "id": "e95523e53e00",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -425,7 +425,7 @@
   "verifierNote": "Failed report-back motion (stormwater/weeping-tile disconnection program implementation plan). Correctly unclear/informational_ask; motion also failed."
  },
  {
-  "id": "783f30d0d41f",
+  "id": "f85aa776ac6f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -437,7 +437,7 @@
   "verifierNote": "Verified against 2026-03-23 ICS Committee item 4.2 full text (Smart Commute MOU amendment, failed 3-3 tie). 'Smart Commute' is a commuter/TDM program with no literal transit-cluster keyword in the operative text. issue=none is a defensible, consistent call (same reasoning applied to e43644a0f1a8 below)."
  },
  {
-  "id": "e43644a0f1a8",
+  "id": "40863a4ea212",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -449,7 +449,7 @@
   "verifierNote": "Verified against same item 4.2, 'part b) BE APPROVED' Passed 5-1 (Smart Commute MOU execution authorization). Same keyword analysis as 783f30d0d41f -- issue=none correct, no transit-cluster keyword present."
  },
  {
-  "id": "faeee03a0fbb",
+  "id": "b0d567797414",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -463,7 +463,7 @@
   "verifierNote": "Report-back directive on local/regional food producer participation in City food sourcing. No tracked-issue keyword. issue=none correct."
  },
  {
-  "id": "dd2f8fb9d86d",
+  "id": "49c00282c4ad",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -475,7 +475,7 @@
   "verifierNote": "Verified against 2026-03-10 P&E Committee item 3.8 full text (earlier committee-stage consideration of 929 Cheapside Street, distinct from the 2026-06-09 reading covered by ba89238687fa/06a1d24743c5 above). This combined a) approve-the-rezoning-to-R9 / b) refuse-the-special-provisions / c) site-plan-directive into ONE roll call, which FAILED 1-4 -- a genuinely mixed, non-severable motion where a single yea/nay cannot be translated into one clean direction without misrepresenting either the approval or the refusal component. polarity=null is the correct, safe call; low confidence flag is appropriate given the genuine ambiguity. Confirmed."
  },
  {
-  "id": "a9f827fabfb2",
+  "id": "ebcc178844f5",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -489,7 +489,7 @@
   "verifierNote": "Verified against 2026-03-09 Community & Protective Services Committee item 3.1 full text, 'That the motion BE AMENDED to add a new part ... the Committee MAY at a future time request a staff report on ... minimal distance requirements' Passed 3-2. Purely permissive/optional future-ask, no committal decision. Correctly unclear/procedural."
  },
  {
-  "id": "d0b0c8c79902",
+  "id": "5b74052cf448",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -501,7 +501,7 @@
   "verifierNote": "Verified against same item 3.1, 'That part b) BE AMENDED to read as follows: ... BE AMENDED in section 8.12 to offer or provide Short-term Accommodation at a Dwelling Unit for more than two individuals per bedroom ...' Failed 2-3. The scraped operative text itself is garbled/incomplete (reads as permitting MORE than two per bedroom where the evident regulatory intent, per the classifier's own paraphrase, was a CAP) and contains no AFFIRM_RE/DENY_RE verb of its own ('BE AMENDED' only) -- genuinely too ambiguous to assign a safe direction, and the amendment failed regardless. polarity=null correctly conservative. Confirmed."
  },
  {
-  "id": "d06cbd97e5ad",
+  "id": "048e272293db",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -515,7 +515,7 @@
   "verifierNote": "Report-back/consultation directive on rodent infestation response. No tracked-issue keyword. issue=none correct."
  },
  {
-  "id": "1d18fd70225e",
+  "id": "32845bc355a9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -529,7 +529,7 @@
   "verifierNote": "Procedural extension of a councillor's speaking time on an unrelated substantive agenda item (drug-paraphernalia distribution restriction) -- this entry is only the speaking-time motion itself, not a vote on that underlying item's substance. issue=none correct for what this entry actually is."
  },
  {
-  "id": "e4ab272cb05c",
+  "id": "3f686c24aaa1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -543,7 +543,7 @@
   "verifierNote": "Procedural meeting-extension motion. issue=none correct."
  },
  {
-  "id": "77c9afa67f05",
+  "id": "dd94f1038bc9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -557,7 +557,7 @@
   "verifierNote": "Procedural vote on sustaining a Chair's ruling during an unrelated substantive item (Community Housing Financial Challenges) -- this entry is only the procedural ruling vote itself, not a substantive housing decision. issue=none correct for what this entry actually is."
  },
  {
-  "id": "52ded9176c52",
+  "id": "0b30555f103f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -572,7 +572,7 @@
   "verifierNote": "Personnel/committee-appointment change for a councillor. GLOBAL_EXCLUDE-shaped (appointment/personnel, not a policy position). issue=none correct."
  },
  {
-  "id": "6bbd71829c90",
+  "id": "0918a759eae0",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -586,7 +586,7 @@
   "verifierNote": "Verified against 2026-03-03 Council item 8.1.10 full text, 'd) that the Applicant BE REQUESTED to prepare a tenant relocation plan ...' Passed 14-1. 'BE REQUESTED' is not a recognized AFFIRM_RE/DENY_RE/DEFER_RE outcome verb, and the text does not match RELOCATION_AWAY_RE (no 'off/away from/out of' language -- this asks the applicant to prepare a plan protecting existing tenants during redevelopment, not a directive to relocate anyone away). Correctly falls through to unclear rather than being force-read as either a relocation-away restriction or a generic approval. Confirmed."
  },
  {
-  "id": "4a2e8a2dad9d",
+  "id": "9ab58a021b16",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",

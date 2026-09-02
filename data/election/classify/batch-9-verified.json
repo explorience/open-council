@@ -1,6 +1,6 @@
 [
  {
-  "id": "76f0898f552f",
+  "id": "acb7102f5869",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -15,7 +15,7 @@
   "verifierNote": "LMCH board term extension amendment (Passed 11-3): confirmed personnel/governance action, not a housing-policy position -- full text at months/2025-05/2025-05-01 6th Meeting of the Strategic Priorities and Policy Committee.json item 4.1 verified (extends Squire/Thompson to Sept 30 2027, adds Savoy's term). No tracked-issue keyword hit in the operative clause; issue=none correct."
  },
  {
-  "id": "34ca38f3423f",
+  "id": "5d6dacbeccf1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -56,7 +56,7 @@
   "verifierNote": "Same item, narrower renaming directive (Trooper Wilson Place -> Peacekeeper Place) -- no tracked-issue content, confirmed none."
  },
  {
-  "id": "66e43dc2d262",
+  "id": "1f386d49f890",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -70,7 +70,7 @@
   "verifierNote": "Withdrawal of a prior consent-agenda bundling motion -- pure procedure, no substantive content to classify; confirmed none."
  },
  {
-  "id": "3086f22d87c4",
+  "id": "c660067edb19",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -84,7 +84,7 @@
   "verifierNote": "'Quick Communities' report-back directive -- checked full text at months/2025-04/2025-04-28 8th Meeting of the Community and Protective Services Committee.json item 4.1: the operative clause is purely 'prepare a report summarizing...research, stakeholder feedback and proposed next steps,' with zero substantive detail on what Quick Communities actually is. No housing/encampment keyword appears in the body. Cannot supply my own quote establishing a specific issue -- confirmed none/informational_ask as the conservative call."
  },
  {
-  "id": "b10bc4a302f1",
+  "id": "7c58397ee50e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -98,7 +98,7 @@
   "verifierNote": "Winter maintenance standards report-back directive -- informational ask, no tracked-issue keyword; confirmed none."
  },
  {
-  "id": "ae09f583f09b",
+  "id": "a613dbb921db",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -112,7 +112,7 @@
   "verifierNote": "Winter maintenance performance review directive -- 'BE REVIEWED' with a review-scope list; not an approve/deny decision and no tracked-issue keyword; confirmed none/informational_ask."
  },
  {
-  "id": "4e0d98d4fc80",
+  "id": "77d042d3f495",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -126,7 +126,7 @@
   "verifierNote": "PA Day request to school boards for election Voting Day -- pure administrative request, no tracked-issue content; confirmed none."
  },
  {
-  "id": "23f218536240",
+  "id": "254f40b53489",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -167,7 +167,7 @@
   "verifierNote": "Watson Park part a) (14-1): full text at months/2025-04/2025-04-22 7th Council Meeting.json item 8.2.9 confirms the exact quote and 14-1 vote; matches RELOCATION_AWAY_RE's own documented canonical case ('relocation of those living unhoused' + 'to ensure Watson Park is in compliance with established encampment protocols') -- unambiguous clearing directive, restrictive confirmed."
  },
  {
-  "id": "ab8c0a2b000c",
+  "id": "bac5d76743e9",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -181,7 +181,7 @@
   "verifierNote": "REFUTED restrictive polarity on the relocation axis. Full text (ab8c0a2b000c: months/2025-04/2025-04-22 7th Council Meeting.json item 8.2.9, Passed 9-6; 4a0ac7ff43c4: months/2025-04/2025-04-07 7th Meeting of the Community and Protective Services Committee.json item 5.1, Passed 3-2) is the SAME clause at committee vs council stage: 'the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible and that, in the interim period, depot resources be reallocated to assist those living unhoused find shelter or relocate them to an alternate location.' Unlike the companion part a) clause (e3801f6411ff/0f3d27aee05c), which the codebase's own RELOCATION_AWAY_RE was specifically built and documented around, this clause (1) is primarily an operational fixed-depot-to-mobile-model service change, not per se restrictive on its face, and (2) directs the leftover depot resources toward a genuine disjunction -- 'assist... find shelter OR relocate them to an alternate location' -- mixing a clearly supportive action (help find shelter) with a possibly-restrictive one (relocate elsewhere), rather than part a)'s unambiguous 'relocate AND connect with service supports.' I ran the actual RELOCATION_AWAY_RE regex from direction-rules.ts against this exact text and it does NOT match (no 'off/away from/out of/those living unhoused' phrase sits adjacent to 'relocate' or 'move' the way it does in part a) -- confirming this clause falls outside even the rule's own documented intent. Cannot positively confirm restrictive over the plausible neutral/mixed reading -- per unclear-is-safe, downgrading axis+polarity to null. issue=encampments stands (unambiguously about the Watson Park response); whatAYeaDid text is accurate and left unchanged."
  },
  {
-  "id": "dd280a8616dc",
+  "id": "dd17bc03a84d",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "restrictive",
@@ -193,7 +193,7 @@
   "verifierNote": "whatAYeaDid wording corrected -- issue/axis/polarity (housing/application-approval/restrictive) confirmed correct, but the field said 'Refused Royal Premier Homes' application...' as a completed fact. Full text (months/2025-04/2025-04-22 7th Council Meeting.json item 8.3.10) shows this REFUSAL motion itself FAILED 5-10 at Council (the application was later APPROVED 13-2 via a separate substitute motion, ef9ba6dbe683). Every other failed motion in this batch (e0b2c6bdb39c, 058e553b9214, 173b033d62b4) correctly uses 'Would have...' phrasing for a failed motion; this one didn't, which read as a false claim that the refusal was enacted. Corrected to 'Would have refused...' to match the batch's own convention and the actual 5-10 failed outcome. Quote is verbatim (part b of the first motion in item 8.3.10, confirmed against source) and remains the operative clause; a yea on it would have been the restrictive/refusal position, so axis/polarity are unchanged."
  },
  {
-  "id": "c518f6f2eead",
+  "id": "082e2788a8b7",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -205,7 +205,7 @@
   "verifierNote": "Full text at months/2025-04/2025-04-22 7th Council Meeting.json item 8.3.10 final motion (Passed 13-2, matches manifest): rezones 801 Sarnia Road Holding-R8 to R9, with the motion's own stated reason 'the recommended amendment would permit residential intensification.' R9 is a higher-density residential zone than R8 in London's zoning by-law (Z.-1); the motion's own reasons clause explicitly frames this as intensification. AXIS_PATTERNS' literal density regex doesn't fire on the word 'intensification' specifically, but the substantive read (rezoning to a materially higher-density designation, self-described by Council as intensification) supports density/expansive. Confirmed."
  },
  {
-  "id": "aabf1f257509",
+  "id": "e6dcc337748c",
   "issue": "climate",
   "axis": "natural-heritage",
   "polarity": "expansive",
@@ -219,7 +219,7 @@
   "verifierNote": "Full text at months/2025-04/2025-04-22 7th Council Meeting.json item 8.3.4 (Motion FAILED 5-10, matches manifest exactly): 'The subdivision approval authority include a draft plan condition specific to natural heritage compensation for the 1.27 hectares of feature removal...to demonstrate no net loss to the natural heritage features and functions.' Verbatim and unambiguous -- a yea adds a pro-environmental safeguard condition (compensate removed wetlands/woodlands for no net loss) that the base motion didn't otherwise include. Correctly uses 'Would have added...' since it failed. Confirmed climate/natural-heritage/expansive."
  },
  {
-  "id": "d6f396396ac2",
+  "id": "f83bcfb68b48",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -231,7 +231,7 @@
   "verifierNote": "Full text at months/2025-04/2025-04-22 7th Council Meeting.json item 8.3.4 final motion (Passed 14-1, matches manifest): rezones 3095 Bostwick Road Urban Reserve to Residential R2/R4 + Open Space for the Talbot Village Phase 8 subdivision. Verbatim quote matches part b) exactly. Confirmed housing/application-approval/expansive."
  },
  {
-  "id": "ed9a201c6bd8",
+  "id": "1687af2a6eee",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -243,7 +243,7 @@
   "verifierNote": "Full text at months/2025-04/2025-04-22 7th Council Meeting.json item 8.3.6 (Motion Passed 14-1, matches manifest): rezones 1622 Evans Boulevard, lifting a Holding provision, for the Drewlo Holdings development. Verbatim quote matches part b) exactly. Confirmed housing/application-approval/expansive."
  },
  {
-  "id": "2735e2dbd407",
+  "id": "f626d4c83b2d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -257,7 +257,7 @@
   "verifierNote": "Economic Development Strategy consultant appointment (Deloitte, $233,820) -- personnel/procurement decision, no tracked-issue keyword in body text; confirmed none, consistent with the batch's own board/consultant-appointment exclusion pattern."
  },
  {
-  "id": "df7bb1644686",
+  "id": "9635d16b9247",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -271,7 +271,7 @@
   "verifierNote": "Same consultant appointment at committee stage (Passed 10-2) -- confirmed none for the same reason."
  },
  {
-  "id": "22a71b3ad0fa",
+  "id": "849c29d54418",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -285,7 +285,7 @@
   "verifierNote": "Referral of the same consultant appointment to a future meeting pending a Canadian-firms report -- pure referral/non-decision; confirmed none."
  },
  {
-  "id": "37783630d9ea",
+  "id": "2977cfa03250",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -299,7 +299,7 @@
   "verifierNote": "Same PA Day request at committee stage (Passed 3-2) -- confirmed none, same as 4e0d98d4fc80."
  },
  {
-  "id": "9fcb8e1d3e65",
+  "id": "2902a5360631",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -313,7 +313,7 @@
   "verifierNote": "Ecological Reference Group Terms of Reference request (Failed 1-5) -- the operative text literally contains the phrase 'Terms of Reference,' which is a GLOBAL_EXCLUDE phrase in issue-rules.ts (governance-of-a-committee matters, not a substantive climate position) regardless of any incidental Environmental Impact Study/Assessment wording nearby. Confirmed none."
  },
  {
-  "id": "9cf59db8069f",
+  "id": "5956a4becf9d",
   "issue": "climate",
   "axis": "natural-heritage",
   "polarity": "expansive",
@@ -327,7 +327,7 @@
   "verifierNote": "Committee-stage version of the Bostwick natural-heritage amendment, full text at months/2025-04/2025-04-08 The 6th Meeting of the Planning and Environment Committee.json item 3.1 (Motion FAILED 2-3, matches manifest exactly). Same verbatim clause as e0b2c6bdb39c, correctly 'Would have added...' Confirmed expansive."
  },
  {
-  "id": "5e12a1ba30d6",
+  "id": "446cc53d8914",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -339,7 +339,7 @@
   "verifierNote": "Committee-stage recommendation on 1622 Evans Boulevard, full text at .../2025-04-08 The 6th Meeting of the Planning and Environment Committee.json item 3.3 (Motion Passed 4-1, matches manifest). Verbatim quote matches. Confirmed expansive."
  },
  {
-  "id": "d9ad554d21a3",
+  "id": "0ad3a2cbbe0c",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "restrictive",
@@ -351,7 +351,7 @@
   "verifierNote": "Committee-stage recommendation to refuse 801 Sarnia Road, full text at .../2025-04-08 The 6th Meeting of the Planning and Environment Committee.json item 3.7 (Motion Passed 4-1, matches manifest -- the refusal recommendation PASSED at committee, unlike the analogous Council-stage motion e836ac41a3c7 which FAILED 5-10). 'Recommended refusing...' is correctly phrased as a completed recommendation since this one passed. This cross-check is what surfaced e836ac41a3c7's wording error. Confirmed restrictive."
  },
  {
-  "id": "90d3ac06821f",
+  "id": "b7b84aa64193",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -366,7 +366,7 @@
   "verifierNote": "ETF committee-stage amendment adding a future report-back on executed contracts -- pure informational_ask/procedural, no direction; confirmed none."
  },
  {
-  "id": "4a0ac7ff43c4",
+  "id": "7b47438c5b0a",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -380,7 +380,7 @@
   "verifierNote": "REFUTED restrictive polarity on the relocation axis. Full text (ab8c0a2b000c: months/2025-04/2025-04-22 7th Council Meeting.json item 8.2.9, Passed 9-6; 4a0ac7ff43c4: months/2025-04/2025-04-07 7th Meeting of the Community and Protective Services Committee.json item 5.1, Passed 3-2) is the SAME clause at committee vs council stage: 'the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible and that, in the interim period, depot resources be reallocated to assist those living unhoused find shelter or relocate them to an alternate location.' Unlike the companion part a) clause (e3801f6411ff/0f3d27aee05c), which the codebase's own RELOCATION_AWAY_RE was specifically built and documented around, this clause (1) is primarily an operational fixed-depot-to-mobile-model service change, not per se restrictive on its face, and (2) directs the leftover depot resources toward a genuine disjunction -- 'assist... find shelter OR relocate them to an alternate location' -- mixing a clearly supportive action (help find shelter) with a possibly-restrictive one (relocate elsewhere), rather than part a)'s unambiguous 'relocate AND connect with service supports.' I ran the actual RELOCATION_AWAY_RE regex from direction-rules.ts against this exact text and it does NOT match (no 'off/away from/out of/those living unhoused' phrase sits adjacent to 'relocate' or 'move' the way it does in part a) -- confirming this clause falls outside even the rule's own documented intent. Cannot positively confirm restrictive over the plausible neutral/mixed reading -- per unclear-is-safe, downgrading axis+polarity to null. issue=encampments stands (unambiguously about the Watson Park response); whatAYeaDid text is accurate and left unchanged."
  },
  {
-  "id": "a25a6b489e81",
+  "id": "f6d9d77f59cf",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -394,7 +394,7 @@
   "verifierNote": "London Transit Commission composition reconsideration (7 vs 5 members) -- 'london transit' keyword is present, but this is Commission BOARD SIZE/governance, not a transit-service position; no content-axis (service/route/frequency/network/infrastructure) is present. Consistent with the codebase's own precedent for board-composition/appointment motions (e.g. Police Services Board) being excluded as personnel/governance rather than substantive issue positions. Confirmed none."
  },
  {
-  "id": "783efa2aebee",
+  "id": "b56218fe198c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -408,7 +408,7 @@
   "verifierNote": "By-law amendment implementing the 7-member Transit Commission size -- same governance/composition reasoning as a25a6b489e81; confirmed none."
  },
  {
-  "id": "3ecdb8dde129",
+  "id": "9b8d4803d9e7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -422,7 +422,7 @@
   "verifierNote": "Appointment of specific councillors to the Transit Commission -- pure personnel appointment; confirmed none."
  },
  {
-  "id": "98659cba0584",
+  "id": "844b298bee88",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -436,7 +436,7 @@
   "verifierNote": "Downtown Master Plan consultant appointment (Canadian Urban Institute, $415,000) -- 'Downtown Master Plan' appears in the operative body text itself (not just the item title), so issue=downtown is a legitimate body-text hit per issue-rules.ts's own requirement. But the clause is a personnel/procurement decision with no content position on downtown policy -- axis/polarity correctly left null rather than force a fake downtown stance from a plan's name. Confirmed as classified."
  },
  {
-  "id": "c7e50ba41dc6",
+  "id": "68a0dacac29e",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -448,7 +448,7 @@
   "verifierNote": "Full text at months/2025-04/2025-04-01 6th Council Meeting.json item 8.1.9 (Motion Passed 13-2, matches manifest exactly): 'the Roads Projects maps BE APPROVED; with the following amendment...expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle.' Verbatim, operative, and substantively a road-capacity expansion -- issue-rules.ts's transit cluster is explicitly labelled 'Transit & Roads' and includes 'road widening' as a keyword, so this fits squarely even though it's not literally a transit-service clause. Confirmed transit/service-expansion/expansive."
  },
  {
-  "id": "1c01de0e5a7b",
+  "id": "8888017a8223",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -460,7 +460,7 @@
   "verifierNote": "Same item, index 2 (Motion Passed 14-1, matches manifest): 'the Transit Priority Network maps BE APPROVED' -- verbatim, unambiguous approval of a new transit-priority route network. Confirmed expansive."
  },
  {
-  "id": "0bb386581df6",
+  "id": "4d3d41dd3b85",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "expansive",
@@ -472,7 +472,7 @@
   "verifierNote": "Same item, index 3 (Motion Passed 11-4, matches manifest): 'the Cycling Network maps BE APPROVED, except:' -- verbatim. This is the exact ID direction-rules.ts cites as its own canonical noun-first-approval fix case; confirmed expansive."
  },
  {
-  "id": "d85fe3feb38a",
+  "id": "07ddefaa133b",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",
@@ -508,7 +508,7 @@
   "verifierNote": "Same item, index 6 (Motion Passed 11-4, matches manifest): 'C. Vancouver Street from Trafalgar Street to Wavell Street' under the same removal antecedent. Confirmed restrictive."
  },
  {
-  "id": "173b033d62b4",
+  "id": "67956909add8",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",
@@ -520,7 +520,7 @@
   "verifierNote": "Same item, index 7 (Motion FAILED 5-10, matches manifest exactly): 'ii) the following Proposed Network Additions BE REMOVED from the Network Cycling Maps: A. Huron Street' -- correctly uses 'Would have removed...' phrasing since the motion failed. Confirmed restrictive (of the failed removal attempt)."
  },
  {
-  "id": "ee08870a7edb",
+  "id": "3b2acd51d461",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": null,
@@ -532,7 +532,7 @@
   "verifierNote": "Same item, index 8 (Motion Passed 14-1, matches manifest), immediately following the failed Huron Street removal above: 'Huron Street BE CHANGED to medium-term cycling project.' Tried to establish a direction myself and could not: the motion text doesn't state what tier Huron Street is moving FROM, so whether 'medium-term' is a delay (restrictive) or a genuine placement (neutral) can't be determined from the text alone. Confirmed the classifier's unclear/null call -- I have no verbatim basis to assign a direction."
  },
  {
-  "id": "869e73d0f26b",
+  "id": "d905ef818c14",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",
@@ -544,7 +544,7 @@
   "verifierNote": "Same item, index 9 (Motion Passed 10-5, matches manifest): 'B. Taylor Street, McNay Street and Gammage Street' under the 'BE REMOVED from the Cycling Network Maps' antecedent (established two motions earlier in the same ii) sub-clause, alongside Huron St which was split out separately). Confirmed restrictive."
  },
  {
-  "id": "af145538050f",
+  "id": "46579e9c40ba",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",
@@ -556,7 +556,7 @@
   "verifierNote": "Same item, index 10 (Motion Passed 14-1, matches manifest): 'the Windermere Road to Gainsborough Road Active Transportation Connection BE REMOVED from the Cycling Network maps' -- verbatim, standalone, unambiguous. Confirmed restrictive."
  },
  {
-  "id": "47061fa4a390",
+  "id": "c00911f9ed6d",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -568,7 +568,7 @@
   "verifierNote": "Same item, index 12 (Motion Passed 9-6, matches manifest): 'the Civic Administration BE DIRECTED to re-start the...Environmental Assessment...in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit.' Verbatim and operative -- the primary, near-term commitment is building six general-purpose (car) through lanes, with BRT conversion only a long-term 'option,' not a commitment. This is unambiguously a road-widening/infrastructure-expansion vote (the tracked axis's own label is 'expanded transit OR road service/infrastructure,' bundling both modes), so expansive is confirmed as coded -- but flagging for the record that a naive reader could mistake this axis label for 'supported transit specifically,' when the substance is road-capacity expansion with only an optional future transit conversion. As long as downstream display uses the literal axisLabel text this isn't a false statement, just a nuance worth knowing."
  },
  {
-  "id": "c982238f3e53",
+  "id": "a0723b64572a",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -582,7 +582,7 @@
   "verifierNote": "Same item, index 13 (Motion Passed 12-3, matches manifest): 'the Mayor and Civic Administration BE REQUESTED to engage in discussions with neighbouring municipalities and the Province...on a ring road and integrated transportation network' -- a request to begin discussions, not a decision; correctly left unclear/no polarity. Confirmed none."
  },
  {
-  "id": "87bccdfb472c",
+  "id": "931d79947317",
   "issue": "transit",
   "axis": null,
   "polarity": null,

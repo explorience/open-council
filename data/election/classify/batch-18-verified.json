@@ -1,6 +1,6 @@
 [
  {
-  "id": "0ae2eb6affd6",
+  "id": "5f2ded2dd2f9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -12,7 +12,7 @@
   "verifierNote": "Confirmed. Coriano Capital gov-relations contract extension (item 2.3, Passed 5-1) \u2014 no tracked-issue keyword anywhere in the operative text; issue=none is correct."
  },
  {
-  "id": "f6ea568328ee",
+  "id": "a84eeb4bc824",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -26,7 +26,7 @@
   "verifierNote": "Confirmed. Item 12.1 content[0], Failed 7-8, verbatim: 'That pursuant to section 20 of the Council Procedure By-law, leave BE GIVEN for the introduction of an emergent motion to consider amendments to the Mayor's 2024-2027 Multi-Year Budget.' A pure leave-to-introduce procedural gate, not a decision on any budget content \u2014 issue=none/polarity=null correct even though the clause names 'budget'."
  },
  {
-  "id": "acd7ca1ecdcd",
+  "id": "333b5ac26fcd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -40,7 +40,7 @@
   "verifierNote": "Confirmed. Item 6 content[1], Passed 12-3, verbatim matches quote in whatAYeaDid: agenda-order change moving Emergent Motions earlier. Council-procedure item, no tracked issue."
  },
  {
-  "id": "914a060cc7ee",
+  "id": "303563f0d24f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -54,7 +54,7 @@
   "verifierNote": "Confirmed. Item 7.1 content[0], Failed 6-9: pure leave-to-introduce gate for a notice of motion touching Business Cases #P-L8/#P-L9/#P-28/#P-29/#P-57. Procedural non-decision, correctly issue=none/polarity=null despite naming a police-related business case (#P-29) in passing."
  },
  {
-  "id": "01a2ed8dac95",
+  "id": "f92859ffd555",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "restrictive",
@@ -66,7 +66,7 @@
   "verifierNote": "Confirmed. Item 8.2.14, Passed 9-6, quote verbatim-matches full text exactly (checked against the $ breakdown rows too). Issue=downtown is the correct keyword-tie-break outcome: body hits 'downtown' + 'downtown plan' (2) tie with budget hits 'multi-year budget' + 'capital budget' (2), and ISSUE_ORDER ranks downtown ahead of budget, so downtown wins the tie. Direction-rules.ts defines no dedicated axis for downtown, so the generic application-approval fallback is the only vocabulary-legal choice; restrictive (cutting $100k/yr) is unambiguously the correct polarity. No denial-flip, no title/clause mismatch."
  },
  {
-  "id": "f329694d1226",
+  "id": "295a22bb5a32",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "restrictive",
@@ -78,7 +78,7 @@
   "verifierNote": "Confirmed. Item 8.2.15, Passed 9-6, quote verbatim-matches. Same reasoning as da942ff268c5 (Dundas Place Equipment, same tie-break logic, same generic-fallback axis). Restrictive is correct."
  },
  {
-  "id": "371408bc6cb2",
+  "id": "e40d08685a24",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -90,7 +90,7 @@
   "verifierNote": "Confirmed. Item 8.2.22 content[0], Failed 4-11, quote verbatim. Increasing Business Case #P-46 (add actions 3+6, ~$75-100k/yr) is unambiguously expansive on budget size."
  },
  {
-  "id": "0b9450861397",
+  "id": "4b835f9f798d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -104,7 +104,7 @@
   "verifierNote": "Confirmed. Item 8.2.22 content[1], Passed 9-6, verbatim: chair's ruling on order sustained \u2014 pure procedural, correctly issue=none."
  },
  {
-  "id": "cd86a08f5c79",
+  "id": "2071a9b9c052",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -116,7 +116,7 @@
   "verifierNote": "Confirmed. Item 8.2.22 content[2], Passed 14-1, quote verbatim. Reducing P-46 Action 12 by $450k/yr 2025-2027 is unambiguously restrictive."
  },
  {
-  "id": "d6e76583b5c9",
+  "id": "ff0da2243870",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -128,7 +128,7 @@
   "verifierNote": "Confirmed. Item 8.2.24, Failed 6-9, quote verbatim. Double-negative correctly resolved: removing a REDUCTION-to-5.4% and substituting the higher 6.3% base increase nets to a bigger Museum London budget increase \u2014 expansive is right, not a denial-flip trap."
  },
  {
-  "id": "2abe28697a4e",
+  "id": "c4558a7c1cac",
   "issue": "policing",
   "axis": "budget-size",
   "polarity": "restrictive",
@@ -140,7 +140,7 @@
   "verifierNote": "Confirmed. Item 8.2.26 content[0], Failed 7-8, quote verbatim ('reducing Business Case #P-29 by 5%'). Own text doesn't self-identify P-29 as police, but the sibling motion in the SAME item (content[1], d16bcff25aa5) explicitly reads 'Business Case #P-29 - Police Vehicle and Equipment Requirements' \u2014 same numbered business case, same agenda item, legitimate cross-reference. Medium confidence appropriately retained. Restrictive is correct."
  },
  {
-  "id": "d16bcff25aa5",
+  "id": "06118a731cb5",
   "issue": "policing",
   "axis": "budget-size",
   "polarity": "restrictive",
@@ -152,7 +152,7 @@
   "verifierNote": "Confirmed. Item 8.2.26 content[1], Failed 7-8, quote verbatim, self-identifies as Police Vehicle and Equipment Requirements. Restrictive (funding cut) correct."
  },
  {
-  "id": "b0a5846fa9db",
+  "id": "41320003305a",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -164,7 +164,7 @@
   "verifierNote": "Confirmed. Item 8.2.27 content[0], Failed 7-8, quote verbatim. Adding $316k/yr (2026-2027) Parks Operations funding is expansive on budget size."
  },
  {
-  "id": "7329cb0af63a",
+  "id": "c2d608e204b1",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -176,7 +176,7 @@
   "verifierNote": "Confirmed. Item 8.2.39 content[0], Failed 7-8, quote verbatim. Adding $400k/yr for Hoarding/Extreme Clean Program (P-15) is expansive; issue=budget correct (no housing/encampment keyword literally present in this text \u2014 'hoarding' isn't in the housing or encampments keyword lists)."
  },
  {
-  "id": "fac9c011ec89",
+  "id": "dded50581b28",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -188,7 +188,7 @@
   "verifierNote": "Confirmed. Item 8.2.40 content[0], Failed 7-8, quote verbatim. Adding $700k/yr for Housing Stability Bank Expansion (P-16). issue=budget is correct per the given keyword lists ('housing stability bank' matches no literal housing/encampments keyword phrase); expansive correct."
  },
  {
-  "id": "f61c9cf71d80",
+  "id": "b547333b3963",
   "issue": "housing",
   "axis": "density",
   "polarity": "restrictive",
@@ -200,7 +200,7 @@
   "verifierNote": "Confirmed \u2014 denial-flip handled correctly. Item 3.3, Passed 3-1, quote verbatim matches the full refusal clause exactly, including the R1-to-R8 rezoning description. 'BE REFUSED' on a request that would have moved the property from low-density R1 to higher-density R8 nets to restrictive (the refused request was itself an upzoning ask) \u2014 this is the correct denial-flip read, not a naive 'yea=support upzoning' misread. Z-9689 code pattern independently confirms issue=housing."
  },
  {
-  "id": "e67269fef518",
+  "id": "c0a130b2b91f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -215,22 +215,7 @@
   "verifierNote": "Confirmed. Item 4.1 content[1], Passed 4-1, quote matches ('BE REFERRED back to Civic Administration ... BE DIRECTED to bring forward a draft by-law ... by end of Q2 2024'). Genuine referral/non-decision, correctly excluded from direction."
  },
  {
-  "id": "c58fcf1c3125",
-  "issue": "none",
-  "axis": null,
-  "polarity": null,
-  "whatAYeaDid": "Noted receipt of five public communications on the graphic-images display item, without deciding the matter.",
-  "confidence": "high",
-  "quote": "",
-  "flags": [
-   "informational_ask",
-   "wrapper_preamble"
-  ],
-  "verdict": "confirmed",
-  "verifierNote": "Confirmed. Item 4.1 content[2], Passed 4-1, matches ('noted... communications... were received'). Pure informational receipt, correctly excluded."
- },
- {
-  "id": "92217c9fca3b",
+  "id": "c0290abe1790",
   "issue": "policing",
   "axis": "budget-size",
   "polarity": "restrictive",
@@ -242,7 +227,7 @@
   "verifierNote": "Confirmed. Item 3.29 content[0], Failed 3-12, quote verbatim matches exactly including the offsetting-reduction clause. Own text does not literally contain the regex phrase 'police budget' (it says 'London Police Services operating budget', broken by the plural/adjective), but the quantified $1,688,000-$2,250,000/yr offsetting cut to LPS is the one unambiguous, dollar-figure police-budget signal in an otherwise housing-business-case bundle \u2014 issue=policing is a well-justified, transparently-reasoned choice consistent with ISSUE_ORDER's specific-over-generic tie-break philosophy. Restrictive (police budget reduced) is correct; this does not mischaracterize the housing spending itself, only the policing dimension it's tagged under."
  },
  {
-  "id": "decf822984d2",
+  "id": "9dafcf8dc20a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -256,7 +241,7 @@
   "verifierNote": "Confirmed. Item 3.29 content[1], Passed 12-3, matches ('Councillor C. Rahman BE PERMITTED to speak an additional 5 minutes'). Pure procedural, correctly issue=none."
  },
  {
-  "id": "f5672a0e9141",
+  "id": "9003cb15c8e1",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -268,7 +253,7 @@
   "verifierNote": "Confirmed. Item 3.30 content[0], Failed 7-8, quote verbatim. Standalone $400k/yr P-15 addition, expansive correct."
  },
  {
-  "id": "d424faa3a4c9",
+  "id": "0919b47fec35",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -280,7 +265,7 @@
   "verifierNote": "Confirmed. Item 3.31 content[0], Failed 6-9, quote verbatim. Standalone $700k/yr P-16 addition, expansive correct."
  },
  {
-  "id": "3424052e182e",
+  "id": "72974a715630",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -292,7 +277,7 @@
   "verifierNote": "Confirmed. Item 3.32 content[0], Passed 11-4, quote verbatim. Reducing P-36 (Safe London/Anti-Racism) by $58k/yr to a flat $125k is unambiguously restrictive."
  },
  {
-  "id": "04664b9f96a1",
+  "id": "c8560208ccc7",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -304,7 +289,7 @@
   "verifierNote": "Confirmed. Item 3.33 content[0], Passed 8-7, quote verbatim. Adding 18,000 hrs/yr LTC-recommended transit growth funding, expansive on transit correct."
  },
  {
-  "id": "02f66ef73058",
+  "id": "0cafafceba4a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -318,7 +303,7 @@
   "verifierNote": "Confirmed. Item 3.34 content[2], Passed 10-5, matches ('Councillor S. Trosow BE PERMITTED to speak an additional 5 minutes'). Procedural, correctly issue=none."
  },
  {
-  "id": "68345dd4c078",
+  "id": "c700e245787e",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -330,7 +315,7 @@
   "verifierNote": "Confirmed. Item 3.34 content[3] (part a, 2024), Passed 9-6, quote verbatim matches exactly. 5.4%->7% library base-budget increase, expansive correct."
  },
  {
-  "id": "38d7f6ed72c4",
+  "id": "38208e05392b",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -342,7 +327,7 @@
   "verifierNote": "Confirmed. Item 3.34 content[4] (part b, 2025), Failed 6-9, quote verbatim. 'Would have increased' framing is accurate given the fail; direction (what a yea would have done) is expansive, correctly captured."
  },
  {
-  "id": "bf46bccfd06a",
+  "id": "6c98b03dfb2e",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -354,7 +339,7 @@
   "verifierNote": "Confirmed. Item 3.34 content[5] (part c, 2026), Failed 6-9, quote verbatim. Same reasoning, expansive correct."
  },
  {
-  "id": "7887cbf40631",
+  "id": "b6972d59df63",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -366,7 +351,7 @@
   "verifierNote": "Confirmed. Item 3.34 content[6] (part d, 2027), Failed 5-10, quote verbatim. Same reasoning, expansive correct."
  },
  {
-  "id": "ab96c21a81e0",
+  "id": "3751f8ed1ef5",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -378,7 +363,7 @@
   "verifierNote": "Confirmed. Item 3.35 content[2] (part a), Passed 9-6, quote verbatim. $31k Creativity Lab expansion, expansive correct."
  },
  {
-  "id": "fb5e80fd7115",
+  "id": "8e57a868a95d",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -390,7 +375,7 @@
   "verifierNote": "Confirmed. Item 3.35 content[3] (part b), Passed 10-5, quote verbatim. $100k digital literacy programs, expansive correct."
  },
  {
-  "id": "aa2652715eaf",
+  "id": "d078e8b881e4",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -402,7 +387,7 @@
   "verifierNote": "Confirmed. Item 3.36 content[2] (part a), Failed 7-8, quote verbatim matches (truncated but faithful \u2014 omits only the trailing 'to reflect more inclusive...' clause, not operative to the $ figure or direction). $134k/yr collections funding, expansive correct."
  },
  {
-  "id": "4d51d4c7f3fa",
+  "id": "8bec0d63163e",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -414,7 +399,7 @@
   "verifierNote": "Confirmed. Item 3.36 content[3] (part b), Passed 8-7, quote verbatim. $100k one-time print-materials funding, expansive correct."
  },
  {
-  "id": "c975eb034a57",
+  "id": "7f9cba8155ba",
   "issue": "climate",
   "axis": "target-strength",
   "polarity": "restrictive",
@@ -426,7 +411,7 @@
   "verifierNote": "Confirmed. Item 3.37 content[0], Passed 11-4, quote verbatim including the transit-offset clause. Reducing CCI Fund to a flat $1M/yr is restrictive; 'target-strength' is a loose fit (the clause is about fund size, not a numeric emissions/renewable target) but it's the only climate axis in the given vocabulary that plausibly houses a climate-funding cut, and the restrictive direction itself is unambiguous \u2014 not a wrong-direction risk."
  },
  {
-  "id": "85551557a69f",
+  "id": "fba68d19b0c7",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -438,7 +423,7 @@
   "verifierNote": "Confirmed. Item 3.39, Failed 3-12, quote verbatim ('reducing the funding for Business Case #P-L3'). 'reducing...funding' is a direct, in-window match for the levy-size restrictiveRe pattern (DECREASE immediately adjacent to 'funding'). Restrictive correct; issue=budget (not housing) is well-reasoned since the clause is about the budgeted fiscal cost of a provincial statutory exemption, not a zoning/density decision."
  },
  {
-  "id": "e2d99c6f8b4d",
+  "id": "1e416a2f70db",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -450,7 +435,7 @@
   "verifierNote": "Confirmed. Item 8.2.5, Passed 13-2, $28.5M Bre-ex contract award for East London Link Phase 3C. No tracked-issue keyword in the operative text (no 'transit', no downtown phrase) \u2014 issue=none correct."
  },
  {
-  "id": "370948fd7769",
+  "id": "4214b0fc1e5c",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -462,7 +447,7 @@
   "verifierNote": "Confirmed. Item 8.2.6, Passed 13-2, quote verbatim ('the bid submitted by Bre-Ex Construction Inc... BE ACCEPTED'). 'Rapid Transit Implementation' in the item title and body triggers issue=transit; AFFIRM_RE fires on the clause's own 'BE APPROVED'/'BE ACCEPTED'/'BE AUTHORIZED' language, so application-approval/expansive is a correct, literal read (not just a substance judgment) \u2014 no service-expansion axis wording is needed since the clause itself affirms."
  },
  {
-  "id": "56a6d8c3bd39",
+  "id": "9b03c9f7ade7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -474,7 +459,7 @@
   "verifierNote": "Confirmed. Item 8.2.8, Passed 13-2, $9.3M Bre-Ex contract for East London Link Phase 3A West (Dundas STREET, not Dundas Place) \u2014 no tracked-issue keyword, issue=none correct."
  },
  {
-  "id": "88ae9c2045ab",
+  "id": "5eb83919fec3",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -489,7 +474,7 @@
   "verifierNote": "Confirmed. Item 8.3.4 content[1], Failed 3-12, quote-equivalent text verbatim ('BE REFERRED back to Civic Administration to meet with the service providers and review the proposed budgets... two-year rather than one-year renewal agreements and report back...'). Genuine referral, correctly polarity=null. Note: item 8.3.4's content[0] (Passed 13-2, the SS-2024-042 Housing Stability Services main approval \u2014 a substantive, divided, ~$4.85M decision) has no id anywhere in the manifest and is absent from every batch I can see \u2014 flagging as a possible upstream completeness gap outside this batch's scope, not something to fix here since 88ae9c2045ab's own classification is independently correct."
  },
  {
-  "id": "1d96de84a4bd",
+  "id": "3c354823c7a9",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -501,7 +486,7 @@
   "verifierNote": "Confirmed. Item 8.4.14 content[1], Passed 11-4, quote-equivalent verbatim ('amendment BE APPROVED... allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility'). OZ-8709 code pattern correctly drives issue=housing; no defined housing axis (density/use-permission/affordable-funding) fits a commercial-use/drive-through permission, so axis=null is the responsible, non-forced call."
  },
  {
-  "id": "0b97a04eaed5",
+  "id": "3c434bc28cf7",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -515,7 +500,7 @@
   "verifierNote": "Confirmed. Item 8.4.14 content[2], Failed 4-11, matches ('further notice BE GIVEN in respect of the proposed by-law' \u2014 failed, so no further notice required). Pure Planning Act procedural notice question, correctly polarity=null."
  },
  {
-  "id": "dfbe003808ef",
+  "id": "de0c7139026d",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -529,7 +514,7 @@
   "verifierNote": "Confirmed. Item 8.4.14 content[3], Passed 10-5, quote verbatim EXACT match: 'That item 14, clause 3.9, as amended, BE APPROVED.' This is the code's own worked example pattern (see direction-rules.ts comment re: 'That item 10, clause 3.5, as amended, BE APPROVED.') \u2014 nothing follows this clause with an independent verb, so the wrapper is NOT stripped and its own BE APPROVED is the real, only decision on the whole OZ-8709 package (OP amendment + rezoning from Open Space to Holding Open Space Special Provision, as amended by the passed commercial-units clause and the failed further-notice clause). Expansive/application-approval correctly reflects final approval of a rezoning permitting development; medium confidence appropriately retained given the inference chain."
  },
  {
-  "id": "7eb5f65600d1",
+  "id": "5c71af54ca39",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -541,7 +526,7 @@
   "verifierNote": "Confirmed. Item 3.21, Failed 2-13, quote verbatim exact match. Removing Business Case #P-L3 entirely (~$1.8M/yr) is unambiguously restrictive on budget/levy-size."
  },
  {
-  "id": "c9f276f22cbc",
+  "id": "3c81cb54518f",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -553,7 +538,7 @@
   "verifierNote": "Confirmed. Item 3.22, Failed 6-9, quote verbatim matches (truncated before the $ breakdown, but faithful to the operative clause). $60k one-time Board Governance Training funding under P-40, expansive correct."
  },
  {
-  "id": "26a1844b1671",
+  "id": "0006dd37efb2",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",

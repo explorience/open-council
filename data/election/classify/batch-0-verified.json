@@ -1,6 +1,6 @@
 [
  {
-  "id": "4c82f95207fe",
+  "id": "d2b6a1410c01",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -14,7 +14,7 @@
   "verifierNote": "Confirmed. Independently loaded 2026-08-11 PEC item 3.6. The recorded 3-2 vote is on a bare wrapper (\"the motion, as amended, BE APPROVED\") -- resolved by reading it against the base motion (part b, the FROM/TO zoning text quoted) plus the sole adopted amendment (a privacy-fence clause added to part c, design issues only). The amendment never touches part b, so the quoted zoning-change text is exactly what passed. R9-1(3)*H19*B-79 -> R9-7(_)*H46 could imply a height change via the H-schedule, but the clause itself never says \"increase\"/\"height\"/\"density\" -- left on application-approval per the documented rezoning-code-literacy exclusion; not overturned."
  },
  {
-  "id": "4e2861ffc59a",
+  "id": "a8e2f548211a",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -26,7 +26,7 @@
   "verifierNote": "Confirmed. 2026-07-21 Council item 8.1.5, single un-amended motion, quote is verbatim from part a)i), vote 12-3 matches. Straightforward federal transit funding agreement approval, no denial/relocation/business-case traps present."
  },
  {
-  "id": "a7f830659ba0",
+  "id": "be505c176186",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -40,7 +40,7 @@
   "verifierNote": "Confirmed unclear/none. Quote (part c funding approval) verbatim. Checked issue-rules.ts climate and budget keyword lists against the full text -- no literal hit (\"Green Development Framework Study\" doesn't match any tracked keyword); issue=none is correct, not force-fit to climate."
  },
  {
-  "id": "c7bf822cb0ae",
+  "id": "af9788e597a8",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -54,7 +54,7 @@
   "verifierNote": "Confirmed. 2026-07-21 Council item 8.2.7. Recorded 14-1 vote is on the \"as amended\" wrapper; resolved against the base motion (quoted text: increase citywide minimum parking) plus the adopted amendment (a NEW 0.5-space/unit ratio carve-out for affordable housing, which does not alter the quoted base text). Checked for a business-case-exclusion or denial trap -- none present, this is a straight zoning by-law introduction. No literal density/height wording, so left on the generic application-approval axis rather than force-fit to a parking-specific axis that doesn't exist in direction-rules.ts."
  },
  {
-  "id": "780a4ce2d9bb",
+  "id": "b238caa6fd22",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -68,7 +68,7 @@
   "verifierNote": "Confirmed. 2026-07-21 Council item 8.3.12. Same wrapper pattern: 13-2 vote is on \"the motion, as amended\"; the sole amendment adds a sidewalk-improvement design clause to part c) and does not touch the quoted part b) zoning text. Verbatim confirmed against the base motion."
  },
  {
-  "id": "729603c2a177",
+  "id": "2900bcb89ee4",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -82,7 +82,7 @@
   "verifierNote": "Confirmed unclear. Pure referral (BE REFERRED, no BE APPROVED/DENIED anywhere in the clause) -- DEFER_RE-only text, correctly excluded. Quote verbatim, vote 11-4 matches."
  },
  {
-  "id": "14bab35d7df3",
+  "id": "db5b01a2411e",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -96,7 +96,7 @@
   "verifierNote": "Confirmed unclear. This is the FAILED (5-10) referral motion for the Special Constable item -- whatAYeaDid correctly uses \"would have\" framing since it didn't pass. Quote verbatim."
  },
  {
-  "id": "8b6d676e9921",
+  "id": "9350823647dc",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -110,7 +110,7 @@
   "verifierNote": "Confirmed unclear. Pure wording amendment to part e) of a report-back directive (adds \"mixed CIR/Special Constable\" focus) -- no independent approve/deny content, informational_ask correctly applied. Quote verbatim, 13-2 matches (this vote result recurs twice in the item; verified by text match this is the wording-amendment motion, not the later part-e sub-vote which has different text)."
  },
  {
-  "id": "c4edae11a020",
+  "id": "776d36b6bc34",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -124,7 +124,7 @@
   "verifierNote": "Confirmed unclear. The reframing amendment (establishing -> implementing a permanent program; adds traffic/school-zone enforcement scope) -- still purely about what a FUTURE report must cover, no program is funded/established here. Quote verbatim; this 10-5 result recurs 3x in the item, confirmed by text match this is the amendment-adoption motion, not either sub-vote."
  },
  {
-  "id": "d18f8e672d56",
+  "id": "1fd6e77e5a25",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -138,7 +138,7 @@
   "verifierNote": "Confirmed unclear. Part d) sub-vote (cost/funding-options report-back scope) -- informational_ask, no decision on the program itself. Quote verbatim; disambiguated from two other 10-5 results in the same item by matching the actual part-d text."
  },
  {
-  "id": "e44917af01d5",
+  "id": "2b25c117ac0f",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -166,7 +166,7 @@
   "verifierNote": "Confirmed unclear. Part e) sub-vote (CIR/Special Constable staffing-model focus for the report) -- informational_ask, quote verbatim, 13-2 matches."
  },
  {
-  "id": "e3077dbdd123",
+  "id": "778e12840488",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -180,7 +180,7 @@
   "verifierNote": "Confirmed unclear. FAILED (7-8) directive to review an administrative fee -- pure report-back/review language, correctly framed with \"this failed.\" Quote verbatim. No policing-cluster keyword present (Municipal Law Enforcement fee review, not London Police Service) -- issue=none correctly not force-fit to policing."
  },
  {
-  "id": "4d9b9481f9ba",
+  "id": "fd6737cd16f4",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -194,7 +194,7 @@
   "verifierNote": "Confirmed procedural/none. Standard \"proceed beyond 6:00 PM\" Council Procedure By-law motion, quote verbatim, 13-2 matches."
  },
  {
-  "id": "c884af5b7ed6",
+  "id": "c1f12ccfbb1a",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -208,7 +208,7 @@
   "verifierNote": "Confirmed unclear. Referral of part c) (emergency shelter guidelines implementation) to a future CPSC meeting for a staff report -- pure DEFER_RE, quote verbatim, 14-1 matches. Note: the classifier's own stats claimed this specific clause's text doesn't repeat \"emergency shelter\" -- it actually does (\"implement the updated emergency shelter guidelines\"), so the encampments classification is even more directly supported than the classifier's note suggested; doesn't change the correct null polarity."
  },
  {
-  "id": "423774faef1e",
+  "id": "efc73927922d",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -222,7 +222,7 @@
   "verifierNote": "Confirmed unclear. Council-level referral of the entire Winter Response report back to CPSC pending federal-funding discussions -- pure DEFER_RE, quote verbatim, 13-2 matches. Correctly distinct from f1e67ede69ac (the earlier CPSC-level 4-1 approval of the same substantive item) -- both are real, separately-recorded votes at different meeting stages, not duplicates."
  },
  {
-  "id": "9efd41c75bfa",
+  "id": "198b360984e2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -236,7 +236,7 @@
   "verifierNote": "Confirmed unclear. Report-back-by-Q1-2027 directive on an AC pilot program design -- informational_ask, quote verbatim, 13-2 matches. No housing/climate keyword hit in the voted clause -- issue=none correct."
  },
  {
-  "id": "0caaac4a596a",
+  "id": "e3edf6c6b7bc",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -262,7 +262,7 @@
   "verifierNote": "Confirmed. 2026-07-14 PEC item 3.8. Recorded 4-1 vote is on the wrapper \"as amended, BE APPROVED\"; resolved against the restated base motion (2nd motion object) which already incorporates the sole adopted amendment (revised, smaller/relocated park-block wording in part c)i) -- confirmed the quote uses the POST-amendment park-block text, not the pre-amendment original, correctly reflecting what was actually adopted."
  },
  {
-  "id": "bec87774f19c",
+  "id": "c40e85ae0f60",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -276,7 +276,7 @@
   "verifierNote": "Confirmed procedural/none. 10-minute recess motion, correctly excluded via the recess GLOBAL_EXCLUDE rule despite being nested under the same rezoning item's Z/OZ code. Quote verbatim, 4-1 matches (disambiguated from the substantive 4-1 rezoning vote in the same item by voter-list/text)."
  },
  {
-  "id": "f1e67ede69ac",
+  "id": "ce4d199d57a6",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -288,7 +288,7 @@
   "verifierNote": "Confirmed. 2026-07-13 CPSC item 2.3. Recorded 4-1 vote is on the wrapper \"parts b), c) and d) of the motion BE APPROVED\"; quote (part c, contingency-reserve financing) verified against the base (unresulted) motion object. Checked encampments response-scale axis pattern manually: \"additional financing for the Proposed Winter Response ... BE APPROVED\" -- \"additional\" precedes \"response\" within the 60-char window, axis fires correctly, expansive is right."
  },
  {
-  "id": "d862792a9a67",
+  "id": "97f7bc8dda48",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -302,7 +302,7 @@
   "verifierNote": "Confirmed unclear. CPSC-level original Special Constable feasibility directive (pre-amendment, pre-referral-attempt), 4-2, informational_ask, quote verbatim."
  },
  {
-  "id": "602bbc69987f",
+  "id": "af817389be86",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -316,7 +316,7 @@
   "verifierNote": "Confirmed unclear. FAILED (3-3 tie) CPSC-level reframing amendment -- whatAYeaDid correctly uses \"would have\" framing. Quote verbatim."
  },
  {
-  "id": "490a0c35243d",
+  "id": "624bbce4951c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -330,7 +330,7 @@
   "verifierNote": "Confirmed unclear. Wording amendment adding \"cost recovery\" to the fee-review directive -- no independent decision content, quote verbatim, 4-1 matches."
  },
  {
-  "id": "82741a99f795",
+  "id": "089c7bc6b756",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -344,7 +344,7 @@
   "verifierNote": "Confirmed. Standalone part c) vote (8-6), quote verbatim -- explicit \"increase in density from 71 units per hectare to 107 units per hectare\" is a clean, literal density-axis hit, correctly not routed to the generic fallback."
  },
  {
-  "id": "87be608d13d9",
+  "id": "fcee6a9bf1a6",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -358,7 +358,7 @@
   "verifierNote": "Confirmed. \"Balance of the motion\" vote (parts a+b, 13-1) covering the land-award/Contribution-Agreement text -- quote (part a) verbatim, correctly distinguished from the separately-recorded part c) density vote (82741a99f795) on the same item."
  },
  {
-  "id": "4df11e775c7f",
+  "id": "f74ed511bc6d",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -370,7 +370,7 @@
   "verifierNote": "Confirmed. Single un-amended motion, 13-1, quote verbatim -- Build Canada Homes application directive, explicit \"affordable housing\" text supports the affordable-funding axis."
  },
  {
-  "id": "c6155b3cd944",
+  "id": "031fe5fbc781",
   "issue": "budget",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -382,7 +382,7 @@
   "verifierNote": "Confirmed. Council-level Centre of Opportunity vote (13-1), one combined vote covering endorse/authorize-funding/refer-additional/report-back clauses together; AFFIRM_RE clauses (BE ENDORSED, BE AUTHORIZED) are real and present alongside the deferred/report-back clauses, so this isn't a deferOnly case -- checked for a business-case-exclusion trap (uses remaining balance of an existing approved business case, not an include/exclude vote) -- none present. Quote (funding authorization clause) verbatim."
  },
  {
-  "id": "c4c5887e9214",
+  "id": "83d6d3366d27",
   "issue": "climate",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -394,7 +394,7 @@
   "verifierNote": "Confirmed. Single motion, 13-1, quote verbatim -- straight FCM Green Municipal Fund grant-agreement approval for climate adaptation planning, no denial language anywhere."
  },
  {
-  "id": "d091e5e9ce50",
+  "id": "9fb0955b1afa",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -406,7 +406,7 @@
   "verifierNote": "Confirmed none/null correctly -- straightforward $50.4M construction contract award, no tracked-issue keyword anywhere in the text. Quote (part a, bid acceptance) verbatim, 13-1 matches."
  },
  {
-  "id": "0e21ab217bb2",
+  "id": "6307b377d40d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -418,7 +418,7 @@
   "verifierNote": "Confirmed unclear. Quote is the adopted amendment's full text (7-6), verbatim. Checked issue-rules.ts housing keyword list against the full text -- \"housing development\" (bare phrase) isn't a tracked keyword (only \"housing supply\"/\"housing needs\"/etc. are), so issue=none is correct rather than force-fit; and the substance genuinely mixes restoring an appeal right with anti-frivolous-appeal / pro-timely-housing safeguards, so leaving polarity null is the safe call, not a missed classification."
  },
  {
-  "id": "f33c0b121bda",
+  "id": "d94da7fd866c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -432,7 +432,7 @@
   "verifierNote": "Confirmed procedural/none. Standard sit-past-6pm motion, quote verbatim, 12-1 matches."
  },
  {
-  "id": "2568bf1fd35c",
+  "id": "58404c0f230e",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -444,7 +444,7 @@
   "verifierNote": "Confirmed. Single un-amended motion, 13-1, quote verbatim -- straightforward LI/ER-to-residential rezoning approval."
  },
  {
-  "id": "a0f0d661d9af",
+  "id": "565a657b2023",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -456,7 +456,7 @@
   "verifierNote": "Confirmed. Single un-amended motion, 10-3, quote verbatim -- Temporary Use zone 3-year extension. Classified housing via the TZ-code structural signal (per issue-rules.ts CODE_PATTERNS design); whatAYeaDid text is careful not to overclaim (describes it as continuing existing commercial use, not as adding housing supply), so it's not a false or misleading statement even though the TZ-driven housing tag is a mechanical-rule artifact."
  },
  {
-  "id": "822fd1b135c7",
+  "id": "d96ef6f0a5b0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -470,7 +470,7 @@
   "verifierNote": "Confirmed procedural/none. This is the FAILED (5-8) \"shall the ruling of the Chair BE SUSTAINED\" question on item 8.5.7 -- correctly left out of the stance data (a procedural ruling vote, not a substantive position), quote verbatim."
  },
  {
-  "id": "ccc9d8553bb1",
+  "id": "ff72c94c196e",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -482,7 +482,7 @@
   "verifierNote": "Confirmed -- and specifically checked for a committee-stage/decision-stage trap here: item 8.5.7 has an EARLIER Rahman amendment proposing an alternate by-law that never received its own recorded vote (blank result), followed by the failed chair's-ruling vote, followed by the FINAL 10-3 vote on the ORIGINAL (not the alternate) by-law text. The classified quote correctly matches the text of the motion that actually carries the 10-3 recorded vote (the original S. Lehman motion, re-moved after the ruling), not the un-voted alternate -- confirmed this is not a case of quoting an amendment that never passed."
  },
  {
-  "id": "fedd928b747b",
+  "id": "bbdcbfecfc06",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -494,7 +494,7 @@
   "verifierNote": "Confirmed. Single un-amended motion, 10-3, quote verbatim -- straightforward R1-to-holding-R5 rezoning approval, no special provisions or mixed-direction language."
  },
  {
-  "id": "7da276401f06",
+  "id": "64b27bc30f48",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -506,7 +506,7 @@
   "verifierNote": "Confirmed null polarity is correct -- independently re-read the full 929 Cheapside motion text. It is genuinely one combined 9-4 vote that both approves rezoning to R9 (part a) AND explicitly refuses several requested special provisions -- reduced setbacks, higher lot coverage, less landscaped open space, larger encroachments -- \"for the following reasons: ... would facilitate a form of development that is too intense for the subject lands\" (part b). A single yea vote here simultaneously did both an approval and a refusal on the same motion; there is no way to net this to one polarity without misstating one half, so leaving polarity null is the only accurate option. Issue=housing is unambiguous and correctly kept."
  },
  {
-  "id": "62d68b3a749d",
+  "id": "90bea8b81ef2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -520,7 +520,7 @@
   "verifierNote": "Confirmed null/none correctly -- PEC-level committee recommendation duplicate of a7f830659ba0's funding clause (Motion Passed 4-1, quote \"Motion to approve part c).\" is verbatim from the source, terse but accurate). Same no-keyword-hit reasoning applies (issue=none, not climate)."
  },
  {
-  "id": "461b2550ab65",
+  "id": "d0ab3a669a55",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -534,7 +534,7 @@
   "verifierNote": "Confirmed procedural/none. Standard extra-speaking-time motion (Trosow, +2 min), quote verbatim, 13-2 matches."
  },
  {
-  "id": "fa08b848a5f2",
+  "id": "95721bca18be",
   "issue": "budget",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -546,7 +546,7 @@
   "verifierNote": "Confirmed. SPPC-level committee vote on the Centre of Opportunity strategy (14-1) -- same combined-clause reasoning as 40970bf1599f (real AFFIRM_RE content alongside deferred/report-back clauses, not deferOnly), quote verbatim, correctly a separate real vote from the Council-level ratification."
  },
  {
-  "id": "5eb57ac6ba76",
+  "id": "28d426d45cc0",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -560,7 +560,7 @@
   "verifierNote": "Confirmed unclear. FAILED (3-11) referral of the Downtown Reimagined plan -- whatAYeaDid correctly uses \"would have\" framing, quote verbatim."
  },
  {
-  "id": "24de6cc4c320",
+  "id": "a3ec6ca53d38",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -572,7 +572,7 @@
   "verifierNote": "Confirmed. Standalone part b) sub-vote (11-2), quote verbatim -- \"the actions ... BE IMPLEMENTED\" is an unambiguous approval within existing budgets, correctly distinguished from the separately-recorded referral vote (5eb57ac6ba76) and the two procedural speaking-time motions on the same item."
  },
  {
-  "id": "053dba5c9c89",
+  "id": "435dc889a5ee",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -586,7 +586,7 @@
   "verifierNote": "Confirmed procedural/none. Extra-speaking-time motion (Ferreira, +3 min), quote verbatim, 11-3 matches."
  },
  {
-  "id": "e698ab20d669",
+  "id": "f8844cbcc098",
   "issue": "none",
   "axis": null,
   "polarity": null,

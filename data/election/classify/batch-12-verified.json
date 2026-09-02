@@ -1,6 +1,6 @@
 [
  {
-  "id": "cab5f047b532",
+  "id": "3f6befa3e1b5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -14,7 +14,7 @@
   "verifierNote": "Loaded full item 3.1 (SPPC 2024-12-10): motion #7, 'Directed Civic Administration to explore naming convention options...', Failed 2-12. Quote verbatim-confirmed against source. Correctly issue=none/null -- pure informational-ask (report-back request), and it failed, so no direction was even taken."
  },
  {
-  "id": "2d1c9df16330",
+  "id": "26438ecf52cc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -28,7 +28,7 @@
   "verifierNote": "Loaded full item 3.1: motion #8, 'That the motion, as amended, BE APPROVED.' Passed 13-1, finalizing the amended Ward Boundary Review. Correctly issue=none -- ward-boundary/electoral-map governance isn't one of the 8 tracked issues; no false topic position published."
  },
  {
-  "id": "487f0590afc3",
+  "id": "6bf4572b6a73",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -42,7 +42,7 @@
   "verifierNote": "Loaded item 4.3 (SPPC 2024-12-10): motion #1, delegation-order approval for M. Wallace/LDI ahead of the Housing Accelerator Fund item. Passed 12-1. Correctly issue=none -- this decides WHEN to hear a speaker, not the HAF policy content; no housing keyword in the motion's own body."
  },
  {
-  "id": "352ec4ffc728",
+  "id": "a83c2bb8e460",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -54,7 +54,7 @@
   "verifierNote": "Loaded item 2.7 (ICSC 2024-12-09): full expropriation motion for Wellington Gateway Phase 2, Passed 4-1. No issue keyword hits (no transit/housing/budget phrase in body or title). Correctly left issue=none."
  },
  {
-  "id": "1a0eb90548b4",
+  "id": "338599683183",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -66,7 +66,7 @@
   "verifierNote": "Loaded item 3.10 (PEC 2024-12-03): motion #0, full rezoning text for 21-41 Meadowlily/20 Norlan, Passed 4-1. Quote verbatim-confirmed. Housing issue correctly derived from body ('Official Plan', zoning-amendment language); generic AFFIRM fallback (BE INTRODUCED) correctly yields expansive/application-approval since this is a real housing-development rezoning, not a boilerplate-only hit."
  },
  {
-  "id": "21e06031ea95",
+  "id": "99f660dff7c0",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -78,7 +78,7 @@
   "verifierNote": "Loaded item 3.14 (PEC 2024-12-03): correctly disambiguated to motion #3 (the standalone UGB-expansion sub-vote, Passed 5-1, quote verbatim-confirmed) rather than the parent motion #0 (Passed 6-0, full staff recommendation) which shares the item. Housing issue correct (UGB expansion 'to accelerate London's new housing supply'); expansive/application-approval is the correct generic-fallback read since no density/use-permission pattern applies more specifically and this is a genuine housing-supply-expansion request."
  },
  {
-  "id": "2f211b46982b",
+  "id": "c70f0945732b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -92,7 +92,7 @@
   "verifierNote": "Loaded item 3.14: motion #4, meeting-time-extension procedural motion, Passed 4-1. Verified this is correctly issue=none even though it's nested under an item titled 'Official Plan Review of The London Plan (O-9595)' -- the extension clause's own body has zero housing content. Publishing this as a housing position (which a title/code-only signal could tempt) would be a title-vs-operative-clause mismatch; classifier correctly avoided it."
  },
  {
-  "id": "60984ec54ba0",
+  "id": "6f989dcf2657",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -104,7 +104,7 @@
   "verifierNote": "Loaded item 3.9 (PEC 2024-12-03): full rezoning text for the golf-course maintenance building, Passed 3-1 (Peloza recused). Quote verbatim-confirmed. Confirm the low-confidence housing tag as documented -- the only textual support is boilerplate 'conforms to...The London Plan'/'Official Plan' language, not real housing content, but the generic-fallback claim ('approved the development, rezoning...item') is literally true (it is a rezoning application that was approved), so not a false statement -- keeping as-is per the system's documented design rather than downgrading."
  },
  {
-  "id": "c653c8ae7dc7",
+  "id": "c296b8122ad5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -118,7 +118,7 @@
   "verifierNote": "Loaded item 2.10 (CPSC 2024-12-02): motion #1, the referral amendment, Failed 1-3. Quote verbatim-confirmed. Correctly issue=none/referral -- a failed referral decided nothing."
  },
  {
-  "id": "fb3dbae6d4c0",
+  "id": "0390ff4b8ecc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -130,7 +130,7 @@
   "verifierNote": "Loaded item 2.14 (CPSC 2024-12-02): full Special Events Policy motion, Passed 3-1. No issue keyword hits. Correctly issue=none."
  },
  {
-  "id": "dca86cc698dc",
+  "id": "6119bd037cc3",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -144,7 +144,7 @@
   "verifierNote": "Loaded item 8.1.12 (Council 2024-11-26): full CAC-restructuring motion, Passed 12-2. Body contains 'Terms of Reference' multiple times (parts a, b, c) -- GLOBAL_EXCLUDE correctly fires for the whole motion, even though sub-clauses touch climate (dissolving Ecological CAC) and transit (dissolving ITCAC) adjacent topics. No false 'climate' or 'transit' position published for a governance/committee-structure vote."
  },
  {
-  "id": "ac790983e4fa",
+  "id": "bd32dcf7005d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -158,7 +158,7 @@
   "verifierNote": "Loaded item 8.1.13 (Council 2024-11-26): motion #1 (part v, 'Put the Question'), Passed 8-6, quote verbatim-confirmed as the correct sub-motion for the 8-6 result (not the 14-0 balance-of-motion vote). itemTitle contains 'Council Procedure By-law' -> GLOBAL_EXCLUDE correctly fires. Correctly issue=none."
  },
  {
-  "id": "24cfd392afd1",
+  "id": "a4f6dcdd0390",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -172,7 +172,7 @@
   "verifierNote": "Loaded item 8.2.6 (Council 2024-11-26): motion #0 had no recorded result (superseded); motion #1 (the amendment with the real zoning text: R3 -> R3 Special Provision, tenant-accommodation + parking site-plan conditions) Passed 14-0; motion #2 ('the motion, as amended, BE APPROVED') Passed 11-3 is the id in question. whatAYeaDid correctly pulls the substantive content from motion #1, not the empty wrapper. Confirmed expansive/housing."
  },
  {
-  "id": "bcd96ab4da02",
+  "id": "4e8d5fa8440b",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -184,7 +184,7 @@
   "verifierNote": "Loaded item 8.2.9 (Council 2024-11-26): correctly mapped to motion #1, the amendment carrying the real zoning text (1408/1412 Commissioners Rd W, R1 -> R8 SP), Passed 13-1, quote verbatim-confirmed word-for-word including the mid-sentence truncation artifact ('conformity with the Official Plan for the C, The London Plan') -- an authentic OCR/scrape artifact in the source, not a classifier error."
  },
  {
-  "id": "b017923d55c1",
+  "id": "ee94470c8883",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -198,7 +198,7 @@
   "verifierNote": "Loaded item 8.2.9: correctly mapped to motion #2, 'That the motion, as amended, be approved.' Passed 13-1 (same vote tally as e1974f38c44e's motion #1, correctly disambiguated as the separate final wrapper vote per the notes). whatAYeaDid accurately restates the substance of the immediately preceding amendment."
  },
  {
-  "id": "53d7c0656179",
+  "id": "21ff697b2bdc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -212,7 +212,7 @@
   "verifierNote": "Loaded item 8.3 (Council 2024-11-26): motion #1, reconsideration motion, Passed 13-1, quote verbatim-confirmed. Body literally contains 'Council Procedure by-law' -> GLOBAL_EXCLUDE correctly fires independent of any title signal. Correctly issue=none."
  },
  {
-  "id": "ba55077bc1cd",
+  "id": "09b59a9c3ac2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -226,7 +226,7 @@
   "verifierNote": "Loaded item 8.6 (Council 2024-11-26): full Audit Committee report-approval motion, Passed 13-1. No issue keyword hits. Correctly issue=none."
  },
  {
-  "id": "b9401a169e2e",
+  "id": "98b1cc4021c2",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -238,7 +238,7 @@
   "verifierNote": "Loaded item 3.1 (Budget Committee-CONT 2024-11-22): full motion text incl. $ impact table, Passed 13-2, quote verbatim-confirmed. $ table shows 2025 Capital Expenditures -$339,000 (827k->808k operating, 560k->221k capital) -- restrictive/budget correctly derived from the real cut, not just the word 'adjust'."
  },
  {
-  "id": "83a3e2f2b02d",
+  "id": "d6382c82f7e0",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -250,7 +250,7 @@
   "verifierNote": "Loaded item 3.2 (Budget Committee-CONT): motion #1, LDBA safety/security grant, Failed 6-8, quote verbatim-confirmed. $ table shows +$265,000/yr -- expansive/budget correct."
  },
  {
-  "id": "c6ad1a8e0183",
+  "id": "d925b5e3502c",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -262,7 +262,7 @@
   "verifierNote": "Loaded item 3.3 (Budget Committee-CONT): correctly mapped to motion #1 (S. Lewis's amendment switching funding source EDRF->Community Investment Reserve Fund), Passed 12-2, quote verbatim-confirmed. $ table +$300,000/yr 2025+2026 -- expansive/budget correct."
  },
  {
-  "id": "e3176f80aaa0",
+  "id": "2789ce535bcb",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -274,7 +274,7 @@
   "verifierNote": "Loaded item 3.3: correctly mapped to motion #2 (J. Pribil's further amendment, textually identical operative clause to cf1fba51e707 but truncating the $ table to 2025 only), Failed 2-12, quote verbatim-confirmed. Concur with the original judgment call: the clause's own words say 'increasing the budget' with no denial verb, so expansive is the correct read per the 'derive only from the motion's own operative words' rule -- inferring restrictive from comparison to the sibling motion that passed would violate that rule."
  },
  {
-  "id": "46814de75f89",
+  "id": "e8331ddb88ab",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -288,7 +288,7 @@
   "verifierNote": "Loaded item 3.3: motion #3, 'That the motion, as amended, BE APPROVED.' Passed 11-3. Since d826ccab9d84 (motion #2) failed, the surviving amended text is motion #1's version (2025+2026, $300k/yr, Community Investment Reserve) -- whatAYeaDid correctly reflects that surviving version, not the failed 2025-only variant. Confirmed."
  },
  {
-  "id": "d30d0b87039f",
+  "id": "0947f5f92e12",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -300,7 +300,7 @@
   "verifierNote": "Loaded item 4.1 (Budget Committee-CONT): correctly mapped to motion #2 (the split-out clause b on the $226,954 funding source), Passed 8-6, quote verbatim-confirmed (distinct from motion #1's clause a, 'received for information', Passed 14-0, a different vote on the same item). Expansive/budget correct -- directs paying an increased cost from a reserve."
  },
  {
-  "id": "268379aca58d",
+  "id": "a16e518570bf",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -312,7 +312,7 @@
   "verifierNote": "Loaded item 5.2 (Budget Committee-CONT): motion #1 (S. Lewis's amendment), Passed 10-4, quote verbatim-confirmed. $ table explicitly shows Tax Levy -$500,000 for 2025/2026/2027 -- restrictive/levy-size correct and directly evidenced by the levy figures, not just the word 'reducing' (which alone, per the DECREASE...budget/levy/funding pattern, doesn't fall within a 60-char window of a levy/budget noun in the prose -- the $ table is the real evidentiary basis here)."
  },
  {
-  "id": "c3dde3554af6",
+  "id": "b91c1ebdf094",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -326,7 +326,7 @@
   "verifierNote": "Loaded item 5.2: correctly mapped to motion #3 (final wrapper, 'the motion, as amended, be approved'), Passed 11-3 -- motion #2 (Trosow's further amendment) was withdrawn by consensus, so the surviving text is motion #1's, which whatAYeaDid correctly reflects."
  },
  {
-  "id": "d43d88aa0a6b",
+  "id": "7c2d6c2f7bc8",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "restrictive",
@@ -338,7 +338,7 @@
   "verifierNote": "Loaded item 5.3 (Budget Committee-CONT): motion #1, Failed 1-13, quote verbatim-confirmed. $ table shows the amendment would have REMOVED $975k (2025) / $4,325k (2026) capital budgets -- restrictive/transit correct."
  },
  {
-  "id": "0642b1c2e379",
+  "id": "1a0c5a5d3f17",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "restrictive",
@@ -350,7 +350,7 @@
   "verifierNote": "Loaded item 5.3: correctly identified as the re-vote (motion #3, same operative text, Failed 2-12) after a reconsideration motion (#2, Passed 14-0) reopened the question. Two genuinely distinct recorded votes on identical text, not a duplicate entry."
  },
  {
-  "id": "ae5d4bc00760",
+  "id": "cea338e764e4",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -362,7 +362,7 @@
   "verifierNote": "Loaded item 5.4 (Budget Committee-CONT): motion #1, Failed 1-13, quote verbatim-confirmed. $ table shows 2025 Tax Levy -$16,255,000 -- restrictive/budget correct (levy cut funded by an out-of-policy reserve drawdown)."
  },
  {
-  "id": "00c3c908ad85",
+  "id": "7073229bff6d",
   "issue": "policing",
   "axis": "budget-size",
   "polarity": "restrictive",
@@ -374,7 +374,7 @@
   "verifierNote": "Loaded item 3.10 (Budget Committee 2024-11-21): motion #1, Failed 4-11, quote verbatim-confirmed. $ table shows Tax Levy -$1,616,600/yr for 2025-2027 -- restrictive/policing correct."
  },
  {
-  "id": "a4588669787c",
+  "id": "3ecc977eb3f8",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -386,7 +386,7 @@
   "verifierNote": "Loaded item 3.2 (Budget Committee 2024-11-21): motion #1, the Climate Change Reserve Fund offset, Passed 9-6, quote verbatim-confirmed. Concur climate/null is correct -- this is a funding-mechanism clause (which reserve pays for P-31), not a substantive climate-policy position; no natural-heritage/target-strength axis pattern genuinely fits."
  },
  {
-  "id": "da54634823a9",
+  "id": "76b785f49681",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -400,7 +400,7 @@
   "verifierNote": "Loaded item 3.2: motion #2, chair's-ruling-sustained procedural vote, Passed 9-6, quote verbatim-confirmed. No issue keyword in this specific clause's own text. Correctly issue=none."
  },
  {
-  "id": "676704dcb291",
+  "id": "5c913d5c0ac8",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -412,7 +412,7 @@
   "verifierNote": "Loaded item 3.2: motion #3 (5 permanent staff, $613,000), Passed 11-4, quote verbatim-confirmed against the $404,000 2025-capital add. Expansive/budget correct -- a genuine new-spending addition."
  },
  {
-  "id": "ddfb03d60d1a",
+  "id": "641e792f4e4d",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -424,7 +424,7 @@
   "verifierNote": "Loaded item 3.2: motion #4 (2 permanent staff, $214,000), Passed 8-7, quote verbatim-confirmed against the $156,000 2025-capital add. Expansive/budget correct."
  },
  {
-  "id": "272a9581e6fe",
+  "id": "c16642a4b383",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -436,7 +436,7 @@
   "verifierNote": "Loaded item 3.2: motion #5 (4 temporary staff, $149,000), Failed 5-10, quote verbatim-confirmed. Correctly phrased conditionally ('Would have added...') since it failed."
  },
  {
-  "id": "5db05122ece8",
+  "id": "e159c6f63bf1",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -448,7 +448,7 @@
   "verifierNote": "Loaded item 3.2: motion #6 (6 temporary staff, $276,000), Failed 2-13, quote verbatim-confirmed. Correctly phrased conditionally since it failed."
  },
  {
-  "id": "c19601a52a62",
+  "id": "68d604999a94",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -460,7 +460,7 @@
   "verifierNote": "Loaded item 3.4 (Budget Committee 2024-11-21): motion #1, Failed 5-10, quote verbatim-confirmed. $ table shows net $0 impact (removes the $496k community-grants pause, offset by an equal $496k EDRF-contribution cut) -- confirmed the 'restored program funding, offset elsewhere' read is accurate and disclosed in whatAYeaDid; expansive on the specific budget-item axis is defensible per the axis label's own wording ('increased the tax levy OR a budget item')."
  },
  {
-  "id": "28c6e0bdd4ed",
+  "id": "673d3cd68a8b",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -472,7 +472,7 @@
   "verifierNote": "Loaded item 3.5 (Budget Committee 2024-11-21): motion #1, Failed 6-9, quote verbatim-confirmed. $ table shows Tax Levy +$250,000/yr (unlike af82a6e32283, this one is NOT offset) -- expansive/budget correctly and more strongly evidenced here."
  },
  {
-  "id": "3210bc7212fa",
+  "id": "f4b52c20a24a",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -484,7 +484,7 @@
   "verifierNote": "Loaded item 3.7 (Budget Committee 2024-11-21): motion #1, Failed 6-9, quote verbatim-confirmed. $ table shows Tax Levy +$700,000/yr -- expansive/budget correct. Checked whether 'Housing Stability Bank Expansion' should instead be issue=housing/encampments: no keyword in either list literally matches this program name (housing list requires specific phrases like 'supportive housing'/'housing needs'/'housing supply', none present; encampments list requires 'homeless'/'shelter'/etc., none present) -- budget is the correct call per the documented keyword vocabulary, not a missed classification."
  },
  {
-  "id": "97d72395ebc4",
+  "id": "4fb63c870e39",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "restrictive",
@@ -496,7 +496,7 @@
   "verifierNote": "Loaded item 3.8 (Budget Committee 2024-11-21): motion #1, Failed 5-10, quote verbatim-confirmed. $ table shows 2026 Tax Levy -$500,000 -- restrictive/transit correct, and the conditional-reinstatement language is preserved accurately in whatAYeaDid."
  },
  {
-  "id": "f934ab9e7b10",
+  "id": "f40352f967da",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -510,7 +510,7 @@
   "verifierNote": "Loaded item 7 (Budget Committee 2024-11-21, 'Adjournment'): motion #0, 'That the meeting BE RECESSED', Passed 12-2. No issue keyword. Correctly issue=none/procedural."
  },
  {
-  "id": "edc2269e9c10",
+  "id": "9b4835e653ce",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -524,7 +524,7 @@
   "verifierNote": "Loaded item 4.5 (SPPC-CONTINUATION 2024-11-20): motion #1, the Governance Work Group referral, Failed 2-12, quote verbatim-confirmed. Correctly issue=none/referral -- a failed referral decided nothing."
  },
  {
-  "id": "489521c250d9",
+  "id": "1557b9ae34fd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -538,7 +538,7 @@
   "verifierNote": "Loaded item 4.5: motion #2, the review-vs-dissolve amendment for parts d/e/f, Failed 2-11, quote verbatim-confirmed. No issue keyword in this specific clause's own text (just 'part d, e, f'), and it failed regardless -- correctly left issue=none/null."
  },
  {
-  "id": "1f3f992777aa",
+  "id": "c876745a9d49",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -552,7 +552,7 @@
   "verifierNote": "Loaded item 4.5: motion #3, Animal Welfare CAC dissolution + ESA CAC terms-of-reference update, Passed 11-2, quote verbatim-confirmed. Body literally contains 'terms of reference' -> GLOBAL_EXCLUDE correctly fires. Correctly issue=none."
  },
  {
-  "id": "c280fcc8b5bc",
+  "id": "eaea8ba6a89a",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -566,7 +566,7 @@
   "verifierNote": "Loaded item 4.5: motion #4, dissolving Ecological CAC + ITCAC, Passed 11-2, quote verbatim-confirmed. Verified this specific sub-motion's own text does NOT contain 'terms of reference' (unlike the sibling motion #3) -- GLOBAL_EXCLUDE correctly does not fire here. Issue correctly derives to climate via a genuine keyword tie-break: 'natural heritage' (climate) vs 'Official Plan' (housing) both hit once, and climate precedes housing in ISSUE_ORDER. Concur axis/polarity should stay null -- this restructures committee governance (dissolve + replace with an Ecological Reference Group of similar mandate) rather than protecting or weakening any natural-heritage designation; neither natural-heritage axis pattern's verb/noun pairing is present in the clause."
  },
  {
-  "id": "88814ca0f475",
+  "id": "0c7650084017",
   "issue": "none",
   "axis": null,
   "polarity": null,

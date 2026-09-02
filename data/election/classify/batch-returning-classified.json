@@ -1,6 +1,6 @@
 [
  {
-  "id": "e244dd248540",
+  "id": "15e2e6266aa2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -12,7 +12,7 @@
   ]
  },
  {
-  "id": "de27b0d405ad",
+  "id": "7384547749fb",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -24,7 +24,7 @@
   ]
  },
  {
-  "id": "4c7617aa8c7a",
+  "id": "797a57bae40a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -66,7 +66,7 @@
   "flags": []
  },
  {
-  "id": "9547b52b37af",
+  "id": "2a15750df5a4",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -86,7 +86,7 @@
   "flags": []
  },
  {
-  "id": "5d65a79a8f55",
+  "id": "7efdf1cb760d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -108,7 +108,7 @@
   "flags": []
  },
  {
-  "id": "eff54431a239",
+  "id": "bf4a82a88a13",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -130,7 +130,7 @@
   "flags": []
  },
  {
-  "id": "670fb392c44f",
+  "id": "a0c34728a5a5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -142,7 +142,7 @@
   ]
  },
  {
-  "id": "a619de739d13",
+  "id": "70697f1ecb6b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -154,7 +154,7 @@
   ]
  },
  {
-  "id": "10efee30d126",
+  "id": "1cc9f707ce9b",
   "issue": "climate",
   "axis": "target-strength",
   "polarity": "restrictive",
@@ -164,7 +164,7 @@
   "flags": []
  },
  {
-  "id": "730abd01f37c",
+  "id": "f1535f7e608e",
   "issue": "climate",
   "axis": "target-strength",
   "polarity": "expansive",
@@ -174,7 +174,7 @@
   "flags": []
  },
  {
-  "id": "4f5ea4ba9d7c",
+  "id": "0d3f5e09257e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -186,7 +186,7 @@
   ]
  },
  {
-  "id": "bea27da74ca1",
+  "id": "a182e61691bd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -198,7 +198,7 @@
   ]
  },
  {
-  "id": "ffb201358ddc",
+  "id": "02666ef440aa",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -210,7 +210,7 @@
   ]
  },
  {
-  "id": "a4abd9e1fa3c",
+  "id": "2bb2090dcda1",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -255,7 +255,7 @@
   "flags": []
  },
  {
-  "id": "4583e0abd1db",
+  "id": "511da95f5408",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -267,7 +267,7 @@
   ]
  },
  {
-  "id": "0de5ebf1dc59",
+  "id": "ca813e5a3910",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -290,7 +290,7 @@
   ]
  },
  {
-  "id": "de69e893bdf9",
+  "id": "9ce965375935",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -314,7 +314,7 @@
   "flags": []
  },
  {
-  "id": "b885e895012f",
+  "id": "938fe7cceca5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -334,7 +334,7 @@
   "flags": []
  },
  {
-  "id": "56da0b282a71",
+  "id": "3a5c0d0a37d8",
   "issue": "encampments",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -344,7 +344,7 @@
   "flags": []
  },
  {
-  "id": "c1d069409d10",
+  "id": "88b4c8370eea",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -356,7 +356,7 @@
   ]
  },
  {
-  "id": "2d5719faac23",
+  "id": "f6a24958af5b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -368,7 +368,7 @@
   ]
  },
  {
-  "id": "17532664fd8d",
+  "id": "37b3fbc4315a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -378,7 +378,7 @@
   "flags": []
  },
  {
-  "id": "092fca35d312",
+  "id": "0a42ed4c70b4",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -388,7 +388,7 @@
   "flags": []
  },
  {
-  "id": "9b0ced7ff8cd",
+  "id": "0ed5c64efe4f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -398,7 +398,7 @@
   "flags": []
  },
  {
-  "id": "c0ce799340ac",
+  "id": "24fb4a75e1e4",
   "issue": "encampments",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -408,7 +408,7 @@
   "flags": []
  },
  {
-  "id": "e50d80567a17",
+  "id": "5836ca6ba10c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -418,7 +418,7 @@
   "flags": []
  },
  {
-  "id": "f8aa33605af1",
+  "id": "60ca89cdf609",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -428,7 +428,7 @@
   "flags": []
  },
  {
-  "id": "a3765ca3c05a",
+  "id": "6af5a30fb1d7",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -438,7 +438,7 @@
   "flags": []
  },
  {
-  "id": "be02e01cfa4a",
+  "id": "a3face5956db",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -450,7 +450,7 @@
   ]
  },
  {
-  "id": "66ca1770eede",
+  "id": "cb64cbf6ee55",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -460,7 +460,7 @@
   "flags": []
  },
  {
-  "id": "0c53add88983",
+  "id": "d208e423eefa",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -472,7 +472,7 @@
   ]
  },
  {
-  "id": "1df6fbb00d8f",
+  "id": "86c5fa23a491",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -484,7 +484,7 @@
   ]
  },
  {
-  "id": "8baa7b364d97",
+  "id": "63bc93c8a6a8",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -496,7 +496,7 @@
   ]
  },
  {
-  "id": "99a7585bc349",
+  "id": "d4edb8686454",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -508,7 +508,7 @@
   ]
  },
  {
-  "id": "9e1607333432",
+  "id": "13176e4f27dc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -520,7 +520,7 @@
   ]
  },
  {
-  "id": "a01600ddb427",
+  "id": "b547eae95bed",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -562,7 +562,7 @@
   "flags": []
  },
  {
-  "id": "bd958457f861",
+  "id": "d258c0585531",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -574,7 +574,7 @@
   ]
  },
  {
-  "id": "d5d592483d76",
+  "id": "fc3e3004ff8f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -596,7 +596,7 @@
   "flags": []
  },
  {
-  "id": "a4044aae6238",
+  "id": "d5dbb0596848",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -608,7 +608,7 @@
   ]
  },
  {
-  "id": "c699eb9cc94f",
+  "id": "57a865f8c2bf",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -628,7 +628,7 @@
   "flags": []
  },
  {
-  "id": "f195645ca714",
+  "id": "1df4ae0f9218",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -650,7 +650,7 @@
   "flags": []
  },
  {
-  "id": "3f89c4b8843b",
+  "id": "33757ffee7f1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -662,7 +662,7 @@
   ]
  },
  {
-  "id": "56e0acb80e48",
+  "id": "87fd65edfd88",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -682,7 +682,7 @@
   "flags": []
  },
  {
-  "id": "498b4ae404bf",
+  "id": "732b40d37d8b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -694,17 +694,7 @@
   ]
  },
  {
-  "id": "776dfdcda79f",
-  "issue": "none",
-  "axis": null,
-  "polarity": null,
-  "whatAYeaDid": "Approved amending draft Exotic Animal Establishments by-law PH-3, part a), to cap the indoor area covered at 35,000 square feet, for the property at 785 Wonderland Road South.",
-  "confidence": "high",
-  "quote": "Motion to approve a proposed amendment to By-law PH-3, part a) to read, \u201ca)  up to 35,000 square feet indoors of the property located at 785 Wonderland Road South.",
-  "flags": []
- },
- {
-  "id": "fb7023a739e9",
+  "id": "297830e93540",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -736,7 +726,7 @@
   "flags": []
  },
  {
-  "id": "b18982431ad1",
+  "id": "01b3bd8bc850",
   "issue": "budget",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -746,7 +736,7 @@
   "flags": []
  },
  {
-  "id": "000f08211725",
+  "id": "8d1f49752974",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -758,7 +748,7 @@
   ]
  },
  {
-  "id": "070efd97b686",
+  "id": "2436036e73d4",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -768,7 +758,7 @@
   "flags": []
  },
  {
-  "id": "192cc16c866a",
+  "id": "bf0c3daee582",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -778,7 +768,7 @@
   "flags": []
  },
  {
-  "id": "3e356dd3852a",
+  "id": "ad4332ac35af",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -788,7 +778,7 @@
   "flags": []
  },
  {
-  "id": "67e8f0bb6a90",
+  "id": "d3e6c7b163fd",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -800,7 +790,7 @@
   ]
  },
  {
-  "id": "75a10636d5f6",
+  "id": "afa53e807143",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -810,7 +800,7 @@
   "flags": []
  },
  {
-  "id": "950b21d6cef5",
+  "id": "5412f1ca68e7",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -830,7 +820,7 @@
   "flags": []
  },
  {
-  "id": "fd27307f45a8",
+  "id": "1859dcfba3b7",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -840,7 +830,7 @@
   "flags": []
  },
  {
-  "id": "bb3d5775c299",
+  "id": "98f41809d825",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -850,7 +840,7 @@
   "flags": []
  },
  {
-  "id": "d0cbb048480e",
+  "id": "208ee22b75a8",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -860,7 +850,7 @@
   "flags": []
  },
  {
-  "id": "60d4ecbbfe78",
+  "id": "f73db1fc987a",
   "issue": "none",
   "axis": null,
   "polarity": null,

@@ -1,6 +1,6 @@
 [
  {
-  "id": "0916f8b31055",
+  "id": "4e6e3add5092",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -12,7 +12,7 @@
   "verifierNote": "Verified against source meeting JSON (2025-03-18 Planning & Environment Committee, item 3.4, 415-421 Boler Road Z-9536): a single voted motion, 3-2 tally (Lewis/Lehman/Cuddy yea; Hillier/Peloza nay) matches exactly. The quote is verbatim and is the motion's only rezoning clause (R1(R1-8) -> R8 Special Provision, a higher-density class). Density axis / expansive polarity confirmed."
  },
  {
-  "id": "64f5fde436e4",
+  "id": "c71716a3157d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -26,7 +26,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "3f10a2dfc14b",
+  "id": "056eabefb912",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -38,7 +38,7 @@
   "verifierNote": "Source JSON (2025-03-17 Community & Protective Services Committee, item 2.11) confirms the manifest's own result string, 'Motion Failed (2 to 2)', for the specific sub-motion \"That part c) of the motion BE APPROVED\" (the $610,577 Day Drop-In line). The classifier's original whatAYeaDid stated in the past tense 'Approved a $610,577 single-source procurement...' as an accomplished fact -- false, since the vote failed. This is the exact same fact pattern as sibling entry d2aa95b9049a in this batch (a failed funding motion), which the classifier correctly hedged with 'Would have... the motion failed' -- 3f10a2dfc14b just wasn't given the same hedge. Quote, issue, axis and polarity (what a YEA vote meant, on its content) are accurate and left unchanged; only the whatAYeaDid wording is corrected to state plainly that the motion failed, per the no-false-statement bar."
  },
  {
-  "id": "024ed04bb109",
+  "id": "237a28e201ae",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -50,7 +50,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "3abb8d235c1f",
+  "id": "cbba240a7fb2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -62,7 +62,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "4b8cd147f675",
+  "id": "f3fe659ca703",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -74,7 +74,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "d80fd24c6511",
+  "id": "336bf1f4968b",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -88,7 +88,7 @@
   "verifierNote": "Source JSON (2025-03-17 CPSC, item 2.9, Provision of Outdoor Basic Needs) confirms a report-back/information directive, 3-1. Pure informational ask -- correctly left unclear."
  },
  {
-  "id": "c7144ece622b",
+  "id": "733fd8e29850",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -100,7 +100,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "0a3ff637eea2",
+  "id": "b0cfb8e6e298",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -114,7 +114,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "d02ef8fcac88",
+  "id": "b278192623a1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -128,7 +128,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "617e83384b91",
+  "id": "7a379725ace3",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -142,7 +142,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "8eea0d265680",
+  "id": "8dc3d901804e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -157,7 +157,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "acb8d2372f45",
+  "id": "e74b0e8c73c0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -172,7 +172,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "d651fb7d8d49",
+  "id": "34d32afbec7c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -184,7 +184,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "7bf2c413ec40",
+  "id": "7f0a8bc7613a",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -196,7 +196,7 @@
   "verifierNote": "Source JSON (2025-02-19 Planning & Environment Committee, item 3.1, 1484 Gore Road Z-25002) has five separate motions under this item: (1) the main R1->R5 rezoning motion itself -- NO recorded vote (blank); (2)-(3) procedural open/close public-participation votes, 4-0; (4) an AMENDMENT, 'the Site Plan Authority BE REQUESTED to consider limiting western-facing windows to the ground floor only' -- 3-1 (Lewis, Hillier, Cuddy yea; Peloza nay); (5) 'the motion be approved, as amended' -- 4-0 UNANIMOUS, all four members including Peloza voting yes. The manifest's result string 'Motion Passed (3 to 1)' uniquely and only matches motion (4), the window-placement amendment -- not the R1->R5 density rezoning. The classifier's original quote/whatAYeaDid ('permit residential intensification...') is the preamble reasoning text of the never-separately-voted main motion (1), wrongly attached to the unrelated 3-1 window vote. Published as classified, this would have shown Councillor E. Peloza voting NAY on 'increased density,' when Peloza actually voted YES on the substantive rezoning (unanimous 4-0) and dissented only on a window-placement site-plan detail -- a false statement about his vote. Downgraded: issue kept as housing (the item is structurally a Z-code rezoning) but axis/polarity/quote set to null/none -- the window-amendment clause itself ('BE REQUESTED to consider...') has no AFFIRM/DENY verb and decided a design detail, not density."
  },
  {
-  "id": "e0cc3389ac8c",
+  "id": "1fa8ee61c078",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -208,7 +208,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "32bc05b2830a",
+  "id": "959a9ade7498",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -222,7 +222,7 @@
   "verifierNote": "Source JSON (item 8.1.6, UHEI) confirms this is the Rahman/Lehman 'refer part d)' motion, 10-2 (Hopkins, Trosow nay) -- distinct from the OTHER 10-2 vote on the same item (see cf4aa6b663e1, now also downgraded). A pure referral (BE REFERRED, no affirmed content) -- correctly left unclear."
  },
  {
-  "id": "639a42891cdb",
+  "id": "c9fd6b3a3d37",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -236,7 +236,7 @@
   "verifierNote": "Source JSON (2025-02-11 Council, item 8.1.6, UHEI) confirms this is the McAlister/Stevenson 'Motion to refer part h)' (10-2: Hopkins, Lewis, Hillier, Van Meerbergen, Lehman, McAlister, Cuddy, Stevenson, Ferreira, Rahman yea; Peloza, Trosow nay) -- content and quote match verbatim. But the clause's primary substance is a REFERRAL: the new $1,400,000 funding ask is 'BE REFERRED to a future meeting... for an operational plan' -- genuinely deferred, no decision on any increase. The only decided element is 'Civic Administration BE DIRECTED to continue to provide EXISTING basic human needs provisions with this funding until April 30, 2025' -- maintaining status quo funding, not expanding it. Labelling a yea here as having 'expanded the encampment/homelessness response' overstates a vote whose substance was to defer the actual funding increase while keeping existing funding flowing. This is the 'committee-stage vs decision' risk pattern flagged in the verification brief. Downgraded to polarity null / axis null."
  },
  {
-  "id": "40bc51762a26",
+  "id": "0acb4ded6a2f",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -251,7 +251,7 @@
   "verifierNote": "Source JSON confirms the Ferreira/Stevenson 'refer part b)' motion (report back re: emergency shelter/drop-in options) passed 8-4. A referral plus report-back ask -- correctly left unclear."
  },
  {
-  "id": "d2aa95b9049a",
+  "id": "5df56cf1e54e",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -263,7 +263,7 @@
   "verifierNote": "Source JSON (2025-02-11 Council, item 8.1.6) confirms 'That part e), as amended, BE APPROVED' FAILED 3-9 (Hopkins, Peloza, Trosow yea; all 9 others nay) -- matches manifest result exactly. Quote is verbatim and is the clause's entire operative content: directing staff to find $157,860 to fund 10 new supported-housing spaces, a genuine capacity/funding expansion. whatAYeaDid is correctly hedged ('Would have directed... the motion failed'). Confirmed."
  },
  {
-  "id": "0af2f57bd56d",
+  "id": "97412bf34928",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -275,7 +275,7 @@
   "verifierNote": "Source JSON (2025-02-11 Council, item 8.1.6) confirms 'parts f) and g) BE APPROVED' passed 9-3 with the exact roster shown (Hopkins, Lewis, Peloza, Lehman, McAlister, Cuddy, Trosow, Ferreira, Rahman yea; Hillier, Van Meerbergen, Stevenson nay). Quote is verbatim, matching part f), which explicitly reads 'BE APPROVED to temporarily expand indigenous led outreach supports and services' -- unambiguous expansive language. Confirmed."
  },
  {
-  "id": "04dcb7b65c6a",
+  "id": "e3d69060b3e9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -287,7 +287,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "9bd0c8746c34",
+  "id": "ec82cbf4aa45",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -301,7 +301,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "135897acab5a",
+  "id": "e57ac85b5f8f",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -313,7 +313,7 @@
   "verifierNote": "Source JSON (2025-01-13 Infrastructure & Corporate Services Committee, item 2.6) has a single voted motion, 3-1 (Rahman recused), matching exactly. Quote is verbatim from part b)i). whatAYeaDid accurately summarizes both the $26.4M East London Link contract award (part a) and the new Fanshawe College transit-facility licence agreement (part b), both decided in this one vote. Confirmed."
  },
  {
-  "id": "500c8cf6484f",
+  "id": "d39be7b0ffa7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -325,7 +325,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "82a2d7611c5f",
+  "id": "38cd861afc48",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -337,7 +337,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "90619b0f7bea",
+  "id": "a2dae9d119a4",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -349,7 +349,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "b482dabde78b",
+  "id": "306086d1a9a6",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -361,7 +361,7 @@
   "verifierNote": "Source JSON (2024-12-17 Council, item 8.1.17, 1922 Highland Heights & 205 Commissioners Rd E) confirms the 9-5 vote and quote are verbatim. But the motion's own operative reasoning clause states the rezoning 'facilitates the development of a maintenance building that is accessory to the existing golf course' (Highland Golf & Country Club) -- a golf-course accessory building, not a housing project, despite the technical 'Residential' zone label (R1 -> R1 Special Provision + a new Holding Open Space Special Provision zone). This is also exactly the 'R1 + Open-Space-holding addition' pattern the classifier's own batch notes list as one of the ambiguous special-provision rezonings resolved to null elsewhere in this same batch -- inconsistently signed 'expansive' here purely because the generic BE-INTRODUCED/application-approval fallback fired. Downgraded: issue -> none (not a housing-supply/density decision by the motion's own stated purpose), polarity/axis -> null, matching the classifier's own established standard for this exact pattern."
  },
  {
-  "id": "331bb35d80e2",
+  "id": "d8d23e114f1b",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -373,7 +373,7 @@
   "verifierNote": "Source JSON (item 8.1.18, 21-41 Meadowlily Rd) confirms this is the Hillier/Rahman-opposed amendment swapping a committed sewer line for a to-be-determined cash donation to Urban Roots, 13-2. A community-benefit swap of unspecified size with no stated direction (more/less housing-friendly) -- correctly left unclear."
  },
  {
-  "id": "80c76b6627a8",
+  "id": "06b5c982f733",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -385,7 +385,7 @@
   "verifierNote": "Source JSON (2024-12-17 Council, item 8.1.18, 21-41 Meadowlily Rd N & 20 Norlan Ave) confirms this is the 'item 18... BE APPROVED in part' motion, 11-4 (Morgan, Lewis, Hillier, Van Meerbergen, Lehman, McAlister, Cuddy, Stevenson, Pribil, Franke, Rahman yea) -- content and quote verbatim, and distinguishable from the OTHER 11-4 vote on this same item (the Urban-Roots-donation/playgrounds motion, already correctly classified null as b2b72641647f with a different roster). But the substance -- FROM a 'Holding Residential R5 Special Provision BONUS' zone TO a 'Holding Residential R5 Special Provision' zone (the bonus provision removed) -- is exactly the 'R5-Bonus removal' pattern the classifier's own batch notes list as an ambiguous case resolved to null elsewhere in this batch. Removing a density-bonus provision could be routine housekeeping once bonus conditions were fulfilled, or a real reduction in as-of-right development potential; the record doesn't resolve which. Downgraded to unclear for consistency with the classifier's own stated standard for this identical scenario."
  },
  {
-  "id": "b2b72641647f",
+  "id": "77e9d23f5225",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -397,7 +397,7 @@
   "verifierNote": "Source JSON confirms this is the 11-4 'playgrounds + Urban Roots donation' commitment-confirmation motion on item 8.1.18, distinct from the OTHER 11-4 vote on the same item (the actual R5-Bonus-removal rezoning, see 70cd8d04ee9d). Confirming ancillary community-benefit commitments, not a density/use decision -- correctly left unclear."
  },
  {
-  "id": "7b6d29cb16f3",
+  "id": "2236dce49b57",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -411,7 +411,7 @@
   "verifierNote": "Source JSON confirms the Franke/Hopkins amendment to add a smaller (1,130 ha) alternate UGB scenario alongside the 2,000 ha ask FAILED 7-8. whatAYeaDid correctly hedges 'would have... the motion failed.' A failed procedural add-a-scenario amendment -- correctly left unclear rather than signed as restrictive-on-density (it isn't a reduction, just a road not taken)."
  },
  {
-  "id": "6439c2ef24a2",
+  "id": "1565d0e9f185",
   "issue": "climate",
   "axis": "target-strength",
   "polarity": "expansive",
@@ -423,7 +423,7 @@
   "verifierNote": "Source JSON (2024-12-17 Council, item 8.1.22, Land Needs Assessment) confirms the Franke/Hopkins amendment adding a climate-emergency-screening-tool directive FAILED 6-9 with the exact roster shown; quote is verbatim. whatAYeaDid is correctly hedged ('Would have directed... the motion failed'). Confirmed."
  },
  {
-  "id": "b753dfd3c407",
+  "id": "4dcb55e1d74d",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -450,7 +450,7 @@
   "verifierNote": "Source JSON confirms 'item [20/]22, clause 3.14, as amended, BE APPROVED, with the exception of parts b), d) and e)' passed 14-1 (Trosow lone nay) -- distinguishable from the OTHER 14-1 vote on this same item (the SW Ontario Mayors/Wardens discussion motion, Van Meerbergen lone nay, already correctly classified null as b753dfd3c407). Quote verbatim (part a, LNA adoption). whatAYeaDid accurately describes the adoption plus the b/d/e carve-out. Confirmed."
  },
  {
-  "id": "6991a4e352fd",
+  "id": "b357c947f66c",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -462,7 +462,7 @@
   "verifierNote": "Source JSON confirms 'part b) BE APPROVED' (Urban Growth Boundary Review, 1,476 ha) passed 10-5 with the exact roster shown. Quote is verbatim and is the sole content of this specific vote. Confirmed."
  },
  {
-  "id": "f256055d95cb",
+  "id": "3813f33f3f54",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -474,7 +474,7 @@
   "verifierNote": "Source JSON confirms 'parts d) and e) BE APPROVED' passed 8-7 with the exact roster shown. Quote is verbatim (part d, requesting the Province support a 2,000 ha UGB expansion). whatAYeaDid correctly folds in part e) (directing an alternate 2,000 ha scenario), decided in the same vote. Confirmed."
  },
  {
-  "id": "b45fbc0f028e",
+  "id": "35bf743d3c79",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -486,7 +486,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "8f71c4a7a37c",
+  "id": "5347f491e372",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -498,7 +498,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "5e17e9d18c65",
+  "id": "0d3b91a9b93b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -510,7 +510,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "4bf550ad808f",
+  "id": "4a24d9227dbd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -522,7 +522,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "a6d6471fe7a1",
+  "id": "e28a359a13cc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -534,7 +534,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "53b29cd9d4a8",
+  "id": "fb23d8c132a0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -546,7 +546,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "bc3e5c48f837",
+  "id": "75a4d704e963",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -558,7 +558,7 @@
   "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
  },
  {
-  "id": "0983fa0a8e7e",
+  "id": "340118e5b3b6",
   "issue": "none",
   "axis": null,
   "polarity": null,

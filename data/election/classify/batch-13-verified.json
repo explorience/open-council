@@ -1,6 +1,6 @@
 [
  {
-  "id": "02afaf2b4355",
+  "id": "ff7f61950a47",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -14,7 +14,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "479429d387c3",
+  "id": "3ca8df8f72f2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -28,7 +28,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "ce2d0113531e",
+  "id": "e6dccc546be2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -42,7 +42,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "76679e4e3173",
+  "id": "dc5014c3a34e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -56,7 +56,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "86ca1c8a8f41",
+  "id": "eb33085d4fcd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -70,7 +70,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "568146d9ee22",
+  "id": "55bea34b8409",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -84,7 +84,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "a6a085162062",
+  "id": "db516caf8498",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -98,7 +98,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "903ec5aeea8a",
+  "id": "4c607c9bede6",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",
@@ -110,7 +110,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "f34cfd9a6dca",
+  "id": "95ad7558b8fa",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -122,7 +122,7 @@
   "verifierNote": "Reconstructed the full amendment sequence on item 4.7 from the source JSON (indices 5-8): index 5 first proposed adding part c) with open-ended wording; index 6 (=903ec5aeea8a, correctly restrictive, 12-3) is the vote that actually changed the wording from \"until further direction\" to \"until February 28, 2025\"; THIS vote (index 7, 10-5) merely restates parts b)+c) with that already-decided wording to formally fold them into the motion. Its own whatAYeaDid (\"...only until February 28, 2025, rather than indefinitely\") misdescribes the choice as if this specific vote made the Feb-28-vs-indefinite call, but that call was already locked in by the prior vote. Applying the same 'what happens if THIS vote fails' test used correctly elsewhere in the batch (e.g. 545ba91fad80/611ddd612095 on the $99,700 basic-needs funding), the honest counterfactual for this vote is 'no part b)/c) at all' -- which would make a yea read EXPANSIVE, not restrictive, directly contradicting the recorded call. Given real vote-splitting between this vote and the prior one (4 members flipped), it is a substantively separate decision, but its own direction is genuinely ambiguous between two defensible readings depending on reference point. Downgraded to unclear rather than guess."
  },
  {
-  "id": "00c2d075be6f",
+  "id": "69588c18b766",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -136,7 +136,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "7eb497d27fa8",
+  "id": "d63a69d3de02",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -148,7 +148,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "39fa2e6a98f1",
+  "id": "bd5d55ccaef2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -160,7 +160,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "8c3ef696afd0",
+  "id": "f7f128b9aa10",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -174,7 +174,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "7655ba7332c2",
+  "id": "719ce14a4838",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -186,7 +186,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "b07027c751fd",
+  "id": "1af065053546",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -198,7 +198,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "6bc2898cdbff",
+  "id": "685e58c0f277",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",
@@ -210,7 +210,7 @@
   "verifierNote": "whatAYeaDid was written in the affirmative past tense (\"Amended part b)...\") but the source meeting JSON shows this motion FAILED (7 to 8) -- confirmed against the raw vote record. Fixed the narrative to \"Would have amended...\", matching the batch's own convention for failed motions elsewhere (e.g. 41ec8865db2d, 5c6d802b2c95). Issue/axis/polarity/quote were otherwise correct and are unchanged; this was a tense-accuracy defect, not a direction error."
  },
  {
-  "id": "4d07f4f1ca77",
+  "id": "8be756f3d937",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -246,7 +246,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "31f7ea9e21c3",
+  "id": "fbe0437076bc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -260,7 +260,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "0c03f38532e3",
+  "id": "acc5af6cd54b",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -286,7 +286,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "5abe9263fc77",
+  "id": "8bb3c8234085",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -300,7 +300,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "d81609bb456e",
+  "id": "b340f3137ebd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -314,7 +314,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "5f9226a76a63",
+  "id": "ded58b460c7a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -328,7 +328,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "dde088237cfe",
+  "id": "994b67064801",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -342,7 +342,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "41ec8865db2d",
+  "id": "6482954d2c17",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",
@@ -368,7 +368,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "611ddd612095",
+  "id": "92c5abcb31d2",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",
@@ -380,7 +380,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "cf1bee35ff2d",
+  "id": "06f690a36f3c",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -392,7 +392,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "545ba91fad80",
+  "id": "40a9582bc9df",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -430,7 +430,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "c50fe8ae97ad",
+  "id": "cac27fdd685b",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -442,7 +442,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "8e9810d45af2",
+  "id": "62ff8e71e4c5",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -456,7 +456,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "3f9c3731f9f0",
+  "id": "3d1c97afb1ae",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -470,7 +470,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "d7c823596621",
+  "id": "b82e7d945d52",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -484,7 +484,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "bbe5ef70e744",
+  "id": "8730cad51ba0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -496,7 +496,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "67e74cc4c221",
+  "id": "c59ab5723965",
   "issue": "housing",
   "axis": "density",
   "polarity": "restrictive",
@@ -508,7 +508,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "da4f0e911e92",
+  "id": "16a834d7c929",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -548,7 +548,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "eb9cac86041a",
+  "id": "0d3e00a665b6",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -562,7 +562,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "a8f79de0c7d3",
+  "id": "5e88f79c0c67",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -574,7 +574,7 @@
   "verifierNote": "Confirmed the quote is verbatim and the vote (14-1) is genuine, and issue=climate is a reasonable keyword match (\"climate action\"). But axis=target-strength borrows a label whose own canonical sentence (direction-rules.ts: expansive = \"strengthened a climate or environmental target\") does not describe what this vote did -- authorizing a general Memorandum of Understanding with the London Chamber of Commerce to \"jointly advance climate action objectives\" contains no target, numeric goal, or commitment of any specific strength; it is a partnership/collaboration instrument. generate-stances.ts (line ~653) feeds axisLabels.expansive directly into the published per-councillor sentence, so leaving this classified would produce the false public claim that the 14 yea-voting councillors 'moved toward measures that strengthened a climate or environmental target' when no target was involved. This is a domain mismatch, not merely a generous framing -- downgraded to unclear."
  },
  {
-  "id": "4d0e33ae1eec",
+  "id": "cb8492a59ca3",
   "issue": "none",
   "axis": null,
   "polarity": null,

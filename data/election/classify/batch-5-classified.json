@@ -1,6 +1,6 @@
 [
  {
-  "id": "9daa4ae88f7d",
+  "id": "acd142cfb31e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -10,7 +10,7 @@
   "flags": []
  },
  {
-  "id": "cdbb0a7c324f",
+  "id": "010febff3b21",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -20,7 +20,7 @@
   "flags": []
  },
  {
-  "id": "603772c87312",
+  "id": "6b14d5415457",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -30,7 +30,7 @@
   "flags": []
  },
  {
-  "id": "4bc555034b6e",
+  "id": "7aa522c999a3",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -40,7 +40,7 @@
   "flags": []
  },
  {
-  "id": "f42e59d08d2d",
+  "id": "5b4b3ce9f826",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -50,7 +50,7 @@
   "flags": []
  },
  {
-  "id": "734a77116bfa",
+  "id": "9a68d6b27f40",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -62,7 +62,7 @@
   ]
  },
  {
-  "id": "92a1d39a4c23",
+  "id": "2a91d0868135",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -72,7 +72,7 @@
   "flags": []
  },
  {
-  "id": "cc02b97b1db2",
+  "id": "dd44bafbc32e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -82,7 +82,7 @@
   "flags": []
  },
  {
-  "id": "93d38a9fb41b",
+  "id": "52c98de88a91",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -92,7 +92,7 @@
   "flags": []
  },
  {
-  "id": "0ae2e39fbff8",
+  "id": "8248e7cd9062",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -102,7 +102,7 @@
   "flags": []
  },
  {
-  "id": "89dc3800dea4",
+  "id": "3f5fc7da2247",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -112,7 +112,7 @@
   "flags": []
  },
  {
-  "id": "a1b956b4da73",
+  "id": "85cfd70ef2f5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -122,7 +122,7 @@
   "flags": []
  },
  {
-  "id": "590241b860b3",
+  "id": "7ccbe1a7ad83",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -142,7 +142,7 @@
   "flags": []
  },
  {
-  "id": "3fe9255c55d6",
+  "id": "f52020b2a64f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -154,7 +154,7 @@
   ]
  },
  {
-  "id": "2aa419f2b8d8",
+  "id": "a838fe506695",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -167,7 +167,7 @@
   ]
  },
  {
-  "id": "8eeba497afe5",
+  "id": "671a92fcfd37",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -179,7 +179,7 @@
   ]
  },
  {
-  "id": "0cadd356b66f",
+  "id": "4956a81b463e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -191,7 +191,7 @@
   ]
  },
  {
-  "id": "6c837fc6029f",
+  "id": "c42518d893e5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -203,7 +203,7 @@
   ]
  },
  {
-  "id": "c86bc3efe031",
+  "id": "5d2459549704",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -216,7 +216,7 @@
   ]
  },
  {
-  "id": "fb2f11631228",
+  "id": "2393869cf590",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -228,7 +228,7 @@
   ]
  },
  {
-  "id": "817752160deb",
+  "id": "be76c427f512",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -238,7 +238,7 @@
   "flags": []
  },
  {
-  "id": "9834405f9a32",
+  "id": "e4b3fdd85128",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -250,7 +250,7 @@
   ]
  },
  {
-  "id": "ba4c491b87f8",
+  "id": "c0461b3b1709",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -260,7 +260,7 @@
   "flags": []
  },
  {
-  "id": "9348cceb9675",
+  "id": "2aa90e5b9ee7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -272,7 +272,7 @@
   ]
  },
  {
-  "id": "d72f2d223e08",
+  "id": "74aaa8315196",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -284,7 +284,7 @@
   ]
  },
  {
-  "id": "e070b52f1e95",
+  "id": "7de65084166d",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -296,7 +296,7 @@
   ]
  },
  {
-  "id": "2d077b0b72af",
+  "id": "ef2e3e7e484c",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -308,7 +308,7 @@
   ]
  },
  {
-  "id": "2c867433409e",
+  "id": "17cb6a0556ae",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -320,7 +320,7 @@
   ]
  },
  {
-  "id": "c39564ac8453",
+  "id": "359de05cf53b",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -332,7 +332,7 @@
   ]
  },
  {
-  "id": "0ee54a890942",
+  "id": "b5e87f191d1c",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -345,7 +345,7 @@
   ]
  },
  {
-  "id": "259ef26f8a8c",
+  "id": "66a55703f14b",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -355,7 +355,7 @@
   "flags": []
  },
  {
-  "id": "36aea4a70ddb",
+  "id": "f70a46e5bbaf",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -367,7 +367,7 @@
   ]
  },
  {
-  "id": "67dcef32267d",
+  "id": "b3ac99007a80",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -379,7 +379,7 @@
   ]
  },
  {
-  "id": "aa46dff73d98",
+  "id": "b68122e6a995",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -391,7 +391,7 @@
   ]
  },
  {
-  "id": "912524940d92",
+  "id": "a6a814205263",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -401,7 +401,7 @@
   "flags": []
  },
  {
-  "id": "14ab11866671",
+  "id": "7a11bdf36eff",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -411,7 +411,7 @@
   "flags": []
  },
  {
-  "id": "94ca6640eb28",
+  "id": "ab82de8d5cf8",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -469,7 +469,7 @@
   ]
  },
  {
-  "id": "5b007df08ef4",
+  "id": "02313ed8325b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -481,7 +481,7 @@
   ]
  },
  {
-  "id": "5427888a6b2d",
+  "id": "69ffef0c6d50",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -493,7 +493,7 @@
   ]
  },
  {
-  "id": "bb74084d4b6c",
+  "id": "fdb3c5b9aa9a",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",

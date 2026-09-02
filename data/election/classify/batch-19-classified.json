@@ -1,6 +1,6 @@
 [
  {
-  "id": "8251f112a558",
+  "id": "693826a95fc6",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -12,7 +12,7 @@
   ]
  },
  {
-  "id": "8c93827f87c3",
+  "id": "c2cba1f78177",
   "issue": "policing",
   "axis": "budget-size",
   "polarity": "restrictive",
@@ -22,7 +22,7 @@
   "flags": []
  },
  {
-  "id": "cdc1ceab9315",
+  "id": "a34731d34105",
   "issue": "climate",
   "axis": "natural-heritage",
   "polarity": "expansive",
@@ -32,7 +32,7 @@
   "flags": []
  },
  {
-  "id": "46d4de9c4071",
+  "id": "491e4db4d503",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -42,7 +42,7 @@
   "flags": []
  },
  {
-  "id": "604e3b7c6552",
+  "id": "9e771fee78f7",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "restrictive",
@@ -52,7 +52,7 @@
   "flags": []
  },
  {
-  "id": "cb27cd682442",
+  "id": "7ab810f00c07",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "restrictive",
@@ -62,7 +62,7 @@
   "flags": []
  },
  {
-  "id": "e075baf71ae2",
+  "id": "ac1a9ff758cc",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "restrictive",
@@ -72,7 +72,7 @@
   "flags": []
  },
  {
-  "id": "ab1f56cc2b97",
+  "id": "b405d16e64a1",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -84,7 +84,7 @@
   ]
  },
  {
-  "id": "e408ead1fc53",
+  "id": "9b339d1359dc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -96,7 +96,7 @@
   ]
  },
  {
-  "id": "7d8562fee87c",
+  "id": "ad20db2291a4",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -106,7 +106,7 @@
   "flags": []
  },
  {
-  "id": "280c741c7a8e",
+  "id": "4455b718488c",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -116,7 +116,7 @@
   "flags": []
  },
  {
-  "id": "1d40dd7cc4c1",
+  "id": "fe3906dd8a26",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -126,7 +126,7 @@
   "flags": []
  },
  {
-  "id": "6f3c002f427d",
+  "id": "e1f01071209f",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -136,7 +136,7 @@
   "flags": []
  },
  {
-  "id": "e87fc2129ba9",
+  "id": "cb1ea540f2b8",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -146,7 +146,7 @@
   "flags": []
  },
  {
-  "id": "f6aa1bc834a4",
+  "id": "59db5e3fabf9",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -156,7 +156,7 @@
   "flags": []
  },
  {
-  "id": "b4082101a336",
+  "id": "e9ba4b49deae",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -166,7 +166,7 @@
   "flags": []
  },
  {
-  "id": "a61e9b88ab0b",
+  "id": "1f5ca5da65a4",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -176,7 +176,7 @@
   "flags": []
  },
  {
-  "id": "2705bd8983d4",
+  "id": "0499ef880a69",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -186,7 +186,7 @@
   "flags": []
  },
  {
-  "id": "643807483f90",
+  "id": "3dadeb532b38",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -196,7 +196,7 @@
   "flags": []
  },
  {
-  "id": "13f0189fb7d2",
+  "id": "5e7c4ffad8fb",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -206,7 +206,7 @@
   "flags": []
  },
  {
-  "id": "9ae4b2d5a23c",
+  "id": "1a0989cd5b32",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -216,7 +216,7 @@
   "flags": []
  },
  {
-  "id": "6712ca3fffe0",
+  "id": "e07bab24dc8b",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -226,7 +226,7 @@
   "flags": []
  },
  {
-  "id": "543587b00733",
+  "id": "73f1d333b766",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -236,7 +236,7 @@
   "flags": []
  },
  {
-  "id": "f10ecd532d39",
+  "id": "9f3df4886131",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -246,7 +246,7 @@
   "flags": []
  },
  {
-  "id": "62fa897ab9ac",
+  "id": "96ff20fe8980",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -256,7 +256,7 @@
   "flags": []
  },
  {
-  "id": "4ac84c713dc6",
+  "id": "e4946ac41524",
   "issue": "policing",
   "axis": "budget-size",
   "polarity": "restrictive",
@@ -266,7 +266,7 @@
   "flags": []
  },
  {
-  "id": "7800e8b9ceae",
+  "id": "b2c7c85b0f19",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -278,7 +278,7 @@
   ]
  },
  {
-  "id": "2158fadf169c",
+  "id": "36bb2f3bdd74",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -288,7 +288,7 @@
   "flags": []
  },
  {
-  "id": "b9122734bf86",
+  "id": "b72eac4af0f7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -300,7 +300,7 @@
   ]
  },
  {
-  "id": "f2f57f834998",
+  "id": "c06201ab1f58",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -312,7 +312,7 @@
   ]
  },
  {
-  "id": "fade80c99229",
+  "id": "732d2c36fa00",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -322,7 +322,7 @@
   "flags": []
  },
  {
-  "id": "2a814fa072c4",
+  "id": "b1522f39e520",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -334,7 +334,7 @@
   ]
  },
  {
-  "id": "00bf6e89f1ac",
+  "id": "29e571c58d51",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "restrictive",
@@ -344,7 +344,7 @@
   "flags": []
  },
  {
-  "id": "75ab0695380f",
+  "id": "3ccc0935ca9c",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -354,7 +354,7 @@
   "flags": []
  },
  {
-  "id": "414239a10fe9",
+  "id": "9cecd5ac8fd6",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -364,7 +364,7 @@
   "flags": []
  },
  {
-  "id": "140836134fdf",
+  "id": "289eb85336e7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -376,19 +376,7 @@
   ]
  },
  {
-  "id": "bb3ce5952d8f",
-  "issue": "none",
-  "axis": null,
-  "polarity": null,
-  "whatAYeaDid": "Amended the motion to receive the Municipal Compliance Annual Report by noting that acceptance doesn't preclude further inquiry into 2023 Short-Term-Accommodation and property-compliance data.",
-  "confidence": "high",
-  "quote": "it being noted that accepting this report does not preclude the committee from further inquiry into 2023 data and future reporting will provide additional information and fulsome aggregate tables on Short Term Accommodations and Property Compliance",
-  "flags": [
-   "informational_ask"
-  ]
- },
- {
-  "id": "43617e79c864",
+  "id": "e9df87268bff",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -398,7 +386,7 @@
   "flags": []
  },
  {
-  "id": "6f73a1e65e6a",
+  "id": "a34c7ed1cb1e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -408,7 +396,7 @@
   "flags": []
  },
  {
-  "id": "7675c9f2dbb2",
+  "id": "2c1c48340ccf",
   "issue": "climate",
   "axis": "target-strength",
   "polarity": "expansive",
@@ -418,7 +406,7 @@
   "flags": []
  },
  {
-  "id": "ddc57de69a2b",
+  "id": "7247063b1f07",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -428,7 +416,7 @@
   "flags": []
  },
  {
-  "id": "3f29f81fb746",
+  "id": "e55c07ec4206",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -438,7 +426,7 @@
   "flags": []
  },
  {
-  "id": "5b9e95d03206",
+  "id": "9cc6fa11822d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -450,21 +438,11 @@
   ]
  },
  {
-  "id": "86419cffb57c",
+  "id": "29b9452b13f7",
   "issue": "none",
   "axis": null,
   "polarity": null,
   "whatAYeaDid": "Approved a 12.5% pay increase to the annual base Councillor salary for the Deputy Mayor position, effective January 2024.",
-  "confidence": "medium",
-  "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
-  "flags": []
- },
- {
-  "id": "0beb8b008e0b",
-  "issue": "none",
-  "axis": null,
-  "polarity": null,
-  "whatAYeaDid": "Approved a 12.5% pay increase to the annual base Councillor salary for the Deputy Mayor position, effective January 2024 (source data does not distinguish this vote's tally from id 86419cffb57c \u2014 both matched the identical 'part a) Deputy Mayor' clause in the meeting JSON; itemNumber 4.4 records six distinct sub-motions and two of the four manifest ids sharing this tally could not be told apart from the JSON alone).",
   "confidence": "medium",
   "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
   "flags": []
