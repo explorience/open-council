@@ -50,9 +50,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,181 |
-| Voted Yea | 4,107 (89.2%) |
-| Voted Nay | 496 (10.8%) |
+| Substantive Votes | 4,533 |
+| Voted Yea | 3,520 (88.3%) |
+| Voted Nay | 465 (11.7%) |
 
 
 ### Dissent on Contested Votes
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 766 |
-| Voted Yea | 582 (81.9%) |
-| Voted Nay | 129 (18.1%) |
-| Absent | 55 |
+| Budget Votes | 897 |
+| Voted Yea | 692 (83.2%) |
+| Voted Nay | 140 (16.8%) |
+| Absent | 65 |
 
 
 ## Attendance
