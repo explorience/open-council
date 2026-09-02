@@ -26,14 +26,14 @@ Zoning and the budget, yes. Policing and healthcare, mostly not. [Read the plain
 
 ## Divided votes by issue
 
-These are the issues where council has actually split since 2023 — where a vote wasn't unanimous, and wasn't purely procedural. 501 additional divided motions since 2023 were independently classified as not fitting any of these tracked issue clusters, and are not force-fit into one; all of them are listed on the [issues page](/election/issues).
+These are the issues where council has actually split since 2023 — where a vote wasn't unanimous, and wasn't purely procedural. 487 additional divided motions since 2023 were independently classified as not fitting any of these tracked issue clusters, and are not force-fit into one; all of them are listed on the [issues page](/election/issues).
 
-- [Housing & Density](/election/issues/housing) — 236 divided votes since 2023, 136 with a clear direction
-- [Homelessness & Encampments](/election/issues/encampments) — 136 divided votes since 2023, 59 with a clear direction
-- [Taxes & Budget](/election/issues/budget) — 130 divided votes since 2023, 85 with a clear direction
-- [Transit & Roads](/election/issues/transit) — 64 divided votes since 2023, 33 with a clear direction
+- [Housing & Density](/election/issues/housing) — 175 divided votes since 2023, 84 with a clear direction
+- [Homelessness & Encampments](/election/issues/encampments) — 130 divided votes since 2023, 59 with a clear direction
+- [Taxes & Budget](/election/issues/budget) — 124 divided votes since 2023, 82 with a clear direction
+- [Transit & Roads](/election/issues/transit) — 57 divided votes since 2023, 28 with a clear direction
 - [Climate & Green Space](/election/issues/climate) — 39 divided votes since 2023, 17 with a clear direction
-- [Downtown & Core](/election/issues/downtown) — 25 divided votes since 2023, 16 with a clear direction
+- [Downtown & Core](/election/issues/downtown) — 23 divided votes since 2023, 14 with a clear direction
 - [Bike Lanes / Cycling](/election/issues/bikes) — 18 divided votes since 2023, 13 with a clear direction
 - [Policing](/election/issues/policing) — 14 divided votes since 2023, 6 with a clear direction
 

@@ -1,603 +1,603 @@
 [
-  {
-    "id": "81992ec0e7e0",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved rezoning 2-4 Audrey Avenue and 186-188 Huron Street from a low-density Residential R1 zone to a higher-density Residential R6 zone, permitting a more intensive residential development.",
-    "confidence": "medium",
-    "quote": "change the zoning of the subject properties FROM a Residential R1 Special Provision (R1-5(3)) Zone TO a Residential R6 Special Provision (R6-5(_)) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-09-24 Council item 8.6.4: quote is verbatim from the operative rezoning clause (R1-5(3)->R6-5(_)), Passed 13-1 matches. Density-increase read (R1->R6) correct."
-  },
-  {
-    "id": "b616e778e552",
-    "issue": "housing",
-    "axis": "use-permission",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Would have narrowed the Official Plan amendment so stacked townhouses are permitted on Neighbourhood Connectors only in Central London (rather than city-wide), and directed further public consultation before any broader change.",
-    "confidence": "high",
-    "quote": "the Official Plan amendment is revised by removing changes to where stacked townhouses are permitted along Neighbourhood Connector street classifications, and maintaining the existing provisions of Table 10 in The London Plan to permit Stacked Townhouses on Neighbourhood Connectors only in Central London",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-09-24 Council item 8.6.9, motion block 2 (Failed 6-8): quote verbatim; this is the amendment that would have narrowed stacked-townhouse permission to Central London only + required further consultation. Restrictive read correct."
-  },
-  {
-    "id": "856be743679b",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Recessed the Council meeting for 10 minutes.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs same item, block 3: 'That the Council recess at this time, for 10 minutes.' Passed 12-2. Matches the documented recess false-positive exclusion in issue-rules.ts GLOBAL_EXCLUDE comments (ID cited by name). Correctly none/procedural."
-  },
-  {
-    "id": "1e1a518676e9",
-    "issue": "housing",
-    "axis": "use-permission",
-    "polarity": "expansive",
-    "whatAYeaDid": "Adopted Phase 2 of the Section 26 Official Plan/Zoning Review of The London Plan as amended, including permitting stacked townhouses along all Neighbourhood Connectors and setting new maximum building heights (up to 35 storeys in Transit Villages, 25 storeys in Rapid Transit Corridors, and 15 storeys in Urban Corridors).",
-    "confidence": "high",
-    "quote": "x) amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along all Neighbourhood Connectors",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs same item, block 5: 'That the motion, as amended, BE APPROVED' Passed 13-1 -- a bare wrapper vote with no colon-introduced clause (doesn't mechanically strip per WRAPPER_PREAMBLE_RE, but is substantively the final adoption vote on the whole Phase 2 package). Traced substance to block 0's original clause a)x) (stacked townhouses on all Neighbourhood Connectors), which survived because the narrowing amendment in block 2 (b616e778e552) FAILED 6-8. Quote is verbatim from block 0, not from this record's own bare motionText -- correct methodology given the wrapper, flagged consistently by the classifier."
-  },
-  {
-    "id": "6fb58b433de6",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have referred the proposed increase to the Municipal Accommodation Tax to the next Strategic Priorities and Policy Committee meeting so the accommodation industry could comment; failed 1-13. A separate motion in the same item (Passed 13-1) directed Civic Administration to proceed directly with the MAT increase from 4% to 5%, so the increase question was decided regardless of this referral's failure.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "corrected",
-    "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (1 to 13)', not passed. Verified vs 2024-09-17 SPPC item 2.2 block 1: 'That the motion related to the MAT BE REFERRED to the next meeting... to allow the accommodation industry to provide comment' -- Failed 1-13. Original whatAYeaDid said 'Referred... rather than deciding the increase' in passed-tense, which is doubly wrong: (1) the referral FAILED, and (2) the MAT increase WAS decided directly in a separate motion in the same item (block 0, 'BE DIRECTED to undertake the process to increase... from 4% to 5%', Passed 13-1) -- so 'rather than deciding the increase' misstates the actual outcome. Corrected whatAYeaDid to: 'Would have referred the proposed Municipal Accommodation Tax increase (4% to 5%) to the next SPPC meeting for accommodation-industry comment before proceeding; failed 1-13, so the increase proceeded on the original directed timeline via a separate, passing motion in the same item.' Issue stays none/axis null -- MAT is not a budget-keyword match (not tax levy/property tax) and this is a referral either way."
-  },
-  {
-    "id": "0a74276ce449",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Approved rezoning 80 and 82 Base Line Road West to a Special Provision R9 zone that lowers the maximum permitted building height exception from 45 metres to 30 metres.",
-    "confidence": "medium",
-    "quote": "change the zoning of the subject property FROM a Residential R9 (R9-7*H45) Zone TO a Residential R9 Special Provision (R9-7(_)*H30) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-09-10 PEC item 3.4 block 0: quote verbatim (R9-7*H45 -> R9-7(_)*H30). H-suffix denotes a metre height cap in London's zoning by-law, so 45m->30m is a real height reduction. Passed 4-1 matches. Restrictive density read correct."
-  },
-  {
-    "id": "ef2c2268354d",
-    "issue": "housing",
-    "axis": "use-permission",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have amended the Official Plan to permit stacked townhouses along primary transit routes.",
-    "confidence": "high",
-    "quote": "amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along primary transit routes",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-09-10 PEC item 3.6 block 3: 'G) amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along primary transit routes;' Failed 1-5. Quote verbatim, 'would have' framing correct for a failed motion."
-  },
-  {
-    "id": "1db64f986a3b",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Zoning By-law for Protected Major Transit Station Areas to remove 'Emergency Care Establishment' from the list of permitted uses in the TSA1, TSA2, TSA3, TSA4, TSA5, and TSA7 zones.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-09-10 PEC item 3.7 block 3 (Passed 5-1): motion to delete Emergency Care Establishment from TSA1/2/3/4/5/7 permitted-uses clauses. Correctly axis:null -- Emergency Care Establishment is a health-care use, not one of the dwelling-type nouns the use-permission axis covers (ADU/secondary suite/triplex/fourplex/multi-unit/townhouse/laneway house)."
-  },
-  {
-    "id": "e8408845b21e",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved hearing delegation requests from several named individuals at the meeting on the renovictions licensing matter.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-09-09 CPSC item 2.2 block 1 (Passed 5-1): delegation-hearing approval. Correctly none/procedural -- a personnel/hearing-logistics vote, not a position on the renovictions substance."
-  },
-  {
-    "id": "83fca2487789",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have referred the renovictions business-licensing amendments back to Civic Administration to report back with rent top-ups and alternate accommodations added to the by-law.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "referral",
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs same item, block 2 (Failed 2-4): 'BE REFERRED back to Civic Administration to report back... to include rent top ups and alternate accommodations as part of the by-law.' Pure referral, correctly axis:null."
-  },
-  {
-    "id": "31bbea57ba6c",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have directed Civic Administration to amend the Business Licensing By-law to include temporary alternative accommodation for displaced tenants and short-term rental top-ups, modeled on the City of Hamilton's by-law, for Council's consideration in September 2024.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs same item, block 3 (Failed 2-4): 'BE DIRECTED to amend By-law No. L.-131-16... to include temporary alternative accommodation... modeled on the City of Hamilton By-law.' This IS a directive to amend the by-law substantively (not a mere report-back), but correctly axis:null since none of the three defined housing axes (density/use-permission/affordable-funding) cover tenant-relocation/rental-top-up regulation -- consistent with the classifier's own stated rule for this cluster."
-  },
-  {
-    "id": "6b9defad7fd1",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have approved taking no action on expanding the Residential Rental Unit Licensing By-law (CP-19) to license all multi-unit residential dwellings up to and including four storeys; failed 2-3, meaning the committee majority rejected 'no action' rather than approving it.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [],
-    "verdict": "corrected",
-    "verifierNote": "REFUTED: manifest result is 'Motion Failed (2 to 3)' for this ID (block 5, 'Motion to approve part e)... e) that NO ACTION BE TAKEN to amend By-law No. CP-19... to expand the program to licence all multi-unit residential dwellings up to and including four storeys'). Original whatAYeaDid said 'Approved not expanding...' in passed-tense -- but the 'no action' motion FAILED, meaning the committee did NOT approve inaction; a majority (3 of 5) voted against the no-action position. Corrected whatAYeaDid to: 'Would have approved taking no action on expanding the Residential Rental Unit Licensing By-law (CP-19) to multi-unit residential dwellings up to four storeys; failed 2-3, so no-action was rejected by the committee majority.' Axis stays null -- no licensing-expansion-scope axis is defined among the three housing axes."
-  },
-  {
-    "id": "5c04feb0794a",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed that a draft by-law regulating maximum temperatures in rental units be prepared for a future Community and Protective Services Committee meeting, without setting the standard itself.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 2.3 block 3 (Passed 4-1): 'a draft by-law BE PREPARED for a future meeting' -- pure report-back/preparatory step, no standard set. Correctly axis:null."
-  },
-  {
-    "id": "51cbca63a015",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to hold an additional hybrid community meeting with residents near Victoria Park, Harris Park, and Dundas Place to discuss the impact of Special Events Policy changes on their neighbourhoods.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 2.4 block 2 (Passed 4-1): directs an additional hybrid community meeting near Victoria Park/Harris Park/Dundas Place re: Special Events Policy impact. Note this motion literally contains the downtown keyword 'Dundas Place', which issue-rules.ts's mechanical substring match would flag as issue:downtown -- but the clause is a pure meeting-scheduling directive with zero downtown-policy content (no axis exists for 'downtown' in direction-rules.ts regardless), so leaving it issue:none rather than force-fitting a keyword hit into a substantive position is the correct call, not a miss."
-  },
-  {
-    "id": "8142533138e8",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Convened Council as the Approving Authority under the Expropriations Act to consider expropriating lands required for the East London Link Project - Phase 4.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-08-27 Council item 6.1 block 0 (Passed 14-1): convenes Council as Expropriations Act Approving Authority. Purely procedural/jurisdictional; correctly none."
-  },
-  {
-    "id": "f7b1942a695f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "As the Approving Authority under the Expropriations Act, approved the expropriation of lands required for the East London Link Project - Phase 4 (a project whose transportation design was approved via Environmental Assessment in 2019) and directed issuance of a certificate of approval.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 6.1 block 1 (Passed 13-2): approves expropriation, with stated reasons citing the project's design being 'in accordance with the Municipal Class EA Study recommendations... approved by Municipal Council' (i.e. the transportation merits were decided via the 2019 EA, not here). Statutory land-taking mechanism, correctly none/procedural -- also no literal 'transit' keyword hit in the text (only 'transportation demands', which doesn't match the word-boundary 'transit' keyword), so this is consistent with issue-rules.ts mechanically too."
-  },
-  {
-    "id": "42093ac25f70",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "As the Expropriating Authority, introduced the by-law to expropriate lands for the East London Link Project - Phase 4 and directed the steps to register the plan and execute the expropriation notices.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 6.2 block 0 (Passed 13-2): introduces the expropriating by-law and directs registration/notice steps. Purely legal-mechanism; correctly none/procedural."
-  },
-  {
-    "id": "b7facecce375",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Convened Council as the Approving Authority under the Expropriations Act to consider expropriating lands required for the Wellington Gateway Project's Clark's Bridge Civil Works.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 6.3 block 0 (Passed 13-2): convenes Council as Approving Authority for the Wellington Gateway/Clark's Bridge parcel. Same reasoning as 8142533138e8; correctly none/procedural."
-  },
-  {
-    "id": "fb3ade1db5c7",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "As the Approving Authority under the Expropriations Act, approved the expropriation of lands required for the Wellington Gateway Project's Clark's Bridge Civil Works (a project whose design was approved via Environmental Assessment in 2019) and directed issuance of a certificate of approval.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 6.3 block 1 (Passed 13-2): approves the expropriation, reasons again cite the prior-approved EA design. Correctly none/procedural."
-  },
-  {
-    "id": "566cf445bc10",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "As the Expropriating Authority, introduced the by-law to expropriate lands for the Wellington Gateway Project's Clark's Bridge Civil Works and directed the steps to register the plan and execute the expropriation notices.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 6.4 block 0 (Passed 13-2): introduces the expropriating by-law for Wellington Gateway. Correctly none/procedural."
-  },
-  {
-    "id": "272a376d7260",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved, as amended, rezoning a portion of 2060 Dundas Street from Light Industrial and Restricted Service Commercial zoning to a Holding Residential R9 Special Provision zone and Open Space zone, enabling high-density residential redevelopment of the site.",
-    "confidence": "high",
-    "quote": "change the zoning of a portion of the subject property FROM a Light Industrial (LI1/LI7) Zone and Restricted Service Commercial (RSC2/RSC3/RSC4/RSC5) Zone TO a Holding Residential R9 Special Provision (h-_*R9-3(_)) Zone and an Open Space (OS5) Zone",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-08-27 Council item 8.1.11. Quote is verbatim from block 1 ('That the motion BE AMENDED to read as follows...', Passed 15-0), which adds a Holding (h-) prefix to the R9 special-provision zone; block 3 ('That item 11, clause 3.9, as amended, BE APPROVED.', Passed 14-1) is the wrapper ratification vote this ID maps to by result string. Since no competing restrictive amendment applied here, tracing the substance to the amended clause is correct and the quote matches it exactly."
-  },
-  {
-    "id": "6876e0b0cc58",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved rezoning 553-557 Upper Queens Street from a low-density Residential R1 zone to a medium-density Residential R5 zone.",
-    "confidence": "medium",
-    "quote": "change the zoning of the subject property FROM a Residential R1 (R1-9) Zone TO a Residential R5 Special Provision (R5-5(_)) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.1.4 block 0 (Passed 14-1): quote verbatim (R1-9 -> R5-5(_)). Density-increase read correct."
-  },
-  {
-    "id": "3ef06014fccf",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the 455 Highbury Avenue North self-storage facility expansion application back to Civic Administration to work with the applicant on a plan reducing the scope of the expansion to allow for an adequate tree replacement plan.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.1.5 block 1 (Passed 8-7): 'BE REFERRED to Civic Administration to work with the applicant to develop a plan for a reduction in expansion to facilitate an adequate tree replacement plan.' Paraphrase accurate; pure referral, correctly axis:null."
-  },
-  {
-    "id": "da0dc28a0459",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Directed a $3,000,000 transfer from the Community Investment Reserve Fund to the Operating Budget Contingency Reserve to support a $1,000,000 property tax-levy reduction in each of the 2025, 2026, and 2027 Annual Budget Updates, and requested the Mayor include that decrease in his budget updates.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to transfer $3,000,000 from the Community Investment Reserve Fund to the Operating Budget Contingency Reserve (OBCR) to support a $1,000,000 tax-levy reduction in each of the 2025, 2026, 2027 Annual Budget Updates",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.2.4 block 0 (Passed 13-2): quote verbatim. Restrictive levy-size read (a $1M/yr tax-levy reduction) correct."
-  },
-  {
-    "id": "07f051a70bf5",
-    "issue": "bikes",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have directed Civic Administration to flag a Hamilton Road Streetscape update (Adelaide St to Highbury Ave) for identification within the Mobility Master Plan -- noting it could include a reconfigured three-lane layout with protected bike lanes and accessible sidewalks -- with any large-scale redesign considered in the 2028-2031 budget cycle, and directed preparation of a budget amendment for future consideration; failed 5-10 at Council (a companion motion with identical text passed 5-1 at the earlier Civic Works Committee stage).",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "corrected",
-    "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (5 to 10)' (2024-08-27 Council item 8.4.9 block 0), not passed -- the companion committee-stage record (208e65b18189, same text, DID pass 5-1 at Civic Works Committee on 2024-08-13, and that one's passed-tense wording is correct). This Council-level record reused the identical passed-tense wording in error. Corrected whatAYeaDid to: 'Would have directed Civic Administration to flag a Hamilton Road Streetscape update... failed 5-10 at Council (a companion motion with identical text passed 5-1 at the earlier Civic Works Committee stage, 208e65b18189).' Axis stays null (informational/could-include language either way)."
-  },
-  {
-    "id": "ef99730d9b9a",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Sustained the Chair's procedural ruling that a proposed amendment (to remove reference to Clarke Road Secondary School) was not in order, under section 10.5 of the Council Procedure By-law.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.5.3 block 2 (Passed 9-6): procedural ruling sustained under s.10.5 of Council Procedure By-law. Correctly none/procedural."
-  },
-  {
-    "id": "3008ff6fbaad",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have referred the Secondary School Student Transit Pass Pilot Program back to the Strategic Priorities and Policy Committee to explore options serving other school routes, rather than deciding the committee's recommended program; failed 5-10.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "corrected",
-    "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (5 to 10)' (item 8.5.3 block 3: 'BE REFERRED back to the Strategic Priorities and Policy Committee to explore options that serve other school routes.'). Original whatAYeaDid used passed-tense 'Referred...'. Corrected to: 'Would have referred the Secondary School Student Transit Pass Pilot Program back to the Strategic Priorities and Policy Committee to explore options serving other school routes; failed 5-10.' Axis stays null (referral)."
-  },
-  {
-    "id": "5e84c6aa86f3",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Deferred the start of the Secondary School Student Transit Pass Pilot Program to the 2025-26 and 2026-27 school years, directing Civic Administration and the London Transit Commission to develop a Memorandum of Understanding with the Thames Valley District School Board to provide transit passes to Clarke Road Secondary School students, with a report back on the MOU, financing, and metrics.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-08-15 SPPC item 2.2 block 2 (Passed 9-3): deferral of the pilot start date + MOU directive. Correctly axis:null (deferral), tense correct since it passed."
-  },
-  {
-    "id": "6fab980660b0",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved rezoning a portion of 2060 Dundas Street from Light Industrial and Restricted Service Commercial zoning to a Residential R9 Special Provision zone and Open Space zone, enabling high-density residential redevelopment of the site.",
-    "confidence": "high",
-    "quote": "change the zoning of a portion of the subject property FROM a Light Industrial (LI1/LI7) Zone and Restricted Service Commercial (RSC2/RSC3/RSC4/RSC5) Zone TO a Residential R9 Special Provision (R9-3(_)) Zone and an Open Space (OS5) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-08-13 PEC item 3.9 block 0 (Passed 3-2): quote verbatim (LI/RSC -> R9-3(_) + OS5). Density-increase read correct."
-  },
-  {
-    "id": "208e65b18189",
-    "issue": "bikes",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to flag a Hamilton Road Streetscape update (Adelaide St to Highbury Ave) for identification within the Mobility Master Plan -- noting it could include a reconfigured three-lane layout with protected bike lanes and accessible sidewalks -- with any large-scale redesign considered in the 2028-2031 budget cycle, and directed preparation of a budget amendment for future consideration.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-08-13 Civic Works Committee item 4.2 (Passed 5-1): identical text to 07f051a70bf5 but this record's passed-tense wording is correct since this committee-stage vote actually passed. Correctly axis:null (could-include, future-budget-cycle language)."
-  },
-  {
-    "id": "679858f9db53",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved routine clauses (1.1, 3.1, 4.1, 5.1, 5.4, and 5.5) of the Animal Welfare Community Advisory Committee's 8th Report.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-08-12 CPSC item 2.1 block 3 (Passed 4-1): approves 'clauses 1.1, 3.1, 4.1, 5.1, 5.4 and 5.5' of a prior committee report (confirmed via block 0's full text). Correctly none/procedural."
-  },
-  {
-    "id": "aa8bc314975b",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to bring forward a by-law reducing councillors' annual expense budget allocation from $15,000 to $13,500 starting in 2025, as part of the Governance Working Group's broader report on councillor role descriptions, community advisory committee appointment procedures, and a task force reviewing elected-official remuneration and severance pay.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-07-23 Council item 8.1.4 block 1 (Passed 10-5): quote verbatim (Council Members' Expense Policy, $15,000->$13,500). Distinct from the 'Remuneration of Elected Officials' clause c) elsewhere in the same report -- this is about councillors' individual expense allowance, not compensation/remuneration. Not a literal 'council remuneration' phrase match, but the classifier's compensation-adjacent, self-governance reasoning for excluding it from all 8 tracked public-policy issues is defensible; not an unambiguous miss."
-  },
-  {
-    "id": "b682ed96bec6",
-    "issue": "budget",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved the 1st Report of the Strategic Opportunities Review Working Group, including capping London Community Grants funding at up to $250,000/year for 2025-2027 pending a program review, plus several directives for staff to report back on other budget, grants, and revenue-generation matters (e.g. municipal golf partnerships, venue naming rights, facility alcohol licensing, the Surplus/Deficit Policy).",
-    "confidence": "low",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.1.6 block 0 (Passed 10-5): an omnibus motion bundling the $250k grants cap with several unrelated report-back directives. Correctly axis:null -- the $250k cap 'while the program is undergoing further review' is genuinely ambiguous as expansive/restrictive without a known prior baseline, and the motion is compound rather than a single clean decision."
-  },
-  {
-    "id": "3085d20bd8d0",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have directed Civic Administration to report back on the potential to eliminate municipal snow plowing of residential sidewalks by instead requiring property owners to clear them.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.1.6 block 1 (Failed 7-8): report-back request on eliminating municipal sidewalk snow plowing. Not a match for any of the 8 tracked issues (not transit -- no transit/road-service keyword). Correctly none, 'would have' tense correct."
-  },
-  {
-    "id": "ed337cbc08fb",
-    "issue": "budget",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have directed Civic Administration to explore replacing the Neighbourhood Decision Making program with a participatory parks-improvement funding model through the Get Involved program, funded up to $125,000/year for 2025-2027 from the Community Investment Reserve Fund.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.1.6 block 2 (Failed 3-12): 'in lieu of the current NDM Program... explore options to fund parks improvements through... Get Involved... $125,000... for 2025-2027.' Correctly axis:null -- ambiguous whether replacing NDM with a smaller Get Involved stream is expansive or restrictive without a clear NDM baseline comparison; 'would have' tense correct for a failed motion."
-  },
-  {
-    "id": "984fb0a5a45f",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Directed Civic Administration to bring forward a budget business case to pause funding for the Neighbourhood Decision Making program for the remainder of the 2025-2027 Multi-Year Budget.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to bring forward a Business Case to the Annual Budget Update for the Mayor's consideration to pause funding for the Neighbourhood Decision Making program for the remainder of the 2025-2027 Multi-Year Budget",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.1.6 block 3 (Passed 9-6): quote verbatim. Directing a Business Case 'to pause funding for the Neighbourhood Decision Making program' is an unambiguous restrictive position (cutting an existing program's funding to zero) unlike the ambiguous $250k-cap case above; correctly restrictive levy-size."
-  },
-  {
-    "id": "17559b89d384",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved a single-source contract award and reallocated $1,800,000 to fund Ark Aid Street Mission's Year-Round Stable Responsive Services program serving people experiencing homelessness, from August to December 2024, with options to renew for two additional years.",
-    "confidence": "high",
-    "quote": "a single source award to Ark Aid Street Mission Inc. BE APPROVED, as per Section 14.4 e) of the Procurement of Goods and Services Policy, to provide Year-Round Stable Responsive Services",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.1.8 block 0 (Passed 12-3): quote verbatim. No 'relocat' language present in this motion (only 'reallocate', which does not match the \\brelocat\\w*\\b pattern), so this is not the relocation-axis trap the direction-rules.ts comments warn about for Ark Aid elsewhere in the corpus. Correctly expansive response-scale."
-  },
-  {
-    "id": "7f5068930d35",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have directed Civic Administration to report back on draft language extending the renoviction by-law's protections to residents who had already received an N13 eviction notice.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.4.13 block 2 (Failed 5-10): report-back request re: N13-notice protection extension. Correctly informational-ask/axis:null, 'would have' tense correct."
-  },
-  {
-    "id": "ad339c9b06e8",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to report back on possible temporary alternate accommodations, or a short-term rental top-up, for tenants displaced by renoviction-related repairs.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.4.13 block 3 (Passed 8-7): report-back request re: temp accommodation/rental top-up. Correctly informational-ask/axis:null."
-  },
-  {
-    "id": "ab40867b5d0a",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have directed Civic Administration to explore and report on options for expanding the capacity of the City-operated Dearness Home long-term care facility, for consideration in the 2028-2031 Multi-Year Budget.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.4.14 block 0 (Failed 4-11): report-back request re: Dearness Home LTC capacity. Not a match for any of the 8 tracked issues. Correctly none, 'would have' tense correct."
-  },
-  {
-    "id": "31bd58f28e78",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have directed Civic Administration to report back on the feasibility of adding a request button to the Service London Portal for reporting property standards violations.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 8.5.11 block 0 (Failed 0-14): report-back request re: a Service London Portal request button for property-standards violations. (A different, passing motion in the same item creates an unrelated Yard and Lot Maintenance By-law request button -- not this record.) Correctly none/informational-ask, 'would have' tense correct."
-  },
-  {
-    "id": "1ee68642ba23",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have introduced a by-law amending the Traffic and Parking By-law to lower speed limits in school zones on major streets; failed 5-9.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [],
-    "verdict": "corrected",
-    "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (5 to 9)' (item 8.5.8 block 0: introducing the school-zone speed-limit by-law). Original whatAYeaDid used passed-tense 'Introduced a by-law...'. Corrected to: 'Would have introduced a by-law amending the Traffic and Parking By-law to lower speed limits in school zones on major streets; failed 5-9.' Axis stays null."
-  },
-  {
-    "id": "eefed782c8cb",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have directed Civic Administration to bring forward a by-law reducing councillors' annual expense budget allocation from $15,000 to $13,500 starting in 2025, as part of the Governance Working Group's report on council role descriptions and remuneration policy.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs 2024-07-18 SPPC item 2.3 block 1 (Failed 5-6): same Council Members' Expense Policy text as aa8bc314975b, at committee stage. 'Would have' tense correct for a failed motion; correctly none, consistent with aa8bc314975b's exclusion reasoning."
-  },
-  {
-    "id": "451f2b3749d1",
-    "issue": "budget",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to bring forward a Budget Amendment funding the London Community Grants program (Grassroots, Innovation, and Capital Grants stream) to a maximum of $250,000/year for 2025-2027, contingent on the Community Investment Reserve Fund holding at least a $1M balance, while the program undergoes further review.",
-    "confidence": "low",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 4.2 block 2 (Passed 9-5): 'part a) i) A) be approved and reads as follows: ... to be funded to a maximum of $250,000/year... while the program is undergoing further review.' This is the SPPC committee-stage precursor to the same clause later in b682ed96bec6's Council-level omnibus motion. Correctly axis:null -- same ambiguity as b682ed96bec6 (no clear prior-funding baseline to judge the $250k cap against); leaving unclear is the safer call than guessing a direction."
-  },
-  {
-    "id": "7fd1131d01ec",
-    "issue": "budget",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have directed Civic Administration to explore replacing the Neighbourhood Decision Making program with a participatory parks-improvement funding model through the Get Involved program, funded up to $125,000/year for 2025-2027 from the Community Investment Reserve Fund.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified vs item 4.2 block 3 (Failed 7-7): same Get Involved/NDM-replacement text as ed337cbc08fb, at committee stage. Correctly axis:null, 'would have' tense correct."
-  }
+ {
+  "id": "9dd3ed0445e0",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved rezoning 2-4 Audrey Avenue and 186-188 Huron Street from a low-density Residential R1 zone to a higher-density Residential R6 zone, permitting a more intensive residential development.",
+  "confidence": "medium",
+  "quote": "change the zoning of the subject properties FROM a Residential R1 Special Provision (R1-5(3)) Zone TO a Residential R6 Special Provision (R6-5(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-09-24 Council item 8.6.4: quote is verbatim from the operative rezoning clause (R1-5(3)->R6-5(_)), Passed 13-1 matches. Density-increase read (R1->R6) correct."
+ },
+ {
+  "id": "df3b5a1d423a",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have narrowed the Official Plan amendment so stacked townhouses are permitted on Neighbourhood Connectors only in Central London (rather than city-wide), and directed further public consultation before any broader change.",
+  "confidence": "high",
+  "quote": "the Official Plan amendment is revised by removing changes to where stacked townhouses are permitted along Neighbourhood Connector street classifications, and maintaining the existing provisions of Table 10 in The London Plan to permit Stacked Townhouses on Neighbourhood Connectors only in Central London",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-09-24 Council item 8.6.9, motion block 2 (Failed 6-8): quote verbatim; this is the amendment that would have narrowed stacked-townhouse permission to Central London only + required further consultation. Restrictive read correct."
+ },
+ {
+  "id": "856be743679b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recessed the Council meeting for 10 minutes.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs same item, block 3: 'That the Council recess at this time, for 10 minutes.' Passed 12-2. Matches the documented recess false-positive exclusion in issue-rules.ts GLOBAL_EXCLUDE comments (ID cited by name). Correctly none/procedural."
+ },
+ {
+  "id": "1e1a518676e9",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted Phase 2 of the Section 26 Official Plan/Zoning Review of The London Plan as amended, including permitting stacked townhouses along all Neighbourhood Connectors and setting new maximum building heights (up to 35 storeys in Transit Villages, 25 storeys in Rapid Transit Corridors, and 15 storeys in Urban Corridors).",
+  "confidence": "high",
+  "quote": "x) amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along all Neighbourhood Connectors",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs same item, block 5: 'That the motion, as amended, BE APPROVED' Passed 13-1 -- a bare wrapper vote with no colon-introduced clause (doesn't mechanically strip per WRAPPER_PREAMBLE_RE, but is substantively the final adoption vote on the whole Phase 2 package). Traced substance to block 0's original clause a)x) (stacked townhouses on all Neighbourhood Connectors), which survived because the narrowing amendment in block 2 (b616e778e552) FAILED 6-8. Quote is verbatim from block 0, not from this record's own bare motionText -- correct methodology given the wrapper, flagged consistently by the classifier."
+ },
+ {
+  "id": "6fb58b433de6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the proposed increase to the Municipal Accommodation Tax to the next Strategic Priorities and Policy Committee meeting so the accommodation industry could comment; failed 1-13. A separate motion in the same item (Passed 13-1) directed Civic Administration to proceed directly with the MAT increase from 4% to 5%, so the increase question was decided regardless of this referral's failure.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (1 to 13)', not passed. Verified vs 2024-09-17 SPPC item 2.2 block 1: 'That the motion related to the MAT BE REFERRED to the next meeting... to allow the accommodation industry to provide comment' -- Failed 1-13. Original whatAYeaDid said 'Referred... rather than deciding the increase' in passed-tense, which is doubly wrong: (1) the referral FAILED, and (2) the MAT increase WAS decided directly in a separate motion in the same item (block 0, 'BE DIRECTED to undertake the process to increase... from 4% to 5%', Passed 13-1) -- so 'rather than deciding the increase' misstates the actual outcome. Corrected whatAYeaDid to: 'Would have referred the proposed Municipal Accommodation Tax increase (4% to 5%) to the next SPPC meeting for accommodation-industry comment before proceeding; failed 1-13, so the increase proceeded on the original directed timeline via a separate, passing motion in the same item.' Issue stays none/axis null -- MAT is not a budget-keyword match (not tax levy/property tax) and this is a referral either way."
+ },
+ {
+  "id": "2801a5bb8f93",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved rezoning 80 and 82 Base Line Road West to a Special Provision R9 zone that lowers the maximum permitted building height exception from 45 metres to 30 metres.",
+  "confidence": "medium",
+  "quote": "change the zoning of the subject property FROM a Residential R9 (R9-7*H45) Zone TO a Residential R9 Special Provision (R9-7(_)*H30) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-09-10 PEC item 3.4 block 0: quote verbatim (R9-7*H45 -> R9-7(_)*H30). H-suffix denotes a metre height cap in London's zoning by-law, so 45m->30m is a real height reduction. Passed 4-1 matches. Restrictive density read correct."
+ },
+ {
+  "id": "ef2c2268354d",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have amended the Official Plan to permit stacked townhouses along primary transit routes.",
+  "confidence": "high",
+  "quote": "amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along primary transit routes",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-09-10 PEC item 3.6 block 3: 'G) amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along primary transit routes;' Failed 1-5. Quote verbatim, 'would have' framing correct for a failed motion."
+ },
+ {
+  "id": "f516a044ab47",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Zoning By-law for Protected Major Transit Station Areas to remove 'Emergency Care Establishment' from the list of permitted uses in the TSA1, TSA2, TSA3, TSA4, TSA5, and TSA7 zones.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-09-10 PEC item 3.7 block 3 (Passed 5-1): motion to delete Emergency Care Establishment from TSA1/2/3/4/5/7 permitted-uses clauses. Correctly axis:null -- Emergency Care Establishment is a health-care use, not one of the dwelling-type nouns the use-permission axis covers (ADU/secondary suite/triplex/fourplex/multi-unit/townhouse/laneway house)."
+ },
+ {
+  "id": "e8408845b21e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved hearing delegation requests from several named individuals at the meeting on the renovictions licensing matter.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-09-09 CPSC item 2.2 block 1 (Passed 5-1): delegation-hearing approval. Correctly none/procedural -- a personnel/hearing-logistics vote, not a position on the renovictions substance."
+ },
+ {
+  "id": "83fca2487789",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the renovictions business-licensing amendments back to Civic Administration to report back with rent top-ups and alternate accommodations added to the by-law.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs same item, block 2 (Failed 2-4): 'BE REFERRED back to Civic Administration to report back... to include rent top ups and alternate accommodations as part of the by-law.' Pure referral, correctly axis:null."
+ },
+ {
+  "id": "31bbea57ba6c",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to amend the Business Licensing By-law to include temporary alternative accommodation for displaced tenants and short-term rental top-ups, modeled on the City of Hamilton's by-law, for Council's consideration in September 2024.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs same item, block 3 (Failed 2-4): 'BE DIRECTED to amend By-law No. L.-131-16... to include temporary alternative accommodation... modeled on the City of Hamilton By-law.' This IS a directive to amend the by-law substantively (not a mere report-back), but correctly axis:null since none of the three defined housing axes (density/use-permission/affordable-funding) cover tenant-relocation/rental-top-up regulation -- consistent with the classifier's own stated rule for this cluster."
+ },
+ {
+  "id": "6b9defad7fd1",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have approved taking no action on expanding the Residential Rental Unit Licensing By-law (CP-19) to license all multi-unit residential dwellings up to and including four storeys; failed 2-3, meaning the committee majority rejected 'no action' rather than approving it.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "REFUTED: manifest result is 'Motion Failed (2 to 3)' for this ID (block 5, 'Motion to approve part e)... e) that NO ACTION BE TAKEN to amend By-law No. CP-19... to expand the program to licence all multi-unit residential dwellings up to and including four storeys'). Original whatAYeaDid said 'Approved not expanding...' in passed-tense -- but the 'no action' motion FAILED, meaning the committee did NOT approve inaction; a majority (3 of 5) voted against the no-action position. Corrected whatAYeaDid to: 'Would have approved taking no action on expanding the Residential Rental Unit Licensing By-law (CP-19) to multi-unit residential dwellings up to four storeys; failed 2-3, so no-action was rejected by the committee majority.' Axis stays null -- no licensing-expansion-scope axis is defined among the three housing axes."
+ },
+ {
+  "id": "5c04feb0794a",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed that a draft by-law regulating maximum temperatures in rental units be prepared for a future Community and Protective Services Committee meeting, without setting the standard itself.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 2.3 block 3 (Passed 4-1): 'a draft by-law BE PREPARED for a future meeting' -- pure report-back/preparatory step, no standard set. Correctly axis:null."
+ },
+ {
+  "id": "51cbca63a015",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to hold an additional hybrid community meeting with residents near Victoria Park, Harris Park, and Dundas Place to discuss the impact of Special Events Policy changes on their neighbourhoods.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 2.4 block 2 (Passed 4-1): directs an additional hybrid community meeting near Victoria Park/Harris Park/Dundas Place re: Special Events Policy impact. Note this motion literally contains the downtown keyword 'Dundas Place', which issue-rules.ts's mechanical substring match would flag as issue:downtown -- but the clause is a pure meeting-scheduling directive with zero downtown-policy content (no axis exists for 'downtown' in direction-rules.ts regardless), so leaving it issue:none rather than force-fitting a keyword hit into a substantive position is the correct call, not a miss."
+ },
+ {
+  "id": "8142533138e8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Convened Council as the Approving Authority under the Expropriations Act to consider expropriating lands required for the East London Link Project - Phase 4.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-08-27 Council item 6.1 block 0 (Passed 14-1): convenes Council as Expropriations Act Approving Authority. Purely procedural/jurisdictional; correctly none."
+ },
+ {
+  "id": "79340d8e98d5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "As the Approving Authority under the Expropriations Act, approved the expropriation of lands required for the East London Link Project - Phase 4 (a project whose transportation design was approved via Environmental Assessment in 2019) and directed issuance of a certificate of approval.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 6.1 block 1 (Passed 13-2): approves expropriation, with stated reasons citing the project's design being 'in accordance with the Municipal Class EA Study recommendations... approved by Municipal Council' (i.e. the transportation merits were decided via the 2019 EA, not here). Statutory land-taking mechanism, correctly none/procedural -- also no literal 'transit' keyword hit in the text (only 'transportation demands', which doesn't match the word-boundary 'transit' keyword), so this is consistent with issue-rules.ts mechanically too."
+ },
+ {
+  "id": "4c2d4cf58da5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "As the Expropriating Authority, introduced the by-law to expropriate lands for the East London Link Project - Phase 4 and directed the steps to register the plan and execute the expropriation notices.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 6.2 block 0 (Passed 13-2): introduces the expropriating by-law and directs registration/notice steps. Purely legal-mechanism; correctly none/procedural."
+ },
+ {
+  "id": "b7facecce375",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Convened Council as the Approving Authority under the Expropriations Act to consider expropriating lands required for the Wellington Gateway Project's Clark's Bridge Civil Works.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 6.3 block 0 (Passed 13-2): convenes Council as Approving Authority for the Wellington Gateway/Clark's Bridge parcel. Same reasoning as 8142533138e8; correctly none/procedural."
+ },
+ {
+  "id": "fb3ade1db5c7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "As the Approving Authority under the Expropriations Act, approved the expropriation of lands required for the Wellington Gateway Project's Clark's Bridge Civil Works (a project whose design was approved via Environmental Assessment in 2019) and directed issuance of a certificate of approval.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 6.3 block 1 (Passed 13-2): approves the expropriation, reasons again cite the prior-approved EA design. Correctly none/procedural."
+ },
+ {
+  "id": "7759798388fb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "As the Expropriating Authority, introduced the by-law to expropriate lands for the Wellington Gateway Project's Clark's Bridge Civil Works and directed the steps to register the plan and execute the expropriation notices.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 6.4 block 0 (Passed 13-2): introduces the expropriating by-law for Wellington Gateway. Correctly none/procedural."
+ },
+ {
+  "id": "272a376d7260",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved, as amended, rezoning a portion of 2060 Dundas Street from Light Industrial and Restricted Service Commercial zoning to a Holding Residential R9 Special Provision zone and Open Space zone, enabling high-density residential redevelopment of the site.",
+  "confidence": "high",
+  "quote": "change the zoning of a portion of the subject property FROM a Light Industrial (LI1/LI7) Zone and Restricted Service Commercial (RSC2/RSC3/RSC4/RSC5) Zone TO a Holding Residential R9 Special Provision (h-_*R9-3(_)) Zone and an Open Space (OS5) Zone",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-08-27 Council item 8.1.11. Quote is verbatim from block 1 ('That the motion BE AMENDED to read as follows...', Passed 15-0), which adds a Holding (h-) prefix to the R9 special-provision zone; block 3 ('That item 11, clause 3.9, as amended, BE APPROVED.', Passed 14-1) is the wrapper ratification vote this ID maps to by result string. Since no competing restrictive amendment applied here, tracing the substance to the amended clause is correct and the quote matches it exactly."
+ },
+ {
+  "id": "f6d843df3f0c",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved rezoning 553-557 Upper Queens Street from a low-density Residential R1 zone to a medium-density Residential R5 zone.",
+  "confidence": "medium",
+  "quote": "change the zoning of the subject property FROM a Residential R1 (R1-9) Zone TO a Residential R5 Special Provision (R5-5(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.1.4 block 0 (Passed 14-1): quote verbatim (R1-9 -> R5-5(_)). Density-increase read correct."
+ },
+ {
+  "id": "3ef06014fccf",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the 455 Highbury Avenue North self-storage facility expansion application back to Civic Administration to work with the applicant on a plan reducing the scope of the expansion to allow for an adequate tree replacement plan.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.1.5 block 1 (Passed 8-7): 'BE REFERRED to Civic Administration to work with the applicant to develop a plan for a reduction in expansion to facilitate an adequate tree replacement plan.' Paraphrase accurate; pure referral, correctly axis:null."
+ },
+ {
+  "id": "359c0bbe6975",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Directed a $3,000,000 transfer from the Community Investment Reserve Fund to the Operating Budget Contingency Reserve to support a $1,000,000 property tax-levy reduction in each of the 2025, 2026, and 2027 Annual Budget Updates, and requested the Mayor include that decrease in his budget updates.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to transfer $3,000,000 from the Community Investment Reserve Fund to the Operating Budget Contingency Reserve (OBCR) to support a $1,000,000 tax-levy reduction in each of the 2025, 2026, 2027 Annual Budget Updates",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.2.4 block 0 (Passed 13-2): quote verbatim. Restrictive levy-size read (a $1M/yr tax-levy reduction) correct."
+ },
+ {
+  "id": "8b96be3d2891",
+  "issue": "bikes",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to flag a Hamilton Road Streetscape update (Adelaide St to Highbury Ave) for identification within the Mobility Master Plan -- noting it could include a reconfigured three-lane layout with protected bike lanes and accessible sidewalks -- with any large-scale redesign considered in the 2028-2031 budget cycle, and directed preparation of a budget amendment for future consideration; failed 5-10 at Council (a companion motion with identical text passed 5-1 at the earlier Civic Works Committee stage).",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (5 to 10)' (2024-08-27 Council item 8.4.9 block 0), not passed -- the companion committee-stage record (208e65b18189, same text, DID pass 5-1 at Civic Works Committee on 2024-08-13, and that one's passed-tense wording is correct). This Council-level record reused the identical passed-tense wording in error. Corrected whatAYeaDid to: 'Would have directed Civic Administration to flag a Hamilton Road Streetscape update... failed 5-10 at Council (a companion motion with identical text passed 5-1 at the earlier Civic Works Committee stage, 208e65b18189).' Axis stays null (informational/could-include language either way)."
+ },
+ {
+  "id": "ef99730d9b9a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Sustained the Chair's procedural ruling that a proposed amendment (to remove reference to Clarke Road Secondary School) was not in order, under section 10.5 of the Council Procedure By-law.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.5.3 block 2 (Passed 9-6): procedural ruling sustained under s.10.5 of Council Procedure By-law. Correctly none/procedural."
+ },
+ {
+  "id": "3008ff6fbaad",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Secondary School Student Transit Pass Pilot Program back to the Strategic Priorities and Policy Committee to explore options serving other school routes, rather than deciding the committee's recommended program; failed 5-10.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (5 to 10)' (item 8.5.3 block 3: 'BE REFERRED back to the Strategic Priorities and Policy Committee to explore options that serve other school routes.'). Original whatAYeaDid used passed-tense 'Referred...'. Corrected to: 'Would have referred the Secondary School Student Transit Pass Pilot Program back to the Strategic Priorities and Policy Committee to explore options serving other school routes; failed 5-10.' Axis stays null (referral)."
+ },
+ {
+  "id": "5091a40dd839",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Deferred the start of the Secondary School Student Transit Pass Pilot Program to the 2025-26 and 2026-27 school years, directing Civic Administration and the London Transit Commission to develop a Memorandum of Understanding with the Thames Valley District School Board to provide transit passes to Clarke Road Secondary School students, with a report back on the MOU, financing, and metrics.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-08-15 SPPC item 2.2 block 2 (Passed 9-3): deferral of the pilot start date + MOU directive. Correctly axis:null (deferral), tense correct since it passed."
+ },
+ {
+  "id": "77c33b832ef4",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved rezoning a portion of 2060 Dundas Street from Light Industrial and Restricted Service Commercial zoning to a Residential R9 Special Provision zone and Open Space zone, enabling high-density residential redevelopment of the site.",
+  "confidence": "high",
+  "quote": "change the zoning of a portion of the subject property FROM a Light Industrial (LI1/LI7) Zone and Restricted Service Commercial (RSC2/RSC3/RSC4/RSC5) Zone TO a Residential R9 Special Provision (R9-3(_)) Zone and an Open Space (OS5) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-08-13 PEC item 3.9 block 0 (Passed 3-2): quote verbatim (LI/RSC -> R9-3(_) + OS5). Density-increase read correct."
+ },
+ {
+  "id": "208e65b18189",
+  "issue": "bikes",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to flag a Hamilton Road Streetscape update (Adelaide St to Highbury Ave) for identification within the Mobility Master Plan -- noting it could include a reconfigured three-lane layout with protected bike lanes and accessible sidewalks -- with any large-scale redesign considered in the 2028-2031 budget cycle, and directed preparation of a budget amendment for future consideration.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-08-13 Civic Works Committee item 4.2 (Passed 5-1): identical text to 07f051a70bf5 but this record's passed-tense wording is correct since this committee-stage vote actually passed. Correctly axis:null (could-include, future-budget-cycle language)."
+ },
+ {
+  "id": "679858f9db53",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved routine clauses (1.1, 3.1, 4.1, 5.1, 5.4, and 5.5) of the Animal Welfare Community Advisory Committee's 8th Report.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-08-12 CPSC item 2.1 block 3 (Passed 4-1): approves 'clauses 1.1, 3.1, 4.1, 5.1, 5.4 and 5.5' of a prior committee report (confirmed via block 0's full text). Correctly none/procedural."
+ },
+ {
+  "id": "aa8bc314975b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to bring forward a by-law reducing councillors' annual expense budget allocation from $15,000 to $13,500 starting in 2025, as part of the Governance Working Group's broader report on councillor role descriptions, community advisory committee appointment procedures, and a task force reviewing elected-official remuneration and severance pay.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-07-23 Council item 8.1.4 block 1 (Passed 10-5): quote verbatim (Council Members' Expense Policy, $15,000->$13,500). Distinct from the 'Remuneration of Elected Officials' clause c) elsewhere in the same report -- this is about councillors' individual expense allowance, not compensation/remuneration. Not a literal 'council remuneration' phrase match, but the classifier's compensation-adjacent, self-governance reasoning for excluding it from all 8 tracked public-policy issues is defensible; not an unambiguous miss."
+ },
+ {
+  "id": "9ec6e89dab12",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the 1st Report of the Strategic Opportunities Review Working Group, including capping London Community Grants funding at up to $250,000/year for 2025-2027 pending a program review, plus several directives for staff to report back on other budget, grants, and revenue-generation matters (e.g. municipal golf partnerships, venue naming rights, facility alcohol licensing, the Surplus/Deficit Policy).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.1.6 block 0 (Passed 10-5): an omnibus motion bundling the $250k grants cap with several unrelated report-back directives. Correctly axis:null -- the $250k cap 'while the program is undergoing further review' is genuinely ambiguous as expansive/restrictive without a known prior baseline, and the motion is compound rather than a single clean decision."
+ },
+ {
+  "id": "3085d20bd8d0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to report back on the potential to eliminate municipal snow plowing of residential sidewalks by instead requiring property owners to clear them.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.1.6 block 1 (Failed 7-8): report-back request on eliminating municipal sidewalk snow plowing. Not a match for any of the 8 tracked issues (not transit -- no transit/road-service keyword). Correctly none, 'would have' tense correct."
+ },
+ {
+  "id": "91d6ea081b23",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to explore replacing the Neighbourhood Decision Making program with a participatory parks-improvement funding model through the Get Involved program, funded up to $125,000/year for 2025-2027 from the Community Investment Reserve Fund.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.1.6 block 2 (Failed 3-12): 'in lieu of the current NDM Program... explore options to fund parks improvements through... Get Involved... $125,000... for 2025-2027.' Correctly axis:null -- ambiguous whether replacing NDM with a smaller Get Involved stream is expansive or restrictive without a clear NDM baseline comparison; 'would have' tense correct for a failed motion."
+ },
+ {
+  "id": "984fb0a5a45f",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Directed Civic Administration to bring forward a budget business case to pause funding for the Neighbourhood Decision Making program for the remainder of the 2025-2027 Multi-Year Budget.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to bring forward a Business Case to the Annual Budget Update for the Mayor's consideration to pause funding for the Neighbourhood Decision Making program for the remainder of the 2025-2027 Multi-Year Budget",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.1.6 block 3 (Passed 9-6): quote verbatim. Directing a Business Case 'to pause funding for the Neighbourhood Decision Making program' is an unambiguous restrictive position (cutting an existing program's funding to zero) unlike the ambiguous $250k-cap case above; correctly restrictive levy-size."
+ },
+ {
+  "id": "1c3f10a6a436",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a single-source contract award and reallocated $1,800,000 to fund Ark Aid Street Mission's Year-Round Stable Responsive Services program serving people experiencing homelessness, from August to December 2024, with options to renew for two additional years.",
+  "confidence": "high",
+  "quote": "a single source award to Ark Aid Street Mission Inc. BE APPROVED, as per Section 14.4 e) of the Procurement of Goods and Services Policy, to provide Year-Round Stable Responsive Services",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.1.8 block 0 (Passed 12-3): quote verbatim. No 'relocat' language present in this motion (only 'reallocate', which does not match the \\brelocat\\w*\\b pattern), so this is not the relocation-axis trap the direction-rules.ts comments warn about for Ark Aid elsewhere in the corpus. Correctly expansive response-scale."
+ },
+ {
+  "id": "7f5068930d35",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to report back on draft language extending the renoviction by-law's protections to residents who had already received an N13 eviction notice.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.4.13 block 2 (Failed 5-10): report-back request re: N13-notice protection extension. Correctly informational-ask/axis:null, 'would have' tense correct."
+ },
+ {
+  "id": "ad339c9b06e8",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back on possible temporary alternate accommodations, or a short-term rental top-up, for tenants displaced by renoviction-related repairs.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.4.13 block 3 (Passed 8-7): report-back request re: temp accommodation/rental top-up. Correctly informational-ask/axis:null."
+ },
+ {
+  "id": "ba010161117b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to explore and report on options for expanding the capacity of the City-operated Dearness Home long-term care facility, for consideration in the 2028-2031 Multi-Year Budget.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.4.14 block 0 (Failed 4-11): report-back request re: Dearness Home LTC capacity. Not a match for any of the 8 tracked issues. Correctly none, 'would have' tense correct."
+ },
+ {
+  "id": "31bd58f28e78",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to report back on the feasibility of adding a request button to the Service London Portal for reporting property standards violations.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 8.5.11 block 0 (Failed 0-14): report-back request re: a Service London Portal request button for property-standards violations. (A different, passing motion in the same item creates an unrelated Yard and Lot Maintenance By-law request button -- not this record.) Correctly none/informational-ask, 'would have' tense correct."
+ },
+ {
+  "id": "1ee68642ba23",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have introduced a by-law amending the Traffic and Parking By-law to lower speed limits in school zones on major streets; failed 5-9.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (5 to 9)' (item 8.5.8 block 0: introducing the school-zone speed-limit by-law). Original whatAYeaDid used passed-tense 'Introduced a by-law...'. Corrected to: 'Would have introduced a by-law amending the Traffic and Parking By-law to lower speed limits in school zones on major streets; failed 5-9.' Axis stays null."
+ },
+ {
+  "id": "eefed782c8cb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to bring forward a by-law reducing councillors' annual expense budget allocation from $15,000 to $13,500 starting in 2025, as part of the Governance Working Group's report on council role descriptions and remuneration policy.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2024-07-18 SPPC item 2.3 block 1 (Failed 5-6): same Council Members' Expense Policy text as aa8bc314975b, at committee stage. 'Would have' tense correct for a failed motion; correctly none, consistent with aa8bc314975b's exclusion reasoning."
+ },
+ {
+  "id": "451f2b3749d1",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to bring forward a Budget Amendment funding the London Community Grants program (Grassroots, Innovation, and Capital Grants stream) to a maximum of $250,000/year for 2025-2027, contingent on the Community Investment Reserve Fund holding at least a $1M balance, while the program undergoes further review.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 4.2 block 2 (Passed 9-5): 'part a) i) A) be approved and reads as follows: ... to be funded to a maximum of $250,000/year... while the program is undergoing further review.' This is the SPPC committee-stage precursor to the same clause later in b682ed96bec6's Council-level omnibus motion. Correctly axis:null -- same ambiguity as b682ed96bec6 (no clear prior-funding baseline to judge the $250k cap against); leaving unclear is the safer call than guessing a direction."
+ },
+ {
+  "id": "3941f549d72a",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to explore replacing the Neighbourhood Decision Making program with a participatory parks-improvement funding model through the Get Involved program, funded up to $125,000/year for 2025-2027 from the Community Investment Reserve Fund.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs item 4.2 block 3 (Failed 7-7): same Get Involved/NDM-replacement text as ed337cbc08fb, at committee stage. Correctly axis:null, 'would have' tense correct."
+ }
 ]

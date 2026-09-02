@@ -1,596 +1,596 @@
 [
-  {
-    "id": "7e782b52c39f",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved official plan and zoning by-law amendments to rezone 530 Oxford Street West from Community Shopping Area/Open Space to a Residential/Commercial special-provision zone, permitting a new mixed-use residential development.",
-    "confidence": "high",
-    "quote": "the proposed by-law appended to the staff report dated May 22, 2024 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting on June 4, 2024, to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, The London Plan, as amended in part (a) above, to change the zoning of the subject property FROM a Community Shopping Area/Temporary (CSA4/T-66) Zone and Open Space (OS4) Zone, TO a Residential R9 Special Provision/Community Shopping Area Special Provision (R9-7(_)*D150*H115/CSA4(_)) Zone and Open Space (OS4) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 530 Oxford St W full item text (2024-06-04 Council 8.4.9): quote is verbatim part b), the operative zoning-change clause; density/mixed-use residential redevelopment content matches whatAYeaDid. Vote 13-1 matches manifest."
-  },
-  {
-    "id": "85f4e71a97c2",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the pending proclamation requests, including Shine the Light on Woman Abuse, to a future Corporate Services Committee meeting rather than deciding them now.",
-    "confidence": "high",
-    "quote": "the issuance of proclamations BE REFERRED to a future meeting of the Corporate Services Committee",
-    "flags": [
-      "referral",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full item 8.5.10 (2024-06-04 Council): this is the confirming vote (10-4) for part a) only, a clean referral (DEFER-only, no AFFIRM verb) -- polarity null correct."
-  },
-  {
-    "id": "10af824efbb5",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed staff to review the Issuance of Proclamations Policy and report back to a future meeting, taking no position on the Woman Abuse proclamation itself.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to review the current Issuance of Proclamations Policy, including clarifying that requests for proclamations can be made by individuals, and report back to a future meeting of the Corporate Services Committee.",
-    "flags": [
-      "informational_ask",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: confirming vote (13-1) for part b) only -- a pure report-back/policy-review ask, no position on the proclamation itself. Correct."
-  },
-  {
-    "id": "895b8202a9e6",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved expropriating land needed to build the Wellington Gateway rapid-transit corridor's Clark's Bridge civil works (part of the Wellington Road Rapid Transit Implementation project).",
-    "confidence": "medium",
-    "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full expropriation motion text (2024-06-04 Council 8.5.8). Cross-checked 'Wellington Gateway Project' independently against the 2023 corpus: Bill No. 92 explicitly titles it 'Project RT1430-1B - Wellington Gateway - Land Rapid Transit', confirming this is genuinely a Rapid Transit corridor project, not just a same-batch inference. transit/service-expansion/expansive upheld, confidence could reasonably move medium->high given the independent corroboration, left as classified."
-  },
-  {
-    "id": "72521ebff03e",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed staff to remove the temporary glass/plastic barrier and its supports from the public gallery in Council Chambers.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to take the necessary steps to remove the temporary barrier and all associated supports from the public gallery of the Council Chambers",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: glass-barrier removal, no tracked-issue content anywhere in the text. issue=none correct."
-  },
-  {
-    "id": "9735f8e2584b",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have granted Councillor Stevenson five additional minutes to speak on the London Hydro Annual General Meeting item; failed, so no extra time was granted.",
-    "confidence": "high",
-    "quote": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 5 minutes with respect to this matter.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: pure speaking-time procedural motion (failed 6-9), no substantive content. issue=none correct."
-  },
-  {
-    "id": "3991d33dbbbe",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved (at committee stage) expropriating land needed to build the Wellington Gateway rapid-transit corridor's Clark's Bridge civil works.",
-    "confidence": "medium",
-    "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full committee-stage expropriation text (2024-05-27 CSC); identical substance to 895b8202a9e6, correctly the committee-stage twin. Vote 3-2 matches manifest."
-  },
-  {
-    "id": "052b77416685",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred pending proclamation requests (including Shine the Light on Woman Abuse) to a future meeting and directed staff to review the proclamations policy and report back.",
-    "confidence": "high",
-    "quote": "the issuance of proclamations BE REFERRED to a future meeting of the Corporate Services Committee; and\nb)    the Civic Administration BE DIRECTED to review the current Issuance of Proclamations Policy, including clarifying that requests for proclamations can be made by individuals, and report back to a future meeting of the Corporate Services Committee.",
-    "flags": [
-      "referral",
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: full committee-stage referral/policy-review motion (3-2), identical substance to the two Council-stage sub-votes (85f4e71a97c2 + 10af824efbb5) bundled into one vote here. Correctly null."
-  },
-  {
-    "id": "1e081b244fe4",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed staff to report back with proposed Sound By-law amendments restricting gas-powered lawn/garden equipment use, hold a public participation meeting, and circulate the report for advisory-committee feedback -- a process step, not an actual restriction yet.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to take the following actions with respect to the Sound By-law: i)    report back to a future meeting of the Community and Protective Services Committee with proposed amendments to the Sound By-law to restrict the operation of gas-powered lawn and garden equipment in residential areas from 6pm to 8am; ii)    hold a public participation meeting to consider public input at the same meeting of the Community and Protective Services Committee; and,   iii)    circulate the report to relevant community advisory committees for review and feedback in advance of the relevant meeting of the Community and Protective Services Committee",
-    "flags": [
-      "informational_ask",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full item 2.12 (2024-05-22 Civic Works): the 3-1 vote is the confirming vote for part d) only; traced part d)'s full text back to content[0] and confirmed the quote is verbatim and is the clause this specific vote decided (not a different part). Report-back-only, correctly null polarity."
-  },
-  {
-    "id": "90385271a27f",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved a zoning by-law amendment for 743 Wellington Road that removes 'Emergency Care Establishments' (e.g., a walk-in medical clinic) as a permitted use in the office zone; this is a commercial-use restriction, not a residential density or dwelling-type change.",
-    "confidence": "low",
-    "quote": "to change the zoning of the subject property FROM a Restricted Office (RO1) Zone TO a Restricted Office Special Provision (RO1(_)) Zone with the exception of \"Emergency Care Establishments\" being removed as an additional permitted use under the Special Provisions of the Restricted Office Special Provision (RO1(_)) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full 743 Wellington Rd motion text: confirmed this is a use-removal (Emergency Care Establishments) on a Z-coded rezoning, not a residential density/dwelling-type change. housing/null correct -- appropriately conservative."
-  },
-  {
-    "id": "f4782fc80f03",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Endorsed a proposed residential development at 193-199 College Avenue with special-provision zoning permitting up to 196 units per hectare and a 21-metre building height.",
-    "confidence": "high",
-    "quote": "the development, as proposed, BE ENDORSED",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full 193-199 College Ave motion text: quote verbatim, density figures (196 units/hectare, 21m height) present in the same clause. BE ENDORSED matches the AFFIRM verb list. housing/application-approval/expansive correct."
-  },
-  {
-    "id": "bce613972380",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Amended the item to add free one-hour on-street parking in the Core Area (funded up to $300,000) and a free one-hour parking pilot at two Old East Village municipal lots (funded up to $30,000).",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full item 8.2.7 (2024-05-14 Council): this is the AMENDMENT vote (11-3) adding new parts c-f (on-street + Old East Village parking). Distinguished from the tied-vote-count sibling 6f9f69f3a0d5 (the separate confirming vote for the same parts) by content -- both correctly downtown/expansive."
-  },
-  {
-    "id": "6f9f69f3a0d5",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved implementing free one-hour on-street parking in the Core Area (funded up to $300,000) and a free one-hour parking pilot at two Old East Village municipal lots (funded up to $30,000).",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: the confirming vote (11-3, same count as bce613972380 but a distinct content entry) re-stating parts c-f as approved. Quote verbatim in this content entry (not borrowed from elsewhere). Correct."
-  },
-  {
-    "id": "6b28a5a67b85",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Awarded construction contracts and increased consultant design-contract funding for the Wellington Road and East London Link Rapid Transit Implementation corridor infrastructure.",
-    "confidence": "high",
-    "quote": "the bid submitted by CH Excavating (2013) at its tendered price of $30,814,695.92 (excluding HST) for the Rapid Transit Implementation – Wellington Road from Harlech Gate to Wellington Commons Entrance project, BE ACCEPTED",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full contract-award text: explicitly names 'Rapid Transit Implementation - Wellington Road' and 'East London Link Project' consultant contracts. transit/expansive well-supported directly in-clause (no cross-reference needed here)."
-  },
-  {
-    "id": "cddd1bf98620",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have referred a proposed $130,000 increase to Safe Space London's homeless day/overnight drop-in space funding to a future meeting; this confirming vote failed, so the referral did not take effect at Council.",
-    "confidence": "high",
-    "quote": "that consideration of the existing Municipal Purchase of Service Agreement with Safe Space London for a total estimated increase of up to $130,000 (excluding HST) for the period of June 1, 2024 to July 31, 2024, to continue temporary day and overnight drop in space to be funded through the Contingency Reserve fund as per the Corporation of the City of London Procurement Policy Section 20.3 e) BE REFERRED to the May 28, 2024 meeting of the Strategic Priorities and Policy Committee",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full item 8.4.8 (2024-05-14 Council): this is the confirming vote (7-7 FAILED) for part b) (the Safe Space referral) specifically. Correctly left null -- a failed confirming vote on a referral doesn't establish what ultimately happened to the funding."
-  },
-  {
-    "id": "7eafda7b451a",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a note to the temporary-use zoning extension motion flagging that Council would consider a further 2+ year extension later if the applicant progresses signed parking-lot improvements; the note itself decides nothing about the zoning extension's length.",
-    "confidence": "high",
-    "quote": "It being further noted, that as SPA23-097 for parking lot works has been received by the city, and should the applicant enter into a signed development agreement and demonstrate progress on the parking lot improvements before the expiration of this extension, that council shall consider an additional extension of no less than 2 years.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full item 8.5.11: the 11-3 vote is the amendment ADDING the parking-lot-progress note, not the underlying one-year extension itself (that's a separate vote, e313598d210c). Quote verbatim. Correctly null (a note, decides nothing about extension length)."
-  },
-  {
-    "id": "e313598d210c",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved extending the Temporary Use (T-79) zoning for 376-390 Hewitt Street and 748 King Street for one year, facilitating the site's eventual redevelopment into a 24-storey mixed-use apartment tower.",
-    "confidence": "high",
-    "quote": "That the motion, as amended, BE APPROVED.",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: 'That the motion, as amended, BE APPROVED.' ends in a period with no colon-continuation, so it is NOT a stripped wrapper under the direction-rules wrapper regex -- it's a standalone final decision, correctly falls to generic application-approval/expansive. Substance (24-storey tower facilitation) confirmed against content[0]'s full application text."
-  },
-  {
-    "id": "6e35af7bb7de",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have referred the item back to Planning and Environment Committee to consider extending the temporary-use zoning for three years instead of one; failed, so no referral occurred.",
-    "confidence": "high",
-    "quote": "That the motion, as amended, BE REFERRED to a future meeting of the Planning and Environment Committee to consider an amendment to the by-law to read as follows: the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 14, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to extend the Temporary Use (T-79) Zone as it applies to the area of land located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street for a period not to exceed three (3) years",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full text: a genuine REFER motion (4-10 FAILED) with no AFFIRM verb of its own outside the referral. Correctly null."
-  },
-  {
-    "id": "79e6b8d45a67",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred a proposed $130,000 increase to Safe Space London's homeless drop-in space funding to a future committee meeting rather than deciding it immediately.",
-    "confidence": "high",
-    "quote": "That part b) of the motion BE REFERRED to the May 28, 2024 meeting of the Strategic Priorities and Policy Committee",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full item 5.1 (2024-05-07 SPPC): clean, bare referral text, DEFER-only. Correctly null."
-  },
-  {
-    "id": "1883abf84eb2",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved a single-source purchase of an Energreen tractor mower for approximately $518,700, a routine equipment procurement.",
-    "confidence": "high",
-    "quote": "the single source negotiated price BE ACCEPTED to purchase one (1) Energreen ILF Alpha F11 Tractor Mower for a total estimated price of $518,699.82 (excluding HST) from Colvoy Equipment",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: routine equipment procurement, no tracked-issue content. issue=none correct."
-  },
-  {
-    "id": "8ef12455ba0e",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved (at committee stage) extending the Temporary Use (T-79) zoning for 376-390 Hewitt Street and 748 King Street for one year, facilitating the site's eventual redevelopment into a 24-storey mixed-use apartment tower.",
-    "confidence": "high",
-    "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 14, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to extend the Temporary Use (T-79) Zone as it applies to the area of land located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street for a period not to exceed one (1) year",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full committee-stage Hewitt St motion: matches the Council-stage twin (e313598d210c) in substance. housing/expansive correct."
-  },
-  {
-    "id": "3afea2d2f184",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have narrowed the proposed free one-hour Core Area on-street parking program to weekdays only; failed, so the broader all-days wording stood for the next vote.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to implement a free weekday 1-hour on-street parking program for the Core Area until the end of 2024",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full item 2.5 (2024-04-29 CPSC): this is the weekday-narrowing amendment (2-2 FAILED), distinguished from the tied-count sibling 2c6d64497d4d by content. application-approval/expansive is the honest generic-fallback read (BE DIRECTED matches AFFIRM); no issue."
-  },
-  {
-    "id": "2c6d64497d4d",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have approved implementing free one-hour on-street parking in the Core Area, funded up to $300,000; failed at committee (later passed at Council).",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: 'Motion to approve parts a) and b) of the clause' (2-2 FAILED) is a bare wrapper; traced parts a)/b) back to content[1]'s original (pre-weekday-amendment) text since the weekday narrowing failed first -- quote is accurate for what 'parts a and b' refers to at the moment of this vote. Correct."
-  },
-  {
-    "id": "edfd6a26f47c",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have approved a free one-hour parking pilot at Old East Village Municipal Lots #1 and #2, funded up to $30,000; failed at committee (later passed at Council).",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour parking pilot program for Municipal Lot #1 and #2 in Old East Village until the end of 2024",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: 'Motion to approve parts c) and d) of the clause' (1-3 FAILED); traced parts c)/d) back to content[1]'s full text (Old East Village pilot + financing). Quote verbatim and correctly attributed. Correct."
-  },
-  {
-    "id": "5ba64d6157c4",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved a zoning by-law amendment for a residential development at 634 Commissioners Road West and directed site-plan design conditions (fencing, tree retention, bicycle parking, pedestrian connectivity review).",
-    "confidence": "high",
-    "quote": "the proposed by-law appended to the staff report dated April 9, 2024 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to AMEND the Residential R5 Special Provision (R5-7(30)) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full 634 Commissioners Rd W motion text: rezoning + site-plan design conditions match whatAYeaDid exactly. Correct."
-  },
-  {
-    "id": "bd7b7695c008",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have added a study of cut-through-traffic 'filtered-permeability' mitigation measures to a future Civic Works Committee agenda; failed.",
-    "confidence": "high",
-    "quote": "to study the issue of “filtered-permeability” with respect to mitigating the effects of cut-through traffic resulting from the opening of Beaverbrook Avenue and Westfield Drive and that this item be placed on a future Civic Works Committee agenda",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full item 8.1.5 (2024-04-23 Council): 4-10 FAILED amendment matches INFORMATIONAL_ASK pattern ('to study the issue of...'). Correctly null."
-  },
-  {
-    "id": "c27e967fda33",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have added a note to the record about resident traffic/density concerns and asked that the issue be included in future Mobility Master Plan reports; failed, so no note was added and nothing was decided.",
-    "confidence": "high",
-    "quote": "That it BE FURTHER NOTED that through this application residents, businesses owners and community members raised concerns about ongoing traffic issues, movement of ambulances and the need for traffic planning in this area to address increased density from development planned in the West London area; and that this item should be included in future MMP reports to Civic Works Committee that discuss transit, road network and active transportation planning for West London.",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: 6-8 FAILED 'BE FURTHER NOTED' amendment, a record-note request only, no operative decision. Correctly null."
-  },
-  {
-    "id": "cc4b3d0d54e6",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved official plan and zoning by-law amendments for 735 Wonderland Road North, rezoning the site to a Business District Commercial Special Provision zone and directing site-plan consultation on affordable housing units.",
-    "confidence": "high",
-    "quote": "That item 5, clause 3.3, as amended, BE APPROVED.",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: 'That item 5, clause 3.3, as amended, BE APPROVED.' ends in a period (no colon-continuation) -- a standalone final decision, not a stripped wrapper. Substance (BDC1 rezoning + affordable-housing site-plan consultation) confirmed against content[0]'s full application text. Correct."
-  },
-  {
-    "id": "f1d57d58bac3",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved raising the maximum building height in the Byron Gravel Pits Secondary Plan from 18 to 22 storeys while simultaneously lowering the plan's required affordable-housing share from 25% to 10-15% -- two opposite-direction housing changes bundled in one vote.",
-    "confidence": "low",
-    "quote": "ix) AMEND Schedule 1 from 18 storeys with an upper maximum of 22 storeys; and, x) AMEND Schedule 1 from 25% affordable housing to 10% to 15% affordable housing;",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full item 8.1.6 (2024-04-23 Council, 5 content entries): parts ix (height 18->22 storeys) and x (affordable housing 25%->10-15%) ARE genuinely bundled into ONE 12-2 recorded vote here (unlike the committee-stage twin, see 057d37f642a6 correction) -- the height amendment has no separate vote at Council. Correctly left null; a single polarity would misstate one side of Hopkins/Trosow's nay."
-  },
-  {
-    "id": "6e54e9c40a61",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved expropriating land needed to build Phase 4 of the East London Link rapid-transit corridor (part of the Rapid Transit Implementation program).",
-    "confidence": "medium",
-    "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full East London Link Phase 4 expropriation text; item title itself names the project, and the same-batch 6b28a5a67b85 independently confirms 'East London Link' as a Rapid Transit Implementation corridor (explicit RFP naming). transit/expansive well-supported."
-  },
-  {
-    "id": "b9b49881ef19",
-    "issue": "budget",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have added a request that the Mayor draw $3.5 million from the Community Investment Reserve Fund to offset the 2025 tax-rate increase; failed.",
-    "confidence": "medium",
-    "quote": "it being noted that the Mayor be requested to use a one time draw of $3.5M from the Community Investment Reserve Fund to offset the 2025 increased tax rate.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: 5-9 FAILED amendment requesting a one-time reserve draw to 'offset' a tax increase -- doesn't contain a DECREASE-class verb (offset != reduce/lower/cut) so doesn't cleanly hit the levy-size axis either direction. Correctly left null rather than forcing a read."
-  },
-  {
-    "id": "895754219c7f",
-    "issue": "budget",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have referred the entire 2023 Year-End Operating Budget Monitoring Report to a future Strategic Priorities and Policy Committee meeting; failed, so Council proceeded to decide it directly.",
-    "confidence": "high",
-    "quote": "That, notwithstanding the Council Procedure By-law, the motion BE REFERRED to a future meeting of Strategic Priorities and Policy Committee for consideration;",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: 3-11 FAILED, a clean 'notwithstanding the Council Procedure By-law...BE REFERRED' motion, no AFFIRM verb outside the referral. Correctly null."
-  },
-  {
-    "id": "08beca7153b5",
-    "issue": "budget",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved the 2023 year-end operating budget monitoring report and funding the London & Middlesex Community Housing operational deficit of about $33,000.",
-    "confidence": "high",
-    "quote": "the request to fund the 2023 London & Middlesex Community Housing operational deficit of approximately $33 thousand BE APPROVED",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: 'without part d), as amended, BE APPROVED' (12-2) is a standalone final vote (no colon-continuation); traced the $33k Community Housing deficit-funding language to content[0]'s part c), confirmed verbatim and confirmed part d) (the RBC Place surplus item, unrelated) was excluded from this specific vote. Correct."
-  },
-  {
-    "id": "d1fc73f17bb5",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Directed staff to develop an MOU with the school board to launch a pilot providing free annual transit passes to Grade 9 (later Grade 9-10) students at Clarke Road Secondary School.",
-    "confidence": "high",
-    "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full committee-stage transit-pass-pilot text: MOU-development directive for free passes at Clarke Road SS. transit/service-expansion/expansive reasonable extension of the axis (fare/eligibility access expansion). Correct."
-  },
-  {
-    "id": "b510ab684a9b",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Granted Councillor Stevenson three additional minutes to speak on the Whole of Community System Response quarterly update; a speaking-time procedural vote, not a position on the item's substance.",
-    "confidence": "high",
-    "quote": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 3 minutes with respect to this matter.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: pure speaking-time procedural vote, no substantive content on the WCSR item. issue=none correct."
-  },
-  {
-    "id": "55bfa054657f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have kept the status-quo Councillor expense-account option (Ward Option #1) for funding ward meeting/engagement expenses; failed.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to maintain status quo and fund ward meeting and engagement expenses from the Councillor expense account with Ward Option #1, as indicated in the above noted report",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: 'part a) i) BE APPROVED' (3-12 FAILED), traced to the Ward Option #1 status-quo language; a councillor-expense-account matter, doesn't match any of the 8 tracked issues' keywords. issue=none correct."
-  },
-  {
-    "id": "e9a18457d74d",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Housing Supply motion to add a request inviting the Upper Thames River Conservation Authority to participate in the work of the Customer Service and Process Improvement Reference Group -- a stakeholder-invitation request, not a decision on housing supply, density, or any tracked policy issue.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE REQUESTED to invite the Upper Thames River Conservation Authority to participate in the work of the Customer Service and Process Improvement Reference Group.",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "corrected",
-    "verifierNote": "MISATTRIBUTED CLAUSE (confirmed via vote-roster cross-check): item 4.1 (2024-04-16 SPPC) has 4 content entries; the original 14-1 vote quotes/describes content[0]'s part a) ('the report...BE APPROVED', the whole Housing Supply report) via a generic content[0] quote, but that text carries NO vote of its own in this meeting record -- the actual 14-1 recorded vote (S. Hillier lone nay) is content[2], a narrow amendment to add part c) inviting UTRCA to an unrelated internal reference group. Publishing the original entry would have falsely stated Hillier's nay was cast against the Housing Supply report itself; it was cast against a committee-invitation amendment. Re-pointed the quote/whatAYeaDid to the clause this specific vote actually decided and reclassified issue to none: the clause contains no housing content, and while 'conservation authority' is a climate-issue keyword, this is a stakeholder-invite to a Customer Service process-improvement group, not a substantive environmental decision -- forcing either housing or climate here would misstate the vote same as the original error did."
-  },
-  {
-    "id": "e294e35cf969",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Directed staff to develop an MOU with the school board to launch a pilot providing free annual transit passes to Grade 9 students at Clarke Road Secondary School.",
-    "confidence": "high",
-    "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full Council-added-item transit-pass-pilot text, identical substance to d1fc73f17bb5 (the committee-stage twin). Correct."
-  },
-  {
-    "id": "e1ef578436ff",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have referred the entire secondary-school transit-pass pilot proposal to the next committee meeting instead of deciding it immediately; failed, so the committee proceeded to approve the pilot the same meeting.",
-    "confidence": "high",
-    "quote": "that the motion from Deputy Mayor S. Lewis and Councillor P. Cuddy BE REFERRED to the next meeting of Strategic Priorities and Policy Committee on May 7, 2024",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full text: contains BOTH a referral clause (part a) AND a distinct AFFIRM clause (part b, 'BE DIRECTED to extend an invitation') -- mechanically this would NOT trigger the deferOnly guard, and 'extend an invitation to attend the meeting' doesn't match any INFORMATIONAL_ASK phrase either, so a naive rule-based read would misclassify this FAILED (4-11) motion as 'approved the transit item.' The classifier's substance-based read (true intent = referral attempt, unclear) is the correct call here and is corroborated by the same item's motion[0] (e294e35cf969) separately passing 13-2 as the real decision. Confirmed as a deliberate, well-reasoned override, not an oversight."
-  },
-  {
-    "id": "9496bc59ad3b",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved (at committee stage) expropriating land needed to build Phase 4 of the East London Link rapid-transit corridor.",
-    "confidence": "medium",
-    "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full committee-stage East London Link expropriation text, identical substance to 6e54e9c40a61. Correct."
-  },
-  {
-    "id": "3daac1dd1dcf",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved (at committee stage) official plan and zoning by-law amendments for 735 Wonderland Road North, rezoning to a Business District Commercial Special Provision zone and directing site-plan consultation on affordable housing.",
-    "confidence": "high",
-    "quote": "the proposed by-law appended to the staff report dated April 9, 2024 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2024 to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Transit Village Place Type and by ADDING the subject lands to Map 7 – Specific Policies Areas – of the Official Plan",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full committee-stage 735 Wonderland Rd N motion text, identical substance to the Council-stage final approval (cc4b3d0d54e6). Correct."
-  },
-  {
-    "id": "057d37f642a6",
-    "issue": "housing",
-    "axis": "affordable-funding",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Approved (at committee stage) reducing the Byron Gravel Pits Secondary Plan's required affordable-housing share from 25% to 10-15%. Unlike the Council-stage vote on this same plan (which bundled this change together with a height increase to 22 storeys in one recorded vote), the committee voted on these two clauses SEPARATELY: the height increase passed unanimously 5-0 (a different, non-divided motion not in this batch), while this specific 4-1 vote (S. Franke dissenting) decided only the affordable-housing reduction.",
-    "confidence": "high",
-    "quote": "AMEND Schedule 1 from 25% to 10% to 15% affordable housing;",
-    "flags": [],
-    "verdict": "corrected",
-    "verifierNote": "The original entry treated this the same as the Council-stage vote (f1d57d58bac3) -- bundled height-increase + affordable-housing-cut, polarity null. Checked the full committee item (2024-04-09 Planning and Environment Committee, item 3.4): it has 6 content entries, and the height amendment ('AMEND Schedule 1 from 18 to 22 storeys') is a SEPARATE, unanimous 5-0 vote (content[1], not part of this batch, no dissent to misclassify) while the affordable-housing reduction is its own contested 4-1 vote (content[2] -- the one actually assigned to this id, confirmed by exact vote-count match against the manifest's 'Motion Passed (4 to 1)'). Unlike the Council vote, there is no bundling here: this specific record has exactly one, unambiguous direction (reducing a required affordable-housing percentage from 25% to 10-15% is a restrictive move on the affordable-housing axis), so upgraded from null to a confirmed restrictive call with my own quote. f1d57d58bac3 (Council stage, genuinely bundled in one recorded vote) is unaffected and correctly stays null."
-  },
-  {
-    "id": "92782636fd50",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Sustained the Chair's ruling on a councillor's point of privilege; a procedural chamber-management vote unrelated to any of the tracked policy issues.",
-    "confidence": "high",
-    "quote": "shall the ruling of the Chair BE SUSTAINED?",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified: a Chair's-ruling sustain vote under section 10.5, pure chamber procedure, no tracked-issue content. issue=none correct."
-  },
-  {
-    "id": "873508ecdfbc",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Set the City's 2050 mode share target at 32.5% (or higher) combined for transit, walking, and cycling trips -- the more ambitious of the staff-presented options -- to be reviewed at least every four years.",
-    "confidence": "medium",
-    "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against full Mobility Master Plan text: '...BE SET at...Option 2 (32.5%)...or greater' is a genuine, specific target-setting decision (not a report-back). transit/service-expansion/expansive reasonable; the 'more ambitious option' framing is unverified editorializing (couldn't independently confirm Option 1's value in this file) but doesn't affect polarity."
-  },
-  {
-    "id": "dd9bb8b6f9cb",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Directed staff to undertake a future growth-management implementation strategy for the built-up area that includes a higher housing-intensification target aligned to the 32.5% mode-share target -- a policy direction toward more density within the existing built area, decided as its own amendment separate from reinitiating the Official Plan Review.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to undertake a future growth management implementation strategy for the built-area including a higher intensification target to align with the 32.5% mode share target",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "corrected",
-    "verifierNote": "MISATTRIBUTED CLAUSE (confirmed via vote-roster cross-check), same failure pattern as e9a18457d74d: item 8.2.11 (2024-04-02 Council) has 5 content entries; the 9-4 recorded vote (Trosow/Lehman/Van Meerbergen/Hillier nays) is content[2], a specific amendment adding a 'higher intensification target' clause -- NOT content[0]'s 'reinitiate the Official Plan Review' language the original entry quoted (that broader text carries no vote of its own here; a different, unanimous-looking confirming vote for 'item 11 clause 3.8 as amended' with a DIFFERENT vote count (9-3, not 9-4) is content[4]). Re-pointed quote/whatAYeaDid to the actual 9-4 clause. Polarity stays expansive (a 'higher intensification target' is a density-increasing direction) but the axis changes from the generic application-approval fallback to density, and the substance is materially narrower than originally described -- the four nay votes opposed the intensification-target amendment specifically, not the Official Plan Review reinitiation broadly."
-  }
+ {
+  "id": "687a08669e3b",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved official plan and zoning by-law amendments to rezone 530 Oxford Street West from Community Shopping Area/Open Space to a Residential/Commercial special-provision zone, permitting a new mixed-use residential development.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated May 22, 2024 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting on June 4, 2024, to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, The London Plan, as amended in part (a) above, to change the zoning of the subject property FROM a Community Shopping Area/Temporary (CSA4/T-66) Zone and Open Space (OS4) Zone, TO a Residential R9 Special Provision/Community Shopping Area Special Provision (R9-7(_)*D150*H115/CSA4(_)) Zone and Open Space (OS4) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 530 Oxford St W full item text (2024-06-04 Council 8.4.9): quote is verbatim part b), the operative zoning-change clause; density/mixed-use residential redevelopment content matches whatAYeaDid. Vote 13-1 matches manifest."
+ },
+ {
+  "id": "85f4e71a97c2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the pending proclamation requests, including Shine the Light on Woman Abuse, to a future Corporate Services Committee meeting rather than deciding them now.",
+  "confidence": "high",
+  "quote": "the issuance of proclamations BE REFERRED to a future meeting of the Corporate Services Committee",
+  "flags": [
+   "referral",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full item 8.5.10 (2024-06-04 Council): this is the confirming vote (10-4) for part a) only, a clean referral (DEFER-only, no AFFIRM verb) -- polarity null correct."
+ },
+ {
+  "id": "10af824efbb5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed staff to review the Issuance of Proclamations Policy and report back to a future meeting, taking no position on the Woman Abuse proclamation itself.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to review the current Issuance of Proclamations Policy, including clarifying that requests for proclamations can be made by individuals, and report back to a future meeting of the Corporate Services Committee.",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: confirming vote (13-1) for part b) only -- a pure report-back/policy-review ask, no position on the proclamation itself. Correct."
+ },
+ {
+  "id": "444ec1d15ea9",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved expropriating land needed to build the Wellington Gateway rapid-transit corridor's Clark's Bridge civil works (part of the Wellington Road Rapid Transit Implementation project).",
+  "confidence": "medium",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full expropriation motion text (2024-06-04 Council 8.5.8). Cross-checked 'Wellington Gateway Project' independently against the 2023 corpus: Bill No. 92 explicitly titles it 'Project RT1430-1B - Wellington Gateway - Land Rapid Transit', confirming this is genuinely a Rapid Transit corridor project, not just a same-batch inference. transit/service-expansion/expansive upheld, confidence could reasonably move medium->high given the independent corroboration, left as classified."
+ },
+ {
+  "id": "72521ebff03e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed staff to remove the temporary glass/plastic barrier and its supports from the public gallery in Council Chambers.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to take the necessary steps to remove the temporary barrier and all associated supports from the public gallery of the Council Chambers",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: glass-barrier removal, no tracked-issue content anywhere in the text. issue=none correct."
+ },
+ {
+  "id": "9735f8e2584b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have granted Councillor Stevenson five additional minutes to speak on the London Hydro Annual General Meeting item; failed, so no extra time was granted.",
+  "confidence": "high",
+  "quote": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 5 minutes with respect to this matter.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: pure speaking-time procedural motion (failed 6-9), no substantive content. issue=none correct."
+ },
+ {
+  "id": "39004f51c2fc",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved (at committee stage) expropriating land needed to build the Wellington Gateway rapid-transit corridor's Clark's Bridge civil works.",
+  "confidence": "medium",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full committee-stage expropriation text (2024-05-27 CSC); identical substance to 895b8202a9e6, correctly the committee-stage twin. Vote 3-2 matches manifest."
+ },
+ {
+  "id": "fd12c4bfd34e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred pending proclamation requests (including Shine the Light on Woman Abuse) to a future meeting and directed staff to review the proclamations policy and report back.",
+  "confidence": "high",
+  "quote": "the issuance of proclamations BE REFERRED to a future meeting of the Corporate Services Committee; and\nb)    the Civic Administration BE DIRECTED to review the current Issuance of Proclamations Policy, including clarifying that requests for proclamations can be made by individuals, and report back to a future meeting of the Corporate Services Committee.",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: full committee-stage referral/policy-review motion (3-2), identical substance to the two Council-stage sub-votes (85f4e71a97c2 + 10af824efbb5) bundled into one vote here. Correctly null."
+ },
+ {
+  "id": "1e081b244fe4",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed staff to report back with proposed Sound By-law amendments restricting gas-powered lawn/garden equipment use, hold a public participation meeting, and circulate the report for advisory-committee feedback -- a process step, not an actual restriction yet.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to take the following actions with respect to the Sound By-law: i)    report back to a future meeting of the Community and Protective Services Committee with proposed amendments to the Sound By-law to restrict the operation of gas-powered lawn and garden equipment in residential areas from 6pm to 8am; ii)    hold a public participation meeting to consider public input at the same meeting of the Community and Protective Services Committee; and,   iii)    circulate the report to relevant community advisory committees for review and feedback in advance of the relevant meeting of the Community and Protective Services Committee",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full item 2.12 (2024-05-22 Civic Works): the 3-1 vote is the confirming vote for part d) only; traced part d)'s full text back to content[0] and confirmed the quote is verbatim and is the clause this specific vote decided (not a different part). Report-back-only, correctly null polarity."
+ },
+ {
+  "id": "b983a5d7f655",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a zoning by-law amendment for 743 Wellington Road that removes 'Emergency Care Establishments' (e.g., a walk-in medical clinic) as a permitted use in the office zone; this is a commercial-use restriction, not a residential density or dwelling-type change.",
+  "confidence": "low",
+  "quote": "to change the zoning of the subject property FROM a Restricted Office (RO1) Zone TO a Restricted Office Special Provision (RO1(_)) Zone with the exception of \"Emergency Care Establishments\" being removed as an additional permitted use under the Special Provisions of the Restricted Office Special Provision (RO1(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full 743 Wellington Rd motion text: confirmed this is a use-removal (Emergency Care Establishments) on a Z-coded rezoning, not a residential density/dwelling-type change. housing/null correct -- appropriately conservative."
+ },
+ {
+  "id": "a1c258f9979c",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Endorsed a proposed residential development at 193-199 College Avenue with special-provision zoning permitting up to 196 units per hectare and a 21-metre building height.",
+  "confidence": "high",
+  "quote": "the development, as proposed, BE ENDORSED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full 193-199 College Ave motion text: quote verbatim, density figures (196 units/hectare, 21m height) present in the same clause. BE ENDORSED matches the AFFIRM verb list. housing/application-approval/expansive correct."
+ },
+ {
+  "id": "bce613972380",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Amended the item to add free one-hour on-street parking in the Core Area (funded up to $300,000) and a free one-hour parking pilot at two Old East Village municipal lots (funded up to $30,000).",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full item 8.2.7 (2024-05-14 Council): this is the AMENDMENT vote (11-3) adding new parts c-f (on-street + Old East Village parking). Distinguished from the tied-vote-count sibling 6f9f69f3a0d5 (the separate confirming vote for the same parts) by content -- both correctly downtown/expansive."
+ },
+ {
+  "id": "6f9f69f3a0d5",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved implementing free one-hour on-street parking in the Core Area (funded up to $300,000) and a free one-hour parking pilot at two Old East Village municipal lots (funded up to $30,000).",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: the confirming vote (11-3, same count as bce613972380 but a distinct content entry) re-stating parts c-f as approved. Quote verbatim in this content entry (not borrowed from elsewhere). Correct."
+ },
+ {
+  "id": "fa81d1038167",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Awarded construction contracts and increased consultant design-contract funding for the Wellington Road and East London Link Rapid Transit Implementation corridor infrastructure.",
+  "confidence": "high",
+  "quote": "the bid submitted by CH Excavating (2013) at its tendered price of $30,814,695.92 (excluding HST) for the Rapid Transit Implementation \u2013 Wellington Road from Harlech Gate to Wellington Commons Entrance project, BE ACCEPTED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full contract-award text: explicitly names 'Rapid Transit Implementation - Wellington Road' and 'East London Link Project' consultant contracts. transit/expansive well-supported directly in-clause (no cross-reference needed here)."
+ },
+ {
+  "id": "1728c9fc3739",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred a proposed $130,000 increase to Safe Space London's homeless day/overnight drop-in space funding to a future meeting; this confirming vote failed, so the referral did not take effect at Council.",
+  "confidence": "high",
+  "quote": "that consideration of the existing Municipal Purchase of Service Agreement with Safe Space London for a total estimated increase of up to $130,000 (excluding HST) for the period of June 1, 2024 to July 31, 2024, to continue temporary day and overnight drop in space to be funded through the Contingency Reserve fund as per the Corporation of the City of London Procurement Policy Section 20.3 e) BE REFERRED to the May 28, 2024 meeting of the Strategic Priorities and Policy Committee",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full item 8.4.8 (2024-05-14 Council): this is the confirming vote (7-7 FAILED) for part b) (the Safe Space referral) specifically. Correctly left null -- a failed confirming vote on a referral doesn't establish what ultimately happened to the funding."
+ },
+ {
+  "id": "7eafda7b451a",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a note to the temporary-use zoning extension motion flagging that Council would consider a further 2+ year extension later if the applicant progresses signed parking-lot improvements; the note itself decides nothing about the zoning extension's length.",
+  "confidence": "high",
+  "quote": "It being further noted, that as SPA23-097 for parking lot works has been received by the city, and should the applicant enter into a signed development agreement and demonstrate progress on the parking lot improvements before the expiration of this extension, that council shall consider an additional extension of no less than 2 years.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full item 8.5.11: the 11-3 vote is the amendment ADDING the parking-lot-progress note, not the underlying one-year extension itself (that's a separate vote, e313598d210c). Quote verbatim. Correctly null (a note, decides nothing about extension length)."
+ },
+ {
+  "id": "e313598d210c",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved extending the Temporary Use (T-79) zoning for 376-390 Hewitt Street and 748 King Street for one year, facilitating the site's eventual redevelopment into a 24-storey mixed-use apartment tower.",
+  "confidence": "high",
+  "quote": "That the motion, as amended, BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: 'That the motion, as amended, BE APPROVED.' ends in a period with no colon-continuation, so it is NOT a stripped wrapper under the direction-rules wrapper regex -- it's a standalone final decision, correctly falls to generic application-approval/expansive. Substance (24-storey tower facilitation) confirmed against content[0]'s full application text."
+ },
+ {
+  "id": "5d8cbf4966ee",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the item back to Planning and Environment Committee to consider extending the temporary-use zoning for three years instead of one; failed, so no referral occurred.",
+  "confidence": "high",
+  "quote": "That the motion, as amended, BE REFERRED to a future meeting of the Planning and Environment Committee to consider an amendment to the by-law to read as follows: the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 14, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to extend the Temporary Use (T-79) Zone as it applies to the area of land located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street for a period not to exceed three (3) years",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full text: a genuine REFER motion (4-10 FAILED) with no AFFIRM verb of its own outside the referral. Correctly null."
+ },
+ {
+  "id": "79e6b8d45a67",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred a proposed $130,000 increase to Safe Space London's homeless drop-in space funding to a future committee meeting rather than deciding it immediately.",
+  "confidence": "high",
+  "quote": "That part b) of the motion BE REFERRED to the May 28, 2024 meeting of the Strategic Priorities and Policy Committee",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full item 5.1 (2024-05-07 SPPC): clean, bare referral text, DEFER-only. Correctly null."
+ },
+ {
+  "id": "2c083e73b778",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a single-source purchase of an Energreen tractor mower for approximately $518,700, a routine equipment procurement.",
+  "confidence": "high",
+  "quote": "the single source negotiated price BE ACCEPTED to purchase one (1) Energreen ILF Alpha F11 Tractor Mower for a total estimated price of $518,699.82 (excluding HST) from Colvoy Equipment",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: routine equipment procurement, no tracked-issue content. issue=none correct."
+ },
+ {
+  "id": "b8baf2ce562d",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved (at committee stage) extending the Temporary Use (T-79) zoning for 376-390 Hewitt Street and 748 King Street for one year, facilitating the site's eventual redevelopment into a 24-storey mixed-use apartment tower.",
+  "confidence": "high",
+  "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 14, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to extend the Temporary Use (T-79) Zone as it applies to the area of land located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street for a period not to exceed one (1) year",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full committee-stage Hewitt St motion: matches the Council-stage twin (e313598d210c) in substance. housing/expansive correct."
+ },
+ {
+  "id": "3afea2d2f184",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have narrowed the proposed free one-hour Core Area on-street parking program to weekdays only; failed, so the broader all-days wording stood for the next vote.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to implement a free weekday 1-hour on-street parking program for the Core Area until the end of 2024",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full item 2.5 (2024-04-29 CPSC): this is the weekday-narrowing amendment (2-2 FAILED), distinguished from the tied-count sibling 2c6d64497d4d by content. application-approval/expansive is the honest generic-fallback read (BE DIRECTED matches AFFIRM); no issue."
+ },
+ {
+  "id": "2c6d64497d4d",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved implementing free one-hour on-street parking in the Core Area, funded up to $300,000; failed at committee (later passed at Council).",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: 'Motion to approve parts a) and b) of the clause' (2-2 FAILED) is a bare wrapper; traced parts a)/b) back to content[1]'s original (pre-weekday-amendment) text since the weekday narrowing failed first -- quote is accurate for what 'parts a and b' refers to at the moment of this vote. Correct."
+ },
+ {
+  "id": "edfd6a26f47c",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved a free one-hour parking pilot at Old East Village Municipal Lots #1 and #2, funded up to $30,000; failed at committee (later passed at Council).",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour parking pilot program for Municipal Lot #1 and #2 in Old East Village until the end of 2024",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: 'Motion to approve parts c) and d) of the clause' (1-3 FAILED); traced parts c)/d) back to content[1]'s full text (Old East Village pilot + financing). Quote verbatim and correctly attributed. Correct."
+ },
+ {
+  "id": "8030492a76af",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a zoning by-law amendment for a residential development at 634 Commissioners Road West and directed site-plan design conditions (fencing, tree retention, bicycle parking, pedestrian connectivity review).",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated April 9, 2024 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to AMEND the Residential R5 Special Provision (R5-7(30)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full 634 Commissioners Rd W motion text: rezoning + site-plan design conditions match whatAYeaDid exactly. Correct."
+ },
+ {
+  "id": "bd7b7695c008",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have added a study of cut-through-traffic 'filtered-permeability' mitigation measures to a future Civic Works Committee agenda; failed.",
+  "confidence": "high",
+  "quote": "to study the issue of \u201cfiltered-permeability\u201d with respect to mitigating the effects of cut-through traffic resulting from the opening of Beaverbrook Avenue and Westfield Drive and that this item be placed on a future Civic Works Committee agenda",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full item 8.1.5 (2024-04-23 Council): 4-10 FAILED amendment matches INFORMATIONAL_ASK pattern ('to study the issue of...'). Correctly null."
+ },
+ {
+  "id": "278ca6f36998",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have added a note to the record about resident traffic/density concerns and asked that the issue be included in future Mobility Master Plan reports; failed, so no note was added and nothing was decided.",
+  "confidence": "high",
+  "quote": "That it BE FURTHER NOTED that through this application residents, businesses owners and community members raised concerns about ongoing traffic issues, movement of ambulances and the need for traffic planning in this area to address increased density from development planned in the West London area; and that this item should be included in future MMP reports to Civic Works Committee that discuss transit, road network and active transportation planning for West London.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: 6-8 FAILED 'BE FURTHER NOTED' amendment, a record-note request only, no operative decision. Correctly null."
+ },
+ {
+  "id": "cc4b3d0d54e6",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved official plan and zoning by-law amendments for 735 Wonderland Road North, rezoning the site to a Business District Commercial Special Provision zone and directing site-plan consultation on affordable housing units.",
+  "confidence": "high",
+  "quote": "That item 5, clause 3.3, as amended, BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: 'That item 5, clause 3.3, as amended, BE APPROVED.' ends in a period (no colon-continuation) -- a standalone final decision, not a stripped wrapper. Substance (BDC1 rezoning + affordable-housing site-plan consultation) confirmed against content[0]'s full application text. Correct."
+ },
+ {
+  "id": "f1d57d58bac3",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved raising the maximum building height in the Byron Gravel Pits Secondary Plan from 18 to 22 storeys while simultaneously lowering the plan's required affordable-housing share from 25% to 10-15% -- two opposite-direction housing changes bundled in one vote.",
+  "confidence": "low",
+  "quote": "ix) AMEND Schedule 1 from 18 storeys with an upper maximum of 22 storeys; and, x) AMEND Schedule 1 from 25% affordable housing to 10% to 15% affordable housing;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full item 8.1.6 (2024-04-23 Council, 5 content entries): parts ix (height 18->22 storeys) and x (affordable housing 25%->10-15%) ARE genuinely bundled into ONE 12-2 recorded vote here (unlike the committee-stage twin, see 057d37f642a6 correction) -- the height amendment has no separate vote at Council. Correctly left null; a single polarity would misstate one side of Hopkins/Trosow's nay."
+ },
+ {
+  "id": "7fc97879792f",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved expropriating land needed to build Phase 4 of the East London Link rapid-transit corridor (part of the Rapid Transit Implementation program).",
+  "confidence": "medium",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full East London Link Phase 4 expropriation text; item title itself names the project, and the same-batch 6b28a5a67b85 independently confirms 'East London Link' as a Rapid Transit Implementation corridor (explicit RFP naming). transit/expansive well-supported."
+ },
+ {
+  "id": "b9b49881ef19",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have added a request that the Mayor draw $3.5 million from the Community Investment Reserve Fund to offset the 2025 tax-rate increase; failed.",
+  "confidence": "medium",
+  "quote": "it being noted that the Mayor be requested to use a one time draw of $3.5M from the Community Investment Reserve Fund to offset the 2025 increased tax rate.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: 5-9 FAILED amendment requesting a one-time reserve draw to 'offset' a tax increase -- doesn't contain a DECREASE-class verb (offset != reduce/lower/cut) so doesn't cleanly hit the levy-size axis either direction. Correctly left null rather than forcing a read."
+ },
+ {
+  "id": "895754219c7f",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the entire 2023 Year-End Operating Budget Monitoring Report to a future Strategic Priorities and Policy Committee meeting; failed, so Council proceeded to decide it directly.",
+  "confidence": "high",
+  "quote": "That, notwithstanding the Council Procedure By-law, the motion BE REFERRED to a future meeting of Strategic Priorities and Policy Committee for consideration;",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: 3-11 FAILED, a clean 'notwithstanding the Council Procedure By-law...BE REFERRED' motion, no AFFIRM verb outside the referral. Correctly null."
+ },
+ {
+  "id": "08beca7153b5",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the 2023 year-end operating budget monitoring report and funding the London & Middlesex Community Housing operational deficit of about $33,000.",
+  "confidence": "high",
+  "quote": "the request to fund the 2023 London & Middlesex Community Housing operational deficit of approximately $33 thousand BE APPROVED",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: 'without part d), as amended, BE APPROVED' (12-2) is a standalone final vote (no colon-continuation); traced the $33k Community Housing deficit-funding language to content[0]'s part c), confirmed verbatim and confirmed part d) (the RBC Place surplus item, unrelated) was excluded from this specific vote. Correct."
+ },
+ {
+  "id": "6f3b957830c2",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed staff to develop an MOU with the school board to launch a pilot providing free annual transit passes to Grade 9 (later Grade 9-10) students at Clarke Road Secondary School.",
+  "confidence": "high",
+  "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full committee-stage transit-pass-pilot text: MOU-development directive for free passes at Clarke Road SS. transit/service-expansion/expansive reasonable extension of the axis (fare/eligibility access expansion). Correct."
+ },
+ {
+  "id": "b510ab684a9b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Granted Councillor Stevenson three additional minutes to speak on the Whole of Community System Response quarterly update; a speaking-time procedural vote, not a position on the item's substance.",
+  "confidence": "high",
+  "quote": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 3 minutes with respect to this matter.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: pure speaking-time procedural vote, no substantive content on the WCSR item. issue=none correct."
+ },
+ {
+  "id": "55bfa054657f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have kept the status-quo Councillor expense-account option (Ward Option #1) for funding ward meeting/engagement expenses; failed.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to maintain status quo and fund ward meeting and engagement expenses from the Councillor expense account with Ward Option #1, as indicated in the above noted report",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: 'part a) i) BE APPROVED' (3-12 FAILED), traced to the Ward Option #1 status-quo language; a councillor-expense-account matter, doesn't match any of the 8 tracked issues' keywords. issue=none correct."
+ },
+ {
+  "id": "e9a18457d74d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Housing Supply motion to add a request inviting the Upper Thames River Conservation Authority to participate in the work of the Customer Service and Process Improvement Reference Group -- a stakeholder-invitation request, not a decision on housing supply, density, or any tracked policy issue.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to invite the Upper Thames River Conservation Authority to participate in the work of the Customer Service and Process Improvement Reference Group.",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "MISATTRIBUTED CLAUSE (confirmed via vote-roster cross-check): item 4.1 (2024-04-16 SPPC) has 4 content entries; the original 14-1 vote quotes/describes content[0]'s part a) ('the report...BE APPROVED', the whole Housing Supply report) via a generic content[0] quote, but that text carries NO vote of its own in this meeting record -- the actual 14-1 recorded vote (S. Hillier lone nay) is content[2], a narrow amendment to add part c) inviting UTRCA to an unrelated internal reference group. Publishing the original entry would have falsely stated Hillier's nay was cast against the Housing Supply report itself; it was cast against a committee-invitation amendment. Re-pointed the quote/whatAYeaDid to the clause this specific vote actually decided and reclassified issue to none: the clause contains no housing content, and while 'conservation authority' is a climate-issue keyword, this is a stakeholder-invite to a Customer Service process-improvement group, not a substantive environmental decision -- forcing either housing or climate here would misstate the vote same as the original error did."
+ },
+ {
+  "id": "b1e1d2fe8866",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed staff to develop an MOU with the school board to launch a pilot providing free annual transit passes to Grade 9 students at Clarke Road Secondary School.",
+  "confidence": "high",
+  "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full Council-added-item transit-pass-pilot text, identical substance to d1fc73f17bb5 (the committee-stage twin). Correct."
+ },
+ {
+  "id": "407d903108b1",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the entire secondary-school transit-pass pilot proposal to the next committee meeting instead of deciding it immediately; failed, so the committee proceeded to approve the pilot the same meeting.",
+  "confidence": "high",
+  "quote": "that the motion from Deputy Mayor S. Lewis and Councillor P. Cuddy BE REFERRED to the next meeting of Strategic Priorities and Policy Committee on May 7, 2024",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full text: contains BOTH a referral clause (part a) AND a distinct AFFIRM clause (part b, 'BE DIRECTED to extend an invitation') -- mechanically this would NOT trigger the deferOnly guard, and 'extend an invitation to attend the meeting' doesn't match any INFORMATIONAL_ASK phrase either, so a naive rule-based read would misclassify this FAILED (4-11) motion as 'approved the transit item.' The classifier's substance-based read (true intent = referral attempt, unclear) is the correct call here and is corroborated by the same item's motion[0] (e294e35cf969) separately passing 13-2 as the real decision. Confirmed as a deliberate, well-reasoned override, not an oversight."
+ },
+ {
+  "id": "ac70311aac71",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved (at committee stage) expropriating land needed to build Phase 4 of the East London Link rapid-transit corridor.",
+  "confidence": "medium",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full committee-stage East London Link expropriation text, identical substance to 6e54e9c40a61. Correct."
+ },
+ {
+  "id": "e4b98c6f2d6e",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved (at committee stage) official plan and zoning by-law amendments for 735 Wonderland Road North, rezoning to a Business District Commercial Special Provision zone and directing site-plan consultation on affordable housing.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated April 9, 2024 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2024 to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Transit Village Place Type and by ADDING the subject lands to Map 7 \u2013 Specific Policies Areas \u2013 of the Official Plan",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full committee-stage 735 Wonderland Rd N motion text, identical substance to the Council-stage final approval (cc4b3d0d54e6). Correct."
+ },
+ {
+  "id": "057d37f642a6",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved (at committee stage) reducing the Byron Gravel Pits Secondary Plan's required affordable-housing share from 25% to 10-15%. Unlike the Council-stage vote on this same plan (which bundled this change together with a height increase to 22 storeys in one recorded vote), the committee voted on these two clauses SEPARATELY: the height increase passed unanimously 5-0 (a different, non-divided motion not in this batch), while this specific 4-1 vote (S. Franke dissenting) decided only the affordable-housing reduction.",
+  "confidence": "high",
+  "quote": "AMEND Schedule 1 from 25% to 10% to 15% affordable housing;",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "The original entry treated this the same as the Council-stage vote (f1d57d58bac3) -- bundled height-increase + affordable-housing-cut, polarity null. Checked the full committee item (2024-04-09 Planning and Environment Committee, item 3.4): it has 6 content entries, and the height amendment ('AMEND Schedule 1 from 18 to 22 storeys') is a SEPARATE, unanimous 5-0 vote (content[1], not part of this batch, no dissent to misclassify) while the affordable-housing reduction is its own contested 4-1 vote (content[2] -- the one actually assigned to this id, confirmed by exact vote-count match against the manifest's 'Motion Passed (4 to 1)'). Unlike the Council vote, there is no bundling here: this specific record has exactly one, unambiguous direction (reducing a required affordable-housing percentage from 25% to 10-15% is a restrictive move on the affordable-housing axis), so upgraded from null to a confirmed restrictive call with my own quote. f1d57d58bac3 (Council stage, genuinely bundled in one recorded vote) is unaffected and correctly stays null."
+ },
+ {
+  "id": "92782636fd50",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Sustained the Chair's ruling on a councillor's point of privilege; a procedural chamber-management vote unrelated to any of the tracked policy issues.",
+  "confidence": "high",
+  "quote": "shall the ruling of the Chair BE SUSTAINED?",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: a Chair's-ruling sustain vote under section 10.5, pure chamber procedure, no tracked-issue content. issue=none correct."
+ },
+ {
+  "id": "6a37a73ce041",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Set the City's 2050 mode share target at 32.5% (or higher) combined for transit, walking, and cycling trips -- the more ambitious of the staff-presented options -- to be reviewed at least every four years.",
+  "confidence": "medium",
+  "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full Mobility Master Plan text: '...BE SET at...Option 2 (32.5%)...or greater' is a genuine, specific target-setting decision (not a report-back). transit/service-expansion/expansive reasonable; the 'more ambitious option' framing is unverified editorializing (couldn't independently confirm Option 1's value in this file) but doesn't affect polarity."
+ },
+ {
+  "id": "dd9bb8b6f9cb",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed staff to undertake a future growth-management implementation strategy for the built-up area that includes a higher housing-intensification target aligned to the 32.5% mode-share target -- a policy direction toward more density within the existing built area, decided as its own amendment separate from reinitiating the Official Plan Review.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to undertake a future growth management implementation strategy for the built-area including a higher intensification target to align with the 32.5% mode share target",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "MISATTRIBUTED CLAUSE (confirmed via vote-roster cross-check), same failure pattern as e9a18457d74d: item 8.2.11 (2024-04-02 Council) has 5 content entries; the 9-4 recorded vote (Trosow/Lehman/Van Meerbergen/Hillier nays) is content[2], a specific amendment adding a 'higher intensification target' clause -- NOT content[0]'s 'reinitiate the Official Plan Review' language the original entry quoted (that broader text carries no vote of its own here; a different, unanimous-looking confirming vote for 'item 11 clause 3.8 as amended' with a DIFFERENT vote count (9-3, not 9-4) is content[4]). Re-pointed quote/whatAYeaDid to the actual 9-4 clause. Polarity stays expansive (a 'higher intensification target' is a density-increasing direction) but the axis changes from the generic application-approval fallback to density, and the substance is materially narrower than originally described -- the four nay votes opposed the intensification-target amendment specifically, not the Official Plan Review reinitiation broadly."
+ }
 ]

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-01T10:44:10.651Z",
+  "generatedAt": "2026-09-02T18:35:23.219Z",
   "note": "Cross-check report only — the regex engine in issue-rules.ts/direction-rules.ts is NOT the source of any published claim as of the 2026-08-31 rebuild; every published issue/axis/polarity/whatAYeaDid comes from data/election/classify/batch-*-verified.json. This file records every motion in the divided universe where the regex engine's independent read (issue classification and/or direction) disagrees with the verified classification, for ongoing regex-quality monitoring.",
-  "totalCompared": 1163,
-  "disagreementCount": 482,
+  "totalCompared": 1067,
+  "disagreementCount": 438,
   "disagreements": [
     {
-      "motionId": "b206f4de942a",
+      "motionId": "4e2861ffc59a",
       "date": "2026-07-21",
       "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
       "itemNumber": "8.1.5",
@@ -77,7 +77,7 @@
       }
     },
     {
-      "motionId": "e5b28940c89a",
+      "motionId": "e44917af01d5",
       "date": "2026-07-21",
       "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
       "itemNumber": "8.4.10",
@@ -113,7 +113,7 @@
       }
     },
     {
-      "motionId": "d7de26f0e678",
+      "motionId": "423774faef1e",
       "date": "2026-07-21",
       "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
       "itemNumber": "8.4.6",
@@ -131,7 +131,7 @@
       }
     },
     {
-      "motionId": "51e217481135",
+      "motionId": "0caaac4a596a",
       "date": "2026-07-15",
       "meetingSlug": "months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee",
       "itemNumber": "2.2",
@@ -167,7 +167,7 @@
       }
     },
     {
-      "motionId": "23394819155c",
+      "motionId": "87be608d13d9",
       "date": "2026-06-23",
       "meetingSlug": "months/2026-06/2026-06-23 11th Meeting of Council",
       "itemNumber": "8.1.11",
@@ -203,43 +203,7 @@
       }
     },
     {
-      "motionId": "40970bf1599f",
-      "date": "2026-06-23",
-      "meetingSlug": "months/2026-06/2026-06-23 11th Meeting of Council",
-      "itemNumber": "8.3.6",
-      "itemTitle": "(4.1) The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "budget",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "b26197dd53d0",
-      "date": "2026-06-23",
-      "meetingSlug": "months/2026-06/2026-06-23 11th Meeting of Council",
-      "itemNumber": "8.4.8",
-      "itemTitle": "(2.3) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Enhancing London’s Resilience Through Climate Adaptation Planning (Relates to Bill No. 241)",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "climate",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "8b77c24ff25c",
+      "motionId": "7da276401f06",
       "date": "2026-06-23",
       "meetingSlug": "months/2026-06/2026-06-23 11th Meeting of Council",
       "itemNumber": "8.5.9",
@@ -248,30 +212,12 @@
       "regex": {
         "issue": "housing",
         "axis": "application-approval",
-        "valence": 1
+        "valence": -1
       },
       "llm": {
         "issue": "housing",
         "axis": null,
         "polarity": null
-      }
-    },
-    {
-      "motionId": "a436cba624c6",
-      "date": "2026-06-16",
-      "meetingSlug": "months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.1",
-      "itemTitle": "The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "budget",
-        "axis": "application-approval",
-        "polarity": "expansive"
       }
     },
     {
@@ -289,42 +235,6 @@
       "llm": {
         "issue": "downtown",
         "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "70881ca02a83",
-      "date": "2026-06-15",
-      "meetingSlug": "months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee",
-      "itemNumber": "2.3",
-      "itemTitle": "Federation of Canadian Municipalities: Green Municipal Fund Agreement for Enhancing London’s Resilience Through Climate Adaptation Planning",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "climate",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "81fffe30d22a",
-      "date": "2026-06-09",
-      "meetingSlug": "months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.7",
-      "itemTitle": "36 Wethered Street - Z-26050 ",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
         "polarity": "expansive"
       }
     },
@@ -383,25 +293,7 @@
       }
     },
     {
-      "motionId": "91eb206075d8",
-      "date": "2026-05-12",
-      "meetingSlug": "months/2026-05/2026-05-12 8th Meeting of Council",
-      "itemNumber": "8.3.5",
-      "itemTitle": "(2.4) Housing Stability Action Plan (2026-2031) Update",
-      "kind": "axis",
-      "regex": {
-        "issue": "encampments",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "encampments",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "d7eeb48f9dea",
+      "motionId": "0b74a27ea811",
       "date": "2026-04-21",
       "meetingSlug": "months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "2.2",
@@ -419,7 +311,7 @@
       }
     },
     {
-      "motionId": "b1f7d7ab0e58",
+      "motionId": "109f354014ba",
       "date": "2026-04-21",
       "meetingSlug": "months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.2",
@@ -437,7 +329,7 @@
       }
     },
     {
-      "motionId": "9a69bd3efefd",
+      "motionId": "43d8e93008db",
       "date": "2026-04-14",
       "meetingSlug": "months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee",
       "itemNumber": "4.1",
@@ -491,24 +383,6 @@
       }
     },
     {
-      "motionId": "1a0ad771e08d",
-      "date": "2026-03-23",
-      "meetingSlug": "months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee",
-      "itemNumber": "2.9",
-      "itemTitle": "Final Program Design for BetterHomes London ",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "climate",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
       "motionId": "b076ce02bb71",
       "date": "2026-03-23",
       "meetingSlug": "months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee",
@@ -527,7 +401,7 @@
       }
     },
     {
-      "motionId": "fbf783cadc53",
+      "motionId": "dd2f8fb9d86d",
       "date": "2026-03-10",
       "meetingSlug": "months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee",
       "itemNumber": "3.8",
@@ -536,7 +410,7 @@
       "regex": {
         "issue": "housing",
         "axis": "application-approval",
-        "valence": 1
+        "valence": -1
       },
       "llm": {
         "issue": "housing",
@@ -581,6 +455,24 @@
       }
     },
     {
+      "motionId": "6bbd71829c90",
+      "date": "2026-03-03",
+      "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
+      "itemNumber": "8.1.10",
+      "itemTitle": "(3.5) 550 Ridout Street North & 82-90 Kent Street - OZ-25152 (Relates to Bill No. 105 and 123)",
+      "kind": "axis",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "4a2e8a2dad9d",
       "date": "2026-03-03",
       "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
@@ -599,50 +491,14 @@
       }
     },
     {
-      "motionId": "7253c8a13fd8",
-      "date": "2026-03-03",
-      "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
-      "itemNumber": "8.1.11",
-      "itemTitle": "(3.6) Additional Residential Unit Permissions - Z-25159 (Relates to Bill No. 124)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "restrictive"
-      }
-    },
-    {
-      "motionId": "2c152e11e58a",
+      "motionId": "369de39b00f6",
       "date": "2026-03-03",
       "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
       "itemNumber": "8.1.13",
       "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes",
       "kind": "issue",
       "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "f4f159d15b91",
-      "date": "2026-03-03",
-      "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
-      "itemNumber": "8.1.13",
-      "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
+        "issue": "transit",
         "axis": null,
         "valence": null
       },
@@ -689,7 +545,7 @@
       }
     },
     {
-      "motionId": "55da1ef00dc2",
+      "motionId": "e8fd57d3f197",
       "date": "2026-03-03",
       "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
       "itemNumber": "8.4.10",
@@ -707,7 +563,7 @@
       }
     },
     {
-      "motionId": "362a510b1fad",
+      "motionId": "c49848510eb3",
       "date": "2026-03-03",
       "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
       "itemNumber": "8.4.11",
@@ -725,7 +581,7 @@
       }
     },
     {
-      "motionId": "26626f351b0d",
+      "motionId": "27c398a24709",
       "date": "2026-02-23",
       "meetingSlug": "months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee",
       "itemNumber": "2.10",
@@ -733,8 +589,8 @@
       "kind": "axis",
       "regex": {
         "issue": "transit",
-        "axis": null,
-        "valence": null
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "transit",
@@ -743,7 +599,7 @@
       }
     },
     {
-      "motionId": "ed8f1175d012",
+      "motionId": "d45532cf8cd8",
       "date": "2026-02-23",
       "meetingSlug": "months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee",
       "itemNumber": "2.3",
@@ -758,42 +614,6 @@
         "issue": "climate",
         "axis": "application-approval",
         "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "f1a3045ef828",
-      "date": "2026-02-18",
-      "meetingSlug": "months/2026-02/2026-02-18 4th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.5",
-      "itemTitle": "550 Ridout Street North & 82-90 Kent Street - OZ-25152",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "8d356263249f",
-      "date": "2026-02-17",
-      "meetingSlug": "months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee",
-      "itemNumber": "2.4",
-      "itemTitle": "Residential Rental Unit Licensing (RRUL) License Display",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": null,
-        "polarity": null
       }
     },
     {
@@ -869,16 +689,34 @@
       }
     },
     {
-      "motionId": "e8436f0f42bb",
+      "motionId": "0fd864d6f943",
+      "date": "2026-02-10",
+      "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
+      "itemNumber": "8.2.6",
+      "itemTitle": "(2.3) System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options",
+      "kind": "axis",
+      "regex": {
+        "issue": "encampments",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "1efb0d966119",
       "date": "2026-02-10",
       "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
       "itemNumber": "8.2.8",
       "itemTitle": "(4.1) Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
+        "issue": "budget",
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "budget",
@@ -905,7 +743,7 @@
       }
     },
     {
-      "motionId": "68a1969eb4ee",
+      "motionId": "2329df85e366",
       "date": "2026-02-10",
       "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
       "itemNumber": "8.2.9",
@@ -941,65 +779,11 @@
       }
     },
     {
-      "motionId": "e96b2ebdbc7e",
-      "date": "2026-02-10",
-      "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
-      "itemNumber": "8.3.14",
-      "itemTitle": "(3.10) 732 Wellington Street and 282 Piccadilly Street - Z-25148 (Relates to Bill No. 88)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "use-permission",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "0568f9adfacf",
-      "date": "2026-02-10",
-      "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
-      "itemNumber": "8.3.15",
-      "itemTitle": "(3.11) 5150 Wellington Road South - OZ-25135 (Relates to Bill No. 67 and No. 89)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "5c930abbb64d",
+      "motionId": "200aa0dd5d09",
       "date": "2026-02-10",
       "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
       "itemNumber": "8.3.16",
       "itemTitle": "(3.12) 3680 Wonderland Road - OZ-25128 (Relates to Bill No. 68 and No. 90)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "7a534ce12b37",
-      "date": "2026-02-10",
-      "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
-      "itemNumber": "8.3.6",
-      "itemTitle": "(3.2) 233 Cambridge Street - Z-25155 (Relates to Bill No. 80)",
       "kind": "axis",
       "regex": {
         "issue": "housing",
@@ -1049,24 +833,6 @@
       }
     },
     {
-      "motionId": "ddac6af524b1",
-      "date": "2026-02-10",
-      "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
-      "itemNumber": "8.3.9",
-      "itemTitle": "(3.5) 3334-3354 Wonderland Road South - OZ-25140 (Relates to Bill No. 66 and No. 83)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
-      }
-    },
-    {
       "motionId": "a23c5771a121",
       "date": "2026-02-10",
       "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
@@ -1085,7 +851,7 @@
       }
     },
     {
-      "motionId": "700cfca48a00",
+      "motionId": "90431365e935",
       "date": "2026-02-10",
       "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
       "itemNumber": "8.4.6",
@@ -1154,24 +920,6 @@
         "issue": "transit",
         "axis": "transit-service",
         "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "512f5fb9506a",
-      "date": "2026-02-03",
-      "meetingSlug": "months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "2.4",
-      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": null,
-        "polarity": null
       }
     },
     {
@@ -1247,25 +995,7 @@
       }
     },
     {
-      "motionId": "106cac54de25",
-      "date": "2026-01-27",
-      "meetingSlug": "months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.4",
-      "itemTitle": "767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "0af18c13bd47",
+      "motionId": "20f037c8728d",
       "date": "2026-01-26",
       "meetingSlug": "months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee",
       "itemNumber": "2.2",
@@ -1445,7 +1175,7 @@
       }
     },
     {
-      "motionId": "e92845765097",
+      "motionId": "9b53a4068fdc",
       "date": "2025-12-09",
       "meetingSlug": "months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "2.1",
@@ -1457,7 +1187,7 @@
         "valence": 1
       },
       "llm": {
-        "issue": "encampments",
+        "issue": null,
         "axis": null,
         "polarity": null
       }
@@ -1499,16 +1229,16 @@
       }
     },
     {
-      "motionId": "cc2a45812971",
+      "motionId": "df06b640777c",
       "date": "2025-12-09",
       "meetingSlug": "months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "5.1",
       "itemTitle": "(ADDED) Request to Declare State of Emergency regarding the Community Safety and Humanitarian Crisis - Councillor C. Rahman",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
+        "issue": "encampments",
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "encampments",
@@ -1517,14 +1247,14 @@
       }
     },
     {
-      "motionId": "8a95b752903f",
+      "motionId": "26162dcc35ef",
       "date": "2025-12-02",
       "meetingSlug": "months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee",
       "itemNumber": "3.5",
       "itemTitle": "Public Participation Meeting - Not to be heard before 1:00 PM - 1164-1170 Richmond Street - OZ-25117 ",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
-        "issue": "transit",
+        "issue": "housing",
         "axis": "application-approval",
         "valence": -1
       },
@@ -1535,7 +1265,7 @@
       }
     },
     {
-      "motionId": "bffba588345c",
+      "motionId": "37014e8b1754",
       "date": "2025-12-01",
       "meetingSlug": "months/2025-12/2025-12-01 1st Meeting of the Community and Protective Services Committee",
       "itemNumber": "4.1",
@@ -1607,7 +1337,7 @@
       }
     },
     {
-      "motionId": "8c2c943e562d",
+      "motionId": "2ee8c1b1aaac",
       "date": "2025-11-25",
       "meetingSlug": "months/2025-11/2025-11-25 18th Council Meeting",
       "itemNumber": "8.1.8",
@@ -1625,29 +1355,11 @@
       }
     },
     {
-      "motionId": "69abd710ad99",
+      "motionId": "d1f25753475b",
       "date": "2025-11-25",
       "meetingSlug": "months/2025-11/2025-11-25 18th Council Meeting",
       "itemNumber": "8.2.13",
       "itemTitle": "(3.8) 3563 Bostwick Road - OZ-25078/ 39T-24502 (Relates to Bill No.'s 415 and 428) ",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "733377ff3867",
-      "date": "2025-11-25",
-      "meetingSlug": "months/2025-11/2025-11-25 18th Council Meeting",
-      "itemNumber": "8.2.8",
-      "itemTitle": "(3.3) 1447-1449 Dundas Street & 684-690 Hale Street - OZ-25110 (Relates to Bill No.'s 411 and 425)",
       "kind": "axis",
       "regex": {
         "issue": "housing",
@@ -1805,7 +1517,7 @@
       }
     },
     {
-      "motionId": "369f78062e63",
+      "motionId": "44603a99e06b",
       "date": "2025-11-20",
       "meetingSlug": "months/2025-11/2025-11-20 6th Meeting of the Budget Committee",
       "itemNumber": "4.8",
@@ -1813,8 +1525,8 @@
       "kind": "axis",
       "regex": {
         "issue": "budget",
-        "axis": null,
-        "valence": null
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "budget",
@@ -1877,7 +1589,7 @@
       }
     },
     {
-      "motionId": "1ee90aa063ce",
+      "motionId": "9a2aea4a8c2f",
       "date": "2025-11-20",
       "meetingSlug": "months/2025-11/2025-11-20 6th Meeting of the Budget Committee",
       "itemNumber": "4.9",
@@ -1895,7 +1607,7 @@
       }
     },
     {
-      "motionId": "8cd2d2b8a2ce",
+      "motionId": "3a6a6b440800",
       "date": "2025-11-04",
       "meetingSlug": "months/2025-11/2025-11-04 17th Council Meeting",
       "itemNumber": "8.3.8",
@@ -2057,7 +1769,7 @@
       }
     },
     {
-      "motionId": "e0c288c18934",
+      "motionId": "259ef26f8a8c",
       "date": "2025-10-14",
       "meetingSlug": "months/2025-10/2025-10-14 16th Council Meeting",
       "itemNumber": "8.5.9",
@@ -2111,7 +1823,7 @@
       }
     },
     {
-      "motionId": "0d85a88501d0",
+      "motionId": "14ab11866671",
       "date": "2025-10-01",
       "meetingSlug": "months/2025-10/2025-10-01 The 15th Meeting of the Planning and Environment Committee",
       "itemNumber": "3.5",
@@ -2165,7 +1877,7 @@
       }
     },
     {
-      "motionId": "28e03e7c3f6d",
+      "motionId": "09650a221df8",
       "date": "2025-09-23",
       "meetingSlug": "months/2025-09/2025-09-23 15th Council Meeting",
       "itemNumber": "7.1",
@@ -2183,7 +1895,7 @@
       }
     },
     {
-      "motionId": "1e6dd1535ed7",
+      "motionId": "7673f3eaf052",
       "date": "2025-09-23",
       "meetingSlug": "months/2025-09/2025-09-23 15th Council Meeting",
       "itemNumber": "7.1",
@@ -2237,7 +1949,7 @@
       }
     },
     {
-      "motionId": "3d072ced8231",
+      "motionId": "e805d2ddb3c4",
       "date": "2025-09-23",
       "meetingSlug": "months/2025-09/2025-09-23 15th Council Meeting",
       "itemNumber": "8.3.3",
@@ -2245,8 +1957,8 @@
       "kind": "axis",
       "regex": {
         "issue": "transit",
-        "axis": null,
-        "valence": null
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "transit",
@@ -2255,7 +1967,7 @@
       }
     },
     {
-      "motionId": "fddebc11db79",
+      "motionId": "e56eb972d15a",
       "date": "2025-09-23",
       "meetingSlug": "months/2025-09/2025-09-23 15th Council Meeting",
       "itemNumber": "8.4.5",
@@ -2309,7 +2021,7 @@
       }
     },
     {
-      "motionId": "cf36e50bdd48",
+      "motionId": "667304ee4d37",
       "date": "2025-09-15",
       "meetingSlug": "months/2025-09/2025-09-15 14th Meeting of the Infrastructure and Corporate Services Committee",
       "itemNumber": "2.1",
@@ -2317,8 +2029,8 @@
       "kind": "axis",
       "regex": {
         "issue": "transit",
-        "axis": null,
-        "valence": null
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "transit",
@@ -2345,7 +2057,7 @@
       }
     },
     {
-      "motionId": "8bc8d3fbc1e2",
+      "motionId": "a5c0e3814085",
       "date": "2025-09-08",
       "meetingSlug": "months/2025-09/2025-09-08 13th Meeting of the Community and Protective Services Committee",
       "itemNumber": "2.3",
@@ -2381,25 +2093,7 @@
       }
     },
     {
-      "motionId": "95d6e8699352",
-      "date": "2025-08-26",
-      "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-      "itemNumber": "8.2.20",
-      "itemTitle": "(3.11) City-Wide: Zoning By-law Amendment to Stacked Townhouse Definition (Z-25071) (Relates to Bill No. 339)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "ee4b0badbc6b",
+      "motionId": "6fb8aac5501b",
       "date": "2025-08-26",
       "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
       "itemNumber": "8.2.22",
@@ -2471,7 +2165,7 @@
       }
     },
     {
-      "motionId": "883ee33ef545",
+      "motionId": "7126cff13284",
       "date": "2025-08-26",
       "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
       "itemNumber": "8.4.7",
@@ -2479,8 +2173,8 @@
       "kind": "axis",
       "regex": {
         "issue": "transit",
-        "axis": null,
-        "valence": null
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "transit",
@@ -2489,7 +2183,7 @@
       }
     },
     {
-      "motionId": "e1f8ff57161c",
+      "motionId": "7ae6c0ae05ef",
       "date": "2025-08-13",
       "meetingSlug": "months/2025-08/2025-08-13 13th Meeting of the Infrastructure and Corporate Services Committee",
       "itemNumber": "2.4",
@@ -2497,8 +2191,8 @@
       "kind": "axis",
       "regex": {
         "issue": "transit",
-        "axis": null,
-        "valence": null
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "transit",
@@ -2525,34 +2219,16 @@
       }
     },
     {
-      "motionId": "8d1c46d7b9d9",
-      "date": "2025-07-22",
-      "meetingSlug": "months/2025-07/2025-07-22 12th Council Meeting",
-      "itemNumber": "8.1.9",
-      "itemTitle": "(2.8) Expropriation of Lands - Phase 2 - Wellington Gateway Project Civil Works (Relates to Bill No. 287)",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "transit-service",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "f9a30eceb5b1",
+      "motionId": "87b1cae35e16",
       "date": "2025-07-22",
       "meetingSlug": "months/2025-07/2025-07-22 12th Council Meeting",
       "itemNumber": "8.2.11",
       "itemTitle": "(2.11) Municipal Rental Assistance Program Allocation for Indigenous Led Housing Supports",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
+        "issue": "encampments",
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "encampments",
@@ -2561,7 +2237,7 @@
       }
     },
     {
-      "motionId": "01d52536f471",
+      "motionId": "be1f4927f690",
       "date": "2025-07-22",
       "meetingSlug": "months/2025-07/2025-07-22 12th Council Meeting",
       "itemNumber": "8.2.14",
@@ -2615,16 +2291,16 @@
       }
     },
     {
-      "motionId": "9a970bf79b9c",
+      "motionId": "a1284ba7831f",
       "date": "2025-07-22",
       "meetingSlug": "months/2025-07/2025-07-22 12th Council Meeting",
       "itemNumber": "8.2.3",
       "itemTitle": "(2.3) Affordable Homeownership Program Relaunch (Relates to Bill No.'s 277 and 281)",
       "kind": "issue",
       "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
+        "issue": "budget",
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "housing",
@@ -2633,43 +2309,7 @@
       }
     },
     {
-      "motionId": "40ed0fff0996",
-      "date": "2025-07-22",
-      "meetingSlug": "months/2025-07/2025-07-22 12th Council Meeting",
-      "itemNumber": "8.2.7",
-      "itemTitle": "(2.7) Federation of Canadian Municipalities Community Efficiency Financing Agreement for BetterHomes London (Relates to Bill No.'s 278 and 279)",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "climate",
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "b2256df2c01d",
-      "date": "2025-07-22",
-      "meetingSlug": "months/2025-07/2025-07-22 12th Council Meeting",
-      "itemNumber": "8.2.7",
-      "itemTitle": "(2.7) Federation of Canadian Municipalities Community Efficiency Financing Agreement for BetterHomes London (Relates to Bill No.'s 278 and 279)",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "climate",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "7459575d36cc",
+      "motionId": "3e6655be6ec3",
       "date": "2025-07-22",
       "meetingSlug": "months/2025-07/2025-07-22 12th Council Meeting",
       "itemNumber": "8.4.11",
@@ -2723,6 +2363,24 @@
       }
     },
     {
+      "motionId": "1536b0715d60",
+      "date": "2025-07-16",
+      "meetingSlug": "months/2025-07/2025-07-16 12th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemNumber": "2.1",
+      "itemTitle": "Biosolids Management Master Plan - Notice of Completion",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "699159b76176",
       "date": "2025-07-15",
       "meetingSlug": "months/2025-07/2025-07-15 The 12th Meeting of the Planning and Environment Committee",
@@ -2741,7 +2399,7 @@
       }
     },
     {
-      "motionId": "197a43b0b2c8",
+      "motionId": "ff162b822de8",
       "date": "2025-06-24",
       "meetingSlug": "months/2025-06/2025-06-24 11th Council Meeting",
       "itemNumber": "8.4.7",
@@ -2759,7 +2417,7 @@
       }
     },
     {
-      "motionId": "d3245137acfb",
+      "motionId": "5260641b16e9",
       "date": "2025-06-17",
       "meetingSlug": "months/2025-06/2025-06-17 8th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "2.3",
@@ -2777,7 +2435,7 @@
       }
     },
     {
-      "motionId": "9eb3b4658424",
+      "motionId": "0b88e8088ec8",
       "date": "2025-06-11",
       "meetingSlug": "months/2025-06/2025-06-11 3rd Meeting of the Budget Committee",
       "itemNumber": "4.3",
@@ -2795,7 +2453,7 @@
       }
     },
     {
-      "motionId": "b294bcd84902",
+      "motionId": "1904983f1fcc",
       "date": "2025-06-11",
       "meetingSlug": "months/2025-06/2025-06-11 3rd Meeting of the Budget Committee",
       "itemNumber": "4.4",
@@ -2813,7 +2471,7 @@
       }
     },
     {
-      "motionId": "9c1b6034ee68",
+      "motionId": "dcd15d659c6a",
       "date": "2025-06-10",
       "meetingSlug": "months/2025-06/2025-06-10 The 9th Meeting of the Planning and Environment Committee",
       "itemNumber": "3.4",
@@ -2831,7 +2489,7 @@
       }
     },
     {
-      "motionId": "24c2da556dc5",
+      "motionId": "592cd14680ad",
       "date": "2025-06-09",
       "meetingSlug": "months/2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee",
       "itemNumber": "4.1",
@@ -2849,7 +2507,7 @@
       }
     },
     {
-      "motionId": "82651f9aa618",
+      "motionId": "5dd5b515b858",
       "date": "2025-06-03",
       "meetingSlug": "months/2025-06/2025-06-03 9th Council Meeting",
       "itemNumber": "8.1.18",
@@ -2867,7 +2525,7 @@
       }
     },
     {
-      "motionId": "d32107445ab4",
+      "motionId": "5fae396176e7",
       "date": "2025-06-03",
       "meetingSlug": "months/2025-06/2025-06-03 9th Council Meeting",
       "itemNumber": "8.1.7",
@@ -2875,8 +2533,8 @@
       "kind": "issue",
       "regex": {
         "issue": "downtown",
-        "axis": null,
-        "valence": null
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": null,
@@ -2903,7 +2561,7 @@
       }
     },
     {
-      "motionId": "dbf3fce564a3",
+      "motionId": "9fc3b4e89fb6",
       "date": "2025-06-03",
       "meetingSlug": "months/2025-06/2025-06-03 9th Council Meeting",
       "itemNumber": "8.4.8",
@@ -2911,8 +2569,8 @@
       "kind": "axis",
       "regex": {
         "issue": "housing",
-        "axis": null,
-        "valence": null
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "housing",
@@ -3281,7 +2939,7 @@
       }
     },
     {
-      "motionId": "72dd2f4f442c",
+      "motionId": "e885dee0c819",
       "date": "2025-05-21",
       "meetingSlug": "months/2025-05/2025-05-21 The 8th Meeting of the Planning and Environment Committee",
       "itemNumber": "3.4",
@@ -3299,25 +2957,7 @@
       }
     },
     {
-      "motionId": "c1c7db59127a",
-      "date": "2025-05-13",
-      "meetingSlug": "months/2025-05/2025-05-13 8th Council Meeting",
-      "itemNumber": "8.1.4",
-      "itemTitle": "(2.4) Program Changes to the Ontario Renovates Program (Relates to Bill No. 157)",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "affordable-funding",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "c3e045940910",
+      "motionId": "2c089f003a03",
       "date": "2025-05-13",
       "meetingSlug": "months/2025-05/2025-05-13 8th Council Meeting",
       "itemNumber": "8.1.5",
@@ -3371,7 +3011,7 @@
       }
     },
     {
-      "motionId": "ef9ba6dbe683",
+      "motionId": "c518f6f2eead",
       "date": "2025-04-22",
       "meetingSlug": "months/2025-04/2025-04-22 7th Council Meeting",
       "itemNumber": "8.3.10",
@@ -3389,7 +3029,7 @@
       }
     },
     {
-      "motionId": "e0b2c6bdb39c",
+      "motionId": "aabf1f257509",
       "date": "2025-04-22",
       "meetingSlug": "months/2025-04/2025-04-22 7th Council Meeting",
       "itemNumber": "8.3.4",
@@ -3407,7 +3047,7 @@
       }
     },
     {
-      "motionId": "058e553b9214",
+      "motionId": "9cf59db8069f",
       "date": "2025-04-08",
       "meetingSlug": "months/2025-04/2025-04-08 The 6th Meeting of the Planning and Environment Committee",
       "itemNumber": "3.1",
@@ -3443,7 +3083,7 @@
       }
     },
     {
-      "motionId": "fb0027ac9928",
+      "motionId": "783efa2aebee",
       "date": "2025-04-01",
       "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
       "itemNumber": "8.1.14",
@@ -3461,7 +3101,25 @@
       }
     },
     {
-      "motionId": "09385ddc0d7d",
+      "motionId": "98659cba0584",
+      "date": "2025-04-01",
+      "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
+      "itemNumber": "8.1.5",
+      "itemTitle": "(2.5) Downtown Master Plan: Appointment of Consultant for RFP 2025-001",
+      "kind": "axis",
+      "regex": {
+        "issue": "downtown",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "downtown",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "c7e50ba41dc6",
       "date": "2025-04-01",
       "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
       "itemNumber": "8.1.9",
@@ -3641,7 +3299,7 @@
       }
     },
     {
-      "motionId": "d859c6b820e8",
+      "motionId": "cf3488ecfcbc",
       "date": "2025-04-01",
       "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
       "itemNumber": "8.3.12",
@@ -3659,7 +3317,7 @@
       }
     },
     {
-      "motionId": "27ff763d65d2",
+      "motionId": "870bafcb5750",
       "date": "2025-04-01",
       "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
       "itemNumber": "8.3.12",
@@ -3677,7 +3335,7 @@
       }
     },
     {
-      "motionId": "1c0f60d005b5",
+      "motionId": "ff469e78c6e0",
       "date": "2025-04-01",
       "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
       "itemNumber": "8.3.12",
@@ -3695,7 +3353,7 @@
       }
     },
     {
-      "motionId": "d2ed469d2746",
+      "motionId": "4e61480236e9",
       "date": "2025-04-01",
       "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
       "itemNumber": "8.3.12",
@@ -3709,24 +3367,6 @@
       "llm": {
         "issue": "encampments",
         "axis": "relocation",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "bc7a8160cced",
-      "date": "2025-04-01",
-      "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
-      "itemNumber": "8.4.6",
-      "itemTitle": "(3.2) 2634 Barn Swallow Place (Z-25006)  (Relates to Bill No. 125)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
         "polarity": "expansive"
       }
     },
@@ -3749,7 +3389,7 @@
       }
     },
     {
-      "motionId": "4446fedbea38",
+      "motionId": "7d042dc1a411",
       "date": "2025-04-01",
       "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
       "itemNumber": "8.4.8",
@@ -3758,7 +3398,7 @@
       "regex": {
         "issue": "housing",
         "axis": "application-approval",
-        "valence": 1
+        "valence": -1
       },
       "llm": {
         "issue": "housing",
@@ -3875,7 +3515,7 @@
       }
     },
     {
-      "motionId": "8de7e1af71a8",
+      "motionId": "b6548b2bc4d4",
       "date": "2025-03-24",
       "meetingSlug": "months/2025-03/2025-03-24 6th Meeting of the Infrastructure and Corporate Services Committee",
       "itemNumber": "2.12",
@@ -3908,42 +3548,6 @@
         "issue": null,
         "axis": null,
         "polarity": null
-      }
-    },
-    {
-      "motionId": "a81672d4d25e",
-      "date": "2025-03-18",
-      "meetingSlug": "months/2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.2",
-      "itemTitle": "2634 Barn Swallow Place (Z-25006)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "2208de181f92",
-      "date": "2025-03-18",
-      "meetingSlug": "months/2025-03/2025-03-18 The 5th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.4",
-      "itemTitle": "415-421 Boler Road (Z-9536)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
       }
     },
     {
@@ -4001,7 +3605,7 @@
       }
     },
     {
-      "motionId": "cf4aa6b663e1",
+      "motionId": "639a42891cdb",
       "date": "2025-02-11",
       "meetingSlug": "months/2025-02/2025-02-11 3rd Meeting of City Council",
       "itemNumber": "8.1.6",
@@ -4037,7 +3641,7 @@
       }
     },
     {
-      "motionId": "2a7542829244",
+      "motionId": "0af2f57bd56d",
       "date": "2025-02-11",
       "meetingSlug": "months/2025-02/2025-02-11 3rd Meeting of City Council",
       "itemNumber": "8.1.6",
@@ -4055,7 +3659,25 @@
       }
     },
     {
-      "motionId": "0505f840ea66",
+      "motionId": "04dcb7b65c6a",
+      "date": "2025-02-11",
+      "meetingSlug": "months/2025-02/2025-02-11 3rd Meeting of City Council",
+      "itemNumber": "8.2.7",
+      "itemTitle": "(3.1) Demolition Request and Heritage Alteration Permit Application at 66 Blackfriars Street",
+      "kind": "issue",
+      "regex": {
+        "issue": "climate",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "135897acab5a",
       "date": "2025-01-13",
       "meetingSlug": "months/2025-01/2025-01-13 2nd Meeting of the Infrastructure and Corporate Services Committee",
       "itemNumber": "2.6",
@@ -4073,24 +3695,6 @@
       }
     },
     {
-      "motionId": "6cf201881dcb",
-      "date": "2024-12-17",
-      "meetingSlug": "months/2024-12/2024-12-17 1st Meeting of City Council",
-      "itemNumber": "8.1.17",
-      "itemTitle": "(3.9) 1922 Highland Heights and 205 Commissioners Road East (Relates to Bill No. 36)",
-      "kind": "issue",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
       "motionId": "331bb35d80e2",
       "date": "2024-12-17",
       "meetingSlug": "months/2024-12/2024-12-17 1st Meeting of City Council",
@@ -4101,24 +3705,6 @@
         "issue": null,
         "axis": null,
         "valence": null
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "70cd8d04ee9d",
-      "date": "2024-12-17",
-      "meetingSlug": "months/2024-12/2024-12-17 1st Meeting of City Council",
-      "itemNumber": "8.1.18",
-      "itemTitle": "(3.10) 21-41 Meadowlily Road North and 20 Norlan Avenue (Relates to Bill No. 37)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
       },
       "llm": {
         "issue": "housing",
@@ -4199,25 +3785,7 @@
       }
     },
     {
-      "motionId": "09480fbcf3ce",
-      "date": "2024-12-17",
-      "meetingSlug": "months/2024-12/2024-12-17 1st Meeting of City Council",
-      "itemNumber": "8.4.5",
-      "itemTitle": "(3.1) Final Report - 2024 Ward Boundary Review",
-      "kind": "issue",
-      "regex": {
-        "issue": "climate",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "171d5c892bfb",
+      "motionId": "21e06031ea95",
       "date": "2024-12-03",
       "meetingSlug": "months/2024-12/2024-12-03 1st Meeting of the Planning and Environment Committee",
       "itemNumber": "3.14",
@@ -4235,7 +3803,7 @@
       }
     },
     {
-      "motionId": "74487500a77e",
+      "motionId": "b9401a169e2e",
       "date": "2024-11-22",
       "meetingSlug": "months/2024-11/2024-11-22 6th Meeting of the Budget Committee - CONTINUATION",
       "itemNumber": "3.1",
@@ -4271,7 +3839,7 @@
       }
     },
     {
-      "motionId": "0eb6dbb4f683",
+      "motionId": "268379aca58d",
       "date": "2024-11-22",
       "meetingSlug": "months/2024-11/2024-11-22 6th Meeting of the Budget Committee - CONTINUATION",
       "itemNumber": "5.2",
@@ -4307,7 +3875,7 @@
       }
     },
     {
-      "motionId": "9df65c3786ae",
+      "motionId": "d43d88aa0a6b",
       "date": "2024-11-22",
       "meetingSlug": "months/2024-11/2024-11-22 6th Meeting of the Budget Committee - CONTINUATION",
       "itemNumber": "5.3",
@@ -4325,7 +3893,7 @@
       }
     },
     {
-      "motionId": "3c92e2f39f91",
+      "motionId": "0642b1c2e379",
       "date": "2024-11-22",
       "meetingSlug": "months/2024-11/2024-11-22 6th Meeting of the Budget Committee - CONTINUATION",
       "itemNumber": "5.3",
@@ -4343,7 +3911,7 @@
       }
     },
     {
-      "motionId": "27bfa07b12e8",
+      "motionId": "00c3c908ad85",
       "date": "2024-11-21",
       "meetingSlug": "months/2024-11/2024-11-21 6th Meeting of the Budget Committee",
       "itemNumber": "3.10",
@@ -4379,7 +3947,7 @@
       }
     },
     {
-      "motionId": "4d0ec4fb7020",
+      "motionId": "676704dcb291",
       "date": "2024-11-21",
       "meetingSlug": "months/2024-11/2024-11-21 6th Meeting of the Budget Committee",
       "itemNumber": "3.2",
@@ -4397,7 +3965,7 @@
       }
     },
     {
-      "motionId": "26cdb5305e9d",
+      "motionId": "ddfb03d60d1a",
       "date": "2024-11-21",
       "meetingSlug": "months/2024-11/2024-11-21 6th Meeting of the Budget Committee",
       "itemNumber": "3.2",
@@ -4415,7 +3983,7 @@
       }
     },
     {
-      "motionId": "94d59676c359",
+      "motionId": "272a9581e6fe",
       "date": "2024-11-21",
       "meetingSlug": "months/2024-11/2024-11-21 6th Meeting of the Budget Committee",
       "itemNumber": "3.2",
@@ -4433,7 +4001,7 @@
       }
     },
     {
-      "motionId": "71e79d9c22c4",
+      "motionId": "5db05122ece8",
       "date": "2024-11-21",
       "meetingSlug": "months/2024-11/2024-11-21 6th Meeting of the Budget Committee",
       "itemNumber": "3.2",
@@ -4451,7 +4019,7 @@
       }
     },
     {
-      "motionId": "af82a6e32283",
+      "motionId": "c19601a52a62",
       "date": "2024-11-21",
       "meetingSlug": "months/2024-11/2024-11-21 6th Meeting of the Budget Committee",
       "itemNumber": "3.4",
@@ -4487,7 +4055,7 @@
       }
     },
     {
-      "motionId": "92c1f8e0e1d3",
+      "motionId": "3210bc7212fa",
       "date": "2024-11-21",
       "meetingSlug": "months/2024-11/2024-11-21 6th Meeting of the Budget Committee",
       "itemNumber": "3.7",
@@ -4505,7 +4073,7 @@
       }
     },
     {
-      "motionId": "1df3f6daad40",
+      "motionId": "97d72395ebc4",
       "date": "2024-11-21",
       "meetingSlug": "months/2024-11/2024-11-21 6th Meeting of the Budget Committee",
       "itemNumber": "3.8",
@@ -4523,14 +4091,14 @@
       }
     },
     {
-      "motionId": "f3618d4109f7",
+      "motionId": "c280fcc8b5bc",
       "date": "2024-11-20",
       "meetingSlug": "months/2024-11/2024-11-20 17th Meeting of the Strategic Priorities and Policy Committee - CONTINUATION",
       "itemNumber": "4.5",
       "itemTitle": "Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis",
-      "kind": "axis",
+      "kind": "issue",
       "regex": {
-        "issue": "climate",
+        "issue": "transit",
         "axis": "application-approval",
         "valence": 1
       },
@@ -4590,24 +4158,6 @@
       },
       "llm": {
         "issue": "encampments",
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "998896f19c8a",
-      "date": "2024-11-12",
-      "meetingSlug": "months/2024-11/2024-11-12 17th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.4",
-      "itemTitle": "145 Base Line Road West (Z-9783)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
         "axis": null,
         "polarity": null
       }
@@ -4811,25 +4361,7 @@
       }
     },
     {
-      "motionId": "f6b15af2f61b",
-      "date": "2024-10-29",
-      "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.1",
-      "itemTitle": "Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update ",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "encampments",
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "0b282e309c77",
+      "motionId": "d7c823596621",
       "date": "2024-10-29",
       "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.2",
@@ -4847,7 +4379,7 @@
       }
     },
     {
-      "motionId": "d967c2653446",
+      "motionId": "bbe5ef70e744",
       "date": "2024-10-29",
       "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.3",
@@ -4865,7 +4397,7 @@
       }
     },
     {
-      "motionId": "3f770d25c82d",
+      "motionId": "67e74cc4c221",
       "date": "2024-10-22",
       "meetingSlug": "months/2024-10/2024-10-22 16th Meeting of the Planning and Environment Committee",
       "itemNumber": "3.5",
@@ -4874,7 +4406,7 @@
       "regex": {
         "issue": "housing",
         "axis": "application-approval",
-        "valence": 1
+        "valence": -1
       },
       "llm": {
         "issue": "housing",
@@ -4901,7 +4433,7 @@
       }
     },
     {
-      "motionId": "502fa7ef7498",
+      "motionId": "a8f79de0c7d3",
       "date": "2024-10-15",
       "meetingSlug": "months/2024-10/2024-10-15 16th Meeting of City Council",
       "itemNumber": "8.2.10",
@@ -4919,7 +4451,7 @@
       }
     },
     {
-      "motionId": "81992ec0e7e0",
+      "motionId": "9dd3ed0445e0",
       "date": "2024-09-24",
       "meetingSlug": "months/2024-09/2024-09-24 15th Meeting of City Council",
       "itemNumber": "8.6.4",
@@ -4937,7 +4469,7 @@
       }
     },
     {
-      "motionId": "b616e778e552",
+      "motionId": "df3b5a1d423a",
       "date": "2024-09-24",
       "meetingSlug": "months/2024-09/2024-09-24 15th Meeting of City Council",
       "itemNumber": "8.6.9",
@@ -4970,24 +4502,6 @@
         "issue": "housing",
         "axis": "use-permission",
         "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "0a74276ce449",
-      "date": "2024-09-10",
-      "meetingSlug": "months/2024-09/2024-09-10 14th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.4",
-      "itemTitle": "80 and 82 Base Line Road West (Z-9750) ",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "restrictive"
       }
     },
     {
@@ -5117,24 +4631,6 @@
       }
     },
     {
-      "motionId": "6876e0b0cc58",
-      "date": "2024-08-27",
-      "meetingSlug": "months/2024-08/2024-08-27 14th Meeting of City Council",
-      "itemNumber": "8.1.4",
-      "itemTitle": "(3.2) 553-557 Upper Queens Street (Z-9747) (Relates to Bill No. 288)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
-      }
-    },
-    {
       "motionId": "3ef06014fccf",
       "date": "2024-08-27",
       "meetingSlug": "months/2024-08/2024-08-27 14th Meeting of City Council",
@@ -5153,14 +4649,14 @@
       }
     },
     {
-      "motionId": "07f051a70bf5",
+      "motionId": "8b96be3d2891",
       "date": "2024-08-27",
       "meetingSlug": "months/2024-08/2024-08-27 14th Meeting of City Council",
       "itemNumber": "8.4.9",
       "itemTitle": "(4.2) Councillor H. McAlister - Update to the Hamilton Road Streetscape Master Plan",
-      "kind": "axis",
+      "kind": "issue",
       "regex": {
-        "issue": "bikes",
+        "issue": "budget",
         "axis": "application-approval",
         "valence": 1
       },
@@ -5168,24 +4664,6 @@
         "issue": "bikes",
         "axis": null,
         "polarity": null
-      }
-    },
-    {
-      "motionId": "6fab980660b0",
-      "date": "2024-08-13",
-      "meetingSlug": "months/2024-08/2024-08-13 12th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.9",
-      "itemTitle": "Not to be heard before 1:30 PM – 2060 Dundas Street (Z-9547)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
       }
     },
     {
@@ -5207,7 +4685,7 @@
       }
     },
     {
-      "motionId": "b682ed96bec6",
+      "motionId": "9ec6e89dab12",
       "date": "2024-07-23",
       "meetingSlug": "months/2024-07/2024-07-23 13th Meeting of City Council",
       "itemNumber": "8.1.6",
@@ -5225,7 +4703,7 @@
       }
     },
     {
-      "motionId": "ed337cbc08fb",
+      "motionId": "91d6ea081b23",
       "date": "2024-07-23",
       "meetingSlug": "months/2024-07/2024-07-23 13th Meeting of City Council",
       "itemNumber": "8.1.6",
@@ -5261,16 +4739,16 @@
       }
     },
     {
-      "motionId": "17559b89d384",
+      "motionId": "1c3f10a6a436",
       "date": "2024-07-23",
       "meetingSlug": "months/2024-07/2024-07-23 13th Meeting of City Council",
       "itemNumber": "8.1.8",
       "itemTitle": "(4.4) SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy",
       "kind": "issue",
       "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
+        "issue": "budget",
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "encampments",
@@ -5315,7 +4793,7 @@
       }
     },
     {
-      "motionId": "ab40867b5d0a",
+      "motionId": "ba010161117b",
       "date": "2024-07-23",
       "meetingSlug": "months/2024-07/2024-07-23 13th Meeting of City Council",
       "itemNumber": "8.4.14",
@@ -5351,25 +4829,25 @@
       }
     },
     {
-      "motionId": "451f2b3749d1",
+      "motionId": "bea14216ec40",
       "date": "2024-07-18",
       "meetingSlug": "months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.2",
       "itemTitle": "1st Report of the Strategic Opportunities Review Working Group (SORWG)",
-      "kind": "axis",
+      "kind": "issue",
       "regex": {
         "issue": "budget",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
-        "issue": "budget",
+        "issue": null,
         "axis": null,
         "polarity": null
       }
     },
     {
-      "motionId": "7fd1131d01ec",
+      "motionId": "3941f549d72a",
       "date": "2024-07-18",
       "meetingSlug": "months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.2",
@@ -5382,6 +4860,24 @@
       },
       "llm": {
         "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "ffcbee048965",
+      "date": "2024-07-18",
+      "meetingSlug": "months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "1st Report of the Strategic Opportunities Review Working Group (SORWG)",
+      "kind": "issue",
+      "regex": {
+        "issue": "climate",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
         "axis": null,
         "polarity": null
       }
@@ -5405,7 +4901,7 @@
       }
     },
     {
-      "motionId": "d19c37b398d4",
+      "motionId": "77d83b4180ff",
       "date": "2024-07-18",
       "meetingSlug": "months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.4",
@@ -5441,16 +4937,16 @@
       }
     },
     {
-      "motionId": "5fbfa7c6b7b7",
+      "motionId": "131b5caebf15",
       "date": "2024-07-18",
       "meetingSlug": "months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.4",
       "itemTitle": "SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy ",
       "kind": "issue",
       "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
+        "issue": "budget",
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "encampments",
@@ -5459,25 +4955,7 @@
       }
     },
     {
-      "motionId": "bb6ac8af503d",
-      "date": "2024-06-25",
-      "meetingSlug": "months/2024-06/2024-06-25 12th Meeting of City Council",
-      "itemNumber": "8.2.3",
-      "itemTitle": "(2.2) Master Accommodation Plan - Redevelopment of City Hall Campus",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "downtown",
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "352073fe24b3",
+      "motionId": "742887888895",
       "date": "2024-06-25",
       "meetingSlug": "months/2024-06/2024-06-25 12th Meeting of City Council",
       "itemNumber": "8.3.13",
@@ -5495,7 +4973,7 @@
       }
     },
     {
-      "motionId": "f722cfd9fb10",
+      "motionId": "c711b2cdae09",
       "date": "2024-06-25",
       "meetingSlug": "months/2024-06/2024-06-25 12th Meeting of City Council",
       "itemNumber": "8.3.14",
@@ -5513,7 +4991,7 @@
       }
     },
     {
-      "motionId": "dd905ee3c418",
+      "motionId": "ecbe45bd3014",
       "date": "2024-06-25",
       "meetingSlug": "months/2024-06/2024-06-25 12th Meeting of City Council",
       "itemNumber": "8.3.15",
@@ -5549,7 +5027,7 @@
       }
     },
     {
-      "motionId": "34976a1a54fe",
+      "motionId": "a806722d5fb1",
       "date": "2024-06-25",
       "meetingSlug": "months/2024-06/2024-06-25 12th Meeting of City Council",
       "itemNumber": "8.3.15",
@@ -5585,19 +5063,19 @@
       }
     },
     {
-      "motionId": "72280213a85e",
+      "motionId": "2c8cdef6cf64",
       "date": "2024-06-18",
       "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.1",
       "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
-      "kind": "axis",
+      "kind": "issue",
       "regex": {
         "issue": "encampments",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
-        "issue": "encampments",
+        "issue": null,
         "axis": null,
         "polarity": null
       }
@@ -5621,37 +5099,19 @@
       }
     },
     {
-      "motionId": "6c435c184251",
-      "date": "2024-06-18",
-      "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.1",
-      "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
-      "kind": "axis",
-      "regex": {
-        "issue": "encampments",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "encampments",
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "a0899f595ca6",
+      "motionId": "e03132effb0b",
       "date": "2024-06-18",
       "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.1",
       "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
       "kind": "issue",
       "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
+        "issue": "encampments",
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
-        "issue": "encampments",
+        "issue": null,
         "axis": null,
         "polarity": null
       }
@@ -5667,24 +5127,6 @@
         "issue": "encampments",
         "axis": "application-approval",
         "valence": 1
-      },
-      "llm": {
-        "issue": "encampments",
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "a8ea434f40d5",
-      "date": "2024-06-18",
-      "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.2",
-      "itemTitle": "Basic Needs Response Plan",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
       },
       "llm": {
         "issue": "encampments",
@@ -5747,75 +5189,21 @@
       }
     },
     {
-      "motionId": "768ee01c15a5",
+      "motionId": "d2101785a434",
       "date": "2024-06-04",
       "meetingSlug": "months/2024-06/2024-06-04 11th Meeting of City Council",
-      "itemNumber": "8.4.11",
-      "itemTitle": "(3.6) 193-199 College Avenue (OZ-8693)",
+      "itemNumber": "8.2.16",
+      "itemTitle": "(4.1) Transit, Road Network and Active Transportation Planning for West London – Councillor S. Trosow",
       "kind": "axis",
       "regex": {
-        "issue": "housing",
+        "issue": "transit",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "53c7cfe398f9",
-      "date": "2024-06-04",
-      "meetingSlug": "months/2024-06/2024-06-04 11th Meeting of City Council",
-      "itemNumber": "8.4.8",
-      "itemTitle": "(3.3) 743 Wellington Road (Z-9720)(Relates to Bill No. 205)",
-      "kind": "issue",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": null,
+        "issue": "transit",
         "axis": null,
         "polarity": null
-      }
-    },
-    {
-      "motionId": "895b8202a9e6",
-      "date": "2024-06-04",
-      "meetingSlug": "months/2024-06/2024-06-04 11th Meeting of City Council",
-      "itemNumber": "8.5.8",
-      "itemTitle": "(2.3) Expropriation of Lands - Wellington Gateway Project - Clark's Bridge Civil Works (Relates to Bill No. 188)",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "transit-service",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "3991d33dbbbe",
-      "date": "2024-05-27",
-      "meetingSlug": "months/2024-05/2024-05-27 10th Meeting of the Corporate Services Committee",
-      "itemNumber": "2.3",
-      "itemTitle": "Expropriation of Lands - Wellington Gateway Project - Clark's Bridge Civil Works",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "transit-service",
-        "polarity": "expansive"
       }
     },
     {
@@ -5837,34 +5225,52 @@
       }
     },
     {
-      "motionId": "90385271a27f",
-      "date": "2024-05-22",
-      "meetingSlug": "months/2024-05/2024-05-22 8th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.3",
-      "itemTitle": "743 Wellington Road (Z-9720)",
-      "kind": "axis",
+      "motionId": "f9ebacce9b40",
+      "date": "2024-05-14",
+      "meetingSlug": "months/2024-05/2024-05-14 10th Meeting of City Council",
+      "itemNumber": "8.2.7",
+      "itemTitle": "(2.5) Core Area Parking Incentives Extension ",
+      "kind": "issue",
       "regex": {
-        "issue": "housing",
+        "issue": "downtown",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
-        "issue": "housing",
+        "issue": null,
         "axis": null,
         "polarity": null
       }
     },
     {
-      "motionId": "6b28a5a67b85",
+      "motionId": "bcb96f197f9b",
+      "date": "2024-05-14",
+      "meetingSlug": "months/2024-05/2024-05-14 10th Meeting of City Council",
+      "itemNumber": "8.2.7",
+      "itemTitle": "(2.5) Core Area Parking Incentives Extension ",
+      "kind": "issue",
+      "regex": {
+        "issue": "downtown",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "fa81d1038167",
       "date": "2024-05-14",
       "meetingSlug": "months/2024-05/2024-05-14 10th Meeting of City Council",
       "itemNumber": "8.3.6",
       "itemTitle": "(2.5) Contract Award: Tender No. RFT-2024-094 - Wellington Gateway and Municipal Infrastructure Improvements Phase 4 - Harlech Gate to Wellington Commons Entrance",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
+        "issue": "transit",
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "transit",
@@ -5873,7 +5279,7 @@
       }
     },
     {
-      "motionId": "cddd1bf98620",
+      "motionId": "1728c9fc3739",
       "date": "2024-05-14",
       "meetingSlug": "months/2024-05/2024-05-14 10th Meeting of City Council",
       "itemNumber": "8.4.8",
@@ -5891,7 +5297,7 @@
       }
     },
     {
-      "motionId": "6e35af7bb7de",
+      "motionId": "5d8cbf4966ee",
       "date": "2024-05-14",
       "meetingSlug": "months/2024-05/2024-05-14 10th Meeting of City Council",
       "itemNumber": "8.5.11",
@@ -5963,7 +5369,7 @@
       }
     },
     {
-      "motionId": "c27e967fda33",
+      "motionId": "278ca6f36998",
       "date": "2024-04-23",
       "meetingSlug": "months/2024-04/2024-04-23 9th Meeting of City Council",
       "itemNumber": "8.1.5",
@@ -5996,24 +5402,6 @@
         "issue": "housing",
         "axis": null,
         "polarity": null
-      }
-    },
-    {
-      "motionId": "6e54e9c40a61",
-      "date": "2024-04-23",
-      "meetingSlug": "months/2024-04/2024-04-23 9th Meeting of City Council",
-      "itemNumber": "8.2.6",
-      "itemTitle": "(2.1) Expropriation of Lands - East London Link Project Phase 4 (Relates to Bill No. 134)",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "transit-service",
-        "polarity": "expansive"
       }
     },
     {
@@ -6071,7 +5459,7 @@
       }
     },
     {
-      "motionId": "d1fc73f17bb5",
+      "motionId": "6f3b957830c2",
       "date": "2024-04-23",
       "meetingSlug": "months/2024-04/2024-04-23 9th Meeting of City Council",
       "itemNumber": "8.4.5",
@@ -6107,7 +5495,7 @@
       }
     },
     {
-      "motionId": "e294e35cf969",
+      "motionId": "b1e1d2fe8866",
       "date": "2024-04-16",
       "meetingSlug": "months/2024-04/2024-04-16 9th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "5.1",
@@ -6125,7 +5513,7 @@
       }
     },
     {
-      "motionId": "e1ef578436ff",
+      "motionId": "407d903108b1",
       "date": "2024-04-16",
       "meetingSlug": "months/2024-04/2024-04-16 9th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "5.1",
@@ -6140,24 +5528,6 @@
         "issue": "transit",
         "axis": null,
         "polarity": null
-      }
-    },
-    {
-      "motionId": "9496bc59ad3b",
-      "date": "2024-04-15",
-      "meetingSlug": "months/2024-04/2024-04-15 7th Meeting of the Corporate Services Committee",
-      "itemNumber": "2.1",
-      "itemTitle": "Expropriation of Lands - East London Link Project Phase 4",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "transit-service",
-        "polarity": "expansive"
       }
     },
     {
@@ -6215,24 +5585,6 @@
       }
     },
     {
-      "motionId": "a15f6fd3d7c1",
-      "date": "2024-03-26",
-      "meetingSlug": "months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.3",
-      "itemTitle": "London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan",
-      "kind": "axis",
-      "regex": {
-        "issue": "encampments",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "encampments",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
       "motionId": "b43302aa12d3",
       "date": "2024-03-26",
       "meetingSlug": "months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee",
@@ -6251,7 +5603,7 @@
       }
     },
     {
-      "motionId": "8a00c1abc737",
+      "motionId": "9a892d844d78",
       "date": "2024-03-19",
       "meetingSlug": "months/2024-03/2024-03-19 5th Meeting of the Planning and Environment Committee",
       "itemNumber": "3.9",
@@ -6305,7 +5657,7 @@
       }
     },
     {
-      "motionId": "fb01e95ff537",
+      "motionId": "045bca718ebf",
       "date": "2024-03-05",
       "meetingSlug": "months/2024-03/2024-03-05 6th Special Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "2.1",
@@ -6377,24 +5729,6 @@
       }
     },
     {
-      "motionId": "8e80a032315e",
-      "date": "2024-03-05",
-      "meetingSlug": "months/2024-03/2024-03-05 6th Meeting of City Council",
-      "itemNumber": "8.2.8",
-      "itemTitle": "(3.3) 1494 Commissioners Road West (Z-9689)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": -1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "restrictive"
-      }
-    },
-    {
       "motionId": "771dced03d96",
       "date": "2024-03-05",
       "meetingSlug": "months/2024-03/2024-03-05 6th Meeting of City Council",
@@ -6431,7 +5765,7 @@
       }
     },
     {
-      "motionId": "da942ff268c5",
+      "motionId": "01a2ed8dac95",
       "date": "2024-02-29",
       "meetingSlug": "months/2024-02/2024-02-29 5th Special Meeting of City Council",
       "itemNumber": "8.2.14",
@@ -6449,7 +5783,7 @@
       }
     },
     {
-      "motionId": "d04c8437d08a",
+      "motionId": "f329694d1226",
       "date": "2024-02-29",
       "meetingSlug": "months/2024-02/2024-02-29 5th Special Meeting of City Council",
       "itemNumber": "8.2.15",
@@ -6557,7 +5891,7 @@
       }
     },
     {
-      "motionId": "d1f3ee728f3f",
+      "motionId": "b0a5846fa9db",
       "date": "2024-02-29",
       "meetingSlug": "months/2024-02/2024-02-29 5th Special Meeting of City Council",
       "itemNumber": "8.2.27",
@@ -6575,7 +5909,7 @@
       }
     },
     {
-      "motionId": "144de0256e81",
+      "motionId": "7329cb0af63a",
       "date": "2024-02-29",
       "meetingSlug": "months/2024-02/2024-02-29 5th Special Meeting of City Council",
       "itemNumber": "8.2.39",
@@ -6593,7 +5927,7 @@
       }
     },
     {
-      "motionId": "8e7850541a74",
+      "motionId": "fac9c011ec89",
       "date": "2024-02-29",
       "meetingSlug": "months/2024-02/2024-02-29 5th Special Meeting of City Council",
       "itemNumber": "8.2.40",
@@ -6611,25 +5945,7 @@
       }
     },
     {
-      "motionId": "d9c48e6e3305",
-      "date": "2024-02-21",
-      "meetingSlug": "months/2024-02/2024-02-21 4th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.3",
-      "itemTitle": "1494 Commissioners Road West (Z-9689) ",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": -1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "restrictive"
-      }
-    },
-    {
-      "motionId": "895f5c0e60bf",
+      "motionId": "92217c9fca3b",
       "date": "2024-02-15",
       "meetingSlug": "months/2024-02/2024-02-15 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.29",
@@ -6637,8 +5953,8 @@
       "kind": "issue",
       "regex": {
         "issue": "budget",
-        "axis": "business-case",
-        "valence": 1
+        "axis": "levy-size",
+        "valence": -1
       },
       "llm": {
         "issue": "policing",
@@ -6647,7 +5963,7 @@
       }
     },
     {
-      "motionId": "e04485a58340",
+      "motionId": "f5672a0e9141",
       "date": "2024-02-15",
       "meetingSlug": "months/2024-02/2024-02-15 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.30",
@@ -6665,7 +5981,7 @@
       }
     },
     {
-      "motionId": "a57653d98267",
+      "motionId": "d424faa3a4c9",
       "date": "2024-02-15",
       "meetingSlug": "months/2024-02/2024-02-15 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.31",
@@ -6683,7 +5999,7 @@
       }
     },
     {
-      "motionId": "80f6a7928e06",
+      "motionId": "04664b9f96a1",
       "date": "2024-02-15",
       "meetingSlug": "months/2024-02/2024-02-15 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.33",
@@ -6755,7 +6071,7 @@
       }
     },
     {
-      "motionId": "53f935622223",
+      "motionId": "ab96c21a81e0",
       "date": "2024-02-15",
       "meetingSlug": "months/2024-02/2024-02-15 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.35",
@@ -6791,7 +6107,7 @@
       }
     },
     {
-      "motionId": "72b3ab93faa6",
+      "motionId": "aa2652715eaf",
       "date": "2024-02-15",
       "meetingSlug": "months/2024-02/2024-02-15 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.36",
@@ -6809,7 +6125,7 @@
       }
     },
     {
-      "motionId": "177cfd5d018a",
+      "motionId": "4d51d4c7f3fa",
       "date": "2024-02-15",
       "meetingSlug": "months/2024-02/2024-02-15 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.36",
@@ -6845,7 +6161,7 @@
       }
     },
     {
-      "motionId": "8e763b019770",
+      "motionId": "370948fd7769",
       "date": "2024-02-13",
       "meetingSlug": "months/2024-02/2024-02-13 4th Meeting of City Council",
       "itemNumber": "8.2.6",
@@ -6853,8 +6169,8 @@
       "kind": "axis",
       "regex": {
         "issue": "transit",
-        "axis": null,
-        "valence": null
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "transit",
@@ -6917,7 +6233,7 @@
       }
     },
     {
-      "motionId": "2912a98612a9",
+      "motionId": "c9f276f22cbc",
       "date": "2024-02-08",
       "meetingSlug": "months/2024-02/2024-02-08 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.22",
@@ -6935,7 +6251,7 @@
       }
     },
     {
-      "motionId": "ef683a15b5d8",
+      "motionId": "26a1844b1671",
       "date": "2024-02-08",
       "meetingSlug": "months/2024-02/2024-02-08 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.23",
@@ -6953,7 +6269,7 @@
       }
     },
     {
-      "motionId": "a918d21c4027",
+      "motionId": "8c93827f87c3",
       "date": "2024-02-08",
       "meetingSlug": "months/2024-02/2024-02-08 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.24",
@@ -6971,7 +6287,7 @@
       }
     },
     {
-      "motionId": "a3c030825aad",
+      "motionId": "cdc1ceab9315",
       "date": "2024-02-08",
       "meetingSlug": "months/2024-02/2024-02-08 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.25",
@@ -6989,7 +6305,7 @@
       }
     },
     {
-      "motionId": "133aa878a5f9",
+      "motionId": "604e3b7c6552",
       "date": "2024-02-08",
       "meetingSlug": "months/2024-02/2024-02-08 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.27",
@@ -7007,7 +6323,7 @@
       }
     },
     {
-      "motionId": "f2cf4734bd07",
+      "motionId": "cb27cd682442",
       "date": "2024-02-08",
       "meetingSlug": "months/2024-02/2024-02-08 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.27",
@@ -7025,7 +6341,7 @@
       }
     },
     {
-      "motionId": "a8ac3811346c",
+      "motionId": "e075baf71ae2",
       "date": "2024-02-08",
       "meetingSlug": "months/2024-02/2024-02-08 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.28",
@@ -7205,7 +6521,7 @@
       }
     },
     {
-      "motionId": "bf5522ed9356",
+      "motionId": "643807483f90",
       "date": "2024-02-02",
       "meetingSlug": "months/2024-02/2024-02-02 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.18",
@@ -7241,7 +6557,7 @@
       }
     },
     {
-      "motionId": "a0bf252ed958",
+      "motionId": "9ae4b2d5a23c",
       "date": "2024-02-02",
       "meetingSlug": "months/2024-02/2024-02-02 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.20",
@@ -7295,7 +6611,7 @@
       }
     },
     {
-      "motionId": "d5fa217f8256",
+      "motionId": "62fa897ab9ac",
       "date": "2024-02-02",
       "meetingSlug": "months/2024-02/2024-02-02 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.7",
@@ -7331,7 +6647,7 @@
       }
     },
     {
-      "motionId": "963955b57ac0",
+      "motionId": "2158fadf169c",
       "date": "2024-02-02",
       "meetingSlug": "months/2024-02/2024-02-02 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
       "itemNumber": "3.9",
@@ -7367,16 +6683,16 @@
       }
     },
     {
-      "motionId": "9c935b12814a",
+      "motionId": "7675c9f2dbb2",
       "date": "2024-01-23",
       "meetingSlug": "months/2024-01/2024-01-23 2nd Meeting of City Council",
       "itemNumber": "8.5.11",
       "itemTitle": "(5.2) Green Development Standards ",
       "kind": "issue",
       "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "climate",
@@ -7403,7 +6719,7 @@
       }
     },
     {
-      "motionId": "f4915939f4bf",
+      "motionId": "5f0586a3bef4",
       "date": "2023-12-19",
       "meetingSlug": "months/2023-12/2023-12-19 1st Meeting of City Council",
       "itemNumber": "8.6.11",
@@ -7439,7 +6755,7 @@
       }
     },
     {
-      "motionId": "bddbeda7ffc6",
+      "motionId": "e4814471b03d",
       "date": "2023-12-12",
       "meetingSlug": "months/2023-12/2023-12-12 2nd Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.1",
@@ -7457,25 +6773,7 @@
       }
     },
     {
-      "motionId": "14c78f03d36d",
-      "date": "2023-12-06",
-      "meetingSlug": "months/2023-12/2023-12-06 1st Special Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "2.1",
-      "itemTitle": "Recruitment, Retention and Accommodation of Planning & Development and Building Staff",
-      "kind": "axis",
-      "regex": {
-        "issue": "budget",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "budget",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "8358c3f069f0",
+      "motionId": "04bc4bff4918",
       "date": "2023-11-28",
       "meetingSlug": "months/2023-11/2023-11-28 20th Meeting of City Council",
       "itemNumber": "8.2.8",
@@ -7493,7 +6791,7 @@
       }
     },
     {
-      "motionId": "ce8894a6af55",
+      "motionId": "707b06bd286d",
       "date": "2023-11-21",
       "meetingSlug": "months/2023-11/2023-11-21 27th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "2.4",
@@ -7511,7 +6809,7 @@
       }
     },
     {
-      "motionId": "c4485e215486",
+      "motionId": "55110499fa1e",
       "date": "2023-11-13",
       "meetingSlug": "months/2023-11/2023-11-13 18th Meeting of the Planning and Environment Committee",
       "itemNumber": "3.5",
@@ -7583,6 +6881,24 @@
       }
     },
     {
+      "motionId": "f2abbc918004",
+      "date": "2023-10-31",
+      "meetingSlug": "months/2023-10/2023-10-31 26th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "City of London's Response to Housing and Homelessness - Councillors S. Stevenson and J. Pribil",
+      "kind": "axis",
+      "regex": {
+        "issue": "encampments",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "96e340402382",
       "date": "2023-10-24",
       "meetingSlug": "months/2023-10/2023-10-24 The 15th Meeting of the Civic Works Committee",
@@ -7637,7 +6953,7 @@
       }
     },
     {
-      "motionId": "c0e0eab57589",
+      "motionId": "8ab96e158b0c",
       "date": "2023-10-10",
       "meetingSlug": "months/2023-10/2023-10-10 25th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.4",
@@ -7688,60 +7004,6 @@
         "issue": "housing",
         "axis": null,
         "polarity": null
-      }
-    },
-    {
-      "motionId": "4037a55399f5",
-      "date": "2023-10-05",
-      "meetingSlug": "months/2023-10/2023-10-05 16th Special Meeting of City Council",
-      "itemNumber": "8.1.3",
-      "itemTitle": "(4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)",
-      "kind": "axis",
-      "regex": {
-        "issue": "encampments",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "encampments",
-        "axis": "response-scale",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "b2dde1dcadf6",
-      "date": "2023-10-05",
-      "meetingSlug": "months/2023-10/2023-10-05 16th Special Meeting of City Council",
-      "itemNumber": "8.1.3",
-      "itemTitle": "(4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "encampments",
-        "axis": "response-scale",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "9ad96d84c066",
-      "date": "2023-10-05",
-      "meetingSlug": "months/2023-10/2023-10-05 16th Special Meeting of City Council",
-      "itemNumber": "8.1.3",
-      "itemTitle": "(4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "encampments",
-        "axis": "response-scale",
-        "polarity": "expansive"
       }
     },
     {
@@ -7871,7 +7133,7 @@
       }
     },
     {
-      "motionId": "5db2c0e2b63f",
+      "motionId": "3dc87e1cadff",
       "date": "2023-10-05",
       "meetingSlug": "months/2023-10/2023-10-05 16th Special Meeting of City Council",
       "itemNumber": "8.1.3",
@@ -7915,24 +7177,6 @@
       "kind": "issue",
       "regex": {
         "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "encampments",
-        "axis": "response-scale",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "5a5cbb0b8836",
-      "date": "2023-09-25",
-      "meetingSlug": "months/2023-09/2023-09-25 23rd Special Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.2",
-      "itemTitle": "Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results",
-      "kind": "axis",
-      "regex": {
-        "issue": "encampments",
         "axis": null,
         "valence": null
       },
@@ -8051,7 +7295,7 @@
       }
     },
     {
-      "motionId": "187527fc77b7",
+      "motionId": "a5ad4d139512",
       "date": "2023-07-25",
       "meetingSlug": "months/2023-07/2023-07-25 13th Meeting of City Council",
       "itemNumber": "8.5.16",
@@ -8087,7 +7331,7 @@
       }
     },
     {
-      "motionId": "8fb0cfa6e7c6",
+      "motionId": "99e3dd28c53e",
       "date": "2023-07-17",
       "meetingSlug": "months/2023-07/2023-07-17 12th Meeting of the Planning and Environment Committee",
       "itemNumber": "4.2",
@@ -8159,24 +7403,6 @@
       }
     },
     {
-      "motionId": "ed7c57811970",
-      "date": "2023-06-19",
-      "meetingSlug": "months/2023-06/2023-06-19 11th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.4",
-      "itemTitle": "755, 785 & 815 Wonderland Road South (OZ-9565)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
-      }
-    },
-    {
       "motionId": "8d37e0c503bc",
       "date": "2023-06-12",
       "meetingSlug": "months/2023-06/2023-06-12 10th Meeting of the Planning and Environment Committee",
@@ -8231,7 +7457,7 @@
       }
     },
     {
-      "motionId": "93cf1341956d",
+      "motionId": "a6f45e920673",
       "date": "2023-05-30",
       "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "2.2",
@@ -8246,24 +7472,6 @@
         "issue": "downtown",
         "axis": "application-approval",
         "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "0f1b08e86421",
-      "date": "2023-05-30",
-      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.3",
-      "itemTitle": "Request for Business Cases for the Multi-Year Budget",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "budget",
-        "axis": null,
-        "polarity": null
       }
     },
     {
@@ -8483,7 +7691,7 @@
       }
     },
     {
-      "motionId": "7346985bd070",
+      "motionId": "a72a219550ae",
       "date": "2023-02-14",
       "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
       "itemNumber": "8.2.6",
@@ -8491,8 +7699,8 @@
       "kind": "axis",
       "regex": {
         "issue": "transit",
-        "axis": null,
-        "valence": null
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "transit",
@@ -8501,7 +7709,7 @@
       }
     },
     {
-      "motionId": "e9bc755a8186",
+      "motionId": "2b8601e1e24e",
       "date": "2023-01-31",
       "meetingSlug": "months/2023-01/2023-01-31 The 3rd Meeting of the Civic Works Committee",
       "itemNumber": "2.5",
@@ -8509,8 +7717,8 @@
       "kind": "axis",
       "regex": {
         "issue": "transit",
-        "axis": null,
-        "valence": null
+        "axis": "application-approval",
+        "valence": 1
       },
       "llm": {
         "issue": "transit",
@@ -8609,21 +7817,21 @@
       }
     },
     {
-      "motionId": "b7f876655a41",
+      "motionId": "200a761d274a",
       "date": "2023-01-26",
       "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
       "itemNumber": "4.3",
       "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-      "kind": "axis",
+      "kind": "issue",
       "regex": {
         "issue": "budget",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
-        "issue": "budget",
-        "axis": "levy-size",
-        "polarity": "expansive"
+        "issue": null,
+        "axis": null,
+        "polarity": null
       }
     },
     {

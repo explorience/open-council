@@ -1,512 +1,512 @@
 [
-  {
-    "id": "3c736ddcbc9b",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Requested that the Mayor and Councillor A. Hopkins advocate, through the Ontario Big City Mayors Caucus and the Association of Municipalities of Ontario, for a province-wide deposit-return program for non-alcoholic beverage containers.",
-    "confidence": "high",
-    "quote": "",
-    "flags": []
-  },
-  {
-    "id": "70881ca02a83",
-    "issue": "climate",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved and authorized execution of the Green Municipal Fund grant agreement with the Federation of Canadian Municipalities, funding a project to enhance London's resilience through climate adaptation planning.",
-    "confidence": "high",
-    "quote": "APPROVE the Revised Green Municipal Fund Grant Agreement, LLCA-25-0822, (“Agreement”) between the Federation of Canadian Municipalities (“FCM”) and The Corporation of the City of London for the provision of funding for a project to enhance London’s resilience through climate adaptation planning",
-    "flags": []
-  },
-  {
-    "id": "848fa277291a",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Accepted the low tender bid from Bre-Ex Construction Inc. and approved financing and contract administration for the Wellington Gateway and Municipal Infrastructure Improvements Phase 2B construction contract (Base Line Road to Watson Street).",
-    "confidence": "medium",
-    "quote": "",
-    "flags": []
-  },
-  {
-    "id": "fd673760d5df",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing a zoning by-law amendment for 1837 Churchill Avenue to rezone the property from Neighbourhood Facility and Residential R2 zones to a Neighbourhood Facility Special Provision zone, permitting an addition to the existing building.",
-    "confidence": "high",
-    "quote": "the proposed by-law as appended to the staff report dated June 9, 2026, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Neighbourhood Facility (NF) Zone and Residential R2 (R2-3) Zone, TO a Neighbourhood Facility Special Provision (NF(_)) Zone",
-    "flags": []
-  },
-  {
-    "id": "81fffe30d22a",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing a zoning by-law amendment for 36 Wethered Street to rezone the property from a Residential R1 (low-density, single-detached) zone to a Holding Residential R5 (higher-density) Special Provision zone, permitting more intensive redevelopment.",
-    "confidence": "high",
-    "quote": "to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone TO a Holding Residential R5 Special Provision (h-6*R5-4(_)) Zone",
-    "flags": []
-  },
-  {
-    "id": "06a1d24743c5",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved part c) of the 929 Cheapside Street rezoning motion (as amended to add a public site plan process), directing the Site Plan Approval Authority to consider specific design issues -- relocating a paratransit lay-by, a landscape buffer, and integrating a nearby transit stop -- through the site plan process.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "wrapper_preamble",
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "ba89238687fa",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved part a) of the 929 Cheapside Street rezoning motion, introducing a zoning by-law amendment to rezone the property from Convenience Commercial and Residential R1 (low-density) zones to a Residential R9 (higher-density) Special Provision zone.",
-    "confidence": "high",
-    "quote": "the proposed by-law as appended to the staff report dated June 9, 2026, Appendix \"A\" BE INTRODUCED... to change the zoning of the subject property FROM a Convenience Commercial Special Provision (CC1(2)) Zone and a Residential R1 (R1-5) Zone TO a Residential R9 Special Provision (R9-7(_)*H21) Zone",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "1355dc9115e0",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved part c) of the Duluth Crescent affordable-housing land motion, directing Civic Administration to work with the proponent to submit Planning Act applications supporting an increase in permitted density on the site from 71 to 107 units per hectare.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to work with the proponent to submit necessary Planning Act applications to support an increase in density from 71 units per hectare to 107 units per hectare",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "4fb2d8b0e1f8",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Voted to have Council formally convene as the Expropriations Act Approving Authority to consider a communication regarding the Wellington Gateway Project Civil Works Phase 2 expropriation.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "33385b93a872",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Acting as Approving Authority under the Expropriations Act, approved the expropriation of lands required for the Wellington Gateway Project and directed that a certificate of approval be issued.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": []
-  },
-  {
-    "id": "71326061fe44",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Introduced the by-law to expropriate the Wellington Gateway Project Phase 3 lands and directed Civic Administration and the City Clerk to complete the required plans, signatures, and notices to carry out the expropriation.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "e2146aa78193",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Voted to refer the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting.",
-    "confidence": "high",
-    "quote": "the application of Westdell Development Corporation... relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a future meeting of the Planning and Environment Committee to allow the applicant to consider the consolidation of additional lands to the subject property",
-    "flags": [
-      "referral"
-    ]
-  },
-  {
-    "id": "81d184dc75f1",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved reordering the Infrastructure and Corporate Services Committee's consent agenda so that item 2.7 would be considered before item 2.1.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "92917bf8c454",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved the 2027 annual Standing Committee meeting calendar as presented by the City Clerk.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "36b5c4b3a4a4",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Moved to amend the 2027 meeting-calendar motion by directing Civic Administration to bring forward a Council Procedure By-law amendment removing the scheduled meeting-free weeks in April, May, July, and August; this amendment failed.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "fffc06d5f355",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved introducing a by-law establishing a pilot project permitting electric kick-scooters in London through the end of the provincial pilot (November 27, 2029) and repealing the prior Electric Kick-Scooter and Cargo Power-Assisted Bicycle By-law.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": []
-  },
-  {
-    "id": "8cdc065e1587",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to report back to Committee and Council in May 2027 with an update on the use of e-scooters in London.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "06a752a337a2",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing Official Plan and zoning by-law amendments for 945 Bluegrass Drive to add a site-specific policy and holding provision enabling the proposed long-term-care development.",
-    "confidence": "medium",
-    "quote": "the proposed by-law as appended to the staff report dated May 5, 2026, as Appendix \"A\" BE INTRODUCED... to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Neighbourhoods Place Type and by ADDING the lands to Map 7",
-    "flags": []
-  },
-  {
-    "id": "91eb206075d8",
-    "issue": "encampments",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Endorsed the London and Middlesex Housing Stability Action Plan (2026-2031), the city's homeless prevention and housing plan, and directed its submission to the Ministry of Municipal Affairs and Housing and circulation to community partners.",
-    "confidence": "medium",
-    "quote": "the Housing Stability Action Plan (2026-2031), as outlined in the report titled ‘London and Middlesex Housing Stability Action Plan 2026-2031 as appended to the above-noted staff report, BE ENDORSED substantially in the form of the document",
-    "flags": []
-  },
-  {
-    "id": "931f44888a31",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved introducing by-laws establishing an electric kick-scooter pilot project and amending the Administrative Monetary Penalty System by-law, and directed a report back in May 2027 on e-scooter use.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "12aa70133162",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing Official Plan and zoning by-law amendments for 945 Bluegrass Drive to add a site-specific policy and holding provision enabling the proposed long-term-care development.",
-    "confidence": "medium",
-    "quote": "the proposed by-law as appended to the staff report dated May 5, 2026, as Appendix \"A\" BE INTRODUCED... to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Neighbourhoods Place Type and by ADDING the lands to Map 7",
-    "flags": []
-  },
-  {
-    "id": "d7eeb48f9dea",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing a by-law establishing new Housing Accelerator Fund incentive programs -- a temporary waiver of building permit fees and an Additional Residential Unit construction grant -- for new home construction.",
-    "confidence": "high",
-    "quote": "a proposed by-law BE INTRODUCED... to amend By-law No. C.P. 1596-87... by: i) establishing the Temporary Waiving of Building Permit Fees financial incentive program... ii) establishing the Additional Residential Unit Construction Grant for New Home Construction financial incentive program",
-    "flags": []
-  },
-  {
-    "id": "b1f7d7ab0e58",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed the London Transit Commission to review a set of Rapid Transit opportunities -- fare collection, vehicle specifications, branding, and station enhancements -- and report back to Council on implementation by Q4 2026.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "9a69bd3efefd",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to explore and report back, by the end of Q1 2027, on the feasibility of establishing a Tenant Assistance and Relocation Program for the City of London.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "5d3409f3524d",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved part e) of the Tolpuddle Co-operative motion, directing Civic Administration to report back to Council on the progress of the housing co-op's capital and operational Transition Plan in Q4 2026.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "wrapper_preamble",
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "279715ad9723",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved adding partial or full development-charge rebate options for new residential development as one of the items Civic Administration must include when it reports back to Council with options to quickly incentivize housing activity within the remaining Housing Accelerator Fund window.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "wrapper_preamble",
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "66bf8d51dc0f",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to report back to Council with options to quickly incentivize housing activity within the remaining Housing Accelerator Fund window, together with a Housing Accelerator Fund mid-year update, and received the March 24, 2026 staff report for information.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "f8f62b5705f0",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the motion so that Civic Administration's report on Affordable Home Ownership Incentive Program options would come back to the Strategic Priorities and Policy Committee.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "95f8191a78cd",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved hearing a delegation request from J. Ross, Director, Project Manager, Development Engineering (London) Limited, at that point in the meeting.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "991b5bed9ca3",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved introducing the revised Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination) by-law and directed a review and update of related policies, procedures, and web content.",
-    "confidence": "high",
-    "quote": "",
-    "flags": []
-  },
-  {
-    "id": "1a0ad771e08d",
-    "issue": "climate",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing a by-law for the final BetterHomes London program design, approving the property owner agreement and local improvement charge by-law templates used to finance residential energy-efficiency and water-conservation retrofits.",
-    "confidence": "medium",
-    "quote": "APPROVE the Template for a Property Owner Agreement, attached as ‘Schedule 1’, between the City of London and the property owner outlining the terms of the financing loan and, if applicable, program incentives being offered",
-    "flags": []
-  },
-  {
-    "id": "b076ce02bb71",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Moved to direct Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program; this motion failed.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "783f30d0d41f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Moved to amend the Smart Commute London recommendation to authorize the Deputy City Manager of Environment and Infrastructure to approve and execute the upcoming Smart Commute MOU Amendment and Extension Agreement and future Smart Commute Association MOUs; this amendment failed on a tie vote.",
-    "confidence": "high",
-    "quote": "",
-    "flags": []
-  },
-  {
-    "id": "e43644a0f1a8",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved authorizing the Deputy City Manager of Environment and Infrastructure to approve and execute the upcoming Smart Commute MOU Amendment and Extension Agreement and future Smart Commute Association MOUs.",
-    "confidence": "high",
-    "quote": "",
-    "flags": []
-  },
-  {
-    "id": "c3872ca7bdb7",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to report back on policy-compliant actions to support increased participation of local and regional food producers and processors in food sourcing for City-managed facilities.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "fbf783cadc53",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Voted on a combined recommendation for 929 Cheapside Street that would have introduced a rezoning to Residential R9 while refusing the applicant's requested special provisions (reduced setbacks/parking, higher lot coverage) as too intense for the site, and required a public site plan process; the combined motion failed.",
-    "confidence": "low",
-    "quote": "",
-    "flags": []
-  },
-  {
-    "id": "a9f827fabfb2",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Short Term Accommodation Licensing motion to note that the Committee may, at a future time, request a staff report on imposing minimal distance requirements between short-term accommodations.",
-    "confidence": "low",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "d0b0c8c79902",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Moved to amend the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection; this amendment failed.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": []
-  },
-  {
-    "id": "d06cbd97e5ad",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the property-standards motion to direct Civic Administration to consult with the Environmental Stewardship and Action Community Advisory Committee about the City's response to rodent infestations and opportunities to improve public information.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "1d18fd70225e",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Permitted Councillor D. Ferreira to speak for an additional 2 minutes on the item restricting city-funded organizations from distributing safe-use drug smoking supplies.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "e4ab272cb05c",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Permitted the Committee to continue its meeting beyond 6:00 PM.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "77c9afa67f05",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Voted on whether to sustain the Chair's procedural ruling during the Community Housing Financial Challenges item; the ruling was not sustained.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "52ded9176c52",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the motion regarding Councillor E. Peloza's personal update to note that she would no longer remain appointed to the Community and Protective Services Committee.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural",
-      "appointment"
-    ]
-  },
-  {
-    "id": "44c5de36a14d",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the 550 Ridout Street North & 82-90 Kent Street rezoning motion (OZ-25152) to request that the applicant prepare a tenant relocation plan addressing matters raised in a communication from a nearby developer.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "relocation"
-    ]
-  },
-  {
-    "id": "4a2e8a2dad9d",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved the 550 Ridout Street North & 82-90 Kent Street rezoning application (OZ-25152) as amended, adopting Official Plan and zoning by-law amendments that permit a 30-storey apartment building on the site.",
-    "confidence": "high",
-    "quote": "to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Neighbourhoods Place Type, permitting a 30 storey apartment building, and by ADDING the subject lands to Map 7 – Specific Policy Areas",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  }
+ {
+  "id": "3c736ddcbc9b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that the Mayor and Councillor A. Hopkins advocate, through the Ontario Big City Mayors Caucus and the Association of Municipalities of Ontario, for a province-wide deposit-return program for non-alcoholic beverage containers.",
+  "confidence": "high",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "c594b854f072",
+  "issue": "climate",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved and authorized execution of the Green Municipal Fund grant agreement with the Federation of Canadian Municipalities, funding a project to enhance London's resilience through climate adaptation planning.",
+  "confidence": "high",
+  "quote": "APPROVE the Revised Green Municipal Fund Grant Agreement, LLCA-25-0822, (\u201cAgreement\u201d) between the Federation of Canadian Municipalities (\u201cFCM\u201d) and The Corporation of the City of London for the provision of funding for a project to enhance London\u2019s resilience through climate adaptation planning",
+  "flags": []
+ },
+ {
+  "id": "84f30e68204d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Accepted the low tender bid from Bre-Ex Construction Inc. and approved financing and contract administration for the Wellington Gateway and Municipal Infrastructure Improvements Phase 2B construction contract (Base Line Road to Watson Street).",
+  "confidence": "medium",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "b2d6d1e17607",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment for 1837 Churchill Avenue to rezone the property from Neighbourhood Facility and Residential R2 zones to a Neighbourhood Facility Special Provision zone, permitting an addition to the existing building.",
+  "confidence": "high",
+  "quote": "the proposed by-law as appended to the staff report dated June 9, 2026, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Neighbourhood Facility (NF) Zone and Residential R2 (R2-3) Zone, TO a Neighbourhood Facility Special Provision (NF(_)) Zone",
+  "flags": []
+ },
+ {
+  "id": "94c1663e8c24",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment for 36 Wethered Street to rezone the property from a Residential R1 (low-density, single-detached) zone to a Holding Residential R5 (higher-density) Special Provision zone, permitting more intensive redevelopment.",
+  "confidence": "high",
+  "quote": "to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone TO a Holding Residential R5 Special Provision (h-6*R5-4(_)) Zone",
+  "flags": []
+ },
+ {
+  "id": "06a1d24743c5",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part c) of the 929 Cheapside Street rezoning motion (as amended to add a public site plan process), directing the Site Plan Approval Authority to consider specific design issues -- relocating a paratransit lay-by, a landscape buffer, and integrating a nearby transit stop -- through the site plan process.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "ba89238687fa",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved part a) of the 929 Cheapside Street rezoning motion, introducing a zoning by-law amendment to rezone the property from Convenience Commercial and Residential R1 (low-density) zones to a Residential R9 (higher-density) Special Provision zone.",
+  "confidence": "high",
+  "quote": "the proposed by-law as appended to the staff report dated June 9, 2026, Appendix \"A\" BE INTRODUCED... to change the zoning of the subject property FROM a Convenience Commercial Special Provision (CC1(2)) Zone and a Residential R1 (R1-5) Zone TO a Residential R9 Special Provision (R9-7(_)*H21) Zone",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "1355dc9115e0",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved part c) of the Duluth Crescent affordable-housing land motion, directing Civic Administration to work with the proponent to submit Planning Act applications supporting an increase in permitted density on the site from 71 to 107 units per hectare.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to work with the proponent to submit necessary Planning Act applications to support an increase in density from 71 units per hectare to 107 units per hectare",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "4fb2d8b0e1f8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted to have Council formally convene as the Expropriations Act Approving Authority to consider a communication regarding the Wellington Gateway Project Civil Works Phase 2 expropriation.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "33385b93a872",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Acting as Approving Authority under the Expropriations Act, approved the expropriation of lands required for the Wellington Gateway Project and directed that a certificate of approval be issued.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "3b36aabde6a6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced the by-law to expropriate the Wellington Gateway Project Phase 3 lands and directed Civic Administration and the City Clerk to complete the required plans, signatures, and notices to carry out the expropriation.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "0ac4031b0f90",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted to refer the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting.",
+  "confidence": "high",
+  "quote": "the application of Westdell Development Corporation... relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a future meeting of the Planning and Environment Committee to allow the applicant to consider the consolidation of additional lands to the subject property",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "81d184dc75f1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved reordering the Infrastructure and Corporate Services Committee's consent agenda so that item 2.7 would be considered before item 2.1.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "5a517b9865ad",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the 2027 annual Standing Committee meeting calendar as presented by the City Clerk.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "446995255bb8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Moved to amend the 2027 meeting-calendar motion by directing Civic Administration to bring forward a Council Procedure By-law amendment removing the scheduled meeting-free weeks in April, May, July, and August; this amendment failed.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "fffc06d5f355",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law establishing a pilot project permitting electric kick-scooters in London through the end of the provincial pilot (November 27, 2029) and repealing the prior Electric Kick-Scooter and Cargo Power-Assisted Bicycle By-law.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "8cdc065e1587",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back to Committee and Council in May 2027 with an update on the use of e-scooters in London.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "8fc2c5196c2f",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing Official Plan and zoning by-law amendments for 945 Bluegrass Drive to add a site-specific policy and holding provision enabling the proposed long-term-care development.",
+  "confidence": "medium",
+  "quote": "the proposed by-law as appended to the staff report dated May 5, 2026, as Appendix \"A\" BE INTRODUCED... to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Neighbourhoods Place Type and by ADDING the lands to Map 7",
+  "flags": []
+ },
+ {
+  "id": "402c1cefd8e1",
+  "issue": "encampments",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Endorsed the London and Middlesex Housing Stability Action Plan (2026-2031), the city's homeless prevention and housing plan, and directed its submission to the Ministry of Municipal Affairs and Housing and circulation to community partners.",
+  "confidence": "medium",
+  "quote": "the Housing Stability Action Plan (2026-2031), as outlined in the report titled \u2018London and Middlesex Housing Stability Action Plan 2026-2031 as appended to the above-noted staff report, BE ENDORSED substantially in the form of the document",
+  "flags": []
+ },
+ {
+  "id": "931f44888a31",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing by-laws establishing an electric kick-scooter pilot project and amending the Administrative Monetary Penalty System by-law, and directed a report back in May 2027 on e-scooter use.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "0eae01592ab9",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing Official Plan and zoning by-law amendments for 945 Bluegrass Drive to add a site-specific policy and holding provision enabling the proposed long-term-care development.",
+  "confidence": "medium",
+  "quote": "the proposed by-law as appended to the staff report dated May 5, 2026, as Appendix \"A\" BE INTRODUCED... to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Neighbourhoods Place Type and by ADDING the lands to Map 7",
+  "flags": []
+ },
+ {
+  "id": "0b74a27ea811",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law establishing new Housing Accelerator Fund incentive programs -- a temporary waiver of building permit fees and an Additional Residential Unit construction grant -- for new home construction.",
+  "confidence": "high",
+  "quote": "a proposed by-law BE INTRODUCED... to amend By-law No. C.P. 1596-87... by: i) establishing the Temporary Waiving of Building Permit Fees financial incentive program... ii) establishing the Additional Residential Unit Construction Grant for New Home Construction financial incentive program",
+  "flags": []
+ },
+ {
+  "id": "109f354014ba",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the London Transit Commission to review a set of Rapid Transit opportunities -- fare collection, vehicle specifications, branding, and station enhancements -- and report back to Council on implementation by Q4 2026.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "43d8e93008db",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to explore and report back, by the end of Q1 2027, on the feasibility of establishing a Tenant Assistance and Relocation Program for the City of London.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "5d3409f3524d",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part e) of the Tolpuddle Co-operative motion, directing Civic Administration to report back to Council on the progress of the housing co-op's capital and operational Transition Plan in Q4 2026.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "279715ad9723",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved adding partial or full development-charge rebate options for new residential development as one of the items Civic Administration must include when it reports back to Council with options to quickly incentivize housing activity within the remaining Housing Accelerator Fund window.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "bfc8b0b06170",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back to Council with options to quickly incentivize housing activity within the remaining Housing Accelerator Fund window, together with a Housing Accelerator Fund mid-year update, and received the March 24, 2026 staff report for information.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "f8f62b5705f0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion so that Civic Administration's report on Affordable Home Ownership Incentive Program options would come back to the Strategic Priorities and Policy Committee.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "95f8191a78cd",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved hearing a delegation request from J. Ross, Director, Project Manager, Development Engineering (London) Limited, at that point in the meeting.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "343d5bd6437a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing the revised Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination) by-law and directed a review and update of related policies, procedures, and web content.",
+  "confidence": "high",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "0cd07d98f6e7",
+  "issue": "climate",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law for the final BetterHomes London program design, approving the property owner agreement and local improvement charge by-law templates used to finance residential energy-efficiency and water-conservation retrofits.",
+  "confidence": "medium",
+  "quote": "APPROVE the Template for a Property Owner Agreement, attached as \u2018Schedule 1\u2019, between the City of London and the property owner outlining the terms of the financing loan and, if applicable, program incentives being offered",
+  "flags": []
+ },
+ {
+  "id": "b076ce02bb71",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Moved to direct Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program; this motion failed.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "783f30d0d41f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Moved to amend the Smart Commute London recommendation to authorize the Deputy City Manager of Environment and Infrastructure to approve and execute the upcoming Smart Commute MOU Amendment and Extension Agreement and future Smart Commute Association MOUs; this amendment failed on a tie vote.",
+  "confidence": "high",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "e43644a0f1a8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved authorizing the Deputy City Manager of Environment and Infrastructure to approve and execute the upcoming Smart Commute MOU Amendment and Extension Agreement and future Smart Commute Association MOUs.",
+  "confidence": "high",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "faeee03a0fbb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back on policy-compliant actions to support increased participation of local and regional food producers and processors in food sourcing for City-managed facilities.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "dd2f8fb9d86d",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on a combined recommendation for 929 Cheapside Street that would have introduced a rezoning to Residential R9 while refusing the applicant's requested special provisions (reduced setbacks/parking, higher lot coverage) as too intense for the site, and required a public site plan process; the combined motion failed.",
+  "confidence": "low",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "a9f827fabfb2",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Short Term Accommodation Licensing motion to note that the Committee may, at a future time, request a staff report on imposing minimal distance requirements between short-term accommodations.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "d0b0c8c79902",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Moved to amend the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection; this amendment failed.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "d06cbd97e5ad",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the property-standards motion to direct Civic Administration to consult with the Environmental Stewardship and Action Community Advisory Committee about the City's response to rodent infestations and opportunities to improve public information.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "1d18fd70225e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted Councillor D. Ferreira to speak for an additional 2 minutes on the item restricting city-funded organizations from distributing safe-use drug smoking supplies.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "e4ab272cb05c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted the Committee to continue its meeting beyond 6:00 PM.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "77c9afa67f05",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on whether to sustain the Chair's procedural ruling during the Community Housing Financial Challenges item; the ruling was not sustained.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "52ded9176c52",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion regarding Councillor E. Peloza's personal update to note that she would no longer remain appointed to the Community and Protective Services Committee.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural",
+   "appointment"
+  ]
+ },
+ {
+  "id": "6bbd71829c90",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the 550 Ridout Street North & 82-90 Kent Street rezoning motion (OZ-25152) to request that the applicant prepare a tenant relocation plan addressing matters raised in a communication from a nearby developer.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "relocation"
+  ]
+ },
+ {
+  "id": "4a2e8a2dad9d",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the 550 Ridout Street North & 82-90 Kent Street rezoning application (OZ-25152) as amended, adopting Official Plan and zoning by-law amendments that permit a 30-storey apartment building on the site.",
+  "confidence": "high",
+  "quote": "to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Neighbourhoods Place Type, permitting a 30 storey apartment building, and by ADDING the subject lands to Map 7 \u2013 Specific Policy Areas",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ }
 ]

@@ -1,486 +1,486 @@
 [
-  {
-    "id": "782cbd02dbe0",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to ask the Ministry of Environment, Conservation and Parks to amend the Blue Box Regulation to include non-profits, places of worship, and small businesses as eligible sources.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to request the Ministry of Environment, Conservation and Parks amend the Blue Box Regulation (Reg 210/25) to include non-profit organizations, places of worship, and other small businesses in the definition of \"eligible sources”",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "64d3c515b37a",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Requested the Mayor and AMO advocate to the Ministry to amend the Blue Box Regulation to include non-profits, places of worship, and small businesses as eligible sources.",
-    "confidence": "high",
-    "quote": "the Mayor, and the Association of Municipalities of Ontario (AMO), BE REQUESTED to advocate the Ministry of Environment, Conservation and Parks to amend the Blue Box Regulation (Reg 210/25) to include non-profit organizations, places of worship, and other small businesses in the definition of \"eligible sources\".",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "69abd710ad99",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved an Official Plan amendment and rezoning for 3563 Bostwick Road permitting building heights up to sixteen storeys (with tiered 9- and 6-storey portions) and mixed-use/commercial uses on lands previously zoned Urban Reserve and Environmental Review.",
-    "confidence": "high",
-    "quote": "permit a maximum building height of sixteen (16) storeys on the northern portions of Blocks 1 and 2, and eastern portion of Block 4",
-    "flags": []
-  },
-  {
-    "id": "12577061e6ff",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Refused the heritage designation request for the property at 1269 Hyde Park Road.",
-    "confidence": "high",
-    "quote": "the heritage designation request related to the property at 1269 Hyde Park Road BE REFUSED",
-    "flags": []
-  },
-  {
-    "id": "733377ff3867",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved an Official Plan amendment (Neighbourhoods to Urban Corridors Place Type) and rezoning to a Business District Commercial special provision (D400*H61), facilitating redevelopment of the site at an amended, higher scale and intensity.",
-    "confidence": "medium",
-    "quote": "the requested amendment facilitates the redevelopment of a site within the Built-Area Boundary and Argyle Core Area Community Improvement Plan (CIP) with an amended scale and intensity that can be accommodated on the subject lands and will contribute to achieving an appropriate range and mix of land uses and housing options within the area",
-    "flags": []
-  },
-  {
-    "id": "aa98fd07083d",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing a zoning by-law amendment to rezone 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special provision zone.",
-    "confidence": "high",
-    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 25, 2025, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), as amended in part a) above, to change the zoning of the subject property FROM a Holding Restricted Service Commercial (h-108*RSC1/RSC3/RSC5) Zone TO a Holding Business District Commercial Special Provision (h-108*BDC1(_)*D450*H50) Zone",
-    "flags": []
-  },
-  {
-    "id": "070a2bfcfe82",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing an Official Plan amendment adding a new specific policy for 1269 Hyde Park Road, and requested the Site Plan Authority ensure documentation/commemoration of the existing building through the site plan process.",
-    "confidence": "medium",
-    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 25, 2025, to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Shopping Area Place Type and by ADDING the subject lands to Map 7 – Specific Policy Areas – of The London Plan",
-    "flags": []
-  },
-  {
-    "id": "c9107181549e",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Appointed Lori Higgs and Marlene McGrath to Western University's Board of Governors for the term July 1, 2026 to June 30, 2030.",
-    "confidence": "high",
-    "quote": "That Lori Higgs and Marlene McGrath BE APPOINTED to Western University’s Board of Governors for the term July 1, 2026 to June 30, 2030",
-    "flags": [
-      "appointment"
-    ]
-  },
-  {
-    "id": "b7e548c6bb75",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Adopted a resolution supporting the Elect Respect pledge on civility toward elected officials and directed that it be circulated to AMO, other associations, and police services.",
-    "confidence": "high",
-    "quote": "THAT Council supports the Elect Respect pledge and commits to",
-    "flags": []
-  },
-  {
-    "id": "b2076d3543ea",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Endorsed the Mayor seeking membership on the Great Lakes and St. Lawrence Cities Initiative.",
-    "confidence": "high",
-    "quote": "That Mayor J. Morgan BE ENDORSED to seek membership on the Great Lakes and St. Lawrence Cities Initiative (GLSCLCI)",
-    "flags": []
-  },
-  {
-    "id": "18633398dd86",
-    "issue": "budget",
-    "axis": "business-case",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Excluded Business Case #P-6 (Reduced Road Network Improvements), worth $114,000 in 2026 and 2027, from the Mayor's Tabled 2026 Annual Update Budget.",
-    "confidence": "high",
-    "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget",
-    "flags": []
-  },
-  {
-    "id": "987a0e7529b2",
-    "issue": "budget",
-    "axis": "business-case",
-    "polarity": "expansive",
-    "whatAYeaDid": "Included Business Case #P-25 (Stop Collecting Blue Box Materials from Non-Eligible Sources), a net savings item, in the Mayor's Tabled 2026 Annual Update Budget.",
-    "confidence": "high",
-    "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor’s Tabled 2026 Annual Update Budget",
-    "flags": []
-  },
-  {
-    "id": "ea03954e4926",
-    "issue": "budget",
-    "axis": "business-case",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have included Business Case #P-24 (Eliminate Climate Change Reserve Fund Contribution), a $192,000 reduction in each of 2026 and 2027, in the Mayor's Tabled 2026 Annual Budget Update.",
-    "confidence": "high",
-    "quote": "That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update",
-    "flags": []
-  },
-  {
-    "id": "38ef207a1fb4",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have amended the 2026 Annual Budget Update to fund the Housing Stability Bank Program $500,000 ($250,000 for 2026 and $250,000 for 2027) from the Community Investment Reserve Fund.",
-    "confidence": "high",
-    "quote": "That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED in order to fund the Housing Stability Bank Program $500,000 ($250,000 for 2026 and $250,000 for 2027) from the Community Investment Reserve Fund",
-    "flags": []
-  },
-  {
-    "id": "9f8da8b851c0",
-    "issue": "budget",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have approved requesting that the Middlesex-London Health Unit submit an additional funding request for 2026 onward for permanent base funding for 2.0 additional FTEs.",
-    "confidence": "medium",
-    "quote": "the Middlesex London Health Unit BE REQUESTED to submit an additional funding request for 2026 onwards for permanent base funding for an additional 2.0 FTE",
-    "flags": [
-      "informational_ask",
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "8e944ea40c56",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Changed the funding duration of a proposed roadways/traffic-calming budget increase from three years to two years.",
-    "confidence": "low",
-    "quote": "That the amendment BE AMENDED to change three (3) years to two (2) years",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "2511f1d1c461",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved a $155,000 increase to the roadways budget, funded from the Automated Enforcement Reserve Fund over two years, to implement traffic calming in school zones and deploy additional temporary traffic calming devices near construction-related traffic diversions.",
-    "confidence": "medium",
-    "quote": "increasing the roadways budget to implement traffic calming in school zones across the city and deploy more temporary traffic calming devices to mitigate construction-related traffic diversions in neighbourhoods during capital projects",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "f7c197957c99",
-    "issue": "budget",
-    "axis": "business-case",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Excluded Business Case #P-12 (Resident Satisfaction Survey Frequency) from the Mayor's Tabled 2026 Annual Budget.",
-    "confidence": "high",
-    "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget",
-    "flags": []
-  },
-  {
-    "id": "4b367baa5548",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have amended the 2026 Annual Budget Update to redirect a portion of Business Case #P-20 (2024 Surplus Allocation for Tax Mitigation), $700,000 in each of 2026 and 2027, to increase funding for the Housing Stability Bank program.",
-    "confidence": "high",
-    "quote": "re-directing a portion of Business Case #P-20 (2024 Surplus Allocation for Tax Mitigation) to increase funding for the Housing Stability Bank program for 2026 and 2027",
-    "flags": []
-  },
-  {
-    "id": "369f78062e63",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Amended the 2026 Annual Budget Update to use previously budgeted 2025 tax-supported Development Charges exemption funding for tax levy mitigation, reducing the 2026 tax levy by $2,400,000.",
-    "confidence": "high",
-    "quote": "That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation",
-    "flags": []
-  },
-  {
-    "id": "5329f0a29d55",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Approved the amended Development Charges exemptions tax-levy-mitigation measure, reducing the 2026 tax levy by $2,400,000.",
-    "confidence": "medium",
-    "quote": "to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "9c72e43d3879",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Amended the 2026 Annual Budget Update to increase the budget by $784,000 in each of 2026 and 2027 to provide free two-hour on-street parking through the Honk App in the Core Area (Midtown, Downtown, and Old East Village).",
-    "confidence": "high",
-    "quote": "increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village)",
-    "flags": []
-  },
-  {
-    "id": "890ef0e727d6",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have specified that the free two-hour downtown/core-area parking program be funded from the Economic Development Reserve Fund for 2026 and 2027.",
-    "confidence": "medium",
-    "quote": "the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village) BE FUNDED from the Economic Development Reserve Fund for 2026 and 2027",
-    "flags": []
-  },
-  {
-    "id": "621daef01a81",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Called the question, ending debate and forcing an immediate vote on the pending parking-program amendment.",
-    "confidence": "high",
-    "quote": "That pursuant to section 33.15 of the Council Procedure By-law, the question be now put",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "1ee90aa063ce",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have amended the 2026 Annual Budget Update to increase the budget by $330,000 in each of 2026 and 2027 to continue a free one-hour on-street parking program through the Honk App in the Core Area (Downtown, Midtown, and Old East Village).",
-    "confidence": "high",
-    "quote": "increasing the budget to provide a continuation of the free one-hour parking program through the Honk App, including one-hour free on-street parking in the Core Area, (Downtown, Midtown, and Old East Village)",
-    "flags": []
-  },
-  {
-    "id": "06da30240e47",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Appointed Lori Higgs and Marlene McGrath to Western University's Board of Governors for the term July 1, 2026 to June 30, 2030.",
-    "confidence": "high",
-    "quote": "That Lori Higgs and Marlene McGrath BE APPOINTED to Western University’s Board of Governors for the term July 1, 2026 to June 30, 2030",
-    "flags": [
-      "appointment"
-    ]
-  },
-  {
-    "id": "a141a8e293c7",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Adopted a resolution supporting the Elect Respect pledge on civility toward elected officials.",
-    "confidence": "high",
-    "quote": "THAT Council supports the Elect Respect pledge and commits to",
-    "flags": []
-  },
-  {
-    "id": "3b49a83ca01d",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Endorsed the Mayor seeking membership on the Great Lakes and St. Lawrence Cities Initiative.",
-    "confidence": "high",
-    "quote": "That Mayor J. Morgan BE ENDORSED to seek membership on the Great Lakes and St. Lawrence Cities Initiative (GLSCLCI)",
-    "flags": []
-  },
-  {
-    "id": "d8d7bec31108",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Refused the heritage designation request for the property at 1269 Hyde Park Road.",
-    "confidence": "high",
-    "quote": "the heritage designation request related to the property at 1269 Hyde Park Road BE REFUSED",
-    "flags": []
-  },
-  {
-    "id": "8730d4c18b05",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Recommended introducing an Official Plan amendment and rezoning 1269 Hyde Park Road from Holding Restricted Service Commercial to a Holding Business District Commercial special provision.",
-    "confidence": "high",
-    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 25, 2025, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), as amended in part a) above, to change the zoning of the subject property FROM a Holding Restricted Service Commercial (h-108*RSC1/RSC3/RSC5) Zone TO a Holding Business District Commercial Special Provision (h-108*BDC1(_)*D450*H50) Zone",
-    "flags": []
-  },
-  {
-    "id": "e413fccfdb92",
-    "issue": "housing",
-    "axis": "use-permission",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have amended the Zoning By-law to permit home occupations producing low-risk, home-prepared foods and allow employment of up to three non-resident individuals for home-based businesses.",
-    "confidence": "low",
-    "quote": "to permit home occupations to produce low-risk, home-prepared foods, and allow for the employment of up to three individuals who do not reside in the dwelling unit for all home-based businesses",
-    "flags": [
-      "not_divided"
-    ]
-  },
-  {
-    "id": "7e32ecf98ec2",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Permitted a councillor to speak an additional two minutes on the Housing Collaborative Initiative staff report.",
-    "confidence": "high",
-    "quote": "Councillor S. Stevenson BE PERMITTED to speak an additional 2 minutes with respect to this matter",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "c8ca91ee2f31",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have removed the proposed one-million-dollar cap on the Community Mitigative Measures Fund under the W12A Landfill program.",
-    "confidence": "high",
-    "quote": "the proposed change to impose a cap of one million dollars (Appendix “A” #6 “Community Mitigative Measures Fund”) BE REMOVED",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "ae5cbf236970",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Directed Civic Administration to continue one-hour free on-street parking in the Core Area through the Honk App, funded from the existing approved Economic Development Reserve Fund allocation, through the end of 2025.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to continue 1-hour free on street parking in the Core Area through the parking services HONK app funded using the existing approved funding from the Economic Development Reserve Fund until the end of 2025",
-    "flags": []
-  },
-  {
-    "id": "a7543bfccbbd",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing a zoning by-law amendment to rezone 34 Adelaide Street South from Residential R2 to a Residential R2 special provision zone.",
-    "confidence": "high",
-    "quote": "the proposed by-law as appended to the staff report dated October 21, 2025, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on November 4, 2025, to amend Zoning By-law No. Z.-1 (in conformity with the Official Plan for the City of London, 2016) to amend the zoning of the subject property FROM a Residential R2 (R2-2) Zone TO a Residential R2 Special Provision (R2-2(_)) Zone",
-    "flags": []
-  },
-  {
-    "id": "8cd2d2b8a2ce",
-    "issue": "housing",
-    "axis": "use-permission",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Directed Civic Administration to bring forward an Interim Control By-law temporarily restricting new Additional Residential Units that exceed bedroom count or unit size limits, and to undertake a land use study.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to bring forward at the November 4, 2025 Council meeting an Interim Control By-law that temporarily restricts new Additional Residential Units that exceed bedroom count or unit size limits in order to allow time for a study of these matters",
-    "flags": []
-  },
-  {
-    "id": "eff72561e14d",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have sustained a procedural ruling of the Chair during debate on the Additional Residential Units bedroom-count proposal.",
-    "confidence": "high",
-    "quote": "shall the ruling of the Chair BE SUSTAINED?",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "a2404144c8ae",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have amended the proposed Interim Control By-law to increase the gross floor area limit for Additional Residential Units from 80% to 95% of the primary dwelling's gross floor area.",
-    "confidence": "high",
-    "quote": "That the proposed Interim Control by-law BE AMENDED to increase the gross floor area (GFA) limit from eighty percent (80%) to ninety-five percent (95%) of the GFA of the primary dwelling unit",
-    "flags": []
-  },
-  {
-    "id": "64dce7af848d",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Would have amended the Additional Residential Units proposal and Interim Control By-law to decrease the gross floor area limit from 80% to 70% of the primary dwelling's gross floor area.",
-    "confidence": "high",
-    "quote": "part (d) of the motion BE AMENDED to decrease the gross floor area (GFA) limit from eighty percent (80%) to seventy percent (70%) of the GFA of the primary dwelling unit",
-    "flags": []
-  },
-  {
-    "id": "48422a21c114",
-    "issue": "housing",
-    "axis": "use-permission",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Approved a package capping Additional Residential Units at a maximum of two bedrooms each (three combined for attached ARUs, three combined for detached ARUs) at 80% gross floor area, and directed an Interim Control By-law temporarily restricting new ARUs exceeding those bedroom-count or unit-size limits pending a land use study.",
-    "confidence": "high",
-    "quote": "establish a maximum of two (2) bedrooms for any Additional Residential Unit (ARU)",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "b923b8c92e90",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have referred the Council Resourcing Review Task Force's Final Report to Civic Administration to report back with additional compensation-indexing scenarios.",
-    "confidence": "high",
-    "quote": "That the Final Report of the 2025 Council Resourcing Review Task Force dated October 3, 2025 BE REFERRED to Civic Administration to report back to the December 9, 2025 meeting of the Strategic Priorities and Policy Committee",
-    "flags": [
-      "referral"
-    ]
-  },
-  {
-    "id": "5e35fc6c9b3c",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have added a criteria-and-enforcement scenario about full-time service expectations to the proposed referral of the Council Resourcing Review report.",
-    "confidence": "high",
-    "quote": "criteria and enforcement with respect to the public expectation of full time service",
-    "flags": [
-      "procedural",
-      "referral"
-    ]
-  },
-  {
-    "id": "6f061fcc11a7",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Indexed Councillor annual compensation to the 70th percentile of 2020 median full-time employment income for Londoners, effective at the start of the next term of Council.",
-    "confidence": "high",
-    "quote": "the annual compensation for Councillors BE INDEXED to the 70th percentile 2020 median full-time employment income for Londoners, as reported in the 2021 Census",
-    "flags": []
-  },
-  {
-    "id": "5c90f038db0d",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Maintained the current annual adjustment formula in the Remuneration for Elected Officials and Appointed Citizen Members Policy.",
-    "confidence": "high",
-    "quote": "the current annual adjustment formula in the Remuneration for Elected Officials and Appointed Citizen Members Policy BE MAINTAINED",
-    "flags": []
-  },
-  {
-    "id": "415d5b51dbc5",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Made the annual Councillor compensation adjustment automatic and administered by Civic Administration.",
-    "confidence": "high",
-    "quote": "the annual adjustment in Councillor compensation BE AUTOMATIC and administered by the Civic Administration",
-    "flags": []
-  }
+ {
+  "id": "782cbd02dbe0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to ask the Ministry of Environment, Conservation and Parks to amend the Blue Box Regulation to include non-profits, places of worship, and small businesses as eligible sources.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to request the Ministry of Environment, Conservation and Parks amend the Blue Box Regulation (Reg 210/25) to include non-profit organizations, places of worship, and other small businesses in the definition of \"eligible sources\u201d",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "64d3c515b37a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Mayor and AMO advocate to the Ministry to amend the Blue Box Regulation to include non-profits, places of worship, and small businesses as eligible sources.",
+  "confidence": "high",
+  "quote": "the Mayor, and the Association of Municipalities of Ontario (AMO), BE REQUESTED to advocate the Ministry of Environment, Conservation and Parks to amend the Blue Box Regulation (Reg 210/25) to include non-profit organizations, places of worship, and other small businesses in the definition of \"eligible sources\".",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "d1f25753475b",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved an Official Plan amendment and rezoning for 3563 Bostwick Road permitting building heights up to sixteen storeys (with tiered 9- and 6-storey portions) and mixed-use/commercial uses on lands previously zoned Urban Reserve and Environmental Review.",
+  "confidence": "high",
+  "quote": "permit a maximum building height of sixteen (16) storeys on the northern portions of Blocks 1 and 2, and eastern portion of Block 4",
+  "flags": []
+ },
+ {
+  "id": "12577061e6ff",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Refused the heritage designation request for the property at 1269 Hyde Park Road.",
+  "confidence": "high",
+  "quote": "the heritage designation request related to the property at 1269 Hyde Park Road BE REFUSED",
+  "flags": []
+ },
+ {
+  "id": "e7b785ac2677",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved an Official Plan amendment (Neighbourhoods to Urban Corridors Place Type) and rezoning to a Business District Commercial special provision (D400*H61), facilitating redevelopment of the site at an amended, higher scale and intensity.",
+  "confidence": "medium",
+  "quote": "the requested amendment facilitates the redevelopment of a site within the Built-Area Boundary and Argyle Core Area Community Improvement Plan (CIP) with an amended scale and intensity that can be accommodated on the subject lands and will contribute to achieving an appropriate range and mix of land uses and housing options within the area",
+  "flags": []
+ },
+ {
+  "id": "aa98fd07083d",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment to rezone 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special provision zone.",
+  "confidence": "high",
+  "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 25, 2025, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), as amended in part a) above, to change the zoning of the subject property FROM a Holding Restricted Service Commercial (h-108*RSC1/RSC3/RSC5) Zone TO a Holding Business District Commercial Special Provision (h-108*BDC1(_)*D450*H50) Zone",
+  "flags": []
+ },
+ {
+  "id": "0d224299a0d2",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing an Official Plan amendment adding a new specific policy for 1269 Hyde Park Road, and requested the Site Plan Authority ensure documentation/commemoration of the existing building through the site plan process.",
+  "confidence": "medium",
+  "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 25, 2025, to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Shopping Area Place Type and by ADDING the subject lands to Map 7 \u2013 Specific Policy Areas \u2013 of The London Plan",
+  "flags": []
+ },
+ {
+  "id": "c9107181549e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Lori Higgs and Marlene McGrath to Western University's Board of Governors for the term July 1, 2026 to June 30, 2030.",
+  "confidence": "high",
+  "quote": "That Lori Higgs and Marlene McGrath BE APPOINTED to Western University\u2019s Board of Governors for the term July 1, 2026 to June 30, 2030",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "3d77f4aac958",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a resolution supporting the Elect Respect pledge on civility toward elected officials and directed that it be circulated to AMO, other associations, and police services.",
+  "confidence": "high",
+  "quote": "THAT Council supports the Elect Respect pledge and commits to",
+  "flags": []
+ },
+ {
+  "id": "b2076d3543ea",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Endorsed the Mayor seeking membership on the Great Lakes and St. Lawrence Cities Initiative.",
+  "confidence": "high",
+  "quote": "That Mayor J. Morgan BE ENDORSED to seek membership on the Great Lakes and St. Lawrence Cities Initiative (GLSCLCI)",
+  "flags": []
+ },
+ {
+  "id": "18633398dd86",
+  "issue": "budget",
+  "axis": "business-case",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Excluded Business Case #P-6 (Reduced Road Network Improvements), worth $114,000 in 2026 and 2027, from the Mayor's Tabled 2026 Annual Update Budget.",
+  "confidence": "high",
+  "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Update Budget",
+  "flags": []
+ },
+ {
+  "id": "987a0e7529b2",
+  "issue": "budget",
+  "axis": "business-case",
+  "polarity": "expansive",
+  "whatAYeaDid": "Included Business Case #P-25 (Stop Collecting Blue Box Materials from Non-Eligible Sources), a net savings item, in the Mayor's Tabled 2026 Annual Update Budget.",
+  "confidence": "high",
+  "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Update Budget",
+  "flags": []
+ },
+ {
+  "id": "ea03954e4926",
+  "issue": "budget",
+  "axis": "business-case",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have included Business Case #P-24 (Eliminate Climate Change Reserve Fund Contribution), a $192,000 reduction in each of 2026 and 2027, in the Mayor's Tabled 2026 Annual Budget Update.",
+  "confidence": "high",
+  "quote": "That Business Case #P-24 \u2013 Eliminate Climate Change Reserve Fund Contribution \u2013 BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Budget Update",
+  "flags": []
+ },
+ {
+  "id": "38ef207a1fb4",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have amended the 2026 Annual Budget Update to fund the Housing Stability Bank Program $500,000 ($250,000 for 2026 and $250,000 for 2027) from the Community Investment Reserve Fund.",
+  "confidence": "high",
+  "quote": "That the Mayor\u2019s Tabled 2026 Annual Budget Update BE AMENDED in order to fund the Housing Stability Bank Program $500,000 ($250,000 for 2026 and $250,000 for 2027) from the Community Investment Reserve Fund",
+  "flags": []
+ },
+ {
+  "id": "9f8da8b851c0",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have approved requesting that the Middlesex-London Health Unit submit an additional funding request for 2026 onward for permanent base funding for 2.0 additional FTEs.",
+  "confidence": "medium",
+  "quote": "the Middlesex London Health Unit BE REQUESTED to submit an additional funding request for 2026 onwards for permanent base funding for an additional 2.0 FTE",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "8e944ea40c56",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Changed the funding duration of a proposed roadways/traffic-calming budget increase from three years to two years.",
+  "confidence": "low",
+  "quote": "That the amendment BE AMENDED to change three (3) years to two (2) years",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "2511f1d1c461",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a $155,000 increase to the roadways budget, funded from the Automated Enforcement Reserve Fund over two years, to implement traffic calming in school zones and deploy additional temporary traffic calming devices near construction-related traffic diversions.",
+  "confidence": "medium",
+  "quote": "increasing the roadways budget to implement traffic calming in school zones across the city and deploy more temporary traffic calming devices to mitigate construction-related traffic diversions in neighbourhoods during capital projects",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "f7c197957c99",
+  "issue": "budget",
+  "axis": "business-case",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Excluded Business Case #P-12 (Resident Satisfaction Survey Frequency) from the Mayor's Tabled 2026 Annual Budget.",
+  "confidence": "high",
+  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget",
+  "flags": []
+ },
+ {
+  "id": "4b367baa5548",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have amended the 2026 Annual Budget Update to redirect a portion of Business Case #P-20 (2024 Surplus Allocation for Tax Mitigation), $700,000 in each of 2026 and 2027, to increase funding for the Housing Stability Bank program.",
+  "confidence": "high",
+  "quote": "re-directing a portion of Business Case #P-20 (2024 Surplus Allocation for Tax Mitigation) to increase funding for the Housing Stability Bank program for 2026 and 2027",
+  "flags": []
+ },
+ {
+  "id": "44603a99e06b",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Amended the 2026 Annual Budget Update to use previously budgeted 2025 tax-supported Development Charges exemption funding for tax levy mitigation, reducing the 2026 tax levy by $2,400,000.",
+  "confidence": "high",
+  "quote": "That the Mayor\u2019s Tabled 2026 Annual Budget Update BE AMENDED to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation",
+  "flags": []
+ },
+ {
+  "id": "5329f0a29d55",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved the amended Development Charges exemptions tax-levy-mitigation measure, reducing the 2026 tax levy by $2,400,000.",
+  "confidence": "medium",
+  "quote": "to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "9c72e43d3879",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Amended the 2026 Annual Budget Update to increase the budget by $784,000 in each of 2026 and 2027 to provide free two-hour on-street parking through the Honk App in the Core Area (Midtown, Downtown, and Old East Village).",
+  "confidence": "high",
+  "quote": "increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village)",
+  "flags": []
+ },
+ {
+  "id": "890ef0e727d6",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have specified that the free two-hour downtown/core-area parking program be funded from the Economic Development Reserve Fund for 2026 and 2027.",
+  "confidence": "medium",
+  "quote": "the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village) BE FUNDED from the Economic Development Reserve Fund for 2026 and 2027",
+  "flags": []
+ },
+ {
+  "id": "621daef01a81",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Called the question, ending debate and forcing an immediate vote on the pending parking-program amendment.",
+  "confidence": "high",
+  "quote": "That pursuant to section 33.15 of the Council Procedure By-law, the question be now put",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "9a2aea4a8c2f",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have amended the 2026 Annual Budget Update to increase the budget by $330,000 in each of 2026 and 2027 to continue a free one-hour on-street parking program through the Honk App in the Core Area (Downtown, Midtown, and Old East Village).",
+  "confidence": "high",
+  "quote": "increasing the budget to provide a continuation of the free one-hour parking program through the Honk App, including one-hour free on-street parking in the Core Area, (Downtown, Midtown, and Old East Village)",
+  "flags": []
+ },
+ {
+  "id": "06da30240e47",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Lori Higgs and Marlene McGrath to Western University's Board of Governors for the term July 1, 2026 to June 30, 2030.",
+  "confidence": "high",
+  "quote": "That Lori Higgs and Marlene McGrath BE APPOINTED to Western University\u2019s Board of Governors for the term July 1, 2026 to June 30, 2030",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "fcb89154ceb6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a resolution supporting the Elect Respect pledge on civility toward elected officials.",
+  "confidence": "high",
+  "quote": "THAT Council supports the Elect Respect pledge and commits to",
+  "flags": []
+ },
+ {
+  "id": "3b49a83ca01d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Endorsed the Mayor seeking membership on the Great Lakes and St. Lawrence Cities Initiative.",
+  "confidence": "high",
+  "quote": "That Mayor J. Morgan BE ENDORSED to seek membership on the Great Lakes and St. Lawrence Cities Initiative (GLSCLCI)",
+  "flags": []
+ },
+ {
+  "id": "d8d7bec31108",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Refused the heritage designation request for the property at 1269 Hyde Park Road.",
+  "confidence": "high",
+  "quote": "the heritage designation request related to the property at 1269 Hyde Park Road BE REFUSED",
+  "flags": []
+ },
+ {
+  "id": "5dc0c856904e",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Recommended introducing an Official Plan amendment and rezoning 1269 Hyde Park Road from Holding Restricted Service Commercial to a Holding Business District Commercial special provision.",
+  "confidence": "high",
+  "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 25, 2025, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), as amended in part a) above, to change the zoning of the subject property FROM a Holding Restricted Service Commercial (h-108*RSC1/RSC3/RSC5) Zone TO a Holding Business District Commercial Special Provision (h-108*BDC1(_)*D450*H50) Zone",
+  "flags": []
+ },
+ {
+  "id": "452cfbf9fcb9",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have amended the Zoning By-law to permit home occupations producing low-risk, home-prepared foods and allow employment of up to three non-resident individuals for home-based businesses.",
+  "confidence": "low",
+  "quote": "to permit home occupations to produce low-risk, home-prepared foods, and allow for the employment of up to three individuals who do not reside in the dwelling unit for all home-based businesses",
+  "flags": [
+   "not_divided"
+  ]
+ },
+ {
+  "id": "7e32ecf98ec2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted a councillor to speak an additional two minutes on the Housing Collaborative Initiative staff report.",
+  "confidence": "high",
+  "quote": "Councillor S. Stevenson BE PERMITTED to speak an additional 2 minutes with respect to this matter",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "c8ca91ee2f31",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have removed the proposed one-million-dollar cap on the Community Mitigative Measures Fund under the W12A Landfill program.",
+  "confidence": "high",
+  "quote": "the proposed change to impose a cap of one million dollars (Appendix \u201cA\u201d #6 \u201cCommunity Mitigative Measures Fund\u201d) BE REMOVED",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "ae5cbf236970",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed Civic Administration to continue one-hour free on-street parking in the Core Area through the Honk App, funded from the existing approved Economic Development Reserve Fund allocation, through the end of 2025.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to continue 1-hour free on street parking in the Core Area through the parking services HONK app funded using the existing approved funding from the Economic Development Reserve Fund until the end of 2025",
+  "flags": []
+ },
+ {
+  "id": "daa75aaf5c58",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment to rezone 34 Adelaide Street South from Residential R2 to a Residential R2 special provision zone.",
+  "confidence": "high",
+  "quote": "the proposed by-law as appended to the staff report dated October 21, 2025, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on November 4, 2025, to amend Zoning By-law No. Z.-1 (in conformity with the Official Plan for the City of London, 2016) to amend the zoning of the subject property FROM a Residential R2 (R2-2) Zone TO a Residential R2 Special Provision (R2-2(_)) Zone",
+  "flags": []
+ },
+ {
+  "id": "3a6a6b440800",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Directed Civic Administration to bring forward an Interim Control By-law temporarily restricting new Additional Residential Units that exceed bedroom count or unit size limits, and to undertake a land use study.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to bring forward at the November 4, 2025 Council meeting an Interim Control By-law that temporarily restricts new Additional Residential Units that exceed bedroom count or unit size limits in order to allow time for a study of these matters",
+  "flags": []
+ },
+ {
+  "id": "eff72561e14d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have sustained a procedural ruling of the Chair during debate on the Additional Residential Units bedroom-count proposal.",
+  "confidence": "high",
+  "quote": "shall the ruling of the Chair BE SUSTAINED?",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "a2404144c8ae",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have amended the proposed Interim Control By-law to increase the gross floor area limit for Additional Residential Units from 80% to 95% of the primary dwelling's gross floor area.",
+  "confidence": "high",
+  "quote": "That the proposed Interim Control by-law BE AMENDED to increase the gross floor area (GFA) limit from eighty percent (80%) to ninety-five percent (95%) of the GFA of the primary dwelling unit",
+  "flags": []
+ },
+ {
+  "id": "64dce7af848d",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have amended the Additional Residential Units proposal and Interim Control By-law to decrease the gross floor area limit from 80% to 70% of the primary dwelling's gross floor area.",
+  "confidence": "high",
+  "quote": "part (d) of the motion BE AMENDED to decrease the gross floor area (GFA) limit from eighty percent (80%) to seventy percent (70%) of the GFA of the primary dwelling unit",
+  "flags": []
+ },
+ {
+  "id": "48422a21c114",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved a package capping Additional Residential Units at a maximum of two bedrooms each (three combined for attached ARUs, three combined for detached ARUs) at 80% gross floor area, and directed an Interim Control By-law temporarily restricting new ARUs exceeding those bedroom-count or unit-size limits pending a land use study.",
+  "confidence": "high",
+  "quote": "establish a maximum of two (2) bedrooms for any Additional Residential Unit (ARU)",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "0573c2182ea7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Council Resourcing Review Task Force's Final Report to Civic Administration to report back with additional compensation-indexing scenarios.",
+  "confidence": "high",
+  "quote": "That the Final Report of the 2025 Council Resourcing Review Task Force dated October 3, 2025 BE REFERRED to Civic Administration to report back to the December 9, 2025 meeting of the Strategic Priorities and Policy Committee",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "5e35fc6c9b3c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have added a criteria-and-enforcement scenario about full-time service expectations to the proposed referral of the Council Resourcing Review report.",
+  "confidence": "high",
+  "quote": "criteria and enforcement with respect to the public expectation of full time service",
+  "flags": [
+   "procedural",
+   "referral"
+  ]
+ },
+ {
+  "id": "6f061fcc11a7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Indexed Councillor annual compensation to the 70th percentile of 2020 median full-time employment income for Londoners, effective at the start of the next term of Council.",
+  "confidence": "high",
+  "quote": "the annual compensation for Councillors BE INDEXED to the 70th percentile 2020 median full-time employment income for Londoners, as reported in the 2021 Census",
+  "flags": []
+ },
+ {
+  "id": "5c90f038db0d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Maintained the current annual adjustment formula in the Remuneration for Elected Officials and Appointed Citizen Members Policy.",
+  "confidence": "high",
+  "quote": "the current annual adjustment formula in the Remuneration for Elected Officials and Appointed Citizen Members Policy BE MAINTAINED",
+  "flags": []
+ },
+ {
+  "id": "415d5b51dbc5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Made the annual Councillor compensation adjustment automatic and administered by Civic Administration.",
+  "confidence": "high",
+  "quote": "the annual adjustment in Councillor compensation BE AUTOMATIC and administered by the Civic Administration",
+  "flags": []
+ }
 ]

@@ -1,595 +1,595 @@
 [
-  {
-    "id": "28e03e7c3f6d",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to report back with an overview of issues partner social agencies identified as barriers to successful housing placements under London's Housing Stability Program.",
-    "confidence": "medium",
-    "quote": "provide an overview of any issues identified by partner social agencies that are creating a barrier or challenge to individual placement success such as tenant participation or refusal of supports or inspections, removal processes for tenants putting others at risk, etc.",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "1e6dd1535ed7",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language.",
-    "confidence": "medium",
-    "quote": "propose recommendations to amend the existing contracts to address the issues identified in a) that are creating a barrier or challenge to individual placement success including potential “head lease” requirements of the agencies to facilitate supports and inspections, strengthening language in leases with respect to landlord responsibilities, and other potential measures",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "353b10e65673",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to report back with an update on tenants' overall housing-stability success rates and trends among those repeatedly cycling through the programs.",
-    "confidence": "medium",
-    "quote": "provide an update of overall success rates of tenants maintaining stability, and any trends related to those who are not maintaining stable housing repeatedly cycling through these programs",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "f0be8624ec75",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Adopted the amended item directing Civic Administration to report back to a future Community and Protective Services Committee meeting with an overview of placement barriers, success-rate data, and recommendations for strengthening tenant placement processes in the Housing Stability Program, without pausing any new 'Project Home' placements (a separate amendment to pause placements had already failed).",
-    "confidence": "medium",
-    "quote": "provide any recommendations for strengthening tenant placement processes and success rates, including both service delivery by partner agencies, as well as advocacy considerations to senior levels of government by Council",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "5dc4e9be01e4",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing the zoning by-law to rezone 767 Southdale Road East from a Residential R1 zone to a combined Residential R1/R8 special-provision zone, enabling the proposed residential development.",
-    "confidence": "medium",
-    "quote": "the proposed by-law ... BE INTRODUCED at the Municipal Council meeting to be held on September 23, 2025, ... to change the zoning of the subject properties FROM a Residential R1 (R1-4) Zone TO a Residential R1/Residential R8 Special Provision (R1-4/R8-4(_)) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded item 8.1.13 (Council, 767 Southdale Rd E rezoning, Passed 14-1): quote and application-approval axis verified verbatim against the operative by-law-introduction clause; correctly avoided guessing a density axis from a bare R1->R1/R8 zone-code change with no explicit density/height wording."
-  },
-  {
-    "id": "fbe5d8717596",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Recessed the Council meeting for 10 minutes.",
-    "confidence": "high",
-    "quote": "That the Council recess at this time, for 10 minutes.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "3d072ced8231",
-    "issue": "transit",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Increased the AECOM detailed-design contract by $803,764 (to $8,479,052) and approved financing for the Wellington Gateway Transit and Municipal Infrastructure Improvements project.",
-    "confidence": "medium",
-    "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 – Consulting Services for Rapid Transit and Infrastructure Improvements – Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)",
-    "flags": [],
-    "verdict": "corrected",
-    "verifierNote": "Loaded item 8.3.3 (Council, Wellington Gateway AECOM design-contract increase, Passed 13-1). Issue and polarity (transit/expansive) hold, but 'service-expansion' does not: the operative clause is a consulting-contract price increase and a financing approval (AFFIRM_RE hits: BE APPROVED / BE AUTHORIZED) — it does not itself expand any service, route, frequency, network, or infrastructure (the word 'infrastructure' only appears inside the pre-existing project's own title, not as new scope being added). This is a procurement/budget approval, not a service-expansion decision — corrected to the same generic application-approval axis the classifier itself correctly used for the batch's rezoning items, to avoid overclaiming 'expanded transit service' from a cost-increase vote."
-  },
-  {
-    "id": "f918f21d05f9",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Introduced the by-law authorizing the standard-form Project and Funding Agreement for construction or renovation of licensed child care and early years facilities, and delegated authority to execute individual agreements under that form.",
-    "confidence": "high",
-    "quote": "authorize and approve the standard form Project and Funding Agreement for Construction or Renovation for Licensed Child Care and Early Years Programs",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "fddebc11db79",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Ratified a $7,345,000 federal grant agreement under the Interim Housing Assistance Program (IHAP) to provide interim housing for refugee protection claimants, and delegated authority to execute amending agreements.",
-    "confidence": "medium",
-    "quote": "ratify the agreement between The Government of Canada as represented by the Minister of Citizenship and Immigration and the City of London relating to Canada’s Grant under the Interim Housing Assistance Program (IHAP) to the City of London in the amount of $7,345,000 for eligible activities incurred between January 1, 2025 and March 31, 2027",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded item 8.4.5 (Council, IHAP agreement ratification, Passed 13-1): AFFIRM_RE-type verb (ratify/BE INTRODUCED) confirmed, no 'affordable housing' phrase present so generic application-approval axis (not affordable-funding) is the right call, quote verbatim."
-  },
-  {
-    "id": "ac621e53bd84",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration.",
-    "confidence": "high",
-    "quote": "That part f) i) to iii) of the 5th Report of the Environmental Stewardship and Action Community Advisory Committee, from the meeting held on August 28, 2025, BE REFERRED to a future meeting of the Planning and Environment Committee for consideration.",
-    "flags": [
-      "referral",
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "c0ce6cf62032",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE REQUESTED to undertake a study to identify the costs of infrastructure for mitigating wildlife-vehicle collisions (e.g., wildlife crossings such as underpasses and exclusionary fencing) to be incorporated in future transportation planning projects to service ecologically sensitive lands being moved inside the Urban Growth Boundary prior to the 2028 Development Charges Study",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "cf36e50bdd48",
-    "issue": "transit",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Recommended increasing the AECOM detailed-design contract by $803,764 (to $8,479,052) and recommended approving financing for the Wellington Gateway Transit and Municipal Infrastructure Improvements project, at the Infrastructure and Corporate Services Committee stage (later ratified by Council as item 8.3.3 on September 23, 2025).",
-    "confidence": "medium",
-    "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 – Consulting Services for Rapid Transit and Infrastructure Improvements – Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)",
-    "flags": [],
-    "verdict": "corrected",
-    "verifierNote": "Loaded item 2.1 (ICSC committee stage, Passed 5-1) — the committee-stage sibling of 3d072ced8231, same text. Same axis correction as 3d072ced8231 (application-approval, not service-expansion — see that entry's note). Additionally reworded whatAYeaDid to 'Recommended' framing: this is a committee recommendation to Council, not a final decision (Council ratified it separately three weeks later at item 8.3.3) — the classifier itself used this same 'Recommended' framing for dbe25f95d138 (also a committee-stage recommendation later ratified at Council) but not consistently here; corrected for consistency and to avoid stating a committee vote 'increased' a contract that was still subject to Council's own vote."
-  },
-  {
-    "id": "745320f6dbfa",
-    "issue": "housing",
-    "axis": "affordable-funding",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have directed Civic Administration to revise the Transit Oriented Development forgivable-loan program guidelines to add non-profit and affordable-housing applicants as eligible for the per-unit forgivable loan.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to revise Schedule “1”, being the Transit Oriented Development Community Improvement Project Area Financial Incentive Program Guidelines, to include the following: i) non-profits and/or affordable housing applicants",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded item 2.4 (PEC, TOD forgivable-loan guidelines): traced the vote-splitting sequence (part a)+c) 5-0, part b)i) FAILED 1-4, part b)ii) 5-0) and confirmed this id's 'Failed 1-4' result and Yeas:[S. Lehman] map to part b)i) specifically ('non-profits and/or affordable housing applicants'), not part b)ii) (green development measures) — quote and affordable-funding axis both verbatim-correct for that specific sub-clause."
-  },
-  {
-    "id": "dbe25f95d138",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Recommended introducing the zoning by-law to rezone 767 Southdale Road East from a Residential R1 zone to a combined Residential R1/R8 special-provision zone, enabling the proposed residential development.",
-    "confidence": "medium",
-    "quote": "the proposed by-law as appended to the staff report dated September 9, 2025, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on September 23, 2025, to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject properties FROM a Residential R1 (R1-4) Zone TO a Residential R1/Residential R8 Special Provision (R1-4/R8-4(_)) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded item 3.8 (PEC committee stage, 767 Southdale Rd E, Passed 4-1): identical rezoning clause to 5dc4e9be01e4 one meeting cycle earlier; classifier correctly used 'Recommended' (not 'Approved') to reflect this is the committee-stage recommendation later ratified by Council, not the final decision itself."
-  },
-  {
-    "id": "9f632543eedb",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
-    "confidence": "medium",
-    "quote": "That part j) iii) a motion BE AMMENDED to reads as follows: Implement the recommendations from the Path Loss Study to ensure acceptable service levels.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "408b47312459",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to issue statutory notice of Council's intention to expand the Hyde Park Business Improvement Area's boundaries and increase its board of management from seven to eight directors.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to proceed with issuing notices ... of Council’s intention to consider the draft proposed by-law ... to: i) expand the area designated as an improvement area; and, ii) increase the number of directors comprising the board of management from seven (7) to eight (8)",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "8bc8d3fbc1e2",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have directed Civic Administration to implement the corridor recommendations, including new in-boulevard cycling infrastructure on Sarnia Road and Western Road and new in-boulevard cycle lanes on Philip Aziz Avenue, alongside pedestrian-signal, storm-sewer, and watermain work.",
-    "confidence": "medium",
-    "quote": "new dedicated in-boulevard cycling infrastructure on Sarnia Road (from Sleightolme Ave to Western Rd) and Western Rd (Platt’s Lane to Burnlea Walk), new roadway cross-section with in-boulevard cycle lanes on Philip Aziz Ave (Western Rd to Thames River)",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded item 2.3 (CPSC, Western/Sarnia/Philip Aziz corridor, Failed 1-4): two motions in this item ('part b', Failed 1-4, cycling infrastructure implementation; 'part c', also Failed 1-4 with identical voters, pedestrian-scramble report-back) share the same result string but were correctly disambiguated by content — this id's quote matches part b)'s cycling-infrastructure clause verbatim, not part c)."
-  },
-  {
-    "id": "9d2d16516460",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with respect to other improvements at the Western Rd, Sarnia Ave / Phillip Aziz Ave intersection including more detailed information about the feasibility of a pedestrian scramble",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "3afb7e2cad1f",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to report back to the Community and Protective Services Committee on the potential of requiring signage disclosing whether a rental property and its units comply with municipal standards.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee with the potential of including signage which could include information about whether or not the property and the units in the property are in compliance with municipal standards.",
-    "flags": [
-      "informational_ask",
-      "not_divided"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "2ca4553876a5",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing the zoning by-law to rezone 514-520 South Street from a Residential R7 zone to a Residential R5 special-provision zone for the proposed development.",
-    "confidence": "medium",
-    "quote": "the proposed by-law as appended to the staff report dated August 12, 2025, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on August 26, 2025 to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject property FROM a Residential R7 (R7*D75*H10) Zone TO a Residential R5 Special Provision (R5-7(_)) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded item 8.2.14 (Council, 514-520 South St rezoning R7->R5SP, Passed 12-2): quote verbatim; correctly kept on generic application-approval axis rather than reading R7->R5 as a density decrease from the bare zone-code change alone."
-  },
-  {
-    "id": "f2f91d156e14",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
-    "confidence": "medium",
-    "quote": "the Subdivision Approval Authority BE REQUESTED to consider amending the draft plan of subdivision to require the subject lands to be reserved for 3 years for permitted uses within the Community Facility (CF2) zone until the draft plan of subdivision lapses",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "95d6e8699352",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing a citywide zoning by-law amendment to the 'stacked townhouse' definition, allowing stacked townhouse buildings taller than two units high.",
-    "confidence": "high",
-    "quote": "TO AMEND Zoning By-law No. Z.-1, Section 2 Definition for \"DWELLING\" r) \"STACKED TOWNHOUSE\" to facilitate stacked townhouse dwellings with more than two units high",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded item 8.2.20 (Council, city-wide stacked-townhouse definition amendment, Passed 13-2): operative clause explicitly 'facilitate stacked townhouse dwellings with more than two units high' is an unambiguous citywide density/height increase; quote verbatim."
-  },
-  {
-    "id": "ee4b0badbc6b",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks.",
-    "confidence": "high",
-    "quote": "That the Civic Administration BE DIRECTED to bring forward a report to a future meeting of the Planning and Environment Committee examining; a) the feasibility of developing an Agricultural Offset Policy, including best practices from other jurisdictions",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "7cf8ddca1bc9",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to report back with options addressing property encroachments (including considerations and impacts) for the properties at 1634 to 1786 Attawandaron Road, as part of the Medway Valley Conservation Master Plan review.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to report back with options addressing property encroachments, including related considerations and impacts, for the properties at 1634 to 1786 Attawandaron Rd",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "2f4e4bf8f5a7",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed that the Conservation Master Plan review include passive recreation consistent with the historical use of the defined Attawandaron Road Park area, and outline how that space will be maintained going forward.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED, as part of the Conservation Master Plan review, to include passive recreation consistent with the historical use of Attawandaron Road Park, defined as the area between the pathway at 1726 Attawandaron Road (north) and the pathway at 1634 Attawandaron Road (south), and to outline how the space will be maintained moving forward",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "a076bd968c19",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations.",
-    "confidence": "high",
-    "quote": "That the proposed changes to the Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan BE REFERRED to Civic Administration to report back at a future meeting of the Planning and Environment Committee, including consideration of potential design alternatives for the trail, specific resident concerns regarding its location and design, and matters related to Accessibilities for Ontarians with Disabilities Act (AODA) compliance",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "c341c159cdca",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Adopted the amended Conservation Master Plan directive: removed the planned trail section from Attawandaron Road Park and halted its construction, directed a report back on property-encroachment options, and directed that passive recreation consistent with historical use continue in the defined park area.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to undertake a review of the Conservation Master Plan and update it to remove the trail section of Attawandaron Road Park and take no further action on the implementation and construction of this trail",
-    "flags": [],
-    "verdict": "downgraded",
-    "verifierNote": "Loaded item 8.2.8 full record (Council, Medway Valley Heritage Forest ESA (South) Conservation Master Plan, Passed 10-5, plus its committee-stage amendment votes). The classifier flagged this one itself as a close call, and on independent review I can't confirm it: the operative clause directs Civic Administration to 'update [the CMP] to remove the trail section of Attawandaron Road Park and take no further action on the implementation and construction of this trail' — the verb 'remove' governs the TRAIL (a planned recreation amenity), not the ESA's natural-heritage designation or protection status, which is unchanged either way. The record shows the push to cancel the trail was driven by resident/property-encroachment concerns near Attawandaron Rd (per the communications from the neighbourhood association and the encroachment-report-back amendment adopted alongside it), not an articulated ecological-protection rationale, and part c) of the same amended motion preserves 'passive recreation consistent with historical use' regardless of outcome — so a yea here doesn't cleanly read as 'more protective of natural heritage' versus simply resolving a park-amenity/property dispute in the residents' favour. Given genuine ambiguity on which way (or whether) this maps onto the natural-heritage axis, downgrading to unclear rather than asserting a direction I can't fully stand behind."
-  },
-  {
-    "id": "883ee33ef545",
-    "issue": "transit",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Increased the AECOM construction-inspection and contract-administration services contract by $120,000 (to $1,924,701) and approved financing for the Wellington Street Rapid Transit Implementation project (Queens Avenue to the Thames River, South Branch).",
-    "confidence": "medium",
-    "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)",
-    "flags": [],
-    "verdict": "corrected",
-    "verifierNote": "Loaded item 8.4.7 (Council, Wellington St AECOM construction-inspection contract increase, Passed 13-2). Same axis correction as 3d072ced8231 and the same reasoning: a contract-price increase and financing approval is not itself a service/infrastructure expansion under the axis's own definition (increase-verb within 60 chars of service/route/frequency/network/infrastructure does not fire on this text) — corrected to application-approval. This is the final Council decision (not committee stage), so the 'Increased/approved' whatAYeaDid wording is accurate as-is."
-  },
-  {
-    "id": "e1f8ff57161c",
-    "issue": "transit",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Recommended increasing the AECOM construction-inspection and contract-administration services contract by $120,000 (to $1,924,701) and recommended approving financing for the Wellington Street Rapid Transit Implementation project (Queens Avenue to the Thames River, South Branch), at the Infrastructure and Corporate Services Committee stage (later ratified by Council as item 8.4.7 on August 26, 2025).",
-    "confidence": "medium",
-    "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)",
-    "flags": [],
-    "verdict": "corrected",
-    "verifierNote": "Loaded item 2.4 (ICSC committee stage, Passed 4-1) — the committee-stage sibling of 883ee33ef545, same text. Same axis correction (application-approval, not service-expansion) and same committee-stage wording fix as cf36e50bdd48 (this is a recommendation later ratified by Council, not a final decision itself)."
-  },
-  {
-    "id": "0e6819a0769a",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a request that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before the draft plan of subdivision could proceed toward residential development.",
-    "confidence": "medium",
-    "quote": "the Subdivision Approval Authority BE REQUESTED to consider amending the draft plan of subdivision to require the subject lands to be reserved for 3 years for permitted uses within the Community Facility (CF2) zone until the draft plan of subdivision lapses",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "5beac63c53b5",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a direction for the Mayor to write to the Ontario Solicitor General suggesting changes to provincial legislation on dangerous dogs and public safety.",
-    "confidence": "high",
-    "quote": "The Mayor BE REQUESTED to write a letter to the solicitor general, with respect to this matter, to suggest changes to provincial legislation related to dangerous dogs and public safety.",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "b7f1a4280119",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved the direction for the Mayor to write to the Ontario Solicitor General suggesting changes to provincial legislation on dangerous dogs and public safety.",
-    "confidence": "high",
-    "quote": "The Mayor BE REQUESTED to write a letter to the Solicitor General, with respect to this matter, to suggest changes to provincial legislation related to dangerous dogs and public safety.",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "bf6758a065fe",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to report back with the potential of requiring signage disclosing whether a rental property and its units comply with municipal standards.",
-    "confidence": "high",
-    "quote": "The Civic Administration BE DIRECTED to report back with the potential of including signage which could include information about whether or not the property and the units in the property are in compliance with municipal standards.",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "dd94deb7add9",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Located the proposed Emergency Services Campus on city-owned land at 3243 Manning Drive and directed Civic Administration, in consultation with London Police Services, to submit an executive summary on the campus to a future Infrastructure and Corporate Services Committee meeting.",
-    "confidence": "high",
-    "quote": "the proposed Emergency Services Campus BE LOCATED on city-owned land at 3243 Manning Drive",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "8d1c46d7b9d9",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved beginning the legal expropriation process for land needed for Phase 2 of the Wellington Gateway project's civil works, including applying to Council as approving authority, publishing statutory notice, and introducing the authorizing by-law.",
-    "confidence": "medium",
-    "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "f9a30eceb5b1",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "expansive",
-    "whatAYeaDid": "Directed Civic Administration to allocate up to 30% of the 2025 municipal rent-supplement increase ($1 million annually) to Atlohsa Family Healing Services to administer portable housing benefits for Indigenous-identifying individuals experiencing homelessness through Atlohsa's Housing First and Rapid Rehousing programs, and to pursue expanded partnerships with other Indigenous-led housing providers.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to allocate up to 30% of the 2025 municipal rent supplement increase (approved at $1 million annually) to Atlohsa Family Healing Services for the administration of portable housing benefits supporting Indigenous identifying individuals experiencing homelessness",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded item 8.2.11 (Council, Municipal Rental Assistance Program for Indigenous-led housing, Passed 14-1): quote verbatim; 'experiencing homelessness' keyword supports encampments issue and the funding-allocation content supports an expanded-response read."
-  },
-  {
-    "id": "01d52536f471",
-    "issue": "budget",
-    "axis": "business-case",
-    "polarity": "expansive",
-    "whatAYeaDid": "Directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and find an appropriate source of funding",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded item 8.2.14 / part a) only (Council, School Crossing Guard business case, Failed 5-10): quote verbatim, 'BE DIRECTED to include a budget business case' is a direct, unambiguous match to the business-case-inclusion axis language."
-  },
-  {
-    "id": "2cd59c5dfe20",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to review the School Crossing Guard policy and report back to a future Community and Protective Services Committee meeting with suggestions for improvement, including the number of crossing guards per school.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to review the School Crossing Guard policy and report back at a future meeting of CPSC to provide any suggestions for improvements, including but not limited to number of school crossing guards per school",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "2ef22be21913",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Adopted the amended item directing Civic Administration to review the School Crossing Guard policy, report back with improvement suggestions, and engage all London public and private school boards on crossing-guard standards.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to engage on the review of the standards of the School Guard Crossing Policy with all public school boards and private schools within the City of London to discuss the issues of school crossings at all London schools",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "fbc18eb71f19",
-    "issue": "downtown",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Requested that the Downtown London BIA provide a list of expenditures from its portion of COVID-19 Relief Funding.",
-    "confidence": "high",
-    "quote": "the Downtown London BIA BE REQUESTED provide a list of expenditures from their portion of the Covid 19 Relief Funding",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "f42a5b460702",
-    "issue": "downtown",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA.",
-    "confidence": "medium",
-    "quote": "That the communication from Councillor H. McAlister, dated July 7, 2025, with respect to a Funding Request for the Hamilton Road BIA and the Old East Village BIA, BE REFERRED to the August 11, 2025 meeting of the Community and Protective Services Committee in order to allow time to receive a list of the earmarked items for the remaining balance for the COVID 19 Relief Funding from the Hamilton Road and Old East Village BIAs",
-    "flags": [
-      "referral",
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "29dd3d1ef53d",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to allocate one-time funding of $62,500 from the Community Investment Reserve Fund to the Hamilton Road BIA to continue its joint private security services contract with the Argyle BIA for 2026.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to allocate one-time funding of $62,500.00 from the Community Investment Reserve Fund to the Hamilton Road BIA to allow them to continue their joint private security services contract with the Argyle BIA for 2026",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "fc2254195725",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to immediately reimburse the Old East Village BIA $34,179.62 from the Community Investment Reserve Fund for previously incurred costs on private-property clean-ups, graffiti removal, and enhanced safety and security measures.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to immediately reimburse the Old East Village BIA the amount of $34,179.62 from the Community Investment Reserve Fund for previously expended costs related to private property clean-ups, graffiti removal, and enhanced safety and security measures",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "f59b04cd80be",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved changing the order of the Council agenda so the 12th Report of the Planning and Environment Committee would be considered before the 11th Report.",
-    "confidence": "high",
-    "quote": "a change in order of the Council Agenda BE APPROVED, to provide for the 12th Report of the Planning and Environment Committee to be considered before the 11th Report of the Planning and Environment Committee",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  },
-  {
-    "id": "ee000df2b284",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance).",
-    "confidence": "high",
-    "quote": "That the staff report dated July 14, 2025 related to the Affordable Homeownership Program Relaunch BE REFERRED to a future meeting of the Community and Protective Services Committee to allow the Civic Administration to come back with a business case for the Province requesting reallocation of the funds to another affordable housing purpose",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
-  }
+ {
+  "id": "09650a221df8",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back with an overview of issues partner social agencies identified as barriers to successful housing placements under London's Housing Stability Program.",
+  "confidence": "medium",
+  "quote": "provide an overview of any issues identified by partner social agencies that are creating a barrier or challenge to individual placement success such as tenant participation or refusal of supports or inspections, removal processes for tenants putting others at risk, etc.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "7673f3eaf052",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language.",
+  "confidence": "medium",
+  "quote": "propose recommendations to amend the existing contracts to address the issues identified in a) that are creating a barrier or challenge to individual placement success including potential \u201chead lease\u201d requirements of the agencies to facilitate supports and inspections, strengthening language in leases with respect to landlord responsibilities, and other potential measures",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "353b10e65673",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back with an update on tenants' overall housing-stability success rates and trends among those repeatedly cycling through the programs.",
+  "confidence": "medium",
+  "quote": "provide an update of overall success rates of tenants maintaining stability, and any trends related to those who are not maintaining stable housing repeatedly cycling through these programs",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "f0be8624ec75",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted the amended item directing Civic Administration to report back to a future Community and Protective Services Committee meeting with an overview of placement barriers, success-rate data, and recommendations for strengthening tenant placement processes in the Housing Stability Program, without pausing any new 'Project Home' placements (a separate amendment to pause placements had already failed).",
+  "confidence": "medium",
+  "quote": "provide any recommendations for strengthening tenant placement processes and success rates, including both service delivery by partner agencies, as well as advocacy considerations to senior levels of government by Council",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "4816a8dbd930",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing the zoning by-law to rezone 767 Southdale Road East from a Residential R1 zone to a combined Residential R1/R8 special-provision zone, enabling the proposed residential development.",
+  "confidence": "medium",
+  "quote": "the proposed by-law ... BE INTRODUCED at the Municipal Council meeting to be held on September 23, 2025, ... to change the zoning of the subject properties FROM a Residential R1 (R1-4) Zone TO a Residential R1/Residential R8 Special Provision (R1-4/R8-4(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded item 8.1.13 (Council, 767 Southdale Rd E rezoning, Passed 14-1): quote and application-approval axis verified verbatim against the operative by-law-introduction clause; correctly avoided guessing a density axis from a bare R1->R1/R8 zone-code change with no explicit density/height wording."
+ },
+ {
+  "id": "fbe5d8717596",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recessed the Council meeting for 10 minutes.",
+  "confidence": "high",
+  "quote": "That the Council recess at this time, for 10 minutes.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "e805d2ddb3c4",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Increased the AECOM detailed-design contract by $803,764 (to $8,479,052) and approved financing for the Wellington Gateway Transit and Municipal Infrastructure Improvements project.",
+  "confidence": "medium",
+  "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Loaded item 8.3.3 (Council, Wellington Gateway AECOM design-contract increase, Passed 13-1). Issue and polarity (transit/expansive) hold, but 'service-expansion' does not: the operative clause is a consulting-contract price increase and a financing approval (AFFIRM_RE hits: BE APPROVED / BE AUTHORIZED) \u2014 it does not itself expand any service, route, frequency, network, or infrastructure (the word 'infrastructure' only appears inside the pre-existing project's own title, not as new scope being added). This is a procurement/budget approval, not a service-expansion decision \u2014 corrected to the same generic application-approval axis the classifier itself correctly used for the batch's rezoning items, to avoid overclaiming 'expanded transit service' from a cost-increase vote."
+ },
+ {
+  "id": "d92c2676d8b4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced the by-law authorizing the standard-form Project and Funding Agreement for construction or renovation of licensed child care and early years facilities, and delegated authority to execute individual agreements under that form.",
+  "confidence": "high",
+  "quote": "authorize and approve the standard form Project and Funding Agreement for Construction or Renovation for Licensed Child Care and Early Years Programs",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "e56eb972d15a",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Ratified a $7,345,000 federal grant agreement under the Interim Housing Assistance Program (IHAP) to provide interim housing for refugee protection claimants, and delegated authority to execute amending agreements.",
+  "confidence": "medium",
+  "quote": "ratify the agreement between The Government of Canada as represented by the Minister of Citizenship and Immigration and the City of London relating to Canada\u2019s Grant under the Interim Housing Assistance Program (IHAP) to the City of London in the amount of $7,345,000 for eligible activities incurred between January 1, 2025 and March 31, 2027",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded item 8.4.5 (Council, IHAP agreement ratification, Passed 13-1): AFFIRM_RE-type verb (ratify/BE INTRODUCED) confirmed, no 'affordable housing' phrase present so generic application-approval axis (not affordable-funding) is the right call, quote verbatim."
+ },
+ {
+  "id": "ac621e53bd84",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration.",
+  "confidence": "high",
+  "quote": "That part f) i) to iii) of the 5th Report of the Environmental Stewardship and Action Community Advisory Committee, from the meeting held on August 28, 2025, BE REFERRED to a future meeting of the Planning and Environment Committee for consideration.",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "c0ce6cf62032",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to undertake a study to identify the costs of infrastructure for mitigating wildlife-vehicle collisions (e.g., wildlife crossings such as underpasses and exclusionary fencing) to be incorporated in future transportation planning projects to service ecologically sensitive lands being moved inside the Urban Growth Boundary prior to the 2028 Development Charges Study",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "667304ee4d37",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Recommended increasing the AECOM detailed-design contract by $803,764 (to $8,479,052) and recommended approving financing for the Wellington Gateway Transit and Municipal Infrastructure Improvements project, at the Infrastructure and Corporate Services Committee stage (later ratified by Council as item 8.3.3 on September 23, 2025).",
+  "confidence": "medium",
+  "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Loaded item 2.1 (ICSC committee stage, Passed 5-1) \u2014 the committee-stage sibling of 3d072ced8231, same text. Same axis correction as 3d072ced8231 (application-approval, not service-expansion \u2014 see that entry's note). Additionally reworded whatAYeaDid to 'Recommended' framing: this is a committee recommendation to Council, not a final decision (Council ratified it separately three weeks later at item 8.3.3) \u2014 the classifier itself used this same 'Recommended' framing for dbe25f95d138 (also a committee-stage recommendation later ratified at Council) but not consistently here; corrected for consistency and to avoid stating a committee vote 'increased' a contract that was still subject to Council's own vote."
+ },
+ {
+  "id": "745320f6dbfa",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have directed Civic Administration to revise the Transit Oriented Development forgivable-loan program guidelines to add non-profit and affordable-housing applicants as eligible for the per-unit forgivable loan.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to revise Schedule \u201c1\u201d, being the Transit Oriented Development Community Improvement Project Area Financial Incentive Program Guidelines, to include the following: i) non-profits and/or affordable housing applicants",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded item 2.4 (PEC, TOD forgivable-loan guidelines): traced the vote-splitting sequence (part a)+c) 5-0, part b)i) FAILED 1-4, part b)ii) 5-0) and confirmed this id's 'Failed 1-4' result and Yeas:[S. Lehman] map to part b)i) specifically ('non-profits and/or affordable housing applicants'), not part b)ii) (green development measures) \u2014 quote and affordable-funding axis both verbatim-correct for that specific sub-clause."
+ },
+ {
+  "id": "280b1a605da3",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Recommended introducing the zoning by-law to rezone 767 Southdale Road East from a Residential R1 zone to a combined Residential R1/R8 special-provision zone, enabling the proposed residential development.",
+  "confidence": "medium",
+  "quote": "the proposed by-law as appended to the staff report dated September 9, 2025, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on September 23, 2025, to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject properties FROM a Residential R1 (R1-4) Zone TO a Residential R1/Residential R8 Special Provision (R1-4/R8-4(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded item 3.8 (PEC committee stage, 767 Southdale Rd E, Passed 4-1): identical rezoning clause to 5dc4e9be01e4 one meeting cycle earlier; classifier correctly used 'Recommended' (not 'Approved') to reflect this is the committee-stage recommendation later ratified by Council, not the final decision itself."
+ },
+ {
+  "id": "9f632543eedb",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
+  "confidence": "medium",
+  "quote": "That part j) iii) a motion BE AMMENDED to reads as follows: Implement the recommendations from the Path Loss Study to ensure acceptable service levels.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "af0eb6aa83a3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to issue statutory notice of Council's intention to expand the Hyde Park Business Improvement Area's boundaries and increase its board of management from seven to eight directors.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to proceed with issuing notices ... of Council\u2019s intention to consider the draft proposed by-law ... to: i) expand the area designated as an improvement area; and, ii) increase the number of directors comprising the board of management from seven (7) to eight (8)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "a5c0e3814085",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have directed Civic Administration to implement the corridor recommendations, including new in-boulevard cycling infrastructure on Sarnia Road and Western Road and new in-boulevard cycle lanes on Philip Aziz Avenue, alongside pedestrian-signal, storm-sewer, and watermain work.",
+  "confidence": "medium",
+  "quote": "new dedicated in-boulevard cycling infrastructure on Sarnia Road (from Sleightolme Ave to Western Rd) and Western Rd (Platt\u2019s Lane to Burnlea Walk), new roadway cross-section with in-boulevard cycle lanes on Philip Aziz Ave (Western Rd to Thames River)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded item 2.3 (CPSC, Western/Sarnia/Philip Aziz corridor, Failed 1-4): two motions in this item ('part b', Failed 1-4, cycling infrastructure implementation; 'part c', also Failed 1-4 with identical voters, pedestrian-scramble report-back) share the same result string but were correctly disambiguated by content \u2014 this id's quote matches part b)'s cycling-infrastructure clause verbatim, not part c)."
+ },
+ {
+  "id": "9d2d16516460",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with respect to other improvements at the Western Rd, Sarnia Ave / Phillip Aziz Ave intersection including more detailed information about the feasibility of a pedestrian scramble",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "3afb7e2cad1f",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back to the Community and Protective Services Committee on the potential of requiring signage disclosing whether a rental property and its units comply with municipal standards.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee with the potential of including signage which could include information about whether or not the property and the units in the property are in compliance with municipal standards.",
+  "flags": [
+   "informational_ask",
+   "not_divided"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "3952c790ba94",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing the zoning by-law to rezone 514-520 South Street from a Residential R7 zone to a Residential R5 special-provision zone for the proposed development.",
+  "confidence": "medium",
+  "quote": "the proposed by-law as appended to the staff report dated August 12, 2025, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on August 26, 2025 to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject property FROM a Residential R7 (R7*D75*H10) Zone TO a Residential R5 Special Provision (R5-7(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded item 8.2.14 (Council, 514-520 South St rezoning R7->R5SP, Passed 12-2): quote verbatim; correctly kept on generic application-approval axis rather than reading R7->R5 as a density decrease from the bare zone-code change alone."
+ },
+ {
+  "id": "a1809ef17b5c",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
+  "confidence": "medium",
+  "quote": "the Subdivision Approval Authority BE REQUESTED to consider amending the draft plan of subdivision to require the subject lands to be reserved for 3 years for permitted uses within the Community Facility (CF2) zone until the draft plan of subdivision lapses",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "47030084ea1e",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a citywide zoning by-law amendment to the 'stacked townhouse' definition, allowing stacked townhouse buildings taller than two units high.",
+  "confidence": "high",
+  "quote": "TO AMEND Zoning By-law No. Z.-1, Section 2 Definition for \"DWELLING\" r) \"STACKED TOWNHOUSE\" to facilitate stacked townhouse dwellings with more than two units high",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded item 8.2.20 (Council, city-wide stacked-townhouse definition amendment, Passed 13-2): operative clause explicitly 'facilitate stacked townhouse dwellings with more than two units high' is an unambiguous citywide density/height increase; quote verbatim."
+ },
+ {
+  "id": "6fb8aac5501b",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks.",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE DIRECTED to bring forward a report to a future meeting of the Planning and Environment Committee examining; a) the feasibility of developing an Agricultural Offset Policy, including best practices from other jurisdictions",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "7cf8ddca1bc9",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back with options addressing property encroachments (including considerations and impacts) for the properties at 1634 to 1786 Attawandaron Road, as part of the Medway Valley Conservation Master Plan review.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to report back with options addressing property encroachments, including related considerations and impacts, for the properties at 1634 to 1786 Attawandaron Rd",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "2f4e4bf8f5a7",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed that the Conservation Master Plan review include passive recreation consistent with the historical use of the defined Attawandaron Road Park area, and outline how that space will be maintained going forward.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED, as part of the Conservation Master Plan review, to include passive recreation consistent with the historical use of Attawandaron Road Park, defined as the area between the pathway at 1726 Attawandaron Road (north) and the pathway at 1634 Attawandaron Road (south), and to outline how the space will be maintained moving forward",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "a076bd968c19",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations.",
+  "confidence": "high",
+  "quote": "That the proposed changes to the Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan BE REFERRED to Civic Administration to report back at a future meeting of the Planning and Environment Committee, including consideration of potential design alternatives for the trail, specific resident concerns regarding its location and design, and matters related to Accessibilities for Ontarians with Disabilities Act (AODA) compliance",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "c341c159cdca",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted the amended Conservation Master Plan directive: removed the planned trail section from Attawandaron Road Park and halted its construction, directed a report back on property-encroachment options, and directed that passive recreation consistent with historical use continue in the defined park area.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to undertake a review of the Conservation Master Plan and update it to remove the trail section of Attawandaron Road Park and take no further action on the implementation and construction of this trail",
+  "flags": [],
+  "verdict": "downgraded",
+  "verifierNote": "Loaded item 8.2.8 full record (Council, Medway Valley Heritage Forest ESA (South) Conservation Master Plan, Passed 10-5, plus its committee-stage amendment votes). The classifier flagged this one itself as a close call, and on independent review I can't confirm it: the operative clause directs Civic Administration to 'update [the CMP] to remove the trail section of Attawandaron Road Park and take no further action on the implementation and construction of this trail' \u2014 the verb 'remove' governs the TRAIL (a planned recreation amenity), not the ESA's natural-heritage designation or protection status, which is unchanged either way. The record shows the push to cancel the trail was driven by resident/property-encroachment concerns near Attawandaron Rd (per the communications from the neighbourhood association and the encroachment-report-back amendment adopted alongside it), not an articulated ecological-protection rationale, and part c) of the same amended motion preserves 'passive recreation consistent with historical use' regardless of outcome \u2014 so a yea here doesn't cleanly read as 'more protective of natural heritage' versus simply resolving a park-amenity/property dispute in the residents' favour. Given genuine ambiguity on which way (or whether) this maps onto the natural-heritage axis, downgrading to unclear rather than asserting a direction I can't fully stand behind."
+ },
+ {
+  "id": "7126cff13284",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Increased the AECOM construction-inspection and contract-administration services contract by $120,000 (to $1,924,701) and approved financing for the Wellington Street Rapid Transit Implementation project (Queens Avenue to the Thames River, South Branch).",
+  "confidence": "medium",
+  "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Loaded item 8.4.7 (Council, Wellington St AECOM construction-inspection contract increase, Passed 13-2). Same axis correction as 3d072ced8231 and the same reasoning: a contract-price increase and financing approval is not itself a service/infrastructure expansion under the axis's own definition (increase-verb within 60 chars of service/route/frequency/network/infrastructure does not fire on this text) \u2014 corrected to application-approval. This is the final Council decision (not committee stage), so the 'Increased/approved' whatAYeaDid wording is accurate as-is."
+ },
+ {
+  "id": "7ae6c0ae05ef",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Recommended increasing the AECOM construction-inspection and contract-administration services contract by $120,000 (to $1,924,701) and recommended approving financing for the Wellington Street Rapid Transit Implementation project (Queens Avenue to the Thames River, South Branch), at the Infrastructure and Corporate Services Committee stage (later ratified by Council as item 8.4.7 on August 26, 2025).",
+  "confidence": "medium",
+  "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Loaded item 2.4 (ICSC committee stage, Passed 4-1) \u2014 the committee-stage sibling of 883ee33ef545, same text. Same axis correction (application-approval, not service-expansion) and same committee-stage wording fix as cf36e50bdd48 (this is a recommendation later ratified by Council, not a final decision itself)."
+ },
+ {
+  "id": "cf86b5f29019",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a request that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before the draft plan of subdivision could proceed toward residential development.",
+  "confidence": "medium",
+  "quote": "the Subdivision Approval Authority BE REQUESTED to consider amending the draft plan of subdivision to require the subject lands to be reserved for 3 years for permitted uses within the Community Facility (CF2) zone until the draft plan of subdivision lapses",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "5beac63c53b5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a direction for the Mayor to write to the Ontario Solicitor General suggesting changes to provincial legislation on dangerous dogs and public safety.",
+  "confidence": "high",
+  "quote": "The Mayor BE REQUESTED to write a letter to the solicitor general, with respect to this matter, to suggest changes to provincial legislation related to dangerous dogs and public safety.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "b7f1a4280119",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the direction for the Mayor to write to the Ontario Solicitor General suggesting changes to provincial legislation on dangerous dogs and public safety.",
+  "confidence": "high",
+  "quote": "The Mayor BE REQUESTED to write a letter to the Solicitor General, with respect to this matter, to suggest changes to provincial legislation related to dangerous dogs and public safety.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "bf6758a065fe",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back with the potential of requiring signage disclosing whether a rental property and its units comply with municipal standards.",
+  "confidence": "high",
+  "quote": "The Civic Administration BE DIRECTED to report back with the potential of including signage which could include information about whether or not the property and the units in the property are in compliance with municipal standards.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "dd94deb7add9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Located the proposed Emergency Services Campus on city-owned land at 3243 Manning Drive and directed Civic Administration, in consultation with London Police Services, to submit an executive summary on the campus to a future Infrastructure and Corporate Services Committee meeting.",
+  "confidence": "high",
+  "quote": "the proposed Emergency Services Campus BE LOCATED on city-owned land at 3243 Manning Drive",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "93a7f9754452",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved beginning the legal expropriation process for land needed for Phase 2 of the Wellington Gateway project's civil works, including applying to Council as approving authority, publishing statutory notice, and introducing the authorizing by-law.",
+  "confidence": "medium",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "87b1cae35e16",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed Civic Administration to allocate up to 30% of the 2025 municipal rent-supplement increase ($1 million annually) to Atlohsa Family Healing Services to administer portable housing benefits for Indigenous-identifying individuals experiencing homelessness through Atlohsa's Housing First and Rapid Rehousing programs, and to pursue expanded partnerships with other Indigenous-led housing providers.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to allocate up to 30% of the 2025 municipal rent supplement increase (approved at $1 million annually) to Atlohsa Family Healing Services for the administration of portable housing benefits supporting Indigenous identifying individuals experiencing homelessness",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded item 8.2.11 (Council, Municipal Rental Assistance Program for Indigenous-led housing, Passed 14-1): quote verbatim; 'experiencing homelessness' keyword supports encampments issue and the funding-allocation content supports an expanded-response read."
+ },
+ {
+  "id": "be1f4927f690",
+  "issue": "budget",
+  "axis": "business-case",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and find an appropriate source of funding",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded item 8.2.14 / part a) only (Council, School Crossing Guard business case, Failed 5-10): quote verbatim, 'BE DIRECTED to include a budget business case' is a direct, unambiguous match to the business-case-inclusion axis language."
+ },
+ {
+  "id": "2cd59c5dfe20",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to review the School Crossing Guard policy and report back to a future Community and Protective Services Committee meeting with suggestions for improvement, including the number of crossing guards per school.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to review the School Crossing Guard policy and report back at a future meeting of CPSC to provide any suggestions for improvements, including but not limited to number of school crossing guards per school",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "b9118f81b273",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted the amended item directing Civic Administration to review the School Crossing Guard policy, report back with improvement suggestions, and engage all London public and private school boards on crossing-guard standards.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to engage on the review of the standards of the School Guard Crossing Policy with all public school boards and private schools within the City of London to discuss the issues of school crossings at all London schools",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "fbc18eb71f19",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that the Downtown London BIA provide a list of expenditures from its portion of COVID-19 Relief Funding.",
+  "confidence": "high",
+  "quote": "the Downtown London BIA BE REQUESTED provide a list of expenditures from their portion of the Covid 19 Relief Funding",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "f42a5b460702",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA.",
+  "confidence": "medium",
+  "quote": "That the communication from Councillor H. McAlister, dated July 7, 2025, with respect to a Funding Request for the Hamilton Road BIA and the Old East Village BIA, BE REFERRED to the August 11, 2025 meeting of the Community and Protective Services Committee in order to allow time to receive a list of the earmarked items for the remaining balance for the COVID 19 Relief Funding from the Hamilton Road and Old East Village BIAs",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "29dd3d1ef53d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to allocate one-time funding of $62,500 from the Community Investment Reserve Fund to the Hamilton Road BIA to continue its joint private security services contract with the Argyle BIA for 2026.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to allocate one-time funding of $62,500.00 from the Community Investment Reserve Fund to the Hamilton Road BIA to allow them to continue their joint private security services contract with the Argyle BIA for 2026",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "fc2254195725",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to immediately reimburse the Old East Village BIA $34,179.62 from the Community Investment Reserve Fund for previously incurred costs on private-property clean-ups, graffiti removal, and enhanced safety and security measures.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to immediately reimburse the Old East Village BIA the amount of $34,179.62 from the Community Investment Reserve Fund for previously expended costs related to private property clean-ups, graffiti removal, and enhanced safety and security measures",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "f59b04cd80be",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved changing the order of the Council agenda so the 12th Report of the Planning and Environment Committee would be considered before the 11th Report.",
+  "confidence": "high",
+  "quote": "a change in order of the Council Agenda BE APPROVED, to provide for the 12th Report of the Planning and Environment Committee to be considered before the 11th Report of the Planning and Environment Committee",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "ee000df2b284",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance).",
+  "confidence": "high",
+  "quote": "That the staff report dated July 14, 2025 related to the Affordable Homeownership Program Relaunch BE REFERRED to a future meeting of the Community and Protective Services Committee to allow the Civic Administration to come back with a business case for the Province requesting reallocation of the funds to another affordable housing purpose",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ }
 ]

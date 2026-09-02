@@ -14,19 +14,19 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
-| [Housing & Density](/election/issues/housing) | 236 | 136 |
-| [Homelessness & Encampments](/election/issues/encampments) | 136 | 59 |
-| [Taxes & Budget](/election/issues/budget) | 130 | 85 |
-| [Transit & Roads](/election/issues/transit) | 64 | 33 |
+| [Housing & Density](/election/issues/housing) | 175 | 84 |
+| [Homelessness & Encampments](/election/issues/encampments) | 130 | 59 |
+| [Taxes & Budget](/election/issues/budget) | 124 | 82 |
+| [Transit & Roads](/election/issues/transit) | 57 | 28 |
 | [Climate & Green Space](/election/issues/climate) | 39 | 17 |
-| [Downtown & Core](/election/issues/downtown) | 25 | 16 |
+| [Downtown & Core](/election/issues/downtown) | 23 | 14 |
 | [Bike Lanes / Cycling](/election/issues/bikes) | 18 | 13 |
 | [Policing](/election/issues/policing) | 14 | 6 |
 
 
 ## Unclassified divided votes
 
-501 additional divided motions since January 1, 2023 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 501 are listed below:
+487 additional divided motions since January 1, 2023 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 487 are listed below:
 
 - July 21, 2026 — (2.1) Green Development Framework Update (item 8.2.4)
 - July 21, 2026 — (4.5) By-law Enforcement Administrative Fees (item 8.4.11)
@@ -35,7 +35,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - July 14, 2026 — 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055 (item 3.8)
 - July 13, 2026 — By-law Enforcement Administrative Fees (item 4.5)
 - June 23, 2026 — (2.4) Contract Award: Tender No. RFT-2025-222 Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street (item 8.4.9)
-- June 23, 2026 — (4.1) Councillor C. Rahman - Third-Party Appeal Mechanism (item 8.5.12)
 - June 23, 2026 — (4.1) Councillor C. Rahman - Third-Party Appeal Mechanism (item 8.5.12)
 - June 23, 2026 — (3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259) (item 8.5.7)
 - June 22, 2026 — Green Development Framework Update (item 2.1)
@@ -65,6 +64,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - March 9, 2026 — (ADDED) Request to Update Municipal Compliance By-law - Amendment to Section 4.7 and Creation of a Public Rental Licence Lookup Tool (item 5.1)
 - March 9, 2026 — (ADDED) Community Housing Financial Challenges (item 5.2)
 - March 3, 2026 — (ADDED) Councillor E. Peloza – Personal Update (item 6.9)
+- March 3, 2026 — (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes (item 8.1.13)
 - March 3, 2026 — (2.4) Residential Rental Unit Licensing (RRUL) License Display (item 8.2.8)
 - March 3, 2026 — (4.1) Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services (item 8.2.9)
 - March 3, 2026 — (4.1) Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services (item 8.2.9)
@@ -75,6 +75,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - February 23, 2026 — Update to Council Policy - Travel and Business Expenses (item 2.13)
 - February 23, 2026 — Restricted Acts of Council after Nomination Day and Voting Day (item 2.8)
 - February 23, 2026 — Contract Award: Tender No. RFT-2025-223 Wellington Gateway and Municipal Infrastructure Improvements Phase 2A – Wilkins Street to Baseline Road (item 2.9)
+- February 17, 2026 — Residential Rental Unit Licensing (RRUL) License Display (item 2.4)
 - February 17, 2026 — Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services (item 4.1)
 - February 10, 2026 — (2.3) Sunningdale Road West Improvements – Pipeline Decommissioning and New Pipeline Agreement (Relates to Bill No. 63) (item 8.1.6)
 - February 10, 2026 — (4.2) Temporary Warming Centres (item 8.2.9)
@@ -84,6 +85,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - January 26, 2026 — Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles (item 4.1)
 - January 13, 2026 — Request for an Amendment to the London Transit Commission Board Member Composition (item 4.2)
 - January 12, 2026 — Contract Award: RFT-2025-224 East London Link and Municipal Infrastructure Improvements Phase 3A East - Dundas Street (item 2.8)
+- December 9, 2025 — Micro-Modular Shelter Site Update (item 2.1)
 - December 8, 2025 — Pollution Prevention and Control Plan Update Study - Notice of Completion (item 2.2)
 - December 8, 2025 — Pollution Prevention and Control Plan Update Study - Notice of Completion (item 2.2)
 - November 25, 2025 — (4.2) Councillor H. McAlister - Garbage Along the Highbury Avenue South Corridor (Between Hamilton Road and Bradley Avenue) (item 8.1.13)
@@ -130,14 +132,11 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - October 28, 2025 — Consideration of Amendments to the Council Procedure By-law A-61 - Councillor C. Rahman, Deputy Mayor S. Lewis and Councillor D. Ferreira (item 4.6)
 - October 21, 2025 — Update on Bill 17 and Green Development Guidelines (Framework) (item 2.2)
 - October 14, 2025 — Councillor S. Franke - Revisiting the Urban Growth Boundary Review Using Updated Population Projections (item 7.2)
-- October 14, 2025 — (3.2) Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54) (item 8.3.10)
 - October 14, 2025 — (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps (item 8.3.4)
 - October 14, 2025 — (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps (item 8.3.4)
 - October 14, 2025 — (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps (item 8.3.4)
 - October 14, 2025 — (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps (item 8.3.4)
 - October 7, 2025 — Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment in Old East Village (item 2.1)
-- October 1, 2025 — Heritage Designation of the Property at 1511 Clarke Road (item 2.1)
-- September 29, 2025 — Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54) (item 3.2)
 - September 29, 2025 — Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54) (item 3.2)
 - September 29, 2025 — Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54) (item 3.2)
 - September 29, 2025 — Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54) (item 3.2)
@@ -157,9 +156,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - July 22, 2025 — 12th Report of the Planning and Environment Committee (item 8.4)
 - July 17, 2025 — 2nd Report of the Governance Working Group (item 2.1)
 - July 16, 2025 — Biosolids Management Master Plan - Notice of Completion (item 2.1)
-- July 16, 2025 — Expropriation of Lands - Phase 2 - Wellington Gateway Project Civil Works (item 2.8)
 - July 14, 2025 — (ADDED) Funding Request for Hamilton Road BIA and the Old East Village BIA (item 5.2)
-- June 24, 2025 — (3.2) Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 257) (item 8.1.6)
 - June 24, 2025 — (2.6) Procurement of Goods & Services Policy Update (item 8.2.7)
 - June 24, 2025 — (2.6) Procurement of Goods & Services Policy Update (item 8.2.7)
 - June 24, 2025 — (2.6) Procurement of Goods & Services Policy Update (item 8.2.7)
@@ -234,18 +231,12 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - March 4, 2025 — (4.2) London Public Library Board of Directors Vacancy (item 8.3.6)
 - March 4, 2025 — (2.11) Adult Entertainment Body-Rub Attendant Licensing - Information Report (item 8.4.12)
 - March 4, 2025 — (2.11) Adult Entertainment Body-Rub Attendant Licensing - Information Report (item 8.4.12)
-- February 25, 2025 — Eldon House Board of Directors – By-law Update (item 2.3)
 - February 18, 2025 — Amendment to Fees and Charges By-Law - Honk Mobile (item 2.10)
 - February 11, 2025 — (3.1) Demolition Request and Heritage Alteration Permit Application at 66 Blackfriars Street (item 8.2.7)
 - January 21, 2025 — Enquiries (item 11)
 - December 17, 2024 — Integrity Commissioner's Recommendation Report Regarding Councillor Susan Stevenson (item 6.1)
 - December 17, 2024 — Integrity Commissioner's Recommendation Report Regarding Councillor Susan Stevenson (item 6.1)
-- December 17, 2024 — (3.6) Request to remove the Heritage Listed Property at 1927 Richmond Street from the Register of Cultural Heritage Resources (item 8.1.14)
-- December 17, 2024 — (3.9) 1922 Highland Heights and 205 Commissioners Road East (Relates to Bill No. 36) (item 8.1.17)
-- December 17, 2024 — (2.7) Expropriation of Lands - Wellington Gateway Project - Civil Works - Phase 2 (Relates to Bill No. 22) (item 8.2.11)
-- December 17, 2024 — (2.14) Special Events Policy Update (Relates to Bill No. 19) (item 8.3.15)
 - December 17, 2024 — (2.1) Film London - LEDC Purchase of Service Agreement Amendment (Relates to Bill No. 8) (item 8.4.4)
-- December 17, 2024 — (3.1) Final Report - 2024 Ward Boundary Review (item 8.4.5)
 - December 10, 2024 — Film London - LEDC Purchase of Service Agreement Amendment (item 2.1)
 - December 10, 2024 — Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review (item 3.1)
 - December 10, 2024 — Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review (item 3.1)
@@ -253,10 +244,8 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - December 10, 2024 — Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review (item 3.1)
 - December 10, 2024 — Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review (item 3.1)
 - December 10, 2024 — Housing Accelerator Fund - First Annual Update (item 4.3)
-- December 9, 2024 — Expropriation of Lands - Wellington Gateway Project - Civil Works - Phase 2 (item 2.7)
 - December 3, 2024 — Land Needs Assessment - Official Plan Review of The London Plan (O-9595) (item 3.14)
 - December 2, 2024 — Property Standards By-law CP-24 - Amendments Related to Minimum Headroom and Information Regarding the Tenant-Landlord Forum (item 2.10)
-- December 2, 2024 — Special Events Policy Update (item 2.14)
 - November 26, 2024 — (4.5) Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis (item 8.1.12)
 - November 26, 2024 — (4.6) Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman (item 8.1.13)
 - November 26, 2024 — 17th Report of the Corporate Services Committee (item 8.3)
@@ -284,7 +273,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - November 5, 2024 — (3.1) Life*Spin - Property Standards and Tenant Support (item 8.5.6)
 - October 29, 2024 — Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update (item 4.1)
 - October 29, 2024 — Agencies, Boards and Commissions Motion - Councillor S. Franke and Councillor C. Rahman (item 4.3)
-- October 21, 2024 — 10th Report of the Animal Welfare Community Advisory Committee (item 2.1)
 - October 21, 2024 — Life*Spin - Property Standards and Tenant Support (item 3.1)
 - October 21, 2024 — Life*Spin - Property Standards and Tenant Support (item 3.1)
 - September 24, 2024 — (2.2) Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (Relates to Bills No. 307, 308 and 320) (item 8.2.4)
@@ -310,6 +298,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - July 18, 2024 — 1st Report of the Strategic Opportunities Review Working Group (SORWG) (item 4.2)
 - July 18, 2024 — 1st Report of the Strategic Opportunities Review Working Group (SORWG) (item 4.2)
 - July 18, 2024 — 1st Report of the Strategic Opportunities Review Working Group (SORWG) (item 4.2)
+- July 18, 2024 — 1st Report of the Strategic Opportunities Review Working Group (SORWG) (item 4.2)
 - July 18, 2024 — Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins (item 4.5)
 - July 18, 2024 — Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins (item 4.5)
 - July 18, 2024 — Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins (item 4.5)
@@ -321,13 +310,17 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - June 18, 2024 — Master Accommodation Plan - Redevelopment of City Hall Campus (item 2.2)
 - June 18, 2024 — London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan (item 4.1)
 - June 18, 2024 — London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan (item 4.1)
+- June 18, 2024 — London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan (item 4.1)
+- June 18, 2024 — London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan (item 4.1)
+- June 18, 2024 — London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan (item 4.1)
 - June 4, 2024 — (2.12) Update and Next Steps for Gasoline Powered Lawn and Garden Equipment (item 8.2.15)
-- June 4, 2024 — (3.3) 743 Wellington Road (Z-9720)(Relates to Bill No. 205) (item 8.4.8)
 - June 4, 2024 — (4.2) Application - Issuance of Proclamation - Shine the Light on Woman Abuse (item 8.5.10)
 - June 4, 2024 — (4.2) Application - Issuance of Proclamation - Shine the Light on Woman Abuse (item 8.5.10)
 - June 4, 2024 — (4.1) Request of Removal of Glass Barrier in Council Chambers (item 8.5.9)
 - May 28, 2024 — Not to be heard before 1:05 PM - London Hydro Inc. - 2023 Annual General Meeting of the Shareholder Annual Resolutions (item 3.1)
 - May 27, 2024 — Application - Issuance of Proclamation - Shine the Light on Woman Abuse (item 4.2)
+- May 14, 2024 — (2.5) Core Area Parking Incentives Extension (item 8.2.7)
+- May 14, 2024 — (2.5) Core Area Parking Incentives Extension (item 8.2.7)
 - April 30, 2024 — SS-2024-098 - Single Source Purchase of Energreen Tractor Mower (item 2.9)
 - April 16, 2024 — Whole of Community System Response - Quarterly Update April (item 2.1)
 - April 16, 2024 — 9th Report of the Governance Working Group (item 2.2)
@@ -429,7 +422,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - August 29, 2023 — (3.1) Fireworks By-law Options (item 8.3.4)
 - August 29, 2023 — (3.1) Fireworks By-law Options (item 8.3.4)
 - August 29, 2023 — (5.1) Referred by Municipal Council on July 25, 2023 - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee (item 8.4.13)
-- August 29, 2023 — (5.1) Referred by Municipal Council on July 25, 2023 - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee (item 8.4.13)
 - August 29, 2023 — 12th Report of Council in Closed Session (item 9.1)
 - August 15, 2023 — Fireworks By-law Options (item 3.1)
 - August 15, 2023 — Fireworks By-law Options (item 3.1)
@@ -443,7 +435,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - July 25, 2023 — (4.1) Master Accommodation Plan - Alternate Work Strategies Update (item 8.1.3)
 - July 25, 2023 — (4.3) Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members) (Relates to Bill No. 225) (item 8.1.5)
 - July 25, 2023 — (4.3) 39 Carfrae Street - Application Pursuant to Heritage Easement Agreement (item 8.2.19)
-- July 25, 2023 — (2.5) Council Policy Manual Review 2023 (Relates to Bill No.'s 216 to 224, 232 and 233) (item 8.3.14)
 - July 25, 2023 — (4.1) Consideration of Appointments to the London Community Advisory Committees (item 8.3.9)
 - July 25, 2023 — (2.4) Primary Care Recruitment, Transition into Practice and Retention Program Funding Request (item 8.4.6)
 - July 25, 2023 — (2.4) Primary Care Recruitment, Transition into Practice and Retention Program Funding Request (item 8.4.6)
@@ -468,7 +459,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - July 17, 2023 — 39 Carfrae Street - Application Pursuant to Heritage Easement Agreement (item 4.3)
 - July 17, 2023 — 39 Carfrae Street - Application Pursuant to Heritage Easement Agreement (item 4.3)
 - June 27, 2023 — Communications and Petitions (item 6)
-- June 27, 2023 — (3.1) Blackfriars Bridge - Long Term Use (item 8.1.8)
 - June 27, 2023 — 17th Meeting of the Strategic Priorities and Policy Committee (item 8.2)
 - June 27, 2023 — (5.1) Consideration of Appointment to the London Police Services Board (item 8.2.2)
 - June 27, 2023 — (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry (item 8.3.11)
@@ -476,21 +466,17 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - June 27, 2023 — (4.4) Councillor J. Pribil - Winter Response Program (item 8.8.16)
 - June 27, 2023 — 10th Report of Council in Closed Session (item 9.1)
 - June 20, 2023 — Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry (item 4.1)
-- June 19, 2023 — Request for Heritage Designation - 599-601 Richmond Street (item 2.3)
 - June 13, 2023 — Blackfriars Bridge - Long Term Use (item 3.1)
 - June 13, 2023 — Fireworks By-Law Options Report (item 4.2)
 - June 13, 2023 — (ADDED) Councillor J. Pribil - Winter Response Program (item 4.4)
 - June 12, 2023 — Community Improvement Plans and Financial Incentive Programs (Final) (item 3.2)
-- June 6, 2023 — (2.4) 1st Report of the Governance Working Group (item 8.3.9)
 - June 6, 2023 — (2.6) Heritage Alteration Permit - 27 Bruce Street - Wortley Village-Old South Conservation District (HAP23-015-L) (item 8.4.7)
 - June 6, 2023 — (2.6) Heritage Alteration Permit - 27 Bruce Street - Wortley Village-Old South Conservation District (HAP23-015-L) (item 8.4.7)
 - June 6, 2023 — (4.4) Application - Issuance of Proclamation - World Sickle Cell Day 2023 (item 8.5.12)
-- June 6, 2023 — (2.5) Expropriation of Lands - East London Link Project Phase 3 (Relates to Bill No. 170) (item 8.5.7)
-- June 6, 2023 — (2.6) Expropriation of Lands - Wellington Gateway Project Phase 3 and 4 (Relates to Bill No. 171) (item 8.5.8)
 - June 5, 2023 — Consideration of Appointment to the London Police Services Board (item 5.1)
+- May 30, 2023 — Request for Business Cases for the Multi-Year Budget (item 4.3)
 - May 24, 2023 — Automated Enforcement Program Expansion Single Source 2023-142 (item 4.3)
 - May 23, 2023 — Consent (item 2)
-- May 23, 2023 — Expropriation of Lands - East London Link Project Phase 3 (item 2.5)
 - May 16, 2023 — (4.1) Application - Issuance of Proclamation - Longest Day of SMILES (item 8.1.6)
 - May 16, 2023 — (2.4) Housing Collaborative Initiative (HCI) - Update (item 8.2.5)
 - May 9, 2023 — London Police Services Board Candidates Interview Process (item 4.2)
@@ -502,7 +488,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - April 11, 2023 — Members of Council Proof of COVID-19 Vaccination Policy (item 2.8)
 - April 4, 2023 — (4.2) Consideration of Appointment to the London Police Services Board (item 8.2.5)
 - April 4, 2023 — (4.2) Consideration of Appointment to the London Police Services Board (item 8.2.5)
-- April 4, 2023 — (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes (item 8.3.9)
 - April 4, 2023 — (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes (item 8.3.9)
 - March 28, 2023 — Council's Draft 2023-2027 Strategic Plan (item 4.1)
 - March 28, 2023 — (ADDED) Request to Declare a State of Emergency regarding Housing (item 5.1)
@@ -527,7 +512,8 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - January 31, 2023 — Exotic Animal Establishments (item 4.1)
 - January 31, 2023 — Exotic Animal Establishments (item 4.1)
 - January 30, 2023 — Declare Surplus - City-Owned Property - Part of 641 Queens Avenue (item 2.4)
+- January 26, 2023 — Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000) (item 4.3)
 - January 23, 2023 — Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results (item 4.1)
 - January 9, 2023 — 634 Commissioners Road West (item 3.2)
 
-*Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here. Separately, 434 classified motions have a motion-text excerpt on this hub that's cut off at a 500-character display cap in the source data — this affects how much of the quoted text you see, not the classification itself, which was independently verified against each motion's complete text in the source meeting record. 12 additional motions were dropped from the divided-vote universe entirely before classification because the verification pass found they weren't a genuine division (a lopsided result the source data's own "unanimous" flag missed, or the same motion recorded twice under two item numbers).*
+*Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here. Separately, 338 classified motions have a motion-text excerpt on this hub that's cut off at a 500-character display cap in the source data — this affects how much of the quoted text you see, not the classification itself, which was independently verified against each motion's complete text in the source meeting record. 12 additional motions were dropped from the divided-vote universe entirely before classification because the verification pass found they weren't a genuine division (a lopsided result the source data's own "unanimous" flag missed, or the same motion recorded twice under two item numbers).*

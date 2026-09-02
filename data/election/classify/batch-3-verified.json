@@ -1,609 +1,609 @@
 [
-  {
-    "id": "a23c5771a121",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing the by-law authorizing the MOU and Agreement for the new Secondary School Transit Pass Pilot Program, capped at $880,000 in financing for September 2026 to June 2028 with July/August excluded.",
-    "confidence": "medium",
-    "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the “MOU”), as appended to the proposed by-law as Schedule “1”, BE AUTHORIZED and BE APPROVED;",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Council 2026-02-10 item 8.4.5, final 'item 5, clause 2.3, as amended, BE APPROVED' (9-5) matches manifest exactly. Full reads-as-amended text (post_motion_texts) contains the quoted MOU authorization verbatim. Transit/service-expansion/expansive is a fair read: this approves introducing a new Secondary School Transit Pass Pilot Program by-law (a genuinely new transit service), correctly incorporating the amendment that cut financing to $880,000 rather than ignoring it."
-  },
-  {
-    "id": "700cfca48a00",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Rejected reverting the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years, leaving the ten-year term in place.",
-    "confidence": "low",
-    "quote": null,
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "483aafa664ec",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved referring the Affordable Home Ownership Incentive Program's by-law back to Civic Administration to report on program options (length, capital gains vs. interest, sliding-scale forgiveness, down payment vs. cash back) in consultation with private-sector partners, rather than adopting the by-law that day.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "referral",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "9375f69a3817",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Secondary School Transit Pass Pilot Program's financing clause to run through August 2028 instead of June 2028, without changing the $1.04 million funding cap.",
-    "confidence": "low",
-    "quote": null,
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "77c61a6c4a03",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved (at committee) introducing the by-law authorizing the MOU and Agreement for the new Secondary School Transit Pass Pilot Program, funded up to $1.04 million for September 2026 to August 2028 with summer months excluded.",
-    "confidence": "medium",
-    "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the “MOU”), as appended to the proposed by-law as Schedule “1” , BE AUTHORIZED and BE APPROVED;",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "SPPC 2026-02-03 item 2.3, final 'the motion, as amended, BE APPROVED' (7-4) matches manifest exactly. Quote verbatim in motion_texts. Same program as a23c5771a121 but at committee stage (correctly labelled '(at committee)' in whatAYeaDid, not misrepresented as a final Council decision) with the pre-amendment $1.04M/Aug-2028 figures, which the description correctly reflects."
-  },
-  {
-    "id": "512f5fb9506a",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Declined to refer the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions), leaving the original by-law on the table instead.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "referral",
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "cad64d3f88f7",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Affordable Home Ownership Incentive Program to restrict eligibility to first-time home buyers.",
-    "confidence": "low",
-    "quote": null,
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "5e53d3d0a2d1",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Affordable Home Ownership Incentive Program to extend its loan term from five years to ten years.",
-    "confidence": "low",
-    "quote": null,
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "ea3b4f086b8b",
-    "issue": "housing",
-    "axis": "affordable-funding",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved (at committee) introducing the by-law creating the new Affordable Home Ownership Incentive Program financial-incentive program, as amended to restrict eligibility to first-time, current-resident home buyers with a ten-year loan term.",
-    "confidence": "medium",
-    "quote": "the revised proposed by-law, as appended to the Added Council Agenda, BE INTRODUCED at the Municipal Council meeting to be held on February 10, 2026, to amend By-law No. C.P.-1545-41, being “A by-law to established financial incentives for the Affordable Housing Community Improvement Project Area”",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "SPPC 2026-02-03 item 2.4, final 'the motion, as amended, BE APPROVED; it being noted that Civic Administration will bring forward a revised by-law...' (8-6) matches manifest exactly. Quote verbatim in part a). housing/affordable-funding/expansive is accurate: this creates a brand-new home-ownership financial-incentive program; whatAYeaDid honestly discloses the narrowing amendments (first-time/current-resident/10-year term) rather than hiding them, so the classification is not overstated."
-  },
-  {
-    "id": "f179dafa766f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Declined to refer the DIACAC staff report back to Civic Administration for further consultation with DIACAC, instead proceeding straight to a vote on the report's recommendation.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "998400eb3bed",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a direction for Civic Administration to bring the feasibility report on the Net Zero Emissions Green Municipal Fund project to committee as soon as it is received.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "ef6fb4f2ba84",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved the financing, agreement, and by-law introduction for the Imperial Oil pipeline decommissioning and relocation tied to the Sunningdale Road West improvements.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "106cac54de25",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing the by-law to rezone 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R5/R1 to a higher-density Holding Residential R8 zone.",
-    "confidence": "high",
-    "quote": "to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, The London Plan, to change the zoning of the subject property FROM a Residential R5 Special Provision (R5-7(25)) and a Residential R1 (R1-7) Zone TO a Holding Residential R8 Special Provision (h-8*R8-4(_)) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "PEC 2026-01-27 item 3.4, motion (3-1) matches manifest exactly. Quote is a verbatim substring of the FROM-R5/R1-TO-R8 rezoning clause. housing/density/expansive is unambiguously correct: R5/R1 (low density) to Holding R8 (much higher density) is a textbook density increase, and the motion actually passed (no denial-flip risk here)."
-  },
-  {
-    "id": "0af18c13bd47",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Rejected amending the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council.",
-    "confidence": "low",
-    "quote": null,
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "208ce0e044ea",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Permitted the committee to continue meeting past 6:00 PM.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "9a23fffc91d3",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Endorsed the proposed system-transformation approach and multi-year Housing Stability Services procurement framework.",
-    "confidence": "low",
-    "quote": null,
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "1a8f5640663c",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Rejected approving the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations.",
-    "confidence": "low",
-    "quote": null,
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "c12b1e1bf805",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Declined to limit the City of London Community Grants Annual Stream to capital-only funding for 2026 and 2027, leaving the existing broader grant categories in place.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "8f88260bbc7b",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved adjusting the Boyle Memorial Community Centre's Tier 3 Surge Response morning closing time and providing additional garbage and CIR support as needed.",
-    "confidence": "medium",
-    "quote": "provide additional garbage and CIR support as needed",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "CPSC 2026-01-26 item 4.2 (Temporary Warming Centres), 'part d) of the motion, as amended, BE APPROVED' (4-2, Yeas Lewis/Pribil/Trosow/Ferreira vs Nays Hopkins/Peloza) matches manifest exactly and is the correct sub-motion (not the 4-2 part e)ii) that has a different, swapped lineup) -- whatAYeaDid's 'adjust closing time + additional garbage/CIR support' maps precisely onto part d)'s text, not onto the 24/7-warming-centre scenario in e)ii). Quote 'provide additional garbage and CIR support as needed' is verbatim. encampments/response-scale/expansive is defensible ('additional' + 'support' is literally the operative language) though I'd flag it as a marginal case for the aggregator: the clause is mostly a scheduling adjustment, and the support increase is conditioned on 'as needed' -- not a false statement, but a thin one. Confidence 'medium' is appropriately hedged already."
-  },
-  {
-    "id": "c9e3b7f7b362",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Included establishing one 24/7 warming centre (December 2026-March 2027) as one of the costed scenarios Civic Administration must investigate and report back on.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [
-      "informational_ask",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "b4e5ab806f41",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Included providing a minimum of 100 warming-centre spaces across two to four locations as one of the costed scenarios Civic Administration must investigate and report back on.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [
-      "informational_ask",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "5300911742f0",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Included costing a lower Tier 3 Surge Response activation threshold (-10C instead of -15C/-20C windchill) as one of the scenarios Civic Administration must investigate and report back on.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [
-      "informational_ask",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "ccd852275515",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Declined to include costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [
-      "informational_ask",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "a41ad53fb87f",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Directed Civic Administration to stop the procurement process seeking proposals to redevelop the City-owned 84 Horton Street and 199 Ridout Street parking lots into high-density housing with public parking.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-density housing, encouraging modular construction techniques, and public parking",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "SPPC 2026-01-13 item 2.1, 'that part b)... be approved' (11-4) matches manifest exactly. Quote verbatim: 'BE DIRECTED to take no further action on a procurement process to solicit development proposals... for high-density housing'. housing/density/restrictive is correct -- halting a high-density redevelopment procurement is unambiguously restrictive."
-  },
-  {
-    "id": "40de6fc6f063",
-    "issue": "downtown",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred Councillor Ferreira's downtown-revitalization considerations (a dedicated strategic pillar aligned with the Downtown Plan, activating the Core Area, added stakeholder consultation time) to Civic Administration and Deloitte Canada to incorporate into the next phase of the Economic Development Strategy.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "90c02ecaf9f1",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Declined to refer the London Transit Commission's request to expand its board membership to a future meeting for Council members to consider filling the vacancy.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [
-      "referral",
-      "appointment"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "99bb8fbed74c",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Awarded the East London Link / Municipal Infrastructure Improvements Phase 3A East construction contract to Bre-Ex Construction and approved its financing.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "ce30b4eefd9e",
-    "issue": "budget",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Declined to accept the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project.",
-    "confidence": "low",
-    "quote": null,
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "e92845765097",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Rejected directing Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
-  },
-  {
-    "id": "ed4f4a5e9b2e",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Rejected directing Civic Administration to consult with service providers on their roles, responsibilities, and costs at the Micro-Modular Shelter Site and report back.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
-  },
-  {
-    "id": "0d6178fd82e4",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Rejected directing Civic Administration to consult with first responders (paramedics, police, fire) on emergency services at the Micro-Modular Shelter Site and report back.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
-  },
-  {
-    "id": "cc2a45812971",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "expansive",
-    "whatAYeaDid": "Adopted a resolution calling on the Government of Ontario to declare a state of emergency over the homelessness, addictions, and mental-health crisis and to provide municipalities with additional funding and support.",
-    "confidence": "high",
-    "quote": "Therefore it be resolved that Ontario’s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency to address homelessness caused by addictions and mental health that has created a community safety and humanitarian crisis across the province.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "SPPC 2025-12-09 item 5.1 (only motion in the item), 10-2, matches manifest exactly. Quote verbatim. encampments/response-scale/expansive is correct: this calls on the Province to declare an emergency and provide more funding/support for the homelessness/addictions/mental-health crisis -- unambiguously an expansive-response advocacy position."
-  },
-  {
-    "id": "481d5559b96f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the Pollution Prevention and Control Plan Update Study Executive Summary to Civic Administration to report back by end of Q1 2026 with alternative strategies and a recommendation.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "referral",
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "fb7f7b70ad65",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a direction for Civic Administration to report back with public engagement comments received during the Pollution Prevention and Control Plan Update Study's 30-day review period.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "8a95b752903f",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Refused the requested London Plan amendment and refused rezoning 1164-1170 Richmond Street from Residential R3 to the higher-density Residential R9.",
-    "confidence": "high",
-    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R3 Special Provision (R3-2(4)) Zone TO a Residential R9 Special Provision (R9-7( )) Zone, BE REFUSED",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "PEC 2025-12-02 item 3.5, motion (4-1) matches manifest exactly. Quote verbatim: rezoning FROM R3 TO the higher-density R9, 'BE REFUSED'. housing/density/restrictive is correct and correctly avoids the denial-flip trap: the classifier read 'refusing an increase' as restrictive rather than naively treating 'REFUSED' as some kind of default-restrictive/default-expansive flip on an unrelated axis. Correctly the mirror-image of 106cac54de25 (R5/R1->R8 approved, expansive) rather than conflated with it."
-  },
-  {
-    "id": "1ab9b49d06f2",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Urban Growth Boundary schedule to revise and add specific parcels (including Sunningdale Road West, Hyde Park Road, Gainsborough Road, and Oxford Street West lands) to the boundary expansion area.",
-    "confidence": "low",
-    "quote": null,
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "bffba588345c",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Rejected directing Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "0cdbc23ec773",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Amended the 2026 budget to increase spending by $784,000 (and the tax levy by the same amount) to provide free two-hour on-street parking via the Honk App in the Core Area.",
-    "confidence": "high",
-    "quote": "the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village)",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Council BUDGET meeting 2025-11-26 item 8.3.8, only motion (11-3), matches manifest exactly. Quote verbatim: 'BE AMENDED by increasing the budget... 2026 Tax Levy: $784,000'. budget/levy-size/expansive is correct -- this is a literal, explicit budget/levy increase, the least ambiguous possible case for this axis. The classifier's note about overriding the mechanical downtown-keyword tie-break is a legitimate pipeline-design question for the aggregator, not a factual error here: 'increasing the budget' is unambiguously the operative action regardless of which issue bucket the aggregator ultimately prefers."
-  },
-  {
-    "id": "4390ee4a0a27",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a direction for Civic Administration to report back on any further Housing Collaborative Initiative costs beyond what was already publicly reported.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "455d5ae72448",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Received the staff report concluding the Housing Collaborative Initiative project with updated financials, as amended to also require a further cost report-back.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "informational_ask",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "c9ab29c44640",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Rejected requesting the Mayor engage the Mayor of St. Thomas and Warden of Elgin County on a joint communications campaign about securing loads on area roads near the Highbury Avenue South corridor.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  },
-  {
-    "id": "ca884d26134a",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Electric Kick-Scooter pilot extension from the staff-recommended one year down to six months (through May 26, 2026).",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
-  },
-  {
-    "id": "59a101fa692b",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved extending the Electric Kick-Scooter and Cargo Power-assisted Bicycle pilot program by six months, to May 26, 2026, as amended.",
-    "confidence": "medium",
-    "quote": null,
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
-  },
-  {
-    "id": "8c2c943e562d",
-    "issue": "housing",
-    "axis": "affordable-funding",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing the by-law authorizing a Service Agreement between the City and Gilzean's Creek Housing Co-operative Inc.",
-    "confidence": "medium",
-    "quote": "APPROVE the Service Agreement between The Corporation of the City of London and Gilzean’s Creek Housing Co-operative Inc. attached as Schedule “1” (the “Service Agreement”)",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Council 2025-11-25 item 8.1.8, only motion (13-1), matches manifest exactly. Quote verbatim: 'APPROVE the Service Agreement between... City of London and Gilzean's Creek Housing Co-operative Inc.'. housing/affordable-funding/expansive is directionally safe -- approving/authorizing a Service Agreement with a housing co-operative is definitionally an affirmative act toward that housing provider, so there is no real risk of the direction being wrong even though the clause itself (via Deputy City Manager, Housing and Community Growth) doesn't spell out a dollar figure or use the literal words 'affordable housing'/'fund'. Noting for the record that the 'affordable-funding' axis label rests on reasonable domain inference (Service Agreements are the standard HSA-era instrument continuing municipal support to a housing co-op) rather than on explicit text in the clause itself -- appropriately kept at 'medium' confidence."
-  },
-  {
-    "id": "ff6bffc74dc8",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to investigate and report back on interim measures to ease Blue Box program cost pressure on small businesses, places of worship, and non-profits.",
-    "confidence": "high",
-    "quote": null,
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
-  }
+ {
+  "id": "a23c5771a121",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing the by-law authorizing the MOU and Agreement for the new Secondary School Transit Pass Pilot Program, capped at $880,000 in financing for September 2026 to June 2028 with July/August excluded.",
+  "confidence": "medium",
+  "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d, BE AUTHORIZED and BE APPROVED;",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Council 2026-02-10 item 8.4.5, final 'item 5, clause 2.3, as amended, BE APPROVED' (9-5) matches manifest exactly. Full reads-as-amended text (post_motion_texts) contains the quoted MOU authorization verbatim. Transit/service-expansion/expansive is a fair read: this approves introducing a new Secondary School Transit Pass Pilot Program by-law (a genuinely new transit service), correctly incorporating the amendment that cut financing to $880,000 rather than ignoring it."
+ },
+ {
+  "id": "90431365e935",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Rejected reverting the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years, leaving the ten-year term in place.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "483aafa664ec",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved referring the Affordable Home Ownership Incentive Program's by-law back to Civic Administration to report on program options (length, capital gains vs. interest, sliding-scale forgiveness, down payment vs. cash back) in consultation with private-sector partners, rather than adopting the by-law that day.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "referral",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "9375f69a3817",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Secondary School Transit Pass Pilot Program's financing clause to run through August 2028 instead of June 2028, without changing the $1.04 million funding cap.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "77c61a6c4a03",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved (at committee) introducing the by-law authorizing the MOU and Agreement for the new Secondary School Transit Pass Pilot Program, funded up to $1.04 million for September 2026 to August 2028 with summer months excluded.",
+  "confidence": "medium",
+  "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d , BE AUTHORIZED and BE APPROVED;",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "SPPC 2026-02-03 item 2.3, final 'the motion, as amended, BE APPROVED' (7-4) matches manifest exactly. Quote verbatim in motion_texts. Same program as a23c5771a121 but at committee stage (correctly labelled '(at committee)' in whatAYeaDid, not misrepresented as a final Council decision) with the pre-amendment $1.04M/Aug-2028 figures, which the description correctly reflects."
+ },
+ {
+  "id": "9cee8c55cfde",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Declined to refer the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions), leaving the original by-law on the table instead.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "cad64d3f88f7",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Affordable Home Ownership Incentive Program to restrict eligibility to first-time home buyers.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "5e53d3d0a2d1",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Affordable Home Ownership Incentive Program to extend its loan term from five years to ten years.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "ea3b4f086b8b",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved (at committee) introducing the by-law creating the new Affordable Home Ownership Incentive Program financial-incentive program, as amended to restrict eligibility to first-time, current-resident home buyers with a ten-year loan term.",
+  "confidence": "medium",
+  "quote": "the revised proposed by-law, as appended to the Added Council Agenda, BE INTRODUCED at the Municipal Council meeting to be held on February 10, 2026, to amend By-law No. C.P.-1545-41, being \u201cA by-law to established financial incentives for the Affordable Housing Community Improvement Project Area\u201d",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "SPPC 2026-02-03 item 2.4, final 'the motion, as amended, BE APPROVED; it being noted that Civic Administration will bring forward a revised by-law...' (8-6) matches manifest exactly. Quote verbatim in part a). housing/affordable-funding/expansive is accurate: this creates a brand-new home-ownership financial-incentive program; whatAYeaDid honestly discloses the narrowing amendments (first-time/current-resident/10-year term) rather than hiding them, so the classification is not overstated."
+ },
+ {
+  "id": "f179dafa766f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Declined to refer the DIACAC staff report back to Civic Administration for further consultation with DIACAC, instead proceeding straight to a vote on the report's recommendation.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "998400eb3bed",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a direction for Civic Administration to bring the feasibility report on the Net Zero Emissions Green Municipal Fund project to committee as soon as it is received.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "46538f9e8d91",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the financing, agreement, and by-law introduction for the Imperial Oil pipeline decommissioning and relocation tied to the Sunningdale Road West improvements.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "40165d000a6b",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing the by-law to rezone 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R5/R1 to a higher-density Holding Residential R8 zone.",
+  "confidence": "high",
+  "quote": "to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, The London Plan, to change the zoning of the subject property FROM a Residential R5 Special Provision (R5-7(25)) and a Residential R1 (R1-7) Zone TO a Holding Residential R8 Special Provision (h-8*R8-4(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "PEC 2026-01-27 item 3.4, motion (3-1) matches manifest exactly. Quote is a verbatim substring of the FROM-R5/R1-TO-R8 rezoning clause. housing/density/expansive is unambiguously correct: R5/R1 (low density) to Holding R8 (much higher density) is a textbook density increase, and the motion actually passed (no denial-flip risk here)."
+ },
+ {
+  "id": "20f037c8728d",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Rejected amending the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "208ce0e044ea",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted the committee to continue meeting past 6:00 PM.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "9a23fffc91d3",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Endorsed the proposed system-transformation approach and multi-year Housing Stability Services procurement framework.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "1a8f5640663c",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Rejected approving the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "c12b1e1bf805",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Declined to limit the City of London Community Grants Annual Stream to capital-only funding for 2026 and 2027, leaving the existing broader grant categories in place.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "8f88260bbc7b",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved adjusting the Boyle Memorial Community Centre's Tier 3 Surge Response morning closing time and providing additional garbage and CIR support as needed.",
+  "confidence": "medium",
+  "quote": "provide additional garbage and CIR support as needed",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "CPSC 2026-01-26 item 4.2 (Temporary Warming Centres), 'part d) of the motion, as amended, BE APPROVED' (4-2, Yeas Lewis/Pribil/Trosow/Ferreira vs Nays Hopkins/Peloza) matches manifest exactly and is the correct sub-motion (not the 4-2 part e)ii) that has a different, swapped lineup) -- whatAYeaDid's 'adjust closing time + additional garbage/CIR support' maps precisely onto part d)'s text, not onto the 24/7-warming-centre scenario in e)ii). Quote 'provide additional garbage and CIR support as needed' is verbatim. encampments/response-scale/expansive is defensible ('additional' + 'support' is literally the operative language) though I'd flag it as a marginal case for the aggregator: the clause is mostly a scheduling adjustment, and the support increase is conditioned on 'as needed' -- not a false statement, but a thin one. Confidence 'medium' is appropriately hedged already."
+ },
+ {
+  "id": "c9e3b7f7b362",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Included establishing one 24/7 warming centre (December 2026-March 2027) as one of the costed scenarios Civic Administration must investigate and report back on.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "b4e5ab806f41",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Included providing a minimum of 100 warming-centre spaces across two to four locations as one of the costed scenarios Civic Administration must investigate and report back on.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "5300911742f0",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Included costing a lower Tier 3 Surge Response activation threshold (-10C instead of -15C/-20C windchill) as one of the scenarios Civic Administration must investigate and report back on.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "ccd852275515",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Declined to include costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "a41ad53fb87f",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Directed Civic Administration to stop the procurement process seeking proposals to redevelop the City-owned 84 Horton Street and 199 Ridout Street parking lots into high-density housing with public parking.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-density housing, encouraging modular construction techniques, and public parking",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "SPPC 2026-01-13 item 2.1, 'that part b)... be approved' (11-4) matches manifest exactly. Quote verbatim: 'BE DIRECTED to take no further action on a procurement process to solicit development proposals... for high-density housing'. housing/density/restrictive is correct -- halting a high-density redevelopment procurement is unambiguously restrictive."
+ },
+ {
+  "id": "7b841e6aae25",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred Councillor Ferreira's downtown-revitalization considerations (a dedicated strategic pillar aligned with the Downtown Plan, activating the Core Area, added stakeholder consultation time) to Civic Administration and Deloitte Canada to incorporate into the next phase of the Economic Development Strategy.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "90c02ecaf9f1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Declined to refer the London Transit Commission's request to expand its board membership to a future meeting for Council members to consider filling the vacancy.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [
+   "referral",
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "bc986a66ed44",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Awarded the East London Link / Municipal Infrastructure Improvements Phase 3A East construction contract to Bre-Ex Construction and approved its financing.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "f365e5d918b3",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Declined to accept the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "e92845765097",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Rejected directing Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
+ },
+ {
+  "id": "ed4f4a5e9b2e",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Rejected directing Civic Administration to consult with service providers on their roles, responsibilities, and costs at the Micro-Modular Shelter Site and report back.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
+ },
+ {
+  "id": "0d6178fd82e4",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Rejected directing Civic Administration to consult with first responders (paramedics, police, fire) on emergency services at the Micro-Modular Shelter Site and report back.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
+ },
+ {
+  "id": "df06b640777c",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted a resolution calling on the Government of Ontario to declare a state of emergency over the homelessness, addictions, and mental-health crisis and to provide municipalities with additional funding and support.",
+  "confidence": "high",
+  "quote": "Therefore it be resolved that Ontario\u2019s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency to address homelessness caused by addictions and mental health that has created a community safety and humanitarian crisis across the province.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "SPPC 2025-12-09 item 5.1 (only motion in the item), 10-2, matches manifest exactly. Quote verbatim. encampments/response-scale/expansive is correct: this calls on the Province to declare an emergency and provide more funding/support for the homelessness/addictions/mental-health crisis -- unambiguously an expansive-response advocacy position."
+ },
+ {
+  "id": "481d5559b96f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Pollution Prevention and Control Plan Update Study Executive Summary to Civic Administration to report back by end of Q1 2026 with alternative strategies and a recommendation.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "fb7f7b70ad65",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a direction for Civic Administration to report back with public engagement comments received during the Pollution Prevention and Control Plan Update Study's 30-day review period.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "26162dcc35ef",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Refused the requested London Plan amendment and refused rezoning 1164-1170 Richmond Street from Residential R3 to the higher-density Residential R9.",
+  "confidence": "high",
+  "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R3 Special Provision (R3-2(4)) Zone TO a Residential R9 Special Provision (R9-7( )) Zone, BE REFUSED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "PEC 2025-12-02 item 3.5, motion (4-1) matches manifest exactly. Quote verbatim: rezoning FROM R3 TO the higher-density R9, 'BE REFUSED'. housing/density/restrictive is correct and correctly avoids the denial-flip trap: the classifier read 'refusing an increase' as restrictive rather than naively treating 'REFUSED' as some kind of default-restrictive/default-expansive flip on an unrelated axis. Correctly the mirror-image of 106cac54de25 (R5/R1->R8 approved, expansive) rather than conflated with it."
+ },
+ {
+  "id": "19bd035f2805",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Urban Growth Boundary schedule to revise and add specific parcels (including Sunningdale Road West, Hyde Park Road, Gainsborough Road, and Oxford Street West lands) to the boundary expansion area.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "37014e8b1754",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Rejected directing Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "0cdbc23ec773",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Amended the 2026 budget to increase spending by $784,000 (and the tax levy by the same amount) to provide free two-hour on-street parking via the Honk App in the Core Area.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Council BUDGET meeting 2025-11-26 item 8.3.8, only motion (11-3), matches manifest exactly. Quote verbatim: 'BE AMENDED by increasing the budget... 2026 Tax Levy: $784,000'. budget/levy-size/expansive is correct -- this is a literal, explicit budget/levy increase, the least ambiguous possible case for this axis. The classifier's note about overriding the mechanical downtown-keyword tie-break is a legitimate pipeline-design question for the aggregator, not a factual error here: 'increasing the budget' is unambiguously the operative action regardless of which issue bucket the aggregator ultimately prefers."
+ },
+ {
+  "id": "4390ee4a0a27",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a direction for Civic Administration to report back on any further Housing Collaborative Initiative costs beyond what was already publicly reported.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "455d5ae72448",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the staff report concluding the Housing Collaborative Initiative project with updated financials, as amended to also require a further cost report-back.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "c9ab29c44640",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Rejected requesting the Mayor engage the Mayor of St. Thomas and Warden of Elgin County on a joint communications campaign about securing loads on area roads near the Highbury Avenue South corridor.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ },
+ {
+  "id": "ca884d26134a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Electric Kick-Scooter pilot extension from the staff-recommended one year down to six months (through May 26, 2026).",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
+ },
+ {
+  "id": "59a101fa692b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved extending the Electric Kick-Scooter and Cargo Power-assisted Bicycle pilot program by six months, to May 26, 2026, as amended.",
+  "confidence": "medium",
+  "quote": null,
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
+ },
+ {
+  "id": "2ee8c1b1aaac",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing the by-law authorizing a Service Agreement between the City and Gilzean's Creek Housing Co-operative Inc.",
+  "confidence": "medium",
+  "quote": "APPROVE the Service Agreement between The Corporation of the City of London and Gilzean\u2019s Creek Housing Co-operative Inc. attached as Schedule \u201c1\u201d (the \u201cService Agreement\u201d)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Council 2025-11-25 item 8.1.8, only motion (13-1), matches manifest exactly. Quote verbatim: 'APPROVE the Service Agreement between... City of London and Gilzean's Creek Housing Co-operative Inc.'. housing/affordable-funding/expansive is directionally safe -- approving/authorizing a Service Agreement with a housing co-operative is definitionally an affirmative act toward that housing provider, so there is no real risk of the direction being wrong even though the clause itself (via Deputy City Manager, Housing and Community Growth) doesn't spell out a dollar figure or use the literal words 'affordable housing'/'fund'. Noting for the record that the 'affordable-funding' axis label rests on reasonable domain inference (Service Agreements are the standard HSA-era instrument continuing municipal support to a housing co-op) rather than on explicit text in the clause itself -- appropriately kept at 'medium' confidence."
+ },
+ {
+  "id": "ff6bffc74dc8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to investigate and report back on interim measures to ease Blue Box program cost pressure on small businesses, places of worship, and non-profits.",
+  "confidence": "high",
+  "quote": null,
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
+ }
 ]

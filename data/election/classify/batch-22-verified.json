@@ -1,597 +1,597 @@
 [
-  {
-    "id": "a57d2d8fbd2d",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "declined to take any action on a resident's communication objecting to removing 176 Piccadilly Street from the Register of Cultural Heritage Resources",
-    "confidence": "high",
-    "quote": "Motion to take no action with respect to the communication dated September 15, 2023, from A.M. Valastro relating to the property located at 176 Piccadilly Street.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Full text matches quote verbatim (176 Piccadilly heritage-register communication, no-action motion). Heritage is not a tracked issue cluster; correctly issue=none."
-  },
-  {
-    "id": "aee92e872d3b",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "would have referred the Vehicle for Hire By-law staff report back to the Civic Administration instead of acting on the proposed by-law changes that day",
-    "confidence": "high",
-    "quote": "Motion to refer the staff report, dated September 12, 2023, with respect to the Vehicle for Hire By-law, back to the Civic Administration.",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim referral of Vehicle for Hire By-law report. No tracked-issue keyword hit in body text; correctly issue=none."
-  },
-  {
-    "id": "9ffe779c15c0",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "endorsed continuing added Old East Village homelessness-response safety programming (coordinated outreach response and street cleaning) within the existing Housing Stability Services budget, with no new funding",
-    "confidence": "medium",
-    "quote": "the additional programs identified to support safety and security in the Old East Village area, including additional Coordinated Informed Response programming and street cleaning to be accommodated within existing Housing Stability Services budgets BE ENDORSED",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded 2023-09-12 CPSC item 4.1: the 4-1 vote is specifically the sub-motion 'Motion to approve part c) of the clause' (endorsing OEV safety programming 'within existing Housing Stability Services budgets'). Verbatim quote confirmed. Considered flipping to expansive (text contains 'additional programs...to support' which literally hits the response-scale expansive pattern), but the operative content is an endorsement of already-identified programming funded by REALLOCATION within an existing budget, not new money or a clear scale change -- genuinely ambiguous whether this is a substantive expansion or a symbolic nod. Left as unclear per the safe-side rule; not a clear enough case to force a direction myself."
-  },
-  {
-    "id": "9683caf33b23",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "would have moved the committee into closed session for solicitor-client-privileged advice on the Vision SoHo Alliance soil-remediation funding request, rather than continuing to discuss it in open session",
-    "confidence": "high",
-    "quote": "Motion to move in camera for advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to this matter.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim in-camera (solicitor-client privilege) procedural motion re: Vision SoHo Alliance. Correctly issue=none, procedural."
-  },
-  {
-    "id": "98596ace71e7",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "approved rezoning 1515 Trossacks Avenue to a site-specific Residential R9 Special Provision zone to allow infill residential development, with a site-plan request for perimeter fencing/landscaping buffering",
-    "confidence": "medium",
-    "quote": "the proposed by-law appended to the Planning and Environment Committee Added Agenda as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on September 26, 2023 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential R9 (R9-3*H21) TO a Residential R9 Special Provision (R9-3(_)*H21) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded 2023-09-11 PEC item 3.4 (first content block, 4-1). Quote verbatim, full context confirms a genuine rezoning approval (R9 to R9 Special Provision) for infill housing -- no denial-flip, no title/operative mismatch, no business-case exclusion, not a relocation clause. Generic application-approval fallback axis is correct: no density/height/storey language in the operative text to trigger the more specific density axis."
-  },
-  {
-    "id": "a430cb059a46",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "deleted a non-binding request that the Site Plan Approval Authority consider removing surface parking at 1515 Trossacks Avenue in favour of larger outdoor amenity space and a paratransit layby",
-    "confidence": "medium",
-    "quote": "Motion to delete clause b) ii), which reads as follows: \"b) ii)  removal of surface level parking to provide larger outdoor amenity space and a paratransit layby.\"",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded same item, second content block (3-2): 'Motion to delete clause b) ii)' has no approve/deny/direct verb of its own -- correctly falls through to unclear. Quote verbatim."
-  },
-  {
-    "id": "86a834dfc17f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "referred consideration of the London Hydro Board of Directors appointments to a future Strategic Priorities and Policy Committee meeting and invited the Board Chair to address Council on the appointment process",
-    "confidence": "medium",
-    "quote": "That the matter of consideration of appointments to the London Hydro Board of Directors to a future SPPC meeting, including an invitation to the London Hydro Board Chair to address the Council with respect to this matter, including the process undertaken by the London Hydro Board and including the information gathered by the Board as a part of their due diligence.",
-    "flags": [
-      "appointment",
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim referral/deferral of London Hydro Board appointment consideration. Personnel/appointment matter, correctly issue=none."
-  },
-  {
-    "id": "3e124bbf5a37",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "granted Councillor S. Stevenson an additional 5 minutes of speaking time under the Council Procedure By-law on this agenda item",
-    "confidence": "high",
-    "quote": "That pursuant to section 9.6 of the Council Procedure By-law, Councillor S. Stevenson be permitted to speak an additional 5 minutes with respect to this matter.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim procedural speaking-time extension. Correctly issue=none."
-  },
-  {
-    "id": "01a1c83d17fc",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "would have referred the Fireworks By-law Options item back to Civic Administration for further consideration of a 'Family Lights Celebration' exemption and related licensing/definition questions, instead of acting on it that meeting",
-    "confidence": "high",
-    "quote": "That Item 8.3(4) of the 13th Report of the Community and Protective Services Committee, “Fireworks By-law options” (3.1) BE REFERRED to the Civic Administration for further consideration with a report back to a future meeting of the Community and Protective Services Committee",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim referral of Fireworks By-law item back to Civic Administration. Correctly issue=none, referral."
-  },
-  {
-    "id": "0cc57d0571be",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "closed debate on the pending Fireworks By-law amendment by calling the question under the Council Procedure By-law",
-    "confidence": "high",
-    "quote": "That pursuant to section 11.14 of the Council Procedure By-law, the question related to the proposed amendment to part a) BE CALLED.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim 'call the question' procedural motion. Correctly issue=none."
-  },
-  {
-    "id": "8e276de18f7f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "amended the Fireworks By-law report-back directive to also require the proposed by-law to include an exception permitting consumer (backyard) fireworks on Chinese New Year",
-    "confidence": "high",
-    "quote": "That Item 4 (clause 3.1) of the 13th Report of the Community and Protective Services Committee BE AMENDED in part a) by adding the following, “and including an exception to permit consumer (backyard) fireworks to be discharged on Chinese New Year Day of the Lunar Calendar”",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim Fireworks By-law Chinese New Year exception amendment. Not one of the 8 tracked issue clusters; correctly issue=none."
-  },
-  {
-    "id": "dc3c51d6d778",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "directed Civic Administration to report back with a proposed by-law implementing Fireworks By-law Update Option A, including a Chinese New Year backyard-fireworks exception",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to report back at a future meeting of the Community and Protective Services Committee with a proposed by-law to implement Fireworks By-law Update Option A, as outlined in the staff report dated August 15, 2023 and including an exception to permit consumer (backyard) fireworks to be discharged on Chinese New Year Day of the Lunar Calendar",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim report-back directive on Fireworks By-law option A. Informational ask, correctly issue=none/unclear."
-  },
-  {
-    "id": "c9561bbe3519",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "directed Civic Administration to review the Business Licensing By-law's treatment of fireworks retailers and report back on licensing, communications, fees, and compliance measures",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to review the Business Licensing By-law with respect to the sale of fireworks and report back on the following: licensing all retailers of fireworks; required communications to retailers and clients; fees; and, potential Administrative Monetary Penalty application and other compliance measures",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim report-back directive on Business Licensing By-law fireworks provisions. Informational ask, correctly issue=none."
-  },
-  {
-    "id": "9911a1622a73",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "suspended enforcement of the current Fireworks By-law (PW-11) for Diwali in 2023",
-    "confidence": "high",
-    "quote": "That the enforcement of the current Fireworks By-law (PW-11) BE SUSPENDED for Diwali in 2023.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim Diwali fireworks enforcement suspension. Correctly issue=none (not a tracked cluster)."
-  },
-  {
-    "id": "8d876f1b1dbf",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "would have added a comprehensive review of the Yard and Lot Maintenance By-law's naturalization provisions (jurisdictional scan, enforcement-data disclosure, a public participation meeting, and a 'Get Involved' page) to the information-brochure clause",
-    "confidence": "high",
-    "quote": "that the Civic Administration BE DIRECTED to undertake a comprehensive review of the Yard and Maintenance By-law that encompasses the by-law provisions, definitions and related policies concerning naturalization of yards, naturalized areas and wildflower meadows, weeds, grass, and what is considered waste",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim Yard and Lot Maintenance By-law naturalization review directive. 'Naturalized areas/wildflower meadows' does not literally match the climate cluster's 'natural heritage'/'tree canopy' vocabulary, and it is an informational-ask (comprehensive review) besides. Correctly issue=none."
-  },
-  {
-    "id": "456936f8bc54",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "directed Civic Administration to prepare information materials for Municipal Law Enforcement Officers explaining Council's Naturalized Areas and Wildflower Meadows policy, for use responding to community complaints under the Yard and Lot Maintenance By-law",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to prepare information materials to assist Municipal Law Enforcement Officers to explain the Council Policy on Naturalized Areas and Wildflower Meadows in response to community complaints and complainants, and with respect to the Yard and Lot Maintenance By-law where applicable",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim directive to prepare enforcement-officer information materials. Informational ask, correctly issue=none."
-  },
-  {
-    "id": "4346d3040574",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "approved purchasing two Wellington Road properties for the Wellington Gateway road project (for $1,380,000 and $1,495,000) and approved the related financing",
-    "confidence": "high",
-    "quote": "the offer submitted by 16 WELLINGTON HOLDINGS LTD. (the “Vendor”), to sell the subject property to the City, for the sum of $1,380,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim Wellington Road property-purchase approval. Real-estate acquisition for a road project, not itself a tracked-issue keyword hit; correctly issue=none."
-  },
-  {
-    "id": "109fb4d62b85",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "amended the fireworks motion to also direct Civic Administration to review the Business Licensing By-law's treatment of fireworks sales and report back on retailer licensing, communications, fees, and compliance measures",
-    "confidence": "high",
-    "quote": "That the Civic Administration BE DIRECTED to review the Business Licensing By-law with respect to the sale of fireworks and report back on the following: licensing all retailers of fireworks, required communications to retailers and clients, fees, Administrative Monetary Penalties and compliance measures.",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim Business Licensing By-law fireworks review amendment. Informational ask, correctly issue=none."
-  },
-  {
-    "id": "2d07a2a4764a",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "approved directing Civic Administration to report back with a proposed by-law implementing Fireworks By-law Option A and to review the Business Licensing By-law's fireworks provisions",
-    "confidence": "high",
-    "quote": "That the motion, as amended, BE APPROVED.",
-    "flags": [
-      "informational_ask",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim wrapper 'motion, as amended, BE APPROVED' for the fireworks package. Correctly issue=none/wrapper_preamble."
-  },
-  {
-    "id": "4272a0864690",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "raised the Garbage Tag fee for extra curbside bags/containers (and bagged residential garbage at EnviroDepots) from $1.50 to $2.00, to be finalized through the upcoming Fees and Charges By-law review as part of the multi-year budget development",
-    "confidence": "medium",
-    "quote": "the Garbage Tag fee for use at the curb for extra bags or containers of garbage or for Bagged Residential Garbage brought to the EnviroDepots be increased from $1.50 to $2.00 as part of the upcoming Fees and Charges By-law review as part of the multi-year budget development BE APPROVED.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded 2023-08-15 Civic Works Committee item 4.2, third content block (4-1): 'Motion to add...the Garbage Tag fee...be increased from $1.50 to $2.00...BE APPROVED.' Quote verbatim, genuine fee increase -- correctly budget/levy-size/expansive."
-  },
-  {
-    "id": "2739329da8be",
-    "issue": "budget",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "would have added a note delaying implementation of the Garbage Tag fee increase by six months",
-    "confidence": "low",
-    "quote": "Motion to amend part d) to include an it being noted clause that will delay the increase by 6 months.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded same item, fourth content block (Failed 2-3): 'Motion to amend part d) to include an it being noted clause that will delay the increase by 6 months.' Quote verbatim. No recognized approve/deny verb on the substance (only a scheduling delay note); correctly left unclear rather than force-fit to a levy-size direction."
-  },
-  {
-    "id": "fe5285f08e30",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "convened Council in its statutory role as Approving Authority under the Expropriations Act to consider expropriating land for the East London Link Project",
-    "confidence": "high",
-    "quote": "That Council convene as the Approving Authority pursuant to the provisions of the Expropriation Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure, with respect to the expropriation of the lands as may be required for the Project known as the East London Link Project.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim statutory 'convene as Approving Authority' procedural motion (East London Link expropriation). Correctly issue=none, procedural."
-  },
-  {
-    "id": "551fe5df8ee6",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "approved expropriating the described parcels of land needed for the East London Link road/transit corridor project, previously authorized through the 2019 Environmental Assessment",
-    "confidence": "high",
-    "quote": "the Council of The Corporation of the City of London as Approving Authority pursuant to the Expropriations Act, R.S.O. 1990, c. E.26, as amended, HEREBY APPROVES the proposed expropriation of lands, as described in Schedule “A” appended to staff report dated July 25, 2023, in the City of London, County of Middlesex",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim expropriation approval, East London Link. Land-acquisition mechanics for an already-approved (2019 EA) project, not a substantive transit-policy decision; 'transit' does not appear in the operative text. Correctly issue=none."
-  },
-  {
-    "id": "b91f090bf40a",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "introduced the by-law to formally expropriate the East London Link Project lands and directed staff to register the expropriation plans and serve the required legal notices",
-    "confidence": "high",
-    "quote": "the proposed by-law as appended to the staff report dated July 25, 2023 as Appendix “A” being “A by-law to expropriate lands in the City of London, in the County of Middlesex, the East London Link Project: BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim expropriation by-law introduction, East London Link. Correctly issue=none for the same reason."
-  },
-  {
-    "id": "d3d232ecb3e4",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "convened Council in its statutory role as Approving Authority under the Expropriations Act to consider expropriating land for the Wellington Gateway Project",
-    "confidence": "high",
-    "quote": "That Council convene as the Approving Authority pursuant to the provisions of the Expropriation Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure, with respect to the expropriation of the lands as may be required for the Project known as the Wellington Gateway Project.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim statutory 'convene as Approving Authority' procedural motion (Wellington Gateway). Correctly issue=none, procedural."
-  },
-  {
-    "id": "c1604fc005db",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "approved expropriating the described parcels of land needed for the Wellington Gateway road project, previously authorized through the 2019 Environmental Assessment",
-    "confidence": "high",
-    "quote": "the Council of The Corporation of the City of London as Approving Authority pursuant to the Expropriations Act, R.S.O. 1990, c. E.26, as amended, HEREBY APPROVES the proposed expropriation of lands, as described in Schedule “A” as appended to the staff report dated July 25, 2023, in the City of London, County of Middlesex",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim expropriation approval, Wellington Gateway road project. Correctly issue=none (land-acquisition mechanics, not a substantive transit/roads-policy vote; no transit keyword in body)."
-  },
-  {
-    "id": "29400c6e92a2",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "introduced the by-law to formally expropriate the Wellington Gateway Project lands and directed staff to register the expropriation plans and serve the required legal notices",
-    "confidence": "high",
-    "quote": "the proposed by-law as appended to the staff report dated July 25, 2023 as Appendix “A” being “A by-law to expropriate lands in the City of London, in the County of Middlesex, the Wellington Gateway Project: BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim expropriation by-law introduction, Wellington Gateway. Correctly issue=none."
-  },
-  {
-    "id": "4f0af40e36e1",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "directed staff to move Planning, Development and Building staff to a 4-day-in-office/1-day-remote work model by Q1 2024 while continuing other departments' existing alternative-work-strategy arrangements",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to amend the current Alternative Work Strategies in the Planning and Development and Building service area(s), and develop a new model where employees are in the workplace 4 days a week and remote work one day a week no later than the end of Q1 2024",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded 2023-07-25 Council item 8.1.3, fourth content block (9-6): 'That parts a) and b) of the motion, as amended, BE APPROVED' -- verified against post_motion_text full clause. Workplace/Alternative-Work-Strategies policy, not a tracked issue cluster. Correctly issue=none."
-  },
-  {
-    "id": "a1f1b5a6bbb7",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "deferred Council's consideration of the London Hydro Board of Directors appointments to the August 29, 2023 meeting, at London Hydro's request",
-    "confidence": "high",
-    "quote": "That consideration of the appointments by the Municipal Council to the London Hydro Board of Directors BE DEFERRED to the August 29, 2023 meeting of the municipal council, at the request of London Hydro.",
-    "flags": [
-      "appointment",
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim deferral of London Hydro Board appointment consideration. Correctly issue=none, appointment/referral."
-  },
-  {
-    "id": "d4dc1443533a",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "added a requirement that Civic Administration report back with a status update on the affordable-housing agreement for 599-601 Richmond Street once negotiations between the applicant and Municipal Housing Development begin and again once they conclude",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to report back with a status update on the affordable housing agreement for 599-601 Richmond Street when discussions between the Applicant and Municipal Housing Development begin, and when they have concluded.",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded 2023-07-25 Council item 8.2.16, second content block (14-1): amendment adding part c), report-back on the affordable-housing agreement status. Quote verbatim. Informational ask (report back only, no approve/deny of the agreement itself); correctly left unclear."
-  },
-  {
-    "id": "d2c96f469559",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "approved rezoning 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision zone for redevelopment, and directed staff to work with the applicant toward including affordable housing units in the project",
-    "confidence": "medium",
-    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject lands FROM a Business District Commercial Special Provision Bonus Zone (BDC(1)*B-87) Zone TO a Business District Commercial Special Provision (BDC(_)) Zone",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Same item, third content block (12-3, 'the motion, as amended, BE APPROVED'): verified against post_motion_texts full reads-as-follows clause -- the quoted zoning by-law introduction language (part a) is verbatim from that full text. Genuine rezoning approval with a directed-negotiation affordable-housing clause; no denial-flip, no business-case exclusion, not a relocation. Generic application-approval fallback correctly applied (no explicit density/height increase language in the operative text)."
-  },
-  {
-    "id": "0cc20e6cb335",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "approved the heritage alteration application to install asphalt shingles or an alternate composite material on the roof of 39 Carfrae Street",
-    "confidence": "high",
-    "quote": "the heritage alteration application to install asphalt shingles or an alternate composite material for the roof replacement of the property located at 39 Carfrae Street BE APPROVED",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim heritage alteration approval (39 Carfrae St. roofing). Heritage is not a tracked issue cluster; correctly issue=none."
-  },
-  {
-    "id": "35c7c933530f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "would have referred roughly 49 proposed Council Policy amendments (Appendices C1-C49) to the Governance Working Group for consideration instead of introducing them directly",
-    "confidence": "high",
-    "quote": "the following items, related to the Council Policy Manual Review 2023, BE REFERRED to the Governance Working Group for consideration: the proposed by-laws as appended to the staff report dated July 17, 2023 as Appendices C1 to C49, to make the specified amendments to the following Council Policies",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded 2023-07-25 Council item 8.3.14: this is an omnibus REFERRAL of ~49 unrelated Council Policy amendments (Appendices C1-C49) to the Governance Working Group, one of which happens to be titled 'Capital Budget and Financing Policy.' A bulk procedural referral bundling 49 distinct policy areas is not a substantive position on any one of them (matches the calibration note's own logic for title/keyword hits that aren't a real position). Correctly issue=none, referral -- did not force-fit to budget off the one bundled title."
-  },
-  {
-    "id": "0958d467a22f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "appointed Mark C. Ambrogio, Sarvarinder Singh Dohil, and Jeff Gard as voting members of the Community Advisory Committee on Planning",
-    "confidence": "high",
-    "quote": "the following individuals BE APPOINTED as Voting Members to the Community Advisory Committee on Planning for the term ending February 2024: Mark C. Ambrogio | Sarvarinder Singh Dohil | Jeff Gard",
-    "flags": [
-      "appointment"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim Community Advisory Committee on Planning voting-member appointments. Personnel matter, correctly issue=none."
-  },
-  {
-    "id": "c2516caecfbb",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "directed Civic Administration to report to a future Community and Protective Services Committee meeting on options and costs to address safety and security concerns raised by homelessness-response agencies, their staff/volunteers, and people accessing their services",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to provide a report to a future Community and Protective Services Committee (CPSC) to identify options and the associated costs to address the safety and security concerns identified as well as the safety and security concerns of the agencies' staff, volunteers and those accessing services.",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded 2023-07-25 Council item 8.4.5, second content block (13-2): amendment adding part e), directing a future report on safety/security options and costs. Quote verbatim. Informational ask (identify options and costs, no approve/deny of any specific response); correctly left unclear."
-  },
-  {
-    "id": "9ddf707bf29d",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "expansive",
-    "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
-    "confidence": "high",
-    "quote": "a one-time funding allocation of up to $374,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Same item: this vote result (8-7) is recorded on an EMPTY-text content block immediately following the $374,210 amendment text block (an adjacent moved-text/voted-result split, a known scraper pattern) -- confirmed the pairing is correct by matching the manifest's '8 to 7' result to this specific block. Quote verbatim: the amendment ADDS a new part f) committing $374,210 in new funding where the base motion's part b) had only REFERRED the funding question (i.e., baseline was $0 committed). Genuine, unambiguous expansion -- correctly encampments/response-scale/expansive."
-  },
-  {
-    "id": "8691fbe1afab",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "restrictive",
-    "whatAYeaDid": "reduced the one-time homelessness-response security funding from $374,210 (the immediately prior amendment) down to $200,000, for London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
-    "confidence": "high",
-    "quote": "a one-time funding allocation of up to $200,000 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023",
-    "flags": [],
-    "verdict": "corrected",
-    "verifierNote": "Loaded same item, fifth content block (11-4): 'That the amendment, as amended, BE APPROVED as follows: ... f) a one-time funding allocation of up to $200,000...' -- this is a further amendment that REPLACES the $374,210 figure just passed moments earlier in the SAME meeting (9ddf707bf29d, 8-7) with a lower $200,000 figure. The classifier's own whatAYeaDid already says 'reduced from the $374,210 figure in the immediately prior amendment,' but then labelled polarity 'expansive' -- an internal inconsistency. Read against its correct baseline (the amount immediately on the table, not the original zero-commitment referral), a YEA on this specific vote is unambiguously a REDUCTION: it cuts $174,210 from what had just passed. Leaving this 'expansive' would make the 4 NAY voters (Hopkins, Peloza, Trosow, Ferreira -- who wanted to KEEP the higher $374,210 figure, i.e. the MORE pro-funding position) read as having taken the 'restrictive'/anti-funding position, which is backwards and exactly the kind of wrong-direction error this review exists to catch. Same convention the classifier itself uses elsewhere in this batch for 'amend a just-proposed amount down' (747ddc1b03e4, 4e9c612c2fca: 'cut'/'reduced' framing). CORRECTED: axis stays response-scale, polarity flipped expansive -> restrictive. Quote (verbatim, unchanged, confirmed against source): 'a one-time funding allocation of up to $200,000 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023'."
-  },
-  {
-    "id": "522423220717",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "added an $80,000-per-year (one year, to be re-evaluated) City contribution from the Economic Development Reserve Fund to the Middlesex-London Ontario Health Team's Primary Care Recruitment program, and authorized staff to carry out related administrative acts",
-    "confidence": "high",
-    "quote": "the City's financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $80,000 per year for 1 year; it being noted that the program will be re-evaluated after the one-year contribution",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded 2023-07-25 Council item 8.4.6, second content block (9-5): adds parts c)/d) committing $80,000/yr to the Primary Care Recruitment program. Verified this is correctly issue=none per the project's own documented calibration note (avoids the 'Transition into Practice' title false-triggering the transit keyword); no other tracked-issue keyword (budget, housing, etc.) appears in the operative text either. No missed classification."
-  },
-  {
-    "id": "747ddc1b03e4",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "would have cut the proposed Primary Care Recruitment Program contribution from $80,000 to $28,500",
-    "confidence": "high",
-    "quote": "That the new part c) BE AMENDED by replacing the contribution amount of $80,000 with the amount of $28,500.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Same item, third content block (Failed 7-7): amendment to cut the contribution to $28,500. Quote verbatim. Correctly issue=none for the same reason as 522423220717."
-  },
-  {
-    "id": "4e9c612c2fca",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "reduced the proposed Primary Care Recruitment Program contribution from $80,000 to $50,000",
-    "confidence": "high",
-    "quote": "That the new part c) BE AMENDED by replacing the contribution amount of $80,000 with the amount of $50,000.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Same item, fourth content block (Passed 9-5): amendment to reduce the contribution to $50,000. Quote verbatim. Correctly issue=none."
-  },
-  {
-    "id": "df236ef2386e",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "gave final approval to the Primary Care Recruitment, Transition into Practice and Retention Program funding request as amended, including the $50,000 City contribution",
-    "confidence": "high",
-    "quote": "That the motion, as amended, BE APPROVED.",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Same item, fifth content block (Passed 10-4): wrapper 'motion, as amended, BE APPROVED' verified against post_motion_texts full clause ($50,000 final). Correctly issue=none, wrapper_preamble."
-  },
-  {
-    "id": "f6f6a7769ca0",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "directed staff to decommission Thames Pool, consult on new park amenities and a spray pad, study a new indoor pool location, and continue arranging transportation to other aquatic facilities, capped at a combined $1.92 million budget for the non-demolition items",
-    "confidence": "high",
-    "quote": "proceed with the process to decommission Thames Pool; ... parts b), c), d) and e), above, not exceed a combined budget of $1.92 million, consistent with the lowest cost temporary repair option for the current Thames Pool location outlined in the staff report, dated July 18, 2023",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded 2023-07-25 Council item 8.4.8 (Passed 8-7). Quote verbatim, full clause confirmed. Thames Pool decommissioning/park-amenities item does not match any of the 8 tracked-issue keyword sets (bare 'budget' alone is not a budget keyword -- only compound phrases like 'capital budget' are). Correctly issue=none despite being a real, closely-divided vote."
-  },
-  {
-    "id": "cfa6e2dd4fda",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "requested that Civic Administration remove 'Mode Target Share Option 1' from the Mobility Master Plan update staff report",
-    "confidence": "low",
-    "quote": "the Civic Administration BE REQUESTED to remove item 2.4.1 Mode Target Share Option 1 from the above-noted staff report",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded 2023-07-25 Council item 8.5.15, second content block (11-2): 'the Civic Administration BE REQUESTED to remove item 2.4.1 Mode Target Share Option 1 from the...staff report.' Quote verbatim. This shapes a future planning report rather than expanding/reducing actual transit service, frequency, route, or infrastructure -- correctly left unclear rather than force-fit to service-expansion."
-  },
-  {
-    "id": "ceef716a2313",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "would have referred Councillor Franke's Climate Emergency Action Plan - Phase Out Gas communications to Civic Administration for review, instead of acting on them directly at this meeting",
-    "confidence": "high",
-    "quote": "That the communications included on the Added Agenda from Councillor S. Franke, related to Climate Emergency Action Plan - Phase Out Gas, BE REFERRED to the Civic Administration for review.",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Loaded 2023-07-25 Council item 8.5.16, first content block (Failed 5-8): referral of Councillor Franke's Climate Emergency Action Plan communications. Quote verbatim. Referral-only, correctly left unclear regardless of pass/fail."
-  },
-  {
-    "id": "187527fc77b7",
-    "issue": "climate",
-    "axis": "target-strength",
-    "polarity": "expansive",
-    "whatAYeaDid": "directed the Mayor and two councillors to write to AMO advocating that the Province commit Ontario to a net-zero-carbon electricity grid by 2035, and directed staff to collect London facilities' greenhouse-gas reduction plans (targeting net-zero emissions by 2050) and to discuss Clean Electricity Regulations implementation with Enbridge and London Hydro",
-    "confidence": "medium",
-    "quote": "the Mayor of the City of London, Councillor C. Rahman and Councillor A. Hopkins BE DIRECTED to submit a letter to AMO to develop a position and advocate on behalf of Ontario municipalities to request the Government of Ontario to develop and implement a plan to move Ontario to a net zero-carbon electricity grid by 2035, consistent with the 2035 date of the proposed Federal Government Clean Electricity Regulations (CER), to help Ontario and London meet our climate targets",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Same item, second content block (Passed 10-3): quote verified verbatim against the full clause (part a), truncated only at a natural clause boundary, nothing altered). This is real advocacy correspondence (a letter asking the Province to commit to a net-zero grid) plus internal data-gathering, not the City adopting its own numeric target -- worth flagging that 'target-strength' reads slightly generously (it's advocacy directed at another government, not a City target change), but the polarity direction itself is not false: YEA voters supported the climate-advocacy/net-zero package, NAY voters (Hillier, Van Meerbergen, Stevenson) opposed sending it. Confirmed, not corrected -- the axis label is a defensible characterization, not a wrong-direction claim."
-  }
+ {
+  "id": "a57d2d8fbd2d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "declined to take any action on a resident's communication objecting to removing 176 Piccadilly Street from the Register of Cultural Heritage Resources",
+  "confidence": "high",
+  "quote": "Motion to take no action with respect to the communication dated September 15, 2023, from A.M. Valastro relating to the property located at 176 Piccadilly Street.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Full text matches quote verbatim (176 Piccadilly heritage-register communication, no-action motion). Heritage is not a tracked issue cluster; correctly issue=none."
+ },
+ {
+  "id": "aee92e872d3b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "would have referred the Vehicle for Hire By-law staff report back to the Civic Administration instead of acting on the proposed by-law changes that day",
+  "confidence": "high",
+  "quote": "Motion to refer the staff report, dated September 12, 2023, with respect to the Vehicle for Hire By-law, back to the Civic Administration.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim referral of Vehicle for Hire By-law report. No tracked-issue keyword hit in body text; correctly issue=none."
+ },
+ {
+  "id": "9ffe779c15c0",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "endorsed continuing added Old East Village homelessness-response safety programming (coordinated outreach response and street cleaning) within the existing Housing Stability Services budget, with no new funding",
+  "confidence": "medium",
+  "quote": "the additional programs identified to support safety and security in the Old East Village area, including additional Coordinated Informed Response programming and street cleaning to be accommodated within existing Housing Stability Services budgets BE ENDORSED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded 2023-09-12 CPSC item 4.1: the 4-1 vote is specifically the sub-motion 'Motion to approve part c) of the clause' (endorsing OEV safety programming 'within existing Housing Stability Services budgets'). Verbatim quote confirmed. Considered flipping to expansive (text contains 'additional programs...to support' which literally hits the response-scale expansive pattern), but the operative content is an endorsement of already-identified programming funded by REALLOCATION within an existing budget, not new money or a clear scale change -- genuinely ambiguous whether this is a substantive expansion or a symbolic nod. Left as unclear per the safe-side rule; not a clear enough case to force a direction myself."
+ },
+ {
+  "id": "9683caf33b23",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "would have moved the committee into closed session for solicitor-client-privileged advice on the Vision SoHo Alliance soil-remediation funding request, rather than continuing to discuss it in open session",
+  "confidence": "high",
+  "quote": "Motion to move in camera for advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to this matter.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim in-camera (solicitor-client privilege) procedural motion re: Vision SoHo Alliance. Correctly issue=none, procedural."
+ },
+ {
+  "id": "91abf07681c0",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "approved rezoning 1515 Trossacks Avenue to a site-specific Residential R9 Special Provision zone to allow infill residential development, with a site-plan request for perimeter fencing/landscaping buffering",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the Planning and Environment Committee Added Agenda as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on September 26, 2023 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential R9 (R9-3*H21) TO a Residential R9 Special Provision (R9-3(_)*H21) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded 2023-09-11 PEC item 3.4 (first content block, 4-1). Quote verbatim, full context confirms a genuine rezoning approval (R9 to R9 Special Provision) for infill housing -- no denial-flip, no title/operative mismatch, no business-case exclusion, not a relocation clause. Generic application-approval fallback axis is correct: no density/height/storey language in the operative text to trigger the more specific density axis."
+ },
+ {
+  "id": "a430cb059a46",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "deleted a non-binding request that the Site Plan Approval Authority consider removing surface parking at 1515 Trossacks Avenue in favour of larger outdoor amenity space and a paratransit layby",
+  "confidence": "medium",
+  "quote": "Motion to delete clause b) ii), which reads as follows: \"b) ii)  removal of surface level parking to provide larger outdoor amenity space and a paratransit layby.\"",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded same item, second content block (3-2): 'Motion to delete clause b) ii)' has no approve/deny/direct verb of its own -- correctly falls through to unclear. Quote verbatim."
+ },
+ {
+  "id": "86a834dfc17f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "referred consideration of the London Hydro Board of Directors appointments to a future Strategic Priorities and Policy Committee meeting and invited the Board Chair to address Council on the appointment process",
+  "confidence": "medium",
+  "quote": "That the matter of consideration of appointments to the London Hydro Board of Directors to a future SPPC meeting, including an invitation to the London Hydro Board Chair to address the Council with respect to this matter, including the process undertaken by the London Hydro Board and including the information gathered by the Board as a part of their due diligence.",
+  "flags": [
+   "appointment",
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim referral/deferral of London Hydro Board appointment consideration. Personnel/appointment matter, correctly issue=none."
+ },
+ {
+  "id": "3e124bbf5a37",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "granted Councillor S. Stevenson an additional 5 minutes of speaking time under the Council Procedure By-law on this agenda item",
+  "confidence": "high",
+  "quote": "That pursuant to section 9.6 of the Council Procedure By-law, Councillor S. Stevenson be permitted to speak an additional 5 minutes with respect to this matter.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim procedural speaking-time extension. Correctly issue=none."
+ },
+ {
+  "id": "988c94b88c14",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "would have referred the Fireworks By-law Options item back to Civic Administration for further consideration of a 'Family Lights Celebration' exemption and related licensing/definition questions, instead of acting on it that meeting",
+  "confidence": "high",
+  "quote": "That Item 8.3(4) of the 13th Report of the Community and Protective Services Committee, \u201cFireworks By-law options\u201d (3.1) BE REFERRED to the Civic Administration for further consideration with a report back to a future meeting of the Community and Protective Services Committee",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim referral of Fireworks By-law item back to Civic Administration. Correctly issue=none, referral."
+ },
+ {
+  "id": "0cc57d0571be",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "closed debate on the pending Fireworks By-law amendment by calling the question under the Council Procedure By-law",
+  "confidence": "high",
+  "quote": "That pursuant to section 11.14 of the Council Procedure By-law, the question related to the proposed amendment to part a) BE CALLED.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim 'call the question' procedural motion. Correctly issue=none."
+ },
+ {
+  "id": "b88be8b7b73c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "amended the Fireworks By-law report-back directive to also require the proposed by-law to include an exception permitting consumer (backyard) fireworks on Chinese New Year",
+  "confidence": "high",
+  "quote": "That Item 4 (clause 3.1) of the 13th Report of the Community and Protective Services Committee BE AMENDED in part a) by adding the following, \u201cand including an exception to permit consumer (backyard) fireworks to be discharged on Chinese New Year Day of the Lunar Calendar\u201d",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim Fireworks By-law Chinese New Year exception amendment. Not one of the 8 tracked issue clusters; correctly issue=none."
+ },
+ {
+  "id": "dc3c51d6d778",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "directed Civic Administration to report back with a proposed by-law implementing Fireworks By-law Update Option A, including a Chinese New Year backyard-fireworks exception",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to report back at a future meeting of the Community and Protective Services Committee with a proposed by-law to implement Fireworks By-law Update Option A, as outlined in the staff report dated August 15, 2023 and including an exception to permit consumer (backyard) fireworks to be discharged on Chinese New Year Day of the Lunar Calendar",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim report-back directive on Fireworks By-law option A. Informational ask, correctly issue=none/unclear."
+ },
+ {
+  "id": "c9561bbe3519",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "directed Civic Administration to review the Business Licensing By-law's treatment of fireworks retailers and report back on licensing, communications, fees, and compliance measures",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to review the Business Licensing By-law with respect to the sale of fireworks and report back on the following: licensing all retailers of fireworks; required communications to retailers and clients; fees; and, potential Administrative Monetary Penalty application and other compliance measures",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim report-back directive on Business Licensing By-law fireworks provisions. Informational ask, correctly issue=none."
+ },
+ {
+  "id": "9911a1622a73",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "suspended enforcement of the current Fireworks By-law (PW-11) for Diwali in 2023",
+  "confidence": "high",
+  "quote": "That the enforcement of the current Fireworks By-law (PW-11) BE SUSPENDED for Diwali in 2023.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim Diwali fireworks enforcement suspension. Correctly issue=none (not a tracked cluster)."
+ },
+ {
+  "id": "53b2463585c2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "would have added a comprehensive review of the Yard and Lot Maintenance By-law's naturalization provisions (jurisdictional scan, enforcement-data disclosure, a public participation meeting, and a 'Get Involved' page) to the information-brochure clause",
+  "confidence": "high",
+  "quote": "that the Civic Administration BE DIRECTED to undertake a comprehensive review of the Yard and Maintenance By-law that encompasses the by-law provisions, definitions and related policies concerning naturalization of yards, naturalized areas and wildflower meadows, weeds, grass, and what is considered waste",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim Yard and Lot Maintenance By-law naturalization review directive. 'Naturalized areas/wildflower meadows' does not literally match the climate cluster's 'natural heritage'/'tree canopy' vocabulary, and it is an informational-ask (comprehensive review) besides. Correctly issue=none."
+ },
+ {
+  "id": "456936f8bc54",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "directed Civic Administration to prepare information materials for Municipal Law Enforcement Officers explaining Council's Naturalized Areas and Wildflower Meadows policy, for use responding to community complaints under the Yard and Lot Maintenance By-law",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to prepare information materials to assist Municipal Law Enforcement Officers to explain the Council Policy on Naturalized Areas and Wildflower Meadows in response to community complaints and complainants, and with respect to the Yard and Lot Maintenance By-law where applicable",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim directive to prepare enforcement-officer information materials. Informational ask, correctly issue=none."
+ },
+ {
+  "id": "444078c55778",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "approved purchasing two Wellington Road properties for the Wellington Gateway road project (for $1,380,000 and $1,495,000) and approved the related financing",
+  "confidence": "high",
+  "quote": "the offer submitted by 16 WELLINGTON HOLDINGS LTD. (the \u201cVendor\u201d), to sell the subject property to the City, for the sum of $1,380,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix \u201cC\u201d",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim Wellington Road property-purchase approval. Real-estate acquisition for a road project, not itself a tracked-issue keyword hit; correctly issue=none."
+ },
+ {
+  "id": "109fb4d62b85",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "amended the fireworks motion to also direct Civic Administration to review the Business Licensing By-law's treatment of fireworks sales and report back on retailer licensing, communications, fees, and compliance measures",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE DIRECTED to review the Business Licensing By-law with respect to the sale of fireworks and report back on the following: licensing all retailers of fireworks, required communications to retailers and clients, fees, Administrative Monetary Penalties and compliance measures.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim Business Licensing By-law fireworks review amendment. Informational ask, correctly issue=none."
+ },
+ {
+  "id": "2d07a2a4764a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "approved directing Civic Administration to report back with a proposed by-law implementing Fireworks By-law Option A and to review the Business Licensing By-law's fireworks provisions",
+  "confidence": "high",
+  "quote": "That the motion, as amended, BE APPROVED.",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim wrapper 'motion, as amended, BE APPROVED' for the fireworks package. Correctly issue=none/wrapper_preamble."
+ },
+ {
+  "id": "4272a0864690",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "raised the Garbage Tag fee for extra curbside bags/containers (and bagged residential garbage at EnviroDepots) from $1.50 to $2.00, to be finalized through the upcoming Fees and Charges By-law review as part of the multi-year budget development",
+  "confidence": "medium",
+  "quote": "the Garbage Tag fee for use at the curb for extra bags or containers of garbage or for Bagged Residential Garbage brought to the EnviroDepots be increased from $1.50 to $2.00 as part of the upcoming Fees and Charges By-law review as part of the multi-year budget development BE APPROVED.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded 2023-08-15 Civic Works Committee item 4.2, third content block (4-1): 'Motion to add...the Garbage Tag fee...be increased from $1.50 to $2.00...BE APPROVED.' Quote verbatim, genuine fee increase -- correctly budget/levy-size/expansive."
+ },
+ {
+  "id": "2739329da8be",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "would have added a note delaying implementation of the Garbage Tag fee increase by six months",
+  "confidence": "low",
+  "quote": "Motion to amend part d) to include an it being noted clause that will delay the increase by 6 months.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded same item, fourth content block (Failed 2-3): 'Motion to amend part d) to include an it being noted clause that will delay the increase by 6 months.' Quote verbatim. No recognized approve/deny verb on the substance (only a scheduling delay note); correctly left unclear rather than force-fit to a levy-size direction."
+ },
+ {
+  "id": "fe5285f08e30",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "convened Council in its statutory role as Approving Authority under the Expropriations Act to consider expropriating land for the East London Link Project",
+  "confidence": "high",
+  "quote": "That Council convene as the Approving Authority pursuant to the provisions of the Expropriation Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure, with respect to the expropriation of the lands as may be required for the Project known as the East London Link Project.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim statutory 'convene as Approving Authority' procedural motion (East London Link expropriation). Correctly issue=none, procedural."
+ },
+ {
+  "id": "c41f55e48c44",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "approved expropriating the described parcels of land needed for the East London Link road/transit corridor project, previously authorized through the 2019 Environmental Assessment",
+  "confidence": "high",
+  "quote": "the Council of The Corporation of the City of London as Approving Authority pursuant to the Expropriations Act, R.S.O. 1990, c. E.26, as amended, HEREBY APPROVES the proposed expropriation of lands, as described in Schedule \u201cA\u201d appended to staff report dated July 25, 2023, in the City of London, County of Middlesex",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim expropriation approval, East London Link. Land-acquisition mechanics for an already-approved (2019 EA) project, not a substantive transit-policy decision; 'transit' does not appear in the operative text. Correctly issue=none."
+ },
+ {
+  "id": "e4cd17b8b1b5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "introduced the by-law to formally expropriate the East London Link Project lands and directed staff to register the expropriation plans and serve the required legal notices",
+  "confidence": "high",
+  "quote": "the proposed by-law as appended to the staff report dated July 25, 2023 as Appendix \u201cA\u201d being \u201cA by-law to expropriate lands in the City of London, in the County of Middlesex, the East London Link Project: BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim expropriation by-law introduction, East London Link. Correctly issue=none for the same reason."
+ },
+ {
+  "id": "d3d232ecb3e4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "convened Council in its statutory role as Approving Authority under the Expropriations Act to consider expropriating land for the Wellington Gateway Project",
+  "confidence": "high",
+  "quote": "That Council convene as the Approving Authority pursuant to the provisions of the Expropriation Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure, with respect to the expropriation of the lands as may be required for the Project known as the Wellington Gateway Project.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim statutory 'convene as Approving Authority' procedural motion (Wellington Gateway). Correctly issue=none, procedural."
+ },
+ {
+  "id": "76f05e40e31a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "approved expropriating the described parcels of land needed for the Wellington Gateway road project, previously authorized through the 2019 Environmental Assessment",
+  "confidence": "high",
+  "quote": "the Council of The Corporation of the City of London as Approving Authority pursuant to the Expropriations Act, R.S.O. 1990, c. E.26, as amended, HEREBY APPROVES the proposed expropriation of lands, as described in Schedule \u201cA\u201d as appended to the staff report dated July 25, 2023, in the City of London, County of Middlesex",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim expropriation approval, Wellington Gateway road project. Correctly issue=none (land-acquisition mechanics, not a substantive transit/roads-policy vote; no transit keyword in body)."
+ },
+ {
+  "id": "c211495a9073",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "introduced the by-law to formally expropriate the Wellington Gateway Project lands and directed staff to register the expropriation plans and serve the required legal notices",
+  "confidence": "high",
+  "quote": "the proposed by-law as appended to the staff report dated July 25, 2023 as Appendix \u201cA\u201d being \u201cA by-law to expropriate lands in the City of London, in the County of Middlesex, the Wellington Gateway Project: BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim expropriation by-law introduction, Wellington Gateway. Correctly issue=none."
+ },
+ {
+  "id": "15421b887a82",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "directed staff to move Planning, Development and Building staff to a 4-day-in-office/1-day-remote work model by Q1 2024 while continuing other departments' existing alternative-work-strategy arrangements",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to amend the current Alternative Work Strategies in the Planning and Development and Building service area(s), and develop a new model where employees are in the workplace 4 days a week and remote work one day a week no later than the end of Q1 2024",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded 2023-07-25 Council item 8.1.3, fourth content block (9-6): 'That parts a) and b) of the motion, as amended, BE APPROVED' -- verified against post_motion_text full clause. Workplace/Alternative-Work-Strategies policy, not a tracked issue cluster. Correctly issue=none."
+ },
+ {
+  "id": "a1f1b5a6bbb7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "deferred Council's consideration of the London Hydro Board of Directors appointments to the August 29, 2023 meeting, at London Hydro's request",
+  "confidence": "high",
+  "quote": "That consideration of the appointments by the Municipal Council to the London Hydro Board of Directors BE DEFERRED to the August 29, 2023 meeting of the municipal council, at the request of London Hydro.",
+  "flags": [
+   "appointment",
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim deferral of London Hydro Board appointment consideration. Correctly issue=none, appointment/referral."
+ },
+ {
+  "id": "d4dc1443533a",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "added a requirement that Civic Administration report back with a status update on the affordable-housing agreement for 599-601 Richmond Street once negotiations between the applicant and Municipal Housing Development begin and again once they conclude",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to report back with a status update on the affordable housing agreement for 599-601 Richmond Street when discussions between the Applicant and Municipal Housing Development begin, and when they have concluded.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded 2023-07-25 Council item 8.2.16, second content block (14-1): amendment adding part c), report-back on the affordable-housing agreement status. Quote verbatim. Informational ask (report back only, no approve/deny of the agreement itself); correctly left unclear."
+ },
+ {
+  "id": "d2c96f469559",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "approved rezoning 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision zone for redevelopment, and directed staff to work with the applicant toward including affordable housing units in the project",
+  "confidence": "medium",
+  "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject lands FROM a Business District Commercial Special Provision Bonus Zone (BDC(1)*B-87) Zone TO a Business District Commercial Special Provision (BDC(_)) Zone",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Same item, third content block (12-3, 'the motion, as amended, BE APPROVED'): verified against post_motion_texts full reads-as-follows clause -- the quoted zoning by-law introduction language (part a) is verbatim from that full text. Genuine rezoning approval with a directed-negotiation affordable-housing clause; no denial-flip, no business-case exclusion, not a relocation. Generic application-approval fallback correctly applied (no explicit density/height increase language in the operative text)."
+ },
+ {
+  "id": "0cc20e6cb335",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "approved the heritage alteration application to install asphalt shingles or an alternate composite material on the roof of 39 Carfrae Street",
+  "confidence": "high",
+  "quote": "the heritage alteration application to install asphalt shingles or an alternate composite material for the roof replacement of the property located at 39 Carfrae Street BE APPROVED",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim heritage alteration approval (39 Carfrae St. roofing). Heritage is not a tracked issue cluster; correctly issue=none."
+ },
+ {
+  "id": "6a7abb9e3aca",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "would have referred roughly 49 proposed Council Policy amendments (Appendices C1-C49) to the Governance Working Group for consideration instead of introducing them directly",
+  "confidence": "high",
+  "quote": "the following items, related to the Council Policy Manual Review 2023, BE REFERRED to the Governance Working Group for consideration: the proposed by-laws as appended to the staff report dated July 17, 2023 as Appendices C1 to C49, to make the specified amendments to the following Council Policies",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded 2023-07-25 Council item 8.3.14: this is an omnibus REFERRAL of ~49 unrelated Council Policy amendments (Appendices C1-C49) to the Governance Working Group, one of which happens to be titled 'Capital Budget and Financing Policy.' A bulk procedural referral bundling 49 distinct policy areas is not a substantive position on any one of them (matches the calibration note's own logic for title/keyword hits that aren't a real position). Correctly issue=none, referral -- did not force-fit to budget off the one bundled title."
+ },
+ {
+  "id": "0958d467a22f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "appointed Mark C. Ambrogio, Sarvarinder Singh Dohil, and Jeff Gard as voting members of the Community Advisory Committee on Planning",
+  "confidence": "high",
+  "quote": "the following individuals BE APPOINTED as Voting Members to the Community Advisory Committee on Planning for the term ending February 2024: Mark C. Ambrogio | Sarvarinder Singh Dohil | Jeff Gard",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim Community Advisory Committee on Planning voting-member appointments. Personnel matter, correctly issue=none."
+ },
+ {
+  "id": "c2516caecfbb",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "directed Civic Administration to report to a future Community and Protective Services Committee meeting on options and costs to address safety and security concerns raised by homelessness-response agencies, their staff/volunteers, and people accessing their services",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to provide a report to a future Community and Protective Services Committee (CPSC) to identify options and the associated costs to address the safety and security concerns identified as well as the safety and security concerns of the agencies' staff, volunteers and those accessing services.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded 2023-07-25 Council item 8.4.5, second content block (13-2): amendment adding part e), directing a future report on safety/security options and costs. Quote verbatim. Informational ask (identify options and costs, no approve/deny of any specific response); correctly left unclear."
+ },
+ {
+  "id": "9ddf707bf29d",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
+  "confidence": "high",
+  "quote": "a one-time funding allocation of up to $374,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Same item: this vote result (8-7) is recorded on an EMPTY-text content block immediately following the $374,210 amendment text block (an adjacent moved-text/voted-result split, a known scraper pattern) -- confirmed the pairing is correct by matching the manifest's '8 to 7' result to this specific block. Quote verbatim: the amendment ADDS a new part f) committing $374,210 in new funding where the base motion's part b) had only REFERRED the funding question (i.e., baseline was $0 committed). Genuine, unambiguous expansion -- correctly encampments/response-scale/expansive."
+ },
+ {
+  "id": "8691fbe1afab",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "restrictive",
+  "whatAYeaDid": "reduced the one-time homelessness-response security funding from $374,210 (the immediately prior amendment) down to $200,000, for London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
+  "confidence": "high",
+  "quote": "a one-time funding allocation of up to $200,000 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Loaded same item, fifth content block (11-4): 'That the amendment, as amended, BE APPROVED as follows: ... f) a one-time funding allocation of up to $200,000...' -- this is a further amendment that REPLACES the $374,210 figure just passed moments earlier in the SAME meeting (9ddf707bf29d, 8-7) with a lower $200,000 figure. The classifier's own whatAYeaDid already says 'reduced from the $374,210 figure in the immediately prior amendment,' but then labelled polarity 'expansive' -- an internal inconsistency. Read against its correct baseline (the amount immediately on the table, not the original zero-commitment referral), a YEA on this specific vote is unambiguously a REDUCTION: it cuts $174,210 from what had just passed. Leaving this 'expansive' would make the 4 NAY voters (Hopkins, Peloza, Trosow, Ferreira -- who wanted to KEEP the higher $374,210 figure, i.e. the MORE pro-funding position) read as having taken the 'restrictive'/anti-funding position, which is backwards and exactly the kind of wrong-direction error this review exists to catch. Same convention the classifier itself uses elsewhere in this batch for 'amend a just-proposed amount down' (747ddc1b03e4, 4e9c612c2fca: 'cut'/'reduced' framing). CORRECTED: axis stays response-scale, polarity flipped expansive -> restrictive. Quote (verbatim, unchanged, confirmed against source): 'a one-time funding allocation of up to $200,000 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023'."
+ },
+ {
+  "id": "522423220717",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "added an $80,000-per-year (one year, to be re-evaluated) City contribution from the Economic Development Reserve Fund to the Middlesex-London Ontario Health Team's Primary Care Recruitment program, and authorized staff to carry out related administrative acts",
+  "confidence": "high",
+  "quote": "the City's financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $80,000 per year for 1 year; it being noted that the program will be re-evaluated after the one-year contribution",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded 2023-07-25 Council item 8.4.6, second content block (9-5): adds parts c)/d) committing $80,000/yr to the Primary Care Recruitment program. Verified this is correctly issue=none per the project's own documented calibration note (avoids the 'Transition into Practice' title false-triggering the transit keyword); no other tracked-issue keyword (budget, housing, etc.) appears in the operative text either. No missed classification."
+ },
+ {
+  "id": "747ddc1b03e4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "would have cut the proposed Primary Care Recruitment Program contribution from $80,000 to $28,500",
+  "confidence": "high",
+  "quote": "That the new part c) BE AMENDED by replacing the contribution amount of $80,000 with the amount of $28,500.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Same item, third content block (Failed 7-7): amendment to cut the contribution to $28,500. Quote verbatim. Correctly issue=none for the same reason as 522423220717."
+ },
+ {
+  "id": "4e9c612c2fca",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "reduced the proposed Primary Care Recruitment Program contribution from $80,000 to $50,000",
+  "confidence": "high",
+  "quote": "That the new part c) BE AMENDED by replacing the contribution amount of $80,000 with the amount of $50,000.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Same item, fourth content block (Passed 9-5): amendment to reduce the contribution to $50,000. Quote verbatim. Correctly issue=none."
+ },
+ {
+  "id": "df236ef2386e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "gave final approval to the Primary Care Recruitment, Transition into Practice and Retention Program funding request as amended, including the $50,000 City contribution",
+  "confidence": "high",
+  "quote": "That the motion, as amended, BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Same item, fifth content block (Passed 10-4): wrapper 'motion, as amended, BE APPROVED' verified against post_motion_texts full clause ($50,000 final). Correctly issue=none, wrapper_preamble."
+ },
+ {
+  "id": "cc9822fc64a9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "directed staff to decommission Thames Pool, consult on new park amenities and a spray pad, study a new indoor pool location, and continue arranging transportation to other aquatic facilities, capped at a combined $1.92 million budget for the non-demolition items",
+  "confidence": "high",
+  "quote": "proceed with the process to decommission Thames Pool; ... parts b), c), d) and e), above, not exceed a combined budget of $1.92 million, consistent with the lowest cost temporary repair option for the current Thames Pool location outlined in the staff report, dated July 18, 2023",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded 2023-07-25 Council item 8.4.8 (Passed 8-7). Quote verbatim, full clause confirmed. Thames Pool decommissioning/park-amenities item does not match any of the 8 tracked-issue keyword sets (bare 'budget' alone is not a budget keyword -- only compound phrases like 'capital budget' are). Correctly issue=none despite being a real, closely-divided vote."
+ },
+ {
+  "id": "cfa6e2dd4fda",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "requested that Civic Administration remove 'Mode Target Share Option 1' from the Mobility Master Plan update staff report",
+  "confidence": "low",
+  "quote": "the Civic Administration BE REQUESTED to remove item 2.4.1 Mode Target Share Option 1 from the above-noted staff report",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded 2023-07-25 Council item 8.5.15, second content block (11-2): 'the Civic Administration BE REQUESTED to remove item 2.4.1 Mode Target Share Option 1 from the...staff report.' Quote verbatim. This shapes a future planning report rather than expanding/reducing actual transit service, frequency, route, or infrastructure -- correctly left unclear rather than force-fit to service-expansion."
+ },
+ {
+  "id": "ceef716a2313",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "would have referred Councillor Franke's Climate Emergency Action Plan - Phase Out Gas communications to Civic Administration for review, instead of acting on them directly at this meeting",
+  "confidence": "high",
+  "quote": "That the communications included on the Added Agenda from Councillor S. Franke, related to Climate Emergency Action Plan - Phase Out Gas, BE REFERRED to the Civic Administration for review.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Loaded 2023-07-25 Council item 8.5.16, first content block (Failed 5-8): referral of Councillor Franke's Climate Emergency Action Plan communications. Quote verbatim. Referral-only, correctly left unclear regardless of pass/fail."
+ },
+ {
+  "id": "a5ad4d139512",
+  "issue": "climate",
+  "axis": "target-strength",
+  "polarity": "expansive",
+  "whatAYeaDid": "directed the Mayor and two councillors to write to AMO advocating that the Province commit Ontario to a net-zero-carbon electricity grid by 2035, and directed staff to collect London facilities' greenhouse-gas reduction plans (targeting net-zero emissions by 2050) and to discuss Clean Electricity Regulations implementation with Enbridge and London Hydro",
+  "confidence": "medium",
+  "quote": "the Mayor of the City of London, Councillor C. Rahman and Councillor A. Hopkins BE DIRECTED to submit a letter to AMO to develop a position and advocate on behalf of Ontario municipalities to request the Government of Ontario to develop and implement a plan to move Ontario to a net zero-carbon electricity grid by 2035, consistent with the 2035 date of the proposed Federal Government Clean Electricity Regulations (CER), to help Ontario and London meet our climate targets",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Same item, second content block (Passed 10-3): quote verified verbatim against the full clause (part a), truncated only at a natural clause boundary, nothing altered). This is real advocacy correspondence (a letter asking the Province to commit to a net-zero grid) plus internal data-gathering, not the City adopting its own numeric target -- worth flagging that 'target-strength' reads slightly generously (it's advocacy directed at another government, not a City target change), but the polarity direction itself is not false: YEA voters supported the climate-advocacy/net-zero package, NAY voters (Hillier, Van Meerbergen, Stevenson) opposed sending it. Confirmed, not corrected -- the axis label is a defensible characterization, not a wrong-direction claim."
+ }
 ]

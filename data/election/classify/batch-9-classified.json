@@ -1,508 +1,508 @@
 [
-  {
-    "id": "76f0898f552f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the motion to extend the terms of London & Middlesex Community Housing board members Phil Squire and Greg Thompson to September 30, 2027 (instead of December 31, 2026), and added a new part extending tenant board member Kathleen Savoy's term to September 30, 2027 as well.",
-    "confidence": "high",
-    "quote": "the term for Phil Squire, Chair, London & Middlesex Community Housing Board of Directors BE EXTENDED from December 31, 2024 to September 30, 2027",
-    "flags": [
-      "appointment",
-      "procedural"
-    ]
-  },
-  {
-    "id": "34ca38f3423f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved the full motion, as amended, extending the terms of three London & Middlesex Community Housing board members (Phil Squire, Greg Thompson, and Kathleen Savoy) to September 30, 2027.",
-    "confidence": "high",
-    "quote": "That the motion, as amended, BE APPROVED.",
-    "flags": [
-      "appointment",
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "78547156fa22",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the motion to direct Civic Administration to both initiate public engagement on renaming the former Paul Haggis Park and former Trooper Mark Wilson Park, and separately rename Trooper Wilson Place to Peacekeeper Place.",
-    "confidence": "high",
-    "quote": "c) the Civic Administration BE DIRECTED to initiate public engagement with the impacted neighbourhood to rename the (former) Paul Haggis Park and (former) Trooper Mark Wilson Park and; d) the Civic Administration BE DIRECTED to rename Trooper Wilson Place to Peacekeeper Place.",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "a2a597755fb0",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to rename Trooper Wilson Place to Peacekeeper Place.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to rename Trooper Wilson Place to Peacekeeper Place.",
-    "flags": []
-  },
-  {
-    "id": "66e43dc2d262",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Withdrew the prior motion to approve consent Items 2.1, 2.3, 2.4 and 2.5 as a single bundle.",
-    "confidence": "high",
-    "quote": "That the motion to approve Items 2.1, 2.3, 2.4 and 2.5 BE WITHDRAWN.",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "3086f22d87c4",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to prepare a report summarizing research, stakeholder feedback, and proposed next steps on the 'Quick Communities' initiative for presentation to committee.",
-    "confidence": "low",
-    "quote": "That the Civic Administration BE DIRECTED to prepare a report summarizing their research, stakeholder feedback and proposed next steps related to Quick Communities for presentation to the Community and Protective Services Committee on May 20, 2025",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "54f3f0fe7c15",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting on proposed amendments to the Minimum Maintenance Standards for Municipal Highways (snow and ice removal) and their budget impact.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee regarding amendments to the Minimum Maintenance Standards for Municipal Highways (O.Reg. 239/02) and the impact of the amendments on City operations, along with any budget considerations",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "64ea05df8b76",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed a review of the City's 2024/2025 winter maintenance performance, including a contractor performance assessment, analysis of windrow-clearing options, alternative snow/ice removal methods, and discussions with school boards on walking-path clearance.",
-    "confidence": "high",
-    "quote": "the City’s 2024/2025 winter maintenance performance, challenges and opportunities for potential service improvements BE REVIEWED, including but not limited to: i) a performance assessment of contracted services providers; ii) an analysis by staff on possible costs associated to use machines that could clean windrows...",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "4e0d98d4fc80",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed the City Clerk to request that local school boards consider scheduling a Professional Activity Day on the October 26, 2026 municipal election Voting Day.",
-    "confidence": "high",
-    "quote": "the City Clerk BE DIRECTED to request local school boards to consider scheduling a Professional Activity Day (PA Day) on Voting Day, October 26, 2026, as elementary and secondary schools serve as voting locations for Municipal and School Board Elections",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "9aebb0722413",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Introduced a by-law approving and ratifying a federal Emergency Treatment Fund contribution agreement for the 'Reducing Substance Use Harms Through Basic Needs and Healthcare' program at 602 Queens 'The Commons', and delegated authority to execute related agreements.",
-    "confidence": "high",
-    "quote": "the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on April 22, 2025, to: i) severally delegated the authority to the City Manager and the Deputy City Manager, Social and Health Development to approve...ratify the Contribution Agreement",
-    "flags": []
-  },
-  {
-    "id": "e3801f6411ff",
-    "issue": "encampments",
-    "axis": "relocation",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to assist with the relocation of those living unhoused in Watson Park, to ensure that Watson Park is in compliance with established encampment protocols, and connect them with appropriate service supports, including possible shelter options",
-    "flags": [
-      "relocation",
-      "procedural"
-    ]
-  },
-  {
-    "id": "0f3d27aee05c",
-    "issue": "encampments",
-    "axis": "relocation",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to assist with the relocation of those living unhoused in Watson Park, to ensure that Watson Park is in compliance with established encampment protocols, and connect them with appropriate service supports, including possible shelter options",
-    "flags": [
-      "relocation"
-    ]
-  },
-  {
-    "id": "ab8c0a2b000c",
-    "issue": "encampments",
-    "axis": "relocation",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Directed Civic Administration to shut down the fixed Watson Park depot and shift to a mobile service model, with depot resources redirected to help people living unhoused find shelter or move to another location.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible and that, in the interim period, depot resources be reallocated to assist those living unhoused find shelter or relocate them to an alternate location",
-    "flags": [
-      "relocation"
-    ]
-  },
-  {
-    "id": "e836ac41a3c7",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Refused Royal Premier Homes' application to amend the Official Plan and rezone 801 Sarnia Road from a Holding Residential R8 zone to Residential R9, which would have permitted greater intensification.",
-    "confidence": "high",
-    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Holding Residential R8 Special Provision Bonus (h-8*R8- 4(74)*B-40)) Zone TO a Residential R9 Special Provision (R9-7(_)) Zone, BE REFUSED",
-    "flags": []
-  },
-  {
-    "id": "ef9ba6dbe683",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and rezone 801 Sarnia Road from Residential R8 to Residential R9, which the record states permits residential intensification.",
-    "confidence": "medium",
-    "quote": "the proposed by-law (attached as Appendix B) BE INTRODUCED...to amend Zoning By-law No. Z.-1...to change the zoning of the subject property from a Holding Residential R8 Special Provision Bonus...Zone TO a Residential R9 Special Provision...Zone...IT BEING NOTED that the above noted amendment is being recommended for the following reasons: 1) the recommended amendment would permit residential intensification that is appropriate.",
-    "flags": []
-  },
-  {
-    "id": "e0b2c6bdb39c",
-    "issue": "climate",
-    "axis": "natural-heritage",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
-    "confidence": "medium",
-    "quote": "The subdivision approval authority include a draft plan condition specific to natural heritage compensation for the 1.27 hectares of feature removal, consisting of 0.57 ha of wetlands and 0.70 ha of woodlands, to demonstrate no net loss to the natural heritage features and functions, to the satisfaction of the City.",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "c98684871555",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing by-laws to rezone 3095 Bostwick Road from Urban Reserve to Residential R2/R4 and Open Space zones, enabling the Talbot Village Phase 8 residential subdivision.",
-    "confidence": "high",
-    "quote": "the proposed by-law...BE INTRODUCED...to amend Zoning By-law No. Z.-1...to change the zoning of the subject property FROM an Urban Reserve (UR3) Zone TO a Residential R2 (R2-3(6)), Residential R4 (R4-4(2)), and an Open Space (OS5) Zone",
-    "flags": []
-  },
-  {
-    "id": "fd6601ac30ac",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and lift the Holding provision on 1622 Evans Boulevard, rezoning it to Residential R6/R8 Special Provision to allow the Drewlo Holdings development to proceed.",
-    "confidence": "high",
-    "quote": "the proposed by-law...to amend the Zoning By-law No. Z.-1...to change the zoning of the subject property FROM a Holding Residential R6/Residential R8 (h-100*R6-5/R8-4) Zone, TO a Residential R6/Residential R8 Special Provision (R6-5(_)/R8-4(_)) Zone",
-    "flags": []
-  },
-  {
-    "id": "f17f4e5c9c5c",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Appointed Deloitte LLP as consultant to develop the Economic Development Strategy for $233,820, approved the associated funding, and authorized the Mayor and City Clerk to execute the contract.",
-    "confidence": "high",
-    "quote": "Deloitte LLP BE APPOINTED as the Consultant to undertake the development of the Economic Development Strategy, for a total amount of $233,820.00 (excluding HST)",
-    "flags": [
-      "appointment"
-    ]
-  },
-  {
-    "id": "65d77aa73841",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Appointed Deloitte LLP as consultant to develop the Economic Development Strategy for $233,820, approved the associated funding, and authorized the Mayor and City Clerk to execute the contract.",
-    "confidence": "high",
-    "quote": "Deloitte LLP BE APPOINTED as the Consultant to undertake the development of the Economic Development Strategy, for a total amount of $233,820.00 (excluding HST)",
-    "flags": [
-      "appointment"
-    ]
-  },
-  {
-    "id": "22a71b3ad0fa",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the consultant appointment for the Economic Development Strategy to a future committee meeting, pending a staff report on proponents and their status as Canadian firms.",
-    "confidence": "high",
-    "quote": "That the appointment of a consultant for the development of the Economic Development Strategy BE REFERRED to a future meeting of the Strategic Policy and Priorities Committee for Civic Administration to report back on proponents and their status as Canadian firms.",
-    "flags": [
-      "referral"
-    ]
-  },
-  {
-    "id": "37783630d9ea",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed the City Clerk to request that local school boards consider scheduling a Professional Activity Day on the October 26, 2026 municipal election Voting Day.",
-    "confidence": "high",
-    "quote": "the City Clerk BE DIRECTED to request local school boards to consider scheduling a Professional Activity Day (PA Day) on Voting Day, October 26, 2026, as elementary and secondary schools serve as voting locations for Municipal and School Board Elections",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "9fcb8e1d3e65",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have amended the motion to request that Civic Administration include, in the Ecological Reference Group's Terms of Reference, a review role over Environmental Impact Studies, Environmental Assessments, infrastructure reviews, Subject Land Status Reports, and Subwatershed Studies.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE REQUESTED to include in the Ecological Reference Group Terms of Reference a review Environmental Impact Studies, Environmental Assessments, infrastructure reviews, Subject Land Status Reports and Subwatershed Studies.",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "058e553b9214",
-    "issue": "climate",
-    "axis": "natural-heritage",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
-    "confidence": "medium",
-    "quote": "The subdivision approval authority include a draft plan condition specific to natural heritage compensation for the 1.27 hectares of feature removal, consisting of 0.57 ha of wetlands and 0.70 ha of woodlands, to demonstrate no net loss to the natural heritage features and functions, to the satisfaction of the City.",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "d2716533c7ce",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Recommended approving introducing by-laws to amend the Official Plan and lift the Holding provision on 1622 Evans Boulevard, rezoning it to Residential R6/R8 Special Provision to allow the Drewlo Holdings development to proceed.",
-    "confidence": "high",
-    "quote": "the proposed by-law...to amend the Zoning By-law No. Z.- 1...to change the zoning of the subject property FROM a Holding Residential R6/Residential R8 (h-100*R6-5/R8-4) Zone, TO a Residential R6/Residential R8 Special Provision (R6-5(_)/R8-4(_)) Zone",
-    "flags": []
-  },
-  {
-    "id": "99f29202a186",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Recommended refusing Royal Premier Homes' application to amend the Official Plan and rezone 801 Sarnia Road from a Holding Residential R8 zone to Residential R9, which would have permitted greater intensification.",
-    "confidence": "high",
-    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Holding Residential R8 Special Provision Bonus (h-8*R8- 4(74)*B-40)) Zone TO a Residential R9 Special Provision (R9-7(_)) Zone, BE REFUSED",
-    "flags": []
-  },
-  {
-    "id": "90d3ac06821f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Emergency Treatment Fund motion to add a requirement that Civic Administration present a future report to committee providing the executed contracts for information.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to present a report at a future meeting of the Community and Protective Services Committee, providing the above noted executed contracts for information.",
-    "flags": [
-      "informational_ask",
-      "procedural"
-    ]
-  },
-  {
-    "id": "4a0ac7ff43c4",
-    "issue": "encampments",
-    "axis": "relocation",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Directed Civic Administration to shut down the fixed Watson Park depot and shift to a mobile service model, with depot resources redirected to help people living unhoused find shelter or move to another location.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible; and that in the interim period, depot resources be reallocated to assist those living unhoused find shelter or relocate them to an alternate location",
-    "flags": [
-      "relocation"
-    ]
-  },
-  {
-    "id": "a25a6b489e81",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Reconsidered the Strategic Priorities and Policy Committee's decision on the London Transit Commission's composition, reopening whether the Commission should have five or seven members.",
-    "confidence": "high",
-    "quote": "That pursuant to section 13.6 of the Council Procedure by-law, the Strategic Policy and Committee decision with respect to the composition of the London Transit Commission BE RECONSIDERED to provide for seven members.",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "fb0027ac9928",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the London Transit Commission restructuring by-law to set the Commission's size at seven members (instead of five), with a four-member quorum.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to bring forward to the Municipal Council meeting on April 1, 2025, a by-law with the necessary amendments to By-law No. A.-6377-206, as amended, to provide that the London Transit Commission shall consist of seven (7) members of Council",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "3ecdb8dde129",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Appointed Mayor Morgan and Councillors Trosow, Rahman, Lehman, Hopkins, Franke, and Peloza to the London Transit Commission.",
-    "confidence": "high",
-    "quote": "That the following Council Members BE APPOINTED to the London Transit Commission: Mayor J. Morgan, Councillor S. Trosow, Councillor C. Rahman, Councillor S. Lehman, Councillor A. Hopkins, Councillor S. Franke, Councillor E. Peloza",
-    "flags": [
-      "appointment"
-    ]
-  },
-  {
-    "id": "9d07f80a1a75",
-    "issue": "downtown",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Appointed the Canadian Urban Institute as consultant to develop the Downtown Master Plan for $415,000, approved the associated funding, and authorized staff and the Mayor to execute the necessary contracts.",
-    "confidence": "medium",
-    "quote": "the Canadian Urban Institute, BE APPOINTED as the Consultant to undertake the development of the Downtown Master Plan, in the amount of $415,000.00 (excluding HST)",
-    "flags": [
-      "appointment"
-    ]
-  },
-  {
-    "id": "09385ddc0d7d",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next capital improvement cycle.",
-    "confidence": "high",
-    "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
-    "flags": []
-  },
-  {
-    "id": "1c01de0e5a7b",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved the Mobility Master Plan's Transit Priority Network maps.",
-    "confidence": "high",
-    "quote": "the Transit Priority Network maps BE APPROVED",
-    "flags": []
-  },
-  {
-    "id": "0bb386581df6",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved the Cycling Network maps overall, with specific street-level exceptions to be decided in separate sub-motions.",
-    "confidence": "high",
-    "quote": "the Cycling Network maps BE APPROVED, except:",
-    "flags": []
-  },
-  {
-    "id": "d85fe3feb38a",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the planned cycling network.",
-    "confidence": "high",
-    "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: A. Royal Crescent east of Clarke Road to Wexford Avenue to Admiral Drive",
-    "flags": []
-  },
-  {
-    "id": "439e4f691d90",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed the proposed Sovereign Road route from the planned cycling network.",
-    "confidence": "high",
-    "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: ... B. Sovereign Road",
-    "flags": []
-  },
-  {
-    "id": "bc037e6d64e5",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the planned cycling network.",
-    "confidence": "high",
-    "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: ... C. Vancouver Street from Trafalgar Street to Wavell Street",
-    "flags": []
-  },
-  {
-    "id": "173b033d62b4",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Would have removed the proposed Huron Street route from the planned cycling network.",
-    "confidence": "high",
-    "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling Maps: A. Huron Street",
-    "flags": []
-  },
-  {
-    "id": "ee08870a7edb",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": null,
-    "whatAYeaDid": "Changed the Huron Street cycling project's priority tier to 'medium-term' (after a separate motion to remove it from the network entirely had just failed).",
-    "confidence": "low",
-    "quote": "Huron Street BE CHANGED to medium-term cycling project",
-    "flags": []
-  },
-  {
-    "id": "869e73d0f26b",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed the proposed Taylor Street, McNay Street, and Gammage Street routes from the planned cycling network.",
-    "confidence": "high",
-    "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling Maps: ... B. Taylor Street, McNay Street and Gammage Street",
-    "flags": []
-  },
-  {
-    "id": "af145538050f",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed the planned Windermere Road to Gainsborough Road active transportation (cycling) connection from the Cycling Network maps.",
-    "confidence": "high",
-    "quote": "the Windermere Road to Gainsborough Road Active Transportation Connection BE REMOVED from the Cycling Network maps",
-    "flags": []
-  },
-  {
-    "id": "f2540910623e",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Directed Civic Administration to restart the Wonderland Road corridor Environmental Assessment (Southdale Road to Fanshawe Park Road) to build six general-purpose through lanes, with a long-term option to convert to Bus Rapid Transit, and to update the Mobility Master Plan maps accordingly.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly",
-    "flags": []
-  },
-  {
-    "id": "c982238f3e53",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Requested that the Mayor and Civic Administration begin discussions with neighbouring municipalities and the Province on a potential ring road and integrated regional transportation network.",
-    "confidence": "medium",
-    "quote": "the Mayor and Civic Administration BE REQUESTED to engage in discussions with neighbouring municipalities and the Province to work collaboratively on a ring road and integrated transportation network that would help move people, goods and services within and across the region",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "87bccdfb472c",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved the Mobility Master Plan Network Maps item as amended, ratifying the individual map approvals and amendments decided separately above (roads, transit priority, cycling network changes, sidewalk gaps, the Wonderland Road EA restart, and ring road advocacy).",
-    "confidence": "medium",
-    "quote": "Item 9, clause 4.1, as amended, BE APPROVED.",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  }
+ {
+  "id": "76f0898f552f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion to extend the terms of London & Middlesex Community Housing board members Phil Squire and Greg Thompson to September 30, 2027 (instead of December 31, 2026), and added a new part extending tenant board member Kathleen Savoy's term to September 30, 2027 as well.",
+  "confidence": "high",
+  "quote": "the term for Phil Squire, Chair, London & Middlesex Community Housing Board of Directors BE EXTENDED from December 31, 2024 to September 30, 2027",
+  "flags": [
+   "appointment",
+   "procedural"
+  ]
+ },
+ {
+  "id": "34ca38f3423f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the full motion, as amended, extending the terms of three London & Middlesex Community Housing board members (Phil Squire, Greg Thompson, and Kathleen Savoy) to September 30, 2027.",
+  "confidence": "high",
+  "quote": "That the motion, as amended, BE APPROVED.",
+  "flags": [
+   "appointment",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "78547156fa22",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion to direct Civic Administration to both initiate public engagement on renaming the former Paul Haggis Park and former Trooper Mark Wilson Park, and separately rename Trooper Wilson Place to Peacekeeper Place.",
+  "confidence": "high",
+  "quote": "c) the Civic Administration BE DIRECTED to initiate public engagement with the impacted neighbourhood to rename the (former) Paul Haggis Park and (former) Trooper Mark Wilson Park and; d) the Civic Administration BE DIRECTED to rename Trooper Wilson Place to Peacekeeper Place.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "a2a597755fb0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to rename Trooper Wilson Place to Peacekeeper Place.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to rename Trooper Wilson Place to Peacekeeper Place.",
+  "flags": []
+ },
+ {
+  "id": "66e43dc2d262",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Withdrew the prior motion to approve consent Items 2.1, 2.3, 2.4 and 2.5 as a single bundle.",
+  "confidence": "high",
+  "quote": "That the motion to approve Items 2.1, 2.3, 2.4 and 2.5 BE WITHDRAWN.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "3086f22d87c4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to prepare a report summarizing research, stakeholder feedback, and proposed next steps on the 'Quick Communities' initiative for presentation to committee.",
+  "confidence": "low",
+  "quote": "That the Civic Administration BE DIRECTED to prepare a report summarizing their research, stakeholder feedback and proposed next steps related to Quick Communities for presentation to the Community and Protective Services Committee on May 20, 2025",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "b10bc4a302f1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting on proposed amendments to the Minimum Maintenance Standards for Municipal Highways (snow and ice removal) and their budget impact.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee regarding amendments to the Minimum Maintenance Standards for Municipal Highways (O.Reg. 239/02) and the impact of the amendments on City operations, along with any budget considerations",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "ae09f583f09b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed a review of the City's 2024/2025 winter maintenance performance, including a contractor performance assessment, analysis of windrow-clearing options, alternative snow/ice removal methods, and discussions with school boards on walking-path clearance.",
+  "confidence": "high",
+  "quote": "the City\u2019s 2024/2025 winter maintenance performance, challenges and opportunities for potential service improvements BE REVIEWED, including but not limited to: i) a performance assessment of contracted services providers; ii) an analysis by staff on possible costs associated to use machines that could clean windrows...",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "4e0d98d4fc80",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the City Clerk to request that local school boards consider scheduling a Professional Activity Day on the October 26, 2026 municipal election Voting Day.",
+  "confidence": "high",
+  "quote": "the City Clerk BE DIRECTED to request local school boards to consider scheduling a Professional Activity Day (PA Day) on Voting Day, October 26, 2026, as elementary and secondary schools serve as voting locations for Municipal and School Board Elections",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "23f218536240",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law approving and ratifying a federal Emergency Treatment Fund contribution agreement for the 'Reducing Substance Use Harms Through Basic Needs and Healthcare' program at 602 Queens 'The Commons', and delegated authority to execute related agreements.",
+  "confidence": "high",
+  "quote": "the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on April 22, 2025, to: i) severally delegated the authority to the City Manager and the Deputy City Manager, Social and Health Development to approve...ratify the Contribution Agreement",
+  "flags": []
+ },
+ {
+  "id": "e3801f6411ff",
+  "issue": "encampments",
+  "axis": "relocation",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to assist with the relocation of those living unhoused in Watson Park, to ensure that Watson Park is in compliance with established encampment protocols, and connect them with appropriate service supports, including possible shelter options",
+  "flags": [
+   "relocation",
+   "procedural"
+  ]
+ },
+ {
+  "id": "0f3d27aee05c",
+  "issue": "encampments",
+  "axis": "relocation",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to assist with the relocation of those living unhoused in Watson Park, to ensure that Watson Park is in compliance with established encampment protocols, and connect them with appropriate service supports, including possible shelter options",
+  "flags": [
+   "relocation"
+  ]
+ },
+ {
+  "id": "ab8c0a2b000c",
+  "issue": "encampments",
+  "axis": "relocation",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Directed Civic Administration to shut down the fixed Watson Park depot and shift to a mobile service model, with depot resources redirected to help people living unhoused find shelter or move to another location.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible and that, in the interim period, depot resources be reallocated to assist those living unhoused find shelter or relocate them to an alternate location",
+  "flags": [
+   "relocation"
+  ]
+ },
+ {
+  "id": "dd280a8616dc",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Refused Royal Premier Homes' application to amend the Official Plan and rezone 801 Sarnia Road from a Holding Residential R8 zone to Residential R9, which would have permitted greater intensification.",
+  "confidence": "high",
+  "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Holding Residential R8 Special Provision Bonus (h-8*R8- 4(74)*B-40)) Zone TO a Residential R9 Special Provision (R9-7(_)) Zone, BE REFUSED",
+  "flags": []
+ },
+ {
+  "id": "c518f6f2eead",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and rezone 801 Sarnia Road from Residential R8 to Residential R9, which the record states permits residential intensification.",
+  "confidence": "medium",
+  "quote": "the proposed by-law (attached as Appendix B) BE INTRODUCED...to amend Zoning By-law No. Z.-1...to change the zoning of the subject property from a Holding Residential R8 Special Provision Bonus...Zone TO a Residential R9 Special Provision...Zone...IT BEING NOTED that the above noted amendment is being recommended for the following reasons: 1) the recommended amendment would permit residential intensification that is appropriate.",
+  "flags": []
+ },
+ {
+  "id": "aabf1f257509",
+  "issue": "climate",
+  "axis": "natural-heritage",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
+  "confidence": "medium",
+  "quote": "The subdivision approval authority include a draft plan condition specific to natural heritage compensation for the 1.27 hectares of feature removal, consisting of 0.57 ha of wetlands and 0.70 ha of woodlands, to demonstrate no net loss to the natural heritage features and functions, to the satisfaction of the City.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "d6f396396ac2",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to rezone 3095 Bostwick Road from Urban Reserve to Residential R2/R4 and Open Space zones, enabling the Talbot Village Phase 8 residential subdivision.",
+  "confidence": "high",
+  "quote": "the proposed by-law...BE INTRODUCED...to amend Zoning By-law No. Z.-1...to change the zoning of the subject property FROM an Urban Reserve (UR3) Zone TO a Residential R2 (R2-3(6)), Residential R4 (R4-4(2)), and an Open Space (OS5) Zone",
+  "flags": []
+ },
+ {
+  "id": "ed9a201c6bd8",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and lift the Holding provision on 1622 Evans Boulevard, rezoning it to Residential R6/R8 Special Provision to allow the Drewlo Holdings development to proceed.",
+  "confidence": "high",
+  "quote": "the proposed by-law...to amend the Zoning By-law No. Z.-1...to change the zoning of the subject property FROM a Holding Residential R6/Residential R8 (h-100*R6-5/R8-4) Zone, TO a Residential R6/Residential R8 Special Provision (R6-5(_)/R8-4(_)) Zone",
+  "flags": []
+ },
+ {
+  "id": "2735e2dbd407",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Deloitte LLP as consultant to develop the Economic Development Strategy for $233,820, approved the associated funding, and authorized the Mayor and City Clerk to execute the contract.",
+  "confidence": "high",
+  "quote": "Deloitte LLP BE APPOINTED as the Consultant to undertake the development of the Economic Development Strategy, for a total amount of $233,820.00 (excluding HST)",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "df7bb1644686",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Deloitte LLP as consultant to develop the Economic Development Strategy for $233,820, approved the associated funding, and authorized the Mayor and City Clerk to execute the contract.",
+  "confidence": "high",
+  "quote": "Deloitte LLP BE APPOINTED as the Consultant to undertake the development of the Economic Development Strategy, for a total amount of $233,820.00 (excluding HST)",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "22a71b3ad0fa",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the consultant appointment for the Economic Development Strategy to a future committee meeting, pending a staff report on proponents and their status as Canadian firms.",
+  "confidence": "high",
+  "quote": "That the appointment of a consultant for the development of the Economic Development Strategy BE REFERRED to a future meeting of the Strategic Policy and Priorities Committee for Civic Administration to report back on proponents and their status as Canadian firms.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "37783630d9ea",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the City Clerk to request that local school boards consider scheduling a Professional Activity Day on the October 26, 2026 municipal election Voting Day.",
+  "confidence": "high",
+  "quote": "the City Clerk BE DIRECTED to request local school boards to consider scheduling a Professional Activity Day (PA Day) on Voting Day, October 26, 2026, as elementary and secondary schools serve as voting locations for Municipal and School Board Elections",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "9fcb8e1d3e65",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended the motion to request that Civic Administration include, in the Ecological Reference Group's Terms of Reference, a review role over Environmental Impact Studies, Environmental Assessments, infrastructure reviews, Subject Land Status Reports, and Subwatershed Studies.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to include in the Ecological Reference Group Terms of Reference a review Environmental Impact Studies, Environmental Assessments, infrastructure reviews, Subject Land Status Reports and Subwatershed Studies.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "9cf59db8069f",
+  "issue": "climate",
+  "axis": "natural-heritage",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
+  "confidence": "medium",
+  "quote": "The subdivision approval authority include a draft plan condition specific to natural heritage compensation for the 1.27 hectares of feature removal, consisting of 0.57 ha of wetlands and 0.70 ha of woodlands, to demonstrate no net loss to the natural heritage features and functions, to the satisfaction of the City.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "5e12a1ba30d6",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Recommended approving introducing by-laws to amend the Official Plan and lift the Holding provision on 1622 Evans Boulevard, rezoning it to Residential R6/R8 Special Provision to allow the Drewlo Holdings development to proceed.",
+  "confidence": "high",
+  "quote": "the proposed by-law...to amend the Zoning By-law No. Z.- 1...to change the zoning of the subject property FROM a Holding Residential R6/Residential R8 (h-100*R6-5/R8-4) Zone, TO a Residential R6/Residential R8 Special Provision (R6-5(_)/R8-4(_)) Zone",
+  "flags": []
+ },
+ {
+  "id": "d9ad554d21a3",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Recommended refusing Royal Premier Homes' application to amend the Official Plan and rezone 801 Sarnia Road from a Holding Residential R8 zone to Residential R9, which would have permitted greater intensification.",
+  "confidence": "high",
+  "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Holding Residential R8 Special Provision Bonus (h-8*R8- 4(74)*B-40)) Zone TO a Residential R9 Special Provision (R9-7(_)) Zone, BE REFUSED",
+  "flags": []
+ },
+ {
+  "id": "90d3ac06821f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Emergency Treatment Fund motion to add a requirement that Civic Administration present a future report to committee providing the executed contracts for information.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to present a report at a future meeting of the Community and Protective Services Committee, providing the above noted executed contracts for information.",
+  "flags": [
+   "informational_ask",
+   "procedural"
+  ]
+ },
+ {
+  "id": "4a0ac7ff43c4",
+  "issue": "encampments",
+  "axis": "relocation",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Directed Civic Administration to shut down the fixed Watson Park depot and shift to a mobile service model, with depot resources redirected to help people living unhoused find shelter or move to another location.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible; and that in the interim period, depot resources be reallocated to assist those living unhoused find shelter or relocate them to an alternate location",
+  "flags": [
+   "relocation"
+  ]
+ },
+ {
+  "id": "a25a6b489e81",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Reconsidered the Strategic Priorities and Policy Committee's decision on the London Transit Commission's composition, reopening whether the Commission should have five or seven members.",
+  "confidence": "high",
+  "quote": "That pursuant to section 13.6 of the Council Procedure by-law, the Strategic Policy and Committee decision with respect to the composition of the London Transit Commission BE RECONSIDERED to provide for seven members.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "783efa2aebee",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the London Transit Commission restructuring by-law to set the Commission's size at seven members (instead of five), with a four-member quorum.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to bring forward to the Municipal Council meeting on April 1, 2025, a by-law with the necessary amendments to By-law No. A.-6377-206, as amended, to provide that the London Transit Commission shall consist of seven (7) members of Council",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "3ecdb8dde129",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Mayor Morgan and Councillors Trosow, Rahman, Lehman, Hopkins, Franke, and Peloza to the London Transit Commission.",
+  "confidence": "high",
+  "quote": "That the following Council Members BE APPOINTED to the London Transit Commission: Mayor J. Morgan, Councillor S. Trosow, Councillor C. Rahman, Councillor S. Lehman, Councillor A. Hopkins, Councillor S. Franke, Councillor E. Peloza",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "98659cba0584",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed the Canadian Urban Institute as consultant to develop the Downtown Master Plan for $415,000, approved the associated funding, and authorized staff and the Mayor to execute the necessary contracts.",
+  "confidence": "medium",
+  "quote": "the Canadian Urban Institute, BE APPOINTED as the Consultant to undertake the development of the Downtown Master Plan, in the amount of $415,000.00 (excluding HST)",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "c7e50ba41dc6",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next capital improvement cycle.",
+  "confidence": "high",
+  "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
+  "flags": []
+ },
+ {
+  "id": "1c01de0e5a7b",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the Mobility Master Plan's Transit Priority Network maps.",
+  "confidence": "high",
+  "quote": "the Transit Priority Network maps BE APPROVED",
+  "flags": []
+ },
+ {
+  "id": "0bb386581df6",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the Cycling Network maps overall, with specific street-level exceptions to be decided in separate sub-motions.",
+  "confidence": "high",
+  "quote": "the Cycling Network maps BE APPROVED, except:",
+  "flags": []
+ },
+ {
+  "id": "d85fe3feb38a",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the planned cycling network.",
+  "confidence": "high",
+  "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: A. Royal Crescent east of Clarke Road to Wexford Avenue to Admiral Drive",
+  "flags": []
+ },
+ {
+  "id": "439e4f691d90",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed the proposed Sovereign Road route from the planned cycling network.",
+  "confidence": "high",
+  "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: ... B. Sovereign Road",
+  "flags": []
+ },
+ {
+  "id": "bc037e6d64e5",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the planned cycling network.",
+  "confidence": "high",
+  "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: ... C. Vancouver Street from Trafalgar Street to Wavell Street",
+  "flags": []
+ },
+ {
+  "id": "173b033d62b4",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have removed the proposed Huron Street route from the planned cycling network.",
+  "confidence": "high",
+  "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling Maps: A. Huron Street",
+  "flags": []
+ },
+ {
+  "id": "ee08870a7edb",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": null,
+  "whatAYeaDid": "Changed the Huron Street cycling project's priority tier to 'medium-term' (after a separate motion to remove it from the network entirely had just failed).",
+  "confidence": "low",
+  "quote": "Huron Street BE CHANGED to medium-term cycling project",
+  "flags": []
+ },
+ {
+  "id": "869e73d0f26b",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed the proposed Taylor Street, McNay Street, and Gammage Street routes from the planned cycling network.",
+  "confidence": "high",
+  "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling Maps: ... B. Taylor Street, McNay Street and Gammage Street",
+  "flags": []
+ },
+ {
+  "id": "af145538050f",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed the planned Windermere Road to Gainsborough Road active transportation (cycling) connection from the Cycling Network maps.",
+  "confidence": "high",
+  "quote": "the Windermere Road to Gainsborough Road Active Transportation Connection BE REMOVED from the Cycling Network maps",
+  "flags": []
+ },
+ {
+  "id": "47061fa4a390",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed Civic Administration to restart the Wonderland Road corridor Environmental Assessment (Southdale Road to Fanshawe Park Road) to build six general-purpose through lanes, with a long-term option to convert to Bus Rapid Transit, and to update the Mobility Master Plan maps accordingly.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly",
+  "flags": []
+ },
+ {
+  "id": "c982238f3e53",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that the Mayor and Civic Administration begin discussions with neighbouring municipalities and the Province on a potential ring road and integrated regional transportation network.",
+  "confidence": "medium",
+  "quote": "the Mayor and Civic Administration BE REQUESTED to engage in discussions with neighbouring municipalities and the Province to work collaboratively on a ring road and integrated transportation network that would help move people, goods and services within and across the region",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "87bccdfb472c",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the Mobility Master Plan Network Maps item as amended, ratifying the individual map approvals and amendments decided separately above (roads, transit priority, cycling network changes, sidewalk gaps, the Wonderland Road EA restart, and ring road advocacy).",
+  "confidence": "medium",
+  "quote": "Item 9, clause 4.1, as amended, BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ }
 ]

@@ -1,499 +1,499 @@
 [
-  {
-    "id": "13ba1c3f4107",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Declared part of the City-owned Belvedere Park property surplus and directed it be sold to an abutting property owner via invitation tender.",
-    "confidence": "high",
-    "quote": "the subject property (“Surplus Lands”) BE SOLD to one of the abutting property owners via invitation tender",
-    "flags": []
-  },
-  {
-    "id": "e9ed17e7e53a",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to prepare a business case for an expanded low-income seniors/persons-with-disabilities tax deferral program, modeled on Ottawa's program, for submission to the 2026 Budget Committee.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to prepare a Business Case for the implementation of an expanded Low-income Seniors and Low-income Persons with disabilities Tax Deferral program modeled on the program in effect in Ottawa for submission to the Budget Committee for the 2026 tax year",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "08be53e2b291",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Requested Councillor Hopkins bring the issue of municipal right-of-way fees for natural gas utilities to AMO, asking AMO to advocate for provincial changes, build a unified municipal position, and explore comparable-province policy solutions.",
-    "confidence": "medium",
-    "quote": "Councillor Anna Hopkins BE REQUESTED to bring forward the issue of municipal right-of-way fees for natural gas utilities to the Association of Municipalities of Ontario (AMO)",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "4153aca17ce9",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Added McCormick Park to the City's list of areas where encampments are not permitted and where outreach will not be provided.",
-    "confidence": "high",
-    "quote": "Civic Administration BE DIRECTED to add McCormick Park to the list of areas where encampments are not permitted and outreach will not be provided",
-    "flags": []
-  },
-  {
-    "id": "880ec0684742",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Gave final approval, as amended, to the full outdoor-basic-needs report — new/expanded washroom, water, meals, and outreach funding and contracts for Ark Aid, 519Pursuit, and London Cares — bundled together with the separately-added bar on encampments and outreach at McCormick Park.",
-    "confidence": "low",
-    "quote": "Item 10, clause 2.9, as amended, BE APPROVED.",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "dce49cedcaf1",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Introduced a by-law delegating signing/administrative authority to City staff to execute and administer the federal Emergency Treatment Fund (Substance Use and Addictions Program) contribution agreement.",
-    "confidence": "high",
-    "quote": "the proposed by-law ... BE INTRODUCED at the Municipal Council meeting to be held on April 1, 2025 to: a) severally delegate authority to the City Manager and the Deputy City Manager, Social and Health Development to approve",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "d859c6b820e8",
-    "issue": "encampments",
-    "axis": "relocation",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Approved funding for Ark Aid's day drop-in program on condition it operate at a location other than a Main Street Business Improvement Area, rather than continuing at its Main Street location.",
-    "confidence": "medium",
-    "quote": "to provide day drop-in space at a location other than a Main Street of a Business Improvement Area (BIA)",
-    "flags": [
-      "relocation"
-    ]
-  },
-  {
-    "id": "27ff763d65d2",
-    "issue": "encampments",
-    "axis": "relocation",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Approved funding for Ark Aid's day drop-in program to remain at its current location only until August 31, 2025, after which it must move to a location other than a Main Street Business Improvement Area.",
-    "confidence": "medium",
-    "quote": "at the current location until August 31, 2025 and after August 31, 2025 at a location other than a Main Street of a Business Improvement Area (BIA)",
-    "flags": [
-      "relocation"
-    ]
-  },
-  {
-    "id": "1c0f60d005b5",
-    "issue": "encampments",
-    "axis": "relocation",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved funding to continue Ark Aid's limited day drop-in space at its existing location, with no requirement to relocate.",
-    "confidence": "medium",
-    "quote": "a Single Source Procurement BE APPROVED at a total estimated cost of up to $610,577 (excluding HST) for the period of April 1, 2025, to March 31, 2026, to continue limited day drop-in space at The Ark Aid Street Mission – “Day Drop-In” (SS-2025-66)",
-    "flags": [
-      "relocation"
-    ]
-  },
-  {
-    "id": "8b7291d5a4bf",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Sustained a procedural ruling of the Chair under section 10.5 of the Council Procedure By-law.",
-    "confidence": "high",
-    "quote": "the ruling of the Chair BE SUSTAINED",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "16bd4996712e",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved funding to add 70 emergency shelter spaces at Ark Aid's Cronyn Warner site and increase funding for the Salvation Army's 18 women's-only emergency shelter spaces.",
-    "confidence": "high",
-    "quote": "a Single Source Procurement BE APPROVED at a total estimated cost of up to $3,078,130 (excluding HST) for the period of April 1, 2025 to March 31, 2026 to administer 70 emergency shelter spaces at The Ark Aid Street Mission",
-    "flags": []
-  },
-  {
-    "id": "d2ed469d2746",
-    "issue": "encampments",
-    "axis": "relocation",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved funding to continue Ark Aid's limited day drop-in space at its existing location, with no requirement to relocate.",
-    "confidence": "medium",
-    "quote": "a Single Source Procurement BE APPROVED at a total estimated cost of up to $610,577 (excluding HST), for the period of April 1, 2025, to March 31, 2026, to continue limited day drop-in space at The Ark Aid Street Mission – “Day Drop-In” (SS-2025-66)",
-    "flags": [
-      "relocation"
-    ]
-  },
-  {
-    "id": "7754da39e4ca",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Reduced the proposed City funding contribution to a primary-care physician recruitment and retention program from $80,000 to $50,000, and the matching ask to Middlesex County.",
-    "confidence": "high",
-    "quote": "the City's financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $50,000 for one year",
-    "flags": []
-  },
-  {
-    "id": "a81c7a5a3a10",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Permitted Council to continue its meeting beyond 6:00 PM.",
-    "confidence": "high",
-    "quote": "the Council BE PERMITTED to proceed beyond 6:00 PM",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "6567282d7182",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved a $50,000 City contribution from the Economic Development Reserve Fund to a primary-care recruitment program, and a request that Middlesex County contribute a matching share.",
-    "confidence": "high",
-    "quote": "the City's financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $50,000 for one year",
-    "flags": []
-  },
-  {
-    "id": "61f612b337fa",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved, notwithstanding staff's recommendation against, a retroactive heritage alteration permit for exterior cladding and porch alterations at 124 Wilson Avenue.",
-    "confidence": "high",
-    "quote": "the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the exterior cladding and porch alterations on the heritage designated property at 124 Wilson Avenue ... BE APPROVED",
-    "flags": []
-  },
-  {
-    "id": "bc7a8160cced",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Rezoned 2634 Barn Swallow Place to add a Residential R8 (higher-density) special-provision designation to the existing R5/R6 zoning, permitting greater residential density on the site.",
-    "confidence": "medium",
-    "quote": "to change the zoning of the subject lands FROM a holding Residential R5 Special Provision / Residential R6 Special Provision (h-8-h-125-R5-6(8)/R6-5(31)) Zone TO a Residential R5 Special Provision / Residential R6 Special Provision / Residential R8 Special Provision (R5-6(8)/R6-5(31)/R8-4( )) Zone",
-    "flags": []
-  },
-  {
-    "id": "10892fc2efb1",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Rezoned 415-421 Boler Road from low-density Residential R1 to high-density Residential R8, permitting apartment-scale development.",
-    "confidence": "high",
-    "quote": "to change the zoning of the subject property FROM a Residential R1 (R1-8) Zone TO a Residential R8 Special Provision (R8-4(_)*H21) Zone",
-    "flags": []
-  },
-  {
-    "id": "4446fedbea38",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved rezoning 415-421 Boler Road from low-density Residential R1 to high-density Residential R8, while refusing the developer's request for reduced yard setbacks, balcony projections, bicycle parking, and parking setback standards.",
-    "confidence": "medium",
-    "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED ... to change the zoning of the subject property FROM a Residential R1 (R1-8) Zone TO a Residential R8 Special Provision (R8-4(_)*H21) Zone",
-    "flags": []
-  },
-  {
-    "id": "f498b09bf877",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Gave final approval, as amended, to rezoning 415-421 Boler Road from Residential R1 to Residential R8, while refusing the developer's requested reduced setback/parking special provisions.",
-    "confidence": "medium",
-    "quote": "Item 8, clause 3.4, as amended, BE APPROVED.",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "92e9ca08e1dc",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed the City Clerk to give the City's Integrity Commissioner firm, Principles Integrity, 30 days' written notice of contract termination.",
-    "confidence": "high",
-    "quote": "the City Clerk BE DIRECTED to provide Principles Integrity with 30 days’ notice in writing of termination of their services",
-    "flags": []
-  },
-  {
-    "id": "f23d15bc842b",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed staff to recruit a new Integrity Commissioner and authorized arranging interim Integrity Commissioner services from another municipality until one is appointed.",
-    "confidence": "high",
-    "quote": "the City Clerk BE DIRECTED to proceed with the recruitment of an Integrity Commissioner ... the City Clerk BE AUTHORIZED to arrange for interim provision of Integrity Commissioner services from another municipality",
-    "flags": []
-  },
-  {
-    "id": "b9c703769270",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Restarted the Wonderland Road environmental assessment with expanded study limits, to construct six new general-purpose through lanes with a long-term option to convert to Bus Rapid Transit.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit",
-    "flags": []
-  },
-  {
-    "id": "d7254e98198d",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Requested the Mayor and Civic Administration engage neighbouring municipalities and the Province in discussions on a collaborative ring road and integrated regional transportation network.",
-    "confidence": "medium",
-    "quote": "the Mayor and Civic Administration BE REQUESTED to engage in discussions with neighbouring municipalities and the Province to work collaboratively on a ring road and integrated transportation network",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "01584b77b9d3",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
-    "confidence": "high",
-    "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: A. Royal Crescent east of Clarke Road to Wexford Avenue to Admiral Drive",
-    "flags": []
-  },
-  {
-    "id": "341f026a730d",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
-    "confidence": "high",
-    "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: B. Sovereign Road",
-    "flags": []
-  },
-  {
-    "id": "a0eeb6647494",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
-    "confidence": "high",
-    "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: C. Vancouver Street from Trafalgar Street to Wavell Street",
-    "flags": []
-  },
-  {
-    "id": "ee71cd1c09f0",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
-    "confidence": "high",
-    "quote": "the following Proposed Network Additions: Huron Street, Taylor Street, McNay Street and Gammage Street to BE REMOVED from the Cycling Network maps",
-    "flags": []
-  },
-  {
-    "id": "345c9049c279",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Permitted the Strategic Priorities and Policy Committee to continue its meeting beyond 6:00 PM.",
-    "confidence": "high",
-    "quote": "the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM",
-    "flags": [
-      "procedural"
-    ]
-  },
-  {
-    "id": "28ab00fbc3c0",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
-    "confidence": "medium",
-    "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
-    "flags": []
-  },
-  {
-    "id": "71e69a8ea9f8",
-    "issue": "bikes",
-    "axis": "infrastructure-expansion",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
-    "confidence": "high",
-    "quote": "the Windermere Road to Gainsborough Road Active Transportation Connection BE REMOVED from the Cycling Network maps",
-    "flags": []
-  },
-  {
-    "id": "3304b5b1724a",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred a communication from Corlon Properties/Sunningdale Golf & Country Club to a future Planning and Environment Committee meeting.",
-    "confidence": "high",
-    "quote": "the communication from D. R. Schmidt, Development Manager, Corlon Properties Inc./Sunningdale Golf & Country Club Ltd. BE REFERRED to a future meeting of Planning and Environment Committee",
-    "flags": [
-      "referral"
-    ]
-  },
-  {
-    "id": "478dc258ce7d",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
-    "confidence": "medium",
-    "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "1f742f938d33",
-    "issue": "transit",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved the Transit Priority Network maps.",
-    "confidence": "high",
-    "quote": "the Transit Priority Network maps BE APPROVED",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "002f87546a89",
-    "issue": "bikes",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Gave final approval, as amended, to the Cycling Network maps as a whole — approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
-    "confidence": "low",
-    "quote": "Motion to approve part c), as amended.",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "0fd0f9c17a4c",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting.",
-    "confidence": "high",
-    "quote": "the motion regarding the London Transit Commission BE REFERRED to the next meeting of the Strategic Priorities and Policy Committee",
-    "flags": [
-      "referral"
-    ]
-  },
-  {
-    "id": "74e052b6cc48",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Dissolved the current London Transit Commission, effective April 1, 2025, pending an ongoing governance review.",
-    "confidence": "high",
-    "quote": "the current London Transit Commission BE DISSOLVED, effective April 1, 2025",
-    "flags": []
-  },
-  {
-    "id": "0141c9527b79",
-    "issue": "transit",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred Council Member appointments to the restructured London Transit Commission to the April 1, 2025 Council meeting.",
-    "confidence": "high",
-    "quote": "the Council Member appointments to the London Transit Commission BE REFERRED to the April 1, 2025 Council meeting",
-    "flags": [
-      "referral",
-      "appointment"
-    ]
-  },
-  {
-    "id": "75ff6a96f846",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the staff report on an updated low-income tax deferral program to a future Infrastructure and Corporate Services Committee meeting, pending the Province's announcement on its own taxation policy.",
-    "confidence": "high",
-    "quote": "the staff report dated March 24, 2025, “Consideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program” BE REFERRED to a future meeting of the Infrastructure and Corporate Services Committee, pending the Province's announcement regarding its taxation policy",
-    "flags": [
-      "referral"
-    ]
-  },
-  {
-    "id": "8de7e1af71a8",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Directed staff to take no further action on an expanded low-income tax deferral program at this time, citing the Mayor's direction to keep the 2026 property tax levy increase under 5%.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to take no further action for the implementation of an expanded Tax Deferral Program at this time noting the impacts on budget amid the Mayor’s direction to bring forward options for consideration that, if adopted, would produce a 2026 property tax levy increase under 5%",
-    "flags": []
-  },
-  {
-    "id": "f0ba9d8a08f4",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to prepare a business case for an expanded low-income seniors/persons-with-disabilities tax deferral program, modeled on Ottawa's program, for submission to the 2026 Budget Committee.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to prepare a Business Case for the implementation of an expanded Low-income Seniors and Low-income Persons with disabilities Tax Deferral program modeled on the program in effect in Ottawa for submission to the Budget Committee for the 2026 tax year",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "926f8ea50925",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Requested Councillor Hopkins bring the issue of municipal right-of-way fees for natural gas utilities to AMO, asking AMO to advocate for provincial changes, build a unified municipal position, and explore comparable-province policy solutions.",
-    "confidence": "medium",
-    "quote": "Councillor Anna Hopkins BE REQUESTED to bring forward the issue of municipal right-of-way fees for natural gas utilities to the Association of Municipalities of Ontario (AMO)",
-    "flags": [
-      "informational_ask"
-    ]
-  },
-  {
-    "id": "d8ca1f2d39ff",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Surplus/Deficit Policy update to reduce the contribution to the Unfunded Liability Reserve Fund to 17% and dedicate 3% to the Community Investment Reserve Fund.",
-    "confidence": "high",
-    "quote": "the proposed By-law No. CPOL.-46-242 being “Surplus/Deficit Policy” BE FURTHER AMENDED to reduce the contribution to the Unfunded Liability Reserve Fund to 17% and dedicate 3% to the Community Investment Reserve Fund",
-    "flags": []
-  },
-  {
-    "id": "0d6f4304215e",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Gave final approval, as amended, to introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions.",
-    "confidence": "medium",
-    "quote": "That the motion, as amended, BE APPROVED.",
-    "flags": [
-      "wrapper_preamble"
-    ]
-  },
-  {
-    "id": "a81672d4d25e",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Rezoned 2634 Barn Swallow Place to add a Residential R8 (higher-density) special-provision designation to the existing R5/R6 zoning, permitting greater residential density on the site.",
-    "confidence": "medium",
-    "quote": "to change the zoning of the subject lands FROM a holding Residential R5 Special Provision / Residential R6 Special Provision (h-8-h-125-R5-6(8)/R6-5(31)) Zone TO a Residential R5 Special Provision / Residential R6 Special Provision / Residential R8 Special Provision (R5-6(8)/R6-5(31)/R8-4( )) Zone",
-    "flags": []
-  }
+ {
+  "id": "08013109f8d6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Declared part of the City-owned Belvedere Park property surplus and directed it be sold to an abutting property owner via invitation tender.",
+  "confidence": "high",
+  "quote": "the subject property (\u201cSurplus Lands\u201d) BE SOLD to one of the abutting property owners via invitation tender",
+  "flags": []
+ },
+ {
+  "id": "e9ed17e7e53a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to prepare a business case for an expanded low-income seniors/persons-with-disabilities tax deferral program, modeled on Ottawa's program, for submission to the 2026 Budget Committee.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to prepare a Business Case for the implementation of an expanded Low-income Seniors and Low-income Persons with disabilities Tax Deferral program modeled on the program in effect in Ottawa for submission to the Budget Committee for the 2026 tax year",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "0a473b0f93d7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested Councillor Hopkins bring the issue of municipal right-of-way fees for natural gas utilities to AMO, asking AMO to advocate for provincial changes, build a unified municipal position, and explore comparable-province policy solutions.",
+  "confidence": "medium",
+  "quote": "Councillor Anna Hopkins BE REQUESTED to bring forward the issue of municipal right-of-way fees for natural gas utilities to the Association of Municipalities of Ontario (AMO)",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "4153aca17ce9",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Added McCormick Park to the City's list of areas where encampments are not permitted and where outreach will not be provided.",
+  "confidence": "high",
+  "quote": "Civic Administration BE DIRECTED to add McCormick Park to the list of areas where encampments are not permitted and outreach will not be provided",
+  "flags": []
+ },
+ {
+  "id": "880ec0684742",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave final approval, as amended, to the full outdoor-basic-needs report \u2014 new/expanded washroom, water, meals, and outreach funding and contracts for Ark Aid, 519Pursuit, and London Cares \u2014 bundled together with the separately-added bar on encampments and outreach at McCormick Park.",
+  "confidence": "low",
+  "quote": "Item 10, clause 2.9, as amended, BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "bf59cb7d4545",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law delegating signing/administrative authority to City staff to execute and administer the federal Emergency Treatment Fund (Substance Use and Addictions Program) contribution agreement.",
+  "confidence": "high",
+  "quote": "the proposed by-law ... BE INTRODUCED at the Municipal Council meeting to be held on April 1, 2025 to: a) severally delegate authority to the City Manager and the Deputy City Manager, Social and Health Development to approve",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "cf3488ecfcbc",
+  "issue": "encampments",
+  "axis": "relocation",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved funding for Ark Aid's day drop-in program on condition it operate at a location other than a Main Street Business Improvement Area, rather than continuing at its Main Street location.",
+  "confidence": "medium",
+  "quote": "to provide day drop-in space at a location other than a Main Street of a Business Improvement Area (BIA)",
+  "flags": [
+   "relocation"
+  ]
+ },
+ {
+  "id": "870bafcb5750",
+  "issue": "encampments",
+  "axis": "relocation",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved funding for Ark Aid's day drop-in program to remain at its current location only until August 31, 2025, after which it must move to a location other than a Main Street Business Improvement Area.",
+  "confidence": "medium",
+  "quote": "at the current location until August 31, 2025 and after August 31, 2025 at a location other than a Main Street of a Business Improvement Area (BIA)",
+  "flags": [
+   "relocation"
+  ]
+ },
+ {
+  "id": "ff469e78c6e0",
+  "issue": "encampments",
+  "axis": "relocation",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved funding to continue Ark Aid's limited day drop-in space at its existing location, with no requirement to relocate.",
+  "confidence": "medium",
+  "quote": "a Single Source Procurement BE APPROVED at a total estimated cost of up to $610,577 (excluding HST) for the period of April 1, 2025, to March 31, 2026, to continue limited day drop-in space at The Ark Aid Street Mission \u2013 \u201cDay Drop-In\u201d (SS-2025-66)",
+  "flags": [
+   "relocation"
+  ]
+ },
+ {
+  "id": "8b7291d5a4bf",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Sustained a procedural ruling of the Chair under section 10.5 of the Council Procedure By-law.",
+  "confidence": "high",
+  "quote": "the ruling of the Chair BE SUSTAINED",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "6d243ed59926",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved funding to add 70 emergency shelter spaces at Ark Aid's Cronyn Warner site and increase funding for the Salvation Army's 18 women's-only emergency shelter spaces.",
+  "confidence": "high",
+  "quote": "a Single Source Procurement BE APPROVED at a total estimated cost of up to $3,078,130 (excluding HST) for the period of April 1, 2025 to March 31, 2026 to administer 70 emergency shelter spaces at The Ark Aid Street Mission",
+  "flags": []
+ },
+ {
+  "id": "4e61480236e9",
+  "issue": "encampments",
+  "axis": "relocation",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved funding to continue Ark Aid's limited day drop-in space at its existing location, with no requirement to relocate.",
+  "confidence": "medium",
+  "quote": "a Single Source Procurement BE APPROVED at a total estimated cost of up to $610,577 (excluding HST), for the period of April 1, 2025, to March 31, 2026, to continue limited day drop-in space at The Ark Aid Street Mission \u2013 \u201cDay Drop-In\u201d (SS-2025-66)",
+  "flags": [
+   "relocation"
+  ]
+ },
+ {
+  "id": "d29b4c334f40",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Reduced the proposed City funding contribution to a primary-care physician recruitment and retention program from $80,000 to $50,000, and the matching ask to Middlesex County.",
+  "confidence": "high",
+  "quote": "the City's financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $50,000 for one year",
+  "flags": []
+ },
+ {
+  "id": "a81c7a5a3a10",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted Council to continue its meeting beyond 6:00 PM.",
+  "confidence": "high",
+  "quote": "the Council BE PERMITTED to proceed beyond 6:00 PM",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "46a57873b91e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a $50,000 City contribution from the Economic Development Reserve Fund to a primary-care recruitment program, and a request that Middlesex County contribute a matching share.",
+  "confidence": "high",
+  "quote": "the City's financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $50,000 for one year",
+  "flags": []
+ },
+ {
+  "id": "efc90ac5d0bf",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, notwithstanding staff's recommendation against, a retroactive heritage alteration permit for exterior cladding and porch alterations at 124 Wilson Avenue.",
+  "confidence": "high",
+  "quote": "the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the exterior cladding and porch alterations on the heritage designated property at 124 Wilson Avenue ... BE APPROVED",
+  "flags": []
+ },
+ {
+  "id": "95b713ea86ac",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Rezoned 2634 Barn Swallow Place to add a Residential R8 (higher-density) special-provision designation to the existing R5/R6 zoning, permitting greater residential density on the site.",
+  "confidence": "medium",
+  "quote": "to change the zoning of the subject lands FROM a holding Residential R5 Special Provision / Residential R6 Special Provision (h-8-h-125-R5-6(8)/R6-5(31)) Zone TO a Residential R5 Special Provision / Residential R6 Special Provision / Residential R8 Special Provision (R5-6(8)/R6-5(31)/R8-4( )) Zone",
+  "flags": []
+ },
+ {
+  "id": "10892fc2efb1",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Rezoned 415-421 Boler Road from low-density Residential R1 to high-density Residential R8, permitting apartment-scale development.",
+  "confidence": "high",
+  "quote": "to change the zoning of the subject property FROM a Residential R1 (R1-8) Zone TO a Residential R8 Special Provision (R8-4(_)*H21) Zone",
+  "flags": []
+ },
+ {
+  "id": "7d042dc1a411",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved rezoning 415-421 Boler Road from low-density Residential R1 to high-density Residential R8, while refusing the developer's request for reduced yard setbacks, balcony projections, bicycle parking, and parking setback standards.",
+  "confidence": "medium",
+  "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED ... to change the zoning of the subject property FROM a Residential R1 (R1-8) Zone TO a Residential R8 Special Provision (R8-4(_)*H21) Zone",
+  "flags": []
+ },
+ {
+  "id": "f498b09bf877",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave final approval, as amended, to rezoning 415-421 Boler Road from Residential R1 to Residential R8, while refusing the developer's requested reduced setback/parking special provisions.",
+  "confidence": "medium",
+  "quote": "Item 8, clause 3.4, as amended, BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "528395ae632e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the City Clerk to give the City's Integrity Commissioner firm, Principles Integrity, 30 days' written notice of contract termination.",
+  "confidence": "high",
+  "quote": "the City Clerk BE DIRECTED to provide Principles Integrity with 30 days\u2019 notice in writing of termination of their services",
+  "flags": []
+ },
+ {
+  "id": "83a2282d58ed",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed staff to recruit a new Integrity Commissioner and authorized arranging interim Integrity Commissioner services from another municipality until one is appointed.",
+  "confidence": "high",
+  "quote": "the City Clerk BE DIRECTED to proceed with the recruitment of an Integrity Commissioner ... the City Clerk BE AUTHORIZED to arrange for interim provision of Integrity Commissioner services from another municipality",
+  "flags": []
+ },
+ {
+  "id": "be2ab15ee590",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Restarted the Wonderland Road environmental assessment with expanded study limits, to construct six new general-purpose through lanes with a long-term option to convert to Bus Rapid Transit.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit",
+  "flags": []
+ },
+ {
+  "id": "d7254e98198d",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Mayor and Civic Administration engage neighbouring municipalities and the Province in discussions on a collaborative ring road and integrated regional transportation network.",
+  "confidence": "medium",
+  "quote": "the Mayor and Civic Administration BE REQUESTED to engage in discussions with neighbouring municipalities and the Province to work collaboratively on a ring road and integrated transportation network",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "01584b77b9d3",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
+  "confidence": "high",
+  "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: A. Royal Crescent east of Clarke Road to Wexford Avenue to Admiral Drive",
+  "flags": []
+ },
+ {
+  "id": "341f026a730d",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
+  "confidence": "high",
+  "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: B. Sovereign Road",
+  "flags": []
+ },
+ {
+  "id": "a0eeb6647494",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
+  "confidence": "high",
+  "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: C. Vancouver Street from Trafalgar Street to Wavell Street",
+  "flags": []
+ },
+ {
+  "id": "ee71cd1c09f0",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
+  "confidence": "high",
+  "quote": "the following Proposed Network Additions: Huron Street, Taylor Street, McNay Street and Gammage Street to BE REMOVED from the Cycling Network maps",
+  "flags": []
+ },
+ {
+  "id": "345c9049c279",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted the Strategic Priorities and Policy Committee to continue its meeting beyond 6:00 PM.",
+  "confidence": "high",
+  "quote": "the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "28ab00fbc3c0",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
+  "confidence": "medium",
+  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
+  "flags": []
+ },
+ {
+  "id": "71e69a8ea9f8",
+  "issue": "bikes",
+  "axis": "infrastructure-expansion",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
+  "confidence": "high",
+  "quote": "the Windermere Road to Gainsborough Road Active Transportation Connection BE REMOVED from the Cycling Network maps",
+  "flags": []
+ },
+ {
+  "id": "3304b5b1724a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred a communication from Corlon Properties/Sunningdale Golf & Country Club to a future Planning and Environment Committee meeting.",
+  "confidence": "high",
+  "quote": "the communication from D. R. Schmidt, Development Manager, Corlon Properties Inc./Sunningdale Golf & Country Club Ltd. BE REFERRED to a future meeting of Planning and Environment Committee",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "478dc258ce7d",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+  "confidence": "medium",
+  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "1f742f938d33",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the Transit Priority Network maps.",
+  "confidence": "high",
+  "quote": "the Transit Priority Network maps BE APPROVED",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "002f87546a89",
+  "issue": "bikes",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave final approval, as amended, to the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
+  "confidence": "low",
+  "quote": "Motion to approve part c), as amended.",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "0fd0f9c17a4c",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting.",
+  "confidence": "high",
+  "quote": "the motion regarding the London Transit Commission BE REFERRED to the next meeting of the Strategic Priorities and Policy Committee",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "74e052b6cc48",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Dissolved the current London Transit Commission, effective April 1, 2025, pending an ongoing governance review.",
+  "confidence": "high",
+  "quote": "the current London Transit Commission BE DISSOLVED, effective April 1, 2025",
+  "flags": []
+ },
+ {
+  "id": "0141c9527b79",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred Council Member appointments to the restructured London Transit Commission to the April 1, 2025 Council meeting.",
+  "confidence": "high",
+  "quote": "the Council Member appointments to the London Transit Commission BE REFERRED to the April 1, 2025 Council meeting",
+  "flags": [
+   "referral",
+   "appointment"
+  ]
+ },
+ {
+  "id": "b93ac9bfc198",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the staff report on an updated low-income tax deferral program to a future Infrastructure and Corporate Services Committee meeting, pending the Province's announcement on its own taxation policy.",
+  "confidence": "high",
+  "quote": "the staff report dated March 24, 2025, \u201cConsideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program\u201d BE REFERRED to a future meeting of the Infrastructure and Corporate Services Committee, pending the Province's announcement regarding its taxation policy",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "b6548b2bc4d4",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Directed staff to take no further action on an expanded low-income tax deferral program at this time, citing the Mayor's direction to keep the 2026 property tax levy increase under 5%.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to take no further action for the implementation of an expanded Tax Deferral Program at this time noting the impacts on budget amid the Mayor\u2019s direction to bring forward options for consideration that, if adopted, would produce a 2026 property tax levy increase under 5%",
+  "flags": []
+ },
+ {
+  "id": "f0ba9d8a08f4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to prepare a business case for an expanded low-income seniors/persons-with-disabilities tax deferral program, modeled on Ottawa's program, for submission to the 2026 Budget Committee.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to prepare a Business Case for the implementation of an expanded Low-income Seniors and Low-income Persons with disabilities Tax Deferral program modeled on the program in effect in Ottawa for submission to the Budget Committee for the 2026 tax year",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "4161f6520c10",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested Councillor Hopkins bring the issue of municipal right-of-way fees for natural gas utilities to AMO, asking AMO to advocate for provincial changes, build a unified municipal position, and explore comparable-province policy solutions.",
+  "confidence": "medium",
+  "quote": "Councillor Anna Hopkins BE REQUESTED to bring forward the issue of municipal right-of-way fees for natural gas utilities to the Association of Municipalities of Ontario (AMO)",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "d8ca1f2d39ff",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Surplus/Deficit Policy update to reduce the contribution to the Unfunded Liability Reserve Fund to 17% and dedicate 3% to the Community Investment Reserve Fund.",
+  "confidence": "high",
+  "quote": "the proposed By-law No. CPOL.-46-242 being \u201cSurplus/Deficit Policy\u201d BE FURTHER AMENDED to reduce the contribution to the Unfunded Liability Reserve Fund to 17% and dedicate 3% to the Community Investment Reserve Fund",
+  "flags": []
+ },
+ {
+  "id": "0d6f4304215e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave final approval, as amended, to introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions.",
+  "confidence": "medium",
+  "quote": "That the motion, as amended, BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "5583c7b5c406",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Rezoned 2634 Barn Swallow Place to add a Residential R8 (higher-density) special-provision designation to the existing R5/R6 zoning, permitting greater residential density on the site.",
+  "confidence": "medium",
+  "quote": "to change the zoning of the subject lands FROM a holding Residential R5 Special Provision / Residential R6 Special Provision (h-8-h-125-R5-6(8)/R6-5(31)) Zone TO a Residential R5 Special Provision / Residential R6 Special Provision / Residential R8 Special Provision (R5-6(8)/R6-5(31)/R8-4( )) Zone",
+  "flags": []
+ }
 ]

@@ -1,562 +1,562 @@
 [
-  {
-    "id": "8251f112a558",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Granted a councillor five additional minutes to speak on the Business Case #P-51 budget amendment.",
-    "confidence": "high",
-    "quote": "BE PERMITTED to speak an additional 5 minutes with respect to this matter.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "none/procedural confirmed: full item 3.23 contains 3 motions (a substantive P-51 transit-hours motion that FAILED 7-8, this 5-additional-minutes speaking-time motion which PASSED 11-4 matching the manifest result, and a recess). The matched motion is purely procedural; quote verbatim; no issue keyword anywhere in its operative text."
-  },
-  {
-    "id": "a918d21c4027",
-    "issue": "policing",
-    "axis": "budget-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Would have added $300,000/year in funding for winter maintenance (sweeping and plowing) of boulevard bike lanes, funded entirely by an equal, offsetting reduction to the London Police Service operating budget (net zero tax levy impact).",
-    "confidence": "medium",
-    "quote": "offset by an equal reduction to the London Police Services operating budget",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim quote confirmed in full P-53 text (failed 4-11). Genuinely dual-topic: +$300k/yr bike-lane winter-maintenance funding offset by an equal -$300k/yr cut to the LPS operating budget (net-zero levy impact). Both bikes and policing keyword-score equally on this text; policing precedes bikes in the tool's own ISSUE_ORDER tie-break, and the substance is an unambiguous, quantified police-budget cut, so policing/restrictive is the defensible pick. No false-direction risk: the bikes-expansive side of this same vote is simply left uncounted, not misstated."
-  },
-  {
-    "id": "a3c030825aad",
-    "issue": "climate",
-    "axis": "natural-heritage",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved funding for 50% of Business Case #P-62 (Environmentally Significant Areas Management).",
-    "confidence": "medium",
-    "quote": "BE AMENDED to fund 50% of Business Case #P-62 – Environmentally Significant Areas Management",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match in P-62 text (passed 8-7). Funds 50% of an Environmentally Significant Areas Management business case -- a genuine natural-heritage protection spend; climate/expansive correct."
-  },
-  {
-    "id": "46d4de9c4071",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Would have removed budgeted funding for two additional Administrative Assistant positions under the Legislative and Council Services business case (P-65).",
-    "confidence": "high",
-    "quote": "BE AMENDED by removing funding for the two additional Administrative Assistant positions related to Business Case #P-65",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (failed 3-12). Pure administrative-staffing budget removal, no other issue keyword present in the operative text; budget/restrictive correct."
-  },
-  {
-    "id": "133aa878a5f9",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed Capital Project PD1218 (Downtown Plan Small Scale Projects) funding from the multi-year budget.",
-    "confidence": "medium",
-    "quote": "BE AMENDED to remove Capital Project PD1218 London’s Downtown Plan – Small Scale Projects",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match. Item 3.27 has TWO recorded votes on the identical PD1218-removal amendment (10-5, then reconsidered and re-voted 8-7); this id correctly matches the first (10-5) vote, distinguished by its own result string from f2cf4734bd07's re-vote. 'Dundas Place'/'Downtown Plan' keywords support downtown; removal = restrictive correct."
-  },
-  {
-    "id": "f2cf4734bd07",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed Capital Project PD1218 (Downtown Plan Small Scale Projects) funding from the multi-year budget (re-vote of the same amendment).",
-    "confidence": "medium",
-    "quote": "BE AMENDED to remove Capital Project PD1218 London’s Downtown Plan – Small Scale Projects",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match to the RECONSIDERED re-vote (8-7) of the same PD1218 removal amendment under item 3.27 -- correctly matched to the second content entry, not the first (133aa878a5f9's 10-5 vote). Same substance, same correct downtown/restrictive call."
-  },
-  {
-    "id": "a8ac3811346c",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed Capital Project RC1036 (Dundas Place Equipment) funding from the multi-year budget.",
-    "confidence": "medium",
-    "quote": "BE AMENDED to remove Capital Project RC1036 Dundas Place Equipment",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 9-6). RC1036 = 'Dundas Place Equipment' -- clean downtown keyword hit; removal = restrictive correct."
-  },
-  {
-    "id": "ab1f56cc2b97",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved (as amended) single-source Housing Stability Services procurement contracts and associated reserve-fund drawdown, and authorized continued engagement with the Encampment Reference Table on an inclement-weather response plan.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE AUTHORIZED to continue to engage with the Encampment Reference Table in the design of an inclement weather plan that will be brought back for council endorsement",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Item 2.2 has a genuine wrapper structure: two full un-tallied draft motions (Q3 2024 vs Q4 2024 wording, differing only in dollar amounts), a 15-0 amendment trimming ~$23.7k of costs from parts b)/c), then the final 14-1 'item 2.2, as amended, BE APPROVED.' The quote is a substring common to BOTH un-tallied drafts (it stops right before 'in Q3/Q4 2024'), so it stays verbatim and safe regardless of which draft's wording ultimately carried. whatAYeaDid accurately describes the substance being wrapped (single-source contracts, ~$4.58M reserve drawdown, continued Encampment Reference Table engagement) rather than overclaiming from the bare wrapper text. Note for the record: this reads more like continuation/renewal of existing services than novel expansion, but it does satisfy the encampments response-scale axis's own 'funded the response' definition -- not a false direction."
-  },
-  {
-    "id": "e408ead1fc53",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the Community Advisory Committee on Planning's proposed Terms of Reference back to that committee for further consultation.",
-    "confidence": "high",
-    "quote": "BE REFERRED to the Community Advisory Committee on Planning for consultation on the amended Terms of Reference",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "issue=none correct: 2 motions under item 2.3; the matched one (14-1) is a referral back to CACP for further consultation on its own Terms of Reference -- a textbook GLOBAL_EXCLUDE governance item, and a referral carries no direction regardless. Verbatim quote confirmed."
-  },
-  {
-    "id": "7d8562fee87c",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Would have removed Business Case #P-37 (CMHA Holly's House) funding from the multi-year budget entirely.",
-    "confidence": "high",
-    "quote": "BE AMENDED to remove Business Case #P-37 – CMHA Holly’s House.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (failed 1-14). Clean full removal of a named business case (CMHA Holly's House), no other issue keyword anywhere in the operative text; budget/restrictive correct."
-  },
-  {
-    "id": "280c741c7a8e",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Added a 15% administration fee ($15,000/year) to Business Case #P-38 (Community Arts Investment Program Expansion) funding.",
-    "confidence": "high",
-    "quote": "BE AMENDED to include administration fees (15%) to Business Case #P-38",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 8-7, one of 2 motions under item 3.11). The underlying business case had already been reduced to admin-fee-only; this motion adds $15k/yr in NEW admin-fee funding from a zero baseline -- a genuine, quantified funding increase, so expansive is correct despite the much-reduced overall program."
-  },
-  {
-    "id": "1d40dd7cc4c1",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Would have removed Business Case #P-38 (City of London Community Arts Investment Program Expansion) funding from the multi-year budget entirely.",
-    "confidence": "high",
-    "quote": "BE AMENDED to remove Business Case #P-38 – City of London Community Arts Investment Program Expansion",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (failed 5-10, the OTHER of the 2 motions under item 3.11 -- the full-removal counter-motion to 280c741c7a8e). Correctly matched to its own distinct result string; restrictive correct."
-  },
-  {
-    "id": "6f3c002f427d",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have funded 50% of Initiative 10 under Business Case #P-42 (5-Year Community Improvement Plan Review Implementation), starting in 2026.",
-    "confidence": "high",
-    "quote": "BE AMENDED to fund 50% of Initiative 10 in Business Case #P-42 – 5-Year Community Improvement Plan (CIP) Review Implementation",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (failed 3-12). Adds funding for one CIP initiative starting 2026; expansive correct."
-  },
-  {
-    "id": "e87fc2129ba9",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed Business Case #P-27 (Neighbourhood Decision Making Program Expansion) funding from the multi-year budget.",
-    "confidence": "high",
-    "quote": "BE AMENDED to remove Business Case #P-27 – Neighbourhood Decision Making Program Expansion.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 14-1). Clean full removal; restrictive correct."
-  },
-  {
-    "id": "f6aa1bc834a4",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Removed Business Case #P-34 (City Hall Main Lobby Security Guard) funding from the multi-year budget.",
-    "confidence": "high",
-    "quote": "BE AMENDED to remove Business Case #P-34 – City Hall Main Lobby Security Guard.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 11-3). Clean full removal; restrictive correct."
-  },
-  {
-    "id": "b4082101a336",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have added $100,000/year in funding for Business Case #P-39 (The Grand Theatre – Increasing Community Access to & Participation in the Arts).",
-    "confidence": "high",
-    "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 – The Grand Theatre",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match to the FIRST of 3 motions under item 3.15 (failed 7-8, later reconsidered). Adds $100k/yr for the Grand Theatre case; expansive correct."
-  },
-  {
-    "id": "a61e9b88ab0b",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have added $100,000/year in funding for Business Case #P-39 (The Grand Theatre – Increasing Community Access to & Participation in the Arts) (re-vote of the same amendment).",
-    "confidence": "high",
-    "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 – The Grand Theatre",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match to the RECONSIDERED re-vote (failed 6-8) of the same Grand Theatre amendment under item 3.15 -- correctly matched to the distinct second content entry (b4082101a336 matches the first, 7-8, vote). Same text, same correct expansive call."
-  },
-  {
-    "id": "2705bd8983d4",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Added one-time $65,000 funding for 2024 for Business Case #P-48 (Canadian Mental Health Transitional Case Worker at the London Public Library), drawn from the Community Investment Reserve Fund.",
-    "confidence": "high",
-    "quote": "BE AMENDED to include Business Case #P-48 – Canadian Mental Health Transitional Case Worker – London Public Library",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 11-4). One-time $65k addition drawn from a reserve fund; expansive correct."
-  },
-  {
-    "id": "bf5522ed9356",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have approved Business Case #P-63 (Silver Creek Ecological Enhancements) funding, delaying implementation and the $200,000 annual funding until 2026.",
-    "confidence": "medium",
-    "quote": "BE AMENDED to include Business Case #P-63 – Silver Creek Ecological Enhancements",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (failed 6-9). This business case was NOT in the base budget; the amendment adds it (implementation delayed to 2026); expansive correct despite the delay."
-  },
-  {
-    "id": "13f0189fb7d2",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Reduced Business Case #P-2 (Vehicle and Equipment Replacement) annual costs by spreading reserve fund repayments over 6 years instead of 5.",
-    "confidence": "high",
-    "quote": "BE AMENDED by reducing Business Case #P-2 – Vehicle and Equipment Replacement to spread the reserve fund repayments over 6 years instead of 5 years",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 14-1). Spreads reserve-fund repayments over 6 vs 5 years, which reduces annual cost; restrictive correct."
-  },
-  {
-    "id": "a0bf252ed958",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case — cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
-    "confidence": "low",
-    "quote": "reducing the contribution to the new Climate Change Investment Fund by $750,000 in 2024 and increasing the contribution by $250,000 per year in 2025, 2026 and 2027",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (failed 3-12). Independently re-checked the arithmetic: -$750k(2024) + $250k x 3(2025-27) = net $0 over the 4-year MYB window -- a genuine wash, not a disguised net cut or net increase. Correctly left unclear rather than guessed; verdict stands."
-  },
-  {
-    "id": "6712ca3fffe0",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have reversed a proposed reduction to Museum London's budget increase, restoring funding to the 6.3% base budget program level instead of the reduced 5.4% average increase.",
-    "confidence": "medium",
-    "quote": "BE AMENDED to remove Adj. #4 – Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget)",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (failed 5-10). The trickiest double-negative in the batch: the motion REMOVES a REDUCTION (Adj. #4, which had cut Museum London's increase down to 5.4%) and substitutes the higher 6.3% base-budget figure -- net effect is MORE funding, not less. The classifier correctly parsed this double negative as expansive; a naive 'remove = restrictive' read would have been a genuine denial-flip error here and was avoided."
-  },
-  {
-    "id": "543587b00733",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Reduced the Industrial Lands Reserve Fund contribution by $1 million for 2024 only, lowering the 2024 property tax levy by about 0.1%.",
-    "confidence": "high",
-    "quote": "BE AMENDED to reduce the current Industrial Lands Reserve Fund contribution by $1 million for 2024 only, noting it would have a 0.1% reduction on the 2024 property tax levy",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 8-7). Reduces a reserve-fund contribution, lowering the tax levy; restrictive correct."
-  },
-  {
-    "id": "f10ecd532d39",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Would have removed Business Case #P-9 (Giwetashkad Implementation) funding from the multi-year budget entirely.",
-    "confidence": "high",
-    "quote": "BE AMENDED to remove Business Case # P-9 – Giwetashkad Implementation.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (failed 4-11). Clean full removal; restrictive correct."
-  },
-  {
-    "id": "d5fa217f8256",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved Business Case #P-26 (Community Gardens Program Expansion to Support Food Security), delayed to 2026, funded partly by a new $12,000 property tax levy in 2026 and 2027.",
-    "confidence": "high",
-    "quote": "BE AMENDED to include Business Case #P-26 – Community Gardens Program Expansion to Support Food Security",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 10-5). Adds a program (delayed to 2026) funded partly by a new levy; expansive correct."
-  },
-  {
-    "id": "4ac84c713dc6",
-    "issue": "policing",
-    "axis": "budget-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Would have reduced Business Case #P-29 (Police Vehicle and Equipment Requirements) funding by $90,000 per year.",
-    "confidence": "high",
-    "quote": "BE AMENDED to reduce Business Case #P-29 – Police Vehicle and Equipment Requirements by $90,000 each year.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match to the FIRST of 3 motions under item 3.8 (failed 6-9). 'Police Vehicle and Equipment Requirements' is an unambiguous police-budget line item by name even though it never uses any of issue-rules.ts's literal policing keyword phrases (e.g. 'police budget'/'police service') -- confirmed as substantively correct, not a keyword-list gap worth downgrading. Reduces funding by $90k/yr; restrictive correct."
-  },
-  {
-    "id": "7800e8b9ceae",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Recessed the budget committee meeting for 1 hour and 15 minutes.",
-    "confidence": "high",
-    "quote": "That the Committee recess at this time, for 1 hour and 15 minutes.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "issue=none correct: matched to the SECOND of 3 motions under item 3.8 (failed 4-11), a pure recess motion, correctly distinguished from the P-29 police-budget motion in the same item (4ac84c713dc6) and from the third (a separate, unanimous 30-min recess). Verbatim quote confirmed."
-  },
-  {
-    "id": "963955b57ac0",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have added $316,000 in 2026 funding for Action #3 (Extension of Parks Operations Services) under Business Case #P-31 (Parks Operations Service Delivery Enhancements).",
-    "confidence": "high",
-    "quote": "BE AMENDED to include funding for “Action #3: Extension of Parks Operations Services” of Business Case #P-31 – Parks Operations Service Delivery Enhancements",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (failed 6-9). Adds $316k in 2026 funding for a parks-ops action; expansive correct."
-  },
-  {
-    "id": "b9122734bf86",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Recessed the budget committee meeting.",
-    "confidence": "high",
-    "quote": "That the meeting BE RECESSED.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "issue=none correct, procedural recess/adjournment; verbatim quote confirmed against the 2024-02-02 continuation meeting's own adjournment motion (9-6), correctly distinguished from the textually-similar 2024-02-01 meeting's adjournment (2a814fa072c4) by date/meetingSlug, not conflated."
-  },
-  {
-    "id": "f2f57f834998",
-    "issue": "budget",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Removed Business Case #P-5 (Fire Department Breathing Apparatus and Decontamination) from the current 2024-2027 budget and referred it to the 2028-2031 Multi-Year Budget instead, citing the equipment's 2031 lifecycle renewal date.",
-    "confidence": "medium",
-    "quote": "that this Business Case BE REFERRED to the 2028-2031 MYB noting that the equipment’s lifecycle renewal is 2031",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 12-3). This removes the business case from the CURRENT 2024-2027 MYB and pushes it to the 2028-2031 MYB, explicitly because the equipment's own lifecycle renewal date is 2031 -- the timing correction tracks when the equipment is actually due, not a policy cut. Given the referral-gets-no-direction rule and the genuine ambiguity over whether 'moved to when it's actually needed' should count as restrictive, unclear is the safer, defensible call; found no unambiguous operative clause that would justify overturning to a direction."
-  },
-  {
-    "id": "fade80c99229",
-    "issue": "budget",
-    "axis": "levy-size",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Would have removed Business Case #P-7 (a new Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting) from the multi-year budget.",
-    "confidence": "high",
-    "quote": "BE AMENDED to remove Business Case #P-7 – Implementation of a New Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (failed 2-13). Clean full removal; restrictive correct."
-  },
-  {
-    "id": "2a814fa072c4",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Recessed the budget committee meeting.",
-    "confidence": "high",
-    "quote": "That the meeting BE RECESSED.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "issue=none correct, procedural adjournment of the 2024-02-01 meeting (9-6); verbatim quote confirmed, correctly distinguished from the textually-identical-looking 2024-02-02 adjournment (b9122734bf86) by date/meetingSlug, not conflated."
-  },
-  {
-    "id": "4a21a131c64b",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "restrictive",
-    "whatAYeaDid": "Refused the requested rezoning of 934 Oxford Street West from Residential R1 to Residential R8 Special Provision, keeping the property at its existing lower-density zoning.",
-    "confidence": "high",
-    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R1 (R1-10) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone, BE REFUSED",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 3-2), matched to the FIRST of 4 motions under item 3.6 -- the refusal recommendation, correctly distinguished from the competing 'approve' motion in the same item that failed 2-3 (86db2a8d88e6). The PASSED motion here is itself to REFUSE the R1-to-R8 upzoning; a yea denies the density increase, so restrictive is the correct read of this specific denial -- not a denial-flip error."
-  },
-  {
-    "id": "86db2a8d88e6",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have approved introducing the by-law to rezone 934 Oxford Street West from Residential R1 to Residential R8 Special Provision, a higher-density designation.",
-    "confidence": "high",
-    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024, to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-10) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim match (with an honest '...' elision skipping one parenthetical mid-clause, both sides of the ellipsis verified as exact substrings) to the competing 'approve the application' motion under the same item 3.6 (failed 2-3) -- correctly distinguished from 4a21a131c64b's refusal motion by its own distinct result string and mover. A yea here approves introducing the R1-to-R8 upzoning by-law; expansive is correct for this specific motion regardless of what the companion refusal motion (which passed) did."
-  },
-  {
-    "id": "010b791d324c",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and rezone 1310 Adelaide Street North & 795 Windermere Road from Open Space to a Holding Open Space Special Provision, enabling the proposed development subject to a holding provision.",
-    "confidence": "medium",
-    "quote": "the attached, revised, proposed by-law (Appendix \"A\") BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024 to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Green Space Place Type and by ADDING the subject lands to Map 7",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 3-2). Approves introducing OP/zoning by-laws enabling a development on former Open Space land subject to a Holding provision. No density-specific numeric axis applies here; the only real signal is the generic approve/deny axis, and a yea does approve the application, so expansive is correct under that axis's own documented approve=expansive semantics. Checked for a hidden climate signal (a Conservation Authority delegate is named) but that reference is only in the presenter list, not the operative clause -- housing remains the right primary bucket."
-  },
-  {
-    "id": "140836134fdf",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the motion to receive the Municipal Compliance Annual Report by noting that acceptance doesn't preclude further inquiry into 2023 Short-Term-Accommodation and property-compliance data.",
-    "confidence": "high",
-    "quote": "it being noted that accepting this report does not preclude the committee from further inquiry into 2023 data and future reporting will provide additional information and fulsome aggregate tables on Short Term Accommodations and Property Compliance",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "issue=none correct. Item 2.5 has 4 motions; this id matches the 3 that share the 4-1 tally (an amendment adding the noted wording, a motion to receive the report, and the final 'as amended, BE APPROVED') -- genuinely ambiguous which of the 3 identical-tally motions the id represents, but harmless since all 3 are pure report-receipt/amendment text with no substantive policy direction. Verbatim quote confirmed."
-  },
-  {
-    "id": "bb3ce5952d8f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the motion to receive the Municipal Compliance Annual Report by noting that acceptance doesn't preclude further inquiry into 2023 Short-Term-Accommodation and property-compliance data.",
-    "confidence": "high",
-    "quote": "it being noted that accepting this report does not preclude the committee from further inquiry into 2023 data and future reporting will provide additional information and fulsome aggregate tables on Short Term Accommodations and Property Compliance",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Identical situation and identical text to 140836134fdf -- same item, same meeting, same 4-1 tally shared across 3 motions. Both ids independently produce the same correct, harmless issue=none classification."
-  },
-  {
-    "id": "71f1ada00bf5",
-    "issue": "transit",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 9-6, council). Reallocates existing ICIP transit funding between two transit capital projects and authorizes implementing the resulting budget changes; a yea approves this, so expansive under the generic approve/deny axis is correct, and whatAYeaDid neutrally describes the reallocation rather than overclaiming a service expansion."
-  },
-  {
-    "id": "f1654a3b2b5c",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed the Civic Administration to implement 12.5% pay increases for the Deputy Mayor and Budget Chair council positions effective January 2024, and directed the Governance Working Group to review this as part of its broader remuneration policy review.",
-    "confidence": "high",
-    "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "issue=none correct (council-remuneration precedent, consistent with the manifest's own established treatment of Deputy Mayor/Budget Chair pay). Verbatim exact match (passed 11-4) -- this is the COUNCIL-level confirming vote of the same pay increases the committee first passed on 2024-01-16 (86419cffb57c/0beb8b008e0b/3f29f81fb746); correctly kept as its own distinct vote, not conflated with those."
-  },
-  {
-    "id": "9c935b12814a",
-    "issue": "climate",
-    "axis": "target-strength",
-    "polarity": "expansive",
-    "whatAYeaDid": "Directed staff to update the Site Plan Control and/or Zoning By-laws by Q3 2024 to require EV-charging rough-ins, minimum native-species landscaping, short-term bicycle parking, and bird-friendly (CSA A460) building design standards, and to review a legislative framework for broader sustainable building requirements (energy efficiency, water conservation, green roofs).",
-    "confidence": "medium",
-    "quote": "5% of the required parking spaces for buildings over 40 units be roughed in for EV charging",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 13-1). Establishes new mandatory green-building design standards (EV rough-ins, native landscaping, bird-friendly design) and directs staff to review a broader sustainable-building framework -- functionally strengthens environmental standards even though the quoted clause itself doesn't use the literal words 'target'/'net zero'; target-strength/expansive is a fair, non-misleading characterization of the substance."
-  },
-  {
-    "id": "96dcf9db8ac4",
-    "issue": "transit",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verbatim exact match (passed 13-1, committee). Same substance and same correct classification as 71f1ada00bf5 -- this is the committee-stage vote on the identical ICIP transit reallocation that council later confirmed; correctly tracked as its own distinct vote event, not conflated with the council vote."
-  },
-  {
-    "id": "3f29f81fb746",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended part b) of the motion to set a 12.5% pay increase for the Budget Chair council position effective January 2024.",
-    "confidence": "high",
-    "quote": "a pay increase of 12.5% to the annual base Councillor salary for the position of Budget Chair effective January 2024",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "issue=none correct (council remuneration). Verbatim exact match (passed 11-3) -- correctly matched to the specific 'amend part b) [Budget Chair pay]' sub-motion among 7 motions under item 4.4, distinguished by its own distinct 11-3 tally from the other 6."
-  },
-  {
-    "id": "5b9e95d03206",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the Deputy Mayor and Budget Chair pay-increase motion to a future Governance Working Group meeting instead of deciding it that night.",
-    "confidence": "high",
-    "quote": "That the motion BE REFERRED to a future meeting of the Governance Working Group.",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "issue=none correct (council remuneration; also independently a referral, doubly non-substantive). Verbatim exact match (failed 6-8) -- correctly matched to the distinct referral-to-Governance-Working-Group sub-motion among the 7 under item 4.4."
-  },
-  {
-    "id": "86419cffb57c",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved a 12.5% pay increase to the annual base Councillor salary for the Deputy Mayor position, effective January 2024.",
-    "confidence": "medium",
-    "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "issue=none correct (council remuneration). Verbatim exact match, but genuinely ambiguous which of two motions (both passed 9-5, both moved by J. Morgan) this id represents: 'part a) [Deputy Mayor pay]' and 'part b) [Budget Chair pay]'. I independently pulled the raw vote rows for both from the meeting JSON -- they carry the IDENTICAL yea/nay roll call (same 9 councillors, same 5 dissenters), not just the same tally, so the source data gives no way to disambiguate at all. Harmless here since issue=none regardless of which part."
-  },
-  {
-    "id": "0beb8b008e0b",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved a 12.5% pay increase to the annual base Councillor salary for the Deputy Mayor position, effective January 2024 (source data does not distinguish this vote's tally from id 86419cffb57c — both matched the identical 'part a) Deputy Mayor' clause in the meeting JSON; itemNumber 4.4 records six distinct sub-motions and two of the four manifest ids sharing this tally could not be told apart from the JSON alone).",
-    "confidence": "medium",
-    "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Same genuine ambiguity as 86419cffb57c, now independently re-confirmed: I pulled the raw yea/nay voter rows for both the 'part a)' and 'part b)' motions myself and found them byte-identical (same 9 yeas, same 5 nays), fully corroborating the classifier's own disclosed note. Correctly harmless since polarity is null/issue=none for both regardless of which part this id maps to."
-  }
+ {
+  "id": "8251f112a558",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Granted a councillor five additional minutes to speak on the Business Case #P-51 budget amendment.",
+  "confidence": "high",
+  "quote": "BE PERMITTED to speak an additional 5 minutes with respect to this matter.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "none/procedural confirmed: full item 3.23 contains 3 motions (a substantive P-51 transit-hours motion that FAILED 7-8, this 5-additional-minutes speaking-time motion which PASSED 11-4 matching the manifest result, and a recess). The matched motion is purely procedural; quote verbatim; no issue keyword anywhere in its operative text."
+ },
+ {
+  "id": "8c93827f87c3",
+  "issue": "policing",
+  "axis": "budget-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have added $300,000/year in funding for winter maintenance (sweeping and plowing) of boulevard bike lanes, funded entirely by an equal, offsetting reduction to the London Police Service operating budget (net zero tax levy impact).",
+  "confidence": "medium",
+  "quote": "offset by an equal reduction to the London Police Services operating budget",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim quote confirmed in full P-53 text (failed 4-11). Genuinely dual-topic: +$300k/yr bike-lane winter-maintenance funding offset by an equal -$300k/yr cut to the LPS operating budget (net-zero levy impact). Both bikes and policing keyword-score equally on this text; policing precedes bikes in the tool's own ISSUE_ORDER tie-break, and the substance is an unambiguous, quantified police-budget cut, so policing/restrictive is the defensible pick. No false-direction risk: the bikes-expansive side of this same vote is simply left uncounted, not misstated."
+ },
+ {
+  "id": "cdc1ceab9315",
+  "issue": "climate",
+  "axis": "natural-heritage",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved funding for 50% of Business Case #P-62 (Environmentally Significant Areas Management).",
+  "confidence": "medium",
+  "quote": "BE AMENDED to fund 50% of Business Case #P-62 \u2013 Environmentally Significant Areas Management",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match in P-62 text (passed 8-7). Funds 50% of an Environmentally Significant Areas Management business case -- a genuine natural-heritage protection spend; climate/expansive correct."
+ },
+ {
+  "id": "46d4de9c4071",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have removed budgeted funding for two additional Administrative Assistant positions under the Legislative and Council Services business case (P-65).",
+  "confidence": "high",
+  "quote": "BE AMENDED by removing funding for the two additional Administrative Assistant positions related to Business Case #P-65",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (failed 3-12). Pure administrative-staffing budget removal, no other issue keyword present in the operative text; budget/restrictive correct."
+ },
+ {
+  "id": "604e3b7c6552",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Capital Project PD1218 (Downtown Plan Small Scale Projects) funding from the multi-year budget.",
+  "confidence": "medium",
+  "quote": "BE AMENDED to remove Capital Project PD1218 London\u2019s Downtown Plan \u2013 Small Scale Projects",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match. Item 3.27 has TWO recorded votes on the identical PD1218-removal amendment (10-5, then reconsidered and re-voted 8-7); this id correctly matches the first (10-5) vote, distinguished by its own result string from f2cf4734bd07's re-vote. 'Dundas Place'/'Downtown Plan' keywords support downtown; removal = restrictive correct."
+ },
+ {
+  "id": "cb27cd682442",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Capital Project PD1218 (Downtown Plan Small Scale Projects) funding from the multi-year budget (re-vote of the same amendment).",
+  "confidence": "medium",
+  "quote": "BE AMENDED to remove Capital Project PD1218 London\u2019s Downtown Plan \u2013 Small Scale Projects",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match to the RECONSIDERED re-vote (8-7) of the same PD1218 removal amendment under item 3.27 -- correctly matched to the second content entry, not the first (133aa878a5f9's 10-5 vote). Same substance, same correct downtown/restrictive call."
+ },
+ {
+  "id": "e075baf71ae2",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Capital Project RC1036 (Dundas Place Equipment) funding from the multi-year budget.",
+  "confidence": "medium",
+  "quote": "BE AMENDED to remove Capital Project RC1036 Dundas Place Equipment",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 9-6). RC1036 = 'Dundas Place Equipment' -- clean downtown keyword hit; removal = restrictive correct."
+ },
+ {
+  "id": "ab1f56cc2b97",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved (as amended) single-source Housing Stability Services procurement contracts and associated reserve-fund drawdown, and authorized continued engagement with the Encampment Reference Table on an inclement-weather response plan.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE AUTHORIZED to continue to engage with the Encampment Reference Table in the design of an inclement weather plan that will be brought back for council endorsement",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 2.2 has a genuine wrapper structure: two full un-tallied draft motions (Q3 2024 vs Q4 2024 wording, differing only in dollar amounts), a 15-0 amendment trimming ~$23.7k of costs from parts b)/c), then the final 14-1 'item 2.2, as amended, BE APPROVED.' The quote is a substring common to BOTH un-tallied drafts (it stops right before 'in Q3/Q4 2024'), so it stays verbatim and safe regardless of which draft's wording ultimately carried. whatAYeaDid accurately describes the substance being wrapped (single-source contracts, ~$4.58M reserve drawdown, continued Encampment Reference Table engagement) rather than overclaiming from the bare wrapper text. Note for the record: this reads more like continuation/renewal of existing services than novel expansion, but it does satisfy the encampments response-scale axis's own 'funded the response' definition -- not a false direction."
+ },
+ {
+  "id": "e408ead1fc53",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Community Advisory Committee on Planning's proposed Terms of Reference back to that committee for further consultation.",
+  "confidence": "high",
+  "quote": "BE REFERRED to the Community Advisory Committee on Planning for consultation on the amended Terms of Reference",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "issue=none correct: 2 motions under item 2.3; the matched one (14-1) is a referral back to CACP for further consultation on its own Terms of Reference -- a textbook GLOBAL_EXCLUDE governance item, and a referral carries no direction regardless. Verbatim quote confirmed."
+ },
+ {
+  "id": "7d8562fee87c",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have removed Business Case #P-37 (CMHA Holly's House) funding from the multi-year budget entirely.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case #P-37 \u2013 CMHA Holly\u2019s House.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (failed 1-14). Clean full removal of a named business case (CMHA Holly's House), no other issue keyword anywhere in the operative text; budget/restrictive correct."
+ },
+ {
+  "id": "280c741c7a8e",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added a 15% administration fee ($15,000/year) to Business Case #P-38 (Community Arts Investment Program Expansion) funding.",
+  "confidence": "high",
+  "quote": "BE AMENDED to include administration fees (15%) to Business Case #P-38",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 8-7, one of 2 motions under item 3.11). The underlying business case had already been reduced to admin-fee-only; this motion adds $15k/yr in NEW admin-fee funding from a zero baseline -- a genuine, quantified funding increase, so expansive is correct despite the much-reduced overall program."
+ },
+ {
+  "id": "1d40dd7cc4c1",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have removed Business Case #P-38 (City of London Community Arts Investment Program Expansion) funding from the multi-year budget entirely.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case #P-38 \u2013 City of London Community Arts Investment Program Expansion",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (failed 5-10, the OTHER of the 2 motions under item 3.11 -- the full-removal counter-motion to 280c741c7a8e). Correctly matched to its own distinct result string; restrictive correct."
+ },
+ {
+  "id": "6f3c002f427d",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have funded 50% of Initiative 10 under Business Case #P-42 (5-Year Community Improvement Plan Review Implementation), starting in 2026.",
+  "confidence": "high",
+  "quote": "BE AMENDED to fund 50% of Initiative 10 in Business Case #P-42 \u2013 5-Year Community Improvement Plan (CIP) Review Implementation",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (failed 3-12). Adds funding for one CIP initiative starting 2026; expansive correct."
+ },
+ {
+  "id": "e87fc2129ba9",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Business Case #P-27 (Neighbourhood Decision Making Program Expansion) funding from the multi-year budget.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case #P-27 \u2013 Neighbourhood Decision Making Program Expansion.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 14-1). Clean full removal; restrictive correct."
+ },
+ {
+  "id": "f6aa1bc834a4",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed Business Case #P-34 (City Hall Main Lobby Security Guard) funding from the multi-year budget.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case #P-34 \u2013 City Hall Main Lobby Security Guard.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 11-3). Clean full removal; restrictive correct."
+ },
+ {
+  "id": "b4082101a336",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have added $100,000/year in funding for Business Case #P-39 (The Grand Theatre \u2013 Increasing Community Access to & Participation in the Arts).",
+  "confidence": "high",
+  "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 \u2013 The Grand Theatre",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match to the FIRST of 3 motions under item 3.15 (failed 7-8, later reconsidered). Adds $100k/yr for the Grand Theatre case; expansive correct."
+ },
+ {
+  "id": "a61e9b88ab0b",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have added $100,000/year in funding for Business Case #P-39 (The Grand Theatre \u2013 Increasing Community Access to & Participation in the Arts) (re-vote of the same amendment).",
+  "confidence": "high",
+  "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 \u2013 The Grand Theatre",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match to the RECONSIDERED re-vote (failed 6-8) of the same Grand Theatre amendment under item 3.15 -- correctly matched to the distinct second content entry (b4082101a336 matches the first, 7-8, vote). Same text, same correct expansive call."
+ },
+ {
+  "id": "2705bd8983d4",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added one-time $65,000 funding for 2024 for Business Case #P-48 (Canadian Mental Health Transitional Case Worker at the London Public Library), drawn from the Community Investment Reserve Fund.",
+  "confidence": "high",
+  "quote": "BE AMENDED to include Business Case #P-48 \u2013 Canadian Mental Health Transitional Case Worker \u2013 London Public Library",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 11-4). One-time $65k addition drawn from a reserve fund; expansive correct."
+ },
+ {
+  "id": "643807483f90",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved Business Case #P-63 (Silver Creek Ecological Enhancements) funding, delaying implementation and the $200,000 annual funding until 2026.",
+  "confidence": "medium",
+  "quote": "BE AMENDED to include Business Case #P-63 \u2013 Silver Creek Ecological Enhancements",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (failed 6-9). This business case was NOT in the base budget; the amendment adds it (implementation delayed to 2026); expansive correct despite the delay."
+ },
+ {
+  "id": "13f0189fb7d2",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Reduced Business Case #P-2 (Vehicle and Equipment Replacement) annual costs by spreading reserve fund repayments over 6 years instead of 5.",
+  "confidence": "high",
+  "quote": "BE AMENDED by reducing Business Case #P-2 \u2013 Vehicle and Equipment Replacement to spread the reserve fund repayments over 6 years instead of 5 years",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 14-1). Spreads reserve-fund repayments over 6 vs 5 years, which reduces annual cost; restrictive correct."
+ },
+ {
+  "id": "9ae4b2d5a23c",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
+  "confidence": "low",
+  "quote": "reducing the contribution to the new Climate Change Investment Fund by $750,000 in 2024 and increasing the contribution by $250,000 per year in 2025, 2026 and 2027",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (failed 3-12). Independently re-checked the arithmetic: -$750k(2024) + $250k x 3(2025-27) = net $0 over the 4-year MYB window -- a genuine wash, not a disguised net cut or net increase. Correctly left unclear rather than guessed; verdict stands."
+ },
+ {
+  "id": "6712ca3fffe0",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have reversed a proposed reduction to Museum London's budget increase, restoring funding to the 6.3% base budget program level instead of the reduced 5.4% average increase.",
+  "confidence": "medium",
+  "quote": "BE AMENDED to remove Adj. #4 \u2013 Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (failed 5-10). The trickiest double-negative in the batch: the motion REMOVES a REDUCTION (Adj. #4, which had cut Museum London's increase down to 5.4%) and substitutes the higher 6.3% base-budget figure -- net effect is MORE funding, not less. The classifier correctly parsed this double negative as expansive; a naive 'remove = restrictive' read would have been a genuine denial-flip error here and was avoided."
+ },
+ {
+  "id": "543587b00733",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Reduced the Industrial Lands Reserve Fund contribution by $1 million for 2024 only, lowering the 2024 property tax levy by about 0.1%.",
+  "confidence": "high",
+  "quote": "BE AMENDED to reduce the current Industrial Lands Reserve Fund contribution by $1 million for 2024 only, noting it would have a 0.1% reduction on the 2024 property tax levy",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 8-7). Reduces a reserve-fund contribution, lowering the tax levy; restrictive correct."
+ },
+ {
+  "id": "f10ecd532d39",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have removed Business Case #P-9 (Giwetashkad Implementation) funding from the multi-year budget entirely.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case # P-9 \u2013 Giwetashkad Implementation.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (failed 4-11). Clean full removal; restrictive correct."
+ },
+ {
+  "id": "62fa897ab9ac",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Business Case #P-26 (Community Gardens Program Expansion to Support Food Security), delayed to 2026, funded partly by a new $12,000 property tax levy in 2026 and 2027.",
+  "confidence": "high",
+  "quote": "BE AMENDED to include Business Case #P-26 \u2013 Community Gardens Program Expansion to Support Food Security",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 10-5). Adds a program (delayed to 2026) funded partly by a new levy; expansive correct."
+ },
+ {
+  "id": "4ac84c713dc6",
+  "issue": "policing",
+  "axis": "budget-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have reduced Business Case #P-29 (Police Vehicle and Equipment Requirements) funding by $90,000 per year.",
+  "confidence": "high",
+  "quote": "BE AMENDED to reduce Business Case #P-29 \u2013 Police Vehicle and Equipment Requirements by $90,000 each year.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match to the FIRST of 3 motions under item 3.8 (failed 6-9). 'Police Vehicle and Equipment Requirements' is an unambiguous police-budget line item by name even though it never uses any of issue-rules.ts's literal policing keyword phrases (e.g. 'police budget'/'police service') -- confirmed as substantively correct, not a keyword-list gap worth downgrading. Reduces funding by $90k/yr; restrictive correct."
+ },
+ {
+  "id": "7800e8b9ceae",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recessed the budget committee meeting for 1 hour and 15 minutes.",
+  "confidence": "high",
+  "quote": "That the Committee recess at this time, for 1 hour and 15 minutes.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "issue=none correct: matched to the SECOND of 3 motions under item 3.8 (failed 4-11), a pure recess motion, correctly distinguished from the P-29 police-budget motion in the same item (4ac84c713dc6) and from the third (a separate, unanimous 30-min recess). Verbatim quote confirmed."
+ },
+ {
+  "id": "2158fadf169c",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have added $316,000 in 2026 funding for Action #3 (Extension of Parks Operations Services) under Business Case #P-31 (Parks Operations Service Delivery Enhancements).",
+  "confidence": "high",
+  "quote": "BE AMENDED to include funding for \u201cAction #3: Extension of Parks Operations Services\u201d of Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (failed 6-9). Adds $316k in 2026 funding for a parks-ops action; expansive correct."
+ },
+ {
+  "id": "b9122734bf86",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recessed the budget committee meeting.",
+  "confidence": "high",
+  "quote": "That the meeting BE RECESSED.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "issue=none correct, procedural recess/adjournment; verbatim quote confirmed against the 2024-02-02 continuation meeting's own adjournment motion (9-6), correctly distinguished from the textually-similar 2024-02-01 meeting's adjournment (2a814fa072c4) by date/meetingSlug, not conflated."
+ },
+ {
+  "id": "f2f57f834998",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Removed Business Case #P-5 (Fire Department Breathing Apparatus and Decontamination) from the current 2024-2027 budget and referred it to the 2028-2031 Multi-Year Budget instead, citing the equipment's 2031 lifecycle renewal date.",
+  "confidence": "medium",
+  "quote": "that this Business Case BE REFERRED to the 2028-2031 MYB noting that the equipment\u2019s lifecycle renewal is 2031",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 12-3). This removes the business case from the CURRENT 2024-2027 MYB and pushes it to the 2028-2031 MYB, explicitly because the equipment's own lifecycle renewal date is 2031 -- the timing correction tracks when the equipment is actually due, not a policy cut. Given the referral-gets-no-direction rule and the genuine ambiguity over whether 'moved to when it's actually needed' should count as restrictive, unclear is the safer, defensible call; found no unambiguous operative clause that would justify overturning to a direction."
+ },
+ {
+  "id": "fade80c99229",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have removed Business Case #P-7 (a new Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting) from the multi-year budget.",
+  "confidence": "high",
+  "quote": "BE AMENDED to remove Business Case #P-7 \u2013 Implementation of a New Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (failed 2-13). Clean full removal; restrictive correct."
+ },
+ {
+  "id": "2a814fa072c4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recessed the budget committee meeting.",
+  "confidence": "high",
+  "quote": "That the meeting BE RECESSED.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "issue=none correct, procedural adjournment of the 2024-02-01 meeting (9-6); verbatim quote confirmed, correctly distinguished from the textually-identical-looking 2024-02-02 adjournment (b9122734bf86) by date/meetingSlug, not conflated."
+ },
+ {
+  "id": "00bf6e89f1ac",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Refused the requested rezoning of 934 Oxford Street West from Residential R1 to Residential R8 Special Provision, keeping the property at its existing lower-density zoning.",
+  "confidence": "high",
+  "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R1 (R1-10) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone, BE REFUSED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 3-2), matched to the FIRST of 4 motions under item 3.6 -- the refusal recommendation, correctly distinguished from the competing 'approve' motion in the same item that failed 2-3 (86db2a8d88e6). The PASSED motion here is itself to REFUSE the R1-to-R8 upzoning; a yea denies the density increase, so restrictive is the correct read of this specific denial -- not a denial-flip error."
+ },
+ {
+  "id": "75ab0695380f",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved introducing the by-law to rezone 934 Oxford Street West from Residential R1 to Residential R8 Special Provision, a higher-density designation.",
+  "confidence": "high",
+  "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024, to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-10) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim match (with an honest '...' elision skipping one parenthetical mid-clause, both sides of the ellipsis verified as exact substrings) to the competing 'approve the application' motion under the same item 3.6 (failed 2-3) -- correctly distinguished from 4a21a131c64b's refusal motion by its own distinct result string and mover. A yea here approves introducing the R1-to-R8 upzoning by-law; expansive is correct for this specific motion regardless of what the companion refusal motion (which passed) did."
+ },
+ {
+  "id": "414239a10fe9",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and rezone 1310 Adelaide Street North & 795 Windermere Road from Open Space to a Holding Open Space Special Provision, enabling the proposed development subject to a holding provision.",
+  "confidence": "medium",
+  "quote": "the attached, revised, proposed by-law (Appendix \"A\") BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024 to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Green Space Place Type and by ADDING the subject lands to Map 7",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 3-2). Approves introducing OP/zoning by-laws enabling a development on former Open Space land subject to a Holding provision. No density-specific numeric axis applies here; the only real signal is the generic approve/deny axis, and a yea does approve the application, so expansive is correct under that axis's own documented approve=expansive semantics. Checked for a hidden climate signal (a Conservation Authority delegate is named) but that reference is only in the presenter list, not the operative clause -- housing remains the right primary bucket."
+ },
+ {
+  "id": "140836134fdf",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion to receive the Municipal Compliance Annual Report by noting that acceptance doesn't preclude further inquiry into 2023 Short-Term-Accommodation and property-compliance data.",
+  "confidence": "high",
+  "quote": "it being noted that accepting this report does not preclude the committee from further inquiry into 2023 data and future reporting will provide additional information and fulsome aggregate tables on Short Term Accommodations and Property Compliance",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "issue=none correct. Item 2.5 has 4 motions; this id matches the 3 that share the 4-1 tally (an amendment adding the noted wording, a motion to receive the report, and the final 'as amended, BE APPROVED') -- genuinely ambiguous which of the 3 identical-tally motions the id represents, but harmless since all 3 are pure report-receipt/amendment text with no substantive policy direction. Verbatim quote confirmed."
+ },
+ {
+  "id": "bb3ce5952d8f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion to receive the Municipal Compliance Annual Report by noting that acceptance doesn't preclude further inquiry into 2023 Short-Term-Accommodation and property-compliance data.",
+  "confidence": "high",
+  "quote": "it being noted that accepting this report does not preclude the committee from further inquiry into 2023 data and future reporting will provide additional information and fulsome aggregate tables on Short Term Accommodations and Property Compliance",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Identical situation and identical text to 140836134fdf -- same item, same meeting, same 4-1 tally shared across 3 motions. Both ids independently produce the same correct, harmless issue=none classification."
+ },
+ {
+  "id": "43617e79c864",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 9-6, council). Reallocates existing ICIP transit funding between two transit capital projects and authorizes implementing the resulting budget changes; a yea approves this, so expansive under the generic approve/deny axis is correct, and whatAYeaDid neutrally describes the reallocation rather than overclaiming a service expansion."
+ },
+ {
+  "id": "6f73a1e65e6a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to implement 12.5% pay increases for the Deputy Mayor and Budget Chair council positions effective January 2024, and directed the Governance Working Group to review this as part of its broader remuneration policy review.",
+  "confidence": "high",
+  "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "issue=none correct (council-remuneration precedent, consistent with the manifest's own established treatment of Deputy Mayor/Budget Chair pay). Verbatim exact match (passed 11-4) -- this is the COUNCIL-level confirming vote of the same pay increases the committee first passed on 2024-01-16 (86419cffb57c/0beb8b008e0b/3f29f81fb746); correctly kept as its own distinct vote, not conflated with those."
+ },
+ {
+  "id": "7675c9f2dbb2",
+  "issue": "climate",
+  "axis": "target-strength",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed staff to update the Site Plan Control and/or Zoning By-laws by Q3 2024 to require EV-charging rough-ins, minimum native-species landscaping, short-term bicycle parking, and bird-friendly (CSA A460) building design standards, and to review a legislative framework for broader sustainable building requirements (energy efficiency, water conservation, green roofs).",
+  "confidence": "medium",
+  "quote": "5% of the required parking spaces for buildings over 40 units be roughed in for EV charging",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 13-1). Establishes new mandatory green-building design standards (EV rough-ins, native landscaping, bird-friendly design) and directs staff to review a broader sustainable-building framework -- functionally strengthens environmental standards even though the quoted clause itself doesn't use the literal words 'target'/'net zero'; target-strength/expansive is a fair, non-misleading characterization of the substance."
+ },
+ {
+  "id": "ddc57de69a2b",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verbatim exact match (passed 13-1, committee). Same substance and same correct classification as 71f1ada00bf5 -- this is the committee-stage vote on the identical ICIP transit reallocation that council later confirmed; correctly tracked as its own distinct vote event, not conflated with the council vote."
+ },
+ {
+  "id": "3f29f81fb746",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended part b) of the motion to set a 12.5% pay increase for the Budget Chair council position effective January 2024.",
+  "confidence": "high",
+  "quote": "a pay increase of 12.5% to the annual base Councillor salary for the position of Budget Chair effective January 2024",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "issue=none correct (council remuneration). Verbatim exact match (passed 11-3) -- correctly matched to the specific 'amend part b) [Budget Chair pay]' sub-motion among 7 motions under item 4.4, distinguished by its own distinct 11-3 tally from the other 6."
+ },
+ {
+  "id": "5b9e95d03206",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Deputy Mayor and Budget Chair pay-increase motion to a future Governance Working Group meeting instead of deciding it that night.",
+  "confidence": "high",
+  "quote": "That the motion BE REFERRED to a future meeting of the Governance Working Group.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "issue=none correct (council remuneration; also independently a referral, doubly non-substantive). Verbatim exact match (failed 6-8) -- correctly matched to the distinct referral-to-Governance-Working-Group sub-motion among the 7 under item 4.4."
+ },
+ {
+  "id": "86419cffb57c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a 12.5% pay increase to the annual base Councillor salary for the Deputy Mayor position, effective January 2024.",
+  "confidence": "medium",
+  "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "issue=none correct (council remuneration). Verbatim exact match, but genuinely ambiguous which of two motions (both passed 9-5, both moved by J. Morgan) this id represents: 'part a) [Deputy Mayor pay]' and 'part b) [Budget Chair pay]'. I independently pulled the raw vote rows for both from the meeting JSON -- they carry the IDENTICAL yea/nay roll call (same 9 councillors, same 5 dissenters), not just the same tally, so the source data gives no way to disambiguate at all. Harmless here since issue=none regardless of which part."
+ },
+ {
+  "id": "0beb8b008e0b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a 12.5% pay increase to the annual base Councillor salary for the Deputy Mayor position, effective January 2024 (source data does not distinguish this vote's tally from id 86419cffb57c \u2014 both matched the identical 'part a) Deputy Mayor' clause in the meeting JSON; itemNumber 4.4 records six distinct sub-motions and two of the four manifest ids sharing this tally could not be told apart from the JSON alone).",
+  "confidence": "medium",
+  "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Same genuine ambiguity as 86419cffb57c, now independently re-confirmed: I pulled the raw yea/nay voter rows for both the 'part a)' and 'part b)' motions myself and found them byte-identical (same 9 yeas, same 5 nays), fully corroborating the classifier's own disclosed note. Correctly harmless since polarity is null/issue=none for both regardless of which part this id maps to."
+ }
 ]

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T10:44:08.061Z",
+  "generatedAt": "2026-09-02T18:35:22.692Z",
   "note": "Motions dropped from the divided-vote universe because they aren't a genuine division, for one of two independently-checked reasons (see each motion's own 'reason' below): 'one-sided tally' means this motion's own recorded yeas or nays array is empty — derived straight from the vote arrays every run, regardless of what any classification pass flagged, so a lopsided result the source data's own 'unanimous' boolean doesn't cover (e.g. 0 yeas / 14 nays with one absence) is still caught. 'classify-flagged' means the classify pipeline's own verification pass flagged the motion 'not_divided' by hand — typically the exact same motion recorded twice under two different agenda item numbers, which would otherwise double-count one real decision; see verifierNote in data/election/classify/batch-*-verified.json for the specific reason. Never guessed at or silently kept.",
   "count": 12,
   "motions": [
     {
-      "id": "cfefeda5d588",
+      "id": "6c05cb59183e",
       "date": "2026-02-23",
       "meetingSlug": "months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee",
       "itemNumber": "2.13",
@@ -18,7 +18,7 @@
       "verifierNote": "Verified full motion text: a BE REFERRED motion (travel/business expense policy) that itself Failed (0 to 5) -- decided nothing, and the subject matter (council administrative policy) is outside the 8 tracked issues in any case. Correctly excluded."
     },
     {
-      "id": "e413fccfdb92",
+      "id": "452cfbf9fcb9",
       "date": "2025-11-12",
       "meetingSlug": "months/2025-11/2025-11-12 The 17th Meeting of the Planning and Environment Committee",
       "itemNumber": "3.6",
@@ -46,7 +46,7 @@
       "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
     },
     {
-      "id": "f2f91d156e14",
+      "id": "a1809ef17b5c",
       "date": "2025-08-26",
       "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
       "itemNumber": "8.2.19",

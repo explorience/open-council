@@ -1,600 +1,600 @@
 [
-  {
-    "id": "c9bfb65cad3a",
-    "issue": "encampments",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Endorsed the Whole of Community System Response's Proposed Hubs Implementation Plan for addressing homelessness.",
-    "confidence": "high",
-    "quote": "the London’s Health & Homelessness Whole of Community System Response Proposed Hubs Implementation Plan as appended to the staff report dated July 24, 2023 as Schedule 1 BE ENDORSED",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-07-25 Council item 9.2.2, 'Motion to approve part a)' (10-4). Quote is a verbatim, exact substring of the operative clause; part a) is the only clause with this result string, so the duplicate-tally id assignment is correct. Body text contains the literal encampments keyword phrase 'whole of community system response'."
-  },
-  {
-    "id": "dc627b2b906a",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to run a competitive procurement process to select Lead Agencies for the first five homelessness Hubs and report back with the results and financing for approval.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "informational_ask",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against the same item's 'Motion to approve part b)' (10-4, distinct voter set/content from part a). Body text (procurement directive, report back for future approval) contains no encampments keyword and is a preparatory/report-back step, not a funding decision -- issue=none and unclear polarity both correctly withheld."
-  },
-  {
-    "id": "40357a0b35ef",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved hearing delegations from M. Wallace (London Development Institute) and J. Herb at the meeting.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked against data/votes/_all-motions.json's own motionText field for this id: exact match to the delegation-hearing motion (14-1), distinguishing it from the other same-tally 'approve the balance of the motion' vote in the same item. Correct disambiguation, correctly procedural/issue=none."
-  },
-  {
-    "id": "74e351cbfc1c",
-    "issue": "encampments",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Endorsed the Whole of Community System Response's Proposed Hubs Implementation Plan for addressing homelessness.",
-    "confidence": "high",
-    "quote": "the London’s Health & Homelessness Whole of Community System Response Proposed Hubs Implementation Plan as appended to the staff report dated July 24, 2023 as Schedule 1 BE ENDORSED",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-07-24 committee item 4.1, 'Motion to approve part a)' (11-4), the unique 11-4 result in the item. Quote is a verbatim, exact match to the operative clause."
-  },
-  {
-    "id": "52fc49ba7ffe",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to run a competitive procurement process to select Lead Agencies for the first five homelessness Hubs and report back with the results and financing for approval.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "informational_ask",
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against the same item's 'Motion to approve part b)' (12-3), the unique 12-3 result in the item. Content and quote match the procurement-directive clause exactly; correctly held to issue=none/unclear for the same report-back reasoning as dc627b2b906a."
-  },
-  {
-    "id": "2563f3f0d143",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the proposed Community Grants Policy update's definition of 'unincorporated grassroots group.'",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-07-19 committee item 2.1: the 13-1 vote is the grassroots-group definition amendment, uniquely matching. No tracked-issue keyword in the amendment text (community grants policy is not one of the 8 clusters)."
-  },
-  {
-    "id": "786a956b8072",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the Master Accommodation Plan (Alternate Work Strategies) item to the next Municipal Council meeting for disposition.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-07-19 committee item 4.1: 10-4 uniquely matches 'the consideration of the entire matter of Item 4.1 BE REFERRED ... for disposition' -- a pure, content-free referral (DEFER_RE fires, no AFFIRM elsewhere), correctly unclear."
-  },
-  {
-    "id": "40f6ecb3ee53",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Appointed two individuals to the London Hydro Board of Directors and directed introduction of a ratifying by-law.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "appointment"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Item title is 'Consideration of Appointment to the London Hydro Board of Directors ...' -- literal match on the GLOBAL_EXCLUDE phrase 'consideration of appointment to'. Correctly excluded as a personnel decision, not a policy position."
-  },
-  {
-    "id": "3b399e8b3680",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred a proposed one-time funding allocation to London Cares Homeless Response Services back to Civic Administration for more information on neighbourhood-engagement concerns and security staffing.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-07-18 committee item 2.3: the 5-1 vote is the amendment referring the London Cares funding allocation back to Civic Administration for more information -- a pure referral (DEFER_RE fires, no AFFIRM), correctly held to unclear. Body text contains 'Homeless Response Services', supporting the encampments issue tag even though direction stays null."
-  },
-  {
-    "id": "502a087945ac",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have approved an $80,000/year, 3-year financial contribution to the Middlesex London Ontario Health Team's Primary Care Recruitment Program; the motion failed.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-07-18 committee item 2.4: 'Motion to approve part b) and c)' (2-4, FAILED) -- '...financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $80,000 per year for 3 years'. Failed motion correctly read as a would-have-approved with no polarity assigned (not one of the 8 tracked issues; no housing/climate/budget keyword literally present -- 'Economic Development Reserve Fund' is not a budget-cluster phrase)."
-  },
-  {
-    "id": "857e7f5b870f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have referred the Adelaide Street North Improvements Environmental Study Report back to Civic Administration to include a no-widening option and a downstream mitigation discussion; the motion failed.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-07-18 Civic Works item 2.7: 1-5 FAILED uniquely matches the no-widening-option referral. Body text says 'no widening option', not the literal transit-cluster keyword 'road widening' -- issue=none is the vocabulary-faithful call per issue-rules.ts's literal-match design, even though a human reading would connect this to transit/roads."
-  },
-  {
-    "id": "5e06de50fe7f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a note to the Adelaide Street North clause that any future corridor widening be subject to the Master Mobility Plan and future Development Charges By-laws.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against the same item: 4-2 uniquely matches the added note tying any future 'corridor widening' to the Master Mobility Plan/DC By-laws. 'Corridor widening' is not the literal 'road widening' keyword, so issue=none stands for the same vocabulary-fidelity reason as 857e7f5b870f. No AFFIRM_RE verb of its own (an added note, not an approve/deny), correctly unclear."
-  },
-  {
-    "id": "ca843b38fe71",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to proceed with decommissioning Thames Pool, consult on replacement amenities, study a new indoor pool location, and cap related costs at $1.92 million.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-07-18 committee item 4.2, the item's only substantive vote (5-1). No tracked-issue keyword present (pool/parks/recreation is not one of the 8 clusters; 'combined budget of $1.92 million' does not match any budget-cluster phrase)."
-  },
-  {
-    "id": "7c7f0d7e4b18",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved hearing a delegation from M. Wallace (London Development Institute) on the Mobility Master Plan item.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-07-18 Civic Works item 4.3: three motions share the '(5 to 1)' result string with two different voter sets. This id's own voter set (Nays: Trosow only) is unique to the delegation-hearing motion, cross-checked against data/votes/_all-motions.json's motionText for this id ('Motion to approve the request for delegation...'). Correctly procedural/issue=none -- the delegation motion's own text carries no topic content."
-  },
-  {
-    "id": "f2e8250fa897",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Requested Civic Administration remove the Mode Target Share Option 1 item from the Mobility Master Plan staff report.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against the same item: this id's own _all-motions.json motionText is literally 'Motion to approve part b) of the clause', matching the Mode Target Share Option 1 removal request -- correctly distinguished from 668e28b03700 (part a). No literal issue keyword in this clause's body (report title says 'Master Mobility Plan', reversed word order from the tracked keyword 'mobility master plan', so no match either way)."
-  },
-  {
-    "id": "668e28b03700",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Received the Mobility Master Plan Update staff report for information.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against the same item: this id's own _all-motions.json motionText is literally 'Motion to approve part a) of the clause' (the staff report BE RECEIVED), sharing a voter set with f2e8250fa897 but independently disambiguated by the ground-truth motionText field, not by guesswork. Same reversed-word-order non-match on 'mobility master plan' as above -- issue=none is the literal-vocabulary-faithful call."
-  },
-  {
-    "id": "18389effc014",
-    "issue": "climate",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred Councillor Franke's Climate Emergency Action Plan - Phase Out Gas communications to Civic Administration for review.",
-    "confidence": "high",
-    "quote": "the communications included on the Added Agenda from Councillor S. Franke, related to Climate Emergency Action Plan - Phase Out Gas, BE REFERRED to the Civic Administration for review",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Quote is a verbatim, exact match to the referral clause ('...BE REFERRED to the Civic Administration for review'). DEFER_RE fires with no AFFIRM elsewhere in the clause, so unclear polarity is correct even though issue=climate is well-supported by the literal 'Climate Emergency Action Plan' phrase in the body."
-  },
-  {
-    "id": "3c438e93588a",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have repealed five listed Council Policies (e.g. Athletic Travel Grants, Landing of Helicopters) as part of the Council Policy Manual Review; the motion failed on a tie.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Item concerns unrelated Council Policies (Athletic Travel Grants, Landing of Helicopters, etc.) via a 49-policy governance review; none of the repealed policies are housing/climate/transit/etc. content. issue=none correctly held."
-  },
-  {
-    "id": "81b290ac64e2",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Introduced a zoning by-law amendment rezoning 599-601 Richmond Street to a Business District Commercial Special Provision zone and directed staff to work with the applicant on including affordable housing units in the development.",
-    "confidence": "high",
-    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject lands FROM a Business District Commercial Special Provision Bonus Zone (BDC(1)*B-87) Zone TO a Business District Commercial Special Provision (BDC(_)) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-07-17 Planning item 3.10, the item's only substantive vote (4-1). Quote is a verbatim, exact match to part a) of the operative clause. Body text also contains the literal housing-cluster phrase 'affordable housing' (part b), directing staff to include affordable units) independent of the structural Z-9607 code match, giving a doubly-supported housing tag. Net effect (rezoning approved + affordable-housing directive) is unambiguously expansive."
-  },
-  {
-    "id": "492e6a3e0c3c",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Appointed four individuals as voting members of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "appointment"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Item title is 'Consideration of Appointments to the London Community Advisory Committees' -- literal GLOBAL_EXCLUDE match on 'consideration of appointment[s] to'. Correctly a personnel decision, not a DIAO policy position."
-  },
-  {
-    "id": "8fb0cfa6e7c6",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Introduced a zoning by-law amendment extending the Temporary Use Zone at 221 Queens Avenue for up to three more years.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "downgraded",
-    "verifierNote": "REFUTED. Read the full 221 Queens Avenue record across three meetings (2023-06-12 committee, 2023-06-27 Council, 2023-07-17 committee). The T-69 'temporary use' being extended is explicitly a commercial SURFACE PARKING LOT, not housing. The city's own staff reasoning at 2023-06-12/06-27 states verbatim: 'the request to extend the temporary zone for a period of three (3) years ... does not encourage long-term redevelopment of the site in support of achieving London's Housing Pledge target of 47,000 units by 2031' and recommends only a 1-year extension instead, specifically 'to allow existing users of the surface commercial parking lot to make alternative parking arrangements while encouraging long-term redevelopment ... to a more intense, transit-supportive use ... that generates new housing units in the Downtown Core.' The July 17 vote this record represents grants the FULL 3-year extension anyway (notwithstanding the Director's recommendation), i.e. the more parking-lot-preserving, less housing-redevelopment-friendly outcome on the city's own terms. The classifier's 'expansive' label came from the engine's generic application-approval fallback (AFFIRM_RE firing on 'BE INTRODUCED') with no actual housing-content signal -- this is exactly the title-vs-operative-clause / generic-fallback mismatch trap: 'approved a housing-tagged item' does not mean 'approved more housing' when the item is extending a parking lot's life against staff's own housing-pledge reasoning. I cannot supply a clean, unambiguous quote for a confident 'restrictive' flip either, since the July 17 clause's OWN stated reasons assert conformity rather than restating the anti-housing framing (the record shows the committee's position shifted after an enhanced landscaping-plan concession was negotiated in the intervening referral). Downgraded polarity/axis to null rather than guess a direction I can't fully substantiate from the operative clause's own text."
-  },
-  {
-    "id": "33d58ac12201",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a new part to the motion approving a heritage alteration application to install asphalt shingles (or an alternate composite material) on the roof of 39 Carfrae Street.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-07-17 Planning item 4.3: 3-2, matching the amendment adding the asphalt-shingle roof approval as new part b). Heritage alteration is not one of the 8 tracked issues; issue=none correct."
-  },
-  {
-    "id": "7663dd403df0",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved the amended motion's part b), permitting a heritage alteration to install asphalt shingles (or an alternate composite material) on the roof of 39 Carfrae Street.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against the same item: a second 3-2 vote with an identical voter set formally approves part b) of the now-amended motion (a redundant procedural confirmation of the same substance as 33d58ac12201). Same non-tracked-issue reasoning applies."
-  },
-  {
-    "id": "f2c54bf602ad",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Took no action on a specific item within a communication listed under Communications and Petitions.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Item is 'Communications and Petitions' at 2023-06-27 Council, 14-1 -- a 'took no action' procedural item with no substantive content to classify. issue=none/unclear correct."
-  },
-  {
-    "id": "43a896510b51",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved continuing the Blackfriars Bridge in its current configuration (Option 1) and submitted that outcome to the Ontario Ministry of Environment, Conservation and Parks as required by the prior environmental assessment.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-06-27 Council item 8.1.8, cross-checked against data/votes/_all-motions.json for this id (unique 8-7 result, only candidate in the item). Body text ('continue with the current bridge configuration') contains no transit-cluster keyword ('transit', 'road widening', etc.), so issue=none is the literal-vocabulary-faithful call despite the topical connection to roads/transit."
-  },
-  {
-    "id": "9d9c8a2b50b2",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Suspended the Council Procedure By-law's rule against speaking more than once, for this item.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Procedural speaking-rule suspension at 2023-06-27 Council (12-3), falls under governance-of-council procedure; no substantive content to classify."
-  },
-  {
-    "id": "5debd3db3905",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Appointed Ryan Gauss to the London Police Services Board for the term ending November 14, 2026.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "appointment"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Item title '(5.1) Consideration of Appointment to the London Police Services Board' -- literal GLOBAL_EXCLUDE match. Correctly a personnel appointment, not a policing policy position (per the codebase's own documented Police Services Board trap)."
-  },
-  {
-    "id": "15ebb068b60b",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have appointed Councillors J. Pribil and P. Van Meerbergen to the Kettle Creek Conservation Authority; the motion failed.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "appointment"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-06-27 Council item 8.3.11: the unique 1-13 FAILED result matches 'Motion to approve part c)' -- appointing Pribil and Van Meerbergen to Kettle Creek Conservation Authority. Pure personnel appointment with no other substantive content in the clause; the classifier's override of the engine's 'climate' mis-tag (which fired only on the phrase 'Conservation Authority') is correct."
-  },
-  {
-    "id": "c3af45aa8db7",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have appointed Councillor H. McAlister to the Lower Thames Valley Conservation Authority, following a reconsideration vote; the motion failed with no support.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "appointment"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against the same item: the unique 0-13 FAILED result matches the reconsideration vote re-putting McAlister's appointment to Lower Thames Valley Conservation Authority. Same pure-appointment reasoning as 15ebb068b60b; override confirmed correct."
-  },
-  {
-    "id": "36f22d76c71b",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the 221 Queens Avenue temporary-zoning application back to the Planning and Environment Committee for further discussion on an enhanced landscaping plan and a possible three-year extension.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-06-27 Council item 8.4.4: the unique 10-3 result matches the referral of the 221 Queens Avenue application back to Planning and Environment Committee 'for additional discussion ... including the incorporation of an enhanced landscaping plan and the consideration of a three (3) year extension.' Pure referral (DEFER_RE fires, no AFFIRM), correctly unclear -- this is the referral that led to the eventual (and, per 8fb0cfa6e7c6 above, questionably-labeled) July 17 approval."
-  },
-  {
-    "id": "41a162dae8e3",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Wonderland Road South rezoning clause to note that a noise/vibration study and a shadow study would be required through the Site Plan Approval process.",
-    "confidence": "medium",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-06-27 Council item 8.5.10: the unique 12-1 result matches the amendment adding a noise/vibration study and shadow study requirement to Clause 3.4. No approve/deny verb of its own (an added condition, not a decision), correctly unclear."
-  },
-  {
-    "id": "c395f863144d",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have approved the amended Wonderland Road South rezoning package: refusing the applicant's original 16-storey/office proposal but approving a reduced alternative permitting up to 12 storeys and rezoning the site from a Regional Shopping Area zone to zones that permit residential development; the motion failed.",
-    "confidence": "medium",
-    "quote": "Municipal Council supports the proposed by-law appended to the staff report dated June 19, 2023 as Appendix “A” at the Municipal Council meeting to be held on June 27, 2023 to amend The Official Plan, The London Plan to ADD a Specific Area Policy in the Shopping Area Place Type applicable to the subject lands to permit a maximum building height of 12 storeys along Wonderland Road South and Viscount Road",
-    "flags": [
-      "wrapper_preamble"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified in full against 2023-06-27 Council item 8.5.10. The base clause (parts a-d, carried into this item verbatim from the 2023-06-19 committee recommendation) refuses the original 16-storey/30,000sqm-office request (parts a,b) but supports a reduced alternative: part c) adds a 12-storey Official Plan policy, part d) rezones FROM a pure commercial 'Regional Shopping Area' zone TO holding residential (R5/R8/R9) zones. This net expansion of residential permission on a site that previously had none supports the classifier's medium-confidence 'expansive' read on the density axis. Confirmed the quote is a verbatim exact substring of the base clause's part c), present in the SAME council meeting JSON (the base clause is restated in full before the amendment and final vote), not borrowed from a different meeting. Separately verified: even the automated engine's own generic fallback (bare 'BE APPROVED' with no colon, so WRAPPER_PREAMBLE_RE's colon requirement does not strip this wrapper) would independently land on the same expansive/application-approval result, corroborating the polarity."
-  },
-  {
-    "id": "0f2aeb66ed5e",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Permitted Councillor A. Hopkins to speak twice on the 599-601 Richmond Street heritage designation matter, notwithstanding the Council Procedure By-law.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked against data/votes/_all-motions.json: exact motionText match ('Councillor A. Hopkins BE PERMITTED to speak twice ...'), a pure procedural speaking-rule motion with no substantive content. issue=none correct."
-  },
-  {
-    "id": "6d85048d8e5e",
-    "issue": "encampments",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved a $255,000 funding allocation from the Social Services Reserve Fund and a $100,000 contract amendment with London Cares and CMHA to support the Phase 1 Encampment Response.",
-    "confidence": "high",
-    "quote": "the funding allocation, from the Social Services Reserve Fund, for the total municipal allocation amount of up to $255,000.00 BE APPROVED to support a portion of the costs of the Phase 1 Encampment Response on a temporary basis",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-06-27 Council item 8.8.15, the item's only substantive vote (12-1). Quote is a verbatim, exact match to part a) of the operative clause. Clean, unambiguous funding approval for the encampment response."
-  },
-  {
-    "id": "c0fb71cc141b",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to include a three-year, year-over-year comparison of Winter Response Program bed/shelter usage and costs in its August outcome report.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-06-27 Council item 8.8.16, the item's only vote (12-1): a pure data/report-back request (3-year bed-usage comparison for the August Outcome Report), with no 'homeless'/'encampment'/'shelter' keyword anywhere in its own body text (only 'Winter Response Program' and 'bed days/nights'). issue=none and axis=null both correct."
-  },
-  {
-    "id": "1f5c6dae39f0",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved a property acquisition, parking-loss compensation, and temporary easement at 1080 Dundas Street for the East London Link road project, and approved its financing.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-06-27 Council item 9.1 (closed session report): the unique 11-1 result matches sub-item 1 (1080 Dundas St property acquisition for the East London Link road project), distinguishing it from an unrelated 12-0 unanimous sub-item in the same closed-session report bundle. Body text says 'future road improvements', not the literal transit-cluster keyword 'road widening', so issue=none is the vocabulary-faithful call despite the topical road-project connection."
-  },
-  {
-    "id": "3e9ba59807da",
-    "issue": "downtown",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved $100,000 in one-time funding from the Operating Budget Contingency Reserve for the Holly Jolly Market and Downtown for the Holidays events.",
-    "confidence": "high",
-    "quote": "one-time funding of $100,000 in support of the Holly Jolly Market and Downtown for the Holidays events BE APPROVED from the Operating Budget Contingency Reserve",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked against data/votes/_all-motions.json's own motionText for this id: exact match to 'Motion to approve part b) of the clause' -- the Holly Jolly Market/Downtown for the Holidays funding, distinguishing it from part a) (BE RECEIVED) which shares the same 11-1 result string but a different Nay voter (Stevenson vs. Trosow). Quote is a verbatim, exact match. Body text contains the literal downtown-cluster keyword 'Downtown', and the funding approval is unambiguous."
-  },
-  {
-    "id": "9c326f3a3ba5",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Appointed Councillor P. Van Meerbergen to the Kettle Creek Conservation Authority Board of Directors.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "appointment"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-06-20 committee item 4.1, the unique 9-4 result in the item (Van Meerbergen appointed to Kettle Creek Conservation Authority). Pure appointment with no other content; the classifier's override of the engine's 'climate' mis-tag is correct, same reasoning as 15ebb068b60b/c3af45aa8db7."
-  },
-  {
-    "id": "f35d7d5f3b2f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have given notice of intention to designate 599-601 Richmond Street as a heritage property under the Ontario Heritage Act; the motion failed.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Item is a heritage-designation notice-of-intention vote for 599-601 Richmond St (2-3 FAILED, unique in the item). Heritage designation is not one of the 8 tracked issues; issue=none correct."
-  },
-  {
-    "id": "ed7c57811970",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Refused the applicant's original request for a 16-storey building with 30,000 sq.m of office space at 755, 785 & 815 Wonderland Road South, but approved a reduced alternative permitting up to 12 storeys and rezoning the site from a Regional Shopping Area zone to zones that permit residential development.",
-    "confidence": "medium",
-    "quote": "Municipal Council supports the proposed by-law appended to the staff report dated June 19, 2023 as Appendix “A” at the Municipal Council meeting to be held on June 27, 2023 to amend The Official Plan, The London Plan to ADD a Specific Area Policy in the Shopping Area Place Type applicable to the subject lands to permit a maximum building height of 12 storeys along Wonderland Road South and Viscount Road",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified in full against 2023-06-19 Planning item 3.4 (committee stage of the same Wonderland Road South application as c395f863144d), the item's only substantive vote (4-1), 'on the recommendation of the Director, Planning and Development' -- i.e. staff itself recommended the refuse-big/approve-reduced-alternative structure. Same net-expansion-of-residential-zoning reasoning as c395f863144d applies, with even stronger support since this is the staff-recommended version (not a 'notwithstanding staff' override). Quote is a verbatim, exact match to part c) of the operative clause."
-  },
-  {
-    "id": "d0375364f0e1",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved continuing the Blackfriars Bridge in its current configuration (Option 1) and submitted that outcome to the Ontario Ministry of Environment, Conservation and Parks as required by the prior environmental assessment.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked against data/votes/_all-motions.json: exact motionText match ('Motion to approve parts a) and b) of the motion', 4-1), the committee-stage predecessor to 43a896510b51. Same reasoning applies: no literal transit-cluster keyword in the body ('continue with the current bridge configuration'), issue=none correct."
-  },
-  {
-    "id": "233f37c48890",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Deferred delegation requests from V.R. Anber and A. Kanji on the Fireworks By-law item to a future public participation meeting.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-06-13 committee item 4.2, the unique 5-1 result (deferring V.R. Anber/A. Kanji delegation requests). Fireworks by-law is not one of the 8 tracked issues; issue=none correct."
-  },
-  {
-    "id": "b366ef057c7d",
-    "issue": "encampments",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved a $255,000 funding allocation from the Social Services Reserve Fund and a $100,000 contract amendment with London Cares and CMHA to support the Phase 1 Encampment Response.",
-    "confidence": "high",
-    "quote": "the funding allocation, from the Social Services Reserve Fund, for the total municipal allocation amount of up to $255,000.00 BE APPROVED to support a portion of the costs of the Phase 1 Encampment Response on a temporary basis",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-06-13 committee item 4.3, the item's only substantive vote (4-1). Quote is a verbatim, exact match, identical substance to 6d85048d8e5e (committee-stage predecessor of the same encampment funding item). Clean, unambiguous funding approval."
-  },
-  {
-    "id": "150bc658fe89",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Directed Civic Administration to include a three-year, year-over-year comparison of Winter Response Program bed/shelter usage and costs in its August outcome report.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Same reasoning as c0fb71cc141b (its Council-stage successor): a pure data/report-back request with no encampments-cluster keyword in its own body text. issue=none and axis=null both correct."
-  },
-  {
-    "id": "cb1c5bf49602",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the Community Improvement Plan for Industrial Land Uses to delete the Industrial Land Corridor Enhancement Grant Program.",
-    "confidence": "high",
-    "quote": "",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against 2023-06-12 Planning item 3.2: the whatAYeaDid text ('...delete the Industrial Land Corridor Enhancement Grant Program') matches part b)i) of the operative clause verbatim. No budget-cluster keyword phrase present in that specific sub-clause ('Multi-Year Budget' appears only in an adjacent, non-matching sub-clause); issue=none correct."
-  }
+ {
+  "id": "c9bfb65cad3a",
+  "issue": "encampments",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Endorsed the Whole of Community System Response's Proposed Hubs Implementation Plan for addressing homelessness.",
+  "confidence": "high",
+  "quote": "the London\u2019s Health & Homelessness Whole of Community System Response Proposed Hubs Implementation Plan as appended to the staff report dated July 24, 2023 as Schedule 1 BE ENDORSED",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-07-25 Council item 9.2.2, 'Motion to approve part a)' (10-4). Quote is a verbatim, exact substring of the operative clause; part a) is the only clause with this result string, so the duplicate-tally id assignment is correct. Body text contains the literal encampments keyword phrase 'whole of community system response'."
+ },
+ {
+  "id": "dc627b2b906a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to run a competitive procurement process to select Lead Agencies for the first five homelessness Hubs and report back with the results and financing for approval.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against the same item's 'Motion to approve part b)' (10-4, distinct voter set/content from part a). Body text (procurement directive, report back for future approval) contains no encampments keyword and is a preparatory/report-back step, not a funding decision -- issue=none and unclear polarity both correctly withheld."
+ },
+ {
+  "id": "40357a0b35ef",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved hearing delegations from M. Wallace (London Development Institute) and J. Herb at the meeting.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked against data/votes/_all-motions.json's own motionText field for this id: exact match to the delegation-hearing motion (14-1), distinguishing it from the other same-tally 'approve the balance of the motion' vote in the same item. Correct disambiguation, correctly procedural/issue=none."
+ },
+ {
+  "id": "74e351cbfc1c",
+  "issue": "encampments",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Endorsed the Whole of Community System Response's Proposed Hubs Implementation Plan for addressing homelessness.",
+  "confidence": "high",
+  "quote": "the London\u2019s Health & Homelessness Whole of Community System Response Proposed Hubs Implementation Plan as appended to the staff report dated July 24, 2023 as Schedule 1 BE ENDORSED",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-07-24 committee item 4.1, 'Motion to approve part a)' (11-4), the unique 11-4 result in the item. Quote is a verbatim, exact match to the operative clause."
+ },
+ {
+  "id": "52fc49ba7ffe",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to run a competitive procurement process to select Lead Agencies for the first five homelessness Hubs and report back with the results and financing for approval.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against the same item's 'Motion to approve part b)' (12-3), the unique 12-3 result in the item. Content and quote match the procurement-directive clause exactly; correctly held to issue=none/unclear for the same report-back reasoning as dc627b2b906a."
+ },
+ {
+  "id": "2563f3f0d143",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the proposed Community Grants Policy update's definition of 'unincorporated grassroots group.'",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-07-19 committee item 2.1: the 13-1 vote is the grassroots-group definition amendment, uniquely matching. No tracked-issue keyword in the amendment text (community grants policy is not one of the 8 clusters)."
+ },
+ {
+  "id": "786a956b8072",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Master Accommodation Plan (Alternate Work Strategies) item to the next Municipal Council meeting for disposition.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-07-19 committee item 4.1: 10-4 uniquely matches 'the consideration of the entire matter of Item 4.1 BE REFERRED ... for disposition' -- a pure, content-free referral (DEFER_RE fires, no AFFIRM elsewhere), correctly unclear."
+ },
+ {
+  "id": "7cbee56b7228",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed two individuals to the London Hydro Board of Directors and directed introduction of a ratifying by-law.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item title is 'Consideration of Appointment to the London Hydro Board of Directors ...' -- literal match on the GLOBAL_EXCLUDE phrase 'consideration of appointment to'. Correctly excluded as a personnel decision, not a policy position."
+ },
+ {
+  "id": "3b399e8b3680",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred a proposed one-time funding allocation to London Cares Homeless Response Services back to Civic Administration for more information on neighbourhood-engagement concerns and security staffing.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-07-18 committee item 2.3: the 5-1 vote is the amendment referring the London Cares funding allocation back to Civic Administration for more information -- a pure referral (DEFER_RE fires, no AFFIRM), correctly held to unclear. Body text contains 'Homeless Response Services', supporting the encampments issue tag even though direction stays null."
+ },
+ {
+  "id": "502a087945ac",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have approved an $80,000/year, 3-year financial contribution to the Middlesex London Ontario Health Team's Primary Care Recruitment Program; the motion failed.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-07-18 committee item 2.4: 'Motion to approve part b) and c)' (2-4, FAILED) -- '...financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $80,000 per year for 3 years'. Failed motion correctly read as a would-have-approved with no polarity assigned (not one of the 8 tracked issues; no housing/climate/budget keyword literally present -- 'Economic Development Reserve Fund' is not a budget-cluster phrase)."
+ },
+ {
+  "id": "857e7f5b870f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Adelaide Street North Improvements Environmental Study Report back to Civic Administration to include a no-widening option and a downstream mitigation discussion; the motion failed.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-07-18 Civic Works item 2.7: 1-5 FAILED uniquely matches the no-widening-option referral. Body text says 'no widening option', not the literal transit-cluster keyword 'road widening' -- issue=none is the vocabulary-faithful call per issue-rules.ts's literal-match design, even though a human reading would connect this to transit/roads."
+ },
+ {
+  "id": "5e06de50fe7f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a note to the Adelaide Street North clause that any future corridor widening be subject to the Master Mobility Plan and future Development Charges By-laws.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against the same item: 4-2 uniquely matches the added note tying any future 'corridor widening' to the Master Mobility Plan/DC By-laws. 'Corridor widening' is not the literal 'road widening' keyword, so issue=none stands for the same vocabulary-fidelity reason as 857e7f5b870f. No AFFIRM_RE verb of its own (an added note, not an approve/deny), correctly unclear."
+ },
+ {
+  "id": "4de7d3a8ffb4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to proceed with decommissioning Thames Pool, consult on replacement amenities, study a new indoor pool location, and cap related costs at $1.92 million.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-07-18 committee item 4.2, the item's only substantive vote (5-1). No tracked-issue keyword present (pool/parks/recreation is not one of the 8 clusters; 'combined budget of $1.92 million' does not match any budget-cluster phrase)."
+ },
+ {
+  "id": "7c7f0d7e4b18",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved hearing a delegation from M. Wallace (London Development Institute) on the Mobility Master Plan item.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-07-18 Civic Works item 4.3: three motions share the '(5 to 1)' result string with two different voter sets. This id's own voter set (Nays: Trosow only) is unique to the delegation-hearing motion, cross-checked against data/votes/_all-motions.json's motionText for this id ('Motion to approve the request for delegation...'). Correctly procedural/issue=none -- the delegation motion's own text carries no topic content."
+ },
+ {
+  "id": "f2e8250fa897",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested Civic Administration remove the Mode Target Share Option 1 item from the Mobility Master Plan staff report.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against the same item: this id's own _all-motions.json motionText is literally 'Motion to approve part b) of the clause', matching the Mode Target Share Option 1 removal request -- correctly distinguished from 668e28b03700 (part a). No literal issue keyword in this clause's body (report title says 'Master Mobility Plan', reversed word order from the tracked keyword 'mobility master plan', so no match either way)."
+ },
+ {
+  "id": "668e28b03700",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the Mobility Master Plan Update staff report for information.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against the same item: this id's own _all-motions.json motionText is literally 'Motion to approve part a) of the clause' (the staff report BE RECEIVED), sharing a voter set with f2e8250fa897 but independently disambiguated by the ground-truth motionText field, not by guesswork. Same reversed-word-order non-match on 'mobility master plan' as above -- issue=none is the literal-vocabulary-faithful call."
+ },
+ {
+  "id": "18389effc014",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred Councillor Franke's Climate Emergency Action Plan - Phase Out Gas communications to Civic Administration for review.",
+  "confidence": "high",
+  "quote": "the communications included on the Added Agenda from Councillor S. Franke, related to Climate Emergency Action Plan - Phase Out Gas, BE REFERRED to the Civic Administration for review",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Quote is a verbatim, exact match to the referral clause ('...BE REFERRED to the Civic Administration for review'). DEFER_RE fires with no AFFIRM elsewhere in the clause, so unclear polarity is correct even though issue=climate is well-supported by the literal 'Climate Emergency Action Plan' phrase in the body."
+ },
+ {
+  "id": "3c438e93588a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have repealed five listed Council Policies (e.g. Athletic Travel Grants, Landing of Helicopters) as part of the Council Policy Manual Review; the motion failed on a tie.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Item concerns unrelated Council Policies (Athletic Travel Grants, Landing of Helicopters, etc.) via a 49-policy governance review; none of the repealed policies are housing/climate/transit/etc. content. issue=none correctly held."
+ },
+ {
+  "id": "7f0f0cbcc469",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Introduced a zoning by-law amendment rezoning 599-601 Richmond Street to a Business District Commercial Special Provision zone and directed staff to work with the applicant on including affordable housing units in the development.",
+  "confidence": "high",
+  "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject lands FROM a Business District Commercial Special Provision Bonus Zone (BDC(1)*B-87) Zone TO a Business District Commercial Special Provision (BDC(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-07-17 Planning item 3.10, the item's only substantive vote (4-1). Quote is a verbatim, exact match to part a) of the operative clause. Body text also contains the literal housing-cluster phrase 'affordable housing' (part b), directing staff to include affordable units) independent of the structural Z-9607 code match, giving a doubly-supported housing tag. Net effect (rezoning approved + affordable-housing directive) is unambiguously expansive."
+ },
+ {
+  "id": "492e6a3e0c3c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed four individuals as voting members of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item title is 'Consideration of Appointments to the London Community Advisory Committees' -- literal GLOBAL_EXCLUDE match on 'consideration of appointment[s] to'. Correctly a personnel decision, not a DIAO policy position."
+ },
+ {
+  "id": "99e3dd28c53e",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a zoning by-law amendment extending the Temporary Use Zone at 221 Queens Avenue for up to three more years.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "downgraded",
+  "verifierNote": "REFUTED. Read the full 221 Queens Avenue record across three meetings (2023-06-12 committee, 2023-06-27 Council, 2023-07-17 committee). The T-69 'temporary use' being extended is explicitly a commercial SURFACE PARKING LOT, not housing. The city's own staff reasoning at 2023-06-12/06-27 states verbatim: 'the request to extend the temporary zone for a period of three (3) years ... does not encourage long-term redevelopment of the site in support of achieving London's Housing Pledge target of 47,000 units by 2031' and recommends only a 1-year extension instead, specifically 'to allow existing users of the surface commercial parking lot to make alternative parking arrangements while encouraging long-term redevelopment ... to a more intense, transit-supportive use ... that generates new housing units in the Downtown Core.' The July 17 vote this record represents grants the FULL 3-year extension anyway (notwithstanding the Director's recommendation), i.e. the more parking-lot-preserving, less housing-redevelopment-friendly outcome on the city's own terms. The classifier's 'expansive' label came from the engine's generic application-approval fallback (AFFIRM_RE firing on 'BE INTRODUCED') with no actual housing-content signal -- this is exactly the title-vs-operative-clause / generic-fallback mismatch trap: 'approved a housing-tagged item' does not mean 'approved more housing' when the item is extending a parking lot's life against staff's own housing-pledge reasoning. I cannot supply a clean, unambiguous quote for a confident 'restrictive' flip either, since the July 17 clause's OWN stated reasons assert conformity rather than restating the anti-housing framing (the record shows the committee's position shifted after an enhanced landscaping-plan concession was negotiated in the intervening referral). Downgraded polarity/axis to null rather than guess a direction I can't fully substantiate from the operative clause's own text."
+ },
+ {
+  "id": "33d58ac12201",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a new part to the motion approving a heritage alteration application to install asphalt shingles (or an alternate composite material) on the roof of 39 Carfrae Street.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-07-17 Planning item 4.3: 3-2, matching the amendment adding the asphalt-shingle roof approval as new part b). Heritage alteration is not one of the 8 tracked issues; issue=none correct."
+ },
+ {
+  "id": "7663dd403df0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the amended motion's part b), permitting a heritage alteration to install asphalt shingles (or an alternate composite material) on the roof of 39 Carfrae Street.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against the same item: a second 3-2 vote with an identical voter set formally approves part b) of the now-amended motion (a redundant procedural confirmation of the same substance as 33d58ac12201). Same non-tracked-issue reasoning applies."
+ },
+ {
+  "id": "f2c54bf602ad",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Took no action on a specific item within a communication listed under Communications and Petitions.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item is 'Communications and Petitions' at 2023-06-27 Council, 14-1 -- a 'took no action' procedural item with no substantive content to classify. issue=none/unclear correct."
+ },
+ {
+  "id": "0b93863bdc21",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved continuing the Blackfriars Bridge in its current configuration (Option 1) and submitted that outcome to the Ontario Ministry of Environment, Conservation and Parks as required by the prior environmental assessment.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-06-27 Council item 8.1.8, cross-checked against data/votes/_all-motions.json for this id (unique 8-7 result, only candidate in the item). Body text ('continue with the current bridge configuration') contains no transit-cluster keyword ('transit', 'road widening', etc.), so issue=none is the literal-vocabulary-faithful call despite the topical connection to roads/transit."
+ },
+ {
+  "id": "9d9c8a2b50b2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Suspended the Council Procedure By-law's rule against speaking more than once, for this item.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Procedural speaking-rule suspension at 2023-06-27 Council (12-3), falls under governance-of-council procedure; no substantive content to classify."
+ },
+ {
+  "id": "5debd3db3905",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Ryan Gauss to the London Police Services Board for the term ending November 14, 2026.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item title '(5.1) Consideration of Appointment to the London Police Services Board' -- literal GLOBAL_EXCLUDE match. Correctly a personnel appointment, not a policing policy position (per the codebase's own documented Police Services Board trap)."
+ },
+ {
+  "id": "15ebb068b60b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have appointed Councillors J. Pribil and P. Van Meerbergen to the Kettle Creek Conservation Authority; the motion failed.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-06-27 Council item 8.3.11: the unique 1-13 FAILED result matches 'Motion to approve part c)' -- appointing Pribil and Van Meerbergen to Kettle Creek Conservation Authority. Pure personnel appointment with no other substantive content in the clause; the classifier's override of the engine's 'climate' mis-tag (which fired only on the phrase 'Conservation Authority') is correct."
+ },
+ {
+  "id": "c3af45aa8db7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have appointed Councillor H. McAlister to the Lower Thames Valley Conservation Authority, following a reconsideration vote; the motion failed with no support.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against the same item: the unique 0-13 FAILED result matches the reconsideration vote re-putting McAlister's appointment to Lower Thames Valley Conservation Authority. Same pure-appointment reasoning as 15ebb068b60b; override confirmed correct."
+ },
+ {
+  "id": "36f22d76c71b",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the 221 Queens Avenue temporary-zoning application back to the Planning and Environment Committee for further discussion on an enhanced landscaping plan and a possible three-year extension.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-06-27 Council item 8.4.4: the unique 10-3 result matches the referral of the 221 Queens Avenue application back to Planning and Environment Committee 'for additional discussion ... including the incorporation of an enhanced landscaping plan and the consideration of a three (3) year extension.' Pure referral (DEFER_RE fires, no AFFIRM), correctly unclear -- this is the referral that led to the eventual (and, per 8fb0cfa6e7c6 above, questionably-labeled) July 17 approval."
+ },
+ {
+  "id": "41a162dae8e3",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Wonderland Road South rezoning clause to note that a noise/vibration study and a shadow study would be required through the Site Plan Approval process.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-06-27 Council item 8.5.10: the unique 12-1 result matches the amendment adding a noise/vibration study and shadow study requirement to Clause 3.4. No approve/deny verb of its own (an added condition, not a decision), correctly unclear."
+ },
+ {
+  "id": "c395f863144d",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved the amended Wonderland Road South rezoning package: refusing the applicant's original 16-storey/office proposal but approving a reduced alternative permitting up to 12 storeys and rezoning the site from a Regional Shopping Area zone to zones that permit residential development; the motion failed.",
+  "confidence": "medium",
+  "quote": "Municipal Council supports the proposed by-law appended to the staff report dated June 19, 2023 as Appendix \u201cA\u201d at the Municipal Council meeting to be held on June 27, 2023 to amend The Official Plan, The London Plan to ADD a Specific Area Policy in the Shopping Area Place Type applicable to the subject lands to permit a maximum building height of 12 storeys along Wonderland Road South and Viscount Road",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified in full against 2023-06-27 Council item 8.5.10. The base clause (parts a-d, carried into this item verbatim from the 2023-06-19 committee recommendation) refuses the original 16-storey/30,000sqm-office request (parts a,b) but supports a reduced alternative: part c) adds a 12-storey Official Plan policy, part d) rezones FROM a pure commercial 'Regional Shopping Area' zone TO holding residential (R5/R8/R9) zones. This net expansion of residential permission on a site that previously had none supports the classifier's medium-confidence 'expansive' read on the density axis. Confirmed the quote is a verbatim exact substring of the base clause's part c), present in the SAME council meeting JSON (the base clause is restated in full before the amendment and final vote), not borrowed from a different meeting. Separately verified: even the automated engine's own generic fallback (bare 'BE APPROVED' with no colon, so WRAPPER_PREAMBLE_RE's colon requirement does not strip this wrapper) would independently land on the same expansive/application-approval result, corroborating the polarity."
+ },
+ {
+  "id": "0f2aeb66ed5e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted Councillor A. Hopkins to speak twice on the 599-601 Richmond Street heritage designation matter, notwithstanding the Council Procedure By-law.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked against data/votes/_all-motions.json: exact motionText match ('Councillor A. Hopkins BE PERMITTED to speak twice ...'), a pure procedural speaking-rule motion with no substantive content. issue=none correct."
+ },
+ {
+  "id": "07129ec3b998",
+  "issue": "encampments",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a $255,000 funding allocation from the Social Services Reserve Fund and a $100,000 contract amendment with London Cares and CMHA to support the Phase 1 Encampment Response.",
+  "confidence": "high",
+  "quote": "the funding allocation, from the Social Services Reserve Fund, for the total municipal allocation amount of up to $255,000.00 BE APPROVED to support a portion of the costs of the Phase 1 Encampment Response on a temporary basis",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-06-27 Council item 8.8.15, the item's only substantive vote (12-1). Quote is a verbatim, exact match to part a) of the operative clause. Clean, unambiguous funding approval for the encampment response."
+ },
+ {
+  "id": "c0fb71cc141b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to include a three-year, year-over-year comparison of Winter Response Program bed/shelter usage and costs in its August outcome report.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-06-27 Council item 8.8.16, the item's only vote (12-1): a pure data/report-back request (3-year bed-usage comparison for the August Outcome Report), with no 'homeless'/'encampment'/'shelter' keyword anywhere in its own body text (only 'Winter Response Program' and 'bed days/nights'). issue=none and axis=null both correct."
+ },
+ {
+  "id": "d925b7fd698c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a property acquisition, parking-loss compensation, and temporary easement at 1080 Dundas Street for the East London Link road project, and approved its financing.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-06-27 Council item 9.1 (closed session report): the unique 11-1 result matches sub-item 1 (1080 Dundas St property acquisition for the East London Link road project), distinguishing it from an unrelated 12-0 unanimous sub-item in the same closed-session report bundle. Body text says 'future road improvements', not the literal transit-cluster keyword 'road widening', so issue=none is the vocabulary-faithful call despite the topical road-project connection."
+ },
+ {
+  "id": "3e9ba59807da",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved $100,000 in one-time funding from the Operating Budget Contingency Reserve for the Holly Jolly Market and Downtown for the Holidays events.",
+  "confidence": "high",
+  "quote": "one-time funding of $100,000 in support of the Holly Jolly Market and Downtown for the Holidays events BE APPROVED from the Operating Budget Contingency Reserve",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked against data/votes/_all-motions.json's own motionText for this id: exact match to 'Motion to approve part b) of the clause' -- the Holly Jolly Market/Downtown for the Holidays funding, distinguishing it from part a) (BE RECEIVED) which shares the same 11-1 result string but a different Nay voter (Stevenson vs. Trosow). Quote is a verbatim, exact match. Body text contains the literal downtown-cluster keyword 'Downtown', and the funding approval is unambiguous."
+ },
+ {
+  "id": "9c326f3a3ba5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Councillor P. Van Meerbergen to the Kettle Creek Conservation Authority Board of Directors.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-06-20 committee item 4.1, the unique 9-4 result in the item (Van Meerbergen appointed to Kettle Creek Conservation Authority). Pure appointment with no other content; the classifier's override of the engine's 'climate' mis-tag is correct, same reasoning as 15ebb068b60b/c3af45aa8db7."
+ },
+ {
+  "id": "6ab93fdf7a97",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have given notice of intention to designate 599-601 Richmond Street as a heritage property under the Ontario Heritage Act; the motion failed.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Item is a heritage-designation notice-of-intention vote for 599-601 Richmond St (2-3 FAILED, unique in the item). Heritage designation is not one of the 8 tracked issues; issue=none correct."
+ },
+ {
+  "id": "82707aa8e7c4",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Refused the applicant's original request for a 16-storey building with 30,000 sq.m of office space at 755, 785 & 815 Wonderland Road South, but approved a reduced alternative permitting up to 12 storeys and rezoning the site from a Regional Shopping Area zone to zones that permit residential development.",
+  "confidence": "medium",
+  "quote": "Municipal Council supports the proposed by-law appended to the staff report dated June 19, 2023 as Appendix \u201cA\u201d at the Municipal Council meeting to be held on June 27, 2023 to amend The Official Plan, The London Plan to ADD a Specific Area Policy in the Shopping Area Place Type applicable to the subject lands to permit a maximum building height of 12 storeys along Wonderland Road South and Viscount Road",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified in full against 2023-06-19 Planning item 3.4 (committee stage of the same Wonderland Road South application as c395f863144d), the item's only substantive vote (4-1), 'on the recommendation of the Director, Planning and Development' -- i.e. staff itself recommended the refuse-big/approve-reduced-alternative structure. Same net-expansion-of-residential-zoning reasoning as c395f863144d applies, with even stronger support since this is the staff-recommended version (not a 'notwithstanding staff' override). Quote is a verbatim, exact match to part c) of the operative clause."
+ },
+ {
+  "id": "d0375364f0e1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved continuing the Blackfriars Bridge in its current configuration (Option 1) and submitted that outcome to the Ontario Ministry of Environment, Conservation and Parks as required by the prior environmental assessment.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked against data/votes/_all-motions.json: exact motionText match ('Motion to approve parts a) and b) of the motion', 4-1), the committee-stage predecessor to 43a896510b51. Same reasoning applies: no literal transit-cluster keyword in the body ('continue with the current bridge configuration'), issue=none correct."
+ },
+ {
+  "id": "233f37c48890",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Deferred delegation requests from V.R. Anber and A. Kanji on the Fireworks By-law item to a future public participation meeting.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-06-13 committee item 4.2, the unique 5-1 result (deferring V.R. Anber/A. Kanji delegation requests). Fireworks by-law is not one of the 8 tracked issues; issue=none correct."
+ },
+ {
+  "id": "5befdad28048",
+  "issue": "encampments",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a $255,000 funding allocation from the Social Services Reserve Fund and a $100,000 contract amendment with London Cares and CMHA to support the Phase 1 Encampment Response.",
+  "confidence": "high",
+  "quote": "the funding allocation, from the Social Services Reserve Fund, for the total municipal allocation amount of up to $255,000.00 BE APPROVED to support a portion of the costs of the Phase 1 Encampment Response on a temporary basis",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-06-13 committee item 4.3, the item's only substantive vote (4-1). Quote is a verbatim, exact match, identical substance to 6d85048d8e5e (committee-stage predecessor of the same encampment funding item). Clean, unambiguous funding approval."
+ },
+ {
+  "id": "150bc658fe89",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to include a three-year, year-over-year comparison of Winter Response Program bed/shelter usage and costs in its August outcome report.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Same reasoning as c0fb71cc141b (its Council-stage successor): a pure data/report-back request with no encampments-cluster keyword in its own body text. issue=none and axis=null both correct."
+ },
+ {
+  "id": "cb1c5bf49602",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Community Improvement Plan for Industrial Land Uses to delete the Industrial Land Corridor Enhancement Grant Program.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-06-12 Planning item 3.2: the whatAYeaDid text ('...delete the Industrial Land Corridor Enhancement Grant Program') matches part b)i) of the operative clause verbatim. No budget-cluster keyword phrase present in that specific sub-clause ('Multi-Year Budget' appears only in an adjacent, non-matching sub-clause); issue=none correct."
+ }
 ]

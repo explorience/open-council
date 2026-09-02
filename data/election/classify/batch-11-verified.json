@@ -1,572 +1,572 @@
 [
-  {
-    "id": "2208de181f92",
-    "issue": "housing",
-    "axis": "density",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved rezoning 415-421 Boler Road from a Residential R1 single-detached zone to a Residential R8 special-provision zone, a higher-density residential class.",
-    "confidence": "medium",
-    "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting on April 1, 2025, to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, The London Plan, to change the zoning of the subject property FROM a Residential R1 (R1-8) Zone TO a Residential R8 Special Provision (R8-4(_)*H21) Zone",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Verified against source meeting JSON (2025-03-18 Planning & Environment Committee, item 3.4, 415-421 Boler Road Z-9536): a single voted motion, 3-2 tally (Lewis/Lehman/Cuddy yea; Hillier/Peloza nay) matches exactly. The quote is verbatim and is the motion's only rezoning clause (R1(R1-8) -> R8 Special Provision, a higher-density class). Density axis / expansive polarity confirmed."
-  },
-  {
-    "id": "64f5fde436e4",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a requirement that Civic Administration present a future report to the committee providing the executed Emergency Treatment Fund contracts for information.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to present a report at a future meeting of the Community and Protective Services Committee, providing the above noted executed contracts for information.",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "3f10a2dfc14b",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have approved a $610,577 single-source procurement to continue limited day drop-in space services at The Ark Aid Street Mission through March 2026; the sub-motion (\"That part c) of the motion BE APPROVED\") FAILED 2-2 (McAlister, Trosow in favour; Cuddy, Pribil opposed).",
-    "confidence": "medium",
-    "quote": "a Single Source Procurement BE APPROVED at a total estimated cost of up to $610,577 (excluding HST) for the period of April 1, 2025, to March 31, 2026, to continue limited day drop-in space at The Ark Aid Street Mission \u2013 \"Day Drop-In\" (SS-2025-66) utilizing Housing Stability Services funding",
-    "flags": [],
-    "verdict": "corrected",
-    "verifierNote": "Source JSON (2025-03-17 Community & Protective Services Committee, item 2.11) confirms the manifest's own result string, 'Motion Failed (2 to 2)', for the specific sub-motion \"That part c) of the motion BE APPROVED\" (the $610,577 Day Drop-In line). The classifier's original whatAYeaDid stated in the past tense 'Approved a $610,577 single-source procurement...' as an accomplished fact -- false, since the vote failed. This is the exact same fact pattern as sibling entry d2aa95b9049a in this batch (a failed funding motion), which the classifier correctly hedged with 'Would have... the motion failed' -- 3f10a2dfc14b just wasn't given the same hedge. Quote, issue, axis and polarity (what a YEA vote meant, on its content) are accurate and left unchanged; only the whatAYeaDid wording is corrected to state plainly that the motion failed, per the no-false-statement bar."
-  },
-  {
-    "id": "024ed04bb109",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a request that the Mayor write to Middlesex County Mayors asking the county to contribute toward the City's $80,000 physician-recruitment funding.",
-    "confidence": "high",
-    "quote": "The Mayor BE REQUESTED to write a letter to Middlesex County Mayors requesting that the county contribute a percentage of the $80,000 London is contributing for the recruitment of doctors to London Middlesex and surrounding area.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "3abb8d235c1f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved the amended Primary Care Recruitment and Retention Program motion, combining the $80,000 funding contribution and the request to Middlesex County Mayors.",
-    "confidence": "high",
-    "quote": "That the amendment, as amended, be approved.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "4b8cd147f675",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved the full Primary Care Recruitment and Retention Program motion as amended.",
-    "confidence": "high",
-    "quote": "That the motion, as amended, be approved.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "d80fd24c6511",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a requirement that Civic Administration report back to the committee with the executed outdoor-basic-needs contracts, for information.",
-    "confidence": "high",
-    "quote": "The Civic Administration BE DIRECTED to present a report at a future meeting of the Community and Protective Services Committee, providing the above noted executed contracts for information.",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON (2025-03-17 CPSC, item 2.9, Provision of Outdoor Basic Needs) confirms a report-back/information directive, 3-1. Pure informational ask -- correctly left unclear."
-  },
-  {
-    "id": "d243b5c3cf40",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved requesting a Minister's Zoning Order designating the lands at 4423 Highbury Avenue South for Light Industrial employment uses.",
-    "confidence": "high",
-    "quote": "the request to the Minister of Municipal Affairs and Housing to issue a Minister's Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South, to designate these lands for Light Industrial uses, accommodating essential employment activities BE APPROVED",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "412099391b4e",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Added a requirement that Civic Administration report back on the City's debt levels and debt servicing costs, including projections and graphs.",
-    "confidence": "high",
-    "quote": "Civic Administration BE DIRECTED to report back to the April 30, 2025 meeting of the Infrastructure and Corporate Services Committee with respect to the City's debt levels and debt servicing costs",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "d02ef8fcac88",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved the amended motion receiving the 2025 Assessment Growth Funding Allocation Report and directing a debt-levels report-back.",
-    "confidence": "high",
-    "quote": "That the motion, as amended, BE APPROVED.",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "617e83384b91",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Appointed Mayor J. Morgan to the London Public Library Board for the term ending November 14, 2026.",
-    "confidence": "high",
-    "quote": "Mayor J. Morgan BE APPOINTED to the London Public Library Board for the term ending November 14, 2026.",
-    "flags": [
-      "appointment"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "8eea0d265680",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Amended the referral of the Body-Rub Attendant Licensing report to remove the Supreme Court reference and instead direct Civic Administration to report back with legal advice.",
-    "confidence": "high",
-    "quote": "that the motion be amended to remove the reference to the Supreme Court's ruling on Bill C-36 and its purpose for referral, and TO DIRECT Civic Administration to report back with legal advice on this matter.",
-    "flags": [
-      "referral",
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "acb8d2372f45",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the Adult Entertainment Body-Rub Attendant Licensing report to Civic Administration to report back with legal advice.",
-    "confidence": "high",
-    "quote": "That the staff report, dated February 18, 2025, related to an Adult Entertainment Body-Rub Attendant Licensing Information Report BE REFERRED to Civic Administration to report back to a future meeting of the Community and Protective Services Committee with legal advice with respect to this matter.",
-    "flags": [
-      "referral",
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "706d796b889d",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved introducing a by-law updating the Eldon House Corporation's board composition and committee references.",
-    "confidence": "high",
-    "quote": "the proposed by-law appended as Appendix 'B' to the staff report dated February 25, 2025... BE INTRODUCED at the Municipal Council meeting to be held on March 4, 2025, to update references to the board, section 3.1 Board Composition and section 4.2(12) committees of the board",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "7bf2c413ec40",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved rezoning 1484 Gore Road from a Residential R1 zone to a Residential R5 special-provision zone, permitting residential intensification of the site.",
-    "confidence": "low",
-    "quote": null,
-    "flags": [],
-    "verdict": "downgraded",
-    "verifierNote": "Source JSON (2025-02-19 Planning & Environment Committee, item 3.1, 1484 Gore Road Z-25002) has five separate motions under this item: (1) the main R1->R5 rezoning motion itself -- NO recorded vote (blank); (2)-(3) procedural open/close public-participation votes, 4-0; (4) an AMENDMENT, 'the Site Plan Authority BE REQUESTED to consider limiting western-facing windows to the ground floor only' -- 3-1 (Lewis, Hillier, Cuddy yea; Peloza nay); (5) 'the motion be approved, as amended' -- 4-0 UNANIMOUS, all four members including Peloza voting yes. The manifest's result string 'Motion Passed (3 to 1)' uniquely and only matches motion (4), the window-placement amendment -- not the R1->R5 density rezoning. The classifier's original quote/whatAYeaDid ('permit residential intensification...') is the preamble reasoning text of the never-separately-voted main motion (1), wrongly attached to the unrelated 3-1 window vote. Published as classified, this would have shown Councillor E. Peloza voting NAY on 'increased density,' when Peloza actually voted YES on the substantive rezoning (unanimous 4-0) and dissented only on a window-placement site-plan detail -- a false statement about his vote. Downgraded: issue kept as housing (the item is structurally a Z-code rezoning) but axis/polarity/quote set to null/none -- the window-amendment clause itself ('BE REQUESTED to consider...') has no AFFIRM/DENY verb and decided a design detail, not density."
-  },
-  {
-    "id": "d4d77eee9ffb",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved introducing a by-law amendment adding a $0.35 transaction fee for the Honk Mobile parking-payment vendor and delegating authority to approve future fee amendments.",
-    "confidence": "high",
-    "quote": "the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on March 4, 2025, to amend the Various Fees and Charges By-law to include a transaction fee of $0.35 for the City-approved mobile parking fee vendor, Honk Mobile Inc.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "32bc05b2830a",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred part d) \u2014 a proposed funding increase to continue Ark Aid day drop-in space \u2014 to Civic Administration to examine options for beds instead of day drop-in space.",
-    "confidence": "high",
-    "quote": "that part d) relating to an amendment to the existing Municipal Purchase of Service agreement with The Ark Aid Street Mission for the period of April 1, 2025 to March 31, 2026 BE REFERRED to Civic Administration to examine options for beds in place of day drop-in spaces, with any service provider who can provide the beds without subcontracting;",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON (item 8.1.6, UHEI) confirms this is the Rahman/Lehman 'refer part d)' motion, 10-2 (Hopkins, Trosow nay) -- distinct from the OTHER 10-2 vote on the same item (see cf4aa6b663e1, now also downgraded). A pure referral (BE REFERRED, no affirmed content) -- correctly left unclear."
-  },
-  {
-    "id": "cf4aa6b663e1",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred the $1.4 million Housing Stability Services budget item to a future meeting for an operational plan, while directing Civic Administration to continue existing basic-human-needs services with existing funding through April 30, 2025.",
-    "confidence": "low",
-    "quote": "Civic Administration BE DIRECTED to continue to provide existing basic human needs provisions with this funding until April 30, 2025",
-    "flags": [
-      "referral"
-    ],
-    "verdict": "downgraded",
-    "verifierNote": "Source JSON (2025-02-11 Council, item 8.1.6, UHEI) confirms this is the McAlister/Stevenson 'Motion to refer part h)' (10-2: Hopkins, Lewis, Hillier, Van Meerbergen, Lehman, McAlister, Cuddy, Stevenson, Ferreira, Rahman yea; Peloza, Trosow nay) -- content and quote match verbatim. But the clause's primary substance is a REFERRAL: the new $1,400,000 funding ask is 'BE REFERRED to a future meeting... for an operational plan' -- genuinely deferred, no decision on any increase. The only decided element is 'Civic Administration BE DIRECTED to continue to provide EXISTING basic human needs provisions with this funding until April 30, 2025' -- maintaining status quo funding, not expanding it. Labelling a yea here as having 'expanded the encampment/homelessness response' overstates a vote whose substance was to defer the actual funding increase while keeping existing funding flowing. This is the 'committee-stage vs decision' risk pattern flagged in the verification brief. Downgraded to polarity null / axis null."
-  },
-  {
-    "id": "09630c801f1f",
-    "issue": "encampments",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Referred part b) \u2014 a proposed funding increase to continue 70 emergency shelter spaces at Ark Aid \u2014 to Civic Administration to report back on potential emergency shelter and drop-in space options.",
-    "confidence": "high",
-    "quote": "that part b) relating to an amendment to the existing Municipal Purchase of Service agreement with The Ark Aid Street Mission to a total estimated increase of up to $3,068,348 (excluding HST) for the period of April 1, 2025 to March 31, 2026 to continue 70 emergency shelter spaces to utilize the UHEI and Reaching Home incremental funding as per the Corporation of the City of London Procurement Policy Section 20.3 e) BE REFERRED to Civic Administration to report back regarding potential emergency shelter and drop-in spaces;",
-    "flags": [
-      "referral",
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON confirms the Ferreira/Stevenson 'refer part b)' motion (report back re: emergency shelter/drop-in options) passed 8-4. A referral plus report-back ask -- correctly left unclear."
-  },
-  {
-    "id": "d2aa95b9049a",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have directed Civic Administration to find $157,860 in funding for the Ark Aid Street Mission to provide 10 supported-housing spaces on Oxford Street; the motion failed.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to find a source of funding for an estimated total of $157,860 for the Ark Aid Street Mission to provide 10 spaces at their Oxford Street supported housing location;",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON (2025-02-11 Council, item 8.1.6) confirms 'That part e), as amended, BE APPROVED' FAILED 3-9 (Hopkins, Peloza, Trosow yea; all 9 others nay) -- matches manifest result exactly. Quote is verbatim and is the clause's entire operative content: directing staff to find $157,860 to fund 10 new supported-housing spaces, a genuine capacity/funding expansion. whatAYeaDid is correctly hedged ('Would have directed... the motion failed'). Confirmed."
-  },
-  {
-    "id": "2a7542829244",
-    "issue": "encampments",
-    "axis": "response-scale",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved extending funding agreements with Atlohsa Family Healing Services to temporarily expand indigenous-led outreach supports and services.",
-    "confidence": "high",
-    "quote": "an extension to the existing Municipal Purchase of Service agreement with Atlohsa Family Healing Services at a total estimated increase of up to $33,750 (excluding HST) for the period of January 1, 2025 to March 31, 2025 BE APPROVED to temporarily expand indigenous led outreach supports and services using the UHEI and Reaching Home incremental funding",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON (2025-02-11 Council, item 8.1.6) confirms 'parts f) and g) BE APPROVED' passed 9-3 with the exact roster shown (Hopkins, Lewis, Peloza, Lehman, McAlister, Cuddy, Trosow, Ferreira, Rahman yea; Hillier, Van Meerbergen, Stevenson nay). Quote is verbatim, matching part f), which explicitly reads 'BE APPROVED to temporarily expand indigenous led outreach supports and services' -- unambiguous expansive language. Confirmed."
-  },
-  {
-    "id": "9e0e611f18be",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved a heritage alteration permit allowing demolition of the existing building and construction of a proposed building at 66 Blackfriars Street, subject to tree-protection and design conditions.",
-    "confidence": "high",
-    "quote": "the application under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a proposed building... on the property at 66 Blackfriars Street... BE PERMITTED with the following terms and conditions",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "9bd0c8746c34",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have granted Councillor Trosow leave to move a motion related to the City's warming centres; the motion failed on a tie vote, so no substantive motion on warming centres was considered.",
-    "confidence": "high",
-    "quote": "That pursuant to section 18.4 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Trosow to move a motion related to the City of London's warming centres.",
-    "flags": [
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "0505f840ea66",
-    "issue": "transit",
-    "axis": "service-expansion",
-    "polarity": "expansive",
-    "whatAYeaDid": "Approved a $26.4 million construction contract for the East London Link and Municipal Infrastructure Improvements Phase 4 project, and approved a Transportation Services Licence Agreement with the London Transit Commission and Fanshawe College to construct a transit facility on Fanshawe College property.",
-    "confidence": "medium",
-    "quote": "the proposed by-law as appended to the staff report dated January 13, 2025 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on January 21, 2025 to approve the Transportation Services Licence Agreement between the City of London, London Transit Commission and Fanshawe College regarding the construction, maintenance and operations of a transit facility on Fanshawe College Property",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON (2025-01-13 Infrastructure & Corporate Services Committee, item 2.6) has a single voted motion, 3-1 (Rahman recused), matching exactly. Quote is verbatim from part b)i). whatAYeaDid accurately summarizes both the $26.4M East London Link contract award (part a) and the new Fanshawe College transit-facility licence agreement (part b), both decided in this one vote. Confirmed."
-  },
-  {
-    "id": "500c8cf6484f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have reduced the proposed suspension of Councillor Stevenson's remuneration, for a Code of Conduct breach, from 30 days to 5 days; the motion failed.",
-    "confidence": "high",
-    "quote": "the remuneration paid to Councillor S. Stevenson BE SUSPENDED for a period of 5 days",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "82a2d7611c5f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Suspended Councillor Stevenson's remuneration for 30 days following the Integrity Commissioner's finding of a Code of Conduct breach.",
-    "confidence": "high",
-    "quote": "that in consideration of the Integrity Commissioner's Findings regarding the breach of Council's Code of Conduct in the above noted report, the remuneration paid to Councillor S. Stevenson BE SUSPENDED for a period of 30 days;",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "f4b60404a1b4",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Removed the property at 1927 Richmond Street from the Register of Cultural Heritage Resources.",
-    "confidence": "high",
-    "quote": "the property located at 1927 Richmond Street BE REMOVED from the Register of Cultural Heritage Resources",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "6cf201881dcb",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved introducing a zoning by-law amendment rezoning 1922 Highland Heights and 205 Commissioners Road East from a Residential R1 zone to a Residential R1 Special Provision zone and a Holding Open Space Special Provision zone.",
-    "confidence": "low",
-    "quote": "the proposed revised, attached, by-law as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on December 17, 2024 to amend Zoning By-law No. Z.-1... to change the zoning of the subject properties at 1922 Highland Heights and 205 Commissioners Road East FROM a Residential R1 (R1-9) Zone TO Residential R1 Special Provision (R1-9(_)) Zone and a Holding Open Space Special Provision (h-101*OS1(_)) Zone",
-    "flags": [],
-    "verdict": "downgraded",
-    "verifierNote": "Source JSON (2024-12-17 Council, item 8.1.17, 1922 Highland Heights & 205 Commissioners Rd E) confirms the 9-5 vote and quote are verbatim. But the motion's own operative reasoning clause states the rezoning 'facilitates the development of a maintenance building that is accessory to the existing golf course' (Highland Golf & Country Club) -- a golf-course accessory building, not a housing project, despite the technical 'Residential' zone label (R1 -> R1 Special Provision + a new Holding Open Space Special Provision zone). This is also exactly the 'R1 + Open-Space-holding addition' pattern the classifier's own batch notes list as one of the ambiguous special-provision rezonings resolved to null elsewhere in this same batch -- inconsistently signed 'expansive' here purely because the generic BE-INTRODUCED/application-approval fallback fired. Downgraded: issue -> none (not a housing-supply/density decision by the motion's own stated purpose), polarity/axis -> null, matching the classifier's own established standard for this exact pattern."
-  },
-  {
-    "id": "331bb35d80e2",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Replaced the developer's committed sewer-line construction for Urban Roots with a cash donation of an amount to be determined later, as part of the 21-41 Meadowlily Road North rezoning file.",
-    "confidence": "high",
-    "quote": "a donation to Urban Roots by Royal Premier Homes, the amount and specific project allocation to be determined by the respective parties at a later date",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON (item 8.1.18, 21-41 Meadowlily Rd) confirms this is the Hillier/Rahman-opposed amendment swapping a committed sewer line for a to-be-determined cash donation to Urban Roots, 13-2. A community-benefit swap of unspecified size with no stated direction (more/less housing-friendly) -- correctly left unclear."
-  },
-  {
-    "id": "70cd8d04ee9d",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved introducing a zoning by-law amendment rezoning 21-41 Meadowlily Road North and 20 Norlan Avenue from a Holding Residential R5 Special Provision Bonus zone to a Holding Residential R5 Special Provision zone.",
-    "confidence": "low",
-    "quote": "the proposed revised, attached, by-law BE INTRODUCED at the Municipal Council meeting to be held on December 17, 2024, to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Holding Residential R5 Special Provision Bonus (h-17*h-100*R5-7(26)*B-94) Zone TO a Holding Residential R5 Special Provision (h*R5-7(26)) Zone",
-    "flags": [],
-    "verdict": "downgraded",
-    "verifierNote": "Source JSON (2024-12-17 Council, item 8.1.18, 21-41 Meadowlily Rd N & 20 Norlan Ave) confirms this is the 'item 18... BE APPROVED in part' motion, 11-4 (Morgan, Lewis, Hillier, Van Meerbergen, Lehman, McAlister, Cuddy, Stevenson, Pribil, Franke, Rahman yea) -- content and quote verbatim, and distinguishable from the OTHER 11-4 vote on this same item (the Urban-Roots-donation/playgrounds motion, already correctly classified null as b2b72641647f with a different roster). But the substance -- FROM a 'Holding Residential R5 Special Provision BONUS' zone TO a 'Holding Residential R5 Special Provision' zone (the bonus provision removed) -- is exactly the 'R5-Bonus removal' pattern the classifier's own batch notes list as an ambiguous case resolved to null elsewhere in this batch. Removing a density-bonus provision could be routine housekeeping once bonus conditions were fulfilled, or a real reduction in as-of-right development potential; the record doesn't resolve which. Downgraded to unclear for consistency with the classifier's own stated standard for this identical scenario."
-  },
-  {
-    "id": "b2b72641647f",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Confirmed the applicant's community-benefit commitments for the Meadowlily Road rezoning: new playgrounds for two elementary schools and a donation to Urban Roots.",
-    "confidence": "high",
-    "quote": "providing new playgrounds for Ealing and Trafalgar Elementary Public Schools; and, ii) a donation to Urban Roots by Royal Premier Homes, the amount and specific project allocation to be determined by the respective parties at a later date.",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON confirms this is the 11-4 'playgrounds + Urban Roots donation' commitment-confirmation motion on item 8.1.18, distinct from the OTHER 11-4 vote on the same item (the actual R5-Bonus-removal rezoning, see 70cd8d04ee9d). Confirming ancillary community-benefit commitments, not a density/use decision -- correctly left unclear."
-  },
-  {
-    "id": "7b6d29cb16f3",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have directed Civic Administration to develop an additional, smaller (approximately 1,130-hectare) Urban Growth Boundary land-supply scenario alongside the already-proposed 2,000-hectare scenario; the motion failed.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to develop an alternate scenario of approximately 1,130 hectares of developable land to accommodation planned growth",
-    "flags": [
-      "informational_ask"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON confirms the Franke/Hopkins amendment to add a smaller (1,130 ha) alternate UGB scenario alongside the 2,000 ha ask FAILED 7-8. whatAYeaDid correctly hedges 'would have... the motion failed.' A failed procedural add-a-scenario amendment -- correctly left unclear rather than signed as restrictive-on-density (it isn't a reduction, just a road not taken)."
-  },
-  {
-    "id": "6439c2ef24a2",
-    "issue": "climate",
-    "axis": "target-strength",
-    "polarity": "expansive",
-    "whatAYeaDid": "Would have directed Civic Administration to demonstrably use the City's climate emergency screening tool as part of the Urban Growth Boundary Review; the motion failed.",
-    "confidence": "medium",
-    "quote": "the Civic Administration BE DIRECTED to demonstrably utilize the climate emergency screening tool as part of the Urban Growth Boundary Review;",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON (2024-12-17 Council, item 8.1.22, Land Needs Assessment) confirms the Franke/Hopkins amendment adding a climate-emergency-screening-tool directive FAILED 6-9 with the exact roster shown; quote is verbatim. whatAYeaDid is correctly hedged ('Would have directed... the motion failed'). Confirmed."
-  },
-  {
-    "id": "b753dfd3c407",
-    "issue": "housing",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Requested the Mayor engage Southwestern Ontario Mayors and Wardens in discussion about regional growth, as part of the Land Needs Assessment / Official Plan Review process.",
-    "confidence": "medium",
-    "quote": "that the Mayor, BE REQUESTED to engage in a discussion with local Southwestern Ontario Mayors and Wardens regarding regional growth",
-    "flags": [
-      "informational_ask",
-      "procedural"
-    ],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON confirms the Franke/Hopkins amendment requesting the Mayor discuss regional growth with SW Ontario Mayors and Wardens passed 14-1 (Van Meerbergen lone nay) -- distinct from the OTHER 14-1 vote on the same item (the LNA-adoption-minus-b/d/e motion, see c32437ad0b43). A request for inter-municipal dialogue, not a housing decision -- correctly left unclear."
-  },
-  {
-    "id": "c32437ad0b43",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Adopted the Land Needs Assessment (Community Growth) for the Section 26 Official Plan Review of The London Plan, and received the Housing Supply Marketplace Analysis and related staff reports, excluding the Urban Growth Boundary expansion parts b), d), and e), which were voted separately.",
-    "confidence": "medium",
-    "quote": "the Land Needs Assessment (Community Growth) appended to the staff report dated December 3, 2024 as Appendix \"A\" BE ADOPTED for use as part of Phase 1B of the Section 26 Review of The London Plan",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON confirms 'item [20/]22, clause 3.14, as amended, BE APPROVED, with the exception of parts b), d) and e)' passed 14-1 (Trosow lone nay) -- distinguishable from the OTHER 14-1 vote on this same item (the SW Ontario Mayors/Wardens discussion motion, Van Meerbergen lone nay, already correctly classified null as b753dfd3c407). Quote verbatim (part a, LNA adoption). whatAYeaDid accurately describes the adoption plus the b/d/e carve-out. Confirmed."
-  },
-  {
-    "id": "6991a4e352fd",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Directed Civic Administration to initiate an Urban Growth Boundary Review to add approximately 1,476 hectares of developable land to accommodate planned housing growth.",
-    "confidence": "high",
-    "quote": "the Civic Administration BE DIRECTED to initiate an Urban Growth Boundary Review for inclusion of approximately 1,476 hectares of developable land to accommodate planned growth, consistent with the Land Needs Assessment (Community Growth) using a 30 year planning horizon",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON confirms 'part b) BE APPROVED' (Urban Growth Boundary Review, 1,476 ha) passed 10-5 with the exact roster shown. Quote is verbatim and is the sole content of this specific vote. Confirmed."
-  },
-  {
-    "id": "f256055d95cb",
-    "issue": "housing",
-    "axis": "application-approval",
-    "polarity": "expansive",
-    "whatAYeaDid": "Requested the Province support a further Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London's housing supply, and directed staff to develop an alternate 2,000-hectare growth scenario if that support is received.",
-    "confidence": "high",
-    "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London's new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Source JSON confirms 'parts d) and e) BE APPROVED' passed 8-7 with the exact roster shown. Quote is verbatim (part d, requesting the Province support a 2,000 ha UGB expansion). whatAYeaDid correctly folds in part e) (directing an alternate 2,000 ha scenario), decided in the same vote. Confirmed."
-  },
-  {
-    "id": "be08ecd1e8a4",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved applying to expropriate land needed for Phase 2 of the Wellington Gateway Project's civil works.",
-    "confidence": "high",
-    "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "a8e69c668a7e",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved introducing a by-law amendment replacing Schedule 'A' of the City's Special Events Policies and Procedures Manual.",
-    "confidence": "high",
-    "quote": "the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council Meeting to be held on December 17, 2024, to amend By-law No. CPOL.-142-394, as amended, being \"Special Events Policies and Procedures Manual\", by deleting and replacing Schedule \"A\"",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "e9169c48ca20",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved an amending agreement extending the City's funding of Film London through the London Economic Development Corporation Purchase of Services Agreement.",
-    "confidence": "high",
-    "quote": "an amending agreement (Schedule \"A2\") BE AUTHORIZED and BE APPROVED between The Corporation of the City of London and the London Economic Development Corporation for the purpose of extending funding for Film London",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "09480fbcf3ce",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved the final 14-ward electoral boundary map for the City of London (with three minor community-of-interest amendments), effective November 15, 2026.",
-    "confidence": "high",
-    "quote": "the boundaries for the fourteen (14) electoral wards detailed in Final Option 1, with the following amendments, BE APPROVED for the City of London, effective November 15, 2026",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "760886a53a9f",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved an amending agreement extending the City's funding of Film London through the London Economic Development Corporation Purchase of Services Agreement.",
-    "confidence": "high",
-    "quote": "an amending agreement (Schedule \"A2\") BE AUTHORIZED and BE APPROVED between The Corporation of the City of London and the London Economic Development Corporation for the purpose of extending funding for Film London",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "54439e08c928",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Would have amended the Ward Boundary Review to move an area between Ward 1 and Ward 14 into Ward 14; the motion failed.",
-    "confidence": "high",
-    "quote": "That Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between the proposed Ward 1 and proposed Ward 14 so that the area contained between Clarke Rd, Canadian National Railway, the Eastern City Limit, Hamilton Rd to the Thames River be incorporated into the proposed Ward 14 to better reflect communities of interest",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "23d2d69a1d94",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved a minor Ward Boundary Review amendment moving the Rowntree area, between Wellington Road South and Commissioners Road East, into proposed Ward 11.",
-    "confidence": "high",
-    "quote": "Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between proposed Ward 1 and proposed Ward 11 so that the area contained between Wellington Rd S and the Canadian National Railway adjacent to Adelaide St S (Rowntree Area) south to Commissioner Rd E be incorporated into proposed Ward 11",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  },
-  {
-    "id": "164f10cb21a2",
-    "issue": "none",
-    "axis": null,
-    "polarity": null,
-    "whatAYeaDid": "Approved a minor Ward Boundary Review amendment moving the area near Oxford Street East and Highbury Avenue North into proposed Ward 4.",
-    "confidence": "high",
-    "quote": "Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between proposed Ward 1 and proposed Ward 4 so that the area contained within Oxford St E, to Highbury Ave N, to Canadian Pacific Railway, to Adelaide St N be incorporated into proposed Ward 4",
-    "flags": [],
-    "verdict": "confirmed",
-    "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
-  }
+ {
+  "id": "0916f8b31055",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved rezoning 415-421 Boler Road from a Residential R1 single-detached zone to a Residential R8 special-provision zone, a higher-density residential class.",
+  "confidence": "medium",
+  "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting on April 1, 2025, to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, The London Plan, to change the zoning of the subject property FROM a Residential R1 (R1-8) Zone TO a Residential R8 Special Provision (R8-4(_)*H21) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against source meeting JSON (2025-03-18 Planning & Environment Committee, item 3.4, 415-421 Boler Road Z-9536): a single voted motion, 3-2 tally (Lewis/Lehman/Cuddy yea; Hillier/Peloza nay) matches exactly. The quote is verbatim and is the motion's only rezoning clause (R1(R1-8) -> R8 Special Provision, a higher-density class). Density axis / expansive polarity confirmed."
+ },
+ {
+  "id": "64f5fde436e4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a requirement that Civic Administration present a future report to the committee providing the executed Emergency Treatment Fund contracts for information.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to present a report at a future meeting of the Community and Protective Services Committee, providing the above noted executed contracts for information.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "3f10a2dfc14b",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved a $610,577 single-source procurement to continue limited day drop-in space services at The Ark Aid Street Mission through March 2026; the sub-motion (\"That part c) of the motion BE APPROVED\") FAILED 2-2 (McAlister, Trosow in favour; Cuddy, Pribil opposed).",
+  "confidence": "medium",
+  "quote": "a Single Source Procurement BE APPROVED at a total estimated cost of up to $610,577 (excluding HST) for the period of April 1, 2025, to March 31, 2026, to continue limited day drop-in space at The Ark Aid Street Mission \u2013 \"Day Drop-In\" (SS-2025-66) utilizing Housing Stability Services funding",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Source JSON (2025-03-17 Community & Protective Services Committee, item 2.11) confirms the manifest's own result string, 'Motion Failed (2 to 2)', for the specific sub-motion \"That part c) of the motion BE APPROVED\" (the $610,577 Day Drop-In line). The classifier's original whatAYeaDid stated in the past tense 'Approved a $610,577 single-source procurement...' as an accomplished fact -- false, since the vote failed. This is the exact same fact pattern as sibling entry d2aa95b9049a in this batch (a failed funding motion), which the classifier correctly hedged with 'Would have... the motion failed' -- 3f10a2dfc14b just wasn't given the same hedge. Quote, issue, axis and polarity (what a YEA vote meant, on its content) are accurate and left unchanged; only the whatAYeaDid wording is corrected to state plainly that the motion failed, per the no-false-statement bar."
+ },
+ {
+  "id": "024ed04bb109",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a request that the Mayor write to Middlesex County Mayors asking the county to contribute toward the City's $80,000 physician-recruitment funding.",
+  "confidence": "high",
+  "quote": "The Mayor BE REQUESTED to write a letter to Middlesex County Mayors requesting that the county contribute a percentage of the $80,000 London is contributing for the recruitment of doctors to London Middlesex and surrounding area.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "3abb8d235c1f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the amended Primary Care Recruitment and Retention Program motion, combining the $80,000 funding contribution and the request to Middlesex County Mayors.",
+  "confidence": "high",
+  "quote": "That the amendment, as amended, be approved.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "4b8cd147f675",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the full Primary Care Recruitment and Retention Program motion as amended.",
+  "confidence": "high",
+  "quote": "That the motion, as amended, be approved.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "d80fd24c6511",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a requirement that Civic Administration report back to the committee with the executed outdoor-basic-needs contracts, for information.",
+  "confidence": "high",
+  "quote": "The Civic Administration BE DIRECTED to present a report at a future meeting of the Community and Protective Services Committee, providing the above noted executed contracts for information.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON (2025-03-17 CPSC, item 2.9, Provision of Outdoor Basic Needs) confirms a report-back/information directive, 3-1. Pure informational ask -- correctly left unclear."
+ },
+ {
+  "id": "c7144ece622b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved requesting a Minister's Zoning Order designating the lands at 4423 Highbury Avenue South for Light Industrial employment uses.",
+  "confidence": "high",
+  "quote": "the request to the Minister of Municipal Affairs and Housing to issue a Minister's Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South, to designate these lands for Light Industrial uses, accommodating essential employment activities BE APPROVED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "0a3ff637eea2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a requirement that Civic Administration report back on the City's debt levels and debt servicing costs, including projections and graphs.",
+  "confidence": "high",
+  "quote": "Civic Administration BE DIRECTED to report back to the April 30, 2025 meeting of the Infrastructure and Corporate Services Committee with respect to the City's debt levels and debt servicing costs",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "d02ef8fcac88",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the amended motion receiving the 2025 Assessment Growth Funding Allocation Report and directing a debt-levels report-back.",
+  "confidence": "high",
+  "quote": "That the motion, as amended, BE APPROVED.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "617e83384b91",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Mayor J. Morgan to the London Public Library Board for the term ending November 14, 2026.",
+  "confidence": "high",
+  "quote": "Mayor J. Morgan BE APPOINTED to the London Public Library Board for the term ending November 14, 2026.",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "8eea0d265680",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the referral of the Body-Rub Attendant Licensing report to remove the Supreme Court reference and instead direct Civic Administration to report back with legal advice.",
+  "confidence": "high",
+  "quote": "that the motion be amended to remove the reference to the Supreme Court's ruling on Bill C-36 and its purpose for referral, and TO DIRECT Civic Administration to report back with legal advice on this matter.",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "acb8d2372f45",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Adult Entertainment Body-Rub Attendant Licensing report to Civic Administration to report back with legal advice.",
+  "confidence": "high",
+  "quote": "That the staff report, dated February 18, 2025, related to an Adult Entertainment Body-Rub Attendant Licensing Information Report BE REFERRED to Civic Administration to report back to a future meeting of the Community and Protective Services Committee with legal advice with respect to this matter.",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "d651fb7d8d49",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law updating the Eldon House Corporation's board composition and committee references.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended as Appendix 'B' to the staff report dated February 25, 2025... BE INTRODUCED at the Municipal Council meeting to be held on March 4, 2025, to update references to the board, section 3.1 Board Composition and section 4.2(12) committees of the board",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "7bf2c413ec40",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved rezoning 1484 Gore Road from a Residential R1 zone to a Residential R5 special-provision zone, permitting residential intensification of the site.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [],
+  "verdict": "downgraded",
+  "verifierNote": "Source JSON (2025-02-19 Planning & Environment Committee, item 3.1, 1484 Gore Road Z-25002) has five separate motions under this item: (1) the main R1->R5 rezoning motion itself -- NO recorded vote (blank); (2)-(3) procedural open/close public-participation votes, 4-0; (4) an AMENDMENT, 'the Site Plan Authority BE REQUESTED to consider limiting western-facing windows to the ground floor only' -- 3-1 (Lewis, Hillier, Cuddy yea; Peloza nay); (5) 'the motion be approved, as amended' -- 4-0 UNANIMOUS, all four members including Peloza voting yes. The manifest's result string 'Motion Passed (3 to 1)' uniquely and only matches motion (4), the window-placement amendment -- not the R1->R5 density rezoning. The classifier's original quote/whatAYeaDid ('permit residential intensification...') is the preamble reasoning text of the never-separately-voted main motion (1), wrongly attached to the unrelated 3-1 window vote. Published as classified, this would have shown Councillor E. Peloza voting NAY on 'increased density,' when Peloza actually voted YES on the substantive rezoning (unanimous 4-0) and dissented only on a window-placement site-plan detail -- a false statement about his vote. Downgraded: issue kept as housing (the item is structurally a Z-code rezoning) but axis/polarity/quote set to null/none -- the window-amendment clause itself ('BE REQUESTED to consider...') has no AFFIRM/DENY verb and decided a design detail, not density."
+ },
+ {
+  "id": "e0cc3389ac8c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law amendment adding a $0.35 transaction fee for the Honk Mobile parking-payment vendor and delegating authority to approve future fee amendments.",
+  "confidence": "high",
+  "quote": "the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on March 4, 2025, to amend the Various Fees and Charges By-law to include a transaction fee of $0.35 for the City-approved mobile parking fee vendor, Honk Mobile Inc.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "32bc05b2830a",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred part d) \u2014 a proposed funding increase to continue Ark Aid day drop-in space \u2014 to Civic Administration to examine options for beds instead of day drop-in space.",
+  "confidence": "high",
+  "quote": "that part d) relating to an amendment to the existing Municipal Purchase of Service agreement with The Ark Aid Street Mission for the period of April 1, 2025 to March 31, 2026 BE REFERRED to Civic Administration to examine options for beds in place of day drop-in spaces, with any service provider who can provide the beds without subcontracting;",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON (item 8.1.6, UHEI) confirms this is the Rahman/Lehman 'refer part d)' motion, 10-2 (Hopkins, Trosow nay) -- distinct from the OTHER 10-2 vote on the same item (see cf4aa6b663e1, now also downgraded). A pure referral (BE REFERRED, no affirmed content) -- correctly left unclear."
+ },
+ {
+  "id": "639a42891cdb",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the $1.4 million Housing Stability Services budget item to a future meeting for an operational plan, while directing Civic Administration to continue existing basic-human-needs services with existing funding through April 30, 2025.",
+  "confidence": "low",
+  "quote": "Civic Administration BE DIRECTED to continue to provide existing basic human needs provisions with this funding until April 30, 2025",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "downgraded",
+  "verifierNote": "Source JSON (2025-02-11 Council, item 8.1.6, UHEI) confirms this is the McAlister/Stevenson 'Motion to refer part h)' (10-2: Hopkins, Lewis, Hillier, Van Meerbergen, Lehman, McAlister, Cuddy, Stevenson, Ferreira, Rahman yea; Peloza, Trosow nay) -- content and quote match verbatim. But the clause's primary substance is a REFERRAL: the new $1,400,000 funding ask is 'BE REFERRED to a future meeting... for an operational plan' -- genuinely deferred, no decision on any increase. The only decided element is 'Civic Administration BE DIRECTED to continue to provide EXISTING basic human needs provisions with this funding until April 30, 2025' -- maintaining status quo funding, not expanding it. Labelling a yea here as having 'expanded the encampment/homelessness response' overstates a vote whose substance was to defer the actual funding increase while keeping existing funding flowing. This is the 'committee-stage vs decision' risk pattern flagged in the verification brief. Downgraded to polarity null / axis null."
+ },
+ {
+  "id": "40bc51762a26",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred part b) \u2014 a proposed funding increase to continue 70 emergency shelter spaces at Ark Aid \u2014 to Civic Administration to report back on potential emergency shelter and drop-in space options.",
+  "confidence": "high",
+  "quote": "that part b) relating to an amendment to the existing Municipal Purchase of Service agreement with The Ark Aid Street Mission to a total estimated increase of up to $3,068,348 (excluding HST) for the period of April 1, 2025 to March 31, 2026 to continue 70 emergency shelter spaces to utilize the UHEI and Reaching Home incremental funding as per the Corporation of the City of London Procurement Policy Section 20.3 e) BE REFERRED to Civic Administration to report back regarding potential emergency shelter and drop-in spaces;",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON confirms the Ferreira/Stevenson 'refer part b)' motion (report back re: emergency shelter/drop-in options) passed 8-4. A referral plus report-back ask -- correctly left unclear."
+ },
+ {
+  "id": "d2aa95b9049a",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have directed Civic Administration to find $157,860 in funding for the Ark Aid Street Mission to provide 10 supported-housing spaces on Oxford Street; the motion failed.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to find a source of funding for an estimated total of $157,860 for the Ark Aid Street Mission to provide 10 spaces at their Oxford Street supported housing location;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON (2025-02-11 Council, item 8.1.6) confirms 'That part e), as amended, BE APPROVED' FAILED 3-9 (Hopkins, Peloza, Trosow yea; all 9 others nay) -- matches manifest result exactly. Quote is verbatim and is the clause's entire operative content: directing staff to find $157,860 to fund 10 new supported-housing spaces, a genuine capacity/funding expansion. whatAYeaDid is correctly hedged ('Would have directed... the motion failed'). Confirmed."
+ },
+ {
+  "id": "0af2f57bd56d",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved extending funding agreements with Atlohsa Family Healing Services to temporarily expand indigenous-led outreach supports and services.",
+  "confidence": "high",
+  "quote": "an extension to the existing Municipal Purchase of Service agreement with Atlohsa Family Healing Services at a total estimated increase of up to $33,750 (excluding HST) for the period of January 1, 2025 to March 31, 2025 BE APPROVED to temporarily expand indigenous led outreach supports and services using the UHEI and Reaching Home incremental funding",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON (2025-02-11 Council, item 8.1.6) confirms 'parts f) and g) BE APPROVED' passed 9-3 with the exact roster shown (Hopkins, Lewis, Peloza, Lehman, McAlister, Cuddy, Trosow, Ferreira, Rahman yea; Hillier, Van Meerbergen, Stevenson nay). Quote is verbatim, matching part f), which explicitly reads 'BE APPROVED to temporarily expand indigenous led outreach supports and services' -- unambiguous expansive language. Confirmed."
+ },
+ {
+  "id": "04dcb7b65c6a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a heritage alteration permit allowing demolition of the existing building and construction of a proposed building at 66 Blackfriars Street, subject to tree-protection and design conditions.",
+  "confidence": "high",
+  "quote": "the application under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a proposed building... on the property at 66 Blackfriars Street... BE PERMITTED with the following terms and conditions",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "9bd0c8746c34",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have granted Councillor Trosow leave to move a motion related to the City's warming centres; the motion failed on a tie vote, so no substantive motion on warming centres was considered.",
+  "confidence": "high",
+  "quote": "That pursuant to section 18.4 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Trosow to move a motion related to the City of London's warming centres.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "135897acab5a",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a $26.4 million construction contract for the East London Link and Municipal Infrastructure Improvements Phase 4 project, and approved a Transportation Services Licence Agreement with the London Transit Commission and Fanshawe College to construct a transit facility on Fanshawe College property.",
+  "confidence": "medium",
+  "quote": "the proposed by-law as appended to the staff report dated January 13, 2025 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on January 21, 2025 to approve the Transportation Services Licence Agreement between the City of London, London Transit Commission and Fanshawe College regarding the construction, maintenance and operations of a transit facility on Fanshawe College Property",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON (2025-01-13 Infrastructure & Corporate Services Committee, item 2.6) has a single voted motion, 3-1 (Rahman recused), matching exactly. Quote is verbatim from part b)i). whatAYeaDid accurately summarizes both the $26.4M East London Link contract award (part a) and the new Fanshawe College transit-facility licence agreement (part b), both decided in this one vote. Confirmed."
+ },
+ {
+  "id": "500c8cf6484f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have reduced the proposed suspension of Councillor Stevenson's remuneration, for a Code of Conduct breach, from 30 days to 5 days; the motion failed.",
+  "confidence": "high",
+  "quote": "the remuneration paid to Councillor S. Stevenson BE SUSPENDED for a period of 5 days",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "82a2d7611c5f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Suspended Councillor Stevenson's remuneration for 30 days following the Integrity Commissioner's finding of a Code of Conduct breach.",
+  "confidence": "high",
+  "quote": "that in consideration of the Integrity Commissioner's Findings regarding the breach of Council's Code of Conduct in the above noted report, the remuneration paid to Councillor S. Stevenson BE SUSPENDED for a period of 30 days;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "90619b0f7bea",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Removed the property at 1927 Richmond Street from the Register of Cultural Heritage Resources.",
+  "confidence": "high",
+  "quote": "the property located at 1927 Richmond Street BE REMOVED from the Register of Cultural Heritage Resources",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "b482dabde78b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment rezoning 1922 Highland Heights and 205 Commissioners Road East from a Residential R1 zone to a Residential R1 Special Provision zone and a Holding Open Space Special Provision zone.",
+  "confidence": "low",
+  "quote": "the proposed revised, attached, by-law as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on December 17, 2024 to amend Zoning By-law No. Z.-1... to change the zoning of the subject properties at 1922 Highland Heights and 205 Commissioners Road East FROM a Residential R1 (R1-9) Zone TO Residential R1 Special Provision (R1-9(_)) Zone and a Holding Open Space Special Provision (h-101*OS1(_)) Zone",
+  "flags": [],
+  "verdict": "downgraded",
+  "verifierNote": "Source JSON (2024-12-17 Council, item 8.1.17, 1922 Highland Heights & 205 Commissioners Rd E) confirms the 9-5 vote and quote are verbatim. But the motion's own operative reasoning clause states the rezoning 'facilitates the development of a maintenance building that is accessory to the existing golf course' (Highland Golf & Country Club) -- a golf-course accessory building, not a housing project, despite the technical 'Residential' zone label (R1 -> R1 Special Provision + a new Holding Open Space Special Provision zone). This is also exactly the 'R1 + Open-Space-holding addition' pattern the classifier's own batch notes list as one of the ambiguous special-provision rezonings resolved to null elsewhere in this same batch -- inconsistently signed 'expansive' here purely because the generic BE-INTRODUCED/application-approval fallback fired. Downgraded: issue -> none (not a housing-supply/density decision by the motion's own stated purpose), polarity/axis -> null, matching the classifier's own established standard for this exact pattern."
+ },
+ {
+  "id": "331bb35d80e2",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Replaced the developer's committed sewer-line construction for Urban Roots with a cash donation of an amount to be determined later, as part of the 21-41 Meadowlily Road North rezoning file.",
+  "confidence": "high",
+  "quote": "a donation to Urban Roots by Royal Premier Homes, the amount and specific project allocation to be determined by the respective parties at a later date",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON (item 8.1.18, 21-41 Meadowlily Rd) confirms this is the Hillier/Rahman-opposed amendment swapping a committed sewer line for a to-be-determined cash donation to Urban Roots, 13-2. A community-benefit swap of unspecified size with no stated direction (more/less housing-friendly) -- correctly left unclear."
+ },
+ {
+  "id": "80c76b6627a8",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment rezoning 21-41 Meadowlily Road North and 20 Norlan Avenue from a Holding Residential R5 Special Provision Bonus zone to a Holding Residential R5 Special Provision zone.",
+  "confidence": "low",
+  "quote": "the proposed revised, attached, by-law BE INTRODUCED at the Municipal Council meeting to be held on December 17, 2024, to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Holding Residential R5 Special Provision Bonus (h-17*h-100*R5-7(26)*B-94) Zone TO a Holding Residential R5 Special Provision (h*R5-7(26)) Zone",
+  "flags": [],
+  "verdict": "downgraded",
+  "verifierNote": "Source JSON (2024-12-17 Council, item 8.1.18, 21-41 Meadowlily Rd N & 20 Norlan Ave) confirms this is the 'item 18... BE APPROVED in part' motion, 11-4 (Morgan, Lewis, Hillier, Van Meerbergen, Lehman, McAlister, Cuddy, Stevenson, Pribil, Franke, Rahman yea) -- content and quote verbatim, and distinguishable from the OTHER 11-4 vote on this same item (the Urban-Roots-donation/playgrounds motion, already correctly classified null as b2b72641647f with a different roster). But the substance -- FROM a 'Holding Residential R5 Special Provision BONUS' zone TO a 'Holding Residential R5 Special Provision' zone (the bonus provision removed) -- is exactly the 'R5-Bonus removal' pattern the classifier's own batch notes list as an ambiguous case resolved to null elsewhere in this batch. Removing a density-bonus provision could be routine housekeeping once bonus conditions were fulfilled, or a real reduction in as-of-right development potential; the record doesn't resolve which. Downgraded to unclear for consistency with the classifier's own stated standard for this identical scenario."
+ },
+ {
+  "id": "b2b72641647f",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Confirmed the applicant's community-benefit commitments for the Meadowlily Road rezoning: new playgrounds for two elementary schools and a donation to Urban Roots.",
+  "confidence": "high",
+  "quote": "providing new playgrounds for Ealing and Trafalgar Elementary Public Schools; and, ii) a donation to Urban Roots by Royal Premier Homes, the amount and specific project allocation to be determined by the respective parties at a later date.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON confirms this is the 11-4 'playgrounds + Urban Roots donation' commitment-confirmation motion on item 8.1.18, distinct from the OTHER 11-4 vote on the same item (the actual R5-Bonus-removal rezoning, see 70cd8d04ee9d). Confirming ancillary community-benefit commitments, not a density/use decision -- correctly left unclear."
+ },
+ {
+  "id": "7b6d29cb16f3",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to develop an additional, smaller (approximately 1,130-hectare) Urban Growth Boundary land-supply scenario alongside the already-proposed 2,000-hectare scenario; the motion failed.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to develop an alternate scenario of approximately 1,130 hectares of developable land to accommodation planned growth",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON confirms the Franke/Hopkins amendment to add a smaller (1,130 ha) alternate UGB scenario alongside the 2,000 ha ask FAILED 7-8. whatAYeaDid correctly hedges 'would have... the motion failed.' A failed procedural add-a-scenario amendment -- correctly left unclear rather than signed as restrictive-on-density (it isn't a reduction, just a road not taken)."
+ },
+ {
+  "id": "6439c2ef24a2",
+  "issue": "climate",
+  "axis": "target-strength",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have directed Civic Administration to demonstrably use the City's climate emergency screening tool as part of the Urban Growth Boundary Review; the motion failed.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to demonstrably utilize the climate emergency screening tool as part of the Urban Growth Boundary Review;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON (2024-12-17 Council, item 8.1.22, Land Needs Assessment) confirms the Franke/Hopkins amendment adding a climate-emergency-screening-tool directive FAILED 6-9 with the exact roster shown; quote is verbatim. whatAYeaDid is correctly hedged ('Would have directed... the motion failed'). Confirmed."
+ },
+ {
+  "id": "b753dfd3c407",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Mayor engage Southwestern Ontario Mayors and Wardens in discussion about regional growth, as part of the Land Needs Assessment / Official Plan Review process.",
+  "confidence": "medium",
+  "quote": "that the Mayor, BE REQUESTED to engage in a discussion with local Southwestern Ontario Mayors and Wardens regarding regional growth",
+  "flags": [
+   "informational_ask",
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON confirms the Franke/Hopkins amendment requesting the Mayor discuss regional growth with SW Ontario Mayors and Wardens passed 14-1 (Van Meerbergen lone nay) -- distinct from the OTHER 14-1 vote on the same item (the LNA-adoption-minus-b/d/e motion, see c32437ad0b43). A request for inter-municipal dialogue, not a housing decision -- correctly left unclear."
+ },
+ {
+  "id": "c32437ad0b43",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted the Land Needs Assessment (Community Growth) for the Section 26 Official Plan Review of The London Plan, and received the Housing Supply Marketplace Analysis and related staff reports, excluding the Urban Growth Boundary expansion parts b), d), and e), which were voted separately.",
+  "confidence": "medium",
+  "quote": "the Land Needs Assessment (Community Growth) appended to the staff report dated December 3, 2024 as Appendix \"A\" BE ADOPTED for use as part of Phase 1B of the Section 26 Review of The London Plan",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON confirms 'item [20/]22, clause 3.14, as amended, BE APPROVED, with the exception of parts b), d) and e)' passed 14-1 (Trosow lone nay) -- distinguishable from the OTHER 14-1 vote on this same item (the SW Ontario Mayors/Wardens discussion motion, Van Meerbergen lone nay, already correctly classified null as b753dfd3c407). Quote verbatim (part a, LNA adoption). whatAYeaDid accurately describes the adoption plus the b/d/e carve-out. Confirmed."
+ },
+ {
+  "id": "6991a4e352fd",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed Civic Administration to initiate an Urban Growth Boundary Review to add approximately 1,476 hectares of developable land to accommodate planned housing growth.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to initiate an Urban Growth Boundary Review for inclusion of approximately 1,476 hectares of developable land to accommodate planned growth, consistent with the Land Needs Assessment (Community Growth) using a 30 year planning horizon",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON confirms 'part b) BE APPROVED' (Urban Growth Boundary Review, 1,476 ha) passed 10-5 with the exact roster shown. Quote is verbatim and is the sole content of this specific vote. Confirmed."
+ },
+ {
+  "id": "f256055d95cb",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Requested the Province support a further Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London's housing supply, and directed staff to develop an alternate 2,000-hectare growth scenario if that support is received.",
+  "confidence": "high",
+  "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London's new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Source JSON confirms 'parts d) and e) BE APPROVED' passed 8-7 with the exact roster shown. Quote is verbatim (part d, requesting the Province support a 2,000 ha UGB expansion). whatAYeaDid correctly folds in part e) (directing an alternate 2,000 ha scenario), decided in the same vote. Confirmed."
+ },
+ {
+  "id": "b45fbc0f028e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved applying to expropriate land needed for Phase 2 of the Wellington Gateway Project's civil works.",
+  "confidence": "high",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "8f71c4a7a37c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law amendment replacing Schedule 'A' of the City's Special Events Policies and Procedures Manual.",
+  "confidence": "high",
+  "quote": "the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council Meeting to be held on December 17, 2024, to amend By-law No. CPOL.-142-394, as amended, being \"Special Events Policies and Procedures Manual\", by deleting and replacing Schedule \"A\"",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "5e17e9d18c65",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved an amending agreement extending the City's funding of Film London through the London Economic Development Corporation Purchase of Services Agreement.",
+  "confidence": "high",
+  "quote": "an amending agreement (Schedule \"A2\") BE AUTHORIZED and BE APPROVED between The Corporation of the City of London and the London Economic Development Corporation for the purpose of extending funding for Film London",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "4bf550ad808f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the final 14-ward electoral boundary map for the City of London (with three minor community-of-interest amendments), effective November 15, 2026.",
+  "confidence": "high",
+  "quote": "the boundaries for the fourteen (14) electoral wards detailed in Final Option 1, with the following amendments, BE APPROVED for the City of London, effective November 15, 2026",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "a6d6471fe7a1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved an amending agreement extending the City's funding of Film London through the London Economic Development Corporation Purchase of Services Agreement.",
+  "confidence": "high",
+  "quote": "an amending agreement (Schedule \"A2\") BE AUTHORIZED and BE APPROVED between The Corporation of the City of London and the London Economic Development Corporation for the purpose of extending funding for Film London",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "53b29cd9d4a8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended the Ward Boundary Review to move an area between Ward 1 and Ward 14 into Ward 14; the motion failed.",
+  "confidence": "high",
+  "quote": "That Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between the proposed Ward 1 and proposed Ward 14 so that the area contained between Clarke Rd, Canadian National Railway, the Eastern City Limit, Hamilton Rd to the Thames River be incorporated into the proposed Ward 14 to better reflect communities of interest",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "bc3e5c48f837",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a minor Ward Boundary Review amendment moving the Rowntree area, between Wellington Road South and Commissioners Road East, into proposed Ward 11.",
+  "confidence": "high",
+  "quote": "Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between proposed Ward 1 and proposed Ward 11 so that the area contained between Wellington Rd S and the Canadian National Railway adjacent to Adelaide St S (Rowntree Area) south to Commissioner Rd E be incorporated into proposed Ward 11",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ },
+ {
+  "id": "0983fa0a8e7e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a minor Ward Boundary Review amendment moving the area near Oxford Street East and Highbury Avenue North into proposed Ward 4.",
+  "confidence": "high",
+  "quote": "Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between proposed Ward 1 and proposed Ward 4 so that the area contained within Oxford St E, to Highbury Ave N, to Canadian Pacific Railway, to Adelaide St N be incorporated into proposed Ward 4",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Cross-checked issue-rules.ts's keyword sets and, for a sample including this entry, the source meeting JSON; found no housing/encampments/climate/transit/bikes/downtown/budget/policing signal in the motion's own operative text. Left issue=none, polarity=null."
+ }
 ]
