@@ -230,6 +230,48 @@ async function findMarkdownFile(contentDir: string, meetingSlug: string): Promis
   }
 }
 
+/**
+ * Every meetingSlug the votes pipeline could possibly produce - scans
+ * data/YYYY-MM/*.json the same way generate-votes.ts does, so a meeting
+ * that currently has ZERO stored motions (all of them demoted/excluded,
+ * e.g. a garbled roll call, or the file itself is a detected duplicate
+ * re-publication) still gets visited below.
+ *
+ * Without this, main() below iterated motionsByMeeting alone - built
+ * ONLY from _all-motions.json - so a meeting that lost ALL of its
+ * motions was never visited at all and its stale "## Votes" section from
+ * an earlier run was never stripped (issue #199 final verify: 2 pages,
+ * 2011-12-05 Strategic Priorities and Policy Committee and 2015-06-10
+ * MINUTES 17TH MEETING, kept publishing roll calls data/votes no longer
+ * contained). Iterate the full meeting universe instead of the
+ * motions-only one - "any page whose meeting has zero stored motions
+ * gets its Votes section removed."
+ */
+async function allMeetingSlugs(dataDir: string): Promise<string[]> {
+  const slugs: string[] = []
+  const entries = await fs.readdir(dataDir, { withFileTypes: true })
+  const monthDirs = entries
+    .filter(e => e.isDirectory() && /^\d{4}-\d{2}/.test(e.name))
+    .map(e => e.name)
+    .sort()
+
+  for (const monthDir of monthDirs) {
+    const monthPath = path.join(dataDir, monthDir)
+    const files = await fs.readdir(monthPath)
+    for (const file of files.filter(f => f.endsWith(".json")).sort()) {
+      try {
+        const content = await fs.readFile(path.join(monthPath, file), "utf-8")
+        const meeting = JSON.parse(content)
+        if (!meeting.items || Object.keys(meeting.items).length === 0) continue
+        slugs.push(`months/${monthDir}/${file.replace(".json", "")}`)
+      } catch {
+        continue
+      }
+    }
+  }
+  return slugs
+}
+
 async function main() {
   console.log("🗳️ Adding vote sections to meeting pages\n")
 
@@ -258,12 +300,20 @@ async function main() {
   }
   console.log(`   ${motionsByMeeting.size} meetings with votes`)
 
+  // The meeting universe to visit is motionsByMeeting's keys UNION every
+  // meeting scanned from raw data - see allMeetingSlugs()'s doc comment.
+  const scannedSlugs = await allMeetingSlugs(dataDir)
+  const allSlugs = new Set<string>([...motionsByMeeting.keys(), ...scannedSlugs])
+  console.log(`   ${allSlugs.size} meetings total to check (including zero-motion ones)`)
+
   // Process each meeting
   let updated = 0
   let skipped = 0
   let notFound = 0
+  let orphansStripped = 0
 
-  for (const [meetingSlug, motions] of motionsByMeeting) {
+  for (const meetingSlug of allSlugs) {
+    const motions = motionsByMeeting.get(meetingSlug) ?? []
     // Find the markdown file
     const mdPath = await findMarkdownFile(contentDir, meetingSlug)
 
@@ -318,6 +368,9 @@ async function main() {
       skipped++
       continue
     }
+    if (votesHeadingIdx !== -1 && !votesSection) {
+      orphansStripped++
+    }
     await fs.writeFile(mdPath, newContent)
     updated++
   }
@@ -326,6 +379,7 @@ async function main() {
   console.log(`   Updated: ${updated} meeting pages`)
   console.log(`   Skipped: ${skipped} (no substantive votes, or votes section already up to date)`)
   console.log(`   Not found: ${notFound} (no matching markdown file)`)
+  console.log(`   Orphaned sections stripped: ${orphansStripped} (meeting now has zero stored motions)`)
 }
 
 main().catch(console.error)
