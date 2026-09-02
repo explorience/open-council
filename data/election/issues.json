@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T22:40:00.421Z",
+  "generatedAt": "2026-09-02T22:55:00.188Z",
   "sourceHash": "c89decb146e3da17",
   "sourceGeneratedAt": "2026-09-02T22:24:34.258Z",
   "cutoffDate": "2023-01-01",
@@ -11,8 +11,8 @@
   "issues": {
     "encampments": {
       "label": "Homelessness & Encampments",
-      "dividedVoteCount": 112,
-      "directionBearingVoteCount": 52,
+      "dividedVoteCount": 115,
+      "directionBearingVoteCount": 53,
       "distinctAgendaItemCount": 58,
       "votes": [
         {
@@ -2382,6 +2382,59 @@
           "motionSnippet": "That the motion be amended by adding a new part k) to read as follows: k) Civic Adminis..."
         },
         {
+          "id": "19efb38c1dc0",
+          "date": "2024-11-05",
+          "meetingSlug": "months/2024-11/2024-11-05 17th Meeting of City Council",
+          "meetingTitle": "17th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7a596f32-2a13-424f-a990-c28c025000b7&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.2.4",
+          "itemTitle": "(4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update",
+          "motionText": "That the motion be amended to add a new part be further amended to read as follows: j)  resting spaces to NOT BE LOCATED on the main street of any Business Improvement Area (BIA) without the approval of Municipal Council.",
+          "result": "Motion Failed (7 to 8)",
+          "passed": false,
+          "margin": 1,
+          "tally": {
+            "yea": 7,
+            "nay": 8,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-11/2024-11-05 17th Meeting of City Council#82441-whole-of-community-system-response--community-encampment-plan-implementation-recommendations-2025-and-basic-needs-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "response-scale",
+            "valence": -1,
+            "label": "Would have added a new part j) barring resting spaces from a Business Improvement Area main street unless Municipal Council specifically approved an exception.",
+            "axisLabels": {
+              "expansive": "expanded the encampment/homelessness response",
+              "restrictive": "reduced the encampment/homelessness response"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "s-hillier": "yea",
+            "h-mcalister": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "j-pribil": "nay",
+            "s-lehman": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the motion be amended to add a new part be further amended to read as follows: j) ..."
+        },
+        {
           "id": "8be756f3d937",
           "date": "2024-11-05",
           "meetingSlug": "months/2024-11/2024-11-05 17th Meeting of City Council",
@@ -2629,6 +2682,54 @@
           },
           "resultNote": null,
           "motionSnippet": "That part h) of the motion be approved: h) continuation of contracted services at the C..."
+        },
+        {
+          "id": "4079dc909bd5",
+          "date": "2024-10-29",
+          "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d575c691-840f-4c57-a4da-4b12b7bde7ed&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update ",
+          "motionText": "That part c) of the motion, as amended, be approved: c)    the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of London’s portion of a $250-million federal fund dedicated to addressing encampments;",
+          "result": "Motion Passed (14 to 1)",
+          "passed": true,
+          "margin": 13,
+          "tally": {
+            "yea": 14,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee#41whole-of-community-system-response--community-encampment-plan-implementation-recommendations-2025-and-basic-needs-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Approved part c), Council's request that Civic Administration and the Mayor engage federal and provincial governments to fund the Encampment Implementation Recommendations for 2025 as part of a $250-million federal encampments fund."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-stevenson": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part c) of the motion, as amended, be approved: c) the Civic Administration and th..."
         },
         {
           "id": "40a9582bc9df",
@@ -4436,6 +4537,57 @@
           "motionSnippet": "That part f) iii) of the recommendation BE APPROVED: iii. Canadian Mental Health Associ..."
         },
         {
+          "id": "529af203914c",
+          "date": "2023-10-05",
+          "meetingSlug": "months/2023-10/2023-10-05 16th Special Meeting of City Council",
+          "meetingTitle": "16th Special Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5011bfe8-d522-4d45-b8e1-18afb40846f7&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.1.3",
+          "itemTitle": "(4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)",
+          "motionText": "That part f) ii) of the recommendation BE APPROVED: ii.    Atlohsa Family Healing Services Inc; and",
+          "result": "Motion Passed (13 to 1)",
+          "passed": true,
+          "margin": 12,
+          "tally": {
+            "yea": 13,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-10/2023-10-05 16th Special Meeting of City Council#81342-health-and-homelessness-whole-of-community-system-response-rfp-2023-199-hubs-implementation-plan-results-relates-to-bill-no-367",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "procedural",
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Approved making the already-awarded hub funding conditional on the City entering into a purchase-of-service agreement with Atlohsa Family Healing Services Inc."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "p-van-meerbergen": "nay",
+            "s-hillier": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part f) ii) of the recommendation BE APPROVED: ii. Atlohsa Family Healing Services..."
+        },
+        {
           "id": "4d0df5416ad2",
           "date": "2023-10-05",
           "meetingSlug": "months/2023-10/2023-10-05 16th Special Meeting of City Council",
@@ -5673,7 +5825,7 @@
     },
     "policing": {
       "label": "Policing",
-      "dividedVoteCount": 13,
+      "dividedVoteCount": 12,
       "directionBearingVoteCount": 6,
       "distinctAgendaItemCount": 7,
       "votes": [
@@ -5726,56 +5878,6 @@
           },
           "resultNote": null,
           "motionSnippet": "That the following parts of the main motion, as amended, BE APPROVED: That the Civic Ad..."
-        },
-        {
-          "id": "1fd6e77e5a25",
-          "date": "2026-07-21",
-          "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
-          "meetingTitle": "12th Meeting of Council",
-          "meetingType": "Council",
-          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English",
-          "itemNumber": "8.4.10",
-          "itemTitle": "(4.4) City of London Special Constable Program",
-          "motionText": "That the following part BE APPROVED: d) estimated capital and operating costs, funding options, including the potential use of revenues generated through the City's Automated Speed Enforcement Program, opportunities for external funding, and the financial feasibility of implementing a permanent program.",
-          "result": "Motion Passed (10 to 5)",
-          "passed": true,
-          "margin": 5,
-          "tally": {
-            "yea": 10,
-            "nay": 5,
-            "recuse": 0,
-            "absent": 0,
-            "abstain": 0,
-            "other": 0
-          },
-          "anchor": "/months/2026-07/2026-07-21 12th Meeting of Council#841044-city-of-london-special-constable-program",
-          "anchorAmbiguous": false,
-          "matchedKeywords": [
-            "informational_ask"
-          ],
-          "direction": {
-            "axis": null,
-            "label": "Approved part d) of the amended report-back request, directing that the feasibility study include estimated costs, funding options including Automated Speed Enforcement Program revenue, and the financial feasibility of a permanent program."
-          },
-          "positions": {
-            "j-morgan": "yea",
-            "h-mcalister": "yea",
-            "s-lewis": "yea",
-            "p-cuddy": "yea",
-            "s-stevenson": "yea",
-            "j-pribil": "yea",
-            "c-rahman": "yea",
-            "s-lehman": "yea",
-            "p-van-meerbergen": "yea",
-            "s-hillier": "yea",
-            "s-trosow": "nay",
-            "a-hopkins": "nay",
-            "s-franke": "nay",
-            "e-peloza": "nay",
-            "d-ferreira": "nay"
-          },
-          "resultNote": null,
-          "motionSnippet": "That the following part BE APPROVED: d) estimated capital and operating costs, funding ..."
         },
         {
           "id": "776d36b6bc34",
@@ -11112,8 +11214,8 @@
     },
     "budget": {
       "label": "Taxes & Budget",
-      "dividedVoteCount": 113,
-      "directionBearingVoteCount": 84,
+      "dividedVoteCount": 127,
+      "directionBearingVoteCount": 85,
       "distinctAgendaItemCount": 81,
       "votes": [
         {
@@ -12247,6 +12349,342 @@
           "motionSnippet": "That the communication dated May 11, 2025 from Councillor S. Stevenson regarding the bu..."
         },
         {
+          "id": "0bd0c15f3d73",
+          "date": "2025-05-22",
+          "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+          "meetingTitle": "2nd Meeting of the Budget Committee",
+          "meetingType": "Budget Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2026 Annual Budget Update - Status Update",
+          "motionText": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5    Capital Financing – Climate Change Reserve Fund Contribution",
+          "result": "Motion Failed (7 to 7)",
+          "passed": false,
+          "margin": 0,
+          "tally": {
+            "yea": 7,
+            "nay": 7,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have excluded the Capital Financing 'Climate Change Reserve Fund Contribution' business case (Appendix C, Ref #5) from the 2026 Budget Update."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "p-van-meerbergen": "nay",
+            "s-hillier": "nay",
+            "s-lewis": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That Civic Administration BE DIRECTED to exclude the following business case in the 202..."
+        },
+        {
+          "id": "545479fa2b3f",
+          "date": "2025-05-22",
+          "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+          "meetingTitle": "2nd Meeting of the Budget Committee",
+          "meetingType": "Budget Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2026 Annual Budget Update - Status Update",
+          "motionText": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands",
+          "result": "Motion Passed (8 to 6)",
+          "passed": true,
+          "margin": 2,
+          "tally": {
+            "yea": 8,
+            "nay": 6,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Excluded the Parks & Horticulture 'Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands' business case (Appendix C, Ref #4) from the 2026 Budget Update."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "j-morgan": "nay",
+            "s-trosow": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "s-lewis": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That Civic Administration BE DIRECTED to exclude the following business case in the 202..."
+        },
+        {
+          "id": "6799a7e69f77",
+          "date": "2025-05-22",
+          "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+          "meetingTitle": "2nd Meeting of the Budget Committee",
+          "meetingType": "Budget Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2026 Annual Budget Update - Status Update",
+          "motionText": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 3    Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)",
+          "result": "Motion Passed (10 to 4)",
+          "passed": true,
+          "margin": 6,
+          "tally": {
+            "yea": 10,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Excluded the Recycling & Composting 'Stop Collecting Blue Box Materials from Non-eligible Sources (NES)' business case (Appendix C, Ref #3) from the 2026 Budget Update."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "c-rahman": "nay",
+            "p-van-meerbergen": "nay",
+            "s-hillier": "nay",
+            "s-lewis": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That Civic Administration BE DIRECTED to exclude the following business case in the 202..."
+        },
+        {
+          "id": "e350b258eb2f",
+          "date": "2025-05-22",
+          "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+          "meetingTitle": "2nd Meeting of the Budget Committee",
+          "meetingType": "Budget Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2026 Annual Budget Update - Status Update",
+          "motionText": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 2    Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion",
+          "result": "Motion Passed (9 to 5)",
+          "passed": true,
+          "margin": 4,
+          "tally": {
+            "yea": 9,
+            "nay": 5,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Excluded the Recycling & Composting 'Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion' business case (Appendix C, Ref #2) from the 2026 Budget Update."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "c-rahman": "nay",
+            "p-van-meerbergen": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "nay",
+            "s-lewis": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That Civic Administration BE DIRECTED to exclude the following business case in the 202..."
+        },
+        {
+          "id": "2402cfe58258",
+          "date": "2025-05-22",
+          "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+          "meetingTitle": "2nd Meeting of the Budget Committee",
+          "meetingType": "Budget Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2026 Annual Budget Update - Status Update",
+          "motionText": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 1    Traffic Control & Street Lighting - Eliminate Full Funding of New Streetlight Installations",
+          "result": "Motion Failed (7 to 7)",
+          "passed": false,
+          "margin": 0,
+          "tally": {
+            "yea": 7,
+            "nay": 7,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have excluded the Traffic Control & Street Lighting 'Eliminate Full Funding of New Streetlight Installations' business case (Appendix C, Ref #1) from the 2026 Budget Update."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "e-peloza": "yea",
+            "j-morgan": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay",
+            "d-ferreira": "nay",
+            "s-hillier": "nay",
+            "s-lewis": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That Civic Administration BE DIRECTED to exclude the following business case in the 202..."
+        },
+        {
+          "id": "4750754213bc",
+          "date": "2025-05-22",
+          "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+          "meetingTitle": "2nd Meeting of the Budget Committee",
+          "meetingType": "Budget Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2026 Annual Budget Update - Status Update",
+          "motionText": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8    Information Technology – Digital Transformation",
+          "result": "Motion Failed (1 to 13)",
+          "passed": false,
+          "margin": 12,
+          "tally": {
+            "yea": 1,
+            "nay": 13,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have excluded the Information Technology 'Digital Transformation' business case (Appendix B, Ref #8) from the 2026 Budget Update."
+          },
+          "positions": {
+            "j-pribil": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay",
+            "s-hillier": "nay",
+            "s-lewis": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That Civic Administration BE DIRECTED to exclude the following business case in the 202..."
+        },
+        {
+          "id": "0f19b60c927d",
+          "date": "2025-05-22",
+          "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+          "meetingTitle": "2nd Meeting of the Budget Committee",
+          "meetingType": "Budget Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2026 Annual Budget Update - Status Update",
+          "motionText": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7    Human Resources – Internships",
+          "result": "Motion Failed (1 to 13)",
+          "passed": false,
+          "margin": 12,
+          "tally": {
+            "yea": 1,
+            "nay": 13,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have excluded the Human Resources 'Internships' business case (Appendix B, Ref #7) from the 2026 Budget Update."
+          },
+          "positions": {
+            "s-franke": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "j-pribil": "nay",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay",
+            "s-hillier": "nay",
+            "s-lewis": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That Civic Administration BE DIRECTED to exclude the following business case in the 202..."
+        },
+        {
           "id": "2307b1d59a7d",
           "date": "2025-05-22",
           "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
@@ -12337,6 +12775,198 @@
             "s-hillier": "yea",
             "p-cuddy": "nay",
             "d-ferreira": "nay",
+            "s-lewis": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That Civic Administration BE DIRECTED to exclude the following business case in the 202..."
+        },
+        {
+          "id": "a6473f2744cd",
+          "date": "2025-05-22",
+          "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+          "meetingTitle": "2nd Meeting of the Budget Committee",
+          "meetingType": "Budget Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2026 Annual Budget Update - Status Update",
+          "motionText": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4    Urban Forestry – Tree Planting Grants & Non-replacement Tree Planting",
+          "result": "Motion Failed (7 to 7)",
+          "passed": false,
+          "margin": 0,
+          "tally": {
+            "yea": 7,
+            "nay": 7,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have excluded the Urban Forestry 'Tree Planting Grants & Non-replacement Tree Planting' business case (Appendix B, Ref #4) from the 2026 Budget Update."
+          },
+          "positions": {
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "e-peloza": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "c-rahman": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay",
+            "d-ferreira": "nay",
+            "s-hillier": "nay",
+            "s-lewis": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That Civic Administration BE DIRECTED to exclude the following business case in the 202..."
+        },
+        {
+          "id": "0c2a411423be",
+          "date": "2025-05-22",
+          "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+          "meetingTitle": "2nd Meeting of the Budget Committee",
+          "meetingType": "Budget Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2026 Annual Budget Update - Status Update",
+          "motionText": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 3    Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching",
+          "result": "Motion Passed (8 to 6)",
+          "passed": true,
+          "margin": 2,
+          "tally": {
+            "yea": 8,
+            "nay": 6,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Excluded the Urban Forestry 'Reduction in Pathway and Trail Edge Brush Mulching' business case (Appendix B, Ref #3) from the 2026 Budget Update."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "p-cuddy": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay",
+            "s-hillier": "nay",
+            "s-lewis": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That Civic Administration BE DIRECTED to exclude the following business case in the 202..."
+        },
+        {
+          "id": "1d7c40b467ec",
+          "date": "2025-05-22",
+          "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+          "meetingTitle": "2nd Meeting of the Budget Committee",
+          "meetingType": "Budget Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2026 Annual Budget Update - Status Update",
+          "motionText": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design – Reduced Road Network Improvements",
+          "result": "Motion Passed (9 to 5)",
+          "passed": true,
+          "margin": 4,
+          "tally": {
+            "yea": 9,
+            "nay": 5,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Excluded the 'Reduced Road Network Improvements' business case (Appendix B, Ref #2) from the 2026 Budget Update."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "p-van-meerbergen": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "j-morgan": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "s-lewis": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That Civic Administration BE DIRECTED to exclude the following business case in the 202..."
+        },
+        {
+          "id": "5d8be07a288c",
+          "date": "2025-05-22",
+          "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+          "meetingTitle": "2nd Meeting of the Budget Committee",
+          "meetingType": "Budget Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04de3122-926b-4142-b388-ef61208bcf77&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2026 Annual Budget Update - Status Update",
+          "motionText": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1    Roadway Maintenance – Reduced Summer Sidewalk Maintenance",
+          "result": "Motion Passed (10 to 4)",
+          "passed": true,
+          "margin": 6,
+          "tally": {
+            "yea": 10,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-22 2nd Meeting of the Budget Committee#412026-annual-budget-update---status-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Excluded the 'Reduced Summer Sidewalk Maintenance' business case (Appendix B, Ref #1) from the 2026 Budget Update."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "j-morgan": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay",
             "s-lewis": "absent"
           },
           "resultNote": null,
@@ -16399,6 +17029,102 @@
           "motionSnippet": "Motion to approve part c) ii) c) Reduction Cases: ii) Reduction in frequency of grass c..."
         },
         {
+          "id": "cecebbd8ba33",
+          "date": "2023-05-30",
+          "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3a313960-d415-437b-91fe-ff55c67cfebe&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+          "motionText": "Motion to approve a) iii) iii) Climate Emergency Action Plan;",
+          "result": "Motion Failed (3 to 9)",
+          "passed": false,
+          "margin": 6,
+          "tally": {
+            "yea": 3,
+            "nay": 9,
+            "recuse": 0,
+            "absent": 3,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee#43request-for-business-cases-for-the-multi-year-budget",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have directed Civic Administration to prepare a business case for the Climate Emergency Action Plan (a New Funding, Existing Strategies item) for consideration during the 2024-2027 Multi-Year Budget deliberations; failed 3-9."
+          },
+          "positions": {
+            "s-trosow": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "j-pribil": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "nay",
+            "h-mcalister": "absent",
+            "s-stevenson": "absent",
+            "p-van-meerbergen": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "Motion to approve a) iii) iii) Climate Emergency Action Plan;"
+        },
+        {
+          "id": "8f9d70f94956",
+          "date": "2023-05-30",
+          "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3a313960-d415-437b-91fe-ff55c67cfebe&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+          "motionText": "Motion to approve a) ii) ii)  Invasive Species Management Plan;",
+          "result": "Motion Failed (3 to 9)",
+          "passed": false,
+          "margin": 6,
+          "tally": {
+            "yea": 3,
+            "nay": 9,
+            "recuse": 0,
+            "absent": 3,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee#43request-for-business-cases-for-the-multi-year-budget",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have directed Civic Administration to prepare a business case for an Invasive Species Management Plan (a New Funding, Existing Strategies item) for consideration during the 2024-2027 Multi-Year Budget deliberations; failed 3-9."
+          },
+          "positions": {
+            "s-trosow": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "j-pribil": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "nay",
+            "h-mcalister": "absent",
+            "s-stevenson": "absent",
+            "p-van-meerbergen": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "Motion to approve a) ii) ii) Invasive Species Management Plan;"
+        },
+        {
           "id": "1a2798d23726",
           "date": "2023-05-30",
           "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
@@ -16654,6 +17380,59 @@
           },
           "resultNote": null,
           "motionSnippet": "That Budget Amendment Case #P-17 BE AMENDED to be in the amount of ($ 475,000)."
+        },
+        {
+          "id": "b93cbde81dec",
+          "date": "2023-01-26",
+          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+          "motionText": "That the motion related to the approval of Budget Amendment Case #P-16, as amended, BE APPROVED: “That the following actions be taken with respect to the 2023 Annual Budget Update: g)    Case #P-16 - Community Improvement/BIA - Funding for the Hamilton Road BIA - Operating Expenditure $100,000; Tax Levy $100,000 BE APPROVED; and that the general tax levy funding to Business Improvement Areas BE REVIEWED in conjunction with the consideration of future multi-year budgets, and during this term of Council in 2026.”",
+          "result": "Motion Passed (11 to 3)",
+          "passed": true,
+          "margin": 8,
+          "tally": {
+            "yea": 11,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "levy-size",
+            "valence": 1,
+            "label": "Approved, as amended, Budget Amendment Case #P-16: added $100,000 in new operating funding (and a matching tax-levy increase) for the Hamilton Road Business Improvement Area, and directed that general tax-levy funding to Business Improvement Areas be reviewed during future multi-year budget processes and in this term of Council in 2026.",
+            "axisLabels": {
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "s-stevenson": "nay",
+            "p-van-meerbergen": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the motion related to the approval of Budget Amendment Case #P-16, as amended, BE ..."
         },
         {
           "id": "8d1f49752974",
@@ -29139,7 +29918,7 @@
     }
   },
   "unclassified": {
-    "count": 1149,
+    "count": 1133,
     "note": "Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here.",
     "sample": [
       {
@@ -29225,6 +30004,12 @@
         "date": "2026-07-21",
         "itemNumber": "8.3.6",
         "itemTitle": "(2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue"
+      },
+      {
+        "id": "1fd6e77e5a25",
+        "date": "2026-07-21",
+        "itemNumber": "8.4.10",
+        "itemTitle": "(4.4) City of London Special Constable Program"
       },
       {
         "id": "38fda7e0ab61",
@@ -31723,72 +32508,6 @@
         "itemTitle": "(ADDED) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson"
       },
       {
-        "id": "5d8be07a288c",
-        "date": "2025-05-22",
-        "itemNumber": "4.1",
-        "itemTitle": "2026 Annual Budget Update - Status Update"
-      },
-      {
-        "id": "1d7c40b467ec",
-        "date": "2025-05-22",
-        "itemNumber": "4.1",
-        "itemTitle": "2026 Annual Budget Update - Status Update"
-      },
-      {
-        "id": "0c2a411423be",
-        "date": "2025-05-22",
-        "itemNumber": "4.1",
-        "itemTitle": "2026 Annual Budget Update - Status Update"
-      },
-      {
-        "id": "a6473f2744cd",
-        "date": "2025-05-22",
-        "itemNumber": "4.1",
-        "itemTitle": "2026 Annual Budget Update - Status Update"
-      },
-      {
-        "id": "0f19b60c927d",
-        "date": "2025-05-22",
-        "itemNumber": "4.1",
-        "itemTitle": "2026 Annual Budget Update - Status Update"
-      },
-      {
-        "id": "4750754213bc",
-        "date": "2025-05-22",
-        "itemNumber": "4.1",
-        "itemTitle": "2026 Annual Budget Update - Status Update"
-      },
-      {
-        "id": "2402cfe58258",
-        "date": "2025-05-22",
-        "itemNumber": "4.1",
-        "itemTitle": "2026 Annual Budget Update - Status Update"
-      },
-      {
-        "id": "e350b258eb2f",
-        "date": "2025-05-22",
-        "itemNumber": "4.1",
-        "itemTitle": "2026 Annual Budget Update - Status Update"
-      },
-      {
-        "id": "6799a7e69f77",
-        "date": "2025-05-22",
-        "itemNumber": "4.1",
-        "itemTitle": "2026 Annual Budget Update - Status Update"
-      },
-      {
-        "id": "545479fa2b3f",
-        "date": "2025-05-22",
-        "itemNumber": "4.1",
-        "itemTitle": "2026 Annual Budget Update - Status Update"
-      },
-      {
-        "id": "0bd0c15f3d73",
-        "date": "2025-05-22",
-        "itemNumber": "4.1",
-        "itemTitle": "2026 Annual Budget Update - Status Update"
-      },
-      {
         "id": "0878dbce0173",
         "date": "2025-05-21",
         "itemNumber": "3.6",
@@ -32917,12 +33636,6 @@
         "itemTitle": "Expropriation of Lands - East London Link Project - Phase 4 (As the \"Expropriating Authority\") (Relates to Bill No. 362)"
       },
       {
-        "id": "19efb38c1dc0",
-        "date": "2024-11-05",
-        "itemNumber": "8.2.4",
-        "itemTitle": "(4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update"
-      },
-      {
         "id": "d7283f8e12c5",
         "date": "2024-11-05",
         "itemNumber": "8.2.4",
@@ -32966,12 +33679,6 @@
       },
       {
         "id": "f6374d813bdb",
-        "date": "2024-10-29",
-        "itemNumber": "4.1",
-        "itemTitle": "Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update "
-      },
-      {
-        "id": "4079dc909bd5",
         "date": "2024-10-29",
         "itemNumber": "4.1",
         "itemTitle": "Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update "
@@ -34741,12 +35448,6 @@
         "itemTitle": "By-laws"
       },
       {
-        "id": "529af203914c",
-        "date": "2023-10-05",
-        "itemNumber": "8.1.3",
-        "itemTitle": "(4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)"
-      },
-      {
         "id": "507e4c8666e7",
         "date": "2023-10-03",
         "itemNumber": "4.1",
@@ -35533,18 +36234,6 @@
         "itemTitle": "Request for Business Cases for the Multi-Year Budget"
       },
       {
-        "id": "8f9d70f94956",
-        "date": "2023-05-30",
-        "itemNumber": "4.3",
-        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
-      },
-      {
-        "id": "cecebbd8ba33",
-        "date": "2023-05-30",
-        "itemNumber": "4.3",
-        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
-      },
-      {
         "id": "83283be2a1ca",
         "date": "2023-05-24",
         "itemNumber": "4.3",
@@ -36011,12 +36700,6 @@
         "date": "2023-01-30",
         "itemNumber": "3.5",
         "itemTitle": "608 Commissioners Road West (Z-9516)"
-      },
-      {
-        "id": "b93cbde81dec",
-        "date": "2023-01-26",
-        "itemNumber": "4.3",
-        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
       },
       {
         "id": "98f41809d825",

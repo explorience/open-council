@@ -15,18 +15,18 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
 | [Housing & Density](/election/issues/housing) | 212 | 126 |
-| [Taxes & Budget](/election/issues/budget) | 113 | 84 |
-| [Homelessness & Encampments](/election/issues/encampments) | 112 | 52 |
+| [Taxes & Budget](/election/issues/budget) | 127 | 85 |
+| [Homelessness & Encampments](/election/issues/encampments) | 115 | 53 |
 | [Transit & Roads](/election/issues/transit) | 59 | 29 |
 | [Climate & Green Space](/election/issues/climate) | 38 | 16 |
 | [Downtown & Core](/election/issues/downtown) | 20 | 12 |
 | [Bike Lanes / Cycling](/election/issues/bikes) | 16 | 11 |
-| [Policing](/election/issues/policing) | 13 | 6 |
+| [Policing](/election/issues/policing) | 12 | 6 |
 
 
 ## Unclassified divided votes
 
-1,149 additional divided motions since January 1, 2023 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 1,149 are listed below:
+1,133 additional divided motions since January 1, 2023 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 1,133 are listed below:
 
 - July 21, 2026 — By-laws (item 13)
 - July 21, 2026 — By-laws (item 13)
@@ -42,6 +42,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - July 21, 2026 — By-laws (item 13)
 - July 21, 2026 — (2.1) Green Development Framework Update (item 8.2.4)
 - July 21, 2026 — (2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue (item 8.3.6)
+- July 21, 2026 — (4.4) City of London Special Constable Program (item 8.4.10)
 - July 21, 2026 — (4.4) City of London Special Constable Program (item 8.4.10)
 - July 21, 2026 — (4.5) By-law Enforcement Administrative Fees (item 8.4.11)
 - July 21, 2026 — (2.4) Housing Stability Services Procurement and Delivery Framework (item 8.4.4)
@@ -458,17 +459,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - May 26, 2025 — 2025 Council Policy Review (item 4.1)
 - May 26, 2025 — Bad Debts - Aspire Food Group - Councillor S. Stevenson (item 4.2)
 - May 26, 2025 — (ADDED) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson (item 5.2)
-- May 22, 2025 — 2026 Annual Budget Update - Status Update (item 4.1)
-- May 22, 2025 — 2026 Annual Budget Update - Status Update (item 4.1)
-- May 22, 2025 — 2026 Annual Budget Update - Status Update (item 4.1)
-- May 22, 2025 — 2026 Annual Budget Update - Status Update (item 4.1)
-- May 22, 2025 — 2026 Annual Budget Update - Status Update (item 4.1)
-- May 22, 2025 — 2026 Annual Budget Update - Status Update (item 4.1)
-- May 22, 2025 — 2026 Annual Budget Update - Status Update (item 4.1)
-- May 22, 2025 — 2026 Annual Budget Update - Status Update (item 4.1)
-- May 22, 2025 — 2026 Annual Budget Update - Status Update (item 4.1)
-- May 22, 2025 — 2026 Annual Budget Update - Status Update (item 4.1)
-- May 22, 2025 — 2026 Annual Budget Update - Status Update (item 4.1)
 - May 21, 2025 — Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block (item 3.6)
 - May 20, 2025 — Whole of Community System Response Overview (item 4.1)
 - May 20, 2025 — Whole of Community System Response Overview (item 4.1)
@@ -660,12 +650,10 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - November 5, 2024 — (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update (item 8.2.4)
 - November 5, 2024 — (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update (item 8.2.4)
 - November 5, 2024 — (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update (item 8.2.4)
-- November 5, 2024 — (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update (item 8.2.4)
 - November 5, 2024 — (4.3) Agencies, Boards and Commissions Motion (item 8.2.6)
 - November 5, 2024 — (3.1) Life*Spin - Property Standards and Tenant Support (item 8.5.6)
 - November 5, 2024 — (3.1) Life*Spin - Property Standards and Tenant Support (item 8.5.6)
 - November 5, 2024 — (3.1) Life*Spin - Property Standards and Tenant Support (item 8.5.6)
-- October 29, 2024 — Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update (item 4.1)
 - October 29, 2024 — Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update (item 4.1)
 - October 29, 2024 — Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update (item 4.1)
 - October 29, 2024 — Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update (item 4.1)
@@ -961,7 +949,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - October 5, 2023 — By-laws (item 13)
 - October 5, 2023 — By-laws (item 13)
 - October 5, 2023 — By-laws (item 13)
-- October 5, 2023 — (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367) (item 8.1.3)
 - October 3, 2023 — Urban Design Peer Review Panel (item 4.1)
 - October 3, 2023 — Urban Design Peer Review Panel (item 4.1)
 - October 3, 2023 — Budweiser Gardens Proposed Expansion - Additional Information and Proposed Amending Agreement (item 4.1)
@@ -1093,8 +1080,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - May 30, 2023 — Core Area Land and Building Vacancy Reduction Strategy (item 2.2)
 - May 30, 2023 — 2022 Climate Emergency Action Plan Progress Report (item 4.1)
 - May 30, 2023 — Request for Business Cases for the Multi-Year Budget (item 4.3)
-- May 30, 2023 — Request for Business Cases for the Multi-Year Budget (item 4.3)
-- May 30, 2023 — Request for Business Cases for the Multi-Year Budget (item 4.3)
 - May 24, 2023 — Automated Enforcement Program Expansion Single Source 2023-142 (item 4.3)
 - May 23, 2023 — Consent (item 2)
 - May 23, 2023 — Expropriation of Lands - East London Link Project Phase 3 (item 2.5)
@@ -1173,7 +1158,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - January 30, 2023 — Declare Surplus - City-Owned Property - Part of 641 Queens Avenue (item 2.4)
 - January 30, 2023 — 489 Upper Queen Street (Z-9540) (item 3.4)
 - January 30, 2023 — 608 Commissioners Road West (Z-9516) (item 3.5)
-- January 26, 2023 — Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000) (item 4.3)
 - January 23, 2023 — Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results (item 4.1)
 - January 11, 2023 — Developing the 2023-2027 Strategic Plan: Setting the Vision, Mission, Values, Strategic Areas of Focus, Outcomes and Expected Results (item 4.1)
 - January 9, 2023 — 634 Commissioners Road West (item 3.2)
