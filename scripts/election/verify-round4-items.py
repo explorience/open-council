@@ -75,7 +75,36 @@ by_id_correction_now = {}
 for c in corrections:
     by_id_correction_now.setdefault(c["id"], {})[c["field"]] = c["now"]
 
-for mid in ["4df11e775c7f", "f256055d95cb", "171d5c892bfb", "afa632a6cb38"]:
+# 2026-09-02 (PR #202 round): every id below is hardcoded against whatever
+# data/votes/_all-motions.json id was current when this gate was written.
+# Two upstream regenerations since then (this branch's pre-2018 ingestion +
+# extractMotionText fix, on top of #196/#201's own churn) changed the id for
+# most of them - a hardcoded id that no longer exists anywhere is NOT the
+# same thing as "still correctly downgraded", so REQUIRE_CURRENT below makes
+# a stale id a loud FAIL instead of the silent, meaningless PASS you get from
+# `{}.get(field) is None` (true for "downgraded" AND for "id not found" alike
+# - the exact trap this refresh exists to close). Each id is chased through
+# scripts/election/classify/rekey-map-20260902*.json (and, once, the older
+# 20260902 map from #196) to its current equivalent; old id kept in a
+# trailing comment for provenance/audit.
+CURRENT_IDS = set(all_motions.keys())
+
+def require_current(mid, label):
+    """FAIL loudly (never a silent vacuous pass) if mid isn't a real,
+    current motion id - the id-churn-safe replacement for a bare
+    by_id_correction_now.get(mid, {}) lookup."""
+    ok = mid in CURRENT_IDS
+    check(f"{label}: {mid} is a current motion id (not stale/unresolved)", ok)
+    return ok
+
+for mid in [
+    "f74ed511bc6d",  # was 4df11e775c7f
+    "3813f33f3f54",  # was f256055d95cb
+    "99f660dff7c0",  # was 171d5c892bfb -> (20260902) 21e06031ea95 -> (20260902d)
+    "82920ae88a00",  # was afa632a6cb38
+]:
+    if not require_current(mid, "item 2"):
+        continue
     now = by_id_correction_now.get(mid, {})
     check(
         f"{mid} downgraded to unclear (axis=null, polarity=null) in corrections.json",
@@ -102,7 +131,14 @@ business_case_axis_present = any(
 )
 check("business-case axis no longer appears anywhere in stances.json (axis emptied cleanly)", not business_case_axis_present)
 
-for mid, expect_axis, expect_pol in [("987a0e7529b2", "levy-size", "restrictive"), ("f7c197957c99", "levy-size", "restrictive")]:
+# 2026-09-02 (PR #202 round): see the item-2 header comment - ids below
+# chased through rekey-map-20260902*.json to their current equivalent.
+for mid, expect_axis, expect_pol in [
+    ("81604ebe0e88", "levy-size", "restrictive"),  # was 987a0e7529b2
+    ("0666282b30d3", "levy-size", "restrictive"),  # was f7c197957c99
+]:
+    if not require_current(mid, "item 3"):
+        continue
     now = by_id_correction_now.get(mid, {})
     check(
         f"{mid} moved to ({expect_axis}, {expect_pol}) via corrections.json",
@@ -111,52 +147,87 @@ for mid, expect_axis, expect_pol in [("987a0e7529b2", "levy-size", "restrictive"
     )
 
 downgraded_business_case_ids = [
-    "01d52536f471", "69288d65e04c", "5581ea6993ac", "a4eb827c855c",
-    "e11dd21254b2", "d167a282544f", "3dd05e479854", "1c8075648323",
-    "ba9608551c5e", "294f2da7a27e", "e7b1e2dca5dc", "17e2790f8249",
-    "45e004c6a94d", "7b22159ad688", "48bb3106304c", "0689312f36aa",
-    "57b785c0afb3",
+    "050a9f0f9146",  # was 01d52536f471 -> (20260902) be1f4927f690 -> (20260902d)
+    "fdbfa59e401a",  # was 69288d65e04c
+    "90cb7d09948d",  # was 5581ea6993ac
+    "a41ecd8d8212",  # was a4eb827c855c
+    "5d8be07a288c",  # was e11dd21254b2
+    "1d7c40b467ec",  # was d167a282544f
+    "0c2a411423be",  # was 3dd05e479854
+    "a6473f2744cd",  # was 1c8075648323
+    "c08daf018133",  # was ba9608551c5e
+    "2307b1d59a7d",  # was 294f2da7a27e
+    "0f19b60c927d",  # was e7b1e2dca5dc
+    "4750754213bc",  # was 17e2790f8249
+    "2402cfe58258",  # was 45e004c6a94d
+    "e350b258eb2f",  # was 7b22159ad688
+    "6799a7e69f77",  # was 48bb3106304c
+    "545479fa2b3f",  # was 0689312f36aa
+    "0bd0c15f3d73",  # was 57b785c0afb3
 ]
+missing_business_case_ids = [mid for mid in downgraded_business_case_ids if mid not in CURRENT_IDS]
+check(
+    f"all {len(downgraded_business_case_ids)} no-derivable-sign business-case row ids are current (not stale/unresolved)",
+    not missing_business_case_ids, str(missing_business_case_ids),
+)
 all_downgraded = all(
     by_id_correction_now.get(mid, {}).get("axis") is None and by_id_correction_now.get(mid, {}).get("polarity") is None
-    for mid in downgraded_business_case_ids
+    for mid in downgraded_business_case_ids if mid in CURRENT_IDS
 )
 check(f"all {len(downgraded_business_case_ids)} no-derivable-sign business-case rows downgraded to unclear", all_downgraded)
 
 # 18633398dd86/ea03954e4926 (round-3 corrections) must be UNTOUCHED by round-4
-check(
-    "18633398dd86 round-3 correction untouched (still levy-size/expansive, not re-derived from degenerate scrape)",
-    by_id_correction_now.get("18633398dd86", {}) == {"axis": "levy-size", "polarity": "expansive"},
-    str(by_id_correction_now.get("18633398dd86")),
-)
-check(
-    "ea03954e4926 round-3 correction untouched (still levy-size/restrictive)",
-    by_id_correction_now.get("ea03954e4926", {}) == {"axis": "levy-size", "polarity": "restrictive"},
-    str(by_id_correction_now.get("ea03954e4926")),
-)
+if require_current("22951914b4b2", "item 3"):  # was 18633398dd86
+    check(
+        "22951914b4b2 round-3 correction untouched (still levy-size/expansive, not re-derived from degenerate scrape) [was 18633398dd86]",
+        by_id_correction_now.get("22951914b4b2", {}) == {"axis": "levy-size", "polarity": "expansive"},
+        str(by_id_correction_now.get("22951914b4b2")),
+    )
+if require_current("021ec895b691", "item 3"):  # was ea03954e4926
+    check(
+        "021ec895b691 round-3 correction untouched (still levy-size/restrictive) [was ea03954e4926]",
+        by_id_correction_now.get("021ec895b691", {}) == {"axis": "levy-size", "polarity": "restrictive"},
+        str(by_id_correction_now.get("021ec895b691")),
+    )
 
 # ---------------------------------------------------------------------------
 print("\n=== Item 4: amendment-ladder tallying (Stevenson 5c6d802b2c95/e3e298593604) ===")
-stevenson = stances["councillors"]["s-stevenson"]
-enc = stevenson["issues"]["encampments"]
-rs_axis = next(ax for ax in enc["axes"] if ax["axis"] == "response-scale")
-excluded_ids = {e["motionId"] for e in rs_axis["ladderExclusions"]}
-check("5c6d802b2c95 is in Stevenson's response-scale ladderExclusions", "5c6d802b2c95" in excluded_ids)
-check("e3e298593604 is in Stevenson's response-scale ladderExclusions", "e3e298593604" in excluded_ids)
-check(
-    "both excluded rows are in the SAME decisionGroupIndex",
-    len({e["decisionGroupIndex"] for e in rs_axis["ladderExclusions"] if e["motionId"] in ("5c6d802b2c95", "e3e298593604")}) == 1,
-)
-# The pair's raw votes must genuinely be nay/yea per source data
-m1, m2 = all_motions["5c6d802b2c95"], all_motions["e3e298593604"]
-check(
-    "5c6d802b2c95: Susan Stevenson recorded NAY in source data",
-    "Susan Stevenson" in m1["nays"],
-)
-check(
-    "e3e298593604: Susan Stevenson recorded YEA in source data",
-    "Susan Stevenson" in m2["yeas"],
-)
+# 2026-09-02 (PR #202 round): 5c6d802b2c95 -> 19efb38c1dc0 rekeys cleanly.
+# e3e298593604 does NOT - it's one of this round's genuinely-unresolved ids
+# (data/election/classify/rekey-unresolved-20260902d.json: two candidates,
+# both containing the recorded quote verbatim - an "amend clause j)" motion
+# and the "approve part j) as amended" motion that necessarily recites the
+# same final clause text, so the quote alone can't tell them apart). Skip
+# the pair-dependent checks below rather than crash on a stale/missing id
+# (the original bug: `all_motions["5c6d802b2c95"]` with no guard), and say
+# so plainly instead of a silent pass.
+MID1, MID2 = "19efb38c1dc0", "e3e298593604"  # was 5c6d802b2c95, e3e298593604
+mid1_ok = require_current(MID1, "item 4")
+mid2_ok = require_current(MID2, "item 4")
+if not mid2_ok:
+    print(f"  SKIP: item 4's pair-dependent checks need both ids current - {MID2} is a genuine, "
+          f"documented rekey gap (see rekey-unresolved-20260902d.json), not re-guessed at here.")
+if mid1_ok and mid2_ok:
+    stevenson = stances["councillors"]["s-stevenson"]
+    enc = stevenson["issues"]["encampments"]
+    rs_axis = next(ax for ax in enc["axes"] if ax["axis"] == "response-scale")
+    excluded_ids = {e["motionId"] for e in rs_axis["ladderExclusions"]}
+    check(f"{MID1} is in Stevenson's response-scale ladderExclusions", MID1 in excluded_ids)
+    check(f"{MID2} is in Stevenson's response-scale ladderExclusions", MID2 in excluded_ids)
+    check(
+        "both excluded rows are in the SAME decisionGroupIndex",
+        len({e["decisionGroupIndex"] for e in rs_axis["ladderExclusions"] if e["motionId"] in (MID1, MID2)}) == 1,
+    )
+    # The pair's raw votes must genuinely be nay/yea per source data
+    m1, m2 = all_motions[MID1], all_motions[MID2]
+    check(
+        f"{MID1}: Susan Stevenson recorded NAY in source data",
+        "Susan Stevenson" in m1["nays"],
+    )
+    check(
+        f"{MID2}: Susan Stevenson recorded YEA in source data",
+        "Susan Stevenson" in m2["yeas"],
+    )
 # Arithmetic closure check (independently re-derived, not trusting overall.ladderExcluded)
 closure_errors = 0
 for slug, c in stances["councillors"].items():
@@ -175,19 +246,22 @@ check("overall.ladderExcluded field matches independently-summed per-axis ladder
 
 # ---------------------------------------------------------------------------
 print("\n=== Item 5: c975eb034a57 (Business Case #P-56) ===")
-now = by_id_correction_now.get("c975eb034a57", {})
-check("c975eb034a57 downgraded to unclear (axis=null, polarity=null)", now.get("axis") is None and now.get("polarity") is None, str(now))
-found_climate_target = False
-for c in stances["councillors"].values():
-    climate = c["issues"].get("climate")
-    if not climate:
-        continue
-    for ax in climate["axes"]:
-        if ax["axis"] == "target-strength":
-            for ev in ax["evidence"]:
-                if ev["motionId"] == "c975eb034a57":
-                    found_climate_target = True
-check("c975eb034a57 does not appear under any climate/target-strength axis evidence", not found_climate_target)
+# 2026-09-02 (PR #202 round): was c975eb034a57, rekeyed to 7f9cba8155ba.
+MID5 = "7f9cba8155ba"  # was c975eb034a57
+if require_current(MID5, "item 5"):
+    now = by_id_correction_now.get(MID5, {})
+    check(f"{MID5} downgraded to unclear (axis=null, polarity=null)", now.get("axis") is None and now.get("polarity") is None, str(now))
+    found_climate_target = False
+    for c in stances["councillors"].values():
+        climate = c["issues"].get("climate")
+        if not climate:
+            continue
+        for ax in climate["axes"]:
+            if ax["axis"] == "target-strength":
+                for ev in ax["evidence"]:
+                    if ev["motionId"] == MID5:
+                        found_climate_target = True
+    check(f"{MID5} does not appear under any climate/target-strength axis evidence", not found_climate_target)
 
 print("\n" + "=" * 60)
 if FAIL:
