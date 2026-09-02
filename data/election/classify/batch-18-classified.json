@@ -1,0 +1,477 @@
+[
+ {
+  "id": "0ae2eb6affd6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved extending Coriano Capital's government-relations and advocacy consulting contract by two months, to July 15, 2024.",
+  "confidence": "high",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "f6ea568328ee",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Granted leave to introduce an emergent motion proposing amendments to the Mayor's 2024-2027 budget, without deciding any budget content itself.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "acd7ca1ecdcd",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Changed the order of the Council agenda to move Emergent Motions earlier in the meeting.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "914a060cc7ee",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Granted leave to introduce a notice of motion proposing amendments to the Mayor's 2024-2027 budget, without deciding any budget content itself.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "01a2ed8dac95",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed $100,000 per year (2024-2027) in capital funding for the Downtown Plan Small Scale Projects program from the base capital budget.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to remove Capital Project PD1218 London\u2019s Downtown Plan \u2013 Small Scale Projects as set out in the Base Capital Budget in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023",
+  "flags": []
+ },
+ {
+  "id": "f329694d1226",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed $100,000 per year (2024-2027) in capital funding for Dundas Place equipment from the base capital budget.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to remove Capital Project RC1036 Dundas Place Equipment as set out in the Base Capital Budget of the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023",
+  "flags": []
+ },
+ {
+  "id": "371408bc6cb2",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Increased Business Case #P-46 (Economic and Partnership Initiatives) funding by adding actions 3 and 6, roughly $75,000-$100,000 per year.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by increasing Business Case #P-46 to include actions 3 and action 6",
+  "flags": []
+ },
+ {
+  "id": "0b9450861397",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Sustained the Chair's procedural ruling that a budget amendment to item 22 was in order.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "cd86a08f5c79",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Reduced Business Case #P-46 (Economic and Partnership Initiatives) Action 12 funding by $450,000 per year for 2025-2027.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing Business Case #P-46 \u2013 Economic and Partnership Initiatives \u2013 Action Number 12 by $450,000 from 2025 to 2027",
+  "flags": []
+ },
+ {
+  "id": "d6e76583b5c9",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Reversed a proposed 5.4% funding-increase cap on Museum London, restoring it to the higher 6.3% base-budget increase.",
+  "confidence": "medium",
+  "quote": "the Mayor\u2019s 2024-2027 Multi Year Budget BE AMENDED to remove Adj. #4 \u2013 Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget) as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023.",
+  "flags": []
+ },
+ {
+  "id": "2abe28697a4e",
+  "issue": "policing",
+  "axis": "budget-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Reduced Business Case #P-29 (Police Vehicle and Equipment Requirements) funding by 5%.",
+  "confidence": "medium",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing Business Case #P-29 by 5%",
+  "flags": []
+ },
+ {
+  "id": "d16bcff25aa5",
+  "issue": "policing",
+  "axis": "budget-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Reduced Business Case #P-29 \u2013 Police Vehicle and Equipment Requirements funding by a specified dollar amount each year (2024-2027).",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing Business Case #P-29 - Police Vehicle and Equipment Requirements by the following:",
+  "flags": []
+ },
+ {
+  "id": "b0a5846fa9db",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added funding starting in 2026 for an extension of Parks Operations Services under Business Case #P-31.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include funding for \u201cAction #3: Extension of Parks Operations Services\u201d of Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023",
+  "flags": []
+ },
+ {
+  "id": "7329cb0af63a",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $400,000 per year (2024-2027) in funding for Business Case #P-15, a Hoarding/Extreme Clean Program.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-15 \u2013 Hoarding/Extreme Clean Program; as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023",
+  "flags": []
+ },
+ {
+  "id": "fac9c011ec89",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $700,000 per year (2024-2027) in funding for Business Case #P-16, a Housing Stability Bank expansion.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-16 \u2013 Housing Stability Bank Expansion, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023",
+  "flags": []
+ },
+ {
+  "id": "f61c9cf71d80",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Refused a rezoning application at 1494 Commissioners Road West that would have changed the property from a low-density Residential R1 zone to a higher-density Residential R8 special-provision zone, citing non-compliance with Environmental Management Guidelines.",
+  "confidence": "high",
+  "quote": "the request to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential R1 (R1-8) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone and Open Space (OS5) Zone BE REFUSED for the following reason: i) this application does not comply with the Environmental Management Guidelines",
+  "flags": []
+ },
+ {
+  "id": "e67269fef518",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the graphic-images display staff report back to Civic Administration and directed staff to bring forward a draft by-law by the end of Q2 2024, rather than deciding the underlying regulation.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "c58fcf1c3125",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Noted receipt of five public communications on the graphic-images display item, without deciding the matter.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "92217c9fca3b",
+  "issue": "policing",
+  "axis": "budget-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Added funding for four housing/homelessness-support business cases (Hoarding/Extreme Clean, Housing Stability Bank, Housing Stability Table, Housing Support Case Management), fully offset by an equal, explicit reduction to the London Police Service operating budget (roughly $1.7-2.25 million per year).",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-15 \u2013 Hoarding/Extreme Clean Program; Business Case #P-16 \u2013 Housing Stability Bank Expansion; Business Case #P-17 \u2013 Housing Stability Table; and Business Case #P-18 \u2013 Housing Support Programs Case Management Enhancements, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, offset by an equal reduction to the London Police Services operating budget",
+  "flags": []
+ },
+ {
+  "id": "decf822984d2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted Councillor C. Rahman to speak an additional 5 minutes on the Business Case #P-15/16/17/18 amendment.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "f5672a0e9141",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $400,000 per year (2024-2027) in funding for Business Case #P-15, a Hoarding/Extreme Clean Program.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-15 \u2013 Hoarding/Extreme Clean Program; as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023",
+  "flags": []
+ },
+ {
+  "id": "d424faa3a4c9",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $700,000 per year (2024-2027) in funding for Business Case #P-16, a Housing Stability Bank expansion.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-16 \u2013 Housing Stability Bank Expansion, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023",
+  "flags": []
+ },
+ {
+  "id": "3424052e182e",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Reduced funding for Business Case #P-36 (Safe London and Anti-Racism/Anti-Oppression Action Plan) to a flat $125,000 annually, a cut of $58,000 per year.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing funding for Business Case #P-36 \u2013 Safe London and Anti Racism/Anti Oppression Action Plan to $125,000 annually",
+  "flags": []
+ },
+ {
+  "id": "04664b9f96a1",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Increased funding for Business Case #P-51 to provide 18,000 hours of London Transit conventional service growth per year, as recommended by the London Transit Commission.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for Business Case #P-51 \u2013 Transit Service Conventional Growth Hours, as approved by the London Transit Commission on January 31st, 2024 to provide for 18,000 hours of growth in each year, by increasing funding as follows",
+  "flags": []
+ },
+ {
+  "id": "02f66ef73058",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted Councillor S. Trosow to speak an additional 5 minutes on the Library base-budget amendment.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "68345dd4c078",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Increased the London Public Library's 2024 base-budget increase from the Mayor's proposed 5.4% to 7% (+$331,931).",
+  "confidence": "high",
+  "quote": "Motion to approve part a), related to 2024: That the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to increase London Public Library\u2019s Base Budget in support of maintaining the essential infrastructure the Library offers Londoners: a) 2024: 7% (Mayor\u2019s Budget: 5.4%)",
+  "flags": []
+ },
+ {
+  "id": "38d7f6ed72c4",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have increased the London Public Library's 2025 base-budget increase from the Mayor's proposed 6.0% to 8% (+$833,824).",
+  "confidence": "high",
+  "quote": "Motion to approve part b), related to 2025: b) 2025: 8% (Mayor\u2019s Budget: 6.0%)",
+  "flags": []
+ },
+ {
+  "id": "bf46bccfd06a",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have increased the London Public Library's 2026 base-budget increase from the Mayor's proposed 5.1% to 9% (+$1,876,707).",
+  "confidence": "high",
+  "quote": "Motion to approve part c), related to 2026: c) 2026: 9% (Mayor\u2019s Budget: 5.1%)",
+  "flags": []
+ },
+ {
+  "id": "7887cbf40631",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have increased the London Public Library's 2027 base-budget increase from the Mayor's proposed 5.2% to 9% (+$3,039,325).",
+  "confidence": "high",
+  "quote": "Motion to approve part d), related to 2027: d) 2027: 9% (Mayor\u2019s Budget: 5.2%)",
+  "flags": []
+ },
+ {
+  "id": "ab96c21a81e0",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $31,000 in Community Investment Reserve Fund capital spending in 2024 to expand the Central Library's 2nd Floor Creativity Lab, under Business Case #P-30.",
+  "confidence": "high",
+  "quote": "a) to support investment of $31,000 for expansion of the services delivered by the Central Library\u2019s 2nd Floor Creativity Lab",
+  "flags": []
+ },
+ {
+  "id": "fb5e80fd7115",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $100,000 in Community Investment Reserve Fund capital spending (2025-2026) to expand children's digital literacy discovery programs, under Business Case #P-30.",
+  "confidence": "high",
+  "quote": "b) an investment of $100,000 to expand the suite of children\u2019s digital literacy discovery programs",
+  "flags": []
+ },
+ {
+  "id": "aa2652715eaf",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $134,000 total (2024-2027) in ongoing funding under Business Case #P-69 to expand the London Public Library's collections purchasing, aimed at underrepresented and diverse-experience publishing.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-69 \u2013 Expanded Support for Library Collections, in the revised total 2024-2027: a) annual funding totaling $134,000 (2024: $30,000; 2025: $32,000; 2026: $35,000; 2027: $37,000) to ensure that London Public Library can continue to purchase broadly and widely in the burgeoning publishing market amplifying underrepresented viewpoints and diverse experiences",
+  "flags": []
+ },
+ {
+  "id": "4d51d4c7f3fa",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $100,000 in one-time 2024 funding under Business Case #P-69 to replace high-demand children's and teen print materials at the London Public Library.",
+  "confidence": "high",
+  "quote": "Motion to approve part b): b) one-time funding of $100,000 in 2024, to be funded from the Community Investment Reserve Fund, to ensure that the London Public Library can replace high-demand children\u2019s and teen print materials to keep pace with increasing use of these collections post-COVID",
+  "flags": []
+ },
+ {
+  "id": "c975eb034a57",
+  "issue": "climate",
+  "axis": "target-strength",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Reduced funding to the Climate Change Invest Fund under the Climate Emergency Action Plan (Business Case #P-56) to a flat $1 million annual contribution, using the savings to offset transit service-hours funding.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b \u2013 Climate Change Invest (CCI) Fund of Business Case # P-56 \u2013 Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million",
+  "flags": []
+ },
+ {
+  "id": "85551557a69f",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Reduced by $1.8 million per year (2024-2027) the budgeted cost of Business Case #P-L3, which covers statutory development-charge exemptions under the province's More Homes Built Faster Act (Bill 23).",
+  "confidence": "medium",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding for Business Case #P-L3 \u2013 More Homes Built Faster Act, Bill 23 \u2013 Statutory Exemptions",
+  "flags": []
+ },
+ {
+  "id": "e2d99c6f8b4d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Awarded a $28.5 million construction contract to Bre-ex Construction Inc. for the East London Link and Municipal Infrastructure Improvements Phase 3C project on Highbury Avenue.",
+  "confidence": "high",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "370948fd7769",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Awarded an $18.3 million construction contract to Bre-Ex Construction Inc. for Rapid Transit Implementation at Clarks Bridge and Wellington Road.",
+  "confidence": "medium",
+  "quote": "the bid submitted by Bre-Ex Construction Inc, at its tendered price of $18,297,251.48 (excluding HST), for the Rapid Transit Implementation, Clarks Bridge and Wellington Road from Thames River to Watson Street project, BE ACCEPTED",
+  "flags": []
+ },
+ {
+  "id": "56a6d8c3bd39",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Awarded a $9.3 million construction contract to Bre-Ex Construction Inc. for the East London Link Phase 3A West project on Dundas Street.",
+  "confidence": "high",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "88ae9c2045ab",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "1d96de84a4bd",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a zoning amendment at 1310 Adelaide Street North and 795 Windermere Road allowing up to three commercial units, including one restaurant with a drive-through facility.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": []
+ },
+ {
+  "id": "0b97a04eaed5",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have required further public notice under the Planning Act before the 1310 Adelaide Street North / 795 Windermere Road rezoning by-law could proceed; the motion failed, so no further notice was required.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "dfbe003808ef",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave final approval, as amended, to the rezoning and Official Plan amendment at 1310 Adelaide Street North and 795 Windermere Road (changing an Open Space zone to a Holding Open Space Special Provision zone permitting development).",
+  "confidence": "medium",
+  "quote": "That item 14, clause 3.9, as amended, BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "7eb5f65600d1",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Removed entirely the budgeted cost of Business Case #P-L3, which covers statutory development-charge exemptions under the province's More Homes Built Faster Act (Bill 23), roughly $1.8 million per year.",
+  "confidence": "medium",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-L3 \u2013 More Homes Built Faster Act, Bill 23 \u2013 Statutory Exemptions.",
+  "flags": []
+ },
+ {
+  "id": "c9f276f22cbc",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Added $60,000 in one-time 2024 funding for Board Governance Training under Business Case #P-40 (Pillar Nonprofit Network capacity-building).",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include one-time funding in 2024 for the Board Governance Training initiative of Business Case #P-40 \u2013 Pillar Nonprofit Network \u2013 Strengthening and Building Capacity in the Nonprofit Sector as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, to be funded from the Community Investment Reserve Fund",
+  "flags": []
+ },
+ {
+  "id": "26a1844b1671",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Increased funding for Business Case #P-51 to add the revised conventional transit service-hours growth for 2024, as approved by the London Transit Commission.",
+  "confidence": "high",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for 2024 only for Business Case #P-51 \u2013 Transit Service Hours Growth, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, as approved by the London Transit Commission on January 31, 2024, by increasing funding as follows",
+  "flags": []
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "id": "04ef20f344ee",
+  "removed_from": "batch-returning-verified.json",
+  "kept_in": "batch-returning-verified.json",
+  "moot_corrections_dropped": [
+   {
+    "id": "04ef20f344ee",
+    "field": "axis",
+    "was": "business-case",
+    "now": null,
+    "reason": "Round-5 gate item 0 (wiring data/election/classify/batch-returning-verified.json into the verified-classification loader surfaced this business-case-axis motion for the first time -- it predates round-4's sweep-business-case-levy.py, which only ran over the batches that existed then) + re-run of that same sweep now that the returning batch is wired in: this motion directs Civic Administration to PREPARE a business case (a scoping/drafting instruction), not a motion to include or exclude an already-costed case -- its full text (re-extracted from the raw meeting JSON) carries NO 'Tax Levy' dollar line at all, so there is no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (same defect already fixed on the 22 other business-case rows via corrections.json). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+    "quote": "That the Civic Administration BE DIRECTED to prepare business cases for the following for consideration during the Multi-Year Budget deliberations: a) New Funding, Existing Strategies related to: i) Coves Silver Creek Restoration Project"
+   },
+   {
+    "id": "04ef20f344ee",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+    "quote": "That the Civic Administration BE DIRECTED to prepare business cases for the following for consideration during the Multi-Year Budget deliberations: a) New Funding, Existing Strategies related to: i) Coves Silver Creek Restoration Project"
+   }
+  ],
+  "note": "two pre-churn motions merged into one current motion; surviving entry is natively unclear (axis/polarity null), so the business-case->null downgrade corrections for the vanished twin are moot and removed"
+ }
+]

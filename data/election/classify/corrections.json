@@ -1,0 +1,1482 @@
+[
+ {
+  "id": "a5ad4d139512",
+  "field": "axis",
+  "was": "target-strength",
+  "now": null,
+  "reason": "Round-3 gate BLOCKER: this is a letter-writing/advocacy motion directed at the Province and internal data-gathering, not an act that sets, changes, or weakens any City climate target. The batch-22 verifierNote itself flags this ('worth flagging that target-strength reads slightly generously... it's advocacy directed at another government, not a City target change') but left the axis/polarity in place as 'defensible'. Per the fixer's P1/P4 mandate, advocacy motions do not get a hard direction on a target-change axis: downgraded to unclear rather than publishing three named councillors as having 'weakened a climate or environmental target' for a vote that changed no target.",
+  "quote": "the Mayor of the City of London, Councillor C. Rahman and Councillor A. Hopkins BE DIRECTED to submit a letter to AMO to develop a position and advocate on behalf of Ontario municipalities to request the Government of Ontario to develop and implement a plan to move Ontario to a net zero-carbon electricity grid by 2035, consistent with the 2035 date of the proposed Federal Government Clean Electricity Regulations (CER), to help Ontario and London meet our climate targets"
+ },
+ {
+  "id": "a5ad4d139512",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: the clause directs a letter to AMO/the Province and internal fact-gathering with London's own facilities \u2014 it does not itself strengthen or weaken any target, so no polarity is asserted.",
+  "quote": "the Mayor of the City of London, Councillor C. Rahman and Councillor A. Hopkins BE DIRECTED to submit a letter to AMO to develop a position and advocate on behalf of Ontario municipalities to request the Government of Ontario to develop and implement a plan to move Ontario to a net zero-carbon electricity grid by 2035"
+ },
+ {
+  "id": "df06b640777c",
+  "field": "axis",
+  "was": "response-scale",
+  "now": null,
+  "reason": "This is a resolution asking Ontario's Big City Mayors to request the Government of Ontario declare a state of emergency over homelessness/addictions/mental health, and to provide municipalities with more funding. It is advocacy toward another government, not a City decision that expands London's own encampment/homelessness response. Same advocacy-letter defect class as 187527fc77b7: downgraded to unclear.",
+  "quote": "Therefore it be resolved that Ontario\u2019s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency to address homelessness caused by addictions and mental health that has created a community safety and humanitarian crisis across the province."
+ },
+ {
+  "id": "df06b640777c",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: an advocacy resolution to another government carries no polarity on London's own response-scale axis.",
+  "quote": "Therefore it be resolved that Ontario\u2019s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency"
+ },
+ {
+  "id": "0b898d04d289",
+  "field": "axis",
+  "was": "response-scale",
+  "now": null,
+  "reason": "Council REQUESTING that Civic Administration and the Mayor engage federal/provincial governments to fund the Encampment Implementation Recommendations does not itself change London's response scale by a dollar or a space -- it is a request for outside funding, same advocacy-letter defect class as 187527fc77b7 and cc2a45812971. Downgraded to unclear.",
+  "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of London\u2019s portion of a $250-million federal fund dedicated to addressing encampments"
+ },
+ {
+  "id": "0b898d04d289",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: a request that other governments fund something is not London expanding its own response.",
+  "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations"
+ },
+ {
+  "id": "6bc2898cdbff",
+  "field": "axis",
+  "was": "response-scale",
+  "now": null,
+  "reason": "Sweep for the same advocacy-letter defect shape (class, not instance): this is an amendment to the SAME part b) federal/provincial funding request as 0b898d04d289 -- it only edits where the advocacy ask says any resulting overnight spaces should be sited, it does not itself change London's response scale. Downgraded to unclear alongside its parent motion.",
+  "quote": "b) the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces (that are not located on the main street of any BIA), rent supplements and transactional encampment services as outlined in the report dated October 29, 2024, for a two-year period"
+ },
+ {
+  "id": "6bc2898cdbff",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: an amendment to an advocacy funding request carries no polarity on London's own response-scale axis.",
+  "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces (that are not located on the main street of any BIA)"
+ },
+ {
+  "id": "8ab96e158b0c",
+  "field": "axis",
+  "was": "affordable-funding",
+  "now": null,
+  "reason": "Sweep for the same advocacy-letter defect shape (class, not instance): Council 'supports the house debate' of a provincial private member's motion asking Ontario to establish and fund Homes Ontario, and refers the matter to AMO. This is advocacy support for a provincial funding vehicle, not London approving or denying funding or land for affordable housing itself. Downgraded to unclear.",
+  "quote": "the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: \"That, in the opinion of this House, the Government of Ontario should establish and fund a new public agency called Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers\""
+ },
+ {
+  "id": "8ab96e158b0c",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: a resolution of support for a provincial motion is not a City funding/land decision.",
+  "quote": "the Municipal Council of The Corporation of the City of London supports the house debate of the following motion"
+ },
+ {
+  "id": "a41ad53fb87f",
+  "field": "axis",
+  "was": "density",
+  "now": null,
+  "reason": "Round-3 gate SHOULD FIX (axis-label mismatch): this motion directs staff to stop a procurement process seeking development proposals for City-owned parking lots -- no permitted density or building height changes anywhere in the clause. Halting a procurement is not a zoning act, so the density axis's expansive/restrictive labels ('increased/reduced permitted density or building height') do not describe what happened. Downgraded to unclear rather than relabelled, since no tracked axis in this issue's vocabulary describes 'City declines to proceed with a housing-related procurement'.",
+  "quote": "the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-density housing, encouraging modular construction techniques, and public parking"
+ },
+ {
+  "id": "a41ad53fb87f",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: no permitted density or height changed, so no polarity on the density axis is asserted.",
+  "quote": "the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals ... for high-density housing"
+ },
+ {
+  "id": "24d580d71e55",
+  "field": "axis",
+  "was": "response-scale",
+  "now": null,
+  "reason": "Round-3 gate SHOULD FIX (the other axis-label mismatch, paired with a41ad53fb87f): endorsing a proposed system-transformation approach and procurement framework does not itself change the scale of London's encampment/homelessness response by a dollar or a space -- it endorses a process, not a funding or service-level decision. The near-identical companion item '(2.4) Housing Stability Services Procurement and Delivery Framework' is already listed as unclassified on content/election/issues/index.md; this entry is downgraded to unclear for the same reason, for consistency.",
+  "quote": "the proposed system transformation approach and multi-year Housing Stability Services procurement framework as outlined in the December 1, 2025 staff report, BE ENDORSED"
+ },
+ {
+  "id": "24d580d71e55",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: endorsing a procurement framework/approach is not a response-scale change.",
+  "quote": "the proposed system transformation approach and multi-year Housing Stability Services procurement framework ... BE ENDORSED"
+ },
+ {
+  "id": "0f359afc4f62",
+  "field": "axis",
+  "was": "density",
+  "now": null,
+  "reason": "Round-3 gate SHOULD FIX: the complete operative text of this motion in the source meeting JSON is 'iii. Building Height (maximum): 24.5 metres;' -- a 44-character fragment with no stated base height. Describing this as a reduction ('would have reduced the maximum permitted building height ... to 24.5 metres') requires the base motion's own height figure, which is absent from the record. Downgraded to unclear: insufficient text to support a direction claim.",
+  "quote": "iii. Building Height (maximum): 24.5 metres;"
+ },
+ {
+  "id": "0f359afc4f62",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: a bare numeric fragment with no comparison baseline cannot support a restrictive/expansive claim.",
+  "quote": "BE AMENDED to reduce the building height maximum to 24.5 meters"
+ },
+ {
+  "id": "18633398dd86",
+  "field": "axis",
+  "was": "business-case",
+  "now": "levy-size",
+  "reason": "Round-3 gate SHOULD FIX: the business-case axis pools fiscally opposite effects under one 'included/excluded' label, sitting directly under the sibling levy-size axis whose expansive label already means 'increased the tax levy'. Business Case #P-6 (Reduced Road Network Improvements) is itself a SAVINGS/cut case -- excluding it from the budget means the proposed road-spending cut does NOT happen, i.e. spending (and the levy) stays higher than it would if the cut had been adopted. Re-derived from the source meeting JSON's own numbers for this exact motion (2025-11-20 Budget Committee item d, Moved by S. Stevenson): the case's stated '2026 Tax Levy: $114,000' is the amount EXCLUDING it adds back to the levy versus adopting the cut. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
+  "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
+ },
+ {
+  "id": "18633398dd86",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": "expansive",
+  "reason": "Following from the axis correction on this id: excluding a proposed $114,000 road-network spending cut from the 2026 budget keeps that $114,000 in the levy relative to adopting the cut -- a yea on this motion moved toward a LARGER tax levy, the levy-size axis's expansive outcome, not a restrictive one.",
+  "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
+ },
+ {
+  "id": "ea03954e4926",
+  "field": "axis",
+  "was": "business-case",
+  "now": "levy-size",
+  "reason": "Round-3 gate SHOULD FIX, same defect class as 18633398dd86: Business Case #P-24 (Eliminate Climate Change Reserve Fund Contribution) is itself a SAVINGS/cut case -- including it in the budget applies that cut, lowering the levy. Re-derived from the source meeting JSON's own numbers for this exact motion (2025-11-20 Budget Committee, Moved by S. Franke, Seconded by S. Hillier): the case's stated '2026 Tax Levy: -$192,000' is a levy DECREASE. Reclassified onto the levy-size axis, which actually describes the fiscal direction.",
+  "quote": "That Business Case #P-24 \u2013 Eliminate Climate Change Reserve Fund Contribution \u2013 BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
+ },
+ {
+  "id": "ea03954e4926",
+  "field": "polarity",
+  "was": "expansive",
+  "now": "restrictive",
+  "reason": "Following from the axis correction on this id: including a $192,000/year cut to the Climate Change Reserve Fund contribution LOWERS the 2026 and 2027 tax levy by that amount -- a yea on this motion moved toward a SMALLER tax levy, the levy-size axis's restrictive outcome, not an expansive one.",
+  "quote": "That Business Case #P-24 \u2013 Eliminate Climate Change Reserve Fund Contribution \u2013 BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
+ },
+ {
+  "id": "4df11e775c7f",
+  "field": "axis",
+  "was": "affordable-funding",
+  "now": null,
+  "reason": "Round-4 gate item 2 (advocacy/apply/request/urge/support sweep, re-run to include application-submission shapes): this motion (2026-06-23 Council, 'Request to Submit an Application for New Affordable Housing Funding Through Build Canada Homes') directs staff to SUBMIT AN APPLICATION to a federal capital-funding program -- the City does not itself commit, allocate, or deny affordable-housing funding here; it asks a federal program to. Same advocacy-toward-another-government-or-body defect class as the already-downgraded c0e0eab57589 ('supports the house debate' of a provincial motion asking Ontario to fund Homes Ontario): the City's own act is a request/application, not a funding or land decision. Downgraded to unclear.",
+  "quote": "the Civic Administration BE DIRECTED to submit an application to Build Canada Homes to secure capital funds to support the development of new affordable housing in the city of London and Middlesex-County."
+ },
+ {
+  "id": "4df11e775c7f",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: an application submitted to a federal program, whose funding decision rests with the federal government, carries no polarity on London's own affordable-funding axis.",
+  "quote": "the Civic Administration BE DIRECTED to submit an application to Build Canada Homes to secure capital funds to support the development of new affordable housing in the city of London and Middlesex-County."
+ },
+ {
+  "id": "f256055d95cb",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Round-4 gate item 2 sweep hit (2024-12-17 Council, Land Needs Assessment - Official Plan Review): 'the Province BE REQUESTED to support' an Urban Growth Boundary expansion -- the Growth Plan/UGB is a provincial instrument; London is asking the Province to support an expansion, not itself approving a development application or changing a permitted use (the application-approval axis's own generic label). Same advocacy-toward-another-government defect class as the corrections already applied to 187527fc77b7/cc2a45812971/0b898d04d289/fc2f9833ce19/c0e0eab57589. Downgraded to unclear.",
+  "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London's new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
+ },
+ {
+  "id": "f256055d95cb",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: a request that the Province support a UGB expansion is not London itself approving anything, so no polarity on the application-approval axis is asserted.",
+  "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London's new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
+ },
+ {
+  "id": "21e06031ea95",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Round-4 gate item 2 sweep hit, same underlying request as f256055d95cb at its earlier committee stage (2024-12-03 Planning and Environment Committee, same item, standalone UGB-expansion sub-vote): 'the Province BE REQUESTED to support' a UGB expansion. Same advocacy-toward-another-government defect class -- downgraded to unclear for the same reason as f256055d95cb.",
+  "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London\u2019s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
+ },
+ {
+  "id": "21e06031ea95",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: a request that the Province support a UGB expansion is not London itself approving anything, so no polarity on the application-approval axis is asserted.",
+  "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London\u2019s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
+ },
+ {
+  "id": "afa632a6cb38",
+  "field": "axis",
+  "was": "affordable-funding",
+  "now": null,
+  "reason": "Round-4 gate item 2 sweep hit (2023-10-10 Strategic Priorities and Policy Committee, 'Establishing Homes Ontario'): 'the Government of Ontario BE ADVISED that ... Council supports the house debate of the following motion' asking Ontario to establish and fund Homes Ontario -- the standalone Part b) vote of the same underlying advocacy resolution already downgraded at its Council stage as c0e0eab57589 (same class, same motion text, different procedural wrapper). Downgraded to unclear for the same reason.",
+  "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: ... to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers"
+ },
+ {
+  "id": "afa632a6cb38",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: a resolution advising the Province of Council's support for a provincial motion is not a City funding/land decision.",
+  "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion"
+ },
+ {
+  "id": "987a0e7529b2",
+  "field": "axis",
+  "was": "business-case",
+  "now": "levy-size",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this motion's full text carries an explicit 'Tax Levy' dollar line, so its real fiscal direction is derivable from that line's sign together with the motion's own include/exclude verb, per the same rule already applied to 18633398dd86/ea03954e4926 -- Business Case #P-25 (Stop Collecting Blue Box Materials from Non-Eligible Sources) is BE INCLUDED with an explicit '2026 Tax Levy: -$250,000' -- a yea includes a $250,000/year levy CUT. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
+  "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Update Budget"
+ },
+ {
+  "id": "987a0e7529b2",
+  "field": "polarity",
+  "was": "expansive",
+  "now": "restrictive",
+  "reason": "Following from the axis correction on this id: including a case with an explicit negative Tax Levy figure lowers the levy by that amount -- a yea on this motion moved toward a SMALLER tax levy, the levy-size axis's restrictive outcome.",
+  "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Update Budget"
+ },
+ {
+  "id": "f7c197957c99",
+  "field": "axis",
+  "was": "business-case",
+  "now": "levy-size",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this motion's full text carries an explicit 'Tax Levy' dollar line, so its real fiscal direction is derivable from that line's sign together with the motion's own include/exclude verb, per the same rule already applied to 18633398dd86/ea03954e4926 -- Business Case #P-12 (Resident Satisfaction Survey Frequency) is BE EXCLUDED with an explicit '2027 Tax Levy: $28,000' -- a yea excludes a case that would otherwise have ADDED $28,000/year to the levy, i.e. avoids that increase. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
+  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget"
+ },
+ {
+  "id": "f7c197957c99",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": "restrictive",
+  "reason": "Following from the axis correction on this id: excluding a case with an explicit positive Tax Levy figure keeps that $28,000 OFF the levy relative to including it -- a yea on this motion moved toward a SMALLER tax levy than the alternative, the levy-size axis's restrictive outcome (note: the axis and polarity here happen to be unchanged from the business-case classification's own restrictive label, but the AXIS itself is corrected from the direction-agnostic business-case label to levy-size, which is what actually describes the fiscal direction).",
+  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget"
+ },
+ {
+  "id": "be1f4927f690",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "the Civic Administration BE DIRECTED to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and find an appropriate source of funding"
+ },
+ {
+  "id": "be1f4927f690",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "the Civic Administration BE DIRECTED to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and find an appropriate source of funding"
+ },
+ {
+  "id": "69288d65e04c",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
+ },
+ {
+  "id": "69288d65e04c",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
+ },
+ {
+  "id": "5581ea6993ac",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
+ },
+ {
+  "id": "5581ea6993ac",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
+ },
+ {
+  "id": "a4eb827c855c",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix \"A\"... and to bring forward the corresponding business case for inclusion in the Mayor's proposed 2026 Budget Update"
+ },
+ {
+  "id": "a4eb827c855c",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix \"A\"... and to bring forward the corresponding business case for inclusion in the Mayor's proposed 2026 Budget Update"
+ },
+ {
+  "id": "e11dd21254b2",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
+ },
+ {
+  "id": "e11dd21254b2",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
+ },
+ {
+  "id": "d167a282544f",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements"
+ },
+ {
+  "id": "d167a282544f",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements"
+ },
+ {
+  "id": "3dd05e479854",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 3 Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching"
+ },
+ {
+  "id": "3dd05e479854",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 3 Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching"
+ },
+ {
+  "id": "1c8075648323",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry \u2013 Tree Planting Grants & Non-replacement Tree Planting"
+ },
+ {
+  "id": "1c8075648323",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry \u2013 Tree Planting Grants & Non-replacement Tree Planting"
+ },
+ {
+  "id": "ba9608551c5e",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics \u2013 Closure of 5 Wading Pools"
+ },
+ {
+  "id": "ba9608551c5e",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics \u2013 Closure of 5 Wading Pools"
+ },
+ {
+  "id": "294f2da7a27e",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management \u2013 Resident Satisfaction Survey"
+ },
+ {
+  "id": "294f2da7a27e",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management \u2013 Resident Satisfaction Survey"
+ },
+ {
+  "id": "e7b1e2dca5dc",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources \u2013 Internships"
+ },
+ {
+  "id": "e7b1e2dca5dc",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources \u2013 Internships"
+ },
+ {
+  "id": "17e2790f8249",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology \u2013 Digital Transformation"
+ },
+ {
+  "id": "17e2790f8249",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology \u2013 Digital Transformation"
+ },
+ {
+  "id": "45e004c6a94d",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 1 Traffic Control & Street Lighting - Eliminate Full Funding of New Streetlight Installations"
+ },
+ {
+  "id": "45e004c6a94d",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 1 Traffic Control & Street Lighting - Eliminate Full Funding of New Streetlight Installations"
+ },
+ {
+  "id": "7b22159ad688",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion"
+ },
+ {
+  "id": "7b22159ad688",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion"
+ },
+ {
+  "id": "48bb3106304c",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
+ },
+ {
+  "id": "48bb3106304c",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
+ },
+ {
+  "id": "0689312f36aa",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 4 Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands"
+ },
+ {
+  "id": "0689312f36aa",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 4 Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands"
+ },
+ {
+  "id": "57b785c0afb3",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing \u2013 Climate Change Reserve Fund Contribution"
+ },
+ {
+  "id": "57b785c0afb3",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing \u2013 Climate Change Reserve Fund Contribution"
+ },
+ {
+  "id": "c975eb034a57",
+  "field": "axis",
+  "was": "target-strength",
+  "now": null,
+  "reason": "Round-4 gate item 5: this motion (Business Case #P-56, reducing the Climate Change Invest Fund contribution to a flat $1 million/year and using the savings to offset transit-hours funding) was published as climate/target-strength -- 'weakened a climate or environmental target' -- for 11 named yeas. A funding-level cut is not a target change: no numeric emissions/renewable/net-zero target is set, raised, or lowered anywhere in the clause (the classify pipeline's own verifierNote already flagged this as 'a loose fit'). Checked against item 3's rule (scripts/election/sweep-business-case-levy.py): the full motion text carries no 'Tax Levy' dollar line (only an 'annual contribution of $1 million' figure, with no sign showing whether that is an increase or decrease from the prior contribution), so it is not sign-derivable onto levy-size either. Downgraded to unclear rather than publishing a false target-strength claim.",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b \u2013 Climate Change Invest (CCI) Fund of Business Case # P-56 \u2013 Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
+ },
+ {
+  "id": "c975eb034a57",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: a funding-level change with no derivable fiscal sign and no target changed carries no polarity on any tracked climate axis.",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b \u2013 Climate Change Invest (CCI) Fund of Business Case # P-56 \u2013 Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
+ },
+ {
+  "id": "86b1bf237179",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-5 gate item 0 (wiring data/election/classify/batch-returning-verified.json into the verified-classification loader surfaced this business-case-axis motion for the first time -- it predates round-4's sweep-business-case-levy.py, which only ran over the batches that existed then) + re-run of that same sweep now that the returning batch is wired in: this motion directs Civic Administration to PREPARE a business case (a scoping/drafting instruction), not a motion to include or exclude an already-costed case -- its full text (re-extracted from the raw meeting JSON) carries NO 'Tax Levy' dollar line at all, so there is no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (same defect already fixed on the 22 other business-case rows via corrections.json). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Motion to approve a) ii)\nii)  Invasive Species Management Plan;"
+ },
+ {
+  "id": "86b1bf237179",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Motion to approve a) ii)\nii)  Invasive Species Management Plan;"
+ },
+ {
+  "id": "9547b52b37af",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-5 gate item 0 (wiring data/election/classify/batch-returning-verified.json into the verified-classification loader surfaced this business-case-axis motion for the first time -- it predates round-4's sweep-business-case-levy.py, which only ran over the batches that existed then) + re-run of that same sweep now that the returning batch is wired in: this motion directs Civic Administration to PREPARE a business case (a scoping/drafting instruction), not a motion to include or exclude an already-costed case -- its full text (re-extracted from the raw meeting JSON) carries NO 'Tax Levy' dollar line at all, so there is no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (same defect already fixed on the 22 other business-case rows via corrections.json). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Motion to approve part c) ii)\nc) Reduction Cases:\nii)  Reduction in frequency of grass cutting on city property;"
+ },
+ {
+  "id": "9547b52b37af",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Motion to approve part c) ii)\nc) Reduction Cases:\nii)  Reduction in frequency of grass cutting on city property;"
+ },
+ {
+  "id": "9705aa6da1dc",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-5 gate item 0 (wiring data/election/classify/batch-returning-verified.json into the verified-classification loader surfaced this business-case-axis motion for the first time -- it predates round-4's sweep-business-case-levy.py, which only ran over the batches that existed then) + re-run of that same sweep now that the returning batch is wired in: this motion directs Civic Administration to PREPARE a business case (a scoping/drafting instruction), not a motion to include or exclude an already-costed case -- its full text (re-extracted from the raw meeting JSON) carries NO 'Tax Levy' dollar line at all, so there is no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (same defect already fixed on the 22 other business-case rows via corrections.json). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "Motion to approve a) iii)\niii) Climate Emergency Action Plan;"
+ },
+ {
+  "id": "9705aa6da1dc",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "Motion to approve a) iii)\niii) Climate Emergency Action Plan;"
+ },
+ {
+  "id": "a3765ca3c05a",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "Round-5 gate item 0 (wiring data/election/classify/batch-returning-verified.json into the verified-classification loader surfaced this business-case-axis motion for the first time -- it predates round-4's sweep-business-case-levy.py, which only ran over the batches that existed then) + re-run of that same sweep now that the returning batch is wired in: this motion directs Civic Administration to PREPARE a business case (a scoping/drafting instruction), not a motion to include or exclude an already-costed case -- its full text (re-extracted from the raw meeting JSON) carries NO 'Tax Levy' dollar line at all, so there is no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (same defect already fixed on the 22 other business-case rows via corrections.json). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;"
+ },
+ {
+  "id": "a3765ca3c05a",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;"
+ },
+ {
+  "id": "ccd852275515",
+  "field": "whatAYeaDid",
+  "was": "Declined to include costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on.",
+  "now": "Would have included costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on.",
+  "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+  "quote": "Declined to include costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on."
+ },
+ {
+  "id": "1a8f5640663c",
+  "field": "whatAYeaDid",
+  "was": "Rejected approving the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations.",
+  "now": "Would have approved the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations.",
+  "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+  "quote": "Rejected approving the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations."
+ },
+ {
+  "id": "20f037c8728d",
+  "field": "whatAYeaDid",
+  "was": "Rejected amending the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council.",
+  "now": "Would have amended the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council.",
+  "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+  "quote": "Rejected amending the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council."
+ },
+ {
+  "id": "0d6178fd82e4",
+  "field": "whatAYeaDid",
+  "was": "Rejected directing Civic Administration to consult with first responders (paramedics, police, fire) on emergency services at the Micro-Modular Shelter Site and report back.",
+  "now": "Would have directed Civic Administration to consult with first responders (paramedics, police, fire) on emergency services at the Micro-Modular Shelter Site and report back.",
+  "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+  "quote": "Rejected directing Civic Administration to consult with first responders (paramedics, police, fire) on emergency services at the Micro-Modular Shelter Site and report back."
+ },
+ {
+  "id": "ed4f4a5e9b2e",
+  "field": "whatAYeaDid",
+  "was": "Rejected directing Civic Administration to consult with service providers on their roles, responsibilities, and costs at the Micro-Modular Shelter Site and report back.",
+  "now": "Would have directed Civic Administration to consult with service providers on their roles, responsibilities, and costs at the Micro-Modular Shelter Site and report back.",
+  "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+  "quote": "Rejected directing Civic Administration to consult with service providers on their roles, responsibilities, and costs at the Micro-Modular Shelter Site and report back."
+ },
+ {
+  "id": "e92845765097",
+  "field": "whatAYeaDid",
+  "was": "Rejected directing Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site.",
+  "now": "Would have directed Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site.",
+  "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+  "quote": "Rejected directing Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site."
+ },
+ {
+  "id": "f365e5d918b3",
+  "field": "whatAYeaDid",
+  "was": "Declined to accept the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project.",
+  "now": "Would have accepted the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project, on the Tribunal's finding that the charges were correctly determined.",
+  "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+  "quote": "Declined to accept the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project."
+ },
+ {
+  "id": "90431365e935",
+  "field": "whatAYeaDid",
+  "was": "Rejected reverting the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years, leaving the ten-year term in place.",
+  "now": "Would have reverted the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years.",
+  "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+  "quote": "Rejected reverting the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years, leaving the ten-year term in place."
+ },
+ {
+  "id": "9cee8c55cfde",
+  "field": "whatAYeaDid",
+  "was": "Declined to refer the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions), leaving the original by-law on the table instead.",
+  "now": "Would have referred the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions).",
+  "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+  "quote": "Declined to refer the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions), leaving the original by-law on the table instead."
+ },
+ {
+  "id": "37014e8b1754",
+  "field": "whatAYeaDid",
+  "was": "Rejected directing Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises.",
+  "now": "Would have directed Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises.",
+  "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+  "quote": "Rejected directing Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises."
+ },
+ {
+  "id": "b076ce02bb71",
+  "field": "whatAYeaDid",
+  "was": "Moved to direct Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program; this motion failed.",
+  "now": "Would have directed Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Moved to direct Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program; this motion failed."
+ },
+ {
+  "id": "d0b0c8c79902",
+  "field": "whatAYeaDid",
+  "was": "Moved to amend the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection; this amendment failed.",
+  "now": "Would have amended the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Moved to amend the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection; this amendment failed."
+ },
+ {
+  "id": "0ac4031b0f90",
+  "field": "whatAYeaDid",
+  "was": "Voted to refer the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting.",
+  "now": "Would have referred the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Voted to refer the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting."
+ },
+ {
+  "id": "bcf2885344bc",
+  "field": "whatAYeaDid",
+  "was": "A yea referred part c) -- a directed staff review of the five-bedroom limit on additional residential units -- to a future Planning and Environment Committee meeting rather than deciding it that day.",
+  "now": "A yea would have referred part c) -- a directed staff review of the five-bedroom limit on additional residential units -- to a future Planning and Environment Committee meeting rather than deciding it that day.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "A yea referred part c) -- a directed staff review of the five-bedroom limit on additional residential units -- to a future Planning and Environment Committee meeting rather than deciding it that day."
+ },
+ {
+  "id": "7bb597179dbc",
+  "field": "whatAYeaDid",
+  "was": "Shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year.",
+  "now": "Would have shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year."
+ },
+ {
+  "id": "2d077b0b72af",
+  "field": "whatAYeaDid",
+  "was": "Made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions.",
+  "now": "Would have made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions."
+ },
+ {
+  "id": "e070b52f1e95",
+  "field": "whatAYeaDid",
+  "was": "Directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting.",
+  "now": "Would have directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting."
+ },
+ {
+  "id": "7673f3eaf052",
+  "field": "whatAYeaDid",
+  "was": "Directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language.",
+  "now": "Would have directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language."
+ },
+ {
+  "id": "4d07f4f1ca77",
+  "field": "whatAYeaDid",
+  "was": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text.",
+  "now": "Would have proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text."
+ },
+ {
+  "id": "88ae9c2045ab",
+  "field": "whatAYeaDid",
+  "was": "Referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting.",
+  "now": "Would have referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting."
+ },
+ {
+  "id": "f42a5b460702",
+  "field": "whatAYeaDid",
+  "was": "Referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA.",
+  "now": "Would have referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA."
+ },
+ {
+  "id": "9d2d16516460",
+  "field": "whatAYeaDid",
+  "was": "Directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble.",
+  "now": "Would have directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble."
+ },
+ {
+  "id": "0fd0f9c17a4c",
+  "field": "whatAYeaDid",
+  "was": "Referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting.",
+  "now": "Would have referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting."
+ },
+ {
+  "id": "be1f4927f690",
+  "field": "whatAYeaDid",
+  "was": "Directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source.",
+  "now": "Would have directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source."
+ },
+ {
+  "id": "43c61ca512b8",
+  "field": "whatAYeaDid",
+  "was": "Requested the London & Middlesex Housing Corporation to prepare a business case on pros, cons, costs and funding sources for additional investment in its properties.",
+  "now": "Would have requested the London & Middlesex Housing Corporation to prepare a business case on pros, cons, costs and funding sources for additional investment in its properties.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Requested the London & Middlesex Housing Corporation to prepare a business case on pros, cons, costs and funding sources for additional investment in its properties."
+ },
+ {
+  "id": "1904983f1fcc",
+  "field": "whatAYeaDid",
+  "was": "Directed staff to prepare a business case setting out options for reducing the Advisory Committee budget, for Council's future consideration.",
+  "now": "Would have directed staff to prepare a business case setting out options for reducing the Advisory Committee budget, for Council's future consideration.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Directed staff to prepare a business case setting out options for reducing the Advisory Committee budget, for Council's future consideration."
+ },
+ {
+  "id": "0b88e8088ec8",
+  "field": "whatAYeaDid",
+  "was": "Directed staff to prepare a business case setting out options, cost savings and staffing impacts for reducing the Heritage Department's budget, for Council's future consideration.",
+  "now": "Would have directed staff to prepare a business case setting out options, cost savings and staffing impacts for reducing the Heritage Department's budget, for Council's future consideration.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Directed staff to prepare a business case setting out options, cost savings and staffing impacts for reducing the Heritage Department's budget, for Council's future consideration."
+ },
+ {
+  "id": "c0ce6cf62032",
+  "field": "whatAYeaDid",
+  "was": "Approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings.",
+  "now": "Would have approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings."
+ },
+ {
+  "id": "ac621e53bd84",
+  "field": "whatAYeaDid",
+  "was": "Referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration.",
+  "now": "Would have referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration."
+ },
+ {
+  "id": "a076bd968c19",
+  "field": "whatAYeaDid",
+  "was": "Referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations.",
+  "now": "Would have referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations."
+ },
+ {
+  "id": "6fb8aac5501b",
+  "field": "whatAYeaDid",
+  "was": "Directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks.",
+  "now": "Would have directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks."
+ },
+ {
+  "id": "2d292d1a6b2d",
+  "field": "whatAYeaDid",
+  "was": "Referred the BetterHomes London community efficiency financing report to a future committee meeting for a concierge-model report-back, rather than deciding on it.",
+  "now": "Would have referred the BetterHomes London community efficiency financing report to a future committee meeting for a concierge-model report-back, rather than deciding on it.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Referred the BetterHomes London community efficiency financing report to a future committee meeting for a concierge-model report-back, rather than deciding on it."
+ },
+ {
+  "id": "9ae4b2d5a23c",
+  "field": "whatAYeaDid",
+  "was": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
+  "now": "Would have reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later."
+ },
+ {
+  "id": "9f632543eedb",
+  "field": "whatAYeaDid",
+  "was": "Narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
+  "now": "Would have narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation."
+ },
+ {
+  "id": "a1809ef17b5c",
+  "field": "whatAYeaDid",
+  "was": "Requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
+  "now": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development."
+ },
+ {
+  "id": "0aca5a7bdd96",
+  "field": "whatAYeaDid",
+  "was": "Referred the 6309 Pack Road rezoning application to a future meeting rather than deciding it, to let staff and the applicant review reducing the proposed building heights and density.",
+  "now": "Would have referred the 6309 Pack Road rezoning application to a future meeting rather than deciding it, to let staff and the applicant review reducing the proposed building heights and density.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Referred the 6309 Pack Road rezoning application to a future meeting rather than deciding it, to let staff and the applicant review reducing the proposed building heights and density."
+ },
+ {
+  "id": "ee000df2b284",
+  "field": "whatAYeaDid",
+  "was": "Referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance).",
+  "now": "Would have referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance).",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance)."
+ },
+ {
+  "id": "2dd2f218b482",
+  "field": "whatAYeaDid",
+  "was": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
+  "now": "Would have referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it."
+ },
+ {
+  "id": "b377bcba025b",
+  "field": "whatAYeaDid",
+  "was": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
+  "now": "Would have referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it."
+ },
+ {
+  "id": "aa61ec1f12b2",
+  "field": "whatAYeaDid",
+  "was": "Directed Civic Administration to undertake reviews of servicing capacity and of London Plan policy changes that would support increased intensification within the Urban Growth Boundaries, without itself approving any policy change.",
+  "now": "Would have directed Civic Administration to undertake reviews of servicing capacity and of London Plan policy changes that would support increased intensification within the Urban Growth Boundaries, without itself approving any policy change.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Directed Civic Administration to undertake reviews of servicing capacity and of London Plan policy changes that would support increased intensification within the Urban Growth Boundaries, without itself approving any policy change."
+ },
+ {
+  "id": "2873091ebefb",
+  "field": "whatAYeaDid",
+  "was": "Asked Civic Administration to report back on expected funding sources for future Highly Supportive Housing units and a list of other conversions being considered, deciding nothing itself.",
+  "now": "Would have asked Civic Administration to report back on expected funding sources for future Highly Supportive Housing units and a list of other conversions being considered, deciding nothing itself.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Asked Civic Administration to report back on expected funding sources for future Highly Supportive Housing units and a list of other conversions being considered, deciding nothing itself."
+ },
+ {
+  "id": "7f8dde7b0cde",
+  "field": "whatAYeaDid",
+  "was": "Asked Civic Administration to report back on the rationale for switching from 15 temporary resting-space beds at 448 Horton Street to 24 highly supportive housing units at 362 Dundas Street, deciding nothing itself.",
+  "now": "Would have asked Civic Administration to report back on the rationale for switching from 15 temporary resting-space beds at 448 Horton Street to 24 highly supportive housing units at 362 Dundas Street, deciding nothing itself.",
+  "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+  "quote": "Asked Civic Administration to report back on the rationale for switching from 15 temporary resting-space beds at 448 Horton Street to 24 highly supportive housing units at 362 Dundas Street, deciding nothing itself."
+ },
+ {
+  "id": "4e2861ffc59a",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis application-approval renamed: approving a federal Canada Public Transit Fund contribution agreement is direct transit-infrastructure funding, not a road-capacity act.",
+  "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\n\n\n\ni) \u00a0 \u00a0approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund \u2013 Baseline Funding (the \u201cAgreement\u201d) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (\u201cCanada\u201d), and The Corporation of the City of London (the \u201cRecipient\u201d);"
+ },
+ {
+  "id": "0caaac4a596a",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same motion at ICSC committee stage; same reasoning as b206f4de942a.",
+  "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\ni) \u00a0 \u00a0approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund \u2013 Baseline Funding (the \u201cAgreement\u201d) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (\u201cCanada\u201d), and The Corporation of the City of London (the \u201cRecipient\u201d);"
+ },
+ {
+  "id": "be2ab15ee590",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "road-capacity",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): THE flagship conflation fix: the clause's operative act is restarting the Wonderland Road EA to construct SIX GENERAL-PURPOSE THROUGH LANES; converting to Bus Rapid Transit is only a 'long-term build-and-convert OPTION', not a committed transit-service change. A yea here supported road-capacity expansion, not transit expansion -- the exact case the split exists to fix.",
+  "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit"
+ },
+ {
+  "id": "28ab00fbc3c0",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "road-capacity",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion was wrong: this is the Roads Projects Timeline amendment adding the Bradley Ave (Wellington Rd-Highbury Ave) road expansion to the next improvement cycle -- general-purpose road capacity, not transit.",
+  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+ },
+ {
+  "id": "478dc258ce7d",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "road-capacity",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Final committee approval of part a), the Roads Projects maps as amended (including the Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0, old axis service-expansion was wrong.",
+  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+ },
+ {
+  "id": "1f742f938d33",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis application-approval renamed: approving the Transit Priority Network maps is dedicated transit infrastructure (bus lanes/signal priority), squarely transit-service.",
+  "quote": "the Transit Priority Network maps BE APPROVED"
+ },
+ {
+  "id": "0fd0f9c17a4c",
+  "field": "whatAYeaDid",
+  "was": "Would have referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting.",
+  "now": "Would have referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting; failed 3-12.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Stays unclear: pure referral of the LTC governance motion to the next meeting. FAILED (3 to 12) but existing whatAYeaDid used passed-tense wording; hedging corrected (see whatAYeaDid).",
+  "quote": "the motion regarding the London Transit Commission BE REFERRED to the next meeting of the Strategic Priorities and Policy Committee"
+ },
+ {
+  "id": "135897acab5a",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: contract award for the East London Link (Rapid Transit) corridor construction plus a Transportation Services Licence Agreement to build an LTC/Fanshawe transit facility -- dedicated transit infrastructure; no general-purpose lane addition anywhere in the clause.",
+  "quote": "the proposed by-law as appended to the staff report dated January 13, 2025 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on January 21, 2025 to approve the Transportation Services Licence Agreement between the City of London, London Transit Commission and Fanshawe College regarding the construction, maintenance and operations of a transit facility on Fanshawe College Property"
+ },
+ {
+  "id": "d43d88aa0a6b",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: a yea would have removed the Rapid Transit - East London Link project's 2025/2026 capital budgets -- reduced transit infrastructure funding. Failed 1-13, hedged correctly already.",
+  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Development Charges supported funding"
+ },
+ {
+  "id": "0642b1c2e379",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same amendment, re-vote after reconsideration; failed 2-12, hedged correctly already.",
+  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Development Charges supported funding"
+ },
+ {
+  "id": "97d72395ebc4",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: a yea would have reduced the LTC's 2026 budget for Business Case #P-51 'Transit Service Hours Growth' by $500,000 -- directly reduces bus service-hours growth funding. Failed 5-10, hedged correctly already.",
+  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED by reducing the London Transit Commission budget for the 2026 Budget Update. To reinstate this funding, LTC must submit an amendment for the 2026 Budget Update, the online booking system be operational and that a plan for implementing the 10,000 additional service hours for 2025 must be provided to Council no later than Q1 2025."
+ },
+ {
+  "id": "444ec1d15ea9",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: approving expropriation of land for the Wellington Gateway (Rapid Transit corridor) Clark's Bridge civil works is transit-infrastructure land acquisition.",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith"
+ },
+ {
+  "id": "39004f51c2fc",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same expropriation, committee stage; same reasoning as 895b8202a9e6.",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith"
+ },
+ {
+  "id": "fa81d1038167",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: three bundled items, all branded 'Rapid Transit Implementation' (Wellington Rd contract awards + AECOM/Dillon Rapid Transit design-contract increases) -- dedicated BRT corridor construction and design; no general-purpose lane addition is stated anywhere in the clause.",
+  "quote": "the bid submitted by CH Excavating (2013) at its tendered price of $30,814,695.92 (excluding HST) for the Rapid Transit Implementation \u2013 Wellington Road from Harlech Gate to Wellington Commons Entrance project, BE ACCEPTED"
+ },
+ {
+  "id": "7fc97879792f",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: approving expropriation of land for East London Link Phase 4 (Rapid Transit corridor) is transit-infrastructure land acquisition.",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith"
+ },
+ {
+  "id": "6f3b957830c2",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: directing staff to develop an MOU to launch a subsidized transit-pass pilot for secondary students is an expansion of transit service access/ridership support.",
+  "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School"
+ },
+ {
+  "id": "b1e1d2fe8866",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same MOU directive, committee/added-item stage; same reasoning as d1fc73f17bb5.",
+  "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School"
+ },
+ {
+  "id": "ac70311aac71",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same expropriation, committee stage; same reasoning as 6e54e9c40a61.",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith"
+ },
+ {
+  "id": "6a37a73ce041",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED to unclear (was service-expansion/expansive): the target explicitly bundles Transit AND Walking AND Cycling into a single combined 32.5%+ mode-share figure. It is an aspirational, multi-modal target -- achievable through active-transportation infrastructure alone -- not a transit-specific service commitment, and not a road-capacity act at all. This is the same transit/other-mode conflation this split exists to fix, just one level up (mode-share target vs. a specific project).",
+  "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling"
+ },
+ {
+  "id": "6a37a73ce041",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED to unclear (was service-expansion/expansive): the target explicitly bundles Transit AND Walking AND Cycling into a single combined 32.5%+ mode-share figure. It is an aspirational, multi-modal target -- achievable through active-transportation infrastructure alone -- not a transit-specific service commitment, and not a road-capacity act at all. This is the same transit/other-mode conflation this split exists to fix, just one level up (mode-share target vs. a specific project).",
+  "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling"
+ },
+ {
+  "id": "47b3793a89d7",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, earlier committee vote (adopting Option 2/32.5%); same reasoning as 873508ecdfbc.",
+  "quote": "That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan"
+ },
+ {
+  "id": "47b3793a89d7",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, earlier committee vote (adopting Option 2/32.5%); same reasoning as 873508ecdfbc.",
+  "quote": "That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan"
+ },
+ {
+  "id": "a4e6deb00a7e",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, final committee vote on part a); same reasoning as 873508ecdfbc.",
+  "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and"
+ },
+ {
+  "id": "a4e6deb00a7e",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, final committee vote on part a); same reasoning as 873508ecdfbc.",
+  "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and"
+ },
+ {
+  "id": "04664b9f96a1",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: increasing funding for Business Case #P-51 'Transit Service Conventional Growth Hours' (18,000 hrs/yr) is a direct, named transit-service-hours expansion.",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for Business Case #P-51 \u2013 Transit Service Conventional Growth Hours, as approved by the London Transit Commission on January 31st, 2024 to provide for 18,000 hours of growth in each year, by increasing funding as follows"
+ },
+ {
+  "id": "370948fd7769",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis application-approval renamed: Rapid Transit Implementation contract award (Clarks Bridge/Wellington Rd) is dedicated BRT corridor construction.",
+  "quote": "the bid submitted by Bre-Ex Construction Inc, at its tendered price of $18,297,251.48 (excluding HST), for the Rapid Transit Implementation, Clarks Bridge and Wellington Road from Thames River to Watson Street project, BE ACCEPTED"
+ },
+ {
+  "id": "26a1844b1671",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: a yea would have added the revised 2024 conventional service hours for Business Case #P-51 'Transit Service Hours Growth' -- transit-service expansion. Failed 7-8, hedged correctly already.",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for 2024 only for Business Case #P-51 \u2013 Transit Service Hours Growth, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, as approved by the London Transit Commission on January 31, 2024, by increasing funding as follows"
+ },
+ {
+  "id": "43617e79c864",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED to unclear (was application-approval/expansive): this asks the Province's Ministry of Transportation to remove one ICIP-Public-Transit-Stream project (an Oxford St/Wharncliffe Rd intersection improvement) and redirect its already-earmarked PTS funding to another PTS project (Wellington Gateway) -- a reallocation WITHIN transit-program funding, contingent on provincial approval, not a net increase or decrease in transit service/infrastructure funding that the City itself controls.",
+  "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report"
+ },
+ {
+  "id": "43617e79c864",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED to unclear (was application-approval/expansive): this asks the Province's Ministry of Transportation to remove one ICIP-Public-Transit-Stream project (an Oxford St/Wharncliffe Rd intersection improvement) and redirect its already-earmarked PTS funding to another PTS project (Wellington Gateway) -- a reallocation WITHIN transit-program funding, contingent on provincial approval, not a net increase or decrease in transit service/infrastructure funding that the City itself controls.",
+  "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report"
+ },
+ {
+  "id": "ddc57de69a2b",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same ICIP-PTS reallocation, committee stage; same reasoning as 71f1ada00bf5.",
+  "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report"
+ },
+ {
+  "id": "ddc57de69a2b",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same ICIP-PTS reallocation, committee stage; same reasoning as 71f1ada00bf5.",
+  "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report"
+ },
+ {
+  "id": "27c398a24709",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: financing nine new 60-foot LTC buses for the East London Link Rapid Transit corridor is core transit-service vehicle capacity.",
+  "quote": "approval BE GIVEN to finance the London Transit Commission purchase of nine 60-foot buses required for the East London Link corridor of the new Rapid Transit network"
+ },
+ {
+  "id": "a23c5771a121",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: authorizing the MOU/Agreement and up to $880,000 financing for the Secondary School Transit Pass Pilot Program is a transit-service (fare/access) expansion.",
+  "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d, BE AUTHORIZED and BE APPROVED;"
+ },
+ {
+  "id": "77c61a6c4a03",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: committee-stage approval of the same MOU/Agreement with up to $1.04M financing; same reasoning as a23c5771a121.",
+  "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d , BE AUTHORIZED and BE APPROVED;"
+ },
+ {
+  "id": "2511f1d1c461",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED to unclear (was service-expansion/expansive): the $155,000 increase funds SCHOOL-ZONE TRAFFIC CALMING and temporary traffic-calming devices -- a road-SAFETY spending increase that narrows/slows traffic, the opposite of 'expanded general-purpose road capacity' under the new road-capacity axis, and it is not transit service either. Fits neither axis cleanly.",
+  "quote": "increasing the roadways budget to implement traffic calming in school zones across the city and deploy more temporary traffic calming devices to mitigate construction-related traffic diversions in neighbourhoods during capital projects"
+ },
+ {
+  "id": "2511f1d1c461",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED to unclear (was service-expansion/expansive): the $155,000 increase funds SCHOOL-ZONE TRAFFIC CALMING and temporary traffic-calming devices -- a road-SAFETY spending increase that narrows/slows traffic, the opposite of 'expanded general-purpose road capacity' under the new road-capacity axis, and it is not transit service either. Fits neither axis cleanly.",
+  "quote": "increasing the roadways budget to implement traffic calming in school zones across the city and deploy more temporary traffic calming devices to mitigate construction-related traffic diversions in neighbourhoods during capital projects"
+ },
+ {
+  "id": "e805d2ddb3c4",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis application-approval renamed: increasing the AECOM detailed-design contract for 'Consulting Services for Rapid Transit and Infrastructure Improvements - Wellington Gateway Project' is dedicated BRT corridor design spending.",
+  "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)"
+ },
+ {
+  "id": "667304ee4d37",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same design-contract increase, committee stage; same reasoning as 3d072ced8231.",
+  "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)"
+ },
+ {
+  "id": "9d2d16516460",
+  "field": "whatAYeaDid",
+  "was": "Would have directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble.",
+  "now": "Would have directed Civic Administration to report back to a future meeting of the Community and Protective Services Committee with respect to other improvements at the Western Rd, Sarnia Ave / Phillip Aziz Ave intersection, including more detailed information about the feasibility of a pedestrian scramble; failed 1-4.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Stays unclear: directs a report-back on further intersection improvements incl. pedestrian-scramble feasibility -- a study/report-back directive, not a decision. FAILED (1 to 4) but existing whatAYeaDid used passed-tense wording; hedging corrected (see whatAYeaDid).",
+  "quote": "the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with respect to other improvements at the Western Rd, Sarnia Ave / Phillip Aziz Ave intersection including more detailed information about the feasibility of a pedestrian scramble"
+ },
+ {
+  "id": "7126cff13284",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis application-approval renamed: increasing the AECOM construction-inspection/contract-administration contract for 'Rapid Transit Implementation - Wellington Street' is dedicated BRT corridor construction spending.",
+  "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)"
+ },
+ {
+  "id": "7ae6c0ae05ef",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same contract increase, committee stage; same reasoning as 883ee33ef545.",
+  "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)"
+ },
+ {
+  "id": "93a7f9754452",
+  "field": "axis",
+  "was": null,
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED from unclear (miss corrected, not just an axis rename): the full operative clause is 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' (Phase 2 civil works) -- the identical expropriation-approval pattern as 895b8202a9e6/3991d33dbbbe/6e54e9c40a61/9496bc59ad3b, all correctly classified transit-service/expansive. This id was left null in a prior round on boilerplate 'informational-ask/procedural' reasoning that does not match the actual substantive land-acquisition clause; corrected to match its siblings.",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project"
+ },
+ {
+  "id": "93a7f9754452",
+  "field": "polarity",
+  "was": null,
+  "now": "expansive",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED from unclear (miss corrected, not just an axis rename): the full operative clause is 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' (Phase 2 civil works) -- the identical expropriation-approval pattern as 895b8202a9e6/3991d33dbbbe/6e54e9c40a61/9496bc59ad3b, all correctly classified transit-service/expansive. This id was left null in a prior round on boilerplate 'informational-ask/procedural' reasoning that does not match the actual substantive land-acquisition clause; corrected to match its siblings.",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project"
+ },
+ {
+  "id": "06f778b17f91",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED to unclear (was application-approval/expansive): approving the overall multi-modal MMP REPORT and directing staff to file the statutory Notice of Completion is a planning-process/document approval, not itself a specific transit-service or road-capacity change -- the individual network maps that DO make capacity/service decisions (roads, transit priority, Wonderland Rd, etc.) are separately voted on elsewhere in this same election-hub batch.",
+  "quote": "the Mobility Master Plan Report BE APPROVED"
+ },
+ {
+  "id": "06f778b17f91",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED to unclear (was application-approval/expansive): approving the overall multi-modal MMP REPORT and directing staff to file the statutory Notice of Completion is a planning-process/document approval, not itself a specific transit-service or road-capacity change -- the individual network maps that DO make capacity/service decisions (roads, transit priority, Wonderland Rd, etc.) are separately voted on elsewhere in this same election-hub batch.",
+  "quote": "the Mobility Master Plan Report BE APPROVED"
+ },
+ {
+  "id": "c34cee28168d",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same MMP Report approval, committee stage; same reasoning as 06f778b17f91.",
+  "quote": "parts a) and b) of the motion, as amended, BE APPROVED [resolving to: a) the Mobility Master Plan Report BE APPROVED; b) the Civic Administration BE DIRECTED to file a Notice of Completion and make the Report available for the statutory 30-day public review and comment period]"
+ },
+ {
+  "id": "c34cee28168d",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same MMP Report approval, committee stage; same reasoning as 06f778b17f91.",
+  "quote": "parts a) and b) of the motion, as amended, BE APPROVED [resolving to: a) the Mobility Master Plan Report BE APPROVED; b) the Civic Administration BE DIRECTED to file a Notice of Completion and make the Report available for the statutory 30-day public review and comment period]"
+ },
+ {
+  "id": "c7e50ba41dc6",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "road-capacity",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: Council's ratification of part a), the Roads Projects maps as amended (incl. Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0/478dc258ce7d at the earlier committee stage.",
+  "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+ },
+ {
+  "id": "1c01de0e5a7b",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: Council's ratification of part b), the Transit Priority Network maps -- same transit-infrastructure content as 1f742f938d33 at committee stage.",
+  "quote": "the Transit Priority Network maps BE APPROVED"
+ },
+ {
+  "id": "47061fa4a390",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "road-capacity",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same flagship fix as b9c703769270: Council's ratification of part e), restarting the Wonderland Road EA to build six general-purpose through lanes (BRT conversion remains only a long-term option) -- road-capacity, not transit.",
+  "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly"
+ },
+ {
+  "id": "a72a219550ae",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis application-approval renamed: awarding the 'Rapid Transit Implementation - Wellington Street' contract (Bre-Ex, $28.5M) is dedicated BRT corridor construction, despite the irregular-result note about exceeding the (unrelated) Downtown Loop Phase 3 budget line.",
+  "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b); it being noted that this is an irregular result because the cost exceeds the project budget for the Downtown Loop Phase 3 project;"
+ },
+ {
+  "id": "2b8601e1e24e",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same contract award, committee stage; same reasoning as 7346985bd070.",
+  "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b);"
+ },
+ {
+  "id": "d0cbb048480e",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED to unclear (was application-approval/expansive): approving a single Expected-Result bullet ('Improved traffic safety, traffic calming') inside the Strategic Plan's Wellbeing and Safety focus area is an aspirational planning-document statement, not a specific transit-service or road-capacity decision -- and traffic calming itself narrows/slows general-purpose capacity rather than expanding it, so it would not fit road-capacity even if it were a concrete act.",
+  "quote": "That the draft \"Wellbeing and Safety\" strategic focus Outcome 1, Expected Results, part e) of Outcome 1, BE APPROVED. e)  Improved traffic safety, traffic calming"
+ },
+ {
+  "id": "d0cbb048480e",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED to unclear (was application-approval/expansive): approving a single Expected-Result bullet ('Improved traffic safety, traffic calming') inside the Strategic Plan's Wellbeing and Safety focus area is an aspirational planning-document statement, not a specific transit-service or road-capacity decision -- and traffic calming itself narrows/slows general-purpose capacity rather than expanding it, so it would not fit road-capacity even if it were a concrete act.",
+  "quote": "That the draft \"Wellbeing and Safety\" strategic focus Outcome 1, Expected Results, part e) of Outcome 1, BE APPROVED. e)  Improved traffic safety, traffic calming"
+ },
+ {
+  "id": "be2ab15ee590",
+  "field": "decisionKey",
+  "was": null,
+  "now": "road-capacity-wonderland-six-laning-2025",
+  "reason": "Transit-split gate item 1: this row's normalized item title ('Mobility Master Plan Mobility Networks Maps') and date (2025-03-25) are identical to four OTHER road-capacity rows under the same agenda item, seven days apart -- groupIntoDecisions' title/date heuristic alone unions all five into one decision group, which then trips the opposite-direction ladder-exclusion and wipes this flagship Wonderland Road fix from every profile that voted on it. Explicit decisionKey groups this row only with its true same-decision sibling (the 2025-04-01 council ratification, f2540910623e), not with the unrelated Bradley Ave/Roads-Projects-maps decision that happens to share the same item title and window.",
+  "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit"
+ },
+ {
+  "id": "47061fa4a390",
+  "field": "decisionKey",
+  "was": null,
+  "now": "road-capacity-wonderland-six-laning-2025",
+  "reason": "Transit-split gate item 1: council-stage ratification of the same Wonderland Road six-laning EA restart as b9c703769270 (committee, 2025-03-25) -- same decisionKey so the two stages of this ONE decision group together, and stay split from the unrelated Bradley Ave/Roads-Projects-maps decision under the same agenda item.",
+  "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly"
+ },
+ {
+  "id": "28ab00fbc3c0",
+  "field": "decisionKey",
+  "was": null,
+  "now": "road-capacity-bradley-roads-map-2025",
+  "reason": "Transit-split gate item 1: committee-stage amendment adding the Bradley Ave (Wellington Rd-Highbury Ave) expansion to the Roads Projects Timeline -- same underlying decision as its own committee final-approval vote (478dc258ce7d) and the later council ratification (09385ddc0d7d). Explicit decisionKey keeps this group split from the unrelated Wonderland Road six-laning decision that happens to share the same item title and window.",
+  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+ },
+ {
+  "id": "478dc258ce7d",
+  "field": "decisionKey",
+  "was": null,
+  "now": "road-capacity-bradley-roads-map-2025",
+  "reason": "Transit-split gate item 1: committee's final approval of part a), the Roads Projects maps as amended (incl. the Bradley Ave inclusion just voted in as 28ab00fbc3c0) -- same underlying decision, same decisionKey, so it groups with 28ab00fbc3c0 and the later council ratification (09385ddc0d7d) rather than with the unrelated Wonderland Road six-laning decision under the same agenda item.",
+  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+ },
+ {
+  "id": "c7e50ba41dc6",
+  "field": "decisionKey",
+  "was": null,
+  "now": "road-capacity-bradley-roads-map-2025",
+  "reason": "Transit-split gate item 1: council's ratification of the same Roads Projects maps/Bradley Ave decision as 28ab00fbc3c0 and 478dc258ce7d at the earlier committee stage -- same decisionKey groups all three stages together, split from the unrelated Wonderland Road six-laning decision under the same agenda item.",
+  "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+ },
+ {
+  "id": "478dc258ce7d",
+  "field": "whatAYeaDid",
+  "was": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+  "now": "Recommended approving, as amended, the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+  "reason": "Transit-split gate item 4: this is the 2025-03-25 Strategic Priorities and Policy COMMITTEE vote, not Council -- final approval of the Roads Projects maps (as amended to include Bradley Ave) came at Council on 2025-04-01 (09385ddc0d7d). \"Gave final approval\" overstated this motion's own effect; reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus.",
+  "quote": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle."
+ },
+ {
+  "id": "99e90a7b11ad",
+  "field": "whatAYeaDid",
+  "was": "Gave final approval, as amended, to the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions.",
+  "now": "Recommended approving, as amended, the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions.",
+  "reason": "Transit-split gate item 4 sweep: this is a 2024-03-19 Planning and Environment COMMITTEE vote, not Council -- a committee recommendation, not a final approval. Reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus.",
+  "quote": "Gave final approval, as amended, to the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions."
+ },
+ {
+  "id": "002f87546a89",
+  "field": "whatAYeaDid",
+  "was": "Gave final approval, as amended, to the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
+  "now": "Recommended approving, as amended, the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
+  "reason": "Transit-split gate item 4 sweep: this is the 2025-03-25 Strategic Priorities and Policy COMMITTEE vote, not Council. Reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus. Axis/polarity are already null (net direction of the bundle is indeterminate, see the existing verifierNote) -- this correction only fixes the wording, not the classification.",
+  "quote": "Gave final approval, as amended, to the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out."
+ },
+ {
+  "id": "0d6f4304215e",
+  "field": "whatAYeaDid",
+  "was": "Gave final approval, as amended, to introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions.",
+  "now": "Recommended approving, as amended, introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions.",
+  "reason": "Transit-split gate item 4 sweep: this is the 2025-03-19 Budget COMMITTEE vote, not Council. Reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus. issue is already \"none\" (not direction-bearing) -- this correction only fixes the wording.",
+  "quote": "Gave final approval, as amended, to introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions."
+ },
+ {
+  "id": "c7e50ba41dc6",
+  "field": "whatAYeaDid",
+  "was": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next capital improvement cycle.",
+  "now": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next improvement cycle.",
+  "reason": "Round-2 gate item 7: the motion's own operative text reads 'BE INCLUDED in the next improvement cycle' -- no 'capital' anywhere in it (see quote). 'capital improvement cycle' was an unsourced addition; dropped to match the motion verbatim.",
+  "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+ },
+ {
+  "id": "be2ab15ee590",
+  "field": "whatAYeaDid",
+  "was": "Restarted the Wonderland Road environmental assessment with expanded study limits, to construct six new general-purpose through lanes with a long-term option to convert to Bus Rapid Transit.",
+  "now": "Added a clause directing Civic Administration to restart the Wonderland Road corridor Environmental Assessment (Southdale Road to Fanshawe Park Road) to build six general-purpose through lanes, with a long-term option to convert to Bus Rapid Transit, and to update the Mobility Master Plan maps accordingly.",
+  "reason": "Round-3 gate item 8: this is the 2025-03-25 Strategic Priorities and Policy COMMITTEE vote -- the motion's own operative text ADDS a new part e) directing a restart (see quote); it does not itself restart anything, and a committee recommendation isn't binding until Council ratifies it (which happened separately at f2540910623e, 2025-04-01 Council, whose whatAYeaDid already reads 'Directed Civic Administration to restart...'). 'Restarted the ... EA' overstated this motion's own effect -- the bare past-tense verb read as if the EA had already restarted by this vote alone. Reworded to describe the actual act: adding the directing clause, at committee stage (the '(committee stage)' suffix generate-hub-pages.ts's withStageQualifier appends still applies on top of this).",
+  "quote": "That with respect the Master Mobility Plan, the following part be added: e)  the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly"
+ },
+ {
+  "id": "9ffe779c15c0",
+  "field": "whatAYeaDid",
+  "was": "endorsed continuing added Old East Village homelessness-response safety programming (coordinated outreach response and street cleaning) within the existing Housing Stability Services budget, with no new funding",
+  "now": "Endorsed additional Old East Village safety and security programming -- Coordinated Informed Response programming and street cleaning -- accommodated within existing Housing Stability Services budgets, with no new funding.",
+  "reason": "Final gate item 2: the prior label's stacked modifiers (\"endorsed continuing added ... programming\") don't parse as a sentence. This is the 2023-09-12 CPSC item 4.1 vote on part c) of the clause; data/votes/_all-motions.json's own motionText for this row is just the terse \"Motion to approve part c) of the clause.\", so the fix is reworded directly off part c)'s FULL text in the meeting JSON (data/2023-09/2023-09-12 14th Meeting of the Community and Protective Services Committee.json, item 4 > 1, first content block's motion_texts) rather than the truncated copy: council endorsed accommodating two named additional programs -- Coordinated Informed Response programming and street cleaning -- for Old East Village safety and security, funded by reallocating within the existing Housing Stability Services budget rather than any new money.",
+  "quote": "the additional programs identified to support safety and security in the Old East Village area, including additional Coordinated Informed Response programming and street cleaning to be accommodated within existing Housing Stability Services budgets BE ENDORSED"
+ },
+ {
+  "id": "9ddf707bf29d",
+  "field": "motionText",
+  "was": "",
+  "now": "f)   a one-time funding allocation of up to $374,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023;",
+  "reason": "Final gate item 3: this row's \"Motion (excerpt)\" cell renders blank on all 16 evidence rows it appears in (15 councillor pages plus the encampments issue page) because data/votes/_all-motions.json's own motionText for id 9ddf707bf29d is the empty string. Root cause is an extraction edge in scripts/generate-votes.ts's extractMotionText, not in this election pipeline's motionSnippet/generate-stances.ts: it reads only the vote-bearing eScribe content entry's OWN motion_texts, but this entry (the 8-7 vote on 2023-07-25 Council item 8.4.5, Housing Stability Services 2023-24 Contract Amendments) is one of eScribe's paired text-then-vote entries -- the operative text (\"That the motion BE FURTHER AMENDED by adding the following new part f)\" plus the $374,210 clause itself) sits on the IMMEDIATELY PRECEDING sibling content entry, which carries no vote of its own and so never surfaces in _all-motions.json at all. A corpus-wide sweep of data/votes/_all-motions.json found 75 motions (since 2013) with this same empty-motionText shape from the same extraction edge; cross-checked against every motion this generator actually publishes (data/election/stances.json + issues.json), only this one id is affected -- not class-shaped WITHIN the election hub's own divided-vote universe (2023+, non-procedural, non-unanimous), even though the underlying extractor defect is. Fixing scripts/generate-votes.ts itself is out of scope for this election-only LENS (it would touch every non-election vote page site-wide, not just this row); filled in here, additively, from the meeting JSON's own text (data/2023-07/2023-07-25 13th Meeting of City Council.json, item 8 > 4 > 5, third content block's motion_texts) for this one id. Note this specific $374,210 figure was itself later amended down to $200,000 by a subsequent 11-4 vote before the main motion passed unanimously as amended -- $374,210 is the figure THIS specific 8-7 division actually decided, which is why it's the correct excerpt for this row rather than the eventually-adopted number. This motion's own classify-layer whatAYeaDid (batch-22-verified.json) already correctly names the $374,210 figure, so even before this fix a reader had the dollar amount to search the meeting page by; this excerpt fix makes the raw motion text visible too, for a row whose anchor is ambiguous (links only to the meeting page -- item 8.4.5 has multiple lettered/re-amended sub-motions sharing one heading, so no single-motion anchor is possible).",
+  "quote": "f)   a one-time funding allocation of up to $374,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023;"
+ }
+]

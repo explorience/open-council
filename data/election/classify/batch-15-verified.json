@@ -1,0 +1,615 @@
+[
+ {
+  "id": "7ea898383025",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have redirected $250,000 per year in funding for the Capital and Innovation Grants stream by reducing the City's annual contribution to the Economic Development Reserve Fund (contingent on that reserve keeping a minimum $1M balance).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2024-07-18 SPPC item 4.2 full text (the 'new part B' amendment, Failed 5-9): quote and Failed/would-have framing match verbatim. issue=none correct -- clause offsets Capital/Innovation Grants via reduced Economic Development Reserve Fund contribution; 'reserve fund' is a dropped keyword and no other budget/housing/climate keyword hits the operative text."
+ },
+ {
+  "id": "30f3d23e3afb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed a comprehensive review of the London Community Grants Program (including Neighbourhood Decision Making) with a report back by Q2 2027, referred five delegation requests to the next SPPC meeting, and directed a report back on the feasibility of KPMG-delivered service-review training for the City's Agencies, Boards and Commissions -- no substantive funding or policy decision.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "referral",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full item 4.2 text ('Motion to approve part ii), iii) and part b)', Passed 11-3): the bundled clause is a comprehensive-review report-back (Q2 2027) + a delegation referral + a KPMG report-back -- no operative approve/deny verb on any tracked issue. issue=none, polarity=null correct."
+ },
+ {
+  "id": "785c5cf3d8aa",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back to the September SORWG meeting about the potential for partnerships in municipal golf operations.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.2 ('part ii) be approved... golf partnerships', Passed 11-3): pure report-back directive, no tracked-issue content. Confirmed none/null."
+ },
+ {
+  "id": "cb6a772b71be",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested Civic Administration attend a future SORWG meeting to discuss the City's policy and general information on venue naming rights as a potential revenue source -- no decision on naming rights was made.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.2 ('part iii)... venue naming rights', Passed 13-1): a request that Civic Administration attend a meeting to discuss policy -- no decision. Confirmed none/null."
+ },
+ {
+  "id": "9f1342ea81f8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back on the potential to license City facilities for the sale of alcohol as a revenue stream, including a list of potential facilities.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.2 ('part iv)... alcohol as revenue stream', Passed 9-5): report-back directive only, no facility list decided yet. Confirmed none/null."
+ },
+ {
+  "id": "8ad37d0034c4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed Civic Administration to report back on eliminating City snow-plowing of sidewalks on residential streets by passing a by-law requiring property owners to clear the sidewalk along their own property.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.2 ('part v)... eliminate snow plowing by-law', Failed 6-8): a report-back request on a hypothetical by-law; text has no transit/climate/budget keyword. Confirmed none/null."
+ },
+ {
+  "id": "1200d0404ab7",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back in Q1 2025 with potential options for Council's consideration on the City's Surplus Deficit Policy -- no funding decision itself.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.2 ('part vi)... Surplus Deficit Policy', Passed 11-3): pure Q1-2025 report-back, no funding decided. issue=budget is a defensible substantive call (Surplus Deficit Policy is inherently a budget/finance policy area) even though no literal budget keyword is hit in this clause; polarity=null is correct regardless since it's a report-back."
+ },
+ {
+  "id": "77d83b4180ff",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have extended one-time funding of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days (to September 30, 2024) of its stable responsive homelessness services, funded through the Community Investment Reserve Fund.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to extend one-time funding in the amount of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days until September 30, 2024 to be funded through the Community Investment Reserve Fund",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against 2024-07-18 SPPC item 4.4 (Failed 4-9): quote matches the motion exactly. issue=encampments is substantively sound (Ark Aid Street Mission Inc.'s Year-Round Stable Responsive Services is the city's homelessness-shelter response, even though 'homeless' isn't a literal token in this specific clause) -- not the title-only trap the issue-rules comments warn about, since the entire clause's substance (not just co-incidental title text) is about funding a shelter provider's services. axis=response-scale/expansive (extending funding duration) is a reasonable, non-misleading read; 'Would have' framing correctly reflects the Failed result."
+ },
+ {
+  "id": "5e62ba894f1c",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to engage with the Old East Village BIA, local residents, and Ark Aid Street Mission Inc. to review the Year-Round Stable Responsive Services strategy -- a consultation directive, not a funding or operational decision.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.4 (part g, Passed 12-1): 'Civic Administration BE DIRECTED to engage with... to review the Year-Round Stable Responsive Services strategy' is a consultative/review directive with no concrete deliverable or program committed -- correctly left unclear, distinguishable from a directive that commits to implementing a specific program on a set timeline (cf. 2cb0278f388f correction below)."
+ },
+ {
+  "id": "5ac012d88d30",
+  "issue": "budget",
+  "axis": "relocation",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
+  "confidence": "high",
+  "quote": "Civic Administration BE DIRECTED to engage with Ark Aid Street Mission Inc. to relocate the front door services off Dundas Street as part of the budget amendment preparation for the 2025 Budget Update process for funding in 2025 and future years",
+  "flags": [
+   "relocation"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against item 4.4 (Failed 4-8): quote matches exactly. This is the precedent case documented in direction-rules.ts itself (relocation axis, hub-recheck blocker 3) -- budget/relocation/restrictive is exactly correct: a nay opposed relocating Ark Aid's front-door services off Dundas St, not funding."
+ },
+ {
+  "id": "131b5caebf15",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a single-source contract award to Ark Aid Street Mission Inc. to provide Year-Round Stable Responsive Services for people experiencing homelessness (August 1-December 31, 2024, with options to renew for two more years), funded in part by reallocating $1.8 million from the Operating Budget Contingency Reserve.",
+  "confidence": "high",
+  "quote": "a single source award to Ark Aid Street Mission Inc. BE APPROVED, as per Section 14.4 e) of the Procurement of Goods and Services Policy, to provide Year-Round Stable Responsive Services for an initial period of August 1, 2024 to December 31, 2024, with options to renew for two (2) additional years",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against item 4.4 ('as amended', Passed 10-2): quote (single-source award clause) matches exactly and is part of the full amended motion that passed. issue=encampments/response-scale/expansive correct -- approves ongoing Year-Round Stable Responsive Services funding via $1.8M reallocation."
+ },
+ {
+  "id": "9f378672df6f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the City Clerk to record and publicly post Governance Working Group and SORWG meetings using the Zoom application -- a council-meeting-logistics decision, not a position on any tracked public issue.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2024-07-18 SPPC item 4.5 (Zoom recording/posting motion, Passed 8-3): council-meeting-logistics decision, no tracked issue. Confirmed none/null."
+ },
+ {
+  "id": "c1adcf9424ef",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the request to record and livestream working group meetings to Civic Administration for a report back on alternate technology options.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.5 (referral to Civic Administration for alternate tech options, Failed 3-8): pure referral, no tracked issue. Confirmed none/null."
+ },
+ {
+  "id": "5c4be53fef4c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, as amended, directing the City Clerk to record and publicly post Governance Working Group and SORWG meetings via Zoom.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.5 ('the motion be approved, as amended', Passed 9-2): same Zoom-recording logistics decision, no tracked issue. Confirmed none/null."
+ },
+ {
+  "id": "d02e95968a7d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the draft Advocacy Message Sign By-law to require a warning sign be displayed alongside any sign showing images of deceased humans or animals, stating it may contain graphic or disturbing content.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against 2024-07-15 CPSC item 2.11 (the graphic-image warning-sign amendment, Passed 3-1): matches exactly. Advocacy sign by-law content is not one of the eight tracked issue clusters. Confirmed none/null."
+ },
+ {
+  "id": "ae5e06026d97",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved holding a future public participation meeting on the draft Advocacy Message Sign By-law (and a related graphic-images by-law), incorporating the graphic-image warning-sign amendment, and referring one delegation request to that future meeting.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 2.11 ('approve the main motion as amended', Passed 3-1): bundles the public-participation-meeting scheduling + the warning-sign amendment + a delegation referral -- no tracked issue. Confirmed none/null."
+ },
+ {
+  "id": "c78ce3165a89",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the procurement and ABC-consultation actions on the Master Accommodation Plan to a future SPPC meeting, and directed staff to reach out to agencies/boards/commissions about co-location while deferring further City Hall campus expansion pending a review and a report back on unsolicited proposals.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2024-06-25 Council item 8.2.3 (Failed 7-7): the actually-recorded voted text for this specific tally stops at sub-clause i) and does NOT include the ii)/iii) sub-clauses containing 'downtown revitalization' / 'downtown safety and security' -- those phrases belong only to the separately-voted Failed-4-10 sub-motion (bb6ac8af503d). issue=none is correct for THIS specific vote's actual text; referral+deferral content, no operative decision either way. No inconsistency with bb6ac8af503d despite superficially similar preambles."
+ },
+ {
+  "id": "fe68183e5e8b",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have deferred further action on expanding the City Hall campus until unsolicited proposals were evaluated, and directed a staff report comparing those proposals against campus expansion on factors including cost, downtown revitalization, and housing supply.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against 2024-06-25 Council item 8.2.3 (Failed 4-10, the standalone 'part b), ii) and iii)' sub-motion): text literally contains 'downtown revitalization' and 'downtown safety and security', supporting issue=downtown via genuine keyword hits. Operative content is BE DEFERRED + BE DIRECTED to report back -- a pure deferral/informational-ask combo, correctly left unclear despite being issue-tagged."
+ },
+ {
+  "id": "2864b8cf1a5a",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Endorsed the City's Community Encampment Response Plan, including buffer-zone guidelines restricting encampments within 150 metres of schools/daycares and within 100 metres of playgrounds, pools, private residences, and sports fields.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against 2024-06-25 Council item 8.2.7 (Passed 13-1): full untruncated text confirms 'BE ENDORSED' is the operative verb (the truncation bug the classifier flagged is real -- prod's issues.json read this wrong). issue=encampments correct. axis=null is the right call: the plan's substance here is buffer-zone/setback siting rules, and the only defined encampments axis (response-scale) is about funding/shelter/outreach scale, not spatial restrictions -- forcing this into 'expanded/reduced the encampment/homelessness response' would misdescribe a siting-guideline vote. No existing axis fits without inventing one, which is out of scope for verification; unclear is the safe, correct call."
+ },
+ {
+  "id": "742887888895",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Official Plan and Zoning By-law amendments for 735 Southdale Road West permitting residential density up to 231 units per hectare and building heights up to 12 storeys (39 metres).",
+  "confidence": "high",
+  "quote": "to permit a density of 231 units per hectare and a maximum height of 12 storeys (39 metres)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against 2024-06-25 Council item 8.3.13 (735 Southdale Rd W, Passed 12-2): quote matches exactly ('to permit a density of 231 units per hectare and a maximum height of 12 storeys (39 metres)'). Note the motion's own boilerplate 'reasons' clause reads oddly ('Council approves this application for the following reasons: - the requested amendment is NOT consistent with the PPS...') -- an apparent clerk/template copy-paste artifact -- but the OPERATIVE clauses (by-law introduction increasing permitted density/height) and the 12-2 vote are unambiguous and control. housing/density/expansive confirmed."
+ },
+ {
+  "id": "c711b2cdae09",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Official Plan and zoning amendments for 323 Oxford Street West and 92/825 Proudfoot Lane permitting building heights up to 18 storeys, and endorsed a draft plan of subdivision with medium- and high-density residential blocks.",
+  "confidence": "high",
+  "quote": "permit development with a maximum height of 18 storeys (60 metres)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against item 8.3.14 (323 Oxford St W etc., Passed 13-1): quote matches exactly ('permit development with a maximum height of 18 storeys (60 metres)'). housing/density/expansive confirmed; motion also includes a draft-subdivision endorsement matching the whatAYeaDid description."
+ },
+ {
+  "id": "ecbe45bd3014",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted Official Plan Amendment schedules for the London Plan's Land Needs Assessment review, including a new Specific Area Policy permitting fourplexes, stacked townhomes, and mid-rise apartment buildings up to eight storeys on identified Hyde Park-area properties.",
+  "confidence": "high",
+  "quote": "the following may be permitted on any street classification: fourplexes and stacked townhomes up to four storeys and mid-rise apartment buildings of up to eight storeys",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against item 8.3.15 (Land Needs Assessment, Passed 13-1, main motion): quote matches exactly the Hyde Park Specific Area Policy language permitting fourplexes/stacked townhomes/mid-rise apartments. housing/use-permission/expansive confirmed."
+ },
+ {
+  "id": "a1b9fccc38ff",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to engage a third-party economic consultant to conduct a housing-supply marketplace analysis and recommend the land supply needed to meet Council's provincial housing pledge -- a study, not a housing-supply decision itself.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against item 8.3.15 (part e, Passed 9-5): 'engage a third-party economic consultant to undertake a housing supply marketplace analysis... and provide recommendations' is a study directive, no housing-supply decision itself. Confirmed housing/null (informational)."
+ },
+ {
+  "id": "a806722d5fb1",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Endorsed using the 2023 Ministry of Finance population projections, rather than the Council-approved 2021-2051 corporate growth projections, as the basis for the Land Needs Assessment and Urban Growth Boundary Review, subject to further consultation and consultant findings.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against item 8.3.15 (part d, Passed 12-2): endorses using different population projections 'subject to further consultation... and review by Municipal Council at a future meeting' -- a methodology choice, several steps removed from any of the three defined housing axes (density, use-permission, affordable-funding). None fit without stretching; correctly left unclear."
+ },
+ {
+  "id": "da278f99b309",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a Heritage Alteration Permit under the Ontario Heritage Act for 332 St. James Street in the Bishop Hellmuth Heritage Conservation District.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2024-06-25 Council item 8.3.6 (332 St. James St Heritage Alteration Permit, Passed 12-2): Ontario Heritage Act permit, not one of the eight tracked issues (direction-rules.ts itself notes heritage isn't tracked). Confirmed none/null."
+ },
+ {
+  "id": "679751254bc1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a note to the Agencies, Boards and Commissions Asset Management Plans approval that the London & Middlesex Community Housing Asset Management Plan (dated November 2020) will be revised and brought back to Council for review and approval in 2025 -- an informational addition, not a housing decision.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against 2024-06-18 SPPC item 2.1 (Asset Mgmt Plans for ABCs, the amendment adding the L&M Community Housing note, Passed 10-5): 'Housing' here is part of an organization's proper name (London & Middlesex Community Housing) inside a purely informational scheduling note, not a housing policy decision -- no housing keyword substantively applies. Confirmed none/null, correctly avoiding a body-text analog of the title-only trap."
+ },
+ {
+  "id": "c98a1fcdbcb0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Master Accommodation Plan - Redevelopment of City Hall Campus to the next SPPC meeting to allow public engagement and input before proceeding.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2024-06-18 SPPC item 2.2 (Master Accommodation Plan referral, Failed 5-10): pure referral to a future meeting for public engagement, no decision. Confirmed none/null."
+ },
+ {
+  "id": "56ec9c413165",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2024-06-18 SPPC item 4.1 (the 'part a) FURTHER AMENDED' motion setting 150m school + 100m residential buffers, Passed 10-5): matches whatAYeaDid's specific 150m/100m description exactly, distinguishing it from the similarly-tallied a0899f595ca6 (which covers a different bullet set). encampments/null correct -- no existing axis captures spatial buffer-zone content without misdescribing it as a funding/response-scale change (see 24c227e2c3dd note)."
+ },
+ {
+  "id": "72280213a85e",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.1 (the 'FURTHER AMENDED' motion covering ONLY the 100m playground + 100m sports-field bullets, Passed 9-6): matches whatAYeaDid exactly and is correctly distinguished from the other same-tally (9-6) vote (6c435c184251, which covers playground+residential+sports together). encampments/null correct for the same axis-mismatch reason."
+ },
+ {
+  "id": "0e2c478ec1f4",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the 150-metre encampment buffer-zone setback from elementary schools and children's daycare centres as part of the Community Encampment Response Plan.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.1 ('part a) BE APPROVED... 150 metres of an elementary school', Passed 11-4): matches. Same content also appears in a second, later 11-4 vote (72730f1d4cfb) as the final bundled ratification of the same clause -- both descriptions are substantively identical and non-misleading regardless of exact 1:1 mapping. encampments/null correct."
+ },
+ {
+  "id": "6c435c184251",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved endorsement of the Community Encampment Response Plan with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads, 100 metres from private residential properties, and 100 metres from sports fields.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.1 ('part a) BE APPROVED... reads as follows: 100m playground/100m residential/100m sports', Passed 9-6): matches whatAYeaDid's three-bullet description exactly, correctly distinct from 72280213a85e (playground+sports only, no residential). encampments/null correct."
+ },
+ {
+  "id": "a0899f595ca6",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the second, third, and fourth encampment buffer-zone bullets (100 metres from playgrounds/pools, 100 metres from private residences, and 100 metres from sports fields) as amended.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.1 ('part a) second, third and fourth bullets... BE APPROVED', Passed 10-5): matches exactly (100m playground, 100m residential, 100m sports), correctly distinct from the other 10-5 vote (56ec9c413165, which is 150m school + 100m residential). encampments/null correct."
+ },
+ {
+  "id": "72730f1d4cfb",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the first encampment buffer-zone bullet -- a 150-metre setback from elementary schools and daycare centres -- as amended, as part of endorsing the Community Encampment Response Plan.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.1 ('part a), first bullet, as amended, BE APPROVED', Passed 11-4): the final-ratification-sequence twin of 0e2c478ec1f4 (150m school setback); both descriptions are substantively identical and accurate. encampments/null correct."
+ },
+ {
+  "id": "7c23914fd476",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted the Strategic Priorities and Policy Committee to continue its meeting beyond 6:00 PM -- a scheduling procedure only.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2024-06-18 SPPC item 4.1 (permit committee to proceed beyond 6:00 PM, Passed 14-1): pure scheduling procedure. Confirmed none/null."
+ },
+ {
+  "id": "7b99c160a79f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recessed the Strategic Priorities and Policy Committee meeting for 15 minutes -- a scheduling break, not a substantive decision.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.1 (15-minute recess, Passed 13-2): matches GLOBAL_EXCLUDE's documented 'recess at this time' pattern exactly. Confirmed none/null."
+ },
+ {
+  "id": "9808e3cc73de",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back on existing public washroom facilities citywide (hours, locations, staffing, usage) to help Council assess whether access aligns with encampment and basic-needs services -- a study, not a service decision.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against 2024-06-18 SPPC item 4.2 Basic Needs Response Plan (part g, washroom-facilities report-back, Passed 9-6): pure report-back/study directive, no service decision. Confirmed encampments/null."
+ },
+ {
+  "id": "26af775dc1b8",
+  "issue": "encampments",
+  "axis": "response-scale",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed Civic Administration to continue running the depot meal program (a basic-needs service) until Council approves the full Basic Needs Response Plan, and to identify a funding source, including unspent Operating Budget Contingency Reserve funds.",
+  "confidence": "high",
+  "quote": "Civic Administration BE DIRECTED to continue the depot meal program until the time of which the Basic Needs Response Plan is approved by Council and to find a source of funding including any unspent previously approved sources of funding, including previously allocated Operating Budget Contingency Reserve funds",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against item 4.2 (Passed 14-1): quote matches exactly. Directs continuing the depot meal program pending Basic Needs Plan approval and finding a funding source -- a genuine continuity/expansion decision on the response, not a report-back. encampments/response-scale/expansive confirmed."
+ },
+ {
+  "id": "4249874ccbdb",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved referring the decision on Encampment Response Option 2 (year-round depot services) and its funding source to a future SPPC meeting, pending a staff report on London's application for $250M in federal encampment funding, while directing the existing depot meal program continue in the interim.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against item 4.2 ('the referral, as amended, BE APPROVED', Passed 13-2): this is the formal approval of a REFERRAL of the Encampment Response Option 2 funding decision to a future meeting -- the referral's own content is a non-decision (DEFER_RE), so leaving unclear correctly avoids double-counting the depot-meal continuation already captured separately by 26af775dc1b8 (14-1, the standalone amendment vote for that specific clause). Confirmed encampments/null."
+ },
+ {
+  "id": "b8345065f9bc",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved taking no action on introducing affordable housing minimums (Consultant Recommendation #15), on the stated basis that doing so would negatively affect the City's existing affordable-housing financial incentive programs.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against 2024-06-11 PEC item 3.1 (Community Improvement Plans / Affordable Housing CIP, 'Motion to approve #15', Passed 4-1): quote matches exactly. Declining to introduce affordable-housing minimums to preserve existing financial-incentive programs is a real, substantive decision but doesn't cleanly fit any of the three defined housing axes (density, use-permission, affordable-funding is specifically about grants/awards, not a minimums mandate). No axis fits without stretching; correctly left unclear."
+ },
+ {
+  "id": "adc4ff27ad63",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Sustained the Chair's ruling on a point of personal privilege -- a procedural ruling, not a substantive decision on gas-powered lawn equipment policy.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2024-06-04 Council item 8.2.15 ('shall the ruling of the Chair BE SUSTAINED?', Passed 8-6): a procedural ruling on personal privilege, not a substantive vote on gas-lawn-equipment policy. Confirmed none/null."
+ },
+ {
+  "id": "2cb0278f388f",
+  "issue": "climate",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have directed Civic Administration to design and implement a public-awareness campaign (February-April 2025) promoting better lawn and garden practices to help the environment and support climate action.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to design and implement an awareness campaign for households and lawncare service providers that focuses on better lawn and garden practices to help the environment and take climate action for implementation in February to April 2025",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "Verified verbatim against item 8.2.15 (part b, awareness-campaign clause, Failed 5-9): quote matches exactly. On review this was left unclear on a 'wrapper_preamble' rationale, but the wrapper ('part b) of the motion be approved as follows:') strips cleanly per direction-rules.ts's own wrapper logic because the clause that follows has its own independent, unambiguous operative verb ('BE DIRECTED to design and implement... for implementation in February to April 2025') -- a concrete program commitment with a defined delivery window, not a report-back/study/consultation ask (no INFORMATIONAL_ASK_RE phrase -- 'report back', 'study', 'explore best practices', etc. -- appears anywhere in the clause). No climate content-axis (target-strength, natural-heritage) fits, so this properly falls to the direction-rules.ts generic fallback: axis='application-approval', and since AFFIRM_RE ('BE DIRECTED') fires with no denial language, valence is expansive. CORRECTED from polarity=null to axis='application-approval', polarity='expansive' (Would-have framing retained since the motion failed 5-9). Distinguished from 9cfa0991c40f and 5e62ba894f1c, which I left unclear because their operative content is genuinely research/consultation-flavored ('complete the remaining work on emerging best practices...', 'engage... to review the... strategy') even though they also use approve/direct verbs -- those are closer in substance to a study than to implementing a concrete program on a set timeline."
+ },
+ {
+  "id": "9cfa0991c40f",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have authorized Civic Administration to pursue a multi-municipality research project on gasoline-powered lawn and garden equipment (best practices, costs/benefits, incentive programs), including a funding submission to the Federation of Canadian Municipalities' Green Municipal Fund.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against item 8.2.15 (part c, multi-municipality project clause, Failed 7-7): quote matches. Although phrased as 'BE APPROVED to pursue' rather than literally 'report back', the substance -- completing research on best practices/legislation/costs-benefits/incentive programs, including a grant funding application to support that research -- is a study/research authorization, not a policy commitment on gas-powered equipment itself. Left unclear as the safer, more defensible read; distinguished from 2cb0278f388f's concrete program-with-a-delivery-date."
+ },
+ {
+  "id": "d2101785a434",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to report back to the Civic Works Committee on transit, road-network, and active-transportation planning for West London, including a study of filtered-permeability measures to address cut-through traffic -- no substantive transit decision was made.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against 2024-06-04 Council item 8.2.16 (West London transit/roads report-back, Passed 10-4): all four sub-clauses (a-d) are report-back/study/integrate-into-future-reports directives; no substantive transit decision made. Confirmed transit/null."
+ },
+ {
+  "id": "985a8965516e",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Endorsed a proposed residential development at 193-199 College Avenue with special zoning provisions permitting density up to 196 units per hectare and building height up to 21 metres, notwithstanding a staff recommendation against approval.",
+  "confidence": "high",
+  "quote": "the development, as proposed, BE ENDORSED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against 2024-06-04 Council item 8.4.11 (193-199 College Ave, Passed 9-5): quote matches exactly ('the development, as proposed, BE ENDORSED'). Text confirms 'notwithstanding the recommendation of the Director, Planning and Development' (staff recommended against) and the endorsed special provisions include 196 units/hectare density and 21.0m height. housing/density/expansive confirmed."
+ },
+ {
+  "id": "5773ea5a7c3e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Rezoned 743 Wellington Road from Restricted Office to a special-provision Restricted Office zone that removes 'Emergency Care Establishments' as a permitted use -- a non-residential zoning change, not a housing-density decision.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified verbatim against 2024-06-04 Council item 8.4.8 (743 Wellington Rd, Passed 11-3): the rezoning removes 'Emergency Care Establishments' as a permitted use within a Restricted Office zone -- purely a non-residential office-use change, no density/dwelling/housing content anywhere in the operative text. The itemTitle's Z-9720 code is a structural signal the automated classifyIssue() would use, but the classifier's override to issue=none is substantively correct: this is exactly the kind of code-pattern-only false positive the manual-review process exists to catch. Confirmed correct override of prod's mistaken 'housing' tag."
+ }
+]

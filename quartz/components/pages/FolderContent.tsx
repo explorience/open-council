@@ -88,6 +88,23 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         })
         .filter((page) => page !== undefined) ?? []
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
+    // Fixed 2026-08-31 (round-6 gate item 5): frontmatter cssclasses were
+    // only ever applied to <article>, which is a SIBLING of the
+    // `.page-listing` div below, not an ancestor of it — so the existing
+    // `.hide-folder-listing .page-listing { display: none; }` rule in
+    // quartz/styles/custom.scss (added for content/topics/index.md) could
+    // never match anything: the descendant selector had no ancestor to
+    // hang off. Every folder-index page with its own real, curated content
+    // (content/topics/index.md, and now content/election/index.md and its
+    // two sub-index pages) was silently getting a generic
+    // "N meetings in this month." + full raw file listing appended below
+    // its actual content — a stray template partial meant for the
+    // synthetic content/months/YYYY-MM folder pages, which have no
+    // authored index.md of their own. Moving the frontmatter classes onto
+    // the wrapping #main-content div (the same element the selector's
+    // ancestor half already assumed) makes the existing mechanism work as
+    // originally intended, for every page that opts in via cssclasses —
+    // not a new mechanism, just the one that was already documented.
     const classes = cssClasses.join(" ")
     const listProps = {
       ...props,
@@ -102,8 +119,8 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     ) as ComponentChildren
 
     return (
-      <div id="main-content" role="main" class="popover-hint">
-        <article class={classes}>{content}</article>
+      <div id="main-content" role="main" class={["popover-hint", classes].filter(Boolean).join(" ")}>
+        <article>{content}</article>
         <div class="page-listing">
           {options.showFolderCount && (
             <p>{allPagesInFolder.length} meetings in this month.</p>
