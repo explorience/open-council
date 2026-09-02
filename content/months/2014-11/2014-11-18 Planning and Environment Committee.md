@@ -1434,7 +1434,7 @@ Unanimous (6-0)
 
 **Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
-**Nay (2):** [W.R. Monteith](/councillors/current/w-r-monteith), [Judy Bryant](/councillors/current/j-p-bryant)
+**Nay (2):** W.R. Monteith, [Judy Bryant](/councillors/current/j-p-bryant)
 
 </details>
 
@@ -1469,7 +1469,7 @@ Unanimous (6-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [W.R. Monteith](/councillors/current/w-r-monteith), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), W.R. Monteith, [Judy Bryant](/councillors/current/j-p-bryant)
 
 **Nay (3):** [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 

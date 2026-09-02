@@ -1,5 +1,5 @@
 ---
-title: "W.R. Monteith"
+title: "Russell Monteith"
 type: councillor
 slug: "w-r-monteith"
 meetingCount: 21
@@ -25,7 +25,7 @@ prefillQuestions:
 
 ## Terms of Service
 
-- 2014-2014: Councillor (Ward 4)
+- 2014-2014: Councillor (Ward 5)
 
 ## Voting Record
 
@@ -98,7 +98,7 @@ prefillQuestions:
 
 ## Notable Dissenting Votes
 
-*Recent split votes where W.R. Monteith voted against the final outcome:*
+*Recent split votes where Russell Monteith voted against the final outcome:*
 
 ### 2014-11-25: Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
