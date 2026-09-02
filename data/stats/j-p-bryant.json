@@ -36,23 +36,23 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 2821,
-    "yeas": 2610,
+    "totalVotes": 2851,
+    "yeas": 2640,
     "nays": 211,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 92.52038284296349,
-    "contestedDissentRate": 26.56934306569343,
-    "contestedVotes": 685,
-    "substantiveVotes": 2524,
-    "substantiveYeas": 2313,
+    "yeaRate": 92.59908803928447,
+    "contestedDissentRate": 25.842696629213485,
+    "contestedVotes": 712,
+    "substantiveVotes": 2551,
+    "substantiveYeas": 2340,
     "substantiveNays": 211,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 91.64025356576863
+    "substantiveYeaRate": 91.72873382987063
   },
   "budgetVoting": {
-    "totalBudgetVotes": 433,
-    "budgetYeas": 388,
+    "totalBudgetVotes": 444,
+    "budgetYeas": 399,
     "budgetNays": 45,
     "budgetAbsent": 0
   },
@@ -153,15 +153,15 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2096,
-      "yeas": 1944,
+      "totalVotes": 2120,
+      "yeas": 1968,
       "nays": 152,
       "participationRate": 100
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 308,
-      "yeas": 261,
+      "totalVotes": 314,
+      "yeas": 267,
       "nays": 47,
       "participationRate": 100
     },

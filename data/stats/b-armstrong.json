@@ -2,29 +2,35 @@
   "councillor": "Bill Armstrong",
   "slug": "b-armstrong",
   "attendance": {
-    "totalMeetings": 349,
-    "present": 328,
-    "absent": 21,
+    "totalMeetings": 414,
+    "present": 389,
+    "absent": 25,
     "remote": 0,
-    "attendanceRate": 93.98280802292264,
+    "attendanceRate": 93.96135265700482,
     "trend": [
       {
+        "period": "2011",
+        "attendanceRate": 88.88888888888889,
+        "meetingsAttended": 8,
+        "meetingsTotal": 9
+      },
+      {
         "period": "2012",
-        "attendanceRate": 50,
-        "meetingsAttended": 1,
-        "meetingsTotal": 2
+        "attendanceRate": 88.88888888888889,
+        "meetingsAttended": 32,
+        "meetingsTotal": 36
       },
       {
         "period": "2013",
-        "attendanceRate": 97.5609756097561,
-        "meetingsAttended": 40,
-        "meetingsTotal": 41
+        "attendanceRate": 98.30508474576271,
+        "meetingsAttended": 58,
+        "meetingsTotal": 59
       },
       {
         "period": "2014",
-        "attendanceRate": 95.16129032258065,
-        "meetingsAttended": 59,
-        "meetingsTotal": 62
+        "attendanceRate": 95.45454545454545,
+        "meetingsAttended": 63,
+        "meetingsTotal": 66
       },
       {
         "period": "2015",
@@ -54,24 +60,24 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 5169,
-    "yeas": 4833,
-    "nays": 253,
+    "totalVotes": 6510,
+    "yeas": 6099,
+    "nays": 328,
     "absent": 83,
-    "participationRate": 98.3942735538789,
-    "yeaRate": 95.02556036177742,
-    "contestedDissentRate": 20.23172905525847,
-    "contestedVotes": 1122,
-    "substantiveVotes": 4116,
-    "substantiveYeas": 3826,
-    "substantiveNays": 250,
-    "substantiveParticipationRate": 99.02818270165209,
-    "substantiveYeaRate": 93.86653581943082
+    "participationRate": 98.72503840245776,
+    "yeaRate": 94.89653026295318,
+    "contestedDissentRate": 19.44264419961115,
+    "contestedVotes": 1543,
+    "substantiveVotes": 5396,
+    "substantiveYeas": 5022,
+    "substantiveNays": 328,
+    "substantiveParticipationRate": 99.14751667902149,
+    "substantiveYeaRate": 93.86915887850468
   },
   "budgetVoting": {
-    "totalBudgetVotes": 507,
-    "budgetYeas": 450,
-    "budgetNays": 55,
+    "totalBudgetVotes": 762,
+    "budgetYeas": 684,
+    "budgetNays": 76,
     "budgetAbsent": 2
   },
   "topAlignments": [],
@@ -171,24 +177,24 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 3202,
-      "yeas": 2979,
-      "nays": 154,
-      "participationRate": 97.84509681449094
+      "totalVotes": 4444,
+      "yeas": 4156,
+      "nays": 219,
+      "participationRate": 98.44734473447345
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 920,
-      "yeas": 828,
-      "nays": 84,
-      "participationRate": 99.1304347826087
+      "totalVotes": 1018,
+      "yeas": 916,
+      "nays": 94,
+      "participationRate": 99.21414538310412
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 786,
-      "yeas": 766,
+      "totalVotes": 787,
+      "yeas": 767,
       "nays": 14,
-      "participationRate": 99.23664122137404
+      "participationRate": 99.23761118170266
     },
     {
       "committee": "Civic Works Committee",

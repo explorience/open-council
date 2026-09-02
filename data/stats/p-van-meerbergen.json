@@ -90,23 +90,23 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 9548,
-    "yeas": 7649,
+    "totalVotes": 9884,
+    "yeas": 7678,
     "nays": 1067,
-    "absent": 614,
-    "participationRate": 91.28613322161709,
-    "yeaRate": 87.7581459385039,
-    "contestedDissentRate": 33.36452971455311,
-    "contestedVotes": 2137,
-    "substantiveVotes": 6240,
-    "substantiveYeas": 4982,
-    "substantiveNays": 820,
-    "substantiveParticipationRate": 92.98076923076923,
-    "substantiveYeaRate": 85.86694243364357
+    "absent": 617,
+    "participationRate": 88.47632537434237,
+    "yeaRate": 87.79874213836479,
+    "contestedDissentRate": 33.1267217630854,
+    "contestedVotes": 2904,
+    "substantiveVotes": 7474,
+    "substantiveYeas": 5502,
+    "substantiveNays": 1067,
+    "substantiveParticipationRate": 87.89135670323789,
+    "substantiveYeaRate": 83.75704064545593
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1267,
-    "budgetYeas": 944,
+    "totalBudgetVotes": 1277,
+    "budgetYeas": 954,
     "budgetNays": 261,
     "budgetAbsent": 39
   },
@@ -269,17 +269,17 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 6317,
-      "yeas": 5147,
+      "totalVotes": 6352,
+      "yeas": 5171,
       "nays": 695,
-      "participationRate": 92.480607883489
+      "participationRate": 92.34886649874056
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2152,
-      "yeas": 1607,
+      "totalVotes": 2453,
+      "yeas": 1612,
       "nays": 241,
-      "participationRate": 85.87360594795538
+      "participationRate": 75.54015491235222
     },
     {
       "committee": "Civic Works Committee",

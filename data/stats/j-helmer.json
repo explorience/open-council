@@ -66,23 +66,23 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 10413,
-    "yeas": 9439,
+    "totalVotes": 10525,
+    "yeas": 9460,
     "nays": 594,
     "absent": 134,
-    "participationRate": 96.35071545183904,
-    "yeaRate": 94.07953752616366,
-    "contestedDissentRate": 25.534373194685152,
-    "contestedVotes": 1731,
-    "substantiveVotes": 7130,
-    "substantiveYeas": 6352,
-    "substantiveNays": 513,
-    "substantiveParticipationRate": 96.28330995792427,
-    "substantiveYeaRate": 92.52731245447924
+    "participationRate": 95.52494061757719,
+    "yeaRate": 94.09190371991247,
+    "contestedDissentRate": 24.72289156626506,
+    "contestedVotes": 2075,
+    "substantiveVotes": 7578,
+    "substantiveYeas": 6615,
+    "substantiveNays": 594,
+    "substantiveParticipationRate": 95.13064133016627,
+    "substantiveYeaRate": 91.76029962546816
   },
   "budgetVoting": {
-    "totalBudgetVotes": 901,
-    "budgetYeas": 792,
+    "totalBudgetVotes": 908,
+    "budgetYeas": 799,
     "budgetNays": 87,
     "budgetAbsent": 2
   },
@@ -183,24 +183,24 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 4680,
-      "yeas": 4263,
+      "totalVotes": 4690,
+      "yeas": 4273,
       "nays": 362,
-      "participationRate": 98.82478632478633
+      "participationRate": 98.8272921108742
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 2443,
-      "yeas": 2290,
+      "totalVotes": 2446,
+      "yeas": 2293,
       "nays": 65,
-      "participationRate": 96.39787146950471
+      "participationRate": 96.4022894521668
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1810,
-      "yeas": 1464,
+      "totalVotes": 1905,
+      "yeas": 1472,
       "nays": 137,
-      "participationRate": 88.45303867403315
+      "participationRate": 84.46194225721784
     },
     {
       "committee": "Civic Works Committee",
@@ -211,10 +211,10 @@
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 614,
+      "totalVotes": 618,
       "yeas": 577,
       "nays": 19,
-      "participationRate": 97.06840390879479
+      "participationRate": 96.44012944983818
     },
     {
       "committee": "Community and Protective Services Committee",
