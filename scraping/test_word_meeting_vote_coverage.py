@@ -276,6 +276,93 @@ def check_bare_title_tokens_filtered_from_word_meeting():
         failures += 1
 
 
+def check_narration_prefix_stripped_from_boilerplate_motion():
+    """Regression test for issue #199 punch list item 4:
+    _is_boilerplate_motion must recognize a narration sentence ("At H:MM
+    PM Councillor X leaves the meeting.") and/or the "The motion ... is
+    put." transition FUSED into the same paragraph as the boilerplate
+    result echo, not just when they're their own standalone paragraphs.
+
+    Fused this way, the plain BOILERPLATE_RESULT_TEXT_RE match fails (real
+    non-boilerplate narration text is glued onto the front), so
+    _attach_content's look-behind merge never fires and the fused
+    narration ships as motionText instead of the real recommendation - the
+    fixer's own cited example, 2012-04-10 item 15#3: "At 9:50 PM Councillor
+    H.L. Usher leaves the meeting. The motion to Approve clauses 9 to 15 is
+    put. Motion Passed".
+
+    parse_names-style: _is_boilerplate_motion is a staticmethod that only
+    reads motion.motion_texts, so a minimal fake object is enough - no
+    need to construct a full WordMeeting/BeautifulSoup fixture.
+    """
+    global failures
+    ok = True
+
+    class FakeParagraph:
+        def __init__(self, string):
+            self.string = string
+
+    class FakeMotion:
+        def __init__(self, texts):
+            self.motion_texts = [FakeParagraph(t) for t in texts]
+
+    def is_boilerplate(text):
+        return WordMeeting._is_boilerplate_motion(FakeMotion([text]))
+
+    # THE fixer's own cited example - narration + "is put" + result, all
+    # fused into one paragraph.
+    fused_narration_and_is_put = (
+        "At 9:50 PM Councillor H.L. Usher leaves the\n  meeting.\n\xa0\n"
+        "The motion to Approve clauses 9 to 15 is\n  put.\n\xa0\nMotion Passed"
+    )
+    if not is_boilerplate(fused_narration_and_is_put):
+        ok = False
+        print(f"FAIL: narration-prefix-stripped: fused narration+is-put+result not recognized as boilerplate")
+
+    # Narration alone, fused with the result, no "is put" clause.
+    if not is_boilerplate("Councillor S.E. White enters the meeting at 7:54 PM. Motion Passed"):
+        ok = False
+        print("FAIL: narration-prefix-stripped: fused narration+result not recognized as boilerplate")
+
+    # "is put" alone, fused with the result, no narration.
+    if not is_boilerplate("The motion to Approve clauses 1 to 4 is put. Motion Passed"):
+        ok = False
+        print("FAIL: narration-prefix-stripped: fused is-put+result not recognized as boilerplate")
+
+    # The plain, unfused case (no peeling needed) must still work.
+    if not is_boilerplate("Motion Passed"):
+        ok = False
+        print("FAIL: narration-prefix-stripped: plain boilerplate regressed")
+
+    # Controls: a REAL substantive motion must never be misclassified as
+    # boilerplate just because peeling found nothing to strip.
+    real_motions = [
+        "That the following actions be taken with respect to the 2nd Report of the London Housing Advisory Committee.",
+        # Contains "reconvene" ~90 chars in, mid-sentence - not narration.
+        "Approve that the meeting of the Approval Authority be adjourned and that the City Council reconvene as the Municipal Council.",
+        "That Block 73, Plan 33M-119, BE DECLARED SURPLUS, and the subject lands BE TRANSFERRED to Drewlo Holdings Limited.",
+    ]
+    for text in real_motions:
+        if is_boilerplate(text):
+            ok = False
+            print(f"FAIL: narration-prefix-stripped: real motion misclassified as boilerplate -> {text!r}")
+
+    # A narration clause fused onto a REAL (non-boilerplate) continuation
+    # must NOT be classified as boilerplate either - only peel-then-match-
+    # BOILERPLATE_RESULT_TEXT_RE counts, not "something was peeled".
+    if is_boilerplate(
+        "At 9:50 PM Councillor H.L. Usher leaves the meeting. "
+        "That the report of the Managing Director BE RECEIVED for information."
+    ):
+        ok = False
+        print("FAIL: narration-prefix-stripped: narration + real continuation wrongly classified as boilerplate")
+
+    if ok:
+        print("PASS: narration-prefix-stripped: fused narration/is-put clauses recognized as boilerplate")
+    else:
+        failures += 1
+
+
 def check_guardrail_fires_on_genuine_undercount():
     """The guardrail (issue #199 guardrail a) must actually fail loudly,
     not just pass quietly, when parsing genuinely drops a roll call."""
@@ -355,6 +442,7 @@ check_motion_text_attached(
 
 check_section_key_disambiguation()
 check_bare_title_tokens_filtered_from_word_meeting()
+check_narration_prefix_stripped_from_boilerplate_motion()
 check_guardrail_fires_on_genuine_undercount()
 check_guardrail_fires_on_genuine_overcount()
 check_dedupe_removes_repeated_named_motion()
