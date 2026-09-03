@@ -327,7 +327,8 @@
    "506542331add",
    "344cfab0a9ca",
    "b0a7ddda45cb",
-   "2ed2545dd453"
+   "2ed2545dd453",
+   "05288409fb7f"
   ],
   [
    "e9cce81e8d39",
@@ -10071,6 +10072,14 @@
    "itemNumber": "4.4",
    "itemTitle": "Establishing Homes Ontario - T. Kernaghan, MPP",
    "result": "Motion Passed (7 to 6)"
+  },
+  "05288409fb7f": {
+   "id": "05288409fb7f",
+   "date": "2025-08-11",
+   "meetingSlug": "months/2025-08/2025-08-11 12th Meeting of the Community and Protective Services Committee",
+   "itemNumber": "4.5",
+   "itemTitle": "Enhancements to Dog Licensing and Control By\u2011law \u2013 Focus on Public Safety Risk Dogs",
+   "result": "Motion Passed (3 to 1)"
   }
  }
 }

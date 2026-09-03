@@ -20,7 +20,7 @@
   "field": "axis",
   "was": "response-scale",
   "now": null,
-  "reason": "This is a resolution asking Ontario's Big City Mayors to request the Government of Ontario declare a state of emergency over homelessness/addictions/mental health, and to provide municipalities with more funding. It is advocacy toward another government, not a City decision that expands London's own encampment/homelessness response. Same advocacy-letter defect class as 187527fc77b7: downgraded to unclear.",
+  "reason": "This is a resolution asking Ontario's Big City Mayors to request the Government of Ontario declare a state of emergency over homelessness/addictions/mental health, and to provide municipalities with more funding. It is advocacy toward another government, not a City decision that expands London's own encampment/homelessness response. Same advocacy-letter defect class as 187527fc77b7 (superseded id): downgraded to unclear.",
   "quote": "Therefore it be resolved that Ontario\u2019s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency to address homelessness caused by addictions and mental health that has created a community safety and humanitarian crisis across the province."
  },
  {
@@ -36,7 +36,7 @@
   "field": "axis",
   "was": "response-scale",
   "now": null,
-  "reason": "Council REQUESTING that Civic Administration and the Mayor engage federal/provincial governments to fund the Encampment Implementation Recommendations does not itself change London's response scale by a dollar or a space -- it is a request for outside funding, same advocacy-letter defect class as 187527fc77b7 and cc2a45812971. Downgraded to unclear.",
+  "reason": "Council REQUESTING that Civic Administration and the Mayor engage federal/provincial governments to fund the Encampment Implementation Recommendations does not itself change London's response scale by a dollar or a space -- it is a request for outside funding, same advocacy-letter defect class as 187527fc77b7 (superseded id) and cc2a45812971 (superseded id). Downgraded to unclear.",
   "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of London\u2019s portion of a $250-million federal fund dedicated to addressing encampments"
  },
  {
@@ -52,7 +52,7 @@
   "field": "axis",
   "was": "response-scale",
   "now": null,
-  "reason": "Sweep for the same advocacy-letter defect shape (class, not instance): this is an amendment to the SAME part b) federal/provincial funding request as 0b898d04d289 -- it only edits where the advocacy ask says any resulting overnight spaces should be sited, it does not itself change London's response scale. Downgraded to unclear alongside its parent motion.",
+  "reason": "Sweep for the same advocacy-letter defect shape (class, not instance): this is an amendment to the SAME part b) federal/provincial funding request as 0b898d04d289 (superseded id) -- it only edits where the advocacy ask says any resulting overnight spaces should be sited, it does not itself change London's response scale. Downgraded to unclear alongside its parent motion.",
   "quote": "b) the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces (that are not located on the main street of any BIA), rent supplements and transactional encampment services as outlined in the report dated October 29, 2024, for a two-year period"
  },
  {
@@ -100,7 +100,7 @@
   "field": "axis",
   "was": "response-scale",
   "now": null,
-  "reason": "Round-3 gate SHOULD FIX (the other axis-label mismatch, paired with a41ad53fb87f): endorsing a proposed system-transformation approach and procurement framework does not itself change the scale of London's encampment/homelessness response by a dollar or a space -- it endorses a process, not a funding or service-level decision. The near-identical companion item '(2.4) Housing Stability Services Procurement and Delivery Framework' is already listed as unclassified on content/election/issues/index.md; this entry is downgraded to unclear for the same reason, for consistency.",
+  "reason": "Round-3 gate SHOULD FIX (the other axis-label mismatch, paired with a41ad53fb87f (superseded id)): endorsing a proposed system-transformation approach and procurement framework does not itself change the scale of London's encampment/homelessness response by a dollar or a space -- it endorses a process, not a funding or service-level decision. The near-identical companion item '(2.4) Housing Stability Services Procurement and Delivery Framework' is already listed as unclassified on content/election/issues/index.md; this entry is downgraded to unclear for the same reason, for consistency.",
   "quote": "the proposed system transformation approach and multi-year Housing Stability Services procurement framework as outlined in the December 1, 2025 staff report, BE ENDORSED"
  },
  {
@@ -148,7 +148,7 @@
   "field": "axis",
   "was": "business-case",
   "now": "levy-size",
-  "reason": "Round-3 gate SHOULD FIX, same defect class as 18633398dd86: Business Case #P-24 (Eliminate Climate Change Reserve Fund Contribution) is itself a SAVINGS/cut case -- including it in the budget applies that cut, lowering the levy. Re-derived from the source meeting JSON's own numbers for this exact motion (2025-11-20 Budget Committee, Moved by S. Franke, Seconded by S. Hillier): the case's stated '2026 Tax Levy: -$192,000' is a levy DECREASE. Reclassified onto the levy-size axis, which actually describes the fiscal direction.",
+  "reason": "Round-3 gate SHOULD FIX, same defect class as 18633398dd86 (superseded id): Business Case #P-24 (Eliminate Climate Change Reserve Fund Contribution) is itself a SAVINGS/cut case -- including it in the budget applies that cut, lowering the levy. Re-derived from the source meeting JSON's own numbers for this exact motion (2025-11-20 Budget Committee, Moved by S. Franke, Seconded by S. Hillier): the case's stated '2026 Tax Levy: -$192,000' is a levy DECREASE. Reclassified onto the levy-size axis, which actually describes the fiscal direction.",
   "quote": "That Business Case #P-24 \u2013 Eliminate Climate Change Reserve Fund Contribution \u2013 BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
  },
  {
@@ -164,7 +164,7 @@
   "field": "axis",
   "was": "affordable-funding",
   "now": null,
-  "reason": "Round-4 gate item 2 (advocacy/apply/request/urge/support sweep, re-run to include application-submission shapes): this motion (2026-06-23 Council, 'Request to Submit an Application for New Affordable Housing Funding Through Build Canada Homes') directs staff to SUBMIT AN APPLICATION to a federal capital-funding program -- the City does not itself commit, allocate, or deny affordable-housing funding here; it asks a federal program to. Same advocacy-toward-another-government-or-body defect class as the already-downgraded c0e0eab57589 ('supports the house debate' of a provincial motion asking Ontario to fund Homes Ontario): the City's own act is a request/application, not a funding or land decision. Downgraded to unclear.",
+  "reason": "Round-4 gate item 2 (advocacy/apply/request/urge/support sweep, re-run to include application-submission shapes): this motion (2026-06-23 Council, 'Request to Submit an Application for New Affordable Housing Funding Through Build Canada Homes') directs staff to SUBMIT AN APPLICATION to a federal capital-funding program -- the City does not itself commit, allocate, or deny affordable-housing funding here; it asks a federal program to. Same advocacy-toward-another-government-or-body defect class as the already-downgraded c0e0eab57589 (superseded id) ('supports the house debate' of a provincial motion asking Ontario to fund Homes Ontario): the City's own act is a request/application, not a funding or land decision. Downgraded to unclear.",
   "quote": "the Civic Administration BE DIRECTED to submit an application to Build Canada Homes to secure capital funds to support the development of new affordable housing in the city of London and Middlesex-County."
  },
  {
@@ -180,7 +180,7 @@
   "field": "axis",
   "was": "application-approval",
   "now": null,
-  "reason": "Round-4 gate item 2 sweep hit (2024-12-17 Council, Land Needs Assessment - Official Plan Review): 'the Province BE REQUESTED to support' an Urban Growth Boundary expansion -- the Growth Plan/UGB is a provincial instrument; London is asking the Province to support an expansion, not itself approving a development application or changing a permitted use (the application-approval axis's own generic label). Same advocacy-toward-another-government defect class as the corrections already applied to 187527fc77b7/cc2a45812971/0b898d04d289/fc2f9833ce19/c0e0eab57589. Downgraded to unclear.",
+  "reason": "Round-4 gate item 2 sweep hit (2024-12-17 Council, Land Needs Assessment - Official Plan Review): 'the Province BE REQUESTED to support' an Urban Growth Boundary expansion -- the Growth Plan/UGB is a provincial instrument; London is asking the Province to support an expansion, not itself approving a development application or changing a permitted use (the application-approval axis's own generic label). Same advocacy-toward-another-government defect class as the corrections already applied to 187527fc77b7 (superseded id)/cc2a45812971 (superseded id)/0b898d04d289 (superseded id)/fc2f9833ce19 (superseded id)/c0e0eab57589 (superseded id). Downgraded to unclear.",
   "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London's new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
  },
  {
@@ -196,7 +196,7 @@
   "field": "axis",
   "was": "application-approval",
   "now": null,
-  "reason": "Round-4 gate item 2 sweep hit, same underlying request as f256055d95cb at its earlier committee stage (2024-12-03 Planning and Environment Committee, same item, standalone UGB-expansion sub-vote): 'the Province BE REQUESTED to support' a UGB expansion. Same advocacy-toward-another-government defect class -- downgraded to unclear for the same reason as f256055d95cb.",
+  "reason": "Round-4 gate item 2 sweep hit, same underlying request as f256055d95cb (superseded id) at its earlier committee stage (2024-12-03 Planning and Environment Committee, same item, standalone UGB-expansion sub-vote): 'the Province BE REQUESTED to support' a UGB expansion. Same advocacy-toward-another-government defect class -- downgraded to unclear for the same reason as f256055d95cb (superseded id).",
   "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London\u2019s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
  },
  {
@@ -212,7 +212,7 @@
   "field": "axis",
   "was": "business-case",
   "now": "levy-size",
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this motion's full text carries an explicit 'Tax Levy' dollar line, so its real fiscal direction is derivable from that line's sign together with the motion's own include/exclude verb, per the same rule already applied to 18633398dd86/ea03954e4926 -- Business Case #P-25 (Stop Collecting Blue Box Materials from Non-Eligible Sources) is BE INCLUDED with an explicit '2026 Tax Levy: -$250,000' -- a yea includes a $250,000/year levy CUT. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this motion's full text carries an explicit 'Tax Levy' dollar line, so its real fiscal direction is derivable from that line's sign together with the motion's own include/exclude verb, per the same rule already applied to 18633398dd86 (superseded id)/ea03954e4926 (superseded id) -- Business Case #P-25 (Stop Collecting Blue Box Materials from Non-Eligible Sources) is BE INCLUDED with an explicit '2026 Tax Levy: -$250,000' -- a yea includes a $250,000/year levy CUT. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
   "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Update Budget"
  },
  {
@@ -228,7 +228,7 @@
   "field": "axis",
   "was": "business-case",
   "now": "levy-size",
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this motion's full text carries an explicit 'Tax Levy' dollar line, so its real fiscal direction is derivable from that line's sign together with the motion's own include/exclude verb, per the same rule already applied to 18633398dd86/ea03954e4926 -- Business Case #P-12 (Resident Satisfaction Survey Frequency) is BE EXCLUDED with an explicit '2027 Tax Levy: $28,000' -- a yea excludes a case that would otherwise have ADDED $28,000/year to the levy, i.e. avoids that increase. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this motion's full text carries an explicit 'Tax Levy' dollar line, so its real fiscal direction is derivable from that line's sign together with the motion's own include/exclude verb, per the same rule already applied to 18633398dd86 (superseded id)/ea03954e4926 (superseded id) -- Business Case #P-12 (Resident Satisfaction Survey Frequency) is BE EXCLUDED with an explicit '2027 Tax Levy: $28,000' -- a yea excludes a case that would otherwise have ADDED $28,000/year to the levy, i.e. avoids that increase. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
   "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget"
  },
  {
@@ -244,7 +244,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "the Civic Administration BE DIRECTED to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and find an appropriate source of funding"
  },
  {
@@ -260,7 +260,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
  },
  {
@@ -276,7 +276,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
  },
  {
@@ -292,7 +292,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix \"A\"... and to bring forward the corresponding business case for inclusion in the Mayor's proposed 2026 Budget Update"
  },
  {
@@ -308,7 +308,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
  },
  {
@@ -324,7 +324,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements"
  },
  {
@@ -340,7 +340,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 3 Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching"
  },
  {
@@ -356,7 +356,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry \u2013 Tree Planting Grants & Non-replacement Tree Planting"
  },
  {
@@ -372,7 +372,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics \u2013 Closure of 5 Wading Pools"
  },
  {
@@ -388,7 +388,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management \u2013 Resident Satisfaction Survey"
  },
  {
@@ -404,7 +404,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources \u2013 Internships"
  },
  {
@@ -420,7 +420,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology \u2013 Digital Transformation"
  },
  {
@@ -436,7 +436,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 1 Traffic Control & Street Lighting - Eliminate Full Funding of New Streetlight Installations"
  },
  {
@@ -452,7 +452,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion"
  },
  {
@@ -468,7 +468,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
  },
  {
@@ -484,7 +484,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 4 Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands"
  },
  {
@@ -500,7 +500,7 @@
   "field": "axis",
   "was": "business-case",
   "now": null,
-  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
   "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing \u2013 Climate Change Reserve Fund Contribution"
  },
  {
@@ -940,7 +940,7 @@
   "field": "axis",
   "was": "application-approval",
   "now": "transit-service",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same motion at ICSC committee stage; same reasoning as b206f4de942a.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same motion at ICSC committee stage; same reasoning as b206f4de942a (superseded id).",
   "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\ni) \u00a0 \u00a0approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund \u2013 Baseline Funding (the \u201cAgreement\u201d) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (\u201cCanada\u201d), and The Corporation of the City of London (the \u201cRecipient\u201d);"
  },
  {
@@ -1020,7 +1020,7 @@
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same expropriation, committee stage; same reasoning as 895b8202a9e6.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same expropriation, committee stage; same reasoning as 895b8202a9e6 (superseded id).",
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith"
  },
  {
@@ -1052,7 +1052,7 @@
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same MOU directive, committee/added-item stage; same reasoning as d1fc73f17bb5.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same MOU directive, committee/added-item stage; same reasoning as d1fc73f17bb5 (superseded id).",
   "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School"
  },
  {
@@ -1060,7 +1060,7 @@
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same expropriation, committee stage; same reasoning as 6e54e9c40a61.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same expropriation, committee stage; same reasoning as 6e54e9c40a61 (superseded id).",
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith"
  },
  {
@@ -1084,7 +1084,7 @@
   "field": "axis",
   "was": "service-expansion",
   "now": null,
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, earlier committee vote (adopting Option 2/32.5%); same reasoning as 873508ecdfbc.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, earlier committee vote (adopting Option 2/32.5%); same reasoning as 873508ecdfbc (superseded id).",
   "quote": "That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan"
  },
  {
@@ -1092,7 +1092,7 @@
   "field": "polarity",
   "was": "expansive",
   "now": null,
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, earlier committee vote (adopting Option 2/32.5%); same reasoning as 873508ecdfbc.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, earlier committee vote (adopting Option 2/32.5%); same reasoning as 873508ecdfbc (superseded id).",
   "quote": "That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan"
  },
  {
@@ -1100,7 +1100,7 @@
   "field": "axis",
   "was": "service-expansion",
   "now": null,
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, final committee vote on part a); same reasoning as 873508ecdfbc.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, final committee vote on part a); same reasoning as 873508ecdfbc (superseded id).",
   "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and"
  },
  {
@@ -1108,7 +1108,7 @@
   "field": "polarity",
   "was": "expansive",
   "now": null,
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, final committee vote on part a); same reasoning as 873508ecdfbc.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same combined Transit+Walking+Cycling 2050 mode-share target, final committee vote on part a); same reasoning as 873508ecdfbc (superseded id).",
   "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and"
  },
  {
@@ -1156,7 +1156,7 @@
   "field": "axis",
   "was": "application-approval",
   "now": null,
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same ICIP-PTS reallocation, committee stage; same reasoning as 71f1ada00bf5.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same ICIP-PTS reallocation, committee stage; same reasoning as 71f1ada00bf5 (superseded id).",
   "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report"
  },
  {
@@ -1164,7 +1164,7 @@
   "field": "polarity",
   "was": "expansive",
   "now": null,
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same ICIP-PTS reallocation, committee stage; same reasoning as 71f1ada00bf5.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same ICIP-PTS reallocation, committee stage; same reasoning as 71f1ada00bf5 (superseded id).",
   "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report"
  },
  {
@@ -1188,7 +1188,7 @@
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: committee-stage approval of the same MOU/Agreement with up to $1.04M financing; same reasoning as a23c5771a121.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: committee-stage approval of the same MOU/Agreement with up to $1.04M financing; same reasoning as a23c5771a121 (superseded id).",
   "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d , BE AUTHORIZED and BE APPROVED;"
  },
  {
@@ -1220,7 +1220,7 @@
   "field": "axis",
   "was": "application-approval",
   "now": "transit-service",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same design-contract increase, committee stage; same reasoning as 3d072ced8231.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same design-contract increase, committee stage; same reasoning as 3d072ced8231 (superseded id).",
   "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)"
  },
  {
@@ -1244,7 +1244,7 @@
   "field": "axis",
   "was": "application-approval",
   "now": "transit-service",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same contract increase, committee stage; same reasoning as 883ee33ef545.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same contract increase, committee stage; same reasoning as 883ee33ef545 (superseded id).",
   "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)"
  },
  {
@@ -1252,7 +1252,7 @@
   "field": "axis",
   "was": null,
   "now": "transit-service",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED from unclear (miss corrected, not just an axis rename): the full operative clause is 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' (Phase 2 civil works) -- the identical expropriation-approval pattern as 895b8202a9e6/3991d33dbbbe/6e54e9c40a61/9496bc59ad3b, all correctly classified transit-service/expansive. This id was left null in a prior round on boilerplate 'informational-ask/procedural' reasoning that does not match the actual substantive land-acquisition clause; corrected to match its siblings.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED from unclear (miss corrected, not just an axis rename): the full operative clause is 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' (Phase 2 civil works) -- the identical expropriation-approval pattern as 895b8202a9e6 (superseded id)/3991d33dbbbe (superseded id)/6e54e9c40a61 (superseded id)/9496bc59ad3b (superseded id), all correctly classified transit-service/expansive. This id was left null in a prior round on boilerplate 'informational-ask/procedural' reasoning that does not match the actual substantive land-acquisition clause; corrected to match its siblings.",
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project"
  },
  {
@@ -1260,7 +1260,7 @@
   "field": "polarity",
   "was": null,
   "now": "expansive",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED from unclear (miss corrected, not just an axis rename): the full operative clause is 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' (Phase 2 civil works) -- the identical expropriation-approval pattern as 895b8202a9e6/3991d33dbbbe/6e54e9c40a61/9496bc59ad3b, all correctly classified transit-service/expansive. This id was left null in a prior round on boilerplate 'informational-ask/procedural' reasoning that does not match the actual substantive land-acquisition clause; corrected to match its siblings.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED from unclear (miss corrected, not just an axis rename): the full operative clause is 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' (Phase 2 civil works) -- the identical expropriation-approval pattern as 895b8202a9e6 (superseded id)/3991d33dbbbe (superseded id)/6e54e9c40a61 (superseded id)/9496bc59ad3b (superseded id), all correctly classified transit-service/expansive. This id was left null in a prior round on boilerplate 'informational-ask/procedural' reasoning that does not match the actual substantive land-acquisition clause; corrected to match its siblings.",
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project"
  },
  {
@@ -1284,7 +1284,7 @@
   "field": "axis",
   "was": "application-approval",
   "now": null,
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same MMP Report approval, committee stage; same reasoning as 06f778b17f91.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same MMP Report approval, committee stage; same reasoning as 06f778b17f91 (superseded id).",
   "quote": "parts a) and b) of the motion, as amended, BE APPROVED [resolving to: a) the Mobility Master Plan Report BE APPROVED; b) the Civic Administration BE DIRECTED to file a Notice of Completion and make the Report available for the statutory 30-day public review and comment period]"
  },
  {
@@ -1292,7 +1292,7 @@
   "field": "polarity",
   "was": "expansive",
   "now": null,
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same MMP Report approval, committee stage; same reasoning as 06f778b17f91.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same MMP Report approval, committee stage; same reasoning as 06f778b17f91 (superseded id).",
   "quote": "parts a) and b) of the motion, as amended, BE APPROVED [resolving to: a) the Mobility Master Plan Report BE APPROVED; b) the Civic Administration BE DIRECTED to file a Notice of Completion and make the Report available for the statutory 30-day public review and comment period]"
  },
  {
@@ -1300,7 +1300,7 @@
   "field": "axis",
   "was": "service-expansion",
   "now": "road-capacity",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: Council's ratification of part a), the Roads Projects maps as amended (incl. Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0/478dc258ce7d at the earlier committee stage.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: Council's ratification of part a), the Roads Projects maps as amended (incl. Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0 (superseded id)/478dc258ce7d (superseded id) at the earlier committee stage.",
   "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
  },
  {
@@ -1308,7 +1308,7 @@
   "field": "axis",
   "was": "service-expansion",
   "now": "transit-service",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: Council's ratification of part b), the Transit Priority Network maps -- same transit-infrastructure content as 1f742f938d33 at committee stage.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: Council's ratification of part b), the Transit Priority Network maps -- same transit-infrastructure content as 1f742f938d33 (superseded id) at committee stage.",
   "quote": "the Transit Priority Network maps BE APPROVED"
  },
  {
@@ -1316,7 +1316,7 @@
   "field": "axis",
   "was": "service-expansion",
   "now": "road-capacity",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same flagship fix as b9c703769270: Council's ratification of part e), restarting the Wonderland Road EA to build six general-purpose through lanes (BRT conversion remains only a long-term option) -- road-capacity, not transit.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same flagship fix as b9c703769270 (superseded id): Council's ratification of part e), restarting the Wonderland Road EA to build six general-purpose through lanes (BRT conversion remains only a long-term option) -- road-capacity, not transit.",
   "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly"
  },
  {
@@ -1332,7 +1332,7 @@
   "field": "axis",
   "was": "application-approval",
   "now": "transit-service",
-  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same contract award, committee stage; same reasoning as 7346985bd070.",
+  "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same contract award, committee stage; same reasoning as 7346985bd070 (superseded id).",
   "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b);"
  },
  {
@@ -1356,7 +1356,7 @@
   "field": "decisionKey",
   "was": null,
   "now": "road-capacity-wonderland-six-laning-2025",
-  "reason": "Transit-split gate item 1: this row's normalized item title ('Mobility Master Plan Mobility Networks Maps') and date (2025-03-25) are identical to four OTHER road-capacity rows under the same agenda item, seven days apart -- groupIntoDecisions' title/date heuristic alone unions all five into one decision group, which then trips the opposite-direction ladder-exclusion and wipes this flagship Wonderland Road fix from every profile that voted on it. Explicit decisionKey groups this row only with its true same-decision sibling (the 2025-04-01 council ratification, f2540910623e), not with the unrelated Bradley Ave/Roads-Projects-maps decision that happens to share the same item title and window.",
+  "reason": "Transit-split gate item 1: this row's normalized item title ('Mobility Master Plan Mobility Networks Maps') and date (2025-03-25) are identical to four OTHER road-capacity rows under the same agenda item, seven days apart -- groupIntoDecisions' title/date heuristic alone unions all five into one decision group, which then trips the opposite-direction ladder-exclusion and wipes this flagship Wonderland Road fix from every profile that voted on it. Explicit decisionKey groups this row only with its true same-decision sibling (the 2025-04-01 council ratification, f2540910623e (superseded id)), not with the unrelated Bradley Ave/Roads-Projects-maps decision that happens to share the same item title and window.",
   "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit"
  },
  {
@@ -1364,7 +1364,7 @@
   "field": "decisionKey",
   "was": null,
   "now": "road-capacity-wonderland-six-laning-2025",
-  "reason": "Transit-split gate item 1: council-stage ratification of the same Wonderland Road six-laning EA restart as b9c703769270 (committee, 2025-03-25) -- same decisionKey so the two stages of this ONE decision group together, and stay split from the unrelated Bradley Ave/Roads-Projects-maps decision under the same agenda item.",
+  "reason": "Transit-split gate item 1: council-stage ratification of the same Wonderland Road six-laning EA restart as b9c703769270 (superseded id) (committee, 2025-03-25) -- same decisionKey so the two stages of this ONE decision group together, and stay split from the unrelated Bradley Ave/Roads-Projects-maps decision under the same agenda item.",
   "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly"
  },
  {
@@ -1372,7 +1372,7 @@
   "field": "decisionKey",
   "was": null,
   "now": "road-capacity-bradley-roads-map-2025",
-  "reason": "Transit-split gate item 1: committee-stage amendment adding the Bradley Ave (Wellington Rd-Highbury Ave) expansion to the Roads Projects Timeline -- same underlying decision as its own committee final-approval vote (478dc258ce7d) and the later council ratification (09385ddc0d7d). Explicit decisionKey keeps this group split from the unrelated Wonderland Road six-laning decision that happens to share the same item title and window.",
+  "reason": "Transit-split gate item 1: committee-stage amendment adding the Bradley Ave (Wellington Rd-Highbury Ave) expansion to the Roads Projects Timeline -- same underlying decision as its own committee final-approval vote (478dc258ce7d (superseded id)) and the later council ratification (09385ddc0d7d (superseded id)). Explicit decisionKey keeps this group split from the unrelated Wonderland Road six-laning decision that happens to share the same item title and window.",
   "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
  },
  {
@@ -1380,7 +1380,7 @@
   "field": "decisionKey",
   "was": null,
   "now": "road-capacity-bradley-roads-map-2025",
-  "reason": "Transit-split gate item 1: council's ratification of the same Roads Projects maps/Bradley Ave decision as 28ab00fbc3c0 and 478dc258ce7d at the earlier committee stage -- same decisionKey groups all three stages together, split from the unrelated Wonderland Road six-laning decision under the same agenda item.",
+  "reason": "Transit-split gate item 1: council's ratification of the same Roads Projects maps/Bradley Ave decision as 28ab00fbc3c0 (superseded id) and 478dc258ce7d (superseded id) at the earlier committee stage -- same decisionKey groups all three stages together, split from the unrelated Wonderland Road six-laning decision under the same agenda item.",
   "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
  },
  {
@@ -1420,7 +1420,7 @@
   "field": "whatAYeaDid",
   "was": "Restarted the Wonderland Road environmental assessment with expanded study limits, to construct six new general-purpose through lanes with a long-term option to convert to Bus Rapid Transit.",
   "now": "Added a clause directing Civic Administration to restart the Wonderland Road corridor Environmental Assessment (Southdale Road to Fanshawe Park Road) to build six general-purpose through lanes, with a long-term option to convert to Bus Rapid Transit, and to update the Mobility Master Plan maps accordingly.",
-  "reason": "Round-3 gate item 8: this is the 2025-03-25 Strategic Priorities and Policy COMMITTEE vote -- the motion's own operative text ADDS a new part e) directing a restart (see quote); it does not itself restart anything, and a committee recommendation isn't binding until Council ratifies it (which happened separately at f2540910623e, 2025-04-01 Council, whose whatAYeaDid already reads 'Directed Civic Administration to restart...'). 'Restarted the ... EA' overstated this motion's own effect -- the bare past-tense verb read as if the EA had already restarted by this vote alone. Reworded to describe the actual act: adding the directing clause, at committee stage (the '(committee stage)' suffix generate-hub-pages.ts's withStageQualifier appends still applies on top of this).",
+  "reason": "Round-3 gate item 8: this is the 2025-03-25 Strategic Priorities and Policy COMMITTEE vote -- the motion's own operative text ADDS a new part e) directing a restart (see quote); it does not itself restart anything, and a committee recommendation isn't binding until Council ratifies it (which happened separately at f2540910623e (superseded id), 2025-04-01 Council, whose whatAYeaDid already reads 'Directed Civic Administration to restart...'). 'Restarted the ... EA' overstated this motion's own effect -- the bare past-tense verb read as if the EA had already restarted by this vote alone. Reworded to describe the actual act: adding the directing clause, at committee stage (the '(committee stage)' suffix generate-hub-pages.ts's withStageQualifier appends still applies on top of this).",
   "quote": "That with respect the Master Mobility Plan, the following part be added: e)  the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly"
  },
  {
@@ -1436,7 +1436,7 @@
   "field": "motionText",
   "was": "",
   "now": "f)   a one-time funding allocation of up to $374,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023;",
-  "reason": "Final gate item 3: this row's \"Motion (excerpt)\" cell renders blank on all 16 evidence rows it appears in (15 councillor pages plus the encampments issue page) because data/votes/_all-motions.json's own motionText for id 9ddf707bf29d is the empty string. Root cause is an extraction edge in scripts/generate-votes.ts's extractMotionText, not in this election pipeline's motionSnippet/generate-stances.ts: it reads only the vote-bearing eScribe content entry's OWN motion_texts, but this entry (the 8-7 vote on 2023-07-25 Council item 8.4.5, Housing Stability Services 2023-24 Contract Amendments) is one of eScribe's paired text-then-vote entries -- the operative text (\"That the motion BE FURTHER AMENDED by adding the following new part f)\" plus the $374,210 clause itself) sits on the IMMEDIATELY PRECEDING sibling content entry, which carries no vote of its own and so never surfaces in _all-motions.json at all. A corpus-wide sweep of data/votes/_all-motions.json found 75 motions (since 2013) with this same empty-motionText shape from the same extraction edge; cross-checked against every motion this generator actually publishes (data/election/stances.json + issues.json), only this one id is affected -- not class-shaped WITHIN the election hub's own divided-vote universe (2023+, non-procedural, non-unanimous), even though the underlying extractor defect is. Fixing scripts/generate-votes.ts itself is out of scope for this election-only LENS (it would touch every non-election vote page site-wide, not just this row); filled in here, additively, from the meeting JSON's own text (data/2023-07/2023-07-25 13th Meeting of City Council.json, item 8 > 4 > 5, third content block's motion_texts) for this one id. Note this specific $374,210 figure was itself later amended down to $200,000 by a subsequent 11-4 vote before the main motion passed unanimously as amended -- $374,210 is the figure THIS specific 8-7 division actually decided, which is why it's the correct excerpt for this row rather than the eventually-adopted number. This motion's own classify-layer whatAYeaDid (batch-22-verified.json) already correctly names the $374,210 figure, so even before this fix a reader had the dollar amount to search the meeting page by; this excerpt fix makes the raw motion text visible too, for a row whose anchor is ambiguous (links only to the meeting page -- item 8.4.5 has multiple lettered/re-amended sub-motions sharing one heading, so no single-motion anchor is possible).",
+  "reason": "Final gate item 3: this row's \"Motion (excerpt)\" cell renders blank on all 16 evidence rows it appears in (15 councillor pages plus the encampments issue page) because data/votes/_all-motions.json's own motionText for id 9ddf707bf29d (superseded id) is the empty string. Root cause is an extraction edge in scripts/generate-votes.ts's extractMotionText, not in this election pipeline's motionSnippet/generate-stances.ts: it reads only the vote-bearing eScribe content entry's OWN motion_texts, but this entry (the 8-7 vote on 2023-07-25 Council item 8.4.5, Housing Stability Services 2023-24 Contract Amendments) is one of eScribe's paired text-then-vote entries -- the operative text (\"That the motion BE FURTHER AMENDED by adding the following new part f)\" plus the $374,210 clause itself) sits on the IMMEDIATELY PRECEDING sibling content entry, which carries no vote of its own and so never surfaces in _all-motions.json at all. A corpus-wide sweep of data/votes/_all-motions.json found 75 motions (since 2013) with this same empty-motionText shape from the same extraction edge; cross-checked against every motion this generator actually publishes (data/election/stances.json + issues.json), only this one id is affected -- not class-shaped WITHIN the election hub's own divided-vote universe (2023+, non-procedural, non-unanimous), even though the underlying extractor defect is. Fixing scripts/generate-votes.ts itself is out of scope for this election-only LENS (it would touch every non-election vote page site-wide, not just this row); filled in here, additively, from the meeting JSON's own text (data/2023-07/2023-07-25 13th Meeting of City Council.json, item 8 > 4 > 5, third content block's motion_texts) for this one id. Note this specific $374,210 figure was itself later amended down to $200,000 by a subsequent 11-4 vote before the main motion passed unanimously as amended -- $374,210 is the figure THIS specific 8-7 division actually decided, which is why it's the correct excerpt for this row rather than the eventually-adopted number. This motion's own classify-layer whatAYeaDid (batch-22-verified.json) already correctly names the $374,210 figure, so even before this fix a reader had the dollar amount to search the meeting page by; this excerpt fix makes the raw motion text visible too, for a row whose anchor is ambiguous (links only to the meeting page -- item 8.4.5 has multiple lettered/re-amended sub-motions sharing one heading, so no single-motion anchor is possible).",
   "quote": "f)   a one-time funding allocation of up to $374,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023;"
  }
 ]

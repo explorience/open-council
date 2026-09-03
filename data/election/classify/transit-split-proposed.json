@@ -19,7 +19,7 @@
   "changed": true,
   "whatAYeaDid": "Approved recommending that Council introduce a by-law to enter into and execute a Contribution Agreement with the federal government for baseline Canada Public Transit Fund funding.",
   "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\ni) \u00a0 \u00a0approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund \u2013 Baseline Funding (the \u201cAgreement\u201d) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (\u201cCanada\u201d), and The Corporation of the City of London (the \u201cRecipient\u201d);",
-  "reason": "Same motion at ICSC committee stage; same reasoning as b206f4de942a."
+  "reason": "Same motion at ICSC committee stage; same reasoning as b206f4de942a (superseded id)."
  },
  {
   "id": "ca6d842e2915",
@@ -74,7 +74,7 @@
   "changed": true,
   "whatAYeaDid": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
   "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
-  "reason": "Final committee approval of part a), the Roads Projects maps as amended (including the Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0, old axis service-expansion was wrong."
+  "reason": "Final committee approval of part a), the Roads Projects maps as amended (including the Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0 (superseded id), old axis service-expansion was wrong."
  },
  {
   "id": "3e6140abb084",
@@ -228,7 +228,7 @@
   "changed": true,
   "whatAYeaDid": "Approved (at committee stage) expropriating land needed to build the Wellington Gateway rapid-transit corridor's Clark's Bridge civil works.",
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith",
-  "reason": "Same expropriation, committee stage; same reasoning as 895b8202a9e6."
+  "reason": "Same expropriation, committee stage; same reasoning as 895b8202a9e6 (superseded id)."
  },
  {
   "id": "05d0f12626d5",
@@ -272,7 +272,7 @@
   "changed": true,
   "whatAYeaDid": "Directed staff to develop an MOU with the school board to launch a pilot providing free annual transit passes to Grade 9 students at Clarke Road Secondary School.",
   "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School",
-  "reason": "Same MOU directive, committee/added-item stage; same reasoning as d1fc73f17bb5."
+  "reason": "Same MOU directive, committee/added-item stage; same reasoning as d1fc73f17bb5 (superseded id)."
  },
  {
   "id": "4d1262df6cd6",
@@ -283,7 +283,7 @@
   "changed": false,
   "whatAYeaDid": "Would have referred the entire secondary-school transit-pass pilot proposal to the next committee meeting instead of deciding it immediately; failed, so the committee proceeded to approve the pilot the same meeting.",
   "quote": "that the motion from Deputy Mayor S. Lewis and Councillor P. Cuddy BE REFERRED to the next meeting of Strategic Priorities and Policy Committee on May 7, 2024",
-  "reason": "Stays unclear: failed (4-11) attempt to refer the whole pilot proposal to the next meeting -- a referral attempt, not a service decision (the real decision passed separately as e294e35cf969)."
+  "reason": "Stays unclear: failed (4-11) attempt to refer the whole pilot proposal to the next meeting -- a referral attempt, not a service decision (the real decision passed separately as e294e35cf969 (superseded id))."
  },
  {
   "id": "6158b535a43c",
@@ -294,7 +294,7 @@
   "changed": true,
   "whatAYeaDid": "Approved (at committee stage) expropriating land needed to build Phase 4 of the East London Link rapid-transit corridor.",
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith",
-  "reason": "Same expropriation, committee stage; same reasoning as 6e54e9c40a61."
+  "reason": "Same expropriation, committee stage; same reasoning as 6e54e9c40a61 (superseded id)."
  },
  {
   "id": "4d20e6349c7e",
@@ -316,7 +316,7 @@
   "changed": true,
   "whatAYeaDid": "Adopted Option 2 as the city's 2050 Mobility Master Plan mode share target (rather than the alternative of deferring/referring the target-setting decision, which had just failed).",
   "quote": "That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan",
-  "reason": "Same combined Transit+Walking+Cycling 2050 mode-share target, earlier committee vote (adopting Option 2/32.5%); same reasoning as 873508ecdfbc."
+  "reason": "Same combined Transit+Walking+Cycling 2050 mode-share target, earlier committee vote (adopting Option 2/32.5%); same reasoning as 873508ecdfbc (superseded id)."
  },
  {
   "id": "7e4c4dd85e7e",
@@ -338,7 +338,7 @@
   "changed": true,
   "whatAYeaDid": "Set the city's 2050 Mobility Master Plan target at Option 2 or greater \u2014 a 32.5% (or higher) mode share for transit, walking, and cycling combined.",
   "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and",
-  "reason": "Same combined Transit+Walking+Cycling 2050 mode-share target, final committee vote on part a); same reasoning as 873508ecdfbc."
+  "reason": "Same combined Transit+Walking+Cycling 2050 mode-share target, final committee vote on part a); same reasoning as 873508ecdfbc (superseded id)."
  },
  {
   "id": "c8560208ccc7",
@@ -393,7 +393,7 @@
   "changed": true,
   "whatAYeaDid": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes.",
   "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report",
-  "reason": "Same ICIP-PTS reallocation, committee stage; same reasoning as 71f1ada00bf5."
+  "reason": "Same ICIP-PTS reallocation, committee stage; same reasoning as 71f1ada00bf5 (superseded id)."
  },
  {
   "id": "cbf71b0d4780",
@@ -426,7 +426,7 @@
   "changed": false,
   "whatAYeaDid": "Amended the referral of the Mobility Master Plan 2050 Mode Share Target report by adding direction for the project team to consult with the Integrated Transportation Community Advisory Committee and to show how mode-share options align with Climate Emergency Action Plan goals.",
   "quote": "the Mobility Master Plan project team BE DIRECTED to consult with the Integrated Transportation Community Advisory Committee with respect to this matter",
-  "reason": "Same consult/CEAP-alignment directive, committee stage; same reasoning as fd9fa5f36782."
+  "reason": "Same consult/CEAP-alignment directive, committee stage; same reasoning as fd9fa5f36782 (superseded id)."
  },
  {
   "id": "d16155bf0ef1",
@@ -437,7 +437,7 @@
   "changed": false,
   "whatAYeaDid": "Approved directing the Mobility Master Plan project team to consult with the Integrated Transportation Community Advisory Committee and to show how mode-share options align with Climate Emergency Action Plan goals.",
   "quote": "Motion to approve parts b) and c) of the clause.",
-  "reason": "Same consult/CEAP-alignment directive, committee-stage adoption; same reasoning as fd9fa5f36782."
+  "reason": "Same consult/CEAP-alignment directive, committee-stage adoption; same reasoning as fd9fa5f36782 (superseded id)."
  },
  {
   "id": "4ea7824fc728",
@@ -481,7 +481,7 @@
   "changed": true,
   "whatAYeaDid": "Approved (at committee) introducing the by-law authorizing the MOU and Agreement for the new Secondary School Transit Pass Pilot Program, funded up to $1.04 million for September 2026 to August 2028 with summer months excluded.",
   "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d , BE AUTHORIZED and BE APPROVED;",
-  "reason": "Old axis service-expansion renamed: committee-stage approval of the same MOU/Agreement with up to $1.04M financing; same reasoning as a23c5771a121."
+  "reason": "Old axis service-expansion renamed: committee-stage approval of the same MOU/Agreement with up to $1.04M financing; same reasoning as a23c5771a121 (superseded id)."
  },
  {
   "id": "2c11c8845ce9",
@@ -536,7 +536,7 @@
   "changed": true,
   "whatAYeaDid": "Recommended increasing the AECOM detailed-design contract by $803,764 (to $8,479,052) and recommended approving financing for the Wellington Gateway Transit and Municipal Infrastructure Improvements project, at the Infrastructure and Corporate Services Committee stage (later ratified by Council as item 8.3.3 on September 23, 2025).",
   "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)",
-  "reason": "Same design-contract increase, committee stage; same reasoning as 3d072ced8231."
+  "reason": "Same design-contract increase, committee stage; same reasoning as 3d072ced8231 (superseded id)."
  },
  {
   "id": "1d4dcf1c6588",
@@ -569,7 +569,7 @@
   "changed": true,
   "whatAYeaDid": "Recommended increasing the AECOM construction-inspection and contract-administration services contract by $120,000 (to $1,924,701) and recommended approving financing for the Wellington Street Rapid Transit Implementation project (Queens Avenue to the Thames River, South Branch), at the Infrastructure and Corporate Services Committee stage (later ratified by Council as item 8.4.7 on August 26, 2025).",
   "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)",
-  "reason": "Same contract increase, committee stage; same reasoning as 883ee33ef545."
+  "reason": "Same contract increase, committee stage; same reasoning as 883ee33ef545 (superseded id)."
  },
  {
   "id": "0052db0821e2",
@@ -580,7 +580,7 @@
   "changed": true,
   "whatAYeaDid": "Approved beginning the legal expropriation process for land needed for Phase 2 of the Wellington Gateway project's civil works, including applying to Council as approving authority, publishing statutory notice, and introducing the authorizing by-law.",
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project",
-  "reason": "RECLASSIFIED from unclear (miss corrected, not just an axis rename): the full operative clause is 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' (Phase 2 civil works) -- the identical expropriation-approval pattern as 895b8202a9e6/3991d33dbbbe/6e54e9c40a61/9496bc59ad3b, all correctly classified transit-service/expansive. This id was left null in a prior round on boilerplate 'informational-ask/procedural' reasoning that does not match the actual substantive land-acquisition clause; corrected to match its siblings."
+  "reason": "RECLASSIFIED from unclear (miss corrected, not just an axis rename): the full operative clause is 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' (Phase 2 civil works) -- the identical expropriation-approval pattern as 895b8202a9e6 (superseded id)/3991d33dbbbe (superseded id)/6e54e9c40a61 (superseded id)/9496bc59ad3b (superseded id), all correctly classified transit-service/expansive. This id was left null in a prior round on boilerplate 'informational-ask/procedural' reasoning that does not match the actual substantive land-acquisition clause; corrected to match its siblings."
  },
  {
   "id": "e3164dd35fdf",
@@ -613,7 +613,7 @@
   "changed": true,
   "whatAYeaDid": "Approved the Mobility Master Plan Report and directed staff to file its Notice of Completion for the statutory public review period.",
   "quote": "parts a) and b) of the motion, as amended, BE APPROVED [resolving to: a) the Mobility Master Plan Report BE APPROVED; b) the Civic Administration BE DIRECTED to file a Notice of Completion and make the Report available for the statutory 30-day public review and comment period]",
-  "reason": "Same MMP Report approval, committee stage; same reasoning as 06f778b17f91."
+  "reason": "Same MMP Report approval, committee stage; same reasoning as 06f778b17f91 (superseded id)."
  },
  {
   "id": "68a0dacac29e",
@@ -624,7 +624,7 @@
   "changed": true,
   "whatAYeaDid": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next capital improvement cycle.",
   "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
-  "reason": "Old axis service-expansion renamed: Council's ratification of part a), the Roads Projects maps as amended (incl. Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0/478dc258ce7d at the earlier committee stage."
+  "reason": "Old axis service-expansion renamed: Council's ratification of part a), the Roads Projects maps as amended (incl. Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0 (superseded id)/478dc258ce7d (superseded id) at the earlier committee stage."
  },
  {
   "id": "8888017a8223",
@@ -635,7 +635,7 @@
   "changed": true,
   "whatAYeaDid": "Approved the Mobility Master Plan's Transit Priority Network maps.",
   "quote": "the Transit Priority Network maps BE APPROVED",
-  "reason": "Old axis service-expansion renamed: Council's ratification of part b), the Transit Priority Network maps -- same transit-infrastructure content as 1f742f938d33 at committee stage."
+  "reason": "Old axis service-expansion renamed: Council's ratification of part b), the Transit Priority Network maps -- same transit-infrastructure content as 1f742f938d33 (superseded id) at committee stage."
  },
  {
   "id": "c00911f9ed6d",
@@ -646,7 +646,7 @@
   "changed": true,
   "whatAYeaDid": "Directed Civic Administration to restart the Wonderland Road corridor Environmental Assessment (Southdale Road to Fanshawe Park Road) to build six general-purpose through lanes, with a long-term option to convert to Bus Rapid Transit, and to update the Mobility Master Plan maps accordingly.",
   "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly",
-  "reason": "Same flagship fix as b9c703769270: Council's ratification of part e), restarting the Wonderland Road EA to build six general-purpose through lanes (BRT conversion remains only a long-term option) -- road-capacity, not transit."
+  "reason": "Same flagship fix as b9c703769270 (superseded id): Council's ratification of part e), restarting the Wonderland Road EA to build six general-purpose through lanes (BRT conversion remains only a long-term option) -- road-capacity, not transit."
  },
  {
   "id": "a0723b64572a",
@@ -690,7 +690,7 @@
   "changed": true,
   "whatAYeaDid": "Approved awarding the Rapid Transit Implementation contract (Wellington Street, Queens Avenue to the Thames River South Branch) to Bre-Ex Construction Inc. at $28,540,331.45, despite the bid exceeding the Downtown Loop Phase 3 project budget (an irregular result), and authorized the related inspection, financing, and administrative acts. (Committee-stage vote; the same recommendation returned to Council as item 8.2.6.)",
   "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b);",
-  "reason": "Same contract award, committee stage; same reasoning as 7346985bd070."
+  "reason": "Same contract award, committee stage; same reasoning as 7346985bd070 (superseded id)."
  },
  {
   "id": "208ee22b75a8",

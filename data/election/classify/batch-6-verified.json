@@ -577,5 +577,19 @@
   ],
   "verdict": "confirmed",
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "05288409fb7f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the direction for the Mayor to write to the Ontario Solicitor General suggesting changes to provincial legislation on dangerous dogs and public safety.",
+  "confidence": "high",
+  "quote": "The Mayor BE REQUESTED to write a letter to the Solicitor General, with respect to this matter, to suggest changes to provincial legislation related to dangerous dogs and public safety.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  }
 ]
