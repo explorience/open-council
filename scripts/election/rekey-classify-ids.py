@@ -45,25 +45,37 @@ SAME stamp to reach a fixed point; a run that changes nothing (0 mapped,
 verifies the final state, not any one run's delta.
 
 COLLISION HANDLING: id churn can also make what were N distinct pre-churn
-motions converge on ONE current id (a genuine motion merge upstream, e.g.
-two roll calls that regenerate as a single vote row). generate-stances.ts's
+motions converge on ONE current id. generate-stances.ts's
 loadVerifiedClassifications() throws on any duplicate id across
 batch-*-verified.json ("classify batches must be disjoint"), so a collision
 left unresolved crashes generation outright. For every current id more than
-one classify entry converges on, exactly one entry is kept -- precedence:
-(1) the entry whose pre-rekey id is referenced by a corrections.json row,
-(2) else the entry from the returning batch (batch-returning-verified.json),
-(3) else the first encountered in sorted file order -- and the rest are
-removed from their batch-*-verified.json (and, for consistency, the sibling
-batch-*-classified.json) file. Any corrections.json row keyed to a removed
-entry's pre-rekey id is now moot (it documents a fix to that specific
-vanished entry's field values, which generally will not even validate
-against the survivor's current values -- see applyCorrections' stale-
-correction check in generate-stances.ts) and is dropped from corrections.json,
-not silently re-pointed at the survivor. Every dropped entry and its dropped
-corrections rows are recorded in rekey-deduped-<stamp>.json, in the same
-{id, removed_from, kept_in, moot_corrections_dropped, note} shape #201
-established by hand for the one collision it hit.
+one classify entry converges on, exactly one entry is kept as the survivor
+-- precedence: (1) the entry whose pre-rekey id is referenced by a
+corrections.json row, (2) else the entry from the returning batch
+(batch-returning-verified.json), (3) else the first encountered in sorted
+file order. Every OTHER ("loser") entry then goes through the collision
+re-match chain (2026-09-02 fixer round, item 1 - see the detailed comment
+above HAND_VERIFIED_COLLISION_REMATCH): (a) quote against every unclaimed
+same-natural-key candidate, (b) bijective ordinal (if the count of losers
+still pending at a natural key equals the count of candidates still
+unclaimed, pair by ascending order), (c) a small hand-verified table. A
+loser tiers (a)-(c) place is NOT a merge - it's restored to its own
+distinct current id and stays in the corpus (rekey-collision-rematches-
+<stamp>.json). A loser none of (a)-(c) can place gets ONE of two
+dispositions, never a default: a positively-evidenced genuine merge
+(HAND_VERIFIED_GENUINE_MERGE - a specific, cited confirmation the loser and
+survivor really are the same roll call) is dropped from its
+batch-*-verified.json (and, for consistency, the sibling
+batch-*-classified.json) file and recorded in rekey-deduped-<stamp>.json;
+anything without that positive evidence is RETIRED UNRESOLVED instead - also
+removed from the live corpus (a duplicate id can't ship either way) but
+recorded, full entry preserved, in rekey-collision-unresolved-<stamp>.json,
+never silently presumed to be the same motion. Either way, any
+corrections.json row keyed to the removed entry's pre-rekey id is now moot
+(it documents a fix to that specific vanished entry's field values, which
+generally will not even validate against the survivor's current values --
+see applyCorrections' stale-correction check in generate-stances.ts) and is
+dropped from corrections.json, not silently re-pointed at the survivor.
 
 After every rewrite, the script asserts no duplicate id remains across all
 batch-*-verified.json files -- the same invariant generate-stances.ts
@@ -378,19 +390,39 @@ if bijective_resolved:
 # 9daa4ae88f7d's compensation-formula update") - these 12-hex tokens are id
 # churn's last blind spot: every prior rekey pass rewrote the `id` FIELD but
 # never looked inside free text, so 100% of these references went stale
-# across a single regeneration (measured: 251 tokens found across
-# verifierNote/whatAYeaDid, only 40 already pointing at a still-live current
-# id). The overwhelming majority reference an id from an EARLIER rekey/dedup
-# generation than this one - already gone from manifest.json's currently-
-# tracked keys by the time this script runs, so gating on "this corpus's
-# currently-known id universe" (an earlier, more conservative version of
-# this function) missed 211 of them. A bare 12-hex token, whole-word, inside
-# these two specific, always-technical audit-note fields is not meaningfully
+# across a single regeneration. The overwhelming majority reference an id
+# from an EARLIER rekey/dedup generation than this one - already gone from
+# manifest.json's currently-tracked keys by the time this script runs, so
+# gating on "this corpus's currently-known id universe" (an earlier, more
+# conservative version of this function) missed most of them. A bare 12-hex
+# token, whole-word, inside a free-text audit field is not meaningfully
 # ambiguous with prose - annotate every one that isn't a live current id and
 # isn't in this run's own mapping, full stop.
+#
+# Finding-6b (2026-09-02 fixer round, item 3): verifierNote/whatAYeaDid were
+# never the only prose fields carrying these references - corrections.json's
+# .reason ("Transit axis split... same road-capacity content as 28ab00fbc3c0")
+# and transit-split-{proposed,verified}.json's .reason ("same reasoning as
+# b206f4de942a") do it too, and scoping to a hardcoded pair of field names
+# missed both wholesale. PROSE_ID_FIELDS below is a denylist, not an
+# allowlist: every string field on a classify-layer object is scanned EXCEPT
+# the ones structurally guaranteed not to carry free text - "id"/"motionId"
+# (bare id VALUES, remapped as a whole by the `id`-field branch below and by
+# each entry's own dict-walk, never text-annotated - annotating a whole-field
+# id value would turn it into "<id> (superseded id)" and break the field) and
+# "quote" (verbatim meeting text - must never be touched even on the
+# vanishingly unlikely chance a quote coincidentally contains a hex-shaped
+# word; altering source text is a different, much worse bug than a stale
+# audit-note reference). Every other string field (reason, note, was, now,
+# verifierNote, whatAYeaDid, and anything added later) is fair game - a
+# glob-scan confirmed only verifierNote/whatAYeaDid/reason currently carry
+# any tokens, but scanning by exclusion rather than by an enumerated
+# allowlist means a new prose field added later doesn't silently reopen this
+# blind spot.
 # ---------------------------------------------------------------------------
 ID_TOKEN_RE = re.compile(r"\b[0-9a-f]{12}\b")
 _SUPERSEDED_SUFFIX = " (superseded id)"
+NON_PROSE_STRING_FIELDS = {"id", "motionId", "quote", "meetingUrl"}
 
 def rewrite_text_ids(s):
     def _sub(m):
@@ -412,12 +444,13 @@ def rewrite(obj):
         if "id" in obj and obj["id"] in mapping:
             obj["id"] = mapping[obj["id"]]
             changed += 1
-        for _tk in ("verifierNote", "whatAYeaDid"):
-            if isinstance(obj.get(_tk), str):
-                _new = rewrite_text_ids(obj[_tk])
-                if _new != obj[_tk]:
-                    obj[_tk] = _new
-                    changed += 1
+        for _tk, _tv in obj.items():
+            if _tk in NON_PROSE_STRING_FIELDS or not isinstance(_tv, str):
+                continue
+            _new = rewrite_text_ids(_tv)
+            if _new != _tv:
+                obj[_tk] = _new
+                changed += 1
         if isinstance(obj.get("motions"), dict):
             newm = {}
             for oid, v in obj["motions"].items():
@@ -478,18 +511,52 @@ for f, entries in verified_entries.items():
 # to candidates no other entry has already claimed (`claimed_ids`, refreshed
 # per collision group so an earlier rematch in this same pass is respected).
 #
-# Where the loser's own quote can't decide it either (the wrapper-text
-# problem above), fall back to a small hand-verified table. Each row here
-# was confirmed against this corpus's own classify-batch verifierNote
-# fields (written independently, before any of this round's id churn) that
-# pin the loser to a specific raw content[] index or an exact verbatim
-# match on the target's own wrapper text - see the per-row citation.
-# Collisions NOT in this table, or whose sole unclaimed candidate isn't the
-# table's target, still fall through to the drop-as-merge path below - i.e.
-# "no unclaimed candidate" AND "an unclaimed candidate exists but neither
-# quote nor the hand-verified table can confirm it" both still count as a
-# true merge, exactly as loose as the original bug, just no longer silent
-# about which is which (see rekey-collision-rematches-<stamp>.json).
+# Collision re-match chain, in order:
+#   (1) natural key (date/meetingSlug/itemNumber/result, via `hits`/`nat`)
+#   (2) quote: the loser's own quote against each unclaimed candidate's full
+#       raw text (find_collision_rematch, below)
+#   (3) bijective ordinal (2026-09-02 fixer round, item 1 - this WAS the gap:
+#       the chain used to stop at (2) and fall straight through to a merge
+#       drop): if the count of STILL-pending collision losers at this exact
+#       natural key equals the count of STILL-unclaimed candidates at that
+#       key, pair them off by ascending order - current candidates by
+#       rollCallOrdinal, old ids by doc order - the identical mechanism
+#       general resolve()'s own tier 3 already uses (see the module
+#       docstring), just applied here to collision losers instead of merely-
+#       ambiguous ones. Two losers landing on the SAME id via tier-2 success
+#       (a true collision) and two losers left ambiguous by tier-2 (the
+#       general-resolve case) are the same underlying situation - a natural
+#       key with more claimants than tier-2 can individually place - so they
+#       get the same fix.
+#   (4) hand-verified table (HAND_VERIFIED_COLLISION_REMATCH, below): a
+#       small, cited set of cases where (2) and (3) both fail (usually
+#       because the sibling candidate is itself a bare wrapper with no quote-
+#       able content, AND the natural key isn't cleanly bijective) but the
+#       loser's own verifierNote independently pins it to a specific raw
+#       content[] index or exact wrapper text.
+#   Any loser (1)-(4) all miss is NOT presumed a merge. General rule (2026-
+#   09-02 fixer round, item 1): a collision loser that can't be re-matched
+#   is UNRESOLVED - audited into rekey-collision-unresolved-<stamp>.json
+#   with its full entry preserved, then removed from the verified/classified
+#   corpus - unless the merge is POSITIVELY evidenced, checked against
+#   HAND_VERIFIED_GENUINE_MERGE below. "Positively evidenced" means either a
+#   byte-identical quote AND a specific self-documented cross-reference to
+#   the counterpart id (the classifier itself says, in so many words, "this
+#   and that other id are the same"), or an independently-confirmed byte-
+#   identical raw vote (yea/nay rows, not just the tally count) across
+#   EXACTLY two candidates for EXACTLY two old ids - a closed tie where both
+#   assignments are individually harmless and mutually interchangeable. A
+#   coincidentally-matching VOTE TALLY (or even identical yea/nay rows) is
+#   never, by itself, evidence the MOTIONS are the same - see
+#   HAND_VERIFIED_GENUINE_MERGE's note contrasting bf7543d954d6 (identical
+#   yea/nay rows, completely different motion text - not a merge) against
+#   0beb8b008e0b (identical yea/nay rows AND a self-documented, byte-
+#   identical-quote, closed two-candidate tie - a genuine merge). An earlier
+#   pass in this fixer round described the bf7543d954d6 collision as "byte-
+#   identical" and treated it as a merge on that basis alone; that
+#   description was false (motion text differs completely - see
+#   HAND_VERIFIED_GENUINE_MERGE's note) and the merge-drop it justified has
+#   been reverted below (item 4).
 # ---------------------------------------------------------------------------
 HAND_VERIFIED_COLLISION_REMATCH = {
     # dfe87ddfc742's collision (2025-03-25 SPPC item 4.1, Mobility Master
@@ -537,6 +604,11 @@ HAND_VERIFIED_COLLISION_REMATCH = {
 }
 
 def find_collision_rematch(old_id, e, mm, claimed_ids):
+    """Chain tiers (1) natural key + (2) quote only - tier (3) bijective and
+    tier (4) hand-verified are applied separately below, once ALL collision
+    groups have had their first pass, so bijective can see every STILL-
+    pending loser at a shared natural key at once (mirrors general
+    resolve()'s own two-pass tier-2-then-tier-3 structure)."""
     if not mm:
         return None
     key = (mm["date"], mm["meetingSlug"], str(mm["itemNumber"]), mm["result"])
@@ -553,12 +625,57 @@ def find_collision_rematch(old_id, e, mm, claimed_ids):
         ]
         if len(matched) == 1:
             return matched[0]["id"]
+    return None
+
+def find_collision_hand_verified(old_id, unclaimed_ids_at_key):
     override = HAND_VERIFIED_COLLISION_REMATCH.get(old_id)
-    if override and any(h["id"] == override[0] for h in unclaimed):
+    if override and override[0] in unclaimed_ids_at_key:
         return override[0]
     return None
 
+# ---------------------------------------------------------------------------
+# Positively-evidenced genuine merges (2026-09-02 fixer round, item 1/4): a
+# collision loser lands here ONLY when (2)/(3)/(4) above all fail to place
+# it AND there is specific, cited evidence the loser and survivor really are
+# the same real-world roll call, not just a natural key + tally coincidence.
+# ---------------------------------------------------------------------------
+HAND_VERIFIED_GENUINE_MERGE = {
+    # 29b9452b13f7's collision (2024-01-16 SPPC item 4.4, Deputy Mayor and
+    # Budget Chair Positions pay): loser's OWN verifierNote self-documents
+    # the merge by name - "Same genuine ambiguity as 86419cffb57c... I
+    # independently pulled the raw yea/nay voter rows for both the 'part a)'
+    # and 'part b)' motions myself and found them byte-identical (same 9
+    # yeas, same 5 nays)". Both entries' `quote` field is byte-identical
+    # verbatim ("a pay increase of 12.5%... Deputy Mayor position effective
+    # January 2024"), the natural key has exactly 2 candidates (part a,
+    # part b) for exactly these 2 old ids (a closed tie, not an open
+    # N-candidate field), and both entries independently assign the SAME
+    # harmless issue=none classification - so which of the two real votes
+    # this id lands on is immaterial. This is the positive-evidence bar in
+    # full: self-documented cross-reference + byte-identical quote +
+    # byte-identical underlying vote rows + closed 2-vs-2 tie.
+    #
+    # Contrast with bf7543d954d6's collision (b7f1a4280119, see
+    # rekey-collision-rematches-<stamp>.json): that pair's raw YEA/NAY rows
+    # are ALSO byte-identical (same 4 councillors, same 3-1 split) - the
+    # SAME item even had that same-vote-pattern coincidence twice - but the
+    # MOTION TEXT is completely different (an amendment clause vs. a bare
+    # "part b) approved" wrapper) and neither entry's quote nor verifierNote
+    # claims the two are the same vote. A matching vote pattern alone is
+    # never positive evidence; item 4 corrects the earlier "byte-identical"
+    # narrative for that pair, which conflated the two kinds of "identical".
+    "0beb8b008e0b": (
+        "verifierNote self-documents as \"Same genuine ambiguity as "
+        "86419cffb57c\", independently confirms byte-identical yea/nay rows "
+        "(9-5, same names) for both candidate motions, and both entries' "
+        "quote field is byte-identical verbatim; natural key is a closed "
+        "2-candidate tie (part a / part b) for exactly these 2 old ids, "
+        "both harmlessly classified issue=none regardless of which part."
+    ),
+}
+
 rematch_records = []
+retired_unresolved_records = []
 
 def loc_rank(loc, survivor_file_hint=None):
     f, e, old_id = loc
@@ -567,9 +684,18 @@ def loc_rank(loc, survivor_file_hint=None):
     return (0 if in_corrections else 1, 0 if is_returning else 1)
 
 dedup_records = []
-drop_old_ids_by_verified_file = {}  # file -> set(old_id)
-drop_old_ids_global = set()         # every dropped old_id, for the classified mirror + corrections filter
-dropped_correction_obj_ids = set()  # id() of correction dict rows to remove
+drop_old_ids_by_verified_file = {}     # file -> set(old_id) : positively-evidenced merges
+drop_old_ids_global = set()            # every dropped-as-merge old_id, for the classified mirror + corrections filter
+retired_old_ids_by_verified_file = {}  # file -> set(old_id) : unresolved, no evidence either way
+retired_old_ids_global = set()         # every retired-unresolved old_id, for the classified mirror + corrections filter
+dropped_correction_obj_ids = set()     # id() of correction dict rows to remove (merge OR retire)
+
+# Phase 1: per-loser tiers (2) quote and (4) hand-verified are deterministic
+# per-loser and don't need to see the rest of the collision group, so they
+# run first and commit immediately. Anything left goes to `pending`, grouped
+# below by natural key so tier (3) bijective can see every simultaneously-
+# pending loser and every simultaneously-unclaimed candidate at that key.
+pending = []  # [(eff_id, f, e, old_id, mm, key_or_None, survivor), ...]
 
 for eff_id, locs in id_to_locations.items():
     if len(locs) <= 1:
@@ -577,14 +703,14 @@ for eff_id, locs in id_to_locations.items():
     ordered = sorted(locs, key=loc_rank)
     survivor = ordered[0]
     losers = ordered[1:]
-    survivor_reason = (
-        "referenced by corrections.json" if survivor[2] in correction_ids else
-        "from the returning batch" if os.path.basename(survivor[0]).startswith("batch-returning-") else
-        "first encountered"
-    )
     for loser in losers:
         f, e, old_id = loser
-        rematch_target = find_collision_rematch(old_id, e, manifest.get(old_id), _baseline_claimed | set(mapping.values()))
+        mm = manifest.get(old_id)
+        claimed_ids = _baseline_claimed | set(mapping.values())
+        rematch_target = find_collision_rematch(old_id, e, mm, claimed_ids)
+        if rematch_target is None:
+            hits = nat.get((mm["date"], mm["meetingSlug"], str(mm["itemNumber"]), mm["result"]), []) if mm else []
+            rematch_target = find_collision_hand_verified(old_id, {h["id"] for h in hits if h["id"] not in claimed_ids})
         if rematch_target is not None:
             mapping[old_id] = rematch_target
             _, rematch_note = HAND_VERIFIED_COLLISION_REMATCH.get(old_id, (None, "resolved via quote match against an unclaimed same-key candidate"))
@@ -595,9 +721,66 @@ for eff_id, locs in id_to_locations.items():
                 "note": rematch_note,
             })
             continue  # not a merge - leave this entry in place, general rewrite pass below re-keys it
+        key = (mm["date"], mm["meetingSlug"], str(mm["itemNumber"]), mm["result"]) if mm else None
+        pending.append((eff_id, f, e, old_id, mm, key, survivor))
+
+# Phase 2: tier (3) bijective ordinal, grouped by natural key across every
+# STILL-pending loser (mirrors general resolve()'s tier 3 - see module
+# docstring and the collision-chain comment above find_collision_rematch).
+_pending_by_key = {}
+_no_key_pending = []
+for item in pending:
+    if item[5] is None:
+        _no_key_pending.append(item)
+    else:
+        _pending_by_key.setdefault(item[5], []).append(item)
+
+still_pending = list(_no_key_pending)
+for _key, _items in _pending_by_key.items():
+    _old_ids = [it[3] for it in _items]
+    _claimed = _baseline_claimed | set(mapping.values())
+    _hits = nat.get(_key, [])
+    _unclaimed = [h for h in _hits if h["id"] not in _claimed]
+    if _old_ids and len(_old_ids) == len(_unclaimed):
+        _old_sorted = sorted(_old_ids, key=lambda oid: _doc_order.get(oid, (10**9, 0)))
+        _hit_sorted = sorted(_unclaimed, key=_ordinal_key)
+        _target_by_old = dict(zip(_old_sorted, [h["id"] for h in _hit_sorted]))
+        for eff_id, f, e, old_id, mm, key, survivor in _items:
+            target = _target_by_old[old_id]
+            mapping[old_id] = target
+            rematch_records.append({
+                "id": old_id,
+                "was_colliding_into": eff_id,
+                "rematched_to": target,
+                "note": (
+                    f"bijective ordinal: {len(_old_ids)} still-unresolved collision "
+                    f"loser(s) sharing this natural key (date/meetingSlug/itemNumber/"
+                    f"result) exactly match {len(_unclaimed)} still-unclaimed current "
+                    f"candidate(s) after quote-matching and the hand-verified table "
+                    f"both missed - paired by ascending rollCallOrdinal (current "
+                    f"candidates) / doc order (old ids), the same tier-3 mechanism "
+                    f"general resolve() uses. Not a merge."
+                ),
+            })
+    else:
+        still_pending.extend(_items)
+
+# Phase 3: whatever tiers (2)/(3)/(4) all missed is either a positively-
+# evidenced genuine merge (HAND_VERIFIED_GENUINE_MERGE) or retired
+# unresolved - never a silent drop-as-merge default (see the collision-chain
+# comment above find_collision_rematch for the general rule and its
+# evidence bar).
+for eff_id, f, e, old_id, mm, key, survivor in still_pending:
+    survivor_reason = (
+        "referenced by corrections.json" if survivor[2] in correction_ids else
+        "from the returning batch" if os.path.basename(survivor[0]).startswith("batch-returning-") else
+        "first encountered"
+    )
+    loser_corrections = [c for c in corrections_data if isinstance(c, dict) and c.get("id") == old_id]
+    merge_reason = HAND_VERIFIED_GENUINE_MERGE.get(old_id)
+    if merge_reason is not None:
         drop_old_ids_by_verified_file.setdefault(f, set()).add(old_id)
         drop_old_ids_global.add(old_id)
-        loser_corrections = [c for c in corrections_data if isinstance(c, dict) and c.get("id") == old_id]
         for c in loser_corrections:
             dropped_correction_obj_ids.add(id(c))
         dedup_records.append({
@@ -606,49 +789,135 @@ for eff_id, locs in id_to_locations.items():
             "kept_in": os.path.basename(survivor[0]),
             "moot_corrections_dropped": loser_corrections,
             "note": (
-                f"multiple pre-rekey classify entries converged on current motion "
-                f"{eff_id} (a genuine motion merge upstream, or two roll calls that "
-                f"now regenerate as one); kept the entry in {os.path.basename(survivor[0])} "
+                f"POSITIVELY EVIDENCED genuine merge (hand-verified, not a default): "
+                f"{merge_reason} Kept the entry in {os.path.basename(survivor[0])} "
                 f"({survivor_reason}), dropped the duplicate from {os.path.basename(f)}"
                 + (f", and its {len(loser_corrections)} now-moot corrections.json row(s)" if loser_corrections else "")
                 + "."
             ),
         })
+    else:
+        retired_old_ids_by_verified_file.setdefault(f, set()).add(old_id)
+        retired_old_ids_global.add(old_id)
+        for c in loser_corrections:
+            dropped_correction_obj_ids.add(id(c))
+        # This old_id already has a (now-wrong) target in `mapping` from its
+        # earlier, successful tier-1/2/3 resolution in general resolve() -
+        # pop it so the general rewrite pass below neither renames this
+        # removed entry's own id field (it's about to be deleted) nor
+        # silently rewrites any OTHER file's prose reference to this old_id
+        # into a target we've just determined we can't stand behind;
+        # rewrite_text_ids will annotate such references "(superseded id)"
+        # instead, same as any other id with no live mapping.
+        mapping.pop(old_id, None)
+        retired_unresolved_records.append({
+            "id": old_id,
+            "was_colliding_into": eff_id,
+            "removed_from": os.path.basename(f),
+            "moot_corrections_dropped": loser_corrections,
+            "reason": (
+                "collision loser: natural key + quote, bijective ordinal, and the "
+                "hand-verified table all failed to place this entry, and it isn't "
+                "in the hand-verified genuine-merge table either - retired unresolved "
+                "rather than silently dropped as a merge (a collision loser that "
+                "can't be re-matched is unresolved unless the merge is positively "
+                "evidenced - see the module docstring's collision-chain comment)."
+            ),
+            "key": list(key) if key else None,
+            "entry": e,
+        })
 
-# Apply the drops to the in-memory verified/classified entry lists and to
-# corrections.json, before the generic id-remap below.
+# Apply the drops (merges) AND the retirements (unresolved) to the in-memory
+# verified/classified entry lists and to corrections.json, before the
+# generic id-remap below - both dispositions remove the entry from the live
+# corpus, they differ only in audit trail and in whether `mapping` still
+# points prose references at a target (see the retire branch above).
+_remove_old_ids_by_file = {
+    f: drop_old_ids_by_verified_file.get(f, set()) | retired_old_ids_by_verified_file.get(f, set())
+    for f in set(drop_old_ids_by_verified_file) | set(retired_old_ids_by_verified_file)
+}
+_remove_old_ids_global = drop_old_ids_global | retired_old_ids_global
+
 for f in verified_files:
-    drop_ids = drop_old_ids_by_verified_file.get(f, set())
-    if drop_ids:
-        verified_entries[f] = [e for e in verified_entries[f] if not (isinstance(e, dict) and e.get("id") in drop_ids)]
+    remove_ids = _remove_old_ids_by_file.get(f, set())
+    if remove_ids:
+        verified_entries[f] = [e for e in verified_entries[f] if not (isinstance(e, dict) and e.get("id") in remove_ids)]
 
-if drop_old_ids_global:
+if _remove_old_ids_global:
     for f in classified_files:
-        classified_entries[f] = [e for e in classified_entries[f] if not (isinstance(e, dict) and e.get("id") in drop_old_ids_global)]
+        classified_entries[f] = [e for e in classified_entries[f] if not (isinstance(e, dict) and e.get("id") in _remove_old_ids_global)]
 
 if dropped_correction_obj_ids:
     corrections_data = [c for c in corrections_data if id(c) not in dropped_correction_obj_ids]
+
+# ---------------------------------------------------------------------------
+# Strip disposed (merged OR retired) old ids from manifest.json's own
+# bookkeeping - a correctness fix, not cosmetic. manifest.json's "motions"
+# dict is what the top-of-file scan loop calls resolve() on for EVERY key,
+# regardless of whether a live classify entry still exists for it; leaving a
+# disposed old_id there means a LATER same-stamp invocation (reaching the
+# 0-change fixed point can take more than one - see module docstring) tries
+# to resolve() it again from scratch. Its `quotes[old_id]` entry is gone
+# too (quotes is rebuilt from batch-*-{verified,classified}.json each
+# invocation, and the entry was just deleted from both) - disambiguate()
+# then silently falls back to the much weaker itemTitle-only probe, which
+# can produce a DIFFERENT, wrong single match among the other candidates at
+# that key (observed: bb3ce5952d8f's itemTitle alone uniquely matches
+# 5b0486a48ac5, a candidate its actual quote never pointed at). A disposed
+# id has no live classify decision left to migrate - remove it from
+# manifest.json outright rather than let it keep participating in resolve().
+# ---------------------------------------------------------------------------
+manifest_path = os.path.join(CLS, "manifest.json")
+_disposed_old_ids = drop_old_ids_global | retired_old_ids_global
+handled = set(verified_files) | set(classified_files) | ({corrections_path} if os.path.exists(corrections_path) else set())
+_manifest_total = 0
+if _disposed_old_ids and os.path.exists(manifest_path):
+    manifest_json = json.load(open(manifest_path))
+    removed_from_motions = 0
+    if isinstance(manifest_json.get("motions"), dict):
+        for oid in list(manifest_json["motions"].keys()):
+            if oid in _disposed_old_ids:
+                del manifest_json["motions"][oid]
+                removed_from_motions += 1
+    removed_from_batches = 0
+    if isinstance(manifest_json.get("batches"), list):
+        for bi, batch in enumerate(manifest_json["batches"]):
+            if isinstance(batch, list):
+                before = len(batch)
+                manifest_json["batches"][bi] = [oid for oid in batch if oid not in _disposed_old_ids]
+                removed_from_batches += before - len(manifest_json["batches"][bi])
+    _manifest_total = rewrite(manifest_json)
+    json.dump(manifest_json, open(manifest_path, "w"), indent=1, ensure_ascii=True)
+    print(
+        f"  manifest.json: {_manifest_total} ids re-keyed, {removed_from_motions} disposed id(s) "
+        f"stripped from motions, {removed_from_batches} from batches"
+    )
+    handled.add(manifest_path)
 
 # ---------------------------------------------------------------------------
 # General rewrite pass: apply `mapping` everywhere (the deduped verified/
 # classified/corrections structures held in memory above, plus every other
 # classify/*.json file read fresh from disk).
 # ---------------------------------------------------------------------------
-handled = set(verified_files) | set(classified_files) | ({corrections_path} if os.path.exists(corrections_path) else set())
-total = 0
+total = _manifest_total
 
 for f in verified_files:
-    dropped = f in drop_old_ids_by_verified_file
+    removed = f in _remove_old_ids_by_file
     n = rewrite(verified_entries[f])
-    if n or dropped:
+    if n or removed:
         json.dump(verified_entries[f], open(f, "w"), indent=1, ensure_ascii=True)
-        print(f"  {os.path.basename(f)}: {n} ids re-keyed" + (f", {len(drop_old_ids_by_verified_file[f])} duplicate(s) removed" if dropped else ""))
+        detail = []
+        if f in drop_old_ids_by_verified_file:
+            detail.append(f"{len(drop_old_ids_by_verified_file[f])} evidenced-merge duplicate(s) removed")
+        if f in retired_old_ids_by_verified_file:
+            detail.append(f"{len(retired_old_ids_by_verified_file[f])} retired unresolved")
+        print(f"  {os.path.basename(f)}: {n} ids re-keyed" + (", " + ", ".join(detail) if detail else ""))
         total += n
 
 for f in classified_files:
-    # classified_entries[f] was already filtered above if drop_old_ids_global
+    # classified_entries[f] was already filtered above if _remove_old_ids_global
     # was non-empty; report against that filtering, not re-derive it here.
-    was_filtered = bool(drop_old_ids_global)
+    was_filtered = bool(_remove_old_ids_global)
     n = rewrite(classified_entries[f])
     if n or was_filtered:
         json.dump(classified_entries[f], open(f, "w"), indent=1, ensure_ascii=True)
@@ -672,13 +941,54 @@ for f in targets:
         print(f"  {os.path.basename(f)}: {n} ids re-keyed")
         total += n
 
-json.dump(mapping, open(os.path.join(CLS, f"rekey-map-{STAMP}.json"), "w"), indent=1, sort_keys=True)
+# Item 2 corollary (2026-09-02 fixer round): rekey-map-<stamp>.json is a
+# historical log of every rename this STAMP has ever performed, not just
+# this invocation's - a corpus that needs more than one same-stamp
+# invocation to reach the 0-change fixed point (see the module docstring)
+# has EARLIER old_ids already renamed away by the time a LATER invocation
+# runs, so `mapping` on that later invocation is correctly smaller, but a
+# plain overwrite would make the FILE smaller too, silently losing the
+# earlier invocations' work from the audit trail (the exact bug this fix
+# closes for the collision-disposition files, applying here too since
+# reconcile-rekey.py's "every rematch's target matches this stamp's final
+# mapping" check needs the CUMULATIVE mapping, not just the last
+# invocation's delta).
+_map_path = os.path.join(CLS, f"rekey-map-{STAMP}.json")
+_cumulative_mapping = json.load(open(_map_path)) if os.path.exists(_map_path) else {}
+_cumulative_mapping.update(mapping)
+json.dump(_cumulative_mapping, open(_map_path, "w"), indent=1, sort_keys=True)
 json.dump(unresolved, open(os.path.join(CLS, f"rekey-unresolved-{STAMP}.json"), "w"), indent=1)
-if dedup_records:
-    json.dump(dedup_records, open(os.path.join(CLS, f"rekey-deduped-{STAMP}.json"), "w"), indent=1)
-if rematch_records:
-    json.dump(rematch_records, open(os.path.join(CLS, f"rekey-collision-rematches-{STAMP}.json"), "w"), indent=1)
-print(f"mapped {len(mapping)} ids ({total} references) | unresolved {len(unresolved)} | deduped {len(dedup_records)} collision(s) | rematched {len(rematch_records)} collision loser(s)")
+
+def _write_cumulative(path, new_records):
+    """Item 2 (2026-09-02 fixer round): write this run's collision-audit
+    records UNIONED with whatever the SAME stamp's file already holds from
+    an earlier invocation this stamp, keyed by "id" - never plain
+    last-write-wins. This file is written unconditionally (even an empty
+    list, on a fresh stamp's first invocation, so reconcile-rekey.py can
+    always read it rather than guess from its absence) - but a genuine
+    merge-drop or unresolved-retirement REMOVES its entry from the corpus,
+    so a LATER same-stamp invocation (run to confirm the 0-change fixed
+    point, per the module docstring) can never rediscover it and would
+    silently wipe a real earlier disposition to empty if this just
+    overwrote. Rematches don't strictly need this (the rematched entry
+    stays in the corpus and is naturally rediscovered every run), but the
+    same cumulative write keeps all three collision-audit files under one
+    predictable rule.
+    """
+    existing = json.load(open(path)) if os.path.exists(path) else []
+    by_id = {r["id"]: r for r in existing if isinstance(r, dict) and "id" in r}
+    for r in new_records:
+        by_id[r["id"]] = r
+    json.dump([by_id[k] for k in sorted(by_id)], open(path, "w"), indent=1)
+
+_write_cumulative(os.path.join(CLS, f"rekey-deduped-{STAMP}.json"), dedup_records)
+_write_cumulative(os.path.join(CLS, f"rekey-collision-rematches-{STAMP}.json"), rematch_records)
+_write_cumulative(os.path.join(CLS, f"rekey-collision-unresolved-{STAMP}.json"), retired_unresolved_records)
+print(
+    f"mapped {len(mapping)} ids ({total} references) | unresolved {len(unresolved)} | "
+    f"deduped {len(dedup_records)} collision(s) | rematched {len(rematch_records)} collision loser(s) | "
+    f"retired unresolved {len(retired_unresolved_records)} collision loser(s)"
+)
 
 # ---------------------------------------------------------------------------
 # Final invariant: no duplicate id across the verified batch files -- the
