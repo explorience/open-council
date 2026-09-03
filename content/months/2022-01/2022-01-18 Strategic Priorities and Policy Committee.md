@@ -285,6 +285,63 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:51 PM.
 
 ****
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (3 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. London Public Library Board
+
+> That the following actions be taken with respect to Council appointments to the London Public Library Board:    a)     the resignation of Councillor S. Lewis, from the London Public Library Board BE ACCEPTED; and,    b)     Councillor J. Fyfe-Millar BE APPOINTED to the London Public Library Board...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. Resubmitting - London Public Library Board Vacancy
+
+> Appointment to the London Public Library Board
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
+
+</details>
+
+### 4.2. Resubmitting - London Public Library Board Vacancy
+
+> Appointment to the London Public Library Board
+
+**❌ Majority Winner: Scott Andrew Collyer 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
+
+</details>
+
+### 4.3. Full-Time Compensation Determination
+
+> That the communication from Councillor M. van Holst, dated January 9, 2022, with respect to typical daytime office hours, BE RECEIVED and no action be taken.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
+
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
+
+</details>
 ---
 
 ## Full Transcript
@@ -427,61 +484,3 @@ All those in favor with a hand vote? That motion's passed. Colleagues, thanks fo
 Bye for now.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (3 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. London Public Library Board
-
-> That the following actions be taken with respect to Council appointments to the London Public Library Board:    a)     the resignation of Councillor S. Lewis, from the London Public Library Board BE ACCEPTED; and,    b)     Councillor J. Fyfe-Millar BE APPOINTED to the London Public Library Board...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 4.2. Resubmitting - London Public Library Board Vacancy
-
-> Appointment to the London Public Library Board
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
-
-</details>
-
-### 4.2. Resubmitting - London Public Library Board Vacancy
-
-> Appointment to the London Public Library Board
-
-**❌ Majority Winner: Scott Andrew Collyer 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
-
-</details>
-
-### 4.3. Full-Time Compensation Determination
-
-> That the communication from Councillor M. van Holst, dated January 9, 2022, with respect to typical daytime office hours, BE RECEIVED and no action be taken.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
-
-**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
-
-</details>
-

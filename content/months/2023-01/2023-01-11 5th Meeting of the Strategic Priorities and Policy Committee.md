@@ -153,6 +153,35 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 8:15 PM.
 
 ****
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Vision, Mission, Values, Strategic Areas of Focus, Outcomes and Expected Results
+
+> That an additional Public Participation Meeting related to the development of 2023-2027 Strategic Plan, BE SCHEDULED to be held at the February 7, 2023 meeting of the Strategic Priorities and Policy Committee.
+
+**❌ Motion Failed (7 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Vision, Mission, Values, Strategic Areas of Focus, Outcomes and Expected Results
+
+> That next steps, including consideration of strategic areas of focus, outcomes and expected results, with respect to the work for the 2023 - 2027 Strategic Plan BE REFERRED to a special meeting of the Strategic Priorities and Policy Committee, to be held on Monday, January 23, 2023 at 4:00 PM.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -775,33 +804,3 @@ Okay, seeing no additional business, we have a German to look for a motion to ad
 Thanks for your work today.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Vision, Mission, Values, Strategic Areas of Focus, Outcomes and Expected Results
-
-> That an additional Public Participation Meeting related to the development of 2023-2027 Strategic Plan, BE SCHEDULED to be held at the February 7, 2023 meeting of the Strategic Priorities and Policy Committee.
-
-**❌ Motion Failed (7 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Vision, Mission, Values, Strategic Areas of Focus, Outcomes and Expected Results
-
-> That next steps, including consideration of strategic areas of focus, outcomes and expected results, with respect to the work for the 2023 - 2027 Strategic Plan BE REFERRED to a special meeting of the Strategic Priorities and Policy Committee, to be held on Monday, January 23, 2023 at 4:00 PM.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-

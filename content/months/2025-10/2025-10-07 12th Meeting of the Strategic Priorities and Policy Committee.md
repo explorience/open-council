@@ -301,6 +301,35 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:44 PM.
 
 ****
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment in Old East Village
+
+> That the delegation requests from S. Merritt, F. Filice and K. Morrison, Executive Director, Old East Village Business Improvement Area BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment in Old East Village
+
+> That part d) be approved: d)    the Civic Administration BE DIRECTED to implement a free parking pilot for the 641 Queens Avenue and 434 Elizabeth Street parking lots until the end of Q1 2027.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
 ---
 
 ## Full Transcript
@@ -499,33 +528,3 @@ Thank you Vice Chair Raman. That concludes the business of the committee other t
 All those in favor? Motion carries. And we are adjourned. Enjoy the rest of your afternoon everyone.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment in Old East Village
-
-> That the delegation requests from S. Merritt, F. Filice and K. Morrison, Executive Director, Old East Village Business Improvement Area BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment in Old East Village
-
-> That part d) be approved: d)    the Civic Administration BE DIRECTED to implement a free parking pilot for the 641 Queens Avenue and 434 Elizabeth Street parking lots until the end of Q1 2027.
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-

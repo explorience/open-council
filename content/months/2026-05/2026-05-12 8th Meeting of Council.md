@@ -1502,6 +1502,213 @@ The meeting adjourned at 3:24 PM.
 > **Bill No. 212**
 > 
 > By-law No. A.-8721-161 - A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and Hitachi Energy Canada Inc., for the sale of the City owned industrial land located in Huron Industrial Park being the C2 Block and municipally known as 2079 Huron Street, in the City of London, in the County of Middlesex, containing approximately 32.648 acres, more or less, and legally described as Part of the North Half of Lot 3, Concession 2 (Geographic Township of London) Designated as Part 2 and Part 5 in Plan 33R-22400 and being part of PIN 08126-0020 (LT), and to authorize the Mayor and the City Clerk to execute the Agreement. (6.2/9/ICSC)
+
+---
+
+## Votes
+
+*16 substantive votes at this meeting (9 contested, 7 unanimous). Procedural motions excluded.*
+
+### 8.1. 9th Report of the Infrastructure and Corporate Services Committee
+
+> That the 9th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 2 (2.1), 6 (2.5), and 8 (2.6).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.2. (2.1) Extension of Fanshawe College Agreement to Support Downtown Campus (Relates to Bill No. 190)
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by‑law, as appended to the staff report dated May 6, 2026 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026: a)    to approve an amending agreement between The Corporatio...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.6. (2.5) Next Steps for the Provincial Cargo Power-Assisted Bicycle Pilot (Relates to Bill No. 195)
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, with respect to the City’s participation in the Province of Ontario’s Cargo Power-assisted Bicycle (cargo e-bike) pilot program, the following actions be taken: a)    the report BE RECEIVED for information; b)   ...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
+
+> That the motion BE AMENDED to add a new part e): e) advocacy through AMO and OBCM TO REQUEST the Province to speed up the assessment of the pilot project and bring forward recommended legislative changes as soon as possible;
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
+
+> That part b) BE APPROVED: b)    the proposed by-law, as appended to the staff report dated May 6, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026 to establish a Pilot Project for Electric Kick Scooters, to come into force and effect on May 12, 2026 ...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
+
+> That part d) BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to Committee and Council in May 2027 with an update report on the use of e-scooters in London;
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
+
+> That the balance of item 8, clause 2.6, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2. 7th Report of the Planning and Environment Committee
+
+> That the 7th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 7 (3.3).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.7. (3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (London) Inc. (c/o Zelinka Priamo Ltd.) relating to the property located at 945 Bluegrass Drive: a) ...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.3. 7th Report of the Community and Protective Services Committee
+
+> That the 7th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 3 (2.2) and 5 (2.4).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.3. (2.2) YMCA Centre Branch Program Services and Access Agreement (Relates to Bill No. 188)
+
+> That on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed by-law, as appended to the staff report dated May 4, 2026 with respect to the YMCA Centre Branch Program Services and Access Agreement, BE INTRODUCED at the Municipal Council meeting to ...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.3.5. (2.4) Housing Stability Action Plan (2026-2031) Update
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development and the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated May 4, 2026 related to the Homeless Prevention and Housing Plan (2026-2031) Update...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No. 195 and 196 BE APPROVED.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No. 195 and 196 BE APPROVED.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 195 BE APPROVED.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 196 BE APPROVED.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
 ---
 
 ## Full Transcript
@@ -2030,211 +2237,3 @@ Carries 14-0. Okay, that concludes by-laws. All I need is a motion to adjourn. I
 All those in favor of adjournment? Motion carries. All right, thank you. We're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*16 substantive votes at this meeting (9 contested, 7 unanimous). Procedural motions excluded.*
-
-### 8.1. 9th Report of the Infrastructure and Corporate Services Committee
-
-> That the 9th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 2 (2.1), 6 (2.5), and 8 (2.6).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.2. (2.1) Extension of Fanshawe College Agreement to Support Downtown Campus (Relates to Bill No. 190)
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by‑law, as appended to the staff report dated May 6, 2026 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026: a)    to approve an amending agreement between The Corporatio...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.1.6. (2.5) Next Steps for the Provincial Cargo Power-Assisted Bicycle Pilot (Relates to Bill No. 195)
-
-> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, with respect to the City’s participation in the Province of Ontario’s Cargo Power-assisted Bicycle (cargo e-bike) pilot program, the following actions be taken: a)    the report BE RECEIVED for information; b)   ...
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
-
-> That the motion BE AMENDED to add a new part e): e) advocacy through AMO and OBCM TO REQUEST the Province to speed up the assessment of the pilot project and bring forward recommended legislative changes as soon as possible;
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
-
-> That part b) BE APPROVED: b)    the proposed by-law, as appended to the staff report dated May 6, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026 to establish a Pilot Project for Electric Kick Scooters, to come into force and effect on May 12, 2026 ...
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
-
-> That part d) BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to Committee and Council in May 2027 with an update report on the use of e-scooters in London;
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
-
-> That the balance of item 8, clause 2.6, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2. 7th Report of the Planning and Environment Committee
-
-> That the 7th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 7 (3.3).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2.7. (3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (London) Inc. (c/o Zelinka Priamo Ltd.) relating to the property located at 945 Bluegrass Drive: a) ...
-
-**❌ Motion Failed (5 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.3. 7th Report of the Community and Protective Services Committee
-
-> That the 7th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 3 (2.2) and 5 (2.4).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.3.3. (2.2) YMCA Centre Branch Program Services and Access Agreement (Relates to Bill No. 188)
-
-> That on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed by-law, as appended to the staff report dated May 4, 2026 with respect to the YMCA Centre Branch Program Services and Access Agreement, BE INTRODUCED at the Municipal Council meeting to ...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.3.5. (2.4) Housing Stability Action Plan (2026-2031) Update
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development and the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated May 4, 2026 related to the Homeless Prevention and Housing Plan (2026-2031) Update...
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 13. By-laws
-
-> That Introduction and First Reading of Bill No. 195 and 196 BE APPROVED.
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 13. By-laws
-
-> That Second Reading of Bill No. 195 and 196 BE APPROVED.
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Bill No. 195 BE APPROVED.
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Bill No. 196 BE APPROVED.
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-

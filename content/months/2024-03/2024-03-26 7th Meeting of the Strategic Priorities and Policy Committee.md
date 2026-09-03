@@ -935,6 +935,258 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 6:42 PM.
 
 ****
+
+---
+
+## Votes
+
+*20 substantive votes at this meeting (12 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2.3. 2024 Assessment Growth Funding Allocation
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the 2024 Assessment Growth Funding Allocation report BE RECEIVED for information.
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.1. Consideration of Appointment to the London & Middlesex Community Housing (Requires 1 Member)
+
+> That the following actions be taken with respect to the appointment to the London and Middlesex Community Housing Board of Directors:    a)  Gregory Thompson BE APPOINTED to the London and Middlesex Community Housing Board of Directors as a Second Class Tenant Member for the term ending December ...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.2. Evaluation Framework - Health & Homelessness Whole of Community System Response
+
+> That the motion BE AMENDED to direct Civic Administration to report back on the metrics and the report format for the annual data sharing by the end of Q3 2024.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to London’s Health & Homelessness Whole of Community System Response Proposed, Highly Supportive Housing Plan report; a)    the Saving Lives, Alleviating Suffering, &...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
+
+> That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: a)    the rationale for the switch from 15 temporary resting space beds at 448 Horton Street to 24 furnished highly supportive housing units at 3...
+
+**❌ Motion Failed (2 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
+
+> That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: b)    the cost breakdowns for this new program (to update Schedule 1, as appended to the staff report dated March 26, 2024) and/or a Draft Operat...
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
+
+> That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: c)    recommendations to ensure that “Council-approved” funding arrangements are clear and accountable to specific outcomes; and
+
+**❌ Motion Failed (3 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
+
+> That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: d)    expectations for sources of funding for future Highly Supportive Housing units and a list other “conversions” being considered.
+
+**❌ Motion Failed (2 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.4. Mobility Master Plan 2050 Mode Share Target
+
+> That the delegation requests from M. Wallace, London Development Institute, Ralph Buchal, Chair, Mobility Master Plan Subcommittee, Integrated Transportation Community Advisory Committee and Mary Ann Hodge BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.4. Mobility Master Plan 2050 Mode Share Target
+
+> That the Mobility Master Plan 2050 Mode Share Target report BE RECEIVED and REFERRED to a future meeting of the Strategic Priorities and Policy Committee at the time the Land Needs Assessment Study is complete and report back on the following: a)    a review of Sewer and Water Servicing capacity ...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.4. Mobility Master Plan 2050 Mode Share Target
+
+> That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.4. Mobility Master Plan 2050 Mode Share Target
+
+> That the motion BE AMENDED to change Option 2 to represent 32.5% Mode Share split
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.4. Mobility Master Plan 2050 Mode Share Target
+
+> That the following actions be taken with respect to the Mobility Master Plan; a) the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.4. Mobility Master Plan 2050 Mode Share Target
+
+> That the following actions be taken with respect to the Mobility Master Plan; b) the mode share targets for the Mobility Master Plan BE REVIEWED at least every four years and adjusted appropriately.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.4. Mobility Master Plan 2050 Mode Share Target
+
+> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.5. Request for Proposals for External Auditor of the London Transit Commission - Deputy Mayor S. Lewis and Budget Chair E. Peloza
+
+> That the following actions be taken with respect to the London Transit Commission:    a) the Civic Administration BE DIRECTED to undertake a Request for Proposals for an external auditor to initiate a comprehensive operations and performance audit of the London Transit Commission, with the follow...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.6. Request for Accountability from the London Police Services Board - Mayor J. Morgan and Councillors S. Franke and C. Rahman
+
+> That the Civic Administration BE DIRECTED to request a letter as an agenda item to the London Police Service Board (LPSB) to discuss and report back to Council on the planned accountability activities including:    Potential Metrics:    Metrics as proposed by LPSB in the police budget business ca...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.7. 2nd Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee
+
+> That the request to reconfigure the Terms of Reference for the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) specifically in order to better utilize the talents, efforts and viewpoints of racialized communities within the City of London BE REFERRED to the Governan...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.8. Request for an Off-Site Meeting - Mayor J. Morgan
+
+> That, the following actions be taken with respect to a change of location for a meeting of Municipal Council of the City of London on April 17, 2023, starting at 5:00 PM: a)    pursuant to s.236(2) of the Municipal Act, 2001, a change in meeting location from Council Chambers to the Oneida Nation...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 5.1. (ADDED) Request for Support for the Thames Valley District School Board - Councillors C. Rahman and A. Hopkins
+
+> That the Mayor BE REQUESTED to send a further communication on behalf of London City Council with particular focus on the pressing needs for approval on the West London and Southwest London schools in order to option school blocks set to expire in the near term.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -2535,256 +2787,3 @@ The vote motion carries 13 to zero. And the good news is I have no emergent moti
 All those in favor? By motion carries. He had his hand up so, okay.
 
 </details>
-
----
-
-## Votes
-
-*20 substantive votes at this meeting (12 contested, 8 unanimous). Procedural motions excluded.*
-
-### 2.3. 2024 Assessment Growth Funding Allocation
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the 2024 Assessment Growth Funding Allocation report BE RECEIVED for information.
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 4.1. Consideration of Appointment to the London & Middlesex Community Housing (Requires 1 Member)
-
-> That the following actions be taken with respect to the appointment to the London and Middlesex Community Housing Board of Directors:    a)  Gregory Thompson BE APPOINTED to the London and Middlesex Community Housing Board of Directors as a Second Class Tenant Member for the term ending December ...
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 4.2. Evaluation Framework - Health & Homelessness Whole of Community System Response
-
-> That the motion BE AMENDED to direct Civic Administration to report back on the metrics and the report format for the annual data sharing by the end of Q3 2024.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to London’s Health & Homelessness Whole of Community System Response Proposed, Highly Supportive Housing Plan report; a)    the Saving Lives, Alleviating Suffering, &...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
-
-> That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: a)    the rationale for the switch from 15 temporary resting space beds at 448 Horton Street to 24 furnished highly supportive housing units at 3...
-
-**❌ Motion Failed (2 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
-
-> That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: b)    the cost breakdowns for this new program (to update Schedule 1, as appended to the staff report dated March 26, 2024) and/or a Draft Operat...
-
-**✅ Motion Passed (10 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (5):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
-
-> That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: c)    recommendations to ensure that “Council-approved” funding arrangements are clear and accountable to specific outcomes; and
-
-**❌ Motion Failed (3 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
-
-> That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: d)    expectations for sources of funding for future Highly Supportive Housing units and a list other “conversions” being considered.
-
-**❌ Motion Failed (2 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil)
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.4. Mobility Master Plan 2050 Mode Share Target
-
-> That the delegation requests from M. Wallace, London Development Institute, Ralph Buchal, Chair, Mobility Master Plan Subcommittee, Integrated Transportation Community Advisory Committee and Mary Ann Hodge BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.4. Mobility Master Plan 2050 Mode Share Target
-
-> That the Mobility Master Plan 2050 Mode Share Target report BE RECEIVED and REFERRED to a future meeting of the Strategic Priorities and Policy Committee at the time the Land Needs Assessment Study is complete and report back on the following: a)    a review of Sewer and Water Servicing capacity ...
-
-**❌ Motion Failed (5 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.4. Mobility Master Plan 2050 Mode Share Target
-
-> That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan
-
-**✅ Motion Passed (8 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.4. Mobility Master Plan 2050 Mode Share Target
-
-> That the motion BE AMENDED to change Option 2 to represent 32.5% Mode Share split
-
-**✅ Motion Passed (9 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (6):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.4. Mobility Master Plan 2050 Mode Share Target
-
-> That the following actions be taken with respect to the Mobility Master Plan; a) the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.4. Mobility Master Plan 2050 Mode Share Target
-
-> That the following actions be taken with respect to the Mobility Master Plan; b) the mode share targets for the Mobility Master Plan BE REVIEWED at least every four years and adjusted appropriately.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.4. Mobility Master Plan 2050 Mode Share Target
-
-> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.5. Request for Proposals for External Auditor of the London Transit Commission - Deputy Mayor S. Lewis and Budget Chair E. Peloza
-
-> That the following actions be taken with respect to the London Transit Commission:    a) the Civic Administration BE DIRECTED to undertake a Request for Proposals for an external auditor to initiate a comprehensive operations and performance audit of the London Transit Commission, with the follow...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.6. Request for Accountability from the London Police Services Board - Mayor J. Morgan and Councillors S. Franke and C. Rahman
-
-> That the Civic Administration BE DIRECTED to request a letter as an agenda item to the London Police Service Board (LPSB) to discuss and report back to Council on the planned accountability activities including:    Potential Metrics:    Metrics as proposed by LPSB in the police budget business ca...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.7. 2nd Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee
-
-> That the request to reconfigure the Terms of Reference for the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) specifically in order to better utilize the talents, efforts and viewpoints of racialized communities within the City of London BE REFERRED to the Governan...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.8. Request for an Off-Site Meeting - Mayor J. Morgan
-
-> That, the following actions be taken with respect to a change of location for a meeting of Municipal Council of the City of London on April 17, 2023, starting at 5:00 PM: a)    pursuant to s.236(2) of the Municipal Act, 2001, a change in meeting location from Council Chambers to the Oneida Nation...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 5.1. (ADDED) Request for Support for the Thames Valley District School Board - Councillors C. Rahman and A. Hopkins
-
-> That the Mayor BE REQUESTED to send a further communication on behalf of London City Council with particular focus on the pressing needs for approval on the West London and Southwest London schools in order to option school blocks set to expire in the near term.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-

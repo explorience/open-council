@@ -213,6 +213,20 @@ d)  the Municipal Council BE REQUESTED to direct Civic Administration to develo
 
 
 The meeting adjourned at 1:01.
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -467,18 +481,3 @@ Thanks for your patience, everyone, with that last addition to the motion. With 
 I hope you have a great, a good rest of your afternoon, and I hope to see some of you in committee later. Thanks.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.4 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

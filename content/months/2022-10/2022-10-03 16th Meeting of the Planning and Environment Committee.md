@@ -536,6 +536,28 @@ The Planning and Environment Committee convened, in Closed Session, from 5:22 PM
 
 
 The meeting adjourned at 5:28 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Zoning By-law Amendment - Seasonal Outdoor Patios
+
+> That, the following actions be taken with respect to zoning regulations related to seasonal outdoor patios: a) the proposed revised by-law as appended to the Planning and Environment Committee Added Agenda BE INTRODUCED at the Municipal Council meeting to be held on October 17, 2022, to amend Sec...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -882,26 +904,3 @@ And with that, I'm looking for a motion to adjourn. Councillor Lewis, seconded b
 Thanks, everyone.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.5, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.2. Zoning By-law Amendment - Seasonal Outdoor Patios
-
-> That, the following actions be taken with respect to zoning regulations related to seasonal outdoor patios: a) the proposed revised by-law as appended to the Planning and Environment Committee Added Agenda BE INTRODUCED at the Municipal Council meeting to be held on October 17, 2022, to amend Sec...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

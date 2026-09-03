@@ -300,6 +300,44 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 
 The meeting adjourned at 5:10 PM.
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Special Events Policies and Procedures Manual – Deferred Matters File No. 2
+
+> That NO ACTION BE TAKEN with respect to the staff report dated July 27, 2021, related to the Special Events Policies and Procedures Manual – Deferred Matters File No. 2 with respect to limiting amplified concerts on weekdays after Labour Day between the hours of 9:00 AM and 9:00 PM for 2021; it b...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.4. Recognizing the Impact of Hosting the COVID-19 Assessment Centres at Oakridge Arena and Carling Heights Optimist Community Centre
+
+> That the following actions be taken with respect to the communication, dated July 6, 2021, from Councillors S. Lehman and J. Helmer and Mayor E. Holder, related to Recognizing the Impact of Hosting COVID-19 Assessment Centres at Oakridge Arena and Carling Heights Optimist Community Centre: a)    ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.5. Business Case Request for Agricultural Transitional Housing Project
+
+> That the communication, dated July 15, 2021, from Councillor M. van Holst, with respect to a Business Case Request for Agricultural Transitional Housing Project, BE REFERRED to the Civic Administration for consideration with the Housing Stability Plan. (2021-D04)
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -584,42 +622,3 @@ Councillor Lewis, seconded by Councillor Hillier. Open up that vote. Posing the 
 So you've probably got--
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. Special Events Policies and Procedures Manual – Deferred Matters File No. 2
-
-> That NO ACTION BE TAKEN with respect to the staff report dated July 27, 2021, related to the Special Events Policies and Procedures Manual – Deferred Matters File No. 2 with respect to limiting amplified concerts on weekdays after Labour Day between the hours of 9:00 AM and 9:00 PM for 2021; it b...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.4. Recognizing the Impact of Hosting the COVID-19 Assessment Centres at Oakridge Arena and Carling Heights Optimist Community Centre
-
-> That the following actions be taken with respect to the communication, dated July 6, 2021, from Councillors S. Lehman and J. Helmer and Mayor E. Holder, related to Recognizing the Impact of Hosting COVID-19 Assessment Centres at Oakridge Arena and Carling Heights Optimist Community Centre: a)    ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.5. Business Case Request for Agricultural Transitional Housing Project
-
-> That the communication, dated July 15, 2021, from Councillor M. van Holst, with respect to a Business Case Request for Agricultural Transitional Housing Project, BE REFERRED to the Civic Administration for consideration with the Housing Stability Plan. (2021-D04)
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

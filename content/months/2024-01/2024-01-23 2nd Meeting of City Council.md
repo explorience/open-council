@@ -2056,6 +2056,182 @@ The meeting adjourned at 3:36 PM.
 > **Bill No. 44**
 > 
 > By-law No. A.-8461-31 - A by-law to authorize and approve an Agreement of Purchase and Sale and an Amending Agreement between The Corporation of the City of London and Thames Valley District School Board, for the acquisition of property located at 2835 Westminster Drive, in the City of London, for the London Police Operations, and to authorize the Mayor and the City Clerk to execute the Agreements. (6.6/2/CSC)
+
+---
+
+## Votes
+
+*14 substantive votes at this meeting (8 contested, 6 unanimous). Procedural motions excluded.*
+
+### 8.1. 2nd Report of the Corporate Services Committee
+
+> That the 2nd Report of the Corporate Services Committee BE APPROVED, with the exception of items 13 (4.1) and item 14 (5.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.13. (4.1) Application - Issuance of Proclamation - World Thinking Day
+
+> That based on the application dated December 5, 2023 from Girl Guides of Canada, February 22, 2024 BE PROCLAIMED World Thinking Day.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.14. (5.1) Request for Indemnification for a Judicial Review - Councillor S. Stevenson
+
+> That the communication dated January 10, 2024 from Councillor S. Stevenson with respect to Indemnification for a Judicial Review BE RECEIVED and NO FURTHER ACTION BE TAKEN.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.2. 2nd Report of the Community and Protective Services Committee
+
+> That the 2nd Report of the Community and Protective Services Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3. 2nd Report of the Civic Works Committee
+
+> That the 2nd Report of the Civic Works Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4. 3rd Report of the Strategic Priorities and Policy Committee
+
+> That the 3rd Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 4 (2.1) and 8 (4.4).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.4. (2.1) Investing in Canada Infrastructure Program Public Transit Stream Funding Reallocation
+
+> That on the recommendation of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Finance Supports, the following actions be taken regarding recent changes to the Investing in Canada Infrastructure Program (ICIP) Public Transit Stream (PTS) as communicated by the ...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.4.8. (4.4) Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
+
+> That, with respect to the Deputy Mayor and Budget Chair positions, the Civic Administration BE DIRECTED to undertake the necessary actions to implement the following: a)    a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024; b)    a p...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.5. 2nd Report of the Planning and Environment Committee
+
+> That the 2nd Report of the Planning and Environment Committee BE APPROVED, excluding item 11 (5.2).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.5.11. (5.2) Green Development Standards
+
+> That the following actions be taken with respect to the Site Plan Control By-law and/or Zoning By-law:    a)    the Civic Administration BE DIRECTED to update by Q3 2024 the Site Plan Control By-law and/or Zoning By-law to include the following requirements:    i)    5% of the required parking sp...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 9.1. 2nd Report of Council in Closed Session
+
+> That clauses 2, 3, and 4 of the 2nd Report of the Council, In Closed Session BE APPROVED.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No.31 and Added Bill No's. 40 to Bill No. 42, BE APPROVED.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No.31 and Added Bill No.'s 40 to Bill No. 42, BE APPROVED.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No.31 and Added Bill No.'s 40 to Bill No. 42, BE APPROVED.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
 ---
 
 ## Full Transcript
@@ -2592,180 +2768,3 @@ I will look for a motion to adjourn. Moved by Councillor McAllister, seconded by
 Okay. Thanks for adjourned.
 
 </details>
-
----
-
-## Votes
-
-*14 substantive votes at this meeting (8 contested, 6 unanimous). Procedural motions excluded.*
-
-### 8.1. 2nd Report of the Corporate Services Committee
-
-> That the 2nd Report of the Corporate Services Committee BE APPROVED, with the exception of items 13 (4.1) and item 14 (5.1).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.13. (4.1) Application - Issuance of Proclamation - World Thinking Day
-
-> That based on the application dated December 5, 2023 from Girl Guides of Canada, February 22, 2024 BE PROCLAIMED World Thinking Day.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.14. (5.1) Request for Indemnification for a Judicial Review - Councillor S. Stevenson
-
-> That the communication dated January 10, 2024 from Councillor S. Stevenson with respect to Indemnification for a Judicial Review BE RECEIVED and NO FURTHER ACTION BE TAKEN.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.2. 2nd Report of the Community and Protective Services Committee
-
-> That the 2nd Report of the Community and Protective Services Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3. 2nd Report of the Civic Works Committee
-
-> That the 2nd Report of the Civic Works Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4. 3rd Report of the Strategic Priorities and Policy Committee
-
-> That the 3rd Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 4 (2.1) and 8 (4.4).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4.4. (2.1) Investing in Canada Infrastructure Program Public Transit Stream Funding Reallocation
-
-> That on the recommendation of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Finance Supports, the following actions be taken regarding recent changes to the Investing in Canada Infrastructure Program (ICIP) Public Transit Stream (PTS) as communicated by the ...
-
-**✅ Motion Passed (9 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.4.8. (4.4) Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
-
-> That, with respect to the Deputy Mayor and Budget Chair positions, the Civic Administration BE DIRECTED to undertake the necessary actions to implement the following: a)    a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024; b)    a p...
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 8.5. 2nd Report of the Planning and Environment Committee
-
-> That the 2nd Report of the Planning and Environment Committee BE APPROVED, excluding item 11 (5.2).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.5.11. (5.2) Green Development Standards
-
-> That the following actions be taken with respect to the Site Plan Control By-law and/or Zoning By-law:    a)    the Civic Administration BE DIRECTED to update by Q3 2024 the Site Plan Control By-law and/or Zoning By-law to include the following requirements:    i)    5% of the required parking sp...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 9.1. 2nd Report of Council in Closed Session
-
-> That clauses 2, 3, and 4 of the 2nd Report of the Council, In Closed Session BE APPROVED.
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 13. By-laws
-
-> That Introduction and First Reading of Bill No.31 and Added Bill No's. 40 to Bill No. 42, BE APPROVED.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 13. By-laws
-
-> That Second Reading of Bill No.31 and Added Bill No.'s 40 to Bill No. 42, BE APPROVED.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Bill No.31 and Added Bill No.'s 40 to Bill No. 42, BE APPROVED.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-

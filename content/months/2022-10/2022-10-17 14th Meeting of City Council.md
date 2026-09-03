@@ -1693,6 +1693,145 @@ The meeting adjourned at 6:10 PM.
 > **Bill No. 381**
 > 
 > By-law No. Z.-1-223068 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 1156 Dundas Street. (3.5b/17/PEC) Revised at Council
+
+---
+
+## Votes
+
+*14 substantive votes at this meeting (3 contested, 11 unanimous). Procedural motions excluded.*
+
+### 8.1. 13th Report of the Civic Works Committee
+
+> That the 13th Report of the Civic Works Committee, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2. 11th Report of the Community and Protective Services Committee
+
+> That Items 1 to 4 of the 11th Report of the Community and Protective Services Committee, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.5. (3.1) Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location
+
+> That the following actions be taken with respect to the staff report, dated October 4, 2022, with respect to the Adult Live Entertainment Parlour located at 2010 Dundas Street – Deletion of Location: a)    the Civic Administration BE DIRECTED to provide the Community and Protective Services Commi...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Mariam Hamou](/councillors/former/m-hamou)
+
+</details>
+
+### 8.2.6. (5.1) Deferred Matters List
+
+> Motion to approve Item 1 of the Deferred Matters List.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.6. (5.1) Deferred Matters List
+
+> Motion to approve the balance of the Deferred Matters List.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.7. (5.2) Councillor M. Van Holst - Zoning Amendment to Permit a Pilot of Temporary Mobile Shelters
+
+> That the communications from Councillor M. van Holst, as well as the proposed amendment to the clause BE REFERRED to the ongoing ReThink Zoning process, in order to consider the use of temporary mobile shelters, including on lands zoned for places of worship.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/former/m-van-holst), [Mariam Hamou](/councillors/former/m-hamou)
+
+</details>
+
+### 8.3. 13th Report of the Corporate Services Committee
+
+> That the 13th Report of the Corporate Services Committee, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4. 16th Report of the Planning and Environment Committee
+
+> That the 16th Report of the Planning and Environment Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.5. 17th Report of the Planning and Environment Committee
+
+> That Items 1, 2 and  4 of the 17th Report of the Planning and Environment Committee, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.5.3. (3.2) 4452 Wellington Road South (OZ-9497) (Relates to Bill No.'s 367 and 378)
+
+> That consideration of Item 3 (3.2) BE REFERRED back to the Planning and Environment Committee in order to facilitate an additional public participation meeting; it being noted that a broader circulation of notice for the PPM meeting is required.
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Mariam Hamou](/councillors/former/m-hamou)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+</details>
+
+### 8.5.5. (3.4) 366 Hill Street (Z-9511) (Relates to Bill No. 380)
+
+> Clause 3.4, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.5.6. (3.5) 1156 Dundas Street (39T-21508 / Z-9524 / O-9545) (Relates to Bill No.'s 368, 381 and 382)
+
+> That Item 6 (3.5) BE AMENDED to read as follows: That the following actions be taken with respect to the application by McCormick Villages Inc., relating to lands located at 1156 Dundas Street: a) the proposed by-law appended to the staff report dated October 5, 2022 as Appendix "B" BE INTRODUCED...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.5.6. (3.5) 1156 Dundas Street (39T-21508 / Z-9524 / O-9545) (Relates to Bill No.'s 368, 381 and 382)
+
+> That clause 3.5, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.6. 14th Report of the Strategic Priorities and Policy Committee
+
+> That the 14th Report of the Strategic Priorities and Policy Committee, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -2211,143 +2350,3 @@ I will look for a motion to adjourn the meeting. Councilor Turner, seconded by C
 That motion's carried. Thanks, meeting adjourned.
 
 </details>
-
----
-
-## Votes
-
-*14 substantive votes at this meeting (3 contested, 11 unanimous). Procedural motions excluded.*
-
-### 8.1. 13th Report of the Civic Works Committee
-
-> That the 13th Report of the Civic Works Committee, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2. 11th Report of the Community and Protective Services Committee
-
-> That Items 1 to 4 of the 11th Report of the Community and Protective Services Committee, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2.5. (3.1) Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location
-
-> That the following actions be taken with respect to the staff report, dated October 4, 2022, with respect to the Adult Live Entertainment Parlour located at 2010 Dundas Street – Deletion of Location: a)    the Civic Administration BE DIRECTED to provide the Community and Protective Services Commi...
-
-**✅ Motion Passed (9 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Mariam Hamou](/councillors/former/m-hamou)
-
-</details>
-
-### 8.2.6. (5.1) Deferred Matters List
-
-> Motion to approve Item 1 of the Deferred Matters List.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2.6. (5.1) Deferred Matters List
-
-> Motion to approve the balance of the Deferred Matters List.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2.7. (5.2) Councillor M. Van Holst - Zoning Amendment to Permit a Pilot of Temporary Mobile Shelters
-
-> That the communications from Councillor M. van Holst, as well as the proposed amendment to the clause BE REFERRED to the ongoing ReThink Zoning process, in order to consider the use of temporary mobile shelters, including on lands zoned for places of worship.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/former/m-van-holst), [Mariam Hamou](/councillors/former/m-hamou)
-
-</details>
-
-### 8.3. 13th Report of the Corporate Services Committee
-
-> That the 13th Report of the Corporate Services Committee, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4. 16th Report of the Planning and Environment Committee
-
-> That the 16th Report of the Planning and Environment Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.5. 17th Report of the Planning and Environment Committee
-
-> That Items 1, 2 and  4 of the 17th Report of the Planning and Environment Committee, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.5.3. (3.2) 4452 Wellington Road South (OZ-9497) (Relates to Bill No.'s 367 and 378)
-
-> That consideration of Item 3 (3.2) BE REFERRED back to the Planning and Environment Committee in order to facilitate an additional public participation meeting; it being noted that a broader circulation of notice for the PPM meeting is required.
-
-**✅ Motion Passed (8 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Mariam Hamou](/councillors/former/m-hamou)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-</details>
-
-### 8.5.5. (3.4) 366 Hill Street (Z-9511) (Relates to Bill No. 380)
-
-> Clause 3.4, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.5.6. (3.5) 1156 Dundas Street (39T-21508 / Z-9524 / O-9545) (Relates to Bill No.'s 368, 381 and 382)
-
-> That Item 6 (3.5) BE AMENDED to read as follows: That the following actions be taken with respect to the application by McCormick Villages Inc., relating to lands located at 1156 Dundas Street: a) the proposed by-law appended to the staff report dated October 5, 2022 as Appendix "B" BE INTRODUCED...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.5.6. (3.5) 1156 Dundas Street (39T-21508 / Z-9524 / O-9545) (Relates to Bill No.'s 368, 381 and 382)
-
-> That clause 3.5, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.6. 14th Report of the Strategic Priorities and Policy Committee
-
-> That the 14th Report of the Strategic Priorities and Policy Committee, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-

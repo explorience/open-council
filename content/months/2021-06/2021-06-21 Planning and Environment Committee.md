@@ -875,6 +875,88 @@ d)  clauses 1.1, 2.1 BE RECEIVED for information.
 
 
 The meeting adjourned at 6:14 PM.
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (4 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.3 to 2.13, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Memorandum of Understanding for Development and/or Planning Act Application Review Between the City of London and UTRCA
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to updating the Development Memorandum of Understanding between The Corporation of the City of London and the Upper Thames Conservation Authority with respect to ...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 2.2. Memorandum of Understanding for Development and/or Planning Act Application Review Between the City of London and UTRCA
+
+> That the staff report dated June 21, 2021 entitled "Memorandum of Understanding for Development and/or Planning Act Application Review between The Corporation of the City of London and Upper Thames River Conservation Authority" BE REFERRED back to the Civic Administration to obtain comments from ...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
+
+</details>
+
+### 3.2. 193 Queens Avenue (Z-9327)
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the application of Farhi Holdings Corporation, relating to the property located at 193 Queens Avenue, the proposed by-law appended to the staff report dated June 21, 2021 as Appendix "A" BE INTRODUCED at the Mu...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 4.1. 183 and 197 Ann Street - A-M. Valastro - REQUEST FOR DELEGATION STATUS
+
+> That the request for delegation status with respect to the heritage and planning applications relating to the properties located at 183 and 197 Anne Street BE REFERRED to the public participation meeting to be held at a future meeting of the Planning and Environment Committee regarding these matt...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 5.1. (ADDED)  5th Report of the Environmental and Ecological Planning Advisory Committee
+
+> That, the following actions be taken with respect to the 5th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on June 17, 2021: a)  the following recommendations of the Environmental and Ecological Planning Advisory Committee, with respect to the Advis...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -1665,86 +1747,3 @@ For adjournment, and we're going to do this by hand. Move by Councillor Lewis, s
 Thank you very much. Great meeting everyone, take care. We will see you at SPPC on Wednesday. Great job, Chair Mayor.
 
 </details>
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (4 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.3 to 2.13, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.2. Memorandum of Understanding for Development and/or Planning Act Application Review Between the City of London and UTRCA
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to updating the Development Memorandum of Understanding between The Corporation of the City of London and the Upper Thames Conservation Authority with respect to ...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 2.2. Memorandum of Understanding for Development and/or Planning Act Application Review Between the City of London and UTRCA
-
-> That the staff report dated June 21, 2021 entitled "Memorandum of Understanding for Development and/or Planning Act Application Review between The Corporation of the City of London and Upper Thames River Conservation Authority" BE REFERRED back to the Civic Administration to obtain comments from ...
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
-
-</details>
-
-### 3.2. 193 Queens Avenue (Z-9327)
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the application of Farhi Holdings Corporation, relating to the property located at 193 Queens Avenue, the proposed by-law appended to the staff report dated June 21, 2021 as Appendix "A" BE INTRODUCED at the Mu...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 4.1. 183 and 197 Ann Street - A-M. Valastro - REQUEST FOR DELEGATION STATUS
-
-> That the request for delegation status with respect to the heritage and planning applications relating to the properties located at 183 and 197 Anne Street BE REFERRED to the public participation meeting to be held at a future meeting of the Planning and Environment Committee regarding these matt...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 5.1. (ADDED)  5th Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 5th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on June 17, 2021: a)  the following recommendations of the Environmental and Ecological Planning Advisory Committee, with respect to the Advis...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

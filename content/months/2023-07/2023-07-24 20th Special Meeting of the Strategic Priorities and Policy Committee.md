@@ -404,6 +404,112 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 9:43 PM.
 
 ****
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (6 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+> That the following delegations BE APPROVED to be heard at this time: - M. Wallace, London Development Institute; - J. Herb
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+> That consideration of the matter of London's Health and Homelessness Whole of Community System Response BE REFERRED to a future special meeting of the Strategic Priorities and Policy Committee which would include a public participation meeting.
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+> That part g) BE AMENDED to read as follows: “g)     the Mayor and the Budget Chair BE APPOINTED to represent the Municipal Council at the Strategy and Accountability table, for the Whole of Community System response, with the Deputy Mayor to serve as an alternate for either, if required; and”
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+> Motion to approve part a): That the following actions be taken with respect to the London’s Health & Homelessness Whole of Community System Response Proposed Hubs Implementation Plan report dated July 24, 2023: a)    the London’s Health & Homelessness Whole of Community System Response Proposed H...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+> Motion to approve part b): b)    the Civic Administration BE DIRECTED to undertake a competitive procurement process to select the Lead Agencies and their corresponding locations for the implementation of the first five Hubs and report back with the results and sources of financing for approval;
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+> Motion to approve the balance of the motion, including the amended part g), c)    the Civic Administration BE DIRECTED to secure sources of financing to support the implementation of the first five Hubs including a request through the London Community Foundation for access to the Health and Homel...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. July Progress Update - Health and Homelessness Whole of Community System Response
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken: a)    the July Progress Update – Health & Homelessness Whole of Community System Response Report BE RECEIVED for information; b)    the Request for Proposal (RFP-2023-174) submit...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1486,110 +1592,3 @@ Dickens identified that we will have some supportive housing units that do becom
 Lazenby have any thoughts in terms of the staffing capacities in the system beyond uh the the walls of this building um because as i indicated we uh you work in the field uh you know that the staffing challenges are like in terms of recruiting and hiring staff in your areas of expertise uh i know i'm putting you on the spot and if you don't have um anything that you can share with us around that uh i also will accept that as an answer to i know i recognize that you don't run the training programs either but uh i i will ask if you have any thoughts that you can share on that um but i don't think that we have any better answer than what we've gotten already but i will see if our community partners have anything to add uh through the chair um one of the exciting things about getting together as a community and trying to figure out what it is that we need is having a workforce development implementation table where we are looking at trying to address these issues as a community um because not every single organization struggles with staffing and that's for different reasons right um it may be that uh you know contracts are too short that's a really common thing in our industries you know if you're hiring for six month contracts that's a problem you're not going to be able to actually you know recruit uh uh the same uh folks that you would for longer periods of time or permanent positions um things about you know uh how much people are paid or the benefits that people are offered so there's actually a lot of issues that contribute to um you know staffing shortages in different um organizations and staff retention um and the workforce development table is really put together to try to figure out what those issues are and actually come to solutions as a community um and so i think that it is possible that when we look to open hubs and when we look to hire staff and and that you know as a community that we run into some of those issues um but it is also possible that people are excited about doing something new um that people are are looking to to the hubs table and to the to what we're doing as a system and excitedly wanting to work there um so i think that we're trying to address those issues we're trying to make you know um the hubs and appealing place to work as well that we're trying something new which certainly frontline staff want the opportunity to do so um in terms of participating but the workforce development table i think is really going to bring those issues to light and it's something that we want as service providers as well um we want to know what the issues are broadly and how we can address them collectively okay thank you for that um i've got councilor plosa next can i go to councilor plosa now okay councilor plosa uh thank you mr presiding officer and just for clarification um and transparency if we could use the name of service organizations when referring to them and this creates a safe space and i don't believe as much as the city was hoping to get contract providers and organizations that could do 24/7 i don't believe this was a contract that was actually signed at 24/7 service also recognizing um as some colleagues may refer to it as a women's shelter just for transparency it serves women transgender and women identifying people just for colleagues to know um those who are accessing the services through this provider thank you thank you councilor and i'm going to look now to see uh i know council trust i'll uh indicated one clause earlier but as as i have known else on my speaker's list i'm going to look to see if colleagues wish clauses called separately which clauses they wish called separately uh as the speaker's list is exhausted i'm going to look to start calling the vote um so clauses pulled separately if you want a clause pulled separately please uh indicate now councilor vamirbergen yes thank you chair if you could call a and b separately please okay the clerk has made note of that any other clauses colleagues wish called separately third and final call for any clauses colleagues want pulled and dealt with separately seeing none uh so we are going to call councilor vamirbergen can i actually ask you are you okay with us calling a and b together i would prefer if they were separated if we did a and then b okay so you want to call a and then b uh has been yeah okay just wanted to check on that councilor trust i i just want to make it clear through the chair and to to the mayor particularly um i wasn't speaking against the idea of doing that i just don't feel as if i'm ready do it tonight and i would just have a little a little more um information and raise a couple of questions which i think would detract from the gist of why we're here tonight would there be any harm and and i'm asking this i'm not putting it on the floor would it would there be any harm and just putting that that little piece about the cip over to another meeting or is that is that wound up with this so much that we can't do that well i will first as a chair uh councilor truss out advise that um this would be a different referral so it would be an order if you wanted to move a referral but i understand that you wanted perhaps some commentary first so i'm going to go to mayor morgan who added this to the agenda to get his comments with the indulgence of the chair i i just want to provide a little more context that i don't know if it'll make councilor truss out comfortable but i'll i'll also at the end of my comments address why i don't think we should delay this particular piece um this stems from consultation and dialogue i had with the bias uh both ward counselors that are mainly impacted um by um uh both construction health and homelessness and and residual impacts from the pandemic and talking directly with businesses who say without the customer base the city's payments which recently restarted because we pause and burn the pandemic are an additional burden that is pushing them to the margins so should we not provide some relief we may be pushing people like we're essentially a creditor and i'm not sure that's the position we want to be in in this circumstance so for us to be able to say we have the financial capacity and we know how to do this as we've done it through the pandemic to take one last thing off of the plates are people who have taken risks to put in facade loans or make building code improvements to their business will still having the viability of the program for new people to apply to it should they choose to enter and move into these areas it's something that from the words of the businesses that i've spoken to is immediate because the payments have restarted and we need a little bit of runway which is why the time frame is there and it's all consultation with the treasurer to pull those back and it's also a program where if you want to still make payments you can like if people want to get it off their books they don't have to take us up on this so it's only for those who choose to offer this because of those pieces i would say for those who desperately need it it needs to be approved as soon as possible for those who don't need it they don't have to take us up on it thank you mayor morgan i will go to council trust out what i have councilor preble wanting to make a comment on this item as well that satisfies my concern so um i'll um we'll withdraw any objections at this point that makes sense and i think it's consistent with some of the timing that we talked about before and i understand that both of the involved ward counselors are are good with this through the chair i want to make sure that that's the case in in which case thank you very much for that explanation okay uh councilor truss i did ask uh so maybe just uh we could just do a quick show of hands uh counselor stevenson and counselor for error you're both okay with the cip uh loan deferral just so that counselor truss i was aware yes not yeah and counselor truss i was withdrawn his concern on this counselor preble did you still want to speak to this or are you good with this i'm good with that and i'm glad to hear that the only thing is i was just i just hope the fellow counselors will support it as i said previously the businesses in both eras very challenging times no doubt and uh i said it already few times most of them will be repaying the loan either by the end of this year 40 000 or 60 000 next year due to the uh can canada uh relief funds for the covid so i hope everyone will support it and just in case i'll i'll say i'm not part of this group or i didn't take advantage of these loans personally or my business but i hope you will support it because it's the times are they're very challenging and i think that this makes sense and thank you to the mayor for proposing this thanks thank you counselor preble uh counselor truss i just want to make sure you're okay with e being called with the rest of the motions now yes i am thank you sir counselor mccallister and stephenson and then hopefully folks are ready to call the question and thank you through the chair i just also wanted to make a quick comment as uh counselor that also has a pia this is not just restricted to the core and uh my uh business members would also appreciate that assistance too so thank you for the for the addition thank you counselor mccallister counselor stephenson yeah i wanted to say thank you to the mayor for the efforts that he did uh in in facilitating that it really is a lifeline for some businesses and some of them they have the serve loan to pay off by the end of the year and by this reprieve of payments is gonna allow them to pay off that loan which will save them twenty thousand dollars in grant money so in a sense by us deferring these loan payments we're giving them some of the federal government's money so thank you to the federal government too um but it really is very much appreciated like very much appreciated i know the mayor did some extra work for that and i'm very grateful for that so on behalf of the businesses i thank you for that also for allowing me to be on the motion for the treatment centers because that is something i hear a lot about and uh that's gonna satisfy um a lot of people so thank you for that um for the deferral of the loan payments do we would staff be able to let us know the five largest loan uh loans just so that we would see who who those are uh i don't know i did give it to staff in advance um be in order or not but if you've given it to staff in advance i will go to miss barbone thank you through the chairs so the counselor did provide that information the staff had left for the day so it's not information that i have with my fingertips but what i can provide is that um the in terms of the i have the balances of what the different types of loans are that we track so in total there's 143 loans that are outstanding with respect to the cip programs the largest loan so the the most loan that you can get through the facade um the building upgrade loan is two hundred thousand dollars so on average the highest loan is would have been issued at that amount but the majority of the highest balances that are outstanding are in old east as well as downtown so we do track it by um the segments of the type so i can provide that information in terms of that's where i would see the greatest amount of the benefit likely because those have the highest amount of the loan balances if that provides you at least a little bit of what you were looking for thank you and i was glad to hear it was all of the bi's in that general downtown so that's great great well i have no one else on my speaker's list we have exhausted uh that so i am going to ask the clerk to open the vote the first vote will just be on part a and that is the london health and homelessness whole of community system response proposed hubs implementation plan has appended to the staff report dated july 24th 2023 as schedule one be endorsed and i will ask the clerk to open the vote now posing the vote the motions passed 11 to 4 and now part b i will ask the clerk to call separately as well this is that civic administration be directed to undertake a competitive procurement process to select the lead agencies and their corresponding locations for the implementation of the first five hubs and report back with the results and sources of funding for approval and i am using uh mayor morgan and council roman as the same mover and seconder on all of these unless either one of them indicates otherwise to me so seeing none i'll ask the clerk to open the vote on that posing the vote the motions passed 12 to 3 and finally colleagues i am going to ask the clerk to open the vote and if you think i'm going to read all out all of the rest of the clauses i am not i am going to say on the balance of the report however i will very quickly uh highlight that uh this is to secure the sources of funding uh uh for the implementation for the first five hubs including a request of the community foundation to access the uh donation that was received that we received this report for information uh that the cip loan payment deferrals uh be approved uh that the mayor and government relations staff undertake the advocacy work on the rehab hub or the rehab center i should say don't want to mix terminologies there um and that uh the mayor and the budget chair be appointed to represent municipal council at the strategy and accountability table with the deputy mayor as an alternate and that civic administration be directed to complete they will initiate the continuous public feedback loop part as circulated by the mayor earlier so those are the remaining clauses that we're voting on now and i will ask the clerk to open the vote closing the vote the motion is passed 14 to 1 thank you colleagues and moving on we do have item 4.2 the july progress update to the health and homelessness whole of community response report and so we will start a speaker's list on the items contained in that report ideally the first person to put their hand up will move the report so that we can frame the context of the debate so move by councilor trussow and seconded by councilor cuddy any speakers to 4.2 councilor stevenson thank you i just had a couple of questions on um page 100 under highly supportive housing it says the co-chairs have set a date in august and the group will meet into september as they focus on identifying units to occupy i just wondered if there was some clarity around that are we looking at more of the affordable units um or when it says units to occupy i was just curious about the language councilor can you just repeat that page number please it's page 100 thank you you're highly supportive and uh would that be mr dickens thank you chair and through you so this is the process of identifying projects in the pipeline so the table is looking to look at a number of organizations that have multi-year master plans that have um partnerships that are in the works and other housing projects that might be further down or further up in the pipeline so that's what this work is okay thank you and it says commercial space to residential usage which i think everybody's happy to see there i'll speak for me i'm happy to see it there and it right near there too it says this document will also consider exterior/communal space elements i just wondered if you could just expand on that and with that mr dickens again it is and thank you chair through you so as the table looks to design not just uh what highly supportive housing would look like inside the space but really around uh what would be purposeful and meaningful for the outside space and be that um green space be that um some setbacks be that some intentional designs i plan design uh to not just blend into the neighborhood and be a welcome feature but also to ensure that it's providing the best possible layout to support a high acuity population thank you mr dickens councilor stevenson thank you just two more questions one is around the um drug use at the highly supportive housing what will it will be the same similar types of um guidelines with the highly supportive housing as with the hubs mr dickens thank you and through you chair so the highly supportive housing can be could be someone's forever home um and similar principles that have guided this work from the summer process is to take a harm reduction approach uh and to ensure people's safety so uh we will continue to follow those same principles that were just articulated through the hubs plan uh recognizing these are uh individuals place of residence uh and that there would be an element of personal choice but we'd absolutely take every step to make sure uh individuals are safe and all individuals in that building answer stevenson a final question well actually just a follow up to that one and then a final question the follow up to that one is so then is the will the drug use be limited to their personal space then or will it be allowed in the communal space and outside mr dickens uh through you chair this time it would be in their personal space but i don't have any of the details around what that communal space would look like each space uh would follow uh lead organization guidelines in terms of service standards and providing safe space for all tenants uh so absolutely safe space or sorry to answer your question the personal space uh is where that may occur if that's what individuals choose to do as individuals may choose to do that in any residence throughout the community um but we would have uh service standards in place to ensure that those that are receiving highly supportive housing are having the best chance of obtaining and maintaining their stability answer thank you so my last question is on the final page 105 and it's the financial impact consideration so here we're being asked to approve the 125 000 for a strategic communications plan and i just wondered if you could expand on that as to what the term is and why uh a communications plan now as we hit the end of it miss Livingston uh through you uh mr chair uh the strategic communications plan as i think we uh heard many times this evening there is a necessity to ensure that the public is aware understands the work that's happening the opportunities to be engaged uh as new milestones are met that people know that those things are happening uh we've had lots of questions about how can people help this plan would help in terms of directing folks on you know towards the fund for change for example and in able to contribute so this is really about building uh an overall level of understanding and awareness about the work that's happening uh and where that that work is going the focus over the next number of months will be uh as we're moving forward to implement these first hubs making sure people understand what's happening uh when the decisions are made where there'll be how areas can be engaged so it really is seen as quite important as we move into this next phase of work thank you miss Livingston councilor hofkin well you did say that was your last question but i will allow a follow up yeah um my question just is according to the tender it was july to march of next year and i just wondered it just seems like the communication strategy is going to come after we've made the decisions so this is about informing the public for eight months after we've already decided the direction we're going i'm just for me i just thought the communication strategy period is sort of over is Livingston uh through you mr chair uh certainly uh lots to strengthen in terms of communication of the overall initiative but i think we're far from over we are at the beginning of implementation uh and the community many folks are interested so i think the focus of this effort is continuing to build awareness and understanding how people can be engaged what the next steps are focusing of course on the first implementation steps they'll be more coming forward to council during this period of time particularly around highly supported housing around workforce development around one number to call all those component pieces so having a strong and robust communication strategy from our perspective would be important as we enter into the implementation phase of this work. Councillor Hopkins yes thank you mr pro siding chair i just want to uh thank staff through you uh for the updates i know a lot of work goes into the updates i appreciate them i know we all do around the horseshoe here it's important that we're updated happy uh to support the recommendation the strategic communication plan uh going forward is going to be important i just want to um make note of a few points in the update really appreciate the indigenous led response the consultation uh that's going to be continuous with the indigenous community uh i also want to bring to everyone's attention the strategic advocacy efforts with the government as well as we host amo here uh that's going to be an important conversation with the provincial government and finally uh just uh the upcoming budget and consultations that are going to go forward with uh the governments so a lot of work still to happen again appreciate the update thank you thank you Councillor Hopkins i have no other speakers on the list to see i will advise colleagues both Councillor Palosa and Councillor van Mirberg and have left us so we are 13 now i'm not 15 uh i see no other speakers to this uh so the motion has been moved and seconded uh and i will ask the clerk to open the vote closing the vote the motion is one thank you colleagues i have good news for you we have no deferred matters or additional business we have no confidential items so that brings us to section seven of our agenda which is adjournment moved by Councillor ramen and seconded by Councillor Stevenson sorry Councillor Hillyer you're turning on your camera way too late that was like lightning fast movers and seconders um this is by hand all those in favor that motion's passed we are adjourned thank you everyone
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (6 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> That the following delegations BE APPROVED to be heard at this time: - M. Wallace, London Development Institute; - J. Herb
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> That consideration of the matter of London's Health and Homelessness Whole of Community System Response BE REFERRED to a future special meeting of the Strategic Priorities and Policy Committee which would include a public participation meeting.
-
-**❌ Motion Failed (4 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> That part g) BE AMENDED to read as follows: “g)     the Mayor and the Budget Chair BE APPOINTED to represent the Municipal Council at the Strategy and Accountability table, for the Whole of Community System response, with the Deputy Mayor to serve as an alternate for either, if required; and”
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> Motion to approve part a): That the following actions be taken with respect to the London’s Health & Homelessness Whole of Community System Response Proposed Hubs Implementation Plan report dated July 24, 2023: a)    the London’s Health & Homelessness Whole of Community System Response Proposed H...
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> Motion to approve part b): b)    the Civic Administration BE DIRECTED to undertake a competitive procurement process to select the Lead Agencies and their corresponding locations for the implementation of the first five Hubs and report back with the results and sources of financing for approval;
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> Motion to approve the balance of the motion, including the amended part g), c)    the Civic Administration BE DIRECTED to secure sources of financing to support the implementation of the first five Hubs including a request through the London Community Foundation for access to the Health and Homel...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. July Progress Update - Health and Homelessness Whole of Community System Response
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken: a)    the July Progress Update – Health & Homelessness Whole of Community System Response Report BE RECEIVED for information; b)    the Request for Proposal (RFP-2023-174) submit...
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-

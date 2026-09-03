@@ -2429,6 +2429,225 @@ The meeting is adjourned at 4:26 PM.
 > **Bill No. 27**
 > 
 > By-law No. A.-8312-17 - A by-law to authorize and approve a Lease Amending Agreement between The Corporation of the City of London and Pattison Outdoor Advertising LP, by its general partner Pattison Outdoor Advertising Limited for billboard advertising, in the City of London, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.5/1/CSC)
+
+---
+
+## Votes
+
+*17 substantive votes at this meeting (11 contested, 6 unanimous). Procedural motions excluded.*
+
+### 8.1. 1st Report of the Planning and Environment Committee
+
+> That the 1st Report of the Planning and Environment Committee BE APPROVED, excluding items 19 (3.9), 20 (3.10) and 21 (4.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.19. (3.9) 4452 Wellington Road South (OZ-9497) (Relates to Bill No.'s 9 and 22)
+
+> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by MHBC Planning on behalf of 2858637 Ontario Inc., relating to the property located at 4452 Wellington Road South: a)    the proposed appended to the staff...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.1.20. (3.10) 952 Southdale Road West (OZ-9431) (Relates to Bill No.'s 10 and 23)
+
+> That the following amendment BE APPROVED to the associated by-law for 952 Southdale Rd. W. Amend by adding the word “Maximum” in Section 2. a) iii) Density to the R8-4 Zone.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.20. (3.10) 952 Southdale Road West (OZ-9431) (Relates to Bill No.'s 10 and 23)
+
+> That item 20, clause 3.10, as amended, BE APPROVED.
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.2. 1st Report of the Corporate Services Committee
+
+> That the 1st Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3. 1st Report of the Community and Protective Services Committee
+
+> That the 1st Report of the Community and Protective Services Committee BE APPROVED, excluding item 8 (4.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.8. (4.1) Animal Control By-Law
+
+> Motion to approve part a) That clause 4.1 BE AMENDED following the words, “prepare a staff report” to add "a)  including any related previous recommendations; and
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Peter Cuddy](/councillors/current/p-cuddy)
+
+</details>
+
+### 8.3.8. (4.1) Animal Control By-Law
+
+> That clause 4.1 BE AMENDED by adding the follow new part b) "b)  an evaluation of both onsite and offsite programs;"
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.3.8. (4.1) Animal Control By-Law
+
+> That item 8, clause 4.1, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 8.4. 1st Report of the Civic Works Committee
+
+> That the 1st Report of the Civic Works Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5. 3rd Report of the Strategic Priorities and Policy Committee
+
+> That Items 1 to 10, inclusive, of the 3rd Report of the Strategic Priorities and Policy Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 9.1. 2nd Report of Council in Closed Session
+
+> Motion to approve item 4. 4.    Property Acquisition – 2 Kennon Place – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Servic...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No. 10, BE APPROVED.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 10, BE APPROVED.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No. 26, BE APPROVED.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No. 26, BE APPROVED.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 26, BE APPROVED.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
 ---
 
 ## Full Transcript
@@ -3033,223 +3252,3 @@ Thank you, Your Worship. I'd like to report out in the second report of the Coun
 Three acquisition buyback of industrial land from 2842 61 3 Ontario limited innovation industrial park phase two that on the recommendation of this deputy city manager finance supports on the advice of the director Realty services with respect to industrial land located in innovation industrial park phase two containing an area of six acres part of block one plan 33m dash 592 parts 14 and 17 plan 33r dash 2088 for located in the city of London County of Middlesex as outlined on the sketch here to as appendix c the following actions be taken a the agreement of purchase and sale the agreement as appendix b submitted by the corporation of the city of London the purchaser to repurchase six acres of the subject property from 2842 61 3 Ontario limited for the sum of three hundred and seventy eight thousand dollars be accepted subject to the terms and conditions set out in the agreement and be the financing for the acquisition be approved as set out in the source of financing port here to as appendix a for property acquisition to Ken in place Wellington Gateway project that on the recommendation of the deputy city manager finance supports for the concurrence of the director of construction and infrastructure services on the advice of the director Realty services with respect to the property located at two key in place further described as lot 10 plan 44 and fourth being all of pin zero eight three five seven dash zero zero two seven lt containing an area of approximately two thousand four and 75 square feet as shown on the location map as appendix b for the purpose of future road improvements taken or to accommodate the Wellington Gateway project the following actions be taken a the offer submitted by Dana Mary Jeanette Hewitt the vendor to sell the subject property to the city for the sum of four hundred and thirty thousand five hundred dollars be accepted subject to the terms and conditions as set out in the agreement as appendix c and b the financing for this acquisition be approved as set out in the source of financing report here to as appendix a number five lease of city owned land for billboard advertising that on the recommendation of the deputy city manager finance supports on the advice of the director Realty services with respect to the lease agreement between the corporation of the city of London and Paterson outdoor advertising LP by its general partner Paterson outdoor advertising limited for the lease of city owned lands for billboard advertising the lease amending agreement the lease as appendix a between the corporation of city of London and Paterson outdoor advertising LP by its general partner Paterson outdoor advertising limited for the lease of up to eight locations as detailed in the agreement be approved okay those items are moved by Councillor Layman look for a seconder Mr. Stevenson any discussion on the items before us? Councillor Vameer Bergen I'd just like to ask that I guess this number four to Ken and Place Wellington Gateway project if that could be called separately yes we can do that we'll just make that adjustment so what we'll do is with Councillor Layman's permission he's presenting these we'll deal with that one after the others okay so what we will be dealing with is all items with the exception of the one related to the Wellington Gateway project any final opportunity for discussion on that okay seeing none that will open for voting momentarily just hold on we're canceling that vote has everything except the matter you wanted separately Councillor Vameer Bergen and if colleagues this is where this is a very long series of votes so if it's open and you can't see your voting button at the bottom there's a little chevron at the top in the middle if you scroll up they can condense it and you'll see just the voting buttons Councillor for us closing the vote motion carries 15 to 0 Councillor Layman I'll put the remaining item on the floor any discussion on the remaining item related land acquisition along the Wellington Gateway okay seeing none we'll open that for voting closing the vote motion carries 14 to 1 thanks Councillor that completes the added report section we have no deferred matters we have other any inquiries by Councillors okay there are no inquiries there are no emergent motions so we're on to bylaws the way we'll be handling bylaws is we have bills four through 23 from the regular agenda we have added bills 24 25 26 and 27 although I'm going to deal with added bill 26 which is related to the Wellington Gateway separately for Councillor Vameer Bergen so what we will put on the floor is a motion for bills four through 23 plus added bill 24 25 and 27 which is those three addeds are related to the items that just came out of out of our in-camera session I will look for a mover and a seconder for those bylaws Councillor McAllister seconded by Councillor Closa there is no debate on first reading of these bylaws so we will open the vote closing the vote motion carries 15 to 0 okay second reading of the same set of bylaws I need a mover and a seconder Councillor Ferrera seconded by Councillor Layman any discussion on second reading see none okay we'll open second reading for voting hold on one second okay I have had a request from a counselor to also pill bill number 10 be voted on separately and now it has passed first reading but it will go through second and third readings as a separate item bill number 10 is an amendment to the official plan relating to 952 Southdale Road West so this next vote then is going to be second reading of all of the bills that we just had first reading on but the exception of bill 10 which we pulled out okay that'll open for voting now closing the vote motion carries 15 to 0 okay third reading of bills four through 23 with the exception of bill 10 plus bills 25 20 24 25 and 27 look for a mover for that Councillor Hopkins seconded by Councillor van Mirbergen there's no discussion on third reading so we'll open that for voting closing the vote motion carries 15 to 0 okay now we will deal with second reading of bill 10 which is the item related to 952 Southdale Road West I'll need to move on a seconder for second reading of bill 10 Councillor Cuddy Councillor Lewis this is second reading so any any debate okay see none we'll open that for voting closing the vote motion carries 12 to 3 a third reading of bill number 10 I'll need to move on a seconder Councillor Stevenson and Councillor DEPUTY MAYOR Lewis moved and seconded there's no debate on third reading so we'll open that for voting closing the vote motion carries 12 to 3 first reading of bill 26 which is an item related to land acquisition along the Wellington Gateway I'll need a mover and a seconder for first reading Councillor ramen seconded by Councillor Stevenson we'll open that for voting Councillor Trassel thank you closing the vote motion carries 14 to 1 okay second reading bill 26 moved by Councillor Hopkins seconded by Councillor Layman any discussion on second reading okay seeing none we'll open that for voting closing the vote motion carries 14 to 1 okay third and final reading of bill 26 I need to move on a seconder moved by Councillor Palosas seconded by Councillor DEPUTY MAYOR Lewis we'll open final reading of bill 26 for voting closing the vote motion carries 14 to 1 okay that brings us to the end of bylaws which means there's only one item um and that's adjournment before I look for a motion to adjourn I just want to say this is our final council meeting before the holiday break and so I just wanted to wish all of the members of councils and your families and all of our staff at the City of London a great time over the next few weeks hopefully a lot of time with family and friends City Hall will be closed during this period from noon on December 23rd until January 3rd and our next set of committee meetings is not until January 9th also this year we will return to an in-person New Year's Eve festivities so hopefully you can all make it out for that and we will share details with members of council and of course it's already on the city's website for members of the public who are interested in turning out again thank you so much for all the work that our staff have done through all of 2022 it was an exciting year for many of us well with the election and I know a very busy time for the clerks in the work that they do but you know at the end of the year it's always nice to reflect on on you know the successes and the time that we shared together and I hope that you have a great couple of weeks and I look very forward to next year together and all the things that we will accomplish with that I will look for a motion to adjourn moved by Councillor Cutty seconded by Councillor Stevenson all those in favor of adjournment now motion carries we're adjourned
 
 </details>
-
----
-
-## Votes
-
-*17 substantive votes at this meeting (11 contested, 6 unanimous). Procedural motions excluded.*
-
-### 8.1. 1st Report of the Planning and Environment Committee
-
-> That the 1st Report of the Planning and Environment Committee BE APPROVED, excluding items 19 (3.9), 20 (3.10) and 21 (4.1).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.19. (3.9) 4452 Wellington Road South (OZ-9497) (Relates to Bill No.'s 9 and 22)
-
-> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by MHBC Planning on behalf of 2858637 Ontario Inc., relating to the property located at 4452 Wellington Road South: a)    the proposed appended to the staff...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.1.20. (3.10) 952 Southdale Road West (OZ-9431) (Relates to Bill No.'s 10 and 23)
-
-> That the following amendment BE APPROVED to the associated by-law for 952 Southdale Rd. W. Amend by adding the word “Maximum” in Section 2. a) iii) Density to the R8-4 Zone.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.20. (3.10) 952 Southdale Road West (OZ-9431) (Relates to Bill No.'s 10 and 23)
-
-> That item 20, clause 3.10, as amended, BE APPROVED.
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 8.2. 1st Report of the Corporate Services Committee
-
-> That the 1st Report of the Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3. 1st Report of the Community and Protective Services Committee
-
-> That the 1st Report of the Community and Protective Services Committee BE APPROVED, excluding item 8 (4.1).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3.8. (4.1) Animal Control By-Law
-
-> Motion to approve part a) That clause 4.1 BE AMENDED following the words, “prepare a staff report” to add "a)  including any related previous recommendations; and
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Peter Cuddy](/councillors/current/p-cuddy)
-
-</details>
-
-### 8.3.8. (4.1) Animal Control By-Law
-
-> That clause 4.1 BE AMENDED by adding the follow new part b) "b)  an evaluation of both onsite and offsite programs;"
-
-**❌ Motion Failed (5 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.3.8. (4.1) Animal Control By-Law
-
-> That item 8, clause 4.1, as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 8.4. 1st Report of the Civic Works Committee
-
-> That the 1st Report of the Civic Works Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.5. 3rd Report of the Strategic Priorities and Policy Committee
-
-> That Items 1 to 10, inclusive, of the 3rd Report of the Strategic Priorities and Policy Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 9.1. 2nd Report of Council in Closed Session
-
-> Motion to approve item 4. 4.    Property Acquisition – 2 Kennon Place – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Servic...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 13. By-laws
-
-> That Second Reading of Bill No. 10, BE APPROVED.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Bill No. 10, BE APPROVED.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 13. By-laws
-
-> That Introduction and First Reading of Bill No. 26, BE APPROVED.
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 13. By-laws
-
-> That Second Reading of Bill No. 26, BE APPROVED.
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Bill No. 26, BE APPROVED.
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-

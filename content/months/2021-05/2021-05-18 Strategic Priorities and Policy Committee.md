@@ -651,6 +651,82 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 6:17 PM.
 
 ****
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2.1. Comprehensive Report on Core Area Initiatives
+
+> That part d) be amended to read as follows: d)         the Civic Administration BE DIRECTED to report back to a Strategic Priorities and Policy Committee meeting to be held in the 2nd Quarter of 2022 on the status of the geographic distribution of parking demand, parking revenue and any recommend...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 2.1. Comprehensive Report on Core Area Initiatives
+
+> Motion to approve part e), as follows: e)      the Core Area Ambassador Pilot Program BE APPROVED as described in the above-noted report;
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.1. Comprehensive Report on Core Area Initiatives
+
+> Motion to approve part h) as follows: h)      the Civic Administration BE AUTHORIZED to reallocate the remaining $100,000 in one-time funding that cannot be spent in 2021 due to COVID-19 impacts to other emergent opportunities aligned with the Core Area Action Plan in 2021;
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
+
+**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/former/p-squire)
+
+</details>
+
+### 2.2. 2025 Development Charge Study Initiation Report
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Development Charge Study: a)      the draft Committee / Council Timetable as appended as Appendix "A" to the staff report dated May 18, 2021 BE ENDORSED; b)      the f...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.2. Request for a Shareholder's Meeting - Housing Development Corporation, London
+
+> That the following actions be taken with respect to the 2020 Annual General Meeting of the Shareholder for the Housing Development Corporation, London: a)      the 2020 Annual General Meeting of the Shareholder for the Housing Development Corporation, London BE HELD at a meeting of the Strategic ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.3. Request for a Shareholder's Meeting - London Hydro Inc.
+
+> That the following actions be taken with respect to the 2020 Annual General Meeting of the Shareholder for London Hydro Inc.:    a)      the 2020 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on June 23, 2021,...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.4. Request for a Shareholder's Meeting - London & Middlesex Community Housing
+
+> That the following actions be taken with respect to the 2020 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing:    a)      the 2020 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing BE HELD at a meeting of the Strategic Pri...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -1303,80 +1379,3 @@ Livingston, we'd ask that you pass it on to both all of our staff as we deal in 
 Motion carries. Thanks very much, median adjourned. Thank you all.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2.1. Comprehensive Report on Core Area Initiatives
-
-> That part d) be amended to read as follows: d)         the Civic Administration BE DIRECTED to report back to a Strategic Priorities and Policy Committee meeting to be held in the 2nd Quarter of 2022 on the status of the geographic distribution of parking demand, parking revenue and any recommend...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 2.1. Comprehensive Report on Core Area Initiatives
-
-> Motion to approve part e), as follows: e)      the Core Area Ambassador Pilot Program BE APPROVED as described in the above-noted report;
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 2.1. Comprehensive Report on Core Area Initiatives
-
-> Motion to approve part h) as follows: h)      the Civic Administration BE AUTHORIZED to reallocate the remaining $100,000 in one-time funding that cannot be spent in 2021 due to COVID-19 impacts to other emergent opportunities aligned with the Core Area Action Plan in 2021;
-
-**✅ Motion Passed (10 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
-
-**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/former/p-squire)
-
-</details>
-
-### 2.2. 2025 Development Charge Study Initiation Report
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Development Charge Study: a)      the draft Committee / Council Timetable as appended as Appendix "A" to the staff report dated May 18, 2021 BE ENDORSED; b)      the f...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.2. Request for a Shareholder's Meeting - Housing Development Corporation, London
-
-> That the following actions be taken with respect to the 2020 Annual General Meeting of the Shareholder for the Housing Development Corporation, London: a)      the 2020 Annual General Meeting of the Shareholder for the Housing Development Corporation, London BE HELD at a meeting of the Strategic ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.3. Request for a Shareholder's Meeting - London Hydro Inc.
-
-> That the following actions be taken with respect to the 2020 Annual General Meeting of the Shareholder for London Hydro Inc.:    a)      the 2020 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on June 23, 2021,...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.4. Request for a Shareholder's Meeting - London & Middlesex Community Housing
-
-> That the following actions be taken with respect to the 2020 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing:    a)      the 2020 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing BE HELD at a meeting of the Strategic Pri...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-

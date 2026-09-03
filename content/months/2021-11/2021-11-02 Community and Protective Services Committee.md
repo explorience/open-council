@@ -445,6 +445,43 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 
 The meeting adjourned at 8:42 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.6 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. (REVISED REPORT) The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43)
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated November 2, 2021, related to The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Jesse Helmer](/councillors/former/j-helmer), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (1):** [Mo Salih](/councillors/former/m-salih)
+
+</details>
+
+### 2.5. (REVISED REPORT) The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43)
+
+> Motion to approve the delegation request, as appended to the Added Agenda, from J. Duckitt, with respect to this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1651,41 +1688,3 @@ Mr. Lewis, seconded by Councillor Fife Miller. All those in favor, adjourned. Th
 Thank you all. Thanks, Chair.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3, 2.4, 2.6 and 2.7 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.5. (REVISED REPORT) The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43)
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated November 2, 2021, related to The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Jesse Helmer](/councillors/former/j-helmer), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-**Nay (1):** [Mo Salih](/councillors/former/m-salih)
-
-</details>
-
-### 2.5. (REVISED REPORT) The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43)
-
-> Motion to approve the delegation request, as appended to the Added Agenda, from J. Duckitt, with respect to this matter.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

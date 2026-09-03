@@ -1236,6 +1236,211 @@ The meeting adjourned at 5:01 PM.
 > **Bill No. 379**
 > 
 > By-law No. DR-111-63 - A by-law to provide for Drainage Works in the City of London (Reassessment of the CB. Smith No. 2 Municipal Drain)  (2.2/11/CWC – 2024) (For Third Reading only)
+
+---
+
+## Votes
+
+*17 substantive votes at this meeting (7 contested, 10 unanimous). Procedural motions excluded.*
+
+### 1. Disclosures of Pecuniary Interest
+
+> That, pursuant to section 6.4 of the Council Procedure By-law, a change in order of the Council Agenda BE APPROVED, to provide for Item 7.1 in Stage 7, Motions for Which Notice is Given, to be considered after Stage 2, Recognitions.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 7.1. Mayor J. Morgan - Supporting Our Local and Broader Canadian Economy During Ongoing Trade Uncertainties
+
+> That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Mayor J. Morgan to move a motion related to item 7.1 on the Council Agenda related to Mayor J. Morgan’s submission regarding Supporting Our Local and Broader Canadian Economy During Ongoing Trade Uncertainties.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 7.1. Mayor J. Morgan - Supporting Our Local and Broader Canadian Economy During Ongoing Trade Uncertainties
+
+> Motion to amend part b) to read as follows: b)       the Mayor BE REQUESTED to advocate to the federal and provincial governments for revisions to trade agreements or policies that restrict municipalities from giving preference to Canadian companies, and in particular local businesses, in the pro...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 7.1. Mayor J. Morgan - Supporting Our Local and Broader Canadian Economy During Ongoing Trade Uncertainties
+
+> That item 7.1, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.1. 3rd Report of the Community and Protective Services Committee
+
+> That the 3rd Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 5 (2.4), 6 (2.5) and 8 (4.1).
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 8.1.5. (2.4) Whole of Community System Response - Q4 Quarterly Report
+
+> That, on the recommendation of the Deputy Manager, Social and Health Development, the staff report dated January 27, 2025, with respect to the Whole of Community System Response Q4 Quarterly Report, BE RECEIVED. (2025-S14)
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
+
+> that part d) relating to an amendment to the existing Municipal Purchase of Service agreement with The Ark Aid Street Mission for the period of April 1, 2025 to March 31, 2026 BE REFERRED to Civic Administration to examine options for beds in place of day drop-in spaces, with any service provider...
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
+
+> Motion to refer part h): h)   the use of Housing Stability Services budget for a total amount of up to $1,400,000 BE REFERRED to a future meeting of Community and Protective Services Committee for Civic Administration to provide an operational plan on how to provide basic human needs using the UH...
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
+
+> That the motion be amended to delete references to funding for the annual shortfall for the daytime drop in space and the Ark Aid Street Mission to provide 12 women’s only beds at the CMHA My Sister’s Place and to read as follows: e)    the Civic Administration BE DIRECTED to find a source of fun...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
+
+> Motion to refer part b): that part b) relating to an amendment to the existing Municipal Purchase of Service agreement with The Ark Aid Street Mission to a total estimated increase of up to $3,068,348 (excluding HST) for the period of April 1, 2025 to March 31, 2026 to continue 70 emergency shelt...
+
+**✅ Motion Passed (8 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
+
+> That part e), as amended, BE APPROVED: e)    the Civic Administration BE DIRECTED to find a source of funding for an estimated total of $157,860 for the Ark Aid Street Mission to provide 10 spaces at their Oxford Street supported housing location; At 4:10 PM, Deputy Mayor S. Lewis, places Council...
+
+**❌ Motion Failed (3 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
+
+> That parts f) and g) BE APPROVED: f)    an extension to the existing Municipal Purchase of Service agreement with Atlohsa Family Healing Services at a total estimated increase of up to $33,750 (excluding HST) for the period of January 1, 2025 to March 31, 2025 BE APPROVED to temporarily expand in...
+
+**✅ Motion Passed (9 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
+
+> That the balance of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 8.1.8. (4.1) Bob Hayward YMCA at 1050 Hamilton Road
+
+> That the Civic Administration BE DIRECTED to explore affordable housing development opportunities with the YMCA of Southwestern Ontario regarding their property at 1050 Hamilton Road; it being noted that these discussions and any partnerships or property acquisitions that come from them would be ...
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (11-0)
+
+### 8.2. 3rd Report of the Planning and Environment Committee
+
+> That the 3rd Report of Planning and Environment Committee BE APPROVED, with the exception of item 7 (3.1).
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (11-0)
+
+### 8.2.7. (3.1) Demolition Request and Heritage Alteration Permit Application at 66 Blackfriars Street
+
+> That, on the recommendation of the Director, Housing and Community Growth, the application under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a proposed building, as described, herein, and appended in Appendix “E”, on the pro...
+
+**✅ Motion Passed (10 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.3. 3rd Report of the Infrastructure and Corporate Services Committee
+
+> That the 3rd Report of the Infrastructure and Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (10 to 0)**
+
+Unanimous (10-0)
 ---
 
 ## Full Transcript
@@ -2210,209 +2415,3 @@ Sorry, just a minor glitch. We're good looking for a motion to adjourn. Councilo
 All those in favor. Thank you, everyone. We are adjourned.
 
 </details>
-
----
-
-## Votes
-
-*17 substantive votes at this meeting (7 contested, 10 unanimous). Procedural motions excluded.*
-
-### 1. Disclosures of Pecuniary Interest
-
-> That, pursuant to section 6.4 of the Council Procedure By-law, a change in order of the Council Agenda BE APPROVED, to provide for Item 7.1 in Stage 7, Motions for Which Notice is Given, to be considered after Stage 2, Recognitions.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 7.1. Mayor J. Morgan - Supporting Our Local and Broader Canadian Economy During Ongoing Trade Uncertainties
-
-> That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Mayor J. Morgan to move a motion related to item 7.1 on the Council Agenda related to Mayor J. Morgan’s submission regarding Supporting Our Local and Broader Canadian Economy During Ongoing Trade Uncertainties.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 7.1. Mayor J. Morgan - Supporting Our Local and Broader Canadian Economy During Ongoing Trade Uncertainties
-
-> Motion to amend part b) to read as follows: b)       the Mayor BE REQUESTED to advocate to the federal and provincial governments for revisions to trade agreements or policies that restrict municipalities from giving preference to Canadian companies, and in particular local businesses, in the pro...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 7.1. Mayor J. Morgan - Supporting Our Local and Broader Canadian Economy During Ongoing Trade Uncertainties
-
-> That item 7.1, as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.1. 3rd Report of the Community and Protective Services Committee
-
-> That the 3rd Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 5 (2.4), 6 (2.5) and 8 (4.1).
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 8.1.5. (2.4) Whole of Community System Response - Q4 Quarterly Report
-
-> That, on the recommendation of the Deputy Manager, Social and Health Development, the staff report dated January 27, 2025, with respect to the Whole of Community System Response Q4 Quarterly Report, BE RECEIVED. (2025-S14)
-
-**✅ Motion Passed (11 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
-
-> that part d) relating to an amendment to the existing Municipal Purchase of Service agreement with The Ark Aid Street Mission for the period of April 1, 2025 to March 31, 2026 BE REFERRED to Civic Administration to examine options for beds in place of day drop-in spaces, with any service provider...
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
-
-> Motion to refer part h): h)   the use of Housing Stability Services budget for a total amount of up to $1,400,000 BE REFERRED to a future meeting of Community and Protective Services Committee for Civic Administration to provide an operational plan on how to provide basic human needs using the UH...
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
-
-> That the motion be amended to delete references to funding for the annual shortfall for the daytime drop in space and the Ark Aid Street Mission to provide 12 women’s only beds at the CMHA My Sister’s Place and to read as follows: e)    the Civic Administration BE DIRECTED to find a source of fun...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
-
-> Motion to refer part b): that part b) relating to an amendment to the existing Municipal Purchase of Service agreement with The Ark Aid Street Mission to a total estimated increase of up to $3,068,348 (excluding HST) for the period of April 1, 2025 to March 31, 2026 to continue 70 emergency shelt...
-
-**✅ Motion Passed (8 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
-
-> That part e), as amended, BE APPROVED: e)    the Civic Administration BE DIRECTED to find a source of funding for an estimated total of $157,860 for the Ark Aid Street Mission to provide 10 spaces at their Oxford Street supported housing location; At 4:10 PM, Deputy Mayor S. Lewis, places Council...
-
-**❌ Motion Failed (3 to 9)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
-
-> That parts f) and g) BE APPROVED: f)    an extension to the existing Municipal Purchase of Service agreement with Atlohsa Family Healing Services at a total estimated increase of up to $33,750 (excluding HST) for the period of January 1, 2025 to March 31, 2025 BE APPROVED to temporarily expand in...
-
-**✅ Motion Passed (9 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 8.1.6. (2.5) Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
-
-> That the balance of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 8.1.8. (4.1) Bob Hayward YMCA at 1050 Hamilton Road
-
-> That the Civic Administration BE DIRECTED to explore affordable housing development opportunities with the YMCA of Southwestern Ontario regarding their property at 1050 Hamilton Road; it being noted that these discussions and any partnerships or property acquisitions that come from them would be ...
-
-**✅ Motion Passed (11 to 0)**
-
-Unanimous (11-0)
-
-### 8.2. 3rd Report of the Planning and Environment Committee
-
-> That the 3rd Report of Planning and Environment Committee BE APPROVED, with the exception of item 7 (3.1).
-
-**✅ Motion Passed (11 to 0)**
-
-Unanimous (11-0)
-
-### 8.2.7. (3.1) Demolition Request and Heritage Alteration Permit Application at 66 Blackfriars Street
-
-> That, on the recommendation of the Director, Housing and Community Growth, the application under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a proposed building, as described, herein, and appended in Appendix “E”, on the pro...
-
-**✅ Motion Passed (10 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 8.3. 3rd Report of the Infrastructure and Corporate Services Committee
-
-> That the 3rd Report of the Infrastructure and Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (10 to 0)**
-
-Unanimous (10-0)
-

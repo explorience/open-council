@@ -352,6 +352,36 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 
 The meeting adjourned at 5:23 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. School Planning
+
+> That the Civic Administration BE DIRECTED to provide an information report at a future meeting of the Community and Protective Services Committee with respect to the roles and responsibilities of the local school boards and how the City of London interacts with the boards related to the items lis...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.3. London's Climate Emergency Declaration - Fireworks - REQUEST FOR DELEGATION STATUS
+
+> Motion to approve the delegation request from R. Amendola BE APPROVED to be heard at this meeting.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -636,34 +666,3 @@ Mr. Lewis. I will vote yes. Closing the vote.
 The motion carries six to zero.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.7 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. School Planning
-
-> That the Civic Administration BE DIRECTED to provide an information report at a future meeting of the Community and Protective Services Committee with respect to the roles and responsibilities of the local school boards and how the City of London interacts with the boards related to the items lis...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.3. London's Climate Emergency Declaration - Fireworks - REQUEST FOR DELEGATION STATUS
-
-> Motion to approve the delegation request from R. Amendola BE APPROVED to be heard at this meeting.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

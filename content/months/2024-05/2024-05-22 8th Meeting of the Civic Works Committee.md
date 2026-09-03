@@ -480,6 +480,53 @@ None.
 
 
 The meeting adjourned at 11:39 PM.
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.11 and 2.13 to 2.14 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.12. Update and Next Steps for Gasoline Powered Lawn and Garden Equipment
+
+> Motion to approve parts a), b) and c) of the clause.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.12. Update and Next Steps for Gasoline Powered Lawn and Garden Equipment
+
+> Motion to approve part d) of the clause.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.1. Transit, Road Network and Active Transportation Planning for West London – Councillor S. Trosow
+
+> That the following actions be taken with respect to Road Network and Active Transportation Planning in West London: a)    the Civic Administration BE DIRECTED to report back to the Civic Works Committee on transit, road network and active transportation planning for West London; b)    the Civic A...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -1044,51 +1091,3 @@ Opposing the vote, the motion carries four to zero. Moving on, deferred matters,
 That's carried, thanks everyone.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.11 and 2.13 to 2.14 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.12. Update and Next Steps for Gasoline Powered Lawn and Garden Equipment
-
-> Motion to approve parts a), b) and c) of the clause.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.12. Update and Next Steps for Gasoline Powered Lawn and Garden Equipment
-
-> Motion to approve part d) of the clause.
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.1. Transit, Road Network and Active Transportation Planning for West London – Councillor S. Trosow
-
-> That the following actions be taken with respect to Road Network and Active Transportation Planning in West London: a)    the Civic Administration BE DIRECTED to report back to the Civic Works Committee on transit, road network and active transportation planning for West London; b)    the Civic A...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-

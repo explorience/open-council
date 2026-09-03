@@ -1116,6 +1116,76 @@ The Planning and Environment Committee convenes, in Closed Session, from 10:13 P
 
 
 The meeting adjourned at 10:44 PM
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.6. Parking Standards Review (OZ-9520)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Parking Standards Review: a)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix B, BE INTRODUCED at the Municipal Council meeting to be held o...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
+
+</details>
+
+### 3.7. 2009 Wharncliffe Road South (OZ-9348)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2425293 Ontario Inc., relating to the property located at 2009 Wharncliffe Road South: a)    the proposed by-law appended to the staff report dated July 25, 202...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.10. 1067, 1069, and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+> That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 10...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
+
+</details>
+
+### 3.10. 1067, 1069, and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+> That M. Campbell's delegation BE EXTENDED beyond five minutes.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.11. 574 Southdale Road East (Z-9481)
+
+> Motion to consider Item 3.11 to after Item 3.5.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -2734,74 +2804,3 @@ I'd like to report out the progress was made on the matter to go into camera in 
 Can we do a hand vote? All those in favor? Thank you and enjoy your evening, good night. Glad I didn't miss it.
 
 </details>
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.7, inclusive, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.6. Parking Standards Review (OZ-9520)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Parking Standards Review: a)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix B, BE INTRODUCED at the Municipal Council meeting to be held o...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
-
-**Absent (1):** [Ed Holder](/councillors/former/e-holder)
-
-</details>
-
-### 3.7. 2009 Wharncliffe Road South (OZ-9348)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2425293 Ontario Inc., relating to the property located at 2009 Wharncliffe Road South: a)    the proposed by-law appended to the staff report dated July 25, 202...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.10. 1067, 1069, and 1071 Wellington Road (OZ-9263 / Z-9264)
-
-> That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 10...
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
-
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
-
-</details>
-
-### 3.10. 1067, 1069, and 1071 Wellington Road (OZ-9263 / Z-9264)
-
-> That M. Campbell's delegation BE EXTENDED beyond five minutes.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.11. 574 Southdale Road East (Z-9481)
-
-> Motion to consider Item 3.11 to after Item 3.5.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

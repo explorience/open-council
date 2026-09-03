@@ -305,6 +305,28 @@ The meeting adjourned at 10:30 AM.
 > **Motion Passed**
 
 ****
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.2. (ADDED) Service London Portal Request
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee on the feasibility of having a request button on the Service London Portal to report property standards violations and/or property naturalization violations.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -637,26 +659,3 @@ Looking for a motion to adjourn. Councillor Frank seconded by. Councillor Pribbl
 Thank you, Councillor Ferreira. And with that, I adjourn the meeting.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.8 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.2. (ADDED) Service London Portal Request
-
-> That the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee on the feasibility of having a request button on the Service London Portal to report property standards violations and/or property naturalization violations.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

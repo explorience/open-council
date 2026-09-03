@@ -657,6 +657,324 @@ That the meeting BE RECESSED.
 The meeting recessed at 3:57 PM.
 
 ****
+
+---
+
+## Votes
+
+*21 substantive votes at this meeting (20 contested, 1 unanimous). Procedural motions excluded.*
+
+### 3.4. Amendment - Adj. #4
+
+> That the Mayor’s 2024-2027 Multi Year Budget BE AMENDED to remove Adj. #4 – Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget) as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Pr...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.5. Amendment - Reserve Fund
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to reduce the current Industrial Lands Reserve Fund contribution by $1 million for 2024 only, noting it would have a 0.1% reduction on the 2024 property tax levy.
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.6. Amendment - Business Case #P-9
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case # P-9 – Giwetashkad Implementation.
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 3.7. Amendment - Business Case #P-26
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-26 – Community Gardens Program Expansion to Support Food Security as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, ...
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.8. Amendment - Business Case #P-29
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to reduce Business Case #P-29 – Police Vehicle and Equipment Requirements by $90,000 each year.
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.8. Amendment - Business Case #P-29
+
+> That the Committee recess at this time, for 1 hour and 15 minutes.
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.9. Amendment - Business Case #P-31
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include funding for “Action #3: Extension of Parks Operations Services” of Business Case #P-31 – Parks Operations Service Delivery Enhancements as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strat...
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.10. Amendment - Business Case #P-37
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-37 – CMHA Holly’s House.
+
+**❌ Motion Failed (1 to 14)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Nay (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.11. Amendment - Business Case #P-38
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include administration fees (15%) to Business Case #P-38 – City of London Community Arts Investment Program Expansion (Amended – Reduction in Funding from Original Case). 2024 Operating Expenditures: $15,000, Tax Levy: $15,000 2025 Operat...
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.11. Amendment - Business Case #P-38
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-38 – City of London Community Arts Investment Program Expansion (Amended – Reduction in Funding from Original Case).
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 3.12. Amendment - Business Case #P-42
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to fund 50% of Initiative 10 in Business Case #P-42 – 5-Year Community Improvement Plan (CIP) Review Implementation (Amended – Initiatives 12 & 14 only), starting in 2026. 2024 Operating Expenditures: 0, Tax Levy: 0 2025 Operating Expenditur...
+
+**❌ Motion Failed (3 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.13. Amendment - Business Case #P-27
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-27 – Neighbourhood Decision Making Program Expansion.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.14. Amendment - Business Case #P-34
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-34 – City Hall Main Lobby Security Guard.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Corrine Rahman](/councillors/current/c-rahman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 3.15. Amendment - Business Case #P-39
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include funding at $100,000 a year for Business Case #P-39 – The Grand Theatre: Increasing Community Access to & Participation in the Arts as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic ...
+
+**❌ Motion Failed (7 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.15. Amendment - Business Case #P-39
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include funding at $100,000 a year for Business Case #P-39 – The Grand Theatre: Increasing Community Access to & Participation in the Arts as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic ...
+
+**❌ Motion Failed (6 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 3.16. Amendment - Business Case #P-48
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-48 – Canadian Mental Health Transitional Case Worker – London Public Library as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on De...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.17. Amendment - Business Case #P-53
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include only Road Safety Initiative #2 “Improvements to the On-Road Pavement Marking Maintenance Process” of Business Case #P-53 – Road Safety Enhancements as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3.18. Amendment - Business Case #P-63
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-63 – Silver Creek Ecological Enhancements as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, and that the imple...
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.19. Amendment - Business Case #P-2
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing Business Case #P-2 – Vehicle and Equipment Replacement to spread the reserve fund repayments over 6 years instead of 5 years: 2024 Operating Expenditures: - $417,000, Tax Levy: - $417,000 2025 Operating Expenditures: - $417,000, ...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 3.20. Amendment - Business Case #P-56
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by adjusting funding to Initiative 3.b of Business Case #P-56 – Climate Emergency Action Plan (CEAP) Implementation Support by reducing the contribution to the new Climate Change Investment Fund by $750,000 in 2024 and increasing the contrib...
+
+**❌ Motion Failed (3 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 7. Adjournment
+
+> That the meeting BE RECESSED.
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
 ---
 
 ## Full Transcript
@@ -2307,322 +2625,3 @@ There is no debate procedurally on a motion to recess. OK, so motion to recess i
 So if you would like to recess for the day, this is the vote. Posing the vote, motion carries 9 to 6. OK, we're recessed, and please get any potential amendments into the clerk and myself, or even notification, as soon as possible.
 
 </details>
-
----
-
-## Votes
-
-*21 substantive votes at this meeting (20 contested, 1 unanimous). Procedural motions excluded.*
-
-### 3.4. Amendment - Adj. #4
-
-> That the Mayor’s 2024-2027 Multi Year Budget BE AMENDED to remove Adj. #4 – Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget) as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Pr...
-
-**❌ Motion Failed (5 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.5. Amendment - Reserve Fund
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to reduce the current Industrial Lands Reserve Fund contribution by $1 million for 2024 only, noting it would have a 0.1% reduction on the 2024 property tax levy.
-
-**✅ Motion Passed (8 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.6. Amendment - Business Case #P-9
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case # P-9 – Giwetashkad Implementation.
-
-**❌ Motion Failed (4 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 3.7. Amendment - Business Case #P-26
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-26 – Community Gardens Program Expansion to Support Food Security as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, ...
-
-**✅ Motion Passed (10 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.8. Amendment - Business Case #P-29
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to reduce Business Case #P-29 – Police Vehicle and Equipment Requirements by $90,000 each year.
-
-**❌ Motion Failed (6 to 9) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.8. Amendment - Business Case #P-29
-
-> That the Committee recess at this time, for 1 hour and 15 minutes.
-
-**❌ Motion Failed (4 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.9. Amendment - Business Case #P-31
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include funding for “Action #3: Extension of Parks Operations Services” of Business Case #P-31 – Parks Operations Service Delivery Enhancements as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strat...
-
-**❌ Motion Failed (6 to 9) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.10. Amendment - Business Case #P-37
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-37 – CMHA Holly’s House.
-
-**❌ Motion Failed (1 to 14)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Nay (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.11. Amendment - Business Case #P-38
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include administration fees (15%) to Business Case #P-38 – City of London Community Arts Investment Program Expansion (Amended – Reduction in Funding from Original Case). 2024 Operating Expenditures: $15,000, Tax Levy: $15,000 2025 Operat...
-
-**✅ Motion Passed (8 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.11. Amendment - Business Case #P-38
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-38 – City of London Community Arts Investment Program Expansion (Amended – Reduction in Funding from Original Case).
-
-**❌ Motion Failed (5 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 3.12. Amendment - Business Case #P-42
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to fund 50% of Initiative 10 in Business Case #P-42 – 5-Year Community Improvement Plan (CIP) Review Implementation (Amended – Initiatives 12 & 14 only), starting in 2026. 2024 Operating Expenditures: 0, Tax Levy: 0 2025 Operating Expenditur...
-
-**❌ Motion Failed (3 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.13. Amendment - Business Case #P-27
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-27 – Neighbourhood Decision Making Program Expansion.
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 3.14. Amendment - Business Case #P-34
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-34 – City Hall Main Lobby Security Guard.
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Corrine Rahman](/councillors/current/c-rahman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 3.15. Amendment - Business Case #P-39
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include funding at $100,000 a year for Business Case #P-39 – The Grand Theatre: Increasing Community Access to & Participation in the Arts as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic ...
-
-**❌ Motion Failed (7 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.15. Amendment - Business Case #P-39
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include funding at $100,000 a year for Business Case #P-39 – The Grand Theatre: Increasing Community Access to & Participation in the Arts as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic ...
-
-**❌ Motion Failed (6 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 3.16. Amendment - Business Case #P-48
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-48 – Canadian Mental Health Transitional Case Worker – London Public Library as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on De...
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.17. Amendment - Business Case #P-53
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include only Road Safety Initiative #2 “Improvements to the On-Road Pavement Marking Maintenance Process” of Business Case #P-53 – Road Safety Enhancements as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 3.18. Amendment - Business Case #P-63
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-63 – Silver Creek Ecological Enhancements as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, and that the imple...
-
-**❌ Motion Failed (6 to 9) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.19. Amendment - Business Case #P-2
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing Business Case #P-2 – Vehicle and Equipment Replacement to spread the reserve fund repayments over 6 years instead of 5 years: 2024 Operating Expenditures: - $417,000, Tax Levy: - $417,000 2025 Operating Expenditures: - $417,000, ...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 3.20. Amendment - Business Case #P-56
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by adjusting funding to Initiative 3.b of Business Case #P-56 – Climate Emergency Action Plan (CEAP) Implementation Support by reducing the contribution to the new Climate Change Investment Fund by $750,000 in 2024 and increasing the contrib...
-
-**❌ Motion Failed (3 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 7. Adjournment
-
-> That the meeting BE RECESSED.
-
-**✅ Motion Passed (9 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-

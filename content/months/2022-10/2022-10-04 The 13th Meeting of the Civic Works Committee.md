@@ -253,6 +253,28 @@ The Civic Works Committee convened In Closed Session from 12:23 PM to 12:52 PM.
 
 
 The meeting adjourned at 12:54 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 5.2. (ADDED) Greenway and Adelaide Wastewater Treatment Plants Climate Change Resiliency Detailed Design Consultant Award
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated October 4, 2022, related to the Greenway and Adelaide Wastewater Treatment Plants Climate Change Resiliency Detailed Design Consultant Awa...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -387,26 +409,3 @@ I'd like to report out on confidential session that progress was made on items 6
 It confirmed we are adjourned. Thank you, everyone, and wishing you a wonderful week.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.4 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 5.2. (ADDED) Greenway and Adelaide Wastewater Treatment Plants Climate Change Resiliency Detailed Design Consultant Award
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated October 4, 2022, related to the Greenway and Adelaide Wastewater Treatment Plants Climate Change Resiliency Detailed Design Consultant Awa...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

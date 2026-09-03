@@ -891,6 +891,70 @@ The Planning and Environment Committee convened, in Closed Session, from 7:15 PM
 
 
 The meeting adjourned at 7:38 PM.
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.8 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill 23) (OZ-9581)
+
+> Motion to add a new clause d) which reads as follows: "d)  the Civic Administration BE DIRECTED to undertake a review of the current parking and driveway width policies in additional residential units;"
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 3.6. 644-646 Huron Street (OZ-9580)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2614442 Ontario Inc. relating to the property located at 644-646 Huron Street: a)    the attached, revised, proposed by-law to amend the Official P...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.7. 1120-1126 Oxford Street East and 2 & 6 Clemens Street (Z-9560)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2863382 Ontario Inc. c/o Royal Premier Developments, relating to the properties located at 1120-1126 Oxford Street East and 2 and 6 Clemens Street: a)    consis...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.8. 129-131 Base Line Road West (Z-9578)
+
+> Motion to separate clause a) from the recommendation to be voted on separately: "a) the revised, attached, proposed by-law appended to the staff report dated May 23, 2023 as Appendix "A" BE INTRODUCED at the Municipal Council meeting on June 6, 2023, to amend Zoning By-law No. Z.-1, (in conformit...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1753,68 +1817,3 @@ As always, Chair, I'm happy to report out that on item 6.1, confidential item on
 Deputy Mayor, seconded by Councillor Frank, all in favor, and we are adjourned. Thank you, folks.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.8 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill 23) (OZ-9581)
-
-> Motion to add a new clause d) which reads as follows: "d)  the Civic Administration BE DIRECTED to undertake a review of the current parking and driveway width policies in additional residential units;"
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
-
-**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 3.6. 644-646 Huron Street (OZ-9580)
-
-> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2614442 Ontario Inc. relating to the property located at 644-646 Huron Street: a)    the attached, revised, proposed by-law to amend the Official P...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.7. 1120-1126 Oxford Street East and 2 & 6 Clemens Street (Z-9560)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2863382 Ontario Inc. c/o Royal Premier Developments, relating to the properties located at 1120-1126 Oxford Street East and 2 and 6 Clemens Street: a)    consis...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.8. 129-131 Base Line Road West (Z-9578)
-
-> Motion to separate clause a) from the recommendation to be voted on separately: "a) the revised, attached, proposed by-law appended to the staff report dated May 23, 2023 as Appendix "A" BE INTRODUCED at the Municipal Council meeting on June 6, 2023, to amend Zoning By-law No. Z.-1, (in conformit...
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-

@@ -164,6 +164,28 @@ That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Tro
 
 
 The meeting adjourned at 4:37 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. (ADDED) Councillor S. Trosow – Amendment to the Streets By-law (S-1) to Regulate the Display of Graphic Images on the Streets in the City of London
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 5 minutes with respect to this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -340,26 +362,3 @@ Thank you, that concludes our deferred matter in additional business, which move
 We are now adjourned.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. (ADDED) Councillor S. Trosow – Amendment to the Streets By-law (S-1) to Regulate the Display of Graphic Images on the Streets in the City of London
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 5 minutes with respect to this matter.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

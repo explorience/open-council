@@ -655,6 +655,52 @@ b) clauses 1.1, 3.1, 3.2 and 3.3, 4.1, 5.1 to 5.6, inclusive, BE APPROVED.
 
 
 The meeting adjourned at 5:07 PM.
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Heritage Alteration Permit Application - 520 Ontario Street - Old East Heritage Conservation District
+
+> That, on the recommendation of the Director, Planning and Development, the application made under Section 42 of the Ontario Heritage Act to erect a new house on the property located at 520 Ontario Street, within the Old East Heritage Conservation District, BE PERMITTED as proposed in the drawings...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Heritage Alteration Permit Application - 520 Ontario Street - Old East Heritage Conservation District
+
+> That the request for delegation status by U. Hecht relating to the property located at 520 Ontario Street BE GRANTED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Facilitation of London as a Bird Friendly City by Nature Canada - B. Samuels, Coordinator, Bird Friendly London
+
+> Whereas bird populations in North America are declining at alarming rates due to human factors that require urgent corrective actions to address; Whereas the City of London and its surrounding region are home to many species of birds that migrate through or occur here throughout the year; Whereas...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. (ADDED) 9th Report of the Community Advisory Committee on Planning
+
+> That the following actions be taken with respect to the 9th Report of the Community Advisory Committee on Planning, from its meeting held on August 9, 2023:     a)    the revised Working Group comments appended to the Community Advisory Committee on Planning Report, with respect to the property l...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1001,50 +1047,3 @@ So that concludes the business at hand. I'll look for a motion to adjourned. Cou
 Thank you. Motion. Committee is adjourned.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.3 and 2.4 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.2. Heritage Alteration Permit Application - 520 Ontario Street - Old East Heritage Conservation District
-
-> That, on the recommendation of the Director, Planning and Development, the application made under Section 42 of the Ontario Heritage Act to erect a new house on the property located at 520 Ontario Street, within the Old East Heritage Conservation District, BE PERMITTED as proposed in the drawings...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.2. Heritage Alteration Permit Application - 520 Ontario Street - Old East Heritage Conservation District
-
-> That the request for delegation status by U. Hecht relating to the property located at 520 Ontario Street BE GRANTED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Facilitation of London as a Bird Friendly City by Nature Canada - B. Samuels, Coordinator, Bird Friendly London
-
-> Whereas bird populations in North America are declining at alarming rates due to human factors that require urgent corrective actions to address; Whereas the City of London and its surrounding region are home to many species of birds that migrate through or occur here throughout the year; Whereas...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. (ADDED) 9th Report of the Community Advisory Committee on Planning
-
-> That the following actions be taken with respect to the 9th Report of the Community Advisory Committee on Planning, from its meeting held on August 9, 2023:     a)    the revised Working Group comments appended to the Community Advisory Committee on Planning Report, with respect to the property l...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

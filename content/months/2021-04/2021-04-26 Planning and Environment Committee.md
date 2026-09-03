@@ -376,6 +376,36 @@ None.
 
 
 The meeting adjourned at 4:50 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 to 2.6, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. 420 Fanshawe Park Road East (H-9320)
+
+> That, on the recommendation of the Director, Development Services, with respect to the application by 2431602 Ontario Limited, relating to the property located at 420 Fanshawe Park Road East, the proposed by-law appended to the staff report dated April 26, 2021 as Appendix “A” BE INTRODUCED at th...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.1. 3rd Report of the Environmental and Ecological Planning Advisory Committee
+
+> Motion to approve the following: "c) the Civic Administration BE REQUESTED to report back at a future Planning and Environment Committee meeting with respect to the feasibility of continuing with the homeowner education package as part of Special Provisions or to replace it with a requirement to ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -698,34 +728,3 @@ There are no items for no deferred matters of additional business, so I just nee
 Thank you. - Thank you.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.2 to 2.6, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.1. 420 Fanshawe Park Road East (H-9320)
-
-> That, on the recommendation of the Director, Development Services, with respect to the application by 2431602 Ontario Limited, relating to the property located at 420 Fanshawe Park Road East, the proposed by-law appended to the staff report dated April 26, 2021 as Appendix “A” BE INTRODUCED at th...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.1. 3rd Report of the Environmental and Ecological Planning Advisory Committee
-
-> Motion to approve the following: "c) the Civic Administration BE REQUESTED to report back at a future Planning and Environment Committee meeting with respect to the feasibility of continuing with the homeowner education package as part of Special Provisions or to replace it with a requirement to ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

@@ -790,6 +790,59 @@ The meeting adjourned at 3:25 PM.
 > **Motion Passed**
 
 ****
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5 with the exception of items 2.2 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 6555 and 6595 Royal Magonlia Avenue (OZ-9702)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by W3 Lambeth Farms Inc. (c/o Strik Baldinelli Moniz (SMB) Ltd.), relating to the property located at 6555 and 6595 Royal Magnolia Avenue: a) the following actions...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 379-390 Hewitt Street and 748 King Street (Z-9718)
+
+> That, the following actions be taken with respect to the application of East Village Holdings Limited relating to the property located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street: a) the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.6. 2331 Kilally Road and 1588 Clarke Road (39T-20502/OZ-9244)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the properties located at 2331 Kilally Road and 1588 Clarke Road: a)    the proposed by-law appended to the staff report ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Upper Thames River Conservation Authority Service Level Review
+
+> That the following individuals BE GRANTED delegation status with respect to the UTRCA Service Level review: - M. Wallace, London Development Institute; - T. Annett, General Manager Upper Thames River Conservation Authority (UTRCA); - B. Petrie, Chair, UTRCA Board of Directors; and, - J. Allain, M...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1460,57 +1513,3 @@ Councillor ramen seconded by Councillor Frank. Hand vote. Closing the vote. Moti
 Thank you, everybody. Check it out.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.5 with the exception of items 2.2 and 2.4 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.3. 6555 and 6595 Royal Magonlia Avenue (OZ-9702)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by W3 Lambeth Farms Inc. (c/o Strik Baldinelli Moniz (SMB) Ltd.), relating to the property located at 6555 and 6595 Royal Magnolia Avenue: a) the following actions...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 379-390 Hewitt Street and 748 King Street (Z-9718)
-
-> That, the following actions be taken with respect to the application of East Village Holdings Limited relating to the property located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street: a) the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council ...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 3.6. 2331 Kilally Road and 1588 Clarke Road (39T-20502/OZ-9244)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the properties located at 2331 Kilally Road and 1588 Clarke Road: a)    the proposed by-law appended to the staff report ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Upper Thames River Conservation Authority Service Level Review
-
-> That the following individuals BE GRANTED delegation status with respect to the UTRCA Service Level review: - M. Wallace, London Development Institute; - T. Annett, General Manager Upper Thames River Conservation Authority (UTRCA); - B. Petrie, Chair, UTRCA Board of Directors; and, - J. Allain, M...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

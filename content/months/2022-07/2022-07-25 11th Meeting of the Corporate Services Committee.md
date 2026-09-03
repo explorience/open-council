@@ -347,6 +347,35 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:03 PM.
 
 ****
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+> That Items 4.1, 4.2, and 4.4 to 4.6, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.3. Application - Issuance of Proclamation - 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone
+
+> That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/former/e-holder), [Maureen Cassidy](/councillors/former/m-cassidy), [Mariam Hamou](/councillors/former/m-hamou)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+</details>
 ---
 
 ## Full Transcript
@@ -455,33 +484,3 @@ So committee members, I will look for a motion to adjourn. He wants to stay. Oka
 All those in favor, we can do this by hand. Motion's carried. Thank you, everyone. And if you're keen on continuing committee work planning and environment committee starts at four.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4. Items for Direction
-
-> That Items 4.1, 4.2, and 4.4 to 4.6, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.3. Application - Issuance of Proclamation - 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone
-
-> That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/former/e-holder), [Maureen Cassidy](/councillors/former/m-cassidy), [Mariam Hamou](/councillors/former/m-hamou)
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-</details>
-

@@ -324,6 +324,51 @@ None.
 
 
 The meeting adjourned at 10:30 AM.
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.3 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. Councillor S. Franke - Planned Green Municipal Fund Project Applications in the Next 12-24 Months Request
+
+> The communication dated July 11, 2024, from Councillor S. Franke, with respect to a request for a report back to a future meeting of the Civic Works Committee regarding the Planned Green Municipal Fund Project Applications in the next 12-24 months BE REFERRED to the Strategic Priorities and Polic...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Councillor H. McAlister - Update to the Hamilton Road Streetscape Master Plan
+
+> Motion to amend the motion to remove "including, but not limited to" from part a) of the main motion and insert "which could include" in its place.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Councillor H. McAlister - Update to the Hamilton Road Streetscape Master Plan
+
+> Motion to approve the motion, as amended.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
 ---
 
 ## Full Transcript
@@ -578,49 +623,3 @@ It's really up to the committee members to make that decision. I don't, I'm not 
 And with that, I am looking for a chairman, Councillor Frank and Councillor Ferrera. Hand vote, it's carried, thank you.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.3 to 2.6 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.1. Councillor S. Franke - Planned Green Municipal Fund Project Applications in the Next 12-24 Months Request
-
-> The communication dated July 11, 2024, from Councillor S. Franke, with respect to a request for a report back to a future meeting of the Civic Works Committee regarding the Planned Green Municipal Fund Project Applications in the next 12-24 months BE REFERRED to the Strategic Priorities and Polic...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Councillor H. McAlister - Update to the Hamilton Road Streetscape Master Plan
-
-> Motion to amend the motion to remove "including, but not limited to" from part a) of the main motion and insert "which could include" in its place.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Councillor H. McAlister - Update to the Hamilton Road Streetscape Master Plan
-
-> Motion to approve the motion, as amended.
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-

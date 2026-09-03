@@ -2125,6 +2125,169 @@ The meeting adjourns at 4:49 PM.
 > **Bill No. 143**
 > 
 > By-law No. L.S.P.-3507-101 - A by-law to expropriate lands in the City of London, in the County of Middlesex, for the Wellington Gateway Project - Phase 1. (Director, Realty Services)
+
+---
+
+## Votes
+
+*19 substantive votes at this meeting (1 contested, 18 unanimous). Procedural motions excluded.*
+
+### 6.1. Expropriation of Lands - Wellington Gateway Project - Phase I (As the "Approving Authority")
+
+> That Council convene as the Approving Authority pursuant to the provisions of the Expropriation Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Managing Director, Environmental and Engineering Services and City Engineer, with respect to the exprop...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 6.1. Expropriation of Lands - Wellington Gateway Project - Phase I (As the "Approving Authority")
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 6.2. Expropriation of Lands - Wellington Gateway Project - Phase I (As the "Expropriating Authority")
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1. 7th Report of the Planning and Environment Committee
+
+> That the 7th Report of the Planning and Environment Committee BE APPROVED, excluding items 6 (3.1), 8 (3.3), 9 (3.4) and 10 (3.5), it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to th...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.6. (3.1) Modifications to Public Site Plan Holding Provisions as a Result of Bill 23 (Z-9588) (Relates to Bill No. 135)
+
+> That item 6 (clause 3.1), as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.8. (3.3) Housekeeping Amendments to the London Plan (O-9555) (Relates to Bill No. 128)
+
+> That item 8 (clause 3.3), as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.9. (3.4) Official Plan and Zoning By-law Amendment - Street Width Policy Review (OZ-9584) (Relates to Bill No. 129 and 137)
+
+> That item 9 (clause 3.4), as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.10. (3.5) Zoning By-law Amendment - 300-320 King Street (Z-9570) (Relates to Bill No. 138)
+
+> That item 10 (clause 3.5) BE AMENDED by adding the following new part c): “c)        that the Civic Administration, including but not limited to the staff of the Municipal Housing Development team, BE DIRECTED to work with the applicant to provide for affordable housing units in the above-noted p...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.10. (3.5) Zoning By-law Amendment - 300-320 King Street (Z-9570) (Relates to Bill No. 138)
+
+> That item 10 (clause 3.5), as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2. 7th Report of the Corporate Services Committee
+
+> That the 7th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3. 7th Report of the Community and Protective Services Committee
+
+> That the 7th Report of the Community and Protective Services Committee BE APPROVED, excluding item 5 (clause 2.4).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4. 6th Report of the Civic Works Committee
+
+> That the 6th Report of the Civic Works Committee BE APPROVED, excluding item 10 (2.8).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.10. (2.8) Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion
+
+> That the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements and Environmental Study Report, Notice of Completion, BE REFERRED back to Civic Administration, in order to consider the concerns raised by the Civic Works Committee, including but not limited to pedes...
+
+**❌ Motion Failed (0 to 15)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (15):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.4.10. (2.8) Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion
+
+> The following actions BE TAKEN with respect to the Environmental Study Report for the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements:      a)    the Environmental Study Report for the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.5. 13th Report of the Strategic Priorities and Policy Committee
+
+> That the 13th Report of the Strategic Priorities and Policy Committee BE APPROVED. At 4:02 PM, Mayor J. Morgan places Councillor C. Rahman in the Chair. At 4:04 PM, Mayor J. Morgan resumes the Chair.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.6. 14th Report of the Strategic Priorities and Policy Committee
+
+> That the 14th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding Item 9 (5.2). At 4:18 PM, Mayor J. Morgan puts Councillor C. Rahman in the Chair. At 4:23 PM, Mayor J. Morgan resumes the Chair. At 4:34 PM, Councillor E. Peloza leaves the meeting.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 9.1. 7th Report of Council in Closed Session
+
+> 1.    Property Disposition – City-Owned Surplus Land – Part of 181 Hamilton Road        That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned surplus land located at 181 Hamilton Road, City of Londo...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 9.2. (ADDED) 8th Report of the Special Corporate Services Committee
+
+> That the 8th Report of the Corporate Services Committee Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 9.3. (ADDED) 7th Report of the Civic Works Committee
+
+> That the 8th Report of the Civic Works Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -2897,167 +3060,3 @@ This is by hand, all those in favor of adjournment? Motion carries. All right, t
 We'll see you when I get back.
 
 </details>
-
----
-
-## Votes
-
-*19 substantive votes at this meeting (1 contested, 18 unanimous). Procedural motions excluded.*
-
-### 6.1. Expropriation of Lands - Wellington Gateway Project - Phase I (As the "Approving Authority")
-
-> That Council convene as the Approving Authority pursuant to the provisions of the Expropriation Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Managing Director, Environmental and Engineering Services and City Engineer, with respect to the exprop...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 6.1. Expropriation of Lands - Wellington Gateway Project - Phase I (As the "Approving Authority")
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 6.2. Expropriation of Lands - Wellington Gateway Project - Phase I (As the "Expropriating Authority")
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1. 7th Report of the Planning and Environment Committee
-
-> That the 7th Report of the Planning and Environment Committee BE APPROVED, excluding items 6 (3.1), 8 (3.3), 9 (3.4) and 10 (3.5), it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to th...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.6. (3.1) Modifications to Public Site Plan Holding Provisions as a Result of Bill 23 (Z-9588) (Relates to Bill No. 135)
-
-> That item 6 (clause 3.1), as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.8. (3.3) Housekeeping Amendments to the London Plan (O-9555) (Relates to Bill No. 128)
-
-> That item 8 (clause 3.3), as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.9. (3.4) Official Plan and Zoning By-law Amendment - Street Width Policy Review (OZ-9584) (Relates to Bill No. 129 and 137)
-
-> That item 9 (clause 3.4), as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.10. (3.5) Zoning By-law Amendment - 300-320 King Street (Z-9570) (Relates to Bill No. 138)
-
-> That item 10 (clause 3.5) BE AMENDED by adding the following new part c): “c)        that the Civic Administration, including but not limited to the staff of the Municipal Housing Development team, BE DIRECTED to work with the applicant to provide for affordable housing units in the above-noted p...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.10. (3.5) Zoning By-law Amendment - 300-320 King Street (Z-9570) (Relates to Bill No. 138)
-
-> That item 10 (clause 3.5), as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2. 7th Report of the Corporate Services Committee
-
-> That the 7th Report of the Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3. 7th Report of the Community and Protective Services Committee
-
-> That the 7th Report of the Community and Protective Services Committee BE APPROVED, excluding item 5 (clause 2.4).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4. 6th Report of the Civic Works Committee
-
-> That the 6th Report of the Civic Works Committee BE APPROVED, excluding item 10 (2.8).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4.10. (2.8) Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion
-
-> That the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements and Environmental Study Report, Notice of Completion, BE REFERRED back to Civic Administration, in order to consider the concerns raised by the Civic Works Committee, including but not limited to pedes...
-
-**❌ Motion Failed (0 to 15)**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (15):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.4.10. (2.8) Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion
-
-> The following actions BE TAKEN with respect to the Environmental Study Report for the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements:      a)    the Environmental Study Report for the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.5. 13th Report of the Strategic Priorities and Policy Committee
-
-> That the 13th Report of the Strategic Priorities and Policy Committee BE APPROVED. At 4:02 PM, Mayor J. Morgan places Councillor C. Rahman in the Chair. At 4:04 PM, Mayor J. Morgan resumes the Chair.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.6. 14th Report of the Strategic Priorities and Policy Committee
-
-> That the 14th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding Item 9 (5.2). At 4:18 PM, Mayor J. Morgan puts Councillor C. Rahman in the Chair. At 4:23 PM, Mayor J. Morgan resumes the Chair. At 4:34 PM, Councillor E. Peloza leaves the meeting.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 9.1. 7th Report of Council in Closed Session
-
-> 1.    Property Disposition – City-Owned Surplus Land – Part of 181 Hamilton Road        That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned surplus land located at 181 Hamilton Road, City of Londo...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 9.2. (ADDED) 8th Report of the Special Corporate Services Committee
-
-> That the 8th Report of the Corporate Services Committee Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 9.3. (ADDED) 7th Report of the Civic Works Committee
-
-> That the 8th Report of the Civic Works Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-

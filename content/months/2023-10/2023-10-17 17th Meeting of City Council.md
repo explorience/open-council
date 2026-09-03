@@ -1980,6 +1980,441 @@ The meeting adjourned at 6:24 PM.
 > **Bill No. 381**
 > 
 > By-law No. A.-8424-291 - A by-law to authorize and approve a Lease Agreement between The Corporation of the City of London and Centennial House Limited, for the lease of office space located at 520 Wellington Street being Unit 10, in the City of London, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/17/CSC)
+
+---
+
+## Votes
+
+*30 substantive votes at this meeting (21 contested, 9 unanimous). Procedural motions excluded.*
+
+### 6. Communications and Petitions
+
+> That the communications, with respect to the following, BE RECIEVED and BE REFERRED as noted on the Council Added Agenda: 6.1  1236 Southdale Road (Z-9634) 6.3  Urban Design Peer Review Panel 6.4  Deferred Matters List
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 6. Communications and Petitions
+
+> That the communications, with respect to the following, BE RECIEVED and BE REFERRED as noted on the Council Added Agenda: 6.2  50 King Street and 399 Ridout Street (OZ-9622)
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.1. 15th Report of the Community and Protective Services Committee
+
+> That the 15th Report of the Community and Protective Services Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2. 14th Report of the Civic Works Committee
+
+> That the 14th Report of the Civic Works Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3. 24th Report of the Special Strategic Priorities and Policy Committee
+
+> That the 24th Report of the Special Strategic Priorities and Policy Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4. 25th Report of the Strategic Priorities and Policy Committee
+
+> That the 25th Report of the Strategic Priorities and Policy Committee, excluding item 6 (4.2), item 7 (4.3), and item 8 (4.4), BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.6. (4.2) Consideration of Appointments to the London Transit Commission
+
+> That the following BE APPOINTED to the London Transit Commission for the term ending November 14, 2026: - Jacqueline Madden - David Little
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.4.7. (4.3) Lobbyist Registrar
+
+> That the Strategic Priorities and Policy Committee receive a communication dated October 10, 2023 from Councillors D. Ferreira and S. Franke with respect to the Lobbyist Registrar.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.4.7. (4.3) Lobbyist Registrar
+
+> That the Civic Administration BE DIRECTED to conduct a review and present a report on the feasibility, purpose, and associated expenses of implementing a mandatory municipal lobbyist registry. The review should encompass the establishment of a publicly accessible electronic portal for tracking lo...
+
+**❌ Motion Failed (6 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.4.8. (4.4) Establishing Homes Ontario
+
+> That the following actions be taken with respect to correspondence from T. Kernaghan: a)    the correspondence from T. Kernaghan, Member of Provincial Parliament, London North Centre dated October 1, 2023 and entitled "Establishing Homes Ontario" BE RECEIVED; b)    the Government of Ontario BE AD...
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5. 16th Report of the Planning and Environment Committee
+
+> That the 16th Report of the Planning and Environment Committee, excluding item 7 (3.5) and item 8 (4.1), BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
+
+> That part c) of the clause BE FURTHER AMENDED with respect to part iv): iv) utilize visual markers, etched or stained glass to provide bird-friendly glazing, as consistent with the London Plan section 304;
+
+**✅ Motion Passed (10 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
+
+> That part c) of the clause BE AMENDED with respect to parts iv), and the addition of parts xiii) and xiv), as follows: iv) utilize visual markers, etched or stained glass to provide bird-friendly glazing, as consistent with the London Plan section 304; xiii) implement a robust solar installation ...
+
+**✅ Motion Passed (8 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (5):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
+
+> That Council rise and go into Council, In Closed Session, for the purpose of considering the following: A matter pertaining to solicitor-client privilege with respect to 50 King Street and 399 Ridout Street.
+
+**✅ Motion Passed (9 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
+
+> That item 7 (3.5), as amended, BE APPROVED.
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.8. (4.1) Urban Design Peer Review Panel
+
+> That the matter of the dissolution of the Urban Design Peer Review Panel BE REFERRED to a future meeting of the Planning and Environment Committee.
+
+**❌ Motion Failed (6 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.8. (4.1) Urban Design Peer Review Panel
+
+> That the motion BE AMENDED to add a part b) as follows: that Civic Administration BE DIRECTED to bring the Terms of Reference for the Community Advisory Committee on Planning (CACP) to a future Strategic Priorities and Policy Committee meeting for consideration of the inclusion of urban design.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.8. (4.1) Urban Design Peer Review Panel
+
+> Motion to AMEND by adding a part c) c)    that Civic Administration BE DIRECTED to provide an information report that addresses the matter of the Urban Design Awards and any other matters relevant to the dissolution of the Urban Design Peer Review Panel.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.8. (4.1) Urban Design Peer Review Panel
+
+> Motion to approve part a), as amended, to read as follows: that Civic Administration BE DIRECTED to take the necessary steps to provide for the immediate dissolution of the Urban Design Peer Review Panel;
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.8. (4.1) Urban Design Peer Review Panel
+
+> Motion to approve part b), as amended, to read as follows: that Civic Administration BE DIRECTED to bring the Terms of Reference for the Community Advisory Committee on Planning (CACP) back to a future Strategic Priorities and Policy Committee meeting for consideration of the inclusion of urban d...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.8. (4.1) Urban Design Peer Review Panel
+
+> Motion to APPROVE, as amended part c) c)    that Civic Administration BE DIRECTED to provide an information report that addresses the matter of the Urban Design Awards and any other matters relevant to the dissolution of the Urban Design Peer Review Panel.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.6. 17th Report of the Corporate Services Committee
+
+> That the 17th Report of the Corporate Services Committee, excluding item 6 (4.1), BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.6.6. (4.1) Budweiser Gardens Proposed Expansion - Additional Information and Proposed Amending Agreement (Relates to Bill No. 369)
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the report providing additional information on the proposed Budweiser Gardens Expansion BE RECEIVED for information; b)    the proposed by-law as appended to the staff report dated Octo...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 9.1. 14th Report of Council in Closed Session
+
+> 1.  Lease of Office Space - Lease Agreement – 520 Wellington Street, Unit 10 – Centennial House That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Fleet & Facilities, on the advice of the Director, Realty Services, with respect to the l...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No. 369, BE APPROVED.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No. 369, BE APPROVED.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 369, BE APPROVED.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No.'s 373 and 380, BE APPROVED.
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No.'s 373 and 380, BE APPROVED.
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No.'s 373 and 380, BE APPROVED.
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
 ---
 
 ## Full Transcript
@@ -3158,439 +3593,3 @@ Thank you colleagues. I'll now look for a motion to adjourn. Moved by Councilor 
 By motion carries. We are adjourned.
 
 </details>
-
----
-
-## Votes
-
-*30 substantive votes at this meeting (21 contested, 9 unanimous). Procedural motions excluded.*
-
-### 6. Communications and Petitions
-
-> That the communications, with respect to the following, BE RECIEVED and BE REFERRED as noted on the Council Added Agenda: 6.1  1236 Southdale Road (Z-9634) 6.3  Urban Design Peer Review Panel 6.4  Deferred Matters List
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 6. Communications and Petitions
-
-> That the communications, with respect to the following, BE RECIEVED and BE REFERRED as noted on the Council Added Agenda: 6.2  50 King Street and 399 Ridout Street (OZ-9622)
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.1. 15th Report of the Community and Protective Services Committee
-
-> That the 15th Report of the Community and Protective Services Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2. 14th Report of the Civic Works Committee
-
-> That the 14th Report of the Civic Works Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.3. 24th Report of the Special Strategic Priorities and Policy Committee
-
-> That the 24th Report of the Special Strategic Priorities and Policy Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4. 25th Report of the Strategic Priorities and Policy Committee
-
-> That the 25th Report of the Strategic Priorities and Policy Committee, excluding item 6 (4.2), item 7 (4.3), and item 8 (4.4), BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.6. (4.2) Consideration of Appointments to the London Transit Commission
-
-> That the following BE APPOINTED to the London Transit Commission for the term ending November 14, 2026: - Jacqueline Madden - David Little
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.4.7. (4.3) Lobbyist Registrar
-
-> That the Strategic Priorities and Policy Committee receive a communication dated October 10, 2023 from Councillors D. Ferreira and S. Franke with respect to the Lobbyist Registrar.
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.4.7. (4.3) Lobbyist Registrar
-
-> That the Civic Administration BE DIRECTED to conduct a review and present a report on the feasibility, purpose, and associated expenses of implementing a mandatory municipal lobbyist registry. The review should encompass the establishment of a publicly accessible electronic portal for tracking lo...
-
-**❌ Motion Failed (6 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.4.8. (4.4) Establishing Homes Ontario
-
-> That the following actions be taken with respect to correspondence from T. Kernaghan: a)    the correspondence from T. Kernaghan, Member of Provincial Parliament, London North Centre dated October 1, 2023 and entitled "Establishing Homes Ontario" BE RECEIVED; b)    the Government of Ontario BE AD...
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5. 16th Report of the Planning and Environment Committee
-
-> That the 16th Report of the Planning and Environment Committee, excluding item 7 (3.5) and item 8 (4.1), BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
-
-> That part c) of the clause BE FURTHER AMENDED with respect to part iv): iv) utilize visual markers, etched or stained glass to provide bird-friendly glazing, as consistent with the London Plan section 304;
-
-**✅ Motion Passed (10 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
-
-> That part c) of the clause BE AMENDED with respect to parts iv), and the addition of parts xiii) and xiv), as follows: iv) utilize visual markers, etched or stained glass to provide bird-friendly glazing, as consistent with the London Plan section 304; xiii) implement a robust solar installation ...
-
-**✅ Motion Passed (8 to 5) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (5):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
-
-> That Council rise and go into Council, In Closed Session, for the purpose of considering the following: A matter pertaining to solicitor-client privilege with respect to 50 King Street and 399 Ridout Street.
-
-**✅ Motion Passed (9 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
-
-> That item 7 (3.5), as amended, BE APPROVED.
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5.8. (4.1) Urban Design Peer Review Panel
-
-> That the matter of the dissolution of the Urban Design Peer Review Panel BE REFERRED to a future meeting of the Planning and Environment Committee.
-
-**❌ Motion Failed (6 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5.8. (4.1) Urban Design Peer Review Panel
-
-> That the motion BE AMENDED to add a part b) as follows: that Civic Administration BE DIRECTED to bring the Terms of Reference for the Community Advisory Committee on Planning (CACP) to a future Strategic Priorities and Policy Committee meeting for consideration of the inclusion of urban design.
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5.8. (4.1) Urban Design Peer Review Panel
-
-> Motion to AMEND by adding a part c) c)    that Civic Administration BE DIRECTED to provide an information report that addresses the matter of the Urban Design Awards and any other matters relevant to the dissolution of the Urban Design Peer Review Panel.
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5.8. (4.1) Urban Design Peer Review Panel
-
-> Motion to approve part a), as amended, to read as follows: that Civic Administration BE DIRECTED to take the necessary steps to provide for the immediate dissolution of the Urban Design Peer Review Panel;
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5.8. (4.1) Urban Design Peer Review Panel
-
-> Motion to approve part b), as amended, to read as follows: that Civic Administration BE DIRECTED to bring the Terms of Reference for the Community Advisory Committee on Planning (CACP) back to a future Strategic Priorities and Policy Committee meeting for consideration of the inclusion of urban d...
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5.8. (4.1) Urban Design Peer Review Panel
-
-> Motion to APPROVE, as amended part c) c)    that Civic Administration BE DIRECTED to provide an information report that addresses the matter of the Urban Design Awards and any other matters relevant to the dissolution of the Urban Design Peer Review Panel.
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.6. 17th Report of the Corporate Services Committee
-
-> That the 17th Report of the Corporate Services Committee, excluding item 6 (4.1), BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.6.6. (4.1) Budweiser Gardens Proposed Expansion - Additional Information and Proposed Amending Agreement (Relates to Bill No. 369)
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the report providing additional information on the proposed Budweiser Gardens Expansion BE RECEIVED for information; b)    the proposed by-law as appended to the staff report dated Octo...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 9.1. 14th Report of Council in Closed Session
-
-> 1.  Lease of Office Space - Lease Agreement – 520 Wellington Street, Unit 10 – Centennial House That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Fleet & Facilities, on the advice of the Director, Realty Services, with respect to the l...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 13. By-laws
-
-> That Introduction and First Reading of Bill No. 369, BE APPROVED.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 13. By-laws
-
-> That Second Reading of Bill No. 369, BE APPROVED.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Bill No. 369, BE APPROVED.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 13. By-laws
-
-> That Introduction and First Reading of Bill No.'s 373 and 380, BE APPROVED.
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 13. By-laws
-
-> That Second Reading of Bill No.'s 373 and 380, BE APPROVED.
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Bill No.'s 373 and 380, BE APPROVED.
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-

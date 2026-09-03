@@ -1194,6 +1194,75 @@ The Planning and Environment Committee convenes, in Closed Session, from 7:43 PM
 
 
 The meeting adjourned at 8:37 PM.
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice-Chair for the Term ending November 14, 2022
+
+> That Councillor S. Lehman BE ELECTED as Vice-Chair for the term ending November 14, 2022.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, inclusive, and 2.7 to 2.11, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.6. Transit-Oriented Secondary Plan Prioritization
+
+> That, on the recommendation of the Director, Planning and Development, the Transit-Oriented Secondary Plan Priority Areas, appended to the staff report dated December 13, 2021 as Appendix “A”, BE ENDORSED.  (2021-D09)
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.8. Environmental Management Guidelines
+
+> Motion to add a new part c) which reads as follows: c)  the bi-annual review as outlined in the Environmental Management Guidelines BE ADDED to the Planning and Environment Committee Deferred Matters List;
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Stephen Turner](/councillors/former/s-turner)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/former/e-holder)
+
+</details>
+
+### 3.9. 50 King Street - Demolition Request
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development with the advice of the Heritage Planner, the demolition request for the heritage designated property at 50 King Street, located in the Downtown Heritage Conservation District, BE PERMITTED pursuant to Sectio...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 5.1. Deferred Matters List
+
+> That the Deputy City Manager, Planning and Economic Development BE DIRECTED to provide current information related to the items on the Deferred Matters List to the Committee Clerk in order to update the List.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 5.2. (ADDED) 1st Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 1st Report of the London Advisory Committee on Heritage, from its meeting held on December 8, 2021: a)  on the recommendation of the Deputy City Manager, Planning and Economic Development, with the advice of the Heritage Planner, the demoli...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -2164,73 +2233,3 @@ Councillor Layman, seconded by Councillor Lewis. Chair, I'll vote yes. Closing t
 Make some changes.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
-
-### 1.2. Election of Vice-Chair for the Term ending November 14, 2022
-
-> That Councillor S. Lehman BE ELECTED as Vice-Chair for the term ending November 14, 2022.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2. Consent
-
-> That Items 2.1 to 2.5, inclusive, and 2.7 to 2.11, inclusive, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.6. Transit-Oriented Secondary Plan Prioritization
-
-> That, on the recommendation of the Director, Planning and Development, the Transit-Oriented Secondary Plan Priority Areas, appended to the staff report dated December 13, 2021 as Appendix “A”, BE ENDORSED.  (2021-D09)
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.8. Environmental Management Guidelines
-
-> Motion to add a new part c) which reads as follows: c)  the bi-annual review as outlined in the Environmental Management Guidelines BE ADDED to the Planning and Environment Committee Deferred Matters List;
-
-**❌ Motion Failed (3 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Stephen Turner](/councillors/former/s-turner)
-
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/former/e-holder)
-
-</details>
-
-### 3.9. 50 King Street - Demolition Request
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development with the advice of the Heritage Planner, the demolition request for the heritage designated property at 50 King Street, located in the Downtown Heritage Conservation District, BE PERMITTED pursuant to Sectio...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 5.1. Deferred Matters List
-
-> That the Deputy City Manager, Planning and Economic Development BE DIRECTED to provide current information related to the items on the Deferred Matters List to the Committee Clerk in order to update the List.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 5.2. (ADDED) 1st Report of the London Advisory Committee on Heritage
-
-> That, the following actions be taken with respect to the 1st Report of the London Advisory Committee on Heritage, from its meeting held on December 8, 2021: a)  on the recommendation of the Deputy City Manager, Planning and Economic Development, with the advice of the Heritage Planner, the demoli...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

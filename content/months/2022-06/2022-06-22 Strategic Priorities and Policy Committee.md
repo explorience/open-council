@@ -274,6 +274,20 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 6:46 PM.
 
 ****
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 5.1. (ADDED) Delegation - London: A Place to Call Home - Mike Wallace, Executive Director, London Development Institute (LDI)
+
+> That the presentation, and associated report, from M. Wallace and J. Zaifman, of London Development Institute and London Home Builders Association, respectively, with respect to “London: A Place to Call Home”, BE FORWARDED to the Civic Administration for review, with a request to provide a report...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -932,18 +946,3 @@ And with that, I'll look for motion to adjourn. Councilor Turner, second by Coun
 Thank you, colleagues, staff meeting adjourned.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 5.1. (ADDED) Delegation - London: A Place to Call Home - Mike Wallace, Executive Director, London Development Institute (LDI)
-
-> That the presentation, and associated report, from M. Wallace and J. Zaifman, of London Development Institute and London Home Builders Association, respectively, with respect to “London: A Place to Call Home”, BE FORWARDED to the Civic Administration for review, with a request to provide a report...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-

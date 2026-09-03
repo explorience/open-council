@@ -781,6 +781,284 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:39 PM.
 
 ****
+
+---
+
+## Votes
+
+*16 substantive votes at this meeting (16 contested, 0 unanimous). Procedural motions excluded.*
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> c)    the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix "A", as appended to the staff report dated May 22, 2025, and to bring forward the corresponding business case for inclusion in the Mayor’s pro...
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1    Roadway Maintenance – Reduced Summer Sidewalk Maintenance
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design – Reduced Road Network Improvements
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 3    Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4    Urban Forestry – Tree Planting Grants & Non-replacement Tree Planting
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5    Aquatics – Closure of 5 Wading Pools
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Peter Cuddy](/councillors/current/p-cuddy), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6    Corporate Management – Resident Satisfaction Survey
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7    Human Resources – Internships
+
+**❌ Motion Failed (1 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8    Information Technology – Digital Transformation
+
+**❌ Motion Failed (1 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 1    Traffic Control & Street Lighting - Eliminate Full Funding of New Streetlight Installations
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 2    Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 3    Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 2026 Annual Budget Update - Status Update
+
+> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5    Capital Financing – Climate Change Reserve Fund Contribution
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.2. Budget 2026 Cost Savings Opportunities - London Economic Development Corporation (LEDC) Review - Councillor S. Stevenson
+
+> That the communication dated May 11, 2025 from Councillor S. Stevenson regarding the budget 2026 cost saving opportunities regarding London Economic Development Corporation (LEDC) review BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee at which the LEDC is schedule...
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.3. Budget 2026 Cost Savings Opportunities - Cycling Lane Projects - Councillor S. Stevenson
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of the Budget Committee with a list of all approved future cycling lane projects, their location, timeline, budgeted capital costs, source of funding and estimated annual maintenance costs;
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1487,282 +1765,3 @@ Mr. Murray stated we're back here mid-June. So if you have things that you would
 Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hell and vote of all in favor. Motion carries. Thank you everyone, have a good day.
 
 </details>
-
----
-
-## Votes
-
-*16 substantive votes at this meeting (16 contested, 0 unanimous). Procedural motions excluded.*
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> c)    the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix "A", as appended to the staff report dated May 22, 2025, and to bring forward the corresponding business case for inclusion in the Mayor’s pro...
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1    Roadway Maintenance – Reduced Summer Sidewalk Maintenance
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design – Reduced Road Network Improvements
-
-**✅ Motion Passed (9 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 3    Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching
-
-**✅ Motion Passed (8 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4    Urban Forestry – Tree Planting Grants & Non-replacement Tree Planting
-
-**❌ Motion Failed (7 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5    Aquatics – Closure of 5 Wading Pools
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Peter Cuddy](/councillors/current/p-cuddy), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6    Corporate Management – Resident Satisfaction Survey
-
-**❌ Motion Failed (4 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7    Human Resources – Internships
-
-**❌ Motion Failed (1 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8    Information Technology – Digital Transformation
-
-**❌ Motion Failed (1 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 1    Traffic Control & Street Lighting - Eliminate Full Funding of New Streetlight Installations
-
-**❌ Motion Failed (7 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 2    Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion
-
-**✅ Motion Passed (9 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 3    Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands
-
-**✅ Motion Passed (8 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.1. 2026 Annual Budget Update - Status Update
-
-> That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5    Capital Financing – Climate Change Reserve Fund Contribution
-
-**❌ Motion Failed (7 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.2. Budget 2026 Cost Savings Opportunities - London Economic Development Corporation (LEDC) Review - Councillor S. Stevenson
-
-> That the communication dated May 11, 2025 from Councillor S. Stevenson regarding the budget 2026 cost saving opportunities regarding London Economic Development Corporation (LEDC) review BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee at which the LEDC is schedule...
-
-**❌ Motion Failed (4 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.3. Budget 2026 Cost Savings Opportunities - Cycling Lane Projects - Councillor S. Stevenson
-
-> That the Civic Administration BE DIRECTED to report back to a future meeting of the Budget Committee with a list of all approved future cycling lane projects, their location, timeline, budgeted capital costs, source of funding and estimated annual maintenance costs;
-
-**❌ Motion Failed (4 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-

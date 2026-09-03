@@ -400,6 +400,76 @@ The Civic Works Committee convened In Closed Session from 1:41 PM to 1:45 PM.
 
 
 The meeting adjourned at 1:47 PM.
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4 and 2.6 to 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. Mobility Master Plan 2050 Mode Share Target
+
+> Motion to refer the Mobility Master Plan 2050 Mode Share Target staff report to a future meeting of the Strategic Priorities and Policy Committee.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.5. Mobility Master Plan 2050 Mode Share Target
+
+> Motion to amend the referral by adding the following: b)    the Mobility Master Plan project team BE DIRECTED to consult with the Integrated Transportation Community Advisory Committee with respect to this matter; and, c)    the Civic Administration BE DIRECTED to clearly indicate how any options...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.5. Mobility Master Plan 2050 Mode Share Target
+
+> Motion to approve parts b) and c) of the clause.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 3.1. London Transit’s 2022 Annual Report
+
+> The London Transit Commission BE REQUESTED to review and refine the grading criteria for the 2023 annual report, with particular focus being given to service delivery standards, and alignment with the City of London’s Strategic Plan, as it relates to public transit, and report back at a future me...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. London Transit’s 2022 Annual Report
+
+> Motion to approve the delegation requests from J. Preston, W. Lau and M. Sheehan, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -862,74 +932,3 @@ Thank you, I'll go to Councillor McAllister to report out. Thank you through the
 Councillor Cuddy, Councillor Trozzo, hand vote. Thank you, that is carried. Thank you everyone for a productive meeting.
 
 </details>
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.4 and 2.6 to 2.8 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.5. Mobility Master Plan 2050 Mode Share Target
-
-> Motion to refer the Mobility Master Plan 2050 Mode Share Target staff report to a future meeting of the Strategic Priorities and Policy Committee.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.5. Mobility Master Plan 2050 Mode Share Target
-
-> Motion to amend the referral by adding the following: b)    the Mobility Master Plan project team BE DIRECTED to consult with the Integrated Transportation Community Advisory Committee with respect to this matter; and, c)    the Civic Administration BE DIRECTED to clearly indicate how any options...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 2.5. Mobility Master Plan 2050 Mode Share Target
-
-> Motion to approve parts b) and c) of the clause.
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 3.1. London Transit’s 2022 Annual Report
-
-> The London Transit Commission BE REQUESTED to review and refine the grading criteria for the 2023 annual report, with particular focus being given to service delivery standards, and alignment with the City of London’s Strategic Plan, as it relates to public transit, and report back at a future me...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. London Transit’s 2022 Annual Report
-
-> Motion to approve the delegation requests from J. Preston, W. Lau and M. Sheehan, to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

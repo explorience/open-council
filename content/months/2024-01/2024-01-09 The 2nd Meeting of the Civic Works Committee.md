@@ -203,6 +203,20 @@ That the Deferred Matters List, as at December 12, 2023, BE RECEIVED.
 
 
 The meeting adjourned at 10:14 AM
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -441,18 +455,3 @@ Councillor votes, yes. Housing the vote, the motion carries five to zero. Moving
 And we can do a hand vote for that. everyone is carried and thank you.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.5 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

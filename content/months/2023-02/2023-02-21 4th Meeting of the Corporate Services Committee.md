@@ -331,6 +331,20 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:57 PM.
 
 ****
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+> That Items for Direction 4.1 to 4.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -541,18 +555,3 @@ Moved by Councillor Stevenson, seconded by Councillor Ferrera, and we can do thi
 We stand adjourned. And for those who haven't had enough committee work today, planning and environment committee starts at 4 p.m.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4. Items for Direction
-
-> That Items for Direction 4.1 to 4.3 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

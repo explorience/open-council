@@ -666,6 +666,36 @@ That the Deferred Matters List for the Planning and Environment Committee, as at
 
 
 The meeting adjourned at 6:37 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. 1140 Fanshawe Park Road East (39T-07502 / OZ-9473)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Drewlo Holdings Inc, relating to the property located at 1140 Fanshawe Park Road East: a)  the request to amend the 1989 Official Plan to change the designation...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. Revised Victoria Park Secondary Plan (O-8978)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Victoria Park Secondary Plan: a) the proposed by-law appended to the staff report dated May 9, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held o...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -1380,34 +1410,3 @@ Seconded by Councillor Lehman. Can we do a hand vote on this one? Hand vote, eve
 But thank you very much, committee. Good work.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.3 and 2.4 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.5. 1140 Fanshawe Park Road East (39T-07502 / OZ-9473)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Drewlo Holdings Inc, relating to the property located at 1140 Fanshawe Park Road East: a)  the request to amend the 1989 Official Plan to change the designation...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.6. Revised Victoria Park Secondary Plan (O-8978)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Victoria Park Secondary Plan: a) the proposed by-law appended to the staff report dated May 9, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held o...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-

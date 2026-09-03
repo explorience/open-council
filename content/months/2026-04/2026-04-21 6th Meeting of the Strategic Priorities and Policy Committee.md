@@ -710,6 +710,86 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:39 PM.
 
 ****
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2.2. Housing Accelerator Fund – 2026 Mid-Year Update
+
+> That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives under the Housing Accelerator Fund: a) a proposed by-law BE INTRODUCED at the Municipal Council m...
+
+**✅ Motion Passed (9 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 2.2. Housing Accelerator Fund – 2026 Mid-Year Update
+
+> That part b) BE APPROVED and reads as follows: b) the Civic Administration BE DIRECTED to report back with opportunities to fund the Pre-construction Housing Grant financial incentive program, upon confirmation that the City will receive the fourth and final advance of the Housing Accelerator Fund.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. London Transit Rapid Transit Operational Readiness Review
+
+> That part b) BE APPROVED and reads as follows: b) the London Transit Commission BE DIRECTED to review the following opportunities and report back to Council on implementation, including timing, operational considerations, and resource implications no later than Q4, 2026: i) with respect to Fare C...
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 4.5. Councillor S. Franke – Advocacy Request – Province to Address Local Impact of Carepoint Closure
+
+> That the motion BE AMENDED by adding the words "continue to": That, Mayor J. Morgan and Councillor A. Hopkins BE REQUESTED to continue to advocate to the Province of Ontario, through the Association of Municipalities of Ontario (AMO), for increased and sustained resources to enable the City of Lo...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 4.5. Councillor S. Franke – Advocacy Request – Province to Address Local Impact of Carepoint Closure
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 4.6. Councillor D. Ferreira - Advocacy Request - For-Profit Addiction Treatment in Ontario
+
+> That the following actions be taken with respect to the communication from Councillor D. Ferreira regarding systemic concerns with for-profit addiction treatment in Ontario: a) the Mayor and the Civic Administration BE REQUESTED to write a letter to the Ontario Ministry of Health, the College of ...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 4.6. Councillor D. Ferreira - Advocacy Request - For-Profit Addiction Treatment in Ontario
+
+> That the request for delegation status from Peter Bergmanis, Co-Chair, London Health Coalition BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -1734,84 +1814,3 @@ And with that, we'll take a motion to adjourn. Councillor McAllister and Council
 Thanks, everyone.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2.2. Housing Accelerator Fund – 2026 Mid-Year Update
-
-> That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives under the Housing Accelerator Fund: a) a proposed by-law BE INTRODUCED at the Municipal Council m...
-
-**✅ Motion Passed (9 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 2.2. Housing Accelerator Fund – 2026 Mid-Year Update
-
-> That part b) BE APPROVED and reads as follows: b) the Civic Administration BE DIRECTED to report back with opportunities to fund the Pre-construction Housing Grant financial incentive program, upon confirmation that the City will receive the fourth and final advance of the Housing Accelerator Fund.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.2. London Transit Rapid Transit Operational Readiness Review
-
-> That part b) BE APPROVED and reads as follows: b) the London Transit Commission BE DIRECTED to review the following opportunities and report back to Council on implementation, including timing, operational considerations, and resource implications no later than Q4, 2026: i) with respect to Fare C...
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 4.5. Councillor S. Franke – Advocacy Request – Province to Address Local Impact of Carepoint Closure
-
-> That the motion BE AMENDED by adding the words "continue to": That, Mayor J. Morgan and Councillor A. Hopkins BE REQUESTED to continue to advocate to the Province of Ontario, through the Association of Municipalities of Ontario (AMO), for increased and sustained resources to enable the City of Lo...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 4.5. Councillor S. Franke – Advocacy Request – Province to Address Local Impact of Carepoint Closure
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 4.6. Councillor D. Ferreira - Advocacy Request - For-Profit Addiction Treatment in Ontario
-
-> That the following actions be taken with respect to the communication from Councillor D. Ferreira regarding systemic concerns with for-profit addiction treatment in Ontario: a) the Mayor and the Civic Administration BE REQUESTED to write a letter to the Ontario Ministry of Health, the College of ...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 4.6. Councillor D. Ferreira - Advocacy Request - For-Profit Addiction Treatment in Ontario
-
-> That the request for delegation status from Peter Bergmanis, Co-Chair, London Health Coalition BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-

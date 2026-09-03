@@ -298,6 +298,37 @@ The meeting adjourned at 12:13 PM.
 > **Bill No. 237**
 > 
 > By-law No. A.-8728-182 - A by-law to confirm the proceedings of the Special Council Meeting held on the 17th of June, 2026. (City Clerk)
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 6.1. Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+
+> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17, 2026, to permit members to speak more than once to a motion.
+
+**❌ Motion Failed (9 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 6.1. Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program: b)    the Civic Administration BE DIRECTED to submit an application for t...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -718,35 +749,3 @@ Okay, and third and final reading on this, we'll open that for voting. Councillo
 Okay, that concludes the confirmation by-law. I only have a motion to adjourn last left, so I got Councillor Cutty, seconded by myself. We could do that by hand, and I'll just look to the screen, all those in favor. Motion carries.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 6.1. Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
-
-> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17, 2026, to permit members to speak more than once to a motion.
-
-**❌ Motion Failed (9 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 6.1. Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program: b)    the Civic Administration BE DIRECTED to submit an application for t...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-

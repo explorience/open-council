@@ -3043,6 +3043,499 @@ The meeting adjourned at 7:45 PM.
 > **Bill No. 72**
 > 
 > By-law No. DR-108-81 - A by-law to provide for Drainage Works in the City of London (Construction of the Jenkens Municipal Drain). (Court of Revision / 3.1/3/CWC)  (Third Reading only)
+
+---
+
+## Votes
+
+*35 substantive votes at this meeting (23 contested, 12 unanimous). Procedural motions excluded.*
+
+### 6. Communications and Petitions
+
+> That, pursuant to section 10.5 of the Council Procedure By-law, with respect to the Chair's ruling regarding personal point of privilege, “shall the ruling of the Chair BE SUSTAINED?”
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 6. Communications and Petitions
+
+> That, pursuant to section 6.4 of the Council Procedure By-law, a change in order of the Council Agenda BE APPROVED, to provide for Item 8.4 in Stage 8, Reports, to be considered before Item 8.1 in Stage 8, Reports.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1. 7th Report of the Strategic Priorities and Policy Committee
+
+> That the 7th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of item 7 (4.4).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.1.7. (4.4) Mobility Master Plan 2050 Mode Share Target
+
+> That the following actions be taken with respect to the Mobility Master Plan;    a)   the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling; and...
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.2. 5th Report of the Planning and Environment Committee
+
+> That the 5th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 4 (3.1), 6 (3.3), and 11 (3.8).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.2.4. (3.1) Amendment to the Industrial Lands Community Improvement Plan (O-9647) (Relates to Bill No. 104)
+
+> That item 4, clause 3.1, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.2.6. (3.3) 192-196 Central Avenue (Z-9695) (Relates to Bill No. 114)
+
+> That the motion BE AMENDED with the following new parts: "Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Farhi Holding Corporation relating to the property located at 192-196 Central Avenue: (a)    th...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.2.6. (3.3) 192-196 Central Avenue (Z-9695) (Relates to Bill No. 114)
+
+> That item 6, clause 3.3, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.2.11. (3.8) Official Plan Review of The London Plan and Land Needs Assessment Update (O-9595)
+
+> Motion TO AMEND by adding part i) as follows: "i)    the Civic Administration BE DIRECTED to undertake a future growth management implementation strategy for the built-area including a higher intensification target to align with the 32.5% mode share target;"
+
+**✅ Motion Passed (9 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.2.11. (3.8) Official Plan Review of The London Plan and Land Needs Assessment Update (O-9595)
+
+> Motion TO AMEND by adding parts i )and j) as follows: "j)    the Civic Administration BE DIRECTED to undertake a review of Sewer and Water Servicing capacity within the Built Area Boundary to meet the 2028 DC Bylaw deadlines; and" "k)    the Civic Administration BE DIRECTED to undertake review of...
+
+**❌ Motion Failed (6 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.2.11. (3.8) Official Plan Review of The London Plan and Land Needs Assessment Update (O-9595)
+
+> That item 11, clause 3.8, as amended, BE APPROVED.
+
+**✅ Motion Passed (9 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.3. 6th Report of the Corporate Services Committee
+
+> That the 6th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 8.4. 5th Report of the Community and Protective Services Committee
+
+> That the 5th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 4 (2.3), 10 (2.6), 12 (4.1), and 13 (5.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.4. (2.3) Approval of Odell-Jalna End of Mortgage Exit Agreement (Relates to Bill No. 98)
+
+> Motion to add a new part b) iv) to read as follows: “iv)    that Civic Administration BE DIRECTED to apply the 2022 AMR to establish the subsidy amounts in the agreement, allow rental increases to the most current AMR on future vacancies and report back on a standard approach for future agreement...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.4. (2.3) Approval of Odell-Jalna End of Mortgage Exit Agreement (Relates to Bill No. 98)
+
+> That item 4, clause 2.3, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.10. (2.6) Business Licensing By-law and Fireworks By-law – Amendments (Relates to Bills No. 102, 103 and 107)
+
+> That the motion BE AMENDED by adding a new part d) to read as follows: “d)       that the proposed by-law, as appended to the staff report dated March 18, 2024, BE INTRODUCED at the Municipal Council Meeting to be held on April 2, 2024 to amend the Fireworks By-law PW-11 by allowing for consumer ...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.4.10. (2.6) Business Licensing By-law and Fireworks By-law – Amendments (Relates to Bills No. 102, 103 and 107)
+
+> That the motion BE AMENDED by adding a new part e) to read as follows: "e)     that Civic Administration BE DIRECTED to consult with the Toronto Fire Department with respect to their “Proposed Ontario Fire Code Amendments Regarding Fireworks” and report back to the Community and Protective Servic...
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.4.10. (2.6) Business Licensing By-law and Fireworks By-law – Amendments (Relates to Bills No. 102, 103 and 107)
+
+> That item 10, clause 2.6, as amended, BE APPROVED.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.4.12. (4.1) 2024 Rock the Park One-Time Policy Exemption Request (Relates to Bill No. 106)
+
+> That, on the recommendation of the Deputy City Manager of Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated March 18, 2024, related to a 2024 Rock the Park One-Time Policy Exemption Request: a)    the report above-noted staff report ...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
+
+> That the motion BE AMENDED by adding a new part to read as follows: "that Civic Administration BE DIRECTED to report back to the next Community and Protective Services Committee meeting with a source of funding for issuing free 1-hour on-street parking and the ability to suspend free 1-hour on-st...
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
+
+> That pursuant to section 11.11 of the Council Procedure By-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
+
+> That the motion BE FURTHER AMENDED as follows: "That Civic Administration BE DIRECTED to report back to a future meeting of Community and Protective Services Committee regarding a source of financing for the parking incentive in Municipal Lots 1 & 2."
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
+
+> That the amendment, as amended, BE APPROVED.
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
+
+> That item 13, clause 5.1, as amended, BE APPROVED.
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.5. 5th Report of the Civic Works Committee
+
+> That the 5th Report of the Civic Works Committee BE APPROVED, with the exception of item 12 (2.12)
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 8.5.12. (2.12) Vendor of Record Contract Award - Rapid Transit Shelters Amenities - Request for Proposal Submissions - RFP-2023-271 Station Lighting, RFP-2023-272 Obelisks and RFP-2023-273 Station Furniture
+
+> That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated March 19, 2024, related to Vendor of Record Contract Award for Rapid Transit Shelters Amenities and Request for Proposal Submissions – RFP-...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No’s. 102, 103, 107, BE APPROVED.
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No’s. 102, 103, 107, BE APPROVED
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No’s. 102, 103, 107, BE APPROVED.
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Added Bill No. 122, BE APPROVED.
+
+**✅ Motion Passed (9 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Added Bill No. 122, BE APPROVED.
+
+**✅ Motion Passed (9 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Added Bill No. 122, BE APPROVED.
+
+**✅ Motion Passed (9 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No. 106, BE APPROVED.
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No. 106, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 106, BE APPROVED.
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
 ---
 
 ## Full Transcript
@@ -4101,497 +4594,3 @@ Wait, any opposed? Deputy Mayor didn't vote. Is it okay? It still carries.
 Okay, all right, we're adjourned. Thank you.
 
 </details>
-
----
-
-## Votes
-
-*35 substantive votes at this meeting (23 contested, 12 unanimous). Procedural motions excluded.*
-
-### 6. Communications and Petitions
-
-> That, pursuant to section 10.5 of the Council Procedure By-law, with respect to the Chair's ruling regarding personal point of privilege, “shall the ruling of the Chair BE SUSTAINED?”
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 6. Communications and Petitions
-
-> That, pursuant to section 6.4 of the Council Procedure By-law, a change in order of the Council Agenda BE APPROVED, to provide for Item 8.4 in Stage 8, Reports, to be considered before Item 8.1 in Stage 8, Reports.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.1. 7th Report of the Strategic Priorities and Policy Committee
-
-> That the 7th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of item 7 (4.4).
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.1.7. (4.4) Mobility Master Plan 2050 Mode Share Target
-
-> That the following actions be taken with respect to the Mobility Master Plan;    a)   the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling; and...
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.2. 5th Report of the Planning and Environment Committee
-
-> That the 5th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 4 (3.1), 6 (3.3), and 11 (3.8).
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.2.4. (3.1) Amendment to the Industrial Lands Community Improvement Plan (O-9647) (Relates to Bill No. 104)
-
-> That item 4, clause 3.1, as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.2.6. (3.3) 192-196 Central Avenue (Z-9695) (Relates to Bill No. 114)
-
-> That the motion BE AMENDED with the following new parts: "Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Farhi Holding Corporation relating to the property located at 192-196 Central Avenue: (a)    th...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.2.6. (3.3) 192-196 Central Avenue (Z-9695) (Relates to Bill No. 114)
-
-> That item 6, clause 3.3, as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.2.11. (3.8) Official Plan Review of The London Plan and Land Needs Assessment Update (O-9595)
-
-> Motion TO AMEND by adding part i) as follows: "i)    the Civic Administration BE DIRECTED to undertake a future growth management implementation strategy for the built-area including a higher intensification target to align with the 32.5% mode share target;"
-
-**✅ Motion Passed (9 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.2.11. (3.8) Official Plan Review of The London Plan and Land Needs Assessment Update (O-9595)
-
-> Motion TO AMEND by adding parts i )and j) as follows: "j)    the Civic Administration BE DIRECTED to undertake a review of Sewer and Water Servicing capacity within the Built Area Boundary to meet the 2028 DC Bylaw deadlines; and" "k)    the Civic Administration BE DIRECTED to undertake review of...
-
-**❌ Motion Failed (6 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman)
-
-**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.2.11. (3.8) Official Plan Review of The London Plan and Land Needs Assessment Update (O-9595)
-
-> That item 11, clause 3.8, as amended, BE APPROVED.
-
-**✅ Motion Passed (9 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.3. 6th Report of the Corporate Services Committee
-
-> That the 6th Report of the Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 8.4. 5th Report of the Community and Protective Services Committee
-
-> That the 5th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 4 (2.3), 10 (2.6), 12 (4.1), and 13 (5.1).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.4. (2.3) Approval of Odell-Jalna End of Mortgage Exit Agreement (Relates to Bill No. 98)
-
-> Motion to add a new part b) iv) to read as follows: “iv)    that Civic Administration BE DIRECTED to apply the 2022 AMR to establish the subsidy amounts in the agreement, allow rental increases to the most current AMR on future vacancies and report back on a standard approach for future agreement...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.4. (2.3) Approval of Odell-Jalna End of Mortgage Exit Agreement (Relates to Bill No. 98)
-
-> That item 4, clause 2.3, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.10. (2.6) Business Licensing By-law and Fireworks By-law – Amendments (Relates to Bills No. 102, 103 and 107)
-
-> That the motion BE AMENDED by adding a new part d) to read as follows: “d)       that the proposed by-law, as appended to the staff report dated March 18, 2024, BE INTRODUCED at the Municipal Council Meeting to be held on April 2, 2024 to amend the Fireworks By-law PW-11 by allowing for consumer ...
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.4.10. (2.6) Business Licensing By-law and Fireworks By-law – Amendments (Relates to Bills No. 102, 103 and 107)
-
-> That the motion BE AMENDED by adding a new part e) to read as follows: "e)     that Civic Administration BE DIRECTED to consult with the Toronto Fire Department with respect to their “Proposed Ontario Fire Code Amendments Regarding Fireworks” and report back to the Community and Protective Servic...
-
-**❌ Motion Failed (4 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.4.10. (2.6) Business Licensing By-law and Fireworks By-law – Amendments (Relates to Bills No. 102, 103 and 107)
-
-> That item 10, clause 2.6, as amended, BE APPROVED.
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.4.12. (4.1) 2024 Rock the Park One-Time Policy Exemption Request (Relates to Bill No. 106)
-
-> That, on the recommendation of the Deputy City Manager of Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated March 18, 2024, related to a 2024 Rock the Park One-Time Policy Exemption Request: a)    the report above-noted staff report ...
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
-
-> That the motion BE AMENDED by adding a new part to read as follows: "that Civic Administration BE DIRECTED to report back to the next Community and Protective Services Committee meeting with a source of funding for issuing free 1-hour on-street parking and the ability to suspend free 1-hour on-st...
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
-
-> That pursuant to section 11.11 of the Council Procedure By-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
-
-> That the motion BE FURTHER AMENDED as follows: "That Civic Administration BE DIRECTED to report back to a future meeting of Community and Protective Services Committee regarding a source of financing for the parking incentive in Municipal Lots 1 & 2."
-
-**✅ Motion Passed (8 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (6):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
-
-> That the amendment, as amended, BE APPROVED.
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
-
-> That item 13, clause 5.1, as amended, BE APPROVED.
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.5. 5th Report of the Civic Works Committee
-
-> That the 5th Report of the Civic Works Committee BE APPROVED, with the exception of item 12 (2.12)
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 8.5.12. (2.12) Vendor of Record Contract Award - Rapid Transit Shelters Amenities - Request for Proposal Submissions - RFP-2023-271 Station Lighting, RFP-2023-272 Obelisks and RFP-2023-273 Station Furniture
-
-> That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated March 19, 2024, related to Vendor of Record Contract Award for Rapid Transit Shelters Amenities and Request for Proposal Submissions – RFP-...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 13. By-laws
-
-> That Introduction and First Reading of Bill No’s. 102, 103, 107, BE APPROVED.
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 13. By-laws
-
-> That Second Reading of Bill No’s. 102, 103, 107, BE APPROVED
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Bill No’s. 102, 103, 107, BE APPROVED.
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 13. By-laws
-
-> That Introduction and First Reading of Added Bill No. 122, BE APPROVED.
-
-**✅ Motion Passed (9 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 13. By-laws
-
-> That Second Reading of Added Bill No. 122, BE APPROVED.
-
-**✅ Motion Passed (9 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Added Bill No. 122, BE APPROVED.
-
-**✅ Motion Passed (9 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 13. By-laws
-
-> That Introduction and First Reading of Bill No. 106, BE APPROVED.
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 13. By-laws
-
-> That Second Reading of Bill No. 106, BE APPROVED.
-
-**✅ Motion Passed (11 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Bill No. 106, BE APPROVED.
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-

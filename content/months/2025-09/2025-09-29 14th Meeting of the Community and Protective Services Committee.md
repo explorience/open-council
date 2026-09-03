@@ -576,6 +576,127 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 5:12 PM.
 
 ****
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (5 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.4, 2.5 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.2. Single Source Procurement - Integrated Employment Services Digital Service Delivery Platform - SS-2025-208
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Single Source Procurement for an Integrated Employment Services Digital Service Delivery Platform SS-202...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Proposed Temporary Warming Centre Framework
+
+> That the delegation request from S. Campbell, Ark Aid, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.6. Winter Overnight Parking Policy Change
+
+> That the motion BE AMENDED to add a new part, to read as follows: That the Civic Administration BE DIRECTED to include in the 2026 Fees and Charges By-law update a reduction in the overnight on street parking permit fee from $15.00 to $5.00.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.6. Winter Overnight Parking Policy Change
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54): a)...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
+
+> That part a) of the amendment BE APPROVED.
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
+
+> That part b) of the amendment BE APPROVED.
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
+
+> That part c) of the amendment BE APPROVED.
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
+
+> That part d) of the amendment BE APPROVED.
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1760,125 +1881,3 @@ That leads us to adjournment, looking for a motion to adjourn. Moved by Councill
 Motion carries, we're adjourned. Thank you.
 
 </details>
-
----
-
-## Votes
-
-*10 substantive votes at this meeting (5 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.4, 2.5 and 2.7 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.2. Single Source Procurement - Integrated Employment Services Digital Service Delivery Platform - SS-2025-208
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Single Source Procurement for an Integrated Employment Services Digital Service Delivery Platform SS-202...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. Proposed Temporary Warming Centre Framework
-
-> That the delegation request from S. Campbell, Ark Aid, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.6. Winter Overnight Parking Policy Change
-
-> That the motion BE AMENDED to add a new part, to read as follows: That the Civic Administration BE DIRECTED to include in the 2026 Fees and Charges By-law update a reduction in the overnight on street parking permit fee from $15.00 to $5.00.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.6. Winter Overnight Parking Policy Change
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54): a)...
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
-
-> That part a) of the amendment BE APPROVED.
-
-**❌ Motion Failed (3 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
-
-> That part b) of the amendment BE APPROVED.
-
-**❌ Motion Failed (3 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
-
-> That part c) of the amendment BE APPROVED.
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
-
-> That part d) of the amendment BE APPROVED.
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-

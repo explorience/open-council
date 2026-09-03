@@ -1278,6 +1278,88 @@ The meeting adjourned at 6:20 PM.
 > **Motion Passed**
 
 ****
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (4 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.9. 1922 Highland Heights and 205 Commissioners Road East
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Highland Golf & Country Club, c/o Zelinka Priamo Ltd., relating to the property located at 1922 Highland Heights and 205 Commissioners Road East: a) the propose...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 3.10. 21-41 Meadowlily Road North and 20 Norlan Avenue
+
+> That, the following actions be taken with respect to the application of 2812347 Ontario Inc., c/o Zelinka Priamo Ltd., relating to the property located at 21-41 Meadowlily Road North and 20 Norlan Avenue: a)    the proposed revised, attached, by-law BE INTRODUCED at the Municipal Council meeting ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 3.12. 415 Oxford Street West (OZ-9789)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of RAND Developments, (c/o Zelinka Priamo Ltd.), relating to the property located at 415 Oxford Street West: a) the request to amend the Official Plan, The London ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.14. Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
+
+> Motion to approve clauses d) and e) of the staff recommendation; it being noted that clauses d) and e) read as follows: "d) the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London’s new housing supply, consid...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 3.14. Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
+
+> Pursuant to Section 2.3 of the Council Procedure By-law, Section 33.8 of the said by-law be suspended for the purpose of permitting the meeting to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
 ---
 
 ## Full Transcript
@@ -2868,86 +2950,3 @@ Cuddy votes, yes. Lame and votes, yes. Closing the vote, the motion carries five
 Thank you, I'll look for a motion to adjourn. Deputy Mayor Lewis, seconded by Councilor Cuddy, all in favor. Closing the vote, the motion carries five to zero. Thanks everyone, good job.
 
 </details>
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (4 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.7 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.9. 1922 Highland Heights and 205 Commissioners Road East
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Highland Golf & Country Club, c/o Zelinka Priamo Ltd., relating to the property located at 1922 Highland Heights and 205 Commissioners Road East: a) the propose...
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 3.10. 21-41 Meadowlily Road North and 20 Norlan Avenue
-
-> That, the following actions be taken with respect to the application of 2812347 Ontario Inc., c/o Zelinka Priamo Ltd., relating to the property located at 21-41 Meadowlily Road North and 20 Norlan Avenue: a)    the proposed revised, attached, by-law BE INTRODUCED at the Municipal Council meeting ...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 3.12. 415 Oxford Street West (OZ-9789)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of RAND Developments, (c/o Zelinka Priamo Ltd.), relating to the property located at 415 Oxford Street West: a) the request to amend the Official Plan, The London ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.14. Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
-
-> Motion to approve clauses d) and e) of the staff recommendation; it being noted that clauses d) and e) read as follows: "d) the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London’s new housing supply, consid...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 3.14. Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
-
-> Pursuant to Section 2.3 of the Council Procedure By-law, Section 33.8 of the said by-law be suspended for the purpose of permitting the meeting to proceed beyond 6:00 PM.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-

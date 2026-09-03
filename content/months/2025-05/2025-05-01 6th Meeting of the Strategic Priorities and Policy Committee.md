@@ -458,6 +458,78 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:03 PM.
 
 ****
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.1. Request for a Shareholder's Meeting - London Hydro Inc.
+
+> That the following actions be taken with respect to the 2024 Annual General Meeting of the Shareholder for London Hydro Inc.: a)      the 2024 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on May 27, 2025, for...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.2. Request for a Shareholder's Meeting - London & Middlesex Community Housing
+
+> That the following actions be taken with respect to the 2024 Annual General Meeting of the Shareholder for London & Middlesex Community Housing: a)      the 2024 Annual General Meeting of the Shareholder for London & Middlesex Community Housing BE HELD at a meeting of the Strategic Priorities and...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.1. London & Middlesex Community Housing Board of Directors Request for Extension of Terms
+
+> That the motion BE AMENDED in part a) and part b) to extend the terms to September 30, 2027 and add a new part c) to read as follows: c)  the term for Kathleen Savoy, Tenant, London & Middlesex Community Housing Board of Directors BE EXTENDED from December 31, 2026 to September 30, 2027;
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 4.1. London & Middlesex Community Housing Board of Directors Request for Extension of Terms
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 4.2. Canada Disability Benefit - Councillors H. McAlister, P. Cuddy and S. Lewis
+
+> That the following actions be taken with respect to the Canada Disability Benefit: a)  the Mayor BE REQUESTED to communicate to Premier Ford and Minister Parsa, that the Municipal Council calls on the Government of Ontario to follow Newfoundland, Nova Scotia, Quebec, Manitoba, Saskatchewan, Briti...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. Canada Disability Benefit - Councillors H. McAlister, P. Cuddy and S. Lewis
+
+> That the delegation requests from J. Salisbury and A. Roberts BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -980,76 +1052,3 @@ So I just need a motion to adjourn and Councillor Hopkins and Hillier on that on
 We are adjourned. Have a great rest of your day and go Leafs go.
 
 </details>
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2.1. Request for a Shareholder's Meeting - London Hydro Inc.
-
-> That the following actions be taken with respect to the 2024 Annual General Meeting of the Shareholder for London Hydro Inc.: a)      the 2024 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on May 27, 2025, for...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.2. Request for a Shareholder's Meeting - London & Middlesex Community Housing
-
-> That the following actions be taken with respect to the 2024 Annual General Meeting of the Shareholder for London & Middlesex Community Housing: a)      the 2024 Annual General Meeting of the Shareholder for London & Middlesex Community Housing BE HELD at a meeting of the Strategic Priorities and...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.1. London & Middlesex Community Housing Board of Directors Request for Extension of Terms
-
-> That the motion BE AMENDED in part a) and part b) to extend the terms to September 30, 2027 and add a new part c) to read as follows: c)  the term for Kathleen Savoy, Tenant, London & Middlesex Community Housing Board of Directors BE EXTENDED from December 31, 2026 to September 30, 2027;
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 4.1. London & Middlesex Community Housing Board of Directors Request for Extension of Terms
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 4.2. Canada Disability Benefit - Councillors H. McAlister, P. Cuddy and S. Lewis
-
-> That the following actions be taken with respect to the Canada Disability Benefit: a)  the Mayor BE REQUESTED to communicate to Premier Ford and Minister Parsa, that the Municipal Council calls on the Government of Ontario to follow Newfoundland, Nova Scotia, Quebec, Manitoba, Saskatchewan, Briti...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. Canada Disability Benefit - Councillors H. McAlister, P. Cuddy and S. Lewis
-
-> That the delegation requests from J. Salisbury and A. Roberts BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-

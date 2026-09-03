@@ -600,6 +600,45 @@ c)         clauses 1.1, 2.1, 3.1, and 3.3 BE RECEIVED.
 
 
 The meeting adjourned at 2:12 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, 2.11, 2.12, 2.13, 2.16, 2.17, and 2.18 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.14. Outcome of Climate Lens Screening Applied to Major Transportation Projects
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated August 31, 2021, related to the initial Climate Emergency screening of current major transportation projects: a)        Civic Administratio...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
+
+</details>
+
+### 4.2. Commercial E-scooters in the City of London
+
+> That the request for delegation status from the following individuals BE APPROVED: - S. Besseau; - C. Schafer; and, - D. Lepofsky.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -1164,43 +1203,3 @@ Closing the vote, the motion carries five to zero. That's a really good meeting.
 Councillor Turner, Councillor Cassidy, we're allowed to do a hand vote of all in favor of parting ways. Okay, we're good to go. Thank you everyone and enjoy the rest of your day. And for those who have committee later, good luck.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, 2.11, 2.12, 2.13, 2.16, 2.17, and 2.18 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.14. Outcome of Climate Lens Screening Applied to Major Transportation Projects
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated August 31, 2021, related to the initial Climate Emergency screening of current major transportation projects: a)        Civic Administratio...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Ed Holder](/councillors/former/e-holder)
-
-</details>
-
-### 4.2. Commercial E-scooters in the City of London
-
-> That the request for delegation status from the following individuals BE APPROVED: - S. Besseau; - C. Schafer; and, - D. Lepofsky.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

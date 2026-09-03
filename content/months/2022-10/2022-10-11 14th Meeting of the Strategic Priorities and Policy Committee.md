@@ -384,6 +384,37 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 6:24 PM.
 
 ****
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 3.1. Not to be heard before 4:05 PM - Public Participation Meeting - Amendments to Consolidated Fees and Charges By-law
+
+> That the proposed fee of $1.85/hour, associated with Electric Vehicle Charging, as included in Schedule 1, BE REMOVED.
+
+**❌ Motion Failed (5 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/former/m-salih)
+
+**Nay (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Absent (1):** [Maureen Cassidy](/councillors/former/m-cassidy)
+
+</details>
+
+### 4.1. Consideration of Appointments to the Striking Committee
+
+> That the following individuals BE APPOINTED to the Striking Committee:    Paul Seale - Pillar Non-Profit Network  Morena Hernandez - Urban League of London  Patti Dalton - London and District Labour Council  Graham Henderson - London Chamber of Commerce  Zeba Hashmi - Former Diversity, Inclusion ...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -1066,35 +1097,3 @@ Councillor Turner. I say I always look to Councillor Turner for this 'cause he l
 So with that, all those in favor? Show of hands, please. Motion's carried. Meeting adjourned, thank you all.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 3.1. Not to be heard before 4:05 PM - Public Participation Meeting - Amendments to Consolidated Fees and Charges By-law
-
-> That the proposed fee of $1.85/hour, associated with Electric Vehicle Charging, as included in Schedule 1, BE REMOVED.
-
-**❌ Motion Failed (5 to 9)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/former/m-salih)
-
-**Nay (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-**Absent (1):** [Maureen Cassidy](/councillors/former/m-cassidy)
-
-</details>
-
-### 4.1. Consideration of Appointments to the Striking Committee
-
-> That the following individuals BE APPOINTED to the Striking Committee:    Paul Seale - Pillar Non-Profit Network  Morena Hernandez - Urban League of London  Patti Dalton - London and District Labour Council  Graham Henderson - London Chamber of Commerce  Zeba Hashmi - Former Diversity, Inclusion ...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-

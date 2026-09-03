@@ -78,6 +78,20 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:05 PM.
 
 ****
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. 2024 Debenture Issuance Update
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:    a)    the issuance of serial debentures for a total of $30,000,000 BE APPROVED, noting the average all-in rate is 4.427% over a 10-year term and that all debt has been placed with investor...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -116,18 +130,3 @@ Thank you, colleagues. We are now adjourned. Take it personally that no one came
 We'll take that under consideration.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. 2024 Debenture Issuance Update
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:    a)    the issuance of serial debentures for a total of $30,000,000 BE APPROVED, noting the average all-in rate is 4.427% over a 10-year term and that all debt has been placed with investor...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
