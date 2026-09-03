@@ -1,6 +1,6 @@
 [
  {
-  "id": "a57d2d8fbd2d",
+  "id": "57df0c946e58",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -14,7 +14,7 @@
   "verifierNote": "Full text matches quote verbatim (176 Piccadilly heritage-register communication, no-action motion). Heritage is not a tracked issue cluster; correctly issue=none."
  },
  {
-  "id": "aee92e872d3b",
+  "id": "e7cf784accc8",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -28,7 +28,7 @@
   "verifierNote": "Verbatim referral of Vehicle for Hire By-law report. No tracked-issue keyword hit in body text; correctly issue=none."
  },
  {
-  "id": "9ffe779c15c0",
+  "id": "70e66024727d",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -40,7 +40,7 @@
   "verifierNote": "Loaded 2023-09-12 CPSC item 4.1: the 4-1 vote is specifically the sub-motion 'Motion to approve part c) of the clause' (endorsing OEV safety programming 'within existing Housing Stability Services budgets'). Verbatim quote confirmed. Considered flipping to expansive (text contains 'additional programs...to support' which literally hits the response-scale expansive pattern), but the operative content is an endorsement of already-identified programming funded by REALLOCATION within an existing budget, not new money or a clear scale change -- genuinely ambiguous whether this is a substantive expansion or a symbolic nod. Left as unclear per the safe-side rule; not a clear enough case to force a direction myself."
  },
  {
-  "id": "9683caf33b23",
+  "id": "a7947d498b32",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -54,7 +54,7 @@
   "verifierNote": "Verbatim in-camera (solicitor-client privilege) procedural motion re: Vision SoHo Alliance. Correctly issue=none, procedural."
  },
  {
-  "id": "91abf07681c0",
+  "id": "068b4208bee9",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -66,7 +66,7 @@
   "verifierNote": "Loaded 2023-09-11 PEC item 3.4 (first content block, 4-1). Quote verbatim, full context confirms a genuine rezoning approval (R9 to R9 Special Provision) for infill housing -- no denial-flip, no title/operative mismatch, no business-case exclusion, not a relocation clause. Generic application-approval fallback axis is correct: no density/height/storey language in the operative text to trigger the more specific density axis."
  },
  {
-  "id": "a430cb059a46",
+  "id": "4fea3f74426d",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -78,7 +78,7 @@
   "verifierNote": "Loaded same item, second content block (3-2): 'Motion to delete clause b) ii)' has no approve/deny/direct verb of its own -- correctly falls through to unclear. Quote verbatim."
  },
  {
-  "id": "86a834dfc17f",
+  "id": "68f2d6366711",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -93,7 +93,7 @@
   "verifierNote": "Verbatim referral/deferral of London Hydro Board appointment consideration. Personnel/appointment matter, correctly issue=none."
  },
  {
-  "id": "3e124bbf5a37",
+  "id": "5230e0151a8f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -107,7 +107,7 @@
   "verifierNote": "Verbatim procedural speaking-time extension. Correctly issue=none."
  },
  {
-  "id": "988c94b88c14",
+  "id": "dba883366fee",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -121,7 +121,7 @@
   "verifierNote": "Verbatim referral of Fireworks By-law item back to Civic Administration. Correctly issue=none, referral."
  },
  {
-  "id": "0cc57d0571be",
+  "id": "2d2ed718220a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -135,7 +135,7 @@
   "verifierNote": "Verbatim 'call the question' procedural motion. Correctly issue=none."
  },
  {
-  "id": "b88be8b7b73c",
+  "id": "ea15c227ca30",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -147,7 +147,7 @@
   "verifierNote": "Verbatim Fireworks By-law Chinese New Year exception amendment. Not one of the 8 tracked issue clusters; correctly issue=none."
  },
  {
-  "id": "dc3c51d6d778",
+  "id": "2a31e7c36b04",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -161,7 +161,7 @@
   "verifierNote": "Verbatim report-back directive on Fireworks By-law option A. Informational ask, correctly issue=none/unclear."
  },
  {
-  "id": "c9561bbe3519",
+  "id": "a14fef9873fe",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -175,7 +175,7 @@
   "verifierNote": "Verbatim report-back directive on Business Licensing By-law fireworks provisions. Informational ask, correctly issue=none."
  },
  {
-  "id": "9911a1622a73",
+  "id": "ec98c3368bbd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -187,7 +187,7 @@
   "verifierNote": "Verbatim Diwali fireworks enforcement suspension. Correctly issue=none (not a tracked cluster)."
  },
  {
-  "id": "53b2463585c2",
+  "id": "51f43d7a4abd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -201,7 +201,7 @@
   "verifierNote": "Verbatim Yard and Lot Maintenance By-law naturalization review directive. 'Naturalized areas/wildflower meadows' does not literally match the climate cluster's 'natural heritage'/'tree canopy' vocabulary, and it is an informational-ask (comprehensive review) besides. Correctly issue=none."
  },
  {
-  "id": "456936f8bc54",
+  "id": "5067f05b9302",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -215,7 +215,7 @@
   "verifierNote": "Verbatim directive to prepare enforcement-officer information materials. Informational ask, correctly issue=none."
  },
  {
-  "id": "444078c55778",
+  "id": "b4ef283a4f0e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -227,7 +227,7 @@
   "verifierNote": "Verbatim Wellington Road property-purchase approval. Real-estate acquisition for a road project, not itself a tracked-issue keyword hit; correctly issue=none."
  },
  {
-  "id": "109fb4d62b85",
+  "id": "7d9053e43bea",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -241,7 +241,7 @@
   "verifierNote": "Verbatim Business Licensing By-law fireworks review amendment. Informational ask, correctly issue=none."
  },
  {
-  "id": "2d07a2a4764a",
+  "id": "65d3a83f34ef",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -256,7 +256,7 @@
   "verifierNote": "Verbatim wrapper 'motion, as amended, BE APPROVED' for the fireworks package. Correctly issue=none/wrapper_preamble."
  },
  {
-  "id": "4272a0864690",
+  "id": "883e5a607787",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -268,7 +268,7 @@
   "verifierNote": "Loaded 2023-08-15 Civic Works Committee item 4.2, third content block (4-1): 'Motion to add...the Garbage Tag fee...be increased from $1.50 to $2.00...BE APPROVED.' Quote verbatim, genuine fee increase -- correctly budget/levy-size/expansive."
  },
  {
-  "id": "2739329da8be",
+  "id": "6ac0152a417f",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -280,7 +280,7 @@
   "verifierNote": "Loaded same item, fourth content block (Failed 2-3): 'Motion to amend part d) to include an it being noted clause that will delay the increase by 6 months.' Quote verbatim. No recognized approve/deny verb on the substance (only a scheduling delay note); correctly left unclear rather than force-fit to a levy-size direction."
  },
  {
-  "id": "fe5285f08e30",
+  "id": "afbd8d801cf2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -294,7 +294,7 @@
   "verifierNote": "Verbatim statutory 'convene as Approving Authority' procedural motion (East London Link expropriation). Correctly issue=none, procedural."
  },
  {
-  "id": "c41f55e48c44",
+  "id": "b7320a404319",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -306,7 +306,7 @@
   "verifierNote": "Verbatim expropriation approval, East London Link. Land-acquisition mechanics for an already-approved (2019 EA) project, not a substantive transit-policy decision; 'transit' does not appear in the operative text. Correctly issue=none."
  },
  {
-  "id": "e4cd17b8b1b5",
+  "id": "ae58a21c8286",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -318,7 +318,7 @@
   "verifierNote": "Verbatim expropriation by-law introduction, East London Link. Correctly issue=none for the same reason."
  },
  {
-  "id": "d3d232ecb3e4",
+  "id": "d4331e178e13",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -332,7 +332,7 @@
   "verifierNote": "Verbatim statutory 'convene as Approving Authority' procedural motion (Wellington Gateway). Correctly issue=none, procedural."
  },
  {
-  "id": "76f05e40e31a",
+  "id": "0c13989cc57a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -344,7 +344,7 @@
   "verifierNote": "Verbatim expropriation approval, Wellington Gateway road project. Correctly issue=none (land-acquisition mechanics, not a substantive transit/roads-policy vote; no transit keyword in body)."
  },
  {
-  "id": "c211495a9073",
+  "id": "bbcb9a7cb43c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -356,7 +356,7 @@
   "verifierNote": "Verbatim expropriation by-law introduction, Wellington Gateway. Correctly issue=none."
  },
  {
-  "id": "15421b887a82",
+  "id": "043e5ff6cc95",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -370,7 +370,7 @@
   "verifierNote": "Loaded 2023-07-25 Council item 8.1.3, fourth content block (9-6): 'That parts a) and b) of the motion, as amended, BE APPROVED' -- verified against post_motion_text full clause. Workplace/Alternative-Work-Strategies policy, not a tracked issue cluster. Correctly issue=none."
  },
  {
-  "id": "a1f1b5a6bbb7",
+  "id": "3943d49e6ac2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -385,7 +385,7 @@
   "verifierNote": "Verbatim deferral of London Hydro Board appointment consideration. Correctly issue=none, appointment/referral."
  },
  {
-  "id": "d4dc1443533a",
+  "id": "b22d7b436ce9",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -399,7 +399,7 @@
   "verifierNote": "Loaded 2023-07-25 Council item 8.2.16, second content block (14-1): amendment adding part c), report-back on the affordable-housing agreement status. Quote verbatim. Informational ask (report back only, no approve/deny of the agreement itself); correctly left unclear."
  },
  {
-  "id": "d2c96f469559",
+  "id": "136475114d98",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -413,7 +413,7 @@
   "verifierNote": "Same item, third content block (12-3, 'the motion, as amended, BE APPROVED'): verified against post_motion_texts full reads-as-follows clause -- the quoted zoning by-law introduction language (part a) is verbatim from that full text. Genuine rezoning approval with a directed-negotiation affordable-housing clause; no denial-flip, no business-case exclusion, not a relocation. Generic application-approval fallback correctly applied (no explicit density/height increase language in the operative text)."
  },
  {
-  "id": "0cc20e6cb335",
+  "id": "c5e0e7c0e7be",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -427,7 +427,7 @@
   "verifierNote": "Verbatim heritage alteration approval (39 Carfrae St. roofing). Heritage is not a tracked issue cluster; correctly issue=none."
  },
  {
-  "id": "6a7abb9e3aca",
+  "id": "5c6c1f503263",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -441,7 +441,7 @@
   "verifierNote": "Loaded 2023-07-25 Council item 8.3.14: this is an omnibus REFERRAL of ~49 unrelated Council Policy amendments (Appendices C1-C49) to the Governance Working Group, one of which happens to be titled 'Capital Budget and Financing Policy.' A bulk procedural referral bundling 49 distinct policy areas is not a substantive position on any one of them (matches the calibration note's own logic for title/keyword hits that aren't a real position). Correctly issue=none, referral -- did not force-fit to budget off the one bundled title."
  },
  {
-  "id": "0958d467a22f",
+  "id": "71c7a69ab345",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -455,7 +455,7 @@
   "verifierNote": "Verbatim Community Advisory Committee on Planning voting-member appointments. Personnel matter, correctly issue=none."
  },
  {
-  "id": "c2516caecfbb",
+  "id": "b7bea8feb1a5",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -469,7 +469,7 @@
   "verifierNote": "Loaded 2023-07-25 Council item 8.4.5, second content block (13-2): amendment adding part e), directing a future report on safety/security options and costs. Quote verbatim. Informational ask (identify options and costs, no approve/deny of any specific response); correctly left unclear."
  },
  {
-  "id": "9ddf707bf29d",
+  "id": "d2e0d07a90e6",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -481,7 +481,7 @@
   "verifierNote": "Same item: this vote result (8-7) is recorded on an EMPTY-text content block immediately following the $374,210 amendment text block (an adjacent moved-text/voted-result split, a known scraper pattern) -- confirmed the pairing is correct by matching the manifest's '8 to 7' result to this specific block. Quote verbatim: the amendment ADDS a new part f) committing $374,210 in new funding where the base motion's part b) had only REFERRED the funding question (i.e., baseline was $0 committed). Genuine, unambiguous expansion -- correctly encampments/response-scale/expansive."
  },
  {
-  "id": "8691fbe1afab",
+  "id": "9644f95e7153",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",
@@ -490,10 +490,10 @@
   "quote": "a one-time funding allocation of up to $200,000 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Loaded same item, fifth content block (11-4): 'That the amendment, as amended, BE APPROVED as follows: ... f) a one-time funding allocation of up to $200,000...' -- this is a further amendment that REPLACES the $374,210 figure just passed moments earlier in the SAME meeting (9ddf707bf29d, 8-7) with a lower $200,000 figure. The classifier's own whatAYeaDid already says 'reduced from the $374,210 figure in the immediately prior amendment,' but then labelled polarity 'expansive' -- an internal inconsistency. Read against its correct baseline (the amount immediately on the table, not the original zero-commitment referral), a YEA on this specific vote is unambiguously a REDUCTION: it cuts $174,210 from what had just passed. Leaving this 'expansive' would make the 4 NAY voters (Hopkins, Peloza, Trosow, Ferreira -- who wanted to KEEP the higher $374,210 figure, i.e. the MORE pro-funding position) read as having taken the 'restrictive'/anti-funding position, which is backwards and exactly the kind of wrong-direction error this review exists to catch. Same convention the classifier itself uses elsewhere in this batch for 'amend a just-proposed amount down' (747ddc1b03e4, 4e9c612c2fca: 'cut'/'reduced' framing). CORRECTED: axis stays response-scale, polarity flipped expansive -> restrictive. Quote (verbatim, unchanged, confirmed against source): 'a one-time funding allocation of up to $200,000 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023'."
+  "verifierNote": "Loaded same item, fifth content block (11-4): 'That the amendment, as amended, BE APPROVED as follows: ... f) a one-time funding allocation of up to $200,000...' -- this is a further amendment that REPLACES the $374,210 figure just passed moments earlier in the SAME meeting (9ddf707bf29d (superseded id), 8-7) with a lower $200,000 figure. The classifier's own whatAYeaDid already says 'reduced from the $374,210 figure in the immediately prior amendment,' but then labelled polarity 'expansive' -- an internal inconsistency. Read against its correct baseline (the amount immediately on the table, not the original zero-commitment referral), a YEA on this specific vote is unambiguously a REDUCTION: it cuts $174,210 from what had just passed. Leaving this 'expansive' would make the 4 NAY voters (Hopkins, Peloza, Trosow, Ferreira -- who wanted to KEEP the higher $374,210 figure, i.e. the MORE pro-funding position) read as having taken the 'restrictive'/anti-funding position, which is backwards and exactly the kind of wrong-direction error this review exists to catch. Same convention the classifier itself uses elsewhere in this batch for 'amend a just-proposed amount down' (747ddc1b03e4 (superseded id), 4e9c612c2fca (superseded id): 'cut'/'reduced' framing). CORRECTED: axis stays response-scale, polarity flipped expansive -> restrictive. Quote (verbatim, unchanged, confirmed against source): 'a one-time funding allocation of up to $200,000 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023'."
  },
  {
-  "id": "522423220717",
+  "id": "2129a952e630",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -505,7 +505,7 @@
   "verifierNote": "Loaded 2023-07-25 Council item 8.4.6, second content block (9-5): adds parts c)/d) committing $80,000/yr to the Primary Care Recruitment program. Verified this is correctly issue=none per the project's own documented calibration note (avoids the 'Transition into Practice' title false-triggering the transit keyword); no other tracked-issue keyword (budget, housing, etc.) appears in the operative text either. No missed classification."
  },
  {
-  "id": "747ddc1b03e4",
+  "id": "406e19f12293",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -514,10 +514,10 @@
   "quote": "That the new part c) BE AMENDED by replacing the contribution amount of $80,000 with the amount of $28,500.",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Same item, third content block (Failed 7-7): amendment to cut the contribution to $28,500. Quote verbatim. Correctly issue=none for the same reason as 522423220717."
+  "verifierNote": "Same item, third content block (Failed 7-7): amendment to cut the contribution to $28,500. Quote verbatim. Correctly issue=none for the same reason as 2129a952e630."
  },
  {
-  "id": "4e9c612c2fca",
+  "id": "d87f02619f90",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -529,7 +529,7 @@
   "verifierNote": "Same item, fourth content block (Passed 9-5): amendment to reduce the contribution to $50,000. Quote verbatim. Correctly issue=none."
  },
  {
-  "id": "df236ef2386e",
+  "id": "b9f97317690f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -543,7 +543,7 @@
   "verifierNote": "Same item, fifth content block (Passed 10-4): wrapper 'motion, as amended, BE APPROVED' verified against post_motion_texts full clause ($50,000 final). Correctly issue=none, wrapper_preamble."
  },
  {
-  "id": "cc9822fc64a9",
+  "id": "12480889db6e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -555,7 +555,7 @@
   "verifierNote": "Loaded 2023-07-25 Council item 8.4.8 (Passed 8-7). Quote verbatim, full clause confirmed. Thames Pool decommissioning/park-amenities item does not match any of the 8 tracked-issue keyword sets (bare 'budget' alone is not a budget keyword -- only compound phrases like 'capital budget' are). Correctly issue=none despite being a real, closely-divided vote."
  },
  {
-  "id": "cfa6e2dd4fda",
+  "id": "4ea7824fc728",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -569,7 +569,7 @@
   "verifierNote": "Loaded 2023-07-25 Council item 8.5.15, second content block (11-2): 'the Civic Administration BE REQUESTED to remove item 2.4.1 Mode Target Share Option 1 from the...staff report.' Quote verbatim. This shapes a future planning report rather than expanding/reducing actual transit service, frequency, route, or infrastructure -- correctly left unclear rather than force-fit to service-expansion."
  },
  {
-  "id": "ceef716a2313",
+  "id": "7c7e9a1992cc",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -583,7 +583,7 @@
   "verifierNote": "Loaded 2023-07-25 Council item 8.5.16, first content block (Failed 5-8): referral of Councillor Franke's Climate Emergency Action Plan communications. Quote verbatim. Referral-only, correctly left unclear regardless of pass/fail."
  },
  {
-  "id": "a5ad4d139512",
+  "id": "be567469932d",
   "issue": "climate",
   "axis": "target-strength",
   "polarity": "expansive",

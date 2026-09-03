@@ -387,7 +387,7 @@ The meeting adjourned at 12:48 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.2. Application - Issuance of Proclamation - Light the Night Day for the Leukemia & Lymphoma Society of Canada
 
@@ -395,7 +395,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 5.1. (ADDED) Members of Council Proof of COVID-19 Vaccination Policy
 
@@ -406,9 +406,11 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+**Nay (1):** [Michael van Holst](/councillors/former/m-van-holst)
+
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 
@@ -418,5 +420,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

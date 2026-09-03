@@ -282,36 +282,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 
 The meeting adjourned at 5:36 PM.
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 5.1. Deferred Matters List
-
-> Motion to receive Item Number 1 on the Deferred Matters List for the Community and Protective Services Committee, as at September 26, 2022.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 5.1. Deferred Matters List
-
-> Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at September 26, 2022, with the exception of Item Number 1.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -500,3 +470,49 @@ I'll call a hand vote on that. All those in favor? And that motion carries. Than
 Have a good evening.
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.1. Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location
+
+> That the following actions be taken with respect to the staff report, dated October 4, 2022, with respect to the Adult Live Entertainment Parlour located at 2010 Dundas Street – Deletion of Location: a)    the Civic Administration BE DIRECTED to provide the Community and Protective Services Commi...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy)
+
+**Nay (1):** [Mariam Hamou](/councillors/former/m-hamou)
+
+</details>
+
+### 5.1. Deferred Matters List
+
+> Motion to receive Item Number 1 on the Deferred Matters List for the Community and Protective Services Committee, as at September 26, 2022.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. Deferred Matters List
+
+> Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at September 26, 2022, with the exception of Item Number 1.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

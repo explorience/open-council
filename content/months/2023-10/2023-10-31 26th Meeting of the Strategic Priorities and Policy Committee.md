@@ -812,145 +812,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 8:42 PM.
 
 ****
-
----
-
-## Votes
-
-*11 substantive votes at this meeting (5 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2.1. London's Housing Pledge: A Path to 47,000 Units by 2031 Update
-
-> That the delegation request for M. Wallace, LDI, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
-
-> That the delegation request for Peter Gioiosa, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
-
-> That, with respect to the October Progress Update – Health & Homelessness Whole of Community System Response, the following actions be taken: a) that a new part c) be added to read “that, a one-time grant of $250,000 to the Argyle and Hamilton Road Business Improvement Associations be APPROVED, w...
-
-**✅ Motion Passed (8 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (3):** [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
-
-> That, the proposed amendment be amended to include: a) a new part be added to read “that, a one-time grant of $125,000 to the Hyde Park Business Improvement Association be APPROVED, with funding to be sourced from the Operating Budget Contingency Reserve funds; b) that the existing parts BE AMEND...
-
-**❌ Motion Failed (5 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (7):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (3):** [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
-
-> That with respect to the October Progress Update – Health & Homelessness Whole of Community System Response, the following actions be taken: Civic Administration BE DIRECTED to reach out to all Business Improvement Associations and invite a representative to participate in Business Reference Tabl...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 2.3. Community Cold Weather Response
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, that the following actions be taken regarding the Community Cold Weather Response Report; c)    TO AUTHORIZE and APPROVE a one-time funding allocation of up to $157,224 from the Social Services Reserve Fund for...
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 3.1. Delegation - Bill Rayburn, CAO, Middlesex County and Neal Roberts, Middlesex-London Paramedic Service - Service Overview and Operating Pressures
-
-> That with respect to the matter with respect to the Middlesex-London Paramedic Service, that the following actions be taken: a) that the Mayor BE REQUESTED to support the Middlesex County and Middlesex-London Paramedic Service in their advocacy including but not limited to issues of dispatch, off...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.1. Confirmation of Appointments to RBC Place London
-
-> That the following actions be taken with respect to the appointments to the RBC Place London Board of Directors:    a) Sara De Candido (Health Care Sector), Class 1, BE APPOINTED for the term ending November 14, 2024; and    b) Jennifer Diplock BE APPOINTED for the term ending November 14, 2024.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.2. 9th Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee
-
-> That the following actions be taken with respect to the 9th Report of Diversity, Inclusion and and Anti-Oppressions Community Advisory Committee from its meeting held on October 18, 2023:    a)  the following actions be taken with respect to the 2023 Diversity, Race Relations and Inclusivity Awar...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.3. City of London's Response to Housing and Homelessness - Councillors S. Stevenson and J. Pribil
-
-> That the following actions be taken with respect to the City of London’s response to Housing and Homelessness and report back to the November 21, 2023 Strategic Priorities and Policy Committee meeting:    a) the Civic Administration BE DIRECTED to report back on the recovery services currently be...
-
-**❌ Motion Failed (4 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 6. Confidential (Enclosed for Members only.)
-
-> That the following items BE REFERRED to the Council Meeting to be held on November 7, 2023 for consideration; 6.1 Land Acquisition/Disposition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations A matter pertaining to the pro...
-
-**❌ Motion Failed (4 to 9)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
 ---
 
 ## Full Transcript
@@ -2463,3 +2324,127 @@ I'm happy to report out that progress was made on the three items for which we w
 Motion carries. We are adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (5 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.1. London's Housing Pledge: A Path to 47,000 Units by 2031 Update
+
+> That the delegation request for M. Wallace, LDI, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
+
+> That the delegation request for Peter Gioiosa, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
+
+> That, with respect to the October Progress Update – Health & Homelessness Whole of Community System Response, the following actions be taken: a) that a new part c) be added to read “that, a one-time grant of $250,000 to the Argyle and Hamilton Road Business Improvement Associations be APPROVED, w...
+
+**✅ Motion Passed (8 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
+
+> That, the proposed amendment be amended to include: a) a new part be added to read “that, a one-time grant of $125,000 to the Hyde Park Business Improvement Association be APPROVED, with funding to be sourced from the Operating Budget Contingency Reserve funds; b) that the existing parts BE AMEND...
+
+**❌ Motion Failed (5 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (7):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
+
+> That with respect to the October Progress Update – Health & Homelessness Whole of Community System Response, the following actions be taken: Civic Administration BE DIRECTED to reach out to all Business Improvement Associations and invite a representative to participate in Business Reference Tabl...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 2.3. Community Cold Weather Response
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, that the following actions be taken regarding the Community Cold Weather Response Report; c)    TO AUTHORIZE and APPROVE a one-time funding allocation of up to $157,224 from the Social Services Reserve Fund for...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.1. Confirmation of Appointments to RBC Place London
+
+> That the following actions be taken with respect to the appointments to the RBC Place London Board of Directors:    a) Sara De Candido (Health Care Sector), Class 1, BE APPOINTED for the term ending November 14, 2024; and    b) Jennifer Diplock BE APPOINTED for the term ending November 14, 2024.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.3. City of London's Response to Housing and Homelessness - Councillors S. Stevenson and J. Pribil
+
+> That the following actions be taken with respect to the City of London’s response to Housing and Homelessness and report back to the November 21, 2023 Strategic Priorities and Policy Committee meeting:    a) the Civic Administration BE DIRECTED to report back on the recovery services currently be...
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 6. Confidential (Enclosed for Members only.)
+
+> That the following items BE REFERRED to the Council Meeting to be held on November 7, 2023 for consideration; 6.1 Land Acquisition/Disposition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations A matter pertaining to the pro...
+
+**❌ Motion Failed (4 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+

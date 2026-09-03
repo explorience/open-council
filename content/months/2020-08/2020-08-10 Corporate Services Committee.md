@@ -335,15 +335,7 @@ The meeting adjourned at 2:14 PM.
 
 ## Votes
 
-*5 substantive votes at this meeting (3 contested, 2 unanimous). Procedural motions excluded.*
-
-### 3.1. Not to be heard before 12:05 PM - Public Participation Meeting - Council Procedure By-law
-
-> That, on the recommendation of the City Clerk, the following actions be taken with respect to Council Procedure By-law: a)      the proposed by-law appended to the staff report dated August 10, 2020 as Appendix “A” being “A by-law to amend By-law A-50, as amended, being “A by-law to provide for t...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+*4 substantive votes at this meeting (3 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 4.1. Representation on the Municipal Service Board for the Provision of Land Ambulance Services
 
@@ -354,11 +346,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 **Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
 
-**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Absent (1):** [Jesse Helmer](/councillors/former/j-helmer)
 
 </details>
 
@@ -368,7 +360,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. Application - Issuance of Proclamation - World Patient Safety Day
 
@@ -379,9 +371,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
-**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (2):** [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst)
+
+**Absent (1):** [Jesse Helmer](/councillors/former/j-helmer)
 
 </details>
 
@@ -394,9 +388,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
-**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (2):** [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst)
+
+**Absent (1):** [Jesse Helmer](/councillors/former/j-helmer)
 
 </details>
 

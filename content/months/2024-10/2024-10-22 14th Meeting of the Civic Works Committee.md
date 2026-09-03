@@ -307,44 +307,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 10:21 AM.
 
 ****
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
-
-### 1. Disclosures of Pecuniary Interest
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Civic Works Committee Agenda BE APPROVED, to provide for Item 6.1 in Stage 6, Confidential, to be considered after Stage 1, Disclosures of Pecuniary Interest.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2. Consent
-
-> That Items 2.1 to 2.5 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. 9th Report of the Environmental Stewardship and Action Community Advisory Committee
-
-> That the following actions be taken with respect to the 10th Report of the Environmental Stewardship and Action Community Advisory Committee (ESACAC), from the meeting held on October 2, 2024: a)     the Design Specifications and Requirements Manual Working Group additional comments as appended t...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. Reassessment of the CB Smith No. 2 Municipal Drain
-
-> That, on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated October 22, 2024, related to the Reassessment of the CB Smith No. 2 Municipal Drain: a)     the drainage report, as appended to the above-noted...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -509,3 +471,34 @@ And moving on, we have no items for direction, deferred matters, additional busi
 Thanks everyone.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 1. Disclosures of Pecuniary Interest
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Civic Works Committee Agenda BE APPROVED, to provide for Item 6.1 in Stage 6, Confidential, to be considered after Stage 1, Disclosures of Pecuniary Interest.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2. Consent
+
+> That Items 2.1 to 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 9th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> That the following actions be taken with respect to the 10th Report of the Environmental Stewardship and Action Community Advisory Committee (ESACAC), from the meeting held on October 2, 2024: a)     the Design Specifications and Requirements Manual Working Group additional comments as appended t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

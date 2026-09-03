@@ -413,7 +413,7 @@ The Meeting adjourned at 1:53 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.1. London Downtown Business Association 2018 Proposed Budget - Municipal Special Levy
 
@@ -421,7 +421,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.2. Old East Village Business Association 2018 Proposed Budget - Municipal Special Levy
 
@@ -429,7 +429,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.3. Argyle Business Improvement Area 2018 Proposed Budget - Municipal Special Levy
 
@@ -437,7 +437,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.8. Declare Surplus and Sale - 1694 Evangeline Street and 126 Hamilton Road
 
@@ -445,7 +445,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Consideration of Appointment to the Transportation Advisory Committee (Requires 1 Voting Member at Large)
 
@@ -453,7 +453,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Consideration of Appointment to the Town and Gown Committee (Requires 1 Voting Member from Ward 13)
 
@@ -461,7 +461,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.3. Request for Designation of the Forked Fest as a Municipally Significant Event
 
@@ -469,5 +469,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

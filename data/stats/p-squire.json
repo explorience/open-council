@@ -60,24 +60,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 7234,
-    "yeas": 6581,
-    "nays": 503,
+    "totalVotes": 7830,
+    "yeas": 7161,
+    "nays": 519,
     "absent": 118,
-    "participationRate": 97.92645839093171,
-    "yeaRate": 92.8994918125353,
-    "contestedDissentRate": 9.072489869428185,
-    "contestedVotes": 4442,
-    "substantiveVotes": 5440,
-    "substantiveYeas": 4912,
-    "substantiveNays": 454,
-    "substantiveParticipationRate": 98.63970588235294,
-    "substantiveYeaRate": 91.53932165486395
+    "participationRate": 98.08429118773945,
+    "yeaRate": 93.2421875,
+    "contestedDissentRate": 24.26682001150086,
+    "contestedVotes": 1739,
+    "substantiveVotes": 5646,
+    "substantiveYeas": 5047,
+    "substantiveNays": 519,
+    "substantiveParticipationRate": 98.58306765851931,
+    "substantiveYeaRate": 90.67553000359324
   },
   "budgetVoting": {
-    "totalBudgetVotes": 929,
-    "budgetYeas": 770,
-    "budgetNays": 150,
+    "totalBudgetVotes": 700,
+    "budgetYeas": 586,
+    "budgetNays": 105,
     "budgetAbsent": 9
   },
   "topAlignments": [],
@@ -177,17 +177,10 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2987,
-      "yeas": 2740,
-      "nays": 237,
-      "participationRate": 99.66521593572146
-    },
-    {
-      "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1788,
-      "yeas": 1523,
-      "nays": 205,
-      "participationRate": 96.64429530201343
+      "totalVotes": 3928,
+      "yeas": 3604,
+      "nays": 314,
+      "participationRate": 99.74541751527495
     },
     {
       "committee": "Planning and Environment Committee",
@@ -195,6 +188,13 @@
       "yeas": 1475,
       "nays": 32,
       "participationRate": 95.31941808981658
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 1443,
+      "yeas": 1239,
+      "nays": 144,
+      "participationRate": 95.84199584199584
     },
     {
       "committee": "Civic Works Committee",

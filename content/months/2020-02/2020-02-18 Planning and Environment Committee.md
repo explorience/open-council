@@ -389,7 +389,7 @@ The meeting adjourned at 5:08 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -397,7 +397,7 @@ The meeting adjourned at 5:08 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Request for Council Resolution, under section 45(1.4) of the Planning Act, 1990 - 1331 Hyde Park Road
 
@@ -405,15 +405,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.2. Application - 1600/1622 Hyde Park Road and 1069 Gainsborough Road (Z-9067)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Hyde Park Investments Inc., relating to the property located at 1600/1622 Hyde Park Road and 1069 Gainsborough Road: a)  the proposed by-law appended to the staff r...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.3. 3rd Report of the London Advisory Committee on Heritage
 
@@ -421,15 +413,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 4.1. 3rd Report of the Advisory Committee on the Environment
-
-> That, the following actions be taken with respect to the 3rd Report of the Advisory Committee on the Environment, from its meeting held on February 5, 2020: a) the attached Energy Sub-Committee Report BE FORWARDED to the Planning and Environment Committee and the Cycling Advisory Committee for co...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. 3rd Report of the Advisory Committee on the Environment
 
@@ -437,7 +421,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 6. Adjournment
 
@@ -448,7 +432,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

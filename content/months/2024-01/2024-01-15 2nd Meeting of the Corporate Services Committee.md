@@ -474,28 +474,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:09 PM.
 
 ****
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 4. Items for Direction
-
-> That items 4.2 and 4.3 BE APPROVED
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Application - Issuance of Proclamation - World Thinking Day
-
-> That based on the application dated December 5, 2023 from Girl Guides of Canada, February 22, 2024 the proclamation request BE REFERRED to the January 23, 2024 Council meeting for consideration.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -708,3 +686,43 @@ Councillor Stevenson, seconder. Councillor ramen. and we'll do a hand vote, all 
 Motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+> That items 4.2 and 4.3 BE APPROVED
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Application - Issuance of Proclamation - World Thinking Day
+
+> That based on the application dated December 5, 2023 from Girl Guides of Canada, February 22, 2024 the proclamation request BE REFERRED to the January 23, 2024 Council meeting for consideration.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. (ADDED) Request for Indemnification for a Judicial Review - Councillor S. Stevenson
+
+> That the communication dated January 10, 2024 from Councillor S. Stevenson with respect to Indemnification for a Judicial Review BE RECEIVED and NO FURTHER ACTION BE TAKEN.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Peter Cuddy](/councillors/current/p-cuddy)
+
+</details>
+

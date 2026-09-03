@@ -5,18 +5,18 @@ slug: "j-p-bryant"
 meetingCount: 168
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2215
-votesYea: 2024
-votesNay: 191
+totalVotes: 2851
+votesYea: 2640
+votesNay: 211
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 89.7
 participationRate: 100.0
-yeaRate: 91.4
-contestedDissentRate: 10.3
-contestedVotes: 2215
+yeaRate: 92.6
+contestedDissentRate: 25.8
+contestedVotes: 712
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,215 |
-| Voted Yea | 2,024 (91.4%) |
-| Voted Nay | 191 (8.6%) |
+| Total Votes | 2,851 |
+| Voted Yea | 2,640 (92.6%) |
+| Voted Nay | 211 (7.4%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,215 |
-| Voted Yea | 2,024 (91.4%) |
-| Voted Nay | 191 (8.6%) |
+| Substantive Votes | 2,551 |
+| Voted Yea | 2,340 (91.7%) |
+| Voted Nay | 211 (8.3%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 10.3%
-- **Contested Votes**: 2,215
+- **Dissent Rate**: 25.8%
+- **Contested Votes**: 712
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 651 |
-| Voted Yea | 553 (84.9%) |
-| Voted Nay | 98 (15.1%) |
+| Budget Votes | 444 |
+| Voted Yea | 399 (89.9%) |
+| Voted Nay | 45 (10.1%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,112 | 1,046 | 66 | 100.0% |
-| Strategic Priorities and Policy Committee | 686 | 573 | 113 | 100.0% |
+| Council | 2,120 | 1,968 | 152 | 100.0% |
+| Strategic Priorities and Policy Committee | 314 | 267 | 47 | 100.0% |
 | Corporate Services Committee | 223 | 216 | 7 | 100.0% |
 | Community and Protective Services Committee | 166 | 162 | 4 | 100.0% |
 | Planning and Environment Committee | 28 | 27 | 1 | 100.0% |
@@ -104,6 +104,17 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Judy Bryant voted against the final outcome:*
+
+### 2014-11-25: Properties located
+  at 510 Central Avenue and 609 William Street (Z-8141)
+
+[MINUTES 26TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English)
+
+> Approve that a new part b) ii) J) BE
+  ADDED to provide for all parking at the rear, with one driveway off of
+  William Street and one driveway off of Central Avenue.
+
+Voted **Yea** - Motion Failed
 
 ### 2014-11-24: Council Benefits
 
@@ -152,27 +163,41 @@ Voted **Nay** - Motion
 ### 2014-09-16: COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-[MINUTES 22ND MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English)
+[MINUTES 22ND MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English)
 
-> Motion Failed
+> Approve clause 2, as amended.
 
 Voted **Yea** - Motion Failed
 
 ### 2014-09-16: COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-[MINUTES 22ND MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English)
+[MINUTES 22ND MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
+> Approve that the following actions be
+  taken with respect to the complaint by Junction Climbing Centre Inc.
+  regarding development charges imposed by The Corporation of the City of
+  London in conne...
 
 Voted **Nay** - Motion Passed
 
 ### 2014-09-02: Installation of
   Sidewalks on Shavian Blvd.
 
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
 
-> Motion Failed
+> Approve that pursuant section 13.6 of the
+  Council Procedure By-law that the proposed amendment to part a) of clause 22
+  BE RECONSIDERED to provide all Members of Council an opportunity to vote on t...
+
+Voted **Yea** - Motion Failed
+
+### 2014-07-29: Request for Support
+  for Fanshawe College London Downtown Campus - Phase ll
+
+[MINUTES 20TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
 
 Voted **Yea** - Motion Failed
 
@@ -186,28 +211,6 @@ Voted **Yea** - Motion Failed
 
 Voted **Nay** - Motion
   Passed
-
-### 2014-06-24: Resolution from the
-  Council Meeting of June 24, 2014 with respect to the declaration of a
-  potential vacancy of a Ward seat.
-
-[MINUTES 17TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=296bf116-08e6-4aec-ac1b-935d0b1bb4c9&Agenda=PostMinutes&lang=English)
-
-> Motion Failed
-
-Voted **Yea** - Motion Failed
-
-### 2014-05-05: Consideration of
-  Nominees for Appointment to the Board of Directors of the Greater London
-  International Airport Authority
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ac0c57f-6eac-4bfc-821c-f058cf410073&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Failed
-
-Voted **Yea** - Motion
-  Failed
 
 
 ## Committees Served

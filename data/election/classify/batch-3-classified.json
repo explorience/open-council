@@ -1,6 +1,6 @@
 [
  {
-  "id": "a23c5771a121",
+  "id": "b05082d4707f",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -12,7 +12,7 @@
   ]
  },
  {
-  "id": "90431365e935",
+  "id": "c673d4492c44",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -22,7 +22,7 @@
   "flags": []
  },
  {
-  "id": "483aafa664ec",
+  "id": "9af1b6aa3a44",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -35,7 +35,7 @@
   ]
  },
  {
-  "id": "9375f69a3817",
+  "id": "2fa653c053f6",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -45,7 +45,7 @@
   "flags": []
  },
  {
-  "id": "77c61a6c4a03",
+  "id": "c18021c4f310",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -57,7 +57,7 @@
   ]
  },
  {
-  "id": "9cee8c55cfde",
+  "id": "d385bdf2c1a0",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -70,7 +70,7 @@
   ]
  },
  {
-  "id": "cad64d3f88f7",
+  "id": "93812c484ecf",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -80,7 +80,7 @@
   "flags": []
  },
  {
-  "id": "5e53d3d0a2d1",
+  "id": "a114f764ba10",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -90,7 +90,7 @@
   "flags": []
  },
  {
-  "id": "ea3b4f086b8b",
+  "id": "a782bb1557f3",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -102,7 +102,7 @@
   ]
  },
  {
-  "id": "f179dafa766f",
+  "id": "7268e46eb5c3",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -114,7 +114,7 @@
   ]
  },
  {
-  "id": "998400eb3bed",
+  "id": "27c1d7c2d2f6",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -126,7 +126,7 @@
   ]
  },
  {
-  "id": "46538f9e8d91",
+  "id": "dd0355cf8cea",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -136,7 +136,7 @@
   "flags": []
  },
  {
-  "id": "40165d000a6b",
+  "id": "b49d23322893",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -146,7 +146,7 @@
   "flags": []
  },
  {
-  "id": "20f037c8728d",
+  "id": "2f6c42df0f83",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -158,7 +158,7 @@
   ]
  },
  {
-  "id": "208ce0e044ea",
+  "id": "d4bdbd0cf592",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -170,7 +170,7 @@
   ]
  },
  {
-  "id": "9a23fffc91d3",
+  "id": "e035ba131c60",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -182,7 +182,7 @@
   ]
  },
  {
-  "id": "1a8f5640663c",
+  "id": "f7b19167db4a",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -194,7 +194,7 @@
   ]
  },
  {
-  "id": "c12b1e1bf805",
+  "id": "7a081b561310",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -204,7 +204,7 @@
   "flags": []
  },
  {
-  "id": "8f88260bbc7b",
+  "id": "1604cf591bfc",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -216,7 +216,7 @@
   ]
  },
  {
-  "id": "c9e3b7f7b362",
+  "id": "2feca9b0f265",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -229,7 +229,7 @@
   ]
  },
  {
-  "id": "b4e5ab806f41",
+  "id": "6317d0acde87",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -242,7 +242,7 @@
   ]
  },
  {
-  "id": "5300911742f0",
+  "id": "c1218b59f9fd",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -255,7 +255,7 @@
   ]
  },
  {
-  "id": "ccd852275515",
+  "id": "efbf1c660c72",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -268,7 +268,7 @@
   ]
  },
  {
-  "id": "a41ad53fb87f",
+  "id": "0988fef4c4ea",
   "issue": "housing",
   "axis": "density",
   "polarity": "restrictive",
@@ -278,7 +278,7 @@
   "flags": []
  },
  {
-  "id": "7b841e6aae25",
+  "id": "2a866ab28a3c",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -290,7 +290,7 @@
   ]
  },
  {
-  "id": "90c02ecaf9f1",
+  "id": "b13470296c23",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -303,7 +303,7 @@
   ]
  },
  {
-  "id": "bc986a66ed44",
+  "id": "d34afc8826b2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -313,7 +313,7 @@
   "flags": []
  },
  {
-  "id": "f365e5d918b3",
+  "id": "7a1bf40af82b",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -325,7 +325,7 @@
   ]
  },
  {
-  "id": "e92845765097",
+  "id": "32530a45cd44",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -337,7 +337,7 @@
   ]
  },
  {
-  "id": "ed4f4a5e9b2e",
+  "id": "f825db08c9f2",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -349,7 +349,7 @@
   ]
  },
  {
-  "id": "0d6178fd82e4",
+  "id": "b434b504f72f",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -361,7 +361,7 @@
   ]
  },
  {
-  "id": "df06b640777c",
+  "id": "77981d9da593",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -371,7 +371,7 @@
   "flags": []
  },
  {
-  "id": "481d5559b96f",
+  "id": "f305a46d4239",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -384,7 +384,7 @@
   ]
  },
  {
-  "id": "fb7f7b70ad65",
+  "id": "a523ccefc418",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -396,7 +396,7 @@
   ]
  },
  {
-  "id": "26162dcc35ef",
+  "id": "30b08414cc17",
   "issue": "housing",
   "axis": "density",
   "polarity": "restrictive",
@@ -406,7 +406,7 @@
   "flags": []
  },
  {
-  "id": "19bd035f2805",
+  "id": "fab4bba8238c",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -416,7 +416,7 @@
   "flags": []
  },
  {
-  "id": "37014e8b1754",
+  "id": "5dac12a39641",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -428,7 +428,7 @@
   ]
  },
  {
-  "id": "0cdbc23ec773",
+  "id": "3f1093ba6162",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -438,7 +438,7 @@
   "flags": []
  },
  {
-  "id": "4390ee4a0a27",
+  "id": "ee58fa5ddd4f",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -450,7 +450,7 @@
   ]
  },
  {
-  "id": "455d5ae72448",
+  "id": "2df02f2a32b6",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -463,7 +463,7 @@
   ]
  },
  {
-  "id": "c9ab29c44640",
+  "id": "0fd7ef03c0f6",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -473,7 +473,7 @@
   "flags": []
  },
  {
-  "id": "ca884d26134a",
+  "id": "77a5282a02cc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -483,7 +483,7 @@
   "flags": []
  },
  {
-  "id": "59a101fa692b",
+  "id": "c673ba549adb",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -495,7 +495,7 @@
   ]
  },
  {
-  "id": "2ee8c1b1aaac",
+  "id": "f55fb27e9cf1",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -505,7 +505,7 @@
   "flags": []
  },
  {
-  "id": "ff6bffc74dc8",
+  "id": "4f9a8daaa7d8",
   "issue": "none",
   "axis": null,
   "polarity": null,

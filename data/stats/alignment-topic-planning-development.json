@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:56:38.686Z",
+  "generatedAt": "2026-09-02T11:51:05.657Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 95.92476489028213,
@@ -10,7 +10,7 @@
       "s-trosow": 81.48148148148148,
       "c-rahman": 93.47181008902076,
       "s-lehman": 96.04430379746836,
-      "a-hopkins": 90.29255319148936,
+      "a-hopkins": 91.15789473684211,
       "p-van-meerbergen": 91.91049913941481,
       "s-franke": 91.47058823529412,
       "e-peloza": 93.33333333333333,
@@ -146,7 +146,7 @@
       "s-hillier": 95.23241954707986
     },
     "a-hopkins": {
-      "j-morgan": 90.29255319148936,
+      "j-morgan": 91.15789473684211,
       "h-mcalister": 91.69329073482429,
       "s-lewis": 88.44155844155844,
       "p-cuddy": 85.11904761904762,
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "planning-development",
-  "motionCount": 1912
+  "motionCount": 2410
 }

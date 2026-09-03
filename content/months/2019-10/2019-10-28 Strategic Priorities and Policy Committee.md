@@ -742,7 +742,7 @@ The meeting adjourned at 8:02 PM.
 
 ## Votes
 
-*11 substantive votes at this meeting (1 contested, 10 unanimous). Procedural motions excluded.*
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -750,7 +750,7 @@ The meeting adjourned at 8:02 PM.
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 
 ### 2.2. London Economic Development Corporation Purchase of Services Agreement 2020-2023
 
@@ -758,15 +758,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
-
-### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - Amendments to Consolidated Fees and Charges By-law
-
-> That, on the recommendation of the City Clerk, with the concurrence of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the attached, revised by-law BE INTRODUCED at the Municipal Council meeting on November 12, 2019 for the purpose of repealing By-law No. A-...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - Amendments to Consolidated Fees and Charges By-law
 
@@ -777,7 +769,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
+
+**Nay (2):** [Steve Lehman](/councillors/current/s-lehman), [Michael van Holst](/councillors/former/m-van-holst)
 
 </details>
 
@@ -787,7 +781,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 4.4. Committee Appointment Preferences submitted by Council Members
 
@@ -795,7 +789,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 4.4. Committee Appointment Preferences submitted by Council Members
 
@@ -803,7 +797,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 4.4. Committee Appointment Preferences submitted by Council Members
 
@@ -811,7 +805,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 4.4. Committee Appointment Preferences submitted by Council Members
 
@@ -819,7 +813,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 4.4. Committee Appointment Preferences submitted by Council Members
 
@@ -827,7 +821,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 5.1. (ADDED) City Manager Search Committee - Terms of Reference
 
@@ -835,5 +829,5 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 

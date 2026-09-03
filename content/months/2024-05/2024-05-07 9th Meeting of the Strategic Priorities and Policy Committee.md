@@ -547,82 +547,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 5:01 PM.
 
 ****
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
-
-### 4.2. Consideration of Appointment to the Kettle Creek Conservation Authority Board of Directors (Requires 1 Member)
-
-> That John Joseph Strybosch BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.2. Consideration of Appointment to the Kettle Creek Conservation Authority Board of Directors (Requires 1 Member)
-
-> Consideration of Appointment to the Kettle Creek Conservation Authority
-
-**❌ Majority Winner: John Joseph Strybosch 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (15):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.4. Request for a Review of the Code of Conduct for Members of Council - Councillor S. Stevenson and Deputy Mayor S. Lewis
-
-> That the motion be amended to include a new part c) to read as follows: c)   the Civic Administration BE DIRECTED to review the Code of Conduct for Community Advisory Committees contained within the General Policy for Community Advisory Committees for general alignment with the principles of the ...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.4. Request for a Review of the Code of Conduct for Members of Council - Councillor S. Stevenson and Deputy Mayor S. Lewis
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 5.1. (ADDED) Request for One-Time Funding for Ark Aid - Mayor J. Morgan and Deputy Mayor S. Lewis
-
-> That the delegation request from Sarah Campbell, Executive Director, Ark Aid Street Mission Inc. BE APPROVED to heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 5.1. (ADDED) Request for One-Time Funding for Ark Aid - Mayor J. Morgan and Deputy Mayor S. Lewis
-
-> That part b) of the motion BE REFERRED to the May 28, 2024 meeting of the Strategic Priorities and Policy Committee
-
-**✅ Motion Passed (8 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 5.1. (ADDED) Request for One-Time Funding for Ark Aid - Mayor J. Morgan and Deputy Mayor S. Lewis
-
-> That the Civic Administration BE DIRECTED to extend one-time funding in the amount of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days until July 31, 2024 to be funded through the Community Investment Reserve Fund and for staff to engage with Ark Aid Street Mission Inc. to review...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -1767,3 +1691,80 @@ The motion carries 14 to zero. Thank you, colleagues. So that concludes our agen
 All those in favor. Motion carries. Thank you, everyone. We're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+
+### 4.2. Consideration of Appointment to the Kettle Creek Conservation Authority Board of Directors (Requires 1 Member)
+
+> That John Joseph Strybosch BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. Consideration of Appointment to the Kettle Creek Conservation Authority Board of Directors (Requires 1 Member)
+
+> Consideration of Appointment to the Kettle Creek Conservation Authority
+
+**❌ Majority Winner: John Joseph Strybosch 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.4. Request for a Review of the Code of Conduct for Members of Council - Councillor S. Stevenson and Deputy Mayor S. Lewis
+
+> That the motion be amended to include a new part c) to read as follows: c)   the Civic Administration BE DIRECTED to review the Code of Conduct for Community Advisory Committees contained within the General Policy for Community Advisory Committees for general alignment with the principles of the ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.4. Request for a Review of the Code of Conduct for Members of Council - Councillor S. Stevenson and Deputy Mayor S. Lewis
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 5.1. (ADDED) Request for One-Time Funding for Ark Aid - Mayor J. Morgan and Deputy Mayor S. Lewis
+
+> That the delegation request from Sarah Campbell, Executive Director, Ark Aid Street Mission Inc. BE APPROVED to heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 5.1. (ADDED) Request for One-Time Funding for Ark Aid - Mayor J. Morgan and Deputy Mayor S. Lewis
+
+> That part b) of the motion BE REFERRED to the May 28, 2024 meeting of the Strategic Priorities and Policy Committee
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 5.1. (ADDED) Request for One-Time Funding for Ark Aid - Mayor J. Morgan and Deputy Mayor S. Lewis
+
+> That the Civic Administration BE DIRECTED to extend one-time funding in the amount of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days until July 31, 2024 to be funded through the Community Investment Reserve Fund and for staff to engage with Ark Aid Street Mission Inc. to review...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

@@ -1809,101 +1809,6 @@ The meeting adjourned at 2:15 PM.
 > **Bill No. 94**
 > 
 > By-law No. A.-8345-66 - A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and Amber Nicole Flight for the acquisition of the property located at 21 Raywood Avenue in the City of London for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement.  (6.1/4/CSC)
-
----
-
-## Votes
-
-*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
-
-### 8.1. 4th Report of the Civic Works Committee
-
-> That the 4th Report of the Civic Works Committee, excluding items 5 (2.4) and 11 (3.1), BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.1.5. (2.4) Results of the 2022 Bike Share Request for Proposal Process and Next Steps
-
-> Motion to approve part b) b)    the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;
-
-**✅ Motion Passed (8 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.1.11. (3.1) J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
-
-> That item 11, clause 3.1, BE AMENDED by adding a new part d), as follows: “d)   enhance customer feedback mechanisms by tasking a third party to complete research and reports that are compliant with peer-reviewed research methodology and AODA, by 2023/2024.”
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.1.11. (3.1) J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
-
-> That item 11, clause 3.1, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.2. 10th Report of the Strategic Priorities and Policy Committee
-
-> That the 10th Report of the Strategic Priorities and Policy Committee, BE APPROVED, excluding item 2 (2.1).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.3. 4th Report of the Planning and Environment Committee
-
-> That the 4th Report of the Planning and Environment Committee, BE APPROVED, it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal Council, as well as oral submissions made a...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.4. 4th Report of the Corporate Services Committee
-
-> That the 4th Report of the Corporate Services Committee, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.5. 4th Report of the Community and Protective Services Committee
-
-> That the 4th Report of the Community and Protective Services Committee, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.6. 1st Report of the Audit Committee
-
-> That the 1st Report of the Audit Committee, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 9.2. 5th Meeting of the Corporate Services Committee
-
-> That the 5th Report of the Corporate Services Committee, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -2228,3 +2133,201 @@ Opposed in the vote, motion carries 13 to one. Okay, that brings us to adjournme
 All those in favor of adjournment today? No, no motion carries. We are adjourned. Happy birthday, Skylar.
 
 </details>
+
+---
+
+## Votes
+
+*16 substantive votes at this meeting (7 contested, 9 unanimous). Procedural motions excluded.*
+
+### 8.1. 4th Report of the Civic Works Committee
+
+> That the 4th Report of the Civic Works Committee, excluding items 5 (2.4) and 11 (3.1), BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.5. (2.4) Results of the 2022 Bike Share Request for Proposal Process and Next Steps
+
+> Motion to approve clause 2.4, excluding part b) That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated February 22, 2023, related to the results of the 2022 Bike Share Request for Proposal and N...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.1.5. (2.4) Results of the 2022 Bike Share Request for Proposal Process and Next Steps
+
+> Motion to approve part b) b)    the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.1.11. (3.1) J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
+
+> That item 11, clause 3.1, BE AMENDED by adding a new part d), as follows: “d)   enhance customer feedback mechanisms by tasking a third party to complete research and reports that are compliant with peer-reviewed research methodology and AODA, by 2023/2024.”
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.11. (3.1) J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
+
+> That item 11, clause 3.1, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2. 10th Report of the Strategic Priorities and Policy Committee
+
+> That the 10th Report of the Strategic Priorities and Policy Committee, BE APPROVED, excluding item 2 (2.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.2. (2.1) 2023 Assessment Growth Funding Allocation
+
+> That Business Case #11 Police Services: Increase Complement BE RECEIVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.3. 4th Report of the Planning and Environment Committee
+
+> That the 4th Report of the Planning and Environment Committee, BE APPROVED, it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal Council, as well as oral submissions made a...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4. 4th Report of the Corporate Services Committee
+
+> That the 4th Report of the Corporate Services Committee, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5. 4th Report of the Community and Protective Services Committee
+
+> That the 4th Report of the Community and Protective Services Committee, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.6. 1st Report of the Audit Committee
+
+> That the 1st Report of the Audit Committee, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 9.1. 5th Report of Council in Closed Session
+
+> That the 5th Report of Council, In Closed Session, BE APPROVED. 1.    Property Acquisition – 21 Raywood Avenue – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on ...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 9.2. 5th Meeting of the Corporate Services Committee
+
+> That the 5th Report of the Corporate Services Committee, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 13. By-laws
+
+> That Introduction and First Reading of Added Bill No. 94, BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Added Bill No. 94, BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Added Bill No. 94, BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+

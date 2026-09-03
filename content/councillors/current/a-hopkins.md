@@ -5,18 +5,18 @@ slug: "a-hopkins"
 meetingCount: 666
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 12561
-votesYea: 10959
-votesNay: 947
+totalVotes: 13182
+votesYea: 11569
+votesNay: 958
 votesAbsent: 180
 votesRecused: 16
 votesAbstained: 16
 votesOther: 443
 attendanceRate: 96.8
-participationRate: 94.8
-yeaRate: 92.0
-contestedDissentRate: 15.4
-contestedVotes: 5675
+participationRate: 95.0
+yeaRate: 92.4
+contestedDissentRate: 26.3
+contestedVotes: 3419
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 12,561 |
-| Voted Yea | 10,959 (87.2%) |
-| Voted Nay | 947 (7.5%) |
+| Total Votes | 13,182 |
+| Voted Yea | 11,569 (87.8%) |
+| Voted Nay | 958 (7.3%) |
 | Absent | 180 (1.4%) |
 | Recused (conflict of interest) | 16 (0.1%) |
 | Abstained | 16 (0.1%) |
-| Other/Unrecorded | 443 (3.5%) |
+| Other/Unrecorded | 443 (3.4%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,912 |
-| Voted Yea | 6,690 (90.4%) |
-| Voted Nay | 708 (9.6%) |
+| Substantive Votes | 8,851 |
+| Voted Yea | 7,338 (88.5%) |
+| Voted Nay | 958 (11.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 15.4%
-- **Contested Votes**: 5,675
+- **Dissent Rate**: 26.3%
+- **Contested Votes**: 3,419
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,9 +71,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,464 |
-| Voted Yea | 1,257 (86.1%) |
-| Voted Nay | 203 (13.9%) |
+| Budget Votes | 1,244 |
+| Voted Yea | 1,070 (86.3%) |
+| Voted Nay | 170 (13.7%) |
 | Absent | 4 |
 
 
@@ -96,7 +96,7 @@ prefillQuestions:
 **Most aligned with:**
 - Skylar Franke (94.9%)
 - David Ferreira (94.2%)
-- Hadleigh McAlister (93.5%)
+- Josh Morgan (93.7%)
 
 **Least aligned with:**
 - Susan Stevenson (80.2%)
@@ -110,8 +110,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 5,705 | 5,053 | 555 | 98.3% |
-| Strategic Priorities and Policy Committee | 3,257 | 2,510 | 259 | 85.0% |
+| Council | 6,670 | 5,967 | 606 | 98.5% |
+| Strategic Priorities and Policy Committee | 2,913 | 2,206 | 219 | 83.2% |
 | Planning and Environment Committee | 2,629 | 2,518 | 62 | 98.1% |
 | Civic Works Committee | 318 | 313 | 5 | 100.0% |
 | Corporate Services Committee | 271 | 260 | 3 | 97.0% |

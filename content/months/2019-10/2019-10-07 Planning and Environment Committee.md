@@ -541,7 +541,7 @@ The meeting adjourned at 7:05 PM.
 
 ## Votes
 
-*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -549,23 +549,7 @@ The meeting adjourned at 7:05 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. 10th Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 10th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on September 19, 2019: a)         a Working Group BE ESTABLISHED consisting of S. Heuchan, I. Mohamed, R. Doyle, S. Esan, L. Banks, S. Levin ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.2. Delegation - A. Morrison, Member-at-Large, Trees and Forests Advisory Committee - 9th Report of the Trees and Forests Advisory Committee
-
-> That, the following actions be taken with respect to the 9th Report of the Trees and Forests Advisory Committee, from its meeting held on September 25, 2019: a)         clause 5.3 BE AMENDED as follows: i)          part a) BE REFERRED to the Budget review for consideration; it being noted that pa...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.3. Public Participation Meeting - Application - 800, 805 and 810 Chelton Road - Application for Zoning By-law Amendment (Z-9089)
 
@@ -573,7 +557,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting - Application - 1339-1347 Commissioners Road West (Z-9081/O-9082)
 
@@ -584,11 +568,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (1):** [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -598,7 +582,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting - Application - 1339-1347 Commissioners Road West (Z-9081/O-9082)
 
@@ -609,11 +593,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -623,7 +607,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 6. Adjournment
 
@@ -634,7 +618,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

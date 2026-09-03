@@ -269,20 +269,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:40 PM.
 
 ****
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.3. (ADDED) Application - Issuance of Proclamation - Turkish Republic Day
-
-> That based on the application dated September 29, 2023 from the Federation of Canadian Turkish Associations, October 29, 2023 BE PROCLAIMED Turkish Republic Day.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -683,3 +669,35 @@ I'm just gonna ask Councilor Stevenson to report out from our confidential sessi
 And that concludes our agenda today. So I just need a motion to adjourn. Moved by Councilor Stevenson, seconded by everybody, all those in favor. Motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Budweiser Gardens Proposed Expansion - Additional Information and Proposed Amending Agreement
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the report providing additional information on the proposed Budweiser Gardens Expansion BE RECEIVED for information; b)    the proposed by-law as appended to the staff report dated Octo...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.3. (ADDED) Application - Issuance of Proclamation - Turkish Republic Day
+
+> That based on the application dated September 29, 2023 from the Federation of Canadian Turkish Associations, October 29, 2023 BE PROCLAIMED Turkish Republic Day.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

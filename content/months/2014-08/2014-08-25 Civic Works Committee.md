@@ -872,7 +872,7 @@ The
 
 ## Votes
 
-*19 substantive votes at this meeting (19 contested, 0 unanimous). Procedural motions excluded.*
+*21 substantive votes at this meeting (1 contested, 20 unanimous). Procedural motions excluded.*
 
 ### 2. 2nd Report of the
   Cycling Advisory Committee
@@ -880,14 +880,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 3. Water Quality
   Evaluation of Waterways - Appointment of Consultant - Irregular Result
@@ -897,12 +892,17 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe)
+### 3. Water Quality
+  Evaluation of Waterways - Appointment of Consultant - Irregular Result
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 5. Sifton Bog Surface
   Water Monitoring Program - Appointment of Consultant - Irregular Result
@@ -912,12 +912,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (5-0)
 
 ### 6. Huron Industrial
   Park Stormwater Management Servicing Environmental Assessment - Consulting
@@ -926,14 +921,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 7. Fanshawe Park Road
   East Widening - Adelaide Street to McLean Drive Detailed Design and Tendering
@@ -942,14 +932,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 8. Southdale Road and
   Boler Road Intersection Improvements Environmental Assessment Study - Appointment
@@ -958,14 +943,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Sarnia Road Widening
   - Wonderland Road North to Sleightholme Avenue - Detailed Design and
@@ -974,14 +954,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 10. Dundas Flexible
   Street Scoping Study - Consulting Engineer Assignment Increase
@@ -989,14 +964,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 11. Amendments to the
   Traffic and Parking By-law
@@ -1004,14 +974,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 12. Amendments to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
@@ -1019,14 +984,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 13. Pollution
   Prevention and Control Plan - Infoworks Modelling Consultant Appointment
@@ -1036,12 +996,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (5-0)
 
 ### 14. Truck Mounted, High
   Pressure Sewer Jetters - RFP 14-43
@@ -1049,14 +1004,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 15. Boom Flail Mowers,
   Single Source Procurement
@@ -1066,12 +1016,17 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe)
+### 15. Boom Flail Mowers,
+  Single Source Procurement
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 17. Single Source Cured
   in Place Pipe - Lining Supplies
@@ -1079,14 +1034,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 18. Thames Sydenham
   Region Source Water Protection Plan Risk Management Services Agreement
@@ -1096,12 +1046,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (5-0)
 
 ### 19. Appointment of
   Consultant - Design and Contract Administration Services for the New
@@ -1110,14 +1055,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 20. Landfill Gas
   Utilization - Request for Qualifications
@@ -1125,14 +1065,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (4-0)
 
 ### 21. London Transit
   Commission 2013 Annual Report
@@ -1142,12 +1077,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (5-0)
 
 ### 22. Installation of
   Sidewalks
@@ -1161,9 +1091,9 @@ The
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/former/h-l-usher), [Stephen Orser](/councillors/former/s-orser), [Russell Monteith](/councillors/former/w-r-monteith)
 
-**Nay (1):** [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (1):** [Nancy Branscombe](/councillors/former/n-branscombe)
 
 </details>
 

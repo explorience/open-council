@@ -523,7 +523,7 @@ The meeting adjourned at 8:01 PM.
 
 ## Votes
 
-*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -531,7 +531,7 @@ The meeting adjourned at 8:01 PM.
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 
 ### 2.5. 2019 Annual Development Report
 
@@ -539,39 +539,7 @@ Unanimous (1-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
-
-### 3.1. 1st Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 1st Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on January 16, 2020: a)  the following actions be taken with respect to the 12th Report of the Environmental and Ecological Planning Advisory ...
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (1-0)
-
-### 3.2. 464-466 Dufferin Avenue and 499 Maitland Street (OZ-9130)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Ian B. Johnstone Professional Corporation, relating to the property located at 464-466 Dufferin Avenue and 499 Maitland Street: a)   the proposed by-law appended to...
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (1-0)
-
-### 3.3. 6682 Fisher Lane (TZ-9132)
-
-> That, on the recommendation of the Director, Development Services, based on the application by Joe Marche and Monique Rodriguez, relating to the property located at 6682 Fisher Lane, the proposed by-law appended to the staff report dated February 3, 2020 BE INTRODUCED at the Municipal Council mee...
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (1-0)
-
-### 3.4. Victoria Park Secondary Plan (O-8978)
-
-> That, the following actions be taken with respect to the Victoria Park Secondary Plan: a) the Victoria Park Secondary Plan BE REFERRED back to the Civic Administration for further public consultation and consideration, with a report back to a future meeting of the Planning and Environment Committ...
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (1-0)
+Unanimous (3-0)
 
 ### 4.1. Councillor A. Hopkins  - Review of Bill 108 at it relates to Conservation Authorities
 
@@ -579,13 +547,5 @@ Unanimous (1-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
-
-### 4.3. 1st Report of the Trees and Forests Advisory Committee
-
-> That, the following actions be taken with respect to the 1st Report of the Trees and Forests  Advisory Committee, from its meeting held on January 22, 2020: a)   the following actions be taken with respect to the Education Sub-Committee update:    i)       the Civic Administration BE REQUESTED to...
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (1-0)
+Unanimous (3-0)
 

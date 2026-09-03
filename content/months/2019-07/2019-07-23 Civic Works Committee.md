@@ -556,7 +556,7 @@ The meeting adjourned at 6:49 PM.
 
 ## Votes
 
-*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -564,7 +564,7 @@ The meeting adjourned at 6:49 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. Wonderland Road Sanitary Sewer Extension - Appointment of Consulting Engineer
 
@@ -572,7 +572,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.5. Current and Proposed Actions for Reducing and Managing Plastics in the Residential Sector and the Role for the Hefty EnergyBag Pilot Project
 
@@ -580,7 +580,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.6. Award of Tender 19-47 Contract 15: Oakridge Acres Phase lll, Pinetree, Dolway and Hickory - Irregular Result
 
@@ -588,15 +588,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. Sewer Private Drain Connection Policy Review Results: Proposed Drainage By-law (WM-4) and Wastewater & Stormwater By-law (WM-28) Amendments
-
-> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Drainage By-law (WM-4) and the Wastewater & Stormwater By-law (WM-28): a)            the attached revised proposed by-law amendment as...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. Request for Compassionate Compensation for Private Drain Connection - K. Ramsay, 55 1/2 Ada Street
 
@@ -604,7 +596,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. Victoria Bridge Replacement - Detailed Design and Tendering - Appointment of Consulting Engineer
 
@@ -615,11 +607,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Michael van Holst](/councillors/former/m-van-holst), [Phil Squire](/councillors/former/p-squire)
 
 **Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -629,7 +621,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.2. New Sidewalks School Priority - Councillors S. Lewis and J. Morgan
 
@@ -637,5 +629,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

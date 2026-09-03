@@ -646,7 +646,7 @@ The meeting adjourned at 2:53 PM.
 
 ## Votes
 
-*9 substantive votes at this meeting (2 contested, 7 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -654,18 +654,18 @@ The meeting adjourned at 2:53 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.8. Automated Speed Enforcement - Spring 2021 Update
 
 > That the Civic Administration BE DIRECTED to proceed with the implementation of the Automated Speed Enforcement (ASE) program; it being noted that the staff report, dated March 30, 2021, with respect to this matter, was received. (2021-T08)
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (5):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
 
 **Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
@@ -677,18 +677,18 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.13. Green Bin Program Design - Community Engagement Feedback
 
 > Motion to approve the remainder of the clause, parts b) to f), inclusive.
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (5):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
 
 **Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
@@ -700,7 +700,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.17. Dundas Place - Temporary Bicycle Lanes
 
@@ -708,15 +708,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 4.1. 2nd Report of the Cycling Advisory Committee
-
-> That the following actions be taken with respect to the 2nd Report of the Cycling Advisory Committee, from its meeting held on March 17, 2021: a)     the following actions be taken with respect to the Notice of Revised Application and Notice of Public Meeting, dated March 11, 2021, from L. Davies...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.2. (ADDED) Imperial Road Sidewalk - Councillor M. Cassidy
 
@@ -724,7 +716,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.3. (ADDED) Reallocation of Sidewalk Construction Funds - Councillor M. van Holst
 
@@ -732,5 +724,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

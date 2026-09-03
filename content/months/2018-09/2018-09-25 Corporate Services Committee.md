@@ -442,7 +442,7 @@ The meeting adjourned at 2:13 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.1. City of London 2019 Provincial and Federal Budget Submissions
 
@@ -453,11 +453,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (3):** [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Jared Zaifman](/councillors/former/j-zaifman)
 
-**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+**Nay (1):** [Michael van Holst](/councillors/former/m-van-holst)
 
-**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Matt Brown](/councillors/current/m-brown)
+**Absent (1):** [Matt Brown](/councillors/former/m-brown)
 
 </details>
 
@@ -467,7 +467,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
@@ -475,7 +475,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
@@ -483,7 +483,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
@@ -491,5 +491,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

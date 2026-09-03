@@ -1111,166 +1111,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 5:03 PM.
 
 ****
-
----
-
-## Votes
-
-*15 substantive votes at this meeting (4 contested, 11 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.4. Updating the Program Guidelines for the Transit Oriented Development Community Improvement Plan Per-Unit Forgivable Loan Program
-
-> Motion to approve part a) and c)
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.4. Updating the Program Guidelines for the Transit Oriented Development Community Improvement Plan Per-Unit Forgivable Loan Program
-
-> Motion to approve part b) i)
-
-**❌ Motion Failed (1 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 2.4. Updating the Program Guidelines for the Transit Oriented Development Community Improvement Plan Per-Unit Forgivable Loan Program
-
-> Motion to approve part b) ii)
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. 5th Report of the Community Advisory Committee on Planning
-
-> That, the following actions be taken with respect to the 5th Report of the Community Advisory Committee on Planning Report (CACP), from the meeting held on August 21st, 2025: a)    the expenditure of up to $750.00 for the remainder of 2025 and up to $1,500.00 for 2026 to allow the Community Advis...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.2. 230 Adelaide Street North - OZ-25082
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of London Sports Group (c/o Siv-ik Planning & Design) relating to the property located at 230 Adelaide Street North, the proposed by-law as appended to the staff r...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.3. 825 Wharncliffe Road South - Z-25089
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Hafiz Qaddafi c/o Hashim Imtiaz relating to the property located at 825 Wharncliffe Road South, the revised attached by-law, BE INTRODUCED at the Municipal Coun...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 1911 North Routledge Park  - OZ-25080
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of HLH Investments (c/o Zelinka Priamo) relating to the property located at 1911 North Routledge Park: a)    consistent with Policy 43_ of the Official Plan for th...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.6. 772 Reardon Boulevard - Z-25081
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Drewlo Holdings Inc. relating to the property located at 772 Reardon Boulevard: a)    the proposed by-law as appended to the staff report dated September 9, 202...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.7. 1470-1474 Highbury Avenue North  - OZ-9508
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Copia Developments (c/o Zelinka Priamo Ltd.) relating to the property located at 1470-1474 Highbury Avenue North, the request to amend Zoning By-law No. Z.-1 to...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.8. 767 Southdale Road East - Z-25083
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1000077448 Ontario Inc. (c/o Siv-ik Planning & Design Inc.) relating to the property located at 767 Southdale Road East: a)    the proposed by-law as appended t...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 3.9. 100 Kellogg Lane, 1080-1108 & 1079-1127 Dundas Street, 420 Burbrook Place, 351 Eleanor Street & 1101 King Street and 1151 York Street - OZ-25070
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1803299 Ontario Inc. (c/o City Planning Solutions Inc.) relating to the property located at 100 Kellogg Lane, 1080-1108 & 1097-1127 Dundas Street, 420 Burbrook ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.9. 100 Kellogg Lane, 1080-1108 & 1079-1127 Dundas Street, 420 Burbrook Place, 351 Eleanor Street & 1101 King Street and 1151 York Street - OZ-25070
-
-> That part j) iii) a motion BE AMMENDED to reads as follows:     Implement the recommendations from the Path Loss Study to ensure acceptable service levels.
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman)
-
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. Hyde Park BIA Expansion Project - Additional Consultation Reporting
-
-> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following action be taken with respect to the staff report dated September 9, 2025, related to the request from the Hyde Park BIA to expand its boundaries: a)    the Civic Administration BE DIRECTED to proce...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. Hyde Park BIA Expansion Project - Additional Consultation Reporting
-
-> That the delegation request from D. Szpakowski, HPBIA, as appended to the Agenda, to be heard at this time.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -2353,3 +2193,140 @@ I'll call the vote. Seeing the vote, the motion carries five to zero. Look for a
 Motion carries. Thank you, folks.
 
 </details>
+
+---
+
+## Votes
+
+*12 substantive votes at this meeting (4 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.4. Updating the Program Guidelines for the Transit Oriented Development Community Improvement Plan Per-Unit Forgivable Loan Program
+
+> Motion to approve part a) and c)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Updating the Program Guidelines for the Transit Oriented Development Community Improvement Plan Per-Unit Forgivable Loan Program
+
+> Motion to approve part b) i)
+
+**❌ Motion Failed (1 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.4. Updating the Program Guidelines for the Transit Oriented Development Community Improvement Plan Per-Unit Forgivable Loan Program
+
+> Motion to approve part b) ii)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 5th Report of the Community Advisory Committee on Planning
+
+> That, the following actions be taken with respect to the 5th Report of the Community Advisory Committee on Planning Report (CACP), from the meeting held on August 21st, 2025: a)    the expenditure of up to $750.00 for the remainder of 2025 and up to $1,500.00 for 2026 to allow the Community Advis...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.3. 825 Wharncliffe Road South - Z-25089
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Hafiz Qaddafi c/o Hashim Imtiaz relating to the property located at 825 Wharncliffe Road South, the revised attached by-law, BE INTRODUCED at the Municipal Coun...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 1911 North Routledge Park  - OZ-25080
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of HLH Investments (c/o Zelinka Priamo) relating to the property located at 1911 North Routledge Park: a)    consistent with Policy 43_ of the Official Plan for th...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 767 Southdale Road East - Z-25083
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1000077448 Ontario Inc. (c/o Siv-ik Planning & Design Inc.) relating to the property located at 767 Southdale Road East: a)    the proposed by-law as appended t...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.9. 100 Kellogg Lane, 1080-1108 & 1079-1127 Dundas Street, 420 Burbrook Place, 351 Eleanor Street & 1101 King Street and 1151 York Street - OZ-25070
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1803299 Ontario Inc. (c/o City Planning Solutions Inc.) relating to the property located at 100 Kellogg Lane, 1080-1108 & 1097-1127 Dundas Street, 420 Burbrook ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.9. 100 Kellogg Lane, 1080-1108 & 1079-1127 Dundas Street, 420 Burbrook Place, 351 Eleanor Street & 1101 King Street and 1151 York Street - OZ-25070
+
+> That part j) iii) a motion BE AMMENDED to reads as follows:     Implement the recommendations from the Path Loss Study to ensure acceptable service levels.
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Hyde Park BIA Expansion Project - Additional Consultation Reporting
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following action be taken with respect to the staff report dated September 9, 2025, related to the request from the Hyde Park BIA to expand its boundaries: a)    the Civic Administration BE DIRECTED to proce...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Hyde Park BIA Expansion Project - Additional Consultation Reporting
+
+> That the delegation request from D. Szpakowski, HPBIA, as appended to the Agenda, to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

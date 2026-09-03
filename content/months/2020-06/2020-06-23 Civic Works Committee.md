@@ -222,7 +222,7 @@ The meeting adjourned at 12:18 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. (ADDED) Active Transportation Manager - Councillors E. Peloza and S. Lewis
 
@@ -230,7 +230,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. (ADDED) Removal of Trees on Lambeth Avenue - H. Sanderson - Request for Delegation Status
 
@@ -238,5 +238,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

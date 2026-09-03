@@ -3073,7 +3073,7 @@ Thank you.
 
 ## Votes
 
-*10 substantive votes at this meeting (3 contested, 7 unanimous). Procedural motions excluded.*
+*13 substantive votes at this meeting (6 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 3.1. 3924, 4012, and 4050 Colonel Talbot Road - O-26047/Z-26046/39T-12503
 
@@ -3103,6 +3103,23 @@ Unanimous (5-0)
 **Yea (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
 
 **Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.7. 36 Wethered Street - Z-26050
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants Ltd. (c/o Jay McGuffin) relating to the property located at 36 Wethered Street, the proposed by-law as appended to the staff...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
 
 </details>
 
@@ -3174,9 +3191,41 @@ Unanimous (6-0)
 
 ### 4.1. Councillor C. Rahman - Third-Party Appeal Mechanism
 
+> That the submission dated June 9, 2026, from Councillor C. Rahman related to Third-Party Appeal Mechanism, BE RECEIVED;     it being noted that the Planning and Environment Committee received the following communications with respect to this matter: -    a communication dated June 8, 2026, from C...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Councillor C. Rahman - Third-Party Appeal Mechanism
+
 > That the delegation request as appended to the added agenda from M. Moussa, be heard at this time.
 
 **✅ Motion Passed (5 to 0)**
 
 Unanimous (5-0)
+
+### 6.1. Solicitor-Client Privilege
+
+> That the Planning and Environment Committee rise and go into Committee, In Closed Session, for the purpose of considering the following: a matter pertaining to advice that is subject to solicitor-client privilege related to 1057-1061 Richmond Street, including communications necessary for that pu...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
 

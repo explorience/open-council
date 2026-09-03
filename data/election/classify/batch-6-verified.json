@@ -1,6 +1,6 @@
 [
  {
-  "id": "09650a221df8",
+  "id": "8cb75dfd230e",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -14,7 +14,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "7673f3eaf052",
+  "id": "0c4349655744",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -28,7 +28,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "353b10e65673",
+  "id": "834a1d02a395",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -42,7 +42,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "f0be8624ec75",
+  "id": "24f779d73ea8",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -56,7 +56,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "4816a8dbd930",
+  "id": "fd63bcc78cdb",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -68,7 +68,7 @@
   "verifierNote": "Loaded item 8.1.13 (Council, 767 Southdale Rd E rezoning, Passed 14-1): quote and application-approval axis verified verbatim against the operative by-law-introduction clause; correctly avoided guessing a density axis from a bare R1->R1/R8 zone-code change with no explicit density/height wording."
  },
  {
-  "id": "fbe5d8717596",
+  "id": "9eee7fd0c8a2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -82,7 +82,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "e805d2ddb3c4",
+  "id": "96ea8a87d491",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -94,7 +94,7 @@
   "verifierNote": "Loaded item 8.3.3 (Council, Wellington Gateway AECOM design-contract increase, Passed 13-1). Issue and polarity (transit/expansive) hold, but 'service-expansion' does not: the operative clause is a consulting-contract price increase and a financing approval (AFFIRM_RE hits: BE APPROVED / BE AUTHORIZED) \u2014 it does not itself expand any service, route, frequency, network, or infrastructure (the word 'infrastructure' only appears inside the pre-existing project's own title, not as new scope being added). This is a procurement/budget approval, not a service-expansion decision \u2014 corrected to the same generic application-approval axis the classifier itself correctly used for the batch's rezoning items, to avoid overclaiming 'expanded transit service' from a cost-increase vote."
  },
  {
-  "id": "d92c2676d8b4",
+  "id": "9ce562bc904e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -106,7 +106,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "e56eb972d15a",
+  "id": "50e862d273eb",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -118,7 +118,7 @@
   "verifierNote": "Loaded item 8.4.5 (Council, IHAP agreement ratification, Passed 13-1): AFFIRM_RE-type verb (ratify/BE INTRODUCED) confirmed, no 'affordable housing' phrase present so generic application-approval axis (not affordable-funding) is the right call, quote verbatim."
  },
  {
-  "id": "ac621e53bd84",
+  "id": "4976c983b20d",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -133,7 +133,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "c0ce6cf62032",
+  "id": "e16a4d74c461",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -147,7 +147,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "667304ee4d37",
+  "id": "18b895f37109",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -156,10 +156,10 @@
   "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Loaded item 2.1 (ICSC committee stage, Passed 5-1) \u2014 the committee-stage sibling of 3d072ced8231, same text. Same axis correction as 3d072ced8231 (application-approval, not service-expansion \u2014 see that entry's note). Additionally reworded whatAYeaDid to 'Recommended' framing: this is a committee recommendation to Council, not a final decision (Council ratified it separately three weeks later at item 8.3.3) \u2014 the classifier itself used this same 'Recommended' framing for dbe25f95d138 (also a committee-stage recommendation later ratified at Council) but not consistently here; corrected for consistency and to avoid stating a committee vote 'increased' a contract that was still subject to Council's own vote."
+  "verifierNote": "Loaded item 2.1 (ICSC committee stage, Passed 5-1) \u2014 the committee-stage sibling of 3d072ced8231 (superseded id), same text. Same axis correction as 3d072ced8231 (superseded id) (application-approval, not service-expansion \u2014 see that entry's note). Additionally reworded whatAYeaDid to 'Recommended' framing: this is a committee recommendation to Council, not a final decision (Council ratified it separately three weeks later at item 8.3.3) \u2014 the classifier itself used this same 'Recommended' framing for dbe25f95d138 (superseded id) (also a committee-stage recommendation later ratified at Council) but not consistently here; corrected for consistency and to avoid stating a committee vote 'increased' a contract that was still subject to Council's own vote."
  },
  {
-  "id": "745320f6dbfa",
+  "id": "79a4be5c9084",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -171,7 +171,7 @@
   "verifierNote": "Loaded item 2.4 (PEC, TOD forgivable-loan guidelines): traced the vote-splitting sequence (part a)+c) 5-0, part b)i) FAILED 1-4, part b)ii) 5-0) and confirmed this id's 'Failed 1-4' result and Yeas:[S. Lehman] map to part b)i) specifically ('non-profits and/or affordable housing applicants'), not part b)ii) (green development measures) \u2014 quote and affordable-funding axis both verbatim-correct for that specific sub-clause."
  },
  {
-  "id": "280b1a605da3",
+  "id": "323ffdf46637",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -180,10 +180,10 @@
   "quote": "the proposed by-law as appended to the staff report dated September 9, 2025, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on September 23, 2025, to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject properties FROM a Residential R1 (R1-4) Zone TO a Residential R1/Residential R8 Special Provision (R1-4/R8-4(_)) Zone",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Loaded item 3.8 (PEC committee stage, 767 Southdale Rd E, Passed 4-1): identical rezoning clause to 5dc4e9be01e4 one meeting cycle earlier; classifier correctly used 'Recommended' (not 'Approved') to reflect this is the committee-stage recommendation later ratified by Council, not the final decision itself."
+  "verifierNote": "Loaded item 3.8 (PEC committee stage, 767 Southdale Rd E, Passed 4-1): identical rezoning clause to 5dc4e9be01e4 (superseded id) one meeting cycle earlier; classifier correctly used 'Recommended' (not 'Approved') to reflect this is the committee-stage recommendation later ratified by Council, not the final decision itself."
  },
  {
-  "id": "9f632543eedb",
+  "id": "5f8aa51302f2",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -197,7 +197,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "af0eb6aa83a3",
+  "id": "21d7ba5099f7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -209,7 +209,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "a5c0e3814085",
+  "id": "1bd8e0b4734c",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "expansive",
@@ -221,7 +221,7 @@
   "verifierNote": "Loaded item 2.3 (CPSC, Western/Sarnia/Philip Aziz corridor, Failed 1-4): two motions in this item ('part b', Failed 1-4, cycling infrastructure implementation; 'part c', also Failed 1-4 with identical voters, pedestrian-scramble report-back) share the same result string but were correctly disambiguated by content \u2014 this id's quote matches part b)'s cycling-infrastructure clause verbatim, not part c)."
  },
  {
-  "id": "9d2d16516460",
+  "id": "1d4dcf1c6588",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -235,7 +235,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "3afb7e2cad1f",
+  "id": "dd1dd833fc1e",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -250,7 +250,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "3952c790ba94",
+  "id": "c8bc009546a0",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -262,7 +262,7 @@
   "verifierNote": "Loaded item 8.2.14 (Council, 514-520 South St rezoning R7->R5SP, Passed 12-2): quote verbatim; correctly kept on generic application-approval axis rather than reading R7->R5 as a density decrease from the bare zone-code change alone."
  },
  {
-  "id": "a1809ef17b5c",
+  "id": "d509b701e5cb",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -276,7 +276,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "47030084ea1e",
+  "id": "d971642a5166",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -288,7 +288,7 @@
   "verifierNote": "Loaded item 8.2.20 (Council, city-wide stacked-townhouse definition amendment, Passed 13-2): operative clause explicitly 'facilitate stacked townhouse dwellings with more than two units high' is an unambiguous citywide density/height increase; quote verbatim."
  },
  {
-  "id": "6fb8aac5501b",
+  "id": "480893a809c4",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -302,7 +302,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "7cf8ddca1bc9",
+  "id": "e73832363a1b",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -316,7 +316,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "2f4e4bf8f5a7",
+  "id": "7362cc701ef3",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -328,7 +328,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "a076bd968c19",
+  "id": "c5759a177623",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -342,7 +342,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "c341c159cdca",
+  "id": "520ac0d6c972",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -354,7 +354,7 @@
   "verifierNote": "Loaded item 8.2.8 full record (Council, Medway Valley Heritage Forest ESA (South) Conservation Master Plan, Passed 10-5, plus its committee-stage amendment votes). The classifier flagged this one itself as a close call, and on independent review I can't confirm it: the operative clause directs Civic Administration to 'update [the CMP] to remove the trail section of Attawandaron Road Park and take no further action on the implementation and construction of this trail' \u2014 the verb 'remove' governs the TRAIL (a planned recreation amenity), not the ESA's natural-heritage designation or protection status, which is unchanged either way. The record shows the push to cancel the trail was driven by resident/property-encroachment concerns near Attawandaron Rd (per the communications from the neighbourhood association and the encroachment-report-back amendment adopted alongside it), not an articulated ecological-protection rationale, and part c) of the same amended motion preserves 'passive recreation consistent with historical use' regardless of outcome \u2014 so a yea here doesn't cleanly read as 'more protective of natural heritage' versus simply resolving a park-amenity/property dispute in the residents' favour. Given genuine ambiguity on which way (or whether) this maps onto the natural-heritage axis, downgrading to unclear rather than asserting a direction I can't fully stand behind."
  },
  {
-  "id": "7126cff13284",
+  "id": "196fee010d78",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -363,10 +363,10 @@
   "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Loaded item 8.4.7 (Council, Wellington St AECOM construction-inspection contract increase, Passed 13-2). Same axis correction as 3d072ced8231 and the same reasoning: a contract-price increase and financing approval is not itself a service/infrastructure expansion under the axis's own definition (increase-verb within 60 chars of service/route/frequency/network/infrastructure does not fire on this text) \u2014 corrected to application-approval. This is the final Council decision (not committee stage), so the 'Increased/approved' whatAYeaDid wording is accurate as-is."
+  "verifierNote": "Loaded item 8.4.7 (Council, Wellington St AECOM construction-inspection contract increase, Passed 13-2). Same axis correction as 3d072ced8231 (superseded id) and the same reasoning: a contract-price increase and financing approval is not itself a service/infrastructure expansion under the axis's own definition (increase-verb within 60 chars of service/route/frequency/network/infrastructure does not fire on this text) \u2014 corrected to application-approval. This is the final Council decision (not committee stage), so the 'Increased/approved' whatAYeaDid wording is accurate as-is."
  },
  {
-  "id": "7ae6c0ae05ef",
+  "id": "6bb73746bbfc",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -375,10 +375,10 @@
   "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Loaded item 2.4 (ICSC committee stage, Passed 4-1) \u2014 the committee-stage sibling of 883ee33ef545, same text. Same axis correction (application-approval, not service-expansion) and same committee-stage wording fix as cf36e50bdd48 (this is a recommendation later ratified by Council, not a final decision itself)."
+  "verifierNote": "Loaded item 2.4 (ICSC committee stage, Passed 4-1) \u2014 the committee-stage sibling of 883ee33ef545 (superseded id), same text. Same axis correction (application-approval, not service-expansion) and same committee-stage wording fix as cf36e50bdd48 (superseded id) (this is a recommendation later ratified by Council, not a final decision itself)."
  },
  {
-  "id": "cf86b5f29019",
+  "id": "fa341d3011fc",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -392,7 +392,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "5beac63c53b5",
+  "id": "bf7543d954d6",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -406,21 +406,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "b7f1a4280119",
-  "issue": "none",
-  "axis": null,
-  "polarity": null,
-  "whatAYeaDid": "Approved the direction for the Mayor to write to the Ontario Solicitor General suggesting changes to provincial legislation on dangerous dogs and public safety.",
-  "confidence": "high",
-  "quote": "The Mayor BE REQUESTED to write a letter to the Solicitor General, with respect to this matter, to suggest changes to provincial legislation related to dangerous dogs and public safety.",
-  "flags": [
-   "informational_ask"
-  ],
-  "verdict": "confirmed",
-  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
- },
- {
-  "id": "bf6758a065fe",
+  "id": "119053b89c45",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -434,7 +420,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "dd94deb7add9",
+  "id": "050650d10eff",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -446,7 +432,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "93a7f9754452",
+  "id": "0052db0821e2",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -460,7 +446,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "87b1cae35e16",
+  "id": "dea525220d38",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -472,7 +458,7 @@
   "verifierNote": "Loaded item 8.2.11 (Council, Municipal Rental Assistance Program for Indigenous-led housing, Passed 14-1): quote verbatim; 'experiencing homelessness' keyword supports encampments issue and the funding-allocation content supports an expanded-response read."
  },
  {
-  "id": "be1f4927f690",
+  "id": "050a9f0f9146",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -484,7 +470,7 @@
   "verifierNote": "Loaded item 8.2.14 / part a) only (Council, School Crossing Guard business case, Failed 5-10): quote verbatim, 'BE DIRECTED to include a budget business case' is a direct, unambiguous match to the business-case-inclusion axis language."
  },
  {
-  "id": "2cd59c5dfe20",
+  "id": "9685cfbc31ef",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -498,7 +484,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "b9118f81b273",
+  "id": "19fe238e2e02",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -512,7 +498,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "fbc18eb71f19",
+  "id": "7a915756ea2a",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -526,7 +512,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "f42a5b460702",
+  "id": "30cf45eb7320",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -541,7 +527,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "29dd3d1ef53d",
+  "id": "506542331add",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -553,7 +539,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "fc2254195725",
+  "id": "344cfab0a9ca",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -565,7 +551,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "f59b04cd80be",
+  "id": "b0a7ddda45cb",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -579,7 +565,7 @@
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
  },
  {
-  "id": "ee000df2b284",
+  "id": "2ed2545dd453",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -588,6 +574,20 @@
   "quote": "That the staff report dated July 14, 2025 related to the Affordable Homeownership Program Relaunch BE REFERRED to a future meeting of the Community and Protective Services Committee to allow the Civic Administration to come back with a business case for the Province requesting reallocation of the funds to another affordable housing purpose",
   "flags": [
    "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."
+ },
+ {
+  "id": "05288409fb7f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the direction for the Mayor to write to the Ontario Solicitor General suggesting changes to provincial legislation on dangerous dogs and public safety.",
+  "confidence": "high",
+  "quote": "The Mayor BE REQUESTED to write a letter to the Solicitor General, with respect to this matter, to suggest changes to provincial legislation related to dangerous dogs and public safety.",
+  "flags": [
+   "informational_ask"
   ],
   "verdict": "confirmed",
   "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) \u2014 no clear missed direction found."

@@ -215,7 +215,7 @@ The meeting adjourned at 5:50 PM
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.1. Community Water Fluoridation
 
@@ -223,5 +223,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

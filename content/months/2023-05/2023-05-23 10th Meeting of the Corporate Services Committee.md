@@ -416,7 +416,7 @@ The meeting adjourned at 2:37 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -427,9 +427,11 @@ The meeting adjourned at 2:37 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Josh Morgan](/councillors/current/j-morgan)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow)
 
 **Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [David Ferreira](/councillors/current/d-ferreira)
 
 </details>
 
@@ -442,19 +444,13 @@ The meeting adjourned at 2:37 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
 
 **Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
 
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
 </details>
-
-### 2.6. Expropriation of Lands - Wellington Gateway Project Phase 3 and 4
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
 
 ### 4.1. Budweiser Gardens Expansion and Renovation Proposal
 
@@ -462,7 +458,24 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
+
+### 4.1. Budweiser Gardens Expansion and Renovation Proposal
+
+> That the following actions be taken with respect to the Budweiser Gardens Expansion and Renovation Proposal: a)   the Budweiser Gardens Expansion Proposal BE RECEIVED for information; b)   that Civic Administration BE DIRECTED to bring forward a confirmed source of financing and further financial...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
 
 ### 4.2. Application - Issuance of Proclamation - Azerbajian Democratic Republican
 
@@ -470,7 +483,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.3. Application - Issuance of Proclamation - Action Anxiety Day
 
@@ -478,7 +491,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.4. Application - Issuance of Proclamation - World Sickle Cell Day 2023
 
@@ -486,5 +499,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

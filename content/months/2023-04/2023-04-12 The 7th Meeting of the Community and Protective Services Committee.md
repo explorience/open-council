@@ -166,44 +166,6 @@ None.
 
 
 The meeting adjourned at 5:35 PM.
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.3 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.2. Property Standards Related Demolitions
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-law, as appended to the staff report dated April 12, 2023, BE INTRODUCED at the Municipal Council meeting to be held on April 25, 2023, to approve the potential demolition of vacant building...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.2. Property Standards Related Demolitions
-
-> Motion to approve the delegation request by H. Froussios, Zelinka Priamo Ltd., to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.4. 2022-2023 Winter Response and Community Accountability Working Group Funding Reallocation Request
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated April 12, 2023, related to the 2022-2023 Winter Response and Community Accountability Working Group Funding Reallocation Request: a)    a o...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -622,3 +584,42 @@ So it's not something that we can just say that anyone can do. There are a few d
 A hand vote of all in favor of adjournment. That passes. Thank you. Have a wonderful evening.
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Property Standards Related Demolitions
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-law, as appended to the staff report dated April 12, 2023, BE INTRODUCED at the Municipal Council meeting to be held on April 25, 2023, to approve the potential demolition of vacant building...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Property Standards Related Demolitions
+
+> Motion to approve the delegation request by H. Froussios, Zelinka Priamo Ltd., to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. 2022-2023 Winter Response and Community Accountability Working Group Funding Reallocation Request
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated April 12, 2023, related to the 2022-2023 Winter Response and Community Accountability Working Group Funding Reallocation Request: a)    a o...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

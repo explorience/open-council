@@ -1,6 +1,6 @@
 [
  {
-  "id": "9daa4ae88f7d",
+  "id": "acd142cfb31e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -12,7 +12,7 @@
   "verifierNote": "Council-remuneration/compensation-formula motion; correctly excluded (GLOBAL_EXCLUDE 'council remuneration' territory) -- not one of the 8 tracked issues regardless of body text. Quote verified verbatim against source in earlier reading. No tracked-issue content present."
  },
  {
-  "id": "cdbb0a7c324f",
+  "id": "010febff3b21",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -24,7 +24,7 @@
   "verifierNote": "Council stipend-practice motion; correctly issue=none, not a tracked issue."
  },
  {
-  "id": "603772c87312",
+  "id": "6b14d5415457",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -36,7 +36,7 @@
   "verifierNote": "Standing Committee Chair compensation mechanism; correctly issue=none."
  },
  {
-  "id": "4bc555034b6e",
+  "id": "7aa522c999a3",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -48,7 +48,7 @@
   "verifierNote": "Deputy Mayor/Budget Chair compensation mechanism; correctly issue=none -- 'Budget Chair' is a job title, not a budget-issue keyword phrase (e.g. 'operating budget', 'capital budget'), so no false budget-issue hit either."
  },
  {
-  "id": "f42e59d08d2d",
+  "id": "5b4b3ce9f826",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -60,7 +60,7 @@
   "verifierNote": "Councillor severance-package (on losing re-election) motion; correctly excluded via GLOBAL_EXCLUDE 'severance package' -- this is council-compensation severance, not land severance (housing)."
  },
  {
-  "id": "734a77116bfa",
+  "id": "9a68d6b27f40",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -74,7 +74,7 @@
   "verifierNote": "Referral of staffing/expense-account recommendations to a future Governance Working Group meeting; correctly issue=none and, independently, would be polarity-null regardless (pure referral, DEFER_RE) since it decides nothing itself."
  },
  {
-  "id": "92a1d39a4c23",
+  "id": "2a91d0868135",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -86,7 +86,7 @@
   "verifierNote": "Councillor base-compensation indexing motion; correctly issue=none, not tracked."
  },
  {
-  "id": "cc02b97b1db2",
+  "id": "dd44bafbc32e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -98,7 +98,7 @@
   "verifierNote": "Maintains existing compensation-adjustment formula; correctly issue=none."
  },
  {
-  "id": "93d38a9fb41b",
+  "id": "52c98de88a91",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -107,10 +107,10 @@
   "quote": "the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 \u2013 2026 census period, and that the new data be used to calculate Council compensation starting in 2028",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Duplicate of 9daa4ae88f7d's compensation-formula update, from the companion 10-28/11-04 vote pair; correctly issue=none for the same reason."
+  "verifierNote": "Duplicate of 9daa4ae88f7d (superseded id)'s compensation-formula update, from the companion 10-28/11-04 vote pair; correctly issue=none for the same reason."
  },
  {
-  "id": "0ae2e39fbff8",
+  "id": "8248e7cd9062",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -119,10 +119,10 @@
   "quote": "the current practice of not providing additional compensation or stipends to the Mayor and Councillors for sitting on agencies, boards, and commissions BE CONTINUED",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Duplicate of cdbb0a7c324f (companion vote); correctly issue=none."
+  "verifierNote": "Duplicate of cdbb0a7c324f (superseded id) (companion vote); correctly issue=none."
  },
  {
-  "id": "89dc3800dea4",
+  "id": "3f5fc7da2247",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -131,10 +131,10 @@
   "quote": "a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annual Councillor salary",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Duplicate of 603772c87312 (companion vote); correctly issue=none."
+  "verifierNote": "Duplicate of 603772c87312 (superseded id) (companion vote); correctly issue=none."
  },
  {
-  "id": "a1b956b4da73",
+  "id": "85cfd70ef2f5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -143,10 +143,10 @@
   "quote": "a mechanism to compensate the Deputy Mayor and the Budget Chair BE FORMALIZED in the Remuneration for Elected Officials and Appointed Citizen Members Policy, with additional compensation for both positions to be set at the amount of 8% of the base annual Councillor salary",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Duplicate of adec37ac2a3a (companion vote); correctly issue=none."
+  "verifierNote": "Duplicate of adec37ac2a3a (superseded id) (companion vote); correctly issue=none."
  },
  {
-  "id": "590241b860b3",
+  "id": "7ccbe1a7ad83",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -155,10 +155,10 @@
   "quote": "the Civic Administration BE DIRECTED to take the necessary steps to establish a severance package for Members of Council who are unsuccessful in re-election, calculated at one (1) week of pay per year of service, to a maximum of four (4) weeks",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Duplicate of f42e59d08d2d (companion vote); correctly issue=none, GLOBAL_EXCLUDE 'severance package' applies."
+  "verifierNote": "Duplicate of f42e59d08d2d (superseded id) (companion vote); correctly issue=none, GLOBAL_EXCLUDE 'severance package' applies."
  },
  {
-  "id": "b1bc3a09839b",
+  "id": "480e4caaa425",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -170,7 +170,7 @@
   "verifierNote": "Councillor training/onboarding model; correctly issue=none, not tracked."
  },
  {
-  "id": "3fe9255c55d6",
+  "id": "f52020b2a64f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -184,7 +184,7 @@
   "verifierNote": "Committee of Adjustment appointment (Jeff Gard); a personnel decision, not a policy position -- correctly issue=none per the same logic as the explicit 'consideration of appointment to' GLOBAL_EXCLUDE principle."
  },
  {
-  "id": "2aa419f2b8d8",
+  "id": "a838fe506695",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -199,7 +199,7 @@
   "verifierNote": "Referral of a Western University Board of Governors appointment to a future SPPC meeting; personnel + referral, correctly issue=none and would be polarity-null regardless."
  },
  {
-  "id": "8eeba497afe5",
+  "id": "671a92fcfd37",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -213,7 +213,7 @@
   "verifierNote": "Procedural motion to permit a committee meeting to run past 6:00 PM; correctly issue=none, pure scheduling procedure."
  },
  {
-  "id": "0cadd356b66f",
+  "id": "4956a81b463e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -227,7 +227,7 @@
   "verifierNote": "Chair's-ruling-sustained procedural vote (Western Board appointment discussion); correctly issue=none, procedural point-of-order, decides no substantive question."
  },
  {
-  "id": "6c837fc6029f",
+  "id": "c42518d893e5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -241,7 +241,7 @@
   "verifierNote": "Council Procedure By-law amendment reassigning committee oversight mandates (including bike-lane oversight in passing); this is literally the worked GLOBAL_EXCLUDE example documented in issue-rules.ts itself ('reassigning bike-lane oversight between committees while amending A-61 -- correctly excluded') -- confirmed correctly excluded by design, not a substantive bikes position."
  },
  {
-  "id": "c86bc3efe031",
+  "id": "5d2459549704",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -256,7 +256,7 @@
   "verifierNote": "Bill 17/Green Development Guidelines item referred back to Civic Administration for a future report (terms of reference for green-incentive consultation, a 'green priority stream', provincial-alignment confirmation, updated reporting). Its own text contains the phrase 'terms of reference for consultation', which trips GLOBAL_EXCLUDE regardless of the green/housing-adjacent subject matter -- but independent of that, this is a pure DEFER_RE referral (no approve/deny), so polarity would be correctly null either way. No correction warranted."
  },
  {
-  "id": "fb2f11631228",
+  "id": "2393869cf590",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -270,7 +270,7 @@
   "verifierNote": "Procedural 'leave BE GRANTED' motion permitting Councillor Franke to move a UGB-review motion; correctly issue=none/polarity=null -- grants leave to speak, does not itself decide the Urban Boundary question."
  },
  {
-  "id": "817752160deb",
+  "id": "be76c427f512",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -282,7 +282,7 @@
   "verifierNote": "Adequate and Suitable Cooling By-law introduction (rental heat/cooling standard); correctly issue=none -- rental cooling standards are not one of the 8 tracked issue clusters (not a housing/density/zoning keyword hit)."
  },
  {
-  "id": "9834405f9a32",
+  "id": "e4b3fdd85128",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -296,7 +296,7 @@
   "verifierNote": "Report-back request on weekly garbage collection cost analysis; correctly issue=none (waste management not tracked) and would be polarity-null regardless (pure informational ask)."
  },
  {
-  "id": "ba4c491b87f8",
+  "id": "c0461b3b1709",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -308,7 +308,7 @@
   "verifierNote": "Directed no action on expanding Green Bin materials; correctly issue=none, waste management not tracked."
  },
  {
-  "id": "9348cceb9675",
+  "id": "2aa90e5b9ee7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -322,7 +322,7 @@
   "verifierNote": "Chair's-ruling-sustained procedural vote (Green Bin item); correctly issue=none, procedural point-of-order."
  },
  {
-  "id": "d72f2d223e08",
+  "id": "74aaa8315196",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -336,7 +336,7 @@
   "verifierNote": "Report-back request on diaper/menstrual-product waste in Green Bin program; correctly issue=none (not tracked) and polarity-null regardless (informational ask)."
  },
  {
-  "id": "e070b52f1e95",
+  "id": "7de65084166d",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -350,7 +350,7 @@
   "verifierNote": "Traced to meeting JSON: item 8.3.9, motion index 1 (Failed 6-9) -- amendment adding a report-back request for homelessness-response metrics previously discussed at an Oct 2024 SPPC meeting. Confirmed self-contained, pure informational/report-back ask with no approve/deny content of its own -- correctly polarity=null (would not satisfy any response-scale axis pattern; the underlying item is real Health & Homelessness content but this specific clause decides nothing). Issue=encampments correctly retained (the item title itself carries 'Homelessness')."
  },
  {
-  "id": "2d077b0b72af",
+  "id": "ef2e3e7e484c",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -361,10 +361,10 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Traced to meeting JSON: item 8.4.2 (same item as 2c867433409e/67dcef32267d), motion index 2, 'That the motion be further amended in part i) by changing regarding to with the...' (Failed 6-9) -- confirmed pure wording edit, no substantive content change. Correctly polarity=null."
+  "verifierNote": "Traced to meeting JSON: item 8.4.2 (same item as 2c867433409e (superseded id)/67dcef32267d (superseded id)), motion index 2, 'That the motion be further amended in part i) by changing regarding to with the...' (Failed 6-9) -- confirmed pure wording edit, no substantive content change. Correctly polarity=null."
  },
  {
-  "id": "2c867433409e",
+  "id": "17cb6a0556ae",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -378,7 +378,7 @@
   "verifierNote": "Traced to meeting JSON: item 8.4.2, motion index 3, \"That part d) of the motion, as amended, BE APPROVED\" (Passed 14-1, sole nay S. Stevenson). Part d) of the original main motion (content index 0) reads verbatim: \"funding for the costs of the Micro-Modular Shelter Site through April 2027 BE APPROVED from the Operating Budget Contingency Reserve;\" -- quote confirmed verbatim and operative (d) was not itself amended by the earlier 15-0 amendment, which only added new parts i/j/k). Issue=encampments correct (\"micro-modular shelter\" keyword). Axis/polarity correct: approving dedicated funding for a shelter site is an expansive response-scale move. No denial-flip, no wrapper mismatch, no relocation language present."
  },
  {
-  "id": "c39564ac8453",
+  "id": "359de05cf53b",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -392,7 +392,7 @@
   "verifierNote": "UGB boundary-expansion map added for information purposes only; correctly polarity=null (informational ask, DEFER_RE/'for information' pattern), issue=housing correctly retained given direct Official-Plan/UGB subject matter."
  },
  {
-  "id": "0ee54a890942",
+  "id": "b5e87f191d1c",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -407,7 +407,7 @@
   "verifierNote": "UGB Review documents 'BE RECEIVED' (not adopted); correctly polarity=null -- BE RECEIVED is a DEFER_RE hit with no AFFIRM_RE/adoption verb, a textbook non-decision."
  },
  {
-  "id": "259ef26f8a8c",
+  "id": "66a55703f14b",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -419,7 +419,7 @@
   "verifierNote": "Traced to meeting JSON: item 8.5.9, motion index 1, \"That the motion be amended to read as follows: ...\" (Passed 11-3; yeas include Mayor Morgan; nays Hopkins, Peloza, Franke; Trosow absent -- matches manifest exactly). This is a fully self-contained amended motion (not a bare wrapper reference) -- its own text carries the complete Official Plan/zoning by-law substance. Quote \"to permit an apartment building to a maximum height of 30 metres or 8 storeys\" found verbatim in clause a)ii). Companion clause a)iii) permits triplexes/fourplexes/stacked townhomes to 10 storeys on the remaining blocks. Issue=housing (rezoning/official plan amendment keywords), axis=density, polarity=expansive all confirmed correct -- no denial-flip, no business-case framing, no relocation language."
  },
  {
-  "id": "36aea4a70ddb",
+  "id": "f70a46e5bbaf",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -430,10 +430,10 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Traced to meeting JSON: item 8.5.9, motion index 2, \"That item 9, clause 3.5, as amended, BE APPROVED\" (Passed 10-4). Vote rows confirmed: this is the vote where Mayor Morgan flips from Yea (on e0c288c18934, the density-specific amendment) to Nay here, while Hopkins/Peloza/Franke vote Nay on both. Per direction-rules.ts's own documented behavior, a bare \"item N, clause M, as amended, BE APPROVED.\" with no trailing colon/sub-clause is treated as a complete, standalone decision (not stripped as a wrapper), so it falls to the generic AFFIRM_RE fallback -- application-approval, not density. The classifier's choice to keep this generic rather than re-asserting density is the CORRECT, conservative call: since Morgan's vote differs here from the density-specific vote, re-labeling this as \"density/expansive\" would risk overstating what his Nay meant (could reflect concerns unrelated to the specific density figures). Quote \"item 9, clause 3.5, as amended, BE APPROVED\" verbatim-confirmed. Verdict: confirmed, sound reasoning, no correction needed."
+  "verifierNote": "Traced to meeting JSON: item 8.5.9, motion index 2, \"That item 9, clause 3.5, as amended, BE APPROVED\" (Passed 10-4). Vote rows confirmed: this is the vote where Mayor Morgan flips from Yea (on e0c288c18934 (superseded id), the density-specific amendment) to Nay here, while Hopkins/Peloza/Franke vote Nay on both. Per direction-rules.ts's own documented behavior, a bare \"item N, clause M, as amended, BE APPROVED.\" with no trailing colon/sub-clause is treated as a complete, standalone decision (not stripped as a wrapper), so it falls to the generic AFFIRM_RE fallback -- application-approval, not density. The classifier's choice to keep this generic rather than re-asserting density is the CORRECT, conservative call: since Morgan's vote differs here from the density-specific vote, re-labeling this as \"density/expansive\" would risk overstating what his Nay meant (could reflect concerns unrelated to the specific density figures). Quote \"item 9, clause 3.5, as amended, BE APPROVED\" verbatim-confirmed. Verdict: confirmed, sound reasoning, no correction needed."
  },
  {
-  "id": "67dcef32267d",
+  "id": "b3ac99007a80",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -447,7 +447,7 @@
   "verifierNote": "Traced to meeting JSON: 2025-10-08 Special CPSC meeting, item 4.1, motion index 1, \"That part b) of the motion BE APPROVED\" (Passed 5-1, nay S. Trosow; yeas Morgan, McAlister, Cuddy, Pribil, Ferreira -- matches manifest result exactly). Part b) of the main motion (content index 0) reads verbatim: \"the Civic Administration BE AUTHORIZED to finalize 1710 Wilton Grove Road as the location for an up to 2-year temporary Micro-Modular Shelter Site subject to obtaining required permits and approvals\" -- quote confirmed verbatim and operative. This is a genuine committee-stage decision (not a placeholder later overridden): council's 10-14 \"balance of the motion, as amended, BE APPROVED\" vote (15-0) later ratified this same part b) unchanged, so the committee-stage authorization stood. Issue=encampments and response-scale/expansive correct -- authorizing a shelter site is an expansion of the response, consistent with the axis's own expansiveLabel wording."
  },
  {
-  "id": "aa46dff73d98",
+  "id": "b68122e6a995",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -461,7 +461,7 @@
   "verifierNote": "Traced item title: 'Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment in Old East Village' -- confirms the classifier's parenthetical (Old East Village, not the Downtown core) is accurate; no 'downtown'/'core area' keyword anywhere in title or clause. Correctly issue=none."
  },
  {
-  "id": "912524940d92",
+  "id": "a6a814205263",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -473,7 +473,7 @@
   "verifierNote": "Traced to meeting JSON: 2025-10-01 P&E Committee, item 2.1, motion index 1, 'notice BE GIVEN...intention to designate the property to be of cultural heritage value...' (Failed 1-4 -- matches manifest exactly). This is the SAME property (1511 Clarke Road) as the housing rezoning items, and its failure did clear a heritage obstacle to that development -- but the clause's own text is a heritage-act procedural notice with no housing/zoning/density keyword content, and connecting it to a housing 'expansive' position would require importing planning-law inference the text itself doesn't state. Left as issue=none per the instruction to only overturn on an unambiguous operative clause -- this one is heritage-act procedure, not a rezoning/density decision on its own terms. No correction made."
  },
  {
-  "id": "14ab11866671",
+  "id": "7a11bdf36eff",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -482,10 +482,10 @@
   "quote": "to permit an apartment building to a maximum height of 30 metres or 8 storeys",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Traced to meeting JSON: 2025-10-01 P&E Committee, item 3.5, motion index 0 (Passed 4-1, nay E. Peloza -- matches manifest exactly). Self-contained committee-stage recommendation text; quote \"to permit an apartment building to a maximum height of 30 metres or 8 storeys\" confirmed verbatim in clause a)ii). This committee-stage version assigns the 8-storey apartment to Blocks 10/11/12 and the triplex/fourplex/townhome permission to Block 5 -- council's later amendment (e0c288c18934) swapped which blocks get which use, but the substantive density-expansion decision (apartment to 8 storeys, missing-middle to 10 storeys somewhere on the site) is the same at both stages. Correctly labeled as the committee-stage version, distinct id from the council vote. Confirmed correct on issue/axis/polarity/quote."
+  "verifierNote": "Traced to meeting JSON: 2025-10-01 P&E Committee, item 3.5, motion index 0 (Passed 4-1, nay E. Peloza -- matches manifest exactly). Self-contained committee-stage recommendation text; quote \"to permit an apartment building to a maximum height of 30 metres or 8 storeys\" confirmed verbatim in clause a)ii). This committee-stage version assigns the 8-storey apartment to Blocks 10/11/12 and the triplex/fourplex/townhome permission to Block 5 -- council's later amendment (e0c288c18934 (superseded id)) swapped which blocks get which use, but the substantive density-expansion decision (apartment to 8 storeys, missing-middle to 10 storeys somewhere on the site) is the same at both stages. Correctly labeled as the committee-stage version, distinct id from the council vote. Confirmed correct on issue/axis/polarity/quote."
  },
  {
-  "id": "94ca6640eb28",
+  "id": "ab82de8d5cf8",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -494,10 +494,10 @@
   "quote": "the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on October 14th, 2025, for a new Adequate and Suitable Cooling By-law",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Duplicate Cooling By-law introduction (companion vote to 84d634f322c0, same reasoning); correctly issue=none."
+  "verifierNote": "Duplicate Cooling By-law introduction (companion vote to 84d634f322c0 (superseded id), same reasoning); correctly issue=none."
  },
  {
-  "id": "8d04f62022eb",
+  "id": "c34e8bad994b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -511,7 +511,7 @@
   "verifierNote": "Report-back request on cooling units installed under the by-law; correctly issue=none and polarity-null regardless (informational ask)."
  },
  {
-  "id": "d3ba2a5a9a24",
+  "id": "78b2dbfb962c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -525,7 +525,7 @@
   "verifierNote": "Report-back request on extending the cooling by-law's scope; correctly issue=none and polarity-null regardless (informational ask)."
  },
  {
-  "id": "838f7c50e8f0",
+  "id": "b51a800e4477",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -539,7 +539,7 @@
   "verifierNote": "Referral of free-transit-on-high-heat-days question to London Transit Commission; correctly issue=transit, correctly polarity=null -- a referral (DEFER_RE), not a decision."
  },
  {
-  "id": "af0e5386cff5",
+  "id": "b91aa12c56f0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -553,7 +553,7 @@
   "verifierNote": "Report-back request on a cooling by-law educational program; correctly issue=none and polarity-null regardless (informational ask)."
  },
  {
-  "id": "5b007df08ef4",
+  "id": "02313ed8325b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -564,10 +564,10 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Procedural 'leave BE GRANTED' motion permitting Councillor Stevenson to move the Housing Stability Program motion; correctly polarity=null -- grants leave to speak, decides nothing about the program itself. Issue=none rather than encampments is defensible for a pure leave-to-move procedural clause (parallel to how fb2f11631228 was also tagged none rather than housing); does not affect any vote-direction claim either way since polarity stays null. Not overturned."
+  "verifierNote": "Procedural 'leave BE GRANTED' motion permitting Councillor Stevenson to move the Housing Stability Program motion; correctly polarity=null -- grants leave to speak, decides nothing about the program itself. Issue=none rather than encampments is defensible for a pure leave-to-move procedural clause (parallel to how fb2f11631228 (superseded id) was also tagged none rather than housing); does not affect any vote-direction claim either way since polarity stays null. Not overturned."
  },
  {
-  "id": "5427888a6b2d",
+  "id": "69ffef0c6d50",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -578,10 +578,10 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Amends the Housing Stability Program motion's report-back deadline from a fixed date to 'future meeting'; correctly polarity=null (pure procedural wording amendment, not a decision on the program itself, matches the pattern of 2d077b0b72af)."
+  "verifierNote": "Amends the Housing Stability Program motion's report-back deadline from a fixed date to 'future meeting'; correctly polarity=null (pure procedural wording amendment, not a decision on the program itself, matches the pattern of 2d077b0b72af (superseded id))."
  },
  {
-  "id": "bb74084d4b6c",
+  "id": "fdb3c5b9aa9a",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",

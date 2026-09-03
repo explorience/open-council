@@ -520,7 +520,7 @@ The meeting adjourned at 5:46 PM.
 
 ## Votes
 
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -528,13 +528,5 @@ The meeting adjourned at 5:46 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. Application - 442 Third Street (Z-9158)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Forever Homes, relating to the property located at 442 Third Street: a)  the proposed, revised, attached by-law BE INTRODUCED at the Municipal Council meeting to be...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 

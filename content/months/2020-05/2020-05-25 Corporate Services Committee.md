@@ -190,5 +190,5 @@ The meeting adjourned at 1:05 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

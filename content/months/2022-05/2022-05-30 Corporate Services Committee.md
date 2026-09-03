@@ -239,7 +239,7 @@ The meeting adjourned at 12:45 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
 
@@ -249,8 +249,6 @@ Unanimous (4-0)
 
 <details>
 <summary>View roll call</summary>
-
-**Absent (6):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 </details>
 
@@ -263,7 +261,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (2):** [Maureen Cassidy](/councillors/former/m-cassidy), [Mariam Hamou](/councillors/former/m-hamou)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Ed Holder](/councillors/former/e-holder), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
 
 </details>
 

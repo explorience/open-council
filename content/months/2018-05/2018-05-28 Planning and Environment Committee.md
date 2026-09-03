@@ -645,7 +645,7 @@ The meeting adjourned at 6:18 PM
 
 ## Votes
 
-*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -653,7 +653,7 @@ The meeting adjourned at 6:18 PM
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. D. Dudek, Chair, London Advisory Committee on Heritage - 6th Report of the London Advisory Committee on Heritage
 
@@ -661,23 +661,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.2. Public Participation Meeting - Application - 583 Oxford Street East (Z-8882)
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by Salt Clinic Canada Inc., relating to the property located at 583 Oxford Street East, the proposed by-law appended to the staff report dated May 28, 2018 BE INTRODUCED at the Municipal Coun...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.3. Public Participation Meeting - Application - 2096 Wonderland Road North - Request for Demolition
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, with respect to the request for the demolition of the heritage listed property located at 2096 Wonderland Road North, that notice BE GIVEN under the provisions of Section 29(3...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting - Application - 1055-1075 Fanshawe Park Road West (Z-8903)
 
@@ -688,9 +672,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (1):** [Jesse Helmer](/councillors/former/j-helmer)
 
 </details>
 
@@ -700,7 +684,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.5. Public Participation Meeting - Application - 3234, 3263 and 3274 Wonderland Road South (OZ-8590)
 
@@ -708,15 +692,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 4.1. 6th Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 6th Report of the Environmental and Ecological Planning Advisory Committee from its meeting held on May 17, 2018: a)            the following actions be taken with respect to the Wetlands Working Group comments appended to the 6th Report of...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
@@ -724,5 +700,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

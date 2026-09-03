@@ -417,7 +417,7 @@ The
 
 ## Votes
 
-*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 12. Street Renaming -
   Terrace Street (West of Adelaide Street South)
@@ -425,12 +425,7 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (3-0)
 

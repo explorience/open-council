@@ -714,7 +714,7 @@ The meeting adjourned at 9:44 PM.
 
 ## Votes
 
-*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -722,47 +722,7 @@ The meeting adjourned at 9:44 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. 1200 Commissioners Road East (Z-9468)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Pond Mills Square Realty Inc., relating to the property located at 1200 Commissioners Road East, the proposed by-law appended to the staff report dated March 28, 20220 as Appendix "A" BE INTRODUCED ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. 3700 Colonel Talbot Road - Demolition Request for Heritage Listed Property
-
-> That, on the recommendation of the Director, Planning and Economic Development, with the advice of the Heritage Planner, the following actions be taken with respect to the request for the demolition of the buildings on the heritage listed property at 3700 Colonel Talbot Road: a)    the Chief Buil...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. 910 Gainsborough Road (Z-9442)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Crown Homes London, relating to the property located at 910 Gainsborough Road: a) the proposed by-law appended to the staff report dated March 28, 2022 as Appen...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. 2520-2544 Advanced Avenue, 2475-2555 Bonder Road and Other Properties - Innovation Park Phase IV (Z-9454)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by The Corporation of the City of London, relating to the property located at 2520-2544 Advanced Avenue, 2475-2555 Bonder Road and 2560-2580 Boyd Court:  a)    the...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.5. 4th Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 4th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on March 17, 2022: a)   the Working Group report relating to the property located at 1160 Wharncliffe Road South BE REFERRED to the Civic Admi...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. 3rd Report of the London Advisory Committee on Heritage
 
@@ -770,7 +730,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.2. Proposed Outdoor Patio Capacity Limit Extension - Councillors Fyfe-Millar and Lewis
 
@@ -778,5 +738,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

@@ -50,11 +50,11 @@
     "yeaRate": 95.64295807819124,
     "contestedDissentRate": 12.291666666666666,
     "contestedVotes": 960,
-    "substantiveVotes": 2692,
-    "substantiveYeas": 1968,
-    "substantiveNays": 152,
-    "substantiveParticipationRate": 78.7518573551263,
-    "substantiveYeaRate": 92.83018867924528
+    "substantiveVotes": 3023,
+    "substantiveYeas": 2232,
+    "substantiveNays": 185,
+    "substantiveParticipationRate": 79.95368838901753,
+    "substantiveYeaRate": 92.34588332643773
   },
   "budgetVoting": {
     "totalBudgetVotes": 499,

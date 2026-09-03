@@ -2249,171 +2249,6 @@ The Council meeting adjourns at 3:35 PM.
 > **Bill No. 116**
 > 
 > By-law No. Z.-1-233096 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 614 Westmount Crescent. (3.7/6/PEC)
-
----
-
-## Votes
-
-*16 substantive votes at this meeting (5 contested, 11 unanimous). Procedural motions excluded.*
-
-### 8.1. 11th Report of the Strategic Priorities and Policy Committee
-
-> That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 8.2. 12th Report of the Strategic Priorities and Policy Committee
-
-> That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding item 5 (clause 4.2).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 8.2.5. (4.2) Consideration of Appointment to the London Police Services Board
-
-> That the proposed referral BE AMENDED by adding the following to the end of the clause, "it being further noted that this process will be with regard to the Reconciliation, Equity, Accessibility and Inclusion Strategic Area of Focus in the 2023-2027 Strategic Plan and the Municipal-focused Truth ...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.2.5. (4.2) Consideration of Appointment to the London Police Services Board
-
-> That the referral, as amended, BE APPROVED. That the matter of an appointment to the London Police Services Board, including all fifty-four applications received, BE REFERRED to the Strategic Priorities and Policy Committee in order to determine a shortlist of 5 candidates for interviews; it bein...
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.3. 5th Report of the Planning and Environment Committee
-
-> That the 5th Report of the Planning and Environment Committee BE APPROVED, excluding item 9 (clause 3.2).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 8.3.9. (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes
-
-> That clause 9, item 3.2, BE AMENDED to read as follows: That, notwithstanding the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the request to remove heritage attributes from the property at 247 Halls Mill Road, pursuant to Section 34(1) of the...
-
-**❌ Motion Failed (7 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 8.3.9. (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes
-
-> That the Committee recommendation BE APPROVED. That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the request to remove heritage attributes from the property at 247 Halls Mill Road, pursuant to Section 34(1) of the Ontario Heritage Act,...
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.4. 6th Report of the Planning and Environment Committee
-
-> That the 6th Report of the Planning and Environment Committee BE APPROVED, excluding item 9 (clause 3.7).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 8.4.9. (3.7) 614 Westmount Crescent (Z-9553) (Relates to Bill No. 116)
-
-> Motion to approve part a) of the motion: That, the following actions be taken with respect to the application by LA-Rosa Community Ltd., relating to the property located at 614 Westmount Crescent: a)    the proposed, revised, attached, by-law as Appendix "A" BE INTRODUCED at the Municipal Council...
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.4.9. (3.7) 614 Westmount Crescent (Z-9553) (Relates to Bill No. 116)
-
-> Motion to approve part b) b)    the proposed alignment of the driveway for the subject property to potentially align with the property located at 615 Westmount Crescent BE REFERRED to the Civic Administration to report back at a future Planning and Environment Committee meeting;     it being note...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.5. 6th Report of the Corporate Services Committee
-
-> That the 6th Report of the Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.6. 6th Report of the Community and Protective Services Committee
-
-> That the 6th Report of the Community and Protective Services Committee BE APPROVED, excluding item 10 (clause 2.6).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.6.10. (2.6) Infrastructure Update - Thames Outdoor Pool
-
-> That part a) BE AMENDED to read as follows: “a)       provide a report by the end of July 2023 to the Community and Protective Services Committee (CPSC) providing an updated condition assessment and identifying the scope of necessary repairs and associated costs to re-open the Thames Pool with su...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.6.10. (2.6) Infrastructure Update - Thames Outdoor Pool
-
-> Item 10, clause 2.6, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.7. 5th Report of the Civic Works Committee
-
-> That the 5th Report of the Civic Works Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 13. By-laws
-
-> That Bill No. 105 BE REFERRED back to the Civic Administration in order to provide for additional consultation.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -2976,3 +2811,218 @@ And we can do this by hand. All those in favor. Motion carries. Thank you everyo
 Thanks for your patience. Good conversation today. Thanks as always to our fantastic staff for their hard work and their patience with us. And we look forward to seeing you again all soon.
 
 </details>
+
+---
+
+## Votes
+
+*18 substantive votes at this meeting (8 contested, 10 unanimous). Procedural motions excluded.*
+
+### 8.1. 11th Report of the Strategic Priorities and Policy Committee
+
+> That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2. 12th Report of the Strategic Priorities and Policy Committee
+
+> That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding item 5 (clause 4.2).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.5. (4.2) Consideration of Appointment to the London Police Services Board
+
+> That the proposed referral BE AMENDED by adding the following to the end of the clause, "it being further noted that this process will be with regard to the Reconciliation, Equity, Accessibility and Inclusion Strategic Area of Focus in the 2023-2027 Strategic Plan and the Municipal-focused Truth ...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.2.5. (4.2) Consideration of Appointment to the London Police Services Board
+
+> That the referral, as amended, BE APPROVED. That the matter of an appointment to the London Police Services Board, including all fifty-four applications received, BE REFERRED to the Strategic Priorities and Policy Committee in order to determine a shortlist of 5 candidates for interviews; it bein...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.3. 5th Report of the Planning and Environment Committee
+
+> That the 5th Report of the Planning and Environment Committee BE APPROVED, excluding item 9 (clause 3.2).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.9. (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes
+
+> That clause 9, item 3.2, BE AMENDED to read as follows: That, notwithstanding the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the request to remove heritage attributes from the property at 247 Halls Mill Road, pursuant to Section 34(1) of the...
+
+**❌ Motion Failed (7 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.3.9. (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes
+
+> That the Committee recommendation BE APPROVED. That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the request to remove heritage attributes from the property at 247 Halls Mill Road, pursuant to Section 34(1) of the Ontario Heritage Act,...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.4. 6th Report of the Planning and Environment Committee
+
+> That the 6th Report of the Planning and Environment Committee BE APPROVED, excluding item 9 (clause 3.7).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.9. (3.7) 614 Westmount Crescent (Z-9553) (Relates to Bill No. 116)
+
+> Motion to approve part a) of the motion: That, the following actions be taken with respect to the application by LA-Rosa Community Ltd., relating to the property located at 614 Westmount Crescent: a)    the proposed, revised, attached, by-law as Appendix "A" BE INTRODUCED at the Municipal Council...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.5. 6th Report of the Corporate Services Committee
+
+> That the 6th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.6. 6th Report of the Community and Protective Services Committee
+
+> That the 6th Report of the Community and Protective Services Committee BE APPROVED, excluding item 10 (clause 2.6).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.6.10. (2.6) Infrastructure Update - Thames Outdoor Pool
+
+> That part a) BE AMENDED to read as follows: “a)       provide a report by the end of July 2023 to the Community and Protective Services Committee (CPSC) providing an updated condition assessment and identifying the scope of necessary repairs and associated costs to re-open the Thames Pool with su...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.6.10. (2.6) Infrastructure Update - Thames Outdoor Pool
+
+> Item 10, clause 2.6, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.7. 5th Report of the Civic Works Committee
+
+> That the 5th Report of the Civic Works Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 13. By-laws
+
+> That Bill No. 105 BE REFERRED back to the Civic Administration in order to provide for additional consultation.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No. 116, BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No. 116, BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 116, BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+

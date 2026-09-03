@@ -3431,409 +3431,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 8:44 PM
 
 ****
-
----
-
-## Votes
-
-*35 substantive votes at this meeting (15 contested, 20 unanimous). Procedural motions excluded.*
-
-### 6. Communications and Petitions
-
-> That NO ACTION BE TAKEN with respect to communication 6.1, item 4, as noted on the Council Agenda.
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 8.1. 10th Meeting of the Civic Works Committee
-
-> That the 10th Report of the Civic Works Committee BE APPROVED, excluding items 8 (3.1) and 9 (4.1).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.8. (3.1) Blackfriars Bridge - Long Term Use
-
-> That the following actions be taken with respect to the long-term use of the Blackfriars Bridge:  a)    the Option 1 – to continue with the current bridge configuration – as outlined in the staff report dated June 13, 2023 BE APPROVED;  b)    the above-noted recommendation from the Long Term Use ...
-
-**✅ Motion Passed (8 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 8.1.9. (4.1) Core Area Parking Initiatives
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated June 13, 2023, related to the Core Area Parking Initiatives:  a)    the Civic Administration BE DIRECTED to bring forward a business cas...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2. 17th Meeting of the Strategic Priorities and Policy Committee
-
-> That pursuant to section 2.3 of the Council Procedure By-law, the rules of the by-law BE SUSPENDED for the purpose of permitting members to speak more than once to this matter.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
-
-> Consideration of appointment to the London Police Services Board
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (15):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
-
-> Consideration of Selection to the London Police Services Board - run off (round 2)
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (30):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
-
-> That Ryan Gauss BE APPOINTED to the London Police Services Board for the term ending November 14, 2026.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 8.3. 18th Meeting of the Strategic Priorities and Policy Committee
-
-> That Items 1 to 10 (3.4) the 18th Report of the Strategic Priorities and Policy Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
-
-> Motion to approve part c) c)  Councillors J. Pribil and P. Van Meerbergen BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
-
-**❌ Motion Failed (1 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Corrine Rahman](/councillors/current/c-rahman)
-
-</details>
-
-### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
-
-> That Councillor J. Pribil BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
-
-> That part b) of the motion approving the appointment of Councillor H. McAlister to the Lower Thames Valley Conservation Authority for the term ending November 14, 2023 BE RECONSIDERED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
-
-> Following the approval of reconsideration, the following motion is put b)  Councillor H. McAlister BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 14, 2026; and,
-
-**❌ Motion Failed (0 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
-
-> That Councillor P. Van Meerbergen BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 14, 2026
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
-
-> That the Minister of Natural Resources and Forestry BE PETITIONED to provide for the appointment of one citizen for the final vacancy for membership on the Kettle Creek Conservation Authority Board of Directors; it being noted that two Council members are appointed as members of the Board of Dire...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4. 10th Meeting of the Planning and Environment Committee
-
-> That the 10th Report of the Planning and Environment Committee BE APPROVED, excluding items 4 (3.1) and 5 (3.2);  it being noted that any and all oral and written submissions from the public related to this application have been, on balance, taken into consideration by Council as part of its deli...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.4.4. (3.1) 221 Queens Avenue (TZ-9598) (Relates to Bill No. 201)
-
-> That the application related to 221 Queens Avenue, BE REFERRED back to the Planning and Environment for additional discussion with the applicant including the incorporation of an enhanced landscaping plan and the consideration of a three (3) year extension for the temporary use.
-
-**✅ Motion Passed (10 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.4.5. (3.2) 5 Year Review - Community Improvement Plans and Financial Incentive Programs (Final)
-
-> That Item 5 (clause 3.2) of the 10th Report of the Planning and Environment Committee BE AMENDED by adding a new part e), as follows: “e)     that the Civic Administration BE DIRECTED to review existing (and consider in future) housing-related CIPs opportunities to include and incentivize the cre...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.4.5. (3.2) 5 Year Review - Community Improvement Plans and Financial Incentive Programs (Final)
-
-> That Item 5 (clause 3.2) of the 10th Report of the Planning and Environment Committee BE FURTHER AMENDED by adding a new part d) xxi): "xxi) that 206 Piccadilly be added to the Downtown Community Improvement Plan Project Area"
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.4.5. (3.2) 5 Year Review - Community Improvement Plans and Financial Incentive Programs (Final)
-
-> That the motion as further amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.5. 11th Meeting of the Planning and Environment Committee
-
-> That the 11th Report of the Planning and Environment Committee BE APPROVED, excluding items 6 (2.3), 7 (3.1) and 10 (3.4); it being noted that any and all oral and written submissions from the public related to this application have been, on balance, taken into consideration by Council as part of...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.5.6. (2.3) Request for Heritage Designation - 599-601 Richmond Street
-
-> That notwithstanding the Council Procedure By-law, Councillor A. Hopkins BE PERMITTED to speak twice with respect to this matter.
-
-**✅ Motion Passed (8 to 5) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.5.7. (3.1) 568 Second Street Zoning By-law Amendment (Z-9522) (Relates to Bill No. 202)
-
-> That Item 7 (3.1) BE AMENDED to read as follows: That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Parkit Enterprises relating to the property located at 568 Second Street: a)    the revised, attac...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.5.7. (3.1) 568 Second Street Zoning By-law Amendment (Z-9522) (Relates to Bill No. 202)
-
-> Item 7 clause 3.1, as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.5.10. (3.4) 755, 785 & 815 Wonderland Road South (OZ-9565)
-
-> That Clause 3.4 BE AMENDED by adding the following at the end of the clause: It being noted that the following Site Plan matters have been raised through the application review process for consideration by the Site Plan Approval Authority:  a)    Submission of a noise and vibration study certifie...
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.5.10. (3.4) 755, 785 & 815 Wonderland Road South (OZ-9565)
-
-> That item 10, clause 3.4, as amended, BE APPROVED.
-
-**❌ Motion Failed (6 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.6. 12th Report of the Corporate Services Committee
-
-> That the 12th Report of the Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.7. 13th Report of the Corporate Services Committee
-
-> That the 13th Report of the Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.8. 10th Report of the Community and Protective Services Committee
-
-> That the 10th Report of the Community and Protective Services Committee BE APPROVED, excluding items 15 (4.3) and 16 (4.4).
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.8.15. (4.3) Encampment Response Update
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated June 13, 2023, related to the Encampment Response Update:  a)    the funding allocation, from the Social Services Reserve Fund, for the tot...
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.8.16. (4.4) Councillor J. Pribil - Winter Response Program
-
-> That the Civic Administration BE DIRECTED to include a year over year comparison, for the past three years (2020-2021, 2021-2022, 2022-2023), on the number of bed days available/occupied, number of bed nights available/occupied, number of hours service bed facility, number of hours service non-be...
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.9. (ADDED) 11th Meeting of the Community and Protective Services Committee
-
-> That the 11th Report of the Community and Protective Services Committee BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.10. 2nd Report of the Audit Committee
-
-> That the 2nd Report of the Audit Committee BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 9.1. 10th Report of Council in Closed Session
-
-> 1.    Partial Property Acquisition – 1080 Dundas Street – East London Link Project That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the property located at 1080 Dundas Street, further described as Part of Lot...
-
-**✅ Motion Passed (11 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 9.1. 10th Report of Council in Closed Session
-
-> 2.    Commercial Lease – Materials Recovery Facility – 3438 Manning Drive That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Deputy City Manager, Environment and Infrastructure, on the advice of the Director, Realty Services, the Lease Agreement ...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -4264,3 +3861,504 @@ So I don't know if others colleagues have comments on this. Those are Pribble. Y
 Councillor Ferreira and Councillor van Neerbergen as a reminder this is on 1080 and Dundas Street east London link closing the vote motion carries 11 to 1 okay and if you could present the rest from mccallister okay and i will put 6.2 to 6.4 on the floor okay any discussion on 6.2 to 6.4 as was read out by the counselor we'll open that for voting okay so the meeting's gone so long that um clerk's computer timed out so she's logging back in closing the vote motion carries 12 to 0 thank you very much counselor mccallister um deferred matters there are none inquiries uh Councillor van Neerbergen thank you mare and thank you for allowing this uh notification or announcement it's not quite an inquiry uh however i was made aware and perhaps some of you as well uh sadly uh last evening randy colons passed on um he apparently was at university hospital uh randy colons uh was the founder of holly gully which was london's ultimate toy store far more than that uh he was a deeply uh spiritual uh christian man who really believed in giving back to the community uh a very generous person over the years uh he's donated hundreds and hundreds of thousands of dollars for children's park equipment uh playground equipment in the various parks around london uh just to name a little bit of what uh he's brought to our city so mare if you don't mind if you could request a moment or a minute of silence so i'll just um i think if it's first off thank you counselor i know not quite an inquiry but um when you find information we can always accommodate um that sort of notification i i i know um mr colons as you said was a philanthropist in our city and and partnered uh with the city on on the provision of many um new play structures for children um in a number of our our um our parks around the city so um if people would join us just in in just a quiet moment of of reflection um for mr colons thank you um other any inquiries okay uh seeing none we have no emergency motions we're on to bylaws um i think we can deal with all of the well i guess i should ask have any of the regular bylaws setting the added side does anybody want anything to help us separately out of the regular set of bylaws that are on the regular agenda counselor hopkins notice 1312 relates to 755 wonderland road south and 13.21 um i would like those pulled got the wonderland um road one what was so um maybe i need clarification with what happened at um council today just give us one second counselor you're making a good point here on one matter that has a bylaw so colleagues there just um see counselor hopkins point through is at least one change um bylaw 205 which related to the rezoning of land located at um 755 851 815 waterland road south that recommendation was defeated um by the committee to do that so that bylaw we won't we won't be proceeding with like counselor hopkins aside from that one what was the other one you wanted to dealt with separately by law number 196 which is 13.12 196 is the official uh plan amendment related to the same properties so also uh would not be dealt with you worship sorry you worship are we removing them then yeah when the committee report was defeated there's no that's what triggers the associated bylaw um in the motion to come forward for council so um those just won't be voted on we'll pull them from the actual approvals so recognizing that bill 196 and 205 will not be on the screen is there anything else in those series of bills that college like dealt with separate counselor trossa thank you i'd like to pull 13.7 bill 201 pertaining to this to the 221 clean avenue parking 13.17 just take a minute colleagues i'm going to get this sorted before i continue talking okay so colleagues i'm going to suggest this motion make sure you're okay with it bills 185 to 204 including the revised bill number 202 but excluding 196 and 201 and then we're going to have added bills 206 208 and 211 which oh 208 2 211 so i'll repeat that actually i'm just going to ask the clerk to put that one on the screen so people can see it okay colleagues so that would be everything except the items that we referred or pulled out um plus the added bylaws with the exception of the one related to the eastland and length that one will be separate that's 207 so 207 won't be in that isn't in that grouping but it's the added bylaws related to the stuff that counselor mccallister read out plus one additional added bylaw that i'll talk about in one second so i'm going to have the clerk put that on the screen and you should be able to see that in e-scribe now so that looks correct um i will say there's one added bylaw that um counselor mccallister didn't mention that i will mention now so that the the public knows what we're voting on and that's added bylaw uh number 210 um this is a bylaw to a point uh this is a bylaw to a point john parity is the new deputy city manager enterprise supports and repeal the previous bylaw related to the previous um uh incumbent in the position uh and so um that is also on the agenda that relates to something that we discussed in camera but um uh this would be the first time um the uh the public would see about that so that's also bill 210 i'll make some more comments in second reading on that one okay so our colleagues good with that package of bylaws altogether counselor mccallister mccallister mccallister mccallister one that you probably want to vote against that's not in this um for counselor hopkins all the wonderland road stuff as well as the item that we referred back to committee have been pulled out okay all right so a mover for all that then deputy mary lewis seconded by uh counselor opkins so we'll open first reading for voting closing the vote motion carries 12 to 0 okay i need to move on a seconder for second reading uh counselor freire and counselor van mierbergen uh on second reading i put myself on the speaker's list so i'll turn the chair over to counselor lamen council amen here at the chair sorry your worship bring capacities on extremely low i will uh recognize them there uh yes so i'm going to speak to bill um 210 which is the appointment of our new deputy city manager enterprise supports um now i know this was like a seven or eight hour meeting so hopefully having to change your mind um on the appointment tonight um but you know this is an incredibly important position uh for the city to provide uh those back end supports to pretty much the entire corporation um i know mr parity comes with exceptional experience um uh from his previous uh jobs and um we couldn't be luckier to uh to have you um i'll certainly obviously be supporting this um by law appointment tonight i it would invite all of my colleagues to continue voting as you did on first reading and support this unanimously uh and i want to thank um our city manager and the team who did all of the work to bring the candidate before us which we uh had our chance to uh to interview and discuss in camera um we appreciate your um thoughtful and exceptional presentation and answers and uh look i look forward to working with you on the many important things ahead i will say as this position has been vacant for a while i also wanted to take a moment to recognize um both the city manager and the team of people who uh covered those duties for uh for a long period of time while also working on all of the important things that um we dealt with through the agenda tonight things that are ongoing things that are consuming large amount of staff time to be able to uh to navigate through this this gap of not having someone for this position for that period of time um let me also say thank you for the work that you've done to uh to keep the corporation running um but now that we have mr parity we can put some of that on his plate and uh and look forward to the work ahead so welcome very uh much we um you know we'll all clap after third reading when it's official but um i just wanted to to speak and say thank you through the presiding officer that's presumptuous colleagues but uh i think that's okay okay so that any other speakers on second reading okay seeing none then we'll open the vote for second reading council frank i vote yes closing the vote motion carries 12 to 0 okay and i need to move in a second or third reading councilor layman seconded by councilor ferreira no discussion on third reading so we'll open that for voting closing the vote motion carries 12 to 0 now you can welcome mr parity and it's the same process to get undone so um you're uh you're stuck with us until we remove a by-law so um uh with that that concludes the those by-laws now there was one other bill 207 that we pulled separately this is related to the eastland and lank i'll look for a mover and a seconder for that particular by-law and councilor ferreira seconded by councilor mckallister we'll open first reading for voting closing the vote motion carries 11 to 1 and uh mover and seconder for second reading councilor hopkin seconded by councilor ferreira any discussion on second reading for this one okay seeing none we'll open that for voting councilor preveled councilor ferreira i'm in resuming session mode i say yes thank you closing the vote motion carries 11 to 1 okay motion mover and seconder for third reading uh councilor hopkin seconded by councilor cuddy uh there is no debate on third reading so we'll open that for voting closing the vote motion carries 11 to 1 okay with that that concludes the agenda i look for motion to adjourn councilor mckallister seconded by one second that one was referred back so it was it was pulled out okay so moved motion to adjourn and moved and seconded by mckallister and cuddy all those in favor by hand that motion carries we are adjourned thank you yeah yes
 
 </details>
+
+---
+
+## Votes
+
+*40 substantive votes at this meeting (22 contested, 18 unanimous). Procedural motions excluded.*
+
+### 6. Communications and Petitions
+
+> That NO ACTION BE TAKEN with respect to communication 6.1, item 4, as noted on the Council Agenda.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 8.1. 10th Meeting of the Civic Works Committee
+
+> That the 10th Report of the Civic Works Committee BE APPROVED, excluding items 8 (3.1) and 9 (4.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.8. (3.1) Blackfriars Bridge - Long Term Use
+
+> That the following actions be taken with respect to the long-term use of the Blackfriars Bridge:  a)    the Option 1 – to continue with the current bridge configuration – as outlined in the staff report dated June 13, 2023 BE APPROVED;  b)    the above-noted recommendation from the Long Term Use ...
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.2. 17th Meeting of the Strategic Priorities and Policy Committee
+
+> That pursuant to section 2.3 of the Council Procedure By-law, the rules of the by-law BE SUSPENDED for the purpose of permitting members to speak more than once to this matter.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
+
+> Consideration of appointment to the London Police Services Board
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
+
+> Consideration of Selection to the London Police Services Board - run off (round 2)
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
+
+> Consideration of Selection to the London Police Services Board - run off (round 2)
+
+**❌ Majority Winner: Ryan Gauss 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
+
+> That Ryan Gauss BE APPOINTED to the London Police Services Board for the term ending November 14, 2026.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.3. 18th Meeting of the Strategic Priorities and Policy Committee
+
+> That Items 1 to 10 (3.4) the 18th Report of the Strategic Priorities and Policy Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
+
+> Motion to approve part c) c)  Councillors J. Pribil and P. Van Meerbergen BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
+
+**❌ Motion Failed (1 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
+
+> That Councillor J. Pribil BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
+
+> That part b) of the motion approving the appointment of Councillor H. McAlister to the Lower Thames Valley Conservation Authority for the term ending November 14, 2023 BE RECONSIDERED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
+
+> Following the approval of reconsideration, the following motion is put b)  Councillor H. McAlister BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 14, 2026; and,
+
+**❌ Motion Failed (0 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
+
+> That Councillor P. Van Meerbergen BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 14, 2026
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
+
+> That the Minister of Natural Resources and Forestry BE PETITIONED to provide for the appointment of one citizen for the final vacancy for membership on the Kettle Creek Conservation Authority Board of Directors; it being noted that two Council members are appointed as members of the Board of Dire...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.12. (2.1) June Progress Update - Health and Homelessness Whole of Community System Response
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the June Progress Update – Health & Homelessness Whole of Community System Response report BE RECEIVED for information.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 8.3.13. (2.2) Core Area Action Plan 2022 Review
+
+> That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the Deputy City Manager, Planning & Economic Development, and the Deputy City Manager, Social & Health Development, the following actions be taken: a)    the staff report dated June 20, 2023 entitled “Core Area ...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.4. 10th Meeting of the Planning and Environment Committee
+
+> That the 10th Report of the Planning and Environment Committee BE APPROVED, excluding items 4 (3.1) and 5 (3.2);  it being noted that any and all oral and written submissions from the public related to this application have been, on balance, taken into consideration by Council as part of its deli...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.4.4. (3.1) 221 Queens Avenue (TZ-9598) (Relates to Bill No. 201)
+
+> That the application related to 221 Queens Avenue, BE REFERRED back to the Planning and Environment for additional discussion with the applicant including the incorporation of an enhanced landscaping plan and the consideration of a three (3) year extension for the temporary use.
+
+**✅ Motion Passed (10 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.4.5. (3.2) 5 Year Review - Community Improvement Plans and Financial Incentive Programs (Final)
+
+> That Item 5 (clause 3.2) of the 10th Report of the Planning and Environment Committee BE AMENDED by adding a new part e), as follows: “e)     that the Civic Administration BE DIRECTED to review existing (and consider in future) housing-related CIPs opportunities to include and incentivize the cre...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.4.5. (3.2) 5 Year Review - Community Improvement Plans and Financial Incentive Programs (Final)
+
+> That Item 5 (clause 3.2) of the 10th Report of the Planning and Environment Committee BE FURTHER AMENDED by adding a new part d) xxi): "xxi) that 206 Piccadilly be added to the Downtown Community Improvement Plan Project Area"
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.4.5. (3.2) 5 Year Review - Community Improvement Plans and Financial Incentive Programs (Final)
+
+> That the motion as further amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.5. 11th Meeting of the Planning and Environment Committee
+
+> That the 11th Report of the Planning and Environment Committee BE APPROVED, excluding items 6 (2.3), 7 (3.1) and 10 (3.4); it being noted that any and all oral and written submissions from the public related to this application have been, on balance, taken into consideration by Council as part of...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.5.6. (2.3) Request for Heritage Designation - 599-601 Richmond Street
+
+> That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated June 19, 2023 entitled "Designation of the Property at 599-601 Richmond street pursuant to Part IV, Ontario Heritage Act, Ward 13" BE RECEIVED for information.  (2023-R01)
+
+**✅ Motion Passed (8 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (5):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.5.6. (2.3) Request for Heritage Designation - 599-601 Richmond Street
+
+> That notwithstanding the Council Procedure By-law, Councillor A. Hopkins BE PERMITTED to speak twice with respect to this matter.
+
+**✅ Motion Passed (8 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.5.7. (3.1) 568 Second Street Zoning By-law Amendment (Z-9522) (Relates to Bill No. 202)
+
+> That Item 7 (3.1) BE AMENDED to read as follows: That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Parkit Enterprises relating to the property located at 568 Second Street: a)    the revised, attac...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.5.7. (3.1) 568 Second Street Zoning By-law Amendment (Z-9522) (Relates to Bill No. 202)
+
+> Item 7 clause 3.1, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.5.10. (3.4) 755, 785 & 815 Wonderland Road South (OZ-9565)
+
+> That Clause 3.4 BE AMENDED by adding the following at the end of the clause: It being noted that the following Site Plan matters have been raised through the application review process for consideration by the Site Plan Approval Authority:  a)    Submission of a noise and vibration study certifie...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.5.10. (3.4) 755, 785 & 815 Wonderland Road South (OZ-9565)
+
+> That item 10, clause 3.4, as amended, BE APPROVED.
+
+**❌ Motion Failed (6 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.6. 12th Report of the Corporate Services Committee
+
+> That the 12th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.7. 13th Report of the Corporate Services Committee
+
+> That the 13th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.8. 10th Report of the Community and Protective Services Committee
+
+> That the 10th Report of the Community and Protective Services Committee BE APPROVED, excluding items 15 (4.3) and 16 (4.4).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.8.15. (4.3) Encampment Response Update
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated June 13, 2023, related to the Encampment Response Update:  a)    the funding allocation, from the Social Services Reserve Fund, for the tot...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.8.16. (4.4) Councillor J. Pribil - Winter Response Program
+
+> That the Civic Administration BE DIRECTED to include a year over year comparison, for the past three years (2020-2021, 2021-2022, 2022-2023), on the number of bed days available/occupied, number of bed nights available/occupied, number of hours service bed facility, number of hours service non-be...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+**Absent (2):** [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.9. (ADDED) 11th Meeting of the Community and Protective Services Committee
+
+> That the 11th Report of the Community and Protective Services Committee BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.10. 2nd Report of the Audit Committee
+
+> That the 2nd Report of the Audit Committee BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 9.1. 10th Report of Council in Closed Session
+
+> 1.    Partial Property Acquisition – 1080 Dundas Street – East London Link Project That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the property located at 1080 Dundas Street, further described as Part of Lot...
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Added Bill No. 207, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Added Bill No. 207, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Added Bill No. 207, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+

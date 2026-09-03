@@ -36,24 +36,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 2987,
-    "yeas": 2742,
-    "nays": 245,
+    "totalVotes": 3635,
+    "yeas": 3436,
+    "nays": 199,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 91.79779042517576,
-    "contestedDissentRate": 8.87177770338132,
-    "contestedVotes": 2987,
-    "substantiveVotes": 2983,
-    "substantiveYeas": 2739,
-    "substantiveNays": 244,
+    "yeaRate": 94.52544704264099,
+    "contestedDissentRate": 21.984924623115578,
+    "contestedVotes": 796,
+    "substantiveVotes": 3301,
+    "substantiveYeas": 3102,
+    "substantiveNays": 199,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 91.82031511900772
+    "substantiveYeaRate": 93.97152378067253
   },
   "budgetVoting": {
-    "totalBudgetVotes": 704,
-    "budgetYeas": 558,
-    "budgetNays": 146,
+    "totalBudgetVotes": 461,
+    "budgetYeas": 415,
+    "budgetNays": 46,
     "budgetAbsent": 0
   },
   "topAlignments": [],
@@ -61,12 +61,12 @@
   "notableDissents": [
     {
       "date": "2014-11-25",
-      "meetingTitle": "MINUTES 26TH\n  MEETING",
+      "meetingTitle": "MINUTES 26TH MEETING",
       "itemTitle": "2015 Water and\n  Wastewater Rates",
-      "motionText": "Motion Passed",
+      "motionText": "That, on the recommendation of the Managing\n  Director, Environmental and Engineering Services & City Engineer, and the\n  Managing Director, Corporate Services & City Treasurer, Chief Financial\n  Offi...",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-11-24",
@@ -81,19 +81,19 @@
       "date": "2014-11-11",
       "meetingTitle": "MINUTES 25TH MEETING",
       "itemTitle": "Councillor R.\n  Monteith and Councillor N. Branscombe - Emergent Motion - Relocation of\n  Inaugural Council Meeting - December 1, 2014",
-      "motionText": "Motion Passed",
+      "motionText": "Approve that pursuant to section 2.8\n  of the Council Procedure By-law, the December 1, 2014 Inaugural Municipal\n  Council meeting be held at the London Convention Centre commencing at 6:00\n  PM, in o...",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=87f2cd1e-65b9-48d3-8a01-48b29194547e&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=87f2cd1e-65b9-48d3-8a01-48b29194547e&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-10-14",
       "meetingTitle": "MINUTES 24TH MEETING",
       "itemTitle": "Property located at\n  50 King Street (Z-8372)",
-      "motionText": "Motion Passed",
+      "motionText": "Approve clause 1 and that the application\n  by 2353034 Ontario Limited (formerly Treadstone Group) related to the\n  properties located at 510 Central Avenue and 609 William Street (Z-8141) BE\n  REFERR...",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-10-07",
@@ -134,35 +134,28 @@
     {
       "date": "2014-09-02",
       "meetingTitle": "MINUTES 21ST MEETING",
-      "itemTitle": "BY-LAWS",
-      "motionText": "Motion Passed",
+      "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+      "motionText": "Approve part b) of clause 25, as amended.",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-02",
       "meetingTitle": "MINUTES 21ST MEETING",
-      "itemTitle": "BY-LAWS",
-      "motionText": "Motion Passed",
+      "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+      "motionText": "Approve parts c), d) and e) of clause 25,\n  as amended.",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1252,
-      "yeas": 1183,
-      "nays": 69,
-      "participationRate": 100
-    },
-    {
-      "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 751,
-      "yeas": 590,
-      "nays": 161,
+      "totalVotes": 2313,
+      "yeas": 2179,
+      "nays": 134,
       "participationRate": 100
     },
     {
@@ -170,6 +163,13 @@
       "totalVotes": 728,
       "yeas": 717,
       "nays": 11,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 338,
+      "yeas": 288,
+      "nays": 50,
       "participationRate": 100
     },
     {

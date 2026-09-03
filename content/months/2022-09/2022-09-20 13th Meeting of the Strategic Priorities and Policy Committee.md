@@ -332,36 +332,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4;57 PM.
 
 ****
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2.1. Actions Implementing London's UNESCO Designation as Canada's 'City of Music'
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to London’s UNESCO designation as Canada's 'City of Music': a)    the area previously identified in the Music, Entertainment and Culture District Strategy as the D...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.1. Anti-Racism and Anti-Oppression Framework
-
-> That, on the recommendation of the City Manager, the following actions be taken with respect to the new Anti-Racism and Anti-Oppression Framework: a)    the above-noted Framework, as outlined in the staff report dated September 20, 2022, BE ENDORSED; and,    b)    the Civic Administration BE DIRE...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.2. Hyde Park Business Improvement Association
-
-> That the following actions be taken with respect to the Hyde Park Business Improvement Association:    a) the resignation of Jean Coles from the Hyde Park Business Improvement Association BE ACCEPTED; and,    b) Vicki Balazs, Jaydancinc Inc. and Kelsey Watkinson, Curley Brewing Company BE APPOINT...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -418,3 +388,34 @@ Mayor absolutely it is intended to be used at every stage what we know is that i
 chair and i want to take this opportunity as well to to thank staff i do want to follow up on one of the questions i council attorney just touched upon it that this is a living document and my question was really around uh the fact that uh how are we going to see this document come forward i appreciate uh the new counselors will we'll get some training and obviously we'll see this tool um applied when we have recommendations coming forward to us as council but how are we going to be able to as a council to understand that it is constantly um being worked on and changed uh as we move forward it's amazing how time goes by very quickly and things do change and i i really this really stood out to me when i read the report the importance that this is a living document wanting to have a better understanding how that's going to work let's ask miss things through your worship i think our intent would be to provide an update report to council on how the tool was applied uh what the uptake has been like as well if there are any substantive changes i just want to also reiterate that it will take time to uh have the tool used routinely across the organization we are we are going to start with the rollout start with big and small initiatives but it will take time to fully train across the organization and use it for say every report but we can absolutely update council in a year on how the rollout is going and the kinds of initiatives it's been applied to and where the changes have been and if there are any changes to the tool i'm quite happy to do that castropans yeah thank you uh for that clarification um slivingston and and thank you to you uh and staff for all the work that i'd also like to thank uh this has me reflecting uh as some of my our colleagues are going to be moving on the the work uh that has been going on with the diversity inclusion and anti-oppression community it it it really has we've come a long way and i'm just reflecting on past councilors that were a part of this and it's just not um it's a it's a constantly moving um conversation that we've been having here in in the city for a number of years and the importance of keeping that communication and understanding and understanding the tool going forward is going to be important for us as a city so thank you for allowing me to make these comments thank you any other comments or questions because we're in committee i have the flexibility of uh not looking always for a mover and seconder first what we start with the mover i see counselor how moving do i have a seconder for this i see counselor city snuck in there yes thank you very much i saw your hand counselor Cassidy you know it's one of these kinds of things you know it's yeah okay so i was messing with my camera all right good for you so with that we have mover and a seconder i have no other speakers on the docket so with that let's call the question closing the vote the motion is passed 15 to 0 colleagues to item 4.2 on the agenda which deals with two changes of directors one that is looking to confirm for the Hyde Park BIA the appointment of Kelsey Walkington and who is the spirit of a little promotion owner of the curly brewing company and i can't say if you support this you get a free brewing treat and the second is Vicki Belaz owner of jdancing and i don't know if you get a free dance out of that so with that though i'm going to put this on the table look for a mover please i see counselor layman seconded by i see counselor helmer thank you very much any comments or questions with regard to these two Hyde Park BIA appointments counselor layman go ahead thank you you've heard tonight reference to our boards and commissions many folks that serve london often unheralded that give a great deal of time to serve on those organizations and including our many BIA's throughout the area so i just want to say thank you to all those folks i don't think you get recognized enough and so i will use this opportunity to speak and i'm sure on behalf of other counselors to say thank you and specifically i'll reference gene coals who is resigning from the Hyde Park BIA board for her efforts in service on the on that organization and i support the confirmation of the both Vicki and Kelsey as well look forward to working with them on the board so so thank you very much thank you any other comments or questions i see none with that let's call the question closing the vote the motion is passed 15 to 0 colleagues there's no nor additional business before we call for german they give a bigger shadow to uh miss morris and the team responsible for the arao framework you've heard a lot of comments in fact that was the greatest amount of commentary tonight from colleagues and i think that speaks to the caliber of the report that was produced so our thanks to the team who's put that out who put that out and also as we acknowledge in our in our opening the meeting this morning of this afternoon where we paid tribute to her her majesty and i'd like to thank everyone responsible for making the arrangements from the municipal standpoint from the desk and books of remembrance and sort of the clerk's office and others responsible for all of those arrangements we'd like to say thank you to all our staff we don't have that many more meetings left and so we'll ask staff to hang out with us we're just a little longer through this but you've been great we appreciate you very very much and just living soon please pass that through to uh to all of our staff we appreciate that with that i'll look for a motion to adjourn i see counselor five miller i see seconded by counselor van holst uh can we do a hand vote do you think let's go screens on just for fun and let's just say with a hand vote those in favor that motion's passed with that meeting's adjourned and we'll see you all soon thank you
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.1. Actions Implementing London's UNESCO Designation as Canada's 'City of Music'
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to London’s UNESCO designation as Canada's 'City of Music': a)    the area previously identified in the Music, Entertainment and Culture District Strategy as the D...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Anti-Racism and Anti-Oppression Framework
+
+> That, on the recommendation of the City Manager, the following actions be taken with respect to the new Anti-Racism and Anti-Oppression Framework: a)    the above-noted Framework, as outlined in the staff report dated September 20, 2022, BE ENDORSED; and,    b)    the Civic Administration BE DIRE...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.2. Hyde Park Business Improvement Association
+
+> That the following actions be taken with respect to the Hyde Park Business Improvement Association:    a) the resignation of Jean Coles from the Hyde Park Business Improvement Association BE ACCEPTED; and,    b) Vicki Balazs, Jaydancinc Inc. and Kelsey Watkinson, Curley Brewing Company BE APPOINT...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+

@@ -297,7 +297,7 @@ The meeting adjourned at 2:43 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.3. Single Source 20-06 Ontario Works Royal Bank of Canada Right Pay Reloadable Payment Card Program Agreement
 
@@ -305,7 +305,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.7. Old Victoria Hospital Lands Phase ll - Lands Disposition
 
@@ -313,7 +313,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Voluntary Climate Change Contributions
 
@@ -321,5 +321,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

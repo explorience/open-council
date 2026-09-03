@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:56:38.684Z",
+  "generatedAt": "2026-09-02T11:51:05.656Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 97.87234042553192,
@@ -10,7 +10,7 @@
       "s-trosow": 92.76595744680851,
       "c-rahman": 98.75,
       "s-lehman": 98.63013698630137,
-      "a-hopkins": 95.61904761904762,
+      "a-hopkins": 95.65972222222221,
       "p-van-meerbergen": 95.69160997732426,
       "s-franke": 95.65217391304348,
       "e-peloza": 97.11111111111111,
@@ -146,7 +146,7 @@
       "s-hillier": 98.00796812749005
     },
     "a-hopkins": {
-      "j-morgan": 95.61904761904762,
+      "j-morgan": 95.65972222222221,
       "h-mcalister": 96.69811320754717,
       "s-lewis": 95.67901234567901,
       "p-cuddy": 95.41284403669725,
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "public-safety",
-  "motionCount": 1159
+  "motionCount": 1266
 }

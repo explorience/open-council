@@ -264,7 +264,7 @@ The meeting adjourned at 12:36 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2. Consent
 
@@ -272,5 +272,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

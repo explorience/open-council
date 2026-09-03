@@ -583,7 +583,7 @@ The meeting adjourned at 2:31 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -591,7 +591,7 @@ The meeting adjourned at 2:31 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.2. Choose London – Innovative, Vibrant and Global - London’s Newcomer Strategy
 
@@ -599,15 +599,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 4.1. 5th Report of the Accessibility Advisory Committee
-
-> Motion to approve the remainder of the 5th Report of the Accessibility Advisory Committee.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. 5th Report of the Accessibility Advisory Committee
 
@@ -618,13 +610,21 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (4):** [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong)
 
-**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+**Nay (1):** [Phil Squire](/councillors/former/p-squire)
 
-**Absent (1):** [Virginia Ridley](/councillors/current/v-ridley)
+**Absent (1):** [Virginia Ridley](/councillors/former/v-ridley)
 
 </details>
+
+### 4.1. 5th Report of the Accessibility Advisory Committee
+
+> Motion to approve the remainder of the 5th Report of the Accessibility Advisory Committee.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 
 ### 4.2. Middlesex-London Health Unit Office Space Fit-up Funding Request
 
@@ -632,13 +632,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 5.2. (ADDED) 6th Report of the Animal Welfare Advisory Committee
-
-> That the following actions be taken with respect to the 6th Report of the Animal Welfare Advisory Committee from its meeting held on June 7, 2018: a)            the Civic Administration BE REQUESTED to advise the Animal Welfare Advisory Committee of the recommendations being implemented relating ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 

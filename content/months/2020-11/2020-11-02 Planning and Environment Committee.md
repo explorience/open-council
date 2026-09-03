@@ -331,7 +331,7 @@ The meeting adjourned at 5:54 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Application - 1150 Fanshawe Park Road East (OZ-9215)
 
@@ -339,7 +339,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Brendon Samuels - Request for Delegation Status - Bird Friendly Skies By-law
 
@@ -347,7 +347,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 6. Adjournment
 
@@ -358,7 +358,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

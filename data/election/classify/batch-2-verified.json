@@ -1,6 +1,6 @@
 [
  {
-  "id": "4aef343f8a7b",
+  "id": "ccba9860fc4f",
   "issue": "housing",
   "axis": "density",
   "polarity": "restrictive",
@@ -12,7 +12,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "2c152e11e58a",
+  "id": "517dd3cd276a",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -24,7 +24,7 @@
   "verifierNote": "Verified full motion text: this clause's only verb is 'BE AMENDED' (reshaping the wording of the b)/c) driveway-parking sub-parts to exclude WUNCN before they are later voted on) -- not an AFFIRM/DENY/DEFER verb, so it has no independent approve/deny content of its own per the direction-rules methodology (a pure re-wording amendment, distinct from the later 'BE APPROVED' vote on the reworded text). Correctly left axis:null/polarity:null."
  },
  {
-  "id": "369de39b00f6",
+  "id": "454d678bf46e",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -38,7 +38,7 @@
   "verifierNote": "Verified full motion text: sole operative content is a report-back/study/map directive to staff with no independent approve/deny verb \u2014 correctly excluded as a non-decision."
  },
  {
-  "id": "7e57700798d3",
+  "id": "9dcd90be2da4",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -47,10 +47,10 @@
   "quote": "amend section 4.19.6) h) I) as it applies to lands outside of Western University Near Campus Neighbourhood to allow a maximum driveway width of 6m on lots with a lot width of up to 12m and to allow a maximum driveway width of 9m on lots greater than 12m",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "REFUTED the axis:null/polarity:null call. Full text (reconstructed from the item's 'as amended' POST block) shows this is a genuine, decided council direction relaxing driveway-width and front-yard-parking zoning standards -- not a bare procedural wrapper and not a non-binding 'consider' request. AFFIRM_RE's 'BE DIRECTED' verb governs specific, fully-specified numeric standards (not a vague study-ask), matching how the corpus classifies comparable parking-standard zoning approvals elsewhere (c7bf822cb0ae: reduced parking ratio for affordable housing, housing/application-approval/expansive; dd17ec0fa6f7: garage/parking special-provision zoning, housing/application-approval/expansive). Corrected via the same generic application-approval fallback used ~106 times elsewhere in the corpus when no specific density/use-permission axis literally matches but a real approve/deny decision exists."
+  "verifierNote": "REFUTED the axis:null/polarity:null call. Full text (reconstructed from the item's 'as amended' POST block) shows this is a genuine, decided council direction relaxing driveway-width and front-yard-parking zoning standards -- not a bare procedural wrapper and not a non-binding 'consider' request. AFFIRM_RE's 'BE DIRECTED' verb governs specific, fully-specified numeric standards (not a vague study-ask), matching how the corpus classifies comparable parking-standard zoning approvals elsewhere (c7bf822cb0ae (superseded id): reduced parking ratio for affordable housing, housing/application-approval/expansive; dd17ec0fa6f7 (superseded id): garage/parking special-provision zoning, housing/application-approval/expansive). Corrected via the same generic application-approval fallback used ~106 times elsewhere in the corpus when no specific density/use-permission axis literally matches but a real approve/deny decision exists."
  },
  {
-  "id": "f5ad254fd54f",
+  "id": "951943522c64",
   "issue": "housing",
   "axis": "use-permission",
   "polarity": "expansive",
@@ -62,7 +62,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "0791703e98a9",
+  "id": "c0c62950b485",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -76,7 +76,7 @@
   "verifierNote": "Verified full motion text: procedural (meeting-conduct) motion with no substantive issue content \u2014 correctly excluded."
  },
  {
-  "id": "cec422f3f37c",
+  "id": "2643c10e7e3d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -90,7 +90,7 @@
   "verifierNote": "Verified full motion text: BE REFERRED motion that itself Failed (5 to 8) -- decided nothing either way, and the underlying subject (BIA property clean-up/graffiti reimbursement) is outside the 8 tracked issue clusters regardless. Correctly excluded."
  },
  {
-  "id": "eee12d7924a3",
+  "id": "3a57347d8a91",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -102,7 +102,7 @@
   "verifierNote": "Verified full motion text: directs an immediate reimbursement from the Community Investment Reserve Fund for a BIA's prior clean-up/graffiti-removal costs. No budget-cluster keyword (capital/operating budget, tax levy, business case, development charges) appears, and a bare reserve-fund reimbursement was deliberately excluded from the budget cluster per issue-rules.ts's own calibration notes. Correctly issue:none."
  },
  {
-  "id": "e8fd57d3f197",
+  "id": "eadec8e05795",
   "issue": "climate",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -111,10 +111,10 @@
   "quote": "APPROVE the Green Municipal Fund Grant Agreement, CORE-25-0485, (\u201cAgreement\u201d) between the Federation of Canadian Municipalities (\u201cFCM\u201d) and The Corporation of the City of London for the provision of funding for studying the potential of net-zero community energy in London, Ontario",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "REFUTED the 'informational_ask' null call. The clause's operative verbs are 'BE INTRODUCED' (the by-law) and imperative 'APPROVE'/'AUTHORIZE' (the grant agreement and its execution) -- a real, binding decision to accept FCM funding and authorize the Mayor to sign, not a 'BE DIRECTED to report back/study' non-decision. The word 'studying' describes what the FUNDED PROJECT will do, not what COUNCIL'S OWN motion asks staff to do -- conflating the two produced the miss. Corpus precedent for the identical FCM Green Municipal Fund Agreement pattern (b26197dd53d0, 70881ca02a83, near-identical wording) is classified climate/application-approval/expansive/high elsewhere; this batch's null call for the structurally identical 998400eb3bed-style report-back sub-motion is correct, but 55da1ef00dc2 is the main APPROVE-the-Agreement motion, not that sub-motion type."
+  "verifierNote": "REFUTED the 'informational_ask' null call. The clause's operative verbs are 'BE INTRODUCED' (the by-law) and imperative 'APPROVE'/'AUTHORIZE' (the grant agreement and its execution) -- a real, binding decision to accept FCM funding and authorize the Mayor to sign, not a 'BE DIRECTED to report back/study' non-decision. The word 'studying' describes what the FUNDED PROJECT will do, not what COUNCIL'S OWN motion asks staff to do -- conflating the two produced the miss. Corpus precedent for the identical FCM Green Municipal Fund Agreement pattern (b26197dd53d0 (superseded id), 70881ca02a83 (superseded id), near-identical wording) is classified climate/application-approval/expansive/high elsewhere; this batch's null call for the structurally identical 998400eb3bed (superseded id)-style report-back sub-motion is correct, but 55da1ef00dc2 (superseded id) is the main APPROVE-the-Agreement motion, not that sub-motion type."
  },
  {
-  "id": "c49848510eb3",
+  "id": "58db43988f32",
   "issue": "climate",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -123,10 +123,10 @@
   "quote": "APPROVE the Green Municipal Fund Grant Agreement, CORE-24-0309, (\u201cAgreement\u201d) between the Federation of Canadian Municipalities (\u201cFCM\u201d) and The Corporation of the City of London for the provision of funding for studying the feasibility of municipal fleet electrification in London, Ontario",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Same miss pattern as 55da1ef00dc2 (see that note): the motion's operative content is APPROVE the Agreement + AUTHORIZE execution, a genuine funding decision, not an informational ask. Corrected to climate/application-approval/expansive, matching corpus precedent (b26197dd53d0, 70881ca02a83) for this exact FCM Green Municipal Fund Agreement wording pattern."
+  "verifierNote": "Same miss pattern as 55da1ef00dc2 (superseded id) (see that note): the motion's operative content is APPROVE the Agreement + AUTHORIZE execution, a genuine funding decision, not an informational ask. Corrected to climate/application-approval/expansive, matching corpus precedent (b26197dd53d0 (superseded id), 70881ca02a83 (superseded id)) for this exact FCM Green Municipal Fund Agreement wording pattern."
  },
  {
-  "id": "a310fcf72321",
+  "id": "d9d8403a1f92",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -138,7 +138,7 @@
   "verifierNote": "Verified full motion text: a construction-contract award and financing for a road/infrastructure project (Wellington Gateway). No transit/roads keyword (road widening, traffic calming, transit, BRT) or budget keyword appears in the item title or motion body. Correctly issue:none."
  },
  {
-  "id": "3fd92530a275",
+  "id": "3ad2e53f20d1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -150,7 +150,7 @@
   "verifierNote": "Verified full motion text: substance does not fall within any of the 8 tracked issue clusters (no qualifying keyword or code-pattern support in the motion's own text) \u2014 correctly excluded."
  },
  {
-  "id": "ed65603a2c2d",
+  "id": "1506695c5c20",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -164,7 +164,7 @@
   "verifierNote": "Verified full motion text (wrapper 'item 6, clause 4.4, as amended, BE APPROVED' correctly read through to its POST-reconstructed substance: receiving an MNP audit report and directing a swap of two audit submission dates). Not a tracked issue. Correctly issue:none."
  },
  {
-  "id": "43249cca9133",
+  "id": "806ca0d973e4",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -178,7 +178,7 @@
   "verifierNote": "Verified full motion text: procedural (meeting-conduct) motion with no substantive issue content \u2014 correctly excluded."
  },
  {
-  "id": "27c398a24709",
+  "id": "cbf71b0d4780",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -190,7 +190,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "6c05cb59183e",
+  "id": "f76156fb1699",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -204,7 +204,7 @@
   "verifierNote": "Verified full motion text: a BE REFERRED motion (travel/business expense policy) that itself Failed (0 to 5) -- decided nothing, and the subject matter (council administrative policy) is outside the 8 tracked issues in any case. Correctly excluded."
  },
  {
-  "id": "54d67c9e6a5f",
+  "id": "91633736ec7b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -218,7 +218,7 @@
   "verifierNote": "Verified full motion text: sole operative content is 'BE DIRECTED to prepare two separate policies ... and report back' -- an informational-ask/report-back with no independent approve/deny content, on a non-tracked subject (travel/expense policy). Correctly excluded."
  },
  {
-  "id": "d45532cf8cd8",
+  "id": "3b00d5f0ca5f",
   "issue": "climate",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -227,10 +227,10 @@
   "quote": "APPROVE the Green Municipal Fund Grant Agreement, CORE-24-0309, (\u201cAgreement\u201d) between the Federation of Canadian Municipalities (\u201cFCM\u201d) and The Corporation of the City of London for the provision of funding for studying the feasibility of municipal fleet electrification in London, Ontario",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Committee-stage counterpart of 362a510b1fad (2026-02-23 ICSC item 2.3, verbatim-identical operative text to the 2026-03-03 Council version). Same miss pattern: this is the APPROVE-the-Agreement motion, not a report-back ask. Corrected to climate/application-approval/expansive."
+  "verifierNote": "Committee-stage counterpart of 362a510b1fad (superseded id) (2026-02-23 ICSC item 2.3, verbatim-identical operative text to the 2026-03-03 Council version). Same miss pattern: this is the APPROVE-the-Agreement motion, not a report-back ask. Corrected to climate/application-approval/expansive."
  },
  {
-  "id": "e08e54251f91",
+  "id": "485eab0dc97e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -245,7 +245,7 @@
   "verifierNote": "Verified full motion text: BE REFERRED ... to report back with definitions and details -- a referral/informational-ask non-decision on a non-tracked subject (council governance after election day). Correctly excluded."
  },
  {
-  "id": "c5f120a9ce00",
+  "id": "6159efc9da2e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -254,10 +254,10 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified full motion text: committee-stage duplicate of c8ea26a2f919 (same contract award, same reasoning) -- no transit/budget keyword support. Correctly issue:none."
+  "verifierNote": "Verified full motion text: committee-stage duplicate of c8ea26a2f919 (superseded id) (same contract award, same reasoning) -- no transit/budget keyword support. Correctly issue:none."
  },
  {
-  "id": "4b2922f5c8f7",
+  "id": "8f1f00225a69",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -283,7 +283,7 @@
   "verifierNote": "Disambiguated against the OTHER Failed-2-to-2 motion on the same item (opposite yea/nay roster, 'findings BE RECEIVED, no further action BE TAKEN') using the exact yea/nay voter list in _all-motions.json cross-checked against the full meeting JSON -- id maps correctly to the 'review and report back on feasibility' motion (Trosow/Ferreira yea, Hopkins/Pribil nay), a genuine informational-ask non-decision. Correctly excluded."
  },
  {
-  "id": "8a06f31a64f5",
+  "id": "93757a37cbf5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -297,7 +297,7 @@
   "verifierNote": "Verified full motion text: BE REFERRED to the next ICSC meeting, Passed (5 to 1) -- a genuine referral/non-decision on a non-tracked subject. Correctly excluded."
  },
  {
-  "id": "0a6dbc9b34a5",
+  "id": "2faf79f86958",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -309,7 +309,7 @@
   "verifierNote": "Verified full motion text: approves financing and a pipeline decommissioning/relocation agreement with Imperial Oil for a road-improvement project. No transit/roads or climate keyword appears in the operative text (no 'road widening', 'pipeline' isn't a climate-cluster term). Correctly issue:none."
  },
  {
-  "id": "c11a27095483",
+  "id": "ccc744fb9aea",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -318,10 +318,10 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified full motion text and the full multi-motion amendment sequence on this item: this sub-motion's ultimate effect was superseded/mooted by a later vote restating the original (unamended) language, which the final 'as amended' text confirms. Correctly left unresolved rather than assigned a direction. (This is the Stevenson 'part a) BE AMENDED ... one-year contract renewal' motion, Passed 8-7; the item's FINAL 'as amended' text ultimately re-reads the original unamended multi-year language, per the S. Lewis 'a) ... BE ENDORSED' motion that passed 14-1 afterward -- see 24d580d71e55.)"
+  "verifierNote": "Verified full motion text and the full multi-motion amendment sequence on this item: this sub-motion's ultimate effect was superseded/mooted by a later vote restating the original (unamended) language, which the final 'as amended' text confirms. Correctly left unresolved rather than assigned a direction. (This is the Stevenson 'part a) BE AMENDED ... one-year contract renewal' motion, Passed 8-7; the item's FINAL 'as amended' text ultimately re-reads the original unamended multi-year language, per the S. Lewis 'a) ... BE ENDORSED' motion that passed 14-1 afterward -- see 24d580d71e55 (superseded id).)"
  },
  {
-  "id": "30d74e2a7ba7",
+  "id": "dd3dd7b9b4da",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -335,7 +335,7 @@
   "verifierNote": "Verified full motion text: 'BE DIRECTED to review existing housing stability contracts ... and report back to Council on any recommended amendments' -- a report-back informational ask, and it Failed (7 to 8) regardless. Correctly excluded. Disambiguated against sibling ids on the same item via exact yea/nay roster match."
  },
  {
-  "id": "24d580d71e55",
+  "id": "3e039a97a7b1",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -347,7 +347,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "7bb597179dbc",
+  "id": "c909b7d954e0",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -356,10 +356,10 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified full motion text and the full multi-motion amendment sequence on this item: this sub-motion's ultimate effect was superseded/mooted by a later vote restating the original (unamended) language, which the final 'as amended' text confirms. Correctly left unresolved rather than assigned a direction. (This is the second, near-duplicate 'i) ... one-year contract renewal' re-vote (S. Lewis), Failed 7-8, disambiguated from c11a27095483 by its distinct yea/nay roster.)"
+  "verifierNote": "Verified full motion text and the full multi-motion amendment sequence on this item: this sub-motion's ultimate effect was superseded/mooted by a later vote restating the original (unamended) language, which the final 'as amended' text confirms. Correctly left unresolved rather than assigned a direction. (This is the second, near-duplicate 'i) ... one-year contract renewal' re-vote (S. Lewis), Failed 7-8, disambiguated from c11a27095483 (superseded id) by its distinct yea/nay roster.)"
  },
  {
-  "id": "0fd864d6f943",
+  "id": "8f85d5dd9031",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -374,7 +374,7 @@
   "verifierNote": "Verified full motion text: BE REFERRED to a future CPSC meeting for a report back on the feasibility of a contract extension with 519Pursuit -- a referral/informational-ask non-decision. Issue correctly encampments (item substance is 'Supports for Those Living Unsheltered'). Correctly polarity:null."
  },
  {
-  "id": "1efb0d966119",
+  "id": "ba551f68b461",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -386,7 +386,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "f89356aef0d7",
+  "id": "c3ae84109a7b",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -400,7 +400,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "2329df85e366",
+  "id": "4c14fd4d7e15",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",
@@ -412,7 +412,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "d328160d258a",
+  "id": "d8b4dbfe20e7",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -424,7 +424,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "079a29d967cf",
+  "id": "3645f10bf997",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -438,7 +438,7 @@
   "verifierNote": "Verified full motion text: procedural (meeting-conduct) motion with no substantive issue content \u2014 correctly excluded."
  },
  {
-  "id": "dd1ffaa9ed13",
+  "id": "6ac4f5e67848",
   "issue": "housing",
   "axis": "use-permission",
   "polarity": "expansive",
@@ -450,7 +450,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "7f44f3ad068b",
+  "id": "191e9591ea9a",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -462,7 +462,7 @@
   "verifierNote": "Verified full motion text: rezones from Community Facility/Open Space TO Community Facility/Open Space (Diocese property) -- no residential unit count, height, storeys, or dwelling-type change. Issue:housing is a structural code-pattern hit (OZ-25135) per issue-rules.ts's documented CODE_PATTERNS behavior, not a substantive housing content match, and correctly gets no axis/polarity since neither density nor use-permission content is present."
  },
  {
-  "id": "200aa0dd5d09",
+  "id": "7bf3e18cce27",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -474,7 +474,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "d8709843d45c",
+  "id": "e5c6ea2ab4d3",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -486,7 +486,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "83c1d43b3506",
+  "id": "97b4477adc5a",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -498,7 +498,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "0f359afc4f62",
+  "id": "cfbddceb0790",
   "issue": "housing",
   "axis": "density",
   "polarity": "restrictive",
@@ -510,7 +510,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "5549c33b0674",
+  "id": "05c87305c8cc",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -522,7 +522,7 @@
   "verifierNote": "Verified full motion text: a non-binding 'Site Plan Approval Authority BE REQUESTED to consider' design condition (rooftop amenity, sidewalk access, transom windows), not a density or use-permission decision \u2014 matches the corpus's own treatment of comparable site-plan conditions elsewhere; correctly left axis:null. (rooftop amenity prohibition, Passed 11-4.)"
  },
  {
-  "id": "bc862dbf8b17",
+  "id": "c015f0f0b8ee",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -534,7 +534,7 @@
   "verifierNote": "Verified full motion text: a non-binding 'Site Plan Approval Authority BE REQUESTED to consider' design condition (rooftop amenity, sidewalk access, transom windows), not a density or use-permission decision \u2014 matches the corpus's own treatment of comparable site-plan conditions elsewhere; correctly left axis:null. (sidewalk/access connection prohibition, Passed 10-5.)"
  },
  {
-  "id": "02062f07951a",
+  "id": "f57e76d167e2",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -546,7 +546,7 @@
   "verifierNote": "Verified full motion text: a non-binding 'Site Plan Approval Authority BE REQUESTED to consider' design condition (rooftop amenity, sidewalk access, transom windows), not a density or use-permission decision \u2014 matches the corpus's own treatment of comparable site-plan conditions elsewhere; correctly left axis:null. (transom-style window design condition, Passed 13-2.)"
  },
  {
-  "id": "7bcf15574247",
+  "id": "d2252ba8e65f",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -558,7 +558,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "1b85a2cb32cf",
+  "id": "ff091c474ecb",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",

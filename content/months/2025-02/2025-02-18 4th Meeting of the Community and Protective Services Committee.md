@@ -432,45 +432,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:27 PM.
 
 ****
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.9 BE APPROVED.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-
-### 2.10. Amendment to Fees and Charges By-Law - Honk Mobile
-
-> That on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report, dated February 18, 2025, related to an Amendment to the Fees and Charges By-law for Honk Mobile: a)    the proposed by-law, as appended to the abov...
-
-**✅ Motion Passed (2 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 2.11. Adult Entertainment Body-Rub Attendant Licensing - Information Report
-
-> That the motion be approved, as amended.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -787,3 +748,43 @@ All those opposed. That motion carries. Thank you Deputy Mayor. We're adjourned.
 Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.9 BE APPROVED.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 2.10. Amendment to Fees and Charges By-Law - Honk Mobile
+
+> That on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report, dated February 18, 2025, related to an Amendment to the Fees and Charges By-law for Honk Mobile: a)    the proposed by-law, as appended to the abov...
+
+**✅ Motion Passed (2 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 2.11. Adult Entertainment Body-Rub Attendant Licensing - Information Report
+
+> That the motion be approved, as amended.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+

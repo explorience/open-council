@@ -399,120 +399,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:46 PM.
 
 ****
-
----
-
-## Votes
-
-*10 substantive votes at this meeting (4 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.2 to 2.4 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.1. 10th Report of the Animal Welfare Community Advisory Committee
-
-> That the following actions be taken with respect to the 10th Report of the Animal Welfare Community Advisory Committee, from the meeting held on October 3, 2024: a)    the Civic Administration BE REQUESTED to provide resource materials that can be displayed by the Animal Welfare Community Advisor...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 3.1. Life*Spin - Property Standards and Tenant Support
-
-> That pursuant to section 36.3 of the Council Procedure By-law, the delegate BE PERMITTED to speak an additional 5 minutes with respect to this matter.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. Life*Spin - Property Standards and Tenant Support
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. Life*Spin - Property Standards and Tenant Support
-
-> Motion to approve part a) i) of the main motion.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. Life*Spin - Property Standards and Tenant Support
-
-> Motion to approve part a) ii) of the main motion.
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 3.1. Life*Spin - Property Standards and Tenant Support
-
-> Motion to approve part a) iii) of the main motion.
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 3.1. Life*Spin - Property Standards and Tenant Support
-
-> Motion to approve part b) of the main motion.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 3.1. Life*Spin - Property Standards and Tenant Support
-
-> Motion to approve that: it being noted that the Community and Protective Services Committee received a communication from Life-Spin entitled “Property Standards and Tenant Support,” and heard a delegation from representatives of Life*Spin in support of their recommendations; it being further note...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Councillor E. Peloza and Deputy Mayor S. Lewis - Concessions at City Facilities
-
-> The Civic Administration BE DIRECTED to initiate a review of current arena concession operations and report back in Q1 of 2025 on the current operations across city arenas pertaining to food and beverage (including healthy options) concessions including revenue, current vendors and weekly hours o...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -951,3 +837,118 @@ So, motion to adjourn. Moved by Councillor Pribbles, seconded by Councillor McCa
 We're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (4 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. 10th Report of the Animal Welfare Community Advisory Committee
+
+> That the following actions be taken with respect to the 10th Report of the Animal Welfare Community Advisory Committee, from the meeting held on October 3, 2024: a)    the Civic Administration BE REQUESTED to provide resource materials that can be displayed by the Animal Welfare Community Advisor...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 3.1. Life*Spin - Property Standards and Tenant Support
+
+> That pursuant to section 36.3 of the Council Procedure By-law, the delegate BE PERMITTED to speak an additional 5 minutes with respect to this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Life*Spin - Property Standards and Tenant Support
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Life*Spin - Property Standards and Tenant Support
+
+> Motion to approve part a) i) of the main motion.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Life*Spin - Property Standards and Tenant Support
+
+> Motion to approve part a) ii) of the main motion.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 3.1. Life*Spin - Property Standards and Tenant Support
+
+> Motion to approve part a) iii) of the main motion.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 3.1. Life*Spin - Property Standards and Tenant Support
+
+> Motion to approve part b) of the main motion.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 3.1. Life*Spin - Property Standards and Tenant Support
+
+> Motion to approve that: it being noted that the Community and Protective Services Committee received a communication from Life-Spin entitled “Property Standards and Tenant Support,” and heard a delegation from representatives of Life*Spin in support of their recommendations; it being further note...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Councillor E. Peloza and Deputy Mayor S. Lewis - Concessions at City Facilities
+
+> The Civic Administration BE DIRECTED to initiate a review of current arena concession operations and report back in Q1 of 2025 on the current operations across city arenas pertaining to food and beverage (including healthy options) concessions including revenue, current vendors and weekly hours o...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

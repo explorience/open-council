@@ -1014,7 +1014,7 @@ The meeting adjourned at 9:15 PM.
 
 ## Votes
 
-*13 substantive votes at this meeting (5 contested, 8 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (5 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -1022,39 +1022,7 @@ The meeting adjourned at 9:15 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. 911 and 945 Kleinburg Drive (Formerly 660 Sunningdale Road East) (Z-9321)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Applewood Market Place Inc., relating to portions of the lands located at 911 and 945 Kleinburg Drive (formerly 660 Sunningdale Road East), the proposed by-law appended to the Added Agenda as Append...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. Housekeeping Amendment to Southwest Area Secondary Plan
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to housekeeping amendment to the Southwest Area Secondary Plan, the proposed by-law appended to the staff report dated June 20, 2022 as Appendix "A" BE INTRODUCED at the Municipal Co...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. Delegated Authority (Bill 13) and Alternative Notice Measures for Minor Amendments (O-9492)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to Bill 13, Supporting People and Businesses Act, 2021: a)    the proposed by-law appended to the staff report dated June 20, 2022 as Appendix “A” BE INTRODUCED at the Municipal Coun...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. 991 Sunningdale Road West (Z-9472)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Nasser and Suzan Aljarousha, relating to the property located at 991 Sunningdale Road West, the proposed by-law appended to the staff report dated June 20, 2022 as Appendix “A” BE INTRODUCED at the ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.5. 84-86 St. George Street and 175-197 Ann Street (OZ-9127)
 
@@ -1065,7 +1033,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -1078,7 +1048,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1091,7 +1063,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -1099,12 +1073,12 @@ Unanimous (4-0)
 
 > That Mr. L. Kirkness's delegation BE EXTENDED beyond five minutes.
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Stephen Turner](/councillors/former/s-turner)
 
 **Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
 
@@ -1119,7 +1093,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -1129,7 +1105,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.8. 801 Sarnia Road (O-9475 & Z-9476)
 
@@ -1137,13 +1113,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 5.1. (ADDED) 2nd Report of the Community Advisory Committee on Planning
-
-> That, the following actions be taken with respect to the 2nd Report of the Community Advisory Committee on Planning, from its meeting held on June 15, 2021: a)  the Planning and Environment Committee BE ADVISED of the following with respect to the Public Meeting and Revised Application Notice, da...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 

@@ -528,19 +528,11 @@ The meeting adjourned at 7:33 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
 > That Items 2.1 and 2.2 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.1. 221 Queens Avenue (TZ-9598)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the property located at 221 Queens Avenue: a) the request to amend Zoning By-law No. Z.-1 to change the zoning of the sub...
 
 **✅ Motion Passed (6 to 0)**
 

@@ -178,7 +178,7 @@ The meeting adjourned at 2:39 PM.
 
 ## Votes
 
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -186,7 +186,7 @@ The meeting adjourned at 2:39 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.1. Year 2019 Tax Policy
 
@@ -194,5 +194,20 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
+
+### 4.1. Full-Time Councillors for Next Term of Council
+
+> That the communication dated April 8, 2019 from Councillor M. van Holst with respect to full-time Councillors for the next term BE RECEIVED for information.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
+
+**Nay (2):** [Jesse Helmer](/councillors/former/j-helmer), [Arielle Kayabaga](/councillors/former/a-kayabaga)
+
+</details>
 

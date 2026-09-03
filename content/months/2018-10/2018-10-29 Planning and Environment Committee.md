@@ -761,7 +761,7 @@ The meeting adjourned at 7:28 PM.
 
 ## Votes
 
-*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (3 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -769,31 +769,7 @@ The meeting adjourned at 7:28 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.2. Public Participation Meeting - Application - 1331 Hyde Park Road (O-8927/Z-8928)
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of 1331 Hyde Park Holdings Inc. and The Corporation of the City of London, relating to the property located at 1331 Hyde Park Road: a)            the pro...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.3. Public Participation Meeting - Application - 537 Crestwood Drive (Z-8915)
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, with respect to the application of Star Homes Ltd., relating to the property located at 537 Crestwood Drive, the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM an Urban Rese...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.4. Public Participation Meeting - Application - 324 York Street (TZ-8917)
-
-> Motion to approve part a) which reads as follows: That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Bradel Properties Ltd., relating to the property located at 324 York Street: a)          the request...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.4. Public Participation Meeting - Application - 324 York Street (TZ-8917)
 
@@ -804,9 +780,36 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (1):** [Jesse Helmer](/councillors/former/j-helmer)
+
+**Absent (2):** [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
+
+</details>
+
+### 3.4. Public Participation Meeting - Application - 324 York Street (TZ-8917)
+
+> Motion to approve part a) which reads as follows: That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Bradel Properties Ltd., relating to the property located at 324 York Street: a)          the request...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. Delegation - D. Park, L. Black, C. Morrison, E. Washburn, J. Santin and M. Laliberte - Byron Valley Nature Trail Planning Process
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the Byron Valley Nature Trail Planning process: a)             the staff report entitled "Byron Valley Nature Trail Planning Process" BE RECEIVED for information; b)    ...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (2):** [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -816,15 +819,20 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
-### 4.1. 10th Report of the London Advisory Committee on Heritage
+### 3.6. Delegation - D. Park, L. Black, C. Morrison, E. Washburn, J. Santin and M. Laliberte - Byron Valley Nature Trail Planning Process
 
-> That the following actions be taken with respect to the 10th Report of the London Advisory Committee on Heritage form its meeting held on October 10, 2018: a)            on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the applica...
+> That D. Park, et. al. BE GRANTED an additional three minutes for their delegation.
 
-**✅ Motion Passed (4 to 0)**
+**✅ Motion Passed 🔥**
 
-Unanimous (2-0)
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
+
+</details>
 
 ### 4.2. Section 37 -  Planning Act (Bonusing) Revisions and Additional Opportunities for Implementation
 
@@ -832,7 +840,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 6.1. Personal Matters/Identifiable Individual
 
@@ -840,5 +848,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

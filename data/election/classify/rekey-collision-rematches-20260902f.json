@@ -1,0 +1,14 @@
+[
+ {
+  "id": "0beb8b008e0b",
+  "was_colliding_into": "29b9452b13f7",
+  "rematched_to": "17ffd6c70b4b",
+  "note": "bijective ordinal: 1 still-unresolved collision loser(s) sharing this natural key (date/meetingSlug/itemNumber/result) exactly match 1 still-unclaimed current candidate(s) after quote-matching and the hand-verified table both missed - paired by ascending rollCallOrdinal (current candidates) / doc order (old ids), the same tier-3 mechanism general resolve() uses. Not a merge."
+ },
+ {
+  "id": "b7f1a4280119",
+  "was_colliding_into": "bf7543d954d6",
+  "rematched_to": "05288409fb7f",
+  "note": "bijective ordinal: 1 still-unresolved collision loser(s) sharing this natural key (date/meetingSlug/itemNumber/result) exactly match 1 still-unclaimed current candidate(s) after quote-matching and the hand-verified table both missed - paired by ascending rollCallOrdinal (current candidates) / doc order (old ids), the same tier-3 mechanism general resolve() uses. Not a merge."
+ }
+]

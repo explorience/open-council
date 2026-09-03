@@ -42,24 +42,24 @@
     "trendDirection": "improving"
   },
   "voting": {
-    "totalVotes": 2024,
-    "yeas": 1891,
-    "nays": 100,
+    "totalVotes": 2135,
+    "yeas": 1998,
+    "nays": 104,
     "absent": 32,
-    "participationRate": 98.36956521739131,
-    "yeaRate": 94.97739829231541,
-    "contestedDissentRate": 3.9417828987265007,
-    "contestedVotes": 1649,
-    "substantiveVotes": 1822,
-    "substantiveYeas": 1708,
-    "substantiveNays": 97,
-    "substantiveParticipationRate": 99.06695938529089,
-    "substantiveYeaRate": 94.62603878116343
+    "participationRate": 98.45433255269322,
+    "yeaRate": 95.05233111322549,
+    "contestedDissentRate": 12.09016393442623,
+    "contestedVotes": 488,
+    "substantiveVotes": 1743,
+    "substantiveYeas": 1619,
+    "substantiveNays": 104,
+    "substantiveParticipationRate": 98.85255306942054,
+    "substantiveYeaRate": 93.96401625072548
   },
   "budgetVoting": {
-    "totalBudgetVotes": 544,
-    "budgetYeas": 502,
-    "budgetNays": 42,
+    "totalBudgetVotes": 297,
+    "budgetYeas": 275,
+    "budgetNays": 22,
     "budgetAbsent": 0
   },
   "topAlignments": [],
@@ -158,18 +158,18 @@
   ],
   "committeeActivity": [
     {
-      "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 781,
-      "yeas": 711,
-      "nays": 60,
-      "participationRate": 98.71959026888605
+      "committee": "Council",
+      "totalVotes": 1182,
+      "yeas": 1098,
+      "nays": 61,
+      "participationRate": 98.05414551607446
     },
     {
-      "committee": "Council",
-      "totalVotes": 753,
-      "yeas": 697,
-      "nays": 33,
-      "participationRate": 96.94555112881807
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 465,
+      "yeas": 419,
+      "nays": 36,
+      "participationRate": 97.84946236559139
     },
     {
       "committee": "Corporate Services Committee",
@@ -180,8 +180,8 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 67,
-      "yeas": 66,
+      "totalVotes": 65,
+      "yeas": 64,
       "nays": 1,
       "participationRate": 100
     }

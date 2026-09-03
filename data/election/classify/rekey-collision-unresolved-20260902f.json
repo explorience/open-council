@@ -1,0 +1,29 @@
+[
+ {
+  "id": "bb3ce5952d8f",
+  "was_colliding_into": "289eb85336e7",
+  "removed_from": "batch-19-verified.json",
+  "moot_corrections_dropped": [],
+  "reason": "collision loser: natural key + quote, bijective ordinal, and the hand-verified table all failed to place this entry, and it isn't in the hand-verified genuine-merge table either - retired unresolved rather than silently dropped as a merge (a collision loser that can't be re-matched is unresolved unless the merge is positively evidenced - see the module docstring's collision-chain comment).",
+  "key": [
+   "2024-01-29",
+   "months/2024-01/2024-01-29 The 3rd Meeting of the Community and Protective Services Committee",
+   "2.5",
+   "Motion Passed (4 to 1)"
+  ],
+  "entry": {
+   "id": "bb3ce5952d8f",
+   "issue": "none",
+   "axis": null,
+   "polarity": null,
+   "whatAYeaDid": "Amended the motion to receive the Municipal Compliance Annual Report by noting that acceptance doesn't preclude further inquiry into 2023 Short-Term-Accommodation and property-compliance data.",
+   "confidence": "high",
+   "quote": "it being noted that accepting this report does not preclude the committee from further inquiry into 2023 data and future reporting will provide additional information and fulsome aggregate tables on Short Term Accommodations and Property Compliance",
+   "flags": [
+    "informational_ask"
+   ],
+   "verdict": "confirmed",
+   "verifierNote": "Identical situation and identical text to 140836134fdf -- same item, same meeting, same 4-1 tally shared across 3 motions. Both ids independently produce the same correct, harmless issue=none classification."
+  }
+ }
+]

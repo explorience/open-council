@@ -16,3 +16,8 @@ server/chat-logs/.DS_Store
 .env.production
 .DS_Store
 *.sync-conflict-*
+
+# Recovery-scrape run log - regenerated every run, not a durable artifact
+# (the checkpoint manifest.json alongside it IS committed - that's the
+# durable resume state; this is just the run's console transcript)
+scraping/recovery_checkpoint/run.log

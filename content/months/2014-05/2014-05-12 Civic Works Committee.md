@@ -219,7 +219,7 @@ The
 
 ## Votes
 
-*2 substantive votes at this meeting (2 contested, 0 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. 1st Report of LTC
   Long Term Growth Report Working Group
@@ -227,14 +227,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler)
-
-</details>
+Unanimous (3-0)
 
 ### 6. (ADDED) Funding for
   2014 Thames Region Ecological Association Bicycle Festival
@@ -242,12 +237,7 @@ The
 > Motion     Passed
 
 **✅ Motion
-    Passed 🔥**
+    Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler)
-
-</details>
+Unanimous (3-0)
 

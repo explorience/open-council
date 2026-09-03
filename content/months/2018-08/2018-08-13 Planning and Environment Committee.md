@@ -890,7 +890,7 @@ The meeting adjourned at 7:51 PM.
 
 ## Votes
 
-*11 substantive votes at this meeting (1 contested, 10 unanimous). Procedural motions excluded.*
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -898,7 +898,7 @@ The meeting adjourned at 7:51 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. Application - 1631-1649 Richmond Street
 
@@ -906,7 +906,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. Application - 1631-1649 Richmond Street
 
@@ -914,7 +914,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.9. Application - 2427 Daisy Bend and 3025 Doyle Drive - Removal of Holding Provisions (H-8907)
 
@@ -922,7 +922,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Delegation - L. Kirkness, Kirkness Consulting Inc. - Application - 2156 Highbury Avenue North
 
@@ -933,7 +933,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Tanya Park](/councillors/former/t-park)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -943,7 +945,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting - 391 South Street (Z-8803)
 
@@ -951,7 +953,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.5. Public Participation Meeting - 2427 Daisy Bend and 3025 Doyle (39CD-18509)
 
@@ -959,7 +961,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.6. Public Participation Meeting - 1146-1156 Byron Baseline Road (Z-8847)
 
@@ -967,7 +969,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. 7th Report of the Trees and Forests Advisory Committee
 
@@ -975,13 +977,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 4.2. 8th Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 8th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on July 19, 2018: a)            the Working Group comments appended to the 8th Report of the Environmental and Ecological Planning Advisory Co...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 

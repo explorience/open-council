@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:56:38.690Z",
+  "generatedAt": "2026-09-02T11:51:05.659Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 92.3076923076923,
@@ -10,7 +10,7 @@
       "s-trosow": 80,
       "c-rahman": 95.1219512195122,
       "s-lehman": 95.55555555555556,
-      "a-hopkins": 93.7984496124031,
+      "a-hopkins": 94.98997995991984,
       "p-van-meerbergen": 88.38383838383838,
       "s-franke": 92.10526315789474,
       "e-peloza": 94.53551912568307,
@@ -146,7 +146,7 @@
       "s-hillier": 92.96482412060301
     },
     "a-hopkins": {
-      "j-morgan": 93.7984496124031,
+      "j-morgan": 94.98997995991984,
       "h-mcalister": 97.14285714285714,
       "s-lewis": 88.48167539267016,
       "p-cuddy": 77.14285714285715,
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "social-services",
-  "motionCount": 693
+  "motionCount": 1136
 }

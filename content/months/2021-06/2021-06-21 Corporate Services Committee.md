@@ -237,23 +237,7 @@ The meeting adjourned at 1:33 PM.
 
 ## Votes
 
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2.1. Issuance of Proclamations – Pilot Program Review
-
-> That the following actions be taken with respect to the report dated June 21, 2021 entitled “Issuance of Proclamations Policy – Pilot Program Review”: a)       the above-noted pilot BE CONSIDERED completed; b)       the City Clerk BE DIRECTED to bring forward proposed amendments to the Issuance o...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 2.3. Expropriation of Lands – Dingman Drive Improvements Project
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Transportation and Mobility, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Dingman Drive improv...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 4.1. Application – Issuance of Proclamation – World Patient Safety Day
 
@@ -261,7 +245,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. Standing Committee Membership – Federation of Canadian Municipalities
 
@@ -269,5 +253,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

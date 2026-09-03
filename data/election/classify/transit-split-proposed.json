@@ -1,6 +1,6 @@
 [
  {
-  "id": "4e2861ffc59a",
+  "id": "a8e2f548211a",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -11,7 +11,7 @@
   "reason": "Old axis application-approval renamed: approving a federal Canada Public Transit Fund contribution agreement is direct transit-infrastructure funding, not a road-capacity act."
  },
  {
-  "id": "0caaac4a596a",
+  "id": "e3edf6c6b7bc",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -19,10 +19,10 @@
   "changed": true,
   "whatAYeaDid": "Approved recommending that Council introduce a by-law to enter into and execute a Contribution Agreement with the federal government for baseline Canada Public Transit Fund funding.",
   "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\ni) \u00a0 \u00a0approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund \u2013 Baseline Funding (the \u201cAgreement\u201d) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (\u201cCanada\u201d), and The Corporation of the City of London (the \u201cRecipient\u201d);",
-  "reason": "Same motion at ICSC committee stage; same reasoning as b206f4de942a."
+  "reason": "Same motion at ICSC committee stage; same reasoning as b206f4de942a (superseded id)."
  },
  {
-  "id": "109f354014ba",
+  "id": "ca6d842e2915",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -33,7 +33,7 @@
   "reason": "Stays unclear: directs LTC to REVIEW fare-collection/vehicle/branding/station opportunities and report back on implementation -- an informational review directive, not a committed service or infrastructure expansion. Independent of the transit/road conflation."
  },
  {
-  "id": "be2ab15ee590",
+  "id": "9ab2a13766e3",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "road-capacity",
@@ -44,7 +44,7 @@
   "reason": "THE flagship conflation fix: the clause's operative act is restarting the Wonderland Road EA to construct SIX GENERAL-PURPOSE THROUGH LANES; converting to Bus Rapid Transit is only a 'long-term build-and-convert OPTION', not a committed transit-service change. A yea here supported road-capacity expansion, not transit expansion -- the exact case the split exists to fix."
  },
  {
-  "id": "d7254e98198d",
+  "id": "3d223bdef9d1",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -55,7 +55,7 @@
   "reason": "Stays unclear: a request to 'engage in discussions' with neighbouring municipalities/the Province on a possible ring road and regional network is advocacy/exploratory, with no committed road-capacity or transit-service change either way."
  },
  {
-  "id": "28ab00fbc3c0",
+  "id": "dfe87ddfc742",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "road-capacity",
@@ -66,7 +66,7 @@
   "reason": "Old axis service-expansion was wrong: this is the Roads Projects Timeline amendment adding the Bradley Ave (Wellington Rd-Highbury Ave) road expansion to the next improvement cycle -- general-purpose road capacity, not transit."
  },
  {
-  "id": "478dc258ce7d",
+  "id": "dfe87ddfc742",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "road-capacity",
@@ -74,10 +74,10 @@
   "changed": true,
   "whatAYeaDid": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
   "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
-  "reason": "Final committee approval of part a), the Roads Projects maps as amended (including the Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0, old axis service-expansion was wrong."
+  "reason": "Final committee approval of part a), the Roads Projects maps as amended (including the Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0 (superseded id), old axis service-expansion was wrong."
  },
  {
-  "id": "1f742f938d33",
+  "id": "3e6140abb084",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -88,7 +88,7 @@
   "reason": "Old axis application-approval renamed: approving the Transit Priority Network maps is dedicated transit infrastructure (bus lanes/signal priority), squarely transit-service."
  },
  {
-  "id": "0fd0f9c17a4c",
+  "id": "e7e111c30074",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -99,7 +99,7 @@
   "reason": "Stays unclear: pure referral of the LTC governance motion to the next meeting. FAILED (3 to 12) but existing whatAYeaDid used passed-tense wording; hedging corrected (see whatAYeaDid)."
  },
  {
-  "id": "74e052b6cc48",
+  "id": "95303dc8909c",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -110,7 +110,7 @@
   "reason": "Stays unclear: dissolving/restructuring the LTC's governance (board composition, interim Council-member control) is a governance change, not itself a transit-service or road-capacity level change."
  },
  {
-  "id": "0141c9527b79",
+  "id": "5826583de120",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -121,7 +121,7 @@
   "reason": "Stays unclear: pure referral of Council-member appointments to the LTC to a later meeting -- procedural, not a service/capacity decision."
  },
  {
-  "id": "135897acab5a",
+  "id": "e57ac85b5f8f",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -132,7 +132,7 @@
   "reason": "Old axis service-expansion renamed: contract award for the East London Link (Rapid Transit) corridor construction plus a Transportation Services Licence Agreement to build an LTC/Fanshawe transit facility -- dedicated transit infrastructure; no general-purpose lane addition anywhere in the clause."
  },
  {
-  "id": "d43d88aa0a6b",
+  "id": "7c2d6c2f7bc8",
   "oldAxis": "service-expansion",
   "oldPolarity": "restrictive",
   "newAxis": "transit-service",
@@ -143,7 +143,7 @@
   "reason": "Old axis service-expansion renamed: a yea would have removed the Rapid Transit - East London Link project's 2025/2026 capital budgets -- reduced transit infrastructure funding. Failed 1-13, hedged correctly already."
  },
  {
-  "id": "0642b1c2e379",
+  "id": "1a0c5a5d3f17",
   "oldAxis": "service-expansion",
   "oldPolarity": "restrictive",
   "newAxis": "transit-service",
@@ -154,7 +154,7 @@
   "reason": "Same amendment, re-vote after reconsideration; failed 2-12, hedged correctly already."
  },
  {
-  "id": "97d72395ebc4",
+  "id": "4fb63c870e39",
   "oldAxis": "service-expansion",
   "oldPolarity": "restrictive",
   "newAxis": "transit-service",
@@ -165,7 +165,7 @@
   "reason": "Old axis service-expansion renamed: a yea would have reduced the LTC's 2026 budget for Business Case #P-51 'Transit Service Hours Growth' by $500,000 -- directly reduces bus service-hours growth funding. Failed 5-10, hedged correctly already."
  },
  {
-  "id": "3008ff6fbaad",
+  "id": "2c6659008840",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -176,7 +176,7 @@
   "reason": "Stays unclear: a failed (5-10) attempt to refer the pilot back to committee instead of deciding it -- procedural referral, not a service decision."
  },
  {
-  "id": "5091a40dd839",
+  "id": "a6101bbf6ee3",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -187,7 +187,7 @@
   "reason": "Stays unclear: this DEFERS the pilot's own start date (to Sept 2025/2026) while directing MOU development -- a deferral of timing, not a clean, immediate service commitment. Independent of the transit/road conflation; preserved as previously classified."
  },
  {
-  "id": "1ee68642ba23",
+  "id": "5fbe2ca656ee",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -198,7 +198,7 @@
   "reason": "Stays unclear: lowering school-zone speed limits is a traffic-safety/speed-limit act, not an expansion or reduction of transit service OR general-purpose road capacity -- fits neither new axis. Failed 5-9, hedged correctly already."
  },
  {
-  "id": "d2101785a434",
+  "id": "656384cab113",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -209,7 +209,7 @@
   "reason": "Stays unclear: all four sub-clauses are report-back/study directives (incl. a filtered-permeability study) with no substantive transit or road-capacity decision made."
  },
  {
-  "id": "444ec1d15ea9",
+  "id": "173785078218",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -220,7 +220,7 @@
   "reason": "Old axis service-expansion renamed: approving expropriation of land for the Wellington Gateway (Rapid Transit corridor) Clark's Bridge civil works is transit-infrastructure land acquisition."
  },
  {
-  "id": "39004f51c2fc",
+  "id": "b325a818f08c",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -228,10 +228,10 @@
   "changed": true,
   "whatAYeaDid": "Approved (at committee stage) expropriating land needed to build the Wellington Gateway rapid-transit corridor's Clark's Bridge civil works.",
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith",
-  "reason": "Same expropriation, committee stage; same reasoning as 895b8202a9e6."
+  "reason": "Same expropriation, committee stage; same reasoning as 895b8202a9e6 (superseded id)."
  },
  {
-  "id": "fa81d1038167",
+  "id": "05d0f12626d5",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -242,7 +242,7 @@
   "reason": "Old axis service-expansion renamed: three bundled items, all branded 'Rapid Transit Implementation' (Wellington Rd contract awards + AECOM/Dillon Rapid Transit design-contract increases) -- dedicated BRT corridor construction and design; no general-purpose lane addition is stated anywhere in the clause."
  },
  {
-  "id": "7fc97879792f",
+  "id": "e1c6bcfbc67e",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -253,7 +253,7 @@
   "reason": "Old axis service-expansion renamed: approving expropriation of land for East London Link Phase 4 (Rapid Transit corridor) is transit-infrastructure land acquisition."
  },
  {
-  "id": "6f3b957830c2",
+  "id": "8a7bd3d17d57",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -264,7 +264,7 @@
   "reason": "Old axis service-expansion renamed: directing staff to develop an MOU to launch a subsidized transit-pass pilot for secondary students is an expansion of transit service access/ridership support."
  },
  {
-  "id": "b1e1d2fe8866",
+  "id": "b44c33d86dc3",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -272,10 +272,10 @@
   "changed": true,
   "whatAYeaDid": "Directed staff to develop an MOU with the school board to launch a pilot providing free annual transit passes to Grade 9 students at Clarke Road Secondary School.",
   "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School",
-  "reason": "Same MOU directive, committee/added-item stage; same reasoning as d1fc73f17bb5."
+  "reason": "Same MOU directive, committee/added-item stage; same reasoning as d1fc73f17bb5 (superseded id)."
  },
  {
-  "id": "407d903108b1",
+  "id": "4d1262df6cd6",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -283,10 +283,10 @@
   "changed": false,
   "whatAYeaDid": "Would have referred the entire secondary-school transit-pass pilot proposal to the next committee meeting instead of deciding it immediately; failed, so the committee proceeded to approve the pilot the same meeting.",
   "quote": "that the motion from Deputy Mayor S. Lewis and Councillor P. Cuddy BE REFERRED to the next meeting of Strategic Priorities and Policy Committee on May 7, 2024",
-  "reason": "Stays unclear: failed (4-11) attempt to refer the whole pilot proposal to the next meeting -- a referral attempt, not a service decision (the real decision passed separately as e294e35cf969)."
+  "reason": "Stays unclear: failed (4-11) attempt to refer the whole pilot proposal to the next meeting -- a referral attempt, not a service decision (the real decision passed separately as e294e35cf969 (superseded id))."
  },
  {
-  "id": "ac70311aac71",
+  "id": "6158b535a43c",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -294,10 +294,10 @@
   "changed": true,
   "whatAYeaDid": "Approved (at committee stage) expropriating land needed to build Phase 4 of the East London Link rapid-transit corridor.",
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith",
-  "reason": "Same expropriation, committee stage; same reasoning as 6e54e9c40a61."
+  "reason": "Same expropriation, committee stage; same reasoning as 6e54e9c40a61 (superseded id)."
  },
  {
-  "id": "6a37a73ce041",
+  "id": "4d20e6349c7e",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": null,
@@ -308,7 +308,7 @@
   "reason": "RECLASSIFIED to unclear (was service-expansion/expansive): the target explicitly bundles Transit AND Walking AND Cycling into a single combined 32.5%+ mode-share figure. It is an aspirational, multi-modal target -- achievable through active-transportation infrastructure alone -- not a transit-specific service commitment, and not a road-capacity act at all. This is the same transit/other-mode conflation this split exists to fix, just one level up (mode-share target vs. a specific project)."
  },
  {
-  "id": "47b3793a89d7",
+  "id": "b53e1a493fef",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": null,
@@ -316,10 +316,10 @@
   "changed": true,
   "whatAYeaDid": "Adopted Option 2 as the city's 2050 Mobility Master Plan mode share target (rather than the alternative of deferring/referring the target-setting decision, which had just failed).",
   "quote": "That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan",
-  "reason": "Same combined Transit+Walking+Cycling 2050 mode-share target, earlier committee vote (adopting Option 2/32.5%); same reasoning as 873508ecdfbc."
+  "reason": "Same combined Transit+Walking+Cycling 2050 mode-share target, earlier committee vote (adopting Option 2/32.5%); same reasoning as 873508ecdfbc (superseded id)."
  },
  {
-  "id": "b43302aa12d3",
+  "id": "7e4c4dd85e7e",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -330,7 +330,7 @@
   "reason": "Stays unclear: a sub-amendment defining 'Option 2' as specifically 32.5%, with no baseline stated in the clause for comparison -- already correctly unclear, independent of the split."
  },
  {
-  "id": "a4e6deb00a7e",
+  "id": "803a1f3590a9",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": null,
@@ -338,10 +338,10 @@
   "changed": true,
   "whatAYeaDid": "Set the city's 2050 Mobility Master Plan target at Option 2 or greater \u2014 a 32.5% (or higher) mode share for transit, walking, and cycling combined.",
   "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and",
-  "reason": "Same combined Transit+Walking+Cycling 2050 mode-share target, final committee vote on part a); same reasoning as 873508ecdfbc."
+  "reason": "Same combined Transit+Walking+Cycling 2050 mode-share target, final committee vote on part a); same reasoning as 873508ecdfbc (superseded id)."
  },
  {
-  "id": "04664b9f96a1",
+  "id": "c8560208ccc7",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -352,7 +352,7 @@
   "reason": "Old axis service-expansion renamed: increasing funding for Business Case #P-51 'Transit Service Conventional Growth Hours' (18,000 hrs/yr) is a direct, named transit-service-hours expansion."
  },
  {
-  "id": "370948fd7769",
+  "id": "4214b0fc1e5c",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -363,7 +363,7 @@
   "reason": "Old axis application-approval renamed: Rapid Transit Implementation contract award (Clarks Bridge/Wellington Rd) is dedicated BRT corridor construction."
  },
  {
-  "id": "26a1844b1671",
+  "id": "0006dd37efb2",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -374,7 +374,7 @@
   "reason": "Old axis service-expansion renamed: a yea would have added the revised 2024 conventional service hours for Business Case #P-51 'Transit Service Hours Growth' -- transit-service expansion. Failed 7-8, hedged correctly already."
  },
  {
-  "id": "43617e79c864",
+  "id": "e9df87268bff",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": null,
@@ -385,7 +385,7 @@
   "reason": "RECLASSIFIED to unclear (was application-approval/expansive): this asks the Province's Ministry of Transportation to remove one ICIP-Public-Transit-Stream project (an Oxford St/Wharncliffe Rd intersection improvement) and redirect its already-earmarked PTS funding to another PTS project (Wellington Gateway) -- a reallocation WITHIN transit-program funding, contingent on provincial approval, not a net increase or decrease in transit service/infrastructure funding that the City itself controls."
  },
  {
-  "id": "ddc57de69a2b",
+  "id": "7247063b1f07",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": null,
@@ -393,10 +393,10 @@
   "changed": true,
   "whatAYeaDid": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes.",
   "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report",
-  "reason": "Same ICIP-PTS reallocation, committee stage; same reasoning as 71f1ada00bf5."
+  "reason": "Same ICIP-PTS reallocation, committee stage; same reasoning as 71f1ada00bf5 (superseded id)."
  },
  {
-  "id": "27c398a24709",
+  "id": "cbf71b0d4780",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -407,7 +407,7 @@
   "reason": "Old axis service-expansion renamed: financing nine new 60-foot LTC buses for the East London Link Rapid Transit corridor is core transit-service vehicle capacity."
  },
  {
-  "id": "fd9fa5f36782",
+  "id": "b7473f4ce4fe",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -418,7 +418,7 @@
   "reason": "Stays unclear: directs the MMP team to consult with ITCAC and show CEAP alignment -- a process/consultation directive, not a service or capacity decision."
  },
  {
-  "id": "96e340402382",
+  "id": "7720e522938b",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -426,10 +426,10 @@
   "changed": false,
   "whatAYeaDid": "Amended the referral of the Mobility Master Plan 2050 Mode Share Target report by adding direction for the project team to consult with the Integrated Transportation Community Advisory Committee and to show how mode-share options align with Climate Emergency Action Plan goals.",
   "quote": "the Mobility Master Plan project team BE DIRECTED to consult with the Integrated Transportation Community Advisory Committee with respect to this matter",
-  "reason": "Same consult/CEAP-alignment directive, committee stage; same reasoning as fd9fa5f36782."
+  "reason": "Same consult/CEAP-alignment directive, committee stage; same reasoning as fd9fa5f36782 (superseded id)."
  },
  {
-  "id": "b9376ab30d6e",
+  "id": "d16155bf0ef1",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -437,10 +437,10 @@
   "changed": false,
   "whatAYeaDid": "Approved directing the Mobility Master Plan project team to consult with the Integrated Transportation Community Advisory Committee and to show how mode-share options align with Climate Emergency Action Plan goals.",
   "quote": "Motion to approve parts b) and c) of the clause.",
-  "reason": "Same consult/CEAP-alignment directive, committee-stage adoption; same reasoning as fd9fa5f36782."
+  "reason": "Same consult/CEAP-alignment directive, committee-stage adoption; same reasoning as fd9fa5f36782 (superseded id)."
  },
  {
-  "id": "cfa6e2dd4fda",
+  "id": "4ea7824fc728",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -451,7 +451,7 @@
   "reason": "Stays unclear: requests removing a target-share option from a future staff report -- shapes a planning report, not itself a service or capacity change."
  },
  {
-  "id": "a23c5771a121",
+  "id": "b05082d4707f",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -462,7 +462,7 @@
   "reason": "Old axis service-expansion renamed: authorizing the MOU/Agreement and up to $880,000 financing for the Secondary School Transit Pass Pilot Program is a transit-service (fare/access) expansion."
  },
  {
-  "id": "9375f69a3817",
+  "id": "2fa653c053f6",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -473,7 +473,7 @@
   "reason": "Stays unclear: amends only the financing END DATE (June->August 2028) with the $1.04M cap unchanged -- a duration/mechanism tweak, not a spending or service decision."
  },
  {
-  "id": "77c61a6c4a03",
+  "id": "c18021c4f310",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -481,10 +481,10 @@
   "changed": true,
   "whatAYeaDid": "Approved (at committee) introducing the by-law authorizing the MOU and Agreement for the new Secondary School Transit Pass Pilot Program, funded up to $1.04 million for September 2026 to August 2028 with summer months excluded.",
   "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d , BE AUTHORIZED and BE APPROVED;",
-  "reason": "Old axis service-expansion renamed: committee-stage approval of the same MOU/Agreement with up to $1.04M financing; same reasoning as a23c5771a121."
+  "reason": "Old axis service-expansion renamed: committee-stage approval of the same MOU/Agreement with up to $1.04M financing; same reasoning as a23c5771a121 (superseded id)."
  },
  {
-  "id": "8e944ea40c56",
+  "id": "2c11c8845ce9",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -495,7 +495,7 @@
   "reason": "Stays unclear: a sub-amendment changing only which years (3 vs 2) draw from the Automated Enforcement Reserve Fund for a traffic-calming item -- a funding-mechanism tweak, not a spending or capacity decision."
  },
  {
-  "id": "2511f1d1c461",
+  "id": "fa73c7cc4453",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": null,
@@ -506,7 +506,7 @@
   "reason": "RECLASSIFIED to unclear (was service-expansion/expansive): the $155,000 increase funds SCHOOL-ZONE TRAFFIC CALMING and temporary traffic-calming devices -- a road-SAFETY spending increase that narrows/slows traffic, the opposite of 'expanded general-purpose road capacity' under the new road-capacity axis, and it is not transit service either. Fits neither axis cleanly."
  },
  {
-  "id": "838f7c50e8f0",
+  "id": "b51a800e4477",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -517,7 +517,7 @@
   "reason": "Stays unclear: a failed (2-4) referral of the free-transit-on-high-heat-days question to the LTC -- procedural referral, not a decision."
  },
  {
-  "id": "e805d2ddb3c4",
+  "id": "96ea8a87d491",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -528,7 +528,7 @@
   "reason": "Old axis application-approval renamed: increasing the AECOM detailed-design contract for 'Consulting Services for Rapid Transit and Infrastructure Improvements - Wellington Gateway Project' is dedicated BRT corridor design spending."
  },
  {
-  "id": "667304ee4d37",
+  "id": "18b895f37109",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -536,10 +536,10 @@
   "changed": true,
   "whatAYeaDid": "Recommended increasing the AECOM detailed-design contract by $803,764 (to $8,479,052) and recommended approving financing for the Wellington Gateway Transit and Municipal Infrastructure Improvements project, at the Infrastructure and Corporate Services Committee stage (later ratified by Council as item 8.3.3 on September 23, 2025).",
   "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)",
-  "reason": "Same design-contract increase, committee stage; same reasoning as 3d072ced8231."
+  "reason": "Same design-contract increase, committee stage; same reasoning as 3d072ced8231 (superseded id)."
  },
  {
-  "id": "9d2d16516460",
+  "id": "1d4dcf1c6588",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -550,7 +550,7 @@
   "reason": "Stays unclear: directs a report-back on further intersection improvements incl. pedestrian-scramble feasibility -- a study/report-back directive, not a decision. FAILED (1 to 4) but existing whatAYeaDid used passed-tense wording; hedging corrected (see whatAYeaDid)."
  },
  {
-  "id": "7126cff13284",
+  "id": "196fee010d78",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -561,7 +561,7 @@
   "reason": "Old axis application-approval renamed: increasing the AECOM construction-inspection/contract-administration contract for 'Rapid Transit Implementation - Wellington Street' is dedicated BRT corridor construction spending."
  },
  {
-  "id": "7ae6c0ae05ef",
+  "id": "6bb73746bbfc",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -569,10 +569,10 @@
   "changed": true,
   "whatAYeaDid": "Recommended increasing the AECOM construction-inspection and contract-administration services contract by $120,000 (to $1,924,701) and recommended approving financing for the Wellington Street Rapid Transit Implementation project (Queens Avenue to the Thames River, South Branch), at the Infrastructure and Corporate Services Committee stage (later ratified by Council as item 8.4.7 on August 26, 2025).",
   "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)",
-  "reason": "Same contract increase, committee stage; same reasoning as 883ee33ef545."
+  "reason": "Same contract increase, committee stage; same reasoning as 883ee33ef545 (superseded id)."
  },
  {
-  "id": "93a7f9754452",
+  "id": "0052db0821e2",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": "transit-service",
@@ -580,10 +580,10 @@
   "changed": true,
   "whatAYeaDid": "Approved beginning the legal expropriation process for land needed for Phase 2 of the Wellington Gateway project's civil works, including applying to Council as approving authority, publishing statutory notice, and introducing the authorizing by-law.",
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project",
-  "reason": "RECLASSIFIED from unclear (miss corrected, not just an axis rename): the full operative clause is 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' (Phase 2 civil works) -- the identical expropriation-approval pattern as 895b8202a9e6/3991d33dbbbe/6e54e9c40a61/9496bc59ad3b, all correctly classified transit-service/expansive. This id was left null in a prior round on boilerplate 'informational-ask/procedural' reasoning that does not match the actual substantive land-acquisition clause; corrected to match its siblings."
+  "reason": "RECLASSIFIED from unclear (miss corrected, not just an axis rename): the full operative clause is 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' (Phase 2 civil works) -- the identical expropriation-approval pattern as 895b8202a9e6 (superseded id)/3991d33dbbbe (superseded id)/6e54e9c40a61 (superseded id)/9496bc59ad3b (superseded id), all correctly classified transit-service/expansive. This id was left null in a prior round on boilerplate 'informational-ask/procedural' reasoning that does not match the actual substantive land-acquisition clause; corrected to match its siblings."
  },
  {
-  "id": "06f778b17f91",
+  "id": "e3164dd35fdf",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": null,
@@ -594,7 +594,7 @@
   "reason": "RECLASSIFIED to unclear (was application-approval/expansive): approving the overall multi-modal MMP REPORT and directing staff to file the statutory Notice of Completion is a planning-process/document approval, not itself a specific transit-service or road-capacity change -- the individual network maps that DO make capacity/service decisions (roads, transit priority, Wonderland Rd, etc.) are separately voted on elsewhere in this same election-hub batch."
  },
  {
-  "id": "d699ed2cd01e",
+  "id": "85ec366151f0",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -605,7 +605,7 @@
   "reason": "Stays unclear: defers LTC governance pending an external governance review -- a deferral, not a service-level decision."
  },
  {
-  "id": "c34cee28168d",
+  "id": "c83c930c4582",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": null,
@@ -613,10 +613,10 @@
   "changed": true,
   "whatAYeaDid": "Approved the Mobility Master Plan Report and directed staff to file its Notice of Completion for the statutory public review period.",
   "quote": "parts a) and b) of the motion, as amended, BE APPROVED [resolving to: a) the Mobility Master Plan Report BE APPROVED; b) the Civic Administration BE DIRECTED to file a Notice of Completion and make the Report available for the statutory 30-day public review and comment period]",
-  "reason": "Same MMP Report approval, committee stage; same reasoning as 06f778b17f91."
+  "reason": "Same MMP Report approval, committee stage; same reasoning as 06f778b17f91 (superseded id)."
  },
  {
-  "id": "c7e50ba41dc6",
+  "id": "68a0dacac29e",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "road-capacity",
@@ -624,10 +624,10 @@
   "changed": true,
   "whatAYeaDid": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next capital improvement cycle.",
   "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
-  "reason": "Old axis service-expansion renamed: Council's ratification of part a), the Roads Projects maps as amended (incl. Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0/478dc258ce7d at the earlier committee stage."
+  "reason": "Old axis service-expansion renamed: Council's ratification of part a), the Roads Projects maps as amended (incl. Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0 (superseded id)/478dc258ce7d (superseded id) at the earlier committee stage."
  },
  {
-  "id": "1c01de0e5a7b",
+  "id": "8888017a8223",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -635,10 +635,10 @@
   "changed": true,
   "whatAYeaDid": "Approved the Mobility Master Plan's Transit Priority Network maps.",
   "quote": "the Transit Priority Network maps BE APPROVED",
-  "reason": "Old axis service-expansion renamed: Council's ratification of part b), the Transit Priority Network maps -- same transit-infrastructure content as 1f742f938d33 at committee stage."
+  "reason": "Old axis service-expansion renamed: Council's ratification of part b), the Transit Priority Network maps -- same transit-infrastructure content as 1f742f938d33 (superseded id) at committee stage."
  },
  {
-  "id": "47061fa4a390",
+  "id": "c00911f9ed6d",
   "oldAxis": "service-expansion",
   "oldPolarity": "expansive",
   "newAxis": "road-capacity",
@@ -646,10 +646,10 @@
   "changed": true,
   "whatAYeaDid": "Directed Civic Administration to restart the Wonderland Road corridor Environmental Assessment (Southdale Road to Fanshawe Park Road) to build six general-purpose through lanes, with a long-term option to convert to Bus Rapid Transit, and to update the Mobility Master Plan maps accordingly.",
   "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly",
-  "reason": "Same flagship fix as b9c703769270: Council's ratification of part e), restarting the Wonderland Road EA to build six general-purpose through lanes (BRT conversion remains only a long-term option) -- road-capacity, not transit."
+  "reason": "Same flagship fix as b9c703769270 (superseded id): Council's ratification of part e), restarting the Wonderland Road EA to build six general-purpose through lanes (BRT conversion remains only a long-term option) -- road-capacity, not transit."
  },
  {
-  "id": "c982238f3e53",
+  "id": "a0723b64572a",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -660,7 +660,7 @@
   "reason": "Stays unclear: Council's ratification of part f), the ring-road discussion request -- advocacy, no committed road-capacity or transit-service change."
  },
  {
-  "id": "87bccdfb472c",
+  "id": "931d79947317",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -690,10 +690,10 @@
   "changed": true,
   "whatAYeaDid": "Approved awarding the Rapid Transit Implementation contract (Wellington Street, Queens Avenue to the Thames River South Branch) to Bre-Ex Construction Inc. at $28,540,331.45, despite the bid exceeding the Downtown Loop Phase 3 project budget (an irregular result), and authorized the related inspection, financing, and administrative acts. (Committee-stage vote; the same recommendation returned to Council as item 8.2.6.)",
   "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b);",
-  "reason": "Same contract award, committee stage; same reasoning as 7346985bd070."
+  "reason": "Same contract award, committee stage; same reasoning as 7346985bd070 (superseded id)."
  },
  {
-  "id": "d0cbb048480e",
+  "id": "208ee22b75a8",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": null,

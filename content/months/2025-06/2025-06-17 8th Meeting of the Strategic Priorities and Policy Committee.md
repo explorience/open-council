@@ -463,78 +463,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 5:50 PM.
 
 ****
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2.1. London Transit Commission Governance Review: Appointment of Consultant for RFP 2025-035
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of a consultant to complete the London Transit Commission Governance Review: a)    KPMG LLP BE APPOINTED as the Consultant to conduct the London T...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.3. Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
-
-> That the delegation requests for K. Morrison, General Manager, Old East Village BIA, J. Herb and M. Legault BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 2.3. Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
-
-> That part c) be amended to read as follows: c)    that the potential redevelopment of the city-owned parking lot located at 641 Queens Ave BE REFERRED for Civic Administration to prepare procurement documents and solicit a Request for Expressions of Interest from potential partners to construct n...
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.3. Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 3.2. Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
-
-> Motion to add a new part f) to read as follows: f)  the Civic Administration and the London & Middlesex Community Housing Inc. BE REQUESTED to work together to arrange a series of property inspections of selected London & Middlesex Community Housing properties to be held on selected Saturdays on ...
-
-**❌ Motion Failed (3 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 3.2. Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
-
-> Motion to approve the balance of the motion.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -1939,3 +1867,127 @@ We have no items for confidential sessions, so I'm just looking for a motion to 
 I know a special gallery. and it was a long afternoon waiting to get through this. Thank you for your patience with us.
 
 </details>
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (5 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.1. London Transit Commission Governance Review: Appointment of Consultant for RFP 2025-035
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of a consultant to complete the London Transit Commission Governance Review: a)    KPMG LLP BE APPOINTED as the Consultant to conduct the London T...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.2. Corporate Growth Projections Update
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the Deputy City Manager, Finance Supports, and the Deputy City Manager, Environment and Infrastructure, the following report with respect to the City of London Corporate Growth Projections 2021-2051, BE RECEIVED...
+
+**✅ Motion Passed (9 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.3. Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
+
+> That the delegation requests for K. Morrison, General Manager, Old East Village BIA, J. Herb and M. Legault BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 2.3. Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
+
+> That part c) be amended to read as follows: c)    that the potential redevelopment of the city-owned parking lot located at 641 Queens Ave BE REFERRED for Civic Administration to prepare procurement documents and solicit a Request for Expressions of Interest from potential partners to construct n...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.3. Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 3.2. Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
+
+> Motion to add a new part f) to read as follows: f)  the Civic Administration and the London & Middlesex Community Housing Inc. BE REQUESTED to work together to arrange a series of property inspections of selected London & Middlesex Community Housing properties to be held on selected Saturdays on ...
+
+**❌ Motion Failed (3 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 3.2. Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
+
+> Motion to approve part d) to read as follows: d)  the 2024 Financial Statements BE RECEIVED; and
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 3.2. Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
+
+> Motion to approve parts a) and c): a)  on the recommendation of the City Manager, the proposed by-law as appended to the staff report dated June 17, 2025 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London & Middlesex Community Housing”, BE...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 3.2. Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
+
+> Motion to approve the balance of the motion.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

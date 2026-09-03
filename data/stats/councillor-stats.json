@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:56:38.653Z",
+  "generatedAt": "2026-09-02T22:25:24.190Z",
   "councillorStats": {
     "j-morgan": {
       "councillor": "Josh Morgan",
@@ -93,24 +93,24 @@
         "trendDirection": "improving"
       },
       "voting": {
-        "totalVotes": 12012,
-        "yeas": 9819,
-        "nays": 631,
+        "totalVotes": 12634,
+        "yeas": 10406,
+        "nays": 666,
         "absent": 1010,
-        "participationRate": 86.99633699633699,
-        "yeaRate": 93.96172248803828,
-        "contestedDissentRate": 5.826252817756199,
-        "contestedVotes": 5767,
-        "substantiveVotes": 8194,
-        "substantiveYeas": 6693,
-        "substantiveNays": 573,
-        "substantiveParticipationRate": 88.67463998047351,
-        "substantiveYeaRate": 92.1139554087531
+        "participationRate": 87.63653633053666,
+        "yeaRate": 93.98482658959537,
+        "contestedDissentRate": 10.681955340977671,
+        "contestedVotes": 3314,
+        "substantiveVotes": 9108,
+        "substantiveYeas": 7453,
+        "substantiveNays": 666,
+        "substantiveParticipationRate": 89.14141414141415,
+        "substantiveYeaRate": 91.79701933735683
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1639,
-        "budgetYeas": 1410,
-        "budgetNays": 206,
+        "totalBudgetVotes": 1412,
+        "budgetYeas": 1203,
+        "budgetNays": 186,
         "budgetAbsent": 21
       },
       "topAlignments": [
@@ -272,17 +272,17 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 5716,
-          "yeas": 5222,
-          "nays": 305,
-          "participationRate": 96.69349195241428
+          "totalVotes": 6691,
+          "yeas": 6134,
+          "nays": 368,
+          "participationRate": 97.17531011806905
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 3299,
-          "yeas": 2583,
-          "nays": 204,
-          "participationRate": 84.48014549863595
+          "totalVotes": 2947,
+          "yeas": 2259,
+          "nays": 176,
+          "participationRate": 82.62639972853749
         },
         {
           "committee": "Corporate Services Committee",
@@ -307,10 +307,10 @@
         },
         {
           "committee": "Community and Protective Services Committee",
-          "totalVotes": 328,
-          "yeas": 200,
+          "totalVotes": 327,
+          "yeas": 199,
           "nays": 14,
-          "participationRate": 65.2439024390244
+          "participationRate": 65.13761467889908
         },
         {
           "committee": "Budget Committee",
@@ -380,11 +380,11 @@
         "yeaRate": 91.90120620333143,
         "contestedDissentRate": 13.96457765667575,
         "contestedVotes": 1468,
-        "substantiveVotes": 2379,
-        "substantiveYeas": 1741,
-        "substantiveNays": 245,
-        "substantiveParticipationRate": 83.48045397225725,
-        "substantiveYeaRate": 87.66364551863042
+        "substantiveVotes": 3005,
+        "substantiveYeas": 2249,
+        "substantiveNays": 282,
+        "substantiveParticipationRate": 84.22628951747089,
+        "substantiveYeaRate": 88.85815883050178
       },
       "budgetVoting": {
         "totalBudgetVotes": 465,
@@ -676,11 +676,11 @@
         "yeaRate": 93.92812887236678,
         "contestedDissentRate": 11.600471883602046,
         "contestedVotes": 2543,
-        "substantiveVotes": 4851,
-        "substantiveYeas": 3821,
-        "substantiveNays": 474,
-        "substantiveParticipationRate": 88.53844568130282,
-        "substantiveYeaRate": 88.9639115250291
+        "substantiveVotes": 5792,
+        "substantiveYeas": 4684,
+        "substantiveNays": 539,
+        "substantiveParticipationRate": 90.1761049723757,
+        "substantiveYeaRate": 89.68026038675092
       },
       "budgetVoting": {
         "totalBudgetVotes": 893,
@@ -955,11 +955,11 @@
         "yeaRate": 91.27120727809196,
         "contestedDissentRate": 11.555842479018722,
         "contestedVotes": 1549,
-        "substantiveVotes": 2361,
-        "substantiveYeas": 1774,
-        "substantiveNays": 317,
-        "substantiveParticipationRate": 88.56416772554002,
-        "substantiveYeaRate": 84.83978957436634
+        "substantiveVotes": 2991,
+        "substantiveYeas": 2339,
+        "substantiveNays": 355,
+        "substantiveParticipationRate": 90.07021063189569,
+        "substantiveYeaRate": 86.82256867112102
       },
       "budgetVoting": {
         "totalBudgetVotes": 460,
@@ -1227,11 +1227,11 @@
         "yeaRate": 82.10645526613817,
         "contestedDissentRate": 38.257317903335604,
         "contestedVotes": 1469,
-        "substantiveVotes": 2274,
-        "substantiveYeas": 1526,
-        "substantiveNays": 371,
-        "substantiveParticipationRate": 83.42128408091469,
-        "substantiveYeaRate": 80.44280442804428
+        "substantiveVotes": 2894,
+        "substantiveYeas": 1834,
+        "substantiveNays": 632,
+        "substantiveParticipationRate": 85.21078092605391,
+        "substantiveYeaRate": 74.37145174371452
       },
       "budgetVoting": {
         "totalBudgetVotes": 461,
@@ -1499,11 +1499,11 @@
         "yeaRate": 90.93851132686083,
         "contestedDissentRate": 12.35813366960908,
         "contestedVotes": 1586,
-        "substantiveVotes": 2401,
-        "substantiveYeas": 1850,
-        "substantiveNays": 284,
-        "substantiveParticipationRate": 88.87963348604748,
-        "substantiveYeaRate": 86.69165885660732
+        "substantiveVotes": 3016,
+        "substantiveYeas": 2407,
+        "substantiveNays": 336,
+        "substantiveParticipationRate": 90.94827586206897,
+        "substantiveYeaRate": 87.7506379876048
       },
       "budgetVoting": {
         "totalBudgetVotes": 473,
@@ -1764,11 +1764,11 @@
         "yeaRate": 81.91068400226116,
         "contestedDissentRate": 45.60585885486019,
         "contestedVotes": 1502,
-        "substantiveVotes": 2363,
-        "substantiveYeas": 1679,
-        "substantiveNays": 395,
-        "substantiveParticipationRate": 87.76978417266187,
-        "substantiveYeaRate": 80.95467695274831
+        "substantiveVotes": 2980,
+        "substantiveYeas": 1988,
+        "substantiveNays": 640,
+        "substantiveParticipationRate": 88.18791946308725,
+        "substantiveYeaRate": 75.64687975646879
       },
       "budgetVoting": {
         "totalBudgetVotes": 461,
@@ -2029,11 +2029,11 @@
         "yeaRate": 90.06572295247724,
         "contestedDissentRate": 16.634676903390915,
         "contestedVotes": 1563,
-        "substantiveVotes": 2362,
-        "substantiveYeas": 1786,
-        "substantiveNays": 306,
-        "substantiveParticipationRate": 88.56900931414056,
-        "substantiveYeaRate": 85.37284894837475
+        "substantiveVotes": 2988,
+        "substantiveYeas": 2306,
+        "substantiveNays": 393,
+        "substantiveParticipationRate": 90.32797858099063,
+        "substantiveYeaRate": 85.43905150055576
       },
       "budgetVoting": {
         "totalBudgetVotes": 471,
@@ -2332,11 +2332,11 @@
         "yeaRate": 94.06303444905937,
         "contestedDissentRate": 12.24237427864798,
         "contestedVotes": 2426,
-        "substantiveVotes": 4536,
-        "substantiveYeas": 3531,
-        "substantiveNays": 414,
-        "substantiveParticipationRate": 86.97089947089947,
-        "substantiveYeaRate": 89.50570342205323
+        "substantiveVotes": 5465,
+        "substantiveYeas": 4330,
+        "substantiveNays": 486,
+        "substantiveParticipationRate": 88.12442817932296,
+        "substantiveYeaRate": 89.90863787375415
       },
       "budgetVoting": {
         "totalBudgetVotes": 855,
@@ -2630,24 +2630,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 12561,
-        "yeas": 10959,
-        "nays": 947,
+        "totalVotes": 13182,
+        "yeas": 11569,
+        "nays": 958,
         "absent": 180,
-        "participationRate": 94.78544701854948,
-        "yeaRate": 92.04602721316984,
-        "contestedDissentRate": 15.383259911894273,
-        "contestedVotes": 5675,
-        "substantiveVotes": 7912,
-        "substantiveYeas": 6690,
-        "substantiveNays": 708,
-        "substantiveParticipationRate": 93.50353892821032,
-        "substantiveYeaRate": 90.42984590429846
+        "participationRate": 95.0311030192687,
+        "yeaRate": 92.35251855991059,
+        "contestedDissentRate": 26.26498976308862,
+        "contestedVotes": 3419,
+        "substantiveVotes": 8851,
+        "substantiveYeas": 7338,
+        "substantiveNays": 958,
+        "substantiveParticipationRate": 93.72952208789968,
+        "substantiveYeaRate": 88.45226615236258
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1464,
-        "budgetYeas": 1257,
-        "budgetNays": 203,
+        "totalBudgetVotes": 1244,
+        "budgetYeas": 1070,
+        "budgetNays": 170,
         "budgetAbsent": 4
       },
       "topAlignments": [
@@ -2664,16 +2664,16 @@
           "alignmentRate": 94.24860853432281
         },
         {
+          "councillor": "Josh Morgan",
+          "sharedVotes": 5247,
+          "agreedVotes": 4919,
+          "alignmentRate": 93.74880884314847
+        },
+        {
           "councillor": "Hadleigh McAlister",
           "sharedVotes": 1488,
           "agreedVotes": 1392,
           "alignmentRate": 93.54838709677419
-        },
-        {
-          "councillor": "Josh Morgan",
-          "sharedVotes": 4640,
-          "agreedVotes": 4332,
-          "alignmentRate": 93.36206896551724
         },
         {
           "councillor": "Elizabeth Peloza",
@@ -2809,17 +2809,17 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 5705,
-          "yeas": 5053,
-          "nays": 555,
-          "participationRate": 98.29973707274321
+          "totalVotes": 6670,
+          "yeas": 5967,
+          "nays": 606,
+          "participationRate": 98.54572713643178
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 3257,
-          "yeas": 2510,
-          "nays": 259,
-          "participationRate": 85.01688670555725
+          "totalVotes": 2913,
+          "yeas": 2206,
+          "nays": 219,
+          "participationRate": 83.24751115688294
         },
         {
           "committee": "Planning and Environment Committee",
@@ -2957,24 +2957,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 9319,
-        "yeas": 7037,
-        "nays": 1143,
+        "totalVotes": 9884,
+        "yeas": 7678,
+        "nays": 1067,
         "absent": 617,
-        "participationRate": 87.7776585470544,
-        "yeaRate": 86.02689486552568,
-        "contestedDissentRate": 25.03556187766714,
-        "contestedVotes": 4218,
-        "substantiveVotes": 6276,
-        "substantiveYeas": 4635,
-        "substantiveNays": 896,
-        "substantiveParticipationRate": 88.1293817718292,
-        "substantiveYeaRate": 83.80039775809077
+        "participationRate": 88.47632537434237,
+        "yeaRate": 87.79874213836479,
+        "contestedDissentRate": 33.1267217630854,
+        "contestedVotes": 2904,
+        "substantiveVotes": 7474,
+        "substantiveYeas": 5502,
+        "substantiveNays": 1067,
+        "substantiveParticipationRate": 87.89135670323789,
+        "substantiveYeaRate": 83.75704064545593
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1528,
-        "budgetYeas": 1081,
-        "budgetNays": 385,
+        "totalBudgetVotes": 1277,
+        "budgetYeas": 954,
+        "budgetNays": 261,
         "budgetAbsent": 39
       },
       "topAlignments": [
@@ -3136,17 +3136,17 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 5379,
-          "yeas": 4266,
-          "nays": 627,
-          "participationRate": 90.96486335750139
+          "totalVotes": 6352,
+          "yeas": 5171,
+          "nays": 695,
+          "participationRate": 92.34886649874056
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2861,
-          "yeas": 1876,
-          "nays": 385,
-          "participationRate": 79.02831177909822
+          "totalVotes": 2453,
+          "yeas": 1612,
+          "nays": 241,
+          "participationRate": 75.54015491235222
         },
         {
           "committee": "Civic Works Committee",
@@ -3230,11 +3230,11 @@
         "yeaRate": 91.38102334823647,
         "contestedDissentRate": 23.649538866930172,
         "contestedVotes": 1518,
-        "substantiveVotes": 2312,
-        "substantiveYeas": 1712,
-        "substantiveNays": 277,
-        "substantiveParticipationRate": 86.02941176470588,
-        "substantiveYeaRate": 86.07340372046255
+        "substantiveVotes": 2937,
+        "substantiveYeas": 2238,
+        "substantiveNays": 347,
+        "substantiveParticipationRate": 88.01498127340824,
+        "substantiveYeaRate": 86.57640232108317
       },
       "budgetVoting": {
         "totalBudgetVotes": 459,
@@ -3519,11 +3519,11 @@
         "yeaRate": 90.94317854052495,
         "contestedDissentRate": 20.18348623853211,
         "contestedVotes": 2289,
-        "substantiveVotes": 4568,
-        "substantiveYeas": 3299,
-        "substantiveNays": 513,
-        "substantiveParticipationRate": 83.45008756567425,
-        "substantiveYeaRate": 86.54249737670514
+        "substantiveVotes": 5472,
+        "substantiveYeas": 3961,
+        "substantiveNays": 628,
+        "substantiveParticipationRate": 83.86330409356725,
+        "substantiveYeaRate": 86.31510132926563
       },
       "budgetVoting": {
         "totalBudgetVotes": 879,
@@ -3798,11 +3798,11 @@
         "yeaRate": 88.54710244438341,
         "contestedDissentRate": 27.099737532808398,
         "contestedVotes": 1524,
-        "substantiveVotes": 2433,
-        "substantiveYeas": 1805,
-        "substantiveNays": 316,
-        "substantiveParticipationRate": 87.17632552404439,
-        "substantiveYeaRate": 85.1013672795851
+        "substantiveVotes": 3046,
+        "substantiveYeas": 2272,
+        "substantiveNays": 417,
+        "substantiveParticipationRate": 88.27971109652003,
+        "substantiveYeaRate": 84.49237634808479
       },
       "budgetVoting": {
         "totalBudgetVotes": 463,
@@ -4087,11 +4087,11 @@
         "yeaRate": 93.19703491152559,
         "contestedDissentRate": 17.283431455004205,
         "contestedVotes": 2378,
-        "substantiveVotes": 4533,
-        "substantiveYeas": 3520,
-        "substantiveNays": 465,
-        "substantiveParticipationRate": 87.91087579969115,
-        "substantiveYeaRate": 88.33124215809285
+        "substantiveVotes": 5470,
+        "substantiveYeas": 4292,
+        "substantiveNays": 569,
+        "substantiveParticipationRate": 88.86654478976233,
+        "substantiveYeaRate": 88.29458959061921
       },
       "budgetVoting": {
         "totalBudgetVotes": 897,
@@ -4352,11 +4352,11 @@
         "yeaRate": 95.64295807819124,
         "contestedDissentRate": 12.291666666666666,
         "contestedVotes": 960,
-        "substantiveVotes": 2692,
-        "substantiveYeas": 1968,
-        "substantiveNays": 152,
-        "substantiveParticipationRate": 78.7518573551263,
-        "substantiveYeaRate": 92.83018867924528
+        "substantiveVotes": 3023,
+        "substantiveYeas": 2232,
+        "substantiveNays": 185,
+        "substantiveParticipationRate": 79.95368838901753,
+        "substantiveYeaRate": 92.34588332643773
       },
       "budgetVoting": {
         "totalBudgetVotes": 499,
@@ -4571,24 +4571,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 7290,
-        "yeas": 6452,
-        "nays": 374,
+        "totalVotes": 7956,
+        "yeas": 7093,
+        "nays": 399,
         "absent": 176,
-        "participationRate": 93.63511659807956,
-        "yeaRate": 94.52094931145619,
-        "contestedDissentRate": 9.01394422310757,
-        "contestedVotes": 4016,
-        "substantiveVotes": 5538,
-        "substantiveYeas": 4857,
-        "substantiveNays": 329,
-        "substantiveParticipationRate": 93.64391477067532,
-        "substantiveYeaRate": 93.65599691477054
+        "participationRate": 94.16792357968828,
+        "yeaRate": 94.67431927389215,
+        "contestedDissentRate": 20.938023450586265,
+        "contestedVotes": 1791,
+        "substantiveVotes": 5830,
+        "substantiveYeas": 5048,
+        "substantiveNays": 399,
+        "substantiveParticipationRate": 93.43053173241852,
+        "substantiveYeaRate": 92.67486689921057
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1063,
-        "budgetYeas": 958,
-        "budgetNays": 97,
+        "totalBudgetVotes": 839,
+        "budgetYeas": 755,
+        "budgetNays": 76,
         "budgetAbsent": 8
       },
       "topAlignments": [],
@@ -4688,17 +4688,17 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 3654,
-          "yeas": 3337,
-          "nays": 191,
-          "participationRate": 96.55172413793103
+          "totalVotes": 4674,
+          "yeas": 4306,
+          "nays": 242,
+          "participationRate": 97.30423620025674
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2257,
-          "yeas": 1824,
-          "nays": 148,
-          "participationRate": 87.3726185201595
+          "totalVotes": 1903,
+          "yeas": 1496,
+          "nays": 122,
+          "participationRate": 85.02364687335786
         },
         {
           "committee": "Civic Works Committee",
@@ -4798,24 +4798,24 @@
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 6522,
-        "yeas": 5406,
-        "nays": 355,
+        "totalVotes": 7039,
+        "yeas": 5891,
+        "nays": 387,
         "absent": 473,
-        "participationRate": 88.33180006133088,
-        "yeaRate": 93.83787536885957,
-        "contestedDissentRate": 8.251121076233185,
-        "contestedVotes": 3345,
-        "substantiveVotes": 4841,
-        "substantiveYeas": 4007,
-        "substantiveNays": 318,
-        "substantiveParticipationRate": 89.34104523858707,
-        "substantiveYeaRate": 92.64739884393065
+        "participationRate": 89.18880522801534,
+        "yeaRate": 93.83561643835617,
+        "contestedDissentRate": 19.65428937259923,
+        "contestedVotes": 1562,
+        "substantiveVotes": 5140,
+        "substantiveYeas": 4183,
+        "substantiveNays": 387,
+        "substantiveParticipationRate": 88.91050583657587,
+        "substantiveYeaRate": 91.53172866520788
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1009,
-        "budgetYeas": 887,
-        "budgetNays": 98,
+        "totalBudgetVotes": 744,
+        "budgetYeas": 652,
+        "budgetNays": 68,
         "budgetAbsent": 16
       },
       "topAlignments": [],
@@ -4915,24 +4915,24 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 3262,
-          "yeas": 2701,
-          "nays": 169,
-          "participationRate": 87.98283261802575
+          "totalVotes": 4135,
+          "yeas": 3505,
+          "nays": 238,
+          "participationRate": 90.51995163240629
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2208,
-          "yeas": 1728,
-          "nays": 153,
-          "participationRate": 85.19021739130434
+          "totalVotes": 1854,
+          "yeas": 1411,
+          "nays": 116,
+          "participationRate": 82.36245954692556
         },
         {
           "committee": "Community and Protective Services Committee",
-          "totalVotes": 1052,
-          "yeas": 977,
+          "totalVotes": 1050,
+          "yeas": 975,
           "nays": 33,
-          "participationRate": 96.00760456273764
+          "participationRate": 96
         }
       ]
     },
@@ -5004,24 +5004,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 9854,
-        "yeas": 8826,
-        "nays": 557,
+        "totalVotes": 10525,
+        "yeas": 9460,
+        "nays": 594,
         "absent": 134,
-        "participationRate": 95.22021514105947,
-        "yeaRate": 94.0637322817862,
-        "contestedDissentRate": 9.187021509296391,
-        "contestedVotes": 5486,
-        "substantiveVotes": 7263,
-        "substantiveYeas": 6431,
-        "substantiveNays": 476,
-        "substantiveParticipationRate": 95.09844416907613,
-        "substantiveYeaRate": 93.10844071232084
+        "participationRate": 95.52494061757719,
+        "yeaRate": 94.09190371991247,
+        "contestedDissentRate": 24.72289156626506,
+        "contestedVotes": 2075,
+        "substantiveVotes": 7578,
+        "substantiveYeas": 6615,
+        "substantiveNays": 594,
+        "substantiveParticipationRate": 95.13064133016627,
+        "substantiveYeaRate": 91.76029962546816
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1124,
-        "budgetYeas": 983,
-        "budgetNays": 119,
+        "totalBudgetVotes": 908,
+        "budgetYeas": 799,
+        "budgetNays": 87,
         "budgetAbsent": 2
       },
       "topAlignments": [],
@@ -5121,10 +5121,10 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 3673,
-          "yeas": 3340,
-          "nays": 278,
-          "participationRate": 98.50258644160087
+          "totalVotes": 4690,
+          "yeas": 4273,
+          "nays": 362,
+          "participationRate": 98.8272921108742
         },
         {
           "committee": "Planning and Environment Committee",
@@ -5135,10 +5135,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2251,
-          "yeas": 1771,
-          "nays": 184,
-          "participationRate": 86.85028876055087
+          "totalVotes": 1905,
+          "yeas": 1472,
+          "nays": 137,
+          "participationRate": 84.46194225721784
         },
         {
           "committee": "Civic Works Committee",
@@ -5231,24 +5231,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 9132,
-        "yeas": 8283,
-        "nays": 375,
+        "totalVotes": 9650,
+        "yeas": 8780,
+        "nays": 396,
         "absent": 184,
-        "participationRate": 94.80946123521682,
-        "yeaRate": 95.66874566874567,
-        "contestedDissentRate": 5.4989816700611,
-        "contestedVotes": 4910,
-        "substantiveVotes": 6599,
-        "substantiveYeas": 5934,
-        "substantiveNays": 312,
-        "substantiveParticipationRate": 94.65070465222003,
-        "substantiveYeaRate": 95.00480307396734
+        "participationRate": 95.0880829015544,
+        "yeaRate": 95.68439407149084,
+        "contestedDissentRate": 14.402870322911326,
+        "contestedVotes": 1951,
+        "substantiveVotes": 6852,
+        "substantiveYeas": 6089,
+        "substantiveNays": 396,
+        "substantiveParticipationRate": 94.6438995913602,
+        "substantiveYeaRate": 93.89360061680802
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1098,
-        "budgetYeas": 1015,
-        "budgetNays": 77,
+        "totalBudgetVotes": 870,
+        "budgetYeas": 805,
+        "budgetNays": 59,
         "budgetAbsent": 6
       },
       "topAlignments": [],
@@ -5348,17 +5348,10 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 3466,
-          "yeas": 3159,
-          "nays": 187,
-          "participationRate": 96.53779572994806
-        },
-        {
-          "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2212,
-          "yeas": 1815,
-          "nays": 130,
-          "participationRate": 87.92947558770344
+          "totalVotes": 4338,
+          "yeas": 3984,
+          "nays": 234,
+          "participationRate": 97.23374827109267
         },
         {
           "committee": "Planning and Environment Committee",
@@ -5366,6 +5359,13 @@
           "yeas": 1871,
           "nays": 33,
           "participationRate": 97.34151329243353
+        },
+        {
+          "committee": "Strategic Priorities and Policy Committee",
+          "totalVotes": 1858,
+          "yeas": 1487,
+          "nays": 104,
+          "participationRate": 85.6297093649085
         },
         {
           "committee": "Community and Protective Services Committee",
@@ -5452,24 +5452,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 7234,
-        "yeas": 6581,
-        "nays": 503,
+        "totalVotes": 7830,
+        "yeas": 7161,
+        "nays": 519,
         "absent": 118,
-        "participationRate": 97.92645839093171,
-        "yeaRate": 92.8994918125353,
-        "contestedDissentRate": 9.072489869428185,
-        "contestedVotes": 4442,
-        "substantiveVotes": 5440,
-        "substantiveYeas": 4912,
-        "substantiveNays": 454,
-        "substantiveParticipationRate": 98.63970588235294,
-        "substantiveYeaRate": 91.53932165486395
+        "participationRate": 98.08429118773945,
+        "yeaRate": 93.2421875,
+        "contestedDissentRate": 24.26682001150086,
+        "contestedVotes": 1739,
+        "substantiveVotes": 5646,
+        "substantiveYeas": 5047,
+        "substantiveNays": 519,
+        "substantiveParticipationRate": 98.58306765851931,
+        "substantiveYeaRate": 90.67553000359324
       },
       "budgetVoting": {
-        "totalBudgetVotes": 929,
-        "budgetYeas": 770,
-        "budgetNays": 150,
+        "totalBudgetVotes": 700,
+        "budgetYeas": 586,
+        "budgetNays": 105,
         "budgetAbsent": 9
       },
       "topAlignments": [],
@@ -5569,17 +5569,10 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 2987,
-          "yeas": 2740,
-          "nays": 237,
-          "participationRate": 99.66521593572146
-        },
-        {
-          "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1788,
-          "yeas": 1523,
-          "nays": 205,
-          "participationRate": 96.64429530201343
+          "totalVotes": 3928,
+          "yeas": 3604,
+          "nays": 314,
+          "participationRate": 99.74541751527495
         },
         {
           "committee": "Planning and Environment Committee",
@@ -5587,6 +5580,13 @@
           "yeas": 1475,
           "nays": 32,
           "participationRate": 95.31941808981658
+        },
+        {
+          "committee": "Strategic Priorities and Policy Committee",
+          "totalVotes": 1443,
+          "yeas": 1239,
+          "nays": 144,
+          "participationRate": 95.84199584199584
         },
         {
           "committee": "Civic Works Committee",
@@ -5672,24 +5672,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 8301,
-        "yeas": 6959,
-        "nays": 570,
+        "totalVotes": 8736,
+        "yeas": 7362,
+        "nays": 602,
         "absent": 335,
-        "participationRate": 90.6999156728105,
-        "yeaRate": 92.42927347589321,
-        "contestedDissentRate": 12.254196642685852,
-        "contestedVotes": 4170,
-        "substantiveVotes": 5722,
-        "substantiveYeas": 4816,
-        "substantiveNays": 443,
-        "substantiveParticipationRate": 91.90842362810207,
-        "substantiveYeaRate": 91.57634531279712
+        "participationRate": 91.16300366300366,
+        "yeaRate": 92.4409844299347,
+        "contestedDissentRate": 30.822311673375502,
+        "contestedVotes": 1739,
+        "substantiveVotes": 5995,
+        "substantiveYeas": 4867,
+        "substantiveNays": 602,
+        "substantiveParticipationRate": 91.22602168473728,
+        "substantiveYeaRate": 88.99250319985373
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1000,
-        "budgetYeas": 829,
-        "budgetNays": 120,
+        "totalBudgetVotes": 778,
+        "budgetYeas": 635,
+        "budgetNays": 92,
         "budgetAbsent": 23
       },
       "topAlignments": [],
@@ -5789,10 +5789,10 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 3388,
-          "yeas": 2802,
-          "nays": 315,
-          "participationRate": 92.00118063754428
+          "totalVotes": 4161,
+          "yeas": 3507,
+          "nays": 383,
+          "participationRate": 93.48714251381878
         },
         {
           "committee": "Planning and Environment Committee",
@@ -5803,10 +5803,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2162,
-          "yeas": 1639,
-          "nays": 183,
-          "participationRate": 84.27382053654024
+          "totalVotes": 1824,
+          "yeas": 1337,
+          "nays": 147,
+          "participationRate": 81.35964912280701
         },
         {
           "committee": "Civic Works Committee",
@@ -5863,11 +5863,11 @@
         "yeaRate": 94.1358024691358,
         "contestedDissentRate": 18.501529051987767,
         "contestedVotes": 654,
-        "substantiveVotes": 1635,
-        "substantiveYeas": 1274,
-        "substantiveNays": 124,
-        "substantiveParticipationRate": 85.5045871559633,
-        "substantiveYeaRate": 91.13018597997139
+        "substantiveVotes": 1844,
+        "substantiveYeas": 1432,
+        "substantiveNays": 152,
+        "substantiveParticipationRate": 85.90021691973969,
+        "substantiveYeaRate": 90.40404040404042
       },
       "budgetVoting": {
         "totalBudgetVotes": 346,
@@ -6069,24 +6069,24 @@
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 6104,
-        "yeas": 5539,
-        "nays": 345,
+        "totalVotes": 7300,
+        "yeas": 6747,
+        "nays": 333,
         "absent": 220,
-        "participationRate": 96.39580602883355,
-        "yeaRate": 94.13664174031271,
-        "contestedDissentRate": 4.985007496251874,
-        "contestedVotes": 5336,
-        "substantiveVotes": 5615,
-        "substantiveYeas": 5184,
-        "substantiveNays": 340,
-        "substantiveParticipationRate": 98.37934105075689,
-        "substantiveYeaRate": 93.84503982621288
+        "participationRate": 96.98630136986301,
+        "yeaRate": 95.29661016949153,
+        "contestedDissentRate": 12.761151891586675,
+        "contestedVotes": 1771,
+        "substantiveVotes": 5862,
+        "substantiveYeas": 5433,
+        "substantiveNays": 333,
+        "substantiveParticipationRate": 98.36233367451382,
+        "substantiveYeaRate": 94.22476586888658
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1404,
-        "budgetYeas": 1218,
-        "budgetNays": 171,
+        "totalBudgetVotes": 873,
+        "budgetYeas": 791,
+        "budgetNays": 67,
         "budgetAbsent": 15
       },
       "topAlignments": [],
@@ -6186,16 +6186,16 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 2760,
-          "yeas": 2651,
-          "nays": 109,
+          "totalVotes": 4784,
+          "yeas": 4564,
+          "nays": 220,
           "participationRate": 100
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1988,
-          "yeas": 1781,
-          "nays": 207,
+          "totalVotes": 1161,
+          "yeas": 1077,
+          "nays": 84,
           "participationRate": 100
         },
         {
@@ -6214,10 +6214,10 @@
         },
         {
           "committee": "Community and Protective Services Committee",
-          "totalVotes": 271,
-          "yeas": 248,
+          "totalVotes": 270,
+          "yeas": 247,
           "nays": 5,
-          "participationRate": 93.35793357933579
+          "participationRate": 93.33333333333333
         },
         {
           "committee": "Corporate Services Committee",
@@ -6232,29 +6232,35 @@
       "councillor": "Bill Armstrong",
       "slug": "b-armstrong",
       "attendance": {
-        "totalMeetings": 349,
-        "present": 328,
-        "absent": 21,
+        "totalMeetings": 414,
+        "present": 389,
+        "absent": 25,
         "remote": 0,
-        "attendanceRate": 93.98280802292264,
+        "attendanceRate": 93.96135265700482,
         "trend": [
           {
+            "period": "2011",
+            "attendanceRate": 88.88888888888889,
+            "meetingsAttended": 8,
+            "meetingsTotal": 9
+          },
+          {
             "period": "2012",
-            "attendanceRate": 50,
-            "meetingsAttended": 1,
-            "meetingsTotal": 2
+            "attendanceRate": 88.88888888888889,
+            "meetingsAttended": 32,
+            "meetingsTotal": 36
           },
           {
             "period": "2013",
-            "attendanceRate": 97.5609756097561,
-            "meetingsAttended": 40,
-            "meetingsTotal": 41
+            "attendanceRate": 98.30508474576271,
+            "meetingsAttended": 58,
+            "meetingsTotal": 59
           },
           {
             "period": "2014",
-            "attendanceRate": 95.16129032258065,
-            "meetingsAttended": 59,
-            "meetingsTotal": 62
+            "attendanceRate": 95.45454545454545,
+            "meetingsAttended": 63,
+            "meetingsTotal": 66
           },
           {
             "period": "2015",
@@ -6284,24 +6290,24 @@
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 4477,
-        "yeas": 4096,
-        "nays": 298,
+        "totalVotes": 6510,
+        "yeas": 6099,
+        "nays": 328,
         "absent": 83,
-        "participationRate": 98.14607996426177,
-        "yeaRate": 93.21802457897132,
-        "contestedDissentRate": 6.686117189399465,
-        "contestedVotes": 4113,
-        "substantiveVotes": 4251,
-        "substantiveYeas": 3916,
-        "substantiveNays": 295,
-        "substantiveParticipationRate": 99.05904493060457,
-        "substantiveYeaRate": 92.99453811446212
+        "participationRate": 98.72503840245776,
+        "yeaRate": 94.89653026295318,
+        "contestedDissentRate": 19.44264419961115,
+        "contestedVotes": 1543,
+        "substantiveVotes": 5396,
+        "substantiveYeas": 5022,
+        "substantiveNays": 328,
+        "substantiveParticipationRate": 99.14751667902149,
+        "substantiveYeaRate": 93.86915887850468
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1007,
-        "budgetYeas": 837,
-        "budgetNays": 168,
+        "totalBudgetVotes": 762,
+        "budgetYeas": 684,
+        "budgetNays": 76,
         "budgetAbsent": 2
       },
       "topAlignments": [],
@@ -6401,24 +6407,24 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1838,
-          "yeas": 1691,
-          "nays": 78,
-          "participationRate": 96.24591947769315
+          "totalVotes": 4444,
+          "yeas": 4156,
+          "nays": 219,
+          "participationRate": 98.44734473447345
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1587,
-          "yeas": 1374,
-          "nays": 205,
-          "participationRate": 99.49590422180215
+          "totalVotes": 1018,
+          "yeas": 916,
+          "nays": 94,
+          "participationRate": 99.21414538310412
         },
         {
           "committee": "Community and Protective Services Committee",
-          "totalVotes": 791,
-          "yeas": 771,
+          "totalVotes": 787,
+          "yeas": 767,
           "nays": 14,
-          "participationRate": 99.24146649810368
+          "participationRate": 99.23761118170266
         },
         {
           "committee": "Civic Works Committee",
@@ -6491,24 +6497,24 @@
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 6577,
-        "yeas": 6081,
-        "nays": 451,
+        "totalVotes": 7765,
+        "yeas": 7278,
+        "nays": 442,
         "absent": 36,
-        "participationRate": 99.31579747605291,
-        "yeaRate": 93.09552969993877,
-        "contestedDissentRate": 5.648330058939096,
-        "contestedVotes": 6108,
-        "substantiveVotes": 6309,
-        "substantiveYeas": 5840,
-        "substantiveNays": 443,
-        "substantiveParticipationRate": 99.58789031542241,
-        "substantiveYeaRate": 92.94922807575998
+        "participationRate": 99.42047649710238,
+        "yeaRate": 94.27461139896373,
+        "contestedDissentRate": 19.26605504587156,
+        "contestedVotes": 1744,
+        "substantiveVotes": 6645,
+        "substantiveYeas": 6177,
+        "substantiveNays": 442,
+        "substantiveParticipationRate": 99.60872836719338,
+        "substantiveYeaRate": 93.3222541169361
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1353,
-        "budgetYeas": 1133,
-        "budgetNays": 214,
+        "totalBudgetVotes": 843,
+        "budgetYeas": 748,
+        "budgetNays": 89,
         "budgetAbsent": 5
       },
       "topAlignments": [],
@@ -6608,17 +6614,10 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 2590,
-          "yeas": 2423,
-          "nays": 144,
-          "participationRate": 99.11196911196912
-        },
-        {
-          "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1933,
-          "yeas": 1669,
-          "nays": 263,
-          "participationRate": 99.9482669425763
+          "totalVotes": 4572,
+          "yeas": 4263,
+          "nays": 286,
+          "participationRate": 99.49693788276466
         },
         {
           "committee": "Planning and Environment Committee",
@@ -6626,6 +6625,13 @@
           "yeas": 1440,
           "nays": 28,
           "participationRate": 100
+        },
+        {
+          "committee": "Strategic Priorities and Policy Committee",
+          "totalVotes": 1139,
+          "yeas": 1026,
+          "nays": 112,
+          "participationRate": 99.91220368744513
         },
         {
           "committee": "Corporate Services Committee",
@@ -6694,24 +6700,24 @@
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 3544,
-        "yeas": 3303,
-        "nays": 136,
+        "totalVotes": 4107,
+        "yeas": 3830,
+        "nays": 172,
         "absent": 96,
-        "participationRate": 97.03724604966139,
-        "yeaRate": 96.04536202384413,
-        "contestedDissentRate": 4.177545691906006,
-        "contestedVotes": 3064,
-        "substantiveVotes": 3262,
-        "substantiveYeas": 3080,
-        "substantiveNays": 131,
-        "substantiveParticipationRate": 98.43654199877376,
-        "substantiveYeaRate": 95.92027405792588
+        "participationRate": 97.44338933528122,
+        "yeaRate": 95.70214892553723,
+        "contestedDissentRate": 18.203309692671397,
+        "contestedVotes": 846,
+        "substantiveVotes": 3260,
+        "substantiveYeas": 3028,
+        "substantiveNays": 172,
+        "substantiveParticipationRate": 98.15950920245399,
+        "substantiveYeaRate": 94.625
       },
       "budgetVoting": {
-        "totalBudgetVotes": 554,
-        "budgetYeas": 516,
-        "budgetNays": 31,
+        "totalBudgetVotes": 324,
+        "budgetYeas": 298,
+        "budgetNays": 19,
         "budgetAbsent": 7
       },
       "topAlignments": [],
@@ -6811,17 +6817,17 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1375,
-          "yeas": 1234,
-          "nays": 59,
-          "participationRate": 94.03636363636365
+          "totalVotes": 2261,
+          "yeas": 2066,
+          "nays": 113,
+          "participationRate": 96.3732861565679
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1057,
-          "yeas": 993,
-          "nays": 57,
-          "participationRate": 99.33774834437085
+          "totalVotes": 737,
+          "yeas": 691,
+          "nays": 39,
+          "participationRate": 99.05020352781547
         },
         {
           "committee": "Civic Works Committee",
@@ -6832,10 +6838,10 @@
         },
         {
           "committee": "Community and Protective Services Committee",
-          "totalVotes": 390,
-          "yeas": 369,
+          "totalVotes": 387,
+          "yeas": 366,
           "nays": 10,
-          "participationRate": 97.17948717948718
+          "participationRate": 97.1576227390181
         },
         {
           "committee": "Corporate Services Committee",
@@ -6908,24 +6914,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 6353,
-        "yeas": 5910,
-        "nays": 431,
+        "totalVotes": 7517,
+        "yeas": 7052,
+        "nays": 453,
         "absent": 12,
-        "participationRate": 99.8111128600661,
-        "yeaRate": 93.20296483204542,
-        "contestedDissentRate": 6.9732441471571915,
-        "contestedVotes": 5980,
-        "substantiveVotes": 6118,
-        "substantiveYeas": 5688,
-        "substantiveNays": 423,
-        "substantiveParticipationRate": 99.88558352402745,
-        "substantiveYeaRate": 93.0780559646539
+        "participationRate": 99.8403618464813,
+        "yeaRate": 93.96402398401065,
+        "contestedDissentRate": 22.10904733373277,
+        "contestedVotes": 1669,
+        "substantiveVotes": 6366,
+        "substantiveYeas": 5906,
+        "substantiveNays": 453,
+        "substantiveParticipationRate": 99.89004084197298,
+        "substantiveYeaRate": 92.8762384022645
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1446,
-        "budgetYeas": 1254,
-        "budgetNays": 192,
+        "totalBudgetVotes": 925,
+        "budgetYeas": 837,
+        "budgetNays": 88,
         "budgetAbsent": 0
       },
       "topAlignments": [],
@@ -7025,16 +7031,16 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 2634,
-          "yeas": 2500,
-          "nays": 134,
+          "totalVotes": 4611,
+          "yeas": 4324,
+          "nays": 287,
           "participationRate": 100
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1920,
-          "yeas": 1676,
-          "nays": 244,
+          "totalVotes": 1109,
+          "yeas": 996,
+          "nays": 113,
           "participationRate": 100
         },
         {
@@ -7053,8 +7059,8 @@
         },
         {
           "committee": "Community and Protective Services Committee",
-          "totalVotes": 469,
-          "yeas": 460,
+          "totalVotes": 467,
+          "yeas": 458,
           "nays": 9,
           "participationRate": 100
         }
@@ -7104,24 +7110,24 @@
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 4211,
-        "yeas": 3952,
-        "nays": 170,
+        "totalVotes": 4701,
+        "yeas": 4415,
+        "nays": 197,
         "absent": 70,
-        "participationRate": 97.88648777012587,
-        "yeaRate": 95.87578845220767,
-        "contestedDissentRate": 3.5102499297950014,
-        "contestedVotes": 3561,
-        "substantiveVotes": 3786,
-        "substantiveYeas": 3597,
-        "substantiveNays": 161,
-        "substantiveParticipationRate": 99.26043317485473,
-        "substantiveYeaRate": 95.71580627993613
+        "participationRate": 98.10678579025739,
+        "yeaRate": 95.7285342584562,
+        "contestedDissentRate": 14.547304170905392,
+        "contestedVotes": 983,
+        "substantiveVotes": 3836,
+        "substantiveYeas": 3609,
+        "substantiveNays": 197,
+        "substantiveParticipationRate": 99.2179353493222,
+        "substantiveYeaRate": 94.82396216500263
       },
       "budgetVoting": {
-        "totalBudgetVotes": 616,
-        "budgetYeas": 573,
-        "budgetNays": 40,
+        "totalBudgetVotes": 364,
+        "budgetYeas": 341,
+        "budgetNays": 20,
         "budgetAbsent": 2
       },
       "topAlignments": [],
@@ -7221,10 +7227,10 @@
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1226,
-          "yeas": 1148,
-          "nays": 57,
-          "participationRate": 98.28711256117455
+          "totalVotes": 2057,
+          "yeas": 1930,
+          "nays": 106,
+          "participationRate": 98.97909577053962
         },
         {
           "committee": "Planning and Environment Committee",
@@ -7235,9 +7241,9 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1075,
-          "yeas": 1002,
-          "nays": 73,
+          "totalVotes": 735,
+          "yeas": 684,
+          "nays": 51,
           "participationRate": 100
         },
         {
@@ -7256,8 +7262,8 @@
         },
         {
           "committee": "Community and Protective Services Committee",
-          "totalVotes": 127,
-          "yeas": 125,
+          "totalVotes": 126,
+          "yeas": 124,
           "nays": 2,
           "participationRate": 100
         }
@@ -7307,24 +7313,24 @@
         "trendDirection": "improving"
       },
       "voting": {
-        "totalVotes": 2024,
-        "yeas": 1891,
-        "nays": 100,
+        "totalVotes": 2135,
+        "yeas": 1998,
+        "nays": 104,
         "absent": 32,
-        "participationRate": 98.36956521739131,
-        "yeaRate": 94.97739829231541,
-        "contestedDissentRate": 3.9417828987265007,
-        "contestedVotes": 1649,
-        "substantiveVotes": 1822,
-        "substantiveYeas": 1708,
-        "substantiveNays": 97,
-        "substantiveParticipationRate": 99.06695938529089,
-        "substantiveYeaRate": 94.62603878116343
+        "participationRate": 98.45433255269322,
+        "yeaRate": 95.05233111322549,
+        "contestedDissentRate": 12.09016393442623,
+        "contestedVotes": 488,
+        "substantiveVotes": 1743,
+        "substantiveYeas": 1619,
+        "substantiveNays": 104,
+        "substantiveParticipationRate": 98.85255306942054,
+        "substantiveYeaRate": 93.96401625072548
       },
       "budgetVoting": {
-        "totalBudgetVotes": 544,
-        "budgetYeas": 502,
-        "budgetNays": 42,
+        "totalBudgetVotes": 297,
+        "budgetYeas": 275,
+        "budgetNays": 22,
         "budgetAbsent": 0
       },
       "topAlignments": [],
@@ -7423,18 +7429,18 @@
       ],
       "committeeActivity": [
         {
-          "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 781,
-          "yeas": 711,
-          "nays": 60,
-          "participationRate": 98.71959026888605
+          "committee": "Council",
+          "totalVotes": 1182,
+          "yeas": 1098,
+          "nays": 61,
+          "participationRate": 98.05414551607446
         },
         {
-          "committee": "Council",
-          "totalVotes": 753,
-          "yeas": 697,
-          "nays": 33,
-          "participationRate": 96.94555112881807
+          "committee": "Strategic Priorities and Policy Committee",
+          "totalVotes": 465,
+          "yeas": 419,
+          "nays": 36,
+          "participationRate": 97.84946236559139
         },
         {
           "committee": "Corporate Services Committee",
@@ -7445,8 +7451,8 @@
         },
         {
           "committee": "Community and Protective Services Committee",
-          "totalVotes": 67,
-          "yeas": 66,
+          "totalVotes": 65,
+          "yeas": 64,
           "nays": 1,
           "participationRate": 100
         }
@@ -7490,29 +7496,47 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 2408,
-        "yeas": 2240,
-        "nays": 168,
+        "totalVotes": 2778,
+        "yeas": 2640,
+        "nays": 138,
         "absent": 0,
         "participationRate": 100,
-        "yeaRate": 93.02325581395348,
-        "contestedDissentRate": 7.392026578073089,
-        "contestedVotes": 2408,
-        "substantiveVotes": 2404,
-        "substantiveYeas": 2237,
-        "substantiveNays": 167,
+        "yeaRate": 95.03239740820734,
+        "contestedDissentRate": 14.814814814814813,
+        "contestedVotes": 675,
+        "substantiveVotes": 2513,
+        "substantiveYeas": 2375,
+        "substantiveNays": 138,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 93.05324459234609
+        "substantiveYeaRate": 94.50855551134103
       },
       "budgetVoting": {
-        "totalBudgetVotes": 729,
-        "budgetYeas": 617,
-        "budgetNays": 112,
+        "totalBudgetVotes": 428,
+        "budgetYeas": 380,
+        "budgetNays": 48,
         "budgetAbsent": 0
       },
       "topAlignments": [],
       "bottomAlignments": [],
       "notableDissents": [
+        {
+          "date": "2014-05-06",
+          "meetingTitle": "MINUTES 12TH MEETING",
+          "itemTitle": "COMMITTEE OF THE WHOLE, IN\n  CAMERA (continued)",
+          "motionText": "Motion Failed",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-05-06",
+          "meetingTitle": "MINUTES 12TH MEETING",
+          "itemTitle": "COMMITTEE OF THE WHOLE, IN\n  CAMERA (continued)",
+          "motionText": "Motion Failed",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English"
+        },
         {
           "date": "2014-05-05",
           "meetingTitle": "Strategic Priorities and Policy Committee",
@@ -7535,10 +7559,19 @@
           "date": "2014-04-15",
           "meetingTitle": "MINUTES 11TH MEETING",
           "itemTitle": "Ombudsman Investigation",
-          "motionText": "Motion Failed",
+          "motionText": "Approve that Council rise and go into\n  Committee of the Whole, in camera, at 8:27 PM regarding a matter pertaining\n  to instructions and directions to officers and employees of the Corporation\n  pert...",
           "vote": "yea",
           "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-04-01",
+          "meetingTitle": "MINUTES 10TH MEETING",
+          "itemTitle": "Amendment to\n  Council Policy 28(2) - Council Members' Expense Account",
+          "motionText": "Approve referral of clause 5 back to\n  the City Clerk for review and report back with suggested changes to provide\n  more clarity and control with respect to allowable expenses.",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-03-25",
@@ -7562,61 +7595,34 @@
           "date": "2014-03-18",
           "meetingTitle": "MINUTES 9TH MEETING",
           "itemTitle": "Winter Maintenance\n  Update",
-          "motionText": "Motion Passed",
+          "motionText": "Amend clause 10 in the first line of\n  part a) by deleting the word “APPROVED” and by replacing it with the word “CONSIDERED\".",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-02-25",
           "meetingTitle": "MINUTES 6TH MEETING",
           "itemTitle": "Mixed-Use\n  Development including a Performing Arts Centre:  Business Plan Proposed\n  Conditions",
-          "motionText": "Motion Passed",
+          "motionText": "Approve an amendment to part d)\n  of clause 2, by removing the words \"it being noted that if no alternate\n  sources are available or approved by Municipal Council, a tax increase will\n  be recommended...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-02-25",
-          "meetingTitle": "MINUTES 6TH MEETING",
-          "itemTitle": "Mixed-Use\n  Development including a Performing Arts Centre:  Business Plan Proposed\n  Conditions",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-02-25",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "CORPORATE OPERATING BUDGET",
-          "motionText": "Motion\n  Failed",
-          "vote": "yea",
-          "result": "Motion\n  Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-02-25",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "CORPORATE OPERATING BUDGET",
-          "motionText": "Motion\n  Passed",
-          "vote": "nay",
-          "result": "Motion\n  Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1082,
-          "yeas": 1045,
-          "nays": 37,
+          "totalVotes": 1888,
+          "yeas": 1806,
+          "nays": 82,
           "participationRate": 100
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 765,
-          "yeas": 646,
-          "nays": 119,
+          "totalVotes": 329,
+          "yeas": 285,
+          "nays": 44,
           "participationRate": 100
         },
         {
@@ -7687,24 +7693,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 2232,
-        "yeas": 2013,
-        "nays": 219,
+        "totalVotes": 2767,
+        "yeas": 2580,
+        "nays": 187,
         "absent": 0,
         "participationRate": 100,
-        "yeaRate": 90.18817204301075,
-        "contestedDissentRate": 9.13978494623656,
-        "contestedVotes": 2232,
-        "substantiveVotes": 2228,
-        "substantiveYeas": 2010,
-        "substantiveNays": 218,
+        "yeaRate": 93.2417780990242,
+        "contestedDissentRate": 17.517241379310345,
+        "contestedVotes": 725,
+        "substantiveVotes": 2457,
+        "substantiveYeas": 2270,
+        "substantiveNays": 187,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 90.21543985637342
+        "substantiveYeaRate": 92.38909238909238
       },
       "budgetVoting": {
-        "totalBudgetVotes": 756,
-        "budgetYeas": 612,
-        "budgetNays": 144,
+        "totalBudgetVotes": 464,
+        "budgetYeas": 417,
+        "budgetNays": 47,
         "budgetAbsent": 0
       },
       "topAlignments": [],
@@ -7741,19 +7747,19 @@
           "date": "2014-09-30",
           "meetingTitle": "MINUTES 23RD MEETING",
           "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
-          "motionText": "Motion Failed",
+          "motionText": "That, the application of 1849259 Ontario\n  Inc., relating to the property located at 1300 Fanshawe Park Road East BE\n  REFUSED as the Municipal Council does not believe that a  special policy to\n  per...",
           "vote": "yea",
           "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-30",
           "meetingTitle": "MINUTES 23RD MEETING",
           "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
-          "motionText": "Motion Passed",
+          "motionText": "Approve that, on\n  the recommendation of the Managing Director, Planning and City Planner, the\n  following actions be taken with respect to the application of 1849259 Ontario\n  Inc., relating to the p...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-29",
@@ -7767,53 +7773,53 @@
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
+          "itemTitle": "Urban Forest\n  Strategy and Implementation Plan Update",
+          "motionText": "approve part e) of clause 10.",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-02",
+          "meetingTitle": "MINUTES 21ST MEETING",
+          "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+          "motionText": "Approve part b) of clause 25, as amended.",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-02",
+          "meetingTitle": "MINUTES 21ST MEETING",
+          "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+          "motionText": "Approve parts c), d) and e) of clause 25,\n  as amended.",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-02",
+          "meetingTitle": "MINUTES 21ST MEETING",
           "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
-          "motionText": "Motion Passed",
+          "motionText": "Approve that clause 22 be amended to read\n  as follows:\n \n“That the following actions be taken with\n  respect to the installation of sidewalks on Shavian Boulevard:\n \na)           \n  the\n  matter BE R...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-09-02",
-          "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "BY-LAWS",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-09-02",
-          "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "BY-LAWS",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-09-02",
-          "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "BY-LAWS",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1197,
-          "yeas": 1142,
-          "nays": 55,
+          "totalVotes": 2183,
+          "yeas": 2053,
+          "nays": 130,
           "participationRate": 100
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 802,
-          "yeas": 645,
-          "nays": 157,
+          "totalVotes": 351,
+          "yeas": 301,
+          "nays": 50,
           "participationRate": 100
         },
         {
@@ -7863,24 +7869,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 2074,
-        "yeas": 1769,
-        "nays": 305,
+        "totalVotes": 2571,
+        "yeas": 2348,
+        "nays": 223,
         "absent": 0,
         "participationRate": 100,
-        "yeaRate": 85.29411764705883,
-        "contestedDissentRate": 13.596914175506269,
-        "contestedVotes": 2074,
-        "substantiveVotes": 2070,
-        "substantiveYeas": 1766,
-        "substantiveNays": 304,
+        "yeaRate": 91.32633216647218,
+        "contestedDissentRate": 31.332357247437777,
+        "contestedVotes": 683,
+        "substantiveVotes": 2268,
+        "substantiveYeas": 2045,
+        "substantiveNays": 223,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 85.31400966183574
+        "substantiveYeaRate": 90.16754850088184
       },
       "budgetVoting": {
-        "totalBudgetVotes": 685,
-        "budgetYeas": 477,
-        "budgetNays": 208,
+        "totalBudgetVotes": 394,
+        "budgetYeas": 322,
+        "budgetNays": 72,
         "budgetAbsent": 0
       },
       "topAlignments": [],
@@ -7888,108 +7894,108 @@
       "notableDissents": [
         {
           "date": "2014-11-25",
-          "meetingTitle": "MINUTES 26TH\n  MEETING",
+          "meetingTitle": "MINUTES 26TH MEETING",
+          "itemTitle": "Properties located\n  at 510 Central Avenue and 609 William Street (Z-8141)",
+          "motionText": "Approve that a new part b) ii) J) BE\n  ADDED to provide for all parking at the rear, with one driveway off of\n  William Street and one driveway off of Central Avenue.",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-11-25",
+          "meetingTitle": "MINUTES 26TH MEETING",
           "itemTitle": "2015 Water and\n  Wastewater Rates",
-          "motionText": "Motion Passed",
+          "motionText": "That, on the recommendation of the Managing\n  Director, Environmental and Engineering Services & City Engineer, and the\n  Managing Director, Corporate Services & City Treasurer, Chief Financial\n  Offi...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-10-14",
+          "meetingTitle": "MINUTES 24TH MEETING",
+          "itemTitle": "Amendment to\n  Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses\n  Policy 28(3)",
+          "motionText": "That the following actions be taken with\n  respect to amendments to Council Policies 28(2) and 28(3):\n \na)         the\n  attached revised proposed by-law (Appendix “A”) BE INTRODUCED at the\n  Municipa...",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-10-14",
           "meetingTitle": "MINUTES 24TH MEETING",
           "itemTitle": "Properties located at 51 and 99 Exeter Road\n  (OZ-8324)",
-          "motionText": "Motion Passed",
+          "motionText": "That, on the recommendation\n  of the Managing Director, Planning and City Planner, the following actions be\n  taken with respect to the application of Greenhills Shopping Centres Ltd.\n  (Greenhills) r...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "Deputy City\n  Treasurer - Orchestra London Credit Guarantee",
+          "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
           "motionText": "Motion Passed",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "Deputy City\n  Treasurer - Orchestra London Credit Guarantee",
-          "motionText": "Motion Passed",
+          "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+          "motionText": "Approve part b) of clause 25, as amended.",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "BY-LAWS",
+          "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
           "motionText": "Motion Passed",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "BY-LAWS",
-          "motionText": "Motion Passed",
+          "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+          "motionText": "Approve parts c), d) and e) of clause 25,\n  as amended.",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         },
         {
-          "date": "2014-07-29",
-          "meetingTitle": "MINUTES 20TH MEETING",
-          "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-07-28",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "Review of Council\n  Policy 5(1) - Process for the Appointment of an Acting Mayor",
-          "motionText": "Motion\n  Passed",
-          "vote": "nay",
-          "result": "Motion\n  Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-07-28",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "Improvements to\n  Governance Model and Tracking Approved Projects",
-          "motionText": "Motion\n  Passed",
-          "vote": "nay",
-          "result": "Motion\n  Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-05-05",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "Consideration of\n  Nominees for Appointment to the Board of Directors of the Greater London\n  International Airport Authority",
-          "motionText": "Motion\n  Failed",
+          "date": "2014-09-02",
+          "meetingTitle": "MINUTES 21ST MEETING",
+          "itemTitle": "Integrity\n  Commissioner",
+          "motionText": "Approve that clause 14 BE REFERRED to\n  the next term of Council Council for the consideration.",
           "vote": "yea",
-          "result": "Motion\n  Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ac0c57f-6eac-4bfc-821c-f058cf410073&Agenda=PostMinutes&lang=English"
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-02",
+          "meetingTitle": "MINUTES 21ST MEETING",
+          "itemTitle": "Deputy City\n  Treasurer - Orchestra London Credit Guarantee",
+          "motionText": "That, on the recommendation of the Deputy\n  City Treasurer, the following actions be taken with respect to funding\n  assistance for Orchestra London:\n \na)         the\n  cash flow funding for the month...",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1120,
-          "yeas": 1040,
-          "nays": 80,
+          "totalVotes": 2061,
+          "yeas": 1912,
+          "nays": 149,
           "participationRate": 100
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 755,
-          "yeas": 535,
-          "nays": 220,
+          "totalVotes": 311,
+          "yeas": 242,
+          "nays": 69,
           "participationRate": 100
         },
         {
@@ -7997,6 +8003,171 @@
           "totalVotes": 199,
           "yeas": 194,
           "nays": 5,
+          "participationRate": 100
+        }
+      ]
+    },
+    "w-r-monteith": {
+      "councillor": "Russell Monteith",
+      "slug": "w-r-monteith",
+      "attendance": {
+        "totalMeetings": 28,
+        "present": 28,
+        "absent": 0,
+        "remote": 0,
+        "attendanceRate": 100,
+        "trend": [
+          {
+            "period": "2014",
+            "attendanceRate": 100,
+            "meetingsAttended": 28,
+            "meetingsTotal": 28
+          }
+        ],
+        "trendDirection": "insufficient_data"
+      },
+      "voting": {
+        "totalVotes": 611,
+        "yeas": 596,
+        "nays": 15,
+        "absent": 0,
+        "participationRate": 100,
+        "yeaRate": 97.54500818330605,
+        "contestedDissentRate": 23.61111111111111,
+        "contestedVotes": 72,
+        "substantiveVotes": 551,
+        "substantiveYeas": 536,
+        "substantiveNays": 15,
+        "substantiveParticipationRate": 100,
+        "substantiveYeaRate": 97.27767695099818
+      },
+      "budgetVoting": {
+        "totalBudgetVotes": 12,
+        "budgetYeas": 12,
+        "budgetNays": 0,
+        "budgetAbsent": 0
+      },
+      "topAlignments": [],
+      "bottomAlignments": [],
+      "notableDissents": [
+        {
+          "date": "2014-11-25",
+          "meetingTitle": "MINUTES 26TH MEETING",
+          "itemTitle": "Properties located\n  at 510 Central Avenue and 609 William Street (Z-8141)",
+          "motionText": "Approve that a new part b) ii) J) BE\n  ADDED to provide for all parking at the rear, with one driveway off of\n  William Street and one driveway off of Central Avenue.",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-11-24",
+          "meetingTitle": "Strategic Priorities and Policy Committee",
+          "itemTitle": "Review of Acting\n  Mayor Policy",
+          "motionText": "Motion\n  Passed",
+          "vote": "nay",
+          "result": "Motion\n  Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8715d678-b972-43eb-89f9-f28c8679f936&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-11-18",
+          "meetingTitle": "Planning and Environment Committee",
+          "itemTitle": "Properties located\n  at 510 Central Avenue and 609 William Street (Z-8141)",
+          "motionText": "Motion\n  Passed",
+          "vote": "nay",
+          "result": "Motion\n  Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=be4bcfd9-764b-4ebb-8afc-66e44bfc7060&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-11-18",
+          "meetingTitle": "Planning and Environment Committee",
+          "itemTitle": "Properties located\n  at 510 Central Avenue and 609 William Street (Z-8141)",
+          "motionText": "Motion\n  Failed",
+          "vote": "yea",
+          "result": "Motion\n  Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=be4bcfd9-764b-4ebb-8afc-66e44bfc7060&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-10-14",
+          "meetingTitle": "Planning and Environment Committee",
+          "itemTitle": "Properties located\n  at 510\n  Central Avenue and 609 William Street (Z-8141)",
+          "motionText": "Motion\n  Failed",
+          "vote": "yea",
+          "result": "Motion\n  Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f09d855c-924d-4e01-a896-284e67a7faf6&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-30",
+          "meetingTitle": "MINUTES 23RD MEETING",
+          "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+          "motionText": "That, the application of 1849259 Ontario\n  Inc., relating to the property located at 1300 Fanshawe Park Road East BE\n  REFUSED as the Municipal Council does not believe that a  special policy to\n  per...",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-30",
+          "meetingTitle": "MINUTES 23RD MEETING",
+          "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+          "motionText": "Approve that, on\n  the recommendation of the Managing Director, Planning and City Planner, the\n  following actions be taken with respect to the application of 1849259 Ontario\n  Inc., relating to the p...",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-30",
+          "meetingTitle": "MINUTES 23RD MEETING",
+          "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+          "motionText": "At 6:08 PM Her Worship the Mayor resumes\n  the Chair, and Councillor P. Hubert takes his seat at the Council Board.",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-30",
+          "meetingTitle": "MINUTES 23RD MEETING",
+          "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+          "motionText": "Motion Passed",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-30",
+          "meetingTitle": "MINUTES 23RD MEETING",
+          "itemTitle": "By-law Amendments\n  for Expanded Animal Welfare Initiatives",
+          "motionText": "That the following actions be taken to\n  amend various City of London by-laws in order to support enhanced animal care\n  strategies and implement the Municipal Council’s first principle of “no kill”\n ...",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+        }
+      ],
+      "committeeActivity": [
+        {
+          "committee": "Planning and Environment Committee",
+          "totalVotes": 282,
+          "yeas": 278,
+          "nays": 4,
+          "participationRate": 100
+        },
+        {
+          "committee": "Council",
+          "totalVotes": 227,
+          "yeas": 220,
+          "nays": 7,
+          "participationRate": 100
+        },
+        {
+          "committee": "Civic Works Committee",
+          "totalVotes": 67,
+          "yeas": 67,
+          "nays": 0,
+          "participationRate": 100
+        },
+        {
+          "committee": "Strategic Priorities and Policy Committee",
+          "totalVotes": 35,
+          "yeas": 31,
+          "nays": 4,
           "participationRate": 100
         }
       ]
@@ -8039,24 +8210,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 2640,
-        "yeas": 2432,
-        "nays": 208,
+        "totalVotes": 3163,
+        "yeas": 2952,
+        "nays": 211,
         "absent": 0,
         "participationRate": 100,
-        "yeaRate": 92.12121212121212,
-        "contestedDissentRate": 9.962121212121213,
-        "contestedVotes": 2640,
-        "substantiveVotes": 2636,
-        "substantiveYeas": 2429,
-        "substantiveNays": 207,
+        "yeaRate": 93.3291179260196,
+        "contestedDissentRate": 27.46666666666667,
+        "contestedVotes": 750,
+        "substantiveVotes": 2851,
+        "substantiveYeas": 2640,
+        "substantiveNays": 211,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 92.14719271623673
+        "substantiveYeaRate": 92.59908803928447
       },
       "budgetVoting": {
-        "totalBudgetVotes": 762,
-        "budgetYeas": 651,
-        "budgetNays": 111,
+        "totalBudgetVotes": 458,
+        "budgetYeas": 415,
+        "budgetNays": 43,
         "budgetAbsent": 0
       },
       "topAlignments": [],
@@ -8074,47 +8245,56 @@
         {
           "date": "2014-09-30",
           "meetingTitle": "MINUTES 23RD MEETING",
+          "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+          "motionText": "That, the application of 1849259 Ontario\n  Inc., relating to the property located at 1300 Fanshawe Park Road East BE\n  REFUSED as the Municipal Council does not believe that a  special policy to\n  per...",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-30",
+          "meetingTitle": "MINUTES 23RD MEETING",
+          "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+          "motionText": "Approve that, on\n  the recommendation of the Managing Director, Planning and City Planner, the\n  following actions be taken with respect to the application of 1849259 Ontario\n  Inc., relating to the p...",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-30",
+          "meetingTitle": "MINUTES 23RD MEETING",
+          "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+          "motionText": "At 6:08 PM Her Worship the Mayor resumes\n  the Chair, and Councillor P. Hubert takes his seat at the Council Board.",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-30",
+          "meetingTitle": "MINUTES 23RD MEETING",
+          "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+          "motionText": "Motion Passed",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-30",
+          "meetingTitle": "MINUTES 23RD MEETING",
           "itemTitle": "By-law Amendments\n  for Expanded Animal Welfare Initiatives",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-09-30",
-          "meetingTitle": "MINUTES 23RD MEETING",
-          "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
-          "motionText": "Motion Failed",
+          "motionText": "That the following actions be taken to\n  amend various City of London by-laws in order to support enhanced animal care\n  strategies and implement the Municipal Council’s first principle of “no kill”\n ...",
           "vote": "yea",
           "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-30",
           "meetingTitle": "MINUTES 23RD MEETING",
-          "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
-          "motionText": "Motion Passed",
+          "itemTitle": "By-law Amendments\n  for Expanded Animal Welfare Initiatives",
+          "motionText": "Approve that, on the recommendation\n  of the Managing Director, Development & Compliance Services and the Chief\n  Building Official, the following actions be taken to amend various City of\n  London by...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-09-30",
-          "meetingTitle": "MINUTES 23RD MEETING",
-          "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
-          "motionText": "Motion Failed",
-          "vote": "yea",
-          "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-09-30",
-          "meetingTitle": "MINUTES 23RD MEETING",
-          "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-23",
@@ -8129,43 +8309,34 @@
           "date": "2014-09-16",
           "meetingTitle": "MINUTES 22ND MEETING",
           "itemTitle": "COMMITTEE\n  OF THE WHOLE, IN CAMERA",
-          "motionText": "Motion Failed",
+          "motionText": "Approve clause 2, as amended.",
           "vote": "yea",
           "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
           "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
-          "motionText": "Motion Failed",
+          "motionText": "Approve that pursuant section 13.6 of the\n  Council Procedure By-law that the proposed amendment to part a) of clause 22\n  BE RECONSIDERED to provide all Members of Council an opportunity to vote on t...",
           "vote": "yea",
           "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-07-28",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "Appointments to the\n  London Public Library, 2014 - Term December 1, 2014 to November 30, 2018",
-          "motionText": "Motion\n  Passed",
-          "vote": "nay",
-          "result": "Motion\n  Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1223,
-          "yeas": 1151,
-          "nays": 72,
+          "totalVotes": 2217,
+          "yeas": 2056,
+          "nays": 161,
           "participationRate": 100
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 836,
-          "yeas": 711,
-          "nays": 125,
+          "totalVotes": 365,
+          "yeas": 326,
+          "nays": 39,
           "participationRate": 100
         },
         {
@@ -8236,29 +8407,47 @@
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 2090,
-        "yeas": 1878,
-        "nays": 212,
+        "totalVotes": 2489,
+        "yeas": 2317,
+        "nays": 172,
         "absent": 0,
         "participationRate": 100,
-        "yeaRate": 89.85645933014355,
-        "contestedDissentRate": 10.909090909090908,
-        "contestedVotes": 2090,
-        "substantiveVotes": 2087,
-        "substantiveYeas": 1876,
-        "substantiveNays": 211,
+        "yeaRate": 93.089594214544,
+        "contestedDissentRate": 24.582701062215477,
+        "contestedVotes": 659,
+        "substantiveVotes": 2222,
+        "substantiveYeas": 2050,
+        "substantiveNays": 172,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 89.88979396262577
+        "substantiveYeaRate": 92.25922592259226
       },
       "budgetVoting": {
-        "totalBudgetVotes": 742,
-        "budgetYeas": 616,
-        "budgetNays": 126,
+        "totalBudgetVotes": 421,
+        "budgetYeas": 381,
+        "budgetNays": 40,
         "budgetAbsent": 0
       },
       "topAlignments": [],
       "bottomAlignments": [],
       "notableDissents": [
+        {
+          "date": "2014-11-25",
+          "meetingTitle": "MINUTES 26TH MEETING",
+          "itemTitle": "Properties located\n  at 510 Central Avenue and 609 William Street (Z-8141)",
+          "motionText": "Approve that a new part b) ii) J) BE\n  ADDED to provide for all parking at the rear, with one driveway off of\n  William Street and one driveway off of Central Avenue.",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-30",
+          "meetingTitle": "MINUTES 23RD MEETING",
+          "itemTitle": "By-law Amendments\n  for Expanded Animal Welfare Initiatives",
+          "motionText": "That the following actions be taken to\n  amend various City of London by-laws in order to support enhanced animal care\n  strategies and implement the Municipal Council’s first principle of “no kill”\n ...",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+        },
         {
           "date": "2014-08-25",
           "meetingTitle": "Civic Works Committee",
@@ -8267,6 +8456,15 @@
           "vote": "nay",
           "result": "Motion\n  Passed",
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b2d16a7c-90eb-4ef1-ac5e-82b23e03b0f2&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-07-29",
+          "meetingTitle": "MINUTES 20TH MEETING",
+          "itemTitle": "Request for Support\n  for Fanshawe College London Downtown Campus - Phase ll",
+          "motionText": "Motion Passed",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-07-28",
@@ -8278,91 +8476,64 @@
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
         },
         {
+          "date": "2014-05-06",
+          "meetingTitle": "MINUTES 12TH MEETING",
+          "itemTitle": "COMMITTEE OF THE WHOLE, IN\n  CAMERA (continued)",
+          "motionText": "Motion Failed",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English"
+        },
+        {
           "date": "2014-04-01",
           "meetingTitle": "MINUTES 10TH MEETING",
           "itemTitle": "Property located at\n  447 Old Wonderland Road (Z-8228)",
-          "motionText": "Motion Passed",
+          "motionText": "Approve clause 22, as amended.",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-03-18",
           "meetingTitle": "MINUTES 9TH MEETING",
           "itemTitle": "Consideration of\n  Appointment to the Child Care Advisory Committee",
-          "motionText": "Motion Failed",
+          "motionText": "Amend clause 11 by adding the\n  following new c), as follows:\n \n\"c)     \n  the City Clerk BE REQUESTED to report back to the Corporate Services\n  Committee with respect to a fulsome review of the enti...",
           "vote": "yea",
           "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-02-25",
+          "meetingTitle": "MINUTES 6TH MEETING",
+          "itemTitle": "Property located at\n  350 Oxford Street East",
+          "motionText": "Approve an amendment to clause 3 to\n  require, through the site plan process, to have a door situated at the corner\n  of Waterloo Street and Oxford Street East.",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-01-30",
           "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "CORPORATE OPERATING BUDGET",
+          "itemTitle": "CORPORATE OPERATING\n  BUDGET",
           "motionText": "Motion\n  Passed",
           "vote": "nay",
           "result": "Motion\n  Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-02-25",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "CORPORATE OPERATING BUDGET",
-          "motionText": "Motion\n  Passed",
-          "vote": "nay",
-          "result": "Motion\n  Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-02-25",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "CORPORATE OPERATING BUDGET",
-          "motionText": "Motion\n  Passed",
-          "vote": "nay",
-          "result": "Motion\n  Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-02-25",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "CORPORATE OPERATING BUDGET",
-          "motionText": "Motion\n  Failed",
-          "vote": "yea",
-          "result": "Motion\n  Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-02-25",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "CORPORATE OPERATING BUDGET",
-          "motionText": "Motion\n  Failed",
-          "vote": "yea",
-          "result": "Motion\n  Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-02-25",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "CORPORATE OPERATING BUDGET",
-          "motionText": "Motion\n  Failed",
-          "vote": "yea",
-          "result": "Motion\n  Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=20742436-9887-4d5a-aeda-ecd20d458684&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1031,
-          "yeas": 966,
-          "nays": 65,
+          "totalVotes": 1900,
+          "yeas": 1779,
+          "nays": 121,
           "participationRate": 100
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 795,
-          "yeas": 658,
-          "nays": 137,
+          "totalVotes": 325,
+          "yeas": 284,
+          "nays": 41,
           "participationRate": 100
         },
         {
@@ -8433,29 +8604,38 @@
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 2416,
-        "yeas": 2166,
-        "nays": 250,
+        "totalVotes": 3232,
+        "yeas": 2980,
+        "nays": 252,
         "absent": 0,
         "participationRate": 100,
-        "yeaRate": 89.65231788079471,
-        "contestedDissentRate": 11.630794701986755,
-        "contestedVotes": 2416,
-        "substantiveVotes": 2412,
-        "substantiveYeas": 2162,
-        "substantiveNays": 250,
+        "yeaRate": 92.20297029702971,
+        "contestedDissentRate": 34.419263456090654,
+        "contestedVotes": 706,
+        "substantiveVotes": 2901,
+        "substantiveYeas": 2649,
+        "substantiveNays": 252,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 89.63515754560531
+        "substantiveYeaRate": 91.31334022750775
       },
       "budgetVoting": {
-        "totalBudgetVotes": 396,
-        "budgetYeas": 278,
-        "budgetNays": 118,
+        "totalBudgetVotes": 355,
+        "budgetYeas": 299,
+        "budgetNays": 56,
         "budgetAbsent": 0
       },
       "topAlignments": [],
       "bottomAlignments": [],
       "notableDissents": [
+        {
+          "date": "2014-11-25",
+          "meetingTitle": "MINUTES 26TH MEETING",
+          "itemTitle": "Properties located\n  at 510 Central Avenue and 609 William Street (Z-8141)",
+          "motionText": "Approve that a new part b) ii) J) BE\n  ADDED to provide for all parking at the rear, with one driveway off of\n  William Street and one driveway off of Central Avenue.",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+        },
         {
           "date": "2014-11-24",
           "meetingTitle": "Strategic Priorities and Policy Committee",
@@ -8475,13 +8655,22 @@
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8715d678-b972-43eb-89f9-f28c8679f936&Agenda=PostMinutes&lang=English"
         },
         {
+          "date": "2014-11-11",
+          "meetingTitle": "MINUTES 25TH MEETING",
+          "itemTitle": "Property located at 420 Fanshawe Park Road\n  East - Request for Demolition",
+          "motionText": "That, on the recommendation of the Managing\n  Director, Planning and City Planner, with the advice of the Heritage Planner,\n  the following actions be taken with respect to the building(s) on the\n  pr...",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=87f2cd1e-65b9-48d3-8a01-48b29194547e&Agenda=PostMinutes&lang=English"
+        },
+        {
           "date": "2014-10-14",
           "meetingTitle": "MINUTES 24TH MEETING",
           "itemTitle": "Property located at\n  50 King Street (Z-8372)",
-          "motionText": "Motion Passed",
+          "motionText": "Approve clause 1 and that the application\n  by 2353034 Ontario Limited (formerly Treadstone Group) related to the\n  properties located at 510 Central Avenue and 609 William Street (Z-8141) BE\n  REFERR...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-10-07",
@@ -8496,19 +8685,19 @@
           "date": "2014-09-30",
           "meetingTitle": "MINUTES 23RD MEETING",
           "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
-          "motionText": "Motion Failed",
+          "motionText": "That, the application of 1849259 Ontario\n  Inc., relating to the property located at 1300 Fanshawe Park Road East BE\n  REFUSED as the Municipal Council does not believe that a  special policy to\n  per...",
           "vote": "yea",
           "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-30",
           "meetingTitle": "MINUTES 23RD MEETING",
           "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
-          "motionText": "Motion Passed",
+          "motionText": "Approve that, on\n  the recommendation of the Managing Director, Planning and City Planner, the\n  following actions be taken with respect to the application of 1849259 Ontario\n  Inc., relating to the p...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-29",
@@ -8527,32 +8716,14 @@
           "vote": "nay",
           "result": "Motion\n  Passed",
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04dd93e6-76f0-4fba-a546-eb6325e8b887&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-09-23",
-          "meetingTitle": "Planning and Environment Committee",
-          "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
-          "motionText": "Motion\n  Failed",
-          "vote": "yea",
-          "result": "Motion\n  Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04dd93e6-76f0-4fba-a546-eb6325e8b887&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-09-02",
-          "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1249,
-          "yeas": 1156,
-          "nays": 93,
+          "totalVotes": 2276,
+          "yeas": 2098,
+          "nays": 178,
           "participationRate": 100
         },
         {
@@ -8564,9 +8735,9 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 482,
-          "yeas": 342,
-          "nays": 140,
+          "totalVotes": 271,
+          "yeas": 214,
+          "nays": 57,
           "participationRate": 100
         }
       ]
@@ -8609,24 +8780,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 2987,
-        "yeas": 2742,
-        "nays": 245,
+        "totalVotes": 3635,
+        "yeas": 3436,
+        "nays": 199,
         "absent": 0,
         "participationRate": 100,
-        "yeaRate": 91.79779042517576,
-        "contestedDissentRate": 8.87177770338132,
-        "contestedVotes": 2987,
-        "substantiveVotes": 2983,
-        "substantiveYeas": 2739,
-        "substantiveNays": 244,
+        "yeaRate": 94.52544704264099,
+        "contestedDissentRate": 21.984924623115578,
+        "contestedVotes": 796,
+        "substantiveVotes": 3301,
+        "substantiveYeas": 3102,
+        "substantiveNays": 199,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 91.82031511900772
+        "substantiveYeaRate": 93.97152378067253
       },
       "budgetVoting": {
-        "totalBudgetVotes": 704,
-        "budgetYeas": 558,
-        "budgetNays": 146,
+        "totalBudgetVotes": 461,
+        "budgetYeas": 415,
+        "budgetNays": 46,
         "budgetAbsent": 0
       },
       "topAlignments": [],
@@ -8634,12 +8805,12 @@
       "notableDissents": [
         {
           "date": "2014-11-25",
-          "meetingTitle": "MINUTES 26TH\n  MEETING",
+          "meetingTitle": "MINUTES 26TH MEETING",
           "itemTitle": "2015 Water and\n  Wastewater Rates",
-          "motionText": "Motion Passed",
+          "motionText": "That, on the recommendation of the Managing\n  Director, Environmental and Engineering Services & City Engineer, and the\n  Managing Director, Corporate Services & City Treasurer, Chief Financial\n  Offi...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-11-24",
@@ -8654,19 +8825,19 @@
           "date": "2014-11-11",
           "meetingTitle": "MINUTES 25TH MEETING",
           "itemTitle": "Councillor R.\n  Monteith and Councillor N. Branscombe - Emergent Motion - Relocation of\n  Inaugural Council Meeting - December 1, 2014",
-          "motionText": "Motion Passed",
+          "motionText": "Approve that pursuant to section 2.8\n  of the Council Procedure By-law, the December 1, 2014 Inaugural Municipal\n  Council meeting be held at the London Convention Centre commencing at 6:00\n  PM, in o...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=87f2cd1e-65b9-48d3-8a01-48b29194547e&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=87f2cd1e-65b9-48d3-8a01-48b29194547e&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-10-14",
           "meetingTitle": "MINUTES 24TH MEETING",
           "itemTitle": "Property located at\n  50 King Street (Z-8372)",
-          "motionText": "Motion Passed",
+          "motionText": "Approve clause 1 and that the application\n  by 2353034 Ontario Limited (formerly Treadstone Group) related to the\n  properties located at 510 Central Avenue and 609 William Street (Z-8141) BE\n  REFERR...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-10-07",
@@ -8707,35 +8878,28 @@
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "BY-LAWS",
-          "motionText": "Motion Passed",
+          "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+          "motionText": "Approve part b) of clause 25, as amended.",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "BY-LAWS",
-          "motionText": "Motion Passed",
+          "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+          "motionText": "Approve parts c), d) and e) of clause 25,\n  as amended.",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1252,
-          "yeas": 1183,
-          "nays": 69,
-          "participationRate": 100
-        },
-        {
-          "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 751,
-          "yeas": 590,
-          "nays": 161,
+          "totalVotes": 2313,
+          "yeas": 2179,
+          "nays": 134,
           "participationRate": 100
         },
         {
@@ -8743,6 +8907,13 @@
           "totalVotes": 728,
           "yeas": 717,
           "nays": 11,
+          "participationRate": 100
+        },
+        {
+          "committee": "Strategic Priorities and Policy Committee",
+          "totalVotes": 338,
+          "yeas": 288,
+          "nays": 50,
           "participationRate": 100
         },
         {
@@ -8792,24 +8963,24 @@
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 2282,
-        "yeas": 2086,
-        "nays": 196,
+        "totalVotes": 2772,
+        "yeas": 2605,
+        "nays": 167,
         "absent": 0,
         "participationRate": 100,
-        "yeaRate": 91.41104294478528,
-        "contestedDissentRate": 9.333917616126206,
-        "contestedVotes": 2282,
-        "substantiveVotes": 2280,
-        "substantiveYeas": 2084,
-        "substantiveNays": 196,
+        "yeaRate": 93.97546897546898,
+        "contestedDissentRate": 20.388349514563107,
+        "contestedVotes": 721,
+        "substantiveVotes": 2555,
+        "substantiveYeas": 2388,
+        "substantiveNays": 167,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 91.40350877192982
+        "substantiveYeaRate": 93.46379647749511
       },
       "budgetVoting": {
-        "totalBudgetVotes": 614,
-        "budgetYeas": 495,
-        "budgetNays": 119,
+        "totalBudgetVotes": 364,
+        "budgetYeas": 323,
+        "budgetNays": 41,
         "budgetAbsent": 0
       },
       "topAlignments": [],
@@ -8817,12 +8988,12 @@
       "notableDissents": [
         {
           "date": "2014-11-25",
-          "meetingTitle": "MINUTES 26TH\n  MEETING",
+          "meetingTitle": "MINUTES 26TH MEETING",
           "itemTitle": "2015 Water and\n  Wastewater Rates",
-          "motionText": "Motion Passed",
+          "motionText": "That, on the recommendation of the Managing\n  Director, Environmental and Engineering Services & City Engineer, and the\n  Managing Director, Corporate Services & City Treasurer, Chief Financial\n  Offi...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-29",
@@ -8854,71 +9025,64 @@
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
-          "motionText": "Motion Failed",
+          "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+          "motionText": "Approve part b) of clause 25, as amended.",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-02",
+          "meetingTitle": "MINUTES 21ST MEETING",
+          "itemTitle": "Integrity\n  Commissioner",
+          "motionText": "Approve that clause 14 BE REFERRED to\n  the next term of Council Council for the consideration.",
           "vote": "yea",
           "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "BY-LAWS",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-09-02",
-          "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "BY-LAWS",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-09-02",
-          "meetingTitle": "MINUTES 21ST MEETING",
-          "itemTitle": "BY-LAWS",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-07-22",
-          "meetingTitle": "Planning and Environment Committee",
-          "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
-          "motionText": "Motion\n  Failed",
+          "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
+          "motionText": "Approve that pursuant section 13.6 of the\n  Council Procedure By-law that the proposed amendment to part a) of clause 22\n  BE RECONSIDERED to provide all Members of Council an opportunity to vote on t...",
           "vote": "yea",
-          "result": "Motion\n  Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=83e7a856-017d-493a-81d6-c732bd2adba1&Agenda=PostMinutes&lang=English"
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         },
         {
-          "date": "2014-07-22",
-          "meetingTitle": "Planning and Environment Committee",
-          "itemTitle": "Properties located\n  at 51 and 99 Exeter Road (OZ-8324)",
-          "motionText": "Motion\n  Failed",
-          "vote": "yea",
-          "result": "Motion\n  Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=83e7a856-017d-493a-81d6-c732bd2adba1&Agenda=PostMinutes&lang=English"
+          "date": "2014-09-02",
+          "meetingTitle": "MINUTES 21ST MEETING",
+          "itemTitle": "BY-LAWS",
+          "motionText": "Approve Introduction and First\n  Reading of Bill No. 430.",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-02",
+          "meetingTitle": "MINUTES 21ST MEETING",
+          "itemTitle": "BY-LAWS",
+          "motionText": "Approve Second Reading of Bill No.\n  430.",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-02",
+          "meetingTitle": "MINUTES 21ST MEETING",
+          "itemTitle": "BY-LAWS",
+          "motionText": "Approve Third Reading and Enactment of\n  Bill No. 430.",
+          "vote": "nay",
+          "result": "Motion Passed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 935,
-          "yeas": 876,
-          "nays": 59,
-          "participationRate": 100
-        },
-        {
-          "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 680,
-          "yeas": 556,
-          "nays": 124,
+          "totalVotes": 1823,
+          "yeas": 1705,
+          "nays": 118,
           "participationRate": 100
         },
         {
@@ -8926,6 +9090,13 @@
           "totalVotes": 613,
           "yeas": 603,
           "nays": 10,
+          "participationRate": 100
+        },
+        {
+          "committee": "Strategic Priorities and Policy Committee",
+          "totalVotes": 282,
+          "yeas": 246,
+          "nays": 36,
           "participationRate": 100
         },
         {
@@ -8975,29 +9146,38 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 2215,
-        "yeas": 2024,
-        "nays": 191,
+        "totalVotes": 2851,
+        "yeas": 2640,
+        "nays": 211,
         "absent": 0,
         "participationRate": 100,
-        "yeaRate": 91.37697516930022,
-        "contestedDissentRate": 10.293453724604966,
-        "contestedVotes": 2215,
-        "substantiveVotes": 2215,
-        "substantiveYeas": 2024,
-        "substantiveNays": 191,
+        "yeaRate": 92.59908803928447,
+        "contestedDissentRate": 25.842696629213485,
+        "contestedVotes": 712,
+        "substantiveVotes": 2551,
+        "substantiveYeas": 2340,
+        "substantiveNays": 211,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 91.37697516930022
+        "substantiveYeaRate": 91.72873382987063
       },
       "budgetVoting": {
-        "totalBudgetVotes": 651,
-        "budgetYeas": 553,
-        "budgetNays": 98,
+        "totalBudgetVotes": 444,
+        "budgetYeas": 399,
+        "budgetNays": 45,
         "budgetAbsent": 0
       },
       "topAlignments": [],
       "bottomAlignments": [],
       "notableDissents": [
+        {
+          "date": "2014-11-25",
+          "meetingTitle": "MINUTES 26TH MEETING",
+          "itemTitle": "Properties located\n  at 510 Central Avenue and 609 William Street (Z-8141)",
+          "motionText": "Approve that a new part b) ii) J) BE\n  ADDED to provide for all parking at the rear, with one driveway off of\n  William Street and one driveway off of Central Avenue.",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+        },
         {
           "date": "2014-11-24",
           "meetingTitle": "Strategic Priorities and Policy Committee",
@@ -9038,28 +9218,37 @@
           "date": "2014-09-16",
           "meetingTitle": "MINUTES 22ND MEETING",
           "itemTitle": "COMMITTEE\n  OF THE WHOLE, IN CAMERA",
-          "motionText": "Motion Failed",
+          "motionText": "Approve clause 2, as amended.",
           "vote": "yea",
           "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-16",
           "meetingTitle": "MINUTES 22ND MEETING",
           "itemTitle": "COMMITTEE\n  OF THE WHOLE, IN CAMERA",
-          "motionText": "Motion Passed",
+          "motionText": "Approve that the following actions be\n  taken with respect to the complaint by Junction Climbing Centre Inc.\n  regarding development charges imposed by The Corporation of the City of\n  London in conne...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
           "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
-          "motionText": "Motion Failed",
+          "motionText": "Approve that pursuant section 13.6 of the\n  Council Procedure By-law that the proposed amendment to part a) of clause 22\n  BE RECONSIDERED to provide all Members of Council an opportunity to vote on t...",
           "vote": "yea",
           "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-07-29",
+          "meetingTitle": "MINUTES 20TH MEETING",
+          "itemTitle": "Request for Support\n  for Fanshawe College London Downtown Campus - Phase ll",
+          "motionText": "Motion Passed",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-07-28",
@@ -9069,39 +9258,21 @@
           "vote": "nay",
           "result": "Motion\n  Passed",
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-06-24",
-          "meetingTitle": "MINUTES 17TH MEETING",
-          "itemTitle": "Resolution from the\n  Council Meeting of June 24, 2014 with respect to the declaration of a\n  potential vacancy of a Ward seat.",
-          "motionText": "Motion Failed",
-          "vote": "yea",
-          "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=296bf116-08e6-4aec-ac1b-935d0b1bb4c9&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-05-05",
-          "meetingTitle": "Strategic Priorities and Policy Committee",
-          "itemTitle": "Consideration of\n  Nominees for Appointment to the Board of Directors of the Greater London\n  International Airport Authority",
-          "motionText": "Motion\n  Failed",
-          "vote": "yea",
-          "result": "Motion\n  Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ac0c57f-6eac-4bfc-821c-f058cf410073&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1112,
-          "yeas": 1046,
-          "nays": 66,
+          "totalVotes": 2120,
+          "yeas": 1968,
+          "nays": 152,
           "participationRate": 100
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 686,
-          "yeas": 573,
-          "nays": 113,
+          "totalVotes": 314,
+          "yeas": 267,
+          "nays": 47,
           "participationRate": 100
         },
         {
@@ -9165,24 +9336,24 @@
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 2048,
-        "yeas": 1851,
-        "nays": 197,
+        "totalVotes": 2643,
+        "yeas": 2483,
+        "nays": 160,
         "absent": 0,
         "participationRate": 100,
-        "yeaRate": 90.380859375,
-        "contestedDissentRate": 9.765625,
-        "contestedVotes": 2048,
-        "substantiveVotes": 2045,
-        "substantiveYeas": 1848,
-        "substantiveNays": 197,
+        "yeaRate": 93.946273174423,
+        "contestedDissentRate": 18.571428571428573,
+        "contestedVotes": 700,
+        "substantiveVotes": 2333,
+        "substantiveYeas": 2173,
+        "substantiveNays": 160,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 90.36674816625917
+        "substantiveYeaRate": 93.14187741105873
       },
       "budgetVoting": {
-        "totalBudgetVotes": 638,
-        "budgetYeas": 503,
-        "budgetNays": 135,
+        "totalBudgetVotes": 392,
+        "budgetYeas": 349,
+        "budgetNays": 43,
         "budgetAbsent": 0
       },
       "topAlignments": [],
@@ -9190,30 +9361,57 @@
       "notableDissents": [
         {
           "date": "2014-11-25",
-          "meetingTitle": "MINUTES 26TH\n  MEETING",
+          "meetingTitle": "MINUTES 26TH MEETING",
           "itemTitle": "Office Reallocation\n  - 2014 - 2018 Council Term",
-          "motionText": "Motion Passed",
+          "motionText": "That, at the request of Councillor H.L.\n  Usher, NO ACTION BE TAKEN to relocate his office.",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-10-14",
           "meetingTitle": "MINUTES 24TH MEETING",
           "itemTitle": "ENQUIRIES",
-          "motionText": "Motion Passed",
+          "motionText": "Approve  that the Managing Director\n  Development and Compliance Services and Chief Building Official BE DIRECTED\n  to report back at a future meeting of the Community and Protective Services\n  Commit...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-09-30",
+          "meetingTitle": "MINUTES 23RD MEETING",
+          "itemTitle": "By-law Amendments\n  for Expanded Animal Welfare Initiatives",
+          "motionText": "That the following actions be taken to\n  amend various City of London by-laws in order to support enhanced animal care\n  strategies and implement the Municipal Council’s first principle of “no kill”\n ...",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-09-02",
           "meetingTitle": "MINUTES 21ST MEETING",
           "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
+          "motionText": "Approve that pursuant section 13.6 of the\n  Council Procedure By-law that the proposed amendment to part a) of clause 22\n  BE RECONSIDERED to provide all Members of Council an opportunity to vote on t...",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-07-29",
+          "meetingTitle": "MINUTES 20TH MEETING",
+          "itemTitle": "Request for Support\n  for Fanshawe College London Downtown Campus - Phase ll",
+          "motionText": "At 6:26 PM, Her Worship the Mayor resumes\n  the Chair, and Councillor P. Hubert takes his seat at the Council Board.",
+          "vote": "yea",
+          "result": "Motion Failed",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2014-05-06",
+          "meetingTitle": "MINUTES 12TH MEETING",
+          "itemTitle": "COMMITTEE OF THE WHOLE, IN\n  CAMERA (continued)",
           "motionText": "Motion Failed",
           "vote": "yea",
           "result": "Motion Failed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2014-05-05",
@@ -9246,52 +9444,25 @@
           "date": "2014-04-15",
           "meetingTitle": "MINUTES 11TH MEETING",
           "itemTitle": "Ombudsman Investigation",
-          "motionText": "Motion Passed",
+          "motionText": "Amend clause 3 in line 8 of part a),\n  by removing the words “for future use to be determined by the City of London”\n  and by replacing it with the words “for future multiple uses including Open\n  Spa...",
           "vote": "nay",
           "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-04-15",
-          "meetingTitle": "MINUTES 11TH MEETING",
-          "itemTitle": "Ombudsman Investigation",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-04-15",
-          "meetingTitle": "MINUTES 11TH MEETING",
-          "itemTitle": "BY-LAWS",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2014-04-15",
-          "meetingTitle": "MINUTES 11TH MEETING",
-          "itemTitle": "BY-LAWS",
-          "motionText": "Motion Passed",
-          "vote": "nay",
-          "result": "Motion Passed",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
         {
           "committee": "Council",
-          "totalVotes": 1170,
-          "yeas": 1115,
-          "nays": 55,
+          "totalVotes": 2169,
+          "yeas": 2048,
+          "nays": 121,
           "participationRate": 100
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 714,
-          "yeas": 575,
-          "nays": 139,
+          "totalVotes": 310,
+          "yeas": 274,
+          "nays": 36,
           "participationRate": 100
         },
         {
@@ -9337,11 +9508,11 @@
         "yeaRate": 96.66666666666667,
         "contestedDissentRate": 9.411764705882353,
         "contestedVotes": 170,
-        "substantiveVotes": 664,
-        "substantiveYeas": 416,
-        "substantiveNays": 20,
-        "substantiveParticipationRate": 65.66265060240963,
-        "substantiveYeaRate": 95.41284403669725
+        "substantiveVotes": 735,
+        "substantiveYeas": 479,
+        "substantiveNays": 28,
+        "substantiveParticipationRate": 68.9795918367347,
+        "substantiveYeaRate": 94.47731755424064
       },
       "budgetVoting": {
         "totalBudgetVotes": 99,
@@ -9515,11 +9686,11 @@
         "yeaRate": 97.28506787330316,
         "contestedDissentRate": 4.301075268817205,
         "contestedVotes": 186,
-        "substantiveVotes": 688,
-        "substantiveYeas": 444,
-        "substantiveNays": 20,
-        "substantiveParticipationRate": 67.44186046511628,
-        "substantiveYeaRate": 95.6896551724138
+        "substantiveVotes": 760,
+        "substantiveYeas": 512,
+        "substantiveNays": 24,
+        "substantiveParticipationRate": 70.52631578947368,
+        "substantiveYeaRate": 95.52238805970148
       },
       "budgetVoting": {
         "totalBudgetVotes": 102,
@@ -9652,7 +9823,7 @@
       "s-trosow": 85.23316062176166,
       "c-rahman": 94.00864731315627,
       "s-lehman": 96.30573248407643,
-      "a-hopkins": 93.36206896551724,
+      "a-hopkins": 93.74880884314847,
       "p-van-meerbergen": 90.95640858815875,
       "s-franke": 92.52396166134186,
       "e-peloza": 94.09908488482172,
@@ -9788,7 +9959,7 @@
       "s-hillier": 96.3302752293578
     },
     "a-hopkins": {
-      "j-morgan": 93.36206896551724,
+      "j-morgan": 93.74880884314847,
       "h-mcalister": 93.54838709677419,
       "s-lewis": 91.22953094643353,
       "p-cuddy": 88.16720257234726,

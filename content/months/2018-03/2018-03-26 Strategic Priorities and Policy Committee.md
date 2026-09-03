@@ -545,7 +545,9 @@ The meeting adjourned at 10:34 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park)
+
+**Nay (2):** [Michael van Holst](/councillors/former/m-van-holst), [Harold Usher](/councillors/former/h-l-usher)
 
 </details>
 
@@ -558,9 +560,9 @@ The meeting adjourned at 10:34 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Stephen Turner](/councillors/former/s-turner), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (3):** [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Virginia Ridley](/councillors/former/v-ridley)
 
 </details>
 
@@ -573,9 +575,9 @@ The meeting adjourned at 10:34 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher)
 
-**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong)
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/former/m-salih), [Bill Armstrong](/councillors/former/b-armstrong), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -585,7 +587,7 @@ The meeting adjourned at 10:34 PM.
 
 **✅ Motion Passed (10 to 0)**
 
-Unanimous (8-0)
+Unanimous (10-0)
 
 ### 4.2. London and Middlesex Housing Corporation - Request for a Shareholder's Meeting
 
@@ -593,7 +595,7 @@ Unanimous (8-0)
 
 **✅ Motion Passed (10 to 0)**
 
-Unanimous (8-0)
+Unanimous (10-0)
 
 ### 4.3. Housing Development Corporation, London - Request for a Shareholder's Meeting
 
@@ -601,7 +603,7 @@ Unanimous (8-0)
 
 **✅ Motion Passed (10 to 0)**
 
-Unanimous (8-0)
+Unanimous (10-0)
 
 ### 4.4. London Convention Centre Corporation Board Appointment Recommendation
 
@@ -609,7 +611,7 @@ Unanimous (8-0)
 
 **✅ Motion Passed (10 to 0)**
 
-Unanimous (8-0)
+Unanimous (10-0)
 
 ### 4.5. 7th Report of the Governance Working Group
 
@@ -617,5 +619,5 @@ Unanimous (8-0)
 
 **✅ Motion Passed (10 to 0)**
 
-Unanimous (8-0)
+Unanimous (10-0)
 

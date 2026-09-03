@@ -814,107 +814,6 @@ None.
 
 
 The meeting adjourned at 6:04 PM.
-
----
-
-## Votes
-
-*11 substantive votes at this meeting (1 contested, 10 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.3, 2.4, 2.6, 2.7 and 2.8 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.1. 600 Sunningdale Road West - Phase 2 Special Provisions
-
-> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Sunningdale Golf and Country Ltd., for the subdivision of land legally described as ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.2. 600 Sunningdale Road West - Phase 3 Special Provisions
-
-> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Sunningdale Golf and Country Ltd., for the subdivision of land legally described as ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.5. 864 Hellmuth Avenue - Heritage Alteration Permit Application
-
-> That the application under Section 42 of the Ontario Heritage Act seeking approval to pave a portion of the front yard for parking on the heritage designated property at 864 Hellmuth Avenue, within the Bishop Hellmuth Heritage Conservation District, BE REFERRED back to a future Planning and Envir...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. 88 Chesterfield Avenue
-
-> That, on the recommendation of the Acting Director, Planning and Development, based on the application by Amy Liu, relating to the property located at 88 Chesterfield Avenue, the proposed by-law appended to the staff report dated January 9, 2023 as Appendix "A" BE INTRODUCED at the Municipal Coun...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. 634 Commissioners Road West
-
-> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by Royal Premier Homes (c/o Farhad Noory), relating to the property located at 634 Commissioners Road West: a) the proposed by-law appended to the staff rep...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. 634 Commissioners Road West
-
-> Motion to amend the recommendation to include a new part b) viii), request the Civic Administration review the Tree Preservation Plan further, specifically with respect to the locust tree;
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 3.3. 867-879 Wellington Road
-
-> That, on the recommendation of the Acting Director, Planning and Development, based on the application by Bates Real Estate Corporation, relating to the property located at 867-879 Wellington Road, the proposed by-law appended to the staff report dated January 9, 2023 as Appendix "A" BE INTRODUCE...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. 600 Third Street
-
-> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application of MHBC Planning on behalf of City Centre Storage, relating to the property located at 600 Third Street: a) the proposed by-law appended to the staff report...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.5. 1350 Trafalgar Street (Z-9548)
-
-> That, on the recommendation of the Acting Director, Planning and Development, based on the application by McFalls Storage o/a Forest City Storage, relating to the property located at 1350 Trafalgar Street, the proposed by-law appended to the staff report dated January 9, 2023 as Appendix "A" BE I...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.7. 942 Westminster Drive
-
-> That, on the recommendation of the Acting Director, Planning and Development, based on the application by Jim Rimmelzewaan, relating to the property located at 942 Westminster Drive, the proposed by-law  appended to the staff report dated January 9, 2023 as Appendix "A" BE INTRODUCED at the Munic...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -1545,3 +1444,67 @@ Thank you, staff, for your time today. And committee members and for Councillors
 I'll look for a motion for a German, Councillor Hillier, seconded by Councillor Lewis, hand vote. That carries. Thank you, folks.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.3, 2.4, 2.6, 2.7 and 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. 600 Sunningdale Road West - Phase 2 Special Provisions
+
+> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Sunningdale Golf and Country Ltd., for the subdivision of land legally described as ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. 600 Sunningdale Road West - Phase 3 Special Provisions
+
+> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Sunningdale Golf and Country Ltd., for the subdivision of land legally described as ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. 864 Hellmuth Avenue - Heritage Alteration Permit Application
+
+> That the application under Section 42 of the Ontario Heritage Act seeking approval to pave a portion of the front yard for parking on the heritage designated property at 864 Hellmuth Avenue, within the Bishop Hellmuth Heritage Conservation District, BE REFERRED back to a future Planning and Envir...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 634 Commissioners Road West
+
+> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by Royal Premier Homes (c/o Farhad Noory), relating to the property located at 634 Commissioners Road West: a) the proposed by-law appended to the staff rep...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 634 Commissioners Road West
+
+> Motion to amend the recommendation to include a new part b) viii), request the Civic Administration review the Tree Preservation Plan further, specifically with respect to the locust tree;
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+

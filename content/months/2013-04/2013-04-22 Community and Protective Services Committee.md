@@ -592,35 +592,25 @@ Recommendation:  That the request of
 
 ## Votes
 
-*16 substantive votes at this meeting (16 contested, 0 unanimous). Procedural motions excluded.*
+*16 substantive votes at this meeting (0 contested, 16 unanimous). Procedural motions excluded.*
 
 ### 2. 3rd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 3. Fence By-law
   Amendments
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 4. Tender 13-46 Supply
   and Installation of Playgrounds, Pathways, Parking Lots and Site Amenities in
@@ -628,56 +618,36 @@ Recommendation:  That the request of
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 5. Early Childhood
   Educators (ECE) Labour Market Partnership (LMP) Research Project
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 6. Homeless
   Prevention  System for London Three-Year Implementation Plan
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 7. Public Monument for
   Individuals Experiencing Homelessness
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 8. Rzone: Respect and
   Responsibility in the City of London Recreation Program Locations, Facilities
@@ -685,28 +655,18 @@ Recommendation:  That the request of
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 9. Fire Safety Plan
   Boxes
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 10. Housing
   Collaborative Initiative Service Manager Consortium Agreement: Expression of
@@ -715,14 +675,9 @@ Recommendation:  That the request of
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 11. Request for Capital
   Funding from the Social Housing Major Repairs and Upgrades Stabilization
@@ -731,70 +686,45 @@ Recommendation:  That the request of
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 12. S. McCutcheon,
   Access to Care Lead - Engagement of Council
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 13. 5th Report of the
   Animal Welfare Advisory Committee
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 14. 2nd Report of the
   Council Housing Leadership Committee
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 15. 1st Report of the
   Town and Gown Committee
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 16. Abandoned Shopping
   Cart By-law
@@ -803,12 +733,7 @@ Recommendation:  That the request of
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (4-0)
 
 ### 17. Youth Create
   Healthy Communities, Middlesex-London Health Unit – Request for
@@ -818,10 +743,5 @@ Recommendation:  That the request of
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (4-0)
 

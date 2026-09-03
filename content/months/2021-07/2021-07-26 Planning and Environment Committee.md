@@ -1320,153 +1320,6 @@ None.
 
 
 The meeting adjourned at 10:03 PM.
-
----
-
-## Votes
-
-*15 substantive votes at this meeting (3 contested, 12 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.2 to 2.5, inclusive, 2.7 to 2.9, inclusive, 2.11 and 2.12 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.1. Oxford Wonderland Secondary Plan - Terms of Reference
-
-> That, on the recommendation of the Director, Planning and Development, the Terms of Reference for the Oxford Wonderland Secondary Plan, appended to the staff report dated July 26, 2021 as Appendix "A", BE ENDORSED. (2021-D08)
-
-**❌ Motion Failed (1 to 5) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/current/p-squire)
-
-</details>
-
-### 2.1. Oxford Wonderland Secondary Plan - Terms of Reference
-
-> Motion to move 2.6 and 2.13 together
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 2.13. 704, 706 and 720 Boler Road - Removal of Holding Provision "h"
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Southside Construction Management Ltd., relating to the properties located at 704, 706 and 720 Boler Road, the proposed by-law appended to the staff report dated July 26, 2021 as Appendix "A" BE INT...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. 450 Wharncliffe Road South
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Plaza Retail Reit and The Corporation of the City of London, relating to the property located at 450 Wharncliffe Road South: a)        the proposed by-law appen...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. 360 Callaway Road - Draft Plan of Vacant Land Condominium (39CD-21504)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Wastell Development Inc., relating to the property located at 360 Callaway Road: a)        the Approval Authority BE ADVISED that no issues were raised at the p...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. 355 Middleton Avenue - Draft Plan of Vacant Land Condominium (39CD-21509)
-
-> That, on the recommendation of the Director, Planning and Economic Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the property located at 355 Middleton Avenue: a)        the Approval Authority BE ADVISED that no issues were ra...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. 915 Upperpoint Avenue - Draft Plan of Vacant Land Condominium (39CD-21508)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the property located at 915 Upperpoint Avenue: a)        the Approval Authority BE ADVISED that no issues were raised at ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.5. 414-418 Old Wonderland Road (Z-9293)
-
-> That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application of Four Fourteen Inc. relating to the property located at 414-418 Old Wonderland Road: a)        the proposed, revised, attached by-law (Appendix "A") BE INTRODUCED ...
-
-**✅ Motion Passed (5 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/current/p-squire)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 3.6. 400 Southdale Road East (OZ-9261)
-
-> That, on the recommendation of the Acting Manager, Planning Implementation, the following actions be taken with respect to the application by LJM Developments, relating to the property located at 400 Southdale Road East: a)        the proposed by-law appended to the staff report dated July 26, 20...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.7. 180-186 Commissioners Road West
-
-> That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application by 180 Commissioners Road Inc., relating to the property located at 180 – 186 Commissioners Road West: a)        the proposed by-law appended to the staff report dat...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.8. 1047-1055 Dearness Drive
-
-> That the following actions be taken with respect to the application of Leo, Maria and Christine Viglianti relating to the property located at 1047 – 1055 Dearness Drive: a)        the City Solicitor BE REQUESTED to provide a briefing to the Municipal Council at their meeting to be held on August ...
-
-**✅ Motion Passed (5 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/current/p-squire)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 3.9. Medway Valley Heritage Forest Environmentally Significant Area (OZ-9367)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan: a)        the proposed by-law appended to the staff report dated July 26, 2021 as ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.9. Medway Valley Heritage Forest Environmentally Significant Area (OZ-9367)
-
-> Motion to approve a new part b), which reads as follows: b)       that NO ACTION BE TAKEN with respect to implementing the Green Acres Drive connection to the Medway Valley trail and pathway system at this time;
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.2. 7th Report of the London Advisory Committee on Heritage
-
-> That, the following actions be taken with respect to the 7th Report of the London Advisory Committee on Heritage, from its meeting held on July 14, 2021: a)        the following actions be taken with respect to the Notice of Planning Application, dated June 16, 2021, from C. Maton, Senior Planner...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -3187,3 +3040,111 @@ So thank you very much, enjoy the rest of your evening. What's left of it? Thank
 Good night, thank you, Chair. Thanks folks, good night.
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (3 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 to 2.5, inclusive, 2.7 to 2.9, inclusive, 2.11 and 2.12 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. Oxford Wonderland Secondary Plan - Terms of Reference
+
+> That, on the recommendation of the Director, Planning and Development, the Terms of Reference for the Oxford Wonderland Secondary Plan, appended to the staff report dated July 26, 2021 as Appendix "A", BE ENDORSED. (2021-D08)
+
+**❌ Motion Failed (1 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
+
+</details>
+
+### 2.1. Oxford Wonderland Secondary Plan - Terms of Reference
+
+> Motion to move 2.6 and 2.13 together
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.13. 704, 706 and 720 Boler Road - Removal of Holding Provision "h"
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Southside Construction Management Ltd., relating to the properties located at 704, 706 and 720 Boler Road, the proposed by-law appended to the staff report dated July 26, 2021 as Appendix "A" BE INT...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.5. 414-418 Old Wonderland Road (Z-9293)
+
+> That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application of Four Fourteen Inc. relating to the property located at 414-418 Old Wonderland Road: a)        the proposed, revised, attached by-law (Appendix "A") BE INTRODUCED ...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 3.6. 400 Southdale Road East (OZ-9261)
+
+> That, on the recommendation of the Acting Manager, Planning Implementation, the following actions be taken with respect to the application by LJM Developments, relating to the property located at 400 Southdale Road East: a)        the proposed by-law appended to the staff report dated July 26, 20...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.7. 180-186 Commissioners Road West
+
+> That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application by 180 Commissioners Road Inc., relating to the property located at 180 – 186 Commissioners Road West: a)        the proposed by-law appended to the staff report dat...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.8. 1047-1055 Dearness Drive
+
+> That the following actions be taken with respect to the application of Leo, Maria and Christine Viglianti relating to the property located at 1047 – 1055 Dearness Drive: a)        the City Solicitor BE REQUESTED to provide a briefing to the Municipal Council at their meeting to be held on August ...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 3.9. Medway Valley Heritage Forest Environmentally Significant Area (OZ-9367)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan: a)        the proposed by-law appended to the staff report dated July 26, 2021 as ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.9. Medway Valley Heritage Forest Environmentally Significant Area (OZ-9367)
+
+> Motion to approve a new part b), which reads as follows: b)       that NO ACTION BE TAKEN with respect to implementing the Green Acres Drive connection to the Medway Valley trail and pathway system at this time;
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

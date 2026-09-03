@@ -5,18 +5,18 @@ slug: "j-morgan"
 meetingCount: 685
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 12012
-votesYea: 9819
-votesNay: 631
+totalVotes: 12634
+votesYea: 10406
+votesNay: 666
 votesAbsent: 1010
 votesRecused: 57
 votesAbstained: 24
 votesOther: 471
 attendanceRate: 92.4
-participationRate: 87.0
+participationRate: 87.6
 yeaRate: 94.0
-contestedDissentRate: 5.8
-contestedVotes: 5767
+contestedDissentRate: 10.7
+contestedVotes: 3314
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -34,13 +34,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 12,012 |
-| Voted Yea | 9,819 (81.7%) |
-| Voted Nay | 631 (5.3%) |
-| Absent | 1,010 (8.4%) |
+| Total Votes | 12,634 |
+| Voted Yea | 10,406 (82.4%) |
+| Voted Nay | 666 (5.3%) |
+| Absent | 1,010 (8.0%) |
 | Recused (conflict of interest) | 57 (0.5%) |
 | Abstained | 24 (0.2%) |
-| Other/Unrecorded | 471 (3.9%) |
+| Other/Unrecorded | 471 (3.7%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -51,17 +51,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 8,194 |
-| Voted Yea | 6,693 (92.1%) |
-| Voted Nay | 573 (7.9%) |
+| Substantive Votes | 9,108 |
+| Voted Yea | 7,453 (91.8%) |
+| Voted Nay | 666 (8.2%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 5.8%
-- **Contested Votes**: 5,767
+- **Dissent Rate**: 10.7%
+- **Contested Votes**: 3,314
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,9 +72,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,639 |
-| Voted Yea | 1,410 (87.3%) |
-| Voted Nay | 206 (12.7%) |
+| Budget Votes | 1,412 |
+| Voted Yea | 1,203 (86.6%) |
+| Voted Nay | 186 (13.4%) |
 | Absent | 21 |
 
 
@@ -111,12 +111,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 5,716 | 5,222 | 305 | 96.7% |
-| Strategic Priorities and Policy Committee | 3,299 | 2,583 | 204 | 84.5% |
+| Council | 6,691 | 6,134 | 368 | 97.2% |
+| Strategic Priorities and Policy Committee | 2,947 | 2,259 | 176 | 82.6% |
 | Corporate Services Committee | 1,320 | 1,177 | 23 | 90.9% |
 | Planning and Environment Committee | 728 | 191 | 5 | 26.9% |
 | Civic Works Committee | 365 | 285 | 2 | 78.6% |
-| Community and Protective Services Committee | 328 | 200 | 14 | 65.2% |
+| Community and Protective Services Committee | 327 | 199 | 14 | 65.1% |
 | Budget Committee | 189 | 115 | 74 | 100.0% |
 | Infrastructure and Corporate Services Committee | 67 | 46 | 4 | 74.6% |
 

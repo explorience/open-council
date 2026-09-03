@@ -402,7 +402,7 @@ The meeting adjourned at 1:29 PM.
 
 ## Votes
 
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -410,7 +410,7 @@ The meeting adjourned at 1:29 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.7. Meadowlily Road Area Environmental Assessment and Servicing Study
 
@@ -418,7 +418,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Initiation of the Mobility Master Plan Development
 
@@ -426,7 +426,22 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
+
+### 4.2. Wharncliffe Road South Improvements - 100 Stanley Street Process
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with consideration of the March 23, 2021 Council resolution, the Civic Administration BE DIRECTED to submit an application to Council to demolish the heritage designated property at 100 Stanley Street, it bein...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/former/e-holder), [Maureen Cassidy](/councillors/former/m-cassidy)
+
+**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner)
+
+</details>
 
 ### 5. Deferred Matters/Additional Business
 
@@ -434,7 +449,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.4. (ADDED) Blackfriars Bridge
 
@@ -445,7 +460,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (4):** [Elizabeth Peloza](/councillors/current/e-peloza), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

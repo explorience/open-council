@@ -353,7 +353,7 @@ The meeting adjourned at 2:23 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (3 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -361,7 +361,7 @@ The meeting adjourned at 2:23 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. Considerations and Viability to Implement a Vacant Home Tax in London
 
@@ -372,7 +372,41 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Maureen Cassidy](/councillors/former/m-cassidy), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (2):** [Ed Holder](/councillors/former/e-holder), [Mariam Hamou](/councillors/former/m-hamou)
+
+</details>
+
+### 2.2. Considerations and Viability to Implement a Vacant Home Tax in London
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the consideration to implement a vacant home tax in London: a) The staff report dated January 31, 2022, “Considerations and Viability to Implement a Vacant Home Tax in London B...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Maureen Cassidy](/councillors/former/m-cassidy), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (2):** [Ed Holder](/councillors/former/e-holder), [Mariam Hamou](/councillors/former/m-hamou)
+
+</details>
+
+### 4.1. Application - Issuance of Proclamation - Parental Alienation Awareness Day
+
+> That based on the application dated January 10, 2022 from Just Another Parent, April 25, 2022 BE RECEIVED and NO ACTION be taken.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Maureen Cassidy](/councillors/former/m-cassidy), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (1):** [Mariam Hamou](/councillors/former/m-hamou)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -382,5 +416,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

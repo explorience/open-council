@@ -1014,7 +1014,7 @@ The meeting adjourned at 9:45 PM.
 
 ## Votes
 
-*12 substantive votes at this meeting (2 contested, 10 unanimous). Procedural motions excluded.*
+*9 substantive votes at this meeting (2 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -1022,23 +1022,7 @@ The meeting adjourned at 9:45 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.2. Public Participation Meeting - Application - 1877 Sandy Somerville Lane - Request for Draft Plan of Subdivision Approval (39T-18503)
-
-> That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of Sifton Properties Limited, relating to the property located at 1877 Sandy Somerville Lane: a)            the Approval Authority BE ADVISED that no issues were...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. Public Participation Meeting - Application - 418 Oxford Street East (SPA18-061)
-
-> That, on the recommendation of the Manger, Development Planning, the following actions be taken with respect to the application by Jason King, relating to the property located at 418 Oxford Street East: a)            the Approval Authority BE ADVISED that no issues were raised at the public meeti...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.4. Public Participation Meeting - Application - 3425 Emily Carr Lane (39T-16508/Z-8697)
 
@@ -1046,20 +1030,20 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.5. Public Participation Meeting - Application - 745-747 Waterloo Street (Z-8921)
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of The Y Group Investments and Management Inc., relating to the property located at 745-747 Waterloo Street: a)            the proposed by-law appended t...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown)
 
-**Nay (1):** [Tanya Park](/councillors/current/t-park)
+**Nay (1):** [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -1069,15 +1053,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.6. Public Participation Meeting - Application - 723 Lorne Avenue (former Lorne Avenue Public School site) (Z-8454)
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application by The Corporation of the City of London, relating to the property located at 723 Lorne Avenue: a)                    the proposed by-law appended to the...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.7. Public Participation Meeting - Application - 900 King Street and 925 Dundas Street (0Z-8937)
 
@@ -1085,20 +1061,20 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.8. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
 
 > The application by Tricar Group, relating to the property located at 230 North Centre Road, BE REFERRED back to the Civic Administration to initiate consultation between the applicant, the community and the Civic Administration to explore potential revisions to the proposed development taking int...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (1):** [Jesse Helmer](/councillors/former/j-helmer)
 
 </details>
 
@@ -1108,7 +1084,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Request for Delegation Status - D. Park, Halls Mill Place - Byron Valley Conceptual Nature Trail Plan
 
@@ -1116,7 +1092,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Request for Delegation Status - D. Park, Halls Mill Place - Byron Valley Conceptual Nature Trail Plan
 
@@ -1124,5 +1100,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

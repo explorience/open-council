@@ -308,7 +308,7 @@ The meeting adjourned at 12:59 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -316,7 +316,7 @@ The meeting adjourned at 12:59 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.3. Development Charges Housekeeping Matters Related To Bill 108
 
@@ -324,7 +324,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.3. Development Charges Housekeeping Matters Related To Bill 108
 
@@ -332,7 +332,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Application - Issuance of Proclamation - Guru Nanak Mission Society, London ON
 
@@ -340,7 +340,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. Application - Issuance of Proclamation - GBS/CIDP Foundation of Canada Day
 
@@ -348,7 +348,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. Application - Issuance of Proclamation - Amputee Coalition of Toronto
 
@@ -359,11 +359,28 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer)
 
-**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+**Nay (1):** [Ed Holder](/councillors/former/e-holder)
 
-**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Absent (1):** [Arielle Kayabaga](/councillors/former/a-kayabaga)
+
+</details>
+
+### 4.3. Application - Issuance of Proclamation - Amputee Coalition of Toronto
+
+> That the application for a proclamation from the Amputee Coalition of Toronto, BE RECEIVED, and no further action be taken with respect to this matter.
+
+**❌ Motion Failed (1 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Ed Holder](/councillors/former/e-holder)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 
@@ -373,5 +390,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

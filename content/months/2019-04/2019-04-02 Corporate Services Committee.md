@@ -265,7 +265,7 @@ The meeting adjourned at 1:00 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.2. Annual Meeting Calendar
 
@@ -276,9 +276,11 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Josh Morgan](/councillors/current/j-morgan)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
 
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (1):** [Jesse Helmer](/councillors/former/j-helmer)
+
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 
@@ -288,7 +290,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.2. Not to be heard before 12:45 PM - Apportionment of Taxes
 
@@ -296,7 +298,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. London Convention Centre 2018 Operational Results
 
@@ -304,7 +306,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 5.1. ADDED - Board of Directors - Federation of Canadian Municipalities
 
@@ -312,5 +314,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

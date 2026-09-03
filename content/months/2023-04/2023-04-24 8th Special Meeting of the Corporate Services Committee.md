@@ -73,20 +73,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:04 PM.
 
 ****
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. 2023 Debenture Issuance Update
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2023 City of London Debenture Issuance:    a)    the issuance of serial debentures for a total of $21,500,000 BE APPROVED; it being noted that the average all-in rate is 3....
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -121,3 +107,18 @@ That concludes the agenda for the eighth and special meeting of the Corporate Se
 The motion's passed. Thank you, everyone. And there's two special meetings today, so if you're really wanting to get some more committee work in, civic works is at 1 p.m.
 
 </details>
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. 2023 Debenture Issuance Update
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2023 City of London Debenture Issuance:    a)    the issuance of serial debentures for a total of $21,500,000 BE APPROVED; it being noted that the average all-in rate is 3....
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

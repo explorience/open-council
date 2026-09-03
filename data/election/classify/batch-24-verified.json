@@ -1,6 +1,6 @@
 [
  {
-  "id": "8d37e0c503bc",
+  "id": "573887e63b9b",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -12,7 +12,7 @@
   "verifierNote": "Loaded 2023-06-12 PEC item 3.2 (Community Improvement Plans and Financial Incentive Programs, Final), motion index 6: 'Motion to amend clause d) xi) ...' Failed (2 to 4). Quote is verbatim and complete against the full meeting JSON (wrapper 'Motion to amend clause d) xi) to read as follows:' correctly stripped). whatAYeaDid correctly frames this as what a yea WOULD have done despite the amendment failing -- no denial-flip error, since the clause itself carries no BE DENIED/REFUSED verb; the fail is the vote outcome, not the clause's own semantics. Issue call: text says 'affordable units' not the literal keyword 'affordable housing', and 'downtown' also appears in the clause ('Downtown Residential Development Charges Grant Program'), so a strict literal-keyword read could argue for issue=downtown instead -- but substantively this is a mandatory-affordable-unit-set-aside condition on a development incentive, which is the housing/affordable-funding read a reader would expect; kept as housing. No refutation basis for issue, polarity, or quote."
  },
  {
-  "id": "dd75734e7fed",
+  "id": "0e6c8a62cb33",
   "issue": "climate",
   "axis": "target-strength",
   "polarity": "expansive",
@@ -24,7 +24,7 @@
   "verifierNote": "Loaded 2023-06-06 Council item 8.3.4 (CEAP Progress Report). The recorded 11-2 vote (motion index 2, 'Motion to approve Item 4, clause 4.1, part b).') is a bare wrapper referencing part b) of motion index 0 -- confirmed against the full meeting JSON that part b) i-iv is the substantive text, and the classifier's quote (elided with '...') is verbatim against parts iii) and iv) of that clause, word for word. No denial verb, no relocation pattern, no business-case exclusion. target-strength/expansive is the correct substantive read of directing a Net-Zero Emission Plan and asset-management alignment to 2045 targets."
  },
  {
-  "id": "e487620d3c9f",
+  "id": "c037c43e0cac",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -38,7 +38,7 @@
   "verifierNote": "Loaded the full meeting JSON for this item; the motion is a multi-part governance/administrative package (calendar, closed-session practice, council-policy referrals, GWG scheduling) with no keyword hit for any of the 8 tracked issues anywhere in its body text. Correctly issue=none."
  },
  {
-  "id": "bcf2885344bc",
+  "id": "4714e20ea929",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -52,7 +52,7 @@
   "verifierNote": "Loaded the full 2023-06-06 Council item 8.4.13 (ARU/More Homes Built Faster Act amendments) in full -- 6 motions total. The two ids in this batch (referral of part c, Failed 7-7; and the broadened five-bedroom-limit review scope, Passed 13-1) are both non-decisions on the underlying ARU zoning question -- the actual substantive rezoning approval (motion 'That Item 13, clause 3.4, as amended, excluding part c), BE APPROVED', Passed 14-0 unanimous) is not among this batch's ids (consistent with the pipeline's stated scope of divided, non-unanimous motions only) and is out of my authority to add. No missed classification within the ids actually present in this batch."
  },
  {
-  "id": "6c2e1a86a1c1",
+  "id": "2020e72cdb63",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -66,7 +66,7 @@
   "verifierNote": "Loaded the full 2023-06-06 Council item 8.4.13 (ARU/More Homes Built Faster Act amendments) in full -- 6 motions total. The two ids in this batch (referral of part c, Failed 7-7; and the broadened five-bedroom-limit review scope, Passed 13-1) are both non-decisions on the underlying ARU zoning question -- the actual substantive rezoning approval (motion 'That Item 13, clause 3.4, as amended, excluding part c), BE APPROVED', Passed 14-0 unanimous) is not among this batch's ids (consistent with the pipeline's stated scope of divided, non-unanimous motions only) and is out of my authority to add. No missed classification within the ids actually present in this batch."
  },
  {
-  "id": "24d2ad2e480c",
+  "id": "5e19534f525d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -78,7 +78,7 @@
   "verifierNote": "Loaded the full meeting JSON; both the refusal (7-7 fail) and the override-approval (9-5 pass) motions for the 27 Bruce Street front-porch Heritage Alteration Permit contain no housing/climate/etc. keyword -- purely a heritage-permit matter, not one of the 8 tracked issues. Correctly issue=none."
  },
  {
-  "id": "2beef75d7e4e",
+  "id": "0d28f7afdc65",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -90,7 +90,7 @@
   "verifierNote": "Loaded the full meeting JSON; both the refusal (7-7 fail) and the override-approval (9-5 pass) motions for the 27 Bruce Street front-porch Heritage Alteration Permit contain no housing/climate/etc. keyword -- purely a heritage-permit matter, not one of the 8 tracked issues. Correctly issue=none."
  },
  {
-  "id": "1a4209df6e71",
+  "id": "25d9f013ced1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -104,7 +104,7 @@
   "verifierNote": "Proclamation-application referral back to Civic Administration for more information on the applicant's London connection -- a pure procedural non-decision (deferred, not approved or denied), unrelated to any of the 8 tracked issues by subject matter. Correctly issue=none, polarity null."
  },
  {
-  "id": "c84bbb2b1571",
+  "id": "74f262c3a8cf",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -118,7 +118,7 @@
   "verifierNote": "Proclamation-application referral back to Civic Administration for more information on the applicant's London connection -- a pure procedural non-decision (deferred, not approved or denied), unrelated to any of the 8 tracked issues by subject matter. Correctly issue=none, polarity null."
  },
  {
-  "id": "7d73116e38de",
+  "id": "3df430fe5697",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -130,7 +130,7 @@
   "verifierNote": "Loaded the full meeting JSON; both the East London Link and Wellington Gateway expropriation-authorization motions are pure legal/procedural steps (apply to expropriate, serve notice, forward OLT hearing requests, introduce the authorizing by-law) with no 'transit' or other tracked-issue keyword anywhere in the body text despite the projects' transit-adjacent names. Correctly issue=none."
  },
  {
-  "id": "28823ac8d4ec",
+  "id": "16a8698afdd8",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -142,7 +142,7 @@
   "verifierNote": "Loaded the full meeting JSON; both the East London Link and Wellington Gateway expropriation-authorization motions are pure legal/procedural steps (apply to expropriate, serve notice, forward OLT hearing requests, introduce the authorizing by-law) with no 'transit' or other tracked-issue keyword anywhere in the body text despite the projects' transit-adjacent names. Correctly issue=none."
  },
  {
-  "id": "66b2ff5ae107",
+  "id": "5053db7ab3c5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -157,7 +157,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "3ce47b175c5a",
+  "id": "259c84afe5fc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -169,7 +169,7 @@
   "verifierNote": "Loaded the full meeting JSON for both the PEC-stage and Council-stage 4452 Wellington Road South (OZ-9497) motions -- confirmed Shopping Area/Commercial to Light Industrial rezoning with zero residential/dwelling content in either motion's own text, despite the OZ structural code pattern that would otherwise suggest housing. Correctly issue=none at both stages."
  },
  {
-  "id": "4a247fdf3fd7",
+  "id": "df17bdbf95c3",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -180,10 +180,10 @@
    "wrapper_preamble"
   ],
   "verdict": "corrected",
-  "verifierNote": "REFUTED (c), quote only -- issue/axis/polarity survive. The actual 2022-12-13 Council item 8.1.20 vote (11-4 in the votes DB; motion index 2 in the meeting JSON reads 'That item 20, clause 3.10, as amended, BE APPROVED.') is a bare wrapper with no embedded clause text of its own -- the substance lives in motion index 0 (part b, the by-law text), as amended by motion index 1 (adding the word 'Maximum' to the density provision). The classifier's quote is verbatim for the PEC-STAGE (2022-11-28) version of this same by-law text, which reads '...the proposed, attached, revised by-law (Appendix \"B\") BE INTRODUCED...' -- but the COUNCIL-STAGE motion 0 text (the one actually being voted on 11-4) omits the word 'attached,': '...the proposed, revised by-law (Appendix \"B\") BE INTRODUCED...'. This looks like a copy-paste of the PEC entry's (2e6c25e6eb16) quote onto the council entry rather than a fresh read of the council-stage text. Corrected the quote to the verbatim council-stage wording below. Issue/axis/polarity are unaffected and remain correct: this is the actual application-approval generic-fallback pattern (AFFIRM_RE 'BE INTRODUCED'/'BE APPROVED', no denial) on a real rezoning enabling residential development, matching the substance of both the antecedent clause and the outcome. Aside, out of my scope but worth flagging: the votes DB's yeas+nays list for this id (9 yeas + 2 nays = 11 names) doesn't sum to the '11 to 4' result string -- a vote-tally data-quality issue, not a classification issue."
+  "verifierNote": "REFUTED (c), quote only -- issue/axis/polarity survive. The actual 2022-12-13 Council item 8.1.20 vote (11-4 in the votes DB; motion index 2 in the meeting JSON reads 'That item 20, clause 3.10, as amended, BE APPROVED.') is a bare wrapper with no embedded clause text of its own -- the substance lives in motion index 0 (part b, the by-law text), as amended by motion index 1 (adding the word 'Maximum' to the density provision). The classifier's quote is verbatim for the PEC-STAGE (2022-11-28) version of this same by-law text, which reads '...the proposed, attached, revised by-law (Appendix \"B\") BE INTRODUCED...' -- but the COUNCIL-STAGE motion 0 text (the one actually being voted on 11-4) omits the word 'attached,': '...the proposed, revised by-law (Appendix \"B\") BE INTRODUCED...'. This looks like a copy-paste of the PEC entry's (2e6c25e6eb16 (superseded id)) quote onto the council entry rather than a fresh read of the council-stage text. Corrected the quote to the verbatim council-stage wording below. Issue/axis/polarity are unaffected and remain correct: this is the actual application-approval generic-fallback pattern (AFFIRM_RE 'BE INTRODUCED'/'BE APPROVED', no denial) on a real rezoning enabling residential development, matching the substance of both the antecedent clause and the outcome. Aside, out of my scope but worth flagging: the votes DB's yeas+nays list for this id (9 yeas + 2 nays = 11 names) doesn't sum to the '11 to 4' result string -- a vote-tally data-quality issue, not a classification issue."
  },
  {
-  "id": "dcd7e4ffefb8",
+  "id": "f6a2af042bbf",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -197,7 +197,7 @@
   "verifierNote": "Loaded the full meeting JSON for the Animal Control By-Law (class 7/exotic animal) item chain, including the antecedent base motion (which would have directed drafting an actual by-law) and its amendment (which converted that into a report-back request only) -- the id in this batch corresponds to the report-back version. Correctly classified informational_ask/null; none of the 8 tracked issues apply to exotic-animal licensing regardless."
  },
  {
-  "id": "96a1c1f8e2a3",
+  "id": "883df9175abe",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -211,7 +211,7 @@
   "verifierNote": "Loaded the full meeting JSON for the Animal Control By-Law (class 7/exotic animal) item chain, including the antecedent base motion (which would have directed drafting an actual by-law) and its amendment (which converted that into a report-back request only) -- the id in this batch corresponds to the report-back version. Correctly classified informational_ask/null; none of the 8 tracked issues apply to exotic-animal licensing regardless."
  },
  {
-  "id": "503e769d4aa5",
+  "id": "a8defed73fd7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -226,7 +226,7 @@
   "verifierNote": "Loaded the full meeting JSON for the Animal Control By-Law (class 7/exotic animal) item chain, including the antecedent base motion (which would have directed drafting an actual by-law) and its amendment (which converted that into a report-back request only) -- the id in this batch corresponds to the report-back version. Correctly classified informational_ask/null; none of the 8 tracked issues apply to exotic-animal licensing regardless."
  },
  {
-  "id": "719eca77e93f",
+  "id": "183785124d78",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -240,7 +240,7 @@
   "verifierNote": "Item 9.1, 2nd Report of Council in Closed Session -- the motion text carries no substance (confidential), correctly issue=none with an empty quote rather than a fabricated one."
  },
  {
-  "id": "268fa02a686f",
+  "id": "728c8a3d898b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -254,7 +254,7 @@
   "verifierNote": "Application of Equity Lens for Citizen Appointment Process -- a governance/appointment-process directive, not a substantive position on any of the 8 tracked issues. Correctly issue=none."
  },
  {
-  "id": "b1f0197826e3",
+  "id": "24bf91627ee0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -268,7 +268,7 @@
   "verifierNote": "Loaded the full meeting JSON for the Animal Control By-Law (class 7/exotic animal) item chain, including the antecedent base motion (which would have directed drafting an actual by-law) and its amendment (which converted that into a report-back request only) -- the id in this batch corresponds to the report-back version. Correctly classified informational_ask/null; none of the 8 tracked issues apply to exotic-animal licensing regardless."
  },
  {
-  "id": "4289110cf317",
+  "id": "f7730c30a650",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -280,7 +280,7 @@
   "verifierNote": "Loaded 2022-11-28 PEC item 3.10 (952 Southdale Road West, OZ-9431), motion index 0: Passed (4 to 2), which directly carries the by-law text (not a bare wrapper at this stage). Quote is verbatim against the full meeting JSON including the 'attached,' this earlier-stage text genuinely contains. Issue (housing, via OZ-9431 code pattern), axis (application-approval, generic AFFIRM_RE fallback on 'BE INTRODUCED', no denial), and polarity (expansive) all correct."
  },
  {
-  "id": "233d1469bda7",
+  "id": "36bc2a277005",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -292,7 +292,7 @@
   "verifierNote": "Loaded the full meeting JSON for both the PEC-stage and Council-stage 4452 Wellington Road South (OZ-9497) motions -- confirmed Shopping Area/Commercial to Light Industrial rezoning with zero residential/dwelling content in either motion's own text, despite the OZ structural code pattern that would otherwise suggest housing. Correctly issue=none at both stages."
  },
  {
-  "id": "d04c855d36ae",
+  "id": "735083dd4356",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -306,7 +306,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "c1adfb086ca7",
+  "id": "47c5d31bb66e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -320,7 +320,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "f784c70a1765",
+  "id": "0dea7118502b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -334,7 +334,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "71979d3b6e86",
+  "id": "c68a28aef539",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -348,7 +348,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "7bca351428fb",
+  "id": "8995b34d3be1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -362,7 +362,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "aaba00ca2725",
+  "id": "ca7dbf3b8410",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -376,7 +376,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "11b122141d17",
+  "id": "1922f3b7b509",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -390,7 +390,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "d5e847027143",
+  "id": "dfc6fadbbaba",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -404,7 +404,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "bfab0e69afad",
+  "id": "809b762857b7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -418,7 +418,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "b146643e52c0",
+  "id": "5edfe33463d9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -432,7 +432,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "1abfc99f396d",
+  "id": "e6666a75e6da",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -446,7 +446,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "d934777377ea",
+  "id": "a3a597782be1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -460,7 +460,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "73e3fc8ba7d7",
+  "id": "9097ebb65b37",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -475,7 +475,7 @@
   "verifierNote": "Personnel appointment to a board/committee (title matches 'Consideration of Appointment to...' / a direct appointment motion) -- quote in the classified record is a bare name list with zero policy content. Correctly excluded per GLOBAL_EXCLUDE 'consideration of appointment to'; no substantive issue position hides in the motion text. Confirmed against itemTitle + the quote already on record; no upgrade warranted."
  },
  {
-  "id": "20ca3b4d67c7",
+  "id": "07bca9077e88",
   "issue": "none",
   "axis": null,
   "polarity": null,

@@ -1,6 +1,6 @@
 [
  {
-  "id": "6d5781ab215f",
+  "id": "39c12e5c5884",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -12,7 +12,7 @@
   ]
  },
  {
-  "id": "9014e0698a78",
+  "id": "0ed3fc1b26f1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -25,7 +25,7 @@
   ]
  },
  {
-  "id": "454de550adf5",
+  "id": "f09a750e180c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -38,7 +38,7 @@
   ]
  },
  {
-  "id": "46abc0036756",
+  "id": "69edb4881245",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -50,7 +50,7 @@
   ]
  },
  {
-  "id": "032ec9230ce5",
+  "id": "36d9a06e75f6",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -63,7 +63,7 @@
   ]
  },
  {
-  "id": "311b57b70796",
+  "id": "41e450acad70",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -76,7 +76,7 @@
   ]
  },
  {
-  "id": "9150abe5a408",
+  "id": "20d4cf694f29",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -88,7 +88,7 @@
   ]
  },
  {
-  "id": "8ab96e158b0c",
+  "id": "82920ae88a00",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -100,19 +100,7 @@
   ]
  },
  {
-  "id": "afa632a6cb38",
-  "issue": "housing",
-  "axis": "affordable-funding",
-  "polarity": "expansive",
-  "whatAYeaDid": "Approved advising the Government of Ontario that London City Council supports a provincial motion to establish and fund Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years.",
-  "confidence": "high",
-  "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: ... to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers",
-  "flags": [
-   "wrapper_preamble"
-  ]
- },
- {
-  "id": "a52df3668cd4",
+  "id": "0544b76b8a91",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -125,7 +113,7 @@
   ]
  },
  {
-  "id": "d9a602abd77d",
+  "id": "dea60d87ae93",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -137,7 +125,7 @@
   ]
  },
  {
-  "id": "23fc374f5e0e",
+  "id": "2783e8939b86",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -149,7 +137,7 @@
   ]
  },
  {
-  "id": "a8ea53507571",
+  "id": "b9802ce1997a",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -161,7 +149,7 @@
   ]
  },
  {
-  "id": "079b1303a18c",
+  "id": "a11fc5069045",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -173,7 +161,7 @@
   ]
  },
  {
-  "id": "5581a23af577",
+  "id": "875d47d4d0d3",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -185,7 +173,7 @@
   ]
  },
  {
-  "id": "c8c10caa479f",
+  "id": "a76f4203b4e0",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -198,7 +186,7 @@
   ]
  },
  {
-  "id": "0bc752e26f44",
+  "id": "4d0df5416ad2",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -211,7 +199,7 @@
   ]
  },
  {
-  "id": "2a0187a5fcb1",
+  "id": "529af203914c",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -224,7 +212,7 @@
   ]
  },
  {
-  "id": "9b182301e0e6",
+  "id": "a2f65361f969",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -237,7 +225,7 @@
   ]
  },
  {
-  "id": "19fc49d73604",
+  "id": "ef58d8aedcc0",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -250,7 +238,7 @@
   ]
  },
  {
-  "id": "d882976eceb9",
+  "id": "0e9fa79afacc",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -263,7 +251,7 @@
   ]
  },
  {
-  "id": "3dc87e1cadff",
+  "id": "f20962c9cbaf",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -275,7 +263,7 @@
   ]
  },
  {
-  "id": "6fbefa55c243",
+  "id": "507e4c8666e7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -287,7 +275,7 @@
   ]
  },
  {
-  "id": "7cd53063b2f0",
+  "id": "549853205783",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -299,7 +287,7 @@
   ]
  },
  {
-  "id": "0915bb420d56",
+  "id": "13bf3c00256b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -311,7 +299,7 @@
   ]
  },
  {
-  "id": "95ba36df27f0",
+  "id": "42873919d000",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -324,7 +312,7 @@
   ]
  },
  {
-  "id": "5a06a03c216e",
+  "id": "4d9e9d90f957",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -337,7 +325,7 @@
   ]
  },
  {
-  "id": "f7266655df1b",
+  "id": "b57d09343f08",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -349,7 +337,7 @@
   ]
  },
  {
-  "id": "d7371ed70b5a",
+  "id": "35d6a5473517",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -361,7 +349,7 @@
   ]
  },
  {
-  "id": "340b7f873da6",
+  "id": "ec5ecaa1b509",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -373,7 +361,7 @@
   ]
  },
  {
-  "id": "d66f5cc7f172",
+  "id": "9398e4b5c157",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -386,7 +374,7 @@
   ]
  },
  {
-  "id": "ac9799951604",
+  "id": "8e998b09b88a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -399,7 +387,7 @@
   ]
  },
  {
-  "id": "24dad408a093",
+  "id": "74709d66d748",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -412,7 +400,7 @@
   ]
  },
  {
-  "id": "38d5a7d7d857",
+  "id": "f0d015ed7e71",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -424,7 +412,7 @@
   ]
  },
  {
-  "id": "3fdd608ce400",
+  "id": "ce30760d67f5",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -434,7 +422,7 @@
   "flags": []
  },
  {
-  "id": "9a9106abbfb3",
+  "id": "ea37ece5f7b6",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -446,7 +434,7 @@
   ]
  },
  {
-  "id": "b9f74a12e280",
+  "id": "82b2981a415d",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -456,7 +444,7 @@
   "flags": []
  },
  {
-  "id": "3492773f6fbc",
+  "id": "2e6c63fd9ad6",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -468,7 +456,7 @@
   ]
  },
  {
-  "id": "639a7d9250f5",
+  "id": "f11c4a92b515",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -478,7 +466,7 @@
   "flags": []
  },
  {
-  "id": "dafda519c95e",
+  "id": "c0b81b92aef5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -490,7 +478,7 @@
   ]
  },
  {
-  "id": "a7f9e47a54f5",
+  "id": "1c9205510bd2",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -502,7 +490,7 @@
   ]
  },
  {
-  "id": "90bee6de59b8",
+  "id": "ce2b6f97ef7e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -514,7 +502,7 @@
   ]
  },
  {
-  "id": "3de2f6088c1f",
+  "id": "2b893a0ebb83",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -526,7 +514,7 @@
   ]
  },
  {
-  "id": "6af4354e1891",
+  "id": "0f7f1e936953",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -539,7 +527,7 @@
   ]
  },
  {
-  "id": "11ce5ff13b30",
+  "id": "1c7ac2181a29",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -549,6 +537,18 @@
   "flags": [
    "informational_ask",
    "procedural"
+  ]
+ },
+ {
+  "id": "456e873da7c2",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved advising the Government of Ontario that London City Council supports a provincial motion to establish and fund Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years.",
+  "confidence": "high",
+  "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: ... to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers",
+  "flags": [
+   "wrapper_preamble"
   ]
  }
 ]

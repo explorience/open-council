@@ -294,7 +294,9 @@ The meeting adjourned at 1:33 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson)
 
 **Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
 
@@ -306,5 +308,5 @@ The meeting adjourned at 1:33 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

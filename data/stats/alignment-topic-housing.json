@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:56:38.683Z",
+  "generatedAt": "2026-09-02T11:51:05.656Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 94.44444444444444,
@@ -10,7 +10,7 @@
       "s-trosow": 84.26966292134831,
       "c-rahman": 96.73913043478261,
       "s-lehman": 96.16858237547893,
-      "a-hopkins": 93.15960912052117,
+      "a-hopkins": 93.14285714285714,
       "p-van-meerbergen": 94.01709401709401,
       "s-franke": 91.11111111111111,
       "e-peloza": 90.36144578313254,
@@ -146,7 +146,7 @@
       "s-hillier": 94.3820224719101
     },
     "a-hopkins": {
-      "j-morgan": 93.15960912052117,
+      "j-morgan": 93.14285714285714,
       "h-mcalister": 93.78531073446328,
       "s-lewis": 93.18181818181817,
       "p-cuddy": 87.84530386740332,
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "housing",
-  "motionCount": 589
+  "motionCount": 690
 }

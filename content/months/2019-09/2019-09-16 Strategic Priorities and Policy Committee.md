@@ -237,7 +237,24 @@ The meeting adjourned at 6:43 PM.
 
 ## Votes
 
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. City of London Housing Service Review: Proposed Action Plan
+
+> That on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer and Managing Director, Housing, Social Services and Dearness Home, the following actions be taken with respect to the City of London Housing Service Review: a)         the staff rep...
+
+**✅ Motion Passed (7 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih)
+
+**Nay (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
+
+**Absent (2):** [Steve Lehman](/councillors/current/s-lehman), [Michael van Holst](/councillors/former/m-van-holst)
+
+</details>
 
 ### 4.1. City of London Housing Service Review: Proposed Action Plan
 
@@ -245,7 +262,7 @@ The meeting adjourned at 6:43 PM.
 
 **✅ Motion Passed (13 to 0)**
 
-Unanimous (11-0)
+Unanimous (13-0)
 
 ### 6. Adjournment
 
@@ -253,5 +270,5 @@ Unanimous (11-0)
 
 **✅ Motion Passed (13 to 0)**
 
-Unanimous (11-0)
+Unanimous (13-0)
 

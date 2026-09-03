@@ -267,7 +267,7 @@ The meeting adjourned at 1:02 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -275,7 +275,7 @@ The meeting adjourned at 1:02 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.3. Land Allocation - Fire Station No. 15 - Innovation Drive
 
@@ -283,13 +283,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. Amendments to the Council Procedure By-law Striking Committee
-
-> That the following actions be taken with respect to proposed amendments to the Council Procedure By-law: a)       on the recommendation of the City Clerk, proposed by-law appended to the staff report dated October 30, 2018 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 

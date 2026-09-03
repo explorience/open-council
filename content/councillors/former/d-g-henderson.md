@@ -5,18 +5,18 @@ slug: "d-g-henderson"
 meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2416
-votesYea: 2166
-votesNay: 250
+totalVotes: 3232
+votesYea: 2980
+votesNay: 252
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 95.5
 participationRate: 100.0
-yeaRate: 89.7
-contestedDissentRate: 11.6
-contestedVotes: 2416
+yeaRate: 92.2
+contestedDissentRate: 34.4
+contestedVotes: 706
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,416 |
-| Voted Yea | 2,166 (89.7%) |
-| Voted Nay | 250 (10.3%) |
+| Total Votes | 3,232 |
+| Voted Yea | 2,980 (92.2%) |
+| Voted Nay | 252 (7.8%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,412 |
-| Voted Yea | 2,162 (89.6%) |
-| Voted Nay | 250 (10.4%) |
+| Substantive Votes | 2,901 |
+| Voted Yea | 2,649 (91.3%) |
+| Voted Nay | 252 (8.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 11.6%
-- **Contested Votes**: 2,416
+- **Dissent Rate**: 34.4%
+- **Contested Votes**: 706
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 396 |
-| Voted Yea | 278 (70.2%) |
-| Voted Nay | 118 (29.8%) |
+| Budget Votes | 355 |
+| Voted Yea | 299 (84.2%) |
+| Voted Nay | 56 (15.8%) |
 | Absent | 0 |
 
 
@@ -94,14 +94,25 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,249 | 1,156 | 93 | 100.0% |
+| Council | 2,276 | 2,098 | 178 | 100.0% |
 | Planning and Environment Committee | 685 | 668 | 17 | 100.0% |
-| Strategic Priorities and Policy Committee | 482 | 342 | 140 | 100.0% |
+| Strategic Priorities and Policy Committee | 271 | 214 | 57 | 100.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Dale Henderson voted against the final outcome:*
+
+### 2014-11-25: Properties located
+  at 510 Central Avenue and 609 William Street (Z-8141)
+
+[MINUTES 26TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English)
+
+> Approve that a new part b) ii) J) BE
+  ADDED to provide for all parking at the rear, with one driveway off of
+  William Street and one driveway off of Central Avenue.
+
+Voted **Yea** - Motion Failed
 
 ### 2014-11-24: Review of Acting
   Mayor Policy
@@ -124,12 +135,27 @@ Voted **Nay** - Motion
 Voted **Yea** - Motion
   Failed
 
+### 2014-11-11: Property located at 420 Fanshawe Park Road
+  East - Request for Demolition
+
+[MINUTES 25TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=87f2cd1e-65b9-48d3-8a01-48b29194547e&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Managing
+  Director, Planning and City Planner, with the advice of the Heritage Planner,
+  the following actions be taken with respect to the building(s) on the
+  pr...
+
+Voted **Nay** - Motion Passed
+
 ### 2014-10-14: Property located at
   50 King Street (Z-8372)
 
-[MINUTES 24TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English)
+[MINUTES 24TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
+> Approve clause 1 and that the application
+  by 2353034 Ontario Limited (formerly Treadstone Group) related to the
+  properties located at 510 Central Avenue and 609 William Street (Z-8141) BE
+  REFERR...
 
 Voted **Nay** - Motion Passed
 
@@ -145,18 +171,24 @@ Voted **Nay** - Motion Passed
 ### 2014-09-30: Property located at
   1300 Fanshawe Park Road East (OZ-8358)
 
-[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
 
-> Motion Failed
+> That, the application of 1849259 Ontario
+  Inc., relating to the property located at 1300 Fanshawe Park Road East BE
+  REFUSED as the Municipal Council does not believe that a  special policy to
+  per...
 
 Voted **Yea** - Motion Failed
 
 ### 2014-09-30: Property located at
   1300 Fanshawe Park Road East (OZ-8358)
 
-[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
+> Approve that, on
+  the recommendation of the Managing Director, Planning and City Planner, the
+  following actions be taken with respect to the application of 1849259 Ontario
+  Inc., relating to the p...
 
 Voted **Nay** - Motion Passed
 
@@ -181,26 +213,6 @@ Voted **Nay** - Motion
 
 Voted **Nay** - Motion
   Passed
-
-### 2014-09-23: Property located at
-  2118 Richmond Street (OZ-7890)
-
-[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=04dd93e6-76f0-4fba-a546-eb6325e8b887&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Failed
-
-Voted **Yea** - Motion
-  Failed
-
-### 2014-09-02: Installation of
-  Sidewalks on Shavian Blvd.
-
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
-
-Voted **Nay** - Motion Passed
 
 
 ## Committees Served

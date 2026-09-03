@@ -60,24 +60,24 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 6577,
-    "yeas": 6081,
-    "nays": 451,
+    "totalVotes": 7765,
+    "yeas": 7278,
+    "nays": 442,
     "absent": 36,
-    "participationRate": 99.31579747605291,
-    "yeaRate": 93.09552969993877,
-    "contestedDissentRate": 5.648330058939096,
-    "contestedVotes": 6108,
-    "substantiveVotes": 6309,
-    "substantiveYeas": 5840,
-    "substantiveNays": 443,
-    "substantiveParticipationRate": 99.58789031542241,
-    "substantiveYeaRate": 92.94922807575998
+    "participationRate": 99.42047649710238,
+    "yeaRate": 94.27461139896373,
+    "contestedDissentRate": 19.26605504587156,
+    "contestedVotes": 1744,
+    "substantiveVotes": 6645,
+    "substantiveYeas": 6177,
+    "substantiveNays": 442,
+    "substantiveParticipationRate": 99.60872836719338,
+    "substantiveYeaRate": 93.3222541169361
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1353,
-    "budgetYeas": 1133,
-    "budgetNays": 214,
+    "totalBudgetVotes": 843,
+    "budgetYeas": 748,
+    "budgetNays": 89,
     "budgetAbsent": 5
   },
   "topAlignments": [],
@@ -177,17 +177,10 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2590,
-      "yeas": 2423,
-      "nays": 144,
-      "participationRate": 99.11196911196912
-    },
-    {
-      "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1933,
-      "yeas": 1669,
-      "nays": 263,
-      "participationRate": 99.9482669425763
+      "totalVotes": 4572,
+      "yeas": 4263,
+      "nays": 286,
+      "participationRate": 99.49693788276466
     },
     {
       "committee": "Planning and Environment Committee",
@@ -195,6 +188,13 @@
       "yeas": 1440,
       "nays": 28,
       "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 1139,
+      "yeas": 1026,
+      "nays": 112,
+      "participationRate": 99.91220368744513
     },
     {
       "committee": "Corporate Services Committee",

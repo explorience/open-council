@@ -639,77 +639,6 @@ The Planning and Environment Committee convened, in Closed Session, from 5:48 PM
 
 
 The meeting adjourned at 5:53 PM.
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
-
-### 3.1. 1588 Clarke Road
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the demolition request for the heritage listed property located at 1588 Clarke Road: a)    the Chief Building Official BE ADVISED that Municipal Council consents to the demolition of the built resources on the ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. Request to Remove Property from Register of Cultural Heritage Resources - 176 Piccadilly Street
-
-> Motion to take no action with respect to the communication dated September 15, 2023, from A.M. Valastro relating to the property located at 176 Piccadilly Street.
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 3.3. 3030 Singleton Avenue (Z-9640)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Schlegel Villages Incorporated, relating to the property located at 3030 Singleton Avenue, the proposed by-law appended to the staff report dated September 18, 2023 as Appendix "A" BE INTRODUCED at ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 1208 Fanshawe Park Road East (Z-9539)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Masar Development Inc. (c/o Abdul Zaro), relating to the property located at 1208 Fanshawe Park Road East: a) the proposed by-law appended to the staff report d...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 3234-3274 Wonderland Road South (Z-9618)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southside Construction Management Ltd., relating to a portion of the property located at 3234-3274 Wonderland Road South: a) consistent with Policy 43_1 of The ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.6. 1364-1408 Hyde Park Road (OZ-9635)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by the City of London, relating to the property located at 1364-1408 Hyde Park Road: a) the proposed by-law appended to the staff report dated September 18, 2023 a...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. (ADDED) 10th Report of the Community Advisory Committee on Planning
-
-> That, the following actions be taken with respect to the 10th Report of the Community Advisory Committee on Planning, from its meeting held on September 13, 2023: a) the following actions be taken with respect to the Notice of Planning Application and Public Meeting, dated September 5, 2023, from...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -732,3 +661,43 @@ mathers and mrs. McNeely and mr. peas and i know you weren't the only ones invol
 Thank you, folks.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 3.2. Request to Remove Property from Register of Cultural Heritage Resources - 176 Piccadilly Street
+
+> Motion to take no action with respect to the communication dated September 15, 2023, from A.M. Valastro relating to the property located at 176 Piccadilly Street.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.4. 1208 Fanshawe Park Road East (Z-9539)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Masar Development Inc. (c/o Abdul Zaro), relating to the property located at 1208 Fanshawe Park Road East: a) the proposed by-law appended to the staff report d...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 3234-3274 Wonderland Road South (Z-9618)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southside Construction Management Ltd., relating to a portion of the property located at 3234-3274 Wonderland Road South: a) consistent with Policy 43_1 of The ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

@@ -1,6 +1,6 @@
 [
  {
-  "id": "09650a221df8",
+  "id": "8cb75dfd230e",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -12,7 +12,7 @@
   ]
  },
  {
-  "id": "7673f3eaf052",
+  "id": "0c4349655744",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -24,7 +24,7 @@
   ]
  },
  {
-  "id": "353b10e65673",
+  "id": "834a1d02a395",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -36,7 +36,7 @@
   ]
  },
  {
-  "id": "f0be8624ec75",
+  "id": "24f779d73ea8",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -48,7 +48,7 @@
   ]
  },
  {
-  "id": "4816a8dbd930",
+  "id": "fd63bcc78cdb",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -58,7 +58,7 @@
   "flags": []
  },
  {
-  "id": "fbe5d8717596",
+  "id": "9eee7fd0c8a2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -70,7 +70,7 @@
   ]
  },
  {
-  "id": "e805d2ddb3c4",
+  "id": "96ea8a87d491",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -80,7 +80,7 @@
   "flags": []
  },
  {
-  "id": "d92c2676d8b4",
+  "id": "9ce562bc904e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -90,7 +90,7 @@
   "flags": []
  },
  {
-  "id": "e56eb972d15a",
+  "id": "50e862d273eb",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -100,7 +100,7 @@
   "flags": []
  },
  {
-  "id": "ac621e53bd84",
+  "id": "4976c983b20d",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -113,7 +113,7 @@
   ]
  },
  {
-  "id": "c0ce6cf62032",
+  "id": "e16a4d74c461",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -125,7 +125,7 @@
   ]
  },
  {
-  "id": "667304ee4d37",
+  "id": "18b895f37109",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -135,7 +135,7 @@
   "flags": []
  },
  {
-  "id": "745320f6dbfa",
+  "id": "79a4be5c9084",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -145,7 +145,7 @@
   "flags": []
  },
  {
-  "id": "280b1a605da3",
+  "id": "323ffdf46637",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -155,7 +155,7 @@
   "flags": []
  },
  {
-  "id": "9f632543eedb",
+  "id": "5f8aa51302f2",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -167,7 +167,7 @@
   ]
  },
  {
-  "id": "af0eb6aa83a3",
+  "id": "21d7ba5099f7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -177,7 +177,7 @@
   "flags": []
  },
  {
-  "id": "a5c0e3814085",
+  "id": "1bd8e0b4734c",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "expansive",
@@ -187,7 +187,7 @@
   "flags": []
  },
  {
-  "id": "9d2d16516460",
+  "id": "1d4dcf1c6588",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -199,7 +199,7 @@
   ]
  },
  {
-  "id": "3afb7e2cad1f",
+  "id": "dd1dd833fc1e",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -212,7 +212,7 @@
   ]
  },
  {
-  "id": "3952c790ba94",
+  "id": "c8bc009546a0",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -222,7 +222,7 @@
   "flags": []
  },
  {
-  "id": "a1809ef17b5c",
+  "id": "d509b701e5cb",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -234,7 +234,7 @@
   ]
  },
  {
-  "id": "47030084ea1e",
+  "id": "d971642a5166",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -244,7 +244,7 @@
   "flags": []
  },
  {
-  "id": "6fb8aac5501b",
+  "id": "480893a809c4",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -256,7 +256,7 @@
   ]
  },
  {
-  "id": "7cf8ddca1bc9",
+  "id": "e73832363a1b",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -268,7 +268,7 @@
   ]
  },
  {
-  "id": "2f4e4bf8f5a7",
+  "id": "7362cc701ef3",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -278,7 +278,7 @@
   "flags": []
  },
  {
-  "id": "a076bd968c19",
+  "id": "c5759a177623",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -290,7 +290,7 @@
   ]
  },
  {
-  "id": "c341c159cdca",
+  "id": "520ac0d6c972",
   "issue": "climate",
   "axis": "natural-heritage",
   "polarity": "expansive",
@@ -300,7 +300,7 @@
   "flags": []
  },
  {
-  "id": "7126cff13284",
+  "id": "196fee010d78",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -310,7 +310,7 @@
   "flags": []
  },
  {
-  "id": "7ae6c0ae05ef",
+  "id": "6bb73746bbfc",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -320,7 +320,7 @@
   "flags": []
  },
  {
-  "id": "cf86b5f29019",
+  "id": "fa341d3011fc",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -332,7 +332,7 @@
   ]
  },
  {
-  "id": "5beac63c53b5",
+  "id": "bf7543d954d6",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -344,19 +344,7 @@
   ]
  },
  {
-  "id": "b7f1a4280119",
-  "issue": "none",
-  "axis": null,
-  "polarity": null,
-  "whatAYeaDid": "Approved the direction for the Mayor to write to the Ontario Solicitor General suggesting changes to provincial legislation on dangerous dogs and public safety.",
-  "confidence": "high",
-  "quote": "The Mayor BE REQUESTED to write a letter to the Solicitor General, with respect to this matter, to suggest changes to provincial legislation related to dangerous dogs and public safety.",
-  "flags": [
-   "informational_ask"
-  ]
- },
- {
-  "id": "bf6758a065fe",
+  "id": "119053b89c45",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -368,7 +356,7 @@
   ]
  },
  {
-  "id": "dd94deb7add9",
+  "id": "050650d10eff",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -378,7 +366,7 @@
   "flags": []
  },
  {
-  "id": "93a7f9754452",
+  "id": "0052db0821e2",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -390,7 +378,7 @@
   ]
  },
  {
-  "id": "87b1cae35e16",
+  "id": "dea525220d38",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -400,7 +388,7 @@
   "flags": []
  },
  {
-  "id": "be1f4927f690",
+  "id": "050a9f0f9146",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -410,7 +398,7 @@
   "flags": []
  },
  {
-  "id": "2cd59c5dfe20",
+  "id": "9685cfbc31ef",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -422,7 +410,7 @@
   ]
  },
  {
-  "id": "b9118f81b273",
+  "id": "19fe238e2e02",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -434,7 +422,7 @@
   ]
  },
  {
-  "id": "fbc18eb71f19",
+  "id": "7a915756ea2a",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -446,7 +434,7 @@
   ]
  },
  {
-  "id": "f42a5b460702",
+  "id": "30cf45eb7320",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -459,7 +447,7 @@
   ]
  },
  {
-  "id": "29dd3d1ef53d",
+  "id": "506542331add",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -469,7 +457,7 @@
   "flags": []
  },
  {
-  "id": "fc2254195725",
+  "id": "344cfab0a9ca",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -479,7 +467,7 @@
   "flags": []
  },
  {
-  "id": "f59b04cd80be",
+  "id": "b0a7ddda45cb",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -491,7 +479,7 @@
   ]
  },
  {
-  "id": "ee000df2b284",
+  "id": "2ed2545dd453",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -500,6 +488,18 @@
   "quote": "That the staff report dated July 14, 2025 related to the Affordable Homeownership Program Relaunch BE REFERRED to a future meeting of the Community and Protective Services Committee to allow the Civic Administration to come back with a business case for the Province requesting reallocation of the funds to another affordable housing purpose",
   "flags": [
    "referral"
+  ]
+ },
+ {
+  "id": "05288409fb7f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the direction for the Mayor to write to the Ontario Solicitor General suggesting changes to provincial legislation on dangerous dogs and public safety.",
+  "confidence": "high",
+  "quote": "The Mayor BE REQUESTED to write a letter to the Solicitor General, with respect to this matter, to suggest changes to provincial legislation related to dangerous dogs and public safety.",
+  "flags": [
+   "informational_ask"
   ]
  }
 ]

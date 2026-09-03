@@ -378,52 +378,6 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 
 The meeting adjourned at 5:59 PM.
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3 and 2.5 to 2.10 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.4. Property Standards Matters (March 2021 Council Resolution)
-
-> Motion to approve the delegation requests from S. Lawrence, D. Devine, J. Phoenix and N. Chiles, as appended to the Added Agenda to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.4. Property Standards Matters (March 2021 Council Resolution)
-
-> Motion to receive the verbal delegations from S. Lawrence, D. Devine, J. Phoenix and N. Chiles as well as the communications listed on the Added Agenda.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.4. Property Standards Matters (March 2021 Council Resolution)
-
-> Motion to approve part a) of the clause and to receive the staff report.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. Flyer Deliveries to Residential Properties
-
-> That the following actions be taken with respect to the staff report dated September 21, 2021, with respect to Flyer Deliveries to Residential Properties: a)    the matter of flyer deliveries to residential properties BE REFERRED to a future meeting of the Community and Protective Services Commit...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -786,3 +740,50 @@ Closing the vote, the motion carries five to zero. Okay, motion to adjourn. Sir 
 We are adjourned. Thanks, everyone. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3 and 2.5 to 2.10 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Property Standards Matters (March 2021 Council Resolution)
+
+> Motion to approve the delegation requests from S. Lawrence, D. Devine, J. Phoenix and N. Chiles, as appended to the Added Agenda to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Property Standards Matters (March 2021 Council Resolution)
+
+> Motion to receive the verbal delegations from S. Lawrence, D. Devine, J. Phoenix and N. Chiles as well as the communications listed on the Added Agenda.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Property Standards Matters (March 2021 Council Resolution)
+
+> Motion to approve part a) of the clause and to receive the staff report.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Flyer Deliveries to Residential Properties
+
+> That the following actions be taken with respect to the staff report dated September 21, 2021, with respect to Flyer Deliveries to Residential Properties: a)    the matter of flyer deliveries to residential properties BE REFERRED to a future meeting of the Community and Protective Services Commit...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

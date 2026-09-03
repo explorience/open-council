@@ -536,60 +536,6 @@ The Planning and Environment Committee convened, in Closed Session, from 5:22 PM
 
 
 The meeting adjourned at 5:28 PM.
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.5, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. 2810 Roxburgh Road (Z-9525)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Harpreet Singh (2309529 Ontario Inc.), relating to the property located at 2810 Roxburgh Road, the proposed by-law appended to the staff report dated October 3, 2022 as Appendix "A" BE INTRODUCED at...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. 16 Wethered Street (Z-9309)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 24457277 Ontario Inc. (Phil Pattyn), relating to the property located at 16 Wethered Street: a) the proposed by-law appended to the staff report dated October 3...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.3. 850 Highbury Avenue North
-
-> That, on the recommendation of the Director, Planning and Development with the advice of the Heritage Planner, the demolition request for the removal of (3) non-designated built resources on the heritage designated property at 850 Highbury Avenue North, BE PERMITTED pursuant to Section 34(1) of t...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. 185 and 189 Wellington Street
-
-> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the following actions be taken with respect to the request by 2698746 Ontario Inc. and 2700875 Ontairo Inc., to remove the properties located at 185 and 189 Wellington Street respective...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.2. Zoning By-law Amendment - Seasonal Outdoor Patios
-
-> That, the following actions be taken with respect to zoning regulations related to seasonal outdoor patios: a) the proposed revised by-law as appended to the Planning and Environment Committee Added Agenda BE INTRODUCED at the Municipal Council meeting to be held on October 17, 2022, to amend Sec...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -936,3 +882,26 @@ And with that, I'm looking for a motion to adjourn. Councillor Lewis, seconded b
 Thanks, everyone.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Zoning By-law Amendment - Seasonal Outdoor Patios
+
+> That, the following actions be taken with respect to zoning regulations related to seasonal outdoor patios: a) the proposed revised by-law as appended to the Planning and Environment Committee Added Agenda BE INTRODUCED at the Municipal Council meeting to be held on October 17, 2022, to amend Sec...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

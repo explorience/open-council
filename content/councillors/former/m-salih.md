@@ -5,18 +5,18 @@ slug: "m-salih"
 meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
-totalVotes: 6522
-votesYea: 5406
-votesNay: 355
+totalVotes: 7039
+votesYea: 5891
+votesNay: 387
 votesAbsent: 473
 votesRecused: 29
 votesAbstained: 0
 votesOther: 259
 attendanceRate: 93.7
-participationRate: 88.3
+participationRate: 89.2
 yeaRate: 93.8
-contestedDissentRate: 8.3
-contestedVotes: 3345
+contestedDissentRate: 19.7
+contestedVotes: 1562
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 6,522 |
-| Voted Yea | 5,406 (82.9%) |
-| Voted Nay | 355 (5.4%) |
-| Absent | 473 (7.3%) |
+| Total Votes | 7,039 |
+| Voted Yea | 5,891 (83.7%) |
+| Voted Nay | 387 (5.5%) |
+| Absent | 473 (6.7%) |
 | Recused (conflict of interest) | 29 (0.4%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 259 (4.0%) |
+| Other/Unrecorded | 259 (3.7%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,841 |
-| Voted Yea | 4,007 (92.6%) |
-| Voted Nay | 318 (7.4%) |
+| Substantive Votes | 5,140 |
+| Voted Yea | 4,183 (91.5%) |
+| Voted Nay | 387 (8.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 8.3%
-- **Contested Votes**: 3,345
+- **Dissent Rate**: 19.7%
+- **Contested Votes**: 1,562
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,9 +71,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,009 |
-| Voted Yea | 887 (90.1%) |
-| Voted Nay | 98 (9.9%) |
+| Budget Votes | 744 |
+| Voted Yea | 652 (90.6%) |
+| Voted Nay | 68 (9.4%) |
 | Absent | 16 |
 
 
@@ -95,9 +95,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,262 | 2,701 | 169 | 88.0% |
-| Strategic Priorities and Policy Committee | 2,208 | 1,728 | 153 | 85.2% |
-| Community and Protective Services Committee | 1,052 | 977 | 33 | 96.0% |
+| Council | 4,135 | 3,505 | 238 | 90.5% |
+| Strategic Priorities and Policy Committee | 1,854 | 1,411 | 116 | 82.4% |
+| Community and Protective Services Committee | 1,050 | 975 | 33 | 96.0% |
 
 
 ## Notable Dissenting Votes

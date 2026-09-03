@@ -314,7 +314,7 @@ The meeting adjourned at 1:26 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.2. Request for Proposal 18-41: Fiscal Agent Services
 
@@ -322,7 +322,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.3. Request for Funding - 2019 Juno Awards
 
@@ -330,7 +330,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Not to be heard before 1:00 PM - Tax Adjustment Agenda
 
@@ -338,7 +338,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Not to be heard before 1:00 PM - Tax Adjustment Agenda
 
@@ -346,7 +346,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Not to be heard before 1:00 PM - Tax Adjustment Agenda
 
@@ -354,7 +354,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Request for Items to be Referred to the Governance Working Group
 
@@ -365,9 +365,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Josh Morgan](/councillors/current/j-morgan)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Steve Hillier](/councillors/current/s-hillier), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Jesse Helmer](/councillors/former/j-helmer)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 

@@ -351,7 +351,7 @@ The meeting adjourned at 2:01 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. User-Pay Christmas Tree Pick Up - Councillor M. van Holst
 
@@ -362,7 +362,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+**Yea (2):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Maureen Cassidy](/councillors/former/m-cassidy)
 
 **Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
 
@@ -377,9 +379,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+**Yea (3):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/former/m-cassidy)
 
 **Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -389,7 +393,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.3. Removal of Trees on Runnymede Crescent - G. Martin
 
@@ -397,7 +401,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.4. (ADDED) "Right to Approve" Landfill Developments - R. Cory, Council of Canadians
 
@@ -405,7 +409,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.4. (ADDED) "Right to Approve" Landfill Developments - R. Cory, Council of Canadians
 
@@ -413,7 +417,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 5.1. Transportation Advisory Committee 2020 Work Plan - Feedback
 
@@ -421,7 +425,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 5.2. Cycling Advisory Committee 2020 Work Plan - Feedback
 
@@ -429,5 +433,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

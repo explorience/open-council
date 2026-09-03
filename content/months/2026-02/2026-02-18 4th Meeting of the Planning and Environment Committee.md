@@ -836,101 +836,6 @@ That the meeting BE ADJOUNRNED.
 The meeting adjourned at 5:09 PM.
 
 ****
-
----
-
-## Votes
-
-*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
-
-### 2.1. Update on Implementation Potential for Servicing Improvements using Housing Accelerator Funding
-
-> That the matter of the Pack Road Sewer Extension, as identified in the staff report titled Update on Implementation Potential for Servicing Improvements using Housing Accelerator Funding, BE REFERRED back to the Civic Administration to undertake further consultation with the affected landowner an...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. 1225 Westdel Bourne - Z-25163
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Cristina Ferro (c/o Zelinka Priamo Ltd.) relating to the property located at 1225 Westdel Bourne, the proposed by-law as appended to the staff report dated Febr...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. 746-774 Base Line Road East and 339-345 Westminster Avenue and 770 Base Line Road East - O-25156 and Z-25157
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of the Corporation of the City of London relating to the properties located at 746-774 Base Line Road East and 339-345 Westminster Avenue and 770 Base Line Road Ea...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.5. 550 Ridout Street North & 82-90 Kent Street - OZ-25152
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Ridout and Kent Block Inc. relating to the property located at 550 Ridout Street North & 82-90 Kent Street: a)    the attached by-law BE INTRODUCED at th...
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Peter Cuddy](/councillors/current/p-cuddy)
-
-</details>
-
-### 3.6. Additional Residential Unit Permissions - Z-25159
-
-> That, further to the direction of the Municipal Council, the following actions be taken with respect to the application by the City of London relating to additional residential unit permissions, the proposed by-law as appended to the staff report dated February 18, 2026, as Appendix “A” BE INTROD...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.7. Amendments to The London Plan
-
-> That, on the recommendation of the Director, Planning and Development, the proposed by-law as appended to the staff report dated February 18, 2026, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on March 3, 2026, to amend The London Plan, to ensure alignment with the Pr...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
-
-> That the Civic Administration BE DIRECTED to bring forward a zoning by-law amendment that includes the following: a)    make all necessary zoning by-law changes to establish an updated minimum parking requirement for all residential developments to a minimum of 1 parking space for each residentia...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
-
-> That the delegation request from M. Wallace, as appended to the added agenda, to be heard at this time.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
-
-> That a delegation from M.A. Hodge, be heard at this time.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.2. Budget Chair E. Peloza - Notice Distribution - South of Highway 401
-
-> That the Civic Administration BE DIRECTED to expand public notice circulation south of Highway 401, including but not limited to, construction notices, applications pursuant to the Planning Act, or studies pursuant to the Environmental Assessment Act, to include the three residential hamlets, loc...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -2077,3 +1982,67 @@ Thank you, everyone, for sticking around. And I look for a motion to adjourn. Be
 Motion carries. Thanks everyone.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2.1. Update on Implementation Potential for Servicing Improvements using Housing Accelerator Funding
+
+> That the matter of the Pack Road Sewer Extension, as identified in the staff report titled Update on Implementation Potential for Servicing Improvements using Housing Accelerator Funding, BE REFERRED back to the Civic Administration to undertake further consultation with the affected landowner an...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. 550 Ridout Street North & 82-90 Kent Street - OZ-25152
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Ridout and Kent Block Inc. relating to the property located at 550 Ridout Street North & 82-90 Kent Street: a)    the attached by-law BE INTRODUCED at th...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Peter Cuddy](/councillors/current/p-cuddy)
+
+</details>
+
+### 4.1. Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
+
+> That the Civic Administration BE DIRECTED to bring forward a zoning by-law amendment that includes the following: a)    make all necessary zoning by-law changes to establish an updated minimum parking requirement for all residential developments to a minimum of 1 parking space for each residentia...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
+
+> That the delegation request from M. Wallace, as appended to the added agenda, to be heard at this time.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
+
+> That a delegation from M.A. Hodge, be heard at this time.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Budget Chair E. Peloza - Notice Distribution - South of Highway 401
+
+> That the Civic Administration BE DIRECTED to expand public notice circulation south of Highway 401, including but not limited to, construction notices, applications pursuant to the Planning Act, or studies pursuant to the Environmental Assessment Act, to include the three residential hamlets, loc...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

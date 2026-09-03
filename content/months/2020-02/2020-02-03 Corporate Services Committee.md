@@ -170,6 +170,14 @@ The meeting adjourned at 12:16 PM.
 
 ### 4.1. Consideration of Appointment to the Advisory Committee on the Environment (Requires 4 Voting Members)
 
+> That the following individuals BE APPOINTED to the Advisory Committee on the Environment for the term ending June 30, 2021:     Robert Pate  Joseph Santarelli  Natalie Beauregard  Brennan Vogel
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Consideration of Appointment to the Advisory Committee on the Environment (Requires 4 Voting Members)
+
 > Appointments to vacancies on the Advisory Committee on the Environment
 
 **❌ Majority Winner: Beauregard, Natalie; Santarelli, Joseph; Vogel, Brennan; Pate, Robert 🔥**
@@ -177,15 +185,7 @@ The meeting adjourned at 12:16 PM.
 <details>
 <summary>View roll call</summary>
 
-**Absent (8):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer)
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
-
-### 4.1. Consideration of Appointment to the Advisory Committee on the Environment (Requires 4 Voting Members)
-
-> That the following individuals BE APPOINTED to the Advisory Committee on the Environment for the term ending June 30, 2021:     Robert Pate  Joseph Santarelli  Natalie Beauregard  Brennan Vogel
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
 

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T18:49:48.753Z",
+  "generatedAt": "2026-09-03T01:22:32.822Z",
   "note": "Motions dropped from the divided-vote universe because they aren't a genuine division, for one of two independently-checked reasons (see each motion's own 'reason' below): 'one-sided tally' means this motion's own recorded yeas or nays array is empty — derived straight from the vote arrays every run, regardless of what any classification pass flagged, so a lopsided result the source data's own 'unanimous' boolean doesn't cover (e.g. 0 yeas / 14 nays with one absence) is still caught. 'classify-flagged' means the classify pipeline's own verification pass flagged the motion 'not_divided' by hand — typically the exact same motion recorded twice under two different agenda item numbers, which would otherwise double-count one real decision; see verifierNote in data/election/classify/batch-*-verified.json for the specific reason. Never guessed at or silently kept.",
-  "count": 12,
+  "count": 14,
   "motions": [
     {
-      "id": "6c05cb59183e",
+      "id": "f76156fb1699",
       "date": "2026-02-23",
       "meetingSlug": "months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee",
       "itemNumber": "2.13",
@@ -18,7 +18,7 @@
       "verifierNote": "Verified full motion text: a BE REFERRED motion (travel/business expense policy) that itself Failed (0 to 5) -- decided nothing, and the subject matter (council administrative policy) is outside the 8 tracked issues in any case. Correctly excluded."
     },
     {
-      "id": "452cfbf9fcb9",
+      "id": "e776add73445",
       "date": "2025-11-12",
       "meetingSlug": "months/2025-11/2025-11-12 The 17th Meeting of the Planning and Environment Committee",
       "itemNumber": "3.6",
@@ -32,7 +32,7 @@
       "verifierNote": "REFUTED (issue). The clause permits home occupations to produce low-risk home-prepared foods and employ up to three non-resident staff — this is home-based-business/commercial-licensing regulation, not a housing-supply, density, or dwelling-type question. The housing/use-permission axis in direction-rules.ts is built around dwelling types (ADU, secondary suite, triplex, townhouse, laneway house) — a home food-business employment rule doesn't fit that concept even loosely; only the itemTitle's Z-25103 structural code triggers the housing classification here, over content that isn't really about housing at all. Downstream, tagging this a 'housing/restrictive' position for the unanimous nays would misrepresent what they voted against (permitting home food businesses to hire staff, not permitting more homes). Since the vote was unanimous (0-5), no comparative signal is lost by downgrading. axis/polarity set to null; issue left as housing per the documented code-pattern precedent but this entry should be treated as a genuine edge case in that rule."
     },
     {
-      "id": "3afb7e2cad1f",
+      "id": "dd1dd833fc1e",
       "date": "2025-08-26",
       "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
       "itemNumber": "8.1.16",
@@ -46,7 +46,7 @@
       "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
     },
     {
-      "id": "a1809ef17b5c",
+      "id": "d509b701e5cb",
       "date": "2025-08-26",
       "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
       "itemNumber": "8.2.19",
@@ -60,7 +60,7 @@
       "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
     },
     {
-      "id": "9527d4f73fa4",
+      "id": "17e41f8e291a",
       "date": "2025-06-09",
       "meetingSlug": "months/2025-06/2025-06-09 10th Meeting of the Community and Protective Services Committee",
       "itemNumber": "4.2",
@@ -71,10 +71,24 @@
         "yea": 0,
         "nay": 5
       },
-      "verifierNote": "Read full item 4.2 CPSC (Request for Update on 2021 Reaching Home, 0-5 Failed unanimous). Committee-stage version of the same pure report-back request verified at fc5d528ebd99 (Council stage). Correctly none/informational_ask."
+      "verifierNote": "Read full item 4.2 CPSC (Request for Update on 2021 Reaching Home, 0-5 Failed unanimous). Committee-stage version of the same pure report-back request verified at fc5d528ebd99 (superseded id) (Council stage). Correctly none/informational_ask."
     },
     {
-      "id": "31bd58f28e78",
+      "id": "118ca716ab4f",
+      "date": "2024-09-16",
+      "meetingSlug": "months/2024-09/2024-09-16 14th Meeting of the Corporate Services Committee",
+      "itemNumber": "2.6",
+      "itemTitle": "Standing Committees and Forums - Federation of Canadian Municipalities - Councillor S. Trosow",
+      "result": "Motion Failed (0 to 5)",
+      "reason": "one-sided tally",
+      "tally": {
+        "yea": 0,
+        "nay": 5
+      },
+      "verifierNote": null
+    },
+    {
+      "id": "7f926f81741a",
       "date": "2024-07-23",
       "meetingSlug": "months/2024-07/2024-07-23 13th Meeting of City Council",
       "itemNumber": "8.5.11",
@@ -88,7 +102,21 @@
       "verifierNote": "Verified vs item 8.5.11 block 0 (Failed 0-14): report-back request re: a Service London Portal request button for property-standards violations. (A different, passing motion in the same item creates an unrelated Yard and Lot Maintenance By-law request button -- not this record.) Correctly none/informational-ask, 'would have' tense correct."
     },
     {
-      "id": "95ba36df27f0",
+      "id": "f303ed387f89",
+      "date": "2024-06-04",
+      "meetingSlug": "months/2024-06/2024-06-04 11th Meeting of City Council",
+      "itemNumber": "8.2.15",
+      "itemTitle": "(2.12) Update and Next Steps for Gasoline Powered Lawn and Garden Equipment ",
+      "result": "Motion Failed (0 to 14)",
+      "reason": "one-sided tally",
+      "tally": {
+        "yea": 0,
+        "nay": 14
+      },
+      "verifierNote": null
+    },
+    {
+      "id": "42873919d000",
       "date": "2023-10-03",
       "meetingSlug": "months/2023-10/2023-10-03 16th Meeting of the Planning and Environment Committee",
       "itemNumber": "5.1",
@@ -96,10 +124,10 @@
       "result": "Motion Failed (2 to 2)",
       "reason": "classify-flagged",
       "tally": null,
-      "verifierNote": "Verified against 2023-10-03 PEC item 5.1, second motion (Failed 2-2). Confirmed the not_divided flag is accurate: this motion's text and vote (Yeas: Morgan/Franke; Nays: Lewis/Lehman) are byte-for-byte identical to 7cd53063b2f0's, recorded under two item numbers (4.1 and 5.1) for what is genuinely one motion moved once covering both items. Correctly null; flag correctly prevents downstream double-counting."
+      "verifierNote": "Verified against 2023-10-03 PEC item 5.1, second motion (Failed 2-2). Confirmed the not_divided flag is accurate: this motion's text and vote (Yeas: Morgan/Franke; Nays: Lewis/Lehman) are byte-for-byte identical to 7cd53063b2f0 (superseded id)'s, recorded under two item numbers (4.1 and 5.1) for what is genuinely one motion moved once covering both items. Correctly null; flag correctly prevents downstream double-counting."
     },
     {
-      "id": "aee92e872d3b",
+      "id": "e7cf784accc8",
       "date": "2023-09-12",
       "meetingSlug": "months/2023-09/2023-09-12 14th Meeting of the Community and Protective Services Committee",
       "itemNumber": "3.2",
@@ -113,7 +141,7 @@
       "verifierNote": "Verbatim referral of Vehicle for Hire By-law report. No tracked-issue keyword hit in body text; correctly issue=none."
     },
     {
-      "id": "c3af45aa8db7",
+      "id": "3e064e3441fd",
       "date": "2023-06-27",
       "meetingSlug": "months/2023-06/2023-06-27 12th Meeting of City Council",
       "itemNumber": "8.3.11",
@@ -124,10 +152,10 @@
         "yea": 0,
         "nay": 13
       },
-      "verifierNote": "Verified against the same item: the unique 0-13 FAILED result matches the reconsideration vote re-putting McAlister's appointment to Lower Thames Valley Conservation Authority. Same pure-appointment reasoning as 15ebb068b60b; override confirmed correct."
+      "verifierNote": "Verified against the same item: the unique 0-13 FAILED result matches the reconsideration vote re-putting McAlister's appointment to Lower Thames Valley Conservation Authority. Same pure-appointment reasoning as 15ebb068b60b (superseded id); override confirmed correct."
     },
     {
-      "id": "1a4209df6e71",
+      "id": "25d9f013ced1",
       "date": "2023-06-06",
       "meetingSlug": "months/2023-06/2023-06-06 11th Meeting of City Council",
       "itemNumber": "8.5.11",
@@ -141,7 +169,7 @@
       "verifierNote": "Proclamation-application referral back to Civic Administration for more information on the applicant's London connection -- a pure procedural non-decision (deferred, not approved or denied), unrelated to any of the 8 tracked issues by subject matter. Correctly issue=none, polarity null."
     },
     {
-      "id": "ffb201358ddc",
+      "id": "02666ef440aa",
       "date": "2023-04-25",
       "meetingSlug": "months/2023-04/2023-04-25 9th Meeting of City Council",
       "itemNumber": "8.4.10",
@@ -155,7 +183,7 @@
       "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
     },
     {
-      "id": "192cc16c866a",
+      "id": "bf0c3daee582",
       "date": "2023-01-26",
       "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
       "itemNumber": "4.3",

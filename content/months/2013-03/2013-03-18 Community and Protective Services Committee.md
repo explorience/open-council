@@ -275,7 +275,7 @@ The
 
 ## Votes
 
-*11 substantive votes at this meeting (11 contested, 0 unanimous). Procedural motions excluded.*
+*11 substantive votes at this meeting (0 contested, 11 unanimous). Procedural motions excluded.*
 
 ### 2. 3rd Report of the
   London Housing Advisory Committee
@@ -284,12 +284,7 @@ The
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 
 ### 3. 2nd Report of the
   London Diversity and Race Relations Advisory Committee
@@ -298,12 +293,7 @@ The
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 
 ### 4. 2nd Report of the
   Community Safety and Crime Prevention Advisory Committee.
@@ -312,12 +302,7 @@ The
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 
 ### 5. 2nd Report of the Accessibility
   Advisory Committee
@@ -326,12 +311,7 @@ The
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 
 ### 6. City of London and
   London District Catholic School Board Liaison Committee
@@ -340,12 +320,7 @@ The
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 
 ### 7. Automatic Aid
   Agreement with Central Elgin
@@ -354,12 +329,7 @@ The
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 
 ### 8. Policy Regarding
   the Use of Inflatable Amusement Devices During Rentals of City Parks or Other
@@ -369,12 +339,7 @@ The
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Social Assistance
   Review Commission Report: "Brighter Prospects: Transforming Social
@@ -384,12 +349,7 @@ The
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 
 ### 10. London Taxicab
   Owners' and Drivers' Group Inc. Application to the Ontario Superior Court of
@@ -397,14 +357,9 @@ The
 
 > 
 
-**❌  🔥**
+**❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (2-0)
 
 ### 11. 4th Report of the
   Animal Welfare Advisory Committee
@@ -413,12 +368,7 @@ The
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 
 ### 12. 2013-2016 Service
   Accountability Agreement between The Corporation of the City of London
@@ -428,10 +378,5 @@ The
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 

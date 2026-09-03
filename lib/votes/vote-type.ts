@@ -98,6 +98,85 @@ export function isMotionTextTruncated(motionText: string | undefined | null): bo
   return motionText.length === LEGACY_UNMARKED_TRUNCATION_LENGTH
 }
 
+/**
+ * Does this roll call have recorded, attributable dissent - "at least one
+ * resolvable Nay for this motion"? THE shared signal (issue #199 final
+ * verify, punch list item 2): generate-votes.ts and generate-stats.ts
+ * each need this, from different-shaped data, and must reach the SAME
+ * boolean for the same roll call or their published motion counts
+ * diverge.
+ *
+ * generate-votes.ts already computes it directly from the aggregated
+ * per-motion voter lists (`motion.nays.length > 0`) - it has the real
+ * list, so it doesn't call this helper. generate-stats.ts only has one
+ * councillor's own VoteRecord (unanimous/unanimousSource), not the full
+ * per-motion nays list, so it calls this to derive the identical answer
+ * from those two fields:
+ *
+ *   - `unanimousSource: "tally"` (2018+, or any record with a machine-
+ *     readable "(N to M)" result): the tally IS the nay count, so
+ *     `!unanimous` <=> `nays.length > 0` exactly - no approximation.
+ *   - `unanimousSource: "votes"` (pre-2018 only): by construction this is
+ *     set exactly when a resolvable Nay was found (see generate-votes.ts's
+ *     parseResult()), so it already means `nays.length > 0`.
+ *   - `unanimousSource: "unresolved"` or `"unknown"`: NOT confirmed,
+ *     attributable dissent (either the row was demoted as garbled/
+ *     unresolvable text, or there's no dissent signal at all) - `false`
+ *     either way, even though `unanimous` is `false` for "unresolved".
+ *
+ * Before this shared helper, generate-stats.ts passed
+ * `unanimousSource === "votes"` alone - correct for pre-2018 but NEVER
+ * true for a 2018+ eSCRIBE record (whose unanimousSource is always
+ * "tally"), which silently classified every genuinely divided 2018+
+ * motion whose text also matched a boilerplate pattern (first/second/
+ * third reading, consent items, closed session, "be received") as
+ * procedural - 1,046 motions, 2018-2026, that data/votes correctly called
+ * substantive.
+ */
+export function hasRecordedDissent(
+  unanimousSource: "tally" | "votes" | "unresolved" | "unknown" | undefined,
+  unanimous: boolean
+): boolean {
+  if (unanimousSource === "votes") return true
+  if (unanimousSource === "tally") return !unanimous
+  return false
+}
+
+/**
+ * Check if a motion is procedural (routine/administrative) vs substantive.
+ *
+ * `hasResolvableDissent` gates the whole check: a motion with a recorded,
+ * resolvable Nay voter is never procedural, no matter what its text
+ * matches. Compound substantive motions routinely contain a clause like
+ * "...be received" alongside real, contested content (68/51/71 genuinely
+ * divided motions were wrongly excluded this way in 2019/2020/2021 - see
+ * issue #199 d4); recorded dissent is decisive evidence the motion was
+ * substantive.
+ *
+ * SINGLE SOURCE OF TRUTH (issue #199 punch list item 2): scripts/generate-
+ * votes.ts and scripts/generate-stats.ts each carried their own copy of
+ * this function, textually identical but fed a DIFFERENT
+ * `hasResolvableDissent` argument at their respective call sites - see
+ * hasRecordedDissent() above for the shared signal generate-stats.ts now
+ * passes, and generate-votes.ts's `motion.nays.length > 0` for the
+ * equivalent it computes directly from the full per-motion nays list.
+ */
+export function isProcedural(motionText: string | undefined, hasResolvableDissent: boolean): boolean {
+  if (hasResolvableDissent) return false
+  if (!motionText) return false
+  const text = motionText.toLowerCase()
+  return (
+    /be received/i.test(text) ||
+    /be noted/i.test(text) ||
+    /minutes.*be approved/i.test(text) ||
+    /be adjourned/i.test(text) ||
+    /closed session/i.test(text) ||
+    /public participation meeting/i.test(text) ||
+    /first reading|second reading|third reading/i.test(text) ||
+    /consent items/i.test(text)
+  )
+}
+
 /** Human-readable label for a VoteType, used in chatbot-facing text. */
 export function voteTypeLabel(voteType: VoteType): string {
   switch (voteType) {

@@ -1525,133 +1525,6 @@ e)        clauses 1.1, 2.1 and 2.2, inclusive, 4.1, 4.2 and 4.4, BE RECEIVED
 
 
 The meeting adjourned at 8:40 PM.
-
----
-
-## Votes
-
-*14 substantive votes at this meeting (1 contested, 13 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.6, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. 349 Southdale Road East - (Z-9308 / 39CD-20501)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Incon Developments Ltd., relating to the lands located at 349 Southdale Road East: a) the proposed by-law appended to the staff report dated May 31, 2021 as Appendi...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. 1752 – 1754 Hamilton Road
-
-> That, on the recommendation of the Director, Development Services, based on the application by Connor Wilks c/o Thames Village Joint Venture Group, relating to the lands located at 1752 – 1754 Hamilton Road, the proposed by-law appended to the staff report dated May 31, 2021 as Appendix ‘A’ BE IN...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. Request to Remove Properties from the Register of Cultural Heritage Resources
-
-> That, on the recommendation of the Director, City Planning and City Planner, with the advice of the Heritage Planner, the following properties BE REMOVED from the Register of Cultural Heritage Resources: a) 1033-1037 Dundas Street   b) 1 Kennon Place   c) 19 Raywood Avenue   d) 32 Wellington Road...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. 16 Wethered Street North - (Z-9309)
-
-> That, the following actions be taken with respect to the application by 2445727 Ontario Inc. (Phil Pattyn), relating to the property located at 16 Wethered Street: a)  the application by 2445727 Ontario Inc. (Phil Pattyn), relating to the property located at 16 Wethered Street BE REFERRED back to...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.5. Demolition Request for Garage on Heritage Listed Property - 325 Victoria Street
-
-> That, on the recommendation of the Director, Development Services, with the advice of the Heritage Planner, the request to demolish the garage on the heritage designated property at 325 Victoria Street BE PERMITTED, and the Chief Building Official BE ADVISED of Municipal Council’s intention in th...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.6. 135 Villagewalk Boulevard – (SPA18-067)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 2560334 Ontario Limited, relating to the property located at 135 Villagewalk Boulevard: a) the Approval Authority BE ADVISED that no issues were raised at the publi...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.7. Demolition Request for Heritage Listed Property - 126 Price Street
-
-> That, on the recommendations of the Director, City Planning and City Planner, with the advice of the Heritage Planner, with respect to the demolition request for the existing dwelling on the heritage listed property at 126 Price Street, the following actions be taken: a) the Chief Building Offici...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.8. 1697 Highbury Avenue North - (Z-9302)
-
-> That, on the recommendation of the Director, Development Services, based on the application by Habitat for Humanity Heartland Ontario Inc., relating to the property located at 1697 Highbury Avenue North, the proposed by-law appended to the staff report dated May 31, 2021 as Appendix "A" BE INTROD...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.9. 1634 – 1656 Hyde Park Road, 1480 North Routledge Park and Part of 1069 Gainsborough Road – (Z-9301)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1630 HP Inc., relating to the property located at 1634 – 1656 Hyde Park Road, 1480 North Routledge Park and Part of 1069 Gainsborough Road: a) the proposed by-law a...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.10. Public Participation Meeting - Not to be heard before 5:30 PM – 435-451 Ridout Street North - (OZ-9157)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Farhi Holdings Corporation, relating to the property located at 435-451 Ridout Street North: a) consistent with Policy 19.1.1. of the Official Plan for the City of ...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
-
-</details>
-
-### 4.1. 5th Report of the London Advisory Committee on Heritage
-
-> That, the following actions be taken with respect to the 5th Report of the London Advisory Committee on Heritage from its meeting held on May 12, 2021:    a) M. Corby, Senior Planner, BE ADVISED of the following comments from the London Advisory Committee on Heritage (LACH) with respect to the No...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 5.1. Deferred Matters List
-
-> That the Deputy City Manager, Planning and Economic Development BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 5.2. (ADDED) 4th Report of the Trees and Forests Advisory Committee
-
-> That the following actions be taken with respect to the 4th Report of the Trees and Forests Advisory Committee, from its meeting held on May 26, 2021:    a)        the Educational Initiatives and Outreach Sub-Committee recommendations, appended to the Trees and Forests Advisory Committee (TFAC) A...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -1722,3 +1595,67 @@ Thomas all of those places have used heritage to their advantage to make the str
 chair michael tom is into here perhaps i'll start and maybe some of my colleagues can join in uh right now there's nothing on the docket for uh harris park secondary plan i think what made victoria park a little bit unique was that all four sides of the park had an absolute different policy framework and then there was nothing um comprehensive that would tie the development around the park something that would tie it all together yeah the the uh harris park right now is surrounded by downtown on on uh one side and and um black friars on the other side and so black friars is largely a floodplain in a heritage conservation district and then downtown has policies that talk about intensification and also an hcd so i'm not sure the same context applies but um i hope that at least provides a little bit of context thank you counselor no that's fine um but i will say i told you so if it comes up in a year or two because that's what i said was the victoria park had a secondary plan being developed thank you mr. chair you would never say i told you so would you counselor that was a that was a rhetorical question counselor constant um any other comments on this before we uh counselor van holst brave enough to weigh in go ahead thank you i just want to say through you mr. chair that i'm pleased to see the development has both preservation and progress so i i think we'll be able to look at the the old buildings and appreciate them for what they were and uh in the same vista say look how far we've come thank you any other comments before i call the vote all right the staff recommendations moved and seconded i'll call the vote closing the vote the motion carries four to one um and i just want to say again that staff uh decisions and the issues or arrays were were very well well done i also want to again commend the public who weighed in i uh understand some people may be disappointed this matter will come to council and i i think my colleagues have said there'll be a a very lengthy debated council are quite correct and we'll we'll see what happens then so thank you again everyone for attending um the next matter that we have is the fifth report of the london this is on dr items for directions fifth report of london advisory committee on heritage um the matters that related to the particular development step and remove so uh i just need someone to move and second that report moving seconded by counselor layman comments counselor opkins did you wish to comment yeah i do i i just uh want to um just make a comment about uh that we're endorsing the nomination of the libat memorial park is a national historical site canada absolutely that's ball park in canada i have to say um any other comments or questions and i'll call the vote closing the vote the motion carries five to zero and the next matter is of the advisory committee on the environment is somebody prepared to move and second that like counselor opkins you're i can always count on you counselor opkins when no one else will move seconded by counselor halia any uh comments or questions then i'll call the vote closing the vote the motion carries five to zero and moves in additional business the item five point one is the deferred matters list is somewhere prepared to move in seconds that moved by counselor layman seconded by counselor louis any comments or questions then i'll call the vote closing the vote the motion carries five to zero and the final matter is item five point two which is the fourth report of the trees and forest advisory committee i just need someone to move or seed and file move by counselor louis seconded by counselor halia any comments or questions then i'll call the vote closing the vote the vote just need someone to move and second to german move by counselor seconded by counselor halia counselor morgan is in attendance with one of his favorite constituents don't know if they voted for him and i unless there's anything further i'll call the vote do it by hand i just want to apologize again for my week start to the meeting i hope i did better as we went along i have no idea what's going on i think if the mayor's not here i do much better so maybe we can maybe we can work on that have a great evening thanks very much for all the work you did that's a very efficient meeting to get that done by about twenty to nine have a great night thanks mr kara
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.9. 1634 – 1656 Hyde Park Road, 1480 North Routledge Park and Part of 1069 Gainsborough Road – (Z-9301)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1630 HP Inc., relating to the property located at 1634 – 1656 Hyde Park Road, 1480 North Routledge Park and Part of 1069 Gainsborough Road: a) the proposed by-law a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.10. Public Participation Meeting - Not to be heard before 5:30 PM – 435-451 Ridout Street North - (OZ-9157)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Farhi Holdings Corporation, relating to the property located at 435-451 Ridout Street North: a) consistent with Policy 19.1.1. of the Official Plan for the City of ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
+
+</details>
+
+### 4.1. 5th Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 5th Report of the London Advisory Committee on Heritage from its meeting held on May 12, 2021:    a) M. Corby, Senior Planner, BE ADVISED of the following comments from the London Advisory Committee on Heritage (LACH) with respect to the No...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. Deferred Matters List
+
+> That the Deputy City Manager, Planning and Economic Development BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.2. (ADDED) 4th Report of the Trees and Forests Advisory Committee
+
+> That the following actions be taken with respect to the 4th Report of the Trees and Forests Advisory Committee, from its meeting held on May 26, 2021:    a)        the Educational Initiatives and Outreach Sub-Committee recommendations, appended to the Trees and Forests Advisory Committee (TFAC) A...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

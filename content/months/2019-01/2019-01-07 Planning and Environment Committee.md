@@ -785,7 +785,7 @@ The meeting adjourned at 10:20 PM.
 
 ## Votes
 
-*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -793,7 +793,7 @@ The meeting adjourned at 10:20 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.1. 1st Report of the London Advisory Committee on Heritage
 
@@ -801,7 +801,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.3. Application - 852 Commissioners Road East
 
@@ -809,7 +809,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.5. Bill 66, "Restoring Ontario's Competitiveness Act 2018"
 
@@ -820,11 +820,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
 
-**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+**Nay (1):** [Phil Squire](/councillors/former/p-squire)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -834,7 +834,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.7. Candidate Approval for the Urban Design Peer Review Panel
 
@@ -842,15 +842,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. Public Participation Meeting - Application - 2475, 2506, 2555 Bonder Road, 2535 Advanced Avenue, 2575 Boyd Court (Z-8949)
-
-> That, on the recommendation of the Director, Development Services, with respect to the application by The Corporation of the City of London, Fanshawe College, Western University, relating to the properties located at 2475, 2506, 2555 Bonder Road, 2535 Advanced Avenue, 2575 Boyd Court,the proposed...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.2. Public Participation Meeting - Application - 470 Colborne Street (OZ-8948)
 
@@ -858,13 +850,22 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
-### 3.3. Public Participation Meeting - Application - 2835 Sheffield Place - Zoning By-law Amendment - Revisions to Draft Plan of Subdivision - Draft Plan of Vacant Land Condominium (Z-8793 / 39T-09502 / 39CD-18502)
+### 3.6. Public Participation Meeting - Application - 536 and 542 Windermere Road (Z-8945)
 
-> That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the lands located at 2835 Sheffield Place (also known as Block 153 within the Victoria on the River Draft Plan of Subdi...
+> That the application of 2492222 Ontario Inc., relating to the properties located at 536 and 542 Windermere Road BE REFERRED to the Civic Administration for further review taking into consideration the concerns raised by the community and report back to a future public participation meeting before...
 
-**✅ Motion Passed (5 to 0)**
+**✅ Motion Passed (4 to 1) 🔥**
 
-Unanimous (3-0)
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
+
+</details>
 

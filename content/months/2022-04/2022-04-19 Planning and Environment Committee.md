@@ -812,98 +812,6 @@ None.
 
 
 The meeting adjourned at 7:50 PM.
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (2 contested, 7 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.8, inclusive,  BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. 520 Sarnia Road (OZ-9432)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Horizen Developments LP, relating to the property located at 520 Sarnia Road: a) the proposed by-law appended to the staff report dated April 19, 2022 as Append...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. 551 - 555 Waterloo Street (Z-9372)
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the application of David Russel relating to the property located at 551-555 Waterloo Street, the attached, revised, proposed by-law (Appendix "A") BE INTRODUCED at the Municipal Council meeting to be held on Ma...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. Tow Truck / Impound Yard Zoning By-law Review (Z-9428)
-
-> That, on the recommendation of the Director, Planning and Development, based on the zoning review initiated by The Corporation of the City of London, relating to all lands within the City of London, the proposed by-law appended to the staff report dated April 19, 2022 as Appendix "A" BE INTRODUCE...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. 1521 Sunningdale Road West and 2631 Hyde Park Road (39T-21056)
-
-> That an extension of time for the delegation of L. Regnier BE GIVEN.
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 3.5. 1284 Sunningdale Road West (Z-9548)
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the application of Thames Valley District School Board relating to lands located at 1284 Sunningdale Road West, the attached, revised, proposed by-law (Appendix ‘A’) BE INTRODUCED at the Municipal Council meeti...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
-
-</details>
-
-### 4.1. Urban Agriculture Strategy - 2021 Annual Report
-
-> That, the Civic Administration BE REQUESTED to report back at a future meeting of the appropriate Standing Committee, including but not limited to, the following related to the Urban Agriculture Strategy, : a)    a clear process to apply to use city-owned land for urban agriculture; b)    an inve...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. Urban Agriculture Strategy - 2021 Annual Report
-
-> Motion to approve the delegation request for L. Thorne, Urban Agriculture Steering Committee.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.2. Mayor Holder - UNESCO Designation - London is Canada's 'City of Music'
-
-> That the following actions be taken with respect to London's UNESCO designation as Canada's 'City of Music': a)  the Civic Administration BE DIRECTED to report back, in a timely manner, on specific geographical borders for a Core Area Entertainment District, while also defining what such a Distri...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
 ---
 
 ## Full Transcript
@@ -1928,3 +1836,99 @@ And I'm looking at committee to adjourn. Councillor Lewis, seconded by Councillo
 Thank you. The motion carries 4 to 0. Thanks, everyone.
 
 </details>
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (3 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.8, inclusive,  BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.1. 520 Sarnia Road (OZ-9432)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Horizen Developments LP, relating to the property located at 520 Sarnia Road: a) the proposed by-law appended to the staff report dated April 19, 2022 as Append...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.4. 1521 Sunningdale Road West and 2631 Hyde Park Road (39T-21056)
+
+> That, further to the direction from Municipal Council on October 5, 2021 to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Low Density Residential and Environmental Review designation and to amend The London Plan to change the Place Type...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Stephen Turner](/councillors/former/s-turner)
+
+</details>
+
+### 3.4. 1521 Sunningdale Road West and 2631 Hyde Park Road (39T-21056)
+
+> That an extension of time for the delegation of L. Regnier BE GIVEN.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Stephen Turner](/councillors/former/s-turner)
+
+</details>
+
+### 3.5. 1284 Sunningdale Road West (Z-9548)
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the application of Thames Valley District School Board relating to lands located at 1284 Sunningdale Road West, the attached, revised, proposed by-law (Appendix ‘A’) BE INTRODUCED at the Municipal Council meeti...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Stephen Turner](/councillors/former/s-turner)
+
+</details>
+
+### 4.1. Urban Agriculture Strategy - 2021 Annual Report
+
+> That, the Civic Administration BE REQUESTED to report back at a future meeting of the appropriate Standing Committee, including but not limited to, the following related to the Urban Agriculture Strategy, : a)    a clear process to apply to use city-owned land for urban agriculture; b)    an inve...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Urban Agriculture Strategy - 2021 Annual Report
+
+> Motion to approve the delegation request for L. Thorne, Urban Agriculture Steering Committee.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Mayor Holder - UNESCO Designation - London is Canada's 'City of Music'
+
+> That the following actions be taken with respect to London's UNESCO designation as Canada's 'City of Music': a)  the Civic Administration BE DIRECTED to report back, in a timely manner, on specific geographical borders for a Core Area Entertainment District, while also defining what such a Distri...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

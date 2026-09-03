@@ -36,24 +36,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 2640,
-    "yeas": 2432,
-    "nays": 208,
+    "totalVotes": 3163,
+    "yeas": 2952,
+    "nays": 211,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 92.12121212121212,
-    "contestedDissentRate": 9.962121212121213,
-    "contestedVotes": 2640,
-    "substantiveVotes": 2636,
-    "substantiveYeas": 2429,
-    "substantiveNays": 207,
+    "yeaRate": 93.3291179260196,
+    "contestedDissentRate": 27.46666666666667,
+    "contestedVotes": 750,
+    "substantiveVotes": 2851,
+    "substantiveYeas": 2640,
+    "substantiveNays": 211,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 92.14719271623673
+    "substantiveYeaRate": 92.59908803928447
   },
   "budgetVoting": {
-    "totalBudgetVotes": 762,
-    "budgetYeas": 651,
-    "budgetNays": 111,
+    "totalBudgetVotes": 458,
+    "budgetYeas": 415,
+    "budgetNays": 43,
     "budgetAbsent": 0
   },
   "topAlignments": [],
@@ -71,47 +71,56 @@
     {
       "date": "2014-09-30",
       "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+      "motionText": "That, the application of 1849259 Ontario\n  Inc., relating to the property located at 1300 Fanshawe Park Road East BE\n  REFUSED as the Municipal Council does not believe that a  special policy to\n  per...",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
+      "motionText": "Approve that, on\n  the recommendation of the Managing Director, Planning and City Planner, the\n  following actions be taken with respect to the application of 1849259 Ontario\n  Inc., relating to the p...",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+      "motionText": "At 6:08 PM Her Worship the Mayor resumes\n  the Chair, and Councillor P. Hubert takes his seat at the Council Board.",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
+      "motionText": "Motion Passed",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
       "itemTitle": "By-law Amendments\n  for Expanded Animal Welfare Initiatives",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-09-30",
-      "meetingTitle": "MINUTES 23RD MEETING",
-      "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
-      "motionText": "Motion Failed",
+      "motionText": "That the following actions be taken to\n  amend various City of London by-laws in order to support enhanced animal care\n  strategies and implement the Municipal Council’s first principle of “no kill”\n ...",
       "vote": "yea",
       "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-30",
       "meetingTitle": "MINUTES 23RD MEETING",
-      "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
-      "motionText": "Motion Passed",
+      "itemTitle": "By-law Amendments\n  for Expanded Animal Welfare Initiatives",
+      "motionText": "Approve that, on the recommendation\n  of the Managing Director, Development & Compliance Services and the Chief\n  Building Official, the following actions be taken to amend various City of\n  London by...",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-09-30",
-      "meetingTitle": "MINUTES 23RD MEETING",
-      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
-      "motionText": "Motion Failed",
-      "vote": "yea",
-      "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-09-30",
-      "meetingTitle": "MINUTES 23RD MEETING",
-      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-23",
@@ -126,43 +135,34 @@
       "date": "2014-09-16",
       "meetingTitle": "MINUTES 22ND MEETING",
       "itemTitle": "COMMITTEE\n  OF THE WHOLE, IN CAMERA",
-      "motionText": "Motion Failed",
+      "motionText": "Approve clause 2, as amended.",
       "vote": "yea",
       "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-02",
       "meetingTitle": "MINUTES 21ST MEETING",
       "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
-      "motionText": "Motion Failed",
+      "motionText": "Approve that pursuant section 13.6 of the\n  Council Procedure By-law that the proposed amendment to part a) of clause 22\n  BE RECONSIDERED to provide all Members of Council an opportunity to vote on t...",
       "vote": "yea",
       "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-07-28",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Appointments to the\n  London Public Library, 2014 - Term December 1, 2014 to November 30, 2018",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1223,
-      "yeas": 1151,
-      "nays": 72,
+      "totalVotes": 2217,
+      "yeas": 2056,
+      "nays": 161,
       "participationRate": 100
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 836,
-      "yeas": 711,
-      "nays": 125,
+      "totalVotes": 365,
+      "yeas": 326,
+      "nays": 39,
       "participationRate": 100
     },
     {

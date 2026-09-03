@@ -1999,262 +1999,6 @@ The meeting adjourned at 4:53 PM.
 > **Bill No. 94**
 > 
 > By-law No. DR-109-110 - A by-law to provide for Drainage Works in the City of London (Construction of the Gold Seal & Fournie Municipal Drains)  (Court of Revision / 3.2/4/CWC)  (Third Reading Only)
-
----
-
-## Votes
-
-*20 substantive votes at this meeting (10 contested, 10 unanimous). Procedural motions excluded.*
-
-### 8.1. 6th Report of the Planning and Environment Committee
-
-> That the 6th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 4 (3.2), 5 (3.3), and 6 (3.4).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.1.4. (3.2) 634 Commissioners Road West - (Z-9708) (Relates to Bill No. 151)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Royal Premier Homes (c/o Sivik Planning and Design), relating to the property located at 634 Commissioners Road West: a)    the proposed by-law appended to the ...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
-
-> That the motion be amended to include new part c) iii) to read as follows: iii)   to consult with Middlesex-London Paramedic Service regarding traffic mitigation measures in the vicinity as part of site plan approval;
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
-
-> That the motion be amended to include new part c) iv) to read as follows: iv)   to study the issue of “filtered-permeability” with respect to mitigating the effects of cut-through traffic resulting from the opening of Beaverbrook Avenue and Westfield Drive and that this item be placed on a future...
-
-**❌ Motion Failed (4 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
-
-> That the motion be amended to include the following: That it BE FURTHER NOTED that through this application residents, businesses owners and community members raised concerns about ongoing traffic issues, movement of ambulances and the need for traffic planning in this area to address increased d...
-
-**❌ Motion Failed (6 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
-
-> That item 5, clause 3.3, as amended, BE APPROVED. At 2:12 PM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair. At 2:15 PM, His Worship Mayor J. Morgan resumes the Chair.
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.1.6. (3.4) Byron Gravel Pit Secondary Plan (Relates to Bill No. 133)
-
-> That the motion be amended to include a new part c) to read as follows: c)    the Civic Administration BE DIRECTED to ensure that future background studies supporting the development of a Park Master Plan for the Byron gravel pit investigate the creation and inclusion of artificial habitat or an ...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.1.6. (3.4) Byron Gravel Pit Secondary Plan (Relates to Bill No. 133)
-
-> That parts a) ix) and x) BE APPROVED: ix) AMEND Schedule 1 from 18 storeys with an upper maximum of 22 storeys; and,  x) AMEND Schedule 1 from 25% affordable housing to 10% to 15% affordable housing;
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.1.6. (3.4) Byron Gravel Pit Secondary Plan (Relates to Bill No. 133)
-
-> That the balance of item 6, clause 3.4, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2. 7th Report of the Corporate Services Committee
-
-> That the 7th Report of the Corporate Services Committee BE APPROVED, with the exception of items 6 (2.1) and 7 (2.2).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2.6. (2.1) Expropriation of Lands - East London Link Project Phase 4 (Relates to Bill No. 134)
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Eas...
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman)
-
-</details>
-
-### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
-
-> That the motion be amended to include the following: it being noted that the Mayor be requested to use a one time draw of $3.5M from the Community Investment Reserve Fund to offset the 2025 increased tax rate. At 3:26 PM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair.   At...
-
-**❌ Motion Failed (5 to 9)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
-
-> That, notwithstanding the Council Procedure By-law, the motion BE REFERRED to a future meeting of Strategic Priorities and Policy Committee for consideration; it being noted that the communication as appended to the Added Council Agenda, from the Board of Directions, London Convention Centre Corp...
-
-**❌ Motion Failed (3 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
-
-> That the motion be amended to include a new part d) to read as follows: d)    the allocation of RBC Place London’s 2023 year-end surplus to the RBC London Place Renewal Reserve Fund ($250,000) and RBC Place London Operational Reserve ($158,769) BE APPROVED; it being noted that the communication a...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
-
-> That the motion, without part d), as amended, BE APPROVED.
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
-
-> That part d) of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.3. 6th Report of the Civic Works Committee
-
-> That the 6th Report of the Civic Works Committee, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4. 8th Report of the Strategic Priorities and Policy Committee
-
-> That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 3 (2.1) and 5 (5.1).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.5. (5.1) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
-
-> That the following actions be taken with respect to establishing a secondary school student transit pass pilot project:  a)  the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames ...
-
-**✅ Motion Passed (8 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (6):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 9.1. 8th Special Report of the Corporate Services Committee
-
-> That the 8th Special Report of the Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -3183,3 +2927,379 @@ I'll look for someone to move that. Councillor Ferra, seconded by Councillor Fra
 No, motion carries. All right, we're adjourned. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*27 substantive votes at this meeting (17 contested, 10 unanimous). Procedural motions excluded.*
+
+### 8.1. 6th Report of the Planning and Environment Committee
+
+> That the 6th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 4 (3.2), 5 (3.3), and 6 (3.4).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.4. (3.2) 634 Commissioners Road West - (Z-9708) (Relates to Bill No. 151)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Royal Premier Homes (c/o Sivik Planning and Design), relating to the property located at 634 Commissioners Road West: a)    the proposed by-law appended to the ...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
+
+> That the motion be amended to include new part c) iii) to read as follows: iii)   to consult with Middlesex-London Paramedic Service regarding traffic mitigation measures in the vicinity as part of site plan approval;
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
+
+> That the motion be amended to include new part c) iv) to read as follows: iv)   to study the issue of “filtered-permeability” with respect to mitigating the effects of cut-through traffic resulting from the opening of Beaverbrook Avenue and Westfield Drive and that this item be placed on a future...
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
+
+> That the motion be amended to include the following: That it BE FURTHER NOTED that through this application residents, businesses owners and community members raised concerns about ongoing traffic issues, movement of ambulances and the need for traffic planning in this area to address increased d...
+
+**❌ Motion Failed (6 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
+
+> That item 5, clause 3.3, as amended, BE APPROVED. At 2:12 PM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair. At 2:15 PM, His Worship Mayor J. Morgan resumes the Chair.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.1.6. (3.4) Byron Gravel Pit Secondary Plan (Relates to Bill No. 133)
+
+> That the motion be amended to include a new part c) to read as follows: c)    the Civic Administration BE DIRECTED to ensure that future background studies supporting the development of a Park Master Plan for the Byron gravel pit investigate the creation and inclusion of artificial habitat or an ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.6. (3.4) Byron Gravel Pit Secondary Plan (Relates to Bill No. 133)
+
+> That parts a) ix) and x) BE APPROVED: ix) AMEND Schedule 1 from 18 storeys with an upper maximum of 22 storeys; and,  x) AMEND Schedule 1 from 25% affordable housing to 10% to 15% affordable housing;
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.1.6. (3.4) Byron Gravel Pit Secondary Plan (Relates to Bill No. 133)
+
+> That the balance of item 6, clause 3.4, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2. 7th Report of the Corporate Services Committee
+
+> That the 7th Report of the Corporate Services Committee BE APPROVED, with the exception of items 6 (2.1) and 7 (2.2).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.6. (2.1) Expropriation of Lands - East London Link Project Phase 4 (Relates to Bill No. 134)
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Eas...
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
+
+> That the motion be amended to include the following: it being noted that the Mayor be requested to use a one time draw of $3.5M from the Community Investment Reserve Fund to offset the 2025 increased tax rate. At 3:26 PM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair.   At...
+
+**❌ Motion Failed (5 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
+
+> That, notwithstanding the Council Procedure By-law, the motion BE REFERRED to a future meeting of Strategic Priorities and Policy Committee for consideration; it being noted that the communication as appended to the Added Council Agenda, from the Board of Directions, London Convention Centre Corp...
+
+**❌ Motion Failed (3 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
+
+> That the motion be amended to include a new part d) to read as follows: d)    the allocation of RBC Place London’s 2023 year-end surplus to the RBC London Place Renewal Reserve Fund ($250,000) and RBC Place London Operational Reserve ($158,769) BE APPROVED; it being noted that the communication a...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
+
+> That the motion, without part d), as amended, BE APPROVED.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
+
+> That part d) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3. 6th Report of the Civic Works Committee
+
+> That the 6th Report of the Civic Works Committee, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4. 8th Report of the Strategic Priorities and Policy Committee
+
+> That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 3 (2.1) and 5 (5.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.3. (2.1) Whole of Community System Response - Quarterly Update April
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the report dated April 16, 2024, regarding Whole of Community System Response – Quarterly Report, BE RECEIVED for information.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.4.5. (5.1) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
+
+> That the following actions be taken with respect to establishing a secondary school student transit pass pilot project:  a)  the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames ...
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 9.1. 8th Special Report of the Corporate Services Committee
+
+> That the 8th Special Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No. 132 and Bill No.152, BE APPROVED.
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No. 132 and Bill No.152, BE APPROVED.
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 132 and Bill No.152, BE APPROVED.
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No. 134, BE APPROVED.
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No. 134, BE APPROVED.
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 134, BE APPROVED.
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+

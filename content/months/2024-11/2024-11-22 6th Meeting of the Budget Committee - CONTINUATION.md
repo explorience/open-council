@@ -612,213 +612,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:04 PM.
 
 ****
-
----
-
-## Votes
-
-*13 substantive votes at this meeting (11 contested, 2 unanimous). Procedural motions excluded.*
-
-### 3.1. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
-
-> That the Mayor’s 2025 Annual Budget Update BE AMENDED to adjust Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements from $827,000 of Parks Operating Expenditures to $808,000, with...
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 3.2. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Improving Safety/Security, Property Damage Grants and Crime Prevention
-
-> That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Economic Development Reserve Fund, to the London Downtown Business Association for the purpose of supporting businesses, such as improving safety/security, property damage grants, an...
-
-**❌ Motion Failed (6 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 3.3. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Graffiti Removal, Power Washing, Expanded Street Cleaning and Beautification and Maintenance
-
-> That the motion be amended, to read as follows: That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and maintenance,...
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 3.3. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Graffiti Removal, Power Washing, Expanded Street Cleaning and Beautification and Maintenance
-
-> That the motion be further amended, to read as follows: That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and main...
-
-**❌ Motion Failed (2 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil)
-
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 3.3. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Graffiti Removal, Power Washing, Expanded Street Cleaning and Beautification and Maintenance
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 4.1. Middlesex-London Health Unit 2025 Funding Request
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: b)    the Civic Administration BE DIRECTED to fund the City of London’s increased share of $226,954 for 2025 from the Operating Budget Contingency Reserve.
-
-**✅ Motion Passed (8 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 4.1. Middlesex-London Health Unit 2025 Funding Request
-
-> That the Budget Committee recess at this time for 30 minutes
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 5.2. Amendment – Business Case #P-46 - Councillor S. Stevenson
-
-> That the motion be amended to read as follows: That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing by $500,000 the additional annual contribution to the Economic Development Reserve Fund included in 2024-2027 Multi-Year Budget Business Case #P-46 – Economic and Partnerships Initiati...
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 5.2. Amendment – Business Case #P-46 - Councillor S. Stevenson
-
-> That the motion, as amended, be approved.
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 5.3. Amendment - Rapid Transit - East London Link - Councillor S. Stevenson
-
-> That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Developme...
-
-**❌ Motion Failed (1 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 5.3. Amendment - Rapid Transit - East London Link - Councillor S. Stevenson
-
-> That pursuant to section 35.10 of the Council Procedure by-law, the Committee decision with respect to the Mayor's 2025 Annual Budget Amendment - Rapid Transit - East London Link project BE RECONSIDERED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 5.3. Amendment - Rapid Transit - East London Link - Councillor S. Stevenson
-
-> That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Developme...
-
-**❌ Motion Failed (2 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman)
-
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 5.4. Amendment - Unfunded Liability Reserve Fund - Councillor S. Stevenson
-
-> That the Mayor’s 2025 Annual Budget Update BE AMENDED to include a drawdown from the Unfunded Liability Reserve Fund, notwithstanding the Council approved by-law that directs the fund to provide for employee benefits payable excluding WSIB claims in excess of $250,000.00, landfill closure and pos...
-
-**❌ Motion Failed (1 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
 ---
 
 ## Full Transcript
@@ -1993,3 +1786,209 @@ Moved by Deputy Mayor Lewis, seconded by Councillor Hopkins. This is gonna be a 
 Closing the vote, motion carries, 15, 14 to zero. Thank you, we're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*13 substantive votes at this meeting (11 contested, 2 unanimous). Procedural motions excluded.*
+
+### 3.1. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to adjust Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements from $827,000 of Parks Operating Expenditures to $808,000, with...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 3.2. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Improving Safety/Security, Property Damage Grants and Crime Prevention
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Economic Development Reserve Fund, to the London Downtown Business Association for the purpose of supporting businesses, such as improving safety/security, property damage grants, an...
+
+**❌ Motion Failed (6 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.3. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Graffiti Removal, Power Washing, Expanded Street Cleaning and Beautification and Maintenance
+
+> That the motion be amended, to read as follows: That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and maintenance,...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 3.3. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Graffiti Removal, Power Washing, Expanded Street Cleaning and Beautification and Maintenance
+
+> That the motion be further amended, to read as follows: That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and main...
+
+**❌ Motion Failed (2 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 3.3. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Graffiti Removal, Power Washing, Expanded Street Cleaning and Beautification and Maintenance
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.1. Middlesex-London Health Unit 2025 Funding Request
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: b)    the Civic Administration BE DIRECTED to fund the City of London’s increased share of $226,954 for 2025 from the Operating Budget Contingency Reserve.
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.1. Middlesex-London Health Unit 2025 Funding Request
+
+> That the Budget Committee recess at this time for 30 minutes
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 5.2. Amendment – Business Case #P-46 - Councillor S. Stevenson
+
+> That the motion be amended to read as follows: That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing by $500,000 the additional annual contribution to the Economic Development Reserve Fund included in 2024-2027 Multi-Year Budget Business Case #P-46 – Economic and Partnerships Initiati...
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 5.2. Amendment – Business Case #P-46 - Councillor S. Stevenson
+
+> That the motion, as amended, be approved.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 5.3. Amendment - Rapid Transit - East London Link - Councillor S. Stevenson
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Developme...
+
+**❌ Motion Failed (1 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 5.3. Amendment - Rapid Transit - East London Link - Councillor S. Stevenson
+
+> That pursuant to section 35.10 of the Council Procedure by-law, the Committee decision with respect to the Mayor's 2025 Annual Budget Amendment - Rapid Transit - East London Link project BE RECONSIDERED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 5.3. Amendment - Rapid Transit - East London Link - Councillor S. Stevenson
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Developme...
+
+**❌ Motion Failed (2 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 5.4. Amendment - Unfunded Liability Reserve Fund - Councillor S. Stevenson
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to include a drawdown from the Unfunded Liability Reserve Fund, notwithstanding the Council approved by-law that directs the fund to provide for employee benefits payable excluding WSIB claims in excess of $250,000.00, landfill closure and pos...
+
+**❌ Motion Failed (1 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+

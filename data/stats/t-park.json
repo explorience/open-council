@@ -42,24 +42,24 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 4211,
-    "yeas": 3952,
-    "nays": 170,
+    "totalVotes": 4701,
+    "yeas": 4415,
+    "nays": 197,
     "absent": 70,
-    "participationRate": 97.88648777012587,
-    "yeaRate": 95.87578845220767,
-    "contestedDissentRate": 3.5102499297950014,
-    "contestedVotes": 3561,
-    "substantiveVotes": 3786,
-    "substantiveYeas": 3597,
-    "substantiveNays": 161,
-    "substantiveParticipationRate": 99.26043317485473,
-    "substantiveYeaRate": 95.71580627993613
+    "participationRate": 98.10678579025739,
+    "yeaRate": 95.7285342584562,
+    "contestedDissentRate": 14.547304170905392,
+    "contestedVotes": 983,
+    "substantiveVotes": 3836,
+    "substantiveYeas": 3609,
+    "substantiveNays": 197,
+    "substantiveParticipationRate": 99.2179353493222,
+    "substantiveYeaRate": 94.82396216500263
   },
   "budgetVoting": {
-    "totalBudgetVotes": 616,
-    "budgetYeas": 573,
-    "budgetNays": 40,
+    "totalBudgetVotes": 364,
+    "budgetYeas": 341,
+    "budgetNays": 20,
     "budgetAbsent": 2
   },
   "topAlignments": [],
@@ -159,10 +159,10 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1226,
-      "yeas": 1148,
-      "nays": 57,
-      "participationRate": 98.28711256117455
+      "totalVotes": 2057,
+      "yeas": 1930,
+      "nays": 106,
+      "participationRate": 98.97909577053962
     },
     {
       "committee": "Planning and Environment Committee",
@@ -173,9 +173,9 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1075,
-      "yeas": 1002,
-      "nays": 73,
+      "totalVotes": 735,
+      "yeas": 684,
+      "nays": 51,
       "participationRate": 100
     },
     {
@@ -194,8 +194,8 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 127,
-      "yeas": 125,
+      "totalVotes": 126,
+      "yeas": 124,
       "nays": 2,
       "participationRate": 100
     }

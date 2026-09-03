@@ -439,7 +439,7 @@ The meeting adjourned at 1:57 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. 2021 Council Compensation Review Task Force
 
@@ -447,7 +447,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.3. Court Security and Prisoner Transportation Program Transfer Payment Agreement
 
@@ -455,7 +455,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.6. Elected Officials and Appointed Citizen Members 2021 Remuneration
 
@@ -466,7 +466,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder)
+**Yea (2):** [Maureen Cassidy](/councillors/former/m-cassidy), [Arielle Kayabaga](/councillors/former/a-kayabaga)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst)
 
 </details>
 
@@ -476,5 +478,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

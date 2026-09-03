@@ -395,79 +395,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:44 PM.
 
 ****
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (3 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.8 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.9. Updated Highly Supportive Housing Plan Cost Breakdown Schedule
-
-> That the staff report dated June 9, 2025 with respect to the Updated Highly Supportive Housing Plan Cost Breakdown Schedule BE REFERRRED to the July 14, 2025 meeting of the Community and Protective Services Committee in order to provide cost breakdowns or draft operational budgets for the approve...
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.1. Communication - City of London's Municipal Rent Assistance Program (MRAP) - Councillor D. Ferreira
-
-> That the following actions be taken with respect to the communication, dated June 2, 2025, from Councillor D. Ferreira, related to the City of London’s Municipal Rent Assistance Program (MRAP): a)    the Civic Administration BE DIRECTED to allocate up to 30% of the 2025 municipal rent supplement ...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Peter Cuddy](/councillors/current/p-cuddy)
-
-</details>
-
-### 4.1. Communication - City of London's Municipal Rent Assistance Program (MRAP) - Councillor D. Ferreira
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 1 minute with respect to this matter.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.2. Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson
-
-> That the delegation request from C. Lazenby, Unity Project, as appended to the Added Agenda, BE APPROVED to be heard at this meeting. Additional Votes:
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.2. Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson
-
-> That the Civic Administration BE DIRECTED to prepare an update for the August 11, 2025 meeting of the Community and Protective Services Committee regarding the status of the three 2021 Reaching Home capital projects, including the status of associated operational commitments and funding.
-
-**❌ Motion Failed (0 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
 ---
 
 ## Full Transcript
@@ -1350,3 +1277,77 @@ That leads us to deferred matters, additional business, none, conferring with co
 All those opposed? That motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (3 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.9. Updated Highly Supportive Housing Plan Cost Breakdown Schedule
+
+> That the staff report dated June 9, 2025 with respect to the Updated Highly Supportive Housing Plan Cost Breakdown Schedule BE REFERRRED to the July 14, 2025 meeting of the Community and Protective Services Committee in order to provide cost breakdowns or draft operational budgets for the approve...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.1. Communication - City of London's Municipal Rent Assistance Program (MRAP) - Councillor D. Ferreira
+
+> That the following actions be taken with respect to the communication, dated June 2, 2025, from Councillor D. Ferreira, related to the City of London’s Municipal Rent Assistance Program (MRAP): a)    the Civic Administration BE DIRECTED to allocate up to 30% of the 2025 municipal rent supplement ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Peter Cuddy](/councillors/current/p-cuddy)
+
+</details>
+
+### 4.1. Communication - City of London's Municipal Rent Assistance Program (MRAP) - Councillor D. Ferreira
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 1 minute with respect to this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson
+
+> That the delegation request from C. Lazenby, Unity Project, as appended to the Added Agenda, BE APPROVED to be heard at this meeting. Additional Votes:
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson
+
+> That the Civic Administration BE DIRECTED to prepare an update for the August 11, 2025 meeting of the Community and Protective Services Committee regarding the status of the three 2021 Reaching Home capital projects, including the status of associated operational commitments and funding.
+
+**❌ Motion Failed (0 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+

@@ -505,7 +505,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -520,7 +520,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -535,7 +535,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -550,7 +550,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -565,7 +565,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -580,7 +580,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -595,7 +595,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -611,7 +611,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -627,7 +627,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -643,7 +643,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -658,7 +658,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 
@@ -673,7 +673,7 @@ The meeting adjourned at 4:30 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/former/p-squire), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
 
 </details>
 

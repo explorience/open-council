@@ -1637,7 +1637,7 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 
 ## Votes
 
-*8 substantive votes at this meeting (7 contested, 1 unanimous). Procedural motions excluded.*
+*10 substantive votes at this meeting (9 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 2.2. Revised Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination)
 
@@ -1741,6 +1741,40 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 **Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
 
 **Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.4. Enhanced Reporting for Procurement Disqualifications and Bids and Tender Issues - Councillor S. Stevenson
+
+> That the communication dated March 16, 2026, from Councillor S. Stevenson, with respect to Enhanced Reporting for Procurement Disqualifications and Bids & Tender Issues, BE RECEIVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.5. Request for Update on Potential Funding Gaps - Councillor S. Stevenson
+
+> That the communication dated March 16, 2026 from Councillor S. Stevenson with respect to a Request for an Update on Potential Funding Gaps, BE RECEIVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
 
 </details>
 

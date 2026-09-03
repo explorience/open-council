@@ -497,44 +497,6 @@ None.
 
 
 The meeting adjourned at 4:50 PM
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.9, inclusive and Item 3.4, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. 493 Springbank Drive - Demolition Request
-
-> That, on the recommendation of the Director, Planning and Economic Development, with the advice of the Heritage Planner, with respect to the demolition request for the former gate house and maintenance garage on the heritage listed property at 493 Springbank Drive, the Chief Building Official BE ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.3. 655 - 685 Fanshawe Park Road West (Z-9396)
-
-> That, on the recommendation of the Director, Planning and Development, based on the  application by SAB Realty Limited, relating to the property located at 655-685 Fanshawe Park Road West, the proposed by-law appended to the staff report dated February 28, 2022 as Appendix "A" BE INTRODUCED at th...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. 2nd Report of the London Advisory Committee on Heritage
-
-> That, the following actions be taken with respect to the 2nd Report of the London Advisory Committee on Heritage, from its meeting held on February 9, 2022: a)  on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the application under Section ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -751,3 +713,43 @@ Closing the vote, the motion carries five to zero. Moving on to number five, whi
 Councillor Hill here, seconded by Councillor Turner. And with that, can we have a hand vote? Everyone in favor? Thanks everyone, have a nice evening.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.9, inclusive and Item 3.4, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 2631 Hyde Park Road / 1521 Sunningdale Road West - Request to Remove Property from the Register of Cultural Heritage Resources
+
+> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, that the property located at 2361 Hyde Park Road/1521 Sunningdale Road West BE REMOVED from the Register of Cultural Heritage Resources; it being noted that the Planning and Environment...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
+
+</details>
+
+### 4.1. 2nd Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 2nd Report of the London Advisory Committee on Heritage, from its meeting held on February 9, 2022: a)  on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the application under Section ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

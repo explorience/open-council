@@ -395,29 +395,6 @@ That the meeting adjourn.
 The meeting adjourned at 5:52 PM.
 
 ****
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
-
-### 4.2. 2020 Year-End Operating Budget Monitoring Report and COVID-19 Financial Impacts
-
-> Motion to approve part d) i) of the staff recommendation: d)      the following allocations from the Property Tax Supported Budget surplus BE APPROVED with respect to RBC Place London:       i) a one-time grant to support RBC Place operations for the remainder of 2021 in the amount of $2.5 million;
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
-
-</details>
 ---
 
 ## Full Transcript
@@ -914,3 +891,27 @@ Clerk? Motion's passed. Thanks. Have a very good evening, ladies and gentlemen.
 Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+
+### 4.2. 2020 Year-End Operating Budget Monitoring Report and COVID-19 Financial Impacts
+
+> Motion to approve part d) i) of the staff recommendation: d)      the following allocations from the Property Tax Supported Budget surplus BE APPROVED with respect to RBC Place London:       i) a one-time grant to support RBC Place operations for the remainder of 2021 in the amount of $2.5 million;
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/former/a-kayabaga)
+
+</details>
+

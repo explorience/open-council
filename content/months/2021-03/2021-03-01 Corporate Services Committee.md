@@ -370,7 +370,7 @@ The meeting adjourned at 1:24 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Application - Issuance of Proclamation - Sikh Heritage Month
 
@@ -378,5 +378,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

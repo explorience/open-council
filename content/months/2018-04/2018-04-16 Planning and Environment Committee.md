@@ -573,7 +573,7 @@ The meeting adjourned at 11:57 PM.
 
 ## Votes
 
-*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (3 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -581,15 +581,7 @@ The meeting adjourned at 11:57 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. Public Participation Meeting - Demolition Request of Heritage Designated Property at 660 Sunningdale Road East
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the request for the demolition of the heritage designated property located at 660 Sunningdale Road East BE REFUSED; it being noted that the Planning and Environment Committee ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.2. Public Participation Meeting - Medway Valley Heritage Forest Environmentally Significant Area (South) - Conservation Master Plan
 
@@ -597,7 +589,22 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
+
+### 3.2. Public Participation Meeting - Medway Valley Heritage Forest Environmentally Significant Area (South) - Conservation Master Plan
+
+> Motion to consult with the following agencies: a)            Upper Thames River Conservation Authority; b)            the Ministry of Natural Resources and Forestry; c)            other stakeholder agencies as to the environmental impacts of trail implementation in the ESA; d)            neighbou...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner), [Tanya Park](/councillors/former/t-park)
+
+**Nay (3):** [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown)
+
+</details>
 
 ### 3.2. Public Participation Meeting - Medway Valley Heritage Forest Environmentally Significant Area (South) - Conservation Master Plan
 
@@ -605,7 +612,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.2. Public Participation Meeting - Medway Valley Heritage Forest Environmentally Significant Area (South) - Conservation Master Plan
 
@@ -616,9 +623,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown)
 
 </details>
 
@@ -631,9 +638,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner), [Tanya Park](/councillors/former/t-park)
 
-**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Matt Brown](/councillors/former/m-brown)
 
 </details>
 
@@ -643,7 +650,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. (ADDED) 5th Report of the London Advisory Committee on Heritage
 
@@ -651,5 +658,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

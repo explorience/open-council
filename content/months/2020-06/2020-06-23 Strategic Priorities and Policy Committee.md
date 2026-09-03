@@ -494,6 +494,22 @@ The meeting adjourns at 7:54 PM.
 
 ### 2.3. COVID-19 Financial Impacts - Update
 
+> The Civic Administration BE AUTHORIZED to further extend the deferral period, on Community Improvement Plan loan repayments, on an interest-free basis for a further period of 90 days, being June, July and August 2020, where the applicant has requested a further deferral in writing; it being noted...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.3. COVID-19 Financial Impacts - Update
+
+> The Civic Administration BE AUTHORIZED to further extend the deferral period for the loan payments on the interest-free loan to the London Community Players until January 2021; it being noted that the January loan repayments will be cashed as planned.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.3. COVID-19 Financial Impacts - Update
+
 > The Civic Administration BE DIRECTED to remove Item 10 “Golf” from Table 3 (as included in the staff report dated June 23, 2020) – Additional Proposed Service Adjustments – related to the closure of River Road Golf for the 2020 season, and the Civic Administration BE DIRECTED to open the River Ro...
 
 **❌ Motion Failed (4 to 10)**
@@ -501,11 +517,9 @@ The meeting adjourns at 7:54 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (4):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
 
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
-
-**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 
@@ -518,29 +532,11 @@ The meeting adjourns at 7:54 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
-**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Nay (4):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
 
 </details>
-
-### 2.3. COVID-19 Financial Impacts - Update
-
-> The Civic Administration BE AUTHORIZED to further extend the deferral period, on Community Improvement Plan loan repayments, on an interest-free basis for a further period of 90 days, being June, July and August 2020, where the applicant has requested a further deferral in writing; it being noted...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 2.3. COVID-19 Financial Impacts - Update
-
-> The Civic Administration BE AUTHORIZED to further extend the deferral period for the loan payments on the interest-free loan to the London Community Players until January 2021; it being noted that the January loan repayments will be cashed as planned.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
 
 ### 2.4. 2020 Assessment Growth Funding Allocation
 
@@ -551,7 +547,7 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 **Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
@@ -563,7 +559,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 5.1. (ADDED) Community Recovery Plan
 
@@ -571,5 +567,5 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 

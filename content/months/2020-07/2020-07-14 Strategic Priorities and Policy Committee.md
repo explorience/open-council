@@ -614,7 +614,7 @@ The meeting adjourns at 8:43 PM.
 
 ## Votes
 
-*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 2.1. Core Area Action Plan - 2020 Progress Update
 
@@ -625,19 +625,11 @@ The meeting adjourns at 8:43 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire)
 
-**Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Nay (3):** [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
-
-### 2.2. London Community Recovery Network
-
-> That, on the recommendation of the City Manager, the following actions be taken regarding the London Community Recovery Network: a)      the London Community Recovery Network (LCRN) BE ENDORSED as a model to coordinate London’s community recovery from COVID-19, including Council membership on the...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
 
 ### 2.4. 2nd Report of the Rapid Transit Implementation Working Group
 
@@ -645,7 +637,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (12 to 0)**
 
-Unanimous (10-0)
+Unanimous (12-0)
 
 ### 4.1. Resignation from Eldon House Board of Directors
 
@@ -653,7 +645,7 @@ Unanimous (10-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 4.1. Resignation from Eldon House Board of Directors
 
@@ -661,7 +653,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 4.2. Argyle Business Improvement Association
 
@@ -669,7 +661,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 5.1. (ADDED) Making Anti-Racism a Strategic Priority
 
@@ -677,7 +669,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 5.2. Additional Legislative Measures to Prevent the Spread of COVID-19
 
@@ -685,7 +677,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 
 ### 5.2. Additional Legislative Measures to Prevent the Spread of COVID-19
 
@@ -693,5 +685,5 @@ Unanimous (12-0)
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 

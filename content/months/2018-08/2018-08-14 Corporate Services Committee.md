@@ -184,7 +184,7 @@ The meeting adjourned at 12:51 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Federation of Canadian Municipalities - Standing Committees
 
@@ -192,5 +192,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

@@ -66,24 +66,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 9132,
-    "yeas": 8283,
-    "nays": 375,
+    "totalVotes": 9650,
+    "yeas": 8780,
+    "nays": 396,
     "absent": 184,
-    "participationRate": 94.80946123521682,
-    "yeaRate": 95.66874566874567,
-    "contestedDissentRate": 5.4989816700611,
-    "contestedVotes": 4910,
-    "substantiveVotes": 6599,
-    "substantiveYeas": 5934,
-    "substantiveNays": 312,
-    "substantiveParticipationRate": 94.65070465222003,
-    "substantiveYeaRate": 95.00480307396734
+    "participationRate": 95.0880829015544,
+    "yeaRate": 95.68439407149084,
+    "contestedDissentRate": 14.402870322911326,
+    "contestedVotes": 1951,
+    "substantiveVotes": 6852,
+    "substantiveYeas": 6089,
+    "substantiveNays": 396,
+    "substantiveParticipationRate": 94.6438995913602,
+    "substantiveYeaRate": 93.89360061680802
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1098,
-    "budgetYeas": 1015,
-    "budgetNays": 77,
+    "totalBudgetVotes": 870,
+    "budgetYeas": 805,
+    "budgetNays": 59,
     "budgetAbsent": 6
   },
   "topAlignments": [],
@@ -183,17 +183,10 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 3466,
-      "yeas": 3159,
-      "nays": 187,
-      "participationRate": 96.53779572994806
-    },
-    {
-      "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2212,
-      "yeas": 1815,
-      "nays": 130,
-      "participationRate": 87.92947558770344
+      "totalVotes": 4338,
+      "yeas": 3984,
+      "nays": 234,
+      "participationRate": 97.23374827109267
     },
     {
       "committee": "Planning and Environment Committee",
@@ -201,6 +194,13 @@
       "yeas": 1871,
       "nays": 33,
       "participationRate": 97.34151329243353
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 1858,
+      "yeas": 1487,
+      "nays": 104,
+      "participationRate": 85.6297093649085
     },
     {
       "committee": "Community and Protective Services Committee",

@@ -830,7 +830,7 @@ The meeting adjourned at 5:09 PM.
 
 ## Votes
 
-*10 substantive votes at this meeting (0 contested, 10 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -838,7 +838,7 @@ The meeting adjourned at 5:09 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.10. Application - 2890 and 2898 Woodhull Road (H-9116)
 
@@ -846,7 +846,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.15. By-law Amendment Request - Downtown London Business Association Improvement Area
 
@@ -854,15 +854,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 12th Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 11th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on October 17, 2019: a)         a Working Group BE ESTABLISHED consisting of R. Trudeau (lead), I. Arturo, A. Bilson Darko and S. Hall with r...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.2. Delegation - R. Sidhu, Executive Director, Argyle Business Improvement Area (BIA) - Comprehensive Community Regeneration Study Request - Argyle BIA and Surrounding Area
 
@@ -870,39 +862,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.3. Public Participation Meeting - Application - 1875 Wharncliffe Road South (OZ-9073)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Wharncliffe Enterprise Centre Inc., relating to the property located at 1875 Wharncliffe Road South: a)         the proposed by-law appended to the staff report dat...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. Public Participation Meeting - Application - 2497-2591 Bradley Avenue (OZ-8679)
-
-> That, on the recommendation of the Director, Development Services, with respect to the application by the The Corporation of the City of London, relating to the properties located at 2497-2591 Bradley Avenue: a)         the proposed by-law appended to the staff report dated November 4, 2019 as Ap...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.5. Public Participation Meeting - 3427 Paulpeel Avenue (Z-9094)
-
-> That, on the recommendation of the Director, Development Services, based on the application by Banman Developments Inc., relating to the property located at 3427 Paulpeel Avenue, the proposed by-law appended to the staff report dated November 4, 2019 BE INTRODUCED at the Municipal Council meeting...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.6. Public Participation Meeting - Application - 3260 Singleton Avenue 39CD-19513
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Sifton Properties Ltd., relating to the property located at 3260 Singleton Avenue: a)         the Approval Authority BE ADVISED that no issues were raised by the pu...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. Environmental Considerations Relating to Studies and Reports
 
@@ -910,5 +870,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

@@ -682,7 +682,7 @@ The meeting adjourned at 6:26 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -690,23 +690,7 @@ The meeting adjourned at 6:26 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.1. Delegation - D. Dudek, Chair of London Advisory Committee on Heritage - 2nd Report of the London Advisory Committee on Heritage
-
-> That, the following actions be taken with respect to the 2nd Report of the London Advisory Committee on Heritage, from its meeting held on January 8, 2020: a)   on the recommendation of the Managing Director, Planning and City  Planner, with the advice of the Heritage Planner, the following actio...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.2. Application - 332 Central Avenue and 601 Waterloo Street (O-9120 and Z-9121)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Mr. Tao Tran and The Corporation of the City of London, relating to the properties located at 332 Central Avenue and 601 Waterloo Street: a)  the proposed by-law ap...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.3. Demolition Request for Heritage Listed Property at 247 Halls Mill Road
 
@@ -714,15 +698,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.4. Application 435 Callaway Road (Formerly 365 Callaway Road) 39CD-19515
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Wastell Homes, relating to the property located at 435 Callaway Road (formerly 365 Callaway Road): a) the Approval Authority BE ADVISED that no issues were raised a...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.5. Affordable Housing Community Improvement Plan (O-9099)
 
@@ -730,7 +706,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. Application - 536 and 542 Windermere Road
 
@@ -738,5 +714,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

@@ -106,7 +106,7 @@ The meeting adjourned at 3:18 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.2. Court Security and Prisoner Transportation Program Transfer Payment Agreement
 
@@ -114,5 +114,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

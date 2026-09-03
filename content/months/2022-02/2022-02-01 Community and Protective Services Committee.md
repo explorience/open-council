@@ -239,36 +239,6 @@ None.
 
 
 The meeting adjourned at 5:27 PM.
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.2 and 2.4 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 2.1. Single Source Award Recommendation for Housing Stability Service Programs Including Outreach, Emergency Shelter and Housing Stability Bank
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated February 1, 2022, related to a Single Source Award Recommendation for Housing Stability Service Programs including Outreach, Emergency Shelt...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 2.1. Single Source Award Recommendation for Housing Stability Service Programs Including Outreach, Emergency Shelter and Housing Stability Bank
-
-> Motion to approve the delegation requests from P. Rozeluk, Executive Director, Mission Services of London and J. DeActis, Executive Director, Centre of Hope London.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -705,3 +675,34 @@ Moved by Councilor Halmer, seconded by Councilor Hillier. All those in favor by 
 I've been advised that the motion passed. Thank you, everybody. Have a wonderful afternoon.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.1. Single Source Award Recommendation for Housing Stability Service Programs Including Outreach, Emergency Shelter and Housing Stability Bank
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated February 1, 2022, related to a Single Source Award Recommendation for Housing Stability Service Programs including Outreach, Emergency Shelt...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.1. Single Source Award Recommendation for Housing Stability Service Programs Including Outreach, Emergency Shelter and Housing Stability Bank
+
+> Motion to approve the delegation requests from P. Rozeluk, Executive Director, Mission Services of London and J. DeActis, Executive Director, Centre of Hope London.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

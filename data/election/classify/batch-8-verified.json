@@ -1,6 +1,6 @@
 [
  {
-  "id": "5fae396176e7",
+  "id": "6a8e9d122eca",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -26,7 +26,7 @@
   "verifierNote": "Confirmed against 8.3.16 content[1] (2025-06-03): 'pursuant to section 13.6 of the Council Procedure By-law, the Council decision ... BE RECONSIDERED to provide for Councillor Stevenson to recast her vote.' Verbatim procedural reconsideration, no issue substance."
  },
  {
-  "id": "12e89301b66d",
+  "id": "0beb35586877",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -41,7 +41,7 @@
   "verifierNote": "Confirmed against 8.4.7 content[1] (2025-06-03, 10-4): 'The Civic Administration BE DIRECTED to seek Council approval for contribution agreements, including loan agreements under the Affordable Housing Community Improvement Plan, for any highly supportive housing projects.' This is delegation-of-authority mechanics (who approves future agreements), not a funding/density/use-permission position -- no AXIS_PATTERNS fits. null stands."
  },
  {
-  "id": "9fc3b4e89fb6",
+  "id": "cdb564204f1b",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -53,7 +53,7 @@
   "verifierNote": "Confirmed against 8.4.8 content[0] (2025-06-03, 13-1). Quote verbatim: 'a grant of $1,485,000, in the form of a forgivable loan, to the Canadian Mental Health Association ... for the development and operation of 33 highly supportive housing units at 248-256 Hill Street be AUTHORIZED AND APPROVED' (parallel $3,690,000/82-unit clause also present). Note: literal affordable-funding regex requires the phrase 'affordable housing', which this text never uses (it says 'highly supportive housing') -- the regex as written would not fire and the motion would fall through to the generic application-approval axis. The classifier's substantive read (two forgivable-loan grants approved = affordable-funding/expansive) is the semantically correct one and I confirm it; flagging the regex gap for the record, not as an error in this classification."
  },
  {
-  "id": "bea876cdf451",
+  "id": "77276ee33106",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -67,7 +67,7 @@
   "verifierNote": "Confirmed against 8.4.8 content[1] (2025-06-03, Failed 4-10): 'The Civic Administration BE DIRECTED to include provisions in all future agreements related to forgivable loans for highly supportive housing that allow Council to require repayment of the loan or impose other consequences if the agreed-upon operating standards are not being met.' This adds a contractual clawback/accountability term to future agreements -- not a funding-amount, density, or use-permission decision, and doesn't literally say 'affordable housing'. No axis fits; null stands. Tense correct ('Would have required' -- motion failed)."
  },
  {
-  "id": "69288d65e04c",
+  "id": "fdbfa59e401a",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -76,10 +76,10 @@
   "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed against 8.5.4 content[1] (2025-06-03, Failed 7-7): 'the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) ... Reduced Road Network Improvements v) ... Stop Multi-Residential Green Bin Cart Pilot ... vi) ... Stop Collecting Blue Box Materials from Non-eligible Sources' -- quote verbatim, all three sub-items present and in order. Important context I checked: this is COUNCIL reconsidering business cases Budget Committee had already voted to exclude on 2025-05-22 (d167a282544f 9-5 Passed, 7b22159ad688 9-5 Passed, 48bb3106304c 10-4 Passed) -- i.e. this is a genuine committee-stage-vs-final-decision pair, not a duplicate. Verified it is NOT double counting: different meeting, different id, different (larger) voting body, and the 'restrictive' label describes what THIS yea vote itself did (would have excluded), independent of the earlier committee vote's outcome. No false-direction risk."
+  "verifierNote": "Confirmed against 8.5.4 content[1] (2025-06-03, Failed 7-7): 'the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) ... Reduced Road Network Improvements v) ... Stop Multi-Residential Green Bin Cart Pilot ... vi) ... Stop Collecting Blue Box Materials from Non-eligible Sources' -- quote verbatim, all three sub-items present and in order. Important context I checked: this is COUNCIL reconsidering business cases Budget Committee had already voted to exclude on 2025-05-22 (d167a282544f (superseded id) 9-5 Passed, 7b22159ad688 (superseded id) 9-5 Passed, 48bb3106304c (superseded id) 10-4 Passed) -- i.e. this is a genuine committee-stage-vs-final-decision pair, not a duplicate. Verified it is NOT double counting: different meeting, different id, different (larger) voting body, and the 'restrictive' label describes what THIS yea vote itself did (would have excluded), independent of the earlier committee vote's outcome. No false-direction risk."
  },
  {
-  "id": "5581ea6993ac",
+  "id": "90cb7d09948d",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -88,10 +88,10 @@
   "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed against 8.5.4 content[2] (2025-06-03, Passed 9-5): 'the Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: ... Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance' -- verbatim, single case. Same committee-vs-council reconsideration pattern as 69288d65e04c, checked and confirmed distinct/non-duplicative."
+  "verifierNote": "Confirmed against 8.5.4 content[2] (2025-06-03, Passed 9-5): 'the Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: ... Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance' -- verbatim, single case. Same committee-vs-council reconsideration pattern as 69288d65e04c (superseded id), checked and confirmed distinct/non-duplicative."
  },
  {
-  "id": "fc01a2835039",
+  "id": "40d4433edf3b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -106,7 +106,7 @@
   "verifierNote": "Confirmed against 7th SPPC (2025-05-27) item 3.1 content[3] (12-1): 'that Paul M. Madden BE APPOINTED to the London Hydro Board of Directors, Second Class, for the term ending December 31, 2025.' Board-appointment personnel decision, correctly excluded (GLOBAL_EXCLUDE spirit for board appointments)."
  },
  {
-  "id": "0a7c7a9d3d23",
+  "id": "6bd800b70820",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -121,7 +121,7 @@
   "verifierNote": "Confirmed against 7th SPPC (2025-05-27) item 4.1 content[0] (12-1): 'communication ... regarding the Proposed Amendments to the Shareholders Declaration BE REFERRED to Civic Administration and to report back at a future meeting.' Pure referral, London Hydro corporate governance -- not a tracked issue."
  },
  {
-  "id": "c26d84460dc4",
+  "id": "69de4d49a256",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -136,7 +136,7 @@
   "verifierNote": "Confirmed against 10th ICS Cmte (2025-05-26) item 4.1 content[3] (4-1): 'The Civic Administration BE DIRECTED to amend By-law No. CPOL.-231-555 ... for the next Council Policy review cycle to include a requirement to review Council Policies using a Climate Lens.' Checked carefully since the literal 'climate' keyword is present and could mechanically fire issue=climate -- but even if assigned, no AXIS_PATTERNS (target-strength / natural-heritage) matches this text: nothing about a target, emissions, renewable, tree canopy, wetland etc. is strengthened or weakened; this only requires FUTURE unrelated policy reviews to apply a lens. It's a governance-of-council's-own-process motion (how Council reviews its own policies), matching the GLOBAL_EXCLUDE spirit for procedural self-governance even though it doesn't literally say 'council procedure by-law'. issue=none stands."
  },
  {
-  "id": "29191a49173e",
+  "id": "928807eb478e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -151,7 +151,7 @@
   "verifierNote": "Confirmed against 10th ICS Cmte (2025-05-26) item 4.1 content[4] (3-2): 'That By-law No. CPOL.-54-286, being the \"Appointment of Deputy Mayor Policy\" BE REFERRED to the Governance Working Group for review.' Pure referral, council self-governance, not a tracked issue."
  },
  {
-  "id": "a4eb827c855c",
+  "id": "a41ecd8d8212",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -163,7 +163,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[2] (10-4). Quote verbatim: 'the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix \"A\" ... and to bring forward the corresponding business case for inclusion in the Mayor's proposed 2026 Budget Update; and'. Checked the literal business-case-axis regex: it requires the word stem 'include' before 'business case', but this text has 'business case for inclusion' (word 'inclusion', not 'include') -- the regex as written would not fire on this exact phrasing and the motion would fall through to the generic application-approval fallback. The classifier's semantic read (a business case being brought forward FOR INCLUSION = business-case/expansive, the mirror of the 15 exclusion motions in this same batch) is the correct, consistent reading and I confirm it."
  },
  {
-  "id": "e11dd21254b2",
+  "id": "5d8be07a288c",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -175,7 +175,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[3] (10-4). Quote verbatim match, single business case (Sidewalk Maintenance, Appendix B Ref#1)."
  },
  {
-  "id": "d167a282544f",
+  "id": "1d7c40b467ec",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -187,7 +187,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[4] (9-5). Quote verbatim match (Reduced Road Network Improvements, Appendix B Ref#2)."
  },
  {
-  "id": "3dd05e479854",
+  "id": "0c2a411423be",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -199,7 +199,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[5] (8-6). Quote verbatim match (Urban Forestry brush mulching, Appendix B Ref#3)."
  },
  {
-  "id": "1c8075648323",
+  "id": "a6473f2744cd",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -211,7 +211,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[6] (Failed 7-7). Quote verbatim match (Tree Planting Grants & Non-replacement Tree Planting, Appendix B Ref#4). Tense correct ('Would have excluded')."
  },
  {
-  "id": "ba9608551c5e",
+  "id": "c08daf018133",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -223,7 +223,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[7] (12-2). Quote verbatim match (Closure of 5 Wading Pools, Appendix B Ref#5)."
  },
  {
-  "id": "294f2da7a27e",
+  "id": "2307b1d59a7d",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -235,7 +235,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[8] (Failed 4-10). Quote verbatim match (Resident Satisfaction Survey, Appendix B Ref#6). Tense correct."
  },
  {
-  "id": "e7b1e2dca5dc",
+  "id": "0f19b60c927d",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -247,7 +247,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[9] (Failed 1-13). Quote verbatim match (HR Internships, Appendix B Ref#7). Tense correct."
  },
  {
-  "id": "17e2790f8249",
+  "id": "4750754213bc",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -259,7 +259,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[10] (Failed 1-13). Quote verbatim match (IT Digital Transformation, Appendix B Ref#8). Tense correct."
  },
  {
-  "id": "45e004c6a94d",
+  "id": "2402cfe58258",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -271,7 +271,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[11] (Failed 7-7). Quote verbatim match (Eliminate Full Funding of New Streetlight Installations, Appendix C Ref#1). Checked specifically for a levy-size vs business-case axis collision: the excluded case's own NAME contains 'Eliminate ... Funding', which literally satisfies the levy-size DECREASE-word-near-funding pattern and (since levy-size is checked before business-case in AXIS_PATTERNS.budget) would mechanically win if the regex ran on this text alone. But that phrase is the referenced case's title, not this motion's own operative verb (identical sentence structure to all 15 sibling exclusion motions in this batch) -- classifying this one differently from its 15 siblings purely because of an incidental keyword collision in a case name would be inconsistent and less accurate. business-case/restrictive confirmed as the correct axis."
  },
  {
-  "id": "7b22159ad688",
+  "id": "e350b258eb2f",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -283,7 +283,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[12] (9-5). Quote verbatim match (Green Bin Cart Pilot, Appendix C Ref#2)."
  },
  {
-  "id": "48bb3106304c",
+  "id": "6799a7e69f77",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -295,7 +295,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[13] (10-4). Quote verbatim match (Blue Box NES, Appendix C Ref#3)."
  },
  {
-  "id": "0689312f36aa",
+  "id": "545479fa2b3f",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -307,7 +307,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[14] (8-6). Quote verbatim match (Traffic Circles/Gateway/Cul-de-sac maintenance, Appendix C Ref#4)."
  },
  {
-  "id": "57b785c0afb3",
+  "id": "0bd0c15f3d73",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -319,7 +319,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.1 content[15] (Failed 7-7). Quote verbatim match (Climate Change Reserve Fund Contribution, Appendix C Ref#5). Tense correct. Note issue correctly stays budget/business-case (not climate) -- this is about whether a reserve-fund business case is included in the budget process, matching its 15 siblings' pattern, not a climate-target decision."
  },
  {
-  "id": "684b213cc213",
+  "id": "140242f2122f",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -334,7 +334,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.2 content[1] (Failed 4-10): 'communication ... regarding budget 2026 cost saving opportunities regarding LEDC review BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee at which the LEDC is scheduled to appear.' Pure referral (DEFER_RE, no AFFIRM_RE) -- unclear/null correctly stands."
  },
  {
-  "id": "8294bb7f962b",
+  "id": "20f213a1fade",
   "issue": "bikes",
   "axis": null,
   "polarity": null,
@@ -348,7 +348,7 @@
   "verifierNote": "Confirmed against Budget Cmte (2025-05-22) item 4.3 content[1] (Failed 4-10): 'the Civic Administration BE DIRECTED to report back to a future meeting of the Budget Committee with a list of all approved future cycling lane projects, their location, timeline, budgeted capital costs, source of funding and estimated annual maintenance costs.' Pure informational-ask (report-back), not a funding decision -- null correctly stands despite touching both bikes and budget subject matter."
  },
  {
-  "id": "1402497f6c18",
+  "id": "6912b4a73fbb",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -362,7 +362,7 @@
   "verifierNote": "Confirmed against Planning & Env Cmte (2025-05-21) item 3.1 content[1] (4-1): 'a road access to Clarke Road ... and, v) the road access be constructed as part of the proposed development at 20 Clarke Road.' Site-servicing detail, not a density/use-permission/funding decision -- null correctly stands; issue=housing correctly assigned via structural Z-25038 code in item title."
  },
  {
-  "id": "7072a6d1c5d3",
+  "id": "7ad2495353e5",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -374,7 +374,7 @@
   "verifierNote": "Confirmed against Planning & Env Cmte (2025-05-21) item 3.3 content[0] (4-1). Quote verbatim: '...to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject property FROM a Holding Residential R1 (h-2*R1-14) Zone, TO a Residential R1 (R1-14) Zone.' Lifts a Holding provision that blocked development from proceeding -- correctly read as expansive/application-approval (no density-axis language, so generic fallback is the right axis)."
  },
  {
-  "id": "e885dee0c819",
+  "id": "bcb9032d6ff0",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -386,7 +386,7 @@
   "verifierNote": "Confirmed against Planning & Env Cmte (2025-05-21) item 3.4 content[0] (3-2). Quote verbatim, full clause iii) present ('permit stacked townhouses with a maximum height of 3.5 storeys ... apartment building with a maximum height of 8 storeys ... 8 to 12 storeys'). Clear height/density increase on land redesignated from Neighbourhoods Place Type -- density/expansive confirmed."
  },
  {
-  "id": "f80c2af45988",
+  "id": "0878dbce0173",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -398,7 +398,7 @@
   "verifierNote": "Confirmed against Planning & Env Cmte (2025-05-21) item 3.6 content[0] (4-1): Kent Brewery heritage-demolition consent with detailed salvage/commemoration conditions. No zoning, rezoning, official plan, or housing-supply keyword anywhere in the clause -- this is a Heritage Act demolition consent, distinct from the rezoning/density decision for the site (not part of this motion). issue=none correctly stands."
  },
  {
-  "id": "0249d3d644dc",
+  "id": "f7bd5e4f0026",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -412,7 +412,7 @@
   "verifierNote": "Confirmed against 9th CPSC (2025-05-20) item 4.1 content[1] (4-1): 'pursuant to section 31.6 of the Council Procedure By-law, Councillor J. Pribil BE PERMITTED to speak an additional 1 minute.' Verbatim GLOBAL_EXCLUDE match ('Council Procedure By-law')."
  },
  {
-  "id": "27f4a989af8f",
+  "id": "53b4f7f29166",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -424,7 +424,7 @@
   "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.1.4 content[0] (14-1). Quote verbatim, both funding-increase clauses present. Ontario Renovates doesn't literally use any housing-cluster keyword ('affordable housing', 'supportive housing', etc.), but is unambiguously a housing repair/accessibility program funded through the 'Ontario Housing and Priority Initiative Investment Plan' -- issue=housing and axis=affordable-funding/expansive both confirmed as the substantively correct read despite the literal keyword-rule gap."
  },
  {
-  "id": "fa154ae19f7b",
+  "id": "1a5b4824d431",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -439,7 +439,7 @@
   "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.1.5 content[1] (14-1): amendment directing 'the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee in Q2 of 2025 with an overview of the content and roll out plan of a new online dashboard...' -- textbook informational-ask, matches the direction-rules.ts canonical example. null correctly stands."
  },
  {
-  "id": "2c089f003a03",
+  "id": "fce5fbb67fc0",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -454,7 +454,7 @@
   "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.1.5 content[3] (11-4): 'the Civic Administration BE DIRECTED to discontinue the Whole of Community System Response Quarterly Report and replace it with a more robust publicly accessible Homelessness information dashboard...' Checked this one hard since it has real operative content (discontinue X, replace with Y) and 4 dissenting votes, not a pure report-back. But the encampments/response-scale axis requires funding/response-scale language (increase/expand/fund vs decrease/close/defund + response/shelter/outreach/support) -- none of that vocabulary appears; this changes REPORTING FORMAT (a written quarterly report -> a public dashboard), not shelter capacity, outreach funding, or response scale. No clear axis fits; the 4 nays could reflect any of several concerns (losing written-report detail, preferring the old format, etc.) that don't resolve to a directional homelessness-funding position. null correctly stands -- I looked for grounds to overturn to a direction and found none I could support with an unambiguous quote."
  },
  {
-  "id": "1fa5cd5591bb",
+  "id": "cbbd662db2e2",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -466,10 +466,10 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.1.6 content[1] (12-3): 'authorize the Deputy City Manager, Housing and Community Growth ... to approve amendments to the Contribution Agreement for Affordable Housing Projects' -- delegates approval authority to staff, no exception carve-out yet. Delegation-of-authority mechanics, no funding/density/use-permission axis fits; null correctly stands. This is the first of a 4-motion chain (1fa5cd5591bb -> 2f920c10be10 -> 8ccb597c246d -> ab6d8e785355) that I traced end-to-end against content[1],[3],[4],[5] of the same item -- manifest order matches document order exactly (content[2], with identical text to content[3] but no recorded vote, correctly has no manifest id, matching the pattern seen elsewhere in this corpus)."
+  "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.1.6 content[1] (12-3): 'authorize the Deputy City Manager, Housing and Community Growth ... to approve amendments to the Contribution Agreement for Affordable Housing Projects' -- delegates approval authority to staff, no exception carve-out yet. Delegation-of-authority mechanics, no funding/density/use-permission axis fits; null correctly stands. This is the first of a 4-motion chain (1fa5cd5591bb (superseded id) -> e603bb09f225 -> cfc3c19ef28b -> ab6d8e785355 (superseded id)) that I traced end-to-end against content[1],[3],[4],[5] of the same item -- manifest order matches document order exactly (content[2], with identical text to content[3] but no recorded vote, correctly has no manifest id, matching the pattern seen elsewhere in this corpus)."
  },
  {
-  "id": "2f920c10be10",
+  "id": "e603bb09f225",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -484,7 +484,7 @@
   "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.1.6 content[3] (14-1). Quote-equivalent text: '...with the exception of any changes to tenancy profiles or for supportive or highly supportive housing' -- narrows the staff delegation with a carve-out (tenancy profiles + supportive/highly-supportive housing changes still need Council). Delegation mechanics, null correctly stands. Chain position 2 of 4, order verified against document."
  },
  {
-  "id": "8ccb597c246d",
+  "id": "cfc3c19ef28b",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -499,7 +499,7 @@
   "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.1.6 content[4] (14-1): '...with the exception of supportive or highly supportive housing;' -- drops the tenancy-profile exception, narrowing carve-out further. Delegation mechanics, null correctly stands. Chain position 3 of 4, order verified."
  },
  {
-  "id": "ab6d8e785355",
+  "id": "6736b88c0bb7",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -514,7 +514,7 @@
   "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.1.6 content[5] (8-7): '...with the exception of highly supportive housing;' -- final, narrowest carve-out. Delegation mechanics, null correctly stands. Chain position 4 of 4, order and vote tally (8-7, the tightest margin in the batch) verified exactly against source."
  },
  {
-  "id": "794690ec912c",
+  "id": "9100826d65fd",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -526,7 +526,7 @@
   "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.2.12 content[0] (12-3). Quote verbatim: '...to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject property FROM an Urban Reserve (UR4) TO a Residential R5/R6/R8/R9 ... Zone.' Rezoning from non-residential to residential -- application-approval/expansive confirmed, structural Z-9614 code also present."
  },
  {
-  "id": "a85299d397d0",
+  "id": "3bcae5bf75b4",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -540,7 +540,7 @@
   "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.4.7 content[1] (Failed 6-9): 'the Civic Administration BE DIRECTED to rename Plantation Road to Larch Road...' Commemorative street naming is not one of the 8 tracked issue clusters -- issue=none correctly stands. Tense correct ('Would have directed')."
  },
  {
-  "id": "ee290e80befb",
+  "id": "1f57aba939cc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -555,7 +555,7 @@
   "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.4.7 content[2] (Failed 6-9): 'Civic Administration BE DIRECTED to commence public engagement with the impacted neighbourhood to consider the renaming of Plantation Road.' Same naming item, alternate (failed) amendment -- issue=none correctly stands. Tense correct."
  },
  {
-  "id": "0c3d4157dda8",
+  "id": "b48d48150291",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -569,7 +569,7 @@
   "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.4.7 content[3] (14-1): 'the Civic Administration BE DIRECTED to apply the Ontario Human Rights Commission's \"Ontario Human Rights Based Approach Framework\" ... for commemorative naming requests...' issue=none correctly stands (naming policy, not a tracked cluster)."
  },
  {
-  "id": "a44dde5e3aec",
+  "id": "dd9cc13eaafd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -583,7 +583,7 @@
   "verifierNote": "Confirmed against 8th Council Mtg (2025-05-13) item 8.4.7 content[4] (13-2): 'the Civic Administration BE DIRECTED to rename Trooper Wilson Place to Peacekeeper Place.' issue=none correctly stands."
  },
  {
-  "id": "d9ef122971da",
+  "id": "aa8020fba33e",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",

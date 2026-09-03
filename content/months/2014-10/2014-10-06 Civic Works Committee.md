@@ -332,7 +332,7 @@ The
 
 ## Votes
 
-*8 substantive votes at this meeting (8 contested, 0 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
 
 ### 3. 4th Report of the
   Cycling Advisory Committee
@@ -340,14 +340,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (4-0)
 
 ### 4. London Wastewater
   Facility Update, Operating Agreement and Next Steps
@@ -355,14 +350,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (4-0)
 
 ### 5. Single Source
   Procurement Supply and Installation of Diesel Exhaust Fluid (DEF) Storage
@@ -371,14 +361,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Hamilton Road and
   Highbury Avenue Intersection Improvements Environmental Assessment Study-Appointment
@@ -387,14 +372,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (4-0)
 
 ### 7. Wharncliffe Road
   South Environmental Assessment Study-Appointment of Consulting Engineer
@@ -402,14 +382,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (4-0)
 
 ### 8. Greenway Wastewater
   Treatment Plant Rotating Drum Thickener Engineering Project ES5084-11
@@ -417,14 +392,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Riverside Drive and
   Beaverbrook Avenue Intersection Improvement
@@ -432,14 +402,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (4-0)
 
 ### 10. Minor Revisions to
   the W12A Landfill Site Community Enhancement and Mitigative Measures Program
@@ -447,12 +412,7 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (4-0)
 

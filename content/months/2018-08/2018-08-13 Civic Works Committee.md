@@ -435,7 +435,7 @@ The meeting adjourned at 1:54PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Complete Streets Design Manual
 
@@ -443,7 +443,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.2. Adelaide Street North - Canadian Pacific Railway Grade Separation - Environmental Study Report
 
@@ -451,7 +451,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Springhill Flowers Street Renaming Portion of Pleasantview Drive (From South Weinge Drive to Rollingacres) and Pleasantview Drive (South of Waterwheel Road) to Pleasantview Court
 
@@ -459,5 +459,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

@@ -395,7 +395,7 @@ The meeting adjourned at 5:21 PM.
 
 ## Votes
 
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -403,23 +403,7 @@ The meeting adjourned at 5:21 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. Public Participation Meeting - Request for Input Regarding the Proposed Name of the "Community Centre on Wavell" - 1731 Churchill Avenue
-
-> That the name "East Lions Community Centre" BE APPROVED for the new east community centre located at 1731 Churchill Avenue; it being noted that the proposed name is in compliance with Council-approved naming preferences; it being further noted that the Community and Protective Services Committee ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. 6th Report of the Community Safety and Crime Prevention Advisory Committee
-
-> That the following actions be taken with respect to the 6th Report of the Community Safety and Crime Prevention Advisory Committee (CSCP), from its meeting held on September 26, 2019: a)         clause 5.2 BE REFERRED back to the CSCP for further clarification of the information being requested; ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. Short Term Accommodations - Councillor A. Hopkins
 
@@ -427,5 +411,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

@@ -4,6 +4,16 @@
  * Reads _all-motions.json and injects a "Votes" section into each
  * meeting page showing substantive votes with roll calls.
  *
+ * Idempotent: if a page already has a "## Votes" section (from a prior
+ * run), it is REPLACED with the freshly generated one rather than
+ * skipped or duplicated. Safe to re-run any time data/votes changes.
+ *
+ * This is the last step of the vote pipeline — run in this order:
+ *   1. npx tsx scripts/generate-votes.ts   (scrape/parse -> data/votes)
+ *   2. npx tsx scripts/generate-stats.ts   (data/votes -> data/stats)
+ *   3. npx tsx scripts/generate-pages.ts   (data -> content/*.md, base pages)
+ *   4. npx tsx scripts/add-votes-to-pages.ts (inject/refresh ## Votes sections)
+ *
  * Usage: npx tsx scripts/add-votes-to-pages.ts
  */
 
@@ -12,6 +22,7 @@ import path from "path"
 import {
   loadRegistry,
   getSlug,
+  isCurrentCouncillor,
 } from "../lib/councillors/index.js"
 
 interface AggregatedMotion {
@@ -52,10 +63,15 @@ function buildCouncillorLinks(): Map<string, string> {
   for (const [canonicalName, info] of Object.entries(registry)) {
     const slug = (info as any).slug || getSlug(canonicalName)
     const displayName = (info as any).displayName || canonicalName
-    const isCurrent = (info as any).isCurrent !== false
+    // Registry entries carry no isCurrent field — the phantom-field check made EVERY
+    // councillor "current", 404ing all former-councillor mentions. Use the term-based check.
+    const isCurrent = isCurrentCouncillor(canonicalName)
 
     const folder = isCurrent ? "current" : "former"
     links.set(displayName, `/councillors/${folder}/${slug}`)
+    // The frozen vote data stores registry keys (initials form, e.g. "W.R. Monteith"),
+    // which can differ from displayName — register both so mentions always link.
+    links.set(canonicalName, `/councillors/${folder}/${slug}`)
   }
 
   return links
@@ -220,6 +236,48 @@ async function findMarkdownFile(contentDir: string, meetingSlug: string): Promis
   }
 }
 
+/**
+ * Every meetingSlug the votes pipeline could possibly produce - scans
+ * data/YYYY-MM/*.json the same way generate-votes.ts does, so a meeting
+ * that currently has ZERO stored motions (all of them demoted/excluded,
+ * e.g. a garbled roll call, or the file itself is a detected duplicate
+ * re-publication) still gets visited below.
+ *
+ * Without this, main() below iterated motionsByMeeting alone - built
+ * ONLY from _all-motions.json - so a meeting that lost ALL of its
+ * motions was never visited at all and its stale "## Votes" section from
+ * an earlier run was never stripped (issue #199 final verify: 2 pages,
+ * 2011-12-05 Strategic Priorities and Policy Committee and 2015-06-10
+ * MINUTES 17TH MEETING, kept publishing roll calls data/votes no longer
+ * contained). Iterate the full meeting universe instead of the
+ * motions-only one - "any page whose meeting has zero stored motions
+ * gets its Votes section removed."
+ */
+async function allMeetingSlugs(dataDir: string): Promise<string[]> {
+  const slugs: string[] = []
+  const entries = await fs.readdir(dataDir, { withFileTypes: true })
+  const monthDirs = entries
+    .filter(e => e.isDirectory() && /^\d{4}-\d{2}/.test(e.name))
+    .map(e => e.name)
+    .sort()
+
+  for (const monthDir of monthDirs) {
+    const monthPath = path.join(dataDir, monthDir)
+    const files = await fs.readdir(monthPath)
+    for (const file of files.filter(f => f.endsWith(".json")).sort()) {
+      try {
+        const content = await fs.readFile(path.join(monthPath, file), "utf-8")
+        const meeting = JSON.parse(content)
+        if (!meeting.items || Object.keys(meeting.items).length === 0) continue
+        slugs.push(`months/${monthDir}/${file.replace(".json", "")}`)
+      } catch {
+        continue
+      }
+    }
+  }
+  return slugs
+}
+
 async function main() {
   console.log("🗳️ Adding vote sections to meeting pages\n")
 
@@ -248,12 +306,20 @@ async function main() {
   }
   console.log(`   ${motionsByMeeting.size} meetings with votes`)
 
+  // The meeting universe to visit is motionsByMeeting's keys UNION every
+  // meeting scanned from raw data - see allMeetingSlugs()'s doc comment.
+  const scannedSlugs = await allMeetingSlugs(dataDir)
+  const allSlugs = new Set<string>([...motionsByMeeting.keys(), ...scannedSlugs])
+  console.log(`   ${allSlugs.size} meetings total to check (including zero-motion ones)`)
+
   // Process each meeting
   let updated = 0
   let skipped = 0
   let notFound = 0
+  let orphansStripped = 0
 
-  for (const [meetingSlug, motions] of motionsByMeeting) {
+  for (const meetingSlug of allSlugs) {
+    const motions = motionsByMeeting.get(meetingSlug) ?? []
     // Find the markdown file
     const mdPath = await findMarkdownFile(contentDir, meetingSlug)
 
@@ -265,30 +331,61 @@ async function main() {
     // Read existing content
     const content = await fs.readFile(mdPath, "utf-8")
 
-    // Skip if already has a votes section
-    if (content.includes("## Votes")) {
-      skipped++
-      continue
-    }
-
-    // Generate votes markdown
+    // Generate votes markdown (may be "" if this meeting no longer has
+    // any substantive votes, e.g. everything reclassified as procedural)
     const votesSection = generateVotesMarkdown(motions, councillorLinks)
 
-    if (!votesSection) {
+    const votesHeadingIdx = content.indexOf("\n## Votes\n")
+
+    if (votesHeadingIdx === -1 && !votesSection) {
+      // No existing section and nothing to add this run - untouched.
       skipped++
       continue
     }
 
-    // Append votes section to the markdown
-    const newContent = content.trimEnd() + "\n" + votesSection + "\n"
+    // Strip any pre-existing "## Votes" section (and its leading "---"
+    // separator) so re-runs REPLACE rather than append. The Votes section
+    // is always the last thing in the file (see generateVotesMarkdown),
+    // so this is just "cut everything from the separator before ## Votes
+    // onward". Match defensively in case a future section is appended
+    // after Votes: stop at the next "\n---\n\n## " boundary if one exists.
+    let base = content
+    if (votesHeadingIdx !== -1) {
+      // Walk back over the "---\n\n" separator that generateVotesMarkdown
+      // always writes immediately before the heading.
+      const sepIdx = content.lastIndexOf("\n---\n\n", votesHeadingIdx)
+      const cutFrom = sepIdx !== -1 ? sepIdx : votesHeadingIdx
+
+      const rest = content.slice(votesHeadingIdx + "\n## Votes\n".length)
+      const nextSectionMatch = rest.match(/\n---\n\n## /)
+      const trailingKept = nextSectionMatch
+        ? rest.slice(nextSectionMatch.index)
+        : ""
+
+      base = content.slice(0, cutFrom).trimEnd() + trailingKept
+    }
+
+    // Write the (re)generated votes section, or just the stripped base
+    // if this meeting no longer has any substantive votes to show.
+    const newContent = votesSection
+      ? base.trimEnd() + "\n" + votesSection + "\n"
+      : base.trimEnd() + "\n"
+    if (newContent === content) {
+      skipped++
+      continue
+    }
+    if (votesHeadingIdx !== -1 && !votesSection) {
+      orphansStripped++
+    }
     await fs.writeFile(mdPath, newContent)
     updated++
   }
 
   console.log(`\n✅ Vote sections added!`)
   console.log(`   Updated: ${updated} meeting pages`)
-  console.log(`   Skipped: ${skipped} (already had votes or no substantive votes)`)
+  console.log(`   Skipped: ${skipped} (no substantive votes, or votes section already up to date)`)
   console.log(`   Not found: ${notFound} (no matching markdown file)`)
+  console.log(`   Orphaned sections stripped: ${orphansStripped} (meeting now has zero stored motions)`)
 }
 
 main().catch(console.error)

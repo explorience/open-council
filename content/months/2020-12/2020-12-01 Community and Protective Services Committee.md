@@ -213,7 +213,7 @@ The meeting adjourned at 5:11 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2. Consent
 
@@ -221,7 +221,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.2. (ADDED) City of London 2020-2021 Winter Response Program for Unsheltered Individuals
 
@@ -229,5 +229,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

@@ -1,6 +1,6 @@
 [
  {
-  "id": "7ea898383025",
+  "id": "c1352f5758e1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -12,7 +12,7 @@
   "verifierNote": "Verified against 2024-07-18 SPPC item 4.2 full text (the 'new part B' amendment, Failed 5-9): quote and Failed/would-have framing match verbatim. issue=none correct -- clause offsets Capital/Innovation Grants via reduced Economic Development Reserve Fund contribution; 'reserve fund' is a dropped keyword and no other budget/housing/climate keyword hits the operative text."
  },
  {
-  "id": "30f3d23e3afb",
+  "id": "d2b3742ab18d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -28,7 +28,7 @@
   "verifierNote": "Verified against full item 4.2 text ('Motion to approve part ii), iii) and part b)', Passed 11-3): the bundled clause is a comprehensive-review report-back (Q2 2027) + a delegation referral + a KPMG report-back -- no operative approve/deny verb on any tracked issue. issue=none, polarity=null correct."
  },
  {
-  "id": "785c5cf3d8aa",
+  "id": "ec8762bf2a1d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -43,7 +43,7 @@
   "verifierNote": "Verified against item 4.2 ('part ii) be approved... golf partnerships', Passed 11-3): pure report-back directive, no tracked-issue content. Confirmed none/null."
  },
  {
-  "id": "cb6a772b71be",
+  "id": "0e60dfd2410b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -58,7 +58,7 @@
   "verifierNote": "Verified against item 4.2 ('part iii)... venue naming rights', Passed 13-1): a request that Civic Administration attend a meeting to discuss policy -- no decision. Confirmed none/null."
  },
  {
-  "id": "9f1342ea81f8",
+  "id": "6d8ca4a00930",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -73,7 +73,7 @@
   "verifierNote": "Verified against item 4.2 ('part iv)... alcohol as revenue stream', Passed 9-5): report-back directive only, no facility list decided yet. Confirmed none/null."
  },
  {
-  "id": "8ad37d0034c4",
+  "id": "af5f9a5086a3",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -88,7 +88,7 @@
   "verifierNote": "Verified against item 4.2 ('part v)... eliminate snow plowing by-law', Failed 6-8): a report-back request on a hypothetical by-law; text has no transit/climate/budget keyword. Confirmed none/null."
  },
  {
-  "id": "1200d0404ab7",
+  "id": "9eeb69467dba",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -103,7 +103,7 @@
   "verifierNote": "Verified against item 4.2 ('part vi)... Surplus Deficit Policy', Passed 11-3): pure Q1-2025 report-back, no funding decided. issue=budget is a defensible substantive call (Surplus Deficit Policy is inherently a budget/finance policy area) even though no literal budget keyword is hit in this clause; polarity=null is correct regardless since it's a report-back."
  },
  {
-  "id": "77d83b4180ff",
+  "id": "d34fba436319",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -115,7 +115,7 @@
   "verifierNote": "Verified verbatim against 2024-07-18 SPPC item 4.4 (Failed 4-9): quote matches the motion exactly. issue=encampments is substantively sound (Ark Aid Street Mission Inc.'s Year-Round Stable Responsive Services is the city's homelessness-shelter response, even though 'homeless' isn't a literal token in this specific clause) -- not the title-only trap the issue-rules comments warn about, since the entire clause's substance (not just co-incidental title text) is about funding a shelter provider's services. axis=response-scale/expansive (extending funding duration) is a reasonable, non-misleading read; 'Would have' framing correctly reflects the Failed result."
  },
  {
-  "id": "5e62ba894f1c",
+  "id": "3a90014cb432",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -126,10 +126,10 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against item 4.4 (part g, Passed 12-1): 'Civic Administration BE DIRECTED to engage with... to review the Year-Round Stable Responsive Services strategy' is a consultative/review directive with no concrete deliverable or program committed -- correctly left unclear, distinguishable from a directive that commits to implementing a specific program on a set timeline (cf. 2cb0278f388f correction below)."
+  "verifierNote": "Verified against item 4.4 (part g, Passed 12-1): 'Civic Administration BE DIRECTED to engage with... to review the Year-Round Stable Responsive Services strategy' is a consultative/review directive with no concrete deliverable or program committed -- correctly left unclear, distinguishable from a directive that commits to implementing a specific program on a set timeline (cf. 2cb0278f388f (superseded id) correction below)."
  },
  {
-  "id": "5ac012d88d30",
+  "id": "e41ac2ad64b1",
   "issue": "budget",
   "axis": "relocation",
   "polarity": "restrictive",
@@ -143,7 +143,7 @@
   "verifierNote": "Verified verbatim against item 4.4 (Failed 4-8): quote matches exactly. This is the precedent case documented in direction-rules.ts itself (relocation axis, hub-recheck blocker 3) -- budget/relocation/restrictive is exactly correct: a nay opposed relocating Ark Aid's front-door services off Dundas St, not funding."
  },
  {
-  "id": "131b5caebf15",
+  "id": "f43433453552",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -155,7 +155,7 @@
   "verifierNote": "Verified verbatim against item 4.4 ('as amended', Passed 10-2): quote (single-source award clause) matches exactly and is part of the full amended motion that passed. issue=encampments/response-scale/expansive correct -- approves ongoing Year-Round Stable Responsive Services funding via $1.8M reallocation."
  },
  {
-  "id": "9f378672df6f",
+  "id": "e53ea92c0bb0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -169,7 +169,7 @@
   "verifierNote": "Verified against 2024-07-18 SPPC item 4.5 (Zoom recording/posting motion, Passed 8-3): council-meeting-logistics decision, no tracked issue. Confirmed none/null."
  },
  {
-  "id": "c1adcf9424ef",
+  "id": "7e1bd102e73d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -184,7 +184,7 @@
   "verifierNote": "Verified against item 4.5 (referral to Civic Administration for alternate tech options, Failed 3-8): pure referral, no tracked issue. Confirmed none/null."
  },
  {
-  "id": "5c4be53fef4c",
+  "id": "9a40d68737c6",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -198,7 +198,7 @@
   "verifierNote": "Verified against item 4.5 ('the motion be approved, as amended', Passed 9-2): same Zoom-recording logistics decision, no tracked issue. Confirmed none/null."
  },
  {
-  "id": "d02e95968a7d",
+  "id": "1f8772efa70f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -210,7 +210,7 @@
   "verifierNote": "Verified verbatim against 2024-07-15 CPSC item 2.11 (the graphic-image warning-sign amendment, Passed 3-1): matches exactly. Advocacy sign by-law content is not one of the eight tracked issue clusters. Confirmed none/null."
  },
  {
-  "id": "ae5e06026d97",
+  "id": "dd817b48820e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -225,7 +225,7 @@
   "verifierNote": "Verified against item 2.11 ('approve the main motion as amended', Passed 3-1): bundles the public-participation-meeting scheduling + the warning-sign amendment + a delegation referral -- no tracked issue. Confirmed none/null."
  },
  {
-  "id": "c78ce3165a89",
+  "id": "6b711e35f071",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -237,10 +237,10 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2024-06-25 Council item 8.2.3 (Failed 7-7): the actually-recorded voted text for this specific tally stops at sub-clause i) and does NOT include the ii)/iii) sub-clauses containing 'downtown revitalization' / 'downtown safety and security' -- those phrases belong only to the separately-voted Failed-4-10 sub-motion (bb6ac8af503d). issue=none is correct for THIS specific vote's actual text; referral+deferral content, no operative decision either way. No inconsistency with bb6ac8af503d despite superficially similar preambles."
+  "verifierNote": "Verified against 2024-06-25 Council item 8.2.3 (Failed 7-7): the actually-recorded voted text for this specific tally stops at sub-clause i) and does NOT include the ii)/iii) sub-clauses containing 'downtown revitalization' / 'downtown safety and security' -- those phrases belong only to the separately-voted Failed-4-10 sub-motion (bb6ac8af503d (superseded id)). issue=none is correct for THIS specific vote's actual text; referral+deferral content, no operative decision either way. No inconsistency with bb6ac8af503d (superseded id) despite superficially similar preambles."
  },
  {
-  "id": "fe68183e5e8b",
+  "id": "966553184832",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -254,7 +254,7 @@
   "verifierNote": "Verified verbatim against 2024-06-25 Council item 8.2.3 (Failed 4-10, the standalone 'part b), ii) and iii)' sub-motion): text literally contains 'downtown revitalization' and 'downtown safety and security', supporting issue=downtown via genuine keyword hits. Operative content is BE DEFERRED + BE DIRECTED to report back -- a pure deferral/informational-ask combo, correctly left unclear despite being issue-tagged."
  },
  {
-  "id": "2864b8cf1a5a",
+  "id": "74e6adcc2ea7",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -266,7 +266,7 @@
   "verifierNote": "Verified verbatim against 2024-06-25 Council item 8.2.7 (Passed 13-1): full untruncated text confirms 'BE ENDORSED' is the operative verb (the truncation bug the classifier flagged is real -- prod's issues.json read this wrong). issue=encampments correct. axis=null is the right call: the plan's substance here is buffer-zone/setback siting rules, and the only defined encampments axis (response-scale) is about funding/shelter/outreach scale, not spatial restrictions -- forcing this into 'expanded/reduced the encampment/homelessness response' would misdescribe a siting-guideline vote. No existing axis fits without inventing one, which is out of scope for verification; unclear is the safe, correct call."
  },
  {
-  "id": "742887888895",
+  "id": "bf6c070239d3",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -278,7 +278,7 @@
   "verifierNote": "Verified verbatim against 2024-06-25 Council item 8.3.13 (735 Southdale Rd W, Passed 12-2): quote matches exactly ('to permit a density of 231 units per hectare and a maximum height of 12 storeys (39 metres)'). Note the motion's own boilerplate 'reasons' clause reads oddly ('Council approves this application for the following reasons: - the requested amendment is NOT consistent with the PPS...') -- an apparent clerk/template copy-paste artifact -- but the OPERATIVE clauses (by-law introduction increasing permitted density/height) and the 12-2 vote are unambiguous and control. housing/density/expansive confirmed."
  },
  {
-  "id": "c711b2cdae09",
+  "id": "f6361a61d337",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -290,7 +290,7 @@
   "verifierNote": "Verified verbatim against item 8.3.14 (323 Oxford St W etc., Passed 13-1): quote matches exactly ('permit development with a maximum height of 18 storeys (60 metres)'). housing/density/expansive confirmed; motion also includes a draft-subdivision endorsement matching the whatAYeaDid description."
  },
  {
-  "id": "ecbe45bd3014",
+  "id": "fe9e0968fd79",
   "issue": "housing",
   "axis": "use-permission",
   "polarity": "expansive",
@@ -302,7 +302,7 @@
   "verifierNote": "Verified verbatim against item 8.3.15 (Land Needs Assessment, Passed 13-1, main motion): quote matches exactly the Hyde Park Specific Area Policy language permitting fourplexes/stacked townhomes/mid-rise apartments. housing/use-permission/expansive confirmed."
  },
  {
-  "id": "a1b9fccc38ff",
+  "id": "d87b6bbf358b",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -316,7 +316,7 @@
   "verifierNote": "Verified verbatim against item 8.3.15 (part e, Passed 9-5): 'engage a third-party economic consultant to undertake a housing supply marketplace analysis... and provide recommendations' is a study directive, no housing-supply decision itself. Confirmed housing/null (informational)."
  },
  {
-  "id": "a806722d5fb1",
+  "id": "0b1f706daded",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -328,7 +328,7 @@
   "verifierNote": "Verified verbatim against item 8.3.15 (part d, Passed 12-2): endorses using different population projections 'subject to further consultation... and review by Municipal Council at a future meeting' -- a methodology choice, several steps removed from any of the three defined housing axes (density, use-permission, affordable-funding). None fit without stretching; correctly left unclear."
  },
  {
-  "id": "da278f99b309",
+  "id": "3fa02b1a135d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -340,7 +340,7 @@
   "verifierNote": "Verified against 2024-06-25 Council item 8.3.6 (332 St. James St Heritage Alteration Permit, Passed 12-2): Ontario Heritage Act permit, not one of the eight tracked issues (direction-rules.ts itself notes heritage isn't tracked). Confirmed none/null."
  },
  {
-  "id": "679751254bc1",
+  "id": "154e6d98f74b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -354,7 +354,7 @@
   "verifierNote": "Verified verbatim against 2024-06-18 SPPC item 2.1 (Asset Mgmt Plans for ABCs, the amendment adding the L&M Community Housing note, Passed 10-5): 'Housing' here is part of an organization's proper name (London & Middlesex Community Housing) inside a purely informational scheduling note, not a housing policy decision -- no housing keyword substantively applies. Confirmed none/null, correctly avoiding a body-text analog of the title-only trap."
  },
  {
-  "id": "c98a1fcdbcb0",
+  "id": "03e2a8fb9317",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -368,7 +368,7 @@
   "verifierNote": "Verified against 2024-06-18 SPPC item 2.2 (Master Accommodation Plan referral, Failed 5-10): pure referral to a future meeting for public engagement, no decision. Confirmed none/null."
  },
  {
-  "id": "56ec9c413165",
+  "id": "ec3b2cacdb7d",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -379,10 +379,10 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2024-06-18 SPPC item 4.1 (the 'part a) FURTHER AMENDED' motion setting 150m school + 100m residential buffers, Passed 10-5): matches whatAYeaDid's specific 150m/100m description exactly, distinguishing it from the similarly-tallied a0899f595ca6 (which covers a different bullet set). encampments/null correct -- no existing axis captures spatial buffer-zone content without misdescribing it as a funding/response-scale change (see 24c227e2c3dd note)."
+  "verifierNote": "Verified against 2024-06-18 SPPC item 4.1 (the 'part a) FURTHER AMENDED' motion setting 150m school + 100m residential buffers, Passed 10-5): matches whatAYeaDid's specific 150m/100m description exactly, distinguishing it from the similarly-tallied 4738465c5ed7 (which covers a different bullet set). encampments/null correct -- no existing axis captures spatial buffer-zone content without misdescribing it as a funding/response-scale change (see 24c227e2c3dd (superseded id) note)."
  },
  {
-  "id": "72280213a85e",
+  "id": "d597de71c11e",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -393,10 +393,10 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against item 4.1 (the 'FURTHER AMENDED' motion covering ONLY the 100m playground + 100m sports-field bullets, Passed 9-6): matches whatAYeaDid exactly and is correctly distinguished from the other same-tally (9-6) vote (6c435c184251, which covers playground+residential+sports together). encampments/null correct for the same axis-mismatch reason."
+  "verifierNote": "Verified against item 4.1 (the 'FURTHER AMENDED' motion covering ONLY the 100m playground + 100m sports-field bullets, Passed 9-6): matches whatAYeaDid exactly and is correctly distinguished from the other same-tally (9-6) vote (62f050b18f9b, which covers playground+residential+sports together). encampments/null correct for the same axis-mismatch reason."
  },
  {
-  "id": "0e2c478ec1f4",
+  "id": "16d8fadbb13d",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -407,10 +407,10 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against item 4.1 ('part a) BE APPROVED... 150 metres of an elementary school', Passed 11-4): matches. Same content also appears in a second, later 11-4 vote (72730f1d4cfb) as the final bundled ratification of the same clause -- both descriptions are substantively identical and non-misleading regardless of exact 1:1 mapping. encampments/null correct."
+  "verifierNote": "Verified against item 4.1 ('part a) BE APPROVED... 150 metres of an elementary school', Passed 11-4): matches. Same content also appears in a second, later 11-4 vote (c289c10f4c0d) as the final bundled ratification of the same clause -- both descriptions are substantively identical and non-misleading regardless of exact 1:1 mapping. encampments/null correct."
  },
  {
-  "id": "6c435c184251",
+  "id": "62f050b18f9b",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -421,10 +421,10 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against item 4.1 ('part a) BE APPROVED... reads as follows: 100m playground/100m residential/100m sports', Passed 9-6): matches whatAYeaDid's three-bullet description exactly, correctly distinct from 72280213a85e (playground+sports only, no residential). encampments/null correct."
+  "verifierNote": "Verified against item 4.1 ('part a) BE APPROVED... reads as follows: 100m playground/100m residential/100m sports', Passed 9-6): matches whatAYeaDid's three-bullet description exactly, correctly distinct from d597de71c11e (playground+sports only, no residential). encampments/null correct."
  },
  {
-  "id": "a0899f595ca6",
+  "id": "4738465c5ed7",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -435,10 +435,10 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against item 4.1 ('part a) second, third and fourth bullets... BE APPROVED', Passed 10-5): matches exactly (100m playground, 100m residential, 100m sports), correctly distinct from the other 10-5 vote (56ec9c413165, which is 150m school + 100m residential). encampments/null correct."
+  "verifierNote": "Verified against item 4.1 ('part a) second, third and fourth bullets... BE APPROVED', Passed 10-5): matches exactly (100m playground, 100m residential, 100m sports), correctly distinct from the other 10-5 vote (ec3b2cacdb7d, which is 150m school + 100m residential). encampments/null correct."
  },
  {
-  "id": "72730f1d4cfb",
+  "id": "c289c10f4c0d",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -449,10 +449,10 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against item 4.1 ('part a), first bullet, as amended, BE APPROVED', Passed 11-4): the final-ratification-sequence twin of 0e2c478ec1f4 (150m school setback); both descriptions are substantively identical and accurate. encampments/null correct."
+  "verifierNote": "Verified against item 4.1 ('part a), first bullet, as amended, BE APPROVED', Passed 11-4): the final-ratification-sequence twin of 16d8fadbb13d (150m school setback); both descriptions are substantively identical and accurate. encampments/null correct."
  },
  {
-  "id": "7c23914fd476",
+  "id": "4bece7986269",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -466,7 +466,7 @@
   "verifierNote": "Verified against 2024-06-18 SPPC item 4.1 (permit committee to proceed beyond 6:00 PM, Passed 14-1): pure scheduling procedure. Confirmed none/null."
  },
  {
-  "id": "7b99c160a79f",
+  "id": "03c882ddeec1",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -480,7 +480,7 @@
   "verifierNote": "Verified against item 4.1 (15-minute recess, Passed 13-2): matches GLOBAL_EXCLUDE's documented 'recess at this time' pattern exactly. Confirmed none/null."
  },
  {
-  "id": "9808e3cc73de",
+  "id": "f18d5649bd99",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -494,7 +494,7 @@
   "verifierNote": "Verified verbatim against 2024-06-18 SPPC item 4.2 Basic Needs Response Plan (part g, washroom-facilities report-back, Passed 9-6): pure report-back/study directive, no service decision. Confirmed encampments/null."
  },
  {
-  "id": "26af775dc1b8",
+  "id": "848e0c95a1ec",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -506,7 +506,7 @@
   "verifierNote": "Verified verbatim against item 4.2 (Passed 14-1): quote matches exactly. Directs continuing the depot meal program pending Basic Needs Plan approval and finding a funding source -- a genuine continuity/expansion decision on the response, not a report-back. encampments/response-scale/expansive confirmed."
  },
  {
-  "id": "4249874ccbdb",
+  "id": "05bd44a45675",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -517,10 +517,10 @@
    "referral"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against item 4.2 ('the referral, as amended, BE APPROVED', Passed 13-2): this is the formal approval of a REFERRAL of the Encampment Response Option 2 funding decision to a future meeting -- the referral's own content is a non-decision (DEFER_RE), so leaving unclear correctly avoids double-counting the depot-meal continuation already captured separately by 26af775dc1b8 (14-1, the standalone amendment vote for that specific clause). Confirmed encampments/null."
+  "verifierNote": "Verified against item 4.2 ('the referral, as amended, BE APPROVED', Passed 13-2): this is the formal approval of a REFERRAL of the Encampment Response Option 2 funding decision to a future meeting -- the referral's own content is a non-decision (DEFER_RE), so leaving unclear correctly avoids double-counting the depot-meal continuation already captured separately by 26af775dc1b8 (superseded id) (14-1, the standalone amendment vote for that specific clause). Confirmed encampments/null."
  },
  {
-  "id": "b8345065f9bc",
+  "id": "3e7ed930dc8f",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -532,7 +532,7 @@
   "verifierNote": "Verified verbatim against 2024-06-11 PEC item 3.1 (Community Improvement Plans / Affordable Housing CIP, 'Motion to approve #15', Passed 4-1): quote matches exactly. Declining to introduce affordable-housing minimums to preserve existing financial-incentive programs is a real, substantive decision but doesn't cleanly fit any of the three defined housing axes (density, use-permission, affordable-funding is specifically about grants/awards, not a minimums mandate). No axis fits without stretching; correctly left unclear."
  },
  {
-  "id": "adc4ff27ad63",
+  "id": "a2ed4d2108b4",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -546,7 +546,7 @@
   "verifierNote": "Verified against 2024-06-04 Council item 8.2.15 ('shall the ruling of the Chair BE SUSTAINED?', Passed 8-6): a procedural ruling on personal privilege, not a substantive vote on gas-lawn-equipment policy. Confirmed none/null."
  },
  {
-  "id": "2cb0278f388f",
+  "id": "3894b81cb678",
   "issue": "climate",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -557,10 +557,10 @@
    "wrapper_preamble"
   ],
   "verdict": "corrected",
-  "verifierNote": "Verified verbatim against item 8.2.15 (part b, awareness-campaign clause, Failed 5-9): quote matches exactly. On review this was left unclear on a 'wrapper_preamble' rationale, but the wrapper ('part b) of the motion be approved as follows:') strips cleanly per direction-rules.ts's own wrapper logic because the clause that follows has its own independent, unambiguous operative verb ('BE DIRECTED to design and implement... for implementation in February to April 2025') -- a concrete program commitment with a defined delivery window, not a report-back/study/consultation ask (no INFORMATIONAL_ASK_RE phrase -- 'report back', 'study', 'explore best practices', etc. -- appears anywhere in the clause). No climate content-axis (target-strength, natural-heritage) fits, so this properly falls to the direction-rules.ts generic fallback: axis='application-approval', and since AFFIRM_RE ('BE DIRECTED') fires with no denial language, valence is expansive. CORRECTED from polarity=null to axis='application-approval', polarity='expansive' (Would-have framing retained since the motion failed 5-9). Distinguished from 9cfa0991c40f and 5e62ba894f1c, which I left unclear because their operative content is genuinely research/consultation-flavored ('complete the remaining work on emerging best practices...', 'engage... to review the... strategy') even though they also use approve/direct verbs -- those are closer in substance to a study than to implementing a concrete program on a set timeline."
+  "verifierNote": "Verified verbatim against item 8.2.15 (part b, awareness-campaign clause, Failed 5-9): quote matches exactly. On review this was left unclear on a 'wrapper_preamble' rationale, but the wrapper ('part b) of the motion be approved as follows:') strips cleanly per direction-rules.ts's own wrapper logic because the clause that follows has its own independent, unambiguous operative verb ('BE DIRECTED to design and implement... for implementation in February to April 2025') -- a concrete program commitment with a defined delivery window, not a report-back/study/consultation ask (no INFORMATIONAL_ASK_RE phrase -- 'report back', 'study', 'explore best practices', etc. -- appears anywhere in the clause). No climate content-axis (target-strength, natural-heritage) fits, so this properly falls to the direction-rules.ts generic fallback: axis='application-approval', and since AFFIRM_RE ('BE DIRECTED') fires with no denial language, valence is expansive. CORRECTED from polarity=null to axis='application-approval', polarity='expansive' (Would-have framing retained since the motion failed 5-9). Distinguished from 9cfa0991c40f (superseded id) and 5e62ba894f1c (superseded id), which I left unclear because their operative content is genuinely research/consultation-flavored ('complete the remaining work on emerging best practices...', 'engage... to review the... strategy') even though they also use approve/direct verbs -- those are closer in substance to a study than to implementing a concrete program on a set timeline."
  },
  {
-  "id": "9cfa0991c40f",
+  "id": "f47d9ac2a84c",
   "issue": "climate",
   "axis": null,
   "polarity": null,
@@ -572,10 +572,10 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified verbatim against item 8.2.15 (part c, multi-municipality project clause, Failed 7-7): quote matches. Although phrased as 'BE APPROVED to pursue' rather than literally 'report back', the substance -- completing research on best practices/legislation/costs-benefits/incentive programs, including a grant funding application to support that research -- is a study/research authorization, not a policy commitment on gas-powered equipment itself. Left unclear as the safer, more defensible read; distinguished from 2cb0278f388f's concrete program-with-a-delivery-date."
+  "verifierNote": "Verified verbatim against item 8.2.15 (part c, multi-municipality project clause, Failed 7-7): quote matches. Although phrased as 'BE APPROVED to pursue' rather than literally 'report back', the substance -- completing research on best practices/legislation/costs-benefits/incentive programs, including a grant funding application to support that research -- is a study/research authorization, not a policy commitment on gas-powered equipment itself. Left unclear as the safer, more defensible read; distinguished from 2cb0278f388f (superseded id)'s concrete program-with-a-delivery-date."
  },
  {
-  "id": "d2101785a434",
+  "id": "656384cab113",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -589,7 +589,7 @@
   "verifierNote": "Verified verbatim against 2024-06-04 Council item 8.2.16 (West London transit/roads report-back, Passed 10-4): all four sub-clauses (a-d) are report-back/study/integrate-into-future-reports directives; no substantive transit decision made. Confirmed transit/null."
  },
  {
-  "id": "985a8965516e",
+  "id": "7418004bd1af",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -601,7 +601,7 @@
   "verifierNote": "Verified verbatim against 2024-06-04 Council item 8.4.11 (193-199 College Ave, Passed 9-5): quote matches exactly ('the development, as proposed, BE ENDORSED'). Text confirms 'notwithstanding the recommendation of the Director, Planning and Development' (staff recommended against) and the endorsed special provisions include 196 units/hectare density and 21.0m height. housing/density/expansive confirmed."
  },
  {
-  "id": "5773ea5a7c3e",
+  "id": "4943e372d809",
   "issue": "none",
   "axis": null,
   "polarity": null,

@@ -577,7 +577,7 @@ Thank you everyone have a good day.
 
 ## Votes
 
-*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (3 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 2.3. Federation of Canadian Municipalities: Green Municipal Fund Agreement for Enhancing London’s Resilience Through Climate Adaptation Planning
 
@@ -616,4 +616,19 @@ Thank you everyone have a good day.
 **✅ Motion Passed (5 to 0)**
 
 Unanimous (5-0)
+
+### 2.10. 2025 Portfolio Investments Report
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the 2025 Portfolio Investments Report, providing a summary of the performance of the City of London’s investments, BE RECEIVED for information.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
 

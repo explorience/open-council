@@ -5,18 +5,18 @@ slug: "j-l-baechler"
 meetingCount: 132
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2640
-votesYea: 2432
-votesNay: 208
+totalVotes: 3163
+votesYea: 2952
+votesNay: 211
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 93.1
 participationRate: 100.0
-yeaRate: 92.1
-contestedDissentRate: 10.0
-contestedVotes: 2640
+yeaRate: 93.3
+contestedDissentRate: 27.5
+contestedVotes: 750
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,640 |
-| Voted Yea | 2,432 (92.1%) |
-| Voted Nay | 208 (7.9%) |
+| Total Votes | 3,163 |
+| Voted Yea | 2,952 (93.3%) |
+| Voted Nay | 211 (6.7%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,636 |
-| Voted Yea | 2,429 (92.1%) |
-| Voted Nay | 207 (7.9%) |
+| Substantive Votes | 2,851 |
+| Voted Yea | 2,640 (92.6%) |
+| Voted Nay | 211 (7.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 10.0%
-- **Contested Votes**: 2,640
+- **Dissent Rate**: 27.5%
+- **Contested Votes**: 750
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 762 |
-| Voted Yea | 651 (85.4%) |
-| Voted Nay | 111 (14.6%) |
+| Budget Votes | 458 |
+| Voted Yea | 415 (90.6%) |
+| Voted Nay | 43 (9.4%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,223 | 1,151 | 72 | 100.0% |
-| Strategic Priorities and Policy Committee | 836 | 711 | 125 | 100.0% |
+| Council | 2,217 | 2,056 | 161 | 100.0% |
+| Strategic Priorities and Policy Committee | 365 | 326 | 39 | 100.0% |
 | Planning and Environment Committee | 336 | 330 | 6 | 100.0% |
 | Community and Protective Services Committee | 101 | 97 | 4 | 100.0% |
 | Civic Works Committee | 83 | 83 | 0 | 100.0% |
@@ -118,48 +118,70 @@ prefillQuestions:
 Voted **Yea** - Motion
   Failed
 
+### 2014-09-30: Property located at
+  1300 Fanshawe Park Road East (OZ-8358)
+
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+
+> That, the application of 1849259 Ontario
+  Inc., relating to the property located at 1300 Fanshawe Park Road East BE
+  REFUSED as the Municipal Council does not believe that a  special policy to
+  per...
+
+Voted **Yea** - Motion Failed
+
+### 2014-09-30: Property located at
+  1300 Fanshawe Park Road East (OZ-8358)
+
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+
+> Approve that, on
+  the recommendation of the Managing Director, Planning and City Planner, the
+  following actions be taken with respect to the application of 1849259 Ontario
+  Inc., relating to the p...
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-30: Property located at
+  2118 Richmond Street (OZ-7890)
+
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+
+> At 6:08 PM Her Worship the Mayor resumes
+  the Chair, and Councillor P. Hubert takes his seat at the Council Board.
+
+Voted **Yea** - Motion Failed
+
+### 2014-09-30: Property located at
+  2118 Richmond Street (OZ-7890)
+
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Nay** - Motion Passed
+
 ### 2014-09-30: By-law Amendments
   for Expanded Animal Welfare Initiatives
 
-[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2014-09-30: Property located at
-  1300 Fanshawe Park Road East (OZ-8358)
-
-[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
-
-> Motion Failed
+> That the following actions be taken to
+  amend various City of London by-laws in order to support enhanced animal care
+  strategies and implement the Municipal Council’s first principle of “no kill”
+ ...
 
 Voted **Yea** - Motion Failed
 
-### 2014-09-30: Property located at
-  1300 Fanshawe Park Road East (OZ-8358)
+### 2014-09-30: By-law Amendments
+  for Expanded Animal Welfare Initiatives
 
-[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2014-09-30: Property located at
-  2118 Richmond Street (OZ-7890)
-
-[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
-
-> Motion Failed
-
-Voted **Yea** - Motion Failed
-
-### 2014-09-30: Property located at
-  2118 Richmond Street (OZ-7890)
-
-[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
+> Approve that, on the recommendation
+  of the Managing Director, Development & Compliance Services and the Chief
+  Building Official, the following actions be taken to amend various City of
+  London by...
 
 Voted **Nay** - Motion Passed
 
@@ -177,31 +199,22 @@ Voted **Yea** - Motion
 ### 2014-09-16: COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-[MINUTES 22ND MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English)
+[MINUTES 22ND MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English)
 
-> Motion Failed
+> Approve clause 2, as amended.
 
 Voted **Yea** - Motion Failed
 
 ### 2014-09-02: Installation of
   Sidewalks on Shavian Blvd.
 
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
 
-> Motion Failed
+> Approve that pursuant section 13.6 of the
+  Council Procedure By-law that the proposed amendment to part a) of clause 22
+  BE RECONSIDERED to provide all Members of Council an opportunity to vote on t...
 
 Voted **Yea** - Motion Failed
-
-### 2014-07-28: Appointments to the
-  London Public Library, 2014 - Term December 1, 2014 to November 30, 2018
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Passed
-
-Voted **Nay** - Motion
-  Passed
 
 
 ## Committees Served

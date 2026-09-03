@@ -208,28 +208,6 @@ The Civic Works Committee convened In Closed Session from 12:45 PM to 12:50 PM.
 
 
 The meeting adjourned at 12:51 PM.
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That items 2.1 to 2.3 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. 9th Report of the Integrated Transportation Community Advisory Committee
-
-> That pursuant to the Council Procedure By-law, the delegate BE PERMITTED to speak an additional 5 minutes with respect to this matter.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -438,3 +416,60 @@ We are now on item seven, which is adjournment. We get a motion to adjourn, Coun
 Could I get the hands? Motion to adjourn. We are adjourned, thank you.
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. 9th Report of the Integrated Transportation Community Advisory Committee
+
+> That the following actions be taken with respect to the 9th Report of the Integrated Transportation Community Advisory Committee, from its meeting held on August 16, 2023: a)    the attached presentation, with respect to the Mobility Master Plan, BE RECEIVED by the Civic Works Committee for their...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Nay (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. 9th Report of the Integrated Transportation Community Advisory Committee
+
+> That pursuant to the Council Procedure By-law, the delegate BE PERMITTED to speak an additional 5 minutes with respect to this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. 9th Report of the Integrated Transportation Community Advisory Committee
+
+> That the Integrated Transportation Community Advisory Committee (ITCAC) BE THANKED, and the ITCAC Presentation, BE RECEIVED with no further action be taken.
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+

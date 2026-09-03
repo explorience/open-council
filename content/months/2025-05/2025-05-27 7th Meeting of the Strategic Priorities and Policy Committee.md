@@ -384,62 +384,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:27 PM.
 
 ****
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
-
-### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions
-
-> That pursuant to section 36.6 of the Council Procedure By-law, London Hydro Inc. BE PERMITTED to speak an additional five (5) minutes with respect to the London Hydro Inc. presentation and 2024 Annual Report.
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions
-
-> That the preamble and parts a) through g) of the motion be approved and reads as follows: That, the following actions be taken with respect to London Hydro Inc.: a)   the proposed by-law, as appended to the staff report dated May 27, 2025 as Appendix “A”, entitled “A by-law to ratify and confirm ...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions
-
-> That part h) of the motion be approved and read as follows: h)    that Paul M. Madden BE APPOINTED to the London Hydro Board of Directors, Second Class, for the term ending December 31, 2025.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 4.1. London Hydro Proposed Amendments to the Shareholder Declaration
-
-> That the communication dated May 15, 2025 from C. Graham, Chair, Board of Directors, London Hydro Inc. regarding the Proposed Amendments to the Shareholders Declaration BE REFERRED to Civic Administration and to report back at a future meeting of the Strategic Priorities and Policy Committee.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
 ---
 
 ## Full Transcript
@@ -992,3 +936,86 @@ Thank you. Thank you for confirming that and I appreciate that that is the recom
 Have a great rest of your day.
 
 </details>
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (4 contested, 1 unanimous). Procedural motions excluded.*
+
+### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions
+
+> That pursuant to section 36.6 of the Council Procedure By-law, London Hydro Inc. BE PERMITTED to speak an additional five (5) minutes with respect to the London Hydro Inc. presentation and 2024 Annual Report.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions
+
+> That part h) of the motion be approved and read as follows: h)    that Paul M. Madden BE APPOINTED to the London Hydro Board of Directors, Second Class, for the term ending December 31, 2025.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 4.1. London Hydro Proposed Amendments to the Shareholder Declaration
+
+> That the communication dated May 15, 2025 from C. Graham, Chair, Board of Directors, London Hydro Inc. regarding the Proposed Amendments to the Shareholders Declaration BE REFERRED to Civic Administration and to report back at a future meeting of the Strategic Priorities and Policy Committee.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 4.2. 2025 London and Middlesex Community Housing Asset Management Plan
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 London and Middlesex Community Housing Asset Management Plan: a)    the report BE RECEIVED for information purposes; and b)    the “2025 London and Middlesex Community...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 4.2. 2025 London and Middlesex Community Housing Asset Management Plan
+
+> That the following actions be taken with respect to the 2025 London and Middlesex Community Housing Asset Management Plan: a) the report dated May 27, 2025 BE RECEIVED for information purposes; b) the “2025 London and Middlesex Community Housing Asset Management Plan”, appended to the staff repor...
+
+**❌ Motion Failed (2 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+

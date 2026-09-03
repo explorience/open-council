@@ -442,50 +442,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:04 PM.
 
 ****
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.5, 2.7 to 2.9 and 2.11 to 2.13 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.10. Property Standards By-law CP-24 - Amendments Related to Minimum Headroom and Information Regarding the Tenant-Landlord Forum
-
-> Motion to amend part b) to read as follows: b) that the matter of reducing minimum headroom requirements BE REFERRED back to Civic Administration to bring forward a report to a future meeting of the Community and Protective Services Committee with further details regarding the amendment including...
-
-**❌ Motion Failed (1 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.14. Special Events Policy Update
-
-> That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated December 2, 2024, related to the Special Events Policy: a)    the proposed by-law, as appended to the above-noted staff report,...
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
 ---
 
 ## Full Transcript
@@ -864,3 +820,63 @@ Looking for a motion to adjourn. Councillor McAllister moved, seconded by myself
 All those opposed? That motion carries. Where is your?
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (3 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, 2.7 to 2.9 and 2.11 to 2.13 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.10. Property Standards By-law CP-24 - Amendments Related to Minimum Headroom and Information Regarding the Tenant-Landlord Forum
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated December 2, 2024, related to Property Standards By-law CP-24 Amendments Related to Minimum Headroom and Information Regarding the Tenan...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 2.10. Property Standards By-law CP-24 - Amendments Related to Minimum Headroom and Information Regarding the Tenant-Landlord Forum
+
+> Motion to amend part b) to read as follows: b) that the matter of reducing minimum headroom requirements BE REFERRED back to Civic Administration to bring forward a report to a future meeting of the Community and Protective Services Committee with further details regarding the amendment including...
+
+**❌ Motion Failed (1 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.14. Special Events Policy Update
+
+> That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated December 2, 2024, related to the Special Events Policy: a)    the proposed by-law, as appended to the above-noted staff report,...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+

@@ -201,7 +201,7 @@ The meeting adjourned at 4:43 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.1. Single Source Procurement - Vehicle Exhaust Capture Systems (VECS) in City of London Fire Stations
 
@@ -209,5 +209,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

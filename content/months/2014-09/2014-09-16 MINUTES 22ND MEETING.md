@@ -4,7 +4,7 @@ date: 2014-09-16
 ---
 September 16, 2014, at  5:04 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > J. Baechler, B. Polhill, B. Armstrong, J.B. Swan, S. Orser, W.R. Monteith, M. Brown, P. Hubert, D.G. Henderson, P. Van Meerbergen, D. Brown, H.L. Usher, J.P. Bryant, S.E. White, C. Saunders
@@ -18,17 +18,19 @@ September 16, 2014, at  5:04 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 5:04 PM.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-  Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;14th Report of the
+  Civic Works Committee
 
-That it BE NOTED that no pecuniary
-  interests were disclosed.
-
+# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-FIRST MEETING HELD ON SEPTEMBER 2,
   2014
 
@@ -39,7 +41,40 @@ That it BE NOTED that no pecuniary
 Approve the Minutes of 21st Meeting held
   on September 2, 2014.
 
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |W.R. Monteith|
+> |M. Brown|
+> |P. Hubert|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (13)|
+
+> **Motion Passed**
+
 ****
+
+# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
+  AND PETITIONS
+
+# 1.&nbsp;&nbsp;&nbsp;City Clerk -
+  Tribunal - Development Charge Complaint - 1030 Elias Street (Refer to the
+  Corporate Services Committee stage for consideration with clause 2 of the
+  22nd Report of the Corporate Services Committee.)
+
+# 2.&nbsp;&nbsp;&nbsp;J. Kennedy, London
+  Development Institute - Lands south of Exeter Road, north of Dingman Drive,
+  east of White Oak Road and west of the Marr Drain (O-8362) (Refer to the
+  Planning and Environment Committee stage for consideration with clause 18 of
+  the 16th Report of the Planning and Environment Committee.)
 
 Motion Passed
 
@@ -64,46 +99,32 @@ Motion Passed
 
 ****
 
-  AND PETITIONS
+# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
+  WHICH NOTICE IS GIVEN
 
-  Sidewalks  on Shavian Blvd.
+# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
-That, on the recommendation of Managing
-  Director, Environmental and Engineering Services and City Engineer, the
-  following actions be taken with respect to the Shavian Boulevard Sidewalk
-  Installation in the 2014 Annual Warranted Sidewalk Contract:
- 
-a)         the
-  sidewalk installation at Shavian Boulevard, as previously proposed in the
-  2014 Annual Warranted Sidewalk Contract, to be installed at the back of the
-  existing curb, BE APPROVED;
- 
-b)         the
-  Civic Administration BE DIRECTED to implement the sidewalk installation
-  through the current Contract; and,
- 
-c)         the
-  communication dated September 12, 2014, from B. Davis, President, Old
-  Masonville Ratepayers Association BE RECEIVED; 
- 
-it being noted that the Civic Works
-  Committee received a verbal update from E. Soldo, Director, Roads and
-  Transportation with respect to the further public consultation that was
-  undertaken in connection with this matter.
+22nd Report of the
+  Corporate Services Committee
+Councillor J.P. Bryant presents.
 
-Motion Passed
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That is BE NOTED that no pecuniary interest
+  were disclosed.
 
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
 > |J. Baechler|
 > |B. Polhill|
+> |B. Armstrong|
 > |J.B. Swan|
 > |S. Orser|
 > |W.R. Monteith|
 > |M. Brown|
 > |P. Hubert|
-> |D.G. Henderson|
 > |P. Van Meerbergen|
 > |D. Brown|
 > |H.L. Usher|
@@ -114,15 +135,55 @@ Motion Passed
 
 ****
 
-  WHICH NOTICE IS GIVEN
+# 2.&nbsp;&nbsp;&nbsp;Tribunal -
+  Development Charge Complaint - 1030 Elias Street
 
+That after convening as a Tribunal under
+  section 26 of Part IV of By-law C.P.-1473-212, and pursuant to By-law
+  A.-6361-177 that would delegate the hearing to the Corporate Services
+  Committee from the Board of Control, to hear a complaint from Junction
+  Climbing Centre Inc. regarding the development charge imposed by The
+  Corporation of the City of London in connection with development on the land
+  known as 1030 Elias Street, as detailed in the attached Record of
+  Proceedings, the complaint BE DISMISSED on the basis that the Tribunal finds
+  that the development charge was properly imposed in accordance with the
+  applicable by-law.
 
+> Moved by Councillor J.P. Bryant
+
+> Seconded by Councillor B. Polhill
+
+Approve that the Record of Proceedings
+  be amended by inserting the word “no” after the words “There was” in line 2,
+  paragraph 3 of page 7 of the Record of Proceedings so that the sentence now
+  reads “There was no support by other Tribunal Members for that proposal.”
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |W.R. Monteith|
+> |M. Brown|
+> |P. Hubert|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (13)|
+
+> **Motion Passed**
+
+****
+
+# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
 
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -143,16 +204,16 @@ Motion Passed
 > **Motion Passed**
 
 ****
+
+22nd Report of the Corporate Services
+  Committee (continued)
+Councillor J.P. Bryant presents.
 
 > Moved by Councillor J.P. Bryant
 
 > Seconded by Councillor H.L. Usher
 
 Approve clause 2, as amended.
-
-****
-
-Motion Failed
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -194,10 +255,6 @@ b)         the
   original calculation and the amount confirmed by The Corporation of the City
   of London arising from this decision.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
 > |-|-|
@@ -217,7 +274,85 @@ Motion Passed
 
 ****
 
+# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
+# 1.&nbsp;&nbsp;&nbsp;Her Worship the
+  Mayor presents a certificate for "London's Featured Community
+  Organization" to the London Employment Help Centre.
+
+# 2.&nbsp;&nbsp;&nbsp;At 6:15 PM Her
+  Worship the Mayor and the Municipal Council recognize City of London
+  Employees who have achieved 25 years of service during 2014, including:
+ 
+London Police
+  Services
+ 
+Patrick Alexander
+Andrew Bakker
+Pat Bell
+Darrin Brown
+Pamela Burke
+George Campbell
+Isabel Cassidy
+Timothy D. Cassidy
+Al Drigan
+Grant Fair
+Travey Frizzell
+James J. C.
+  Galbraith
+Alexander Lorne
+  Garrett
+Arlene M. Johnston
+Brendan McHugh
+Aldevino Melo
+Kelley M. Mills
+Tony Morrison
+Trevor Nichols
+Kelly O'Callaghan
+John B. Pare
+Rob Popovich
+Ed Press
+Paul Reynolds
+Annette Swalwell
+Carl Stephen Vink
+Paul Waight
+Graham Williamson
+Gary Jon Woelfle
+Jim Wood
+
+16th Report of the
+  Planning and Environment Committee
+Councillor B. Polhill presents.
+
+> Moved by Councillor B. Polhill
+
+> Seconded by Councillor B. Armstrong
+
+Approve clauses 1 to 16, and clause 19.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Properties located
+  at 360 Crumlin Sideroad and 3301 and 3345 Gore Road - Notice of Appeal to the
+  Ontario Municipal Board (OZ-8188)
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, in response to the letter of appeal to
+  the Ontario Municipal Board, dated July 8, 2014, submitted by Barry R. Card,
+  on behalf of the Crumlin Sports Association, relating to Official Plan and
+  Zoning By-law Amendment application No. OZ-8188, as it relates to the
+  properties located at 360 Crumlin Sideroad and 3301 and 3345 Gore Road, the
+  Ontario Municipal Board BE ADVISED that the Municipal Council has reviewed
+  its decision relating to this matter and sees no reason to alter it.
+  (2014-D14)
+
+# 3.&nbsp;&nbsp;&nbsp;Properties located
   at 1195 Fanshawe Park Road West and 2151 Dalmagarry Road (H-8388)
 
 That, on the recommendation of the Manager,
@@ -232,6 +367,7 @@ That, on the recommendation of the Manager,
   Provision (NSA5 (6)) Zone to remove the holding “h-120 and h-171”
   provisions.   (2014-D14)
 
+# 4.&nbsp;&nbsp;&nbsp;Property located at
   1057 Richmond Street
 
 That, on the recommendation of the Managing
@@ -241,6 +377,7 @@ That, on the recommendation of the Managing
   designation under the Ontario Heritage Act for the property located at 1057
   Richmond Street. (2014-P10D)
 
+# 5.&nbsp;&nbsp;&nbsp;Victoria on the
   River Subdivision - Phase 1 (formerly 1603 Hamilton Road) (H-8403)
 
 That, on the recommendation of the Senior
@@ -255,6 +392,7 @@ That, on the recommendation of the Senior
   TO a holding Residential R1 (h-100-R1-4) Zone to remove the holding (h)
   provision. (2014-D14)
 
+# 6.&nbsp;&nbsp;&nbsp;Property located at
   1959 Wharncliffe Road South (Foxwood Crossing - Phase 2) - Request for
   Extension - Draft Plan (39T-07507)
 
@@ -280,6 +418,7 @@ b)         the
   Estimated Costs and Revenues" as appended to the staff report dated
   September 9, 2014, as Appendix “A”.   (2014-D12)
 
+# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 181 and 199 Commissioners Road East - Highland Green Subdivision -
   Extension to Draft Plan of Subdivision Approval (39T-08501)
 
@@ -303,6 +442,7 @@ b)         the
   Estimated Costs and Revenues" as appended to the staff report dated
   September 9, 2014, as Schedule “B”.   (2014-D12)
 
+# 8.&nbsp;&nbsp;&nbsp;Property located at
   1070 Gainsborough Road (H-8398)
 
 That, on the recommendation of the Senior
@@ -315,6 +455,7 @@ That, on the recommendation of the Senior
   Commercial (h-17*BDC) Zone TO a Business District Commercial (BDC) Zone to
   remove the holding “h-17” provision. (2014-D14)
 
+# 9.&nbsp;&nbsp;&nbsp;Property located at
   1139 Fanshawe Park Road West (H-8337)
 
 That, on the recommendation of the Senior
@@ -344,6 +485,7 @@ b)         the
   stormwater management pond outlet channel located within this parcel is
   decommissioned.   (2014-D14)
 
+# 10.&nbsp;&nbsp;&nbsp;Property located at
   312 Sunningdale Road West - Request for Extension of Draft Approval
   (39T-10502)
 
@@ -368,6 +510,7 @@ b)         the
   Estimated Costs and Revenues" as appended to the staff report dated
   September 9, 2014, as Appendix “A”.   (2014-D12)
 
+# 11.&nbsp;&nbsp;&nbsp;Cedarhollow
   Subdivision - Phase 3 (39T-03518)
 
 That, on the recommendation of the Senior
@@ -394,6 +537,7 @@ c)         the
   amending agreements and all related documents required to fulfill its
   conditions.   (2014-D12)
 
+# 12.&nbsp;&nbsp;&nbsp;Powell-Uplands
   North Subdivision - Phase 3 (39T-05510)
 
 That, on the recommendation of the Senior
@@ -426,6 +570,7 @@ d)         the
   amending agreements and all related documents required to fulfill its
   conditions.   (2014-D12)
 
+# 13.&nbsp;&nbsp;&nbsp;Property located at
   312 Oxford Street East
 
 That, the written objection submitted by
@@ -443,6 +588,7 @@ it being further pointed out that at the
   indicated on the attached public participation meeting record made
   oral submissions in connection therewith.   (2014-D17)
 
+# 14.&nbsp;&nbsp;&nbsp;Property located at
   720 Proudfoot Lane (OZ-8375)
 
 That, on the recommendation of the Managing
@@ -469,6 +615,7 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.   (2014-D14)
 
+# 15.&nbsp;&nbsp;&nbsp;Wortley Village -
   Old South Heritage Conservation District
 
 That, on the recommendation of the Managing
@@ -527,6 +674,7 @@ it being further pointed out that at the
   indicated on the attached public participation meeting record made
   oral submissions in connection therewith.    (2014-D08)
 
+# 16.&nbsp;&nbsp;&nbsp;Property located at
   915 Queens Avenue
 
 That, on the recommendation of the Managing
@@ -542,6 +690,7 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.    (2014-P10D)
 
+# 19.&nbsp;&nbsp;&nbsp;Property located at
   2151 Dalmagarry Road and 1195 Fanshawe Park Road West (Z-8387)
 
 That, on the recommendation of the Managing
@@ -583,8 +732,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.   (2014-D14)
 
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -606,6 +753,7 @@ Motion Passed
 
 ****
 
+# 17.&nbsp;&nbsp;&nbsp;Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
 
 That, on the recommendation of the Senior
@@ -748,10 +896,6 @@ Approve that part a) of clause 17 be
   designating Street A from Adelaide Street North to Street B as a Secondary
   Collector as indicated on “Schedule C” attached hereto.”
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -778,10 +922,6 @@ Motion Passed
 > Seconded by Councillor D. Brown
 
 Approve clause 17, as amended.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -927,6 +1067,7 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.   (2014-D12/D14)
 
+# 18.&nbsp;&nbsp;&nbsp;Lands south of
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
   Marr Drain (O-8362)
 
@@ -1026,10 +1167,6 @@ Approve that clause 18 be referred back
   to the Civic Administration for further review and consultation and report
   back at a future meeting of the Planning and Environment Committee.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1051,17 +1188,78 @@ Motion Passed
 
 ****
 
+14th Report of the
+  Civic Works Committee
+Councillor H.L.Usher presents.
+
 > Moved by Councillor H.L. Usher
 
 Approve clauses 1 and 2.
 
 ****
 
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Installation of
+  Sidewalks  on Shavian Blvd.
+
+That, on the recommendation of Managing
+  Director, Environmental and Engineering Services and City Engineer, the
+  following actions be taken with respect to the Shavian Boulevard Sidewalk
+  Installation in the 2014 Annual Warranted Sidewalk Contract:
+ 
+a)         the
+  sidewalk installation at Shavian Boulevard, as previously proposed in the
+  2014 Annual Warranted Sidewalk Contract, to be installed at the back of the
+  existing curb, BE APPROVED;
+ 
+b)         the
+  Civic Administration BE DIRECTED to implement the sidewalk installation
+  through the current Contract; and,
+ 
+c)         the
+  communication dated September 12, 2014, from B. Davis, President, Old
+  Masonville Ratepayers Association BE RECEIVED; 
+ 
+it being noted that the Civic Works
+  Committee received a verbal update from E. Soldo, Director, Roads and
+  Transportation with respect to the further public consultation that was
+  undertaken in connection with this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |J.B. Swan|
+> |S. Orser|
+> |W.R. Monteith|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (13)|
+
+> **Motion Passed**
+
+****
+
+# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
+# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1072,10 +1270,6 @@ BY-LAWS TO BE READ A FIRST, SECOND AND
 
 Approve Introduction and First
   Reading of Bill No. 449.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1105,10 +1299,6 @@ Motion Passed
 Approve Second Reading of Bill
   No. 449.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1136,10 +1326,6 @@ Motion Passed
 
 Approve Third Reading and Enactment of
   Bill No. 449.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1169,10 +1355,6 @@ Motion Passed
 Approve Introduction and First
   Reading of Bill No.s 431 to 455, excluding Bill No.s 436, 437 and 449.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1200,10 +1382,6 @@ Motion Passed
 
 Approve Second Reading of Bill
   No.s 431 to 455, excluding Bill No.s 436, 437 and 449.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1233,44 +1411,86 @@ Motion Passed
 Approve Third Reading and Enactment of
   Bill No.s 431 to 455, excluding Bill No.s 436, 437 and 449.
 
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |J.B. Swan|
+> |S. Orser|
+> |W.R. Monteith|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (13) The following by-laws are passed|
+> |enacted as by-laws of The Corporation of the City of London|
+
+> **Motion Passed**
+
 ****
 
+# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
+
+Motion
+Passed
 
 ---
 
 ## Votes
 
-*8 substantive votes at this meeting (8 contested, 0 unanimous). Procedural motions excluded.*
+*11 substantive votes at this meeting (2 contested, 9 unanimous). Procedural motions excluded.*
 
-### IV. COMMITTEE
-  OF THE WHOLE, IN CAMERA
+### 2#2. Tribunal -
+  Development Charge Complaint - 1030 Elias Street
 
-> Motion Passed
+> Approve that the Record of Proceedings   be amended by inserting the word “no” after the words “There was” in line 2,   paragraph 3 of page 7 of the Record of Proceedings so that the sentence now   reads “There was no support by other Tribunal Members for that proposal.”
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (22):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-**Nay (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (13-0)
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-> Motion Failed
+> MOTION FOR IN CAMERA SESSION
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve clause 2, as amended.
 
 **❌ Motion Failed**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (4):** [Bill Armstrong](/councillors/former/b-armstrong), [Harold Usher](/councillors/former/h-l-usher), [Joni Baechler](/councillors/former/j-l-baechler), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+**Nay (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Russell Monteith](/councillors/former/w-r-monteith), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
+
+</details>
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that the following actions be   taken with respect to the complaint by Junction Climbing Centre Inc.   regarding development charges imposed by The Corporation of the City of   London in connection with development on the land known as 1030 Elias Street:   a)         the   development cha...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Russell Monteith](/councillors/former/w-r-monteith), [Joni Baechler](/councillors/former/j-l-baechler), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (3):** [Bill Armstrong](/councillors/former/b-armstrong), [Harold Usher](/councillors/former/h-l-usher), [Judy Bryant](/councillors/former/j-p-bryant)
 
 </details>
 
@@ -1278,84 +1498,65 @@ Approve Third Reading and Enactment of
   AND SIGNING OF THE MINUTES OF THE TWENTY-FIRST MEETING HELD ON SEPTEMBER 2,
   2014
 
-> Motion Passed
+> Approve the Minutes of 21st Meeting held   on September 2, 2014.
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+> Approve Introduction and First   Reading of Bill No. 449.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First   Reading of Bill No.s 431 to 455, excluding Bill No.s 436, 437 and 449.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2. J. Kennedy, London
+  Development Institute - Lands south of Exeter Road, north of Dingman Drive,
+  east of White Oak Road and west of the Marr Drain (O-8362) (Refer to the
+  Planning and Environment Committee stage for consideration with clause 18 of
+  the 16th Report of the Planning and Environment Committee.)
+
 > Motion Passed
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (60):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### 2. Installation of
-  Sidewalks  on Shavian Blvd.
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (13-0)
 
 ### 17. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
 
-> Motion Passed
+> Approve that part a) of clause 17 be   amended in line 1 by inserting the word “revised” before the word “proposed”   and that the proposed by-law included in part a) be amended in Section 2 of   Part D “The Amendment” of the proposed Official Plan Amendment, by deleting   the street name “Sunnin...
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (13-0)
 
-**Yea (24):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+### 17. Property located at
+  2054 Adelaide Street North (39T-11502/OZ-7921)
 
-</details>
+> Approve clause 17, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
 
 ### 18. Lands south of
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
   Marr Drain (O-8362)
 
-> Motion Passed
+> Approve that clause 18 be referred back   to the Civic Administration for further review and consultation and report   back at a future meeting of the Planning and Environment Committee.
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### 19. Property located at
-  2151 Dalmagarry Road and 1195 Fanshawe Park Road West (Z-8387)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (13-0)
 

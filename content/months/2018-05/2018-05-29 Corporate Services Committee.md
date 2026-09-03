@@ -289,7 +289,7 @@ The meeting adjourned at 1:31 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.1. Restricted Acts of Council After Nomination Day and Voting Day
 
@@ -297,7 +297,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.2. 2018 Reserve Fund Housekeeping Report
 
@@ -305,7 +305,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4. Items for Direction
 
@@ -313,7 +313,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. ADDED - Request for Designation of Canada Day London as a Municipally Significant Event
 
@@ -321,7 +321,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.2. ADDED - Appointment to the London and Middlesex Housing Corporation Board of Directors
 
@@ -329,7 +329,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 6.1. Personal Matters/Identifiable Individual
 
@@ -337,7 +337,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 6.2. Land Acquisition/Solicitor-Client Privileged Advice
 
@@ -345,5 +345,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

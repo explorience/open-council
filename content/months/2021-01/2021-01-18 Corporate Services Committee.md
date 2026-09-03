@@ -329,7 +329,7 @@ The meeting adjourned at 1:21 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.7. Ontario Transfer Payment Agreement - Bill 218, Supporting Ontario's Recovery and Municipal Elections Act, 2020
 
@@ -340,7 +340,9 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Maureen Cassidy](/councillors/former/m-cassidy)
+
+**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 
@@ -350,7 +352,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. (ADDED) Application– Issuance of Proclamation – International Day of Zero Tolerance for Female Genital Mutilation
 
@@ -358,5 +360,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

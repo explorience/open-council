@@ -428,7 +428,7 @@ The meeting adjourned at 8:18 PM.
 
 ## Votes
 
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -436,7 +436,24 @@ The meeting adjourned at 8:18 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
+
+### 3.1. Public Participation Meeting - Short Term Accommodations
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-laws, as appended to the staff report, dated March 29, 2022, related to Short Term Accommodations, BE RECEIVED; it being pointed out that the following individuals made verbal presentations ...
+
+**✅ Motion Passed (2 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Maureen Cassidy](/councillors/former/m-cassidy), [Mariam Hamou](/councillors/former/m-hamou)
+
+**Nay (1):** [Mo Salih](/councillors/former/m-salih)
+
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
+
+</details>
 
 ### 4.1. A. Valastro - Light Pollution By-law - REQUEST FOR DELEGATION STATUS
 
@@ -444,7 +461,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.2. 2022 Rock the Park One-Time Policy Exemption Request
 
@@ -452,13 +469,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 4.3. 2nd Report of the Animal Welfare Advisory Committee
-
-> That the following actions be taken with respect to the 2nd Report of the Animal Welfare Advisory Committee (AWAC), from the meeting held on March 3, 2022: a)    clause 4.2 of the above-noted AWAC Report BE DEFERRED to the April 20, 2022 meeting of the Community and Protective Services Committee ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 

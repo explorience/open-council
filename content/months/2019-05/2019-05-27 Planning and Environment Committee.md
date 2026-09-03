@@ -627,7 +627,7 @@ The meeting adjourned at 9:44 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -635,15 +635,7 @@ The meeting adjourned at 9:44 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. Public Participation Meeting - 146 Exeter Road (Blocks 36 and 37, Richardson Subdivision) 39T-15501 (Z-9034)
-
-> That, on the recommendation of the Director, Development Services, based on the application by 110312 Ontario Limited, relating to the property located on a portion of 146 Exeter Road, (Block 36 and 37, Richardson Subdivision 39T-15501), the proposed by-law appended to the staff report dated May ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.2. Public Participation Meeting - Application - 146 Exeter Road (OZ-9038)
 
@@ -651,15 +643,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.3. Public Participation Meeting - Application -1350 Trafalgar Street (Z-9009)
-
-> That, on the recommendation of the Director, Development Services, based on the application by Yardigans Estate Liquidation Services, relating to the property located at 1350 Trafalgar Street, the proposed by-law appended to the staff report dated May 27, 2019 BE INTRODUCED at the Municipal Counc...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (5-0)
 
 ### 3.5. Public Participation Meeting - Application - 126 Oxford Street West (Z-9007)
 
@@ -667,7 +651,24 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
+
+### 3.6. Public Participation Meeting - Application - 307 Fanshawe Park Road East (Z-9006)
+
+> Motion to approve parts a) and b) which reads as follows: That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Royal Premier Homes, relating to the property located at 307 Fanshawe Park Road East: a)    the proposed b...
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/former/p-squire)
+
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Maureen Cassidy](/councillors/former/m-cassidy)
+
+</details>
 
 ### 4.1. Request for Delegation Status - S. Allen, MHBC Planning Urban Design and Landscape Architecture - 3080 Bostwick Road (Site 5)
 
@@ -675,5 +676,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

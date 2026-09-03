@@ -5,18 +5,18 @@ slug: "j-f-fontana"
 meetingCount: 139
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2408
-votesYea: 2240
-votesNay: 168
+totalVotes: 2778
+votesYea: 2640
+votesNay: 138
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 95.6
 participationRate: 100.0
-yeaRate: 93.0
-contestedDissentRate: 7.4
-contestedVotes: 2408
+yeaRate: 95.0
+contestedDissentRate: 14.8
+contestedVotes: 675
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,408 |
-| Voted Yea | 2,240 (93.0%) |
-| Voted Nay | 168 (7.0%) |
+| Total Votes | 2,778 |
+| Voted Yea | 2,640 (95.0%) |
+| Voted Nay | 138 (5.0%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,404 |
-| Voted Yea | 2,237 (93.1%) |
-| Voted Nay | 167 (6.9%) |
+| Substantive Votes | 2,513 |
+| Voted Yea | 2,375 (94.5%) |
+| Voted Nay | 138 (5.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 7.4%
-- **Contested Votes**: 2,408
+- **Dissent Rate**: 14.8%
+- **Contested Votes**: 675
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 729 |
-| Voted Yea | 617 (84.6%) |
-| Voted Nay | 112 (15.4%) |
+| Budget Votes | 428 |
+| Voted Yea | 380 (88.8%) |
+| Voted Nay | 48 (11.2%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,082 | 1,045 | 37 | 100.0% |
-| Strategic Priorities and Policy Committee | 765 | 646 | 119 | 100.0% |
+| Council | 1,888 | 1,806 | 82 | 100.0% |
+| Strategic Priorities and Policy Committee | 329 | 285 | 44 | 100.0% |
 | Planning and Environment Committee | 299 | 296 | 3 | 100.0% |
 | Corporate Services Committee | 142 | 137 | 5 | 100.0% |
 | Civic Works Committee | 78 | 76 | 2 | 100.0% |
@@ -105,6 +105,24 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Joe Fontana voted against the final outcome:*
+
+### 2014-05-06: COMMITTEE OF THE WHOLE, IN
+  CAMERA (continued)
+
+[MINUTES 12TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English)
+
+> Motion Failed
+
+Voted **Yea** - Motion Failed
+
+### 2014-05-06: COMMITTEE OF THE WHOLE, IN
+  CAMERA (continued)
+
+[MINUTES 12TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English)
+
+> Motion Failed
+
+Voted **Yea** - Motion Failed
 
 ### 2014-05-05: Consideration of
   Nominees for Appointment to the Board of Directors of the Greater London
@@ -132,11 +150,25 @@ Voted **Nay** - Motion
 
 ### 2014-04-15: Ombudsman Investigation
 
-[MINUTES 11TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English)
+[MINUTES 11TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English)
 
-> Motion Failed
+> Approve that Council rise and go into
+  Committee of the Whole, in camera, at 8:27 PM regarding a matter pertaining
+  to instructions and directions to officers and employees of the Corporation
+  pert...
 
 Voted **Yea** - Motion Failed
+
+### 2014-04-01: Amendment to
+  Council Policy 28(2) - Council Members' Expense Account
+
+[MINUTES 10TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English)
+
+> Approve referral of clause 5 back to
+  the City Clerk for review and report back with suggested changes to provide
+  more clarity and control with respect to allowable expenses.
+
+Voted **Nay** - Motion Passed
 
 ### 2014-03-25: Amendment to
   Council Policy 28(2) - Council Members' Expense Account
@@ -163,19 +195,10 @@ Voted **Yea** - Motion
 ### 2014-03-18: Winter Maintenance
   Update
 
-[MINUTES 9TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English)
+[MINUTES 9TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2014-02-25: Mixed-Use
-  Development including a Performing Arts Centre:  Business Plan Proposed
-  Conditions
-
-[MINUTES 6TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
+> Amend clause 10 in the first line of
+  part a) by deleting the word “APPROVED” and by replacing it with the word “CONSIDERED".
 
 Voted **Nay** - Motion Passed
 
@@ -183,31 +206,14 @@ Voted **Nay** - Motion Passed
   Development including a Performing Arts Centre:  Business Plan Proposed
   Conditions
 
-[MINUTES 6TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English)
+[MINUTES 6TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
+> Approve an amendment to part d)
+  of clause 2, by removing the words "it being noted that if no alternate
+  sources are available or approved by Municipal Council, a tax increase will
+  be recommended...
 
 Voted **Nay** - Motion Passed
-
-### 2014-02-25: CORPORATE OPERATING BUDGET
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Failed
-
-Voted **Yea** - Motion
-  Failed
-
-### 2014-02-25: CORPORATE OPERATING BUDGET
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Passed
-
-Voted **Nay** - Motion
-  Passed
 
 
 ## Committees Served

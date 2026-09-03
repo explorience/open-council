@@ -223,20 +223,6 @@ The meeting adjourned at 11:38 AM.
 > **Bill No. 102**
 > 
 > By-law No. A.-8583-77 - A by-law to approve a Contribution Agreement between The London Cross-Cultural Learner Centre and The Corporation of the City of London and to authorize the Deputy City Manager, Housing and Community Growth to approve amending agreements to the Contribution Agreement. (2.1/6/CPSC)
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 9.1. 6th Special Report of the Community and Protective Services Committee
-
-> That the 6th Report of the Community and Protective Services Committee BE APPROVED
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -291,3 +277,18 @@ We'll do that by hand. All those in favor of adjournment? No motion carries. The
 Deputy Mayor, this afternoon. I will not rise to that challenge.
 
 </details>
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 9.1. 6th Special Report of the Community and Protective Services Committee
+
+> That the 6th Report of the Community and Protective Services Committee BE APPROVED
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

@@ -4,7 +4,7 @@ date: 2013-05-14
 ---
 May 14, 2013, at  4:05 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2533d28a-bee5-45c6-ae26-cc5232d5df41&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=2533d28a-bee5-45c6-ae26-cc5232d5df41&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > J.F. Fontana, B. Polhill, W.J. Armstrong, J.B. Swan, S. Orser, J.L. Baechler, N. Branscombe, M. Brown, P. Hubert, D.G. Henderson, P. Van Meerbergen, D. Brown, H.L. Usher, J.P. Bryant, S.E. White, C. Saunders
@@ -18,13 +18,16 @@ May 14, 2013, at  4:05 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 PM.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 At 4:10 PM Councillor D. Brown enters the
   meeting.
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 1.           
@@ -34,6 +37,7 @@ At 4:10 PM Councillor D. Brown enters the
   9th
   Report of Strategic Priorities and Policy Committee
 
+# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -45,10 +49,6 @@ MOTION FOR IN CAMERA SESSION
 Approve that Council rise and go
   into Committee of the Whole, in camera, for the purpose of considering the
   following:
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -71,75 +71,28 @@ Motion Passed
 
 ****
 
+# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
+# 1.&nbsp;&nbsp;&nbsp;His Worship the
+  Mayor recognizes the London Nationals Junior B Sutherland Cup Champions.
 
-That it BE NOTED that no pecuniary
-  interests were disclosed.
+At 4:57 PM Councillor J.B. Swan enters the
+  meeting.
 
-  Your Service
-  Video
+# 2.&nbsp;&nbsp;&nbsp;His Worship the
+  Mayor presents a plaque for "London's Featured Company" to
+  rtraction.
 
-That it BE NOTED that the City Manager
-  presented the new City of London “At Your Service” video and acknowledged the
-  City’s partnership with Fanshawe College on the project.
+# 3.&nbsp;&nbsp;&nbsp;His Worship the
+  Mayor presents a certificate for "London's Featured Community
+  Organization" to St. Joseph's Health Care Foundation.
 
-  2012 Annual Meeting of the Shareholder Annual Resolutions
+# 4.&nbsp;&nbsp;&nbsp;His Worship the
+  Mayor and Members of Council are presented with a tulip tree from the Kettle
+  Creek Conservation Authority, in recognition of one million trees being
+  planted between 2001 and 2013.
 
-That the following actions be taken arising
-  from the 2012 Annual General Meeting of the Shareholder for the London Hydro
-  Inc.:
- 
-a)         the
-  attached presentation from Vinay Sharma, Chief Executive
-  Officer, London Hydro Inc. and Peter Johnson, Board Chair, London Hydro Inc.,
-  as well as the London Hydro Annual Report 2012 BE RECEIVED;
- 
-b)         on
-  the recommendation of the City Manager, the by-law (Attachment “A”) appended
-  to the staff report dated May 13, 2013 BE INTRODUCED at the Municipal Council
-  meeting to be held on May 14, 2013 to:
- 
-i)          ratify
-  and confirm the Annual Resolutions of the Shareholder of the London Hydro
-  Inc. attached as Schedule “1” to the by-law; and,
- 
-ii)         authorize
-  the Mayor and the City Clerk to execute the Annual Resolutions of the
-  Shareholder of the London Hydro Inc. attached as Schedule “1” to the by-law;
-  and
- 
-c)         the
-  Civic Administration BE REQUESTED to complete its review of the Shareholder's
-  Declaration, in liaison with London Hydro, and in conjunction with the shared
-  services review, and report back with any suggested changes that may be in
-  order by September 2013.
-
-  Middlesex Housing Corporation - 2012 Annual Meeting of the Shareholder Annual
-  Resolutions
-
-That the following actions be taken arising
-  from the 2012 Annual General Meeting of the Shareholder for the London &
-  Middlesex Housing Corporation:
- 
-a)         the
-  attached presentation from Steve Matthew, Executive Director,
-  London & Middlesex Housing Corporation, as well as the London &
-  Middlesex Housing Corporation Annual Report 2012 BE RECEIVED;
- 
-b)         on
-  the recommendation of the City Manager, the by-law (Attachment “A”) appended
-  to the staff report dated May 13, 2013 BE INTRODUCED at the Municipal Council
-  meeting to be held on May 14, 2013 to:
- 
-i)          ratify
-  and confirm the Annual Resolutions of the Shareholder of the London &
-  Middlesex Housing Corporation attached as Schedule “1” to the by-law; and,
- 
-ii)         authorize
-  the Mayor and the City Clerk to execute the Annual Resolutions of the
-  Shareholder of the London & Middlesex Housing Corporation attached as
-  Schedule “1” to the by-law.
-
+# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON APRIL 30, 2013
 
 > Moved by Councillor B. Polhill
@@ -149,7 +102,45 @@ ii)         authorize
 Approve the Minutes of the 9th Meeting
   held on April 30, 2013.
 
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (15)|
+
+> **Motion Passed**
+
 ****
+
+# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
+  AND PETITIONS
+
+> Moved by Councillor P. Van Meerbergen
+
+> Seconded by Councillor S.E. White
+
+Approve referral of the following
+  communications for consideration with the noted clauses:
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;(ADDED) Properties
+  located at 1057, 1059 and 1061 Richmond Street (Z-8106) (Refer to the
+  Planning and Environment Committee Stage for Consideration with Clause 13 of
+  the 11th Report of the Planning and Environment Committee.)
 
 Motion Passed
 
@@ -176,19 +167,14 @@ Motion Passed
 
 ****
 
-  AND PETITIONS
-
-> Moved by Councillor P. Van Meerbergen
-
-> Seconded by Councillor S.E. White
-
-Approve referral of the following
-  communications for consideration with the noted clauses:
-
-****
-
+# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
+# IX.&nbsp;&nbsp;&nbsp;REPORTS
+
+11th Report of the
+  Planning and Environment Committee
+Councillor B. Polhill presents.
 
 > Moved by Councillor B. Polhill
 
@@ -196,362 +182,176 @@ Approve clauses 1 to 10.
 
 ****
 
-  Policy Review - Local Services Policy
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
 
-That the following recommendation BE
-  REFERRED back to staff for further dialogue and report back at the June 10,
-  2013 meeting of the Strategic Priorities and Policy Committee:
- 
-“That, on the recommendation of the
-  Managing Director, Corporate Services and City Treasurer, Chief Financial
-  Officer, with the concurrence of the Managing Director, Environmental &
-  Engineering Services and City Engineer, the following changes to the City’s
-  “local service” definitions BE APPROVED in principle:
- 
-a)           
-  watermain
-  oversizing be claimable from the City Services Reserve Fund;
-b)           
-  stormwater
-  open channel oversizing be claimable from the Urban Works Reserve Fund -
-  Minor Storm Works;
- 
-c)           
-  the
-  definition of Sanitary Sewer Oversizing be reconsidered subject to
-  information to be provided by the Master Servicing Study consultants; and
- 
-d)         the
-  definition of storm water management works be more broadly defined as all
-  works required to provide stormwater management servicing that satisfies the
-  requirements of a Class Environmental Assessment process;
- 
-it being noted that the Strategic
-  Priorities and Policy Committee (SPPC) heard the attached
-  presentation from the Managing Director, Corporate Services and City
-  Treasurer/Chief Financial Officer, and the Manager, Development Finance, and
-  verbal delegations from Jim Kennedy, President, London Development Institute,
-  and Sandy Levin, 59 Longbow Road, with respect to this matter; it being
-  further noted that the SPPC also received a written communication from Jim
-  Kennedy, President, London Development Institute, with respect to this
-  matter.”
+That it BE NOTED that no pecuniary
+  interests were disclosed.
 
-  Corporate Services and City Treasurer, Chief Financial Officer - Development
-  Charge Policy - DC Area Specific Charges
+# 2.&nbsp;&nbsp;&nbsp;Property located at
+  905 Pond Mills Road (H-8156)
 
-That the following recommendation BE
-  REFERRED back to staff for further dialogue and report back at the June 10,
-  2013 meeting of the Strategic Priorities and Policy Committee:
- 
-“That, on the recommendation of the
-  Managing Director, Corporate Services and City Treasurer, Chief Financial
-  Officer with the concurrence of the Managing Director of Planning and City
-  Planner and Managing Director, Development & Compliance Services &
-  Chief Building Official, the following actions be taken with respect to
-  amending the City’s policy with respect to DC area specific rating:
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, based on the application of the City of
+  London, relating to the property located at 905 Pond Mills Road, the attached,
+  revised, proposed by-law BE INTRODUCED at the Municipal Council meeting to be
+  held on May 14, 2013, to amend Zoning By-law No. Z.-1, (in conformity with
+  the Official Plan), to change the zoning of the subject lands FROM a Holding
+  Light Industrial (h-122*h-123*LI3) Zone TO a Holding Light Industrial
+  (h-123*LI3) Zone to remove the holding provision that requires a parking
+  study be completed and a development agreement be entered into for the
+  subject property with the City of London; it being noted that urban design
+  will be addressed though the site plan approval process for these lands.  
+  (2013-D14B)
+
+# 3.&nbsp;&nbsp;&nbsp;Property located at
+  530 Sunningdale Road East - Uplands North Subdivision - Extension to Draft
+  Plan of Subdivision Approval (39T-05510)
+
+That, on the recommendation of the Senior
+  Planner, Development Services, the Approval Authority BE ADVISED that the
+  Municipal Council supports granting a three (3) year extension of the draft
+  plan of subdivision, submitted by Z-Group Limited, relating to the property
+  located at 530 Sunningdale Road East, submitted by Z-Group Limited, prepared
+  by Donald A Riley RPP (Z-Group), certified by Jeremy C. E. Matthews, Ontario
+  Land Surveyor (Drawing No. CAD:POWELL_Redline, dated March 24, 2008) as
+  red-line amended, which shows 12 single detached dwelling blocks, 1 medium
+  density residential block, 1 possible school block, 1 open space block, 1
+  neighbourhood park block, 2 walkway blocks, and 2 road reserve blocks, served
+  by the continuation of Canvas Way, 1 new secondary collector road (Superior
+  Drive) and 2 new local streets SUBJECT TO the revised conditions contained in
+  Appendix "A” as appended to the staff report dated May 7, 2013.  
+  (2013-D12)
+
+# 4.&nbsp;&nbsp;&nbsp;Property located at
+  1602 Sunningdale Road West (39T-11503)
+
+That, on the recommendation of the Manager,
+  Development Planning, the following actions be taken with respect to the
+  application of Foxwood Developments (London) Inc., relating to the property
+  located at 1602 Sunningdale Road West: 
  
 a)         the
-  Civic Administration BE DIRECTED to complete the 2014 DC rate calculations
-  and draft the 2014 DC by-law amendments necessary to implement differential
-  DC rate calculations for SWM facilities in the Central Thames Watershed (CTW)
-  Area identified in Appendix B to the staff report dated May 13, 2013; and
+  Ontario Municipal Board decision contained in Appendix "A” as appended
+  to the staff report dated May 7, 2013, relating to the Old Oak Properties
+  appeal of the Official Plan and Zoning By-law BE RECEIVED;
+ 
+b)         in
+  response to the letter of appeal to the Ontario Municipal Board, dated
+  February 15, 2013, as submitted by Alan Patton, on behalf of Old Oak
+  Properties, relating to the Draft Plan of Subdivision application by Foxwood
+  Developments (London) Inc., concerning the property located at 1602
+  Sunningdale Road West, the Ontario Municipal Board BE ADVISED that the
+  Municipal Council has reviewed its recommendation to the Approval Authority
+  and sees no reason to alter its previous recommendation; and,
+ 
+c)         the
+  Managing Director, Corporate Services and City Solicitor BE DIRECTED to
+  provide legal representation at the Ontario Municipal Board hearing in
+  support of the Municipal Council’s decision and the position of the Approval
+  Authority.  (2013-D12)
+
+# 5.&nbsp;&nbsp;&nbsp;Properties located
+  at 1934-1984 Wateroak Drive and 1921-1931 Wateroak Drive (H-8153)
+
+That, on the recommendation of the Manager,
+  Development Planning, based on the application of Claybar Developments Inc.,
+  relating to the properties located at 1934-1984 Wateroak Drive and 1923-1931
+  Wateroak Drive, the following actions be taken:
+ 
+a)         the
+  proposed by-law, as appended to the staff report dated May 7, 2013, BE
+  INTRODUCED at the Municipal Council meeting to be held on May 14, 2013, to
+  amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to
+  change the zoning of 1934-1984 Wateroak Drive and 1921-1931 Wateroak Drive
+  FROM a Holding Residential R1 (h. h-100. R1-4) Zone and a Holding Residential
+  R1 (h. h-100. R1-13) Zone TO a Residential R1 (R1-4) Zone; a Holding
+  Residential R1 (h. R1-4) Zone and a Residential R1 (R1-13) Zone, to remove
+  the h. and h-100 holding provisions from certain portions of these lands;
+  and,
  
 b)         the
-  Civic Administration BE DIRECTED to develop the implementation rules
-  (including any transitional arrangements and further refinement of the
-  boundary) related to establishing the Central Thames Watershed SWM DC Area
-  Specific Rate for inclusion in the 2014 DC by-law;
+  application to change the zoning of the properties located at 1968-1984
+  Wateroak Drive FROM a Holding Residential R1 (h. R1-4) Zone TO a Residential
+  R1 (R1-4) Zone, to remove the h. holding provision BE DEFERRED until such
+  time as the original Heard Drain, that is located within these parcels, is
+  decommissioned.   (2013-D14B)
+
+# 6.&nbsp;&nbsp;&nbsp;Property located on
+  a portion of 2350 Dundas Street (Block 5, 39T-12502) (H-8171)
+
+That, on the recommendation of the Senior
+  Planner, Development Planning, based on the application of Bremor Engineering
+  Ltd., relating to a portion of the property located at 2350 Dundas Street,
+  (also known as Block 5 of Draft Approved Plan 39T-12502), the proposed
+  by-law, as appended to the staff report dated May 7, 2013, BE INTRODUCED at
+  the Municipal Council meeting to be held on May 14, 2013, to amend Zoning
+  By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning
+  of the subject lands FROM a Holding Restricted Service Commercial Special
+  Provision (h*h-11*RSC1(22)) Zone TO a  Restricted Service Commercial Special
+  Provision (RSC1(22)) Zone, to remove the “h” and “h-11” holding provision,
+  subject to the registration of the subdivision plan prior to May 14, 2013. 
+  (2013-D14B)
+
+# 7.&nbsp;&nbsp;&nbsp;Building Division
+  Monthly Report for March 2013
+
+That the Building Division Monthly Report
+  for March 2013 BE RECEIVED.   (2013-D00)
+
+# 8.&nbsp;&nbsp;&nbsp;5th Report of the
+  Environmental and Ecological Planning Advisory Committee
+
+That the 5th Report of the Environmental
+  and Ecological Planning Advisory Committee from its meeting held on April 18,
+  2013 BE RECEIVED.
+
+# 9.&nbsp;&nbsp;&nbsp;Properties located
+  at 2800 Roxburgh Road and a portion of 635 Wilton Grove Road (Z-8164)
+
+That, on the recommendation of the Senior
+  Planner, Development Services, the following actions be taken with respect to
+  the application of Miller Thomson, LLP, relating to the property located at
+  2800 Roxburgh Road and the easterly portion of the property located 635
+  Wilton Grove Road:
  
-it being noted that the Strategic
-  Priorities and Policy Committee (SPPC) heard the attached
-  presentation from the Managing Director, Corporate Services and City
-  Treasurer/Chief Financial Officer, and the Manager, Development Finance, and
-  verbal delegations from Jim Kennedy, President, London Development Institute,
-  and Sandy Levin, 59 Longbow Road, with respect to this matter; it being
-  further noted that the SPPC also received a written communication from Jim
-  Kennedy, President, London Development Institute, with respect to this
-  matter.”
-
-  Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
-
-That the following recommendation BE
-  REFERRED back to staff for further dialogue and report back at the June 10,
-  2013 meeting of the Strategic Priorities and Policy Committee:
+a)         the
+  proposed by-law, as appended to the staff report dated May 7, 2013, BE
+  INTRODUCED at the Municipal Council meeting to be held on May 14, 2013, to
+  amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to
+  change the zoning of the property located at 2800 Roxburgh Road FROM a Light
+  Industrial (LI1) Zone, which permits such uses as bakeries, business service
+  establishments, manufacturing and assembly industries, pharmaceutical and
+  medical products industries, printing, reproduction and data processing
+  industries, research and development establishments, warehouse and wholesale
+  establishments TO a Light Industrial (LI2) Zone, to permit any use permitted
+  in the Light Industrial (LI1) Zone as well as such uses as dry cleaning and
+  laundry plants, food, tobacco and beverage processing industries excluding
+  meat packaging, leather and fur processing excluding tanning, repair and
+  rental establishments, service and repair establishments and textile
+  processing industries; and,
  
-“That, on
-  the recommendation of the Managing Director, Corporate Services and City
-  Treasurer, Chief Financial Officer, with the concurrence of the Managing
-  Director, Environmental and Engineering Services and City Engineer and the
-  Managing Director, Development and Compliance Services and Chief Building
-  Official, the following policy amendments with respect to the City’s Urban
-  Works Reserve Fund (UWRF) and the future funding of Storm Water Management
-  Facilities (SWMs) BE APPROVED IN PRINCIPLE as part of the 2014 DC By-law, subject
-  to further dialogue with external stakeholders with respect to:
+b)         the
+  proposed by-law, as appended to the staff report dated May 7, 2013, BE
+  INTRODUCED at the Municipal Council meeting to be held on May 14, 2013 to
+  amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to
+  change the zoning of the easterly portion of the property located at 635
+  Wilton Grove Road FROM a Light Industrial (LI1) Zone, which permits such uses
+  as bakeries, business service establishments, manufacturing and assembly
+  industries, pharmaceutical and medical products industries, printing,
+  reproduction and data processing industries, research and development
+  establishments, warehouse and wholesale establishments TO a Light Industrial
+  (LI2) Zone, to permit any use permitted in the Light Industrial (LI1) Zone as
+  well as such uses as dry cleaning and laundry plants, food, tobacco and
+  beverage processing industries, excluding meat packaging, leather and fur
+  processing excluding tanning, repair and rental establishments, service and
+  repair establishments and textile processing industries;
  
--        
-  details
-  of implementation, including the change to the number of SWMs affected and
-  their costs, all of which would ultimately be included in the Background
-  Study in any event;
--        
-  how
-  the existing financial obligations of the UWRF (“Transition payments”) will
-  be met through the implementation of the new policy;
- 
--        
-  assurance
-  that the policies being introduced are not intended to be used to unduly
-  delay approvals for land development by staff or by Council; it being noted
-  that the existing Growth Management Implementation Strategy is the mechanism
-  which  facilitates the sufficient supply of serviceable land, and which must
-  be respected following its implementation;
- 
--        
-  an
-  update of Stormwater Management Facility design standards; and
- 
--        
-  details
-  regarding the impact of changing the timing of payment of the SWM component
-  of the DC from building permit to subdivision agreement:
- 
-a)           
-  funding
-  of all future SWM works be consolidated under the City Services Reserve Fund
-  (CSRF) – SWM component; it being noted that suitable transitional measures
-  associated with existing claims and development applications involving Urban
-  Works Reserve Funded (UWRF) Storm Water Management Facilities (SWMF) in
-  progress will be in the draft 2014 Development Charges DC By-law; it being
-  further noted that the City’s policy regarding Private Permanent Stormwater
-  Servicing is expected to reduce the number and size of ponds that will be
-  constructed in the future; 
- 
-b)           
-  revised
-  timing of collection of the SWM component of the DC charge under Section 26
-  of the Development Charges Act be incorporated in the next DC Rate
-  By-law; it being noted that this will result in DC charge collections for
-  this component being made at time of entering the agreement of subdivision or
-  consent rather than from collection at building permit stage;
- 
-c)           
-  new
-  processes for Design and Construction of Storm Water Management Facilities
-  (SWMF’s), as generally summarized in Appendix D be implemented as
-  appended to the staff report dated May 13, 2013; 
- 
-d)           
-  the
-  Civic Administration be directed to further develop the procedures governing
-  construction of infrastructure undertaken through development agreements,
-  summarized in draft form in Appendix E as appended to the staff report dated
-  May 13, 2013;
- 
-e)           
-  the
-  Civic Administration be directed to prepare by-law amendments and further
-  refine administrative processes necessary to effect the above-noted changes
-  coincident with the effective date of the 2014 DC By-law; and
- 
-f)            
-  comments
-  received from the London Development Institute, the Urban League and Lyn
-  Townsend, LLB, with respect to the above-noted policy amendments as Appendix
-  G, appended to the staff report dated May 13, 2013 be received for
-  information;
- 
-it being noted that
-  the Strategic Priorities and Policy Committee (SPPC) heard the attached
-  presentation from the Managing Director, Corporate Services and City
-  Treasurer/Chief Financial Officer, and the Manager, Development Finance, and
-  verbal delegations from Jim Kennedy, President, London Development Institute,
-  and Sandy Levin, 59 Longbow Road, with respect to this matter; it being
-  further noted that the SPPC also received a written communication from Jim
-  Kennedy, President, London Development Institute, with respect to this
-  matter.”
+it being pointed out that there were no
+  oral submissions made at the public participation meeting associated
+  with this matter.   (2013-D14A)
 
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |J.F. Fontana|
-> |B. Polhill|
-> |W.J. Armstrong|
-> |J.B. Swan|
-> |S. Orser|
-> |J.L. Baechler|
-> |N. Branscombe|
-> |M. Brown|
-> |P. Hubert|
-> |D.G. Henderson|
-> |P. Van Meerbergen|
-> |D. Brown|
-> |H.L. Usher|
-> |J.P. Bryant (14)|
-
-> **Motion Passed**
-
-****
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|Nays:|
-> |-|-|
-> |J.F. Fontana|J.L. Baechler|
-> |B. Polhill|N. Branscombe|
-> |W.J. Armstrong|M. Brown|
-> |J.B. Swan|P. Hubert|
-> |S. Orser|H.L. Usher|
-> |D.G. Henderson|J.P. Bryant (6)|
-> |P. Van Meerbergen||
-> |D. Brown (8)||
-
-> **Motion Passed**
-
-****
-
-> Moved by Councillor D.G. Henderson
-
-Approve progress on the in camera matters.
-
-****
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |J.F. Fontana|
-> |B. Polhill|
-> |W.J. Armstrong|
-> |J.B. Swan|
-> |S. Orser|
-> |J.L. Baechler|
-> |N. Branscombe|
-> |M. Brown|
-> |P. Hubert|
-> |D.G. Henderson|
-> |P. Van Meerbergen|
-> |D. Brown|
-> |H.L. Usher (13)|
-
-> **Motion Passed**
-
-****
-
-  2012 Annual Report
-
-That the communication dated May 1 2012,
-  with respect to the attached London Transit Service 2012 Annual
-  Report, from L. Ducharme, General Manager, London Transit Commission, BE
-  RECEIVED for information; it being noted that the Civic Works Committee
-  received the attached presentation from Mr. L. Ducharme, with
-  respect to this matter. (2013-C03D)
-
-  Elmwood Avenue
-
-That the communication dated April 5, 2013,
-  from Councillor D. Brown, with respect to traffic flow on Bruce Street and
-  Elmwood Avenue, BE REFERRED to staff for a report back to the Civic Works
-  Committee.   (2013-T04)
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |J.F. Fontana|
-> |B. Polhill|
-> |W.J. Armstrong|
-> |J.B. Swan|
-> |S. Orser|
-> |J.L. Baechler|
-> |N. Branscombe|
-> |M. Brown|
-> |P. Hubert|
-> |D.G. Henderson|
-> |P. Van Meerbergen|
-> |D. Brown|
-> |H.L. Usher|
-> |J.P. Bryant (14)|
-
-> **Motion Passed**
-
-****
-
-> Moved by Councillor P. Van Meerbergen
-
-> Seconded by Councillor B. Polhill
-
-Amend the criteria attached to part
-  6, "Criteria For the on-street Boulevard Cafe Program:" in part j)
-  by adding the words "along Dundas Street within", following the
-  words "York Street".
-
-****
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|Nays:|
-> |-|-|
-> |J.F. Fontana|D. Brown (1)|
-> |B. Polhill||
-> |W.J. Armstrong||
-> |J.B. Swan||
-> |S. Orser||
-> |J.L. Baechler||
-> |N. Branscombe||
-> |M. Brown||
-> |P. Hubert||
-> |D.G. Henderson||
-> |P. Van Meerbergen||
-> |H.L. Usher||
-> |J.P. Bryant (13)||
-
-> **Motion Passed**
-
-****
-
-> Moved by Councillor P. Van Meerbergen
-
-> Seconded by Councillor P. Hubert
-
-Approve clause 6, as amended.
-
-****
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|Nays:|
-> |-|-|
-> |J.F. Fontana|D. Brown (1)|
-> |B. Polhill||
-> |W.J. Armstrong||
-> |J.B. Swan||
-> |S. Orser||
-> |J.L. Baechler||
-> |N. Branscombe||
-> |M. Brown||
-> |P. Hubert||
-> |D.G. Henderson||
-> |P. Van Meerbergen||
-> |H.L. Usher||
-> |J.P. Bryant (13)||
-
-> **Motion Passed**
-
-****
-
-> Moved by Councillor J.B. Swan
-
-Approve clauses 1 to 5, excluding clause 2
-
-****
-
+# 10.&nbsp;&nbsp;&nbsp;Property located at
   433 Hyde Park Road
 
 That, on the recommendation of the Manager,
@@ -657,8 +457,6 @@ it
   will build a 1.8 m board fence as well as installing new landscaping that
   staff recommended.     (2013-D11)
 
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -682,7 +480,85 @@ Motion Passed
 
 ****
 
+# 11.&nbsp;&nbsp;&nbsp;Property located at
   425 Wharncliffe Road South
+
+That, on the recommendation of the Manager,
+  Development Services and Planning Liaison, the following actions be taken
+  with respect to the site plan approval application of Ontario Addiction
+  Treatment Centres, relating to the property located at 425 Wharncliffe Road
+  South:
+ 
+a)         the
+  Approval Authority BE ADVISED that, at the public meeting of the Planning and
+  Environment Committee held with respect to this matter, issues were raised by
+  the applicant’s representatives with respect to their request to maintain the
+  existing fence and the Civic Administration’s request to remove the armour
+  stone;
+ 
+b)         the
+  Approval Authority BE ADVISED that the north and south fences are to be
+  constructed of wrought iron, the existing interior chain link fence be retained
+  and the clear throat access be applied;
+ 
+c)         the
+  Approval Authority BE ADVISED that the Municipal Council supports the
+  granting of approval of the attached, revised, site plan and
+  the site plan application to convert the existing used car dealership into a
+  methadone clinic, dispensing methadone to a maximum of 200 clients per day;
+  and,
+ 
+d)         the
+  financing for the project BE APPROVED in accordance with the “Estimated
+  Claims and Revenues Report” contained in Appendix "A” as appended to the
+  staff report dated May 7, 2013;
+ 
+it
+  being pointed out that at the public participation meeting associated with
+  this matter, the following individuals made oral submissions in connection
+  therewith:
+ 
+-                   
+  Steven
+  Cornwell, Zelinka Priamo Ltd, on behalf of the applicant – expressing concern
+  with the staff recommendation to remove the existing four foot chain link
+  fence across the south property line and replacing it with a six foot chain
+  link fence; noting that a four foot fence is the standard that the City uses;
+  advising that the applicant does not see the necessity of replacing an
+  existing fence that is working fine; advising that a six foot chain link
+  fence would look worse; indicating that the request for a higher fence does
+  not address a specific issue and the applicant would like the Planning and
+  Environment Committee to consider accepting the existing fence as appropriate
+  for this site; advising that there have been a lot of comments about the
+  large number of parking spaces on the site; pointing out that, contrary to
+  what some believe, it is  difficult for methadone service providers to find a
+  suitable location consistent with their needs and that meet the City’s
+  policies for locating these facilities; indicating that the owners of the
+  subject property had to make many sacrifices; indicating that there is no
+  need to look at how much parking exists on this site and say that’s an
+  indication of the intensity of use that is going to go on here; advising that
+  the Official Plan policies call for high quality and long-lasting materials to
+  be used in fences, but what the policies do not specify, is the circumstances
+  in which fencing is required; noting that it has not been the practice of the
+  City to require fences between commercial properties in a corridor like
+  Wharncliffe Road South; advising that, in fact the City’s practice has been
+  to encourage back and forth movements between commercial sites; noting that
+  it is unclear what the purposes of the fences on the north and south sides of
+  this property would actually serve because he does not believe that this City
+  would require different treatment for people suffering from addictions than
+  for any other of its citizens; advising that when you look at the
+  requirement, you can say that the fences on the north and south side of this
+  property meet with the provisions that the holding provision refers to in the
+  Zoning By-law, neither of which are necessary from a planning perspective;
+  and advising that there is no reason to suspect that a 6 foot fence would
+  satisfy anything that a four foot fence would not.
+-                   
+  Alan
+  R. Patton, Patton Cormier & Associates, on behalf of the applicant – see attached
+  communication.   (2013-D11)
+
+At 5:50 PM, His Worship the Mayor places
+  Councillor P. Hubert in the Chair, and takes a seat at the Council Board.
 
 At 5:57 PM, His Worship the Mayor resumes
   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
@@ -700,10 +576,6 @@ Approve that part b) of clause 11 be
   link fence is to be retained, the clear throat access is to be applied at a
   minimum of 6 metres, and decorative stones are to be permitted instead of
   armour stone;"
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -728,10 +600,6 @@ Motion Passed
 
 Approve clause 11, as amended,
   excluding part b).
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -762,10 +630,6 @@ Motion Passed
 
 Approve clause 11 b), as amended.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
 > |-|-|
@@ -782,6 +646,7 @@ Motion Passed
 
 ****
 
+# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 3924 and 4128 Colonel Talbot Road (39T-12503/OZ-8052)
 
 That, on the recommendation of the Manager
@@ -875,8 +740,6 @@ it
   Wiebe, MHBC Planning Urban Design and Landscape Architecture, on behalf of
   York Developments – see attached presentation.  (2013-L01)
 
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -900,8 +763,10 @@ Motion Passed
 
 ****
 
+# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
+# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 1057, 1059 and 1061 Richmond Street
 
 That the Approval Authority BE ADVISED that
@@ -947,10 +812,6 @@ Approve the motion to refer be Amended in
   hectare, that is compatible and reflective of the character of the existing
   neighbourhood".
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
 > |-|-|
@@ -991,6 +852,7 @@ Motion Passed
 
 ****
 
+# 14.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Neighbourhood Planning Options
 
 That, the following actions be taken with
@@ -1052,13 +914,157 @@ it being pointed out that the Planning and
   presentation from K. Bice, 2 Leslie Street, on behalf of the Blackfriars
   community, with respect to this matter.   (2013-R01)
 
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+# 2.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
+  Neighbourhood Planning Options/6th Report of the London Advisory
+  Committee on Heritage
+
+That, the following actions be taken with
+  respect to the 6th Report of the London Advisory Committee on Heritage (LACH)
+  from its meeting held on May 8, 2013:
+ 
+a)         on
+  the recommendation of the Managing Director, Planning and City Planner, with
+  the concurrence of the Heritage Planner, the Blackfriars/Petersville
+  Neighbourhood BE PRIORITIZED as the next potential Heritage Conservation
+  District on the list of potential Heritage Conservation Districts (Heritage
+  Places: A Description of Potential Heritage Conservation Areas in the City of
+  London, 1993);
+ 
+it being also noted
+  that the Planning and Environment Committee was advised by the Manager,
+  Policy Planning and Programs, that the Municipal Council, at its meeting held
+  on June 20, 2011, identified SoHo as the next Heritage Conservation District
+  (HCD); noting that the Managing Director, Planning and City Planner’s report,
+  dated May 8, 2013, indicates that SoHo is sixth on the list of potential
+  HCD’s;
+ 
+b)         a
+  study of the Blackfriars/Petersville Neighbourhood BE UNDERTAKEN for
+  the purpose of designating a heritage conservation district in accordance
+  with the Terms of Reference appended as Schedule “B” of the staff report
+  dated May 8, 2013; and,
+ 
+c)         subject
+  to the approval of parts a) and b), above, the attached,
+  revised, by-law to designate the Blackfriars/Petersville Neighbourhood heritage
+  conservation study area BE INTRODUCED at the Municipal Council meeting to be
+  held on May 14, 2013, to designated a heritage conservation district study
+  area for the Blackfriars/Petersville neighbourhood;
+ 
+it being noted that the London Advisory
+  Committee on Heritage (LACH) reviewed and received a Report, dated May 8,
+  2013, from the Managing Director, Planning and City Planner, and heard a
+  verbal delegation from G. Barrett, Manager, Policy Planning and Programs,
+  with respect to this matter;
+ 
+d)           
+  on
+  the recommendation of the Managing Director, Land Use Planning and City
+  Planner, with the advice of the Heritage Planner, the Heritage Alteration
+  Permit Application of M. Schiller/A. Schiller requesting permission for an
+  change to the cladding on the designated heritage property located at 142
+  Kent Street BE APPROVED; it being noted that the Heritage Planner has
+  reviewed the proposed change and has advised that the impact of such
+  alteration on the heritage features of the property identified in the reasons
+  for designation, while not negligible, is reversible; it being noted that the
+  London Advisory Committee on Heritage (LACH) heard a verbal delegation from
+  A. Schiller with respect to this matter; it being further noted that the
+  Staff report relating to this matter was provided to the LACH at its March
+  13, 2013 meeting; and,
+ 
+e)         that clauses 3
+  through 15, inclusive, of the 6th Report of the LACH, BE RECEIVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+# 3.&nbsp;&nbsp;&nbsp;Heritage Conservation Districts
+
+That, the Civic Administration BE DIRECTED
+  to report back at a future meeting of the Planning and Environment Committee
+  with respect to the potential of undertaking concurrent Heritage Conservation
+  Districts, on the list of potential Heritage Conservation Districts (Heritage
+  Places: A Description of Potential Heritage Conservation Areas in the City of
+  London, 1993), including sources of financing and the procedure for
+  undertaking this initiative; it being noted that the Planning and Environment
+  Committee heard verbal presentations from the Manager, Policy Planning and
+  Programs and the Heritage Planner, with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+11th Report of the Planning and Environment
+  Committee (continued)
+Councillor B. Polhill presents.
+
+# 15.&nbsp;&nbsp;&nbsp;Hazelden Park
 
 That the Civic Administration BE REQUESTED
   to review  the amount of parking in Hazelden Park and look for potential
   opportunities to expand the existing parking lot; it being noted that cars are
   parking along Hyde Park Road during ball games and soccer games.
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1094,17 +1100,1242 @@ Motion Passed
 
 ****
 
+9th Report of the
+  Community and Protective Services Committee
+Councillor D. Brown presents.
+
 > Moved by Councillor D. Brown
 
 Approve clauses 1 to 7.
 
 ****
 
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that Councillor J.P.
+  Bryant disclosed a pecuniary interest in clause 5 of this Report, having to
+  do with the 5th Report of the London Housing Advisory Committee, as it
+  relates to the recommendation related to the Residential Rental Unit
+  Licensing By-law, by indicating that she owns a rental unit.
+
+# 2.&nbsp;&nbsp;&nbsp;4th Report of the
+  London Diversity and Race Relations Advisory Committee
+
+That the 4th Report of the London Diversity
+  and Race Relations Advisory Committee, from its meeting held on April 18,
+  2013, BE RECEIVED.
+
+# 3.&nbsp;&nbsp;&nbsp;No. 7 Fire Station
+  Relocation Project No. F07-PP1089 Tender No. 13-51
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer and
+  the Fire Chief, the following actions be taken with respect to the No. 7 Fire
+  Station Relocation Project No. F07-PP1089 (Tender No. 13-51):
+ 
+a)         the
+  bid submitted by Graceview Enterprises Inc., 50432 Yorke Line, RR1, Belmont,
+  Ontario N0L 1B0, at its tendered price of $1,824,000.00 (HST excluded) for
+  No. 7 Fire Station Relocation, BE ACCEPTED; it being pointed out that the bid
+  submitted by Graceview Enterprises Inc. was the lowest bid received and meets
+  the City’s specifications and requirements in all areas;
+ 
+b)         the
+  financing for this project BE APPROVED as set out in the Sources of Financing
+  Report attached to the staff report dated May 6, 2013; 
+ 
+c)         the
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  which are necessary in connection with this project;
+ 
+d)         the
+  approval given herein BE CONDITIONAL upon the Corporation entering into a
+  formal contract with the contractor for the work; and
+ 
+e)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
+  documents, if required, to give effect to these recommendations.  (2013-L04A)
+
+# 4.&nbsp;&nbsp;&nbsp;Fence By-law
+  Amendments
+
+That, on the recommendation of the Managing
+  Director, Development and Compliance Services & Chief Building Official,
+  the proposed by-law appended to the staff report dated May 6, 2013 BE
+  INTRODUCED at the Municipal Council meeting of May 14, 2013, to amend the
+  Fence By-law, PS-6, to for the purpose of addressing public safety. 
+  (2013-C01)
+
+# 5.&nbsp;&nbsp;&nbsp;5th Report of the
+  London Housing Advisory Committee
+
+That the following actions be taken with
+  respect to the 5th Report of the London Housing Advisory Committee (LHAC),
+  from its meeting held on April 10, 2013:
+ 
+a)       on
+  the recommendation of the LHAC, the Municipal Council BE ADVISED that the
+  LHAC expressed its support for the administration and enforcement of the
+  Residential Rental Units Licensing By-law, with a focus on addressing
+  substandard housing conditions proactively, protecting amenities, character
+  and stability of residential areas and ensuring compliance with the Fire
+  Protection and Promotion Act; and,
+ 
+b)         clauses 2 to 5 BE RECEIVED.
+
+# 6.&nbsp;&nbsp;&nbsp;Request for
+  Delegation Status - Guaranteed Designs
+
+That the following actions be taken with
+  respect to the request for delegation status from S. Charles, Guaranteed
+  Designs to request an amendment to the Sign and Canopy By-law related to the
+  property located at 1064 Western Road:
+ 
+a)         the
+  request for delegation status BE NOTED AND FILED; it being noted that a new
+  sign by-law is scheduled to be brought forward at a future meeting of the
+  Community and Protective Services Committee and public comments will be
+  received at that time; and, 
+ 
+ 
+b)         the
+  additional correspondence from M. Shahabi, with respect to this matter BE
+  RECEIVED.
+
+# 7.&nbsp;&nbsp;&nbsp;Request for
+  Delegation Status - Youth Create Healthy Communities
+
+That the following actions be taken with
+  respect to the request for delegation status from Youth Create Healthy
+  Communities, related to a proposed student bus pass subsidy from the City of
+  London:
+ 
+a)         the request for delegation
+  status BE NOTED AND FILED; and,
+ 
+b)         the
+  Civic Administration BE DIRECTED to arrange a meeting with the local Members
+  of the Legislative Assembly of Ontario, as soon as possible, in for the
+  matter of income redistribution to be further discussed in order to
+  facilitate a program such as the one proposed above.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+13th Report of the
+  Corporate Services Committee
+Councillor J.P. Bryant presents.
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+14th Report of the
+  Corporate Services Committee
+Councillor J.P. Bryant presents.
+
+> Moved by Councillor J.P. Bryant
+
+Approve clauses 1 to 8, excluding clauses 2, 5,  and 7.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that Councillor J.P.
+  Bryant disclosed a pecuniary interest in clause 2 of this Report having to do
+  with Western University’s Strategic Plan by indicating that her spouse is on
+  the faculty of Western University.
+
+# 3.&nbsp;&nbsp;&nbsp;City Initiated
+  Assessment Appeals
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer,
+  staff BE AUTHORIZED to proceed with appeals under the Assessment Act for the
+  properties as set out in Schedule “A” appended to the staff report dated May
+  7, 2013.
+
+# 4.&nbsp;&nbsp;&nbsp;Voluntary Donations
+  to a Municipality
+
+That the following actions be taken with
+  respect to voluntary donations to the City of London:
+ 
+a)         the
+  City of London’s current practices with respect to donations to the City of
+  London BE AFFIRMED; and
+ 
+b)         the
+  Civic Administration BE REQUESTED to update the City of London’s website to
+  make reference to the ability to make a donation to the City of London, in
+  keeping with current practices.
+
+# 6.&nbsp;&nbsp;&nbsp;City of London Days
+  - Budweiser Gardens
+
+That, on the recommendation of the City
+  Clerk, notwithstanding Council Policy 3(8) – Policy for City Events at
+  Budweiser Gardens, which restricts a group from having more than two event
+  days over a five year consecutive period, the request from the United Way
+  Campaign to host the annual United Way Campaign Launch & 3M Harvest Lunch
+  on September 19, 2013 BE APPROVED as a City of London Day at the Budweiser
+  Gardens; it being noted that only one other request has been received for
+  2013.
+
+# 8.&nbsp;&nbsp;&nbsp;Additional
+  Information Regarding Training Expenditures for London Hydro Board Members
+
+That the City Clerk BE REQUESTED to review
+  the appointment process for the City of London’s appointees to its local
+  boards and commissions, with a view to ensuring the process provides for
+  consideration of the qualifications of applicants and that any necessary
+  changes to the appointment process are made prior to the commencement of the
+  new Council term; it being noted that the Corporate Services Committee
+  received a communication dated April 10, 2013, from V. Sharma, Chief
+  Executive Officer, London Hydro Inc., with respect to the training
+  expenditures for a board member for London Hydro.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+# 2.&nbsp;&nbsp;&nbsp;Western
+  University's Strategic Plan
+
+That the Mayor and the City Manager BE
+  REQUESTED to advise Western University that, further to the letter dated
+  April 24, 2013 from the Mayor and the City Manager providing input on Western
+  University’s strategic plan, the City of London has an interest in connecting
+  international students within the Downtown core through a graduate program;
+  it being noted that the Corporate Services Committee received an information
+  report from the City Manager with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher (13) RECUSED: J.P. Bryant (1)|
+
+> **Motion Passed**
+
+****
+
+# 5.&nbsp;&nbsp;&nbsp;Annual Meeting
+  Calendar
+
+That, on the recommendation of the City
+  Clerk, the annual meeting calendar for the period December 1, 2013 to
+  December 31, 2014, as appended to the staff report dated May 7, 2013, BE
+  APPROVED; it being understood that adjustments to the calendar may be
+  required from time to time in order to accommodate special meetings or
+  changes to governing legislation.
+
+> Moved by Councillor J.L. Baechler
+
+> Seconded by Councillor S. Orser
+
+Amend the annual meeting calendar to move
+  the SPPC meeting of February 13 to February 10, 2014.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor N. Branscombe
+
+> Seconded by Councillor J.P. Bryant
+
+Amend clause 5 by revising the annual
+  meeting calendar to include the following new meeting dates:
+ 
+Dearness Committee of Management:
+ 
+Thursday, January 23, 2014 at Noon
+Thursday, March 27, 2014 at Noon
+Wednesday, June 25, 2014 at Noon
+Thursday, September 18, 2014 at Noon
+ 
+Audit Committee:
+ 
+Thursday, February 13, 2014 at 4:00 PM
+Thursday, June 26, 2014 at 4:00 PM
+Thursday, September 25, 2014 at 4:00 PM
+Thursday, December 11, 2014 at 4:00 PM
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |J.F. Fontana|P. Hubert (1)|
+> |B. Polhill||
+> |W.J. Armstrong||
+> |J.B. Swan||
+> |S. Orser||
+> |J.L. Baechler||
+> |N. Branscombe||
+> |M. Brown||
+> |D.G. Henderson||
+> |P. Van Meerbergen||
+> |D. Brown||
+> |H.L. Usher||
+> |J.P. Bryant (13)||
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor J.L. Baechler
+
+> Seconded by Councillor D. Brown
+
+Approve clause 5, as amended.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+# 7.&nbsp;&nbsp;&nbsp;Welcoming the World
+  to London Campaign
+
+That, on the recommendation of the City
+  Manager, and the Managing Director, Corporate Services and Chief Human
+  Resources Officer, the report dated May 7, 2013 with respect to the Welcoming
+  the World to London Campaign BE RECEIVED for information; it being noted that
+  there will be a future report regarding next steps and the costs associated
+  therewith; it being further noted that the Corporate Services Committee heard
+  a verbal delegation from the Director of Corporate Communications with
+  respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+10th Report of the
+  Civic Works Committee
+Councillor P. Van Meerbergen presents.
+
+> Moved by Councillor P. Van Meerbergen
+
+Approve clauses 1 to 9.
+
+****
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;2013 Infrastructure
+  Lifecycle Renewal Program Contract 3: Dreaney Avenue and King Edward Avenue
+  Reconstruction Project (Tender No. 13-13)
+
+That, on the recommendation of the Managing
+  Director, Environmental & Engineering Services & City Engineer, the
+  following actions be taken with respect to the award of contracts for the
+  2013 Lifecycle Renewal Program, Contract #3: Dreaney Avenue and King Edward
+  Avenue Reconstruction Project (ES2414-13, EW3765-13, ES3055):
+ 
+a)         the
+  bid submitted by Omega Contractors Inc. (Omega), 4104 Breck Avenue, London,
+  Ontario, N0M 2A0, at its tendered price of $1,768,850.15 (excluding H.S.T.),
+  for the 2013 Infrastructure Lifecycle Renewal Program, Contract #3 project,
+  BE ACCEPTED; it being noted that the bid submitted by Omega was the lowest of
+  eight bids received and meets the City's specifications and requirements in
+  all areas; 
+ 
+b)         R.V.
+  Anderson Associates Limited (RVA), #200-557 Southdale Road East, London,
+  Ontario,  N6E 1A2, BE AUTHORIZED to carry out the resident inspection and
+  contract administration for the said project in accordance with the estimate,
+  on file, at an upset amount of $203,500.00 (excluding H.S.T.) based upon the
+  Fee Guideline for Professional Engineering Services recommended by the
+  Ontario Society of Professional Engineers, and in accordance with Section
+  15.2 (g) of the City of London’s Procurement of Goods and Services Policy; 
+  it being noted that this firm completed the engineering design for the
+  project;
+ 
+c)         minor
+  future additional annual operating costs of $500.00 BE RECOGNIZED as a result
+  of this project; it being noted that these costs are as a result of new
+  infrastructure installation, and will be considered and accommodated within
+  future Water & Wastewater Operating Budgets;
+ 
+d)       the
+  financing for this project BE APPROVED as set out in the Sources of Financing
+  Report appended to the staff report dated May 6, 2013;
+ 
+e)         the
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  that are necessary in connection with this project; 
+ 
+f)         the
+  approval given herein BE CONDITIONAL upon the Corporation entering into a
+  formal contract or issuing a purchase order for the material to be supplied
+  and the work to be done relating to this project (Tender 13-13); and,
+ 
+g)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
+  documents, if required, to give effect to these recommendations.  
+  (2013-L04A)
+
+# 3.&nbsp;&nbsp;&nbsp;2013 Infrastructure
+  Lifecycle Renewal Program Contract 8: Manitoulin Drive Reconstruction (Tender
+  No. 13-25)
+
+That, on the recommendation of the Managing
+  Director, Environmental & Engineering Services & City Engineer, the
+  following actions be taken with respect to the award of contracts for the
+  2013 Lifecycle Renewal Program, Contract #8: Manitoulin Drive Reconstruction
+  Project (ES2414-12, EW3765-13, TS3014-13, TS3037-13):
+ 
+a)         the
+  bid submitted by Aar-Con Excavating, 10998 Longwoods Road, Delaware, ON, N0L
+  1E0, at its tendered price of $1,834,911.50 (excluding H.S.T.), for the 2013
+  Infrastructure Lifecycle Renewal Program, Contract #8 project, BE ACCEPTED;
+  it being noted that the bid submitted by Aar-Con Excavating was the lowest of
+  eleven bids received and meets the City's specifications and requirements in
+  all areas; 
+ 
+b)         the
+  financing for this project BE APPROVED as set out in the Sources of Financing
+  Report appended to the staff report dated May 6, 2013;
+ 
+c)         the
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  that are necessary in connection with this project; 
+ 
+d)         the
+  approval given herein BE CONDITIONAL upon the Corporation entering into a
+  formal contract or issuing a purchase order for the material to be supplied
+  and the work to be done relating to this project (Tender 13-25); and,
+ 
+e)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
+  documents, if required, to give effect to these recommendations.  (2013-L04A)
+
+# 4.&nbsp;&nbsp;&nbsp;2013 Arterial Road
+  Rehabilitation - Contract - '2' (Tender 13-35)
+
+That, on the recommendation of the Managing
+  Director, Environmental & Engineering Services & City Engineer, the
+  following actions be taken with respect to the award of the contract for the
+  2013 Arterial Road Rehabilitation - Contract ‘2’ (TS1446-11 & 12):
+ 
+a)         the
+  bid submitted by Dufferin Construction Company, 2200 Jetstream Rd, PO Box
+  189, London, ON, N6A 4V7, at its submitted tendered price of $2,872,006.64
+  (excluding H.S.T.), for the 2013 Arterial Road Rehabilitation - Contract ‘2’,
+  BE ACCEPTED; it being noted that the bid submitted by Dufferin Construction
+  Company was the lowest of two (2) bids received and meets the City’s
+  specifications and requirements in all areas; it being further noted that
+  there is no anticipated additional operating costs to the Environmental and
+  Engineering Services budget in 2014 and subsequent years associated with
+  approval of this tender; 
+ 
+b)         the
+  financing for this project BE APPROVED as set out in the Sources of Financing
+  Report appended to the staff report dated May 6, 2013; 
+ 
+c)         the
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  that are necessary in connection with this project; 
+ 
+d)         the
+  approval given herein BE CONDITIONAL upon the Corporation entering into a
+  formal contract or issuing a purchase order for the material to be supplied
+  and the work to be done relating to this project (Tender 13-35); and,
+ 
+e)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
+  documents, if required, to give effect to these recommendations.  (2013-L04A)
+
+# 5.&nbsp;&nbsp;&nbsp;Sherwood Forest
+  Weeping Tile Disconnect Internal and External Works (ES2680) (Tender No.
+  13-49 and 13-22)
+
+That, on the recommendation of the Managing
+  Director, Environmental & Engineering Services & City Engineer, the
+  following actions be taken with respect to the award of contracts for the
+  Sherwood Forest Weeping Tile Disconnect Internal & External Works
+  (ES2680):
+ 
+a)         the
+  bid submitted by All Season Excavating, 8513 Churchill Line, Watford, ON, N0M
+  2S0, at its tendered price of $172,240.00 (excluding H.S.T.), for the
+  construction of the Sherwood Forest Weeping Tile Disconnect Internal Works,
+  BE ACCEPTED; it being noted that the bid submitted by All Season Excavating
+  was irregular (sole bid received) but came in below the estimate, meets the
+  City’s specifications and requirements in all areas, and All Season
+  Excavating was one of five contractors that prequalified to bid; 
+ 
+b)         the
+  bid submitted by All Season Excavating, 8513 Churchill Line, Watford, ON, N0M
+  2S0, at its tendered price of $305,167.50 (excluding H.S.T.), for the
+  construction of the Sherwood Forest Weeping Tile Disconnect External Works,
+  BE ACCEPTED; it being noted that the bid submitted by All Season Excavating
+  was the lowest of seven bids received and meets the City's specifications and
+  requirements in all areas;
+ 
+c)         the
+  Civic Administration BE AUTHORIZED to provide an allotment of $1,000.00 to
+  each homeowner that participates in the weeping tile disconnection program
+  (total of $28,000.00) to cover future operating and maintenance costs for the
+  sump pump;
+ 
+d)         the
+  financing for this project BE APPROVED as set out in the Sources of Financing
+  Report appended to the staff report dated May 6, 2013;
+ 
+e)         the
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  that are necessary in connection with this project;
+ 
+f)         the
+  approval given herein BE CONDITIONAL upon the Corporation entering into a
+  formal contract or issuing a purchase order for the material to be supplied
+  and the work to be done relating to this project (Tender 13-49 & 13-22);
+  and,
+ 
+g)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
+  documents, if required, to give effect to these recommendations.  (2013-LO4B)
+
+# 6.&nbsp;&nbsp;&nbsp;On-Street Boulevard
+  Cafe Permit Program
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, the following actions be taken to permit
+  the use of on-street municipal parking spaces for boulevard cafes in the
+  Downtown:
+ 
+a)         the
+  attached revised on-street boulevard cafe principles for the
+  use of on-street municipal parking spaces for boulevard cafes BE APPROVED for
+  a period of up to three years, ending November 1, 2016;
+ 
+b)         the
+  Civic Administration BE DIRECTED to finalize and report back to Council
+  regarding technical and design guidelines for boulevard cafes; it being noted
+  that the establishment of on-street boulevard cafes under the program shall
+  be at no cost to the City; and,
+ 
+c)         the
+  current Boulevard Cafe Permit Program BE AMENDED to provide for the use of
+  on-street municipal parking spaces for seasonal boulevard cafes.  (2013-P09)
+
+# 7.&nbsp;&nbsp;&nbsp;Veterans Memorial
+  Parkway South Extension and Highway 401 Interchange Improvements
+  Transportation Environmental Study Report.
+
+That, on the recommendation of the
+  Director, Roads and Transportation, the following actions be taken with
+  respect to the Veterans Memorial Parkway South Extension and Hwy 401
+  Interchange Improvements Environmental Assessment (TS1325):
+ 
+a)         the
+  Veterans Memorial Parkway South Extension and Highway 401 Interchange
+  Improvements Transportation Environmental Study Report BE ACCEPTED;
+ 
+b)         a Notice of Completion BE FILED
+  with the Municipal Clerk; and,
+c)         the
+  Transportation Environmental Study Report BE PLACED on public record for a
+  30-day review period; 
+ 
+it being noted that the Civic Works
+  Committee (CWC) received the attached presentation from the
+  Division Manager, Transportation Planning and Design, with respect to this
+  matter;
+ 
+it being pointed out that there were no
+  oral submissions made at the public participation meeting associated with
+  this matter.  (2013-E05)
+
+# 8.&nbsp;&nbsp;&nbsp;London Transit -
+  2012 Annual Report
+
+That the communication dated May 1 2012,
+  with respect to the attached London Transit Service 2012 Annual
+  Report, from L. Ducharme, General Manager, London Transit Commission, BE
+  RECEIVED for information; it being noted that the Civic Works Committee
+  received the attached presentation from Mr. L. Ducharme, with
+  respect to this matter. (2013-C03D)
+
+# 9.&nbsp;&nbsp;&nbsp;Bruce Street and
+  Elmwood Avenue
+
+That the communication dated April 5, 2013,
+  from Councillor D. Brown, with respect to traffic flow on Bruce Street and
+  Elmwood Avenue, BE REFERRED to staff for a report back to the Civic Works
+  Committee.   (2013-T04)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor P. Van Meerbergen
+
+> Seconded by Councillor B. Polhill
+
+Amend the criteria attached to part
+  6, "Criteria For the on-street Boulevard Cafe Program:" in part j)
+  by adding the words "along Dundas Street within", following the
+  words "York Street".
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |J.F. Fontana|D. Brown (1)|
+> |B. Polhill||
+> |W.J. Armstrong||
+> |J.B. Swan||
+> |S. Orser||
+> |J.L. Baechler||
+> |N. Branscombe||
+> |M. Brown||
+> |P. Hubert||
+> |D.G. Henderson||
+> |P. Van Meerbergen||
+> |H.L. Usher||
+> |J.P. Bryant (13)||
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor P. Van Meerbergen
+
+> Seconded by Councillor P. Hubert
+
+Approve clause 6, as amended.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |J.F. Fontana|D. Brown (1)|
+> |B. Polhill||
+> |W.J. Armstrong||
+> |J.B. Swan||
+> |S. Orser||
+> |J.L. Baechler||
+> |N. Branscombe||
+> |M. Brown||
+> |P. Hubert||
+> |D.G. Henderson||
+> |P. Van Meerbergen||
+> |H.L. Usher||
+> |J.P. Bryant (13)||
+
+> **Motion Passed**
+
+****
+
+5th Report of the
+  Investment and Economic Prosperity Committee
+Councillor J.B. Swan presents.
+
+> Moved by Councillor J.B. Swan
+
+Approve clauses 1 to 5, excluding clause 2
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that Councillor J. Swan
+  disclosed a pecuniary interest in clause 2 of this report, having to do with
+  the Orchestra London Business Plan, by indicating that he is employed by
+  Orchestra London.
+
+# 3.&nbsp;&nbsp;&nbsp;Investment and
+  Economic Prosperity Project Updates
+
+That, on the recommendation of the Director
+  of Corporate Investments and Partnerships, the Investment and Economic
+  Prosperity Project updates report BE RECEIVED for information; it being noted
+  that the City Treasurer indicated that he would be ensuring that the City’s
+  economic partners understand the urgency of and the requirement for
+  implementation timelines, with regard to the prosperity projects they are
+  involved in.
+
+# 4.&nbsp;&nbsp;&nbsp;Eldon House
+  Corporation First Quarter Update
+
+That the following actions be taken with
+  respect to the Eldon House Corporation first quarter update:
+ 
+a)        
+  the communication dated April 29, 2013 from the Eldon House Board of
+  Directors, with respect to the 2013 Business Plan for the Eldon House
+  Corporation BE RECEIVED; 
+ 
+b)        
+  the Civic Administration BE REQUESTED to continue to dialog with Museum
+  London with respect to the apportionment of costs related to Eldon House;
+  and,
+ 
+c)        
+  the 2014 Eldon House budget submission BE REFLECTIVE of a sustainable
+  financial model for the future;
+ 
+it being noted that the Investment and
+  Economic Prosperity Committee heard the attached presentation
+  from M. Spencer Golovchenko, Chair, Board of Directors and R. Warden, Interim
+  Manager, Eldon House, with respect to this matter.
+
+# 5.&nbsp;&nbsp;&nbsp;City of London's
+  Various Programs and Projects
+
+That the Civic Administration BE REQUESTED
+  to look at the Community Improvement Program (CIP) within the framework of
+  the Industrial Land Strategy as an economic development instrument with a
+  view to attract businesses and resources for the City of London’s various
+  programs and projects, inclusive but not limited to, the 401/402 Corridor.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+# 2.&nbsp;&nbsp;&nbsp;Orchestra London
+  Business Plan
+
+That, on the recommendation of the Deputy
+  City Treasurer, the following actions be taken with respect to the Orchestra
+  London Business Plan:
+ 
+a)         the business plan from Orchestra
+  London, BE RECEIVED for information; and,
+ 
+b)         the
+  business plan noted in a) above, BE REFERRED to the Civic Administration to
+  review, with a report back at the next Investment and Economic Prosperity
+  Committee meeting;
+ 
+it being noted that the Investment and
+  Economic Prosperity Committee heard a verbal delegation from J. O’Neill, President,
+  Board of Directors, Orchestra London, with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (13) RECUSE: J. Swan (1)|
+
+> **Motion Passed**
+
+****
+
+9th Report of the
+  Strategic Priorities and Policy Committee
+Councillor M. Brown presents.
+
+> Moved by Councillor M. Brown
+
+Approve clauses 1 to 7.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;City of London At
+  Your Service
+  Video
+
+That it BE NOTED that the City Manager
+  presented the new City of London “At Your Service” video and acknowledged the
+  City’s partnership with Fanshawe College on the project.
+
+# 3.&nbsp;&nbsp;&nbsp;London Hydro Inc. -
+  2012 Annual Meeting of the Shareholder Annual Resolutions
+
+That the following actions be taken arising
+  from the 2012 Annual General Meeting of the Shareholder for the London Hydro
+  Inc.:
+ 
+a)         the
+  attached presentation from Vinay Sharma, Chief Executive
+  Officer, London Hydro Inc. and Peter Johnson, Board Chair, London Hydro Inc.,
+  as well as the London Hydro Annual Report 2012 BE RECEIVED;
+ 
+b)         on
+  the recommendation of the City Manager, the by-law (Attachment “A”) appended
+  to the staff report dated May 13, 2013 BE INTRODUCED at the Municipal Council
+  meeting to be held on May 14, 2013 to:
+ 
+i)          ratify
+  and confirm the Annual Resolutions of the Shareholder of the London Hydro
+  Inc. attached as Schedule “1” to the by-law; and,
+ 
+ii)         authorize
+  the Mayor and the City Clerk to execute the Annual Resolutions of the
+  Shareholder of the London Hydro Inc. attached as Schedule “1” to the by-law;
+  and
+ 
+c)         the
+  Civic Administration BE REQUESTED to complete its review of the Shareholder's
+  Declaration, in liaison with London Hydro, and in conjunction with the shared
+  services review, and report back with any suggested changes that may be in
+  order by September 2013.
+
+# 4.&nbsp;&nbsp;&nbsp;London &
+  Middlesex Housing Corporation - 2012 Annual Meeting of the Shareholder Annual
+  Resolutions
+
+That the following actions be taken arising
+  from the 2012 Annual General Meeting of the Shareholder for the London &
+  Middlesex Housing Corporation:
+ 
+a)         the
+  attached presentation from Steve Matthew, Executive Director,
+  London & Middlesex Housing Corporation, as well as the London &
+  Middlesex Housing Corporation Annual Report 2012 BE RECEIVED;
+ 
+b)         on
+  the recommendation of the City Manager, the by-law (Attachment “A”) appended
+  to the staff report dated May 13, 2013 BE INTRODUCED at the Municipal Council
+  meeting to be held on May 14, 2013 to:
+ 
+i)          ratify
+  and confirm the Annual Resolutions of the Shareholder of the London &
+  Middlesex Housing Corporation attached as Schedule “1” to the by-law; and,
+ 
+ii)         authorize
+  the Mayor and the City Clerk to execute the Annual Resolutions of the
+  Shareholder of the London & Middlesex Housing Corporation attached as
+  Schedule “1” to the by-law.
+
+# 5.&nbsp;&nbsp;&nbsp;Development Charges
+  Policy Review - Local Services Policy
+
+That the following recommendation BE
+  REFERRED back to staff for further dialogue and report back at the June 10,
+  2013 meeting of the Strategic Priorities and Policy Committee:
+ 
+“That, on the recommendation of the
+  Managing Director, Corporate Services and City Treasurer, Chief Financial
+  Officer, with the concurrence of the Managing Director, Environmental &
+  Engineering Services and City Engineer, the following changes to the City’s
+  “local service” definitions BE APPROVED in principle:
+ 
+a)           
+  watermain
+  oversizing be claimable from the City Services Reserve Fund;
+b)           
+  stormwater
+  open channel oversizing be claimable from the Urban Works Reserve Fund -
+  Minor Storm Works;
+ 
+c)           
+  the
+  definition of Sanitary Sewer Oversizing be reconsidered subject to
+  information to be provided by the Master Servicing Study consultants; and
+ 
+d)         the
+  definition of storm water management works be more broadly defined as all
+  works required to provide stormwater management servicing that satisfies the
+  requirements of a Class Environmental Assessment process;
+ 
+it being noted that the Strategic
+  Priorities and Policy Committee (SPPC) heard the attached
+  presentation from the Managing Director, Corporate Services and City
+  Treasurer/Chief Financial Officer, and the Manager, Development Finance, and
+  verbal delegations from Jim Kennedy, President, London Development Institute,
+  and Sandy Levin, 59 Longbow Road, with respect to this matter; it being
+  further noted that the SPPC also received a written communication from Jim
+  Kennedy, President, London Development Institute, with respect to this
+  matter.”
+
+# 6.&nbsp;&nbsp;&nbsp;Managing Director,
+  Corporate Services and City Treasurer, Chief Financial Officer - Development
+  Charge Policy - DC Area Specific Charges
+
+That the following recommendation BE
+  REFERRED back to staff for further dialogue and report back at the June 10,
+  2013 meeting of the Strategic Priorities and Policy Committee:
+ 
+“That, on the recommendation of the
+  Managing Director, Corporate Services and City Treasurer, Chief Financial
+  Officer with the concurrence of the Managing Director of Planning and City
+  Planner and Managing Director, Development & Compliance Services &
+  Chief Building Official, the following actions be taken with respect to
+  amending the City’s policy with respect to DC area specific rating:
+ 
+a)         the
+  Civic Administration BE DIRECTED to complete the 2014 DC rate calculations
+  and draft the 2014 DC by-law amendments necessary to implement differential
+  DC rate calculations for SWM facilities in the Central Thames Watershed (CTW)
+  Area identified in Appendix B to the staff report dated May 13, 2013; and
+ 
+b)         the
+  Civic Administration BE DIRECTED to develop the implementation rules
+  (including any transitional arrangements and further refinement of the
+  boundary) related to establishing the Central Thames Watershed SWM DC Area
+  Specific Rate for inclusion in the 2014 DC by-law;
+ 
+it being noted that the Strategic
+  Priorities and Policy Committee (SPPC) heard the attached
+  presentation from the Managing Director, Corporate Services and City
+  Treasurer/Chief Financial Officer, and the Manager, Development Finance, and
+  verbal delegations from Jim Kennedy, President, London Development Institute,
+  and Sandy Levin, 59 Longbow Road, with respect to this matter; it being
+  further noted that the SPPC also received a written communication from Jim
+  Kennedy, President, London Development Institute, with respect to this
+  matter.”
+
+# 7.&nbsp;&nbsp;&nbsp;Development Charges
+  Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
+
+That the following recommendation BE
+  REFERRED back to staff for further dialogue and report back at the June 10,
+  2013 meeting of the Strategic Priorities and Policy Committee:
+ 
+“That, on
+  the recommendation of the Managing Director, Corporate Services and City
+  Treasurer, Chief Financial Officer, with the concurrence of the Managing
+  Director, Environmental and Engineering Services and City Engineer and the
+  Managing Director, Development and Compliance Services and Chief Building
+  Official, the following policy amendments with respect to the City’s Urban
+  Works Reserve Fund (UWRF) and the future funding of Storm Water Management
+  Facilities (SWMs) BE APPROVED IN PRINCIPLE as part of the 2014 DC By-law, subject
+  to further dialogue with external stakeholders with respect to:
+ 
+-        
+  details
+  of implementation, including the change to the number of SWMs affected and
+  their costs, all of which would ultimately be included in the Background
+  Study in any event;
+-        
+  how
+  the existing financial obligations of the UWRF (“Transition payments”) will
+  be met through the implementation of the new policy;
+ 
+-        
+  assurance
+  that the policies being introduced are not intended to be used to unduly
+  delay approvals for land development by staff or by Council; it being noted
+  that the existing Growth Management Implementation Strategy is the mechanism
+  which  facilitates the sufficient supply of serviceable land, and which must
+  be respected following its implementation;
+ 
+-        
+  an
+  update of Stormwater Management Facility design standards; and
+ 
+-        
+  details
+  regarding the impact of changing the timing of payment of the SWM component
+  of the DC from building permit to subdivision agreement:
+ 
+a)           
+  funding
+  of all future SWM works be consolidated under the City Services Reserve Fund
+  (CSRF) – SWM component; it being noted that suitable transitional measures
+  associated with existing claims and development applications involving Urban
+  Works Reserve Funded (UWRF) Storm Water Management Facilities (SWMF) in
+  progress will be in the draft 2014 Development Charges DC By-law; it being
+  further noted that the City’s policy regarding Private Permanent Stormwater
+  Servicing is expected to reduce the number and size of ponds that will be
+  constructed in the future; 
+ 
+b)           
+  revised
+  timing of collection of the SWM component of the DC charge under Section 26
+  of the Development Charges Act be incorporated in the next DC Rate
+  By-law; it being noted that this will result in DC charge collections for
+  this component being made at time of entering the agreement of subdivision or
+  consent rather than from collection at building permit stage;
+ 
+c)           
+  new
+  processes for Design and Construction of Storm Water Management Facilities
+  (SWMF’s), as generally summarized in Appendix D be implemented as
+  appended to the staff report dated May 13, 2013; 
+ 
+d)           
+  the
+  Civic Administration be directed to further develop the procedures governing
+  construction of infrastructure undertaken through development agreements,
+  summarized in draft form in Appendix E as appended to the staff report dated
+  May 13, 2013;
+ 
+e)           
+  the
+  Civic Administration be directed to prepare by-law amendments and further
+  refine administrative processes necessary to effect the above-noted changes
+  coincident with the effective date of the 2014 DC By-law; and
+ 
+f)            
+  comments
+  received from the London Development Institute, the Urban League and Lyn
+  Townsend, LLB, with respect to the above-noted policy amendments as Appendix
+  G, appended to the staff report dated May 13, 2013 be received for
+  information;
+ 
+it being noted that
+  the Strategic Priorities and Policy Committee (SPPC) heard the attached
+  presentation from the Managing Director, Corporate Services and City
+  Treasurer/Chief Financial Officer, and the Manager, Development Finance, and
+  verbal delegations from Jim Kennedy, President, London Development Institute,
+  and Sandy Levin, 59 Longbow Road, with respect to this matter; it being
+  further noted that the SPPC also received a written communication from Jim
+  Kennedy, President, London Development Institute, with respect to this
+  matter.”
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant (14)|
+
+> **Motion Passed**
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |J.F. Fontana|J.L. Baechler|
+> |B. Polhill|N. Branscombe|
+> |W.J. Armstrong|M. Brown|
+> |J.B. Swan|P. Hubert|
+> |S. Orser|H.L. Usher|
+> |D.G. Henderson|J.P. Bryant (6)|
+> |P. Van Meerbergen||
+> |D. Brown (8)||
+
+> **Motion Passed**
+
+****
+
+10th Report of the
+  Committee of the Whole
+Councillor D.G. Henderson presents.
+
+> Moved by Councillor D.G. Henderson
+
+Approve progress on the in camera matters.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher (13)|
+
+> **Motion Passed**
+
+****
+
+# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
+# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1115,10 +2346,6 @@ BY-LAWS TO BE READ A FIRST, SECOND AND
 
 Approve Introduction and 1st Reading
   of Bill Nos. 211 to 232.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1148,10 +2375,6 @@ Motion Passed
 Approve 2nd Reading of Bill Nos. 211 to
   232.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1179,10 +2402,6 @@ Motion Passed
 
 Approve 3rd Reading and Enactment of Bill
   Nos. 211 to 232.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1212,10 +2431,6 @@ Motion Passed
 Approve Introduction and 1st Reading of
   Bill No. 233.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1243,10 +2458,6 @@ Motion Passed
 
 Approve 2nd Reading of Bill No. 
   233, with the corrected typographical error.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1276,10 +2487,6 @@ Motion Passed
 Approve 3rd Reading and Enactment
   of Bill No. 233, with the corrected typographical error.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1301,6 +2508,7 @@ Motion Passed
 
 ****
 
+# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 Motion Passed
 
@@ -1329,48 +2537,238 @@ Motion Passed
 
 ## Votes
 
-*11 substantive votes at this meeting (11 contested, 0 unanimous). Procedural motions excluded.*
+*31 substantive votes at this meeting (8 contested, 23 unanimous). Procedural motions excluded.*
+
+### 1#2. (ADDED) Properties
+  located at 1057, 1059 and 1061 Richmond Street (Z-8106) (Refer to the
+  Planning and Environment Committee Stage for Consideration with Clause 13 of
+  the 11th Report of the Planning and Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 2#3. Blackfriars/Petersville
+  Neighbourhood Planning Options/6th Report of the London Advisory
+  Committee on Heritage
+
+> That, the following actions be taken with   respect to the 6th Report of the London Advisory Committee on Heritage (LACH)   from its meeting held on May 8, 2013:   a)         on   the recommendation of the Managing Director, Planning and City Planner, with   the concurrence of the Heritage Planne...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#5. Western
+  University's Strategic Plan
+
+> That the Mayor and the City Manager BE   REQUESTED to advise Western University that, further to the letter dated   April 24, 2013 from the Mayor and the City Manager providing input on Western   University’s strategic plan, the City of London has an interest in connecting   international student...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 3#3. Heritage Conservation Districts
+
+> That, the Civic Administration BE DIRECTED   to report back at a future meeting of the Planning and Environment Committee   with respect to the potential of undertaking concurrent Heritage Conservation   Districts, on the list of potential Heritage Conservation Districts (Heritage   Places: A Des...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#3. Annual Meeting
+  Calendar
+
+> Amend the annual meeting calendar to move   the SPPC meeting of February 13 to February 10, 2014.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#3. Annual Meeting
+  Calendar
+
+> Amend clause 5 by revising the annual   meeting calendar to include the following new meeting dates:   Dearness Committee of Management:   Thursday, January 23, 2014 at Noon Thursday, March 27, 2014 at Noon Wednesday, June 25, 2014 at Noon Thursday, September 18, 2014 at Noon   Audit Committee:  ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (1):** [Paul Hubert](/councillors/former/p-hubert)
+
+</details>
+
+### 5#3. Annual Meeting
+  Calendar
+
+> Approve clause 5, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#5. City of London's
+  Various Programs and Projects
+
+> That the Civic Administration BE REQUESTED   to look at the Community Improvement Program (CIP) within the framework of   the Industrial Land Strategy as an economic development instrument with a   view to attract businesses and resources for the City of London’s various   programs and projects, ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 7#5. Development Charges
+  Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
+
+> That the following recommendation BE   REFERRED back to staff for further dialogue and report back at the June 10,   2013 meeting of the Strategic Priorities and Policy Committee:   “That, on   the recommendation of the Managing Director, Corporate Services and City   Treasurer, Chief Financial O...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 7#5. Development Charges
+  Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
+
+> Motion Passed
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/former/b-armstrong), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (6):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant)
+
+</details>
+
+### 7#5. Development Charges
+  Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
+
+> Approve progress on the in camera matters.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 8#2. Additional
+  Information Regarding Training Expenditures for London Hydro Board Members
+
+> That the City Clerk BE REQUESTED to review   the appointment process for the City of London’s appointees to its local   boards and commissions, with a view to ensuring the process provides for   consideration of the qualifications of applicants and that any necessary   changes to the appointment ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 9#2. Bruce Street and
+  Elmwood Avenue
+
+> That the communication dated April 5, 2013,   from Councillor D. Brown, with respect to traffic flow on Bruce Street and   Elmwood Avenue, BE REFERRED to staff for a report back to the Civic Works   Committee.   (2013-T04)
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 9#2. Bruce Street and
+  Elmwood Avenue
+
+> Amend the criteria attached to part   6, "Criteria For the on-street Boulevard Cafe Program:" in part j)   by adding the words "along Dundas Street within", following the   words "York Street".
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant)
+
+**Nay (1):** [Denise Brown](/councillors/former/d-brown)
+
+</details>
+
+### 9#2. Bruce Street and
+  Elmwood Avenue
+
+> Approve clause 6, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant)
+
+**Nay (1):** [Denise Brown](/councillors/former/d-brown)
+
+</details>
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-> Motion Passed
+> Approve that Council rise and go   into Committee of the Whole, in camera, for the purpose of considering the   following:
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (13-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON APRIL 30, 2013
 
-> Motion Passed
+> Approve the Minutes of the 9th Meeting   held on April 30, 2013.
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-> Motion Passed
+> Approve Introduction and 1st Reading   of Bill Nos. 211 to 232.
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (13-0)
 
-**Yea (72):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+### XIII. BY-LAWS
 
-</details>
+> Approve 2nd Reading of Bill Nos. 211 to   232.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd Reading and Enactment of Bill   Nos. 211 to 232.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and 1st Reading of   Bill No. 233.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd Reading of Bill No.    233, with the corrected typographical error.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd Reading and Enactment   of Bill No. 233, with the corrected typographical error.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
 
 ### XIV. ADJOURNMENT
 
@@ -1378,99 +2776,79 @@ Motion Passed
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (13-0)
 
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown)
+### 11. Property located at
+  425 Wharncliffe Road South
 
-</details>
+> Approve that part b) of clause 11 be   amended to read as follows:   "b)       the   Approval Authority BE ADVISED that the north and south fences are to be   constructed of wrought iron, at a height of 1.8m, the existing interior chain   link fence is to be retained, the clear throat access is t...
 
-### 7. Development Charges
-  Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
-
-> Motion Passed
-
-**✅ Motion Passed**
+**✅ Motion Passed 🔥**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (32):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+**Yea (9):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (6):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
-
-### 9. Bruce Street and
-  Elmwood Avenue
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (37):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-**Nay (2):** [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### 10. Property located at
-  433 Hyde Park Road
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Nay (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
 </details>
 
 ### 11. Property located at
   425 Wharncliffe Road South
 
-> Motion Passed
+> Approve clause 11, as amended,   excluding part b).
 
 **✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 11. Property located at
+  425 Wharncliffe Road South
+
+> Approve clause 11 b), as amended.
+
+**✅ Motion Passed 🔥**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (30):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+**Yea (8):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+**Nay (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/former/b-armstrong), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white)
 
 </details>
 
 ### 12. Properties located
   at 3924 and 4128 Colonel Talbot Road (39T-12503/OZ-8052)
 
-> Motion Passed
+> That, on the recommendation of the Manager   of Development Services and Planning Liaison, the following actions be taken   with respect to the appeals by Colonel Talbot Developments Inc., on the   neglect by the Municipal Council to make a decision on the Official Plan and   Zoning By-law amendm...
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (15-0)
 
 ### 15. Hazelden Park
 
-> Motion Passed
+> That the Civic Administration BE REQUESTED   to review  the amount of parking in Hazelden Park and look for potential   opportunities to expand the existing parking lot; it being noted that cars are   parking along Hyde Park Road during ball games and soccer games.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 16. Properties located
+  at 1057, 1059 and 1061 Richmond Street
+
+> Approve the motion to refer be Amended in   part d) by deleting the words "compatible density suggestions" and by   replacing them with the words "a maximum density of 45 units per   hectare, that is compatible and reflective of the character of the existing   neighbourhood".
 
 **✅ Motion Passed**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+**Yea (9):** [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Joe Fontana](/councillors/former/j-f-fontana), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill)
 
 </details>
 
@@ -1484,9 +2862,9 @@ Motion Passed
 <details>
 <summary>View roll call</summary>
 
-**Yea (20):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
 
-**Nay (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill)
+**Nay (1):** [Bud Polhill](/councillors/former/b-polhill)
 
 </details>
 

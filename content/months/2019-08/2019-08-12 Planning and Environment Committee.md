@@ -506,7 +506,7 @@ The meeting adjourned at 5:37 PM
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -514,39 +514,24 @@ The meeting adjourned at 5:37 PM
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
-### 3.2. Public Participation Meeting - Application - 79 Meg Drive (Z-9036)
+### 3.1. Lot 66, 1738 Hamilton Road
 
-> That, on the recommendation of the Director, Development Services, based on the application by Almehdi Almuntathar Union, relating to a portion of the property located at 79 Meg Drive, the proposed by-law appended to the staff report dated August 12, 2019 BE INTRODUCED at the Municipal Council me...
+> That, the following actions be taken with respect to the property located at Lot 66, 1738 Hamilton Road: a)            on the recommendation of the City Clerk, the report dated August 12, 2019 and entitled “Request for Council Resolution, under section 45(1.4) of the Planning Act, 1990 – Lot 66, ...
 
-**✅ Motion Passed (4 to 0)**
+**✅ Motion Passed (3 to 1) 🔥**
 
-Unanimous (2-0)
+<details>
+<summary>View roll call</summary>
 
-### 3.3. Public Participation Meeting - Application - Draft Plan of Vacant Land Condominium - 6990 Clayton Walk (39CD-19511)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2219008 Ontario Ltd. (York Developments), relating to the property located at 6990 Clayton Walk: a)            the Approval Authority BE ADVISED that no issuers wer...
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
 
-**✅ Motion Passed (4 to 0)**
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
 
-Unanimous (2-0)
-
-### 3.4. Public Participation Meeting - Heritage Places 2.0: A Description of Potential Heritage Conservation Districts in the City of London
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, with advice of the Heritage Planner, the following actions be taken with respect to the application of The Corporation of the City of London to update and replace the “Heritage Places” guideline document which applie...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.5. Public Participation Meeting - Application - Southern Portion of 3086 Tillman Road (Z-8926)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Westfield Village Estates Inc., relating to the property located at the southern portion of 3086 Tillmann Road: a)            the proposed attached, revised, by-law...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+</details>
 
 ### 5.1. Minor Variances Submitted Under Section 45(1.4) of the Planning Act
 
@@ -554,5 +539,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

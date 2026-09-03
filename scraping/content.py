@@ -9,9 +9,11 @@ from bs4 import NavigableString
 # list). A conservative, exact-match (post-trim) allowlist: this must
 # never match a real name fragment like "X. Chair" or "R. Mayoral", so no
 # regex/substring matching here - just direct set membership against the
-# whole trimmed token. Shared by content.py's Vote.add_row and
-# Meeting.py's get_names, the two places eSCRIBE's comma/"and"-joined
-# lists get split on this exact join logic.
+# whole trimmed token. Shared by content.py's Vote.add_row, Meeting.py's
+# get_names, and WordMeeting.py's voter-name path (the pre-2018 Word-doc
+# parser) - every place eSCRIBE's/Word's comma/"and"-joined voter lists
+# get split. Keep it a single source of truth: if this set needs a new
+# token, add it here, not in a second copy.
 BARE_TITLE_TOKENS = {
   "Acting Mayor",
   "Mayor",

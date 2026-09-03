@@ -4,7 +4,7 @@ date: 2014-06-24
 ---
 June 24, 2014, at  8:00 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=296bf116-08e6-4aec-ac1b-935d0b1bb4c9&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=296bf116-08e6-4aec-ac1b-935d0b1bb4c9&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > B. Polhill, W.J. Armstrong, J.B. Swan, S. Orser, J.L. Baechler, M. Brown, P. Hubert, D.G. Henderson, D. Brown, H.L. Usher, J.P. Bryant, S.E. White, C. Saunders
@@ -18,15 +18,21 @@ June 24, 2014, at  8:00 PM
 The Council meets in Special Session in the
   Council Chambers this day at 8:00 PM.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
+# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
+# V.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
+# 1.&nbsp;&nbsp;&nbsp;Resolution from the
   Council Meeting of June 24, 2014 with respect to the declaration of a
   potential vacancy of a Ward seat.
 
@@ -48,10 +54,6 @@ AND WHEREAS section 259(1)(e) of the
 BE IT HEREBY RESOLVED THAT:
 The office of Councillor Ward 5 BE DECLARED
   vacant in accordance with section 262 of the Municipal Act, 2001, c.25.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -79,10 +81,6 @@ Motion Passed
 Approve the deferral of
   consideration of an appointment to the Ward 5 vacancy for a period of approximately
   3 weeks, until the next regular meeting cycle of Council
-
-****
-
-Motion Failed
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -123,10 +121,6 @@ b)           
   nomination process as was followed for the filling of the vacancy in the
   Office of Mayor.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -155,10 +149,6 @@ Approve that further to the invitation
   Clerk's office prior to 11 AM June 25th, 2014 for certification of
   eligibility.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -178,14 +168,20 @@ Motion Passed
 
 ****
 
+# VI.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
+# VII.&nbsp;&nbsp;&nbsp;REPORTS
 
+# VIII.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# IX.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
+# X.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XI.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -196,10 +192,6 @@ BY-LAWS TO BE READ A FIRST, SECOND AND
 
 Approve Introduction and First Reading
   of Bill No. 334.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -224,10 +216,6 @@ Motion Passed
 > Seconded by Councillor B. Polhill
 
 Approve Second Reading of Bill No. 334.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -254,10 +242,6 @@ Motion Passed
 Approve Third Reading and Enactment of
   Bill No. 334.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -276,55 +260,60 @@ Motion Passed
 
 ****
 
+# XII.&nbsp;&nbsp;&nbsp;ADJOURNMENT
+
+Motion Passed.
 
 ---
 
 ## Votes
 
-*3 substantive votes at this meeting (3 contested, 0 unanimous). Procedural motions excluded.*
-
-### XI. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (27):** [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 1. Resolution from the
   Council Meeting of June 24, 2014 with respect to the declaration of a
   potential vacancy of a Ward seat.
 
-> Motion Passed
+> Approve that:   WHEREAS by Bill No. 335, Joni Baechler,   Councillor Ward 5, was appointed to the office of Mayor pursuant to section   263(1) of the Municipal Act, 2001;   AND WHEREAS section 259(1)(e) of the   Municipal Act, 2001 provides that the office of a member of council of a   municipali...
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (33):** [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (11-0)
 
 ### 1. Resolution from the
   Council Meeting of June 24, 2014 with respect to the declaration of a
   potential vacancy of a Ward seat.
 
-> Motion Failed
+> Approve the deferral of   consideration of an appointment to the Ward 5 vacancy for a period of approximately   3 weeks, until the next regular meeting cycle of Council
 
 **❌ Motion Failed**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (3):** [Dale Henderson](/councillors/former/d-g-henderson), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant)
 
-**Nay (9):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown)
+**Nay (9):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Bud Polhill](/councillors/former/b-polhill), [Denise Brown](/councillors/former/d-brown)
 
 </details>
+
+### 1. Resolution from the
+  Council Meeting of June 24, 2014 with respect to the declaration of a
+  potential vacancy of a Ward seat.
+
+> Approve that the following actions be   taken with respect to the filling of the Ward 5 vacancy:   a)              Council   Members each BE INVITED to bring forward a nomination to fill the vacant Ward   5 Councillor position, to the special Council meeting scheduled for 1 PM,   June 25, 2014; i...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 1. Resolution from the
+  Council Meeting of June 24, 2014 with respect to the declaration of a
+  potential vacancy of a Ward seat.
+
+> Approve that further to the invitation   for nominations, any potential nominees BE REQUESTED to attend the City   Clerk's office prior to 11 AM June 25th, 2014 for certification of   eligibility.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
 

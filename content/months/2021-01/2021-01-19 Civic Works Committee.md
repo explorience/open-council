@@ -370,7 +370,7 @@ The meeting adjourned at 12:44 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2. Consent
 
@@ -378,7 +378,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.4. Ministry of Transportation Road Closures for the Highway 401/Highway 4 (Colonel Talbot Road) Interchange Improvements
 
@@ -386,7 +386,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.8. RFP 20-72 Supply and Delivery of Medium Duty Crew Cab Trucks
 
@@ -394,5 +394,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

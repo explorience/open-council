@@ -226,7 +226,7 @@ The meeting adjourned at 1:39 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. Advisory Committee Review - Interim Report
 
@@ -234,5 +234,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

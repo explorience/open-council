@@ -1,6 +1,6 @@
 [
  {
-  "id": "0ae2eb6affd6",
+  "id": "5f2ded2dd2f9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -10,7 +10,7 @@
   "flags": []
  },
  {
-  "id": "f6ea568328ee",
+  "id": "a84eeb4bc824",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -22,7 +22,7 @@
   ]
  },
  {
-  "id": "acd7ca1ecdcd",
+  "id": "333b5ac26fcd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -34,7 +34,7 @@
   ]
  },
  {
-  "id": "914a060cc7ee",
+  "id": "303563f0d24f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -46,7 +46,7 @@
   ]
  },
  {
-  "id": "01a2ed8dac95",
+  "id": "f92859ffd555",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "restrictive",
@@ -56,7 +56,7 @@
   "flags": []
  },
  {
-  "id": "f329694d1226",
+  "id": "295a22bb5a32",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "restrictive",
@@ -66,7 +66,7 @@
   "flags": []
  },
  {
-  "id": "371408bc6cb2",
+  "id": "e40d08685a24",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -76,7 +76,7 @@
   "flags": []
  },
  {
-  "id": "0b9450861397",
+  "id": "4b835f9f798d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -88,7 +88,7 @@
   ]
  },
  {
-  "id": "cd86a08f5c79",
+  "id": "2071a9b9c052",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -98,7 +98,7 @@
   "flags": []
  },
  {
-  "id": "d6e76583b5c9",
+  "id": "ff0da2243870",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -108,7 +108,7 @@
   "flags": []
  },
  {
-  "id": "2abe28697a4e",
+  "id": "c4558a7c1cac",
   "issue": "policing",
   "axis": "budget-size",
   "polarity": "restrictive",
@@ -118,7 +118,7 @@
   "flags": []
  },
  {
-  "id": "d16bcff25aa5",
+  "id": "06118a731cb5",
   "issue": "policing",
   "axis": "budget-size",
   "polarity": "restrictive",
@@ -128,7 +128,7 @@
   "flags": []
  },
  {
-  "id": "b0a5846fa9db",
+  "id": "41320003305a",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -138,7 +138,7 @@
   "flags": []
  },
  {
-  "id": "7329cb0af63a",
+  "id": "c2d608e204b1",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -148,7 +148,7 @@
   "flags": []
  },
  {
-  "id": "fac9c011ec89",
+  "id": "dded50581b28",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -158,7 +158,7 @@
   "flags": []
  },
  {
-  "id": "f61c9cf71d80",
+  "id": "b547333b3963",
   "issue": "housing",
   "axis": "density",
   "polarity": "restrictive",
@@ -168,7 +168,7 @@
   "flags": []
  },
  {
-  "id": "e67269fef518",
+  "id": "c0a130b2b91f",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -181,20 +181,7 @@
   ]
  },
  {
-  "id": "c58fcf1c3125",
-  "issue": "none",
-  "axis": null,
-  "polarity": null,
-  "whatAYeaDid": "Noted receipt of five public communications on the graphic-images display item, without deciding the matter.",
-  "confidence": "high",
-  "quote": "",
-  "flags": [
-   "informational_ask",
-   "wrapper_preamble"
-  ]
- },
- {
-  "id": "92217c9fca3b",
+  "id": "c0290abe1790",
   "issue": "policing",
   "axis": "budget-size",
   "polarity": "restrictive",
@@ -204,7 +191,7 @@
   "flags": []
  },
  {
-  "id": "decf822984d2",
+  "id": "9dafcf8dc20a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -216,7 +203,7 @@
   ]
  },
  {
-  "id": "f5672a0e9141",
+  "id": "9003cb15c8e1",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -226,7 +213,7 @@
   "flags": []
  },
  {
-  "id": "d424faa3a4c9",
+  "id": "0919b47fec35",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -236,7 +223,7 @@
   "flags": []
  },
  {
-  "id": "3424052e182e",
+  "id": "72974a715630",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -246,7 +233,7 @@
   "flags": []
  },
  {
-  "id": "04664b9f96a1",
+  "id": "c8560208ccc7",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -256,7 +243,7 @@
   "flags": []
  },
  {
-  "id": "02f66ef73058",
+  "id": "0cafafceba4a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -268,7 +255,7 @@
   ]
  },
  {
-  "id": "68345dd4c078",
+  "id": "c700e245787e",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -278,7 +265,7 @@
   "flags": []
  },
  {
-  "id": "38d7f6ed72c4",
+  "id": "38208e05392b",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -288,7 +275,7 @@
   "flags": []
  },
  {
-  "id": "bf46bccfd06a",
+  "id": "6c98b03dfb2e",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -298,7 +285,7 @@
   "flags": []
  },
  {
-  "id": "7887cbf40631",
+  "id": "b6972d59df63",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -308,7 +295,7 @@
   "flags": []
  },
  {
-  "id": "ab96c21a81e0",
+  "id": "3751f8ed1ef5",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -318,7 +305,7 @@
   "flags": []
  },
  {
-  "id": "fb5e80fd7115",
+  "id": "8e57a868a95d",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -328,7 +315,7 @@
   "flags": []
  },
  {
-  "id": "aa2652715eaf",
+  "id": "d078e8b881e4",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -338,7 +325,7 @@
   "flags": []
  },
  {
-  "id": "4d51d4c7f3fa",
+  "id": "8bec0d63163e",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -348,7 +335,7 @@
   "flags": []
  },
  {
-  "id": "c975eb034a57",
+  "id": "7f9cba8155ba",
   "issue": "climate",
   "axis": "target-strength",
   "polarity": "restrictive",
@@ -358,7 +345,7 @@
   "flags": []
  },
  {
-  "id": "85551557a69f",
+  "id": "fba68d19b0c7",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -368,7 +355,7 @@
   "flags": []
  },
  {
-  "id": "e2d99c6f8b4d",
+  "id": "1e416a2f70db",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -378,7 +365,7 @@
   "flags": []
  },
  {
-  "id": "370948fd7769",
+  "id": "4214b0fc1e5c",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -388,7 +375,7 @@
   "flags": []
  },
  {
-  "id": "56a6d8c3bd39",
+  "id": "9b03c9f7ade7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -398,7 +385,7 @@
   "flags": []
  },
  {
-  "id": "88ae9c2045ab",
+  "id": "5eb83919fec3",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -411,7 +398,7 @@
   ]
  },
  {
-  "id": "1d96de84a4bd",
+  "id": "3c354823c7a9",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -421,7 +408,7 @@
   "flags": []
  },
  {
-  "id": "0b97a04eaed5",
+  "id": "3c434bc28cf7",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -433,7 +420,7 @@
   ]
  },
  {
-  "id": "dfbe003808ef",
+  "id": "de0c7139026d",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -445,7 +432,7 @@
   ]
  },
  {
-  "id": "7eb5f65600d1",
+  "id": "5c71af54ca39",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -455,7 +442,7 @@
   "flags": []
  },
  {
-  "id": "c9f276f22cbc",
+  "id": "3c81cb54518f",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -465,7 +452,7 @@
   "flags": []
  },
  {
-  "id": "26a1844b1671",
+  "id": "0006dd37efb2",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -473,5 +460,18 @@
   "confidence": "high",
   "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for 2024 only for Business Case #P-51 \u2013 Transit Service Hours Growth, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, as approved by the London Transit Commission on January 31, 2024, by increasing funding as follows",
   "flags": []
+ },
+ {
+  "id": "fc4e69d01fa8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Noted receipt of five public communications on the graphic-images display item, without deciding the matter.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
  }
 ]

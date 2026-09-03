@@ -355,7 +355,7 @@ The meeting adjourned at 5:16 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 3.2. 7th Report of the Accessibility Advisory Committee
 
@@ -363,7 +363,7 @@ The meeting adjourned at 5:16 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.2. 7th Report of the Accessibility Advisory Committee
 
@@ -371,7 +371,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.2. 7th Report of the Accessibility Advisory Committee
 
@@ -379,7 +379,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.4. (ADDED) 8th Report of the Animal Welfare Advisory Committee
 
@@ -387,15 +387,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 4.1. 7th Report of the London Housing Advisory Committee
-
-> That the following actions be taken with respect to the 7th Report of the London Housing Advisory Committee (LHAC) from its meeting held on July 11, 2018: a)            the following actions be taken with respect to growing marijuana in apartment buildings: i)             a representative from Ne...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.2. (ADDED) Mayor’s Meeting With the Accessibility Advisory Committee – Update
 
@@ -403,5 +395,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

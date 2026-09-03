@@ -87,7 +87,10 @@ LEVY_RE = re.compile(r"Tax Levy:\s*(-?\$[\d,]+)")
 # verify-round4-items.py asserts they stay untouched. This sweep must not
 # silently downgrade them just because the mechanical rule alone can't
 # confirm them.
-PROTECTED_TITLE_DERIVED_IDS = {"18633398dd86", "ea03954e4926"}
+# 2026-09-02 (PR #202 round): ids rechased through rekey-map-20260902*.json
+# after this branch's merge + regen changed them - see verify-round4-items.py's
+# matching item-3 comment for the full chain and provenance.
+PROTECTED_TITLE_DERIVED_IDS = {"22951914b4b2", "021ec895b691"}  # was 18633398dd86, ea03954e4926
 
 
 def load_full_motion_text(meeting_slug: str, item_number: str, quote: str) -> str | None:

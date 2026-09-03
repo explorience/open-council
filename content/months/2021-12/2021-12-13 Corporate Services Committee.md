@@ -196,7 +196,7 @@ The meeting adjourned at 12:47 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. (ADDED) WITHDRAWN - Request for Delegation Status - AM Valastro - Public Notice Amendment
 
@@ -204,5 +204,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

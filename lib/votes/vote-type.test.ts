@@ -4,6 +4,8 @@ import {
   classifyVoteType,
   isParticipatingVote,
   isMotionTextTruncated,
+  hasRecordedDissent,
+  isProcedural,
   MOTION_TEXT_TRUNCATION_MARKER,
   type VoteType,
 } from "./vote-type.js"
@@ -114,5 +116,65 @@ describe("isParticipatingVote", () => {
     for (const vt of nonParticipating) {
       assert.strictEqual(isParticipatingVote(vt), false, `${vt} should not be a participating vote`)
     }
+  })
+})
+
+// issue #199 final verify, punch list item 2: generate-stats.ts's
+// `v.unanimousSource === "votes"` regression (never true for a 2018+
+// tally-derived record -> 1,046 divided motions wrongly flagged
+// procedural). hasRecordedDissent() is the shared signal that replaced
+// it, matching generate-votes.ts's `nays.length > 0` exactly.
+describe("hasRecordedDissent", () => {
+  test("tally records: dissent tracks !unanimous exactly (2018+ eSCRIBE, always a tally)", () => {
+    assert.strictEqual(hasRecordedDissent("tally", false), true) // e.g. "(8 to 7)"
+    assert.strictEqual(hasRecordedDissent("tally", true), false) // e.g. "(15 to 0)"
+  })
+
+  test("votes records: always confirmed dissent, regardless of `unanimous`", () => {
+    // "votes" is only ever set by generate-votes.ts's parseResult() when a
+    // resolvable Nay was actually found - `unanimous` alongside it is
+    // always false in real data, but the signal must not depend on that.
+    assert.strictEqual(hasRecordedDissent("votes", false), true)
+  })
+
+  test("unresolved records: NOT confirmed dissent, even though unanimous is false", () => {
+    // "unresolved" means either the roll call was demoted as garbled (no
+    // per-councillor records at all) or a Nay row named voters that all
+    // failed to resolve - real, recorded dissent, but not attributable to
+    // a specific councillor, so it must not count as "confirmed".
+    assert.strictEqual(hasRecordedDissent("unresolved", false), false)
+  })
+
+  test("unknown records: presumed unanimous, never dissent", () => {
+    assert.strictEqual(hasRecordedDissent("unknown", true), false)
+  })
+
+  test("undefined unanimousSource (legacy/malformed record): never dissent", () => {
+    assert.strictEqual(hasRecordedDissent(undefined, false), false)
+  })
+
+  // THE regression this replaces: `unanimousSource === "votes"` alone is
+  // NEVER true for a 2018+ record (always "tally"), so it silently
+  // treated every genuinely divided 2018+ motion as having no dissent -
+  // reintroducing that exact defect here must fail this test.
+  test("negative: the old buggy `unanimousSource === \"votes\"` signal misses all tally-sourced dissent", () => {
+    const buggySignal = (unanimousSource: string | undefined, _unanimous: boolean) => unanimousSource === "votes"
+    // A real 2018+ divided motion: unanimousSource "tally", unanimous false.
+    assert.strictEqual(buggySignal("tally", false), false, "the buggy signal wrongly reports no dissent")
+    assert.strictEqual(hasRecordedDissent("tally", false), true, "the fixed signal correctly reports dissent")
+  })
+})
+
+describe("isProcedural with hasRecordedDissent (generate-stats.ts's actual call shape)", () => {
+  test("a boilerplate-text 2018+ motion with confirmed tally dissent is NOT procedural", () => {
+    // e.g. 2026-07-21 item 13, "That Introduction and First Reading of
+    // Bill No. 268 BE APPROVED.", nays=2 (issue #199 final verify).
+    const motionText = "That Introduction and First Reading of Bill No. 268 BE APPROVED."
+    assert.strictEqual(isProcedural(motionText, hasRecordedDissent("tally", false)), false)
+  })
+
+  test("the same boilerplate text with NO dissent (unanimous tally) IS procedural", () => {
+    const motionText = "That Introduction and First Reading of Bill No. 268 BE APPROVED."
+    assert.strictEqual(isProcedural(motionText, hasRecordedDissent("tally", true)), true)
   })
 })

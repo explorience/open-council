@@ -1,6 +1,6 @@
 [
  {
-  "id": "4c82f95207fe",
+  "id": "d2b6a1410c01",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -12,7 +12,7 @@
   ]
  },
  {
-  "id": "4e2861ffc59a",
+  "id": "a8e2f548211a",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -22,7 +22,7 @@
   "flags": []
  },
  {
-  "id": "a7f830659ba0",
+  "id": "be505c176186",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -34,7 +34,7 @@
   ]
  },
  {
-  "id": "c7bf822cb0ae",
+  "id": "af9788e597a8",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -46,7 +46,7 @@
   ]
  },
  {
-  "id": "780a4ce2d9bb",
+  "id": "b238caa6fd22",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -58,7 +58,7 @@
   ]
  },
  {
-  "id": "729603c2a177",
+  "id": "2900bcb89ee4",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -70,7 +70,7 @@
   ]
  },
  {
-  "id": "14bab35d7df3",
+  "id": "db5b01a2411e",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -82,7 +82,7 @@
   ]
  },
  {
-  "id": "8b6d676e9921",
+  "id": "9350823647dc",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -94,7 +94,7 @@
   ]
  },
  {
-  "id": "c4edae11a020",
+  "id": "776d36b6bc34",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -106,7 +106,7 @@
   ]
  },
  {
-  "id": "d18f8e672d56",
+  "id": "1fd6e77e5a25",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -118,7 +118,7 @@
   ]
  },
  {
-  "id": "e44917af01d5",
+  "id": "2b25c117ac0f",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -130,7 +130,7 @@
   ]
  },
  {
-  "id": "0635364c133a",
+  "id": "38fda7e0ab61",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -142,7 +142,7 @@
   ]
  },
  {
-  "id": "e3077dbdd123",
+  "id": "778e12840488",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -154,7 +154,7 @@
   ]
  },
  {
-  "id": "4d9b9481f9ba",
+  "id": "fd6737cd16f4",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -166,7 +166,7 @@
   ]
  },
  {
-  "id": "c884af5b7ed6",
+  "id": "c1f12ccfbb1a",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -178,7 +178,7 @@
   ]
  },
  {
-  "id": "423774faef1e",
+  "id": "efc73927922d",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -190,7 +190,7 @@
   ]
  },
  {
-  "id": "9efd41c75bfa",
+  "id": "198b360984e2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -202,7 +202,7 @@
   ]
  },
  {
-  "id": "0caaac4a596a",
+  "id": "e3edf6c6b7bc",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -212,7 +212,7 @@
   "flags": []
  },
  {
-  "id": "5b512fd551f5",
+  "id": "e059773bdd21",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -224,7 +224,7 @@
   ]
  },
  {
-  "id": "bec87774f19c",
+  "id": "c40e85ae0f60",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -236,7 +236,7 @@
   ]
  },
  {
-  "id": "f1e67ede69ac",
+  "id": "ce4d199d57a6",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -246,7 +246,7 @@
   "flags": []
  },
  {
-  "id": "d862792a9a67",
+  "id": "97f7bc8dda48",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -258,7 +258,7 @@
   ]
  },
  {
-  "id": "602bbc69987f",
+  "id": "af817389be86",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -270,7 +270,7 @@
   ]
  },
  {
-  "id": "490a0c35243d",
+  "id": "624bbce4951c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -282,7 +282,7 @@
   ]
  },
  {
-  "id": "82741a99f795",
+  "id": "089c7bc6b756",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -294,7 +294,7 @@
   ]
  },
  {
-  "id": "87be608d13d9",
+  "id": "fcee6a9bf1a6",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -306,7 +306,7 @@
   ]
  },
  {
-  "id": "4df11e775c7f",
+  "id": "f74ed511bc6d",
   "issue": "housing",
   "axis": "affordable-funding",
   "polarity": "expansive",
@@ -316,7 +316,7 @@
   "flags": []
  },
  {
-  "id": "c6155b3cd944",
+  "id": "031fe5fbc781",
   "issue": "budget",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -326,7 +326,7 @@
   "flags": []
  },
  {
-  "id": "c4c5887e9214",
+  "id": "83d6d3366d27",
   "issue": "climate",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -336,7 +336,7 @@
   "flags": []
  },
  {
-  "id": "d091e5e9ce50",
+  "id": "9fb0955b1afa",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -346,7 +346,7 @@
   "flags": []
  },
  {
-  "id": "0e21ab217bb2",
+  "id": "6307b377d40d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -356,7 +356,7 @@
   "flags": []
  },
  {
-  "id": "f33c0b121bda",
+  "id": "d94da7fd866c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -368,7 +368,7 @@
   ]
  },
  {
-  "id": "2568bf1fd35c",
+  "id": "58404c0f230e",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -378,7 +378,7 @@
   "flags": []
  },
  {
-  "id": "a0f0d661d9af",
+  "id": "565a657b2023",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -388,7 +388,7 @@
   "flags": []
  },
  {
-  "id": "822fd1b135c7",
+  "id": "d96ef6f0a5b0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -400,7 +400,7 @@
   ]
  },
  {
-  "id": "ccc9d8553bb1",
+  "id": "ff72c94c196e",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -410,7 +410,7 @@
   "flags": []
  },
  {
-  "id": "fedd928b747b",
+  "id": "bbdcbfecfc06",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -420,7 +420,7 @@
   "flags": []
  },
  {
-  "id": "7da276401f06",
+  "id": "64b27bc30f48",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -430,7 +430,7 @@
   "flags": []
  },
  {
-  "id": "62d68b3a749d",
+  "id": "90bea8b81ef2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -442,7 +442,7 @@
   ]
  },
  {
-  "id": "461b2550ab65",
+  "id": "d0ab3a669a55",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -454,7 +454,7 @@
   ]
  },
  {
-  "id": "fa08b848a5f2",
+  "id": "95721bca18be",
   "issue": "budget",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -464,7 +464,7 @@
   "flags": []
  },
  {
-  "id": "5eb57ac6ba76",
+  "id": "28d426d45cc0",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -476,7 +476,7 @@
   ]
  },
  {
-  "id": "24de6cc4c320",
+  "id": "a3ec6ca53d38",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -486,7 +486,7 @@
   "flags": []
  },
  {
-  "id": "053dba5c9c89",
+  "id": "435dc889a5ee",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -498,7 +498,7 @@
   ]
  },
  {
-  "id": "e698ab20d669",
+  "id": "f8844cbcc098",
   "issue": "none",
   "axis": null,
   "polarity": null,

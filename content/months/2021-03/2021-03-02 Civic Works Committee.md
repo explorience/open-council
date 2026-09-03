@@ -645,7 +645,7 @@ The meeting adjourned at 3:04 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (4 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -653,7 +653,24 @@ The meeting adjourned at 3:04 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
+
+### 2.3. Wharncliffe Road South Improvements: 100 Stanley Street Update
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the staff report dated March 2, 2021, with respect to the Wharncliffe Road South Improvements project and the heritage dwelling located at 100 Stanley Street BE RECEIVED; it being noted...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Maureen Cassidy](/councillors/former/m-cassidy)
+
+</details>
 
 ### 2.3. Wharncliffe Road South Improvements: 100 Stanley Street Update
 
@@ -664,9 +681,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/former/e-holder)
 
-**Absent (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Jesse Helmer](/councillors/former/j-helmer), [Stephen Turner](/councillors/former/s-turner)
+
+**Absent (1):** [Maureen Cassidy](/councillors/former/m-cassidy)
 
 </details>
 
@@ -676,20 +695,20 @@ Unanimous (3-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.8. Dundas Place - Temporary Bicycle Lanes and Revised Parking Limits
 
 > Motion to approve part b) of the clause.
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder)
+**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
@@ -702,7 +721,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (4):** [Elizabeth Peloza](/councillors/current/e-peloza), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -712,13 +733,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.2. New Sidewalks in 2021 Infrastructure Reconstruction Projects
-
-> That the following actions be taken with respect to the New Sidewalks in 2021 Infrastructure Reconstruction Projects: a)     the requests for delegation by the following individuals, with respect to this matter, BE APPROVED for the Special Civic Works Committee meeting to be held on March 15, 202...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 

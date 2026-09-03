@@ -487,94 +487,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 8:35 PM.
 
 ****
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (4 contested, 2 unanimous). Procedural motions excluded.*
-
-### 4.1. Development Charge Area Rating Policy Review – Recommended Approach
-
-> That the matter of the Development Charge Area Rating Policy Review – Recommended Approach, BE REFERRED back to the Civic Administration for further consideration, and research of options that would better recognize true cost discrepancies between new infrastructure costs inside and outside of th...
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
-
-</details>
-
-### 4.2. Confirmation of Appointments to the Old East Village BIA
-
-> That the following actions be taken with respect to the Old East Village BIA:    a)  the resignations of Jamie Sinden, Love Alchemy Hair Salon, Ellie Cook, The Root Cellar and Heather Blackwell, Western Fair District BE ACCEPTED; and,    b) Kelli Gough, The Palace Theatre Arts Commons and Michell...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 4.3. Including a Carbon Offset Strategy - Councillor M. van Holst
-
-> That the Civic Administration BE DIRECTED to include additional detailed calculations/information related to carbon offsets as an option for households in the draft Climate Emergency Action Plan, in order for inclusion in the public consultation of the Plan.
-
-**❌ Motion Failed (3 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Michael van Holst](/councillors/current/m-van-holst)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
-
-</details>
-
-### 4.4. 3rd Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee
-
-> That the Committee BE RECESSED at this time.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 5.1. (ADDED) Palace Theatre Arts Commons Loan Forgiveness Business Case
-
-> Motion to approve part a) That the following actions be taken with respect to the Palace Theatre Arts Commons loan forgiveness:    a) the Civic Administration BE AUTHORIZED to further extend the deferral period, on Community Improvement Plan loan repayments, on an interest-free basis for a furthe...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (10-0)
-
-### 5.1. (ADDED) Palace Theatre Arts Commons Loan Forgiveness Business Case
-
-> Motion to approve part b) b) the Business Case from the Palace Theatre Arts Commons BE APPROVED and the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83, with the previously allocated London ...
-
-**✅ Motion Passed (11 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Mo Salih](/councillors/current/m-salih)
-
-</details>
 ---
 
 ## Full Transcript
@@ -1349,3 +1261,94 @@ I will look for a motion to adjourn. Councillor Van Hal seconded by Councillor H
 Okay, thank you everyone. Have a great night.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (4 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. Development Charge Area Rating Policy Review – Recommended Approach
+
+> That the matter of the Development Charge Area Rating Policy Review – Recommended Approach, BE REFERRED back to the Civic Administration for further consideration, and research of options that would better recognize true cost discrepancies between new infrastructure costs inside and outside of th...
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Mariam Hamou](/councillors/former/m-hamou)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
+
+</details>
+
+### 4.2. Confirmation of Appointments to the Old East Village BIA
+
+> That the following actions be taken with respect to the Old East Village BIA:    a)  the resignations of Jamie Sinden, Love Alchemy Hair Salon, Ellie Cook, The Root Cellar and Heather Blackwell, Western Fair District BE ACCEPTED; and,    b) Kelli Gough, The Palace Theatre Arts Commons and Michell...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.3. Including a Carbon Offset Strategy - Councillor M. van Holst
+
+> That the Civic Administration BE DIRECTED to include additional detailed calculations/information related to carbon offsets as an option for households in the draft Climate Emergency Action Plan, in order for inclusion in the public consultation of the Plan.
+
+**❌ Motion Failed (3 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
+
+</details>
+
+### 4.4. 3rd Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee
+
+> That the Committee BE RECESSED at this time.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Ed Holder](/councillors/former/e-holder), [Mariam Hamou](/councillors/former/m-hamou)
+
+</details>
+
+### 5.1. (ADDED) Palace Theatre Arts Commons Loan Forgiveness Business Case
+
+> Motion to approve part a) That the following actions be taken with respect to the Palace Theatre Arts Commons loan forgiveness:    a) the Civic Administration BE AUTHORIZED to further extend the deferral period, on Community Improvement Plan loan repayments, on an interest-free basis for a furthe...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 5.1. (ADDED) Palace Theatre Arts Commons Loan Forgiveness Business Case
+
+> Motion to approve part b) b) the Business Case from the Palace Theatre Arts Commons BE APPROVED and the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83, with the previously allocated London ...
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/former/m-van-holst), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (3):** [Ed Holder](/councillors/former/e-holder), [Mo Salih](/councillors/former/m-salih), [Mariam Hamou](/councillors/former/m-hamou)
+
+</details>
+

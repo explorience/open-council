@@ -142,7 +142,7 @@ The meeting adjourned at 4:28 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Housing First Emergency Youth Shelter - Request for Delegation Status - Youth Opportunities Unlimited
 
@@ -150,5 +150,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

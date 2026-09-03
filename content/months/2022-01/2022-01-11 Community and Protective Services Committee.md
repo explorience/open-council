@@ -147,28 +147,6 @@ None.
 
 
 The meeting adjourned at 4:14 PM.
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 4.1. 1st Report of the London Housing Advisory Committee
-
-> That the following actions be taken with respect to the 1st Report of the London Housing Advisory Committee, from its meeting held on December 8, 2021: a)    the following actions be taken with respect to the staff report dated November 23, 2021, related to the Proposed Implementation of the “Roa...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.2. 1st Report of the Animal Welfare Advisory Committee
-
-> That the following actions be taken with respect to the 1st Report of the Animal Welfare Advisory Committee, from its meeting held on December 9, 2021: a)    the following actions be taken with respect to the Budget Request - Coyote Signage: i)        the Civic Administration BE REQUESTED to issu...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript

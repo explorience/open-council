@@ -357,7 +357,7 @@ The meeting adjourned at 2:27 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.3. Declare Surplus - City-Owned Land Abutting 891 and 893 Adelaide Street North
 
@@ -365,7 +365,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Consideration of Appointments to the Accessibility Advisory Committee (Requires 1 Voting Person with a Disability and 3 Voting Members at Large)
 
@@ -373,7 +373,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.2. Consideration of Appointments to the London Council for Adult Education
 
@@ -384,7 +384,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (4):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Absent (6):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Jesse Helmer](/councillors/former/j-helmer), [Arielle Kayabaga](/councillors/former/a-kayabaga)
 
 </details>
 

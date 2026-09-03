@@ -165,7 +165,7 @@ The meeting adjourned at 1:05 PM
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Request for Delegation Status - Advisory Committees - Dharshi Lacey, Director, Equity, Inclusion and Governance, Pillar Nonprofit Network
 
@@ -173,5 +173,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

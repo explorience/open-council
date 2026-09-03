@@ -483,15 +483,7 @@ The meeting adjourned at 7:00 PM.
 
 ## Votes
 
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
-
-### 3.1. 7098-7118 Kilborne Road (39CD-19518)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Bluestone Properties Inc., relating to the properties located at 7098-7118 Kilbourne Road: a) the proposed by-law appended to the staff report dated October 5, ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 3.2. 4452 Wellington Road South (OZ-9497)
 
@@ -502,29 +494,30 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder)
 
 **Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
 
-**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+**Absent (1):** [Stephen Turner](/councillors/former/s-turner)
 
 </details>
 
-### 3.3. 1033 Dundas Street (Z-9513)
+### 3.2. 4452 Wellington Road South (OZ-9497)
 
-> That, on the recommendation of the Director, Planning & Development, based on the application by Drygas Properties Inc., relating to the property located at 1033 Dundas Street, the proposed by-law appended to the staff report dated October 5, 2022 as Appendix "A" BE INTRODUCED at the Municipal Co...
+> Motion to refer consideration of the application to a future Planning and Environment Committee public participation meeting, to allow the residents of Brockley-Shaver to be notified of the proposed application.
 
-**✅ Motion Passed (4 to 0)**
+**❌ Motion Failed (2 to 3) 🔥**
 
-Unanimous (2-0)
+<details>
+<summary>View roll call</summary>
 
-### 3.4. 366 Hill Street (Z-9511)
+**Yea (2):** [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
 
-> That, on the recommendation of the Director, Planning and Development, based on the application by Drygas Properties Inc., relating to the property located at 1033 Dundas Street, the proposed by-law appended to the staff report dated October 5, 2022 as Appendix "A" BE INTRODUCED at the Municipal ...
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder)
 
-**✅ Motion Passed (4 to 0)**
+**Absent (1):** [Stephen Turner](/councillors/former/s-turner)
 
-Unanimous (2-0)
+</details>
 
 ### 3.5. 1156 Dundas Street (39T-21508 / Z-9524 / O-9545)
 
@@ -532,5 +525,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

@@ -1,6 +1,6 @@
 [
  {
-  "id": "782cbd02dbe0",
+  "id": "9fd54bd7fb7b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -12,7 +12,7 @@
   ]
  },
  {
-  "id": "64d3c515b37a",
+  "id": "2e31ad2fa396",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -24,7 +24,7 @@
   ]
  },
  {
-  "id": "d1f25753475b",
+  "id": "d20ea0654bf6",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -34,7 +34,7 @@
   "flags": []
  },
  {
-  "id": "12577061e6ff",
+  "id": "feec70f79905",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -44,7 +44,7 @@
   "flags": []
  },
  {
-  "id": "e7b785ac2677",
+  "id": "03554b18bd4e",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -54,7 +54,7 @@
   "flags": []
  },
  {
-  "id": "aa98fd07083d",
+  "id": "941b90071139",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -64,7 +64,7 @@
   "flags": []
  },
  {
-  "id": "0d224299a0d2",
+  "id": "0c4da36cdb03",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -74,7 +74,7 @@
   "flags": []
  },
  {
-  "id": "c9107181549e",
+  "id": "39ff970e1bbd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -86,7 +86,7 @@
   ]
  },
  {
-  "id": "3d77f4aac958",
+  "id": "452b08b6ad7e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -96,7 +96,7 @@
   "flags": []
  },
  {
-  "id": "b2076d3543ea",
+  "id": "60ef233a5e84",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -106,7 +106,7 @@
   "flags": []
  },
  {
-  "id": "18633398dd86",
+  "id": "22951914b4b2",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -116,7 +116,7 @@
   "flags": []
  },
  {
-  "id": "987a0e7529b2",
+  "id": "81604ebe0e88",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -126,7 +126,7 @@
   "flags": []
  },
  {
-  "id": "ea03954e4926",
+  "id": "021ec895b691",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "expansive",
@@ -136,7 +136,7 @@
   "flags": []
  },
  {
-  "id": "38ef207a1fb4",
+  "id": "3fd94ce8b2d4",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -146,7 +146,7 @@
   "flags": []
  },
  {
-  "id": "9f8da8b851c0",
+  "id": "ab2d85adb603",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -159,7 +159,7 @@
   ]
  },
  {
-  "id": "8e944ea40c56",
+  "id": "2c11c8845ce9",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -171,7 +171,7 @@
   ]
  },
  {
-  "id": "2511f1d1c461",
+  "id": "fa73c7cc4453",
   "issue": "transit",
   "axis": "service-expansion",
   "polarity": "expansive",
@@ -183,7 +183,7 @@
   ]
  },
  {
-  "id": "f7c197957c99",
+  "id": "0666282b30d3",
   "issue": "budget",
   "axis": "business-case",
   "polarity": "restrictive",
@@ -193,7 +193,7 @@
   "flags": []
  },
  {
-  "id": "4b367baa5548",
+  "id": "9a6281e7a170",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "expansive",
@@ -203,7 +203,7 @@
   "flags": []
  },
  {
-  "id": "44603a99e06b",
+  "id": "c77f2ff22429",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -213,7 +213,7 @@
   "flags": []
  },
  {
-  "id": "5329f0a29d55",
+  "id": "85e437b965cd",
   "issue": "budget",
   "axis": "levy-size",
   "polarity": "restrictive",
@@ -225,7 +225,7 @@
   ]
  },
  {
-  "id": "9c72e43d3879",
+  "id": "d3b3b84ba64c",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -235,7 +235,7 @@
   "flags": []
  },
  {
-  "id": "890ef0e727d6",
+  "id": "e5ed3ed3f971",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -245,7 +245,7 @@
   "flags": []
  },
  {
-  "id": "621daef01a81",
+  "id": "a20cfb64c158",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -257,7 +257,7 @@
   ]
  },
  {
-  "id": "9a2aea4a8c2f",
+  "id": "dd9311c86c89",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -267,7 +267,7 @@
   "flags": []
  },
  {
-  "id": "06da30240e47",
+  "id": "40de15123282",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -279,7 +279,7 @@
   ]
  },
  {
-  "id": "fcb89154ceb6",
+  "id": "fd5f87c156eb",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -289,7 +289,7 @@
   "flags": []
  },
  {
-  "id": "3b49a83ca01d",
+  "id": "d61988b03ec9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -299,7 +299,7 @@
   "flags": []
  },
  {
-  "id": "d8d7bec31108",
+  "id": "403e4168879a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -309,7 +309,7 @@
   "flags": []
  },
  {
-  "id": "5dc0c856904e",
+  "id": "9e43ce4ba281",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -319,7 +319,7 @@
   "flags": []
  },
  {
-  "id": "452cfbf9fcb9",
+  "id": "e776add73445",
   "issue": "housing",
   "axis": "use-permission",
   "polarity": "expansive",
@@ -331,7 +331,7 @@
   ]
  },
  {
-  "id": "7e32ecf98ec2",
+  "id": "3a30a4ed49f4",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -343,7 +343,7 @@
   ]
  },
  {
-  "id": "c8ca91ee2f31",
+  "id": "723aa52eb1eb",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -355,7 +355,7 @@
   ]
  },
  {
-  "id": "ae5cbf236970",
+  "id": "cd831c71fde1",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -365,7 +365,7 @@
   "flags": []
  },
  {
-  "id": "daa75aaf5c58",
+  "id": "36ea8f6ce7c5",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -375,7 +375,7 @@
   "flags": []
  },
  {
-  "id": "3a6a6b440800",
+  "id": "56e5ed0e5dac",
   "issue": "housing",
   "axis": "use-permission",
   "polarity": "restrictive",
@@ -385,7 +385,7 @@
   "flags": []
  },
  {
-  "id": "eff72561e14d",
+  "id": "b8b33c211125",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -397,7 +397,7 @@
   ]
  },
  {
-  "id": "a2404144c8ae",
+  "id": "e2f006ebb728",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -407,7 +407,7 @@
   "flags": []
  },
  {
-  "id": "64dce7af848d",
+  "id": "a854039570a1",
   "issue": "housing",
   "axis": "density",
   "polarity": "restrictive",
@@ -417,7 +417,7 @@
   "flags": []
  },
  {
-  "id": "48422a21c114",
+  "id": "fbf6b4344ada",
   "issue": "housing",
   "axis": "use-permission",
   "polarity": "restrictive",
@@ -429,7 +429,7 @@
   ]
  },
  {
-  "id": "0573c2182ea7",
+  "id": "41d91ff8fa56",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -441,7 +441,7 @@
   ]
  },
  {
-  "id": "5e35fc6c9b3c",
+  "id": "c12a4bd1fa2b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -454,7 +454,7 @@
   ]
  },
  {
-  "id": "6f061fcc11a7",
+  "id": "d084402d2c8d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -464,7 +464,7 @@
   "flags": []
  },
  {
-  "id": "5c90f038db0d",
+  "id": "aaa66ee58563",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -474,7 +474,7 @@
   "flags": []
  },
  {
-  "id": "415d5b51dbc5",
+  "id": "72a8554ec3ff",
   "issue": "none",
   "axis": null,
   "polarity": null,

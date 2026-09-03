@@ -145,36 +145,6 @@ Motion to receive the Deferred Matters List for the Community and Protective Ser
 
 
 The meeting adjourned at 4:24 PM.
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2 and 2.3 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 5.1. Deferred Matters List
-
-> Motion to receive Item Number 1 on the Deferred Matters List for the Community and Protective Services Committee, as at October 21, 2022.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (1-0)
-
-### 5.1. Deferred Matters List
-
-> Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at October 21, 2022, with the exception of Item Number 1.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
 ---
 
 ## Full Transcript
@@ -305,3 +275,34 @@ I can do a hand vote on that. All those in favor, by show of hands. And that mot
 See you at council next week.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Deferred Matters List
+
+> Motion to receive Item Number 1 on the Deferred Matters List for the Community and Protective Services Committee, as at October 21, 2022.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. Deferred Matters List
+
+> Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at October 21, 2022, with the exception of Item Number 1.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

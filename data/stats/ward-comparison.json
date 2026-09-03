@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:06:55.797Z",
+  "generatedAt": "2026-09-02T11:51:05.660Z",
   "wards": {
     "1": {
       "councillor": "Hadleigh McAlister",
@@ -84,21 +84,21 @@
     "9": {
       "councillor": "Anna Hopkins",
       "slug": "a-hopkins",
-      "wardVotes": 6162,
+      "wardVotes": 6795,
       "cityYeaRate": 0.98,
       "wardYeaRate": 0.95,
       "difference": -0.03,
-      "contestedAgreement": 95,
+      "contestedAgreement": 96,
       "motionsWithWardFocus": 0
     },
     "10": {
       "councillor": "Paul Van Meerbergen",
       "slug": "p-van-meerbergen",
-      "wardVotes": 4395,
+      "wardVotes": 4987,
       "cityYeaRate": 0.97,
       "wardYeaRate": 0.92,
-      "difference": -0.06,
-      "contestedAgreement": 92,
+      "difference": -0.05,
+      "contestedAgreement": 93,
       "motionsWithWardFocus": 0
     },
     "11": {

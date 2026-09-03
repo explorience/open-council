@@ -4,7 +4,7 @@ date: 2014-02-27
 ---
 February 27, 2014, at 11:50 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8259654e-aa04-4d67-b410-56d98f321d46&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8259654e-aa04-4d67-b410-56d98f321d46&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > J.F Fontana, B. Polhill, B. Armstrong, J.B. Swan, S. Orser, J.L. Baechler, M. Brown, P. Hubert, D.G. Henderson, P. Van Meerbergen, D. Brown, H.L. Usher, J.P. Bryant, S.E. White, C. Saunders
@@ -18,21 +18,33 @@ February 27, 2014, at 11:50 PM
 The Council meets in Special Session in the
   Council Chambers this day at 11:50 PM.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
+# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
+# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES
 
+# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
+# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
+# IX.&nbsp;&nbsp;&nbsp;REPORTS
+
+7th Report of the
+  Corporate Services Committee
 
 > Moved by Councillor J.P. Bryant
 
@@ -40,16 +52,26 @@ Approve clause 1.
 
 ****
 
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
+Motion
+Passed
+
+Motion Passed
+
+# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
+# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAW TO BE READ A FIRST, SECOND AND THIRD
   TIME:
@@ -86,4 +108,8 @@ Approve Third Reading and Enactment of
 
 Motion Passed
 
+# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
+
+Motion
+Passed
 

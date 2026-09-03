@@ -805,69 +805,6 @@ The meeting adjourns at 4:54 PM.
 > **Bill No. 360**
 > 
 > By-law No. Z.-1-223060 - A by-law to amend By-law No. Z.-1 to rezone a portion of an area of land located at 4680 Wellington Road South. (3.1/15/PEC)
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
-
-### 6.2. (ADDED) Harris Park Erosion Control Structure Replacement (RFP22-097)
-
-> That no action BE TAKEN with respect to the communication from AM. Valastro, with respect to Item #5 (2.5) of the 12th Report of the Civic Works Committee.
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
-
-**Absent (1):** [Mo Salih](/councillors/current/m-salih)
-
-</details>
-
-### 8.1. 15th  Report of the Planning and Environment Committee
-
-> That the 15th Report of the Planning and Environment Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.2. 13th Report of the Strategic Priorities and Policy Committee
-
-> That the 13th Report of the Strategic Priorities and Policy Committee, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.3. 12th Report of the Civic Works Committee
-
-> That the 12th Report of the Civic Works Committee, BE APPROVED, excluding Item 8 (2.3).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.3.8. (2.3) Windermere Road Improvements - Environmental Study Report
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 13, 2022, related to the Windermere Road Improvements Municipal Class Schedule C Environmental Assessment: a)    the Windermere ...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.4. 4th Report of the Audit Committee
-
-> That the 4th Report of the Audit Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -1146,3 +1083,67 @@ Stafford and the folks at Westlines. So with that, colleagues, I'll look for a m
 And with that, are we good with the hand vote? So if you're really are anxious by a show of hands, We're going to adjourn. Motion carries. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 6.2. (ADDED) Harris Park Erosion Control Structure Replacement (RFP22-097)
+
+> That no action BE TAKEN with respect to the communication from AM. Valastro, with respect to Item #5 (2.5) of the 12th Report of the Civic Works Committee.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer)
+
+**Absent (1):** [Mo Salih](/councillors/former/m-salih)
+
+</details>
+
+### 8.1. 15th  Report of the Planning and Environment Committee
+
+> That the 15th Report of the Planning and Environment Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2. 13th Report of the Strategic Priorities and Policy Committee
+
+> That the 13th Report of the Strategic Priorities and Policy Committee, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3. 12th Report of the Civic Works Committee
+
+> That the 12th Report of the Civic Works Committee, BE APPROVED, excluding Item 8 (2.3).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.8. (2.3) Windermere Road Improvements - Environmental Study Report
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 13, 2022, related to the Windermere Road Improvements Municipal Class Schedule C Environmental Assessment: a)    the Windermere ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4. 4th Report of the Audit Committee
+
+> That the 4th Report of the Audit Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

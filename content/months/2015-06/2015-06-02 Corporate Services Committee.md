@@ -265,7 +265,7 @@ The Corporate Services Committee convened
 
 ## Votes
 
-*3 substantive votes at this meeting (3 contested, 0 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
 
 ### 2. 2014 Investment
   Report
@@ -274,12 +274,16 @@ The Corporate Services Committee convened
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
+### 2. 2014 Investment
+  Report
 
-</details>
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (5-0)
 
 ### 5. Standing Committee
   Membership - Federation of Canadian Municipalities - Councillor M. Cassidy
@@ -288,12 +292,25 @@ The Corporate Services Committee convened
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
+### 5. Standing Committee
+  Membership - Federation of Canadian Municipalities - Councillor M. Cassidy
 
-</details>
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (5-0)
+
+### 5. Standing Committee
+  Membership - Federation of Canadian Municipalities - Councillor M. Cassidy
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (5-0)
 
 ### 8. London Convention
   Centre Naming Rights Policy
@@ -302,10 +319,23 @@ The Corporate Services Committee convened
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
+### 8. London Convention
+  Centre Naming Rights Policy
 
-</details>
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (5-0)
+
+### 8. London Convention
+  Centre Naming Rights Policy
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (5-0)
 

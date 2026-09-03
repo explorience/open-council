@@ -209,7 +209,7 @@ The meeting adjourned at 1:20 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Not to be heard before 12:45 PM - Tax Adjustment Agenda
 
@@ -217,5 +217,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

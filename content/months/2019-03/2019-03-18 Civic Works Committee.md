@@ -517,7 +517,7 @@ The meeting adjourned at 1:07 pm
 
 ## Votes
 
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -525,7 +525,24 @@ The meeting adjourned at 1:07 pm
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
+
+### 2.9. Blue Communities Program Feasibility
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the report dated March 18, 2019 with respect to the Council of Canadians’ Blue Communities Project and its application to the City of London BE RECEIVED for information. (2019-E08)
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Michael van Holst](/councillors/former/m-van-holst), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
+
+</details>
 
 ### 2.9. Blue Communities Program Feasibility
 
@@ -536,9 +553,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza)
 
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+**Nay (3):** [Steve Lehman](/councillors/current/s-lehman), [Michael van Holst](/councillors/former/m-van-holst), [Phil Squire](/councillors/former/p-squire)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
 
 </details>
 
@@ -548,7 +567,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Items not to be heard before 12:10 PM and 12:15 PM - PUBLIC PARTICIPATION MEETING - Proposed Water By-law (W-8) and Wastewater & Stormwater By-law (W-28) Amendments
 
@@ -556,7 +575,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Stopping and Parking in Dedicated Bicycle Lanes
 
@@ -564,5 +583,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

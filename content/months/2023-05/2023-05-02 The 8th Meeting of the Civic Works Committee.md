@@ -154,36 +154,6 @@ None.
 
 
 The meeting adjourned at 12:10 PM.
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2 and 2.3 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.4. Broughdale Dyke Disaster Mitigation and Adaptation Funding - Contribution Agreement
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report, dated May 2, 2023, BE INTRODUCED at the Municipal Council meeting to be held on May 16, 2023, to: a)    approve the Contribution Agreement, as appended to ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 4.1. (ADDED) Councillor S. Franke - Plastic Regulations Feedback
-
-> That the following actions be taken with respect to the public consultation, released April 18, 2023, from the Environment and Climate Change Canada’s “Strategy on Zero Plastic Waste”: a)    the Civic Administration BE DIRECTED to provide written feedback on the proposed plastic regulatory framew...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -254,3 +224,34 @@ And we've got Councilor McAllister and Councilor Cuddy with their hands up and l
 I don't think so. Take care everyone.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Broughdale Dyke Disaster Mitigation and Adaptation Funding - Contribution Agreement
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report, dated May 2, 2023, BE INTRODUCED at the Municipal Council meeting to be held on May 16, 2023, to: a)    approve the Contribution Agreement, as appended to ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. (ADDED) Councillor S. Franke - Plastic Regulations Feedback
+
+> That the following actions be taken with respect to the public consultation, released April 18, 2023, from the Environment and Climate Change Canada’s “Strategy on Zero Plastic Waste”: a)    the Civic Administration BE DIRECTED to provide written feedback on the proposed plastic regulatory framew...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

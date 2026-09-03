@@ -5,18 +5,18 @@ slug: "j-b-swan"
 meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2232
-votesYea: 2013
-votesNay: 219
+totalVotes: 2767
+votesYea: 2580
+votesNay: 187
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 88.2
 participationRate: 100.0
-yeaRate: 90.2
-contestedDissentRate: 9.1
-contestedVotes: 2232
+yeaRate: 93.2
+contestedDissentRate: 17.5
+contestedVotes: 725
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,232 |
-| Voted Yea | 2,013 (90.2%) |
-| Voted Nay | 219 (9.8%) |
+| Total Votes | 2,767 |
+| Voted Yea | 2,580 (93.2%) |
+| Voted Nay | 187 (6.8%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,228 |
-| Voted Yea | 2,010 (90.2%) |
-| Voted Nay | 218 (9.8%) |
+| Substantive Votes | 2,457 |
+| Voted Yea | 2,270 (92.4%) |
+| Voted Nay | 187 (7.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 9.1%
-- **Contested Votes**: 2,232
+- **Dissent Rate**: 17.5%
+- **Contested Votes**: 725
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 756 |
-| Voted Yea | 612 (81.0%) |
-| Voted Nay | 144 (19.0%) |
+| Budget Votes | 464 |
+| Voted Yea | 417 (89.9%) |
+| Voted Nay | 47 (10.1%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,197 | 1,142 | 55 | 100.0% |
-| Strategic Priorities and Policy Committee | 802 | 645 | 157 | 100.0% |
+| Council | 2,183 | 2,053 | 130 | 100.0% |
+| Strategic Priorities and Policy Committee | 351 | 301 | 50 | 100.0% |
 | Corporate Services Committee | 233 | 226 | 7 | 100.0% |
 
 
@@ -141,18 +141,24 @@ Voted **Nay** - Motion
 ### 2014-09-30: Property located at
   1300 Fanshawe Park Road East (OZ-8358)
 
-[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
 
-> Motion Failed
+> That, the application of 1849259 Ontario
+  Inc., relating to the property located at 1300 Fanshawe Park Road East BE
+  REFUSED as the Municipal Council does not believe that a  special policy to
+  per...
 
 Voted **Yea** - Motion Failed
 
 ### 2014-09-30: Property located at
   1300 Fanshawe Park Road East (OZ-8358)
 
-[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
+> Approve that, on
+  the recommendation of the Managing Director, Planning and City Planner, the
+  following actions be taken with respect to the application of 1849259 Ontario
+  Inc., relating to the p...
 
 Voted **Nay** - Motion Passed
 
@@ -167,36 +173,48 @@ Voted **Nay** - Motion Passed
 Voted **Nay** - Motion
   Passed
 
+### 2014-09-02: Urban Forest
+  Strategy and Implementation Plan Update
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> approve part e) of clause 10.
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: Request for
+  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Approve part b) of clause 25, as amended.
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: Request for
+  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Approve parts c), d) and e) of clause 25,
+  as amended.
+
+Voted **Nay** - Motion Passed
+
 ### 2014-09-02: Installation of
   Sidewalks on Shavian Blvd.
 
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2014-09-02: BY-LAWS
-
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2014-09-02: BY-LAWS
-
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2014-09-02: BY-LAWS
-
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
+> Approve that clause 22 be amended to read
+  as follows:
+ 
+“That the following actions be taken with
+  respect to the installation of sidewalks on Shavian Boulevard:
+ 
+a)           
+  the
+  matter BE R...
 
 Voted **Nay** - Motion Passed
 

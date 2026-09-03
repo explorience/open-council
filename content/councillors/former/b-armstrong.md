@@ -2,21 +2,21 @@
 title: "Bill Armstrong"
 type: councillor
 slug: "b-armstrong"
-meetingCount: 245
+meetingCount: 286
 yearsActive: "2010 - 2018"
 isCurrent: false
-totalVotes: 4477
-votesYea: 4096
-votesNay: 298
+totalVotes: 6510
+votesYea: 6099
+votesNay: 328
 votesAbsent: 83
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 94.0
-participationRate: 98.1
-yeaRate: 93.2
-contestedDissentRate: 6.7
-contestedVotes: 4113
+participationRate: 98.7
+yeaRate: 94.9
+contestedDissentRate: 19.4
+contestedVotes: 1543
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,10 +33,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,477 |
-| Voted Yea | 4,096 (91.5%) |
-| Voted Nay | 298 (6.7%) |
-| Absent | 83 (1.9%) |
+| Total Votes | 6,510 |
+| Voted Yea | 6,099 (93.7%) |
+| Voted Nay | 328 (5.0%) |
+| Absent | 83 (1.3%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
 
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,251 |
-| Voted Yea | 3,916 (93.0%) |
-| Voted Nay | 295 (7.0%) |
+| Substantive Votes | 5,396 |
+| Voted Yea | 5,022 (93.9%) |
+| Voted Nay | 328 (6.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 6.7%
-- **Contested Votes**: 4,113
+- **Dissent Rate**: 19.4%
+- **Contested Votes**: 1,543
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,17 +70,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,007 |
-| Voted Yea | 837 (83.3%) |
-| Voted Nay | 168 (16.7%) |
+| Budget Votes | 762 |
+| Voted Yea | 684 (90.0%) |
+| Voted Nay | 76 (10.0%) |
 | Absent | 2 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 94.0%
-- **Meetings Attended**: 328 of 349
-- **Meetings Missed**: 21
+- **Meetings Attended**: 389 of 414
+- **Meetings Missed**: 25
 - **Trend**: Declining v
 
 **Attendance by Year:**
@@ -94,9 +94,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,838 | 1,691 | 78 | 96.2% |
-| Strategic Priorities and Policy Committee | 1,587 | 1,374 | 205 | 99.5% |
-| Community and Protective Services Committee | 791 | 771 | 14 | 99.2% |
+| Council | 4,444 | 4,156 | 219 | 98.4% |
+| Strategic Priorities and Policy Committee | 1,018 | 916 | 94 | 99.2% |
+| Community and Protective Services Committee | 787 | 767 | 14 | 99.2% |
 | Civic Works Committee | 261 | 260 | 1 | 100.0% |
 
 
@@ -193,7 +193,7 @@ Voted **Yea** - Motion Failed (3 to 9)
 - [Civic Works Committee](/committees/civic-works)
 - [Budget Committee](/committees/budget)
 
-## Recent Meetings (245 total)
+## Recent Meetings (286 total)
 
 - [Council](</months/2018-11/2018-11-20 Council>) - Tue Nov 20 2018
 - [Community and Protective Services Committee](</months/2018-11/2018-11-13 Community and Protective Services Committee>) - Tue Nov 13 2018

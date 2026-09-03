@@ -305,7 +305,7 @@ The meeting adjourned at 4:35 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 1.2. Election of Vice Chair for the Term Ending November 30, 2019
 
@@ -313,7 +313,7 @@ The meeting adjourned at 4:35 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2. Consent
 
@@ -321,23 +321,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. Application by - The Corporation of the City of London Street Renaming Portion of Third Street ( From Oxford Street East to Cheapside Street) To Baransway Drive
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the renaming of the portion of Third Street (between Oxford Street East and Cheapside Street) to Baransway Drive: a)            the proposed by-law as appended to the staff report dat...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. 11th Meeting of the Cycling Advisory Committee
-
-> That the following actions be taken with respect to the 11th Report of the Cycling Advisory Committee, from its meeting held on November 21, 2018: a) the Civic Administration BE REQUESTED to consider a review of the presentation as appended to the 11th Report of the Cycling Advisory Committee wit...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. Senior's Bus Ticket Discount
 
@@ -345,7 +329,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. Autonomous Vehicles - Presentation Request
 
@@ -353,7 +337,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.3. (ADDED) Resubmission - Delegation Request - K. Miller and C. Gupta
 
@@ -361,5 +345,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

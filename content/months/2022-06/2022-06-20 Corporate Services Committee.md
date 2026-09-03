@@ -286,44 +286,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:23 PM.
 
 ****
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
-
-### 4.1. Application - Issuance of Proclamation - Make Canada Gold
-
-> That based on the application dated May 20, 2022 from Childhood Cancer Canada, September 1, 2022 BE PROCLAIMED as Make Canada Gold.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.2. Application - Issuance of Proclamation - Srebrenica Genocide Remember Day
-
-> That based on the application dated June 6, 2022 from Institute for Research of Genocide Canada Bosnian Canadian Islamic Centre London, July 11, 2022 BE PROCLAIMED as Srebrenica Genocide Remember Day.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 5.1. (ADDED) Restricted Acts of Council after Nomination Day and Voting Day
-
-> That, on the recommendation of the Deputy City Manager, Legal Services, the  proposed by-law as appended to the staff report dated June 20, 2022 BE INTRODUCED at the Municipal Council meeting of July 5, 2022, to delegate certain authority, should the Municipal Council’s actions be restricted afte...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 5.2. (ADDED) Mayor's New Year's Honour List Policy
-
-> That, the attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on July 5, 2022 to amend By-law No. CPOL.-18-214, as amended, being “Mayor’s New Year’s Honour List Policy”, to update the nominating bodies for each category and increase the number of Distinguished Londo...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -478,3 +440,42 @@ And that's our full agenda colleague, so we just need a motion to adjourn. Moved
 And for those at Planning and Environment Committee, we will see you at 4 p.m. for everyone else. Have a great day.
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 4.1. Application - Issuance of Proclamation - Make Canada Gold
+
+> That based on the application dated May 20, 2022 from Childhood Cancer Canada, September 1, 2022 BE PROCLAIMED as Make Canada Gold.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Application - Issuance of Proclamation - Srebrenica Genocide Remember Day
+
+> That based on the application dated June 6, 2022 from Institute for Research of Genocide Canada Bosnian Canadian Islamic Centre London, July 11, 2022 BE PROCLAIMED as Srebrenica Genocide Remember Day.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 5.1. (ADDED) Restricted Acts of Council after Nomination Day and Voting Day
+
+> That, on the recommendation of the Deputy City Manager, Legal Services, the  proposed by-law as appended to the staff report dated June 20, 2022 BE INTRODUCED at the Municipal Council meeting of July 5, 2022, to delegate certain authority, should the Municipal Council’s actions be restricted afte...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 5.2. (ADDED) Mayor's New Year's Honour List Policy
+
+> That, the attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on July 5, 2022 to amend By-law No. CPOL.-18-214, as amended, being “Mayor’s New Year’s Honour List Policy”, to update the nominating bodies for each category and increase the number of Distinguished Londo...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

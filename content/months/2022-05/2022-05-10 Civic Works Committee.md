@@ -443,7 +443,7 @@ The meeting adjourned at 1:08 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. Appointment of Consulting Engineers for Contract Administration Services and Temporary Easement Agreement with the University of Western Ontario: Huron Street Watermain Remediation
 
@@ -451,5 +451,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

@@ -1,6 +1,6 @@
 [
  {
-  "id": "dd17ec0fa6f7",
+  "id": "d17fe7a3e10b",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -12,7 +12,7 @@
   "verifierNote": "Verified against 2024-01-09 PEC item 3.7 motion (Passed 3-1): quote is verbatim and is the complete, standalone text of the exact sub-clause voted 3-1. Z-9664 code-pattern correctly triggers housing classification; this is a garage front-yard-setback special provision (not a density change), but the codebase's own CODE_PATTERNS design treats any Z-code rezoning item as housing regardless of substance -- generic application-approval/expansive fallback is the correct read given no density/use-permission content."
  },
  {
-  "id": "76e1dfe7abb4",
+  "id": "779cc100d682",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -26,7 +26,7 @@
   "verifierNote": "Verified against 2023-12-19 Council 6.1 (Passed 9-6): quote verbatim. Integrity Commissioner code-of-conduct reprimand of a councillor -- GLOBAL_EXCLUDE ('code of conduct', 'integrity commissioner') correctly applies; this is a personnel/discipline matter, not a position on any of the 8 issues. No missed classification."
  },
  {
-  "id": "dae772ec39b7",
+  "id": "147019761c32",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -37,10 +37,10 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-12-19 Council 6.1 (Passed 9-6, same item as 76e1dfe7abb4): quote verbatim, this is the final 'part b) and preamble BE APPROVED' re-vote of the same reprimand. Correctly excluded, no missed classification."
+  "verifierNote": "Verified against 2023-12-19 Council 6.1 (Passed 9-6, same item as 76e1dfe7abb4 (superseded id)): quote verbatim, this is the final 'part b) and preamble BE APPROVED' re-vote of the same reprimand. Correctly excluded, no missed classification."
  },
  {
-  "id": "0cb900a8e1c6",
+  "id": "4627b09b9768",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -52,7 +52,7 @@
   "verifierNote": "Verified against 2023-12-19 Council 8.1.11 (Passed 13-1): quote is verbatim and is the full, only operative clause of the sole motion on this item. Genuine R1(single-family)->R3-SP(infill) rezoning by Alora Homes. housing/application-approval/expansive correct."
  },
  {
-  "id": "70a919594ec9",
+  "id": "b68a8633e8ca",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -66,7 +66,7 @@
   "verifierNote": "Verified against 2023-12-19 Council 8.6.11 motion 0 (Passed 14-1): quote verbatim. A pure procedural reconsideration (reopens a prior decision without deciding anything about response scale). Correctly unclear."
  },
  {
-  "id": "5f0586a3bef4",
+  "id": "8a018402c183",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -80,7 +80,7 @@
   "verifierNote": "Verified against 2023-12-19 Council 8.6.11 motion 1 (Passed 13-2): quote verbatim. This directs a change in REPORTING FREQUENCY only -- it does not fund, expand, or restrict the response itself, so no response-scale axis content exists, and reading it via the generic approve/deny fallback would misleadingly read as an 'approved encampments item.' Correctly left unclear (safe call); not a missed classification."
  },
  {
-  "id": "97c25cfd2a1a",
+  "id": "1ab6bdcca42b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -94,7 +94,7 @@
   "verifierNote": "Verified against 2023-12-19 Council 8.6.6 motion 0 (Passed 14-1) plus the underlying 2.4/2.5/2.6 items it bundles (LEDC purchase-of-services agreement, Small Business Centre grant, TechAlliance grant). None of the three contains a literal keyword for any of the 8 issues (no 'business case', no budget/housing/etc. term). Correctly 'none'; no missed classification."
  },
  {
-  "id": "da353978374d",
+  "id": "fa3ae9dd9116",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -108,7 +108,7 @@
   "verifierNote": "Verified against 2023-12-12 SPPC item 2 motion 1 (Passed 13-2): quote verbatim. A pure agenda-order procedural motion; GLOBAL_EXCLUDE 'council procedure by-law' correctly applies. No missed classification."
  },
  {
-  "id": "b237b7d62246",
+  "id": "e15a2ccfe703",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -122,7 +122,7 @@
   "verifierNote": "Verified against 2023-12-12 SPPC item 2 motion 7 (Failed 1-14): quote verbatim, a referral (DEFER_RE, no independent AFFIRM verb). Correctly unclear; the underlying LEDC agreement text has no issue-cluster keyword regardless. No missed classification."
  },
  {
-  "id": "015495b9693f",
+  "id": "ac7fb62091c9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -136,7 +136,7 @@
   "verifierNote": "Verified against 2023-12-12 SPPC item 2 motion 8 (Passed 12-3): quote verbatim, a speaking-time procedural motion. Correctly 'none'. No missed classification."
  },
  {
-  "id": "c2c776be4be2",
+  "id": "33a0b9fa831c",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -150,7 +150,7 @@
   "verifierNote": "Verified against 2023-12-12 SPPC 4.1 motion 1 (Passed 11-4): quote verbatim, a pure procedural reconsideration. Correctly unclear."
  },
  {
-  "id": "0f3bc5f988a8",
+  "id": "dc6069aec57e",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -164,7 +164,7 @@
   "verifierNote": "Verified against 2023-12-12 SPPC 4.1 motion 3 (Passed 13-2): quote verbatim, an amendment changing the proposed reporting-frequency wording from 'twice annually' to 'quarterly'. Not a response-scale (funding/support) decision. Correctly unclear."
  },
  {
-  "id": "e4814471b03d",
+  "id": "a0dfd6a26db5",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -175,10 +175,10 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-12-12 SPPC 4.1 motion 4 (Passed 14-1): quote verbatim, the final version directing quarterly reporting. Same reporting-cadence, non-response-scale reasoning as f4915939f4bf/0f3bc5f988a8. Correctly unclear."
+  "verifierNote": "Verified against 2023-12-12 SPPC 4.1 motion 4 (Passed 14-1): quote verbatim, the final version directing quarterly reporting. Same reporting-cadence, non-response-scale reasoning as f4915939f4bf (superseded id)/0f3bc5f988a8 (superseded id). Correctly unclear."
  },
  {
-  "id": "87b86541bcfe",
+  "id": "7b672972a8ec",
   "issue": "budget",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -190,7 +190,7 @@
   "verifierNote": "Verified against 2023-12-06 Special SPPC 2.1 (Passed 12-2): quote is part b) of a two-part wrapper motion; part b) carries its OWN independent 'BE APPROVED' verb (source-of-financing approval), a real, separate decision from part a)'s prioritization language -- not a deferral or informational ask. budget/application-approval/expansive correct."
  },
  {
-  "id": "72994a9b8075",
+  "id": "d06a0bff2516",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -204,7 +204,7 @@
   "verifierNote": "Verified against 2023-12-04 PEC 3.5 motion 5 (Failed 2-3): quote verbatim ('Motion to remove clause b) i)'), removing one item from a discretionary 'Site Plan Approval Authority BE REQUESTED to consider' design-issue list (a possible public pathway/easement) -- does not touch density, height, or use-permission. Z-9625 code correctly earns the housing tag; correctly no axis. No missed classification."
  },
  {
-  "id": "ec341a70adaf",
+  "id": "7bc1dc536b77",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -216,7 +216,7 @@
   "verifierNote": "Verified against 2023-11-28 Council 8.1.17 motion 2 (Passed 9-6): quote verbatim and operative. Confirms the classifier's central finding for this batch: the clause's own text says 'cold weather response overnight spaces' throughout and never uses any of issue-rules.ts's literal encampments phrases ('emergency shelter', 'unsheltered', 'warming centre', etc.) in this specific clause. 'none' is the correct, if under-inclusive, result under the current keyword list -- a real gap in issue-rules.ts's vocabulary, not a classifier error on this entry."
  },
  {
-  "id": "02571f4ebc5a",
+  "id": "b1ae28e380ad",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -225,10 +225,10 @@
   "quote": "the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $404,323 (excluding HST) for the provision of all services to operate 15 overnight spaces at CMHA Coffee House, 371 Hamilton Road",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-28 Council 8.1.17 motion 3 (Passed 14-1): quote verbatim and operative, same 'cold weather response' vocabulary gap as db49e8a6c626. Correctly 'none' under current keywords."
+  "verifierNote": "Verified against 2023-11-28 Council 8.1.17 motion 3 (Passed 14-1): quote verbatim and operative, same 'cold weather response' vocabulary gap as db49e8a6c626 (superseded id). Correctly 'none' under current keywords."
  },
  {
-  "id": "04bc4bff4918",
+  "id": "754d8c0f602d",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -240,7 +240,7 @@
   "verifierNote": "Verified against 2023-11-28 Council 8.2.8 (Passed 12-3): quote is part a) verbatim, a real Official Plan amendment to 370 units/ha and 17 storeys, part of a 12-3 divided decision (parts b-f were not separately voted). housing/density/expansive correct."
  },
  {
-  "id": "a8eb0cdeef6e",
+  "id": "e9280ce21565",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -252,7 +252,7 @@
   "verifierNote": "Verified against 2023-11-28 Council 8.4.5 motion 0 (Failed 7-8): quote verbatim. About sidewalk construction/exemption, which is not covered by any literal keyword in the 'transit' cluster (sidewalks are absent from that list). Correctly 'none'. No missed classification."
  },
  {
-  "id": "48ba93922b09",
+  "id": "cdcfce66d8ba",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -264,7 +264,7 @@
   "verifierNote": "Verified against 2023-11-24 Special Council item 9 (Passed 10-2): quote verbatim. A land purchase for infrastructure environmental compensation -- no literal keyword hit for any of the 8 issues (not a housing development; 'financing'/'source of financing' text present but no budget-cluster keyword like 'operating budget' or 'business case'). Correctly 'none'. No missed classification."
  },
  {
-  "id": "707b06bd286d",
+  "id": "6b9ef4f4cf83",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -279,7 +279,7 @@
   "verifierNote": "Verified against 2023-11-21 SPPC 2.4 motion 0 (Passed 11-1): quote verbatim, the full clause. This refers the Core Area Strategic Plan BACK to Civic Administration for a full rework and directs a report-back with next steps and a possible new master plan -- substantively a redirect/non-decision, not an approval of any downtown position. The 'downtown' cluster has no AXIS_PATTERNS defined and the generic approve/deny fallback (which would technically fire on the embedded 'BE DIRECTED' verbs) would misleadingly read this as 'approved the downtown item.' Correctly left unclear (the safe call); not a missed classification."
  },
  {
-  "id": "0bb16bf5192c",
+  "id": "9d6ff4fcc3d2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -288,10 +288,10 @@
   "quote": "the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $1,472,739 (excluding HST) for the provision of all services to operate 65 spaces at 432 William Street for the cold weather response overnight spaces",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-21 SPPC 4.2 motion 3 (Passed 8-6): quote verbatim and operative, committee-stage duplicate of db49e8a6c626 (same $1,472,739 Ark Aid contract). Same 'cold weather response' vocabulary gap. Correctly 'none'."
+  "verifierNote": "Verified against 2023-11-21 SPPC 4.2 motion 3 (Passed 8-6): quote verbatim and operative, committee-stage duplicate of db49e8a6c626 (superseded id) (same $1,472,739 Ark Aid contract). Same 'cold weather response' vocabulary gap. Correctly 'none'."
  },
  {
-  "id": "99911ce4f936",
+  "id": "0f698a7285b8",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -300,10 +300,10 @@
   "quote": "the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $404,323 (excluding HST) for the provision of all services to operate 15 overnight spaces at CMHA Coffee House, 371 Hamilton Road",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-21 SPPC 4.2 motion 4 (Passed 13-1): quote verbatim and operative, committee-stage duplicate of d18ad55d419d (same $404,323 contract). Correctly 'none'."
+  "verifierNote": "Verified against 2023-11-21 SPPC 4.2 motion 4 (Passed 13-1): quote verbatim and operative, committee-stage duplicate of d18ad55d419d (superseded id) (same $404,323 contract). Correctly 'none'."
  },
  {
-  "id": "7b8c1598286d",
+  "id": "9b46dfe0453e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -317,7 +317,7 @@
   "verifierNote": "Verified against 2023-11-21 SPPC 5.1 motion 1 (Passed 12-1): quote verbatim, a referral of the Community Advisory Committee structure to the Governance Working Group -- a governance/committee-structure matter, no issue-cluster keyword. Correctly 'none'. No missed classification."
  },
  {
-  "id": "cc60d6c6cefa",
+  "id": "b547cad819c9",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -326,10 +326,10 @@
   "quote": "Motion to amend the staff recommendation by adding the words \u201cexcluding the proposed Kaladar Drive, Cayuga Crescent, Mark Street and Michael Street sidewalks.\u201d",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-14 Civic Works Committee 3.2 motion 3 (Passed 3-2): quote verbatim, a sidewalk-exclusion amendment. Same 'sidewalks aren't a transit keyword' reasoning as a8eb0cdeef6e. Correctly 'none'."
+  "verifierNote": "Verified against 2023-11-14 Civic Works Committee 3.2 motion 3 (Passed 3-2): quote verbatim, a sidewalk-exclusion amendment. Same 'sidewalks aren't a transit keyword' reasoning as a8eb0cdeef6e (superseded id). Correctly 'none'."
  },
  {
-  "id": "cd7f0d9bb49e",
+  "id": "2848a19a42a0",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -340,10 +340,10 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-14 Civic Works Committee 3.2 motion 4 (Passed 3-2): quote verbatim ('Motion to approve the motion as amended'), the final adoption of the same sidewalk plan. Correctly 'none', consistent with cc60d6c6cefa."
+  "verifierNote": "Verified against 2023-11-14 Civic Works Committee 3.2 motion 4 (Passed 3-2): quote verbatim ('Motion to approve the motion as amended'), the final adoption of the same sidewalk plan. Correctly 'none', consistent with cc60d6c6cefa (superseded id)."
  },
  {
-  "id": "55110499fa1e",
+  "id": "4fd1d8c9aec3",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
@@ -352,10 +352,10 @@
   "quote": "the request to amend the Official Plan, The London Plan, for the City of London by AMENDING a site-specific policy for the Neighbourhoods Place Type to allow a maximum density of 370 units per hectare and a maximum height of 17-storeys, BE APPROVED;",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-13 PEC 3.5 (Passed 4-1): committee-stage duplicate of the same 978 Gainsborough Rd package as 8358c3f069f0, with an identical clause a). Correctly classified independently and identically off two distinct manifest ids, matching the classifier's own note about two-meeting-level duplicates. housing/density/expansive correct."
+  "verifierNote": "Verified against 2023-11-13 PEC 3.5 (Passed 4-1): committee-stage duplicate of the same 978 Gainsborough Rd package as 8358c3f069f0 (superseded id), with an identical clause a). Correctly classified independently and identically off two distinct manifest ids, matching the classifier's own note about two-meeting-level duplicates. housing/density/expansive correct."
  },
  {
-  "id": "fd9fa5f36782",
+  "id": "b7473f4ce4fe",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -369,7 +369,7 @@
   "verifierNote": "Verified against 2023-11-07 Council 8.1.9 motion 2 (Passed 11-3): traced 'parts b) and c)' back to the item's main motion -- b) directs the Mobility Master Plan team to consult with ITCAC, c) directs staff to show CEAP alignment. Neither approves, denies, increases, or decreases any transit service/infrastructure; both are process/consultation directives in the same spirit as the codebase's own 'report back' informational-ask exclusion, even though 'consult with' isn't literally in INFORMATIONAL_ASK_RE's phrase list. Treating this as a real transit position (via the generic approve/deny fallback) would overstate it. Correctly left unclear."
  },
  {
-  "id": "b5346383c3e7",
+  "id": "b170be61abfb",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -381,7 +381,7 @@
   "verifierNote": "Verified against 2023-11-07 Council 8.2.6 motion 2 (Passed 14-1): the described bundle (parts c,d,e,g,h,j -- security funding for London Cares & CMHA, the amended $523,552 CMHA increase, the $638,000 Ark Aid contract, the $259,000 Safe Space London contract, $100,000 for those remaining unsheltered) matches the full text of the actual 14-1 vote exactly, word for word. The literal 'unsheltered' keyword in part j), bundled into this same vote, is what legitimately earns the encampments classification. Quote (part e) is verbatim and operative. encampments/response-scale/expansive correct."
  },
  {
-  "id": "8d4cec07a644",
+  "id": "ab604102e7aa",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -393,7 +393,7 @@
   "verifierNote": "Verified against 2023-11-07 Council 8.4.7 motion 0 (Passed 10-4): quote verbatim and operative, the Council-level vote applying the City's $423,548 share of MLHU's 2022 surplus to reduce its Citi Plaza fit-out loan. No budget-cluster keyword present ('surplus'/'loan' aren't in the keyword list -- 'reserve fund' was deliberately dropped per issue-rules.ts's own calibration notes). Correctly 'none'."
  },
  {
-  "id": "552dbb5e1f13",
+  "id": "e8ba0a159383",
   "issue": "budget",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -405,7 +405,7 @@
   "verifierNote": "Verified against 2023-10-31 SPPC 2.2 motion 2 (Passed 8-4): quote is verbatim and is a genuine, passed grant approval (added as new part c) to the main motion). budget/application-approval/expansive correct."
  },
  {
-  "id": "cd54ba623f8e",
+  "id": "1dbce223d9ef",
   "issue": "budget",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -417,7 +417,7 @@
   "verifierNote": "Verified against 2023-10-31 SPPC 2.2 motion 3 (Failed 5-7): quote is verbatim, part a) of a failed sub-amendment nested inside a further amendment. 'Would have approved' framing is correct and consistent with the direction-rules design (direction states what a YEA does on the clause's own content, independent of the motion's actual pass/fail; the fail is preserved separately for stance aggregation to combine with each member's real vote). budget/application-approval/expansive correct."
  },
  {
-  "id": "65569b00125c",
+  "id": "f9e1ece1b37a",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -426,10 +426,10 @@
   "quote": "APPROVE a funding increase extension to the existing Municipal Purchase of Service agreement with CMHA Thames Valley Addiction & Mental Health Services at a total estimated increase of up to $350,000 (excluding HST) ... to administer the City of London 2023-24 Cold Weather Response drop-in space",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-10-31 SPPC 2.3 motion 1 (Passed 12-1): the committee-stage version of the same bundle as b5346383c3e7, with the pre-amendment $350,000 CMHA figure (later raised to $523,552 at Council) -- matches the classifier's description exactly. Quote is verbatim and operative. encampments/response-scale/expansive correct."
+  "verifierNote": "Verified against 2023-10-31 SPPC 2.3 motion 1 (Passed 12-1): the committee-stage version of the same bundle as b5346383c3e7 (superseded id), with the pre-amendment $350,000 CMHA figure (later raised to $523,552 at Council) -- matches the classifier's description exactly. Quote is verbatim and operative. encampments/response-scale/expansive correct."
  },
  {
-  "id": "f2abbc918004",
+  "id": "bf0e72699cb3",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -443,7 +443,7 @@
   "verifierNote": "Verified against 2023-10-31 SPPC 4.3 motion 1 (Failed 4-10): quote verbatim. Every part of the clause is a 'report back' / 'explore opportunities' request (matches INFORMATIONAL_ASK_RE on both counts) -- genuinely decides nothing about recovery services or shelter capacity. Correctly unclear."
  },
  {
-  "id": "3c3037b69362",
+  "id": "36121921765c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -458,7 +458,7 @@
   "verifierNote": "Verified against 2023-10-31 SPPC item 6 motion 1 (Failed 4-9): quote verbatim, a referral of confidential closed-session items to a later Council meeting. Correctly 'none'/procedural. No missed classification."
  },
  {
-  "id": "96e340402382",
+  "id": "7720e522938b",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -469,10 +469,10 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-10-24 Civic Works Committee 2.5 motion 2 (Passed 4-1): quote verbatim, the committee-stage version of the same ITCAC-consult/CEAP-alignment amendment as fd9fa5f36782. Same reasoning applies. Correctly unclear."
+  "verifierNote": "Verified against 2023-10-24 Civic Works Committee 2.5 motion 2 (Passed 4-1): quote verbatim, the committee-stage version of the same ITCAC-consult/CEAP-alignment amendment as fd9fa5f36782 (superseded id). Same reasoning applies. Correctly unclear."
  },
  {
-  "id": "b9376ab30d6e",
+  "id": "d16155bf0ef1",
   "issue": "transit",
   "axis": null,
   "polarity": null,
@@ -484,10 +484,10 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-10-24 Civic Works Committee 2.5 motion 3 (Passed 5-1): quote verbatim ('Motion to approve parts b) and c) of the clause'), the committee-stage adoption of the same consult/CEAP-alignment directive as fd9fa5f36782/96e340402382. Correctly unclear."
+  "verifierNote": "Verified against 2023-10-24 Civic Works Committee 2.5 motion 3 (Passed 5-1): quote verbatim ('Motion to approve parts b) and c) of the clause'), the committee-stage adoption of the same consult/CEAP-alignment directive as fd9fa5f36782 (superseded id)/96e340402382 (superseded id). Correctly unclear."
  },
  {
-  "id": "030a213def1c",
+  "id": "66e9d84be5a4",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -499,7 +499,7 @@
   "verifierNote": "Verified against 2023-10-23 PEC 3.7 motion 3 (Failed 2-3): quote verbatim. Would have deleted a special-provision clause that reduces the required minimum landscaped open space from the standard 30% to 24% -- i.e. would have reverted to the stricter standard. This is a site-standard percentage, not covered by the density (height/storeys/units-per-hectare) or use-permission axis definitions. OZ-9517 code correctly earns the housing tag; correctly no axis given the defined axis vocabulary. No missed classification."
  },
  {
-  "id": "832e9a4dd8fe",
+  "id": "09f4adb7e6d6",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -508,10 +508,10 @@
   "quote": "the application of the City of London\u2019s share of Middlesex-London Health Unit's (MLHU) 2022 surplus in the amount of $423,548 to reduce the outstanding amount of MLHU\u2019s variable bank loan for the fit-out of the Citi Plaza office space BE APPROVED",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-10-23 Corporate Services Committee 4.1 motion 0 (Passed 4-1): quote verbatim and operative, committee-stage duplicate of 8d4cec07a644 (same $423,548 MLHU surplus redirection to a bank loan). No budget-cluster keyword present ('surplus'/'loan' aren't in the budget keyword list). Correctly 'none'."
+  "verifierNote": "Verified against 2023-10-23 Corporate Services Committee 4.1 motion 0 (Passed 4-1): quote verbatim and operative, committee-stage duplicate of 8d4cec07a644 (superseded id) (same $423,548 MLHU surplus redirection to a bank loan). No budget-cluster keyword present ('surplus'/'loan' aren't in the budget keyword list). Correctly 'none'."
  },
  {
-  "id": "aeba46614dfd",
+  "id": "5b7fbb14d90a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -525,7 +525,7 @@
   "verifierNote": "Verified against 2023-10-17 Council 8.4.6 motion 0 (Passed 12-1): quote verbatim. Item title is 'Consideration of Appointments to the London Transit Commission' (plural 'Appointments') -- note for the pipeline maintainers: GLOBAL_EXCLUDE's literal phrase is 'consideration of appointment to' (singular), which as a substring test would NOT match this title's plural 'appointments to', a possible false-negative in the production regex. The classifier's manual 'appointment' flag correctly applied the intended exclusion regardless (a personnel appointment is not a policing/transit-substance position). No missed classification in this entry; flagging the singular/plural gap for a separate fix."
  },
  {
-  "id": "adc9151f7c67",
+  "id": "5eba0a30579a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -539,7 +539,7 @@
   "verifierNote": "Verified against 2023-10-17 Council 8.4.7 motion 0 (Passed 13-1): quote verbatim, receipt of a communication about a proposed Lobbyist Registrar -- a topic outside all 8 tracked issue clusters. Correctly 'none'."
  },
  {
-  "id": "358b3f8297b9",
+  "id": "5dbf49c58a13",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -553,7 +553,7 @@
   "verifierNote": "Verified against 2023-10-17 Council 8.4.7 motion 1 (Failed 6-8): quote verbatim, a study/feasibility-report request on a Lobbyist Registrar -- also outside all 8 tracked clusters, and independently a report-back/study request. Correctly 'none'."
  },
  {
-  "id": "cf76e7be4713",
+  "id": "380a5d9612a3",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -565,7 +565,7 @@
   "verifierNote": "Verified against 2023-10-17 Council 8.5.7 motion 2 (Passed 10-3): quote verbatim, a wording-only amendment to the bird-friendly-glazing site-plan design condition (references London Plan s.304 instead of the original phrasing). Not a density or use-permission change. Correctly unclear."
  },
  {
-  "id": "6dbc0c18c74d",
+  "id": "baa5679824d4",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -574,10 +574,10 @@
   "quote": "xiii) implement a robust solar installation along tops of Towers and include a minimum of 5% EV charging stations in underground parking; and xiv) ensure a level of LEED or similar green certification is achieved",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-10-17 Council 8.5.7 motion 3 (Passed 8-5): quote verbatim, adds solar/EV-charging/LEED site-plan design conditions alongside the glazing wording. Same site-plan-design-condition reasoning as cf76e7be4713. Correctly unclear."
+  "verifierNote": "Verified against 2023-10-17 Council 8.5.7 motion 3 (Passed 8-5): quote verbatim, adds solar/EV-charging/LEED site-plan design conditions alongside the glazing wording. Same site-plan-design-condition reasoning as cf76e7be4713 (superseded id). Correctly unclear."
  },
  {
-  "id": "1f206da9840c",
+  "id": "fde9a800f71a",
   "issue": "housing",
   "axis": "density",
   "polarity": "expansive",
