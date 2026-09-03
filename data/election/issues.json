@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T22:55:00.188Z",
+  "generatedAt": "2026-09-03T00:02:32.009Z",
   "sourceHash": "c89decb146e3da17",
   "sourceGeneratedAt": "2026-09-02T22:24:34.258Z",
   "cutoffDate": "2023-01-01",
@@ -11,9 +11,9 @@
   "issues": {
     "encampments": {
       "label": "Homelessness & Encampments",
-      "dividedVoteCount": 115,
-      "directionBearingVoteCount": 53,
-      "distinctAgendaItemCount": 58,
+      "dividedVoteCount": 135,
+      "directionBearingVoteCount": 58,
+      "distinctAgendaItemCount": 60,
       "votes": [
         {
           "id": "efc73927922d",
@@ -370,6 +370,54 @@
           "motionSnippet": "That, the staff report dated January 26, 2026 with respect to the System Area Update: S..."
         },
         {
+          "id": "c909b7d954e0",
+          "date": "2026-02-10",
+          "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
+          "meetingTitle": "3rd Council Meeting",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.2.5",
+          "itemTitle": "(2.2) Good Neighbour Agreements",
+          "motionText": "i) the Civic Administration BE DIRECTED to provide a one-year contract renewal for the procurement framework with an option to renew for one-year;",
+          "result": "Motion Failed (7 to 8)",
+          "passed": false,
+          "margin": 1,
+          "tally": {
+            "yea": 7,
+            "nay": 8,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-02/2026-02-10 3rd Council Meeting#82522-good-neighbour-agreements",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year."
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "s-hillier": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "i) the Civic Administration BE DIRECTED to provide a one-year contract renewal for the ..."
+        },
+        {
           "id": "3e039a97a7b1",
           "date": "2026-02-10",
           "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
@@ -416,6 +464,56 @@
           },
           "resultNote": null,
           "motionSnippet": "a) the proposed system transformation approach and multi-year Housing Stability Service..."
+        },
+        {
+          "id": "dd3dd7b9b4da",
+          "date": "2026-02-10",
+          "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
+          "meetingTitle": "3rd Council Meeting",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.2.5",
+          "itemTitle": "(2.2) Good Neighbour Agreements",
+          "motionText": "ii) that Civic Administration BE DIRECTED to review existing housing stability contracts to assess alignment with current operational needs, including transitions from emergency and highly supportive environments, and to report back to Council on any recommended amendments or procurement actions required, consistent with policy-compliant procurement processes",
+          "result": "Motion Failed (7 to 8)",
+          "passed": false,
+          "margin": 1,
+          "tally": {
+            "yea": 7,
+            "nay": 8,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-02/2026-02-10 3rd Council Meeting#82522-good-neighbour-agreements",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Would have directed Civic Administration to review existing housing stability contracts for alignment with operational needs and report back to Council on recommended amendments."
+          },
+          "positions": {
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-hillier": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "s-lewis": "nay",
+            "j-pribil": "nay",
+            "s-trosow": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "ii) that Civic Administration BE DIRECTED to review existing housing stability contract..."
         },
         {
           "id": "ccc744fb9aea",
@@ -548,6 +646,136 @@
           },
           "resultNote": null,
           "motionSnippet": "That part e) v) of the motion, as amended, BE APPROVED."
+        },
+        {
+          "id": "6317d0acde87",
+          "date": "2026-01-26",
+          "meetingSlug": "months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee",
+          "meetingTitle": "2nd Meeting of the Community and Protective Services Committee",
+          "meetingType": "Community and Protective Services Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1e80fd12-e2bc-4cc5-8474-ad872ed16738&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.2",
+          "itemTitle": "Temporary Warming Centres",
+          "motionText": "That part e) iii) of the motion, as amended, BE APPROVED.",
+          "result": "Motion Passed (4 to 2)",
+          "passed": true,
+          "margin": 2,
+          "tally": {
+            "yea": 4,
+            "nay": 2,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee#42temporary-warming-centres",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask",
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Included providing a minimum of 100 warming-centre spaces across two to four locations as one of the costed scenarios Civic Administration must investigate and report back on."
+          },
+          "positions": {
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "a-hopkins": "yea",
+            "d-ferreira": "yea",
+            "s-lewis": "nay",
+            "e-peloza": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part e) iii) of the motion, as amended, BE APPROVED."
+        },
+        {
+          "id": "2feca9b0f265",
+          "date": "2026-01-26",
+          "meetingSlug": "months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee",
+          "meetingTitle": "2nd Meeting of the Community and Protective Services Committee",
+          "meetingType": "Community and Protective Services Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1e80fd12-e2bc-4cc5-8474-ad872ed16738&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.2",
+          "itemTitle": "Temporary Warming Centres",
+          "motionText": "That part e) ii) of the motion, as amended, BE APPROVED.",
+          "result": "Motion Passed (4 to 2)",
+          "passed": true,
+          "margin": 2,
+          "tally": {
+            "yea": 4,
+            "nay": 2,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee#42temporary-warming-centres",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask",
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Included establishing one 24/7 warming centre (December 2026-March 2027) as one of the costed scenarios Civic Administration must investigate and report back on."
+          },
+          "positions": {
+            "s-trosow": "yea",
+            "a-hopkins": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-lewis": "nay",
+            "j-pribil": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part e) ii) of the motion, as amended, BE APPROVED."
+        },
+        {
+          "id": "1604cf591bfc",
+          "date": "2026-01-26",
+          "meetingSlug": "months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee",
+          "meetingTitle": "2nd Meeting of the Community and Protective Services Committee",
+          "meetingType": "Community and Protective Services Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1e80fd12-e2bc-4cc5-8474-ad872ed16738&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.2",
+          "itemTitle": "Temporary Warming Centres",
+          "motionText": "That part d) of the motion, as amended, BE APPROVED.",
+          "result": "Motion Passed (4 to 2)",
+          "passed": true,
+          "margin": 2,
+          "tally": {
+            "yea": 4,
+            "nay": 2,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee#42temporary-warming-centres",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": "response-scale",
+            "valence": 1,
+            "label": "Approved adjusting the Boyle Memorial Community Centre's Tier 3 Surge Response morning closing time and providing additional garbage and CIR support as needed.",
+            "axisLabels": {
+              "expansive": "expanded the encampment/homelessness response",
+              "restrictive": "reduced the encampment/homelessness response"
+            }
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "d-ferreira": "yea",
+            "a-hopkins": "nay",
+            "e-peloza": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part d) of the motion, as amended, BE APPROVED."
         },
         {
           "id": "f7b19167db4a",
@@ -719,6 +947,156 @@
           },
           "resultNote": null,
           "motionSnippet": "That the following actions BE ADOPTED with respect to the communication dated December ..."
+        },
+        {
+          "id": "b434b504f72f",
+          "date": "2025-12-09",
+          "meetingSlug": "months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "1st Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1f2cf564-8ecb-4e4a-856a-9ac39edd899f&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.1",
+          "itemTitle": "Micro-Modular Shelter Site Update",
+          "motionText": "That part d) of the motion be approved: d)    the Civic Administration BE DIRECTED to consult with first responders including Middlesex-London Paramedic Services, London Police Services and the London Fire Department regarding the provision of emergency services to the MicroModular Shelter Site and report back to a future meeting of the Strategic Priorities and Policy Committee;",
+          "result": "Motion Failed (5 to 9)",
+          "passed": false,
+          "margin": 4,
+          "tally": {
+            "yea": 5,
+            "nay": 9,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee#21micro-modular-shelter-site-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Would have directed Civic Administration to consult with first responders (paramedics, police, fire) on emergency services at the Micro-Modular Shelter Site and report back."
+          },
+          "positions": {
+            "s-stevenson": "yea",
+            "s-trosow": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "j-pribil": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "p-van-meerbergen": "nay",
+            "s-hillier": "nay",
+            "a-hopkins": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part d) of the motion be approved: d) the Civic Administration BE DIRECTED to cons..."
+        },
+        {
+          "id": "f825db08c9f2",
+          "date": "2025-12-09",
+          "meetingSlug": "months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "1st Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1f2cf564-8ecb-4e4a-856a-9ac39edd899f&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.1",
+          "itemTitle": "Micro-Modular Shelter Site Update",
+          "motionText": "That part c) of the motion be approved: c)    the Civic Administration BE DIRECTED to consult with all service providers who will be providing services to the MicroModular Shelter Site (either on-site or off-site) regarding their roles, responsibilities and associated costs and report back to a future meeting of the Strategic Priorities and Policy Committee;",
+          "result": "Motion Failed (5 to 9)",
+          "passed": false,
+          "margin": 4,
+          "tally": {
+            "yea": 5,
+            "nay": 9,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee#21micro-modular-shelter-site-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Would have directed Civic Administration to consult with service providers on their roles, responsibilities, and costs at the Micro-Modular Shelter Site and report back."
+          },
+          "positions": {
+            "s-stevenson": "yea",
+            "s-trosow": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "j-pribil": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "p-van-meerbergen": "nay",
+            "s-hillier": "nay",
+            "a-hopkins": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part c) of the motion be approved: c) the Civic Administration BE DIRECTED to cons..."
+        },
+        {
+          "id": "32530a45cd44",
+          "date": "2025-12-09",
+          "meetingSlug": "months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "1st Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1f2cf564-8ecb-4e4a-856a-9ac39edd899f&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.1",
+          "itemTitle": "Micro-Modular Shelter Site Update",
+          "motionText": "That part b) of the motion be approved: b)    the Civic Administration BE DIRECTED to consult with the London Transit Commission and report back to a future meeting of the Strategic Priorities and Policy Committee regarding the improvement of transit options serving the MicroModular Shelter Site and associated costs, including the rerouting of service to include a stop in or in close proximity to the facility, to prioritize snow and ice clearing, and to ensure there is adequate lighting at the stop and along any access path;",
+          "result": "Motion Failed (5 to 9)",
+          "passed": false,
+          "margin": 4,
+          "tally": {
+            "yea": 5,
+            "nay": 9,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee#21micro-modular-shelter-site-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Would have directed Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site."
+          },
+          "positions": {
+            "s-trosow": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "j-pribil": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "p-van-meerbergen": "nay",
+            "a-hopkins": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part b) of the motion be approved: b) the Civic Administration BE DIRECTED to cons..."
         },
         {
           "id": "17cb6a0556ae",
@@ -1421,6 +1799,117 @@
           },
           "resultNote": null,
           "motionSnippet": "That the following actions be taken with respect to Watson Park: b) the Civic Administr..."
+        },
+        {
+          "id": "cf6233c1dc64",
+          "date": "2025-04-22",
+          "meetingSlug": "months/2025-04/2025-04-22 7th Council Meeting",
+          "meetingTitle": "7th Council Meeting",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6633a5e7-6d04-4d02-906f-75e12f2e7be9&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.2.9",
+          "itemTitle": "(5.1) Watson Park",
+          "motionText": "That the following actions be taken with respect to Watson Park: a)   the Civic Administration BE DIRECTED to assist with the relocation of those living unhoused in Watson Park, to ensure that Watson Park is in compliance with established encampment protocols, and connect them with appropriate service supports, including possible shelter options; At 2:09 PM, Councillor P. Van Meerbergen leaves the meeting.\n\nAt 2:11 PM, Councillor P. Van Meerbergen enters the meeting.",
+          "result": "Motion Passed (14 to 1)",
+          "passed": true,
+          "margin": 13,
+          "tally": {
+            "yea": 14,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-04/2025-04-22 7th Council Meeting#82951-watson-park",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "relocation"
+          ],
+          "direction": {
+            "axis": "relocation",
+            "valence": -1,
+            "label": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
+            "axisLabels": {
+              "expansive": "kept people or services at their current location",
+              "restrictive": "directed relocating people or services away from their current location"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the following actions be taken with respect to Watson Park: a) the Civic Administr..."
+        },
+        {
+          "id": "32b3a392fe5e",
+          "date": "2025-04-22",
+          "meetingSlug": "months/2025-04/2025-04-22 7th Council Meeting",
+          "meetingTitle": "7th Council Meeting",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6633a5e7-6d04-4d02-906f-75e12f2e7be9&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.2.9",
+          "itemTitle": "(5.1) Watson Park",
+          "motionText": "That part a) be amended to read as follows: a)   the Civic Administration BE DIRECTED to assist with the relocation of those living unhoused in Watson Park, to ensure that Watson Park is in compliance with established encampment protocols, and connect them with appropriate service supports, including possible shelter options;",
+          "result": "Motion Passed (14 to 1)",
+          "passed": true,
+          "margin": 13,
+          "tally": {
+            "yea": 14,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-04/2025-04-22 7th Council Meeting#82951-watson-park",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "relocation",
+            "procedural"
+          ],
+          "direction": {
+            "axis": "relocation",
+            "valence": -1,
+            "label": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
+            "axisLabels": {
+              "expansive": "kept people or services at their current location",
+              "restrictive": "directed relocating people or services away from their current location"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part a) be amended to read as follows: a) the Civic Administration BE DIRECTED to ..."
         },
         {
           "id": "7b47438c5b0a",
@@ -2332,6 +2821,59 @@
           "motionSnippet": "That the motion be further amended in part c) to include \"until February 28, 2025\" and ..."
         },
         {
+          "id": "aaa44de9dc24",
+          "date": "2024-11-05",
+          "meetingSlug": "months/2024-11/2024-11-05 17th Meeting of City Council",
+          "meetingTitle": "17th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7a596f32-2a13-424f-a990-c28c025000b7&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.2.4",
+          "itemTitle": "(4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update",
+          "motionText": "That part j) of the motion BE APPROVED: j)  resting spaces to NOT BE LOCATED on the main street of any Business Improvement Area (BIA);",
+          "result": "Motion Passed (9 to 6)",
+          "passed": true,
+          "margin": 3,
+          "tally": {
+            "yea": 9,
+            "nay": 6,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-11/2024-11-05 17th Meeting of City Council#82441-whole-of-community-system-response--community-encampment-plan-implementation-recommendations-2025-and-basic-needs-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "response-scale",
+            "valence": -1,
+            "label": "Approved part j) of the motion, barring resting spaces from being located on the main street of any Business Improvement Area.",
+            "axisLabels": {
+              "expansive": "expanded the encampment/homelessness response",
+              "restrictive": "reduced the encampment/homelessness response"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part j) of the motion BE APPROVED: j) resting spaces to NOT BE LOCATED on the main..."
+        },
+        {
           "id": "acc5af6cd54b",
           "date": "2024-11-05",
           "meetingSlug": "months/2024-11/2024-11-05 17th Meeting of City Council",
@@ -2380,6 +2922,59 @@
           },
           "resultNote": null,
           "motionSnippet": "That the motion be amended by adding a new part k) to read as follows: k) Civic Adminis..."
+        },
+        {
+          "id": "d7283f8e12c5",
+          "date": "2024-11-05",
+          "meetingSlug": "months/2024-11/2024-11-05 17th Meeting of City Council",
+          "meetingTitle": "17th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7a596f32-2a13-424f-a990-c28c025000b7&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.2.4",
+          "itemTitle": "(4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update",
+          "motionText": "That the motion be amended to add a new part to read as follows: j)   resting spaces to NOT BE LOCATED on the main street of any Business Improvement Area (BIA); At 3:25 PM, His Worship Mayor J. Morgan, places Councillor S. Lehman in the Chair. \n\nAt 3:33 PM, His Worship Mayor J. Morgan resumes the Chair.",
+          "result": "Motion Passed (9 to 6)",
+          "passed": true,
+          "margin": 3,
+          "tally": {
+            "yea": 9,
+            "nay": 6,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-11/2024-11-05 17th Meeting of City Council#82441-whole-of-community-system-response--community-encampment-plan-implementation-recommendations-2025-and-basic-needs-update",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "response-scale",
+            "valence": -1,
+            "label": "Amended the motion to add a new part j) barring resting spaces from being located on the main street of any Business Improvement Area.",
+            "axisLabels": {
+              "expansive": "expanded the encampment/homelessness response",
+              "restrictive": "reduced the encampment/homelessness response"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the motion be amended to add a new part to read as follows: j) resting spaces to N..."
         },
         {
           "id": "19efb38c1dc0",
@@ -2684,6 +3279,56 @@
           "motionSnippet": "That part h) of the motion be approved: h) continuation of contracted services at the C..."
         },
         {
+          "id": "09a7d0ce1a38",
+          "date": "2024-10-29",
+          "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d575c691-840f-4c57-a4da-4b12b7bde7ed&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update ",
+          "motionText": "That part f) iii) of the motion, as amended, be approved: iii) future service depot locations be deferred for consideration at the November 19, 2024 meeting of Strategic Priorities and Policy Committee and that Civic Administration bring forward a new list of possible locations (with a buffer of 50 to 100 metres) more evenly dispersed across the city as well as alternative locations that do not concentrate service depots in one ward.",
+          "result": "Motion Passed (8 to 7)",
+          "passed": true,
+          "margin": 1,
+          "tally": {
+            "yea": 8,
+            "nay": 7,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "referral"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Approved part f)(iii), formally deferring future service depot location decisions to the November 19, 2024 SPPC meeting and directing a new list of possible locations with a 50-to-100-metre buffer, more evenly dispersed and not concentrated in one ward."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-franke": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part f) iii) of the motion, as amended, be approved: iii) future service depot loc..."
+        },
+        {
           "id": "4079dc909bd5",
           "date": "2024-10-29",
           "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
@@ -2884,6 +3529,56 @@
           },
           "resultNote": null,
           "motionSnippet": "That part b) of the motion be further amended to change funding amount from $141,400 to..."
+        },
+        {
+          "id": "f6374d813bdb",
+          "date": "2024-10-29",
+          "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d575c691-840f-4c57-a4da-4b12b7bde7ed&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update ",
+          "motionText": "That part f) iii) of the motion be amended to read as follows: iii) future service depot locations be deferred for consideration at the November 19, 2024 meeting of Strategic Priorities and Policy Committee and that Civic Administration bring forward a new list of possible locations (with a buffer of 50 to 100 metres) more evenly dispersed across the city as well as alternative locations that do not concentrate service depots in one ward.",
+          "result": "Motion Passed (8 to 7)",
+          "passed": true,
+          "margin": 1,
+          "tally": {
+            "yea": 8,
+            "nay": 7,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "referral"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Amended part f)(iii) to defer future service depot location decisions to the November 19, 2024 SPPC meeting and directed Civic Administration to bring forward a new list of possible locations with a 50-to-100-metre buffer, more evenly dispersed and not concentrated in one ward."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-franke": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part f) iii) of the motion be amended to read as follows: iii) future service depo..."
         },
         {
           "id": "6482954d2c17",
@@ -3347,6 +4042,306 @@
           },
           "resultNote": null,
           "motionSnippet": "That the motion BE AMENDED to include a new part g) to read as follows: g) that Civic A..."
+        },
+        {
+          "id": "c289c10f4c0d",
+          "date": "2024-06-18",
+          "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1566d87b-7756-4e35-bca7-4983b5c0506f&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
+          "motionText": "That part a), first bullet, as amended, BE APPROVED and reads as follows: a)   That, “The Saving Lives, Alleviating Suffering, & Building a Healthy, Strong, & Safe Community for All” - London’s Health & Homelessness Response: Community Encampment Response Plan as attached as Schedule 1 BE ENDORSED, with the following amended guidelines contained on page 36: -    On or within 150 metres of an elementary school or children daycare centre;",
+          "result": "Motion Passed (11 to 4)",
+          "passed": true,
+          "margin": 7,
+          "tally": {
+            "yea": 11,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee#41londons-health--homelessness-whole-of-community-system-response---proposed-community-encampment-response-plan",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Approved the first encampment buffer-zone bullet -- a 150-metre setback from elementary schools and daycare centres -- as amended, as part of endorsing the Community Encampment Response Plan."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part a), first bullet, as amended, BE APPROVED and reads as follows: a) That, “The..."
+        },
+        {
+          "id": "4738465c5ed7",
+          "date": "2024-06-18",
+          "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1566d87b-7756-4e35-bca7-4983b5c0506f&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
+          "motionText": "That part a), second, third and fourth bullets, as amended, BE APPROVED and reads as follows: -    On or within 100 metres of a playground, pool, waterpark, or any spray pad; \n\n-    Within 100 metres of any private residential property line with a habitable dwelling as per the Building Code; \n\n-    On or within 100 metres of any sports fields, inclusive of but not limited to, skateboard parks, fitness amenities, golf courses, ball diamonds, soccer pitches, tennis courts, or any other sports or multi-use courts, as well as stadiums, dugouts, stages, and bleachers;",
+          "result": "Motion Passed (10 to 5)",
+          "passed": true,
+          "margin": 5,
+          "tally": {
+            "yea": 10,
+            "nay": 5,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee#41londons-health--homelessness-whole-of-community-system-response---proposed-community-encampment-response-plan",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Approved the second, third, and fourth encampment buffer-zone bullets (100 metres from playgrounds/pools, 100 metres from private residences, and 100 metres from sports fields) as amended."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part a), second, third and fourth bullets, as amended, BE APPROVED and reads as fo..."
+        },
+        {
+          "id": "62f050b18f9b",
+          "date": "2024-06-18",
+          "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1566d87b-7756-4e35-bca7-4983b5c0506f&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
+          "motionText": "That part a) BE APPROVED and reads as follows: That, “The Saving Lives, Alleviating Suffering, & Building a Healthy, Strong, & Safe Community for All” - London’s Health & Homelessness Response: Community Encampment Response Plan as attached as Schedule 1 BE ENDORSED, with the following amended guidelines contained on page 36: \n\n-   On or within 100 metres of a playground, pool, waterpark, or any spray pad; \n\n-    Within 100 metres of any private residential property line with a habitable dwelling as per the Building Code; \n\n-    On or within 100 metres of any sports fields, inclusive of but...",
+          "result": "Motion Passed (9 to 6)",
+          "passed": true,
+          "margin": 3,
+          "tally": {
+            "yea": 9,
+            "nay": 6,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee#41londons-health--homelessness-whole-of-community-system-response---proposed-community-encampment-response-plan",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Approved endorsement of the Community Encampment Response Plan with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads, 100 metres from private residential properties, and 100 metres from sports fields."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "e-peloza": "yea",
+            "s-hillier": "yea",
+            "h-mcalister": "nay",
+            "s-trosow": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part a) BE APPROVED and reads as follows: That, “The Saving Lives, Alleviating Suf..."
+        },
+        {
+          "id": "16d8fadbb13d",
+          "date": "2024-06-18",
+          "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1566d87b-7756-4e35-bca7-4983b5c0506f&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
+          "motionText": "That part a) BE APPROVED and reads as follows: -    On or within 150 metres of an elementary school or children daycare centre;",
+          "result": "Motion Passed (11 to 4)",
+          "passed": true,
+          "margin": 7,
+          "tally": {
+            "yea": 11,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee#41londons-health--homelessness-whole-of-community-system-response---proposed-community-encampment-response-plan",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Approved the 150-metre encampment buffer-zone setback from elementary schools and children's daycare centres as part of the Community Encampment Response Plan."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part a) BE APPROVED and reads as follows: - On or within 150 metres of an elementa..."
+        },
+        {
+          "id": "d597de71c11e",
+          "date": "2024-06-18",
+          "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1566d87b-7756-4e35-bca7-4983b5c0506f&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
+          "motionText": "That part a) BE FURTHER AMENDED to read as follows: That, “The Saving Lives, Alleviating Suffering, & Building a Healthy, Strong, & Safe Community for All” - London’s Health & Homelessness Response: Community Encampment Response Plan as attached as Schedule 1 BE ENDORSED, with the following amended guidelines contained on page 36: -    On or within 100 metres of a playground, pool, waterpark, or any spray pad; \n\n-    On or within 100 metres of any sports fields, inclusive of but not limited to, skateboard parks, fitness amenities, golf courses, ball diamonds, soccer pitches, tennis courts, ...",
+          "result": "Motion Passed (9 to 6)",
+          "passed": true,
+          "margin": 3,
+          "tally": {
+            "yea": 9,
+            "nay": 6,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee#41londons-health--homelessness-whole-of-community-system-response---proposed-community-encampment-response-plan",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "s-hillier": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part a) BE FURTHER AMENDED to read as follows: That, “The Saving Lives, Alleviatin..."
+        },
+        {
+          "id": "ec3b2cacdb7d",
+          "date": "2024-06-18",
+          "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1566d87b-7756-4e35-bca7-4983b5c0506f&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
+          "motionText": "That part a) BE FURTHER AMENDED as follows: -    On or within 150 metres of an elementary school or children daycare centre; \n\n-    Within 100 metres of any private residential property line with a habitable dwelling as per the Building Code;",
+          "result": "Motion Passed (10 to 5)",
+          "passed": true,
+          "margin": 5,
+          "tally": {
+            "yea": 10,
+            "nay": 5,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee#41londons-health--homelessness-whole-of-community-system-response---proposed-community-encampment-response-plan",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "s-hillier": "yea",
+            "p-cuddy": "nay",
+            "s-trosow": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part a) BE FURTHER AMENDED as follows: - On or within 150 metres of an elementary ..."
         },
         {
           "id": "c6f6010dcbc4",
@@ -5825,10 +6820,60 @@
     },
     "policing": {
       "label": "Policing",
-      "dividedVoteCount": 12,
+      "dividedVoteCount": 14,
       "directionBearingVoteCount": 6,
       "distinctAgendaItemCount": 7,
       "votes": [
+        {
+          "id": "38fda7e0ab61",
+          "date": "2026-07-21",
+          "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
+          "meetingTitle": "12th Meeting of Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.4.10",
+          "itemTitle": "(4.4) City of London Special Constable Program",
+          "motionText": "That the following part of the main motion, as amended, BE APPROVED: e) potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordinated Informed Response teams, and relationships with the London Police Service and other community partners with a specific focus on the implementation of a mixed model CIR and Special Constable team; and,",
+          "result": "Motion Passed (13 to 2)",
+          "passed": true,
+          "margin": 11,
+          "tally": {
+            "yea": 13,
+            "nay": 2,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-07/2026-07-21 12th Meeting of Council#841044-city-of-london-special-constable-program",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Approved part e) of the amended motion, directing that the feasibility report also address impacts on existing service-delivery models with a specific focus on a mixed CIR/Special Constable staffing model."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the following part of the main motion, as amended, BE APPROVED: e) potential impac..."
+        },
         {
           "id": "2b25c117ac0f",
           "date": "2026-07-21",
@@ -5878,6 +6923,56 @@
           },
           "resultNote": null,
           "motionSnippet": "That the following parts of the main motion, as amended, BE APPROVED: That the Civic Ad..."
+        },
+        {
+          "id": "1fd6e77e5a25",
+          "date": "2026-07-21",
+          "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
+          "meetingTitle": "12th Meeting of Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.4.10",
+          "itemTitle": "(4.4) City of London Special Constable Program",
+          "motionText": "That the following part BE APPROVED: d) estimated capital and operating costs, funding options, including the potential use of revenues generated through the City's Automated Speed Enforcement Program, opportunities for external funding, and the financial feasibility of implementing a permanent program.",
+          "result": "Motion Passed (10 to 5)",
+          "passed": true,
+          "margin": 5,
+          "tally": {
+            "yea": 10,
+            "nay": 5,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-07/2026-07-21 12th Meeting of Council#841044-city-of-london-special-constable-program",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Approved part d) of the amended report-back request, directing that the feasibility study include estimated costs, funding options including Automated Speed Enforcement Program revenue, and the financial feasibility of a permanent program."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the following part BE APPROVED: d) estimated capital and operating costs, funding ..."
         },
         {
           "id": "776d36b6bc34",
@@ -6433,8 +7528,8 @@
     },
     "bikes": {
       "label": "Bike Lanes / Cycling",
-      "dividedVoteCount": 16,
-      "directionBearingVoteCount": 11,
+      "dividedVoteCount": 18,
+      "directionBearingVoteCount": 13,
       "distinctAgendaItemCount": 6,
       "votes": [
         {
@@ -6736,6 +7831,112 @@
           },
           "resultNote": null,
           "motionSnippet": "Motion to approve part c) ii) A.: ii) the following Proposed Network Additions BE REMOV..."
+        },
+        {
+          "id": "869855991c1c",
+          "date": "2025-04-01",
+          "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
+          "meetingTitle": "6th Council Meeting",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b4e4a4d9-7c35-4803-8a11-a266aa5c4172&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.1.9",
+          "itemTitle": "(4.1) Mobility Master Plan Mobility Networks Maps",
+          "motionText": "Motion to approve part c) i) C: C. Vancouver Street from Trafalgar Street to Wavell Street;",
+          "result": "Motion Passed (11 to 4)",
+          "passed": true,
+          "margin": 7,
+          "tally": {
+            "yea": 11,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-04/2025-04-01 6th Council Meeting",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "infrastructure-expansion",
+            "valence": -1,
+            "label": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the planned cycling network.",
+            "axisLabels": {
+              "expansive": "approved new cycling infrastructure",
+              "restrictive": "removed or denied cycling infrastructure"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "Motion to approve part c) i) C: C. Vancouver Street from Trafalgar Street to Wavell Str..."
+        },
+        {
+          "id": "c7684b074103",
+          "date": "2025-04-01",
+          "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
+          "meetingTitle": "6th Council Meeting",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b4e4a4d9-7c35-4803-8a11-a266aa5c4172&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.1.9",
+          "itemTitle": "(4.1) Mobility Master Plan Mobility Networks Maps",
+          "motionText": "Motion to approve part c) i) B: B. Sovereign Road;",
+          "result": "Motion Passed (11 to 4)",
+          "passed": true,
+          "margin": 7,
+          "tally": {
+            "yea": 11,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-04/2025-04-01 6th Council Meeting",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "infrastructure-expansion",
+            "valence": -1,
+            "label": "Removed the proposed Sovereign Road route from the planned cycling network.",
+            "axisLabels": {
+              "expansive": "approved new cycling infrastructure",
+              "restrictive": "removed or denied cycling infrastructure"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "e-peloza": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "Motion to approve part c) i) B: B. Sovereign Road;"
         },
         {
           "id": "07ddefaa133b",
@@ -7253,9 +8454,9 @@
     },
     "downtown": {
       "label": "Downtown & Core",
-      "dividedVoteCount": 20,
-      "directionBearingVoteCount": 12,
-      "distinctAgendaItemCount": 14,
+      "dividedVoteCount": 24,
+      "directionBearingVoteCount": 15,
+      "distinctAgendaItemCount": 16,
       "votes": [
         {
           "id": "a3ec6ca53d38",
@@ -7819,6 +9020,114 @@
           "motionSnippet": "Motion to approve the following: b) that any further action relating to expanding the e..."
         },
         {
+          "id": "ab5f8240872a",
+          "date": "2024-05-14",
+          "meetingSlug": "months/2024-05/2024-05-14 10th Meeting of City Council",
+          "meetingTitle": "10th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bb3a7450-d755-4da8-b74c-7bd72809a685&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.2.7",
+          "itemTitle": "(2.5) Core Area Parking Incentives Extension ",
+          "motionText": "That parts c), d), e) and f) BE APPROVED to read as follows: c) the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024; d) the financing for a free 1-hour on-street parking program for the Core Area, in the estimated amount of $300,000, BE APPROVED from the Economic Development Reserve Fund; e) the Civic Administration BE DIRECTED to implement a free 1-hour parking pilot program for Municipal Lot #1 and #2 in Old East Village until the end of 2024; f) the financing for a free 1-hour parking pilot program for Municipa...",
+          "result": "Motion Passed (11 to 3)",
+          "passed": true,
+          "margin": 8,
+          "tally": {
+            "yea": 11,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-05/2024-05-14 10th Meeting of City Council#82725-core-area-parking-incentives-extension",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved implementing free one-hour on-street parking in the Core Area (funded up to $300,000) and a free one-hour parking pilot at two Old East Village municipal lots (funded up to $30,000).",
+            "axisLabels": {
+              "expansive": "approved the downtown/core-area item",
+              "restrictive": "denied the downtown/core-area item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-franke": "nay",
+            "e-peloza": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That parts c), d), e) and f) BE APPROVED to read as follows: c) the Civic Administratio..."
+        },
+        {
+          "id": "c395bc56dc01",
+          "date": "2024-05-14",
+          "meetingSlug": "months/2024-05/2024-05-14 10th Meeting of City Council",
+          "meetingTitle": "10th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bb3a7450-d755-4da8-b74c-7bd72809a685&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.2.7",
+          "itemTitle": "(2.5) Core Area Parking Incentives Extension ",
+          "motionText": "That the motion BE AMENDED to include the following new parts: c) the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024; d) the financing for a free 1-hour on-street parking program for the Core Area, in the estimated amount of $300,000, BE APPROVED from the Economic Development Reserve Fund; e) the Civic Administration BE DIRECTED to implement a free 1-hour parking pilot program for Municipal Lot #1 and #2 in Old East Village until the end of 2024; f) the financing for a free 1-hour parking pilot program for Munici...",
+          "result": "Motion Passed (11 to 3)",
+          "passed": true,
+          "margin": 8,
+          "tally": {
+            "yea": 11,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-05/2024-05-14 10th Meeting of City Council#82725-core-area-parking-incentives-extension",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Amended the item to add free one-hour on-street parking in the Core Area (funded up to $300,000) and a free one-hour parking pilot at two Old East Village municipal lots (funded up to $30,000).",
+            "axisLabels": {
+              "expansive": "approved the downtown/core-area item",
+              "restrictive": "denied the downtown/core-area item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-franke": "nay",
+            "e-peloza": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the motion BE AMENDED to include the following new parts: c) the Civic Administrat..."
+        },
+        {
           "id": "77316a900d35",
           "date": "2024-04-29",
           "meetingSlug": "months/2024-04/2024-04-29 6th Meeting of the Community and Protective Services Committee",
@@ -7865,6 +9174,52 @@
           "motionSnippet": "Motion to approve parts c) and d) of the clause."
         },
         {
+          "id": "25119154026c",
+          "date": "2024-04-29",
+          "meetingSlug": "months/2024-04/2024-04-29 6th Meeting of the Community and Protective Services Committee",
+          "meetingTitle": "6th Meeting of the Community and Protective Services Committee",
+          "meetingType": "Community and Protective Services Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=85fee551-4c5c-4ebd-a7c2-479b5c7ff469&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.5",
+          "itemTitle": "Core Area Parking Incentives Extension ",
+          "motionText": "Motion to approve parts a) and b) of the clause.",
+          "result": "Motion Failed (2 to 2)",
+          "passed": false,
+          "margin": 0,
+          "tally": {
+            "yea": 2,
+            "nay": 2,
+            "recuse": 0,
+            "absent": 2,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-04/2024-04-29 6th Meeting of the Community and Protective Services Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Would have approved implementing free one-hour on-street parking in the Core Area, funded up to $300,000; failed at committee (later passed at Council).",
+            "axisLabels": {
+              "expansive": "approved the downtown/core-area item",
+              "restrictive": "denied the downtown/core-area item"
+            }
+          },
+          "positions": {
+            "j-pribil": "yea",
+            "d-ferreira": "yea",
+            "s-trosow": "nay",
+            "e-peloza": "nay",
+            "j-morgan": "absent",
+            "h-mcalister": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "Motion to approve parts a) and b) of the clause."
+        },
+        {
           "id": "82934bf94ea3",
           "date": "2024-04-29",
           "meetingSlug": "months/2024-04/2024-04-29 6th Meeting of the Community and Protective Services Committee",
@@ -7907,6 +9262,56 @@
           },
           "resultNote": null,
           "motionSnippet": "Motion to further amend by including a new part a) to read as follows: a) the Civic Adm..."
+        },
+        {
+          "id": "c1b110962896",
+          "date": "2024-04-02",
+          "meetingSlug": "months/2024-04/2024-04-02 7th Meeting of City Council",
+          "meetingTitle": "7th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f5afd7f1-9c3f-4a1c-a793-c9979cae0db7&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.4.13",
+          "itemTitle": "(5.1) Reduced Parking Incentive Pilot Project",
+          "motionText": "That the motion BE AMENDED by adding a new part to read as follows: \"that Civic Administration BE DIRECTED to report back to the next Community and Protective Services Committee meeting with a source of funding for issuing free 1-hour on-street parking and the ability to suspend free 1-hour on-street parking during special events in the Core Area for the 2024 calendar year\"",
+          "result": "Motion Passed (10 to 4)",
+          "passed": true,
+          "margin": 6,
+          "tally": {
+            "yea": 10,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-04/2024-04-02 7th Meeting of City Council",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Directed Civic Administration to report back with a funding source for free 1-hour on-street parking and with the ability to suspend that free parking during special events in the Core Area, without itself implementing either."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "h-mcalister": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the motion BE AMENDED by adding a new part to read as follows: \"that Civic Adminis..."
         },
         {
           "id": "295a22bb5a32",
@@ -8281,9 +9686,9 @@
     },
     "transit": {
       "label": "Transit & Roads",
-      "dividedVoteCount": 59,
-      "directionBearingVoteCount": 29,
-      "distinctAgendaItemCount": 44,
+      "dividedVoteCount": 62,
+      "directionBearingVoteCount": 31,
+      "distinctAgendaItemCount": 45,
       "votes": [
         {
           "id": "a8e2f548211a",
@@ -8731,6 +10136,47 @@
           },
           "resultNote": null,
           "motionSnippet": "That the amendment BE AMENDED to change three (3) years to two (2) years."
+        },
+        {
+          "id": "b51a800e4477",
+          "date": "2025-09-29",
+          "meetingSlug": "months/2025-09/2025-09-29 14th Meeting of the Community and Protective Services Committee",
+          "meetingTitle": "14th Meeting of the Community and Protective Services Committee",
+          "meetingType": "Community and Protective Services Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=46f1a202-1cdd-40e8-b86a-b77420ab4566&Agenda=PostMinutes&lang=English",
+          "itemNumber": "3.2",
+          "itemTitle": "Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)",
+          "motionText": "That part c) of the amendment BE APPROVED.",
+          "result": "Motion Failed (2 to 4)",
+          "passed": false,
+          "margin": 2,
+          "tally": {
+            "yea": 2,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-09/2025-09-29 14th Meeting of the Community and Protective Services Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "referral"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Would have referred to the London Transit Commission the question of offering free transit on high-heat days."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "s-trosow": "yea",
+            "j-morgan": "nay",
+            "p-cuddy": "nay",
+            "j-pribil": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part c) of the amendment BE APPROVED."
         },
         {
           "id": "96ea8a87d491",
@@ -9575,6 +11021,116 @@
           },
           "resultNote": null,
           "motionSnippet": "That the motion regarding the London Transit Commission BE REFERRED to the next meeting..."
+        },
+        {
+          "id": "3e6140abb084",
+          "date": "2025-03-25",
+          "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "4th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8d4680ca-949d-4726-9253-9dc0bbc6c41d&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "Mobility Master Plan Mobility Networks Maps",
+          "motionText": "Motion to approved part b).",
+          "result": "Motion Passed (14 to 1)",
+          "passed": true,
+          "margin": 13,
+          "tally": {
+            "yea": 14,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": "transit-service",
+            "valence": 1,
+            "label": "Approved the Transit Priority Network maps.",
+            "axisLabels": {
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "p-van-meerbergen": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "Motion to approved part b)."
+        },
+        {
+          "id": "f5d2c8a7250b",
+          "date": "2025-03-25",
+          "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "4th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8d4680ca-949d-4726-9253-9dc0bbc6c41d&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "Mobility Master Plan Mobility Networks Maps",
+          "motionText": "Motion to approve part a), as amended.",
+          "result": "Motion Passed (14 to 1)",
+          "passed": true,
+          "margin": 13,
+          "tally": {
+            "yea": 14,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": "service-expansion",
+            "valence": 1,
+            "label": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+            "axisLabels": {
+              "expansive": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+              "restrictive": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle."
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "Motion to approve part a), as amended."
         },
         {
           "id": "dfe87ddfc742",
@@ -11214,7 +12770,7 @@
     },
     "budget": {
       "label": "Taxes & Budget",
-      "dividedVoteCount": 127,
+      "dividedVoteCount": 129,
       "directionBearingVoteCount": 85,
       "distinctAgendaItemCount": 81,
       "votes": [
@@ -14322,6 +15878,57 @@
           "motionSnippet": "That part c) be amended with a new part i) to read as follows: i) Civic Administration ..."
         },
         {
+          "id": "9eeb69467dba",
+          "date": "2024-07-18",
+          "meetingSlug": "months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "12th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=45a45766-b39a-4d67-8b7e-84ab78e2f191&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.2",
+          "itemTitle": "1st Report of the Strategic Opportunities Review Working Group (SORWG)",
+          "motionText": "That part vi) be approved and reads as follows: vi) the Civic Administration BE DIRECTED to report back in the first quarter of 2025 with potential options for Council's consideration with respect to the Surplus Deficit Policy;",
+          "result": "Motion Passed (11 to 3)",
+          "passed": true,
+          "margin": 8,
+          "tally": {
+            "yea": 11,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee#421st-report-of-the-strategic-opportunities-review-working-group-sorwg",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask",
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Directed Civic Administration to report back in Q1 2025 with potential options for Council's consideration on the City's Surplus Deficit Policy -- no funding decision itself."
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part vi) be approved and reads as follows: vi) the Civic Administration BE DIRECTE..."
+        },
+        {
           "id": "975066679d94",
           "date": "2024-07-18",
           "meetingSlug": "months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee",
@@ -14370,6 +15977,54 @@
           },
           "resultNote": null,
           "motionSnippet": "That part B) be approved and reads as follows: B) in lieu of the current Neighbourhood ..."
+        },
+        {
+          "id": "38521ebe4d5b",
+          "date": "2024-07-18",
+          "meetingSlug": "months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "12th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=45a45766-b39a-4d67-8b7e-84ab78e2f191&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.2",
+          "itemTitle": "1st Report of the Strategic Opportunities Review Working Group (SORWG)",
+          "motionText": "That part a) i) A) be approved and reads as follows: a) the following actions be taken with respect to the Community Grants - Neighbourhood Decision Making communication received from Deputy Mayor S. Lewis and Councillor S. Lehman dated June 14, 2024, as amended: i) the Civic Administration BE DIRECTED to bring forward a Budget Amendment to the 2025 Annual Budget Update for the Mayor's consideration to reflect the following: A) the London Community Grants, annual Grassroots, Innovation, and Capital Grants stream for the 2025, 2026, and 2027 years to be funded to a maximum of $250,000/year t...",
+          "result": "Motion Passed (9 to 5)",
+          "passed": true,
+          "margin": 4,
+          "tally": {
+            "yea": 9,
+            "nay": 5,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee#421st-report-of-the-strategic-opportunities-review-working-group-sorwg",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Directed Civic Administration to bring forward a Budget Amendment funding the London Community Grants program (Grassroots, Innovation, and Capital Grants stream) to a maximum of $250,000/year for 2025-2027, contingent on the Community Investment Reserve Fund holding at least a $1M balance, while the program undergoes further review."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "e-peloza": "yea",
+            "h-mcalister": "nay",
+            "s-trosow": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "d-ferreira": "nay",
+            "s-hillier": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part a) i) A) be approved and reads as follows: a) the following actions be taken ..."
         },
         {
           "id": "63d3d1c790ee",
@@ -19626,9 +21281,9 @@
     },
     "housing": {
       "label": "Housing & Density",
-      "dividedVoteCount": 212,
-      "directionBearingVoteCount": 126,
-      "distinctAgendaItemCount": 158,
+      "dividedVoteCount": 229,
+      "directionBearingVoteCount": 131,
+      "distinctAgendaItemCount": 160,
       "votes": [
         {
           "id": "d2b6a1410c01",
@@ -19831,6 +21486,51 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the motion, as amended, BE APPROVED."
+        },
+        {
+          "id": "e059773bdd21",
+          "date": "2026-07-14",
+          "meetingSlug": "months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee",
+          "meetingTitle": "The 11th Meeting of the Planning and Environment Committee",
+          "meetingType": "Planning and Environment Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=2fd7e5b1-762b-4503-9e05-7a62e44bc4ad&Agenda=PostMinutes&lang=English",
+          "itemNumber": "3.8",
+          "itemTitle": "1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055",
+          "motionText": "That the motion, as amended, BE APPROVED.",
+          "result": "Motion Passed (4 to 1)",
+          "passed": true,
+          "margin": 3,
+          "tally": {
+            "yea": 4,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved, as amended on the size/location of the required park block, introducing by-laws to amend the Official Plan and rezone 1454 Fanshawe Park Road East Block 2 from a Shopping Area Place Type / Holding Community Shopping Area zone to a Neighbourhoods Place Type / Residential R6 zone for a draft plan of subdivision.",
+            "axisLabels": {
+              "expansive": "approved the development, rezoning, or housing-policy item",
+              "restrictive": "denied the development, rezoning, or housing-policy item"
+            }
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "s-stevenson": "yea",
+            "s-lehman": "yea",
+            "s-hillier": "yea",
+            "p-cuddy": "nay"
           },
           "resultNote": null,
           "motionSnippet": "That the motion, as amended, BE APPROVED."
@@ -20806,6 +22506,57 @@
           "motionSnippet": "That the balance of the motion BE APPROVED: That, the following actions be taken with r..."
         },
         {
+          "id": "3230a5b42d4e",
+          "date": "2026-03-24",
+          "meetingSlug": "months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.2",
+          "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options",
+          "motionText": "That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF timelines;",
+          "result": "Motion Passed (10 to 4)",
+          "passed": true,
+          "margin": 6,
+          "tally": {
+            "yea": 10,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee#42mayoral-direction-2026-001-creation-of-an-affordable-home-ownership-incentive-program---report-back-on-program-options",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "wrapper_preamble",
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Approved adding partial or full development-charge rebate options for new residential development as one of the items Civic Administration must include when it reports back to Council with options to quickly incentivize housing activity within the remaining Housing Accelerator Fund window."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay",
+            "s-lehman": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options f..."
+        },
+        {
           "id": "49c00282c4ad",
           "date": "2026-03-10",
           "meetingSlug": "months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee",
@@ -20920,6 +22671,107 @@
           },
           "resultNote": null,
           "motionSnippet": "That the motion BE AMENDED to add a new part that reads as follows: Notwithstanding the..."
+        },
+        {
+          "id": "951943522c64",
+          "date": "2026-03-03",
+          "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
+          "meetingTitle": "4th Council Meeting",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.1.13",
+          "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes",
+          "motionText": "That parts a) and d), as amended, BE APPROVED.",
+          "result": "Motion Passed (11 to 3)",
+          "passed": true,
+          "margin": 8,
+          "tally": {
+            "yea": 11,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-03/2026-03-03 4th Council Meeting",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "use-permission",
+            "valence": 1,
+            "label": "Set a citywide residential parking minimum of 1 space per unit (with exemptions for affordable-housing-agreement and Protected Major Transit Station Area developments) and removed the zoning prohibition on adding an extra driveway for a lot with an additional residential unit.",
+            "axisLabels": {
+              "expansive": "expanded where additional housing types are permitted",
+              "restrictive": "restricted where additional housing types are permitted"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "s-hillier": "yea",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "d-ferreira": "nay",
+            "e-peloza": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That parts a) and d), as amended, BE APPROVED."
+        },
+        {
+          "id": "517dd3cd276a",
+          "date": "2026-03-03",
+          "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
+          "meetingTitle": "4th Council Meeting",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.1.13",
+          "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes",
+          "motionText": "That parts b) and c), as amended, BE APPROVED. At 4:19 PM, Chair Deputy Mayor S. Lewis, places Councillor C. Rahman in the Chair. At 4:24 PM, Chair Deputy Mayor S. Lewis resumes the Chair.",
+          "result": "Motion Passed (11 to 3)",
+          "passed": true,
+          "margin": 8,
+          "tally": {
+            "yea": 11,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-03/2026-03-03 4th Council Meeting",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Narrowed a proposed parking by-law amendment (wider driveways, front-yard parking) so it would not apply to lands within the Western University Near Campus Neighbourhood, leaving the existing stricter rules in place there."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "c-rahman": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "e-peloza": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That parts b) and c), as amended, BE APPROVED."
         },
         {
           "id": "454d678bf46e",
@@ -21938,6 +23790,102 @@
           "motionSnippet": "That the motion, as amended, BE APPROVED; it being noted that Civic Administration will..."
         },
         {
+          "id": "a114f764ba10",
+          "date": "2026-02-03",
+          "meetingSlug": "months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "3rd Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.4",
+          "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
+          "motionText": "That the motion BE FURTHER AMENDED to extend the term of the loan from five years to ten years.",
+          "result": "Motion Passed (12 to 2)",
+          "passed": true,
+          "margin": 10,
+          "tally": {
+            "yea": 12,
+            "nay": 2,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee#24mayoral-direction-2026-001-creation-of-an-affordable-home-ownership-incentive-program",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Amended the Affordable Home Ownership Incentive Program to extend its loan term from five years to ten years."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "s-lehman": "nay",
+            "s-hillier": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the motion BE FURTHER AMENDED to extend the term of the loan from five years to te..."
+        },
+        {
+          "id": "93812c484ecf",
+          "date": "2026-02-03",
+          "meetingSlug": "months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "3rd Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.4",
+          "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
+          "motionText": "That the motion BE AMENDED to direct Civic Administration to restrict the program eligibility to first-time home buyers.",
+          "result": "Motion Passed (12 to 2)",
+          "passed": true,
+          "margin": 10,
+          "tally": {
+            "yea": 12,
+            "nay": 2,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee#24mayoral-direction-2026-001-creation-of-an-affordable-home-ownership-incentive-program",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Amended the Affordable Home Ownership Incentive Program to restrict eligibility to first-time home buyers."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "s-trosow": "nay",
+            "d-ferreira": "nay",
+            "s-hillier": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the motion BE AMENDED to direct Civic Administration to restrict the program eligi..."
+        },
+        {
           "id": "d385bdf2c1a0",
           "date": "2026-02-03",
           "meetingSlug": "months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee",
@@ -22609,6 +24557,61 @@
           },
           "resultNote": null,
           "motionSnippet": "Notwithstanding the recommendation of the Director, Planning and Development, the follo..."
+        },
+        {
+          "id": "fbf6b4344ada",
+          "date": "2025-11-04",
+          "meetingSlug": "months/2025-11/2025-11-04 17th Council Meeting",
+          "meetingTitle": "17th Council Meeting",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.3.8",
+          "itemTitle": "(4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units ",
+          "motionText": "That the motion, as amended, BE APPROVED",
+          "result": "Motion Passed (14 to 1)",
+          "passed": true,
+          "margin": 13,
+          "tally": {
+            "yea": 14,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-11/2025-11-04 17th Council Meeting",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": "use-permission",
+            "valence": -1,
+            "label": "Approved a package capping Additional Residential Units at a maximum of two bedrooms each (three combined for attached ARUs, three combined for detached ARUs) at 80% gross floor area, and directed an Interim Control By-law temporarily restricting new ARUs exceeding those bedroom-count or unit-size limits pending a land use study.",
+            "axisLabels": {
+              "expansive": "expanded where additional housing types are permitted",
+              "restrictive": "restricted where additional housing types are permitted"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-franke": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the motion, as amended, BE APPROVED"
         },
         {
           "id": "a854039570a1",
@@ -24671,6 +26674,108 @@
           "motionSnippet": "That part a) ii) to read as follows: ii) authorize the Deputy City Manager, Housing and..."
         },
         {
+          "id": "cfc3c19ef28b",
+          "date": "2025-05-13",
+          "meetingSlug": "months/2025-05/2025-05-13 8th Council Meeting",
+          "meetingTitle": "8th Council Meeting",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f87c6f1c-7f33-498c-8447-d2f3107dd532&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.1.6",
+          "itemTitle": "(2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)",
+          "motionText": "That the motion be further amended in part a) ii) to read as follows: ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of supportive or highly supportive housing;",
+          "result": "Motion Passed (14 to 1)",
+          "passed": true,
+          "margin": 13,
+          "tally": {
+            "yea": 14,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-13 8th Council Meeting#81625-approval-of-the-template-contribution-agreement-for-affordable-housing-projects-relates-to-bill-no-158",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "procedural",
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Narrowed the delegation carve-out to cover only supportive or highly supportive housing terms (dropping the earlier tenancy-profile exception), which would still require Council approval rather than being delegated."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "a-hopkins": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the motion be further amended in part a) ii) to read as follows: ii) authorize the..."
+        },
+        {
+          "id": "e603bb09f225",
+          "date": "2025-05-13",
+          "meetingSlug": "months/2025-05/2025-05-13 8th Council Meeting",
+          "meetingTitle": "8th Council Meeting",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f87c6f1c-7f33-498c-8447-d2f3107dd532&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.1.6",
+          "itemTitle": "(2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)",
+          "motionText": "That the motion be further amended in part a) ii) to read as follows: ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of any changes to tenancy profiles or for supportive or highly supportive housing;",
+          "result": "Motion Passed (14 to 1)",
+          "passed": true,
+          "margin": 13,
+          "tally": {
+            "yea": 14,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-05/2025-05-13 8th Council Meeting#81625-approval-of-the-template-contribution-agreement-for-affordable-housing-projects-relates-to-bill-no-158",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "procedural",
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Narrowed that staff delegation with a carve-out: changes to tenancy profiles, or to supportive or highly supportive housing terms, would still require Council approval rather than being delegated to staff."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "a-hopkins": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the motion be further amended in part a) ii) to read as follows: ii) authorize the..."
+        },
+        {
           "id": "cbbd662db2e2",
           "date": "2025-05-13",
           "meetingSlug": "months/2025-05/2025-05-13 8th Council Meeting",
@@ -25512,6 +27617,59 @@
           },
           "resultNote": null,
           "motionSnippet": "That part b) of Item 22, clause 3.14, as amended, BE APPROVED."
+        },
+        {
+          "id": "97abed62ab90",
+          "date": "2024-12-17",
+          "meetingSlug": "months/2024-12/2024-12-17 1st Meeting of City Council",
+          "meetingTitle": "1st Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4abd8ab1-7fc8-4b92-80fc-0086554133b8&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.1.22",
+          "itemTitle": "(3.14) Land Needs Assessment - Official Plan Review of The London Plan (O-9595)",
+          "motionText": "That item 20, clause 3.14, as amended, BE APPROVED, with the exception of parts b), d) and e).",
+          "result": "Motion Passed (14 to 1)",
+          "passed": true,
+          "margin": 13,
+          "tally": {
+            "yea": 14,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-12/2024-12-17 1st Meeting of City Council",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Adopted the Land Needs Assessment (Community Growth) for the Section 26 Official Plan Review of The London Plan, and received the Housing Supply Marketplace Analysis and related staff reports, excluding the Urban Growth Boundary expansion parts b), d), and e), which were voted separately.",
+            "axisLabels": {
+              "expansive": "approved the development, rezoning, or housing-policy item",
+              "restrictive": "denied the development, rezoning, or housing-policy item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That item 20, clause 3.14, as amended, BE APPROVED, with the exception of parts b), d) ..."
         },
         {
           "id": "4dcb55e1d74d",
@@ -26438,6 +28596,87 @@
           },
           "resultNote": null,
           "motionSnippet": "Motion to approve part e) of the main motion: e) that NO ACTION BE TAKEN to amend By-la..."
+        },
+        {
+          "id": "75767dd2ece3",
+          "date": "2024-09-09",
+          "meetingSlug": "months/2024-09/2024-09-09 11th Meeting of the Community and Protective Services Committee",
+          "meetingTitle": "11th Meeting of the Community and Protective Services Committee",
+          "meetingType": "Community and Protective Services Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5c80ea6d-5e82-4026-afcb-cdf339d9ab6b&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.2",
+          "itemTitle": "Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence",
+          "motionText": "That the Civic Administration BE DIRECTED to amend By-law No. L.-131-16, being “A by-law to provide for the Licensing and Regulation of Various Businesses”, attached to the CPSC report, to include temporary alternative accommodation for displaced tenants and short-term rental top ups as provided in the City of Hamilton By-law as Appendix “E” in the staff report dated September 9, 2024 and be brought to Council September 24, 2024 for consideration.",
+          "result": "Motion Failed (2 to 4)",
+          "passed": false,
+          "margin": 2,
+          "tally": {
+            "yea": 2,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-09/2024-09-09 11th Meeting of the Community and Protective Services Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have directed Civic Administration to amend the Business Licensing By-law to include temporary alternative accommodation for displaced tenants and short-term rental top-ups, modeled on the City of Hamilton's by-law, for Council's consideration in September 2024."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "s-trosow": "yea",
+            "j-morgan": "nay",
+            "j-pribil": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the Civic Administration BE DIRECTED to amend By-law No. L.-131-16, being “A by-la..."
+        },
+        {
+          "id": "785a7ce7c1ed",
+          "date": "2024-09-09",
+          "meetingSlug": "months/2024-09/2024-09-09 11th Meeting of the Community and Protective Services Committee",
+          "meetingTitle": "11th Meeting of the Community and Protective Services Committee",
+          "meetingType": "Community and Protective Services Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5c80ea6d-5e82-4026-afcb-cdf339d9ab6b&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.2",
+          "itemTitle": "Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence",
+          "motionText": "That the matter of renovictions and amendments to the business licensing by-law BE REFERRED back to the Civic Administration to report back to a future meeting of the Community and Protective Services Committee to include rent top ups and alternate accommodations as part of the by-law.",
+          "result": "Motion Failed (2 to 4)",
+          "passed": false,
+          "margin": 2,
+          "tally": {
+            "yea": 2,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-09/2024-09-09 11th Meeting of the Community and Protective Services Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "referral",
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Would have referred the renovictions business-licensing amendments back to Civic Administration to report back with rent top-ups and alternate accommodations added to the by-law."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "s-trosow": "yea",
+            "j-morgan": "nay",
+            "j-pribil": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the matter of renovictions and amendments to the business licensing by-law BE REFE..."
         },
         {
           "id": "76ce43b94bb6",
@@ -27874,6 +30113,106 @@
           "motionSnippet": "Motion TO AMEND by adding part i) as follows: \"i) the Civic Administration BE DIRECTED ..."
         },
         {
+          "id": "b139e7518cc1",
+          "date": "2024-03-26",
+          "meetingSlug": "months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "7th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=69405622-0dff-4a8b-8ad5-05c581e93461&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan",
+          "motionText": "That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: d)    expectations for sources of funding for future Highly Supportive Housing units and a list other “conversions” being considered.",
+          "result": "Motion Failed (2 to 13)",
+          "passed": false,
+          "margin": 11,
+          "tally": {
+            "yea": 2,
+            "nay": 13,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee#43londons-health--homelessness-whole-of-community-system-response-proposed-highly-supportive-housing-plan",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Would have asked Civic Administration to report back on expected funding sources for future Highly Supportive Housing units and a list of other conversions being considered, deciding nothing itself."
+          },
+          "positions": {
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay",
+            "s-hillier": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the Civic Administration BE DIRECTED to report back at a future meeting of the Str..."
+        },
+        {
+          "id": "126855d5053a",
+          "date": "2024-03-26",
+          "meetingSlug": "months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "7th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=69405622-0dff-4a8b-8ad5-05c581e93461&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan",
+          "motionText": "That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: a)    the rationale for the switch from 15 temporary resting space beds at 448 Horton Street to 24 furnished highly supportive housing units at 362 Dundas Street;",
+          "result": "Motion Failed (2 to 13)",
+          "passed": false,
+          "margin": 11,
+          "tally": {
+            "yea": 2,
+            "nay": 13,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee#43londons-health--homelessness-whole-of-community-system-response-proposed-highly-supportive-housing-plan",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Would have asked Civic Administration to report back on the rationale for switching from 15 temporary resting-space beds at 448 Horton Street to 24 highly supportive housing units at 362 Dundas Street, deciding nothing itself."
+          },
+          "positions": {
+            "s-stevenson": "yea",
+            "p-van-meerbergen": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "j-pribil": "nay",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay",
+            "s-hillier": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the Civic Administration BE DIRECTED to report back at a future meeting of the Str..."
+        },
+        {
           "id": "cf91899d3c0d",
           "date": "2024-03-19",
           "meetingSlug": "months/2024-03/2024-03-19 5th Meeting of the Planning and Environment Committee",
@@ -27917,6 +30256,82 @@
           },
           "resultNote": null,
           "motionSnippet": "Motion to approve the recommendation, as amended."
+        },
+        {
+          "id": "aa8ae65918a6",
+          "date": "2024-03-19",
+          "meetingSlug": "months/2024-03/2024-03-19 5th Meeting of the Planning and Environment Committee",
+          "meetingTitle": "5th Meeting of the Planning and Environment Committee",
+          "meetingType": "Planning and Environment Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ccc1c8fc-97ad-41c9-9051-45a41b13b89b&Agenda=PostMinutes&lang=English",
+          "itemNumber": "3.9",
+          "itemTitle": "613 Superior Drive (Z-9691)",
+          "motionText": "Motion to add part c) ii), which reads as follows: “c) ii)    Phase 4 of the subdivision to establish the east/west access on Superior with the connection to Adelaide Street;”",
+          "result": "Motion Passed (4 to 1)",
+          "passed": true,
+          "margin": 3,
+          "tally": {
+            "yea": 4,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-03/2024-03-19 5th Meeting of the Planning and Environment Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Added a condition on Phase 4 of the 613 Superior Drive subdivision to establish an east/west access connecting to Adelaide Street, a servicing/access condition rather than a density or use-permission change."
+          },
+          "positions": {
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "s-franke": "yea",
+            "s-hillier": "yea",
+            "s-lewis": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "Motion to add part c) ii), which reads as follows: “c) ii) Phase 4 of the subdivision t..."
+        },
+        {
+          "id": "c6cfe754f5bf",
+          "date": "2024-03-19",
+          "meetingSlug": "months/2024-03/2024-03-19 5th Meeting of the Planning and Environment Committee",
+          "meetingTitle": "5th Meeting of the Planning and Environment Committee",
+          "meetingType": "Planning and Environment Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ccc1c8fc-97ad-41c9-9051-45a41b13b89b&Agenda=PostMinutes&lang=English",
+          "itemNumber": "3.9",
+          "itemTitle": "613 Superior Drive (Z-9691)",
+          "motionText": "Motion to add clause c) i) which reads as follows: “c) i)    to ensure the road conditions in the adjacent plan of subdivision are improved and communicate with developer on paving the unassumed streets (Kleinburg Drive and Appletree Gate) in the near term to ensure an accessible vehicular access to Sunningdale Road West;”",
+          "result": "Motion Passed (4 to 1)",
+          "passed": true,
+          "margin": 3,
+          "tally": {
+            "yea": 4,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2024-03/2024-03-19 5th Meeting of the Planning and Environment Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Added a condition directing Civic Administration to work with the 613 Superior Drive developer on improving road conditions and paving unassumed streets (Kleinburg Drive and Appletree Gate), a servicing/access condition rather than a density or use-permission change."
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "c-rahman": "yea",
+            "s-franke": "yea",
+            "s-hillier": "yea",
+            "s-lehman": "nay"
+          },
+          "resultNote": null,
+          "motionSnippet": "Motion to add clause c) i) which reads as follows: “c) i) to ensure the road conditions..."
         },
         {
           "id": "b4cf33d7987d",
@@ -28849,6 +31264,61 @@
           },
           "resultNote": null,
           "motionSnippet": "Part c), as amended, BE APPROVED."
+        },
+        {
+          "id": "456e873da7c2",
+          "date": "2023-10-10",
+          "meetingSlug": "months/2023-10/2023-10-10 25th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "25th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ef55ca29-43b7-4bf3-8626-514f27ee437c&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.4",
+          "itemTitle": "Establishing Homes Ontario - T. Kernaghan, MPP",
+          "motionText": "Part b), as amended, BE APPROVED.",
+          "result": "Motion Passed (7 to 6)",
+          "passed": true,
+          "margin": 1,
+          "tally": {
+            "yea": 7,
+            "nay": 6,
+            "recuse": 0,
+            "absent": 2,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-10/2023-10-10 25th Meeting of the Strategic Priorities and Policy Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "wrapper_preamble"
+          ],
+          "direction": {
+            "axis": "affordable-funding",
+            "valence": 1,
+            "label": "Approved advising the Government of Ontario that London City Council supports a provincial motion to establish and fund Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years.",
+            "axisLabels": {
+              "expansive": "approved funding or land for affordable housing",
+              "restrictive": "denied funding or land for affordable housing"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "j-pribil": "nay",
+            "s-lehman": "nay",
+            "p-van-meerbergen": "nay",
+            "s-hillier": "nay",
+            "a-hopkins": "absent",
+            "e-peloza": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "Part b), as amended, BE APPROVED."
         },
         {
           "id": "82920ae88a00",
@@ -29918,7 +32388,7 @@
     }
   },
   "unclassified": {
-    "count": 1133,
+    "count": 1083,
     "note": "Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here.",
     "sample": [
       {
@@ -30006,18 +32476,6 @@
         "itemTitle": "(2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue"
       },
       {
-        "id": "1fd6e77e5a25",
-        "date": "2026-07-21",
-        "itemNumber": "8.4.10",
-        "itemTitle": "(4.4) City of London Special Constable Program"
-      },
-      {
-        "id": "38fda7e0ab61",
-        "date": "2026-07-21",
-        "itemNumber": "8.4.10",
-        "itemTitle": "(4.4) City of London Special Constable Program"
-      },
-      {
         "id": "778e12840488",
         "date": "2026-07-21",
         "itemNumber": "8.4.11",
@@ -30040,12 +32498,6 @@
         "date": "2026-07-21",
         "itemNumber": "9",
         "itemTitle": "Added Reports"
-      },
-      {
-        "id": "e059773bdd21",
-        "date": "2026-07-14",
-        "itemNumber": "3.8",
-        "itemTitle": "1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055"
       },
       {
         "id": "c40e85ae0f60",
@@ -30474,12 +32926,6 @@
         "itemTitle": "Draft Economic Development Strategy (2026-2030) and Implementation Plan"
       },
       {
-        "id": "3230a5b42d4e",
-        "date": "2026-03-24",
-        "itemNumber": "4.2",
-        "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options"
-      },
-      {
         "id": "51e1830271d7",
         "date": "2026-03-24",
         "itemNumber": "4.2",
@@ -30652,18 +33098,6 @@
         "date": "2026-03-03",
         "itemNumber": "6.9",
         "itemTitle": "(ADDED) Councillor E. Peloza – Personal Update"
-      },
-      {
-        "id": "517dd3cd276a",
-        "date": "2026-03-03",
-        "itemNumber": "8.1.13",
-        "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes"
-      },
-      {
-        "id": "951943522c64",
-        "date": "2026-03-03",
-        "itemNumber": "8.1.13",
-        "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes"
       },
       {
         "id": "99cc0f0da476",
@@ -30930,18 +33364,6 @@
         "itemTitle": "(2.3) Sunningdale Road West Improvements – Pipeline Decommissioning and New Pipeline Agreement (Relates to Bill No. 63)"
       },
       {
-        "id": "dd3dd7b9b4da",
-        "date": "2026-02-10",
-        "itemNumber": "8.2.5",
-        "itemTitle": "(2.2) Good Neighbour Agreements"
-      },
-      {
-        "id": "c909b7d954e0",
-        "date": "2026-02-10",
-        "itemNumber": "8.2.5",
-        "itemTitle": "(2.2) Good Neighbour Agreements"
-      },
-      {
         "id": "3645f10bf997",
         "date": "2026-02-10",
         "itemNumber": "8.2.9",
@@ -30952,18 +33374,6 @@
         "date": "2026-02-10",
         "itemNumber": "8.3.8",
         "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)"
-      },
-      {
-        "id": "93812c484ecf",
-        "date": "2026-02-03",
-        "itemNumber": "2.4",
-        "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program"
-      },
-      {
-        "id": "a114f764ba10",
-        "date": "2026-02-03",
-        "itemNumber": "2.4",
-        "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program"
       },
       {
         "id": "ae2babaca44e",
@@ -31008,24 +33418,6 @@
         "itemTitle": "Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles"
       },
       {
-        "id": "1604cf591bfc",
-        "date": "2026-01-26",
-        "itemNumber": "4.2",
-        "itemTitle": "Temporary Warming Centres"
-      },
-      {
-        "id": "2feca9b0f265",
-        "date": "2026-01-26",
-        "itemNumber": "4.2",
-        "itemTitle": "Temporary Warming Centres"
-      },
-      {
-        "id": "6317d0acde87",
-        "date": "2026-01-26",
-        "itemNumber": "4.2",
-        "itemTitle": "Temporary Warming Centres"
-      },
-      {
         "id": "0211b7c25375",
         "date": "2026-01-13",
         "itemNumber": "2.1",
@@ -31057,24 +33449,6 @@
       },
       {
         "id": "a6f75cad4ed7",
-        "date": "2025-12-09",
-        "itemNumber": "2.1",
-        "itemTitle": "Micro-Modular Shelter Site Update"
-      },
-      {
-        "id": "32530a45cd44",
-        "date": "2025-12-09",
-        "itemNumber": "2.1",
-        "itemTitle": "Micro-Modular Shelter Site Update"
-      },
-      {
-        "id": "f825db08c9f2",
-        "date": "2025-12-09",
-        "itemNumber": "2.1",
-        "itemTitle": "Micro-Modular Shelter Site Update"
-      },
-      {
-        "id": "b434b504f72f",
         "date": "2025-12-09",
         "itemNumber": "2.1",
         "itemTitle": "Micro-Modular Shelter Site Update"
@@ -31404,12 +33778,6 @@
         "itemTitle": "(4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units "
       },
       {
-        "id": "fbf6b4344ada",
-        "date": "2025-11-04",
-        "itemNumber": "8.3.8",
-        "itemTitle": "(4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units "
-      },
-      {
         "id": "befa8fb9d1f3",
         "date": "2025-11-04",
         "itemNumber": "8.4.6",
@@ -31711,12 +34079,6 @@
       },
       {
         "id": "78b2dbfb962c",
-        "date": "2025-09-29",
-        "itemNumber": "3.2",
-        "itemTitle": "Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)"
-      },
-      {
-        "id": "b51a800e4477",
         "date": "2025-09-29",
         "itemNumber": "3.2",
         "itemTitle": "Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)"
@@ -32586,18 +34948,6 @@
         "itemTitle": "By-laws"
       },
       {
-        "id": "e603bb09f225",
-        "date": "2025-05-13",
-        "itemNumber": "8.1.6",
-        "itemTitle": "(2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)"
-      },
-      {
-        "id": "cfc3c19ef28b",
-        "date": "2025-05-13",
-        "itemNumber": "8.1.6",
-        "itemTitle": "(2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)"
-      },
-      {
         "id": "20bd87838867",
         "date": "2025-05-13",
         "itemNumber": "8.3.8",
@@ -32742,18 +35092,6 @@
         "itemTitle": "(2.7) Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement (Reducing Substance Use Harms Through Basic Needs and Healthcare at 602 Queens \"The Commons\") (Relates to Bill No. 132)"
       },
       {
-        "id": "32b3a392fe5e",
-        "date": "2025-04-22",
-        "itemNumber": "8.2.9",
-        "itemTitle": "(5.1) Watson Park"
-      },
-      {
-        "id": "cf6233c1dc64",
-        "date": "2025-04-22",
-        "itemNumber": "8.2.9",
-        "itemTitle": "(5.1) Watson Park"
-      },
-      {
         "id": "f626d4c83b2d",
         "date": "2025-04-22",
         "itemNumber": "8.4.2",
@@ -32874,18 +35212,6 @@
         "itemTitle": "(4.6) London Transit Commission Assessment Growth Business Case (Relates to Bill No. 108)"
       },
       {
-        "id": "c7684b074103",
-        "date": "2025-04-01",
-        "itemNumber": "8.1.9",
-        "itemTitle": "(4.1) Mobility Master Plan Mobility Networks Maps"
-      },
-      {
-        "id": "869855991c1c",
-        "date": "2025-04-01",
-        "itemNumber": "8.1.9",
-        "itemTitle": "(4.1) Mobility Master Plan Mobility Networks Maps"
-      },
-      {
         "id": "ebe7a43fbc15",
         "date": "2025-04-01",
         "itemNumber": "8.2.13",
@@ -32965,18 +35291,6 @@
       },
       {
         "id": "0f495e3fcd8d",
-        "date": "2025-03-25",
-        "itemNumber": "4.1",
-        "itemTitle": "Mobility Master Plan Mobility Networks Maps"
-      },
-      {
-        "id": "f5d2c8a7250b",
-        "date": "2025-03-25",
-        "itemNumber": "4.1",
-        "itemTitle": "Mobility Master Plan Mobility Networks Maps"
-      },
-      {
-        "id": "3e6140abb084",
         "date": "2025-03-25",
         "itemNumber": "4.1",
         "itemTitle": "Mobility Master Plan Mobility Networks Maps"
@@ -33306,12 +35620,6 @@
         "itemTitle": "(3.9) 1922 Highland Heights and 205 Commissioners Road East (Relates to Bill No. 36)"
       },
       {
-        "id": "97abed62ab90",
-        "date": "2024-12-17",
-        "itemNumber": "8.1.22",
-        "itemTitle": "(3.14) Land Needs Assessment - Official Plan Review of The London Plan (O-9595)"
-      },
-      {
         "id": "35bf743d3c79",
         "date": "2024-12-17",
         "itemNumber": "8.2.11",
@@ -33636,19 +35944,7 @@
         "itemTitle": "Expropriation of Lands - East London Link Project - Phase 4 (As the \"Expropriating Authority\") (Relates to Bill No. 362)"
       },
       {
-        "id": "d7283f8e12c5",
-        "date": "2024-11-05",
-        "itemNumber": "8.2.4",
-        "itemTitle": "(4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update"
-      },
-      {
         "id": "fbe0437076bc",
-        "date": "2024-11-05",
-        "itemNumber": "8.2.4",
-        "itemTitle": "(4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update"
-      },
-      {
-        "id": "aaa44de9dc24",
         "date": "2024-11-05",
         "itemNumber": "8.2.4",
         "itemTitle": "(4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update"
@@ -33676,18 +35972,6 @@
         "date": "2024-11-05",
         "itemNumber": "8.5.6",
         "itemTitle": "(3.1) Life*Spin - Property Standards and Tenant Support"
-      },
-      {
-        "id": "f6374d813bdb",
-        "date": "2024-10-29",
-        "itemNumber": "4.1",
-        "itemTitle": "Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update "
-      },
-      {
-        "id": "09a7d0ce1a38",
-        "date": "2024-10-29",
-        "itemNumber": "4.1",
-        "itemTitle": "Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update "
       },
       {
         "id": "3d1c97afb1ae",
@@ -33894,18 +36178,6 @@
         "itemTitle": "Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence"
       },
       {
-        "id": "785a7ce7c1ed",
-        "date": "2024-09-09",
-        "itemNumber": "2.2",
-        "itemTitle": "Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence"
-      },
-      {
-        "id": "75767dd2ece3",
-        "date": "2024-09-09",
-        "itemNumber": "2.2",
-        "itemTitle": "Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence"
-      },
-      {
         "id": "c4927775b4f9",
         "date": "2024-09-09",
         "itemNumber": "2.4",
@@ -34080,12 +36352,6 @@
         "itemTitle": "11th Report of the Governance Working Group"
       },
       {
-        "id": "38521ebe4d5b",
-        "date": "2024-07-18",
-        "itemNumber": "4.2",
-        "itemTitle": "1st Report of the Strategic Opportunities Review Working Group (SORWG)"
-      },
-      {
         "id": "c1352f5758e1",
         "date": "2024-07-18",
         "itemNumber": "4.2",
@@ -34117,12 +36383,6 @@
       },
       {
         "id": "af5f9a5086a3",
-        "date": "2024-07-18",
-        "itemNumber": "4.2",
-        "itemTitle": "1st Report of the Strategic Opportunities Review Working Group (SORWG)"
-      },
-      {
-        "id": "9eeb69467dba",
         "date": "2024-07-18",
         "itemNumber": "4.2",
         "itemTitle": "1st Report of the Strategic Opportunities Review Working Group (SORWG)"
@@ -34218,12 +36478,6 @@
         "itemTitle": "Master Accommodation Plan - Redevelopment of City Hall Campus"
       },
       {
-        "id": "ec3b2cacdb7d",
-        "date": "2024-06-18",
-        "itemNumber": "4.1",
-        "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan"
-      },
-      {
         "id": "917b3609658b",
         "date": "2024-06-18",
         "itemNumber": "4.1",
@@ -34231,36 +36485,6 @@
       },
       {
         "id": "6e5b3da1988c",
-        "date": "2024-06-18",
-        "itemNumber": "4.1",
-        "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan"
-      },
-      {
-        "id": "d597de71c11e",
-        "date": "2024-06-18",
-        "itemNumber": "4.1",
-        "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan"
-      },
-      {
-        "id": "16d8fadbb13d",
-        "date": "2024-06-18",
-        "itemNumber": "4.1",
-        "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan"
-      },
-      {
-        "id": "62f050b18f9b",
-        "date": "2024-06-18",
-        "itemNumber": "4.1",
-        "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan"
-      },
-      {
-        "id": "4738465c5ed7",
-        "date": "2024-06-18",
-        "itemNumber": "4.1",
-        "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan"
-      },
-      {
-        "id": "c289c10f4c0d",
         "date": "2024-06-18",
         "itemNumber": "4.1",
         "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan"
@@ -34422,18 +36646,6 @@
         "itemTitle": "By-laws"
       },
       {
-        "id": "c395bc56dc01",
-        "date": "2024-05-14",
-        "itemNumber": "8.2.7",
-        "itemTitle": "(2.5) Core Area Parking Incentives Extension "
-      },
-      {
-        "id": "ab5f8240872a",
-        "date": "2024-05-14",
-        "itemNumber": "8.2.7",
-        "itemTitle": "(2.5) Core Area Parking Incentives Extension "
-      },
-      {
         "id": "1423b4a632f8",
         "date": "2024-05-14",
         "itemNumber": "8.3.11",
@@ -34450,12 +36662,6 @@
         "date": "2024-04-30",
         "itemNumber": "2.9",
         "itemTitle": "SS-2024-098 - Single Source Purchase of Energreen Tractor Mower"
-      },
-      {
-        "id": "25119154026c",
-        "date": "2024-04-29",
-        "itemNumber": "2.5",
-        "itemTitle": "Core Area Parking Incentives Extension "
       },
       {
         "id": "538bd4c871ad",
@@ -34614,12 +36820,6 @@
         "itemTitle": "(4.1) 2024 Rock the Park One-Time Policy Exemption Request (Relates to Bill No. 106)"
       },
       {
-        "id": "c1b110962896",
-        "date": "2024-04-02",
-        "itemNumber": "8.4.13",
-        "itemTitle": "(5.1) Reduced Parking Incentive Pilot Project"
-      },
-      {
         "id": "9cf092ea8e77",
         "date": "2024-04-02",
         "itemNumber": "8.4.13",
@@ -34656,19 +36856,7 @@
         "itemTitle": "Consideration of Appointment to the London & Middlesex Community Housing (Requires 1 Member)"
       },
       {
-        "id": "126855d5053a",
-        "date": "2024-03-26",
-        "itemNumber": "4.3",
-        "itemTitle": "London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan"
-      },
-      {
         "id": "a22e8750f2d2",
-        "date": "2024-03-26",
-        "itemNumber": "4.3",
-        "itemTitle": "London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan"
-      },
-      {
-        "id": "b139e7518cc1",
         "date": "2024-03-26",
         "itemNumber": "4.3",
         "itemTitle": "London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan"
@@ -34684,18 +36872,6 @@
         "date": "2024-03-26",
         "itemNumber": "4.4",
         "itemTitle": "Mobility Master Plan 2050 Mode Share Target"
-      },
-      {
-        "id": "c6cfe754f5bf",
-        "date": "2024-03-19",
-        "itemNumber": "3.9",
-        "itemTitle": "613 Superior Drive (Z-9691)"
-      },
-      {
-        "id": "aa8ae65918a6",
-        "date": "2024-03-19",
-        "itemNumber": "3.9",
-        "itemTitle": "613 Superior Drive (Z-9691)"
       },
       {
         "id": "e4e37f855946",
@@ -35416,12 +37592,6 @@
         "date": "2023-10-10",
         "itemNumber": "4.3",
         "itemTitle": "Lobbyist Registrar - Councillors D. Ferreira and S. Franke"
-      },
-      {
-        "id": "456e873da7c2",
-        "date": "2023-10-10",
-        "itemNumber": "4.4",
-        "itemTitle": "Establishing Homes Ontario - T. Kernaghan, MPP"
       },
       {
         "id": "73b2994a8710",

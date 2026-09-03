@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T22:54:59.638Z",
+  "generatedAt": "2026-09-03T00:02:31.454Z",
   "note": "Motions dropped from the divided-vote universe because they aren't a genuine division, for one of two independently-checked reasons (see each motion's own 'reason' below): 'one-sided tally' means this motion's own recorded yeas or nays array is empty — derived straight from the vote arrays every run, regardless of what any classification pass flagged, so a lopsided result the source data's own 'unanimous' boolean doesn't cover (e.g. 0 yeas / 14 nays with one absence) is still caught. 'classify-flagged' means the classify pipeline's own verification pass flagged the motion 'not_divided' by hand — typically the exact same motion recorded twice under two different agenda item numbers, which would otherwise double-count one real decision; see verifierNote in data/election/classify/batch-*-verified.json for the specific reason. Never guessed at or silently kept.",
   "count": 14,
   "motions": [
@@ -71,7 +71,7 @@
         "yea": 0,
         "nay": 5
       },
-      "verifierNote": "Read full item 4.2 CPSC (Request for Update on 2021 Reaching Home, 0-5 Failed unanimous). Committee-stage version of the same pure report-back request verified at fc5d528ebd99 (Council stage). Correctly none/informational_ask."
+      "verifierNote": "Read full item 4.2 CPSC (Request for Update on 2021 Reaching Home, 0-5 Failed unanimous). Committee-stage version of the same pure report-back request verified at fc5d528ebd99 (superseded id) (Council stage). Correctly none/informational_ask."
     },
     {
       "id": "118ca716ab4f",
@@ -124,7 +124,7 @@
       "result": "Motion Failed (2 to 2)",
       "reason": "classify-flagged",
       "tally": null,
-      "verifierNote": "Verified against 2023-10-03 PEC item 5.1, second motion (Failed 2-2). Confirmed the not_divided flag is accurate: this motion's text and vote (Yeas: Morgan/Franke; Nays: Lewis/Lehman) are byte-for-byte identical to 7cd53063b2f0's, recorded under two item numbers (4.1 and 5.1) for what is genuinely one motion moved once covering both items. Correctly null; flag correctly prevents downstream double-counting."
+      "verifierNote": "Verified against 2023-10-03 PEC item 5.1, second motion (Failed 2-2). Confirmed the not_divided flag is accurate: this motion's text and vote (Yeas: Morgan/Franke; Nays: Lewis/Lehman) are byte-for-byte identical to 7cd53063b2f0 (superseded id)'s, recorded under two item numbers (4.1 and 5.1) for what is genuinely one motion moved once covering both items. Correctly null; flag correctly prevents downstream double-counting."
     },
     {
       "id": "e7cf784accc8",
@@ -152,7 +152,7 @@
         "yea": 0,
         "nay": 13
       },
-      "verifierNote": "Verified against the same item: the unique 0-13 FAILED result matches the reconsideration vote re-putting McAlister's appointment to Lower Thames Valley Conservation Authority. Same pure-appointment reasoning as 15ebb068b60b; override confirmed correct."
+      "verifierNote": "Verified against the same item: the unique 0-13 FAILED result matches the reconsideration vote re-putting McAlister's appointment to Lower Thames Valley Conservation Authority. Same pure-appointment reasoning as 15ebb068b60b (superseded id); override confirmed correct."
     },
     {
       "id": "25d9f013ced1",
