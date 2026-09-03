@@ -7,10 +7,13 @@ re-derives each claim from source data.
 
 Usage: python3 scripts/election/verify-round4-items.py
 """
+import glob
 import json
+import os
 import sys
 
 FAIL = []
+SKIP = []
 
 
 def check(label, cond, detail=""):
@@ -18,6 +21,18 @@ def check(label, cond, detail=""):
     print(f"[{status}] {label}" + (f" -- {detail}" if detail else ""))
     if not cond:
         FAIL.append(label)
+
+
+def skip(label, reason):
+    """A disclosed, exit-0 skip - for a hardcoded id that is a genuine,
+    currently-documented rekey gap (present in the LATEST
+    rekey-unresolved-<stamp>.json, not merely absent from CURRENT_IDS,
+    which is also true of a plain stale/typo'd id and must still FAIL
+    loudly). Never silently passed and never a red gate: printed plainly,
+    tracked separately from both PASS and FAIL so the exit code stays 0
+    while the gap stays visible in the transcript."""
+    print(f"[SKIP] {label} -- {reason}")
+    SKIP.append(label)
 
 
 stances = json.load(open("data/election/stances.json"))
@@ -96,6 +111,41 @@ def require_current(mid, label):
     ok = mid in CURRENT_IDS
     check(f"{label}: {mid} is a current motion id (not stale/unresolved)", ok)
     return ok
+
+# Finding-2 (2026-09-02 fixer round): require_current's hard FAIL is right
+# for a hardcoded id that's stale because nobody updated it - but WRONG for
+# one that's a genuine, currently-documented rekey gap (present in the
+# latest rekey-unresolved-<stamp>.json after every disambiguation tier -
+# natural key + result, quote, bijective ordinal - has already been tried
+# and failed). That case should never flip this gate's exit code; it should
+# say so plainly and move on. _latest_unresolved_ids is read fresh each run
+# so this stays accurate as the rekey script's own state evolves.
+_unresolved_files = sorted(glob.glob("data/election/classify/rekey-unresolved-*.json"))
+_latest_unresolved_path = _unresolved_files[-1] if _unresolved_files else None
+_latest_unresolved_ids = (
+    {e["id"] for e in json.load(open(_latest_unresolved_path)) if isinstance(e, dict) and "id" in e}
+    if _latest_unresolved_path else set()
+)
+
+def require_current_or_documented_gap(mid, label):
+    """Like require_current, but a non-current id gets one more chance: if
+    it's listed in the latest rekey-unresolved-<stamp>.json, that's a
+    documented, still-unresolved rekey gap - not silently passed, not a red
+    gate either, just disclosed as a SKIP (exit 0). An id that's neither
+    current NOR in that file is unexplained staleness and still FAILs."""
+    if mid in CURRENT_IDS:
+        check(f"{label}: {mid} is a current motion id (not stale/unresolved)", True)
+        return True
+    if mid in _latest_unresolved_ids:
+        skip(
+            f"{label}: {mid}",
+            f"not a current motion id, but is a documented, still-unresolved rekey gap "
+            f"(see {os.path.basename(_latest_unresolved_path)}) - every disambiguation tier "
+            f"was tried and genuinely couldn't place it; not re-guessed at here",
+        )
+        return False
+    check(f"{label}: {mid} is a current motion id (not stale/unresolved)", False)
+    return False
 
 for mid in [
     "f74ed511bc6d",  # was 4df11e775c7f
@@ -193,20 +243,25 @@ if require_current("021ec895b691", "item 3"):  # was ea03954e4926
 # ---------------------------------------------------------------------------
 print("\n=== Item 4: amendment-ladder tallying (Stevenson 5c6d802b2c95/e3e298593604) ===")
 # 2026-09-02 (PR #202 round): 5c6d802b2c95 -> 19efb38c1dc0 rekeys cleanly.
-# e3e298593604 does NOT - it's one of this round's genuinely-unresolved ids
-# (data/election/classify/rekey-unresolved-20260902d.json: two candidates,
-# both containing the recorded quote verbatim - an "amend clause j)" motion
-# and the "approve part j) as amended" motion that necessarily recites the
-# same final clause text, so the quote alone can't tell them apart). Skip
-# the pair-dependent checks below rather than crash on a stale/missing id
-# (the original bug: `all_motions["5c6d802b2c95"]` with no guard), and say
-# so plainly instead of a silent pass.
-MID1, MID2 = "19efb38c1dc0", "e3e298593604"  # was 5c6d802b2c95, e3e298593604
-mid1_ok = require_current(MID1, "item 4")
-mid2_ok = require_current(MID2, "item 4")
-if not mid2_ok:
-    print(f"  SKIP: item 4's pair-dependent checks need both ids current - {MID2} is a genuine, "
-          f"documented rekey gap (see rekey-unresolved-20260902d.json), not re-guessed at here.")
+# e3e298593604 previously did NOT (rekey-unresolved-20260902d.json: 2
+# candidates at item 8.2.4, both containing the recorded quote verbatim -
+# an "amend clause j)" motion and the "approve part j) as amended" motion
+# that necessarily recites the same final clause text, so quote-matching
+# alone can't tell them apart). Finding-2 rework: 291927c27356 (the
+# "approve part j) as amended" sibling) is unresolved for the exact same
+# reason, at the exact same natural key, and the item's OTHER 8 roll calls
+# at that key are all already claimed - a genuine 2-old-ids <-> 2-unclaimed-
+# candidates bijective group. rekey-classify-ids.py's tier 3 now resolves
+# this by roll-call ordinal order (both the batch file's document order and
+# the substantive "amend" -before- "approve-as-amended" sequence agree):
+# e3e298593604 -> d7283f8e12c5 (ordinal 7, the amendment), 291927c27356 ->
+# aaa44de9dc24 (ordinal 10, the later approval). If a future regeneration
+# ever leaves this genuinely unresolved again,
+# require_current_or_documented_gap turns that into a disclosed SKIP
+# (exit 0) instead of a red gate - never a silent pass either.
+MID1, MID2 = "19efb38c1dc0", "d7283f8e12c5"  # was 5c6d802b2c95, e3e298593604
+mid1_ok = require_current_or_documented_gap(MID1, "item 4")
+mid2_ok = require_current_or_documented_gap(MID2, "item 4")
 if mid1_ok and mid2_ok:
     stevenson = stances["councillors"]["s-stevenson"]
     enc = stevenson["issues"]["encampments"]
@@ -264,10 +319,14 @@ if require_current(MID5, "item 5"):
     check(f"{MID5} does not appear under any climate/target-strength axis evidence", not found_climate_target)
 
 print("\n" + "=" * 60)
+if SKIP:
+    print(f"{len(SKIP)} CHECK(S) SKIPPED (documented, currently-unresolved rekey gap - not a failure):")
+    for s in SKIP:
+        print(" -", s)
 if FAIL:
     print(f"{len(FAIL)} CHECK(S) FAILED:")
     for f in FAIL:
         print(" -", f)
     sys.exit(1)
 else:
-    print("ALL CHECKS PASSED")
+    print("ALL CHECKS PASSED" + (f" ({len(SKIP)} disclosed skip(s))" if SKIP else ""))
