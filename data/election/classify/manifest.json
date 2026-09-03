@@ -314,7 +314,6 @@
    "6bb73746bbfc",
    "fa341d3011fc",
    "bf7543d954d6",
-   "bf7543d954d6",
    "119053b89c45",
    "050650d10eff",
    "0052db0821e2",
@@ -504,7 +503,6 @@
    "dfe87ddfc742",
    "2202865db756",
    "0f495e3fcd8d",
-   "dfe87ddfc742",
    "3e6140abb084",
    "340d20ce05e8",
    "e7e111c30074",
@@ -776,7 +774,6 @@
    "9e23c5aa5984",
    "764b3f62bda0",
    "82934bf94ea3",
-   "82934bf94ea3",
    "77316a900d35",
    "e10e1dec975a",
    "e74cfb3eb123",
@@ -865,7 +862,6 @@
    "dded50581b28",
    "b547333b3963",
    "c0a130b2b91f",
-   "c0a130b2b91f",
    "c0290abe1790",
    "9dafcf8dc20a",
    "9003cb15c8e1",
@@ -931,14 +927,12 @@
    "3ccc0935ca9c",
    "9cecd5ac8fd6",
    "289eb85336e7",
-   "289eb85336e7",
    "e9df87268bff",
    "a34c7ed1cb1e",
    "2c1c48340ccf",
    "7247063b1f07",
    "e55c07ec4206",
    "9cc6fa11822d",
-   "29b9452b13f7",
    "29b9452b13f7"
   ],
   [
@@ -996,7 +990,6 @@
    "36d9a06e75f6",
    "41e450acad70",
    "20d4cf694f29",
-   "82920ae88a00",
    "82920ae88a00",
    "0544b76b8a91",
    "dea60d87ae93",
@@ -10080,6 +10073,14 @@
    "itemNumber": "4.5",
    "itemTitle": "Enhancements to Dog Licensing and Control By\u2011law \u2013 Focus on Public Safety Risk Dogs",
    "result": "Motion Passed (3 to 1)"
+  },
+  "17ffd6c70b4b": {
+   "id": "17ffd6c70b4b",
+   "date": "2024-01-16",
+   "meetingSlug": "months/2024-01/2024-01-16 3rd Meeting of the Strategic Priorities and Policy Committee",
+   "itemNumber": "4.4",
+   "itemTitle": "Mayor J. Morgan - Deputy Mayor and Budget Chair Positions",
+   "result": "Motion Passed (9 to 5)"
   }
  }
 }

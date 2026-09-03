@@ -469,7 +469,7 @@
   "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "issue=none correct (council-remuneration precedent, consistent with the manifest's own established treatment of Deputy Mayor/Budget Chair pay). Verbatim exact match (passed 11-4) -- this is the COUNCIL-level confirming vote of the same pay increases the committee first passed on 2024-01-16 (86419cffb57c (superseded id)/0beb8b008e0b (superseded id)/3f29f81fb746 (superseded id)); correctly kept as its own distinct vote, not conflated with those."
+  "verifierNote": "issue=none correct (council-remuneration precedent, consistent with the manifest's own established treatment of Deputy Mayor/Budget Chair pay). Verbatim exact match (passed 11-4) -- this is the COUNCIL-level confirming vote of the same pay increases the committee first passed on 2024-01-16 (86419cffb57c (superseded id)/17ffd6c70b4b (superseded id)/3f29f81fb746 (superseded id)); correctly kept as its own distinct vote, not conflated with those."
  },
  {
   "id": "2c1c48340ccf",
@@ -532,5 +532,17 @@
   "flags": [],
   "verdict": "confirmed",
   "verifierNote": "issue=none correct (council remuneration). Verbatim exact match, but genuinely ambiguous which of two motions (both passed 9-5, both moved by J. Morgan) this id represents: 'part a) [Deputy Mayor pay]' and 'part b) [Budget Chair pay]'. I independently pulled the raw vote rows for both from the meeting JSON -- they carry the IDENTICAL yea/nay roll call (same 9 councillors, same 5 dissenters), not just the same tally, so the source data gives no way to disambiguate at all. Harmless here since issue=none regardless of which part."
+ },
+ {
+  "id": "17ffd6c70b4b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a 12.5% pay increase to the annual base Councillor salary for the Deputy Mayor position, effective January 2024 (source data does not distinguish this vote's tally from id 86419cffb57c (superseded id) \u2014 both matched the identical 'part a) Deputy Mayor' clause in the meeting JSON; itemNumber 4.4 records six distinct sub-motions and two of the four manifest ids sharing this tally could not be told apart from the JSON alone).",
+  "confidence": "medium",
+  "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Same genuine ambiguity as 86419cffb57c (superseded id), now independently re-confirmed: I pulled the raw yea/nay voter rows for both the 'part a)' and 'part b)' motions myself and found them byte-identical (same 9 yeas, same 5 nays), fully corroborating the classifier's own disclosed note. Correctly harmless since polarity is null/issue=none for both regardless of which part this id maps to."
  }
 ]

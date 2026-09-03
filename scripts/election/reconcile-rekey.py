@@ -258,4 +258,37 @@ if FAIL:
     for f in FAIL:
         print(" -", f)
     sys.exit(1)
+def check_entry_conservation():
+    """Every baseline (pre-rekey) entry id must be traceable: still a current entry,
+    re-keyed to a target that holds an entry, retired-unresolved, or an evidenced
+    merge. Cross-stamp: unions ALL audit files, so a loss by any earlier stamp fails."""
+    import glob as _g
+    base = set(json.load(open(CLS + "/rekey-baseline-entries.json")))
+    current = set()
+    for f in _g.glob(CLS + "/batch-*-verified.json"):
+        current |= {e["id"] for e in json.load(open(f))}
+    mapped, retired, merged = {}, set(), set()
+    for f in _g.glob(CLS + "/rekey-map-*.json"):
+        mapped.update(json.load(open(f)))
+    for f in _g.glob(CLS + "/rekey-collision-unresolved-*.json") + _g.glob(CLS + "/rekey-unresolved-*.json"):
+        for e in json.load(open(f)):
+            retired.add(e["id"] if isinstance(e, dict) else e)
+    for f in _g.glob(CLS + "/rekey-deduped-*.json"):
+        for e in json.load(open(f)):
+            merged.add(e["id"] if isinstance(e, dict) else e)
+    lost = []
+    for oid in base:
+        tid = mapped.get(oid, oid)
+        if tid in current or oid in retired or oid in merged:
+            continue
+        lost.append(oid)
+    if lost:
+        print(f"ENTRY CONSERVATION FAILED: {len(lost)} baseline entries unaccounted for: {lost[:10]}")
+        return False
+    print(f"entry conservation: {len(base)} baseline entries all accounted for")
+    return True
+
+if not check_entry_conservation():
+    print("RECONCILIATION FAILED - entry conservation")
+    sys.exit(1)
 print("RECONCILIATION CLEAN - every delta accounted for.")

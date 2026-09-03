@@ -640,38 +640,10 @@ def find_collision_hand_verified(old_id, unclaimed_ids_at_key):
 # the same real-world roll call, not just a natural key + tally coincidence.
 # ---------------------------------------------------------------------------
 HAND_VERIFIED_GENUINE_MERGE = {
-    # 29b9452b13f7's collision (2024-01-16 SPPC item 4.4, Deputy Mayor and
-    # Budget Chair Positions pay): loser's OWN verifierNote self-documents
-    # the merge by name - "Same genuine ambiguity as 86419cffb57c... I
-    # independently pulled the raw yea/nay voter rows for both the 'part a)'
-    # and 'part b)' motions myself and found them byte-identical (same 9
-    # yeas, same 5 nays)". Both entries' `quote` field is byte-identical
-    # verbatim ("a pay increase of 12.5%... Deputy Mayor position effective
-    # January 2024"), the natural key has exactly 2 candidates (part a,
-    # part b) for exactly these 2 old ids (a closed tie, not an open
-    # N-candidate field), and both entries independently assign the SAME
-    # harmless issue=none classification - so which of the two real votes
-    # this id lands on is immaterial. This is the positive-evidence bar in
-    # full: self-documented cross-reference + byte-identical quote +
-    # byte-identical underlying vote rows + closed 2-vs-2 tie.
-    #
-    # Contrast with bf7543d954d6's collision (b7f1a4280119, see
-    # rekey-collision-rematches-<stamp>.json): that pair's raw YEA/NAY rows
-    # are ALSO byte-identical (same 4 councillors, same 3-1 split) - the
-    # SAME item even had that same-vote-pattern coincidence twice - but the
-    # MOTION TEXT is completely different (an amendment clause vs. a bare
-    # "part b) approved" wrapper) and neither entry's quote nor verifierNote
-    # claims the two are the same vote. A matching vote pattern alone is
-    # never positive evidence; item 4 corrects the earlier "byte-identical"
-    # narrative for that pair, which conflated the two kinds of "identical".
-    "0beb8b008e0b": (
-        "verifierNote self-documents as \"Same genuine ambiguity as "
-        "86419cffb57c\", independently confirms byte-identical yea/nay rows "
-        "(9-5, same names) for both candidate motions, and both entries' "
-        "quote field is byte-identical verbatim; natural key is a closed "
-        "2-candidate tie (part a / part b) for exactly these 2 old ids, "
-        "both harmlessly classified issue=none regardless of which part."
-    ),
+    # Empty: the sole prior entry (0beb8b008e0b) was falsified on review — its two
+    # candidates are DIFFERENT pay-raise motions (Deputy Mayor vs Budget Chair) and
+    # the bijective-ordinal tier places it. A merge belongs here only with positive
+    # evidence: byte-identical quote AND vote rows, or classifier-documented cross-reference.
 }
 
 rematch_records = []

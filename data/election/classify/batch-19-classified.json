@@ -446,5 +446,15 @@
   "confidence": "medium",
   "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
   "flags": []
+ },
+ {
+  "id": "17ffd6c70b4b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a 12.5% pay increase to the annual base Councillor salary for the Deputy Mayor position, effective January 2024 (source data does not distinguish this vote's tally from id 86419cffb57c (superseded id) \u2014 both matched the identical 'part a) Deputy Mayor' clause in the meeting JSON; itemNumber 4.4 records six distinct sub-motions and two of the four manifest ids sharing this tally could not be told apart from the JSON alone).",
+  "confidence": "medium",
+  "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
+  "flags": []
  }
 ]
