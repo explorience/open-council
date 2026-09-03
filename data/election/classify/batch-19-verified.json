@@ -59,7 +59,7 @@
   "quote": "BE AMENDED to remove Capital Project PD1218 London\u2019s Downtown Plan \u2013 Small Scale Projects",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verbatim exact match. Item 3.27 has TWO recorded votes on the identical PD1218-removal amendment (10-5, then reconsidered and re-voted 8-7); this id correctly matches the first (10-5) vote, distinguished by its own result string from f2cf4734bd07's re-vote. 'Dundas Place'/'Downtown Plan' keywords support downtown; removal = restrictive correct."
+  "verifierNote": "Verbatim exact match. Item 3.27 has TWO recorded votes on the identical PD1218-removal amendment (10-5, then reconsidered and re-voted 8-7); this id correctly matches the first (10-5) vote, distinguished by its own result string from f2cf4734bd07 (superseded id)'s re-vote. 'Dundas Place'/'Downtown Plan' keywords support downtown; removal = restrictive correct."
  },
  {
   "id": "7ab810f00c07",
@@ -71,7 +71,7 @@
   "quote": "BE AMENDED to remove Capital Project PD1218 London\u2019s Downtown Plan \u2013 Small Scale Projects",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verbatim exact match to the RECONSIDERED re-vote (8-7) of the same PD1218 removal amendment under item 3.27 -- correctly matched to the second content entry, not the first (133aa878a5f9's 10-5 vote). Same substance, same correct downtown/restrictive call."
+  "verifierNote": "Verbatim exact match to the RECONSIDERED re-vote (8-7) of the same PD1218 removal amendment under item 3.27 -- correctly matched to the second content entry, not the first (133aa878a5f9 (superseded id)'s 10-5 vote). Same substance, same correct downtown/restrictive call."
  },
  {
   "id": "ac1a9ff758cc",
@@ -147,7 +147,7 @@
   "quote": "BE AMENDED to remove Business Case #P-38 \u2013 City of London Community Arts Investment Program Expansion",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verbatim exact match (failed 5-10, the OTHER of the 2 motions under item 3.11 -- the full-removal counter-motion to 280c741c7a8e). Correctly matched to its own distinct result string; restrictive correct."
+  "verifierNote": "Verbatim exact match (failed 5-10, the OTHER of the 2 motions under item 3.11 -- the full-removal counter-motion to 280c741c7a8e (superseded id)). Correctly matched to its own distinct result string; restrictive correct."
  },
  {
   "id": "e1f01071209f",
@@ -207,7 +207,7 @@
   "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 \u2013 The Grand Theatre",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verbatim exact match to the RECONSIDERED re-vote (failed 6-8) of the same Grand Theatre amendment under item 3.15 -- correctly matched to the distinct second content entry (b4082101a336 matches the first, 7-8, vote). Same text, same correct expansive call."
+  "verifierNote": "Verbatim exact match to the RECONSIDERED re-vote (failed 6-8) of the same Grand Theatre amendment under item 3.15 -- correctly matched to the distinct second content entry (b4082101a336 (superseded id) matches the first, 7-8, vote). Same text, same correct expansive call."
  },
  {
   "id": "0499ef880a69",
@@ -329,7 +329,7 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "issue=none correct: matched to the SECOND of 3 motions under item 3.8 (failed 4-11), a pure recess motion, correctly distinguished from the P-29 police-budget motion in the same item (4ac84c713dc6) and from the third (a separate, unanimous 30-min recess). Verbatim quote confirmed."
+  "verifierNote": "issue=none correct: matched to the SECOND of 3 motions under item 3.8 (failed 4-11), a pure recess motion, correctly distinguished from the P-29 police-budget motion in the same item (4ac84c713dc6 (superseded id)) and from the third (a separate, unanimous 30-min recess). Verbatim quote confirmed."
  },
  {
   "id": "36bb2f3bdd74",
@@ -355,7 +355,7 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "issue=none correct, procedural recess/adjournment; verbatim quote confirmed against the 2024-02-02 continuation meeting's own adjournment motion (9-6), correctly distinguished from the textually-similar 2024-02-01 meeting's adjournment (2a814fa072c4) by date/meetingSlug, not conflated."
+  "verifierNote": "issue=none correct, procedural recess/adjournment; verbatim quote confirmed against the 2024-02-02 continuation meeting's own adjournment motion (9-6), correctly distinguished from the textually-similar 2024-02-01 meeting's adjournment (2a814fa072c4 (superseded id)) by date/meetingSlug, not conflated."
  },
  {
   "id": "c06201ab1f58",
@@ -395,7 +395,7 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "issue=none correct, procedural adjournment of the 2024-02-01 meeting (9-6); verbatim quote confirmed, correctly distinguished from the textually-identical-looking 2024-02-02 adjournment (b9122734bf86) by date/meetingSlug, not conflated."
+  "verifierNote": "issue=none correct, procedural adjournment of the 2024-02-01 meeting (9-6); verbatim quote confirmed, correctly distinguished from the textually-identical-looking 2024-02-02 adjournment (b9122734bf86 (superseded id)) by date/meetingSlug, not conflated."
  },
  {
   "id": "29e571c58d51",
@@ -407,7 +407,7 @@
   "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R1 (R1-10) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone, BE REFUSED",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verbatim exact match (passed 3-2), matched to the FIRST of 4 motions under item 3.6 -- the refusal recommendation, correctly distinguished from the competing 'approve' motion in the same item that failed 2-3 (86db2a8d88e6). The PASSED motion here is itself to REFUSE the R1-to-R8 upzoning; a yea denies the density increase, so restrictive is the correct read of this specific denial -- not a denial-flip error."
+  "verifierNote": "Verbatim exact match (passed 3-2), matched to the FIRST of 4 motions under item 3.6 -- the refusal recommendation, correctly distinguished from the competing 'approve' motion in the same item that failed 2-3 (86db2a8d88e6 (superseded id)). The PASSED motion here is itself to REFUSE the R1-to-R8 upzoning; a yea denies the density increase, so restrictive is the correct read of this specific denial -- not a denial-flip error."
  },
  {
   "id": "3ccc0935ca9c",
@@ -419,7 +419,7 @@
   "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024, to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-10) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verbatim match (with an honest '...' elision skipping one parenthetical mid-clause, both sides of the ellipsis verified as exact substrings) to the competing 'approve the application' motion under the same item 3.6 (failed 2-3) -- correctly distinguished from 4a21a131c64b's refusal motion by its own distinct result string and mover. A yea here approves introducing the R1-to-R8 upzoning by-law; expansive is correct for this specific motion regardless of what the companion refusal motion (which passed) did."
+  "verifierNote": "Verbatim match (with an honest '...' elision skipping one parenthetical mid-clause, both sides of the ellipsis verified as exact substrings) to the competing 'approve the application' motion under the same item 3.6 (failed 2-3) -- correctly distinguished from 4a21a131c64b (superseded id)'s refusal motion by its own distinct result string and mover. A yea here approves introducing the R1-to-R8 upzoning by-law; expansive is correct for this specific motion regardless of what the companion refusal motion (which passed) did."
  },
  {
   "id": "9cecd5ac8fd6",
@@ -469,7 +469,7 @@
   "quote": "a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "issue=none correct (council-remuneration precedent, consistent with the manifest's own established treatment of Deputy Mayor/Budget Chair pay). Verbatim exact match (passed 11-4) -- this is the COUNCIL-level confirming vote of the same pay increases the committee first passed on 2024-01-16 (86419cffb57c/0beb8b008e0b/3f29f81fb746); correctly kept as its own distinct vote, not conflated with those."
+  "verifierNote": "issue=none correct (council-remuneration precedent, consistent with the manifest's own established treatment of Deputy Mayor/Budget Chair pay). Verbatim exact match (passed 11-4) -- this is the COUNCIL-level confirming vote of the same pay increases the committee first passed on 2024-01-16 (86419cffb57c (superseded id)/0beb8b008e0b (superseded id)/3f29f81fb746 (superseded id)); correctly kept as its own distinct vote, not conflated with those."
  },
  {
   "id": "2c1c48340ccf",
@@ -493,7 +493,7 @@
   "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verbatim exact match (passed 13-1, committee). Same substance and same correct classification as 71f1ada00bf5 -- this is the committee-stage vote on the identical ICIP transit reallocation that council later confirmed; correctly tracked as its own distinct vote event, not conflated with the council vote."
+  "verifierNote": "Verbatim exact match (passed 13-1, committee). Same substance and same correct classification as 71f1ada00bf5 (superseded id) -- this is the committee-stage vote on the identical ICIP transit reallocation that council later confirmed; correctly tracked as its own distinct vote event, not conflated with the council vote."
  },
  {
   "id": "e55c07ec4206",

@@ -380,7 +380,7 @@
    "referral"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Read full item 4.3 Budget Committee (third motion, 5-10 Failed). This motion's own text ('this matter BE REFERRED to Civic Administration to bring forward a report...after the CAC on Planning has completed their review of the Heritage Property List') contains no literal 'budget' keyword, unlike the second motion in the same item -- correctly issue=none, distinct from 9eb3b4658424 in the same item. Also a pure referral regardless. Confirmed."
+  "verifierNote": "Read full item 4.3 Budget Committee (third motion, 5-10 Failed). This motion's own text ('this matter BE REFERRED to Civic Administration to bring forward a report...after the CAC on Planning has completed their review of the Heritage Property List') contains no literal 'budget' keyword, unlike the second motion in the same item -- correctly issue=none, distinct from 9eb3b4658424 (superseded id) in the same item. Also a pure referral regardless. Confirmed."
  },
  {
   "id": "506ee5bad4e4",
@@ -394,7 +394,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Read full item 4.4 Budget Committee (Advisory Committee Budget, second motion, 3-11 Failed). Same business-case-request pattern as 9eb3b4658424: 'BE DIRECTED to prepare a Business Case...This report will include a detailed breakdown.' No decision made on the budget itself. Correctly budget/unclear."
+  "verifierNote": "Read full item 4.4 Budget Committee (Advisory Committee Budget, second motion, 3-11 Failed). Same business-case-request pattern as 9eb3b4658424 (superseded id): 'BE DIRECTED to prepare a Business Case...This report will include a detailed breakdown.' No decision made on the budget itself. Correctly budget/unclear."
  },
  {
   "id": "231c746f0d42",
@@ -420,7 +420,7 @@
   "quote": "the recommended amendment would permit residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Read full item 3.3 PEC committee stage (928-934 Oxford St W, 3-2 Passed). Identical operative text to 3c5f11c300ae (Council-stage vote on the same application) verified above -- committee-stage approval, same substance, same 'Notwithstanding the recommendation of the Director' framing that doesn't change the operative outcome. Confirmed expansive."
+  "verifierNote": "Read full item 3.3 PEC committee stage (928-934 Oxford St W, 3-2 Passed). Identical operative text to 3c5f11c300ae (superseded id) (Council-stage vote on the same application) verified above -- committee-stage approval, same substance, same 'Notwithstanding the recommendation of the Director' framing that doesn't change the operative outcome. Confirmed expansive."
  },
  {
   "id": "11270ca74ff0",
@@ -432,7 +432,7 @@
   "quote": "the recommended amendments would permit a 35-storey, 512-unit mixed-use apartment building in a form that is appropriate for the site and will contribute to achieving a range and mix of housing types within the neighbourhood",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Read full item 3.4 PEC committee stage (743 Richmond St, 4-1 Passed). Identical operative text to 197a43b0b2c8 (Council-stage vote) verified above -- same 35-storey/512-unit density increase, same zoning-number confirmation. Confirmed expansive."
+  "verifierNote": "Read full item 3.4 PEC committee stage (743 Richmond St, 4-1 Passed). Identical operative text to 197a43b0b2c8 (superseded id) (Council-stage vote) verified above -- same 35-storey/512-unit density increase, same zoning-number confirmation. Confirmed expansive."
  },
  {
   "id": "86cd192532a6",
@@ -446,7 +446,7 @@
    "referral"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Read full item 2.9 CPSC (Highly Supportive Housing Plan Cost Breakdown, second motion, 2-3 Failed). Committee-stage version of the same referral pattern verified at 2dd2f218b482 (Council stage) -- cost-breakdown referral, no funding decision. Confirmed housing/unclear."
+  "verifierNote": "Read full item 2.9 CPSC (Highly Supportive Housing Plan Cost Breakdown, second motion, 2-3 Failed). Committee-stage version of the same referral pattern verified at 2dd2f218b482 (superseded id) (Council stage) -- cost-breakdown referral, no funding decision. Confirmed housing/unclear."
  },
  {
   "id": "89df2971a1f0",
@@ -472,7 +472,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Read full item 4.2 CPSC (Request for Update on 2021 Reaching Home, 0-5 Failed unanimous). Committee-stage version of the same pure report-back request verified at fc5d528ebd99 (Council stage). Correctly none/informational_ask."
+  "verifierNote": "Read full item 4.2 CPSC (Request for Update on 2021 Reaching Home, 0-5 Failed unanimous). Committee-stage version of the same pure report-back request verified at fc5d528ebd99 (superseded id) (Council stage). Correctly none/informational_ask."
  },
  {
   "id": "5c9a1eb38502",

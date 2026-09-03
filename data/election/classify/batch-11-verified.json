@@ -35,7 +35,7 @@
   "quote": "a Single Source Procurement BE APPROVED at a total estimated cost of up to $610,577 (excluding HST) for the period of April 1, 2025, to March 31, 2026, to continue limited day drop-in space at The Ark Aid Street Mission \u2013 \"Day Drop-In\" (SS-2025-66) utilizing Housing Stability Services funding",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Source JSON (2025-03-17 Community & Protective Services Committee, item 2.11) confirms the manifest's own result string, 'Motion Failed (2 to 2)', for the specific sub-motion \"That part c) of the motion BE APPROVED\" (the $610,577 Day Drop-In line). The classifier's original whatAYeaDid stated in the past tense 'Approved a $610,577 single-source procurement...' as an accomplished fact -- false, since the vote failed. This is the exact same fact pattern as sibling entry d2aa95b9049a in this batch (a failed funding motion), which the classifier correctly hedged with 'Would have... the motion failed' -- 3f10a2dfc14b just wasn't given the same hedge. Quote, issue, axis and polarity (what a YEA vote meant, on its content) are accurate and left unchanged; only the whatAYeaDid wording is corrected to state plainly that the motion failed, per the no-false-statement bar."
+  "verifierNote": "Source JSON (2025-03-17 Community & Protective Services Committee, item 2.11) confirms the manifest's own result string, 'Motion Failed (2 to 2)', for the specific sub-motion \"That part c) of the motion BE APPROVED\" (the $610,577 Day Drop-In line). The classifier's original whatAYeaDid stated in the past tense 'Approved a $610,577 single-source procurement...' as an accomplished fact -- false, since the vote failed. This is the exact same fact pattern as sibling entry d2aa95b9049a (superseded id) in this batch (a failed funding motion), which the classifier correctly hedged with 'Would have... the motion failed' -- 3f10a2dfc14b (superseded id) just wasn't given the same hedge. Quote, issue, axis and polarity (what a YEA vote meant, on its content) are accurate and left unchanged; only the whatAYeaDid wording is corrected to state plainly that the motion failed, per the no-false-statement bar."
  },
  {
   "id": "237a28e201ae",
@@ -219,7 +219,7 @@
    "referral"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Source JSON (item 8.1.6, UHEI) confirms this is the Rahman/Lehman 'refer part d)' motion, 10-2 (Hopkins, Trosow nay) -- distinct from the OTHER 10-2 vote on the same item (see cf4aa6b663e1, now also downgraded). A pure referral (BE REFERRED, no affirmed content) -- correctly left unclear."
+  "verifierNote": "Source JSON (item 8.1.6, UHEI) confirms this is the Rahman/Lehman 'refer part d)' motion, 10-2 (Hopkins, Trosow nay) -- distinct from the OTHER 10-2 vote on the same item (see cf4aa6b663e1 (superseded id), now also downgraded). A pure referral (BE REFERRED, no affirmed content) -- correctly left unclear."
  },
  {
   "id": "c9fd6b3a3d37",
@@ -382,7 +382,7 @@
   "quote": "the proposed revised, attached, by-law BE INTRODUCED at the Municipal Council meeting to be held on December 17, 2024, to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Holding Residential R5 Special Provision Bonus (h-17*h-100*R5-7(26)*B-94) Zone TO a Holding Residential R5 Special Provision (h*R5-7(26)) Zone",
   "flags": [],
   "verdict": "downgraded",
-  "verifierNote": "Source JSON (2024-12-17 Council, item 8.1.18, 21-41 Meadowlily Rd N & 20 Norlan Ave) confirms this is the 'item 18... BE APPROVED in part' motion, 11-4 (Morgan, Lewis, Hillier, Van Meerbergen, Lehman, McAlister, Cuddy, Stevenson, Pribil, Franke, Rahman yea) -- content and quote verbatim, and distinguishable from the OTHER 11-4 vote on this same item (the Urban-Roots-donation/playgrounds motion, already correctly classified null as b2b72641647f with a different roster). But the substance -- FROM a 'Holding Residential R5 Special Provision BONUS' zone TO a 'Holding Residential R5 Special Provision' zone (the bonus provision removed) -- is exactly the 'R5-Bonus removal' pattern the classifier's own batch notes list as an ambiguous case resolved to null elsewhere in this batch. Removing a density-bonus provision could be routine housekeeping once bonus conditions were fulfilled, or a real reduction in as-of-right development potential; the record doesn't resolve which. Downgraded to unclear for consistency with the classifier's own stated standard for this identical scenario."
+  "verifierNote": "Source JSON (2024-12-17 Council, item 8.1.18, 21-41 Meadowlily Rd N & 20 Norlan Ave) confirms this is the 'item 18... BE APPROVED in part' motion, 11-4 (Morgan, Lewis, Hillier, Van Meerbergen, Lehman, McAlister, Cuddy, Stevenson, Pribil, Franke, Rahman yea) -- content and quote verbatim, and distinguishable from the OTHER 11-4 vote on this same item (the Urban-Roots-donation/playgrounds motion, already correctly classified null as b2b72641647f (superseded id) with a different roster). But the substance -- FROM a 'Holding Residential R5 Special Provision BONUS' zone TO a 'Holding Residential R5 Special Provision' zone (the bonus provision removed) -- is exactly the 'R5-Bonus removal' pattern the classifier's own batch notes list as an ambiguous case resolved to null elsewhere in this batch. Removing a density-bonus provision could be routine housekeeping once bonus conditions were fulfilled, or a real reduction in as-of-right development potential; the record doesn't resolve which. Downgraded to unclear for consistency with the classifier's own stated standard for this identical scenario."
  },
  {
   "id": "77e9d23f5225",
@@ -394,7 +394,7 @@
   "quote": "providing new playgrounds for Ealing and Trafalgar Elementary Public Schools; and, ii) a donation to Urban Roots by Royal Premier Homes, the amount and specific project allocation to be determined by the respective parties at a later date.",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Source JSON confirms this is the 11-4 'playgrounds + Urban Roots donation' commitment-confirmation motion on item 8.1.18, distinct from the OTHER 11-4 vote on the same item (the actual R5-Bonus-removal rezoning, see 70cd8d04ee9d). Confirming ancillary community-benefit commitments, not a density/use decision -- correctly left unclear."
+  "verifierNote": "Source JSON confirms this is the 11-4 'playgrounds + Urban Roots donation' commitment-confirmation motion on item 8.1.18, distinct from the OTHER 11-4 vote on the same item (the actual R5-Bonus-removal rezoning, see 70cd8d04ee9d (superseded id)). Confirming ancillary community-benefit commitments, not a density/use decision -- correctly left unclear."
  },
  {
   "id": "2236dce49b57",
@@ -435,10 +435,10 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Source JSON confirms the Franke/Hopkins amendment requesting the Mayor discuss regional growth with SW Ontario Mayors and Wardens passed 14-1 (Van Meerbergen lone nay) -- distinct from the OTHER 14-1 vote on the same item (the LNA-adoption-minus-b/d/e motion, see c32437ad0b43). A request for inter-municipal dialogue, not a housing decision -- correctly left unclear."
+  "verifierNote": "Source JSON confirms the Franke/Hopkins amendment requesting the Mayor discuss regional growth with SW Ontario Mayors and Wardens passed 14-1 (Van Meerbergen lone nay) -- distinct from the OTHER 14-1 vote on the same item (the LNA-adoption-minus-b/d/e motion, see 97abed62ab90). A request for inter-municipal dialogue, not a housing decision -- correctly left unclear."
  },
  {
-  "id": "c32437ad0b43",
+  "id": "97abed62ab90",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -447,7 +447,7 @@
   "quote": "the Land Needs Assessment (Community Growth) appended to the staff report dated December 3, 2024 as Appendix \"A\" BE ADOPTED for use as part of Phase 1B of the Section 26 Review of The London Plan",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Source JSON confirms 'item [20/]22, clause 3.14, as amended, BE APPROVED, with the exception of parts b), d) and e)' passed 14-1 (Trosow lone nay) -- distinguishable from the OTHER 14-1 vote on this same item (the SW Ontario Mayors/Wardens discussion motion, Van Meerbergen lone nay, already correctly classified null as b753dfd3c407). Quote verbatim (part a, LNA adoption). whatAYeaDid accurately describes the adoption plus the b/d/e carve-out. Confirmed."
+  "verifierNote": "Source JSON confirms 'item [20/]22, clause 3.14, as amended, BE APPROVED, with the exception of parts b), d) and e)' passed 14-1 (Trosow lone nay) -- distinguishable from the OTHER 14-1 vote on this same item (the SW Ontario Mayors/Wardens discussion motion, Van Meerbergen lone nay, already correctly classified null as b753dfd3c407 (superseded id)). Quote verbatim (part a, LNA adoption). whatAYeaDid accurately describes the adoption plus the b/d/e carve-out. Confirmed."
  },
  {
   "id": "b357c947f66c",

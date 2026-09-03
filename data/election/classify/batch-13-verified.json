@@ -119,7 +119,7 @@
   "quote": "c) that Civic Administration BE DIRECTED to continue with transactional service delivery in existing service depot locations until February 28, 2025.",
   "flags": [],
   "verdict": "downgraded",
-  "verifierNote": "Reconstructed the full amendment sequence on item 4.7 from the source JSON (indices 5-8): index 5 first proposed adding part c) with open-ended wording; index 6 (=903ec5aeea8a, correctly restrictive, 12-3) is the vote that actually changed the wording from \"until further direction\" to \"until February 28, 2025\"; THIS vote (index 7, 10-5) merely restates parts b)+c) with that already-decided wording to formally fold them into the motion. Its own whatAYeaDid (\"...only until February 28, 2025, rather than indefinitely\") misdescribes the choice as if this specific vote made the Feb-28-vs-indefinite call, but that call was already locked in by the prior vote. Applying the same 'what happens if THIS vote fails' test used correctly elsewhere in the batch (e.g. 545ba91fad80/611ddd612095 on the $99,700 basic-needs funding), the honest counterfactual for this vote is 'no part b)/c) at all' -- which would make a yea read EXPANSIVE, not restrictive, directly contradicting the recorded call. Given real vote-splitting between this vote and the prior one (4 members flipped), it is a substantively separate decision, but its own direction is genuinely ambiguous between two defensible readings depending on reference point. Downgraded to unclear rather than guess."
+  "verifierNote": "Reconstructed the full amendment sequence on item 4.7 from the source JSON (indices 5-8): index 5 first proposed adding part c) with open-ended wording; index 6 (=903ec5aeea8a (superseded id), correctly restrictive, 12-3) is the vote that actually changed the wording from \"until further direction\" to \"until February 28, 2025\"; THIS vote (index 7, 10-5) merely restates parts b)+c) with that already-decided wording to formally fold them into the motion. Its own whatAYeaDid (\"...only until February 28, 2025, rather than indefinitely\") misdescribes the choice as if this specific vote made the Feb-28-vs-indefinite call, but that call was already locked in by the prior vote. Applying the same 'what happens if THIS vote fails' test used correctly elsewhere in the batch (e.g. 545ba91fad80 (superseded id)/611ddd612095 (superseded id) on the $99,700 basic-needs funding), the honest counterfactual for this vote is 'no part b)/c) at all' -- which would make a yea read EXPANSIVE, not restrictive, directly contradicting the recorded call. Given real vote-splitting between this vote and the prior one (4 members flipped), it is a substantively separate decision, but its own direction is genuinely ambiguous between two defensible readings depending on reference point. Downgraded to unclear rather than guess."
  },
  {
   "id": "69588c18b766",
@@ -207,7 +207,7 @@
   "quote": "b) the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces (that are not located on the main street of any BIA), rent supplements and transactional encampment services as outlined in the report dated October 29, 2024, for a two-year period",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "whatAYeaDid was written in the affirmative past tense (\"Amended part b)...\") but the source meeting JSON shows this motion FAILED (7 to 8) -- confirmed against the raw vote record. Fixed the narrative to \"Would have amended...\", matching the batch's own convention for failed motions elsewhere (e.g. 41ec8865db2d, 5c6d802b2c95). Issue/axis/polarity/quote were otherwise correct and are unchanged; this was a tense-accuracy defect, not a direction error."
+  "verifierNote": "whatAYeaDid was written in the affirmative past tense (\"Amended part b)...\") but the source meeting JSON shows this motion FAILED (7 to 8) -- confirmed against the raw vote record. Fixed the narrative to \"Would have amended...\", matching the batch's own convention for failed motions elsewhere (e.g. 41ec8865db2d (superseded id), 5c6d802b2c95 (superseded id)). Issue/axis/polarity/quote were otherwise correct and are unchanged; this was a tense-accuracy defect, not a direction error."
  },
  {
   "id": "8be756f3d937",
@@ -234,7 +234,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "e3e298593604",
+  "id": "d7283f8e12c5",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",
@@ -274,7 +274,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "291927c27356",
+  "id": "aaa44de9dc24",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "restrictive",
@@ -354,7 +354,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "c7dbb0e5cb42",
+  "id": "f6374d813bdb",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -416,7 +416,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "6a1d7d9442f6",
+  "id": "09a7d0ce1a38",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -520,7 +520,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "a5577168f7c5",
+  "id": "dc8fe8ee71a2",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -534,7 +534,7 @@
   "verifierNote": "Independently loaded the full motion text from the source meeting JSON; issue, axis, polarity, and verbatim quote all check out against the operative clause and the recorded vote result."
  },
  {
-  "id": "e2312f986e8d",
+  "id": "7094265815e8",
   "issue": "none",
   "axis": null,
   "polarity": null,

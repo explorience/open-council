@@ -49,7 +49,7 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs same item, block 5: 'That the motion, as amended, BE APPROVED' Passed 13-1 -- a bare wrapper vote with no colon-introduced clause (doesn't mechanically strip per WRAPPER_PREAMBLE_RE, but is substantively the final adoption vote on the whole Phase 2 package). Traced substance to block 0's original clause a)x) (stacked townhouses on all Neighbourhood Connectors), which survived because the narrowing amendment in block 2 (b616e778e552) FAILED 6-8. Quote is verbatim from block 0, not from this record's own bare motionText -- correct methodology given the wrapper, flagged consistently by the classifier."
+  "verifierNote": "Verified vs same item, block 5: 'That the motion, as amended, BE APPROVED' Passed 13-1 -- a bare wrapper vote with no colon-introduced clause (doesn't mechanically strip per WRAPPER_PREAMBLE_RE, but is substantively the final adoption vote on the whole Phase 2 package). Traced substance to block 0's original clause a)x) (stacked townhouses on all Neighbourhood Connectors), which survived because the narrowing amendment in block 2 (b616e778e552 (superseded id)) FAILED 6-8. Quote is verbatim from block 0, not from this record's own bare motionText -- correct methodology given the wrapper, flagged consistently by the classifier."
  },
  {
   "id": "48bab8d586e0",
@@ -116,7 +116,7 @@
   "verifierNote": "Verified vs 2024-09-09 CPSC item 2.2 block 1 (Passed 5-1): delegation-hearing approval. Correctly none/procedural -- a personnel/hearing-logistics vote, not a position on the renovictions substance."
  },
  {
-  "id": "83fca2487789",
+  "id": "785a7ce7c1ed",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -131,7 +131,7 @@
   "verifierNote": "Verified vs same item, block 2 (Failed 2-4): 'BE REFERRED back to Civic Administration to report back... to include rent top ups and alternate accommodations as part of the by-law.' Pure referral, correctly axis:null."
  },
  {
-  "id": "31bbea57ba6c",
+  "id": "75767dd2ece3",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -225,7 +225,7 @@
   "verifierNote": "Verified vs item 6.2 block 0 (Passed 13-2): introduces the expropriating by-law and directs registration/notice steps. Purely legal-mechanism; correctly none/procedural."
  },
  {
-  "id": "b7facecce375",
+  "id": "dde758d4b22b",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -236,10 +236,10 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs item 6.3 block 0 (Passed 13-2): convenes Council as Approving Authority for the Wellington Gateway/Clark's Bridge parcel. Same reasoning as 8142533138e8; correctly none/procedural."
+  "verifierNote": "Verified vs item 6.3 block 0 (Passed 13-2): convenes Council as Approving Authority for the Wellington Gateway/Clark's Bridge parcel. Same reasoning as 8142533138e8 (superseded id); correctly none/procedural."
  },
  {
-  "id": "fb3ade1db5c7",
+  "id": "40732b925b83",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -330,7 +330,7 @@
    "informational_ask"
   ],
   "verdict": "corrected",
-  "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (5 to 10)' (2024-08-27 Council item 8.4.9 block 0), not passed -- the companion committee-stage record (208e65b18189, same text, DID pass 5-1 at Civic Works Committee on 2024-08-13, and that one's passed-tense wording is correct). This Council-level record reused the identical passed-tense wording in error. Corrected whatAYeaDid to: 'Would have directed Civic Administration to flag a Hamilton Road Streetscape update... failed 5-10 at Council (a companion motion with identical text passed 5-1 at the earlier Civic Works Committee stage, 208e65b18189).' Axis stays null (informational/could-include language either way)."
+  "verifierNote": "REFUTED: manifest result for this ID is 'Motion Failed (5 to 10)' (2024-08-27 Council item 8.4.9 block 0), not passed -- the companion committee-stage record (208e65b18189 (superseded id), same text, DID pass 5-1 at Civic Works Committee on 2024-08-13, and that one's passed-tense wording is correct). This Council-level record reused the identical passed-tense wording in error. Corrected whatAYeaDid to: 'Would have directed Civic Administration to flag a Hamilton Road Streetscape update... failed 5-10 at Council (a companion motion with identical text passed 5-1 at the earlier Civic Works Committee stage, 208e65b18189 (superseded id)).' Axis stays null (informational/could-include language either way)."
  },
  {
   "id": "203b5c70dfb4",
@@ -396,7 +396,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs 2024-08-13 Civic Works Committee item 4.2 (Passed 5-1): identical text to 07f051a70bf5 but this record's passed-tense wording is correct since this committee-stage vote actually passed. Correctly axis:null (could-include, future-budget-cycle language)."
+  "verifierNote": "Verified vs 2024-08-13 Civic Works Committee item 4.2 (Passed 5-1): identical text to 07f051a70bf5 (superseded id) but this record's passed-tense wording is correct since this committee-stage vote actually passed. Correctly axis:null (could-include, future-budget-cycle language)."
  },
  {
   "id": "22ccb3ca5af2",
@@ -572,10 +572,10 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs 2024-07-18 SPPC item 2.3 block 1 (Failed 5-6): same Council Members' Expense Policy text as aa8bc314975b, at committee stage. 'Would have' tense correct for a failed motion; correctly none, consistent with aa8bc314975b's exclusion reasoning."
+  "verifierNote": "Verified vs 2024-07-18 SPPC item 2.3 block 1 (Failed 5-6): same Council Members' Expense Policy text as aa8bc314975b (superseded id), at committee stage. 'Would have' tense correct for a failed motion; correctly none, consistent with aa8bc314975b (superseded id)'s exclusion reasoning."
  },
  {
-  "id": "451f2b3749d1",
+  "id": "38521ebe4d5b",
   "issue": "budget",
   "axis": null,
   "polarity": null,
@@ -584,7 +584,7 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs item 4.2 block 2 (Passed 9-5): 'part a) i) A) be approved and reads as follows: ... to be funded to a maximum of $250,000/year... while the program is undergoing further review.' This is the SPPC committee-stage precursor to the same clause later in b682ed96bec6's Council-level omnibus motion. Correctly axis:null -- same ambiguity as b682ed96bec6 (no clear prior-funding baseline to judge the $250k cap against); leaving unclear is the safer call than guessing a direction."
+  "verifierNote": "Verified vs item 4.2 block 2 (Passed 9-5): 'part a) i) A) be approved and reads as follows: ... to be funded to a maximum of $250,000/year... while the program is undergoing further review.' This is the SPPC committee-stage precursor to the same clause later in b682ed96bec6 (superseded id)'s Council-level omnibus motion. Correctly axis:null -- same ambiguity as b682ed96bec6 (superseded id) (no clear prior-funding baseline to judge the $250k cap against); leaving unclear is the safer call than guessing a direction."
  },
  {
   "id": "975066679d94",
@@ -598,6 +598,6 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs item 4.2 block 3 (Failed 7-7): same Get Involved/NDM-replacement text as ed337cbc08fb, at committee stage. Correctly axis:null, 'would have' tense correct."
+  "verifierNote": "Verified vs item 4.2 block 3 (Failed 7-7): same Get Involved/NDM-replacement text as ed337cbc08fb (superseded id), at committee stage. Correctly axis:null, 'would have' tense correct."
  }
 ]

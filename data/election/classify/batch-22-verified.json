@@ -161,7 +161,7 @@
   "verifierNote": "Verbatim report-back directive on Fireworks By-law option A. Informational ask, correctly issue=none/unclear."
  },
  {
-  "id": "c9561bbe3519",
+  "id": "a14fef9873fe",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -490,10 +490,10 @@
   "quote": "a one-time funding allocation of up to $200,000 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Loaded same item, fifth content block (11-4): 'That the amendment, as amended, BE APPROVED as follows: ... f) a one-time funding allocation of up to $200,000...' -- this is a further amendment that REPLACES the $374,210 figure just passed moments earlier in the SAME meeting (9ddf707bf29d, 8-7) with a lower $200,000 figure. The classifier's own whatAYeaDid already says 'reduced from the $374,210 figure in the immediately prior amendment,' but then labelled polarity 'expansive' -- an internal inconsistency. Read against its correct baseline (the amount immediately on the table, not the original zero-commitment referral), a YEA on this specific vote is unambiguously a REDUCTION: it cuts $174,210 from what had just passed. Leaving this 'expansive' would make the 4 NAY voters (Hopkins, Peloza, Trosow, Ferreira -- who wanted to KEEP the higher $374,210 figure, i.e. the MORE pro-funding position) read as having taken the 'restrictive'/anti-funding position, which is backwards and exactly the kind of wrong-direction error this review exists to catch. Same convention the classifier itself uses elsewhere in this batch for 'amend a just-proposed amount down' (747ddc1b03e4, 4e9c612c2fca: 'cut'/'reduced' framing). CORRECTED: axis stays response-scale, polarity flipped expansive -> restrictive. Quote (verbatim, unchanged, confirmed against source): 'a one-time funding allocation of up to $200,000 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023'."
+  "verifierNote": "Loaded same item, fifth content block (11-4): 'That the amendment, as amended, BE APPROVED as follows: ... f) a one-time funding allocation of up to $200,000...' -- this is a further amendment that REPLACES the $374,210 figure just passed moments earlier in the SAME meeting (9ddf707bf29d (superseded id), 8-7) with a lower $200,000 figure. The classifier's own whatAYeaDid already says 'reduced from the $374,210 figure in the immediately prior amendment,' but then labelled polarity 'expansive' -- an internal inconsistency. Read against its correct baseline (the amount immediately on the table, not the original zero-commitment referral), a YEA on this specific vote is unambiguously a REDUCTION: it cuts $174,210 from what had just passed. Leaving this 'expansive' would make the 4 NAY voters (Hopkins, Peloza, Trosow, Ferreira -- who wanted to KEEP the higher $374,210 figure, i.e. the MORE pro-funding position) read as having taken the 'restrictive'/anti-funding position, which is backwards and exactly the kind of wrong-direction error this review exists to catch. Same convention the classifier itself uses elsewhere in this batch for 'amend a just-proposed amount down' (747ddc1b03e4 (superseded id), 4e9c612c2fca (superseded id): 'cut'/'reduced' framing). CORRECTED: axis stays response-scale, polarity flipped expansive -> restrictive. Quote (verbatim, unchanged, confirmed against source): 'a one-time funding allocation of up to $200,000 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023'."
  },
  {
-  "id": "522423220717",
+  "id": "2129a952e630",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -514,7 +514,7 @@
   "quote": "That the new part c) BE AMENDED by replacing the contribution amount of $80,000 with the amount of $28,500.",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Same item, third content block (Failed 7-7): amendment to cut the contribution to $28,500. Quote verbatim. Correctly issue=none for the same reason as 522423220717."
+  "verifierNote": "Same item, third content block (Failed 7-7): amendment to cut the contribution to $28,500. Quote verbatim. Correctly issue=none for the same reason as 2129a952e630."
  },
  {
   "id": "d87f02619f90",

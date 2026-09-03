@@ -38,7 +38,7 @@
   ]
  },
  {
-  "id": "a2a597755fb0",
+  "id": "3e82641c1457",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -118,7 +118,7 @@
   "flags": []
  },
  {
-  "id": "e3801f6411ff",
+  "id": "32b3a392fe5e",
   "issue": "encampments",
   "axis": "relocation",
   "polarity": "restrictive",
@@ -131,7 +131,7 @@
   ]
  },
  {
-  "id": "0f3d27aee05c",
+  "id": "cf6233c1dc64",
   "issue": "encampments",
   "axis": "relocation",
   "polarity": "restrictive",
@@ -412,7 +412,7 @@
   "flags": []
  },
  {
-  "id": "439e4f691d90",
+  "id": "c7684b074103",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",
@@ -422,7 +422,7 @@
   "flags": []
  },
  {
-  "id": "bc037e6d64e5",
+  "id": "869855991c1c",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",

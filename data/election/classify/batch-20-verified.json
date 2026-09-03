@@ -26,7 +26,7 @@
   "verifierNote": "Verified against 2023-12-19 Council 6.1 (Passed 9-6): quote verbatim. Integrity Commissioner code-of-conduct reprimand of a councillor -- GLOBAL_EXCLUDE ('code of conduct', 'integrity commissioner') correctly applies; this is a personnel/discipline matter, not a position on any of the 8 issues. No missed classification."
  },
  {
-  "id": "dae772ec39b7",
+  "id": "147019761c32",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -37,7 +37,7 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-12-19 Council 6.1 (Passed 9-6, same item as 76e1dfe7abb4): quote verbatim, this is the final 'part b) and preamble BE APPROVED' re-vote of the same reprimand. Correctly excluded, no missed classification."
+  "verifierNote": "Verified against 2023-12-19 Council 6.1 (Passed 9-6, same item as 76e1dfe7abb4 (superseded id)): quote verbatim, this is the final 'part b) and preamble BE APPROVED' re-vote of the same reprimand. Correctly excluded, no missed classification."
  },
  {
   "id": "4627b09b9768",
@@ -175,7 +175,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-12-12 SPPC 4.1 motion 4 (Passed 14-1): quote verbatim, the final version directing quarterly reporting. Same reporting-cadence, non-response-scale reasoning as f4915939f4bf/0f3bc5f988a8. Correctly unclear."
+  "verifierNote": "Verified against 2023-12-12 SPPC 4.1 motion 4 (Passed 14-1): quote verbatim, the final version directing quarterly reporting. Same reporting-cadence, non-response-scale reasoning as f4915939f4bf (superseded id)/0f3bc5f988a8 (superseded id). Correctly unclear."
  },
  {
   "id": "7b672972a8ec",
@@ -225,7 +225,7 @@
   "quote": "the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $404,323 (excluding HST) for the provision of all services to operate 15 overnight spaces at CMHA Coffee House, 371 Hamilton Road",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-28 Council 8.1.17 motion 3 (Passed 14-1): quote verbatim and operative, same 'cold weather response' vocabulary gap as db49e8a6c626. Correctly 'none' under current keywords."
+  "verifierNote": "Verified against 2023-11-28 Council 8.1.17 motion 3 (Passed 14-1): quote verbatim and operative, same 'cold weather response' vocabulary gap as db49e8a6c626 (superseded id). Correctly 'none' under current keywords."
  },
  {
   "id": "754d8c0f602d",
@@ -288,7 +288,7 @@
   "quote": "the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $1,472,739 (excluding HST) for the provision of all services to operate 65 spaces at 432 William Street for the cold weather response overnight spaces",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-21 SPPC 4.2 motion 3 (Passed 8-6): quote verbatim and operative, committee-stage duplicate of db49e8a6c626 (same $1,472,739 Ark Aid contract). Same 'cold weather response' vocabulary gap. Correctly 'none'."
+  "verifierNote": "Verified against 2023-11-21 SPPC 4.2 motion 3 (Passed 8-6): quote verbatim and operative, committee-stage duplicate of db49e8a6c626 (superseded id) (same $1,472,739 Ark Aid contract). Same 'cold weather response' vocabulary gap. Correctly 'none'."
  },
  {
   "id": "0f698a7285b8",
@@ -300,7 +300,7 @@
   "quote": "the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $404,323 (excluding HST) for the provision of all services to operate 15 overnight spaces at CMHA Coffee House, 371 Hamilton Road",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-21 SPPC 4.2 motion 4 (Passed 13-1): quote verbatim and operative, committee-stage duplicate of d18ad55d419d (same $404,323 contract). Correctly 'none'."
+  "verifierNote": "Verified against 2023-11-21 SPPC 4.2 motion 4 (Passed 13-1): quote verbatim and operative, committee-stage duplicate of d18ad55d419d (superseded id) (same $404,323 contract). Correctly 'none'."
  },
  {
   "id": "9b46dfe0453e",
@@ -326,7 +326,7 @@
   "quote": "Motion to amend the staff recommendation by adding the words \u201cexcluding the proposed Kaladar Drive, Cayuga Crescent, Mark Street and Michael Street sidewalks.\u201d",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-14 Civic Works Committee 3.2 motion 3 (Passed 3-2): quote verbatim, a sidewalk-exclusion amendment. Same 'sidewalks aren't a transit keyword' reasoning as a8eb0cdeef6e. Correctly 'none'."
+  "verifierNote": "Verified against 2023-11-14 Civic Works Committee 3.2 motion 3 (Passed 3-2): quote verbatim, a sidewalk-exclusion amendment. Same 'sidewalks aren't a transit keyword' reasoning as a8eb0cdeef6e (superseded id). Correctly 'none'."
  },
  {
   "id": "2848a19a42a0",
@@ -340,7 +340,7 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-14 Civic Works Committee 3.2 motion 4 (Passed 3-2): quote verbatim ('Motion to approve the motion as amended'), the final adoption of the same sidewalk plan. Correctly 'none', consistent with cc60d6c6cefa."
+  "verifierNote": "Verified against 2023-11-14 Civic Works Committee 3.2 motion 4 (Passed 3-2): quote verbatim ('Motion to approve the motion as amended'), the final adoption of the same sidewalk plan. Correctly 'none', consistent with cc60d6c6cefa (superseded id)."
  },
  {
   "id": "4fd1d8c9aec3",
@@ -352,7 +352,7 @@
   "quote": "the request to amend the Official Plan, The London Plan, for the City of London by AMENDING a site-specific policy for the Neighbourhoods Place Type to allow a maximum density of 370 units per hectare and a maximum height of 17-storeys, BE APPROVED;",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-11-13 PEC 3.5 (Passed 4-1): committee-stage duplicate of the same 978 Gainsborough Rd package as 8358c3f069f0, with an identical clause a). Correctly classified independently and identically off two distinct manifest ids, matching the classifier's own note about two-meeting-level duplicates. housing/density/expansive correct."
+  "verifierNote": "Verified against 2023-11-13 PEC 3.5 (Passed 4-1): committee-stage duplicate of the same 978 Gainsborough Rd package as 8358c3f069f0 (superseded id), with an identical clause a). Correctly classified independently and identically off two distinct manifest ids, matching the classifier's own note about two-meeting-level duplicates. housing/density/expansive correct."
  },
  {
   "id": "b7473f4ce4fe",
@@ -426,7 +426,7 @@
   "quote": "APPROVE a funding increase extension to the existing Municipal Purchase of Service agreement with CMHA Thames Valley Addiction & Mental Health Services at a total estimated increase of up to $350,000 (excluding HST) ... to administer the City of London 2023-24 Cold Weather Response drop-in space",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-10-31 SPPC 2.3 motion 1 (Passed 12-1): the committee-stage version of the same bundle as b5346383c3e7, with the pre-amendment $350,000 CMHA figure (later raised to $523,552 at Council) -- matches the classifier's description exactly. Quote is verbatim and operative. encampments/response-scale/expansive correct."
+  "verifierNote": "Verified against 2023-10-31 SPPC 2.3 motion 1 (Passed 12-1): the committee-stage version of the same bundle as b5346383c3e7 (superseded id), with the pre-amendment $350,000 CMHA figure (later raised to $523,552 at Council) -- matches the classifier's description exactly. Quote is verbatim and operative. encampments/response-scale/expansive correct."
  },
  {
   "id": "bf0e72699cb3",
@@ -469,7 +469,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-10-24 Civic Works Committee 2.5 motion 2 (Passed 4-1): quote verbatim, the committee-stage version of the same ITCAC-consult/CEAP-alignment amendment as fd9fa5f36782. Same reasoning applies. Correctly unclear."
+  "verifierNote": "Verified against 2023-10-24 Civic Works Committee 2.5 motion 2 (Passed 4-1): quote verbatim, the committee-stage version of the same ITCAC-consult/CEAP-alignment amendment as fd9fa5f36782 (superseded id). Same reasoning applies. Correctly unclear."
  },
  {
   "id": "d16155bf0ef1",
@@ -484,7 +484,7 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-10-24 Civic Works Committee 2.5 motion 3 (Passed 5-1): quote verbatim ('Motion to approve parts b) and c) of the clause'), the committee-stage adoption of the same consult/CEAP-alignment directive as fd9fa5f36782/96e340402382. Correctly unclear."
+  "verifierNote": "Verified against 2023-10-24 Civic Works Committee 2.5 motion 3 (Passed 5-1): quote verbatim ('Motion to approve parts b) and c) of the clause'), the committee-stage adoption of the same consult/CEAP-alignment directive as fd9fa5f36782 (superseded id)/96e340402382 (superseded id). Correctly unclear."
  },
  {
   "id": "66e9d84be5a4",
@@ -508,7 +508,7 @@
   "quote": "the application of the City of London\u2019s share of Middlesex-London Health Unit's (MLHU) 2022 surplus in the amount of $423,548 to reduce the outstanding amount of MLHU\u2019s variable bank loan for the fit-out of the Citi Plaza office space BE APPROVED",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-10-23 Corporate Services Committee 4.1 motion 0 (Passed 4-1): quote verbatim and operative, committee-stage duplicate of 8d4cec07a644 (same $423,548 MLHU surplus redirection to a bank loan). No budget-cluster keyword present ('surplus'/'loan' aren't in the budget keyword list). Correctly 'none'."
+  "verifierNote": "Verified against 2023-10-23 Corporate Services Committee 4.1 motion 0 (Passed 4-1): quote verbatim and operative, committee-stage duplicate of 8d4cec07a644 (superseded id) (same $423,548 MLHU surplus redirection to a bank loan). No budget-cluster keyword present ('surplus'/'loan' aren't in the budget keyword list). Correctly 'none'."
  },
  {
   "id": "5b7fbb14d90a",
@@ -574,7 +574,7 @@
   "quote": "xiii) implement a robust solar installation along tops of Towers and include a minimum of 5% EV charging stations in underground parking; and xiv) ensure a level of LEED or similar green certification is achieved",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-10-17 Council 8.5.7 motion 3 (Passed 8-5): quote verbatim, adds solar/EV-charging/LEED site-plan design conditions alongside the glazing wording. Same site-plan-design-condition reasoning as cf76e7be4713. Correctly unclear."
+  "verifierNote": "Verified against 2023-10-17 Council 8.5.7 motion 3 (Passed 8-5): quote verbatim, adds solar/EV-charging/LEED site-plan design conditions alongside the glazing wording. Same site-plan-design-condition reasoning as cf76e7be4713 (superseded id). Correctly unclear."
  },
  {
   "id": "fde9a800f71a",

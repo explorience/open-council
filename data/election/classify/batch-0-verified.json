@@ -124,7 +124,7 @@
   "verifierNote": "Confirmed unclear. The reframing amendment (establishing -> implementing a permanent program; adds traffic/school-zone enforcement scope) -- still purely about what a FUTURE report must cover, no program is funded/established here. Quote verbatim; this 10-5 result recurs 3x in the item, confirmed by text match this is the amendment-adoption motion, not either sub-vote."
  },
  {
-  "id": "d18f8e672d56",
+  "id": "1fd6e77e5a25",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -152,7 +152,7 @@
   "verifierNote": "Confirmed unclear. This is the \"parts a,b,c,d,f of the main motion as amended BE APPROVED\" sub-vote -- still just directing a feasibility report-back, no program action. Quote verbatim (the full a-f directive text), matched among 3 same-tally motions in the item by content."
  },
  {
-  "id": "0635364c133a",
+  "id": "38fda7e0ab61",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -219,7 +219,7 @@
    "referral"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed unclear. Council-level referral of the entire Winter Response report back to CPSC pending federal-funding discussions -- pure DEFER_RE, quote verbatim, 13-2 matches. Correctly distinct from f1e67ede69ac (the earlier CPSC-level 4-1 approval of the same substantive item) -- both are real, separately-recorded votes at different meeting stages, not duplicates."
+  "verifierNote": "Confirmed unclear. Council-level referral of the entire Winter Response report back to CPSC pending federal-funding discussions -- pure DEFER_RE, quote verbatim, 13-2 matches. Correctly distinct from f1e67ede69ac (superseded id) (the earlier CPSC-level 4-1 approval of the same substantive item) -- both are real, separately-recorded votes at different meeting stages, not duplicates."
  },
  {
   "id": "198b360984e2",
@@ -245,10 +245,10 @@
   "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\ni) \u00a0 \u00a0approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund \u2013 Baseline Funding (the \u201cAgreement\u201d) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (\u201cCanada\u201d), and The Corporation of the City of London (the \u201cRecipient\u201d);",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed. ICSC-level (committee stage) recommendation on the same Transit Fund agreement as b206f4de942a -- a separate, real, independently-recorded 4-1 vote, not a duplicate. Quote verbatim from part a)i)."
+  "verifierNote": "Confirmed. ICSC-level (committee stage) recommendation on the same Transit Fund agreement as b206f4de942a (superseded id) -- a separate, real, independently-recorded 4-1 vote, not a duplicate. Quote verbatim from part a)i)."
  },
  {
-  "id": "5b512fd551f5",
+  "id": "e059773bdd21",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -355,7 +355,7 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed. \"Balance of the motion\" vote (parts a+b, 13-1) covering the land-award/Contribution-Agreement text -- quote (part a) verbatim, correctly distinguished from the separately-recorded part c) density vote (82741a99f795) on the same item."
+  "verifierNote": "Confirmed. \"Balance of the motion\" vote (parts a+b, 13-1) covering the land-award/Contribution-Agreement text -- quote (part a) verbatim, correctly distinguished from the separately-recorded part c) density vote (82741a99f795 (superseded id)) on the same item."
  },
  {
   "id": "f74ed511bc6d",
@@ -517,7 +517,7 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed null/none correctly -- PEC-level committee recommendation duplicate of a7f830659ba0's funding clause (Motion Passed 4-1, quote \"Motion to approve part c).\" is verbatim from the source, terse but accurate). Same no-keyword-hit reasoning applies (issue=none, not climate)."
+  "verifierNote": "Confirmed null/none correctly -- PEC-level committee recommendation duplicate of a7f830659ba0 (superseded id)'s funding clause (Motion Passed 4-1, quote \"Motion to approve part c).\" is verbatim from the source, terse but accurate). Same no-keyword-hit reasoning applies (issue=none, not climate)."
  },
  {
   "id": "d0ab3a669a55",
@@ -543,7 +543,7 @@
   "quote": "the following funding BE AUTHORIZED to support immediate implementation actions identified within The Centre of Opportunity: London's Economic Development Strategy (2026\u20132030) and Implementation Plan, as outlined in this report:\n1)\u00a0 \u00a0 up to $200,000 in one-time funding from the remaining balance of Business Case #P-46; and\n\n2)\u00a0 \u00a0 up to $150,000 in one-time funding from the Economic Development Reserve Fund;",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed. SPPC-level committee vote on the Centre of Opportunity strategy (14-1) -- same combined-clause reasoning as 40970bf1599f (real AFFIRM_RE content alongside deferred/report-back clauses, not deferOnly), quote verbatim, correctly a separate real vote from the Council-level ratification."
+  "verifierNote": "Confirmed. SPPC-level committee vote on the Centre of Opportunity strategy (14-1) -- same combined-clause reasoning as 40970bf1599f (superseded id) (real AFFIRM_RE content alongside deferred/report-back clauses, not deferOnly), quote verbatim, correctly a separate real vote from the Council-level ratification."
  },
  {
   "id": "28d426d45cc0",
@@ -569,7 +569,7 @@
   "quote": "the actions identified in this Plan, that can be accommodated within existing approved budgets, BE IMPLEMENTED;",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed. Standalone part b) sub-vote (11-2), quote verbatim -- \"the actions ... BE IMPLEMENTED\" is an unambiguous approval within existing budgets, correctly distinguished from the separately-recorded referral vote (5eb57ac6ba76) and the two procedural speaking-time motions on the same item."
+  "verifierNote": "Confirmed. Standalone part b) sub-vote (11-2), quote verbatim -- \"the actions ... BE IMPLEMENTED\" is an unambiguous approval within existing budgets, correctly distinguished from the separately-recorded referral vote (5eb57ac6ba76 (superseded id)) and the two procedural speaking-time motions on the same item."
  },
  {
   "id": "435dc889a5ee",

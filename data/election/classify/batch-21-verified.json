@@ -29,7 +29,7 @@
   "verifierNote": "Verified against 2023-10-17 Council item 8.5.8. Quote verbatim (H. McAlister's amendment, Passed 11-3). Correctly none/null: directs a future SPPC referral on a committee's Terms of Reference, informational/governance, not a tracked issue."
  },
  {
-  "id": "454de550adf5",
+  "id": "f09a750e180c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -73,7 +73,7 @@
   "verifierNote": "Verified against 2023-10-17 Council item 8.5.8. Quote verbatim ('Motion to approve part b), as amended', Passed 11-3). Correctly none/null: CACP Terms of Reference referral, governance not substance."
  },
  {
-  "id": "311b57b70796",
+  "id": "41e450acad70",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -359,7 +359,7 @@
    "not_divided"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-10-03 PEC item 5.1, second motion (Failed 2-2). Confirmed the not_divided flag is accurate: this motion's text and vote (Yeas: Morgan/Franke; Nays: Lewis/Lehman) are byte-for-byte identical to 7cd53063b2f0's, recorded under two item numbers (4.1 and 5.1) for what is genuinely one motion moved once covering both items. Correctly null; flag correctly prevents downstream double-counting."
+  "verifierNote": "Verified against 2023-10-03 PEC item 5.1, second motion (Failed 2-2). Confirmed the not_divided flag is accurate: this motion's text and vote (Yeas: Morgan/Franke; Nays: Lewis/Lehman) are byte-for-byte identical to 7cd53063b2f0 (superseded id)'s, recorded under two item numbers (4.1 and 5.1) for what is genuinely one motion moved once covering both items. Correctly null; flag correctly prevents downstream double-counting."
  },
  {
   "id": "4d9e9d90f957",
@@ -513,7 +513,7 @@
   "quote": "an increase to parking on-site in the development",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-09-26 Council item 8.6.7, C. Rahman's parking amendment (Passed 8-7). Quote verbatim. Correctly housing/null, same reasoning as 3fdd608ce400: parking capacity isn't a tracked housing axis."
+  "verifierNote": "Verified against 2023-09-26 Council item 8.6.7, C. Rahman's parking amendment (Passed 8-7). Quote verbatim. Correctly housing/null, same reasoning as 3fdd608ce400 (superseded id): parking capacity isn't a tracked housing axis."
  },
  {
   "id": "2e6c63fd9ad6",
@@ -595,7 +595,7 @@
    "appointment"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-09-19 SPPC item 5.1, S. Trosow's alternate-candidate motion naming Watson+Gomes (Failed 4-11). Quote verbatim. Correctly none/null (appointment) \u2014 confirmed this is a genuinely distinct vote from 6af4354e1891 (different Yeas set: Pribil vs. Ferreira), not a duplicate."
+  "verifierNote": "Verified against 2023-09-19 SPPC item 5.1, S. Trosow's alternate-candidate motion naming Watson+Gomes (Failed 4-11). Quote verbatim. Correctly none/null (appointment) \u2014 confirmed this is a genuinely distinct vote from 6af4354e1891 (superseded id) (different Yeas set: Pribil vs. Ferreira), not a duplicate."
  },
  {
   "id": "0f7f1e936953",
@@ -626,5 +626,19 @@
   ],
   "verdict": "confirmed",
   "verifierNote": "Verified against 2023-09-19 SPPC item 5.3 full text, 'Motion TO APPROVE Governance Working Group recommendation parts a ii) and iii)' (Passed 11-3). Quote is a verbatim substring of parts a)ii) and a)iii). Correctly none/null: Ward Boundary Review Terms of Reference and consultant procurement is a council-governance/districting matter, not one of the 8 tracked issues."
+ },
+ {
+  "id": "456e873da7c2",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved advising the Government of Ontario that London City Council supports a provincial motion to establish and fund Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years.",
+  "confidence": "high",
+  "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: ... to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against 2023-10-10 SPPC item 4.4. This is the standalone 'Part b), as amended, BE APPROVED' vote (Passed 7-6) \u2014 distinct real motion from c0e0eab57589 (superseded id)'s amendment vote (same vote count, different content: this one is Part b alone, without the AMO referral). Quote (with disclosed ellipsis) matches Part b's substance verbatim. Correctly expansive."
  }
 ]

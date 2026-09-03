@@ -77,7 +77,7 @@
   "reason": "Final committee approval of part a), the Roads Projects maps as amended (including the Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0, old axis service-expansion was wrong."
  },
  {
-  "id": "1f742f938d33",
+  "id": "3e6140abb084",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -506,7 +506,7 @@
   "reason": "RECLASSIFIED to unclear (was service-expansion/expansive): the $155,000 increase funds SCHOOL-ZONE TRAFFIC CALMING and temporary traffic-calming devices -- a road-SAFETY spending increase that narrows/slows traffic, the opposite of 'expanded general-purpose road capacity' under the new road-capacity axis, and it is not transit service either. Fits neither axis cleanly."
  },
  {
-  "id": "838f7c50e8f0",
+  "id": "b51a800e4477",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,

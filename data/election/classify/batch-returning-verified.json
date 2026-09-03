@@ -89,7 +89,7 @@
   "quote": "Motion to approve a) ii)\nii)  Invasive Species Management Plan;",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Same item as 0f1b08e86421. Disambiguated from its 3-to-9 sibling 9705aa6da1dc (identical result string, identical voter lineup -- both moved by S. Franke) by quote content: this is part a)ii), the Invasive Species Management Plan business case; 9705aa6da1dc is part a)iii), Climate Emergency Action Plan. Confirmed."
+  "verifierNote": "Same item as 0f1b08e86421 (superseded id). Disambiguated from its 3-to-9 sibling 9705aa6da1dc (superseded id) (identical result string, identical voter lineup -- both moved by S. Franke) by quote content: this is part a)ii), the Invasive Species Management Plan business case; 9705aa6da1dc (superseded id) is part a)iii), Climate Emergency Action Plan. Confirmed."
  },
  {
   "id": "2a15750df5a4",
@@ -113,7 +113,7 @@
   "quote": "Motion to approve a) iii)\niii) Climate Emergency Action Plan;",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Same item as 86b1bf237179; see that entry for the disambiguation (this is part a)iii, Climate Emergency Action Plan). Per this corpus's own documented and precedent-confirmed convention, a business-case in/exclusion vote keeps issue=budget regardless of the named case's own topic -- correctly not reclassified to climate despite the CEAP subject matter. Confirmed."
+  "verifierNote": "Same item as 86b1bf237179 (superseded id); see that entry for the disambiguation (this is part a)iii, Climate Emergency Action Plan). Per this corpus's own documented and precedent-confirmed convention, a business-case in/exclusion vote keeps issue=budget regardless of the named case's own topic -- correctly not reclassified to climate despite the CEAP subject matter. Confirmed."
  },
  {
   "id": "7efdf1cb760d",
@@ -205,7 +205,7 @@
   "quote": "That the motion be amended in part d) by removing, \" which shall include the use of the Climate Emergency Screening Tool;\"",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against the 2023 Industrial Land Development Strategy item, sole Failed-(6-to-9) motion: an amendment to remove the Climate Emergency Screening Tool requirement from part d) of the Industrial Land Needs Assessment directive. Forms a clean, internally consistent pair with 730abd01f37c (the base motion this amendment was trying to weaken, which passed 12-3 with the tool requirement intact). Confirmed."
+  "verifierNote": "Verified against the 2023 Industrial Land Development Strategy item, sole Failed-(6-to-9) motion: an amendment to remove the Climate Emergency Screening Tool requirement from part d) of the Industrial Land Needs Assessment directive. Forms a clean, internally consistent pair with 730abd01f37c (superseded id) (the base motion this amendment was trying to weaken, which passed 12-3 with the tool requirement intact). Confirmed."
  },
  {
   "id": "f1535f7e608e",
@@ -217,7 +217,7 @@
   "quote": "the Civic Administration BE DIRECTED to undertake an Industrial Land Needs Assessment, which shall include the use of the Climate Emergency Screening Tool; and,",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Same item as 10efee30d126 (see that entry): the base part-d) motion directing an Industrial Land Needs Assessment that includes the Climate Emergency Screening Tool, Passed 12-3, sole match for this result string. Quote verbatim. Confirmed."
+  "verifierNote": "Same item as 10efee30d126 (superseded id) (see that entry): the base part-d) motion directing an Industrial Land Needs Assessment that includes the Climate Emergency Screening Tool, Passed 12-3, sole match for this result string. Quote verbatim. Confirmed."
  },
  {
   "id": "0d3f5e09257e",
@@ -245,7 +245,7 @@
    "appointment"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Same item as 4f5ea4ba9d7c, a distinct Passed-8-7 motion, sole match for this result string. Same title-only-exclusion reasoning applies. Confirmed."
+  "verifierNote": "Same item as 4f5ea4ba9d7c (superseded id), a distinct Passed-8-7 motion, sole match for this result string. Same title-only-exclusion reasoning applies. Confirmed."
  },
  {
   "id": "02666ef440aa",
@@ -741,7 +741,7 @@
   "quote": "That item 11, clause 3.5, as amended, BE APPROVED.",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against item 8.6.11 (608 Commissioners Road West, Z-9516). This id's motion is the bare wrapper \"That item 11, clause 3.5, as amended, BE APPROVED\" (12-3) -- checked that the quote is literally, exactly verbatim for the actual voted clause (unlike a documented precedent case in batch-24 where a wrapper quote was wrongly copy-pasted from a DIFFERENT meeting's text with slightly different wording; no such error here). Cross-checked the wrapper's substance against (a) this same item's own earlier referral motion in this batch (a4044aae6238, Failed 5-10, tried to send the application back for reduced height/density) and (b) the sibling PEC committee-stage vote for the same application also in this batch (7c12069f2f9b, R1-9 -> R8 Special Provision) -- both confirm this is a genuine housing-intensification rezoning and that the wrapper vote followed immediately after the reduction attempt failed, matching whatAYeaDid's own narrative. Note (not a defect, flagging for whoever consumes this file next): this and one other motion in the batch would have carried a \"wrapper_preamble\" flag under the convention used by other shipped batch-*-verified.json files (e.g. batch-0's a7f830659ba0, batch-24's 4a247fdf3fd7), but the flag vocabulary specified for this task omits that tag, so it isn't applied here either -- a scope question, already flagged by the classifier's own stats as a CONTRACT DEVIATION, not something this pass changes. Confirmed."
+  "verifierNote": "Verified against item 8.6.11 (608 Commissioners Road West, Z-9516). This id's motion is the bare wrapper \"That item 11, clause 3.5, as amended, BE APPROVED\" (12-3) -- checked that the quote is literally, exactly verbatim for the actual voted clause (unlike a documented precedent case in batch-24 where a wrapper quote was wrongly copy-pasted from a DIFFERENT meeting's text with slightly different wording; no such error here). Cross-checked the wrapper's substance against (a) this same item's own earlier referral motion in this batch (a4044aae6238 (superseded id), Failed 5-10, tried to send the application back for reduced height/density) and (b) the sibling PEC committee-stage vote for the same application also in this batch (7c12069f2f9b (superseded id), R1-9 -> R8 Special Provision) -- both confirm this is a genuine housing-intensification rezoning and that the wrapper vote followed immediately after the reduction attempt failed, matching whatAYeaDid's own narrative. Note (not a defect, flagging for whoever consumes this file next): this and one other motion in the batch would have carried a \"wrapper_preamble\" flag under the convention used by other shipped batch-*-verified.json files (e.g. batch-0's a7f830659ba0 (superseded id), batch-24's 4a247fdf3fd7 (superseded id)), but the flag vocabulary specified for this task omits that tag, so it isn't applied here either -- a scope question, already flagged by the classifier's own stats as a CONTRACT DEVIATION, not something this pass changes. Confirmed."
  },
  {
   "id": "bce2ceed17d2",
@@ -817,7 +817,7 @@
   "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b);",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against the Civic Works Committee item (2023-01-31, item 2.5) -- genuinely the committee-stage sibling of 7346985bd070's Council-stage vote (a distinct meeting/date; committee recommends, Council separately ratifies three weeks later). Quote verbatim. Confirmed."
+  "verifierNote": "Verified against the Civic Works Committee item (2023-01-31, item 2.5) -- genuinely the committee-stage sibling of 7346985bd070 (superseded id)'s Council-stage vote (a distinct meeting/date; committee recommends, Council separately ratifies three weeks later). Quote verbatim. Confirmed."
  },
  {
   "id": "732b40d37d8b",
@@ -869,7 +869,7 @@
   "quote": "the proposed by-law appended to the staff report dated January 30, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on February 14, 2023, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential (R1-9) Zone TO a Residential Special Provision (R5-7(_)) Zone;",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against the Planning and Environment Committee item (2023-01-30, item 3.4) -- the committee-stage sibling of cacc4eabf8e7's Council-stage vote for 489 Upper Queen Street. Confirmed."
+  "verifierNote": "Verified against the Planning and Environment Committee item (2023-01-30, item 3.4) -- the committee-stage sibling of cacc4eabf8e7 (superseded id)'s Council-stage vote for 489 Upper Queen Street. Confirmed."
  },
  {
   "id": "08d0703b4f40",
@@ -881,7 +881,7 @@
   "quote": "the proposed by-law appended to the staff report dated January 30, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on February 14, 2023 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential (R1-9) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone;",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against the Planning and Environment Committee item (2023-01-30, item 3.5) -- the substantive committee-stage rezoning vote for 608 Commissioners Road West that c699eb9cc94f's Council-stage wrapper motion later ratified. Confirmed."
+  "verifierNote": "Verified against the Planning and Environment Committee item (2023-01-30, item 3.5) -- the substantive committee-stage rezoning vote for 608 Commissioners Road West that c699eb9cc94f (superseded id)'s Council-stage wrapper motion later ratified. Confirmed."
  },
  {
   "id": "01b3bd8bc850",
@@ -919,7 +919,7 @@
   "quote": "Case #P-11 - Parks and Horticulture - Reduction in Horticulture Aesthetics - Operating Expenditure ($200,000); Tax Levy ($200,000) BE APPROVED;",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against the 2023-01-26 BUDGET SPPC item 4.3 (21 motions). Disambiguated from two other same-\"11 to 3\"-result siblings in this batch (67e8f0bb6a90, a P-13 printing-referral, and b7f876655a41, the P-16 BIA-funding approval) by quote content; all three resolve to distinct, non-colliding motions. This is the case the classifier's own stats flagged as a manual correction of a mechanical direction-rules regex misfire (the DECREASE-keyword-to-\"levy\" distance exceeded the 60-character window). Independently re-derived from the raw clause text: \"Case #P-11 ... Reduction in Horticulture Aesthetics ... Tax Levy ($200,000) BE APPROVED\" -- approving a stated REDUCTION is restrictive; the manual correction holds. Confirmed."
+  "verifierNote": "Verified against the 2023-01-26 BUDGET SPPC item 4.3 (21 motions). Disambiguated from two other same-\"11 to 3\"-result siblings in this batch (67e8f0bb6a90 (superseded id), a P-13 printing-referral, and b7f876655a41 (superseded id), the P-16 BIA-funding approval) by quote content; all three resolve to distinct, non-colliding motions. This is the case the classifier's own stats flagged as a manual correction of a mechanical direction-rules regex misfire (the DECREASE-keyword-to-\"levy\" distance exceeded the 60-character window). Independently re-derived from the raw clause text: \"Case #P-11 ... Reduction in Horticulture Aesthetics ... Tax Levy ($200,000) BE APPROVED\" -- approving a stated REDUCTION is restrictive; the manual correction holds. Confirmed."
  },
  {
   "id": "bf0c3daee582",
@@ -943,7 +943,7 @@
   "quote": "That Budget Amendment Case #P-17 BE AMENDED to be in the amount of ($ 475,000).",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Same item. Disambiguated from a third same-\"13 to 1\"-result sibling in this batch (fd27307f45a8) by whatAYeaDid content and by cross-checking mover/vote-roster: this id is the motion to AMEND Case #P-17's dollar figure from the originally proposed $950,000 down to $475,000 (Franke, 13-1); fd27307f45a8 is the separate, immediately following motion to APPROVE the case as amended (Rahman, same 13-1 roster) -- confirmed as two genuinely distinct, sequential motions, not a duplicate assignment. Noting a genuine nuance for the record: shrinking a previously-proposed cut (950k -> 475k) is, relative to the original proposal on the table, itself a partial move away from restrictive -- but the resulting figure is still a net REDUCTION of the levy/reserve-fund contribution (not an increase), and whatAYeaDid neutrally states the numeric fact (\"set the reduction amount at $475,000\") without overclaiming direction beyond that; already appropriately hedged at medium confidence. Not refuted; confirmed as classified."
+  "verifierNote": "Same item. Disambiguated from a third same-\"13 to 1\"-result sibling in this batch (fd27307f45a8 (superseded id)) by whatAYeaDid content and by cross-checking mover/vote-roster: this id is the motion to AMEND Case #P-17's dollar figure from the originally proposed $950,000 down to $475,000 (Franke, 13-1); fd27307f45a8 (superseded id) is the separate, immediately following motion to APPROVE the case as amended (Rahman, same 13-1 roster) -- confirmed as two genuinely distinct, sequential motions, not a duplicate assignment. Noting a genuine nuance for the record: shrinking a previously-proposed cut (950k -> 475k) is, relative to the original proposal on the table, itself a partial move away from restrictive -- but the resulting figure is still a net REDUCTION of the levy/reserve-fund contribution (not an increase), and whatAYeaDid neutrally states the numeric fact (\"set the reduction amount at $475,000\") without overclaiming direction beyond that; already appropriately hedged at medium confidence. Not refuted; confirmed as classified."
  },
  {
   "id": "d3e6c7b163fd",
@@ -993,7 +993,7 @@
   "quote": "g)    Case #P-16 - Community Improvement/BIA - Funding for the Hamilton Road BIA - Operating Expenditure $100,000; Tax Levy $100,000 BE APPROVED; and that the general tax levy funding to Business Improvement Areas BE REVIEWED in conjunction with the consideration of future multi-year budgets, and during this term of Council in 2026.",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Same item as 070efd97b686 (see that entry for the three-way disambiguation). This id is Case #P-16, Hamilton Road BIA funding, approved as amended -- a genuine funding INCREASE ($100,000 new operating expenditure plus a matching tax-levy increase). Confirmed."
+  "verifierNote": "Same item as 070efd97b686 (superseded id) (see that entry for the three-way disambiguation). This id is Case #P-16, Hamilton Road BIA funding, approved as amended -- a genuine funding INCREASE ($100,000 new operating expenditure plus a matching tax-levy increase). Confirmed."
  },
  {
   "id": "1859dcfba3b7",
@@ -1005,7 +1005,7 @@
   "quote": "That the amended Budget Amendment Case #P-17, in the amount of ($475,00), BE APPROVED h)    Case #P-17 - Capital Financing - Reduction to Previously Approved \"For Consideration\" Business Case - Infrastructure Gap RF Contribution - Operating Expenditure ($475,000); Tax Levy ($475,000).",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Same item as 3e356dd3852a (see that entry for the disambiguation): the separate, immediately following motion to approve Case #P-17 as amended at $475,000 -- the Infrastructure Gap Reserve Fund contribution reduction, finalized. Confirmed."
+  "verifierNote": "Same item as 3e356dd3852a (superseded id) (see that entry for the disambiguation): the separate, immediately following motion to approve Case #P-17 as amended at $475,000 -- the Infrastructure Gap Reserve Fund contribution reduction, finalized. Confirmed."
  },
  {
   "id": "98f41809d825",

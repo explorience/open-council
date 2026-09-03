@@ -12,7 +12,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "2c152e11e58a",
+  "id": "517dd3cd276a",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -47,10 +47,10 @@
   "quote": "amend section 4.19.6) h) I) as it applies to lands outside of Western University Near Campus Neighbourhood to allow a maximum driveway width of 6m on lots with a lot width of up to 12m and to allow a maximum driveway width of 9m on lots greater than 12m",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "REFUTED the axis:null/polarity:null call. Full text (reconstructed from the item's 'as amended' POST block) shows this is a genuine, decided council direction relaxing driveway-width and front-yard-parking zoning standards -- not a bare procedural wrapper and not a non-binding 'consider' request. AFFIRM_RE's 'BE DIRECTED' verb governs specific, fully-specified numeric standards (not a vague study-ask), matching how the corpus classifies comparable parking-standard zoning approvals elsewhere (c7bf822cb0ae: reduced parking ratio for affordable housing, housing/application-approval/expansive; dd17ec0fa6f7: garage/parking special-provision zoning, housing/application-approval/expansive). Corrected via the same generic application-approval fallback used ~106 times elsewhere in the corpus when no specific density/use-permission axis literally matches but a real approve/deny decision exists."
+  "verifierNote": "REFUTED the axis:null/polarity:null call. Full text (reconstructed from the item's 'as amended' POST block) shows this is a genuine, decided council direction relaxing driveway-width and front-yard-parking zoning standards -- not a bare procedural wrapper and not a non-binding 'consider' request. AFFIRM_RE's 'BE DIRECTED' verb governs specific, fully-specified numeric standards (not a vague study-ask), matching how the corpus classifies comparable parking-standard zoning approvals elsewhere (c7bf822cb0ae (superseded id): reduced parking ratio for affordable housing, housing/application-approval/expansive; dd17ec0fa6f7 (superseded id): garage/parking special-provision zoning, housing/application-approval/expansive). Corrected via the same generic application-approval fallback used ~106 times elsewhere in the corpus when no specific density/use-permission axis literally matches but a real approve/deny decision exists."
  },
  {
-  "id": "f5ad254fd54f",
+  "id": "951943522c64",
   "issue": "housing",
   "axis": "use-permission",
   "polarity": "expansive",
@@ -111,7 +111,7 @@
   "quote": "APPROVE the Green Municipal Fund Grant Agreement, CORE-25-0485, (\u201cAgreement\u201d) between the Federation of Canadian Municipalities (\u201cFCM\u201d) and The Corporation of the City of London for the provision of funding for studying the potential of net-zero community energy in London, Ontario",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "REFUTED the 'informational_ask' null call. The clause's operative verbs are 'BE INTRODUCED' (the by-law) and imperative 'APPROVE'/'AUTHORIZE' (the grant agreement and its execution) -- a real, binding decision to accept FCM funding and authorize the Mayor to sign, not a 'BE DIRECTED to report back/study' non-decision. The word 'studying' describes what the FUNDED PROJECT will do, not what COUNCIL'S OWN motion asks staff to do -- conflating the two produced the miss. Corpus precedent for the identical FCM Green Municipal Fund Agreement pattern (b26197dd53d0, 70881ca02a83, near-identical wording) is classified climate/application-approval/expansive/high elsewhere; this batch's null call for the structurally identical 998400eb3bed-style report-back sub-motion is correct, but 55da1ef00dc2 is the main APPROVE-the-Agreement motion, not that sub-motion type."
+  "verifierNote": "REFUTED the 'informational_ask' null call. The clause's operative verbs are 'BE INTRODUCED' (the by-law) and imperative 'APPROVE'/'AUTHORIZE' (the grant agreement and its execution) -- a real, binding decision to accept FCM funding and authorize the Mayor to sign, not a 'BE DIRECTED to report back/study' non-decision. The word 'studying' describes what the FUNDED PROJECT will do, not what COUNCIL'S OWN motion asks staff to do -- conflating the two produced the miss. Corpus precedent for the identical FCM Green Municipal Fund Agreement pattern (b26197dd53d0 (superseded id), 70881ca02a83 (superseded id), near-identical wording) is classified climate/application-approval/expansive/high elsewhere; this batch's null call for the structurally identical 998400eb3bed (superseded id)-style report-back sub-motion is correct, but 55da1ef00dc2 (superseded id) is the main APPROVE-the-Agreement motion, not that sub-motion type."
  },
  {
   "id": "58db43988f32",
@@ -123,7 +123,7 @@
   "quote": "APPROVE the Green Municipal Fund Grant Agreement, CORE-24-0309, (\u201cAgreement\u201d) between the Federation of Canadian Municipalities (\u201cFCM\u201d) and The Corporation of the City of London for the provision of funding for studying the feasibility of municipal fleet electrification in London, Ontario",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Same miss pattern as 55da1ef00dc2 (see that note): the motion's operative content is APPROVE the Agreement + AUTHORIZE execution, a genuine funding decision, not an informational ask. Corrected to climate/application-approval/expansive, matching corpus precedent (b26197dd53d0, 70881ca02a83) for this exact FCM Green Municipal Fund Agreement wording pattern."
+  "verifierNote": "Same miss pattern as 55da1ef00dc2 (superseded id) (see that note): the motion's operative content is APPROVE the Agreement + AUTHORIZE execution, a genuine funding decision, not an informational ask. Corrected to climate/application-approval/expansive, matching corpus precedent (b26197dd53d0 (superseded id), 70881ca02a83 (superseded id)) for this exact FCM Green Municipal Fund Agreement wording pattern."
  },
  {
   "id": "d9d8403a1f92",
@@ -227,7 +227,7 @@
   "quote": "APPROVE the Green Municipal Fund Grant Agreement, CORE-24-0309, (\u201cAgreement\u201d) between the Federation of Canadian Municipalities (\u201cFCM\u201d) and The Corporation of the City of London for the provision of funding for studying the feasibility of municipal fleet electrification in London, Ontario",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Committee-stage counterpart of 362a510b1fad (2026-02-23 ICSC item 2.3, verbatim-identical operative text to the 2026-03-03 Council version). Same miss pattern: this is the APPROVE-the-Agreement motion, not a report-back ask. Corrected to climate/application-approval/expansive."
+  "verifierNote": "Committee-stage counterpart of 362a510b1fad (superseded id) (2026-02-23 ICSC item 2.3, verbatim-identical operative text to the 2026-03-03 Council version). Same miss pattern: this is the APPROVE-the-Agreement motion, not a report-back ask. Corrected to climate/application-approval/expansive."
  },
  {
   "id": "485eab0dc97e",
@@ -254,7 +254,7 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified full motion text: committee-stage duplicate of c8ea26a2f919 (same contract award, same reasoning) -- no transit/budget keyword support. Correctly issue:none."
+  "verifierNote": "Verified full motion text: committee-stage duplicate of c8ea26a2f919 (superseded id) (same contract award, same reasoning) -- no transit/budget keyword support. Correctly issue:none."
  },
  {
   "id": "8f1f00225a69",
@@ -318,10 +318,10 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified full motion text and the full multi-motion amendment sequence on this item: this sub-motion's ultimate effect was superseded/mooted by a later vote restating the original (unamended) language, which the final 'as amended' text confirms. Correctly left unresolved rather than assigned a direction. (This is the Stevenson 'part a) BE AMENDED ... one-year contract renewal' motion, Passed 8-7; the item's FINAL 'as amended' text ultimately re-reads the original unamended multi-year language, per the S. Lewis 'a) ... BE ENDORSED' motion that passed 14-1 afterward -- see 24d580d71e55.)"
+  "verifierNote": "Verified full motion text and the full multi-motion amendment sequence on this item: this sub-motion's ultimate effect was superseded/mooted by a later vote restating the original (unamended) language, which the final 'as amended' text confirms. Correctly left unresolved rather than assigned a direction. (This is the Stevenson 'part a) BE AMENDED ... one-year contract renewal' motion, Passed 8-7; the item's FINAL 'as amended' text ultimately re-reads the original unamended multi-year language, per the S. Lewis 'a) ... BE ENDORSED' motion that passed 14-1 afterward -- see 24d580d71e55 (superseded id).)"
  },
  {
-  "id": "30d74e2a7ba7",
+  "id": "dd3dd7b9b4da",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -347,7 +347,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "7bb597179dbc",
+  "id": "c909b7d954e0",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -356,7 +356,7 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified full motion text and the full multi-motion amendment sequence on this item: this sub-motion's ultimate effect was superseded/mooted by a later vote restating the original (unamended) language, which the final 'as amended' text confirms. Correctly left unresolved rather than assigned a direction. (This is the second, near-duplicate 'i) ... one-year contract renewal' re-vote (S. Lewis), Failed 7-8, disambiguated from c11a27095483 by its distinct yea/nay roster.)"
+  "verifierNote": "Verified full motion text and the full multi-motion amendment sequence on this item: this sub-motion's ultimate effect was superseded/mooted by a later vote restating the original (unamended) language, which the final 'as amended' text confirms. Correctly left unresolved rather than assigned a direction. (This is the second, near-duplicate 'i) ... one-year contract renewal' re-vote (S. Lewis), Failed 7-8, disambiguated from c11a27095483 (superseded id) by its distinct yea/nay roster.)"
  },
  {
   "id": "8f85d5dd9031",
@@ -424,7 +424,7 @@
   "verifierNote": "Independently loaded full motion text from meeting JSON; issue, axis, polarity, and verbatim quote all verified against the operative clause and voter roster. No refutation found."
  },
  {
-  "id": "079a29d967cf",
+  "id": "3645f10bf997",
   "issue": "none",
   "axis": null,
   "polarity": null,

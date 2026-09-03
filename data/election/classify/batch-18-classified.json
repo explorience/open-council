@@ -460,5 +460,18 @@
   "confidence": "high",
   "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for 2024 only for Business Case #P-51 \u2013 Transit Service Hours Growth, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, as approved by the London Transit Commission on January 31, 2024, by increasing funding as follows",
   "flags": []
+ },
+ {
+  "id": "fc4e69d01fa8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Noted receipt of five public communications on the graphic-images display item, without deciding the matter.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
  }
 ]

@@ -10,7 +10,7 @@
   "flags": []
  },
  {
-  "id": "2c152e11e58a",
+  "id": "517dd3cd276a",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -42,7 +42,7 @@
   "flags": []
  },
  {
-  "id": "f5ad254fd54f",
+  "id": "951943522c64",
   "issue": "housing",
   "axis": "use-permission",
   "polarity": "expansive",
@@ -277,7 +277,7 @@
   "flags": []
  },
  {
-  "id": "30d74e2a7ba7",
+  "id": "dd3dd7b9b4da",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -299,7 +299,7 @@
   "flags": []
  },
  {
-  "id": "7bb597179dbc",
+  "id": "c909b7d954e0",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -364,7 +364,7 @@
   "flags": []
  },
  {
-  "id": "079a29d967cf",
+  "id": "3645f10bf997",
   "issue": "none",
   "axis": null,
   "polarity": null,

@@ -156,7 +156,7 @@
   "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Loaded item 2.1 (ICSC committee stage, Passed 5-1) \u2014 the committee-stage sibling of 3d072ced8231, same text. Same axis correction as 3d072ced8231 (application-approval, not service-expansion \u2014 see that entry's note). Additionally reworded whatAYeaDid to 'Recommended' framing: this is a committee recommendation to Council, not a final decision (Council ratified it separately three weeks later at item 8.3.3) \u2014 the classifier itself used this same 'Recommended' framing for dbe25f95d138 (also a committee-stage recommendation later ratified at Council) but not consistently here; corrected for consistency and to avoid stating a committee vote 'increased' a contract that was still subject to Council's own vote."
+  "verifierNote": "Loaded item 2.1 (ICSC committee stage, Passed 5-1) \u2014 the committee-stage sibling of 3d072ced8231 (superseded id), same text. Same axis correction as 3d072ced8231 (superseded id) (application-approval, not service-expansion \u2014 see that entry's note). Additionally reworded whatAYeaDid to 'Recommended' framing: this is a committee recommendation to Council, not a final decision (Council ratified it separately three weeks later at item 8.3.3) \u2014 the classifier itself used this same 'Recommended' framing for dbe25f95d138 (superseded id) (also a committee-stage recommendation later ratified at Council) but not consistently here; corrected for consistency and to avoid stating a committee vote 'increased' a contract that was still subject to Council's own vote."
  },
  {
   "id": "79a4be5c9084",
@@ -180,7 +180,7 @@
   "quote": "the proposed by-law as appended to the staff report dated September 9, 2025, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on September 23, 2025, to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject properties FROM a Residential R1 (R1-4) Zone TO a Residential R1/Residential R8 Special Provision (R1-4/R8-4(_)) Zone",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Loaded item 3.8 (PEC committee stage, 767 Southdale Rd E, Passed 4-1): identical rezoning clause to 5dc4e9be01e4 one meeting cycle earlier; classifier correctly used 'Recommended' (not 'Approved') to reflect this is the committee-stage recommendation later ratified by Council, not the final decision itself."
+  "verifierNote": "Loaded item 3.8 (PEC committee stage, 767 Southdale Rd E, Passed 4-1): identical rezoning clause to 5dc4e9be01e4 (superseded id) one meeting cycle earlier; classifier correctly used 'Recommended' (not 'Approved') to reflect this is the committee-stage recommendation later ratified by Council, not the final decision itself."
  },
  {
   "id": "5f8aa51302f2",
@@ -363,7 +363,7 @@
   "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Loaded item 8.4.7 (Council, Wellington St AECOM construction-inspection contract increase, Passed 13-2). Same axis correction as 3d072ced8231 and the same reasoning: a contract-price increase and financing approval is not itself a service/infrastructure expansion under the axis's own definition (increase-verb within 60 chars of service/route/frequency/network/infrastructure does not fire on this text) \u2014 corrected to application-approval. This is the final Council decision (not committee stage), so the 'Increased/approved' whatAYeaDid wording is accurate as-is."
+  "verifierNote": "Loaded item 8.4.7 (Council, Wellington St AECOM construction-inspection contract increase, Passed 13-2). Same axis correction as 3d072ced8231 (superseded id) and the same reasoning: a contract-price increase and financing approval is not itself a service/infrastructure expansion under the axis's own definition (increase-verb within 60 chars of service/route/frequency/network/infrastructure does not fire on this text) \u2014 corrected to application-approval. This is the final Council decision (not committee stage), so the 'Increased/approved' whatAYeaDid wording is accurate as-is."
  },
  {
   "id": "6bb73746bbfc",
@@ -375,7 +375,7 @@
   "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "Loaded item 2.4 (ICSC committee stage, Passed 4-1) \u2014 the committee-stage sibling of 883ee33ef545, same text. Same axis correction (application-approval, not service-expansion) and same committee-stage wording fix as cf36e50bdd48 (this is a recommendation later ratified by Council, not a final decision itself)."
+  "verifierNote": "Loaded item 2.4 (ICSC committee stage, Passed 4-1) \u2014 the committee-stage sibling of 883ee33ef545 (superseded id), same text. Same axis correction (application-approval, not service-expansion) and same committee-stage wording fix as cf36e50bdd48 (superseded id) (this is a recommendation later ratified by Council, not a final decision itself)."
  },
  {
   "id": "fa341d3011fc",

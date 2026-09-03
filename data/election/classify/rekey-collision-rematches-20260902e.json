@@ -1,0 +1,26 @@
+[
+ {
+  "id": "478dc258ce7d",
+  "was_colliding_into": "dfe87ddfc742",
+  "rematched_to": "f5d2c8a7250b",
+  "note": "verifierNote pins this to item 4.1 content[13] ('Motion to approve part a), as amended.', Passed 14-1) by explicit index; the loser's quote (Bradley Ave clause) was reconstructed from content[10], the one amendment that ever touched part a) - not a duplicate of the survivor's own content[10] amendment vote."
+ },
+ {
+  "id": "2c6d64497d4d",
+  "was_colliding_into": "82934bf94ea3",
+  "rematched_to": "25119154026c",
+  "note": "verifierNote pins this to item 2.5 content[3] ('Motion to approve parts a) and b) of the clause', Failed 2-2) by exact wrapper-text quote; substantively distinct from the survivor's weekday-only narrowing amendment (content[2]) - loser is the un-narrowed, $300k-funded main motion."
+ },
+ {
+  "id": "c58fcf1c3125",
+  "was_colliding_into": "c0a130b2b91f",
+  "rematched_to": "fc4e69d01fa8",
+  "note": "verifierNote pins this to item 4.1 content[2] (Passed 4-1, 'noted... communications... were received') by explicit index; the 5 named senders in content[2]'s text match the loser's own 'five public communications' wording. Substantively distinct from the survivor's referral-back-to-Administration vote."
+ },
+ {
+  "id": "afa632a6cb38",
+  "was_colliding_into": "82920ae88a00",
+  "rematched_to": "456e873da7c2",
+  "note": "verifierNote names the target verbatim - \"the standalone 'Part b), as amended, BE APPROVED' vote (Passed 7-6)\" - which is 456e873da7c2's exact raw wrapper text; loser's quote was reconstructed from the survivor's own amendment content (part b's declared text) the same way 478dc258ce7d's was, not evidence the two are the same roll call."
+ }
+]

@@ -64,7 +64,7 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "SPPC 2026-02-03 item 2.3, final 'the motion, as amended, BE APPROVED' (7-4) matches manifest exactly. Quote verbatim in motion_texts. Same program as a23c5771a121 but at committee stage (correctly labelled '(at committee)' in whatAYeaDid, not misrepresented as a final Council decision) with the pre-amendment $1.04M/Aug-2028 figures, which the description correctly reflects."
+  "verifierNote": "SPPC 2026-02-03 item 2.3, final 'the motion, as amended, BE APPROVED' (7-4) matches manifest exactly. Quote verbatim in motion_texts. Same program as a23c5771a121 (superseded id) but at committee stage (correctly labelled '(at committee)' in whatAYeaDid, not misrepresented as a final Council decision) with the pre-amendment $1.04M/Aug-2028 figures, which the description correctly reflects."
  },
  {
   "id": "d385bdf2c1a0",
@@ -82,7 +82,7 @@
   "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
  },
  {
-  "id": "cad64d3f88f7",
+  "id": "93812c484ecf",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -94,7 +94,7 @@
   "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
  },
  {
-  "id": "5e53d3d0a2d1",
+  "id": "a114f764ba10",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -240,7 +240,7 @@
   "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
  },
  {
-  "id": "8f88260bbc7b",
+  "id": "1604cf591bfc",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -254,7 +254,7 @@
   "verifierNote": "CPSC 2026-01-26 item 4.2 (Temporary Warming Centres), 'part d) of the motion, as amended, BE APPROVED' (4-2, Yeas Lewis/Pribil/Trosow/Ferreira vs Nays Hopkins/Peloza) matches manifest exactly and is the correct sub-motion (not the 4-2 part e)ii) that has a different, swapped lineup) -- whatAYeaDid's 'adjust closing time + additional garbage/CIR support' maps precisely onto part d)'s text, not onto the 24/7-warming-centre scenario in e)ii). Quote 'provide additional garbage and CIR support as needed' is verbatim. encampments/response-scale/expansive is defensible ('additional' + 'support' is literally the operative language) though I'd flag it as a marginal case for the aggregator: the clause is mostly a scheduling adjustment, and the support increase is conditioned on 'as needed' -- not a false statement, but a thin one. Confidence 'medium' is appropriately hedged already."
  },
  {
-  "id": "c9e3b7f7b362",
+  "id": "2feca9b0f265",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -269,7 +269,7 @@
   "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
  },
  {
-  "id": "b4e5ab806f41",
+  "id": "6317d0acde87",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -381,7 +381,7 @@
   "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
  },
  {
-  "id": "e92845765097",
+  "id": "32530a45cd44",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -395,7 +395,7 @@
   "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
  },
  {
-  "id": "ed4f4a5e9b2e",
+  "id": "f825db08c9f2",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -409,7 +409,7 @@
   "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
  },
  {
-  "id": "0d6178fd82e4",
+  "id": "b434b504f72f",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -473,7 +473,7 @@
   "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R3 Special Provision (R3-2(4)) Zone TO a Residential R9 Special Provision (R9-7( )) Zone, BE REFUSED",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "PEC 2025-12-02 item 3.5, motion (4-1) matches manifest exactly. Quote verbatim: rezoning FROM R3 TO the higher-density R9, 'BE REFUSED'. housing/density/restrictive is correct and correctly avoids the denial-flip trap: the classifier read 'refusing an increase' as restrictive rather than naively treating 'REFUSED' as some kind of default-restrictive/default-expansive flip on an unrelated axis. Correctly the mirror-image of 106cac54de25 (R5/R1->R8 approved, expansive) rather than conflated with it."
+  "verifierNote": "PEC 2025-12-02 item 3.5, motion (4-1) matches manifest exactly. Quote verbatim: rezoning FROM R3 TO the higher-density R9, 'BE REFUSED'. housing/density/restrictive is correct and correctly avoids the denial-flip trap: the classifier read 'refusing an increase' as restrictive rather than naively treating 'REFUSED' as some kind of default-restrictive/default-expansive flip on an unrelated axis. Correctly the mirror-image of 106cac54de25 (superseded id) (R5/R1->R8 approved, expansive) rather than conflated with it."
  },
  {
   "id": "fab4bba8238c",
@@ -555,7 +555,7 @@
   "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance."
  },
  {
-  "id": "ca884d26134a",
+  "id": "77a5282a02cc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -567,7 +567,7 @@
   "verifierNote": "Independently loaded the full meeting-item JSON and traced this id to its exact sub-motion via voter-lineup matching against _all-motions.json (or, where lineups were unique, directly). Vote tally and quoted/paraphrased text match the actual record. No axis in issue-rules.ts/direction-rules.ts cleanly covers the operative clause (pure referral/report-back/receive, a procedural extension, a personnel/appointment matter, a loan-term or eligibility parameter with no defined axis, an issue outside the 8 tracked clusters, or a genuinely two-sided procurement/administrative approval with no stated direction) -- null polarity confirmed as the safe, correct call. No unambiguous, independently-quotable direction was found that would justify overturning to a stance. Cross-checked against the collision the classifier flagged in its notes using _all-motions.json's own motionText field (which already carries the disambiguating 'part b)/c)/d)' or amendment-vs-final-approval label per id) -- the hand-fix holds up: each id's whatAYeaDid text matches its motionText's specific sub-clause exactly, and none of these are misassigned to the wrong vote lineup."
  },
  {
-  "id": "59a101fa692b",
+  "id": "c673ba549adb",
   "issue": "none",
   "axis": null,
   "polarity": null,

@@ -75,7 +75,7 @@
   "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to remove Capital Project RC1036 Dundas Place Equipment as set out in the Base Capital Budget of the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed. Item 8.2.15, Passed 9-6, quote verbatim-matches. Same reasoning as da942ff268c5 (Dundas Place Equipment, same tie-break logic, same generic-fallback axis). Restrictive is correct."
+  "verifierNote": "Confirmed. Item 8.2.15, Passed 9-6, quote verbatim-matches. Same reasoning as da942ff268c5 (superseded id) (Dundas Place Equipment, same tie-break logic, same generic-fallback axis). Restrictive is correct."
  },
  {
   "id": "e40d08685a24",
@@ -137,7 +137,7 @@
   "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing Business Case #P-29 by 5%",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed. Item 8.2.26 content[0], Failed 7-8, quote verbatim ('reducing Business Case #P-29 by 5%'). Own text doesn't self-identify P-29 as police, but the sibling motion in the SAME item (content[1], d16bcff25aa5) explicitly reads 'Business Case #P-29 - Police Vehicle and Equipment Requirements' \u2014 same numbered business case, same agenda item, legitimate cross-reference. Medium confidence appropriately retained. Restrictive is correct."
+  "verifierNote": "Confirmed. Item 8.2.26 content[0], Failed 7-8, quote verbatim ('reducing Business Case #P-29 by 5%'). Own text doesn't self-identify P-29 as police, but the sibling motion in the SAME item (content[1], d16bcff25aa5 (superseded id)) explicitly reads 'Business Case #P-29 - Police Vehicle and Equipment Requirements' \u2014 same numbered business case, same agenda item, legitimate cross-reference. Medium confidence appropriately retained. Restrictive is correct."
  },
  {
   "id": "06118a731cb5",
@@ -471,7 +471,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Confirmed. Item 8.3.4 content[1], Failed 3-12, quote-equivalent text verbatim ('BE REFERRED back to Civic Administration to meet with the service providers and review the proposed budgets... two-year rather than one-year renewal agreements and report back...'). Genuine referral, correctly polarity=null. Note: item 8.3.4's content[0] (Passed 13-2, the SS-2024-042 Housing Stability Services main approval \u2014 a substantive, divided, ~$4.85M decision) has no id anywhere in the manifest and is absent from every batch I can see \u2014 flagging as a possible upstream completeness gap outside this batch's scope, not something to fix here since 88ae9c2045ab's own classification is independently correct."
+  "verifierNote": "Confirmed. Item 8.3.4 content[1], Failed 3-12, quote-equivalent text verbatim ('BE REFERRED back to Civic Administration to meet with the service providers and review the proposed budgets... two-year rather than one-year renewal agreements and report back...'). Genuine referral, correctly polarity=null. Note: item 8.3.4's content[0] (Passed 13-2, the SS-2024-042 Housing Stability Services main approval \u2014 a substantive, divided, ~$4.85M decision) has no id anywhere in the manifest and is absent from every batch I can see \u2014 flagging as a possible upstream completeness gap outside this batch's scope, not something to fix here since 88ae9c2045ab (superseded id)'s own classification is independently correct."
  },
  {
   "id": "3c354823c7a9",
@@ -548,5 +548,20 @@
   "flags": [],
   "verdict": "confirmed",
   "verifierNote": "Confirmed. Item 3.23 content[0], Failed 7-8, quote verbatim matches. 2024-only transit growth-hours funding increase ($1,646,600/yr), expansive on transit correct."
+ },
+ {
+  "id": "fc4e69d01fa8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Noted receipt of five public communications on the graphic-images display item, without deciding the matter.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Item 4.1 content[2], Passed 4-1, matches ('noted... communications... were received'). Pure informational receipt, correctly excluded."
  }
 ]

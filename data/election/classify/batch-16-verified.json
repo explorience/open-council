@@ -89,7 +89,7 @@
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against full committee-stage expropriation text (2024-05-27 CSC); identical substance to 895b8202a9e6, correctly the committee-stage twin. Vote 3-2 matches manifest."
+  "verifierNote": "Verified against full committee-stage expropriation text (2024-05-27 CSC); identical substance to 895b8202a9e6 (superseded id), correctly the committee-stage twin. Vote 3-2 matches manifest."
  },
  {
   "id": "e79ffb05d1cd",
@@ -104,7 +104,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified: full committee-stage referral/policy-review motion (3-2), identical substance to the two Council-stage sub-votes (85f4e71a97c2 + 10af824efbb5) bundled into one vote here. Correctly null."
+  "verifierNote": "Verified: full committee-stage referral/policy-review motion (3-2), identical substance to the two Council-stage sub-votes (85f4e71a97c2 (superseded id) + 10af824efbb5 (superseded id)) bundled into one vote here. Correctly null."
  },
  {
   "id": "3c8b22351970",
@@ -146,7 +146,7 @@
   "verifierNote": "Verified against full 193-199 College Ave motion text: quote verbatim, density figures (196 units/hectare, 21m height) present in the same clause. BE ENDORSED matches the AFFIRM verb list. housing/application-approval/expansive correct."
  },
  {
-  "id": "bce613972380",
+  "id": "c395bc56dc01",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -155,10 +155,10 @@
   "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against full item 8.2.7 (2024-05-14 Council): this is the AMENDMENT vote (11-3) adding new parts c-f (on-street + Old East Village parking). Distinguished from the tied-vote-count sibling 6f9f69f3a0d5 (the separate confirming vote for the same parts) by content -- both correctly downtown/expansive."
+  "verifierNote": "Verified against full item 8.2.7 (2024-05-14 Council): this is the AMENDMENT vote (11-3) adding new parts c-f (on-street + Old East Village parking). Distinguished from the tied-vote-count sibling ab5f8240872a (the separate confirming vote for the same parts) by content -- both correctly downtown/expansive."
  },
  {
-  "id": "6f9f69f3a0d5",
+  "id": "ab5f8240872a",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -169,7 +169,7 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified: the confirming vote (11-3, same count as bce613972380 but a distinct content entry) re-stating parts c-f as approved. Quote verbatim in this content entry (not borrowed from elsewhere). Correct."
+  "verifierNote": "Verified: the confirming vote (11-3, same count as c395bc56dc01 but a distinct content entry) re-stating parts c-f as approved. Quote verbatim in this content entry (not borrowed from elsewhere). Correct."
  },
  {
   "id": "05d0f12626d5",
@@ -209,7 +209,7 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against full item 8.5.11: the 11-3 vote is the amendment ADDING the parking-lot-progress note, not the underlying one-year extension itself (that's a separate vote, e313598d210c). Quote verbatim. Correctly null (a note, decides nothing about extension length)."
+  "verifierNote": "Verified against full item 8.5.11: the 11-3 vote is the amendment ADDING the parking-lot-progress note, not the underlying one-year extension itself (that's a separate vote, e313598d210c (superseded id)). Quote verbatim. Correctly null (a note, decides nothing about extension length)."
  },
  {
   "id": "c35d8ca5164a",
@@ -277,7 +277,7 @@
   "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 14, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to extend the Temporary Use (T-79) Zone as it applies to the area of land located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street for a period not to exceed one (1) year",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against full committee-stage Hewitt St motion: matches the Council-stage twin (e313598d210c) in substance. housing/expansive correct."
+  "verifierNote": "Verified against full committee-stage Hewitt St motion: matches the Council-stage twin (e313598d210c (superseded id)) in substance. housing/expansive correct."
  },
  {
   "id": "82934bf94ea3",
@@ -289,7 +289,7 @@
   "quote": "the Civic Administration BE DIRECTED to implement a free weekday 1-hour on-street parking program for the Core Area until the end of 2024",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against full item 2.5 (2024-04-29 CPSC): this is the weekday-narrowing amendment (2-2 FAILED), distinguished from the tied-count sibling 2c6d64497d4d by content. application-approval/expansive is the honest generic-fallback read (BE DIRECTED matches AFFIRM); no issue."
+  "verifierNote": "Verified against full item 2.5 (2024-04-29 CPSC): this is the weekday-narrowing amendment (2-2 FAILED), distinguished from the tied-count sibling 25119154026c by content. application-approval/expansive is the honest generic-fallback read (BE DIRECTED matches AFFIRM); no issue."
  },
  {
   "id": "77316a900d35",
@@ -369,7 +369,7 @@
   "quote": "ix) AMEND Schedule 1 from 18 storeys with an upper maximum of 22 storeys; and, x) AMEND Schedule 1 from 25% affordable housing to 10% to 15% affordable housing;",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against full item 8.1.6 (2024-04-23 Council, 5 content entries): parts ix (height 18->22 storeys) and x (affordable housing 25%->10-15%) ARE genuinely bundled into ONE 12-2 recorded vote here (unlike the committee-stage twin, see 057d37f642a6 correction) -- the height amendment has no separate vote at Council. Correctly left null; a single polarity would misstate one side of Hopkins/Trosow's nay."
+  "verifierNote": "Verified against full item 8.1.6 (2024-04-23 Council, 5 content entries): parts ix (height 18->22 storeys) and x (affordable housing 25%->10-15%) ARE genuinely bundled into ONE 12-2 recorded vote here (unlike the committee-stage twin, see 057d37f642a6 (superseded id) correction) -- the height amendment has no separate vote at Council. Correctly left null; a single polarity would misstate one side of Hopkins/Trosow's nay."
  },
  {
   "id": "e1c6bcfbc67e",
@@ -381,7 +381,7 @@
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against full East London Link Phase 4 expropriation text; item title itself names the project, and the same-batch 6b28a5a67b85 independently confirms 'East London Link' as a Rapid Transit Implementation corridor (explicit RFP naming). transit/expansive well-supported."
+  "verifierNote": "Verified against full East London Link Phase 4 expropriation text; item title itself names the project, and the same-batch 6b28a5a67b85 (superseded id) independently confirms 'East London Link' as a Rapid Transit Implementation corridor (explicit RFP naming). transit/expansive well-supported."
  },
  {
   "id": "a58e3879b5b5",
@@ -487,7 +487,7 @@
   "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against full Council-added-item transit-pass-pilot text, identical substance to d1fc73f17bb5 (the committee-stage twin). Correct."
+  "verifierNote": "Verified against full Council-added-item transit-pass-pilot text, identical substance to d1fc73f17bb5 (superseded id) (the committee-stage twin). Correct."
  },
  {
   "id": "4d1262df6cd6",
@@ -501,7 +501,7 @@
    "referral"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against full text: contains BOTH a referral clause (part a) AND a distinct AFFIRM clause (part b, 'BE DIRECTED to extend an invitation') -- mechanically this would NOT trigger the deferOnly guard, and 'extend an invitation to attend the meeting' doesn't match any INFORMATIONAL_ASK phrase either, so a naive rule-based read would misclassify this FAILED (4-11) motion as 'approved the transit item.' The classifier's substance-based read (true intent = referral attempt, unclear) is the correct call here and is corroborated by the same item's motion[0] (e294e35cf969) separately passing 13-2 as the real decision. Confirmed as a deliberate, well-reasoned override, not an oversight."
+  "verifierNote": "Verified against full text: contains BOTH a referral clause (part a) AND a distinct AFFIRM clause (part b, 'BE DIRECTED to extend an invitation') -- mechanically this would NOT trigger the deferOnly guard, and 'extend an invitation to attend the meeting' doesn't match any INFORMATIONAL_ASK phrase either, so a naive rule-based read would misclassify this FAILED (4-11) motion as 'approved the transit item.' The classifier's substance-based read (true intent = referral attempt, unclear) is the correct call here and is corroborated by the same item's motion[0] (e294e35cf969 (superseded id)) separately passing 13-2 as the real decision. Confirmed as a deliberate, well-reasoned override, not an oversight."
  },
  {
   "id": "6158b535a43c",
@@ -513,7 +513,7 @@
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against full committee-stage East London Link expropriation text, identical substance to 6e54e9c40a61. Correct."
+  "verifierNote": "Verified against full committee-stage East London Link expropriation text, identical substance to 6e54e9c40a61 (superseded id). Correct."
  },
  {
   "id": "312ee49489ad",
@@ -525,7 +525,7 @@
   "quote": "the proposed by-law appended to the staff report dated April 9, 2024 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2024 to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Transit Village Place Type and by ADDING the subject lands to Map 7 \u2013 Specific Policies Areas \u2013 of the Official Plan",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against full committee-stage 735 Wonderland Rd N motion text, identical substance to the Council-stage final approval (cc4b3d0d54e6). Correct."
+  "verifierNote": "Verified against full committee-stage 735 Wonderland Rd N motion text, identical substance to the Council-stage final approval (cc4b3d0d54e6 (superseded id)). Correct."
  },
  {
   "id": "da2b9d48655c",
@@ -537,7 +537,7 @@
   "quote": "AMEND Schedule 1 from 25% to 10% to 15% affordable housing;",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "The original entry treated this the same as the Council-stage vote (f1d57d58bac3) -- bundled height-increase + affordable-housing-cut, polarity null. Checked the full committee item (2024-04-09 Planning and Environment Committee, item 3.4): it has 6 content entries, and the height amendment ('AMEND Schedule 1 from 18 to 22 storeys') is a SEPARATE, unanimous 5-0 vote (content[1], not part of this batch, no dissent to misclassify) while the affordable-housing reduction is its own contested 4-1 vote (content[2] -- the one actually assigned to this id, confirmed by exact vote-count match against the manifest's 'Motion Passed (4 to 1)'). Unlike the Council vote, there is no bundling here: this specific record has exactly one, unambiguous direction (reducing a required affordable-housing percentage from 25% to 10-15% is a restrictive move on the affordable-housing axis), so upgraded from null to a confirmed restrictive call with my own quote. f1d57d58bac3 (Council stage, genuinely bundled in one recorded vote) is unaffected and correctly stays null."
+  "verifierNote": "The original entry treated this the same as the Council-stage vote (f1d57d58bac3 (superseded id)) -- bundled height-increase + affordable-housing-cut, polarity null. Checked the full committee item (2024-04-09 Planning and Environment Committee, item 3.4): it has 6 content entries, and the height amendment ('AMEND Schedule 1 from 18 to 22 storeys') is a SEPARATE, unanimous 5-0 vote (content[1], not part of this batch, no dissent to misclassify) while the affordable-housing reduction is its own contested 4-1 vote (content[2] -- the one actually assigned to this id, confirmed by exact vote-count match against the manifest's 'Motion Passed (4 to 1)'). Unlike the Council vote, there is no bundling here: this specific record has exactly one, unambiguous direction (reducing a required affordable-housing percentage from 25% to 10-15% is a restrictive move on the affordable-housing axis), so upgraded from null to a confirmed restrictive call with my own quote. f1d57d58bac3 (superseded id) (Council stage, genuinely bundled in one recorded vote) is unaffected and correctly stays null."
  },
  {
   "id": "403069dd4a08",
@@ -577,6 +577,20 @@
    "wrapper_preamble"
   ],
   "verdict": "corrected",
-  "verifierNote": "MISATTRIBUTED CLAUSE (confirmed via vote-roster cross-check), same failure pattern as e9a18457d74d: item 8.2.11 (2024-04-02 Council) has 5 content entries; the 9-4 recorded vote (Trosow/Lehman/Van Meerbergen/Hillier nays) is content[2], a specific amendment adding a 'higher intensification target' clause -- NOT content[0]'s 'reinitiate the Official Plan Review' language the original entry quoted (that broader text carries no vote of its own here; a different, unanimous-looking confirming vote for 'item 11 clause 3.8 as amended' with a DIFFERENT vote count (9-3, not 9-4) is content[4]). Re-pointed quote/whatAYeaDid to the actual 9-4 clause. Polarity stays expansive (a 'higher intensification target' is a density-increasing direction) but the axis changes from the generic application-approval fallback to density, and the substance is materially narrower than originally described -- the four nay votes opposed the intensification-target amendment specifically, not the Official Plan Review reinitiation broadly."
+  "verifierNote": "MISATTRIBUTED CLAUSE (confirmed via vote-roster cross-check), same failure pattern as e9a18457d74d (superseded id): item 8.2.11 (2024-04-02 Council) has 5 content entries; the 9-4 recorded vote (Trosow/Lehman/Van Meerbergen/Hillier nays) is content[2], a specific amendment adding a 'higher intensification target' clause -- NOT content[0]'s 'reinitiate the Official Plan Review' language the original entry quoted (that broader text carries no vote of its own here; a different, unanimous-looking confirming vote for 'item 11 clause 3.8 as amended' with a DIFFERENT vote count (9-3, not 9-4) is content[4]). Re-pointed quote/whatAYeaDid to the actual 9-4 clause. Polarity stays expansive (a 'higher intensification target' is a density-increasing direction) but the axis changes from the generic application-approval fallback to density, and the substance is materially narrower than originally described -- the four nay votes opposed the intensification-target amendment specifically, not the Official Plan Review reinitiation broadly."
+ },
+ {
+  "id": "25119154026c",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved implementing free one-hour on-street parking in the Core Area, funded up to $300,000; failed at committee (later passed at Council).",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: 'Motion to approve parts a) and b) of the clause' (2-2 FAILED) is a bare wrapper; traced parts a)/b) back to content[1]'s original (pre-weekday-amendment) text since the weekday narrowing failed first -- quote is accurate for what 'parts a and b' refers to at the moment of this vote. Correct."
  }
 ]

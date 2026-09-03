@@ -11,7 +11,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Checked full item 8.2.11 text (CC 2024-04-02). This is the split-off portion of the omnibus amendment (parts j+k: servicing-capacity review + London Plan policy review) that FAILED 6-7, distinct from part i) which passed separately (see f6ec0f5ba0a1's adopted text, which includes only part i). Correctly an informational/study ask with no decision \u2014 confirmed unclear."
+  "verifierNote": "Checked full item 8.2.11 text (CC 2024-04-02). This is the split-off portion of the omnibus amendment (parts j+k: servicing-capacity review + London Plan policy review) that FAILED 6-7, distinct from part i) which passed separately (see f6ec0f5ba0a1 (superseded id)'s adopted text, which includes only part i). Correctly an informational/study ask with no decision \u2014 confirmed unclear."
  },
  {
   "id": "97776c54a9ed",
@@ -68,7 +68,7 @@
   "verifierNote": "Confirmed wrapper vote for the fireworks/business-licensing package (Passed 11-3); issue=none correct since substance isn't a tracked issue regardless of wrapper status."
  },
  {
-  "id": "cbcff6f003da",
+  "id": "c1b110962896",
   "issue": "downtown",
   "axis": null,
   "polarity": null,
@@ -110,7 +110,7 @@
   "verifierNote": "Confirmed against motion text (Hopkins/Ferreira, Passed 8-6): further-amends to report back on financing source for Municipal Lots 1&2 pilot. No 'downtown'/'core area'/'Dundas Place' keyword literally present in THIS specific clause (only in the separate, adjacent free-parking clause) \u2014 issue=none is defensible on the strict own-clause-text standard used elsewhere in this batch (e.g. item 4.3's split). Correctly null (informational ask)."
  },
  {
-  "id": "501477acb39d",
+  "id": "84e5d46baf40",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -124,7 +124,7 @@
   "verifierNote": "Confirmed against motion text (Ferreira/Hopkins, Passed 10-4): 'the amendment, as amended, BE APPROVED' wrapping only the two report-back directions (funding source + event suspension ability). No decision made, correctly null."
  },
  {
-  "id": "8c0d56378293",
+  "id": "08b588117e7e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -164,7 +164,7 @@
   "verifierNote": "Verbatim quote confirmed against motion text (Passed 14-1, the endorsement-only sub-vote separated from the 'received for information' sub-vote). Checked keyword scoring: 'homelessness' + 'whole of community system response' (2 hits) for encampments outscores 'supportive housing' (1 hit) for housing under the mechanical rule, so encampments correctly wins the tie-break over housing. No AXIS_PATTERNS.encampments content match (no fund/response-noun proximity) so generic application-approval fallback via 'BE ENDORSED' (an AFFIRM_RE verb) is correct. No refutation."
  },
  {
-  "id": "7f8dde7b0cde",
+  "id": "126855d5053a",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -206,7 +206,7 @@
   "verifierNote": "Confirmed against motion text (Failed 3-12): report-back ask on funding-arrangement accountability recommendations. No tracked-issue keyword in this clause's own text ('funding' alone isn't a keyword); issue=none correct."
  },
  {
-  "id": "2873091ebefb",
+  "id": "b139e7518cc1",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -294,7 +294,7 @@
   "verifierNote": "Confirmed against motion text (Passed 3-2, add part b)ii)): site-plan park-enhancement condition, no outcome verb of its own and no density/use-permission content. issue=housing justified via the Z-9691 structural code pattern on the item title (not a body keyword), consistent with CODE_PATTERNS design. Correctly null."
  },
  {
-  "id": "9a29a88938a5",
+  "id": "c6cfe754f5bf",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -306,7 +306,7 @@
   "verifierNote": "Confirmed against motion text (Passed 4-1, add part c)i)): road/paving servicing condition, no outcome verb of its own. Same code-pattern basis for issue=housing. Correctly null."
  },
  {
-  "id": "f7d62ff167d6",
+  "id": "aa8ae65918a6",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -346,7 +346,7 @@
   "verifierNote": "Confirmed against motion text (Passed 4-1): 'received for information' on a CAC report, no tracked-issue keyword. Correctly issue=none."
  },
  {
-  "id": "ea318e6bb24c",
+  "id": "eb742a7fe59e",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -360,7 +360,7 @@
   "verifierNote": "Confirmed against motion text (Failed 2-3): pure referral of 6 fireworks-licensing issues to staff. Fireworks/business-licensing isn't a tracked issue; correctly none."
  },
  {
-  "id": "64f29404e5d4",
+  "id": "db7e2484de3c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -372,7 +372,7 @@
   "verifierNote": "Confirmed against motion text (Passed 3-2, approve part a): fireworks business-licensing schedule introduction. Not a tracked issue; correctly none."
  },
  {
-  "id": "2f6b1a65d37c",
+  "id": "f784541e34d7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -384,7 +384,7 @@
   "verifierNote": "Confirmed against motion text (Passed 3-2, approve part b): AMPs penalty schedule for fireworks. Not a tracked issue; correctly none."
  },
  {
-  "id": "607ad95ebe40",
+  "id": "3d99c1e9e784",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -396,7 +396,7 @@
   "verifierNote": "Confirmed against motion text (Failed 2-3, approve part c): fireworks discharge-days by-law, failed at committee. Not a tracked issue; correctly none."
  },
  {
-  "id": "207999647839",
+  "id": "065b017b4197",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -505,7 +505,7 @@
   "quote": "Motion to approve part b) to read as follows: b) \u00a0 \u00a0an extension to the existing Municipal Purchase of Service Agreement with Safe Space London at a total estimated increase of up to $129,000 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary day and overnight drop in space, as per the Corporation of the City of London Procurement Policy Section 20.3 e);",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verbatim quote confirmed (Passed 14-1, approve part b only, Safe Space London). Same single-topic-item reasoning as 6baeec3d4c4d. No refutation."
+  "verifierNote": "Verbatim quote confirmed (Passed 14-1, approve part b only, Safe Space London). Same single-topic-item reasoning as 6baeec3d4c4d (superseded id). No refutation."
  },
  {
   "id": "0f5d526bd0b4",
@@ -569,7 +569,7 @@
   "quote": "Motion to approve part a) to read as follows: a) \u00a0 \u00a0an extension to the existing Municipal Purchase of Service Agreement with London Cares at a total estimated increase of up to $139,600 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary drop-in space and security services, as per the Corporation of the City of London Procurement Policy Section 20.3 e);",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verbatim quote confirmed (Passed 14-1, Council ratification of the London Cares extension). Same single-topic-item reasoning as 6baeec3d4c4d. No refutation."
+  "verifierNote": "Verbatim quote confirmed (Passed 14-1, Council ratification of the London Cares extension). Same single-topic-item reasoning as 6baeec3d4c4d (superseded id). No refutation."
  },
  {
   "id": "99871213993d",
@@ -581,6 +581,6 @@
   "quote": "Motion to approve part b) to read as follows: b) \u00a0 \u00a0an extension to the existing Municipal Purchase of Service Agreement with Safe Space London at a total estimated increase of up to $129,000 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary day and overnight drop in space, as per the Corporation of the City of London Procurement Policy Section 20.3 e);",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verbatim quote confirmed (Passed 14-1, Council ratification of the Safe Space London extension). Same single-topic-item reasoning as 6baeec3d4c4d. No refutation."
+  "verifierNote": "Verbatim quote confirmed (Passed 14-1, Council ratification of the Safe Space London extension). Same single-topic-item reasoning as 6baeec3d4c4d (superseded id). No refutation."
  }
 ]

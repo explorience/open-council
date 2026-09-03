@@ -14,7 +14,7 @@
   "verifierNote": "Verified against 2023-07-25 Council item 9.2.2, 'Motion to approve part a)' (10-4). Quote is a verbatim, exact substring of the operative clause; part a) is the only clause with this result string, so the duplicate-tally id assignment is correct. Body text contains the literal encampments keyword phrase 'whole of community system response'."
  },
  {
-  "id": "dc627b2b906a",
+  "id": "e8a8b1371c72",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -69,7 +69,7 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against the same item's 'Motion to approve part b)' (12-3), the unique 12-3 result in the item. Content and quote match the procurement-directive clause exactly; correctly held to issue=none/unclear for the same report-back reasoning as dc627b2b906a."
+  "verifierNote": "Verified against the same item's 'Motion to approve part b)' (12-3), the unique 12-3 result in the item. Content and quote match the procurement-directive clause exactly; correctly held to issue=none/unclear for the same report-back reasoning as e8a8b1371c72."
  },
  {
   "id": "30b377af1cce",
@@ -163,7 +163,7 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against the same item: 4-2 uniquely matches the added note tying any future 'corridor widening' to the Master Mobility Plan/DC By-laws. 'Corridor widening' is not the literal 'road widening' keyword, so issue=none stands for the same vocabulary-fidelity reason as 857e7f5b870f. No AFFIRM_RE verb of its own (an added note, not an approve/deny), correctly unclear."
+  "verifierNote": "Verified against the same item: 4-2 uniquely matches the added note tying any future 'corridor widening' to the Master Mobility Plan/DC By-laws. 'Corridor widening' is not the literal 'road widening' keyword, so issue=none stands for the same vocabulary-fidelity reason as 857e7f5b870f (superseded id). No AFFIRM_RE verb of its own (an added note, not an approve/deny), correctly unclear."
  },
  {
   "id": "bec426262150",
@@ -178,7 +178,7 @@
   "verifierNote": "Verified against 2023-07-18 committee item 4.2, the item's only substantive vote (5-1). No tracked-issue keyword present (pool/parks/recreation is not one of the 8 clusters; 'combined budget of $1.92 million' does not match any budget-cluster phrase)."
  },
  {
-  "id": "7c7f0d7e4b18",
+  "id": "59b56620d793",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -192,7 +192,7 @@
   "verifierNote": "Verified against 2023-07-18 Civic Works item 4.3: three motions share the '(5 to 1)' result string with two different voter sets. This id's own voter set (Nays: Trosow only) is unique to the delegation-hearing motion, cross-checked against data/votes/_all-motions.json's motionText for this id ('Motion to approve the request for delegation...'). Correctly procedural/issue=none -- the delegation motion's own text carries no topic content."
  },
  {
-  "id": "f2e8250fa897",
+  "id": "676c1437294a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -203,10 +203,10 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against the same item: this id's own _all-motions.json motionText is literally 'Motion to approve part b) of the clause', matching the Mode Target Share Option 1 removal request -- correctly distinguished from 668e28b03700 (part a). No literal issue keyword in this clause's body (report title says 'Master Mobility Plan', reversed word order from the tracked keyword 'mobility master plan', so no match either way)."
+  "verifierNote": "Verified against the same item: this id's own _all-motions.json motionText is literally 'Motion to approve part b) of the clause', matching the Mode Target Share Option 1 removal request -- correctly distinguished from b6f25963d471 (part a). No literal issue keyword in this clause's body (report title says 'Master Mobility Plan', reversed word order from the tracked keyword 'mobility master plan', so no match either way)."
  },
  {
-  "id": "668e28b03700",
+  "id": "b6f25963d471",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -217,7 +217,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against the same item: this id's own _all-motions.json motionText is literally 'Motion to approve part a) of the clause' (the staff report BE RECEIVED), sharing a voter set with f2e8250fa897 but independently disambiguated by the ground-truth motionText field, not by guesswork. Same reversed-word-order non-match on 'mobility master plan' as above -- issue=none is the literal-vocabulary-faithful call."
+  "verifierNote": "Verified against the same item: this id's own _all-motions.json motionText is literally 'Motion to approve part a) of the clause' (the staff report BE RECEIVED), sharing a voter set with 676c1437294a but independently disambiguated by the ground-truth motionText field, not by guesswork. Same reversed-word-order non-match on 'mobility master plan' as above -- issue=none is the literal-vocabulary-faithful call."
  },
  {
   "id": "b532d022e0bf",
@@ -284,7 +284,7 @@
   "verifierNote": "REFUTED. Read the full 221 Queens Avenue record across three meetings (2023-06-12 committee, 2023-06-27 Council, 2023-07-17 committee). The T-69 'temporary use' being extended is explicitly a commercial SURFACE PARKING LOT, not housing. The city's own staff reasoning at 2023-06-12/06-27 states verbatim: 'the request to extend the temporary zone for a period of three (3) years ... does not encourage long-term redevelopment of the site in support of achieving London's Housing Pledge target of 47,000 units by 2031' and recommends only a 1-year extension instead, specifically 'to allow existing users of the surface commercial parking lot to make alternative parking arrangements while encouraging long-term redevelopment ... to a more intense, transit-supportive use ... that generates new housing units in the Downtown Core.' The July 17 vote this record represents grants the FULL 3-year extension anyway (notwithstanding the Director's recommendation), i.e. the more parking-lot-preserving, less housing-redevelopment-friendly outcome on the city's own terms. The classifier's 'expansive' label came from the engine's generic application-approval fallback (AFFIRM_RE firing on 'BE INTRODUCED') with no actual housing-content signal -- this is exactly the title-vs-operative-clause / generic-fallback mismatch trap: 'approved a housing-tagged item' does not mean 'approved more housing' when the item is extending a parking lot's life against staff's own housing-pledge reasoning. I cannot supply a clean, unambiguous quote for a confident 'restrictive' flip either, since the July 17 clause's OWN stated reasons assert conformity rather than restating the anti-housing framing (the record shows the committee's position shifted after an enhanced landscaping-plan concession was negotiated in the intervening referral). Downgraded polarity/axis to null rather than guess a direction I can't fully substantiate from the operative clause's own text."
  },
  {
-  "id": "33d58ac12201",
+  "id": "35be65b5eb9a",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -296,7 +296,7 @@
   "verifierNote": "Verified against 2023-07-17 Planning item 4.3: 3-2, matching the amendment adding the asphalt-shingle roof approval as new part b). Heritage alteration is not one of the 8 tracked issues; issue=none correct."
  },
  {
-  "id": "7663dd403df0",
+  "id": "b56edbcc7046",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -305,7 +305,7 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against the same item: a second 3-2 vote with an identical voter set formally approves part b) of the now-amended motion (a redundant procedural confirmation of the same substance as 33d58ac12201). Same non-tracked-issue reasoning applies."
+  "verifierNote": "Verified against the same item: a second 3-2 vote with an identical voter set formally approves part b) of the now-amended motion (a redundant procedural confirmation of the same substance as 35be65b5eb9a). Same non-tracked-issue reasoning applies."
  },
  {
   "id": "002908704218",
@@ -387,7 +387,7 @@
    "appointment"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against the same item: the unique 0-13 FAILED result matches the reconsideration vote re-putting McAlister's appointment to Lower Thames Valley Conservation Authority. Same pure-appointment reasoning as 15ebb068b60b; override confirmed correct."
+  "verifierNote": "Verified against the same item: the unique 0-13 FAILED result matches the reconsideration vote re-putting McAlister's appointment to Lower Thames Valley Conservation Authority. Same pure-appointment reasoning as 15ebb068b60b (superseded id); override confirmed correct."
  },
  {
   "id": "0e5ddf4f37a0",
@@ -401,7 +401,7 @@
    "referral"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-06-27 Council item 8.4.4: the unique 10-3 result matches the referral of the 221 Queens Avenue application back to Planning and Environment Committee 'for additional discussion ... including the incorporation of an enhanced landscaping plan and the consideration of a three (3) year extension.' Pure referral (DEFER_RE fires, no AFFIRM), correctly unclear -- this is the referral that led to the eventual (and, per 8fb0cfa6e7c6 above, questionably-labeled) July 17 approval."
+  "verifierNote": "Verified against 2023-06-27 Council item 8.4.4: the unique 10-3 result matches the referral of the 221 Queens Avenue application back to Planning and Environment Committee 'for additional discussion ... including the incorporation of an enhanced landscaping plan and the consideration of a three (3) year extension.' Pure referral (DEFER_RE fires, no AFFIRM), correctly unclear -- this is the referral that led to the eventual (and, per 8fb0cfa6e7c6 (superseded id) above, questionably-labeled) July 17 approval."
  },
  {
   "id": "8bd754cff302",
@@ -507,7 +507,7 @@
    "appointment"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-06-20 committee item 4.1, the unique 9-4 result in the item (Van Meerbergen appointed to Kettle Creek Conservation Authority). Pure appointment with no other content; the classifier's override of the engine's 'climate' mis-tag is correct, same reasoning as 15ebb068b60b/c3af45aa8db7."
+  "verifierNote": "Verified against 2023-06-20 committee item 4.1, the unique 9-4 result in the item (Van Meerbergen appointed to Kettle Creek Conservation Authority). Pure appointment with no other content; the classifier's override of the engine's 'climate' mis-tag is correct, same reasoning as 15ebb068b60b (superseded id)/c3af45aa8db7 (superseded id)."
  },
  {
   "id": "313a34b7ef90",
@@ -531,7 +531,7 @@
   "quote": "Municipal Council supports the proposed by-law appended to the staff report dated June 19, 2023 as Appendix \u201cA\u201d at the Municipal Council meeting to be held on June 27, 2023 to amend The Official Plan, The London Plan to ADD a Specific Area Policy in the Shopping Area Place Type applicable to the subject lands to permit a maximum building height of 12 storeys along Wonderland Road South and Viscount Road",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified in full against 2023-06-19 Planning item 3.4 (committee stage of the same Wonderland Road South application as c395f863144d), the item's only substantive vote (4-1), 'on the recommendation of the Director, Planning and Development' -- i.e. staff itself recommended the refuse-big/approve-reduced-alternative structure. Same net-expansion-of-residential-zoning reasoning as c395f863144d applies, with even stronger support since this is the staff-recommended version (not a 'notwithstanding staff' override). Quote is a verbatim, exact match to part c) of the operative clause."
+  "verifierNote": "Verified in full against 2023-06-19 Planning item 3.4 (committee stage of the same Wonderland Road South application as c395f863144d (superseded id)), the item's only substantive vote (4-1), 'on the recommendation of the Director, Planning and Development' -- i.e. staff itself recommended the refuse-big/approve-reduced-alternative structure. Same net-expansion-of-residential-zoning reasoning as c395f863144d (superseded id) applies, with even stronger support since this is the staff-recommended version (not a 'notwithstanding staff' override). Quote is a verbatim, exact match to part c) of the operative clause."
  },
  {
   "id": "d0375364f0e1",
@@ -543,7 +543,7 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Cross-checked against data/votes/_all-motions.json: exact motionText match ('Motion to approve parts a) and b) of the motion', 4-1), the committee-stage predecessor to 43a896510b51. Same reasoning applies: no literal transit-cluster keyword in the body ('continue with the current bridge configuration'), issue=none correct."
+  "verifierNote": "Cross-checked against data/votes/_all-motions.json: exact motionText match ('Motion to approve parts a) and b) of the motion', 4-1), the committee-stage predecessor to 43a896510b51 (superseded id). Same reasoning applies: no literal transit-cluster keyword in the body ('continue with the current bridge configuration'), issue=none correct."
  },
  {
   "id": "d19dce6315d5",
@@ -569,7 +569,7 @@
   "quote": "the funding allocation, from the Social Services Reserve Fund, for the total municipal allocation amount of up to $255,000.00 BE APPROVED to support a portion of the costs of the Phase 1 Encampment Response on a temporary basis",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2023-06-13 committee item 4.3, the item's only substantive vote (4-1). Quote is a verbatim, exact match, identical substance to 6d85048d8e5e (committee-stage predecessor of the same encampment funding item). Clean, unambiguous funding approval."
+  "verifierNote": "Verified against 2023-06-13 committee item 4.3, the item's only substantive vote (4-1). Quote is a verbatim, exact match, identical substance to 6d85048d8e5e (superseded id) (committee-stage predecessor of the same encampment funding item). Clean, unambiguous funding approval."
  },
  {
   "id": "ac8779bcbb0b",
@@ -583,7 +583,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Same reasoning as c0fb71cc141b (its Council-stage successor): a pure data/report-back request with no encampments-cluster keyword in its own body text. issue=none and axis=null both correct."
+  "verifierNote": "Same reasoning as c0fb71cc141b (superseded id) (its Council-stage successor): a pure data/report-back request with no encampments-cluster keyword in its own body text. issue=none and axis=null both correct."
  },
  {
   "id": "0303b684e576",

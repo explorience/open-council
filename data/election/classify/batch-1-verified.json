@@ -103,7 +103,7 @@
   "verifierNote": "Verified against 2026-06-08 Community & Protective Services Committee item 2.7, 'That part c) BE APPROVED' Passed 4-1. Quote verbatim. This is a substantive directive to pursue an actual density increase (71->107 units/hectare) via real Planning Act applications, not a mere report-back -- does not trip the informational-ask guard (the object is 'submit ... applications to support an increase', not 'report back/study/explore'). Confirmed housing/density/expansive."
  },
  {
-  "id": "4fb2d8b0e1f8",
+  "id": "764624a92d20",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -117,7 +117,7 @@
   "verifierNote": "Procedural motion convening Council as Expropriations Act Approving Authority. No substantive content of its own; issue=none correct."
  },
  {
-  "id": "33385b93a872",
+  "id": "31d0e5053998",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -234,7 +234,7 @@
   "quote": "the proposed by-law as appended to the staff report dated May 5, 2026, as Appendix \"A\" BE INTRODUCED... to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Neighbourhoods Place Type and by ADDING the lands to Map 7",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2026-05-12 Council item 8.2.7 full text, Motion FAILED 5-10 -- this is the full-Council vote that reverses the 3-2 committee recommendation (see 12aa70133162 below, same clause, earlier reading). Axis/valence again correctly reads each councillor's own roll-call position on the INTRODUCE clause independent of overall outcome -- the 10 Nays' 'denied' characterization is accurate to their actual vote, and the substance (adding an OP policy + Map 7 designation enabling the LTC development) matches the quote verbatim. Confirmed housing/application-approval/expansive."
+  "verifierNote": "Verified against 2026-05-12 Council item 8.2.7 full text, Motion FAILED 5-10 -- this is the full-Council vote that reverses the 3-2 committee recommendation (see 12aa70133162 (superseded id) below, same clause, earlier reading). Axis/valence again correctly reads each councillor's own roll-call position on the INTRODUCE clause independent of overall outcome -- the 10 Nays' 'denied' characterization is accurate to their actual vote, and the substance (adding an OP policy + Map 7 designation enabling the LTC development) matches the quote verbatim. Confirmed housing/application-approval/expansive."
  },
  {
   "id": "6206994a7e9e",
@@ -260,7 +260,7 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2026-05-06 ICS Committee item 2.6 full text (committee-stage twin of fffc06d5f355/8cdc065e1587 above), 'parts b), c), and d) BE APPROVED' Passed 2-1 -- bundles the substantive bylaw introduction together with the report-back ask, but issue=none is correct regardless (same keyword analysis as fffc06d5f355) so no direction is computed either way. Confirmed."
+  "verifierNote": "Verified against 2026-05-06 ICS Committee item 2.6 full text (committee-stage twin of fffc06d5f355 (superseded id)/8cdc065e1587 (superseded id) above), 'parts b), c), and d) BE APPROVED' Passed 2-1 -- bundles the substantive bylaw introduction together with the report-back ask, but issue=none is correct regardless (same keyword analysis as fffc06d5f355 (superseded id)) so no direction is computed either way. Confirmed."
  },
  {
   "id": "dddc0585c411",
@@ -272,7 +272,7 @@
   "quote": "the proposed by-law as appended to the staff report dated May 5, 2026, as Appendix \"A\" BE INTRODUCED... to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Neighbourhoods Place Type and by ADDING the lands to Map 7",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2026-05-05 P&E Committee item 3.3 full text, Passed 3-2, quote verbatim. This is the committee-stage twin of 06a752a337a2 (same clause, earlier vote, later reversed 5-10 at Council) -- correctly tracked as its own separate roll call rather than conflated with the Council reading. Confirmed housing/application-approval/expansive."
+  "verifierNote": "Verified against 2026-05-05 P&E Committee item 3.3 full text, Passed 3-2, quote verbatim. This is the committee-stage twin of 06a752a337a2 (superseded id) (same clause, earlier vote, later reversed 5-10 at Council) -- correctly tracked as its own separate roll call rather than conflated with the Council reading. Confirmed housing/application-approval/expansive."
  },
  {
   "id": "942228a7566f",
@@ -330,7 +330,7 @@
   "verifierNote": "Verified against 2026-04-13 Community & Protective Services Committee item 4.3 full text. Manifest's result string 'Motion Passed (4 to 1)' uniquely picks out 'That part e) of the motion BE APPROVED' (report-back on Transition Plan progress, Q4 2026) -- correctly unclear/informational_ask. Note for record: this same item's 'parts a) through d)' sub-motion (which includes a real $785,439 capital-financing approval, part c) passed unanimously 5-0 and is therefore correctly out of scope for this divided-motions pipeline -- not a gap in this entry."
  },
  {
-  "id": "279715ad9723",
+  "id": "3230a5b42d4e",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -359,7 +359,7 @@
   "verifierNote": "Verified against same item 4.2, 'That the balance of the motion BE APPROVED' Passed 13-1 -- pure report-back directive plus receipt-for-information of the staff report. Correctly unclear/informational_ask."
  },
  {
-  "id": "f8f62b5705f0",
+  "id": "51e1830271d7",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -434,7 +434,7 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2026-03-23 ICS Committee item 4.2 full text (Smart Commute MOU amendment, failed 3-3 tie). 'Smart Commute' is a commuter/TDM program with no literal transit-cluster keyword in the operative text. issue=none is a defensible, consistent call (same reasoning applied to e43644a0f1a8 below)."
+  "verifierNote": "Verified against 2026-03-23 ICS Committee item 4.2 full text (Smart Commute MOU amendment, failed 3-3 tie). 'Smart Commute' is a commuter/TDM program with no literal transit-cluster keyword in the operative text. issue=none is a defensible, consistent call (same reasoning applied to e43644a0f1a8 (superseded id) below)."
  },
  {
   "id": "40863a4ea212",
@@ -446,7 +446,7 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against same item 4.2, 'part b) BE APPROVED' Passed 5-1 (Smart Commute MOU execution authorization). Same keyword analysis as 783f30d0d41f -- issue=none correct, no transit-cluster keyword present."
+  "verifierNote": "Verified against same item 4.2, 'part b) BE APPROVED' Passed 5-1 (Smart Commute MOU execution authorization). Same keyword analysis as 783f30d0d41f (superseded id) -- issue=none correct, no transit-cluster keyword present."
  },
  {
   "id": "b0d567797414",
@@ -472,7 +472,7 @@
   "quote": "",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified against 2026-03-10 P&E Committee item 3.8 full text (earlier committee-stage consideration of 929 Cheapside Street, distinct from the 2026-06-09 reading covered by ba89238687fa/06a1d24743c5 above). This combined a) approve-the-rezoning-to-R9 / b) refuse-the-special-provisions / c) site-plan-directive into ONE roll call, which FAILED 1-4 -- a genuinely mixed, non-severable motion where a single yea/nay cannot be translated into one clean direction without misrepresenting either the approval or the refusal component. polarity=null is the correct, safe call; low confidence flag is appropriate given the genuine ambiguity. Confirmed."
+  "verifierNote": "Verified against 2026-03-10 P&E Committee item 3.8 full text (earlier committee-stage consideration of 929 Cheapside Street, distinct from the 2026-06-09 reading covered by ba89238687fa (superseded id)/06a1d24743c5 (superseded id) above). This combined a) approve-the-rezoning-to-R9 / b) refuse-the-special-provisions / c) site-plan-directive into ONE roll call, which FAILED 1-4 -- a genuinely mixed, non-severable motion where a single yea/nay cannot be translated into one clean direction without misrepresenting either the approval or the refusal component. polarity=null is the correct, safe call; low confidence flag is appropriate given the genuine ambiguity. Confirmed."
  },
  {
   "id": "ebcc178844f5",

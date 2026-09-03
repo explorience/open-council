@@ -159,7 +159,7 @@
    "relocation"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs 2025-04-01 Council item 8.3.12 content[6] (Passed 11-3, moved by Hopkins \u2014 a second, separate vote on identical part-c text to content[3]): quote verbatim, matches manifest result exactly. Same relocation-axis/expansive reasoning as 1c0f60d005b5 applies."
+  "verifierNote": "Verified vs 2025-04-01 Council item 8.3.12 content[6] (Passed 11-3, moved by Hopkins \u2014 a second, separate vote on identical part-c text to content[3]): quote verbatim, matches manifest result exactly. Same relocation-axis/expansive reasoning as 1c0f60d005b5 (superseded id) applies."
  },
  {
   "id": "4000e7f3d3a0",
@@ -197,7 +197,7 @@
   "quote": "the City's financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $50,000 for one year",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs 2025-04-01 Council item 8.3.8 content[4] (Failed 7-8): quote verbatim, matches manifest result exactly. issue=none correct (same reasoning as 7754da39e4ca)."
+  "verifierNote": "Verified vs 2025-04-01 Council item 8.3.8 content[4] (Failed 7-8): quote verbatim, matches manifest result exactly. issue=none correct (same reasoning as 7754da39e4ca (superseded id))."
  },
  {
   "id": "9471058de96d",
@@ -259,7 +259,7 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs 2025-04-01 Council item 8.4.8 content[3] ('Item 8, clause 3.4, as amended, BE APPROVED.', Passed 13-2): quote is the wrapper text, correctly flagged wrapper_preamble; the bundled content (density rezone + special-provision refusal + site-plan design requests) resolves unambiguously to the same density-expansive substance as 4446fedbea38. Confirmed."
+  "verifierNote": "Verified vs 2025-04-01 Council item 8.4.8 content[3] ('Item 8, clause 3.4, as amended, BE APPROVED.', Passed 13-2): quote is the wrapper text, correctly flagged wrapper_preamble; the bundled content (density rezone + special-provision refusal + site-plan design requests) resolves unambiguously to the same density-expansive substance as 4446fedbea38 (superseded id). Confirmed."
  },
  {
   "id": "1703a1233fd3",
@@ -283,7 +283,7 @@
   "quote": "the City Clerk BE DIRECTED to proceed with the recruitment of an Integrity Commissioner ... the City Clerk BE AUTHORIZED to arrange for interim provision of Integrity Commissioner services from another municipality",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs 2025-03-25 SPPC item 3.1 content[3] (Passed 11-4): quote verbatim, matches manifest result exactly. Same GLOBAL_EXCLUDE reasoning as 92e9ca08e1dc."
+  "verifierNote": "Verified vs 2025-03-25 SPPC item 3.1 content[3] (Passed 11-4): quote verbatim, matches manifest result exactly. Same GLOBAL_EXCLUDE reasoning as 92e9ca08e1dc (superseded id)."
  },
  {
   "id": "9ab2a13766e3",
@@ -412,7 +412,7 @@
   "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[12] (Passed 14-1): quote verbatim, matches manifest result exactly. Pure referral of a communication. issue=none correct."
  },
  {
-  "id": "1f742f938d33",
+  "id": "3e6140abb084",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -504,7 +504,7 @@
   "quote": "the Civic Administration BE DIRECTED to take no further action for the implementation of an expanded Tax Deferral Program at this time noting the impacts on budget amid the Mayor\u2019s direction to bring forward options for consideration that, if adopted, would produce a 2026 property tax levy increase under 5%",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs 2025-03-24 ICSC item 2.12 content[5] (Failed 2-3): quote verbatim, matches manifest result exactly. Cross-checked against the vote rows of the mutually-exclusive companion motion at the same item (content[6]/f0ba9d8a08f4, Passed 4-1): the same three members (Hopkins, Pribil, Franke) voted the pro-expansion way on both motions (NAY here / YEA there) and the same two (Van Meerbergen, Rahman) voted the anti-expansion way on both \u2014 internally consistent, confirms 'restrictive' correctly captures what a YEA here did (declined to pursue the expanded tax-deferral program on levy-cap grounds; 'tax levy' is a literal budget keyword hit)."
+  "verifierNote": "Verified vs 2025-03-24 ICSC item 2.12 content[5] (Failed 2-3): quote verbatim, matches manifest result exactly. Cross-checked against the vote rows of the mutually-exclusive companion motion at the same item (content[6]/f0ba9d8a08f4 (superseded id), Passed 4-1): the same three members (Hopkins, Pribil, Franke) voted the pro-expansion way on both motions (NAY here / YEA there) and the same two (Van Meerbergen, Rahman) voted the anti-expansion way on both \u2014 internally consistent, confirms 'restrictive' correctly captures what a YEA here did (declined to pursue the expanded tax-deferral program on levy-cap grounds; 'tax levy' is a literal budget keyword hit)."
  },
  {
   "id": "79404237ec99",
@@ -518,7 +518,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs 2025-03-24 ICSC item 2.12 content[6] (Passed 4-1): quote verbatim, matches manifest result exactly. Same issue=none judgment call as e9ed17e7e53a (identical text) \u2014 not overturned, polarity null either way so no aggregation effect."
+  "verifierNote": "Verified vs 2025-03-24 ICSC item 2.12 content[6] (Passed 4-1): quote verbatim, matches manifest result exactly. Same issue=none judgment call as e9ed17e7e53a (superseded id) (identical text) \u2014 not overturned, polarity null either way so no aggregation effect."
  },
  {
   "id": "5a1273557ecc",
@@ -532,7 +532,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs 2025-03-24 ICSC item 4.1 (Passed 4-1): quote verbatim, matches manifest result exactly. Same reasoning as 08be53e2b291 (identical text, different meeting stage)."
+  "verifierNote": "Verified vs 2025-03-24 ICSC item 4.1 (Passed 4-1): quote verbatim, matches manifest result exactly. Same reasoning as 08be53e2b291 (superseded id) (identical text, different meeting stage)."
  },
  {
   "id": "204fbd8ec86e",
@@ -558,7 +558,7 @@
    "wrapper_preamble"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs 2025-03-19 Budget Committee item 2.2 content[4] ('That the motion, as amended, BE APPROVED.', Passed 14-1): quote verbatim, matches manifest result exactly. Final approval of the same reserve-fund-reallocation by-law; issue=none consistent with d8ca1f2d39ff."
+  "verifierNote": "Verified vs 2025-03-19 Budget Committee item 2.2 content[4] ('That the motion, as amended, BE APPROVED.', Passed 14-1): quote verbatim, matches manifest result exactly. Final approval of the same reserve-fund-reallocation by-law; issue=none consistent with d8ca1f2d39ff (superseded id)."
  },
  {
   "id": "fe4bcd5e9e51",
@@ -570,6 +570,20 @@
   "quote": "to change the zoning of the subject lands FROM a holding Residential R5 Special Provision / Residential R6 Special Provision (h-8-h-125-R5-6(8)/R6-5(31)) Zone TO a Residential R5 Special Provision / Residential R6 Special Provision / Residential R8 Special Provision (R5-6(8)/R6-5(31)/R8-4( )) Zone",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Verified vs 2025-03-18 Planning and Environment Committee item 3.2 (Passed 4-1): quote verbatim, matches manifest result exactly. Committee-stage vote on the same Barn Swallow Place rezoning later finalized at Council (bc7a8160cced) \u2014 a genuine, distinct vote at each stage, not a duplicate."
+  "verifierNote": "Verified vs 2025-03-18 Planning and Environment Committee item 3.2 (Passed 4-1): quote verbatim, matches manifest result exactly. Committee-stage vote on the same Barn Swallow Place rezoning later finalized at Council (bc7a8160cced (superseded id)) \u2014 a genuine, distinct vote at each stage, not a duplicate."
+ },
+ {
+  "id": "f5d2c8a7250b",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+  "confidence": "medium",
+  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified vs 2025-03-25 SPPC item 4.1 content[13] ('Motion to approve part a), as amended.', Passed 14-1): bare wrapper, but part a) was only ever touched by one amendment (content[10], reproduced verbatim in the original part a) text too) so the reconstructed quote is unambiguous and verbatim-sourced from elsewhere in the same item."
  }
 ]

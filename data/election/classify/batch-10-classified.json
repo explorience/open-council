@@ -348,7 +348,7 @@
   ]
  },
  {
-  "id": "1f742f938d33",
+  "id": "3e6140abb084",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -483,5 +483,17 @@
   "confidence": "medium",
   "quote": "to change the zoning of the subject lands FROM a holding Residential R5 Special Provision / Residential R6 Special Provision (h-8-h-125-R5-6(8)/R6-5(31)) Zone TO a Residential R5 Special Provision / Residential R6 Special Provision / Residential R8 Special Provision (R5-6(8)/R6-5(31)/R8-4( )) Zone",
   "flags": []
+ },
+ {
+  "id": "f5d2c8a7250b",
+  "issue": "transit",
+  "axis": "service-expansion",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+  "confidence": "medium",
+  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
+  "flags": [
+   "wrapper_preamble"
+  ]
  }
 ]

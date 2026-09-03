@@ -124,7 +124,7 @@
   "flags": []
  },
  {
-  "id": "bce613972380",
+  "id": "c395bc56dc01",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -134,7 +134,7 @@
   "flags": []
  },
  {
-  "id": "6f9f69f3a0d5",
+  "id": "ab5f8240872a",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -487,6 +487,18 @@
   "whatAYeaDid": "Approved reinitiating the Official Plan Review and Land Needs Assessment, directing staff to expand the City's land supply for housing (including industrial-to-other conversions) and pursue a higher intensification/mode-share target to support London's housing-supply pledge.",
   "confidence": "high",
   "quote": "the Civic Administration BE DIRECTED to reinitiate the Official Plan Review which is consistent with Section 26 of the Planning Act, noting the review will be phased to prioritize a Land Needs Assessment in support of the City\u2019s housing supply initiatives",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "25119154026c",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved implementing free one-hour on-street parking in the Core Area, funded up to $300,000; failed at committee (later passed at Council).",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
   "flags": [
    "wrapper_preamble"
   ]

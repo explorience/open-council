@@ -70,7 +70,7 @@
   ]
  },
  {
-  "id": "cad64d3f88f7",
+  "id": "93812c484ecf",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -80,7 +80,7 @@
   "flags": []
  },
  {
-  "id": "5e53d3d0a2d1",
+  "id": "a114f764ba10",
   "issue": "housing",
   "axis": null,
   "polarity": null,
@@ -204,7 +204,7 @@
   "flags": []
  },
  {
-  "id": "8f88260bbc7b",
+  "id": "1604cf591bfc",
   "issue": "encampments",
   "axis": "response-scale",
   "polarity": "expansive",
@@ -216,7 +216,7 @@
   ]
  },
  {
-  "id": "c9e3b7f7b362",
+  "id": "2feca9b0f265",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -229,7 +229,7 @@
   ]
  },
  {
-  "id": "b4e5ab806f41",
+  "id": "6317d0acde87",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -325,7 +325,7 @@
   ]
  },
  {
-  "id": "e92845765097",
+  "id": "32530a45cd44",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -337,7 +337,7 @@
   ]
  },
  {
-  "id": "ed4f4a5e9b2e",
+  "id": "f825db08c9f2",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -349,7 +349,7 @@
   ]
  },
  {
-  "id": "0d6178fd82e4",
+  "id": "b434b504f72f",
   "issue": "encampments",
   "axis": null,
   "polarity": null,
@@ -473,7 +473,7 @@
   "flags": []
  },
  {
-  "id": "ca884d26134a",
+  "id": "77a5282a02cc",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -483,7 +483,7 @@
   "flags": []
  },
  {
-  "id": "59a101fa692b",
+  "id": "c673ba549adb",
   "issue": "none",
   "axis": null,
   "polarity": null,

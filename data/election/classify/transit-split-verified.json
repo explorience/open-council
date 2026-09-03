@@ -88,10 +88,10 @@
   "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
   "reason": "Final committee approval of part a), the Roads Projects maps as amended (including the Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0, old axis service-expansion was wrong.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text ('Motion to approve part a), as amended', 14-1 PASSED): this is the final committee approval of the amended Roads Projects maps (incl. Bradley Ave). Same road-capacity content as 28ab00fbc3c0; correct."
+  "verifierNote": "Confirmed vs raw text ('Motion to approve part a), as amended', 14-1 PASSED): this is the final committee approval of the amended Roads Projects maps (incl. Bradley Ave). Same road-capacity content as 28ab00fbc3c0 (superseded id); correct."
  },
  {
-  "id": "1f742f938d33",
+  "id": "3e6140abb084",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -179,7 +179,7 @@
   "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Development Charges supported funding",
   "reason": "Same amendment, re-vote after reconsideration; failed 2-12, hedged correctly already.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (same amendment, re-vote after reconsideration, FAILED 2-12, matches margin exactly): same reasoning as 9df65c3786ae; correct."
+  "verifierNote": "Confirmed vs raw text (same amendment, re-vote after reconsideration, FAILED 2-12, matches margin exactly): same reasoning as 9df65c3786ae (superseded id); correct."
  },
  {
   "id": "4fb63c870e39",
@@ -218,7 +218,7 @@
   "quote": "",
   "reason": "Stays unclear: this DEFERS the pilot's own start date (to Sept 2025/2026) while directing MOU development -- a deferral of timing, not a clean, immediate service commitment. Independent of the transit/road conflation; preserved as previously classified.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (committee 'part b) approved', 9-3 PASSED, matches margin): whatAYeaDid accurately describes the deferral-to-Sept-2025/26 + MOU-development text. Defensible boundary call to leave unclear (it is a deferral wrapper around the same MOU-development content that IS classified transit-service/expansive in its sibling d1fc73f17bb5/e294e35cf969) -- 'changed: false' shows this was inherited from a prior verification round, not touched by the split; reasonable either way, no clear error."
+  "verifierNote": "Confirmed vs raw text (committee 'part b) approved', 9-3 PASSED, matches margin): whatAYeaDid accurately describes the deferral-to-Sept-2025/26 + MOU-development text. Defensible boundary call to leave unclear (it is a deferral wrapper around the same MOU-development content that IS classified transit-service/expansive in its sibling d1fc73f17bb5 (superseded id)/e294e35cf969 (superseded id)) -- 'changed: false' shows this was inherited from a prior verification round, not touched by the split; reasonable either way, no clear error."
  },
  {
   "id": "5fbe2ca656ee",
@@ -270,7 +270,7 @@
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith",
   "reason": "Same expropriation, committee stage; same reasoning as 895b8202a9e6.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (committee stage of the same expropriation, 3-2 PASSED): identical operative clause to 895b8202a9e6; correct."
+  "verifierNote": "Confirmed vs raw text (committee stage of the same expropriation, 3-2 PASSED): identical operative clause to 895b8202a9e6 (superseded id); correct."
  },
  {
   "id": "05d0f12626d5",
@@ -322,7 +322,7 @@
   "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School",
   "reason": "Same MOU directive, committee/added-item stage; same reasoning as d1fc73f17bb5.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (committee stage, identical MOU-development text, 13-2 PASSED, matches margin exactly): twin of d1fc73f17bb5; correct."
+  "verifierNote": "Confirmed vs raw text (committee stage, identical MOU-development text, 13-2 PASSED, matches margin exactly): twin of d1fc73f17bb5 (superseded id); correct."
  },
  {
   "id": "4d1262df6cd6",
@@ -465,7 +465,7 @@
   "quote": "the Civic Administration BE AUTHORIZED to take all actions necessary to implement the capital budget changes outlined in this report",
   "reason": "Same ICIP-PTS reallocation, committee stage; same reasoning as 71f1ada00bf5.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (Council stage of the same reallocation, 9-6 PASSED): same reasoning as 71f1ada00bf5; correct."
+  "verifierNote": "Confirmed vs raw text (Council stage of the same reallocation, 9-6 PASSED): same reasoning as 71f1ada00bf5 (superseded id); correct."
  },
  {
   "id": "cbf71b0d4780",
@@ -504,7 +504,7 @@
   "quote": "the Mobility Master Plan project team BE DIRECTED to consult with the Integrated Transportation Community Advisory Committee with respect to this matter",
   "reason": "Same consult/CEAP-alignment directive, committee stage; same reasoning as fd9fa5f36782.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (committee, amending the referral to add the consult/CEAP directive, 4-1 PASSED, matches margin exactly): same content as fd9fa5f36782; correct."
+  "verifierNote": "Confirmed vs raw text (committee, amending the referral to add the consult/CEAP directive, 4-1 PASSED, matches margin exactly): same content as fd9fa5f36782 (superseded id); correct."
  },
  {
   "id": "d16155bf0ef1",
@@ -543,7 +543,7 @@
   "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d, BE AUTHORIZED and BE APPROVED;",
   "reason": "Old axis service-expansion renamed: authorizing the MOU/Agreement and up to $880,000 financing for the Secondary School Transit Pass Pilot Program is a transit-service (fare/access) expansion.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (Council, 'Item 5, clause 2.3, as amended, BE APPROVED', 9-5 PASSED, matches margin exactly): a Council-stage amendment reverted the financing to $880,000/Sept 2026-June 2028 (DIFFERENT numbers than the committee-stage 77c61a6c4a03's $1.04M/Aug 2028) -- whatAYeaDid correctly captures this stage-specific difference rather than reusing the committee figures. transit-service/expansive correct."
+  "verifierNote": "Confirmed vs raw text (Council, 'Item 5, clause 2.3, as amended, BE APPROVED', 9-5 PASSED, matches margin exactly): a Council-stage amendment reverted the financing to $880,000/Sept 2026-June 2028 (DIFFERENT numbers than the committee-stage 77c61a6c4a03 (superseded id)'s $1.04M/Aug 2028) -- whatAYeaDid correctly captures this stage-specific difference rather than reusing the committee figures. transit-service/expansive correct."
  },
  {
   "id": "2fa653c053f6",
@@ -595,10 +595,10 @@
   "quote": "increasing the roadways budget to implement traffic calming in school zones across the city and deploy more temporary traffic calming devices to mitigate construction-related traffic diversions in neighbourhoods during capital projects",
   "reason": "RECLASSIFIED to unclear (was service-expansion/expansive): the $155,000 increase funds SCHOOL-ZONE TRAFFIC CALMING and temporary traffic-calming devices -- a road-SAFETY spending increase that narrows/slows traffic, the opposite of 'expanded general-purpose road capacity' under the new road-capacity axis, and it is not transit service either. Fits neither axis cleanly.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text ('the amendment, as amended, BE APPROVED', 8-7 PASSED, matches margin exactly -- correctly distinguished from the sibling 10-5 duration sub-vote 8e944ea40c56): the $155,000 funds SCHOOL-ZONE TRAFFIC CALMING and additional temporary calming devices -- narrows/slows general-purpose capacity (opposite of road-capacity/expansive) and is not transit. Reclassification to unclear correct."
+  "verifierNote": "Confirmed vs raw text ('the amendment, as amended, BE APPROVED', 8-7 PASSED, matches margin exactly -- correctly distinguished from the sibling 10-5 duration sub-vote 8e944ea40c56 (superseded id)): the $155,000 funds SCHOOL-ZONE TRAFFIC CALMING and additional temporary calming devices -- narrows/slows general-purpose capacity (opposite of road-capacity/expansive) and is not transit. Reclassification to unclear correct."
  },
  {
-  "id": "838f7c50e8f0",
+  "id": "b51a800e4477",
   "oldAxis": null,
   "oldPolarity": null,
   "newAxis": null,
@@ -634,7 +634,7 @@
   "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)",
   "reason": "Same design-contract increase, committee stage; same reasoning as 3d072ced8231.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (committee stage of the same design-contract increase, PASSED 5-1): correct, same reasoning as 3d072ced8231."
+  "verifierNote": "Confirmed vs raw text (committee stage of the same design-contract increase, PASSED 5-1): correct, same reasoning as 3d072ced8231 (superseded id)."
  },
  {
   "id": "1d4dcf1c6588",
@@ -673,7 +673,7 @@
   "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)",
   "reason": "Same contract increase, committee stage; same reasoning as 883ee33ef545.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (committee stage of the same contract increase, PASSED 4-1): correct, same reasoning as 883ee33ef545."
+  "verifierNote": "Confirmed vs raw text (committee stage of the same contract increase, PASSED 4-1): correct, same reasoning as 883ee33ef545 (superseded id)."
  },
  {
   "id": "0052db0821e2",
@@ -686,7 +686,7 @@
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project",
   "reason": "RECLASSIFIED from unclear (miss corrected, not just an axis rename): the full operative clause is 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' (Phase 2 civil works) -- the identical expropriation-approval pattern as 895b8202a9e6/3991d33dbbbe/6e54e9c40a61/9496bc59ad3b, all correctly classified transit-service/expansive. This id was left null in a prior round on boilerplate 'informational-ask/procedural' reasoning that does not match the actual substantive land-acquisition clause; corrected to match its siblings.",
   "verdict": "CONFIRMED",
-  "verifierNote": "RECLASSIFICATION INDEPENDENTLY RE-VERIFIED: raw text of the Phase 2 Wellington Gateway expropriation (Council, 13-2 PASSED) reads 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' -- textually identical operative clause to siblings 895b8202a9e6/3991d33dbbbe/6e54e9c40a61/9496bc59ad3b, all correctly transit-service/expansive. Confirmed this id's prior 'unclear/procedural' classification did not match its actual approval-granting text; correction to transit-service/expansive is sound."
+  "verifierNote": "RECLASSIFICATION INDEPENDENTLY RE-VERIFIED: raw text of the Phase 2 Wellington Gateway expropriation (Council, 13-2 PASSED) reads 'approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project' -- textually identical operative clause to siblings 895b8202a9e6 (superseded id)/3991d33dbbbe (superseded id)/6e54e9c40a61 (superseded id)/9496bc59ad3b (superseded id), all correctly transit-service/expansive. Confirmed this id's prior 'unclear/procedural' classification did not match its actual approval-granting text; correction to transit-service/expansive is sound."
  },
  {
   "id": "e3164dd35fdf",
@@ -725,7 +725,7 @@
   "quote": "parts a) and b) of the motion, as amended, BE APPROVED [resolving to: a) the Mobility Master Plan Report BE APPROVED; b) the Civic Administration BE DIRECTED to file a Notice of Completion and make the Report available for the statutory 30-day public review and comment period]",
   "reason": "Same MMP Report approval, committee stage; same reasoning as 06f778b17f91.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (committee, 'parts a) and b) of the motion, as amended, BE APPROVED', 13-2 PASSED, matches margin exactly): correctly excludes the item's separate part c) Pack Road widening-study sub-vote (15-0 PASSED), same as 06f778b17f91. MINOR QUOTE-HYGIENE NOTE: the quote field is not purely verbatim -- it splices the terse procedural vote line with a bracketed editorial paraphrase of what parts a/b resolve to, rather than quoting either the raw vote line alone or the full antecedent text alone. Since newPolarity is null here the 'verbatim quote mandatory for any polarity' rule is not technically violated, but the quote as given would not pass a strict verbatim check. Classification (unclear) itself is correct."
+  "verifierNote": "Confirmed vs raw text (committee, 'parts a) and b) of the motion, as amended, BE APPROVED', 13-2 PASSED, matches margin exactly): correctly excludes the item's separate part c) Pack Road widening-study sub-vote (15-0 PASSED), same as 06f778b17f91 (superseded id). MINOR QUOTE-HYGIENE NOTE: the quote field is not purely verbatim -- it splices the terse procedural vote line with a bracketed editorial paraphrase of what parts a/b resolve to, rather than quoting either the raw vote line alone or the full antecedent text alone. Since newPolarity is null here the 'verbatim quote mandatory for any polarity' rule is not technically violated, but the quote as given would not pass a strict verbatim check. Classification (unclear) itself is correct."
  },
  {
   "id": "68a0dacac29e",
@@ -738,7 +738,7 @@
   "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle",
   "reason": "Old axis service-expansion renamed: Council's ratification of part a), the Roads Projects maps as amended (incl. Bradley Ave inclusion) -- same road-capacity content as 28ab00fbc3c0/478dc258ce7d at the earlier committee stage.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (Council, 'approve preamble and part a)' -- Roads Projects maps as amended incl. Bradley Ave, 13-2 PASSED, matches margin exactly): quote verbatim; same road-capacity content as committee-stage 28ab00fbc3c0/478dc258ce7d. road-capacity/expansive correct."
+  "verifierNote": "Confirmed vs raw text (Council, 'approve preamble and part a)' -- Roads Projects maps as amended incl. Bradley Ave, 13-2 PASSED, matches margin exactly): quote verbatim; same road-capacity content as committee-stage 28ab00fbc3c0 (superseded id)/f5d2c8a7250b. road-capacity/expansive correct."
  },
  {
   "id": "8888017a8223",
@@ -751,7 +751,7 @@
   "quote": "the Transit Priority Network maps BE APPROVED",
   "reason": "Old axis service-expansion renamed: Council's ratification of part b), the Transit Priority Network maps -- same transit-infrastructure content as 1f742f938d33 at committee stage.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (Council, 'approve part b)' -- Transit Priority Network maps, 14-1 PASSED, matches margin exactly): quote verbatim; same reasoning as committee-stage 1f742f938d33. transit-service/expansive correct."
+  "verifierNote": "Confirmed vs raw text (Council, 'approve part b)' -- Transit Priority Network maps, 14-1 PASSED, matches margin exactly): quote verbatim; same reasoning as committee-stage 3e6140abb084 (superseded id). transit-service/expansive correct."
  },
  {
   "id": "c00911f9ed6d",
@@ -816,7 +816,7 @@
   "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b);",
   "reason": "Same contract award, committee stage; same reasoning as 7346985bd070.",
   "verdict": "CONFIRMED",
-  "verifierNote": "Confirmed vs raw text (committee stage of the same contract award, PASSED 4-1): correct, same reasoning as 7346985bd070."
+  "verifierNote": "Confirmed vs raw text (committee stage of the same contract award, PASSED 4-1): correct, same reasoning as 7346985bd070 (superseded id)."
  },
  {
   "id": "208ee22b75a8",

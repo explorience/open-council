@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-02T22:55:00.182Z",
+  "generatedAt": "2026-09-03T00:02:32.004Z",
   "note": "Cross-check report only — the regex engine in issue-rules.ts/direction-rules.ts is NOT the source of any published claim as of the 2026-08-31 rebuild; every published issue/axis/polarity/whatAYeaDid comes from data/election/classify/batch-*-verified.json. This file records every motion in the divided universe where the regex engine's independent read (issue classification and/or direction) disagrees with the verified classification, for ongoing regex-quality monitoring.",
   "totalCompared": 1732,
-  "disagreementCount": 537,
+  "disagreementCount": 555,
   "disagreements": [
     {
       "motionId": "a8e2f548211a",
@@ -59,6 +59,24 @@
       }
     },
     {
+      "motionId": "1fd6e77e5a25",
+      "date": "2026-07-21",
+      "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
+      "itemNumber": "8.4.10",
+      "itemTitle": "(4.4) City of London Special Constable Program",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "policing",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "2b25c117ac0f",
       "date": "2026-07-21",
       "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
@@ -82,14 +100,14 @@
       "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
       "itemNumber": "8.4.10",
       "itemTitle": "(4.4) City of London Special Constable Program",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "policing",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
-        "issue": null,
+        "issue": "policing",
         "axis": null,
         "polarity": null
       }
@@ -128,24 +146,6 @@
         "issue": "transit",
         "axis": "transit-service",
         "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "e059773bdd21",
-      "date": "2026-07-14",
-      "meetingSlug": "months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.8",
-      "itemTitle": "1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055",
-      "kind": "issue",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
       }
     },
     {
@@ -455,6 +455,24 @@
       }
     },
     {
+      "motionId": "3230a5b42d4e",
+      "date": "2026-03-24",
+      "meetingSlug": "months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "e95523e53e00",
       "date": "2026-03-23",
       "meetingSlug": "months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee",
@@ -617,6 +635,42 @@
       }
     },
     {
+      "motionId": "517dd3cd276a",
+      "date": "2026-03-03",
+      "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
+      "itemNumber": "8.1.13",
+      "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "951943522c64",
+      "date": "2026-03-03",
+      "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
+      "itemNumber": "8.1.13",
+      "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": "use-permission",
+        "polarity": "expansive"
+      }
+    },
+    {
       "motionId": "eadec8e05795",
       "date": "2026-03-03",
       "meetingSlug": "months/2026-03/2026-03-03 4th Council Meeting",
@@ -725,7 +779,43 @@
       }
     },
     {
+      "motionId": "dd3dd7b9b4da",
+      "date": "2026-02-10",
+      "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
+      "itemNumber": "8.2.5",
+      "itemTitle": "(2.2) Good Neighbour Agreements",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "3e039a97a7b1",
+      "date": "2026-02-10",
+      "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
+      "itemNumber": "8.2.5",
+      "itemTitle": "(2.2) Good Neighbour Agreements",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "c909b7d954e0",
       "date": "2026-02-10",
       "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
       "itemNumber": "8.2.5",
@@ -1067,6 +1157,42 @@
       }
     },
     {
+      "motionId": "93812c484ecf",
+      "date": "2026-02-03",
+      "meetingSlug": "months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "2.4",
+      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "a114f764ba10",
+      "date": "2026-02-03",
+      "meetingSlug": "months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "2.4",
+      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "a782bb1557f3",
       "date": "2026-02-03",
       "meetingSlug": "months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee",
@@ -1211,6 +1337,60 @@
       }
     },
     {
+      "motionId": "1604cf591bfc",
+      "date": "2026-01-26",
+      "meetingSlug": "months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Temporary Warming Centres",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": "response-scale",
+        "polarity": "expansive"
+      }
+    },
+    {
+      "motionId": "2feca9b0f265",
+      "date": "2026-01-26",
+      "meetingSlug": "months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Temporary Warming Centres",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "6317d0acde87",
+      "date": "2026-01-26",
+      "meetingSlug": "months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "Temporary Warming Centres",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "c1218b59f9fd",
       "date": "2026-01-26",
       "meetingSlug": "months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee",
@@ -1331,7 +1511,43 @@
         "valence": 1
       },
       "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "f825db08c9f2",
+      "date": "2025-12-09",
+      "meetingSlug": "months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "2.1",
+      "itemTitle": "Micro-Modular Shelter Site Update",
+      "kind": "issue",
+      "regex": {
         "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "b434b504f72f",
+      "date": "2025-12-09",
+      "meetingSlug": "months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "2.1",
+      "itemTitle": "Micro-Modular Shelter Site Update",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
         "axis": null,
         "polarity": null
       }
@@ -1895,6 +2111,24 @@
       }
     },
     {
+      "motionId": "fbf6b4344ada",
+      "date": "2025-11-04",
+      "meetingSlug": "months/2025-11/2025-11-04 17th Council Meeting",
+      "itemNumber": "8.3.8",
+      "itemTitle": "(4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units ",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": "use-permission",
+        "polarity": "restrictive"
+      }
+    },
+    {
       "motionId": "c21d476fb370",
       "date": "2025-10-14",
       "meetingSlug": "months/2025-10/2025-10-14 16th Council Meeting",
@@ -2144,6 +2378,24 @@
         "issue": "housing",
         "axis": "density",
         "polarity": "expansive"
+      }
+    },
+    {
+      "motionId": "b51a800e4477",
+      "date": "2025-09-29",
+      "meetingSlug": "months/2025-09/2025-09-29 14th Meeting of the Community and Protective Services Committee",
+      "itemNumber": "3.2",
+      "itemTitle": "Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "transit",
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -3497,42 +3749,6 @@
       }
     },
     {
-      "motionId": "e603bb09f225",
-      "date": "2025-05-13",
-      "meetingSlug": "months/2025-05/2025-05-13 8th Council Meeting",
-      "itemNumber": "8.1.6",
-      "itemTitle": "(2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)",
-      "kind": "issue",
-      "regex": {
-        "issue": "housing",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "cfc3c19ef28b",
-      "date": "2025-05-13",
-      "meetingSlug": "months/2025-05/2025-05-13 8th Council Meeting",
-      "itemNumber": "8.1.6",
-      "itemTitle": "(2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)",
-      "kind": "issue",
-      "regex": {
-        "issue": "housing",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
       "motionId": "20bd87838867",
       "date": "2025-05-13",
       "meetingSlug": "months/2025-05/2025-05-13 8th Council Meeting",
@@ -3566,42 +3782,6 @@
         "issue": "budget",
         "axis": "levy-size",
         "polarity": "restrictive"
-      }
-    },
-    {
-      "motionId": "32b3a392fe5e",
-      "date": "2025-04-22",
-      "meetingSlug": "months/2025-04/2025-04-22 7th Council Meeting",
-      "itemNumber": "8.2.9",
-      "itemTitle": "(5.1) Watson Park",
-      "kind": "issue",
-      "regex": {
-        "issue": "encampments",
-        "axis": "relocation",
-        "valence": -1
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "cf6233c1dc64",
-      "date": "2025-04-22",
-      "meetingSlug": "months/2025-04/2025-04-22 7th Council Meeting",
-      "itemNumber": "8.2.9",
-      "itemTitle": "(5.1) Watson Park",
-      "kind": "issue",
-      "regex": {
-        "issue": "encampments",
-        "axis": "relocation",
-        "valence": -1
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
       }
     },
     {
@@ -3764,6 +3944,42 @@
         "issue": "transit",
         "axis": "road-capacity",
         "polarity": "expansive"
+      }
+    },
+    {
+      "motionId": "c7684b074103",
+      "date": "2025-04-01",
+      "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
+      "itemNumber": "8.1.9",
+      "itemTitle": "(4.1) Mobility Master Plan Mobility Networks Maps",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "bikes",
+        "axis": "infrastructure-expansion",
+        "polarity": "restrictive"
+      }
+    },
+    {
+      "motionId": "869855991c1c",
+      "date": "2025-04-01",
+      "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
+      "itemNumber": "8.1.9",
+      "itemTitle": "(4.1) Mobility Master Plan Mobility Networks Maps",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "bikes",
+        "axis": "infrastructure-expansion",
+        "polarity": "restrictive"
       }
     },
     {
@@ -4087,6 +4303,42 @@
       "llm": {
         "issue": "transit",
         "axis": "road-capacity",
+        "polarity": "expansive"
+      }
+    },
+    {
+      "motionId": "f5d2c8a7250b",
+      "date": "2025-03-25",
+      "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Mobility Master Plan Mobility Networks Maps",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "transit",
+        "axis": "service-expansion",
+        "polarity": "expansive"
+      }
+    },
+    {
+      "motionId": "3e6140abb084",
+      "date": "2025-03-25",
+      "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Mobility Master Plan Mobility Networks Maps",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "transit",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -4484,24 +4736,6 @@
         "issue": "climate",
         "axis": "target-strength",
         "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "97abed62ab90",
-      "date": "2024-12-17",
-      "meetingSlug": "months/2024-12/2024-12-17 1st Meeting of City Council",
-      "itemNumber": "8.1.22",
-      "itemTitle": "(3.14) Land Needs Assessment - Official Plan Review of The London Plan (O-9595)",
-      "kind": "issue",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
       }
     },
     {
@@ -4991,6 +5225,42 @@
       }
     },
     {
+      "motionId": "d7283f8e12c5",
+      "date": "2024-11-05",
+      "meetingSlug": "months/2024-11/2024-11-05 17th Meeting of City Council",
+      "itemNumber": "8.2.4",
+      "itemTitle": "(4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": "response-scale",
+        "polarity": "restrictive"
+      }
+    },
+    {
+      "motionId": "aaa44de9dc24",
+      "date": "2024-11-05",
+      "meetingSlug": "months/2024-11/2024-11-05 17th Meeting of City Council",
+      "itemNumber": "8.2.4",
+      "itemTitle": "(4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": "response-scale",
+        "polarity": "restrictive"
+      }
+    },
+    {
       "motionId": "6482954d2c17",
       "date": "2024-10-29",
       "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
@@ -5006,6 +5276,24 @@
         "issue": "encampments",
         "axis": "response-scale",
         "polarity": "restrictive"
+      }
+    },
+    {
+      "motionId": "f6374d813bdb",
+      "date": "2024-10-29",
+      "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update ",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -5073,6 +5361,24 @@
         "issue": "encampments",
         "axis": "application-approval",
         "valence": 1
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "09a7d0ce1a38",
+      "date": "2024-10-29",
+      "meetingSlug": "months/2024-10/2024-10-29 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update ",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
       },
       "llm": {
         "issue": "encampments",
@@ -5330,6 +5636,42 @@
         "issue": "housing",
         "axis": "use-permission",
         "polarity": "expansive"
+      }
+    },
+    {
+      "motionId": "785a7ce7c1ed",
+      "date": "2024-09-09",
+      "meetingSlug": "months/2024-09/2024-09-09 11th Meeting of the Community and Protective Services Committee",
+      "itemNumber": "2.2",
+      "itemTitle": "Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "75767dd2ece3",
+      "date": "2024-09-09",
+      "meetingSlug": "months/2024-09/2024-09-09 11th Meeting of the Community and Protective Services Committee",
+      "itemNumber": "2.2",
+      "itemTitle": "Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -5698,14 +6040,14 @@
       "meetingSlug": "months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.2",
       "itemTitle": "1st Report of the Strategic Opportunities Review Working Group (SORWG)",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "budget",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
-        "issue": null,
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -5742,6 +6084,24 @@
       },
       "llm": {
         "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "9eeb69467dba",
+      "date": "2024-07-18",
+      "meetingSlug": "months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "1st Report of the Strategic Opportunities Review Working Group (SORWG)",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "budget",
         "axis": null,
         "polarity": null
       }
@@ -5927,6 +6287,24 @@
       }
     },
     {
+      "motionId": "ec3b2cacdb7d",
+      "date": "2024-06-18",
+      "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "917b3609658b",
       "date": "2024-06-18",
       "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
@@ -5968,14 +6346,32 @@
       "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.1",
       "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "encampments",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "16d8fadbb13d",
+      "date": "2024-06-18",
+      "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
+      "kind": "issue",
+      "regex": {
         "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
         "axis": null,
         "polarity": null
       }
@@ -5986,14 +6382,32 @@
       "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.1",
       "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "encampments",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
+        "issue": "encampments",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "4738465c5ed7",
+      "date": "2024-06-18",
+      "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
+      "kind": "issue",
+      "regex": {
         "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "encampments",
         "axis": null,
         "polarity": null
       }
@@ -6004,14 +6418,14 @@
       "meetingSlug": "months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee",
       "itemNumber": "4.1",
       "itemTitle": "London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "encampments",
         "axis": "application-approval",
         "valence": 1
       },
       "llm": {
-        "issue": null,
+        "issue": "encampments",
         "axis": null,
         "polarity": null
       }
@@ -6197,42 +6611,6 @@
       }
     },
     {
-      "motionId": "c395bc56dc01",
-      "date": "2024-05-14",
-      "meetingSlug": "months/2024-05/2024-05-14 10th Meeting of City Council",
-      "itemNumber": "8.2.7",
-      "itemTitle": "(2.5) Core Area Parking Incentives Extension ",
-      "kind": "issue",
-      "regex": {
-        "issue": "downtown",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "ab5f8240872a",
-      "date": "2024-05-14",
-      "meetingSlug": "months/2024-05/2024-05-14 10th Meeting of City Council",
-      "itemNumber": "8.2.7",
-      "itemTitle": "(2.5) Core Area Parking Incentives Extension ",
-      "kind": "issue",
-      "regex": {
-        "issue": "downtown",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
       "motionId": "05d0f12626d5",
       "date": "2024-05-14",
       "meetingSlug": "months/2024-05/2024-05-14 10th Meeting of City Council",
@@ -6302,6 +6680,24 @@
         "issue": "encampments",
         "axis": null,
         "polarity": null
+      }
+    },
+    {
+      "motionId": "25119154026c",
+      "date": "2024-04-29",
+      "meetingSlug": "months/2024-04/2024-04-29 6th Meeting of the Community and Protective Services Committee",
+      "itemNumber": "2.5",
+      "itemTitle": "Core Area Parking Incentives Extension ",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "downtown",
+        "axis": "application-approval",
+        "polarity": "expansive"
       }
     },
     {
@@ -6629,60 +7025,6 @@
       }
     },
     {
-      "motionId": "c1b110962896",
-      "date": "2024-04-02",
-      "meetingSlug": "months/2024-04/2024-04-02 7th Meeting of City Council",
-      "itemNumber": "8.4.13",
-      "itemTitle": "(5.1) Reduced Parking Incentive Pilot Project",
-      "kind": "issue",
-      "regex": {
-        "issue": "downtown",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "126855d5053a",
-      "date": "2024-03-26",
-      "meetingSlug": "months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.3",
-      "itemTitle": "London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan",
-      "kind": "issue",
-      "regex": {
-        "issue": "housing",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "b139e7518cc1",
-      "date": "2024-03-26",
-      "meetingSlug": "months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.3",
-      "itemTitle": "London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan",
-      "kind": "issue",
-      "regex": {
-        "issue": "housing",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
       "motionId": "3999deed0c8a",
       "date": "2024-03-26",
       "meetingSlug": "months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee",
@@ -6734,42 +7076,6 @@
         "issue": "housing",
         "axis": "density",
         "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "c6cfe754f5bf",
-      "date": "2024-03-19",
-      "meetingSlug": "months/2024-03/2024-03-19 5th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.9",
-      "itemTitle": "613 Superior Drive (Z-9691)",
-      "kind": "issue",
-      "regex": {
-        "issue": "housing",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
-      }
-    },
-    {
-      "motionId": "aa8ae65918a6",
-      "date": "2024-03-19",
-      "meetingSlug": "months/2024-03/2024-03-19 5th Meeting of the Planning and Environment Committee",
-      "itemNumber": "3.9",
-      "itemTitle": "613 Superior Drive (Z-9691)",
-      "kind": "issue",
-      "regex": {
-        "issue": "housing",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": null,
-        "axis": null,
-        "polarity": null
       }
     },
     {
@@ -8300,6 +8606,24 @@
         "issue": "housing",
         "axis": null,
         "polarity": null
+      }
+    },
+    {
+      "motionId": "456e873da7c2",
+      "date": "2023-10-10",
+      "meetingSlug": "months/2023-10/2023-10-10 25th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.4",
+      "itemTitle": "Establishing Homes Ontario - T. Kernaghan, MPP",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": "affordable-funding",
+        "polarity": "expansive"
       }
     },
     {

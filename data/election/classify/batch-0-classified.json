@@ -106,7 +106,7 @@
   ]
  },
  {
-  "id": "d18f8e672d56",
+  "id": "1fd6e77e5a25",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -130,7 +130,7 @@
   ]
  },
  {
-  "id": "0635364c133a",
+  "id": "38fda7e0ab61",
   "issue": "policing",
   "axis": null,
   "polarity": null,
@@ -212,7 +212,7 @@
   "flags": []
  },
  {
-  "id": "5b512fd551f5",
+  "id": "e059773bdd21",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",

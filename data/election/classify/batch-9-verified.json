@@ -44,7 +44,7 @@
   "verifierNote": "Commemorative naming/park renaming directive -- no tracked-issue keyword hit; personnel/place-naming governance matter, issue=none correct."
  },
  {
-  "id": "a2a597755fb0",
+  "id": "3e82641c1457",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -138,7 +138,7 @@
   "verifierNote": "Emergency Treatment Fund federal contribution agreement (substance-use harm reduction at 602 Queens) -- checked against encampments keyword list (encampment/homeless/homelessness/unsheltered/emergency shelter/etc.): none appear in the operative by-law-introduction clause. Substance-use harm reduction is a distinct domain from the tracked encampments cluster's keyword set; confirmed none as the non-overreaching call."
  },
  {
-  "id": "e3801f6411ff",
+  "id": "32b3a392fe5e",
   "issue": "encampments",
   "axis": "relocation",
   "polarity": "restrictive",
@@ -153,7 +153,7 @@
   "verifierNote": "Watson Park part a) (14-1): full text at months/2025-04/2025-04-22 7th Council Meeting.json item 8.2.9 confirms the exact quote and 14-1 vote; matches RELOCATION_AWAY_RE's own documented canonical case ('relocation of those living unhoused' + 'to ensure Watson Park is in compliance with established encampment protocols') -- unambiguous clearing directive, restrictive confirmed."
  },
  {
-  "id": "0f3d27aee05c",
+  "id": "cf6233c1dc64",
   "issue": "encampments",
   "axis": "relocation",
   "polarity": "restrictive",
@@ -178,7 +178,7 @@
    "relocation"
   ],
   "verdict": "downgraded",
-  "verifierNote": "REFUTED restrictive polarity on the relocation axis. Full text (ab8c0a2b000c: months/2025-04/2025-04-22 7th Council Meeting.json item 8.2.9, Passed 9-6; 4a0ac7ff43c4: months/2025-04/2025-04-07 7th Meeting of the Community and Protective Services Committee.json item 5.1, Passed 3-2) is the SAME clause at committee vs council stage: 'the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible and that, in the interim period, depot resources be reallocated to assist those living unhoused find shelter or relocate them to an alternate location.' Unlike the companion part a) clause (e3801f6411ff/0f3d27aee05c), which the codebase's own RELOCATION_AWAY_RE was specifically built and documented around, this clause (1) is primarily an operational fixed-depot-to-mobile-model service change, not per se restrictive on its face, and (2) directs the leftover depot resources toward a genuine disjunction -- 'assist... find shelter OR relocate them to an alternate location' -- mixing a clearly supportive action (help find shelter) with a possibly-restrictive one (relocate elsewhere), rather than part a)'s unambiguous 'relocate AND connect with service supports.' I ran the actual RELOCATION_AWAY_RE regex from direction-rules.ts against this exact text and it does NOT match (no 'off/away from/out of/those living unhoused' phrase sits adjacent to 'relocate' or 'move' the way it does in part a) -- confirming this clause falls outside even the rule's own documented intent. Cannot positively confirm restrictive over the plausible neutral/mixed reading -- per unclear-is-safe, downgrading axis+polarity to null. issue=encampments stands (unambiguously about the Watson Park response); whatAYeaDid text is accurate and left unchanged."
+  "verifierNote": "REFUTED restrictive polarity on the relocation axis. Full text (ab8c0a2b000c (superseded id): months/2025-04/2025-04-22 7th Council Meeting.json item 8.2.9, Passed 9-6; 4a0ac7ff43c4 (superseded id): months/2025-04/2025-04-07 7th Meeting of the Community and Protective Services Committee.json item 5.1, Passed 3-2) is the SAME clause at committee vs council stage: 'the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible and that, in the interim period, depot resources be reallocated to assist those living unhoused find shelter or relocate them to an alternate location.' Unlike the companion part a) clause (32b3a392fe5e/cf6233c1dc64), which the codebase's own RELOCATION_AWAY_RE was specifically built and documented around, this clause (1) is primarily an operational fixed-depot-to-mobile-model service change, not per se restrictive on its face, and (2) directs the leftover depot resources toward a genuine disjunction -- 'assist... find shelter OR relocate them to an alternate location' -- mixing a clearly supportive action (help find shelter) with a possibly-restrictive one (relocate elsewhere), rather than part a)'s unambiguous 'relocate AND connect with service supports.' I ran the actual RELOCATION_AWAY_RE regex from direction-rules.ts against this exact text and it does NOT match (no 'off/away from/out of/those living unhoused' phrase sits adjacent to 'relocate' or 'move' the way it does in part a) -- confirming this clause falls outside even the rule's own documented intent. Cannot positively confirm restrictive over the plausible neutral/mixed reading -- per unclear-is-safe, downgrading axis+polarity to null. issue=encampments stands (unambiguously about the Watson Park response); whatAYeaDid text is accurate and left unchanged."
  },
  {
   "id": "dd17bc03a84d",
@@ -190,7 +190,7 @@
   "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Holding Residential R8 Special Provision Bonus (h-8*R8- 4(74)*B-40)) Zone TO a Residential R9 Special Provision (R9-7(_)) Zone, BE REFUSED",
   "flags": [],
   "verdict": "corrected",
-  "verifierNote": "whatAYeaDid wording corrected -- issue/axis/polarity (housing/application-approval/restrictive) confirmed correct, but the field said 'Refused Royal Premier Homes' application...' as a completed fact. Full text (months/2025-04/2025-04-22 7th Council Meeting.json item 8.3.10) shows this REFUSAL motion itself FAILED 5-10 at Council (the application was later APPROVED 13-2 via a separate substitute motion, ef9ba6dbe683). Every other failed motion in this batch (e0b2c6bdb39c, 058e553b9214, 173b033d62b4) correctly uses 'Would have...' phrasing for a failed motion; this one didn't, which read as a false claim that the refusal was enacted. Corrected to 'Would have refused...' to match the batch's own convention and the actual 5-10 failed outcome. Quote is verbatim (part b of the first motion in item 8.3.10, confirmed against source) and remains the operative clause; a yea on it would have been the restrictive/refusal position, so axis/polarity are unchanged."
+  "verifierNote": "whatAYeaDid wording corrected -- issue/axis/polarity (housing/application-approval/restrictive) confirmed correct, but the field said 'Refused Royal Premier Homes' application...' as a completed fact. Full text (months/2025-04/2025-04-22 7th Council Meeting.json item 8.3.10) shows this REFUSAL motion itself FAILED 5-10 at Council (the application was later APPROVED 13-2 via a separate substitute motion, ef9ba6dbe683 (superseded id)). Every other failed motion in this batch (e0b2c6bdb39c (superseded id), 058e553b9214 (superseded id), 173b033d62b4 (superseded id)) correctly uses 'Would have...' phrasing for a failed motion; this one didn't, which read as a false claim that the refusal was enacted. Corrected to 'Would have refused...' to match the batch's own convention and the actual 5-10 failed outcome. Quote is verbatim (part b of the first motion in item 8.3.10, confirmed against source) and remains the operative clause; a yea on it would have been the restrictive/refusal position, so axis/polarity are unchanged."
  },
  {
   "id": "082e2788a8b7",
@@ -296,7 +296,7 @@
    "informational_ask"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Same PA Day request at committee stage (Passed 3-2) -- confirmed none, same as 4e0d98d4fc80."
+  "verifierNote": "Same PA Day request at committee stage (Passed 3-2) -- confirmed none, same as 4e0d98d4fc80 (superseded id)."
  },
  {
   "id": "2902a5360631",
@@ -324,7 +324,7 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "Committee-stage version of the Bostwick natural-heritage amendment, full text at months/2025-04/2025-04-08 The 6th Meeting of the Planning and Environment Committee.json item 3.1 (Motion FAILED 2-3, matches manifest exactly). Same verbatim clause as e0b2c6bdb39c, correctly 'Would have added...' Confirmed expansive."
+  "verifierNote": "Committee-stage version of the Bostwick natural-heritage amendment, full text at months/2025-04/2025-04-08 The 6th Meeting of the Planning and Environment Committee.json item 3.1 (Motion FAILED 2-3, matches manifest exactly). Same verbatim clause as e0b2c6bdb39c (superseded id), correctly 'Would have added...' Confirmed expansive."
  },
  {
   "id": "446cc53d8914",
@@ -348,7 +348,7 @@
   "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Holding Residential R8 Special Provision Bonus (h-8*R8- 4(74)*B-40)) Zone TO a Residential R9 Special Provision (R9-7(_)) Zone, BE REFUSED",
   "flags": [],
   "verdict": "confirmed",
-  "verifierNote": "Committee-stage recommendation to refuse 801 Sarnia Road, full text at .../2025-04-08 The 6th Meeting of the Planning and Environment Committee.json item 3.7 (Motion Passed 4-1, matches manifest -- the refusal recommendation PASSED at committee, unlike the analogous Council-stage motion e836ac41a3c7 which FAILED 5-10). 'Recommended refusing...' is correctly phrased as a completed recommendation since this one passed. This cross-check is what surfaced e836ac41a3c7's wording error. Confirmed restrictive."
+  "verifierNote": "Committee-stage recommendation to refuse 801 Sarnia Road, full text at .../2025-04-08 The 6th Meeting of the Planning and Environment Committee.json item 3.7 (Motion Passed 4-1, matches manifest -- the refusal recommendation PASSED at committee, unlike the analogous Council-stage motion e836ac41a3c7 (superseded id) which FAILED 5-10). 'Recommended refusing...' is correctly phrased as a completed recommendation since this one passed. This cross-check is what surfaced e836ac41a3c7 (superseded id)'s wording error. Confirmed restrictive."
  },
  {
   "id": "b7b84aa64193",
@@ -377,7 +377,7 @@
    "relocation"
   ],
   "verdict": "downgraded",
-  "verifierNote": "REFUTED restrictive polarity on the relocation axis. Full text (ab8c0a2b000c: months/2025-04/2025-04-22 7th Council Meeting.json item 8.2.9, Passed 9-6; 4a0ac7ff43c4: months/2025-04/2025-04-07 7th Meeting of the Community and Protective Services Committee.json item 5.1, Passed 3-2) is the SAME clause at committee vs council stage: 'the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible and that, in the interim period, depot resources be reallocated to assist those living unhoused find shelter or relocate them to an alternate location.' Unlike the companion part a) clause (e3801f6411ff/0f3d27aee05c), which the codebase's own RELOCATION_AWAY_RE was specifically built and documented around, this clause (1) is primarily an operational fixed-depot-to-mobile-model service change, not per se restrictive on its face, and (2) directs the leftover depot resources toward a genuine disjunction -- 'assist... find shelter OR relocate them to an alternate location' -- mixing a clearly supportive action (help find shelter) with a possibly-restrictive one (relocate elsewhere), rather than part a)'s unambiguous 'relocate AND connect with service supports.' I ran the actual RELOCATION_AWAY_RE regex from direction-rules.ts against this exact text and it does NOT match (no 'off/away from/out of/those living unhoused' phrase sits adjacent to 'relocate' or 'move' the way it does in part a) -- confirming this clause falls outside even the rule's own documented intent. Cannot positively confirm restrictive over the plausible neutral/mixed reading -- per unclear-is-safe, downgrading axis+polarity to null. issue=encampments stands (unambiguously about the Watson Park response); whatAYeaDid text is accurate and left unchanged."
+  "verifierNote": "REFUTED restrictive polarity on the relocation axis. Full text (ab8c0a2b000c (superseded id): months/2025-04/2025-04-22 7th Council Meeting.json item 8.2.9, Passed 9-6; 4a0ac7ff43c4 (superseded id): months/2025-04/2025-04-07 7th Meeting of the Community and Protective Services Committee.json item 5.1, Passed 3-2) is the SAME clause at committee vs council stage: 'the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible and that, in the interim period, depot resources be reallocated to assist those living unhoused find shelter or relocate them to an alternate location.' Unlike the companion part a) clause (32b3a392fe5e/cf6233c1dc64), which the codebase's own RELOCATION_AWAY_RE was specifically built and documented around, this clause (1) is primarily an operational fixed-depot-to-mobile-model service change, not per se restrictive on its face, and (2) directs the leftover depot resources toward a genuine disjunction -- 'assist... find shelter OR relocate them to an alternate location' -- mixing a clearly supportive action (help find shelter) with a possibly-restrictive one (relocate elsewhere), rather than part a)'s unambiguous 'relocate AND connect with service supports.' I ran the actual RELOCATION_AWAY_RE regex from direction-rules.ts against this exact text and it does NOT match (no 'off/away from/out of/those living unhoused' phrase sits adjacent to 'relocate' or 'move' the way it does in part a) -- confirming this clause falls outside even the rule's own documented intent. Cannot positively confirm restrictive over the plausible neutral/mixed reading -- per unclear-is-safe, downgrading axis+polarity to null. issue=encampments stands (unambiguously about the Watson Park response); whatAYeaDid text is accurate and left unchanged."
  },
  {
   "id": "f6d9d77f59cf",
@@ -405,7 +405,7 @@
    "procedural"
   ],
   "verdict": "confirmed",
-  "verifierNote": "By-law amendment implementing the 7-member Transit Commission size -- same governance/composition reasoning as a25a6b489e81; confirmed none."
+  "verifierNote": "By-law amendment implementing the 7-member Transit Commission size -- same governance/composition reasoning as a25a6b489e81 (superseded id); confirmed none."
  },
  {
   "id": "9b8d4803d9e7",
@@ -484,7 +484,7 @@
   "verifierNote": "Same item, index 4 (Motion Passed 13-2, matches manifest): reconstructed from 'i) the following Proposed Network Additions BE REMOVED from the Network Cycling maps: A. Royal Crescent east of Clarke Road to Wexford Avenue to Admiral Drive' -- the antecedent 'BE REMOVED' verb governs this specific sub-motion's street (voted on individually per the meeting transcript's own 'Motion to approve part c) i) A' framing). Confirmed restrictive."
  },
  {
-  "id": "439e4f691d90",
+  "id": "c7684b074103",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",
@@ -496,7 +496,7 @@
   "verifierNote": "Same item, index 5 (Motion Passed 11-4, matches manifest): sub-motion text is literally just 'B. Sovereign Road;' voted under the same 'BE REMOVED from the Network Cycling maps' antecedent established in the parent clause -- confirmed this reconstruction is faithful to the transcript's own per-letter voting structure. Confirmed restrictive."
  },
  {
-  "id": "bc037e6d64e5",
+  "id": "869855991c1c",
   "issue": "bikes",
   "axis": "infrastructure-expansion",
   "polarity": "restrictive",

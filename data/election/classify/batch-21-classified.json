@@ -25,7 +25,7 @@
   ]
  },
  {
-  "id": "454de550adf5",
+  "id": "f09a750e180c",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -63,7 +63,7 @@
   ]
  },
  {
-  "id": "311b57b70796",
+  "id": "41e450acad70",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -537,6 +537,18 @@
   "flags": [
    "informational_ask",
    "procedural"
+  ]
+ },
+ {
+  "id": "456e873da7c2",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved advising the Government of Ontario that London City Council supports a provincial motion to establish and fund Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years.",
+  "confidence": "high",
+  "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: ... to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers",
+  "flags": [
+   "wrapper_preamble"
   ]
  }
 ]
