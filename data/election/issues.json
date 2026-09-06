@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T16:24:41.228Z",
+  "generatedAt": "2026-09-06T17:25:49.493Z",
   "sourceHash": "c89decb146e3da17",
   "sourceGeneratedAt": "2026-09-05T10:52:14.158Z",
   "cutoffDate": "2023-01-01",
@@ -1431,7 +1431,7 @@
           "direction": {
             "axis": "response-scale",
             "valence": 1,
-            "label": "Directed the city to implement the Temporary Warming Centre Framework for the 2025/2026 and 2026/2027 winters and approved up to $3,632,500 in financing for it.",
+            "label": "Directed the city to implement the Temporary Warming Centre Framework for the 2025/2026 and 2026/2027 winters and approved up to $3,632,500 in financing for the 2026/2027 winter, following a reconsideration vote to correct a councillor's vote.",
             "axisLabels": {
               "expansive": "expanded the encampment/homelessness response",
               "restrictive": "reduced the encampment/homelessness response"
@@ -1484,7 +1484,7 @@
           "direction": {
             "axis": "response-scale",
             "valence": 1,
-            "label": "Directed the city to implement the Temporary Warming Centre Framework for the 2025/2026 and 2026/2027 winters and approved up to $3,632,500 in financing for it.",
+            "label": "Directed the city to implement the Temporary Warming Centre Framework for the 2025/2026 and 2026/2027 winters and approved up to $3,632,500 in financing for the 2026/2027 winter, before this vote was superseded by a same-meeting reconsideration to correct a councillor's vote.",
             "axisLabels": {
               "expansive": "expanded the encampment/homelessness response",
               "restrictive": "reduced the encampment/homelessness response"
@@ -16779,7 +16779,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "supported the third reading and enactment of the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+            "label": "Gave third reading and enacted the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -16834,7 +16834,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "supported the second reading of the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+            "label": "Gave second reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -16983,7 +16983,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "supported the third reading and enactment of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+            "label": "Gave third reading and enacted the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -17038,7 +17038,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "supported the second reading of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+            "label": "Gave second reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -24840,7 +24840,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Directed Civic Administration to plan the draft 2024-2027 Multi-Year Budget around an average annual tax levy increase of approximately 2.9%-3.9%, plus an additional 0.5% for further investment.",
+            "label": "Advised Civic Administration of Council's desire to plan the draft 2024-2027 Multi-Year Budget around an average annual tax levy increase of approximately 2.9%-3.9%, plus an additional 0.5% for further investment.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -27573,7 +27573,7 @@
     "housing": {
       "label": "Housing & Density",
       "dividedVoteCount": 347,
-      "directionBearingVoteCount": 207,
+      "directionBearingVoteCount": 206,
       "distinctAgendaItemCount": 196,
       "votes": [
         {
@@ -42807,13 +42807,8 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "affordable-funding",
-            "valence": 1,
-            "label": "Approved advising the Government of Ontario that London City Council supports a provincial motion to establish and fund Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years.",
-            "axisLabels": {
-              "expansive": "approved funding or land for affordable housing",
-              "restrictive": "denied funding or land for affordable housing"
-            }
+            "axis": null,
+            "label": "Approved advising the Government of Ontario that London City Council supports a provincial motion to establish and fund Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years."
           },
           "positions": {
             "j-morgan": "yea",
@@ -43358,7 +43353,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "supported the third reading and enactment of the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+            "label": "Gave third reading and enacted the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
             "axisLabels": {
               "expansive": "approved the development, rezoning, or housing-policy item",
               "restrictive": "denied the development, rezoning, or housing-policy item"
@@ -43413,7 +43408,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "supported the second reading of the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+            "label": "Gave second reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
             "axisLabels": {
               "expansive": "approved the development, rezoning, or housing-policy item",
               "restrictive": "denied the development, rezoning, or housing-policy item"
@@ -43560,7 +43555,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "supported approving the Residential R1 (R1-13(7)) zoning special provision as part of rezoning land at 146 Exeter Road from Urban Reserve/Light Industrial to a residential subdivision.",
+            "label": "supported approving the Residential R1 (R1-13(7)) zoning special provision as part of rezoning land at 146 Exeter Road from Urban Reserve/Light Industrial to a residential subdivision, following a reconsideration vote.",
             "axisLabels": {
               "expansive": "approved the development, rezoning, or housing-policy item",
               "restrictive": "denied the development, rezoning, or housing-policy item"
