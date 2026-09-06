@@ -1514,6 +1514,34 @@ function buildPattern(
       ? ` No motion on this axis since 2023 would have ${agg.axisLabels.restrictive} — every direction-bearing motion here would have ${agg.axisLabels.expansive}.`
       : "";
 
+  // Gate round 4 item D: oneSidedNote above is CORPUS-scoped (computed from
+  // axisHasExpansive/axisHasRestrictive, the whole corpus's polarity
+  // presence for this axis) — it is correctly silent whenever the corpus
+  // has motions of both polarities, even when THIS COUNCILLOR's own listed
+  // rows never happened to include one of the two. That silence still lets
+  // a one-sided read stand: e.g. a councillor whose axis evidence is 78
+  // "supported approving X" + 2 "opposed approving X" and zero motions of
+  // the opposite (denial) polarity prints no disclosure at all that a
+  // whole polarity of motion never came up for THIS councillor's vote,
+  // inviting a reader to assume the omission means something it doesn't.
+  // blockScopedNote fills that gap with a BLOCK-scoped (this councillor's
+  // own evidence only) factual clause, mutually exclusive with
+  // oneSidedNote by construction (oneSidedNote fires exactly when the
+  // corpus lacks a polarity, in which case this councillor's block cannot
+  // have it either) — never a counterfactual claim about what a motion
+  // that never existed would have done, only what IS true of this
+  // councillor's own recorded votes.
+  const blockHasExpansive = agg.yeaExpansive + agg.nayExpansive > 0;
+  const blockHasRestrictive = agg.yeaRestrictive + agg.nayRestrictive > 0;
+  const blockScopedNote =
+    sampleSize > 0 && axisHasExpansive && axisHasRestrictive
+      ? !blockHasExpansive
+        ? ` Every one of this councillor's own recorded votes on this axis has been on a motion that would have ${agg.axisLabels.restrictive}; no motion that would have ${agg.axisLabels.expansive} has come up for this councillor's own recorded vote.`
+        : !blockHasRestrictive
+          ? ` Every one of this councillor's own recorded votes on this axis has been on a motion that would have ${agg.axisLabels.expansive}; no motion that would have ${agg.axisLabels.restrictive} has come up for this councillor's own recorded vote.`
+          : ""
+      : "";
+
   if (distinctItemCount < MIN_PATTERN_SAMPLE_SIZE) {
     const itemWord = distinctItemCount === 1 ? "decision" : "decisions";
     // Fixed 2026-08-31 (round-2 gate item 4): "across them" always used the
@@ -1535,7 +1563,7 @@ function buildPattern(
     // vote (sampleSize > 1) — e.g. a committee + council stage of the same
     // decision, each a separate yea/nay row.
     const isAre = sampleSize === 1 ? "is" : "are";
-    return `Only ${distinctItemCount} distinct ${itemWord} since 2023${voteClause}${recusalAbsentClause(agg)} — too few to describe a pattern. The individual vote${sampleSize === 1 ? "" : "s"} ${isAre} listed below.${oneSidedNote}`;
+    return `Only ${distinctItemCount} distinct ${itemWord} since 2023${voteClause}${recusalAbsentClause(agg)} — too few to describe a pattern. The individual vote${sampleSize === 1 ? "" : "s"} ${isAre} listed below.${oneSidedNote}${blockScopedNote}`;
   }
 
   const clause = (n: number, verb: "supported" | "opposed", label: string) =>
@@ -1577,7 +1605,8 @@ function buildPattern(
     `Of ${sampleSize} divided votes${decisionNote} since 2023 where the motion's effect on this axis was clear, this councillor ${clauses.join("; ")}` +
     recusalAbsentClause(agg) +
     "." +
-    oneSidedNote
+    oneSidedNote +
+    blockScopedNote
   );
 }
 

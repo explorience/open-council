@@ -66,9 +66,25 @@ one:
       convention and describing them identically is accurate, not a
       differentiation defect.
 
+  (F) "ENACTED {STAGE} READING AND (FINAL )?ENACTMENT OF ..." (gate round 4
+      item C): a DIFFERENT garble from (B) -- no doubled "Reading" noun (so
+      (B) never fires), but the same backwards-grammar defect: "enacted"
+      appears BEFORE the reading is even named, and then "enactment" is
+      redundantly restated after it (e.g. "Enacted third reading and
+      enactment of the by-law rezoning ..."). Distinct from (D) too: (D)
+      only catches enact-semantics wording with NO stage word at all; this
+      shape names its stage explicitly, so (D)'s "stage == third: correct,
+      not a hit" branch would otherwise wave it through as accurate (the
+      CLAIM is true -- it is genuinely third reading -- only the wording is
+      garbled). Stage comes from this roll call's own authoritative
+      motionText (rollCallOrdinal), same as (D); a first/second-reading
+      match under this same textual shape would ALSO be a substance
+      overclaim, not just grammar, and is fixed the same way (D) fixes it.
+
 A hit's suggested fix is generated mechanically: (A)/(C)-first/second and
-(D) become "Gave {stage} reading to ...", (B)/(C)-third becomes "Gave third
-reading and enacted ...". This sweep only PRINTS suggested fixes — it never
+(D) become "Gave {stage} reading to ...", (B)/(C)-third/(F)-third become
+"Gave third reading and enacted ...", (F)-first/second becomes "Gave
+{stage} reading to ...". This sweep only PRINTS suggested fixes — it never
 writes corrections.json itself (see the channel's "never edit
 batch-*-verified.json content, corrections.json only" rule) — a human/fixer
 step applies them, then reruns this sweep to confirm zero.
@@ -90,6 +106,11 @@ RE_D = re.compile(r"\benact(ed|ing)?\b", re.I)
 # that the motion did NOT enact anything (e.g. a report-back directive
 # explicitly disclaiming enactment) -- never a (D) candidate at all.
 RE_D_NEGATED = re.compile(r"\b(without|not|never)\s+enact\w*\b", re.I)
+# Gate round 4 item C: "Enacted {stage} reading and (final )?enactment of"
+# -- backwards-grammar garble distinct from (B) (no doubled "Reading" noun)
+# and from (D) (names its stage explicitly, so (D) would otherwise treat a
+# true third-reading match as already-correct and never flag the garble).
+RE_F = re.compile(r"^Enacted (Introduction and )?(First|Second|Third) reading and (final )?enactment of ", re.I)
 
 RE_STAGE_FIRST = re.compile(r"introduction and first reading", re.I)
 RE_STAGE_SECOND = re.compile(r"\bsecond reading\b", re.I)
@@ -155,6 +176,24 @@ def fixed_text(what: str, kind: str, stage: str | None) -> str | None:
         if not m:
             return None
         return re.sub(r"^Supported enacting ", f"Gave {stage} reading to ", what, count=1, flags=re.I)
+    if kind == "F":
+        if stage == "third":
+            return re.sub(
+                r"^Enacted (?:Introduction and )?Third reading and (?:final )?enactment of ",
+                "Gave third reading and enacted ",
+                what,
+                count=1,
+                flags=re.I,
+            )
+        if stage in ("first", "second"):
+            return re.sub(
+                r"^Enacted (?:Introduction and )?(?:First|Second) reading and (?:final )?enactment of ",
+                f"Gave {stage} reading to ",
+                what,
+                count=1,
+                flags=re.I,
+            )
+        return None
     return None
 
 
@@ -165,8 +204,10 @@ def main() -> int:
     hits_b = []
     hits_c = []
     hits_d = []
+    hits_f = []
     unresolved = []
     unresolved_d = []
+    unresolved_f = []
 
     for e in entries.values():
         what = e.get("whatAYeaDid") or ""
@@ -185,6 +226,23 @@ def main() -> int:
                 unresolved.append((e, m, stage, verbatim))
             else:
                 hits_c.append((e, fixed_text(what, "C", stage)))
+        elif RE_F.search(what):
+            # Class F (gate round 4 item C): "Enacted {stage} reading and
+            # (final )?enactment of ..." -- checked BEFORE (D) since this
+            # shape names its stage explicitly, and (D) would otherwise
+            # treat a genuine third-reading match as already-correct and
+            # never flag the backwards grammar. Stage comes from the
+            # AUTHORITATIVE motionText for this exact roll call, same as (D).
+            motion_text = m.get("motionText") or ""
+            stage = stage_from_motion_text(motion_text) if m else None
+            if stage is None:
+                unresolved_f.append((e, m))
+            else:
+                fix = fixed_text(what, "F", stage)
+                if fix is None:
+                    unresolved_f.append((e, m))
+                else:
+                    hits_f.append((e, fix))
         elif RE_D.search(what) and not RE_D_NEGATED.search(what):
             # Class D (gate round 3 item C): enact-semantics wording with no
             # stage word for (A) to catch. Stage comes from the AUTHORITATIVE
@@ -257,6 +315,7 @@ def main() -> int:
     report("B (duplicated-Reading garble)", hits_b)
     report("C (stage-less, source names a stage)", hits_c)
     report("D (enact-semantics, no stage word, source is first/second reading)", hits_d)
+    report("F (Enacted {stage} reading and (final) enactment of -- backwards grammar)", hits_f)
 
     print("\nClass E (byte-identical label across distinct reading-stage roll calls):")
     if not hits_e:
@@ -288,14 +347,26 @@ def main() -> int:
     else:
         print("  none.")
 
+    print("\nUnresolved class-F rows (Enacted {stage} reading and enactment of wording, but no stage derivable from this roll call's own motionText — needs manual review, not auto-fixed):")
+    if unresolved_f:
+        ok = False
+        for e, m in unresolved_f:
+            print(f"    {e['id']} {m.get('date')} {m.get('meetingSlug')}#{m.get('itemNumber')}")
+            print(f"      whatAYeaDid: {e['whatAYeaDid']!r}")
+            print(f"      motionText:  {m.get('motionText')!r}")
+    else:
+        print("  none.")
+
     total = (
         len(hits_a)
         + len(hits_b)
         + len(hits_c)
         + len(hits_d)
+        + len(hits_f)
         + sum(len(members) for _, members in hits_e)
         + len(unresolved)
         + len(unresolved_d)
+        + len(unresolved_f)
     )
     print(f"\n{'=' * 60}\nTotal reading-stage-label hits: {total}")
     return 0 if ok else 1
