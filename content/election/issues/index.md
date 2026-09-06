@@ -14,9 +14,9 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
-| [Housing & Density](/election/issues/housing) | 352 | 212 |
+| [Housing & Density](/election/issues/housing) | 349 | 209 |
 | [Homelessness & Encampments](/election/issues/encampments) | 162 | 65 |
-| [Taxes & Budget](/election/issues/budget) | 150 | 94 |
+| [Taxes & Budget](/election/issues/budget) | 150 | 92 |
 | [Transit & Roads](/election/issues/transit) | 117 | 60 |
 | [Climate & Green Space](/election/issues/climate) | 43 | 17 |
 | [Downtown & Core](/election/issues/downtown) | 30 | 19 |
@@ -26,7 +26,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 
 ## Unclassified divided votes
 
-836 additional divided motions since January 1, 2023 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 836 are listed below:
+839 additional divided motions since January 1, 2023 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 839 are listed below:
 
 - July 21, 2026 — By-laws (item 13)
 - July 21, 2026 — By-laws (item 13)
@@ -643,6 +643,9 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - February 15, 2024 — Amendment - Business Case No. P-15, No. P-16, No. P-17, No. P-18 (item 3.29)
 - February 15, 2024 — Amendment - London Public Library Base Budget (item 3.34)
 - February 15, 2024 — Adjournment (item 7)
+- February 13, 2024 — By-laws (item 13)
+- February 13, 2024 — By-laws (item 13)
+- February 13, 2024 — By-laws (item 13)
 - February 13, 2024 — (2.5) Contract Award - Tender No. RFT-2023-241 - East London Link and Municipal Infrastructure Improvements Phase 3C - Highbury Avenue (item 8.2.5)
 - February 13, 2024 — (2.4) Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street (item 8.2.8)
 - February 8, 2024 — Amendment - Business Case No. P-51 (item 3.23)
