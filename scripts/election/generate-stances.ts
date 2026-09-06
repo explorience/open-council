@@ -1113,9 +1113,27 @@ function main() {
 const STAGE_DIRECTION_RE =
   /\bAt\s+\d{1,2}:\d{2}\s*(?:AM|PM)\b(?:[^.]|(?<=\b[A-Z])\.)*\.\s*/gi;
 
+// Gate round 3 item F2 (minor, excerpt renderer): a distinct shape of
+// attendance aside the STAGE_DIRECTION_RE above doesn't catch — the source
+// sometimes glues "It being noted that Councillor X (leaves|enters|
+// re-enters) the meeting/Chair at H:MM AM/PM" onto the end of the operative
+// clause with NO terminating period at all (see f96ee1b77651: "...BE
+// APPROVED It being noted that Councillor S. Trosow leaves the meeting at
+// 5:11 PM" — nothing follows, the source string just ends there).
+// STAGE_DIRECTION_RE requires "At H:MM" at the START of the aside and a
+// closing period to terminate its match; this aside instead ends with the
+// time, so it's anchored to the END of the string ($) instead — matching
+// this exact "It being noted ... enters/leaves/assumes/vacates ... H:MM
+// AM/PM" trailing shape only, never a legitimate mid-motion "it being
+// noted that ..." clause that is followed by more operative text (those
+// are real content, left untouched).
+const TRAILING_ATTENDANCE_ASIDE_RE =
+  /\s+It (?:being|was) noted that\b.*?\b(?:leaves|enters|re-enters|assumes|vacates)\b.*?\d{1,2}:\d{2}\s*(?:AM|PM)\.?\s*$/i;
+
 function motionSnippet(motionText: string): string {
   const s = motionText
     .replace(STAGE_DIRECTION_RE, " ")
+    .replace(TRAILING_ATTENDANCE_ASIDE_RE, "")
     .trim()
     .replace(/\s+/g, " ");
   return s.length > 90 ? s.slice(0, 87) + "..." : s;
@@ -1482,6 +1500,20 @@ function buildPattern(
     }
     return `No direction-bearing votes cast on this axis since 2023${recusalAbsentClause(agg) || " (recused 0, absent 0)"}.`;
   }
+  // P2: state plainly, once, when this axis's whole corpus (every
+  // councillor, not just this one) only ever offered one direction of
+  // motion — never implied by a silent "0" on the missing side. Computed
+  // here, above BOTH return branches below (gate round 3 item F3: this
+  // note used to be computed only inside the >=5-decision branch, so a
+  // one-sided axis that hadn't yet cleared the pattern threshold silently
+  // omitted the very disclosure methodology.ts promises applies to "the
+  // pattern sentence" generally, not just the above-threshold one).
+  const oneSidedNote = !axisHasExpansive
+    ? ` No motion on this axis since 2023 would have ${agg.axisLabels.expansive} — every direction-bearing motion here would have ${agg.axisLabels.restrictive}.`
+    : !axisHasRestrictive
+      ? ` No motion on this axis since 2023 would have ${agg.axisLabels.restrictive} — every direction-bearing motion here would have ${agg.axisLabels.expansive}.`
+      : "";
+
   if (distinctItemCount < MIN_PATTERN_SAMPLE_SIZE) {
     const itemWord = distinctItemCount === 1 ? "decision" : "decisions";
     // Fixed 2026-08-31 (round-2 gate item 4): "across them" always used the
@@ -1503,7 +1535,7 @@ function buildPattern(
     // vote (sampleSize > 1) — e.g. a committee + council stage of the same
     // decision, each a separate yea/nay row.
     const isAre = sampleSize === 1 ? "is" : "are";
-    return `Only ${distinctItemCount} distinct ${itemWord} since 2023${voteClause}${recusalAbsentClause(agg)} — too few to describe a pattern. The individual vote${sampleSize === 1 ? "" : "s"} ${isAre} listed below.`;
+    return `Only ${distinctItemCount} distinct ${itemWord} since 2023${voteClause}${recusalAbsentClause(agg)} — too few to describe a pattern. The individual vote${sampleSize === 1 ? "" : "s"} ${isAre} listed below.${oneSidedNote}`;
   }
 
   const clause = (n: number, verb: "supported" | "opposed", label: string) =>
@@ -1523,17 +1555,26 @@ function buildPattern(
       clauses.push(clause(agg.nayRestrictive, "opposed", agg.axisLabels.restrictive));
   }
 
-  // P2: state plainly, once, when this axis's whole corpus (every
-  // councillor, not just this one) only ever offered one direction of
-  // motion — never implied by a silent "0" on the missing side.
-  const oneSidedNote = !axisHasExpansive
-    ? ` No motion on this axis since 2023 would have ${agg.axisLabels.expansive} — every direction-bearing motion here would have ${agg.axisLabels.restrictive}.`
-    : !axisHasRestrictive
-      ? ` No motion on this axis since 2023 would have ${agg.axisLabels.restrictive} — every direction-bearing motion here would have ${agg.axisLabels.expansive}.`
+  // Gate round 3 item E (methodology finding 4): the 5-decision THRESHOLD
+  // above collapses a multi-stage motion to one decision, but the
+  // "supported/opposed N measures" clauses built above count every
+  // recorded vote in the sample — including every reading stage of the
+  // same by-law — so sampleSize can legitimately exceed distinctItemCount
+  // (e.g. Bill 327's three readings each add one to sampleSize for the
+  // same single rezoning decision). Naming both numbers together, right
+  // where "N measures" is about to be read, keeps the methodology's own
+  // claim about what the collapse does (see methodology.ts) literally true
+  // for this sentence rather than leaving a reader to assume N always means
+  // N distinct decisions. Omitted when they're equal — nothing to
+  // disambiguate, no reason to pad every pattern sentence on the hub with a
+  // redundant number.
+  const decisionNote =
+    distinctItemCount < sampleSize
+      ? ` across ${distinctItemCount} distinct decision${distinctItemCount === 1 ? "" : "s"}`
       : "";
 
   return (
-    `Of ${sampleSize} divided votes since 2023 where the motion's effect on this axis was clear, this councillor ${clauses.join("; ")}` +
+    `Of ${sampleSize} divided votes${decisionNote} since 2023 where the motion's effect on this axis was clear, this councillor ${clauses.join("; ")}` +
     recusalAbsentClause(agg) +
     "." +
     oneSidedNote
