@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T15:30:13.922Z",
+  "generatedAt": "2026-09-06T16:24:41.228Z",
   "sourceHash": "c89decb146e3da17",
   "sourceGeneratedAt": "2026-09-05T10:52:14.158Z",
   "cutoffDate": "2023-01-01",
@@ -15930,7 +15930,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "Enacted third reading and enactment of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+            "label": "Gave third reading and enacted by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -16346,7 +16346,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "Enacted third reading and enactment of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+            "label": "Gave third reading and enacted by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
             "axisLabels": {
               "expansive": "approved the transit/roads item",
               "restrictive": "denied the transit/roads item"
@@ -17784,7 +17784,7 @@
     "budget": {
       "label": "Taxes & Budget",
       "dividedVoteCount": 150,
-      "directionBearingVoteCount": 93,
+      "directionBearingVoteCount": 91,
       "distinctAgendaItemCount": 94,
       "votes": [
         {
@@ -18269,13 +18269,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "levy-size",
-            "valence": -1,
-            "label": "Amended the 2026 Annual Budget Update to use previously budgeted 2025 tax-supported Development Charges exemption funding for tax levy mitigation, reducing the 2026 tax levy by $2,400,000.",
-            "axisLabels": {
-              "expansive": "increased the tax levy or a budget item",
-              "restrictive": "reduced the tax levy or a budget item"
-            }
+            "axis": null,
+            "label": "Amended the 2026 Annual Budget Update to use previously budgeted 2025 tax-supported Development Charges exemption funding for tax levy mitigation, reducing the 2026 tax levy by $2,400,000."
           },
           "positions": {
             "j-morgan": "yea",
@@ -20437,7 +20432,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": "levy-size",
-            "valence": 1,
+            "valence": -1,
             "label": "Would have further amended the LDBA cleaning/beautification grant to fund it at $300,000 for 2025 only, funded from the Community Investment Reserve Fund, rather than the $300,000/year for 2025 and 2026 in the version already on the floor.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
@@ -20489,13 +20484,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "levy-size",
-            "valence": 1,
-            "label": "Amended the pending grant motion to fund the London Downtown Business Association's cleaning/beautification grant (graffiti removal, power washing, expanded street cleaning, beautification) at $300,000/year for 2025 and 2026, funded from the Community Investment Reserve Fund instead of the Economic Development Reserve Fund.",
-            "axisLabels": {
-              "expansive": "increased the tax levy or a budget item",
-              "restrictive": "reduced the tax levy or a budget item"
-            }
+            "axis": null,
+            "label": "Amended the pending grant motion to fund the London Downtown Business Association's cleaning/beautification grant (graffiti removal, power washing, expanded street cleaning, beautification) at $300,000/year for 2025 and 2026, funded from the Community Investment Reserve Fund instead of the Economic Development Reserve Fund."
           },
           "positions": {
             "j-morgan": "yea",
@@ -25056,8 +25046,8 @@
           "matchedKeywords": [],
           "direction": {
             "axis": "levy-size",
-            "valence": -1,
-            "label": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
+            "valence": 1,
+            "label": "Halved a pending $950,000 reduction to the Infrastructure Gap Reserve Fund contribution (Budget Amendment Case #P-17) down to a $475,000 reduction -- leaving the tax levy $475,000 higher than the pending $950,000 cut would have.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -42031,7 +42021,7 @@
           "direction": {
             "axis": "use-permission",
             "valence": 1,
-            "label": "Enacted third reading and enactment of the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+            "label": "Gave third reading and enacted the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
             "axisLabels": {
               "expansive": "expanded where additional housing types are permitted",
               "restrictive": "restricted where additional housing types are permitted"
@@ -42283,7 +42273,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Enacted third reading and final enactment of the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+            "label": "Gave third reading and enacted the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
