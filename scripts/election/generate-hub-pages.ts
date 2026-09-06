@@ -178,6 +178,13 @@ interface AxisStance {
     // when two-plus rows in the SAME group collide on their whatAYeaDid's
     // opening 40 characters (see that function).
     role: string | null;
+    // Round-5 gate item A/B: true iff this row is the SUPERSEDED half of a
+    // known reconsidered pair (data/election/classify/reconsidered-pairs.json,
+    // via generate-stances.ts's RECONSIDERED_SUPERSEDED_TO_FINAL) — the
+    // pair's other half is NOT excluded and IS counted in the pattern
+    // above, so renderLadderExclusions must never describe this row with
+    // the genuine-ambiguity "none are counted" wording.
+    supersededByReconsideration: boolean;
   }[];
   evidence: EvidenceRow[];
 }
@@ -548,17 +555,15 @@ function slugFor(
  * pointed in more than one direction. Never silently dropped — grouped by
  * decisionGroupIndex so a reader sees exactly which sibling motions
  * conflicted and how. */
-function renderLadderExclusions(axis: AxisStance): string {
-  if (axis.ladderExclusions.length === 0) return "";
-  const groups = new Map<number, AxisStance["ladderExclusions"]>();
-  for (const ex of axis.ladderExclusions) {
-    let g = groups.get(ex.decisionGroupIndex);
-    if (!g) {
-      g = [];
-      groups.set(ex.decisionGroupIndex, g);
-    }
-    g.push(ex);
-  }
+/** Round-5 gate item A/B: renders one decision group's rows as bullets —
+ * factored out of renderLadderExclusions so both the genuine-ambiguity
+ * partition and the reconsidered-pair-supersession partition (see caller)
+ * render their bullets identically, differing only in the wrapping
+ * sentence each partition gets (a supersession never says "none are
+ * counted" — the pair's other half is counted, just not listed here). */
+function renderLadderExclusionGroups(
+  groups: Map<number, AxisStance["ladderExclusions"]>,
+): string {
   // Fixed 2026-08-31 (round-2 gate item 5): this used to join every row in
   // one decision group into a SINGLE run-on bullet with "; " — several
   // distinct motions, each with its own date, link, and result, buried
@@ -566,7 +571,7 @@ function renderLadderExclusions(axis: AxisStance): string {
   // row is now its own bullet; a blank line still separates one decision
   // group's bullets from the next, so a reader can still tell where one
   // ladder ends and another begins.
-  const items = [...groups.values()]
+  return [...groups.values()]
     .map((rows) => {
       // Round-2 gate item 8/round-3 gate item 0: withStageQualifier — see
       // renderWhatAYeaDid's own doc comment. Round-3 gate item 0: routed
@@ -628,24 +633,78 @@ function renderLadderExclusions(axis: AxisStance): string {
         .join("\n");
     })
     .join("\n\n");
-  const n = axis.ladderExclusions.length;
-  const groupCount = groups.size;
-  // Fixed 2026-08-31 (round-2 gate item 3): "different wordings of the same
-  // decision" asserted every excluded group was an amendment-wording
-  // dispute — false for a decision like Trosow's road-capacity ratification
-  // (an amendment vote, then a separate ratification vote on the amended
-  // whole; not two wordings of one question). Reworded to the fact this
-  // data actually proves for every group here, wording dispute or not: the
-  // councillor's own recorded votes, within one decision, landed on
-  // different sides across that decision's stages.
-  const decisionPhrase =
-    groupCount === 1 ? "this decision" : `each of these ${groupCount} decisions`;
-  const itsTheir = groupCount === 1 ? "its" : "their";
-  return `
-**${n} vote${n === 1 ? "" : "s"} excluded from the pattern above:** this councillor's recorded votes within ${decisionPhrase} pointed in different directions across ${itsTheir} stages, so none are counted in the tallies; each is listed here:
+}
 
-${items}
-`;
+/** Round-4 gate item 4 (genuine amendment-ladder ambiguity) + round-5 gate
+ * item A/B (reconsidered-pair supersession): honest disclosure for every
+ * councillor's vote excluded from this axis's for/against tally, in TWO
+ * distinct shapes that must never share one sentence:
+ *
+ *  - Genuine ambiguity: within one same-day/same-subject decision group,
+ *    this councillor's OWN votes pointed in more than one direction (e.g.
+ *    a weaker, conditional wording voted down, then a stronger,
+ *    unconditional wording of the same restriction passed minutes later).
+ *    Neither side is trusted over the other — none of that group's votes
+ *    are counted.
+ *
+ *  - Reconsidered-pair supersession (see RECONSIDERED_SUPERSEDED_TO_FINAL
+ *    in generate-stances.ts): a s.13.6 (or committee s.35.x)
+ *    reconsideration followed by a same-text re-vote is ONE decision made
+ *    twice, not an ambiguous ladder — the corrected, final vote IS counted
+ *    in the pattern above (it is simply a different row, not listed here);
+ *    only the superseded, now-void roll call is excluded, and it is
+ *    labeled as superseded, never described as leaving "none... counted".
+ *
+ * Never silently dropped either way — grouped by decisionGroupIndex so a
+ * reader sees exactly which sibling motions were involved and how. */
+function renderLadderExclusions(axis: AxisStance): string {
+  if (axis.ladderExclusions.length === 0) return "";
+  const ambiguityGroups = new Map<number, AxisStance["ladderExclusions"]>();
+  const supersededGroups = new Map<number, AxisStance["ladderExclusions"]>();
+  for (const ex of axis.ladderExclusions) {
+    const target = ex.supersededByReconsideration
+      ? supersededGroups
+      : ambiguityGroups;
+    let g = target.get(ex.decisionGroupIndex);
+    if (!g) {
+      g = [];
+      target.set(ex.decisionGroupIndex, g);
+    }
+    g.push(ex);
+  }
+
+  const blocks: string[] = [];
+
+  if (ambiguityGroups.size > 0) {
+    const n = [...ambiguityGroups.values()].reduce((s, g) => s + g.length, 0);
+    const groupCount = ambiguityGroups.size;
+    // Fixed 2026-08-31 (round-2 gate item 3): "different wordings of the
+    // same decision" asserted every excluded group was an amendment-wording
+    // dispute — false for a decision like Trosow's road-capacity
+    // ratification (an amendment vote, then a separate ratification vote on
+    // the amended whole; not two wordings of one question). Reworded to the
+    // fact this data actually proves for every group here, wording dispute
+    // or not: the councillor's own recorded votes, within one decision,
+    // landed on different sides across that decision's stages.
+    const decisionPhrase =
+      groupCount === 1 ? "this decision" : `each of these ${groupCount} decisions`;
+    const itsTheir = groupCount === 1 ? "its" : "their";
+    blocks.push(
+      `**${n} vote${n === 1 ? "" : "s"} excluded from the pattern above:** this councillor's recorded votes within ${decisionPhrase} pointed in different directions across ${itsTheir} stages, so none are counted in the tallies; each is listed here:\n\n${renderLadderExclusionGroups(ambiguityGroups)}`,
+    );
+  }
+
+  if (supersededGroups.size > 0) {
+    const n = [...supersededGroups.values()].reduce((s, g) => s + g.length, 0);
+    const groupCount = supersededGroups.size;
+    const decisionPhrase =
+      groupCount === 1 ? "one of these decisions" : `${groupCount} of these decisions`;
+    blocks.push(
+      `**${n} vote${n === 1 ? "" : "s"} excluded from the pattern above:** on ${decisionPhrase}, this councillor's recorded vote was later superseded, the same meeting, by a reconsideration and a re-vote on the identical motion text — the corrected, final vote IS counted in the pattern above (see the evidence table); only the superseded, now-void roll call is excluded, listed here for the record:\n\n${renderLadderExclusionGroups(supersededGroups)}`,
+    );
+  }
+
+  return `\n${blocks.join("\n\n")}\n`;
 }
 
 function renderAxisSection(axis: AxisStance): string {

@@ -60,6 +60,10 @@ const CLASSIFY_DIR = path.join(REPO_ROOT, "data/election/classify");
 const OUT_DIR = path.join(REPO_ROOT, "data/election");
 const REGEX_VS_LLM_PATH = path.join(CLASSIFY_DIR, "regex-vs-llm.json");
 const CORRECTIONS_PATH = path.join(CLASSIFY_DIR, "corrections.json");
+const RECONSIDERED_PAIRS_PATH = path.join(
+  CLASSIFY_DIR,
+  "reconsidered-pairs.json",
+);
 
 type VoteKind = "yea" | "nay" | "recuse" | "absent" | "abstain" | "other";
 
@@ -262,6 +266,56 @@ function loadCorrections(): Correction[] {
   if (!fs.existsSync(CORRECTIONS_PATH)) return [];
   return JSON.parse(fs.readFileSync(CORRECTIONS_PATH, "utf-8"));
 }
+
+/** Round-5 gate item A/B (reconsidered-pair ladder handling): a s.13.6 (or
+ * committee s.35.x) reconsideration followed by a same-text re-vote is NOT
+ * the "amendment ladder" ambiguity groupIntoDecisions' multi-direction
+ * exclusion exists for (see the ladderExclusions doc comment below) — it is
+ * ONE decision, made twice, where the SECOND roll call is the one that
+ * actually stands (the first is procedurally superseded/void the moment
+ * the reconsideration carries). When a councillor's vote differs between
+ * the two (a "flipped voter" — e.g. the very correction the reconsideration
+ * was called for), the old undifferentiated rule excluded BOTH rows from
+ * every tally, silently erasing that councillor's real, current, often
+ * legally-operative position (2025-10-14 Council item 8.3.7,
+ * f44508b9efa6/bcdc340f73a8: Trosow's corrected Yea on a motion that PASSED
+ * 14-1 was vanishing from encampments/response-scale entirely). This
+ * registry (built by scripts/election/sweep-reconsidered-pairs.py's
+ * from-source enumeration, hand-reviewed) names every published
+ * same-text re-vote pair found in the 2023+ corpus; loadReconsideredPairs
+ * turns it into supersededId -> finalId. See the groupIntoDecisions call
+ * site below for how a pair changes the ladder rule: the superseded row is
+ * excluded (and honestly labeled as superseded, never silently dropped),
+ * but the final row is NOT — it counts in the tally like any other
+ * consistent vote, whether or not it agrees with the councillor's own
+ * earlier, now-void vote. */
+interface ReconsideredPair {
+  supersededId: string;
+  finalId: string;
+  meetingSlug: string;
+  itemNumber: string;
+  reason: string;
+  quote: string;
+}
+
+function loadReconsideredPairs(): Map<string, string> {
+  const map = new Map<string, string>();
+  if (!fs.existsSync(RECONSIDERED_PAIRS_PATH)) return map;
+  const rows: ReconsideredPair[] = JSON.parse(
+    fs.readFileSync(RECONSIDERED_PAIRS_PATH, "utf-8"),
+  );
+  for (const r of rows) {
+    if (map.has(r.supersededId)) {
+      throw new Error(
+        `reconsidered-pairs.json: duplicate supersededId ${r.supersededId}`,
+      );
+    }
+    map.set(r.supersededId, r.finalId);
+  }
+  return map;
+}
+
+const RECONSIDERED_SUPERSEDED_TO_FINAL = loadReconsideredPairs();
 
 /** Final gate item 3: data/votes/_all-motions.json's motion extraction
  * (scripts/generate-votes.ts's extractMotionText) reads only the
@@ -2029,13 +2083,34 @@ function writeStancesFile(
             resultNote: string | null;
             // Round-3 gate item 7: see motionRole's own doc comment above.
             role: string | null;
+            // Round-5 gate item A/B: true iff this row is the SUPERSEDED
+            // half of a known reconsidered pair (RECONSIDERED_SUPERSEDED_TO_
+            // FINAL) — see renderLadderExclusions in generate-hub-pages.ts
+            // for the distinct, honest wording this gets (never "none are
+            // counted", since the pair's other half is counted).
+            supersededByReconsideration: boolean;
           }[] = [];
           for (const group of groups) {
-            const directions = new Set(
-              group.map((i) => voteRows[i].axisDirection),
-            );
-            if (directions.size > 1) {
-              for (const i of group) {
+            // Round-5 gate item A/B: pull out any row that is the known-
+            // SUPERSEDED half of a reconsidered pair whose FINAL half is
+            // also present in this same decision group — that is exactly
+            // the shape a same-text re-vote produces (one decision group,
+            // by title/date, containing both roll calls). Excluded on its
+            // own, labeled distinctly, and never allowed to manufacture a
+            // "points in different directions" verdict against the row
+            // that actually stands.
+            const supersededIdx = group.filter((i) => {
+              const row = voteRows[i];
+              const finalId = RECONSIDERED_SUPERSEDED_TO_FINAL.get(
+                row.motionId,
+              );
+              return (
+                finalId !== undefined &&
+                group.some((j) => voteRows[j].motionId === finalId)
+              );
+            });
+            if (supersededIdx.length > 0) {
+              for (const i of supersededIdx) {
                 const row = voteRows[i];
                 ladderExcludedMotionIds.add(row.motionId);
                 ladderExclusions.push({
@@ -2053,6 +2128,40 @@ function writeStancesFile(
                   result: row.result,
                   resultNote: row.resultNote,
                   role: row.role,
+                  supersededByReconsideration: true,
+                });
+              }
+              // One reconsidered pair (however many superseded rows it
+              // contributes to this group — normally exactly one) is one
+              // ladder-exclusion GROUP, same as the genuine-ambiguity branch
+              // below increments once per group, not once per row.
+              ladderGroupIndex++;
+            }
+            const remaining = group.filter((i) => !supersededIdx.includes(i));
+            if (remaining.length === 0) continue;
+            const directions = new Set(
+              remaining.map((i) => voteRows[i].axisDirection),
+            );
+            if (directions.size > 1) {
+              for (const i of remaining) {
+                const row = voteRows[i];
+                ladderExcludedMotionIds.add(row.motionId);
+                ladderExclusions.push({
+                  decisionGroupIndex: ladderGroupIndex,
+                  motionId: row.motionId,
+                  date: row.date,
+                  meetingSlug: row.meetingSlug,
+                  itemTitle: row.itemTitle,
+                  anchor: row.anchor,
+                  anchorAmbiguous: row.anchorAmbiguous,
+                  theirVote: row.theirVote,
+                  axisDirection: row.axisDirection,
+                  whatAYeaDid: row.whatAYeaDid,
+                  meetingType: row.meetingType,
+                  result: row.result,
+                  resultNote: row.resultNote,
+                  role: row.role,
+                  supersededByReconsideration: false,
                 });
               }
               ladderGroupIndex++;
