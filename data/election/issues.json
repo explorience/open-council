@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:43:55.623Z",
+  "generatedAt": "2026-09-06T14:07:21.305Z",
   "sourceHash": "c89decb146e3da17",
   "sourceGeneratedAt": "2026-09-05T10:52:14.158Z",
   "cutoffDate": "2023-01-01",
@@ -12149,7 +12149,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "Gave a reading to a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
+            "label": "Gave third reading and enacted a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -14812,7 +14812,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "Supported Third Reading and Enactment Reading of by-laws authorizing land expropriation for the Wellington Gateway rapid transit project's Clark's Bridge civil works, and authorizing construction of the Wellington Gateway (South) rapid transit corridor and its transit stops.",
+            "label": "Gave third reading and enacted by-laws authorizing land expropriation for the Wellington Gateway rapid transit project's Clark's Bridge civil works, and authorizing construction of the Wellington Gateway (South) rapid transit corridor and its transit stops.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -15332,7 +15332,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "Supported Third Reading and Enactment Reading of a by-law authorizing an application to expropriate land needed to build the Rapid Transit East London Link Project, Phase 4.",
+            "label": "Gave third reading and enacted a by-law authorizing an application to expropriate land needed to build the Rapid Transit East London Link Project, Phase 4.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -15983,7 +15983,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "Enacted second reading of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+            "label": "Gave second reading to by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -16036,7 +16036,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "Enacted first reading of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+            "label": "Gave first reading to by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -16399,7 +16399,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "Enacted second reading of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+            "label": "Gave second reading to by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
             "axisLabels": {
               "expansive": "approved the transit/roads item",
               "restrictive": "denied the transit/roads item"
@@ -16452,7 +16452,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "Enacted first reading of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+            "label": "Gave first reading to by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
             "axisLabels": {
               "expansive": "approved the transit/roads item",
               "restrictive": "denied the transit/roads item"
@@ -16981,12 +16981,12 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "supported the third reading and enactment of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -17036,12 +17036,12 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "supported the second reading of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -17091,12 +17091,12 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -17784,7 +17784,7 @@
     "budget": {
       "label": "Taxes & Budget",
       "dividedVoteCount": 150,
-      "directionBearingVoteCount": 94,
+      "directionBearingVoteCount": 92,
       "distinctAgendaItemCount": 94,
       "votes": [
         {
@@ -21104,13 +21104,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "levy-size",
-            "valence": 1,
-            "label": "Supported directing Civic Administration to raise the Municipal Accommodation Tax rate from 4% to 5%, effective no later than January 1, 2026.",
-            "axisLabels": {
-              "expansive": "increased the tax levy or a budget item",
-              "restrictive": "reduced the tax levy or a budget item"
-            }
+            "axis": null,
+            "label": "Supported directing Civic Administration to raise the Municipal Accommodation Tax (MAT), a tax on hotel and short-term accommodation stays that is separate from the municipal property tax levy, from 4% to 5%, effective no later than January 1, 2026."
           },
           "positions": {
             "j-morgan": "yea",
@@ -21157,13 +21152,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "levy-size",
-            "valence": 1,
-            "label": "Supported directing Civic Administration to raise the Municipal Accommodation Tax rate from 4% to 5%, effective no later than January 1, 2026.",
-            "axisLabels": {
-              "expansive": "increased the tax levy or a budget item",
-              "restrictive": "reduced the tax levy or a budget item"
-            }
+            "axis": null,
+            "label": "Supported directing Civic Administration to raise the Municipal Accommodation Tax (MAT), a tax on hotel and short-term accommodation stays that is separate from the municipal property tax levy, from 4% to 5%, effective no later than January 1, 2026."
           },
           "positions": {
             "j-morgan": "yea",
@@ -27587,9 +27577,9 @@
     },
     "housing": {
       "label": "Housing & Density",
-      "dividedVoteCount": 352,
-      "directionBearingVoteCount": 212,
-      "distinctAgendaItemCount": 198,
+      "dividedVoteCount": 349,
+      "directionBearingVoteCount": 209,
+      "distinctAgendaItemCount": 197,
       "votes": [
         {
           "id": "d2b6a1410c01",
@@ -27825,7 +27815,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+            "label": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -27880,7 +27870,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+            "label": "Gave second reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -27935,7 +27925,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+            "label": "Gave first reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -27989,7 +27979,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Gave a reading to a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs)."
+            "label": "Gave third reading and enacted a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs)."
           },
           "positions": {
             "j-morgan": "yea",
@@ -28039,7 +28029,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Gave a reading to a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs)."
+            "label": "Gave second reading to a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs)."
           },
           "positions": {
             "j-morgan": "yea",
@@ -31710,7 +31700,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Gave a reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+            "label": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -31765,7 +31755,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Gave a reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+            "label": "Gave second reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -31820,7 +31810,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Gave a reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+            "label": "Gave first reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -31875,7 +31865,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Gave a reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone."
+            "label": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone."
           },
           "positions": {
             "j-morgan": "yea",
@@ -31926,7 +31916,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Gave a reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone."
+            "label": "Gave second reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone."
           },
           "positions": {
             "j-morgan": "yea",
@@ -31977,7 +31967,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Gave a reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone."
+            "label": "Gave first reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone."
           },
           "positions": {
             "j-morgan": "yea",
@@ -32028,7 +32018,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Gave a reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London."
+            "label": "Gave third reading and enacted a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London."
           },
           "positions": {
             "j-morgan": "yea",
@@ -32079,7 +32069,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Gave a reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London."
+            "label": "Gave second reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London."
           },
           "positions": {
             "j-morgan": "yea",
@@ -32130,7 +32120,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Gave a reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London."
+            "label": "Gave first reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London."
           },
           "positions": {
             "j-morgan": "yea",
@@ -40793,7 +40783,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "Supported Third Reading and Enactment Reading of by-laws amending the Official Plan and rezoning 735 Wonderland Road North (from commercial to a Business District Commercial Special Provision zone) to permit an intensified, mixed-use redevelopment of the site.",
+            "label": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 735 Wonderland Road North (from commercial to a Business District Commercial Special Provision zone) to permit an intensified, mixed-use redevelopment of the site.",
             "axisLabels": {
               "expansive": "approved the development, rezoning, or housing-policy item",
               "restrictive": "denied the development, rezoning, or housing-policy item"
@@ -41553,7 +41543,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "Enacted second reading of the by-law authorizing the City's purchase of the former Fairmont Public School property at 1040 Hamilton Road for future housing and parkland use.",
+            "label": "Gave second reading to the by-law authorizing the City's purchase of the former Fairmont Public School property at 1040 Hamilton Road for future housing and parkland use.",
             "axisLabels": {
               "expansive": "approved the development, rezoning, or housing-policy item",
               "restrictive": "denied the development, rezoning, or housing-policy item"
@@ -41606,7 +41596,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "Enacted first reading of the by-law authorizing the City's purchase of the former Fairmont Public School property at 1040 Hamilton Road for future housing and parkland use.",
+            "label": "Gave first reading to the by-law authorizing the City's purchase of the former Fairmont Public School property at 1040 Hamilton Road for future housing and parkland use.",
             "axisLabels": {
               "expansive": "approved the development, rezoning, or housing-policy item",
               "restrictive": "denied the development, rezoning, or housing-policy item"
@@ -41881,165 +41871,6 @@
           },
           "resultNote": null,
           "motionSnippet": "That the following actions be taken with respect to the staff report, dated January 29,..."
-        },
-        {
-          "id": "84c664eaed50",
-          "date": "2024-02-13",
-          "meetingSlug": "months/2024-02/2024-02-13 4th Meeting of City Council",
-          "meetingTitle": "4th Meeting of City Council",
-          "meetingType": "Council",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=75867174-f70d-4464-a41f-6323ae1ce82b&Agenda=PostMinutes&lang=English",
-          "itemNumber": "13",
-          "itemTitle": "By-laws",
-          "motionText": "That Third Reading and Enactment of Bill No 71, as amended, BE APPROVED.",
-          "result": "Motion Passed (10 to 5)",
-          "passed": true,
-          "margin": 5,
-          "tally": {
-            "yea": 10,
-            "nay": 5,
-            "recuse": 0,
-            "absent": 0,
-            "abstain": 0,
-            "other": 0
-          },
-          "anchor": "/months/2024-02/2024-02-13 4th Meeting of City Council#13-by-laws",
-          "anchorAmbiguous": false,
-          "matchedKeywords": [],
-          "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Enacted third reading and enactment of the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
-            "axisLabels": {
-              "expansive": "approved the development, rezoning, or housing-policy item",
-              "restrictive": "denied the development, rezoning, or housing-policy item"
-            }
-          },
-          "positions": {
-            "h-mcalister": "yea",
-            "s-lewis": "yea",
-            "p-cuddy": "yea",
-            "s-stevenson": "yea",
-            "j-pribil": "yea",
-            "c-rahman": "yea",
-            "s-lehman": "yea",
-            "p-van-meerbergen": "yea",
-            "e-peloza": "yea",
-            "s-hillier": "yea",
-            "j-morgan": "nay",
-            "s-trosow": "nay",
-            "a-hopkins": "nay",
-            "s-franke": "nay",
-            "d-ferreira": "nay"
-          },
-          "resultNote": null,
-          "motionSnippet": "That Third Reading and Enactment of Bill No 71, as amended, BE APPROVED."
-        },
-        {
-          "id": "744efd7c0adb",
-          "date": "2024-02-13",
-          "meetingSlug": "months/2024-02/2024-02-13 4th Meeting of City Council",
-          "meetingTitle": "4th Meeting of City Council",
-          "meetingType": "Council",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=75867174-f70d-4464-a41f-6323ae1ce82b&Agenda=PostMinutes&lang=English",
-          "itemNumber": "13",
-          "itemTitle": "By-laws",
-          "motionText": "That Second Reading of Bill No 71, as amended, BE APPROVED.",
-          "result": "Motion Passed (10 to 5)",
-          "passed": true,
-          "margin": 5,
-          "tally": {
-            "yea": 10,
-            "nay": 5,
-            "recuse": 0,
-            "absent": 0,
-            "abstain": 0,
-            "other": 0
-          },
-          "anchor": "/months/2024-02/2024-02-13 4th Meeting of City Council#13-by-laws",
-          "anchorAmbiguous": false,
-          "matchedKeywords": [],
-          "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Enacted second reading of the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
-            "axisLabels": {
-              "expansive": "approved the development, rezoning, or housing-policy item",
-              "restrictive": "denied the development, rezoning, or housing-policy item"
-            }
-          },
-          "positions": {
-            "h-mcalister": "yea",
-            "s-lewis": "yea",
-            "p-cuddy": "yea",
-            "s-stevenson": "yea",
-            "j-pribil": "yea",
-            "c-rahman": "yea",
-            "s-lehman": "yea",
-            "p-van-meerbergen": "yea",
-            "e-peloza": "yea",
-            "s-hillier": "yea",
-            "j-morgan": "nay",
-            "s-trosow": "nay",
-            "a-hopkins": "nay",
-            "s-franke": "nay",
-            "d-ferreira": "nay"
-          },
-          "resultNote": null,
-          "motionSnippet": "That Second Reading of Bill No 71, as amended, BE APPROVED."
-        },
-        {
-          "id": "3c03ee43916e",
-          "date": "2024-02-13",
-          "meetingSlug": "months/2024-02/2024-02-13 4th Meeting of City Council",
-          "meetingTitle": "4th Meeting of City Council",
-          "meetingType": "Council",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=75867174-f70d-4464-a41f-6323ae1ce82b&Agenda=PostMinutes&lang=English",
-          "itemNumber": "13",
-          "itemTitle": "By-laws",
-          "motionText": "That Introduction and First Reading of Bill No 71, as amended, BE APPROVED.",
-          "result": "Motion Passed (10 to 5)",
-          "passed": true,
-          "margin": 5,
-          "tally": {
-            "yea": 10,
-            "nay": 5,
-            "recuse": 0,
-            "absent": 0,
-            "abstain": 0,
-            "other": 0
-          },
-          "anchor": "/months/2024-02/2024-02-13 4th Meeting of City Council#13-by-laws",
-          "anchorAmbiguous": false,
-          "matchedKeywords": [],
-          "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Enacted first reading of the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
-            "axisLabels": {
-              "expansive": "approved the development, rezoning, or housing-policy item",
-              "restrictive": "denied the development, rezoning, or housing-policy item"
-            }
-          },
-          "positions": {
-            "h-mcalister": "yea",
-            "s-lewis": "yea",
-            "p-cuddy": "yea",
-            "s-stevenson": "yea",
-            "j-pribil": "yea",
-            "c-rahman": "yea",
-            "s-lehman": "yea",
-            "p-van-meerbergen": "yea",
-            "e-peloza": "yea",
-            "s-hillier": "yea",
-            "j-morgan": "nay",
-            "s-trosow": "nay",
-            "a-hopkins": "nay",
-            "s-franke": "nay",
-            "d-ferreira": "nay"
-          },
-          "resultNote": null,
-          "motionSnippet": "That Introduction and First Reading of Bill No 71, as amended, BE APPROVED."
         },
         {
           "id": "9cecd5ac8fd6",
@@ -42346,7 +42177,7 @@
           "direction": {
             "axis": "use-permission",
             "valence": 1,
-            "label": "Enacted second reading of the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+            "label": "Gave second reading to the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
             "axisLabels": {
               "expansive": "expanded where additional housing types are permitted",
               "restrictive": "restricted where additional housing types are permitted"
@@ -42399,7 +42230,7 @@
           "direction": {
             "axis": "use-permission",
             "valence": 1,
-            "label": "Enacted first reading of the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+            "label": "Gave first reading to the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
             "axisLabels": {
               "expansive": "expanded where additional housing types are permitted",
               "restrictive": "restricted where additional housing types are permitted"
@@ -42598,7 +42429,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Enacted second reading of the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+            "label": "Gave second reading to the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -42651,7 +42482,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Enacted first reading of the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+            "label": "Gave first reading to the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -45072,7 +44903,7 @@
     }
   },
   "unclassified": {
-    "count": 836,
+    "count": 839,
     "note": "Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here.",
     "sample": [
       {
@@ -48764,6 +48595,24 @@
         "date": "2024-02-15",
         "itemNumber": "7",
         "itemTitle": "Adjournment"
+      },
+      {
+        "id": "3c03ee43916e",
+        "date": "2024-02-13",
+        "itemNumber": "13",
+        "itemTitle": "By-laws"
+      },
+      {
+        "id": "744efd7c0adb",
+        "date": "2024-02-13",
+        "itemNumber": "13",
+        "itemTitle": "By-laws"
+      },
+      {
+        "id": "84c664eaed50",
+        "date": "2024-02-13",
+        "itemNumber": "13",
+        "itemTitle": "By-laws"
       },
       {
         "id": "1e416a2f70db",

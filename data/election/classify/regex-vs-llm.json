@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-06T12:43:55.617Z",
+  "generatedAt": "2026-09-06T14:07:21.299Z",
   "note": "Cross-check report only — the regex engine in issue-rules.ts/direction-rules.ts is NOT the source of any published claim as of the 2026-08-31 rebuild; every published issue/axis/polarity/whatAYeaDid comes from data/election/classify/batch-*-verified.json. This file records every motion in the divided universe where the regex engine's independent read (issue classification and/or direction) disagrees with the verified classification, for ongoing regex-quality monitoring.",
   "totalCompared": 1732,
-  "disagreementCount": 683,
+  "disagreementCount": 680,
   "disagreements": [
     {
       "motionId": "0f3f61ff19fd",
@@ -6786,8 +6786,8 @@
       },
       "llm": {
         "issue": "budget",
-        "axis": "levy-size",
-        "polarity": "expansive"
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -6894,8 +6894,8 @@
       },
       "llm": {
         "issue": "budget",
-        "axis": "levy-size",
-        "polarity": "expansive"
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -9383,60 +9383,6 @@
       }
     },
     {
-      "motionId": "3c03ee43916e",
-      "date": "2024-02-13",
-      "meetingSlug": "months/2024-02/2024-02-13 4th Meeting of City Council",
-      "itemNumber": "13",
-      "itemTitle": "By-laws",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "744efd7c0adb",
-      "date": "2024-02-13",
-      "meetingSlug": "months/2024-02/2024-02-13 4th Meeting of City Council",
-      "itemNumber": "13",
-      "itemTitle": "By-laws",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "84c664eaed50",
-      "date": "2024-02-13",
-      "meetingSlug": "months/2024-02/2024-02-13 4th Meeting of City Council",
-      "itemNumber": "13",
-      "itemTitle": "By-laws",
-      "kind": "issue",
-      "regex": {
-        "issue": null,
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
       "motionId": "45113d40e3f0",
       "date": "2024-02-13",
       "meetingSlug": "months/2024-02/2024-02-13 4th Meeting of City Council",
@@ -11268,7 +11214,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -11286,7 +11232,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -11304,7 +11250,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
