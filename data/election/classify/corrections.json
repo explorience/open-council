@@ -12,7 +12,7 @@
   "field": "polarity",
   "was": "expansive",
   "now": null,
-  "reason": "Same defect as the axis correction on this id: the clause directs a letter to AMO/the Province and internal fact-gathering with London's own facilities \u2014 it does not itself strengthen or weaken any target, so no polarity is asserted.",
+  "reason": "Same defect as the axis correction on this id: the clause directs a letter to AMO/the Province and internal fact-gathering with London's own facilities — it does not itself strengthen or weaken any target, so no polarity is asserted.",
   "quote": "the Mayor of the City of London, Councillor C. Rahman and Councillor A. Hopkins BE DIRECTED to submit a letter to AMO to develop a position and advocate on behalf of Ontario municipalities to request the Government of Ontario to develop and implement a plan to move Ontario to a net zero-carbon electricity grid by 2035"
  },
  {
@@ -21,7 +21,7 @@
   "was": "response-scale",
   "now": null,
   "reason": "This is a resolution asking Ontario's Big City Mayors to request the Government of Ontario declare a state of emergency over homelessness/addictions/mental health, and to provide municipalities with more funding. It is advocacy toward another government, not a City decision that expands London's own encampment/homelessness response. Same advocacy-letter defect class as 187527fc77b7 (superseded id): downgraded to unclear.",
-  "quote": "Therefore it be resolved that Ontario\u2019s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency to address homelessness caused by addictions and mental health that has created a community safety and humanitarian crisis across the province."
+  "quote": "Therefore it be resolved that Ontario’s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency to address homelessness caused by addictions and mental health that has created a community safety and humanitarian crisis across the province."
  },
  {
   "id": "77981d9da593",
@@ -29,7 +29,7 @@
   "was": "expansive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: an advocacy resolution to another government carries no polarity on London's own response-scale axis.",
-  "quote": "Therefore it be resolved that Ontario\u2019s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency"
+  "quote": "Therefore it be resolved that Ontario’s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency"
  },
  {
   "id": "4079dc909bd5",
@@ -37,7 +37,7 @@
   "was": "response-scale",
   "now": null,
   "reason": "Council REQUESTING that Civic Administration and the Mayor engage federal/provincial governments to fund the Encampment Implementation Recommendations does not itself change London's response scale by a dollar or a space -- it is a request for outside funding, same advocacy-letter defect class as 187527fc77b7 (superseded id) and cc2a45812971 (superseded id). Downgraded to unclear.",
-  "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of London\u2019s portion of a $250-million federal fund dedicated to addressing encampments"
+  "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of London’s portion of a $250-million federal fund dedicated to addressing encampments"
  },
  {
   "id": "4079dc909bd5",
@@ -133,7 +133,7 @@
   "was": "business-case",
   "now": "levy-size",
   "reason": "Round-3 gate SHOULD FIX: the business-case axis pools fiscally opposite effects under one 'included/excluded' label, sitting directly under the sibling levy-size axis whose expansive label already means 'increased the tax levy'. Business Case #P-6 (Reduced Road Network Improvements) is itself a SAVINGS/cut case -- excluding it from the budget means the proposed road-spending cut does NOT happen, i.e. spending (and the levy) stays higher than it would if the cut had been adopted. Re-derived from the source meeting JSON's own numbers for this exact motion (2025-11-20 Budget Committee item d, Moved by S. Stevenson): the case's stated '2026 Tax Levy: $114,000' is the amount EXCLUDING it adds back to the levy versus adopting the cut. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
-  "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
+  "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
  },
  {
   "id": "22951914b4b2",
@@ -141,7 +141,7 @@
   "was": "restrictive",
   "now": "expansive",
   "reason": "Following from the axis correction on this id: excluding a proposed $114,000 road-network spending cut from the 2026 budget keeps that $114,000 in the levy relative to adopting the cut -- a yea on this motion moved toward a LARGER tax levy, the levy-size axis's expansive outcome, not a restrictive one.",
-  "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
+  "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
  },
  {
   "id": "021ec895b691",
@@ -149,7 +149,7 @@
   "was": "business-case",
   "now": "levy-size",
   "reason": "Round-3 gate SHOULD FIX, same defect class as 18633398dd86 (superseded id): Business Case #P-24 (Eliminate Climate Change Reserve Fund Contribution) is itself a SAVINGS/cut case -- including it in the budget applies that cut, lowering the levy. Re-derived from the source meeting JSON's own numbers for this exact motion (2025-11-20 Budget Committee, Moved by S. Franke, Seconded by S. Hillier): the case's stated '2026 Tax Levy: -$192,000' is a levy DECREASE. Reclassified onto the levy-size axis, which actually describes the fiscal direction.",
-  "quote": "That Business Case #P-24 \u2013 Eliminate Climate Change Reserve Fund Contribution \u2013 BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
+  "quote": "That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
  },
  {
   "id": "021ec895b691",
@@ -157,7 +157,7 @@
   "was": "expansive",
   "now": "restrictive",
   "reason": "Following from the axis correction on this id: including a $192,000/year cut to the Climate Change Reserve Fund contribution LOWERS the 2026 and 2027 tax levy by that amount -- a yea on this motion moved toward a SMALLER tax levy, the levy-size axis's restrictive outcome, not an expansive one.",
-  "quote": "That Business Case #P-24 \u2013 Eliminate Climate Change Reserve Fund Contribution \u2013 BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
+  "quote": "That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
  },
  {
   "id": "f74ed511bc6d",
@@ -197,7 +197,7 @@
   "was": "application-approval",
   "now": null,
   "reason": "Round-4 gate item 2 sweep hit, same underlying request as f256055d95cb (superseded id) at its earlier committee stage (2024-12-03 Planning and Environment Committee, same item, standalone UGB-expansion sub-vote): 'the Province BE REQUESTED to support' a UGB expansion. Same advocacy-toward-another-government defect class -- downgraded to unclear for the same reason as f256055d95cb (superseded id).",
-  "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London\u2019s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
+  "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London’s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
  },
  {
   "id": "99f660dff7c0",
@@ -205,7 +205,7 @@
   "was": "expansive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: a request that the Province support a UGB expansion is not London itself approving anything, so no polarity on the application-approval axis is asserted.",
-  "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London\u2019s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
+  "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London’s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
  },
  {
   "id": "81604ebe0e88",
@@ -213,7 +213,7 @@
   "was": "business-case",
   "now": "levy-size",
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this motion's full text carries an explicit 'Tax Levy' dollar line, so its real fiscal direction is derivable from that line's sign together with the motion's own include/exclude verb, per the same rule already applied to 18633398dd86 (superseded id)/ea03954e4926 (superseded id) -- Business Case #P-25 (Stop Collecting Blue Box Materials from Non-Eligible Sources) is BE INCLUDED with an explicit '2026 Tax Levy: -$250,000' -- a yea includes a $250,000/year levy CUT. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
-  "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Update Budget"
+  "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor’s Tabled 2026 Annual Update Budget"
  },
  {
   "id": "81604ebe0e88",
@@ -221,7 +221,7 @@
   "was": "expansive",
   "now": "restrictive",
   "reason": "Following from the axis correction on this id: including a case with an explicit negative Tax Levy figure lowers the levy by that amount -- a yea on this motion moved toward a SMALLER tax levy, the levy-size axis's restrictive outcome.",
-  "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Update Budget"
+  "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor’s Tabled 2026 Annual Update Budget"
  },
  {
   "id": "0666282b30d3",
@@ -229,7 +229,7 @@
   "was": "business-case",
   "now": "levy-size",
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this motion's full text carries an explicit 'Tax Levy' dollar line, so its real fiscal direction is derivable from that line's sign together with the motion's own include/exclude verb, per the same rule already applied to 18633398dd86 (superseded id)/ea03954e4926 (superseded id) -- Business Case #P-12 (Resident Satisfaction Survey Frequency) is BE EXCLUDED with an explicit '2027 Tax Levy: $28,000' -- a yea excludes a case that would otherwise have ADDED $28,000/year to the levy, i.e. avoids that increase. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
-  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget"
+  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget"
  },
  {
   "id": "0666282b30d3",
@@ -237,7 +237,7 @@
   "was": "restrictive",
   "now": "restrictive",
   "reason": "Following from the axis correction on this id: excluding a case with an explicit positive Tax Levy figure keeps that $28,000 OFF the levy relative to including it -- a yea on this motion moved toward a SMALLER tax levy than the alternative, the levy-size axis's restrictive outcome (note: the axis and polarity here happen to be unchanged from the business-case classification's own restrictive label, but the AXIS itself is corrected from the direction-agnostic business-case label to levy-size, which is what actually describes the fiscal direction).",
-  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget"
+  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget"
  },
  {
   "id": "050a9f0f9146",
@@ -261,7 +261,7 @@
   "was": "business-case",
   "now": null,
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
+  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design – Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
  },
  {
   "id": "fdbfa59e401a",
@@ -269,7 +269,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
+  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design – Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
  },
  {
   "id": "90cb7d09948d",
@@ -277,7 +277,7 @@
   "was": "business-case",
   "now": null,
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
+  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance – Reduced Summer Sidewalk Maintenance"
  },
  {
   "id": "90cb7d09948d",
@@ -285,7 +285,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
+  "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance – Reduced Summer Sidewalk Maintenance"
  },
  {
   "id": "a41ecd8d8212",
@@ -309,7 +309,7 @@
   "was": "business-case",
   "now": null,
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance – Reduced Summer Sidewalk Maintenance"
  },
  {
   "id": "5d8be07a288c",
@@ -317,7 +317,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance – Reduced Summer Sidewalk Maintenance"
  },
  {
   "id": "1d7c40b467ec",
@@ -325,7 +325,7 @@
   "was": "business-case",
   "now": null,
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design – Reduced Road Network Improvements"
  },
  {
   "id": "1d7c40b467ec",
@@ -333,7 +333,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design – Reduced Road Network Improvements"
  },
  {
   "id": "0c2a411423be",
@@ -357,7 +357,7 @@
   "was": "business-case",
   "now": null,
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry \u2013 Tree Planting Grants & Non-replacement Tree Planting"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry – Tree Planting Grants & Non-replacement Tree Planting"
  },
  {
   "id": "a6473f2744cd",
@@ -365,7 +365,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry \u2013 Tree Planting Grants & Non-replacement Tree Planting"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry – Tree Planting Grants & Non-replacement Tree Planting"
  },
  {
   "id": "c08daf018133",
@@ -373,7 +373,7 @@
   "was": "business-case",
   "now": null,
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics \u2013 Closure of 5 Wading Pools"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics – Closure of 5 Wading Pools"
  },
  {
   "id": "c08daf018133",
@@ -381,7 +381,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics \u2013 Closure of 5 Wading Pools"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics – Closure of 5 Wading Pools"
  },
  {
   "id": "2307b1d59a7d",
@@ -389,7 +389,7 @@
   "was": "business-case",
   "now": null,
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management \u2013 Resident Satisfaction Survey"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management – Resident Satisfaction Survey"
  },
  {
   "id": "2307b1d59a7d",
@@ -397,7 +397,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management \u2013 Resident Satisfaction Survey"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management – Resident Satisfaction Survey"
  },
  {
   "id": "0f19b60c927d",
@@ -405,7 +405,7 @@
   "was": "business-case",
   "now": null,
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources \u2013 Internships"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources – Internships"
  },
  {
   "id": "0f19b60c927d",
@@ -413,7 +413,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources \u2013 Internships"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources – Internships"
  },
  {
   "id": "4750754213bc",
@@ -421,7 +421,7 @@
   "was": "business-case",
   "now": null,
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology \u2013 Digital Transformation"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology – Digital Transformation"
  },
  {
   "id": "4750754213bc",
@@ -429,7 +429,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology \u2013 Digital Transformation"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology – Digital Transformation"
  },
  {
   "id": "2402cfe58258",
@@ -501,7 +501,7 @@
   "was": "business-case",
   "now": null,
   "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86 (superseded id)/ea03954e4926 (superseded id)). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing \u2013 Climate Change Reserve Fund Contribution"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing – Climate Change Reserve Fund Contribution"
  },
  {
   "id": "0bd0c15f3d73",
@@ -509,7 +509,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing \u2013 Climate Change Reserve Fund Contribution"
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing – Climate Change Reserve Fund Contribution"
  },
  {
   "id": "7f9cba8155ba",
@@ -517,7 +517,7 @@
   "was": "target-strength",
   "now": null,
   "reason": "Round-4 gate item 5: this motion (Business Case #P-56, reducing the Climate Change Invest Fund contribution to a flat $1 million/year and using the savings to offset transit-hours funding) was published as climate/target-strength -- 'weakened a climate or environmental target' -- for 11 named yeas. A funding-level cut is not a target change: no numeric emissions/renewable/net-zero target is set, raised, or lowered anywhere in the clause (the classify pipeline's own verifierNote already flagged this as 'a loose fit'). Checked against item 3's rule (scripts/election/sweep-business-case-levy.py): the full motion text carries no 'Tax Levy' dollar line (only an 'annual contribution of $1 million' figure, with no sign showing whether that is an increase or decrease from the prior contribution), so it is not sign-derivable onto levy-size either. Downgraded to unclear rather than publishing a false target-strength claim.",
-  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b \u2013 Climate Change Invest (CCI) Fund of Business Case # P-56 \u2013 Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
+  "quote": "the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b – Climate Change Invest (CCI) Fund of Business Case # P-56 – Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
  },
  {
   "id": "7f9cba8155ba",
@@ -525,7 +525,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: a funding-level change with no derivable fiscal sign and no target changed carries no polarity on any tracked climate axis.",
-  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b \u2013 Climate Change Invest (CCI) Fund of Business Case # P-56 \u2013 Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
+  "quote": "the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b – Climate Change Invest (CCI) Fund of Business Case # P-56 – Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
  },
  {
   "id": "8f9d70f94956",
@@ -738,10 +738,10 @@
  {
   "id": "8be756f3d937",
   "field": "whatAYeaDid",
-  "was": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text.",
-  "now": "Would have proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text.",
+  "was": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed — a restatement with no clear net effect on the pending text.",
+  "now": "Would have proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed — a restatement with no clear net effect on the pending text.",
   "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
-  "quote": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text."
+  "quote": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed — a restatement with no clear net effect on the pending text."
  },
  {
   "id": "5eb83919fec3",
@@ -850,10 +850,10 @@
  {
   "id": "1a0989cd5b32",
   "field": "whatAYeaDid",
-  "was": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
-  "now": "Would have reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
+  "was": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case — cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
+  "now": "Would have reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case — cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
   "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
-  "quote": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later."
+  "quote": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case — cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later."
  },
  {
   "id": "5f8aa51302f2",
@@ -933,7 +933,7 @@
   "was": "application-approval",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis application-approval renamed: approving a federal Canada Public Transit Fund contribution agreement is direct transit-infrastructure funding, not a road-capacity act.",
-  "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\n\n\n\ni) \u00a0 \u00a0approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund \u2013 Baseline Funding (the \u201cAgreement\u201d) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (\u201cCanada\u201d), and The Corporation of the City of London (the \u201cRecipient\u201d);"
+  "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\n\n\n\ni)    approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund – Baseline Funding (the “Agreement”) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (“Canada”), and The Corporation of the City of London (the “Recipient”);"
  },
  {
   "id": "e3edf6c6b7bc",
@@ -941,7 +941,7 @@
   "was": "application-approval",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same motion at ICSC committee stage; same reasoning as b206f4de942a (superseded id).",
-  "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\ni) \u00a0 \u00a0approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund \u2013 Baseline Funding (the \u201cAgreement\u201d) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (\u201cCanada\u201d), and The Corporation of the City of London (the \u201cRecipient\u201d);"
+  "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\ni)    approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund – Baseline Funding (the “Agreement”) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (“Canada”), and The Corporation of the City of London (the “Recipient”);"
  },
  {
   "id": "9ab2a13766e3",
@@ -989,7 +989,7 @@
   "was": "service-expansion",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: a yea would have removed the Rapid Transit - East London Link project's 2025/2026 capital budgets -- reduced transit infrastructure funding. Failed 1-13, hedged correctly already.",
-  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Development Charges supported funding"
+  "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Development Charges supported funding"
  },
  {
   "id": "1a0c5a5d3f17",
@@ -997,7 +997,7 @@
   "was": "service-expansion",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same amendment, re-vote after reconsideration; failed 2-12, hedged correctly already.",
-  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Development Charges supported funding"
+  "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Development Charges supported funding"
  },
  {
   "id": "4fb63c870e39",
@@ -1005,7 +1005,7 @@
   "was": "service-expansion",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: a yea would have reduced the LTC's 2026 budget for Business Case #P-51 'Transit Service Hours Growth' by $500,000 -- directly reduces bus service-hours growth funding. Failed 5-10, hedged correctly already.",
-  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED by reducing the London Transit Commission budget for the 2026 Budget Update. To reinstate this funding, LTC must submit an amendment for the 2026 Budget Update, the online booking system be operational and that a plan for implementing the 10,000 additional service hours for 2025 must be provided to Council no later than Q1 2025."
+  "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing the London Transit Commission budget for the 2026 Budget Update. To reinstate this funding, LTC must submit an amendment for the 2026 Budget Update, the online booking system be operational and that a plan for implementing the 10,000 additional service hours for 2025 must be provided to Council no later than Q1 2025."
  },
  {
   "id": "173785078218",
@@ -1029,7 +1029,7 @@
   "was": "service-expansion",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: three bundled items, all branded 'Rapid Transit Implementation' (Wellington Rd contract awards + AECOM/Dillon Rapid Transit design-contract increases) -- dedicated BRT corridor construction and design; no general-purpose lane addition is stated anywhere in the clause.",
-  "quote": "the bid submitted by CH Excavating (2013) at its tendered price of $30,814,695.92 (excluding HST) for the Rapid Transit Implementation \u2013 Wellington Road from Harlech Gate to Wellington Commons Entrance project, BE ACCEPTED"
+  "quote": "the bid submitted by CH Excavating (2013) at its tendered price of $30,814,695.92 (excluding HST) for the Rapid Transit Implementation – Wellington Road from Harlech Gate to Wellington Commons Entrance project, BE ACCEPTED"
  },
  {
   "id": "e1c6bcfbc67e",
@@ -1117,7 +1117,7 @@
   "was": "service-expansion",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: increasing funding for Business Case #P-51 'Transit Service Conventional Growth Hours' (18,000 hrs/yr) is a direct, named transit-service-hours expansion.",
-  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for Business Case #P-51 \u2013 Transit Service Conventional Growth Hours, as approved by the London Transit Commission on January 31st, 2024 to provide for 18,000 hours of growth in each year, by increasing funding as follows"
+  "quote": "the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for Business Case #P-51 – Transit Service Conventional Growth Hours, as approved by the London Transit Commission on January 31st, 2024 to provide for 18,000 hours of growth in each year, by increasing funding as follows"
  },
  {
   "id": "4214b0fc1e5c",
@@ -1133,7 +1133,7 @@
   "was": "service-expansion",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: a yea would have added the revised 2024 conventional service hours for Business Case #P-51 'Transit Service Hours Growth' -- transit-service expansion. Failed 7-8, hedged correctly already.",
-  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for 2024 only for Business Case #P-51 \u2013 Transit Service Hours Growth, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, as approved by the London Transit Commission on January 31, 2024, by increasing funding as follows"
+  "quote": "the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for 2024 only for Business Case #P-51 – Transit Service Hours Growth, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, as approved by the London Transit Commission on January 31, 2024, by increasing funding as follows"
  },
  {
   "id": "e9df87268bff",
@@ -1181,7 +1181,7 @@
   "was": "service-expansion",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: authorizing the MOU/Agreement and up to $880,000 financing for the Secondary School Transit Pass Pilot Program is a transit-service (fare/access) expansion.",
-  "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d, BE AUTHORIZED and BE APPROVED;"
+  "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the “MOU”), as appended to the proposed by-law as Schedule “1”, BE AUTHORIZED and BE APPROVED;"
  },
  {
   "id": "c18021c4f310",
@@ -1189,7 +1189,7 @@
   "was": "service-expansion",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis service-expansion renamed: committee-stage approval of the same MOU/Agreement with up to $1.04M financing; same reasoning as a23c5771a121 (superseded id).",
-  "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the \u201cMOU\u201d), as appended to the proposed by-law as Schedule \u201c1\u201d , BE AUTHORIZED and BE APPROVED;"
+  "quote": "the Memorandum of Understanding between The Corporation of the City of London and the Thames Valley District School Board and the London Transit Commission for the Secondary School Student Transit Pass Pilot Project ( the “MOU”), as appended to the proposed by-law as Schedule “1” , BE AUTHORIZED and BE APPROVED;"
  },
  {
   "id": "fa73c7cc4453",
@@ -1213,7 +1213,7 @@
   "was": "application-approval",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis application-approval renamed: increasing the AECOM detailed-design contract for 'Consulting Services for Rapid Transit and Infrastructure Improvements - Wellington Gateway Project' is dedicated BRT corridor design spending.",
-  "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)"
+  "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 – Consulting Services for Rapid Transit and Infrastructure Improvements – Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)"
  },
  {
   "id": "18b895f37109",
@@ -1221,7 +1221,7 @@
   "was": "application-approval",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same design-contract increase, committee stage; same reasoning as 3d072ced8231 (superseded id).",
-  "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 \u2013 Consulting Services for Rapid Transit and Infrastructure Improvements \u2013 Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)"
+  "quote": "the contract with AECOM Canada ULC for detailed design for RFP20-29 – Consulting Services for Rapid Transit and Infrastructure Improvements – Wellington Gateway Project BE INCREASED by $803,764 to $8,479,052 (excluding HST)"
  },
  {
   "id": "1d4dcf1c6588",
@@ -1237,7 +1237,7 @@
   "was": "application-approval",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis application-approval renamed: increasing the AECOM construction-inspection/contract-administration contract for 'Rapid Transit Implementation - Wellington Street' is dedicated BRT corridor construction spending.",
-  "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)"
+  "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)"
  },
  {
   "id": "6bb73746bbfc",
@@ -1245,7 +1245,7 @@
   "was": "application-approval",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same contract increase, committee stage; same reasoning as 883ee33ef545 (superseded id).",
-  "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)"
+  "quote": "the contract with AECOM Canada ULC for construction inspection and contract administration services for the Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project BE INCREASED by $120,000 to $1,924,701.00 (excluding HST)"
  },
  {
   "id": "0052db0821e2",
@@ -1325,7 +1325,7 @@
   "was": "application-approval",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Old axis application-approval renamed: awarding the 'Rapid Transit Implementation - Wellington Street' contract (Bre-Ex, $28.5M) is dedicated BRT corridor construction, despite the irregular-result note about exceeding the (unrelated) Downtown Loop Phase 3 budget line.",
-  "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b); it being noted that this is an irregular result because the cost exceeds the project budget for the Downtown Loop Phase 3 project;"
+  "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b); it being noted that this is an irregular result because the cost exceeds the project budget for the Downtown Loop Phase 3 project;"
  },
  {
   "id": "c3e9daee4341",
@@ -1333,7 +1333,7 @@
   "was": "application-approval",
   "now": "transit-service",
   "reason": "Transit axis split (data/election/classify/transit-split-verified.json): Same contract award, committee stage; same reasoning as 7346985bd070 (superseded id).",
-  "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation \u2013 Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b);"
+  "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b);"
  },
  {
   "id": "208ee22b75a8",
@@ -1394,10 +1394,10 @@
  {
   "id": "340d20ce05e8",
   "field": "whatAYeaDid",
-  "was": "Gave final approval, as amended, to the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
-  "now": "Recommended approving, as amended, the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
+  "was": "Gave final approval, as amended, to the Cycling Network maps as a whole — approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
+  "now": "Recommended approving, as amended, the Cycling Network maps as a whole — approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
   "reason": "Transit-split gate item 4 sweep: this is the 2025-03-25 Strategic Priorities and Policy COMMITTEE vote, not Council. Reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus. Axis/polarity are already null (net direction of the bundle is indeterminate, see the existing verifierNote) -- this correction only fixes the wording, not the classification.",
-  "quote": "Gave final approval, as amended, to the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out."
+  "quote": "Gave final approval, as amended, to the Cycling Network maps as a whole — approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out."
  },
  {
   "id": "a3e4d5427c1e",
@@ -1493,7 +1493,7 @@
   "was": "Referred the 2025 London and Middlesex Community Housing Asset Management Plan back for revisions, including a property-by-property facilities-condition breakdown and further options on financing the infrastructure gap.",
   "now": "Would have referred the 2025 London and Middlesex Community Housing Asset Management Plan back for revisions, including a property-by-property facilities-condition breakdown and further options on financing the infrastructure gap.",
   "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (2 to 11) on 2025-05-27 (SPPC item, housing). Unhedged accomplished-fact phrasing reworded to the corpus's \"Would have <verb>...\" hedge; batch-33 verifierNote already confirms this is the losing referral motion on the item (the rival referral passed instead).",
-  "quote": "the \u201c2025 London and Middlesex Community Housing Asset Management Plan\u201d, appended to the staff report as Appendix \u201cA\u201d, BE REFERRED to the meeting of the Strategic Priorities and Policy Committee to be held on June 17, 2025 with a request to London and Middlesex Housing Community Housing to include in a revised Asset Management Plan"
+  "quote": "the “2025 London and Middlesex Community Housing Asset Management Plan”, appended to the staff report as Appendix “A”, BE REFERRED to the meeting of the Strategic Priorities and Policy Committee to be held on June 17, 2025 with a request to London and Middlesex Housing Community Housing to include in a revised Asset Management Plan"
  },
  {
   "id": "635bbd16c5b9",
@@ -1509,7 +1509,7 @@
   "was": "Supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update.",
   "now": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update.",
   "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (5 to 10) on 2025-11-20 (Budget Committee item 4.3), unhedged -- reworded to the \"Would have <verb>...\" hedge. This is the FIRST, pre-reconsideration vote on Business Case #P-2 (content[3] of the raw meeting JSON; Trosow yea, McAlister nay) -- left unqualified per the corpus convention that only the later, re-voted motion gets a reconsideration qualifier (see 4a5dca856513, this same item's post-reconsideration re-vote). Also resolves verify-issue-page-rows-distinct.py's flagged byte-identical rows 33/34 on issues/budget.md by giving the two distinct roll calls distinct whatAYeaDid text.",
-  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update"
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update"
  },
  {
   "id": "4a5dca856513",
@@ -1517,7 +1517,7 @@
   "was": "Supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update.",
   "now": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update, following a reconsideration vote.",
   "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (5 to 10) on 2025-11-20 (Budget Committee item 4.3), unhedged -- reworded to the \"Would have <verb>...\" hedge. This is the SECOND, post-reconsideration re-vote on Business Case #P-2 (content[5] of the raw meeting JSON, following Trosow's motion to reconsider under Council Procedure By-law s.35.7, Passed 15-0, content[4]; Trosow flipped to nay, McAlister flipped to yea vs. the first vote, 35201adfaee7) -- given the corpus's established reconsideration qualifier (see 3e064e3441fd's \"following a reconsideration vote\") so the two distinct roll calls read as distinct. Also resolves verify-issue-page-rows-distinct.py's flagged byte-identical rows 33/34 on issues/budget.md -- never a deleted vote, both recorded roll calls are kept and now distinguished.",
-  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update"
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update"
  },
  {
   "id": "4a5dca856513",
@@ -1525,7 +1525,7 @@
   "was": "business-case",
   "now": "levy-size",
   "reason": "verify-round4-items.py (business-case axis emptied): retired axis still assigned. Round-4 policy (see 81604ebe0e88/0666282b30d3) -- this motion's own text carries an explicit Tax Levy line: 'Business Case #P-2 ... BE EXCLUDED ... 2026 Tax Levy: -$2,366,000'. Per the corpus's established mechanical sign convention (EXCLUDED + negative levy -> expansive; see sweep-levy-sign-consistency.py), this is the corpus's expansive key. Reclassified onto levy-size, which describes the actual fiscal direction, instead of the retired, direction-agnostic business-case include/exclude label. This is the SECOND, post-reconsideration re-vote on item 4.3 (2025-11-20 Budget Committee) -- see the whatAYeaDid correction on this id for the reconsideration/roll-call detail.",
-  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
  },
  {
   "id": "4a5dca856513",
@@ -1533,7 +1533,7 @@
   "was": "restrictive",
   "now": "expansive",
   "reason": "Following from the axis correction on this id: per the corpus's established mechanical sign convention (sweep-business-case-levy.py's derive_polarity / sweep-levy-sign-consistency.py's documented CONVENTION table -- \"BE EXCLUDED + negative levy -> expansive (yea keeps a levy cut in place)\"), this row's own key is (EXCLUDED, negative): the Tax Levy line attached to Business Case #P-2 is the case's own fiscal footprint (-$2,366,000, a cut), and voting yea to EXCLUDE this cut from the budget keeps that cut from taking effect -- the levy stays HIGHER than it would with the cut applied, the levy-size axis's expansive outcome. The original batch-36 verifierNote read this as restrictive by treating the dollar line as the marginal effect of passing THIS motion rather than the case's own intrinsic sign -- corrected to match the convention every other (verb, sign) group in the corpus follows (see sweep-levy-sign-consistency.py).",
-  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
  },
  {
   "id": "35201adfaee7",
@@ -1541,7 +1541,7 @@
   "was": "business-case",
   "now": "levy-size",
   "reason": "verify-round4-items.py (business-case axis emptied): retired axis still assigned. Round-4 policy (see 81604ebe0e88/0666282b30d3) -- this motion's own text carries an explicit Tax Levy line: 'Business Case #P-2 ... BE EXCLUDED ... 2026 Tax Levy: -$2,366,000'. Per the corpus's established mechanical sign convention (EXCLUDED + negative levy -> expansive; see sweep-levy-sign-consistency.py), this is the corpus's expansive key. Reclassified onto levy-size, which describes the actual fiscal direction, instead of the retired, direction-agnostic business-case include/exclude label. This is the FIRST, pre-reconsideration vote on item 4.3 (2025-11-20 Budget Committee) -- see the whatAYeaDid correction on this id for the reconsideration/roll-call detail.",
-  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
  },
  {
   "id": "35201adfaee7",
@@ -1549,7 +1549,7 @@
   "was": "restrictive",
   "now": "expansive",
   "reason": "Following from the axis correction on this id: per the corpus's established mechanical sign convention (sweep-business-case-levy.py's derive_polarity / sweep-levy-sign-consistency.py's documented CONVENTION table -- \"BE EXCLUDED + negative levy -> expansive (yea keeps a levy cut in place)\"), this row's own key is (EXCLUDED, negative): the Tax Levy line attached to Business Case #P-2 is the case's own fiscal footprint (-$2,366,000, a cut), and voting yea to EXCLUDE this cut from the budget keeps that cut from taking effect -- the levy stays HIGHER than it would with the cut applied, the levy-size axis's expansive outcome. The original batch-36 verifierNote read this as restrictive by treating the dollar line as the marginal effect of passing THIS motion rather than the case's own intrinsic sign -- corrected to match the convention every other (verb, sign) group in the corpus follows (see sweep-levy-sign-consistency.py).",
-  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
  },
  {
   "id": "e0736e966afc",
@@ -1557,7 +1557,7 @@
   "was": "business-case",
   "now": null,
   "reason": "verify-round4-items.py (business-case axis emptied): retired axis still assigned. Round-4 policy (see 050a9f0f9146/fdbfa59e401a) -- re-read against the raw 2024-02-29 5th Special Meeting of City Council JSON: this motion removes Business Case #P-5 (Fire Department Breathing Apparatus/Decontamination) from the 2024-2027 MYB and refers it to the 2028-2031 MYB, but carries no 'Tax Levy' dollar line of its own -- a funding-cycle deferral, not a stated levy change, so there is no sign to derive a fiscal direction from. Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-5 \u2013 Fire Department Breathing Apparatus and Breathing Apparatus Decontamination (Amended \u2013 funding deferred from 2024 to 2026), and that this Business Case BE REFERRED to the 2028-2031 MYB noting that the equipment\u2019s lifecycle renewal is 2031"
+  "quote": "the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-5 – Fire Department Breathing Apparatus and Breathing Apparatus Decontamination (Amended – funding deferred from 2024 to 2026), and that this Business Case BE REFERRED to the 2028-2031 MYB noting that the equipment’s lifecycle renewal is 2031"
  },
  {
   "id": "e0736e966afc",
@@ -1565,7 +1565,7 @@
   "was": "restrictive",
   "now": null,
   "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-5 \u2013 Fire Department Breathing Apparatus and Breathing Apparatus Decontamination (Amended \u2013 funding deferred from 2024 to 2026), and that this Business Case BE REFERRED to the 2028-2031 MYB"
+  "quote": "the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-5 – Fire Department Breathing Apparatus and Breathing Apparatus Decontamination (Amended – funding deferred from 2024 to 2026), and that this Business Case BE REFERRED to the 2028-2031 MYB"
  },
  {
   "id": "714b9ae9db70",
@@ -1907,17 +1907,17 @@
   "id": "92862cab40bd",
   "field": "quote",
   "was": "That Third Reading and Enactment Reading of Bill No.'s 412 and 426 BE APPROVED.",
-  "now": "That Third Reading and Enactment of Bill No.\u2019s 412 and 426 BE APPROVED.",
+  "now": "That Third Reading and Enactment of Bill No.’s 412 and 426 BE APPROVED.",
   "reason": "Integrity finding (gate round 2 item 5): this row's stored `quote` field contains a spurious duplicated word ('...Enactment READING of...') not present in the source -- verified against the meeting JSON's own item 13 motion_texts, which read 'That Third Reading and Enactment of ... BE APPROVED.' with no trailing 'Reading'. A batch-36 transcription slip, corrected via the quote channel so both the verify-quote-verbatim.py check and every consumer of this entry's quote (sweep-reading-stage-labels.py's stage derivation included) see the true source text.",
-  "quote": "That Third Reading and Enactment of Bill No.\u2019s 412 and 426 BE APPROVED."
+  "quote": "That Third Reading and Enactment of Bill No.’s 412 and 426 BE APPROVED."
  },
  {
   "id": "a27293e0332d",
   "field": "quote",
   "was": "That Third Reading and Enactment Reading of Bill No.'s 415 and 428 BE APPROVED.",
-  "now": "That Third Reading and Enactment of Bill No.\u2019s 415 and 428 BE APPROVED.",
+  "now": "That Third Reading and Enactment of Bill No.’s 415 and 428 BE APPROVED.",
   "reason": "Integrity finding (gate round 2 item 5): this row's stored `quote` field contains a spurious duplicated word ('...Enactment READING of...') not present in the source -- verified against the meeting JSON's own item 13 motion_texts, which read 'That Third Reading and Enactment of ... BE APPROVED.' with no trailing 'Reading'. A batch-36 transcription slip, corrected via the quote channel so both the verify-quote-verbatim.py check and every consumer of this entry's quote (sweep-reading-stage-labels.py's stage derivation included) see the true source text.",
-  "quote": "That Third Reading and Enactment of Bill No.\u2019s 415 and 428 BE APPROVED."
+  "quote": "That Third Reading and Enactment of Bill No.’s 415 and 428 BE APPROVED."
  },
  {
   "id": "938ebdef5b25",
@@ -2013,7 +2013,7 @@
   "was": "Enacted second reading of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
   "now": "Gave second reading to by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted second reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave second reading to ...' convention, true of this row's own quote/stage.",
-  "quote": "A by-law to amend by-law No. W.-5689-65, entitled, \"A by-law to authorize Project RT1430-1B \u2013 Wellington Gateway \u2013 Land Rapid Transit.\""
+  "quote": "A by-law to amend by-law No. W.-5689-65, entitled, \"A by-law to authorize Project RT1430-1B – Wellington Gateway – Land Rapid Transit.\""
  },
  {
   "id": "0f3f61ff19fd",
@@ -2045,7 +2045,7 @@
   "was": "Enacted second reading of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
   "now": "Gave second reading to by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted second reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave second reading to ...' convention, true of this row's own quote/stage.",
-  "quote": "A by-law to amend by-law No. W.-5683-100 entitled, \u201cA by-law to authorize the East London Link \u2013 Construction Rapid Transit (Project RT1430-3A)\u201d ... A by-law to authorize project RT1430-1A \u2013 Wellington Gateway (South) Construction Rapid Transit."
+  "quote": "A by-law to amend by-law No. W.-5683-100 entitled, “A by-law to authorize the East London Link – Construction Rapid Transit (Project RT1430-3A)” ... A by-law to authorize project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit."
  },
  {
   "id": "16e6099111bc",
@@ -2053,7 +2053,7 @@
   "was": "Supported Third Reading and Enactment Reading of a by-law amending the Special Events Policies and Procedures Manual to allow the 'Rock the Park' festival's 5-day use of Harris Park.",
   "now": "Gave third reading and enacted a by-law amending the Special Events Policies and Procedures Manual to allow the 'Rock the Park' festival's 5-day use of Harris Park.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class B: whatAYeaDid carried a doubled '...Enactment Reading of...' garble. Reworded to the corpus's established 'Gave third reading and enacted ...' convention.",
-  "quote": "By-law No. CPOL.-142(e)-75 - A by-law to amend By-law No. CPOL.-142-394 being 'Special Events Policies and Procedures Manual', to provide for the 'Rock the Park 20 \u2013 July 2024' event use of Harris Park for 5 consecutive days."
+  "quote": "By-law No. CPOL.-142(e)-75 - A by-law to amend By-law No. CPOL.-142-394 being 'Special Events Policies and Procedures Manual', to provide for the 'Rock the Park 20 – July 2024' event use of Harris Park for 5 consecutive days."
  },
  {
   "id": "179f7140e6d6",
@@ -2085,7 +2085,7 @@
   "was": "Enacted first reading of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
   "now": "Gave first reading to by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted first reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave first reading to ...' convention, true of this row's own quote/stage.",
-  "quote": "A by-law to amend by-law No. W.-5683-100 entitled, \u201cA by-law to authorize the East London Link \u2013 Construction Rapid Transit (Project RT1430-3A)\u201d ... A by-law to authorize project RT1430-1A \u2013 Wellington Gateway (South) Construction Rapid Transit."
+  "quote": "A by-law to amend by-law No. W.-5683-100 entitled, “A by-law to authorize the East London Link – Construction Rapid Transit (Project RT1430-3A)” ... A by-law to authorize project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit."
  },
  {
   "id": "44023c67f80a",
@@ -2109,7 +2109,7 @@
   "was": "Enacted first reading of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
   "now": "Gave first reading to by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted first reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave first reading to ...' convention, true of this row's own quote/stage.",
-  "quote": "A by-law to amend by-law No. W.-5689-65, entitled, \"A by-law to authorize Project RT1430-1B \u2013 Wellington Gateway \u2013 Land Rapid Transit.\""
+  "quote": "A by-law to amend by-law No. W.-5689-65, entitled, \"A by-law to authorize Project RT1430-1B – Wellington Gateway – Land Rapid Transit.\""
  },
  {
   "id": "4b3c9772a231",
@@ -2117,7 +2117,7 @@
   "was": "Supported Third Reading and Enactment Reading of by-laws authorizing land expropriation for the Wellington Gateway rapid transit project's Clark's Bridge civil works, and authorizing construction of the Wellington Gateway (South) rapid transit corridor and its transit stops.",
   "now": "Gave third reading and enacted by-laws authorizing land expropriation for the Wellington Gateway rapid transit project's Clark's Bridge civil works, and authorizing construction of the Wellington Gateway (South) rapid transit corridor and its transit stops.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class B: whatAYeaDid carried a doubled '...Enactment Reading of...' garble. Reworded to the corpus's established 'Gave third reading and enacted ...' convention.",
-  "quote": "By-law No. L.S.P.-3515-140 - A by-law to authorize and approve an application to expropriate land...for the Wellington Gateway Project Clark's Bridge Civil Works; By-law No. W.-5699(c)-153...to authorize Project RT1430-1A \u2013 Wellington Gateway (South) Construction Rapid Transit; By-law No. W.-5701-154 \u2013 A by-law to authorize Project RT1430-1D \u2013 Wellington Gateway Stops Rapid Transit."
+  "quote": "By-law No. L.S.P.-3515-140 - A by-law to authorize and approve an application to expropriate land...for the Wellington Gateway Project Clark's Bridge Civil Works; By-law No. W.-5699(c)-153...to authorize Project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit; By-law No. W.-5701-154 – A by-law to authorize Project RT1430-1D – Wellington Gateway Stops Rapid Transit."
  },
  {
   "id": "50534cbd6201",
@@ -2205,7 +2205,7 @@
   "was": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
   "now": "Gave second reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit second reading. Reworded to name that stage, per the corpus's established 'Gave second reading to .../Gave third reading and enacted ...' convention.",
-  "quote": "That Second Reading of Bill No.\u2019s 273 and 289 BE APPROVED."
+  "quote": "That Second Reading of Bill No.’s 273 and 289 BE APPROVED."
  },
  {
   "id": "85d2cab1cedb",
@@ -2221,7 +2221,7 @@
   "was": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
   "now": "Gave first reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit first reading. Reworded to name that stage, per the corpus's established 'Gave first reading to .../Gave third reading and enacted ...' convention.",
-  "quote": "That Introduction and First Reading of Bill No.\u2019s 273 and 289 BE APPROVED."
+  "quote": "That Introduction and First Reading of Bill No.’s 273 and 289 BE APPROVED."
  },
  {
   "id": "8f813a32a083",
@@ -2245,7 +2245,7 @@
   "was": "Gave a reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone.",
   "now": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
-  "quote": "That Third Reading and Enactment of Bill No.\u2019s 412 and 426 BE APPROVED."
+  "quote": "That Third Reading and Enactment of Bill No.’s 412 and 426 BE APPROVED."
  },
  {
   "id": "92b8ee648005",
@@ -2269,7 +2269,7 @@
   "was": "Gave a reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
   "now": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
-  "quote": "That Third Reading and Enactment of Bill No.\u2019s 415 and 428 BE APPROVED."
+  "quote": "That Third Reading and Enactment of Bill No.’s 415 and 428 BE APPROVED."
  },
  {
   "id": "a2820440e78b",
@@ -2309,7 +2309,7 @@
   "was": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
   "now": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
-  "quote": "That Third Reading and Enactment of Bill No.\u2019s 273 and 289 APPROVED."
+  "quote": "That Third Reading and Enactment of Bill No.’s 273 and 289 APPROVED."
  },
  {
   "id": "c53e853071d0",
@@ -2365,7 +2365,7 @@
   "was": "expansive",
   "now": "restrictive",
   "reason": "Gate round 3 item A (integrity BLOCKER 1 fix): sweep-levy-sign-consistency.py's table was inverted for BE EXCLUDED rows -- the corpus convention, proven by precedent rows P-25 (INCLUDED, -$250k, restrictive), P-24/021ec895b691 (INCLUDED, -$192k, restrictive) and P-6/22951914b4b2 (EXCLUDED, +$114k, expansive), is that the PRINTED Tax Levy figure already IS the net effect of the motion, exactly as worded (whichever verb it uses), passing relative to the Mayor's tabled budget -- positive figure -> expansive, negative figure -> restrictive, regardless of INCLUDED/EXCLUDED verb. No verb-based sign flip is applied. Re-derived from this row's own quote/source text, independent of any group majority. This row (Case #P-2, BE EXCLUDED, 2026 Tax Levy: -$2,366,000) is a levy CUT under the corrected convention -- restrictive, restoring batch-36's original verdict before the round-4/5 sign-flip mistakenly overturned it. This is the FIRST, pre-reconsideration vote on item 4.3 (2025-11-20 Budget Committee).",
-  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
  },
  {
   "id": "35201adfaee7",
@@ -2373,7 +2373,7 @@
   "was": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update.",
   "now": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update, reducing the 2026 tax levy by $2,366,000.",
   "reason": "Gate round 3 item A: whatAYeaDid must state the fiscal direction now that the polarity correction on this id restores restrictive (a levy cut) -- 'reducing' matches the corrected sign, not the round-4/5 sign-flip's 'expansive' framing.",
-  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
  },
  {
   "id": "4a5dca856513",
@@ -2381,7 +2381,7 @@
   "was": "expansive",
   "now": "restrictive",
   "reason": "Gate round 3 item A (integrity BLOCKER 1 fix): sweep-levy-sign-consistency.py's table was inverted for BE EXCLUDED rows -- the corpus convention, proven by precedent rows P-25 (INCLUDED, -$250k, restrictive), P-24/021ec895b691 (INCLUDED, -$192k, restrictive) and P-6/22951914b4b2 (EXCLUDED, +$114k, expansive), is that the PRINTED Tax Levy figure already IS the net effect of the motion, exactly as worded (whichever verb it uses), passing relative to the Mayor's tabled budget -- positive figure -> expansive, negative figure -> restrictive, regardless of INCLUDED/EXCLUDED verb. No verb-based sign flip is applied. Re-derived from this row's own quote/source text, independent of any group majority. This row (Case #P-2, BE EXCLUDED, 2026 Tax Levy: -$2,366,000) is a levy CUT under the corrected convention -- restrictive, restoring batch-36's original verdict before the round-4/5 sign-flip mistakenly overturned it. This is the SECOND, post-reconsideration re-vote on item 4.3 (2025-11-20 Budget Committee).",
-  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
  },
  {
   "id": "4a5dca856513",
@@ -2389,7 +2389,7 @@
   "was": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update, following a reconsideration vote.",
   "now": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update, reducing the 2026 tax levy by $2,366,000, following a reconsideration vote.",
   "reason": "Gate round 3 item A: whatAYeaDid must state the fiscal direction now that the polarity correction on this id restores restrictive (a levy cut) -- 'reducing' matches the corrected sign, not the round-4/5 sign-flip's 'expansive' framing.",
-  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
  },
  {
   "id": "0666282b30d3",
@@ -2397,7 +2397,7 @@
   "was": "restrictive",
   "now": "expansive",
   "reason": "Gate round 3 item A (integrity BLOCKER 1 fix): sweep-levy-sign-consistency.py's table was inverted for BE EXCLUDED rows -- the corpus convention, proven by precedent rows P-25 (INCLUDED, -$250k, restrictive), P-24/021ec895b691 (INCLUDED, -$192k, restrictive) and P-6/22951914b4b2 (EXCLUDED, +$114k, expansive), is that the PRINTED Tax Levy figure already IS the net effect of the motion, exactly as worded (whichever verb it uses), passing relative to the Mayor's tabled budget -- positive figure -> expansive, negative figure -> restrictive, regardless of INCLUDED/EXCLUDED verb. No verb-based sign flip is applied. Re-derived from this row's own quote/source text, independent of any group majority. This row (Case #P-12, BE EXCLUDED, 2027 Tax Levy: $28,000) is a levy INCREASE under the corrected convention -- expansive, not restrictive as the round-4/5 sign-flip table published.",
-  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget: 2026 Operating Expenditures: $0                         2026 Tax Levy: $0                           2026 Capital Expenditures: $0 2027 Operating Expenditures: $28,000                2027 Tax Levy: $28,000                  2027 Capital Expenditures: $0"
+  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget: 2026 Operating Expenditures: $0                         2026 Tax Levy: $0                           2026 Capital Expenditures: $0 2027 Operating Expenditures: $28,000                2027 Tax Levy: $28,000                  2027 Capital Expenditures: $0"
  },
  {
   "id": "0666282b30d3",
@@ -2405,7 +2405,7 @@
   "was": "Excluded Business Case #P-12 (Resident Satisfaction Survey Frequency) from the Mayor's Tabled 2026 Annual Budget.",
   "now": "Excluded Business Case #P-12 (Resident Satisfaction Survey Frequency) from the Mayor's Tabled 2026 Annual Budget, increasing the 2027 tax levy by $28,000.",
   "reason": "Gate round 3 item A: whatAYeaDid must state the fiscal direction now that the polarity correction on this id is expansive (a levy increase), not the round-4/5 sign-flip's 'restrictive' framing.",
-  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget"
+  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget"
  },
  {
   "id": "1d7c40b467ec",
@@ -2413,7 +2413,7 @@
   "was": null,
   "now": "levy-size",
   "reason": "Gate round 3 item A: this is the SAME underlying business case as 22951914b4b2/P-6 ('Reduced Road Network Improvements', Appendix B Ref#2) at an earlier, preliminary procedural stage (2025-05-22 Budget Committee item 4.1, a direction to Civic Administration to exclude the case) -- this specific clause's own text carries no Tax Levy dollar line (that only appears in the later, formal 2025-11-20 vote), but the case's own title identifies it as a proposed spending CUT, and BE EXCLUDED means that cut does not happen. Aligned onto the same axis as its sibling 22951914b4b2, which does carry direction, instead of being left unclear for lack of a dollar line on this particular procedural vote.",
-  "quote": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design \u2013 Reduced Road Network Improvements"
+  "quote": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design – Reduced Road Network Improvements"
  },
  {
   "id": "1d7c40b467ec",
@@ -2421,7 +2421,7 @@
   "was": null,
   "now": "expansive",
   "reason": "Gate round 3 item A: following from the axis correction on this id -- excluding the 'Reduced Road Network Improvements' cut (the same case as sibling 22951914b4b2/P-6, confirmed expansive under the corrected levy-sign convention) keeps that road-network spending in the budget rather than cutting it, the levy-size axis's expansive outcome, aligned with its sibling's direction rather than left unclear.",
-  "quote": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design \u2013 Reduced Road Network Improvements"
+  "quote": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design – Reduced Road Network Improvements"
  },
  {
   "id": "1d7c40b467ec",
@@ -2429,7 +2429,7 @@
   "was": "Excluded the 'Reduced Road Network Improvements' business case (Appendix B, Ref #2) from the 2026 Budget Update.",
   "now": "Directed staff to exclude the proposed 'Reduced Road Network Improvements' spending cut (Appendix B, Ref #2) from the 2026 Budget Update, keeping that road-network spending in the budget rather than cutting it.",
   "reason": "Gate round 3 item A: whatAYeaDid must state the fiscal direction now that this id carries a direction (expansive) aligned with sibling 22951914b4b2.",
-  "quote": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design \u2013 Reduced Road Network Improvements"
+  "quote": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design – Reduced Road Network Improvements"
  },
  {
   "id": "de0c7139026d",
@@ -2782,5 +2782,101 @@
   "now": "Gave third reading and enacted by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
   "reason": "Gate round 4 item C: same enact-grammar defect class as d02511e5110a.",
   "quote": "Enacted third reading and enactment of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement."
+ },
+ {
+  "id": "f44508b9efa6",
+  "field": "whatAYeaDid",
+  "was": "Directed the city to implement the Temporary Warming Centre Framework for the 2025/2026 and 2026/2027 winters and approved up to $3,632,500 in financing for it.",
+  "now": "Directed the city to implement the Temporary Warming Centre Framework for the 2025/2026 and 2026/2027 winters and approved up to $3,632,500 in financing for the 2026/2027 winter, before this vote was superseded by a same-meeting reconsideration to correct a councillor's vote.",
+  "reason": "Gate round 5 item A (integrity BLOCKER) + nit (1): (a) the printed $3,632,500 financing figure covers Winter 2026/2027 ONLY -- the source's own clause c) says so, and separately notes Winter 2025/2026 'is funded through existing budgets and available Provincial Homeless Prevention Program Funding' -- the old text's bare 'for it' read as covering both winters, overstating the source. (b) This is the FIRST, pre-reconsideration roll call on item 8.3.7 (2025-10-14 Council; Passed 13-2, Nays: Stevenson, Trosow); a s.13.6 reconsideration carried 15-0 immediately after 'to provide for Councillor S. Trosow to correct his vote', and the identical text was re-voted as bcdc340f73a8 (Passed 14-1, Trosow's Nay corrected to Yea). Per the corpus's established reconsidered-pair convention (see 35201adfaee7, this same round's precedent: the FIRST/superseded vote's whatAYeaDid is left without the reconsideration qualifier -- only the later, re-voted motion gets one), this text stays unqualified by that clause, but -- because unlike the budget-committee precedent this roll call is a REAL, non-hypothetical decision the city acted on for several hours before it was superseded -- an explicit 'before this vote was superseded' clause is added so this row is never confused with bcdc340f73a8's corrected, final, counted vote (see that id's own correction) merely by sharing byte-identical text. Also fixes s-trosow.md rendering his original Nay and his corrected Yea beside the exact same sentence, and the corresponding ladder-handling fix in generate-stances.ts (RECONSIDERED_SUPERSEDED_TO_FINAL, sourced from data/election/classify/reconsidered-pairs.json) so this row is excluded from Trosow's encampments/response-scale tally as SUPERSEDED (labeled, never silently dropped) while bcdc340f73a8's corrected Yea is the one that counts.",
+  "quote": "the Civic Administration BE DIRECTED to implement the Proposed Temporary Warming Centre Framework for Winter 2025/2026 and Winter 2026/2027 as outlined in the above-noted staff report; and, c) financing for the Proposed Temporary Warming Centre Framework for Winter 2026/2027 BE APPROVED from the Operating Budget Contingency Reserve in an amount of up to $3,632,500; it being noted that the cost of Winter 2025/2026 is funded through existing budgets and available Provincial Homeless Prevention Program Funding | That pursuant to section 13.6 of the Council Procedure By-law, the Council decision with respect to item 7, clause 2.3 having to do with the Proposed Temporary Warming Centre Framework BE RECONSIDERED to provide for Councillor S. Trosow to correct his vote."
+ },
+ {
+  "id": "bcdc340f73a8",
+  "field": "whatAYeaDid",
+  "was": "Directed the city to implement the Temporary Warming Centre Framework for the 2025/2026 and 2026/2027 winters and approved up to $3,632,500 in financing for it.",
+  "now": "Directed the city to implement the Temporary Warming Centre Framework for the 2025/2026 and 2026/2027 winters and approved up to $3,632,500 in financing for the 2026/2027 winter, following a reconsideration vote to correct a councillor's vote.",
+  "reason": "Gate round 5 item A (integrity BLOCKER) + nit (1): (a) same season-precision fix as f44508b9efa6 -- the $3,632,500 covers Winter 2026/2027 only, not both winters. (b) This is the SECOND, post-reconsideration re-vote on item 8.3.7 (Passed 14-1: Trosow's Nay on f44508b9efa6 corrected to Yea, Stevenson's Nay unchanged) -- the corpus's established convention names the later, re-voted motion with a reconsideration qualifier (see 4a5dca856513's 'following a reconsideration vote' and 1a0c5a5d3f17's 'on a re-vote of the same amendment'); 'following a reconsideration vote to correct a councillor's vote' mirrors that exact established phrase while naming what this specific reconsideration was for (the source's own words: 'to provide for Councillor S. Trosow to correct his vote'). This is the row that now COUNTS in s-trosow's encampments/response-scale tally -- the ladder-handling fix in generate-stances.ts (RECONSIDERED_SUPERSEDED_TO_FINAL, data/election/classify/reconsidered-pairs.json) excludes only the superseded f44508b9efa6, never this final, legally-operative vote.",
+  "quote": "the Civic Administration BE DIRECTED to implement the Proposed Temporary Warming Centre Framework for Winter 2025/2026 and Winter 2026/2027 as outlined in the above-noted staff report; and, c) financing for the Proposed Temporary Warming Centre Framework for Winter 2026/2027 BE APPROVED from the Operating Budget Contingency Reserve in an amount of up to $3,632,500; it being noted that the cost of Winter 2025/2026 is funded through existing budgets and available Provincial Homeless Prevention Program Funding | That pursuant to section 13.6 of the Council Procedure By-law, the Council decision with respect to item 7, clause 2.3 having to do with the Proposed Temporary Warming Centre Framework BE RECONSIDERED to provide for Councillor S. Trosow to correct his vote."
+ },
+ {
+  "id": "84029487a951",
+  "field": "whatAYeaDid",
+  "was": "Directed Civic Administration to plan the draft 2024-2027 Multi-Year Budget around an average annual tax levy increase of approximately 2.9%-3.9%, plus an additional 0.5% for further investment.",
+  "now": "Advised Civic Administration of Council's desire to plan the draft 2024-2027 Multi-Year Budget around an average annual tax levy increase of approximately 2.9%-3.9%, plus an additional 0.5% for further investment.",
+  "reason": "Gate round 5 nit (2): the source text is 'the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward...' -- an advisory statement of Council's desire, not a directive. 'Directed' overstates this as binding instruction the same way BE ADVISED never is elsewhere in the corpus. Reworded to the advisory shape; axis (levy-size) and polarity (expansive) are unchanged -- only the verb overstated what kind of council action this was, not its fiscal direction.",
+  "quote": "the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% – 3.9% as identified to maintain existing service levels as well as additional investments of an additional 0.5% in funding for additional investment, for planning purposes"
+ },
+ {
+  "id": "c7b0c16a7a8b",
+  "field": "whatAYeaDid",
+  "was": "supported the second reading of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+  "now": "Gave second reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+  "reason": "Gate round 5 nit (3): batch-26 voice-consistency sweep (scripts/election/find-batch26-reading-voice.py) -- this row opened lowercase 'supported the {second|third} reading (and enactment) of...', the corpus's outlier voice, against the established 'Gave {first|second} reading to...' / 'Gave third reading and enacted...' convention used everywhere else (e.g. batch-26's own sibling rows on other by-laws, and every other batch). Wording/substance unchanged -- lead-in verb and capitalization only. scripts/election/sweep-reading-stage-labels.py's stage-correctness classes are unaffected (this sweep checks a different defect: which stage-word is used, not voice/capitalization) and stay green after this change.",
+  "quote": "supported the second reading of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project."
+ },
+ {
+  "id": "b54ccad9eaae",
+  "field": "whatAYeaDid",
+  "was": "supported the third reading and enactment of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+  "now": "Gave third reading and enacted the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+  "reason": "Gate round 5 nit (3): batch-26 voice-consistency sweep (scripts/election/find-batch26-reading-voice.py) -- this row opened lowercase 'supported the {second|third} reading (and enactment) of...', the corpus's outlier voice, against the established 'Gave {first|second} reading to...' / 'Gave third reading and enacted...' convention used everywhere else (e.g. batch-26's own sibling rows on other by-laws, and every other batch). Wording/substance unchanged -- lead-in verb and capitalization only. scripts/election/sweep-reading-stage-labels.py's stage-correctness classes are unaffected (this sweep checks a different defect: which stage-word is used, not voice/capitalization) and stay green after this change.",
+  "quote": "supported the third reading and enactment of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project."
+ },
+ {
+  "id": "31cc7ec7eb1d",
+  "field": "whatAYeaDid",
+  "was": "supported the second reading of the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+  "now": "Gave second reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+  "reason": "Gate round 5 nit (3): batch-26 voice-consistency sweep (scripts/election/find-batch26-reading-voice.py) -- this row opened lowercase 'supported the {second|third} reading (and enactment) of...', the corpus's outlier voice, against the established 'Gave {first|second} reading to...' / 'Gave third reading and enacted...' convention used everywhere else (e.g. batch-26's own sibling rows on other by-laws, and every other batch). Wording/substance unchanged -- lead-in verb and capitalization only. scripts/election/sweep-reading-stage-labels.py's stage-correctness classes are unaffected (this sweep checks a different defect: which stage-word is used, not voice/capitalization) and stay green after this change.",
+  "quote": "supported the second reading of the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project."
+ },
+ {
+  "id": "1ee80ec54cf8",
+  "field": "whatAYeaDid",
+  "was": "supported the third reading and enactment of the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+  "now": "Gave third reading and enacted the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+  "reason": "Gate round 5 nit (3): batch-26 voice-consistency sweep (scripts/election/find-batch26-reading-voice.py) -- this row opened lowercase 'supported the {second|third} reading (and enactment) of...', the corpus's outlier voice, against the established 'Gave {first|second} reading to...' / 'Gave third reading and enacted...' convention used everywhere else (e.g. batch-26's own sibling rows on other by-laws, and every other batch). Wording/substance unchanged -- lead-in verb and capitalization only. scripts/election/sweep-reading-stage-labels.py's stage-correctness classes are unaffected (this sweep checks a different defect: which stage-word is used, not voice/capitalization) and stay green after this change.",
+  "quote": "supported the third reading and enactment of the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project."
+ },
+ {
+  "id": "fe35f8c16d61",
+  "field": "whatAYeaDid",
+  "was": "supported the second reading of the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+  "now": "Gave second reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+  "reason": "Gate round 5 nit (3): batch-26 voice-consistency sweep (scripts/election/find-batch26-reading-voice.py) -- this row opened lowercase 'supported the {second|third} reading (and enactment) of...', the corpus's outlier voice, against the established 'Gave {first|second} reading to...' / 'Gave third reading and enacted...' convention used everywhere else (e.g. batch-26's own sibling rows on other by-laws, and every other batch). Wording/substance unchanged -- lead-in verb and capitalization only. scripts/election/sweep-reading-stage-labels.py's stage-correctness classes are unaffected (this sweep checks a different defect: which stage-word is used, not voice/capitalization) and stay green after this change.",
+  "quote": "supported the second reading of the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment."
+ },
+ {
+  "id": "ce54fd004fcc",
+  "field": "whatAYeaDid",
+  "was": "supported the third reading and enactment of the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+  "now": "Gave third reading and enacted the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+  "reason": "Gate round 5 nit (3): batch-26 voice-consistency sweep (scripts/election/find-batch26-reading-voice.py) -- this row opened lowercase 'supported the {second|third} reading (and enactment) of...', the corpus's outlier voice, against the established 'Gave {first|second} reading to...' / 'Gave third reading and enacted...' convention used everywhere else (e.g. batch-26's own sibling rows on other by-laws, and every other batch). Wording/substance unchanged -- lead-in verb and capitalization only. scripts/election/sweep-reading-stage-labels.py's stage-correctness classes are unaffected (this sweep checks a different defect: which stage-word is used, not voice/capitalization) and stay green after this change.",
+  "quote": "supported the third reading and enactment of the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment."
+ },
+ {
+  "id": "456e873da7c2",
+  "field": "axis",
+  "was": "affordable-funding",
+  "now": null,
+  "reason": "Gate round 5 item D: sweep-advocacy-class.py NEEDS REVIEW hit, reviewed against the full 2023-10-10 SPPC item 4.4 text. This is 'Part b), as amended, BE APPROVED' (Passed 7-6) -- the FINAL adoption of the identical 'supports the house debate...Homes Ontario' advisory text that the item's own amendment vote (c0e0eab57589, superseded id) introduced and was already downgraded for, under this exact defect class: the City is advising the Province and endorsing a PROVINCIAL private member's motion, not itself committing, funding, or building any housing -- the whatAYeaDid's own 'Approved advising the Government of Ontario that London City Council supports...' already discloses this is advisory, but classifying it onto housing/affordable-funding/expansive still asserts a City funding STANCE the vote itself never took. Same class, same item, same underlying text as the already-downgraded sibling -- downgraded to unclear for internal consistency and to avoid overstating an advisory resolution as the City's own funding decision.",
+  "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion \"that, in the opinion of this House, the Government of Ontario should establish and fund a new public agency called Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers\""
+ },
+ {
+  "id": "456e873da7c2",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: an advisory resolution supporting a provincial motion to fund Homes Ontario carries no polarity on London's own affordable-funding axis -- the City itself commits no housing funding either way.",
+  "quote": "the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion \"that, in the opinion of this House, the Government of Ontario should establish and fund a new public agency called Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers\""
+ },
+ {
+  "id": "a741d619a286",
+  "field": "whatAYeaDid",
+  "was": "supported approving the Residential R1 (R1-13(7)) zoning special provision as part of rezoning land at 146 Exeter Road from Urban Reserve/Light Industrial to a residential subdivision.",
+  "now": "supported approving the Residential R1 (R1-13(7)) zoning special provision as part of rezoning land at 146 Exeter Road from Urban Reserve/Light Industrial to a residential subdivision, following a reconsideration vote.",
+  "reason": "Round-5 sweep finding (scripts/election/sweep-reconsidered-pairs.py): a 5th published re-vote pair. s.35.8 reconsideration on the R1-13(7) special-provision sub-clause of part a) (2023-07-17 PEC item 3.5), re-voted identically. First roll call (92a1830e70a9) was UNANIMOUS (5-0) -- not divided, so it was never part of the classify/stance pipeline at all (no erasure risk: an unclassified motion can never be ladder-excluded). Second roll call (this id, Passed 4-1) is the only axis-bearing side. Adding the established 'following a reconsideration vote' qualifier for consistency with every other published re-vote pair in the corpus, per the round-5 sweep's uniform rule.",
+  "quote": "That, pursuant to section 35.8 of the Council Procedure By-law, the reconsideration of the motion related to the approval of the R1 Special Provision BE APPROVED."
  }
 ]
