@@ -1252,22 +1252,42 @@ function axisDirectionOf(
 }
 
 /** Round-3 gate item 7: this row's own MECHANICAL role in its decision --
- * "amendment" when the motion's own text opens by amending the motion
- * already in progress ("That the motion be [further] amended..."),
- * "approval of the part" when it opens directly with the lettered
- * sub-clause itself (e.g. "c) a Single Source Procurement BE APPROVED...")
- * with no amending frame around it. Read mechanically off the motion's OWN
- * text, never guessed at or inferred from its outcome; null when neither
- * pattern matches (most motions -- this exists only to disambiguate a
- * same-decision-group whatAYeaDid collision, see renderLadderExclusions in
- * generate-hub-pages.ts). Worked example: e-peloza.md's Ark Aid day
- * drop-in pair -- 1c0f60d005b5 ("That the motion be amended to include a
- * part c)...") is the amendment; d2ed469d2746 ("c) a Single Source
- * Procurement BE APPROVED...") is Council's approval of that part as
- * amended. */
+ * "amendment" when the motion's own text opens by amending the motion (or
+ * one lettered part of it) already in progress ("That the motion be
+ * [further] amended...", or "That part a) be [further] amended..." -- the
+ * same amending-in-progress shape, just naming the specific part rather
+ * than "the motion" as a whole), "approval of the part" when it opens
+ * directly with the lettered sub-clause itself (e.g. "c) a Single Source
+ * Procurement BE APPROVED...") with no amending frame around it. Read
+ * mechanically off the motion's OWN text, never guessed at or inferred from
+ * its outcome; null when neither pattern matches (most motions -- this
+ * exists only to disambiguate a same-decision-group whatAYeaDid collision,
+ * see renderLadderExclusions/renderAxisSection in generate-hub-pages.ts).
+ * Worked example: j-morgan/p-cuddy/etc.'s Ark Aid day drop-in pair --
+ * 955427f58d48 ("That the motion be amended to include a part c)...") is
+ * the amendment; 19f813e3d11f ("c) a Single Source Procurement BE
+ * APPROVED...") is Council's approval of that part as amended. (Ids as of
+ * the 2026-08-31 rebuild; the round-3 gate's original worked example --
+ * 1c0f60d005b5/d2ed469d2746 -- no longer resolves to any motion, having
+ * been superseded by an id rekey since.)
+ *
+ * Round-6 gate item C: the "part a) be amended" phrasing (2025-04-22
+ * Watson Park item 8.2.9, "That part a) be amended to read as follows:
+ * a) ...") is the SAME amending-in-progress shape as "the motion be
+ * amended" -- just naming which lettered part is being amended instead of
+ * treating the whole motion as the target -- so it is the same "amendment"
+ * role under this function's own rule, not a new category. Watson Park's
+ * OTHER half of that pair (cf6233c1dc64, restating the full item preamble
+ * around the single now-amended part a) rather than a bare lettered
+ * clause) does not match the "approval of the part" shape below and stays
+ * null, same as before this change -- deliberately not broadened, since a
+ * bare-preamble-plus-one-clause shape is common to ordinary single-part
+ * motions too and a regex loose enough to catch it here would mislabel
+ * those as "approval of the part" elsewhere in the corpus. */
 function motionRole(motionText: string): string | null {
   const t = motionText.trim();
-  if (/^that the motion be (?:further )?amended\b/i.test(t)) return "amendment";
+  if (/^that (?:the motion|part [a-z]\)) be (?:further )?amended\b/i.test(t))
+    return "amendment";
   if (/^[a-z]\)\s/i.test(t)) return "approval of the part";
   return null;
 }

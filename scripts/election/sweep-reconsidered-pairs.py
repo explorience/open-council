@@ -221,6 +221,34 @@ def try_mechanical_pair(ep: Episode) -> None:
         ep.pair = (best[1], best[2])
 
 
+def has_recorded_vote(m: dict) -> bool:
+    """False for a raw content entry that never got an actual recorded
+    vote — an empty result string AND no vote rows (see the 2025-11-20
+    Budget Committee item 4.3 fix: content[1] is 'That Business Case #P-2
+    ... BE EXCLUDED ... the Middlesex London Health Unit BE REQUESTED to
+    submit an additional funding request ...', core-text-identical to the
+    first ~200 chars of the two REAL roll calls on the same clause
+    (content[3]/content[5], both 'Motion Failed (5 to 10)') because it
+    shares their opening paragraph verbatim — but it was never itself put
+    to a vote (result.string == "" and vote.rows == []); the extraction
+    pipeline correctly never gives it an _all-motions.json id. Checking
+    result.string alone would already catch this case; vote.rows is
+    checked too as a second, independent signal of the same fact, so a
+    content entry with a non-empty result but a rows-less vote object
+    (should that shape ever occur) is filtered the same way. THE POINT:
+    every entry left in text_to_indices below must be a genuine candidate
+    for a real _all-motions.json id, or its raw count will outnumber the
+    real ids sharing its text and build_id_resolver's ambiguity check
+    trips for everyone at that text, including the two real, resolvable
+    roll calls -- silently dropping a published re-vote pair out of this
+    sweep's published_pairs count instead of validating it."""
+    result_text = ((m.get("result") or {}).get("string") or "").strip()
+    if result_text:
+        return True
+    vote_rows = (m.get("vote") or {}).get("rows") or []
+    return bool(vote_rows)
+
+
 def build_id_resolver(all_motions_by_key, meeting_slug, item_number, content):
     """A same-text re-vote pair is EXACTLY the case where two raw content
     entries share the identical core text — the one case a plain text-match
@@ -231,7 +259,18 @@ def build_id_resolver(all_motions_by_key, meeting_slug, item_number, content):
     are produced by walking the same source top-to-bottom), so the Nth raw
     content index with a given normalized text corresponds to the Nth
     _all-motions.json id with that same text. Returns a function
-    idx -> id-or-None."""
+    idx -> id-or-None.
+
+    Round-6 gate item D: a content entry with no recorded vote at all (see
+    has_recorded_vote) never gets an _all-motions.json id, but its text can
+    still coincidentally share a normalized-200-char-prefix key with real,
+    voted-on entries (see has_recorded_vote's own doc comment for the exact
+    case this fixes). Left in text_to_indices, such an entry inflates the
+    raw-index count past the real id count for that key, so EVERY index at
+    that key -- including the real, resolvable ones -- fails the `len(ids)
+    != len(idxs)` check below and silently resolves to None. Filtered out
+    here, before that check ever runs, so only genuine vote-bearing entries
+    are counted on the raw side to match the id side."""
     candidates = all_motions_by_key.get((meeting_slug, item_number), [])
     text_to_ids: dict[str, list[str]] = {}
     for mid, mtext in candidates:
@@ -242,6 +281,8 @@ def build_id_resolver(all_motions_by_key, meeting_slug, item_number, content):
 
     text_to_indices: dict[str, list[int]] = {}
     for i, m in enumerate(content):
+        if not has_recorded_vote(m):
+            continue
         ct = core_text(m)
         if not ct:
             continue

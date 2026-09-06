@@ -125,6 +125,13 @@ interface EvidenceRow {
   // on every evidence row (see evidenceEntry in generate-stances.ts) —
   // computed there but, until now, never read by any renderer in this file.
   resultNote: string | null;
+  // Round-6 gate item C: this row's own mechanical ladder role ("amendment"
+  // vs "approval of the part") — see motionRole in generate-stances.ts and
+  // the matching field on ladderExclusions below. evidenceEntry has always
+  // computed this (same field, same function) but it was never declared
+  // here or read by renderAxisSection until this fix — see
+  // whatAYeaDidCollidesWithinDate.
+  role: string | null;
 }
 
 interface AxisStance {
@@ -418,13 +425,29 @@ function sentenceCase(s: string): string {
   return s.length > 0 ? s.charAt(0).toUpperCase() + s.slice(1) : s;
 }
 
+/** Round-6 gate item C: an optional `roleSuffix` (the SAME "amendment" /
+ * "approval of the part" strings motionRole in generate-stances.ts already
+ * derives — see its own doc comment) appended in the one place every
+ * whatAYeaDid render goes through, so a caller that has already determined
+ * (from its own, necessarily call-site-specific collision check — a
+ * same-decision-group ladder-exclusion bullet set, or a same-date
+ * evidence-table block) that two-plus rows would otherwise render
+ * byte-identical text can disambiguate them without inventing its own
+ * wording or its own suffix-placement rule. Appended after
+ * withStageQualifier (so "(committee stage)" always reads as the outer,
+ * meeting-level qualifier and "(role)" as the inner, decision-level one —
+ * e.g. "...BE APPROVED (committee stage) (amendment)", never the reverse)
+ * and before tcell (no special characters in either qualifier's fixed
+ * " (word)" shape need its escaping). */
 function renderWhatAYeaDid(
   motion: { whatAYeaDid: string } | { direction: DirectionInfo },
-  context: { meetingType: string },
+  context: { meetingType: string; roleSuffix?: string | null },
 ): string {
   const raw = "direction" in motion ? motion.direction.label : motion.whatAYeaDid;
   const label = sentenceCase(hasWhatAYeaDidLabel(raw) ? raw : WHAT_A_YEA_DID_PLACEHOLDER);
-  return tcell(withStageQualifier(label, context.meetingType));
+  const staged = withStageQualifier(label, context.meetingType);
+  const withRole = context.roleSuffix ? `${staged} (${context.roleSuffix})` : staged;
+  return tcell(withRole);
 }
 
 const VOTE_LABEL: Record<string, string> = {
@@ -617,18 +640,30 @@ function renderLadderExclusionGroups(
         .map(({ ex, link, theirVote, whatAYeaDid }) => {
           const prefix = whatAYeaDid.slice(0, 40);
           const collides = (prefixCounts.get(prefix) ?? 0) > 1;
-          const roleSuffix = collides && ex.role ? ` (${ex.role})` : "";
+          // Round-6 gate item C: re-rendered through the same choke point
+          // (renderWhatAYeaDid) rather than string-concatenating the role
+          // suffix inline here — see that function's own doc comment. Only
+          // re-renders when collides && ex.role actually adds something;
+          // otherwise `whatAYeaDid` (already computed above) is reused
+          // as-is.
+          const finalWhatAYeaDid =
+            collides && ex.role
+              ? renderWhatAYeaDid(
+                  { whatAYeaDid: ex.whatAYeaDid },
+                  { meetingType: ex.meetingType, roleSuffix: ex.role },
+                )
+              : whatAYeaDid;
           // Fixed 2026-08-31 (round-2 gate item 6): two rows in the same
           // decision group can otherwise share an identical
-          // whatAYeaDid/date/item/direction — e.g. 1c0f60d005b5 and
-          // d2ed469d2746, two SEPARATE recorded votes on the literal same
+          // whatAYeaDid/date/item/direction — e.g. 955427f58d48 and
+          // 19f813e3d11f, two SEPARATE recorded votes on the literal same
           // part c) text, at the same meeting, moved by different
           // councillors — and render byte-identical. Appending each row's
           // own result tally (its one field that actually differs, e.g.
           // "Motion Passed (11 to 3)" vs "Motion Passed (9 to 5)") means no
           // two bullets in one group are ever identical; see
           // verify-ladder-bullets-distinct.py.
-          return `- ${theirVote}: ${whatAYeaDid}${roleSuffix} — ${link} (${formatDate(ex.date)}, counts as ${ex.axisDirection}, ${resultCell(ex.result, ex.resultNote)})`;
+          return `- ${theirVote}: ${finalWhatAYeaDid} — ${link} (${formatDate(ex.date)}, counts as ${ex.axisDirection}, ${resultCell(ex.result, ex.resultNote)})`;
         })
         .join("\n");
     })
@@ -707,7 +742,51 @@ function renderLadderExclusions(axis: AxisStance): string {
   return `\n${blocks.join("\n\n")}\n`;
 }
 
+// Round-6 gate item C: same collision test renderLadderExclusionGroups
+// already applies within one decision group, applied here within one
+// EVIDENCE TABLE's same-date rows (axis.evidence carries no
+// decisionGroupIndex of its own — date is the narrowest key already on
+// every row that groups a genuine same-meeting amendment/approval-of-the-
+// part pair together without also catching an unrelated motion from a
+// different year that happens to share the same 40 rendered characters by
+// coincidence; see the two named ladders in motionRole's own doc comment).
+function whatAYeaDidCollidesWithinDate(
+  evidence: AxisStance["evidence"],
+): Set<string> {
+  const byDate = new Map<string, string[]>();
+  for (const ev of evidence) {
+    const rendered = renderWhatAYeaDid(
+      { whatAYeaDid: ev.whatAYeaDid },
+      { meetingType: ev.meetingType },
+    );
+    const list = byDate.get(ev.date) ?? [];
+    list.push(rendered.slice(0, 40));
+    byDate.set(ev.date, list);
+  }
+  const collidingPrefixesByDate = new Map<string, Set<string>>();
+  for (const [date, prefixes] of byDate) {
+    const counts = new Map<string, number>();
+    for (const p of prefixes) counts.set(p, (counts.get(p) ?? 0) + 1);
+    collidingPrefixesByDate.set(
+      date,
+      new Set([...counts].filter(([, n]) => n > 1).map(([p]) => p)),
+    );
+  }
+  const collidingMotionIds = new Set<string>();
+  for (const ev of evidence) {
+    const rendered = renderWhatAYeaDid(
+      { whatAYeaDid: ev.whatAYeaDid },
+      { meetingType: ev.meetingType },
+    );
+    if (collidingPrefixesByDate.get(ev.date)?.has(rendered.slice(0, 40))) {
+      collidingMotionIds.add(ev.motionId);
+    }
+  }
+  return collidingMotionIds;
+}
+
 function renderAxisSection(axis: AxisStance): string {
+  const colliding = whatAYeaDidCollidesWithinDate(axis.evidence);
   const evidenceRows = axis.evidence
     .map((ev) => {
       const itemLink = motionLink(
@@ -723,10 +802,19 @@ function renderAxisSection(axis: AxisStance): string {
       // vote itself without swiping the table sideways — see the matching
       // header reorder below.
       // Round-3 gate item 0: routed through the single shared helper — see
-      // renderWhatAYeaDid's own doc comment.
+      // renderWhatAYeaDid's own doc comment. Round-6 gate item C: on a
+      // same-date collision (see whatAYeaDidCollidesWithinDate above), this
+      // row's own mechanical ladder role (amendment / approval of the part
+      // — see motionRole in generate-stances.ts) is carried into the same
+      // choke point the ladder-exclusion bullets already use, so a genuine
+      // amendment/approval-of-the-part ladder reads as self-explanatory
+      // here as it already does there.
       const whatAYeaDid = renderWhatAYeaDid(
         { whatAYeaDid: ev.whatAYeaDid },
-        { meetingType: ev.meetingType },
+        {
+          meetingType: ev.meetingType,
+          roleSuffix: colliding.has(ev.motionId) ? ev.role : null,
+        },
       );
       return `| ${ev.date} | ${theirVote} | ${whatAYeaDid} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(movedToward)} | ${resultCell(ev.result, ev.resultNote)} |`;
     })
