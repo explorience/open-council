@@ -1,0 +1,50 @@
+[
+ {
+  "supersededId": "f44508b9efa6",
+  "finalId": "bcdc340f73a8",
+  "meetingSlug": "months/2025-10/2025-10-14 16th Council Meeting",
+  "itemNumber": "8.3.7",
+  "reason": "Gate round 5 item A (BLOCKER): s.13.6 reconsideration 'to provide for Councillor S. Trosow to correct his vote' -- identical text re-voted, Trosow Nay->Yea, Passed 13-2 then 14-1. The corrected, final vote (bcdc340f73a8) must count in the encampments/response-scale tally; the superseded roll call (f44508b9efa6) is excluded and labeled, never silently dropped.",
+  "quote": "That pursuant to section 13.6 of the Council Procedure By-law, the Council decision with respect to item 7, clause 2.3 having to do with the Proposed Temporary Warming Centre Framework BE RECONSIDERED to provide for Councillor S. Trosow to correct his vote."
+ },
+ {
+  "supersededId": "35201adfaee7",
+  "finalId": "4a5dca856513",
+  "meetingSlug": "months/2025-11/2025-11-20 6th Meeting of the Budget Committee",
+  "itemNumber": "4.3",
+  "reason": "Established precedent pair (pre-existing corpus convention, cited by the round-5 gate brief): s.13.6 reconsideration on Business Case #P-2, re-voted identically. Both roll calls Failed (5 to 10); Trosow and McAlister each flip between the two. Both are 'Would have...' hypotheticals (neither had legislative effect), but under the general rule the final roll call (4a5dca856513) is still the one counted -- the superseded roll call (35201adfaee7) is excluded and labeled.",
+  "quote": "That pursuant to section 35.7 of the Council Procedure by-law, the Committee decision with respect excluding Business Case #P-2 Middlesex-London Health Unit Debt Retirement from the Mayor's Tabled 2026 Annual Budget Update BE RECONSIDERED"
+ },
+ {
+  "supersededId": "7c2d6c2f7bc8",
+  "finalId": "1a0c5a5d3f17",
+  "meetingSlug": "months/2024-11/2024-11-22 6th Meeting of the Budget Committee - CONTINUATION",
+  "itemNumber": "5.3",
+  "reason": "Established precedent pair (pre-existing corpus convention, cited by the round-5 gate brief): s.35.10 reconsideration on the Rapid Transit - East London Link capital-budget amendment, re-voted identically. Both roll calls Failed (1 to 13, then 2 to 12); S. Lehman flips between the two. Final roll call (1a0c5a5d3f17) already carries the established 'on a re-vote of the same amendment' qualifier; the superseded roll call (7c2d6c2f7bc8) is excluded and labeled.",
+  "quote": "That pursuant to section 35.10 of the Council Procedure by-law, the Committee decision with respect to the Mayor's 2025 Annual Budget Amendment - Rapid Transit - East London Link project BE RECONSIDERED"
+ },
+ {
+  "supersededId": "9e771fee78f7",
+  "finalId": "7ab810f00c07",
+  "meetingSlug": "months/2024-02/2024-02-08 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
+  "itemNumber": "3.27",
+  "reason": "Round-5 sweep finding (scripts/election/sweep-reconsidered-pairs.py): a 4th published re-vote pair the gate's scratch check did not name. s.35.10 general-consent reconsideration on Capital Project PD1218 (Downtown Plan), re-voted identically. Both roll calls PASSED (10 to 5, then 8 to 7); S. Lewis AND P. Cuddy each flip Yea->Nay between the two -- same erasure risk as item A, since both roll calls are real, non-hypothetical decisions. Final roll call (7ab810f00c07) already carries the established '(re-vote of the same amendment)' qualifier; confirmed both s-lewis and p-cuddy were previously ladder-excluded (both rows wiped) on downtown/application-approval -- this pair's inclusion here makes their corrected, final votes count.",
+  "quote": "That upon general consent, with no objection being raised, pursuant to section 35.10 of the Council Procedure By-law, the Committee decision with respect to item 3.27 Capital Project PD1218 London's Downtown Plan BE RECONSIDERED."
+ },
+ {
+  "supersededId": "e9ba4b49deae",
+  "finalId": "1f5ca5da65a4",
+  "meetingSlug": "months/2024-02/2024-02-02 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
+  "itemNumber": "3.15",
+  "reason": "Round-5 sweep finding: s.35.10 general-consent reconsideration on Business Case #P-39 (The Grand Theatre), re-voted identically. Both roll calls Failed (7 to 8, then 6 to 8); no flipped voter (S. Trosow voted Yea on the first, was Absent for the second -- not a direction flip, so this pair never triggered the old ladder-exclusion bug). Included for registry completeness and consistent one-decision-one-count tallying; final roll call (1f5ca5da65a4) already carries the established '(re-vote of the same amendment)' qualifier.",
+  "quote": "That upon general consent, with no objection being raised, pursuant to section 35.10 of the Council Procedure By-law, the Committee decision with respect to item 3.15 Amendment – Business Case #P-39 BE RECONSIDERED."
+ },
+ {
+  "supersededId": "92a1830e70a9",
+  "finalId": "a741d619a286",
+  "meetingSlug": "months/2023-07/2023-07-17 12th Meeting of the Planning and Environment Committee",
+  "itemNumber": "3.5",
+  "reason": "Round-5 sweep finding: s.35.8 reconsideration on the R1-13(7) special-provision sub-clause of part a) (146 Exeter Road rezoning), re-voted identically ('Motion to approve the Residential R1 Special Provision R1 (R1-13(7)) in part a)'). First roll call (92a1830e70a9) was UNANIMOUS (5-0) -- never divided, so it was never part of the classify/stance pipeline and carries no verified entry at all; no erasure risk (an unclassified motion is never ladder-excluded). Second roll call (a741d619a286, Passed 4-1) is the only axis-bearing side (housing/application-approval) -- given the established 'following a reconsideration vote' qualifier for consistency with every other published pair.",
+  "quote": "That, pursuant to section 35.8 of the Council Procedure By-law, the reconsideration of the motion related to the approval of the R1 Special Provision BE APPROVED."
+ }
+]

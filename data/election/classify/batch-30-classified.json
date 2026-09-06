@@ -1,0 +1,481 @@
+[
+  {
+    "id": "550a050e44ed",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported enacting the Official Plan Amendment and rezoning by-laws (Bill No.'s 186 and 206) for 530 Oxford Street West.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No.'s 186 and 206, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "543d42e6bcc4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported the Master Accommodation Plan actions: receiving the redevelopment report, directing a competitive procurement process for the City Hall Campus redevelopment, and directing consultation with affected agencies, boards and commissions.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to initiate a competitive procurement process to implement the Master Accommodation Plan guiding overall space needs and the redevelopment of the existing City Hall Campus site",
+    "flags": []
+  },
+  {
+    "id": "917b3609658b",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported referring the Community Encampment Response Plan buffer-distance guidelines (proximity limits from schools, playgrounds, residences, and sports fields) back to Civic Administration to report back with additional distance options, rather than adopting final guidelines.",
+    "confidence": "high",
+    "quote": "the Community Encampment Response Plan as appended to the staff report dated June 18, 2024 as Schedule 1 BE REFERRED to Civic Administration to report back to Strategic Priorities and Policy Committee on the guidelines contained on page 36 with respect to options",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "6e5b3da1988c",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported referring the Community Encampment Response Plan buffer-distance guidelines (an alternative set of proximity limits) back to Civic Administration to report back with additional options, rather than adopting final guidelines.",
+    "confidence": "high",
+    "quote": "the Community Encampment Response Plan as appended to the staff report dated June 18, 2024 as Schedule 1 BE REFERRED to Civic Administration to report back to Strategic Priorities and Policy Committee on the guidelines contained on page 36 with respect to options",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "7008b52e5624",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported the Master Accommodation Plan actions: receiving the redevelopment report, directing a competitive procurement process for the City Hall Campus redevelopment, and directing consultation with affected agencies, boards and commissions.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to initiate a competitive procurement process to implement the Master Accommodation Plan guiding overall space needs and the redevelopment of the existing City Hall Campus site",
+    "flags": []
+  },
+  {
+    "id": "35c73afced10",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported moving Council into closed session to receive solicitor-client-privileged advice on the Master Accommodation Plan and an unsolicited City Hall facility proposal.",
+    "confidence": "high",
+    "quote": "That Council rise and go into Council, In Closed Session, for the purpose of considering the following: (ADDED) Solicitor-Client Privilege",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "dbd8019b0c41",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported enacting the Official Plan Amendment and rezoning by-laws (Bill No.'s 219, 234, and 235) covering 323 Oxford Street West/92 and 825 Proudfoot Lane and 735 Southdale Road West.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No.'s 219, 234, and 235 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "e5c506071327",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported enacting the Official Plan Amendment and rezoning by-laws (Bill No.'s 219, 234, and 235) covering 323 Oxford Street West/92 and 825 Proudfoot Lane and 735 Southdale Road West.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No.'s 219, 234, and 235 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "12dbceb9d7d3",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported enacting the Official Plan Amendment and rezoning by-laws (Bill No.'s 219, 234, and 235) covering 323 Oxford Street West/92 and 825 Proudfoot Lane and 735 Southdale Road West.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No.'s 219, 234, and 235 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "f19526f0022a",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Whole of Community System Response Q2 Quarterly Report for information, without taking further action on it.",
+    "confidence": "high",
+    "quote": "the Whole of Community System Response - Q2 Quarterly Report BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "b84e5ec8c09b",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the London Plan Heights Review staff report for information, without taking a position on its height/density recommendations.",
+    "confidence": "high",
+    "quote": "That the staff report dated July 16, 2024 entitled \"The London Plan Heights Review\" BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "662eb1638917",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported holding a public participation meeting on the draft Advocacy Message Sign By-law, amending it to require a graphic-image warning label, and referring a delegation request to that future meeting.",
+    "confidence": "high",
+    "quote": "a public participation meeting BE HELD at a future meeting of the Community and Protective Services Committee with respect to the draft Advocacy Message Sign By-law",
+    "flags": []
+  },
+  {
+    "id": "29ff949bfadc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported approving Clause 3 of the Closed Session report: accepting Fanshawe College's offer to sell part of its property at 1001 Fanshawe College Blvd. to the City for the East London Link Project and approving its financing.",
+    "confidence": "high",
+    "quote": "That Clause 3 of the Report of Council in Closed Session BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "521513ebb15b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported approving Clauses 4 and 7 of the Closed Session report: acquiring 22 Wellington Road for the Wellington Gateway Project and settling compensation for 1144 Dundas Street for the East London Link Project, with financing for both.",
+    "confidence": "high",
+    "quote": "That Clauses 4 and 7 of the 13th Report of Council in Closed Session BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "9797690f5ca1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-law authorizing the Agreement of Purchase and Sale with Fanshawe College for the partial property acquisition at 1001 Fanshawe College Blvd. for the East London Link Project.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Added Bill No. 265 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "9e3f35bfaec6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-law authorizing the Agreement of Purchase and Sale with Fanshawe College for the partial property acquisition at 1001 Fanshawe College Blvd. for the East London Link Project.",
+    "confidence": "high",
+    "quote": "That Second Reading of Added Bill No. 265 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "8eaee4a50db9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-law authorizing the Agreement of Purchase and Sale with Fanshawe College for the partial property acquisition at 1001 Fanshawe College Blvd. for the East London Link Project.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Added Bill No. 265 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "6b0e853e4b92",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-laws authorizing the Agreement of Purchase and Sale for 22 Wellington Road (Wellington Gateway Project) and the Settlement Agreement for 1144 Dundas Street (East London Link Project).",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Added Bill No. 266 and 269 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "de1eafd74164",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-laws authorizing the Agreement of Purchase and Sale for 22 Wellington Road (Wellington Gateway Project) and the Settlement Agreement for 1144 Dundas Street (East London Link Project).",
+    "confidence": "high",
+    "quote": "That Second Reading of Added Bill No. 266 and 269 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "bc071e8c8faf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-laws authorizing the Agreement of Purchase and Sale for 22 Wellington Road (Wellington Gateway Project) and the Settlement Agreement for 1144 Dundas Street (East London Link Project).",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Added Bill No. 266 and 269 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "660471d960bd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported adjourning the Council sitting as Approving Authority and reconvening in regular session, after approving the Wellington Gateway Project Clark's Bridge expropriation.",
+    "confidence": "high",
+    "quote": "That the meeting of the Approving Authority BE ADJOURNED and that Council reconvene in regular session.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "81068f6047aa",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported deferring the launch of the Secondary School Student Transit Pass Pilot Program to the 2025-26 and 2026-27 school years, directing Civic Administration and London Transit to develop a Memorandum of Understanding with the school board and report back on financing before proceeding.",
+    "confidence": "medium",
+    "quote": "the secondary school pilot project BE DEFERRED to school years beginning September 2025 and September 2026 to provide for the Civic Administration together with London Transit Commission (LTC) to develop a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB) ... with a report back to Council on the MOU, appropriate source of financing, and metrics as previously directed.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "60fc259aec00",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting by-laws including the contract award for Tender RFT-2024-120 covering East London Link and municipal infrastructure improvements (Phase 3B, Highbury Avenue North CPKC Bridge).",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No.'s 286, 295, and 296, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "090a2b675cc3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting by-laws including the contract award for Tender RFT-2024-120 covering East London Link and municipal infrastructure improvements (Phase 3B, Highbury Avenue North CPKC Bridge).",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No.'s 286, 295, and 296, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "7b69548ad50f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting by-laws including the contract award for Tender RFT-2024-120 covering East London Link and municipal infrastructure improvements (Phase 3B, Highbury Avenue North CPKC Bridge).",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No.'s 286, 295, and 296, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "118ca716ab4f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving Councillor Trosow's communication about Federation of Canadian Municipalities Standing Committees and taking no further action on it (i.e., not endorsing him to serve).",
+    "confidence": "high",
+    "quote": "That the communication from Councillor S. Trosow dated September 4, 2024 in relation to Standing Committees and Forums - Federation of Canadian Municipalities BE RECEIVED and NO FURTHER ACTION BE TAKEN",
+    "flags": [
+      "not_divided",
+      "appointment"
+    ]
+  },
+  {
+    "id": "767f4847f59b",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported directing Civic Administration to raise the Municipal Accommodation Tax rate from 4% to 5%, effective no later than January 1, 2026.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to undertake the process to increase the Municipal Accommodation Tax (MAT) rate in the City of London from 4% to 5%, to take effect no later than January 1, 2026.",
+    "flags": []
+  },
+  {
+    "id": "6d5fac41d698",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported noting that the 2nd Report of the Strategic Opportunities Review Working Group had already been considered by Council on July 23, 2024.",
+    "confidence": "high",
+    "quote": "That it BE NOTED the 2nd Report of the Strategic Opportunities Review Working Group was considered at the Council meeting held on July 23, 2024.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "f41ec723d4bf",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported directing staff to prepare a draft by-law regulating maximum temperatures in rental units for a future Community and Protective Services Committee meeting, without yet adopting a temperature standard.",
+    "confidence": "medium",
+    "quote": "a draft by-law BE PREPARED for a future meeting of the Community and Protective Services Committee",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "7ad1ee5fa5f3",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported directing Civic Administration to raise the Municipal Accommodation Tax rate from 4% to 5%, effective no later than January 1, 2026.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to undertake the process to increase the Municipal Accommodation Tax (MAT) rate in the City of London from 4% to 5%, to take effect no later than January 1, 2026.",
+    "flags": []
+  },
+  {
+    "id": "4e9bc8629d06",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported adding a requirement that Civic Administration report back on a planning review of public and owner submissions not addressed by Council's approval of Phase 2 of the Section 26 Official Plan Review (Heights Review/Transit Village/Major Shopping Area).",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to bring forward a report to a future meeting of Planning and Environment Committee providing a planning review of all of the Public Participation Meeting and September 24th Council Meeting owner submissions not addressed by City Council's approval of Phase 2 of the Section 26 Review of The London Plan.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "cc0872e23373",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported noting, for the record, that council discussion was not unanimous on specific provisions of the Phase 2 Section 26 Official Plan Review (the Rapid Transit Boulevard-to-Civic Boulevard reclassifications and the stacked-townhouse Neighbourhood Connector change).",
+    "confidence": "high",
+    "quote": "that it be noted that council discussion was not unanimous on the following provisions",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "195bfd6f8a80",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported adopting Phase 2 of the Section 26 Official Plan Review of The London Plan as amended, which simultaneously raised permitted heights in several Place Types (up to 25 storeys in the Rapid Transit Corridor, 35 storeys for remaining Transit Villages, and 10 storeys at certain Civic/Urban Thoroughfare intersections) and permitted stacked townhouses on Neighbourhood Connectors, while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments (Richmond Street, Western Road, Clarence Street) to Urban Corridor/Civic Boulevard and removing the associated Rapid Transit Stations.",
+    "confidence": "low",
+    "quote": "reclassify the following portions of the Rapid Transit Boulevard from Rapid Transit Boulevard to Civic Boulevard and remove the Rapid Transit Stations ... amend the height of Transit Villages to 35 storeys ... permit a maximum height of 25 storeys in a Rapid Transit Corridor and 15 storeys within an Urban Corridor ... amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along all Neighbourhood Connectors",
+    "flags": []
+  },
+  {
+    "id": "072043242dec",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting by-laws implementing the Section 26 Heights Review parking-exemption zoning amendment and the Protected Major Transit Station Areas zoning review, which mixed density increases (higher storey limits, new Transit Station Area zones) with the removal of transit-station-area and Rapid Transit designations along Richmond Street/Western Road and the Oxford/Richmond Transit Village.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 332 and 333 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "8b3507eb9459",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting by-laws implementing the Section 26 Heights Review parking-exemption zoning amendment and the Protected Major Transit Station Areas zoning review, which mixed density increases (higher storey limits, new Transit Station Area zones) with the removal of transit-station-area and Rapid Transit designations along Richmond Street/Western Road and the Oxford/Richmond Transit Village.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 332 and 333 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "4394f8fb5edf",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the Official Plan Amendment for Phase 2 of the Section 26 Review of The London Plan (Heights Review/Transit Village/Major Shopping Area), which raised permitted heights in several Place Types while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments to Urban Corridor/Civic Boulevard.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 311 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "d57d1e348764",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the Official Plan Amendment for Phase 2 of the Section 26 Review of The London Plan (Heights Review/Transit Village/Major Shopping Area), which raised permitted heights in several Place Types while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments to Urban Corridor/Civic Boulevard.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 311 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "a647b8e87b39",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the Official Plan Amendment for Phase 2 of the Section 26 Review of The London Plan (Heights Review/Transit Village/Major Shopping Area), which raised permitted heights in several Place Types while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments to Urban Corridor/Civic Boulevard.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 311 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "f96ee1b77651",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the Official Plan Amendment for the Protected Major Transit Station Areas Zoning Review, which removed PMTSA designation and Rapid Transit Station references along Richmond Street/Western Road and the Oxford/Richmond Transit Village and deleted a density bonus tied to proximity to rapid transit stations, while also raising permitted heights elsewhere (up to 35 storeys in Transit Village PMTSAs, 25 storeys in Rapid Transit Corridors).",
+    "confidence": "low",
+    "quote": "remove Protected Major Transit Station Areas along Richmond Street from Kent Street to Epworth Avenue ... remove Protected Major Transit Station Areas from Richmond Street and Oxford Street East Transit Village ... amend Policy 813 to permit a maximum of 35 storeys ... delete Policy 840.6 related to greater residential intensity ... within 100 metres of a rapid transit station",
+    "flags": []
+  },
+  {
+    "id": "2c0a112143ab",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the Official Plan Amendment for the Protected Major Transit Station Areas Zoning Review, which removed PMTSA designation and Rapid Transit Station references along Richmond Street/Western Road and the Oxford/Richmond Transit Village and deleted a density bonus tied to proximity to rapid transit stations, while also raising permitted heights elsewhere (up to 35 storeys in Transit Village PMTSAs, 25 storeys in Rapid Transit Corridors).",
+    "confidence": "low",
+    "quote": "remove Protected Major Transit Station Areas along Richmond Street from Kent Street to Epworth Avenue ... remove Protected Major Transit Station Areas from Richmond Street and Oxford Street East Transit Village ... amend Policy 813 to permit a maximum of 35 storeys ... delete Policy 840.6 related to greater residential intensity ... within 100 metres of a rapid transit station",
+    "flags": []
+  },
+  {
+    "id": "696963c86660",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the Official Plan Amendment for the Protected Major Transit Station Areas Zoning Review, which removed PMTSA designation and Rapid Transit Station references along Richmond Street/Western Road and the Oxford/Richmond Transit Village and deleted a density bonus tied to proximity to rapid transit stations, while also raising permitted heights elsewhere (up to 35 storeys in Transit Village PMTSAs, 25 storeys in Rapid Transit Corridors).",
+    "confidence": "low",
+    "quote": "remove Protected Major Transit Station Areas along Richmond Street from Kent Street to Epworth Avenue ... remove Protected Major Transit Station Areas from Richmond Street and Oxford Street East Transit Village ... amend Policy 813 to permit a maximum of 35 storeys ... delete Policy 840.6 related to greater residential intensity ... within 100 metres of a rapid transit station",
+    "flags": []
+  },
+  {
+    "id": "396aeea2ac8c",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported enacting the rezoning by-law changing 2-4 Audrey Avenue and 186-188 Huron Street from a Residential R1 (single-detached) zone to a Residential R6 (higher-density) zone.",
+    "confidence": "high",
+    "quote": "to change the zoning of the subject properties FROM a Residential R1 Special Provision (R1-5(3)) Zone TO a Residential R6 Special Provision (R6-5(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "a248a2530653",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported enacting the rezoning by-law changing 2-4 Audrey Avenue and 186-188 Huron Street from a Residential R1 (single-detached) zone to a Residential R6 (higher-density) zone.",
+    "confidence": "high",
+    "quote": "to change the zoning of the subject properties FROM a Residential R1 Special Provision (R1-5(3)) Zone TO a Residential R6 Special Provision (R6-5(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "5dfa72a2c928",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported enacting the rezoning by-law changing 2-4 Audrey Avenue and 186-188 Huron Street from a Residential R1 (single-detached) zone to a Residential R6 (higher-density) zone.",
+    "confidence": "high",
+    "quote": "to change the zoning of the subject properties FROM a Residential R1 Special Provision (R1-5(3)) Zone TO a Residential R6 Special Provision (R6-5(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "6a737ca4ce12",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the 9th Report of the Community Advisory Committee on Planning and taking no further action on the request to consider heritage-designating the City Hall building at 300 Dufferin Avenue.",
+    "confidence": "high",
+    "quote": "That the 9th Report of the Community Advisory Committee on Planning, from its meeting held on September 11, 2024 BE RECEIVED and NO FURTHER ACTION BE TAKEN relating to the request to consider designating the City Hall building located at 300 Dufferin Avenue",
+    "flags": [
+      "informational_ask"
+    ]
+  }
+]

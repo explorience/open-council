@@ -42,7 +42,7 @@
   "verifierNote": "Verified against the 2023-07-25 Council item 8.1.3 (Master Accommodation Plan), sole Failed-(8-to-7) motion: a Council-Procedure-By-law speaking-rules suspension, failing the two-thirds threshold. Quote verbatim, issue=none correct. Confirmed."
  },
  {
-  "id": "a6f45e920673",
+  "id": "d7ac95a31f23",
   "issue": "downtown",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -54,7 +54,7 @@
   "verifierNote": "Verified against 2023-05-30 SPPC item 2.2 (Core Area Land and Building Vacancy Reduction Strategy). Disambiguated from a same-vote-roster sibling clause (part f, scheduling a Public Participation Meeting -- also Failed 4-8 with the identical four-yea/eight-nay lineup) purely by quote content: the classified quote is part e)'s revision text verbatim (residential-conversion + creative-space sub-clauses i and ii; sub-clause iii's adaptive-reuse detail is correctly paraphrased in whatAYeaDid, not quoted, and not fabricated). No issue-specific \"downtown\" content axis exists in direction-rules.ts, so the generic application-approval fallback (a would-have-approved reading) is the only axis available and is used honestly. Confirmed."
  },
  {
-  "id": "2bf443b42d9a",
+  "id": "90e3bdcb1aeb",
   "issue": "climate",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -130,7 +130,7 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
-  "id": "31f0eee55221",
+  "id": "567d47c111dd",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -156,7 +156,7 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
-  "id": "612c77637079",
+  "id": "f6d06779d6a8",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -274,7 +274,7 @@
   "verifierNote": "Verified against the 2024-2027 Multi-Year Budget item, part b) amendment advising Civic Administration of Council's desired average annual tax-levy increase (2.9-3.9% plus an additional 0.5%). Unambiguously an increase-direction on the levy-size axis. Confirmed."
  },
  {
-  "id": "b39212ba5c58",
+  "id": "83d1ef6fcc21",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -288,7 +288,7 @@
   "verifierNote": "Verified against the London Hydro Board recruitment/interview/nomination process item, Passed 14-1, sole match. A personnel-process governance item; issue=none and the \"appointment\" flag both correct per GLOBAL_EXCLUDE. Confirmed."
  },
  {
-  "id": "761550d551d8",
+  "id": "b6a517a16411",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -303,7 +303,7 @@
   "verifierNote": "Verified against the Governance Working Group Meeting request item, Passed 14-1, sole match, includes an ABC appointment-selection-policy referral component. issue=none, flags=[referral, appointment] both correct. Confirmed."
  },
  {
-  "id": "caa80d04a79b",
+  "id": "80d2e8d654d8",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -341,7 +341,7 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
-  "id": "0c4390e6790a",
+  "id": "8352929f18f5",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -372,7 +372,7 @@
   "verifierNote": "Verified against the same London Police Services Board appointment-consideration item, a distinct Passed-14-1 motion (a procedural noting-clause amendment to the referral), sole match for this result string. issue=none correct. Confirmed."
  },
  {
-  "id": "66a0608fcc37",
+  "id": "395abf70171d",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -396,7 +396,7 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
-  "id": "baf8265896b7",
+  "id": "ba5a02d91789",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -642,7 +642,7 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
-  "id": "06f635878d54",
+  "id": "b020f6f26b66",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -654,7 +654,7 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
-  "id": "57d15d1fc1ac",
+  "id": "ad73ebf3ddf1",
   "issue": "encampments",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -666,7 +666,7 @@
   "verifierNote": "Verified against the Housing Stability Services Purchase of Service Agreement Template item, part a) approving the standard-form agreement for homeless-prevention/housing-stability service purchases. Quote verbatim. Confirmed."
  },
  {
-  "id": "a72a219550ae",
+  "id": "6dd7c2a2b04d",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -706,7 +706,7 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
-  "id": "457acdc00dea",
+  "id": "970f31facdea",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -744,7 +744,7 @@
   "verifierNote": "Verified against item 8.6.11 (608 Commissioners Road West, Z-9516). This id's motion is the bare wrapper \"That item 11, clause 3.5, as amended, BE APPROVED\" (12-3) -- checked that the quote is literally, exactly verbatim for the actual voted clause (unlike a documented precedent case in batch-24 where a wrapper quote was wrongly copy-pasted from a DIFFERENT meeting's text with slightly different wording; no such error here). Cross-checked the wrapper's substance against (a) this same item's own earlier referral motion in this batch (a4044aae6238 (superseded id), Failed 5-10, tried to send the application back for reduced height/density) and (b) the sibling PEC committee-stage vote for the same application also in this batch (7c12069f2f9b (superseded id), R1-9 -> R8 Special Provision) -- both confirm this is a genuine housing-intensification rezoning and that the wrapper vote followed immediately after the reduction attempt failed, matching whatAYeaDid's own narrative. Note (not a defect, flagging for whoever consumes this file next): this and one other motion in the batch would have carried a \"wrapper_preamble\" flag under the convention used by other shipped batch-*-verified.json files (e.g. batch-0's a7f830659ba0 (superseded id), batch-24's 4a247fdf3fd7 (superseded id)), but the flag vocabulary specified for this task omits that tag, so it isn't applied here either -- a scope question, already flagged by the classifier's own stats as a CONTRACT DEVIATION, not something this pass changes. Confirmed."
  },
  {
-  "id": "bce2ceed17d2",
+  "id": "cb7ffd202935",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -770,7 +770,7 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
-  "id": "b74d23b49c3f",
+  "id": "55bf2538a532",
   "issue": "none",
   "axis": null,
   "polarity": null,
@@ -808,7 +808,7 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
-  "id": "2b8601e1e24e",
+  "id": "c3e9daee4341",
   "issue": "transit",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -860,7 +860,7 @@
   "verifierNote": "Out of this task's deep-verification scope (which specifies every non-null-polarity entry). Structural/programmatic check applied to this entry as part of a full-corpus sweep: the manifest's meetingSlug + itemNumber resolves to a real item; a motion under that item exists whose result string exactly matches the manifest's recorded result (verified across every candidate when the item contains more than one motion sharing that result string); the classified quote (where non-empty), split on this corpus's established mid-clause ellipsis convention, matches an in-order, verbatim run of substrings inside that motion's own pre/motion/post text; and no other manifest id in this batch resolves, by the same content-matching method, to the same specific motion at the same item (no duplicate-assignment collision anywhere in the 82-motion batch). axis/polarity are already null, so this entry carries no direction claim and is excluded from stance aggregation regardless. Not independently re-read for issue/whatAYeaDid nuance beyond that structural pass."
  },
  {
-  "id": "c3bef74d3dc0",
+  "id": "21f39ef5b660",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",
@@ -872,7 +872,7 @@
   "verifierNote": "Verified against the Planning and Environment Committee item (2023-01-30, item 3.4) -- the committee-stage sibling of cacc4eabf8e7 (superseded id)'s Council-stage vote for 489 Upper Queen Street. Confirmed."
  },
  {
-  "id": "08d0703b4f40",
+  "id": "41b3efd5d573",
   "issue": "housing",
   "axis": "application-approval",
   "polarity": "expansive",

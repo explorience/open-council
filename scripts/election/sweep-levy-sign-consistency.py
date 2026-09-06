@@ -1,315 +1,249 @@
 #!/usr/bin/env python3
 """
-Round-5 gate item 3 sweep: levy-sign consistency for EVERY business-case-
-derived row currently on the levy-size axis — not just the rows round-4's
-sweep-business-case-levy.py newly moved there. Round-4 only re-derived rows
-that started out classified axis=="business-case"; any row that was already
-classified straight to levy-size in the verified batches (by the original
-LLM-assisted pass, not the mechanical Tax-Levy-sign rule) was never checked
-against that rule and could disagree with it silently.
+Gate round 4 item B rewrite: full corpus-wide coverage for every levy-size
+row, not just the narrow BE INCLUDED/EXCLUDED + "Tax Levy: $N" shape the
+round-3 version of this sweep covered (6/82 rows). Three tiers now cover
+every row currently on axis levy-size (post-corrections.json,
+verdict confirmed/corrected), with ZERO silent gaps:
 
-DETECTION RULE (the whole rule, not a summary): convention-independent group
-check.
+  TIER 1 -- MECHANICAL DIRECT-SIGN DERIVATION. A row is mechanically
+  derivable when its authoritative motionText (from data/votes/
+  _all-motions.json, post motionText-correction -- never the batch's own
+  possibly-truncated `quote`) is NOT a self-referential "amendment to a
+  still-pending motion" wrapper (see TIER 2) and contains at least one
+  explicit signed "Tax Levy: $N" figure. Convention (unchanged from the
+  round-3 rewrite): the printed figure's sign, exactly as worded, already
+  IS the polarity relative to the tabled budget -- positive is expansive,
+  negative is restrictive. When every "Tax Levy" occurrence in the text is
+  exactly $0 (a reserve-funded line with no direct levy line-item), fall
+  back to the same signed-figure test against "Operating Expenditures:"
+  occurrences instead -- the real fiscal direction of a reserve-funded
+  addition/removal still shows up there even though the levy itself nets
+  to zero. A row with no clean single-sign figure under either test (mixed
+  signs, or no figure at all) falls through to TIER 3.
 
-  1. Universe: every verified-batch entry (across ALL batch-*-verified.json,
-     including data/election/classify/batch-returning-verified.json) with
-     verdict confirmed/corrected whose CURRENT axis — after applying every
-     row in corrections.json, in file order — is "levy-size".
+  TIER 2 -- AMENDMENT-TO-PENDING WRAPPER, MECHANICALLY OUT OF SCOPE. Some
+  motions are themselves a self-referential edit of a motion still on the
+  floor ("That the motion be (further) amended, to read as follows: ...",
+  or "That Budget Amendment Case #P-NN BE AMENDED to be in the amount of
+  ($N)"). Per the corpus's own established convention (verified against
+  92c5abcb31d2, 98b1cc4021c2, 2071a9b9c052; applied in gate round 4 item A
+  to ad4332ac35af/2789ce535bcb/d925b5e3502c, and to the sibling c77f2ff22429
+  found while widening this sweep), such a row's direction must be judged
+  against what was actually PENDING at the moment it was moved, not the
+  tabled budget -- which requires reconstructing the specific preceding
+  sibling motion in the source meeting JSON for each one. That is a
+  human-judgment reconstruction, not a safe corpus-wide mechanical rule (a
+  "from X to Y" figure or a same-total year-reallocation both need a human
+  to identify what was actually on the floor). Every such row is therefore
+  routed to TIER 3 rather than guessed at mechanically.
 
-  2. For each, re-extract the motion's FULL text straight from the raw
-     meeting JSON (never the truncated data/votes/_all-motions.json copy or
-     the batch's own possibly-truncated quote field), matching on the first
-     60 characters of the batch's quote under the motion's own item number.
-
-  3. BUSINESS-CASE-DERIVED test: the full text contains both an explicit
-     BE INCLUDED / BE EXCLUDED verb and a "Tax Levy: $N" dollar line (the
-     same pattern sweep-business-case-levy.py keys derivation off of). A
-     levy-size row whose full text has neither is a DIFFERENT kind of levy
-     motion (e.g. a direct "increase the overall tax levy by X%" motion with
-     no business-case dollar line) — out of scope for this sweep, left
-     untouched.
-
-  4. GROUP KEY for every business-case-derived row: (verb, sign-of-levy-
-     figure), e.g. ("INCLUDED", positive) or ("EXCLUDED", negative). This
-     key alone determines what polarity the established convention assigns
-     (see CONVENTION below) — it does NOT depend on which axis/polarity the
-     row currently carries. Two rows with the same key must always resolve
-     to the same polarity; if the CURRENT (post-corrections.json) polarities
-     within one group are not all identical, that group is internally
-     contradictory — proof that at least one member disagrees with the
-     convention every other member follows.
-
-  CONVENTION (identical to sweep-business-case-levy.py's derive_polarity):
-       BE INCLUDED + positive levy -> expansive (yea raises the levy)
-       BE INCLUDED + negative levy -> restrictive (yea cuts the levy)
-       BE EXCLUDED + positive levy -> restrictive (yea avoids a levy increase)
-       BE EXCLUDED + negative levy -> expansive (yea keeps a levy cut in place)
-
-  5. RESOLUTION for every contradictory group: each member is independently
-     re-derived from its OWN dollar line via the convention above (never
-     from what the rest of its group says). A member whose derived polarity
-     already matches its current polarity needs no correction. A member
-     that disagrees gets a new corrections.json row moving it to the
-     convention's answer. A member with no cleanly derivable sign (the
-     "DEGENERATE" scraper-noise guard, or no Tax Levy line at all despite
-     matching the verb test loosely) is downgraded to unclear (axis=null,
-     polarity=null) instead of guessed at.
-
-  6. Rows already correct, or in a group that was never mixed to begin with,
-     are left untouched — this sweep only writes corrections for rows that
-     fail the check.
+  TIER 3 -- REVIEWED-LEVY-ROWS.JSON, ZERO SILENT GAPS. Every levy-size row
+  this script cannot mechanically derive (TIER 2 wrapper rows, and any
+  TIER-1-eligible row with no clean single-sign figure) MUST have a
+  corresponding entry in data/election/classify/reviewed-levy-rows.json,
+  keyed by id, carrying the polarity a human derived from the FULL source
+  record and a verbatim quote justifying it. This script FAILS (exit 1) on
+  any levy-size row missing from that file, on any reviewed entry whose
+  recorded polarity no longer matches the row's CURRENT (post-corrections)
+  polarity (a stale review -- the row moved out from under it), and on any
+  reviewed entry whose quote is not found verbatim (whitespace/quote-style
+  normalized only) in the row's own full source motion text.
 
 Usage: python3 scripts/election/sweep-levy-sign-consistency.py [--apply]
-Without --apply: report-only (prints every business-case-derived levy-size
-row, its group key, its current vs. convention-derived polarity, and flags
-every contradictory group). With --apply: additionally appends the needed
-rows to corrections.json (idempotent — skips any id/field already covered by
-an identical existing correction) and re-checks that zero mixed groups
-remain.
+Without --apply: report-only. With --apply: appends TIER-1 mismatches to
+corrections.json (idempotent) and re-checks that zero mismatches remain;
+TIER-3 gaps/staleness are never auto-fixed -- they need a human to write
+the reviewed-levy-rows.json entry, so --apply still exits 1 if any remain.
 """
 import json
-import glob
-import re
 import os
+import re
 import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib_corrections import full_motion_texts, load_merged, norm_ws  # noqa: E402
 
 CORRECTIONS_PATH = "data/election/classify/corrections.json"
-BATCH_GLOB = "data/election/classify/batch-*-verified.json"
-ALL_MOTIONS_PATH = "data/votes/_all-motions.json"
+REVIEWED_PATH = "data/election/classify/reviewed-levy-rows.json"
 
-LEVY_RE = re.compile(r"Tax Levy:\s*(-?\$[\d,]+)")
+LEVY_RE = re.compile(r"Tax Levy:?\s*(\(?-?\$[\d,]+\)?)", re.I)
+OPEX_RE = re.compile(r"Operating Expenditures?:?\s*(\(?-?\$[\d,]+\)?)", re.I)
 
-# Round-3 corrections that were deliberately derived from the case's own
-# TITLE ("Reduced Road Network Improvements" etc.), not the mechanical
-# Tax-Levy-sign rule, precisely because their dollar-line figures are
-# degenerate scraper noise (Operating/Capital/Tax-Levy all identical, no
-# sign). sweep-business-case-levy.py already carves these out by name;
-# verify-round4-items.py asserts they stay untouched. This sweep must not
-# silently downgrade them just because the mechanical rule alone can't
-# confirm them.
-# 2026-09-02 (PR #202 round): ids rechased through rekey-map-20260902*.json
-# after this branch's merge + regen changed them - see verify-round4-items.py's
-# matching item-3 comment for the full chain and provenance.
-PROTECTED_TITLE_DERIVED_IDS = {"22951914b4b2", "021ec895b691"}  # was 18633398dd86, ea03954e4926
+PENDING_WRAPPER_RE = re.compile(r"^\s*That the motion (be (further )?amended\b|BE AMENDED to read as follows\b)", re.I)
+CASE_AMEND_AMOUNT_RE = re.compile(r"BE AMENDED to be in the amount of", re.I)
 
 
-def load_full_motion_text(meeting_slug: str, item_number: str, quote: str) -> str | None:
-    path = "data/" + meeting_slug[len("months/"):] + ".json"
-    if not os.path.exists(path):
+def parse_amt(s: str) -> int:
+    neg = s.startswith("(") or s.startswith("-")
+    digits = re.sub(r"[^\d]", "", s)
+    val = int(digits) if digits else 0
+    return -val if (neg and val) else val
+
+
+def is_pending_wrapper(motion_text: str) -> bool:
+    return bool(PENDING_WRAPPER_RE.search(motion_text)) or bool(CASE_AMEND_AMOUNT_RE.search(motion_text))
+
+
+def signed_derive(text: str) -> str | None:
+    """Returns 'expansive'/'restrictive' if every nonzero Tax Levy figure in
+    `text` agrees in sign (falling back to Operating Expenditures figures
+    when every Tax Levy occurrence is exactly $0), else None (mixed signs or
+    no figure at all -- not mechanically derivable)."""
+    levy_nonzero = [parse_amt(m.group(1)) for m in LEVY_RE.finditer(text)]
+    levy_nonzero = [f for f in levy_nonzero if f != 0]
+    if levy_nonzero:
+        signs = set(1 if f > 0 else -1 for f in levy_nonzero)
+        if len(signs) == 1:
+            return "expansive" if signs.pop() > 0 else "restrictive"
         return None
-    raw = json.load(open(path))
-    parts = item_number.split(".")
-    cur = raw["items"]
-    node = None
-    try:
-        for p in parts:
-            node = cur[p]
-            cur = node.get("items", {})
-    except (KeyError, TypeError):
-        return None
-
-    needle = quote.strip()[:60]
-
-    def walk(n):
-        for c in n.get("content", []):
-            if isinstance(c, dict) and (c.get("__class__") == "Motion" or "motion_texts" in c):
-                texts = []
-                for mt in c.get("motion_texts", []):
-                    s = mt.get("string") if isinstance(mt, dict) else mt
-                    if s:
-                        texts.append(s)
-                full = " ".join(texts)
-                if needle in full:
-                    return full
-        for sub in n.get("items", {}).values():
-            found = walk(sub)
-            if found:
-                return found
-        return None
-
-    return walk(node)
+    opex_nonzero = [parse_amt(m.group(1)) for m in OPEX_RE.finditer(text)]
+    opex_nonzero = [f for f in opex_nonzero if f != 0]
+    if opex_nonzero:
+        signs = set(1 if f > 0 else -1 for f in opex_nonzero)
+        if len(signs) == 1:
+            return "expansive" if signs.pop() > 0 else "restrictive"
+    return None
 
 
-def derive(full_text: str):
-    """Returns ("OK", figure, polarity) | ("DEGENERATE", None, None) |
-    (None, None, None) if not business-case-derived / not sign-derivable."""
-    included = bool(re.search(r"BE\s+INCLUDED", full_text, re.IGNORECASE))
-    excluded = bool(re.search(r"BE\s+EXCLUDED", full_text, re.IGNORECASE))
-    m = LEVY_RE.search(full_text)
-    if not m or (not included and not excluded) or (included and excluded):
-        return (None, None, None)  # not business-case-derived / ambiguous verb
-
-    figure = m.group(1)
-
-    opex_matches = re.findall(r"Operating Expenditures:\s*(-?\$[\d,]+)", full_text)
-    capex_matches = re.findall(r"Capital Expenditures:\s*(-?\$[\d,]+)", full_text)
-    levy_matches = re.findall(r"Tax Levy:\s*(-?\$[\d,]+)", full_text)
-    if (
-        opex_matches
-        and capex_matches
-        and levy_matches
-        and len(set(opex_matches)) == 1
-        and set(opex_matches) == set(capex_matches) == set(levy_matches)
-        and not figure.startswith("-")
-    ):
-        return ("DEGENERATE", None, None)
-
-    negative = figure.startswith("-")
-    is_zero = re.sub(r"[^\d]", "", figure) == "0"
-    if is_zero:
-        rest = full_text[m.end():]
-        m2 = LEVY_RE.search(rest)
-        if m2 and re.sub(r"[^\d]", "", m2.group(1)) != "0":
-            figure = m2.group(1)
-            negative = figure.startswith("-")
-        else:
-            return (None, None, None)
-
-    verb = "INCLUDED" if included else "EXCLUDED"
-    if verb == "INCLUDED":
-        polarity = "restrictive" if negative else "expansive"
-    else:
-        polarity = "expansive" if negative else "restrictive"
-    sign = "negative" if negative else "positive"
-    return ("OK", (verb, sign), polarity)
+def load_reviewed() -> dict:
+    if not os.path.exists(REVIEWED_PATH):
+        return {}
+    rows = json.load(open(REVIEWED_PATH))
+    by_id = {}
+    for r in rows:
+        if r["id"] in by_id:
+            raise ValueError(f"{REVIEWED_PATH}: duplicate id {r['id']}")
+        by_id[r["id"]] = r
+    return by_id
 
 
-def main():
+def main() -> int:
     apply_mode = "--apply" in sys.argv
 
-    entries = []
-    for f in sorted(glob.glob(BATCH_GLOB)):
-        entries.extend(json.load(open(f)))
-    entries_by_id = {e["id"]: e for e in entries}
+    entries, motions = load_merged()
+    reviewed = load_reviewed()
 
-    corrections = json.load(open(CORRECTIONS_PATH))
-    current = {e["id"]: {"axis": e["axis"], "polarity": e["polarity"]} for e in entries}
-    for c in corrections:
-        if c["id"] in current:
-            current[c["id"]][c["field"]] = c["now"]
-
-    all_motions = {m["id"]: m for m in json.load(open(ALL_MOTIONS_PATH))["motions"]}
-
-    levy_ids = [
+    levy_ids = sorted(
         eid
-        for eid, e in entries_by_id.items()
-        if e["verdict"] in ("confirmed", "corrected") and current[eid]["axis"] == "levy-size"
-    ]
-
+        for eid, e in entries.items()
+        if e.get("verdict") in ("confirmed", "corrected") and e.get("axis") == "levy-size"
+    )
     print(f"Rows currently on axis levy-size (post-corrections, verdict confirmed/corrected): {len(levy_ids)}\n")
 
-    groups: dict[tuple, list[dict]] = {}
-    skipped_not_bc = 0
-    rows_report = []
+    tier1_match = []
+    tier1_mismatch = []
+    tier2_wrapper = []
+    tier3_needs_review = []  # TIER-1-eligible but no clean sign
+    reviewed_ok = []
+    reviewed_missing = []
+    reviewed_stale = []
+    reviewed_bad_quote = []
 
     for mid in levy_ids:
-        e = entries_by_id[mid]
-        m = all_motions.get(mid)
-        cur_pol = current[mid]["polarity"]
-        full_text = None
-        if m:
-            full_text = load_full_motion_text(m["meetingSlug"], m["itemNumber"], e["quote"])
-        if not full_text:
-            full_text = e["quote"]
+        e = entries[mid]
+        m = motions.get(mid, {})
+        cur_pol = e.get("polarity")
+        motion_text = m.get("motionText") or ""
+        src = motion_text or (e.get("quote") or "")
 
-        kind, key, derived_pol = derive(full_text)
-        if kind is None:
-            skipped_not_bc += 1
-            continue
-
-        row = {"id": mid, "current_polarity": cur_pol, "kind": kind, "key": key, "derived_polarity": derived_pol}
-        rows_report.append(row)
-        if kind == "OK":
-            groups.setdefault(key, []).append(row)
-
-    print(f"Business-case-derived levy-size rows (verb + Tax Levy line present): {len(rows_report)}")
-    print(f"Levy-size rows skipped as NOT business-case-derived (out of scope): {skipped_not_bc}\n")
-
-    contradictory_groups = 0
-    to_correct = []  # (id, field, was, now, reason)
-    to_downgrade = []
-
-    protected_degenerate = []
-    for row in rows_report:
-        if row["kind"] == "DEGENERATE":
-            if row["id"] in PROTECTED_TITLE_DERIVED_IDS:
-                protected_degenerate.append(row["id"])
-            elif row["current_polarity"] is not None:
-                to_downgrade.append(row["id"])
-            continue
-
-    for key, members in sorted(groups.items(), key=lambda kv: kv[0]):
-        pols = {m["current_polarity"] for m in members}
-        expected = members[0]["derived_polarity"]
-        mixed = len(pols) > 1
-        disagreeing = [m for m in members if m["current_polarity"] != expected]
-        if mixed or disagreeing:
-            contradictory_groups += 1
-            print(f"CONTRADICTORY GROUP {key}: {len(members)} rows, current polarities present = {sorted(pols)}, convention says {expected}")
-            for m in disagreeing:
-                print(f"  -> {m['id']}: current={m['current_polarity']}  convention={expected}  [NEEDS CORRECTION]")
-                to_correct.append((m["id"], "polarity", m["current_polarity"], expected))
+        if not motion_text or not is_pending_wrapper(motion_text):
+            derived = signed_derive(src)
+            if derived is not None:
+                if derived == cur_pol:
+                    tier1_match.append((mid, derived))
+                else:
+                    tier1_mismatch.append((mid, cur_pol, derived))
+                continue
+            tier3_needs_review.append(mid)
         else:
-            print(f"consistent group {key}: {len(members)} rows, all polarity={expected}")
+            tier2_wrapper.append(mid)
 
-    if protected_degenerate:
-        print(f"\n{len(protected_degenerate)} DEGENERATE-by-dollar-line row(s) left untouched — protected, title-derived round-3 correction: {protected_degenerate}")
+        # TIER 3: must be in reviewed-levy-rows.json
+        r = reviewed.get(mid)
+        if r is None:
+            reviewed_missing.append(mid)
+            continue
+        if r.get("polarity") != cur_pol:
+            reviewed_stale.append((mid, r.get("polarity"), cur_pol))
+            continue
+        quote = r.get("quote") or ""
+        texts = full_motion_texts(m.get("meetingSlug", ""), m.get("itemNumber", "")) if m else []
+        verbatim = any(norm_ws(quote) == norm_ws(t) for t in texts) or norm_ws(quote) in {
+            norm_ws(t) for t in texts
+        }
+        # A quote that is a genuine SUBSTRING of a full source text also counts
+        # (many reviewed quotes are the classify layer's own excerpt, not the
+        # full motion string) -- check containment both ways, normalized.
+        if not verbatim:
+            verbatim = any(norm_ws(quote) in norm_ws(t) for t in texts) or any(
+                norm_ws(t) in norm_ws(quote) for t in texts
+            )
+        if not verbatim:
+            reviewed_bad_quote.append(mid)
+            continue
+        reviewed_ok.append(mid)
 
-    if to_downgrade:
-        print(f"\n{len(to_downgrade)} DEGENERATE row(s) (scraper-noise guard, no clean sign) still carrying a polarity -> unclear:")
-        for mid in to_downgrade:
-            print(f"  -> {mid}: current={current[mid]['polarity']} -> null")
+    print(f"TIER 1 (mechanical direct-sign, non-wrapper, clean sign): {len(tier1_match) + len(tier1_mismatch)}")
+    print(f"  match: {len(tier1_match)}")
+    print(f"  MISMATCH: {len(tier1_mismatch)}")
+    for mid, was, now in tier1_mismatch:
+        print(f"    -> {mid}: current={was}, derived={now}")
+
+    print(f"\nTIER 2 (amendment-to-pending wrapper, routed to review): {len(tier2_wrapper)}")
+    print(f"\nTIER 3 (no clean mechanical sign, routed to review): {len(tier3_needs_review)}")
+
+    print(f"\nreviewed-levy-rows.json coverage: {len(reviewed_ok)} OK, "
+          f"{len(reviewed_missing)} MISSING, {len(reviewed_stale)} STALE, {len(reviewed_bad_quote)} BAD QUOTE")
+    for mid in reviewed_missing:
+        print(f"  MISSING: {mid} has no reviewed-levy-rows.json entry")
+    for mid, was, now in reviewed_stale:
+        print(f"  STALE: {mid} reviewed polarity={was} but current polarity={now}")
+    for mid in reviewed_bad_quote:
+        print(f"  BAD QUOTE: {mid} reviewed quote not found verbatim in source")
+
+    total_gap = len(tier1_mismatch) + len(reviewed_missing) + len(reviewed_stale) + len(reviewed_bad_quote)
 
     print(f"\n{'=' * 60}")
-    print(f"Contradictory groups: {contradictory_groups}")
-    print(f"Rows needing a polarity correction: {len(to_correct)}")
-    print(f"Rows needing a downgrade-to-unclear: {len(to_downgrade)}")
+    print(f"Total defects: {total_gap}")
 
     if not apply_mode:
-        if to_correct or to_downgrade:
-            print("\nRun with --apply to write these to corrections.json.")
+        if total_gap:
+            print("\nRun with --apply to write TIER-1 mismatches to corrections.json "
+                  "(TIER-3 gaps/staleness need a human edit to reviewed-levy-rows.json).")
             sys.exit(1)
-        else:
-            print("\nZero mixed groups corpus-wide. PASS.")
-            sys.exit(0)
+        print("\nZero gaps corpus-wide. PASS.")
+        sys.exit(0)
 
-    # --apply: append corrections, idempotently.
+    if not tier1_mismatch:
+        print("\nNo TIER-1 mismatches to apply.")
+        if total_gap:
+            sys.exit(1)
+        sys.exit(0)
+
+    corrections = json.load(open(CORRECTIONS_PATH))
     existing_keys = {(c["id"], c["field"]) for c in corrections}
     appended = 0
-    for mid, field, was, now in to_correct:
-        if (mid, field) in existing_keys:
-            print(f"SKIP {mid}.{field}: corrections.json already has an entry for this id/field — resolve the conflict manually")
+    for mid, was, now in tier1_mismatch:
+        if (mid, "polarity") in existing_keys:
+            print(f"SKIP {mid}.polarity: corrections.json already has an entry for this id/field")
             continue
         corrections.append({
             "id": mid,
-            "field": field,
+            "field": "polarity",
             "was": was,
             "now": now,
-            "reason": "Round-5 gate item 3: levy-sign consistency group check — this row's own motion text (BE INCLUDED/EXCLUDED verb + Tax Levy dollar sign) disagrees with the convention every other row sharing its (verb, sign) group follows. Re-derived independently from this row's own dollar line, not from its group's majority.",
-            "quote": entries_by_id[mid]["quote"],
+            "reason": "Gate round 4 item B: widened levy-sign-consistency sweep -- this row's own "
+                      "motionText carries an unambiguous signed Tax Levy (or Operating Expenditures "
+                      "fallback) figure disagreeing with the corrected effect-of-passing convention.",
+            "quote": entries[mid].get("quote") or "",
         })
-        existing_keys.add((mid, field))
+        existing_keys.add((mid, "polarity"))
         appended += 1
-
-    for mid in to_downgrade:
-        for field, was in (("axis", current[mid]["axis"]), ("polarity", current[mid]["polarity"])):
-            if (mid, field) in existing_keys:
-                print(f"SKIP {mid}.{field}: corrections.json already has an entry for this id/field — resolve the conflict manually")
-                continue
-            corrections.append({
-                "id": mid,
-                "field": field,
-                "was": was,
-                "now": None,
-                "reason": "Round-5 gate item 3: levy-size row flagged DEGENERATE by the scraper-noise guard (Operating/Capital/Tax-Levy figures identical, no sign anywhere) — not mechanically sign-derivable, downgraded to unclear rather than guessed at.",
-                "quote": entries_by_id[mid]["quote"],
-            })
-            existing_keys.add((mid, field))
-            appended += 1
-
-    json.dump(corrections, open(CORRECTIONS_PATH, "w"), indent=2)
-    open(CORRECTIONS_PATH, "a").write("\n")
-    print(f"\nAppended {appended} correction row(s) to {CORRECTIONS_PATH}. Re-run without --apply to confirm zero mixed groups remain.")
+    json.dump(corrections, open(CORRECTIONS_PATH, "w"), indent=1)
+    print(f"\nAppended {appended} correction row(s) to {CORRECTIONS_PATH}.")
+    sys.exit(1 if (total_gap - len(tier1_mismatch)) else 0)
 
 
 if __name__ == "__main__":

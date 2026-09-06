@@ -793,7 +793,7 @@
   "verifierNote": "Confirmed vs raw text ('Item 9, clause 4.1, as amended, BE APPROVED', 13-2 PASSED, matches margin exactly): a wrapper ratifying every sub-decision above (roads, transit, cycling, sidewalks, Wonderland EA, ring road) in one vote -- correctly cannot be attributed to a single axis. unclear correct."
  },
  {
-  "id": "a72a219550ae",
+  "id": "6dd7c2a2b04d",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -806,7 +806,7 @@
   "verifierNote": "Confirmed vs raw text (Council, Bre-Ex Wellington St Rapid Transit Implementation contract award incl. irregular-result note re: an unrelated Downtown Loop Phase 3 budget line, PASSED 14-1): quote verbatim; dedicated BRT corridor construction. transit-service/expansive correct."
  },
  {
-  "id": "2b8601e1e24e",
+  "id": "c3e9daee4341",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",

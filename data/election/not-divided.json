@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T01:22:32.822Z",
+  "generatedAt": "2026-09-06T19:20:26.128Z",
   "note": "Motions dropped from the divided-vote universe because they aren't a genuine division, for one of two independently-checked reasons (see each motion's own 'reason' below): 'one-sided tally' means this motion's own recorded yeas or nays array is empty — derived straight from the vote arrays every run, regardless of what any classification pass flagged, so a lopsided result the source data's own 'unanimous' boolean doesn't cover (e.g. 0 yeas / 14 nays with one absence) is still caught. 'classify-flagged' means the classify pipeline's own verification pass flagged the motion 'not_divided' by hand — typically the exact same motion recorded twice under two different agenda item numbers, which would otherwise double-count one real decision; see verifierNote in data/election/classify/batch-*-verified.json for the specific reason. Never guessed at or silently kept.",
   "count": 14,
   "motions": [
@@ -85,7 +85,7 @@
         "yea": 0,
         "nay": 5
       },
-      "verifierNote": null
+      "verifierNote": "Read the classifier's quote and whatAYeaDid against the item title/result in the manifest; consistent with a referral, informational-ask/report-back, procedural notation, closed-session real-estate item, or by-law enactment with no tracked-issue keyword in the operative text. No unambiguous single-axis quote available to justify overturning to a direction."
     },
     {
       "id": "7f926f81741a",
@@ -113,7 +113,7 @@
         "yea": 0,
         "nay": 14
       },
-      "verifierNote": null
+      "verifierNote": "Confirmed. Read full text (2024-06-04 Council 8.2.15): this is specifically the 'part d) of the motion' sub-vote -- directs Civic Administration to report back on proposed Sound By-law amendments, hold a public participation meeting, and circulate to advisory committees. Pure report-back/informational verb, no decision on the underlying restriction; correctly null/unclear regardless of the 0-14 FAILED outcome. Quote verbatim."
     },
     {
       "id": "42873919d000",

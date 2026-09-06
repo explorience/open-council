@@ -1,0 +1,650 @@
+[
+  {
+    "id": "85da001d6114",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Scheduled an additional public participation meeting on the 2023-2027 Strategic Plan to be held at the February 7, 2023 SPPC meeting.",
+    "confidence": "high",
+    "quote": "That an additional Public Participation Meeting related to the development of 2023-2027 Strategic Plan, BE SCHEDULED to be held at the February 7, 2023 meeting of the Strategic Priorities and Policy Committee.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "29bf29480367",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-candidate vote to appoint a Council representative to the Lower Thames Valley Conservation Authority.",
+    "confidence": "high",
+    "quote": "Appointment to the Lower Thames Valley Conservation Authority",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "6e59f107d23d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-candidate vote to appoint a Council representative to the Upper Thames River Conservation Authority.",
+    "confidence": "high",
+    "quote": "Appointment to the Upper Thames River Conservation Authority",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "88b4e6a127b0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved adding the Zoological Association of America as a recognized accrediting body under the exotic-animal-establishment licensing by-law's regulations.",
+    "confidence": "high",
+    "quote": "Motion to approve a proposed amendment to By-law L.-131-16, under “Regulations” to add, “or the Zoological Association of America.”",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote and 3-2 vote verified verbatim against CPSC item 4.1 content[2]. A zoo-accreditation-body addition to an exotic-animal licensing by-law; correctly outside all 8 tracked issues."
+  },
+  {
+    "id": "b39b89d05fd5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-option majority-preference vote to select the draft Vision Statement wording for the 2023-2027 Strategic Plan.",
+    "confidence": "high",
+    "quote": "Consideration of Vision Statement",
+    "flags": [
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "636a555709b7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-option majority-preference vote to select the draft Mission Statement wording for the 2023-2027 Strategic Plan.",
+    "confidence": "high",
+    "quote": "Consideration of Mission Statement",
+    "flags": [
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "10b623a479c5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-option majority-preference vote to select a draft Values statement for the 2023-2027 Strategic Plan (no option reached a majority).",
+    "confidence": "high",
+    "quote": "Consideration of Draft Values",
+    "flags": [
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "b18809f5b9a9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-option majority-preference vote to select a draft Values statement for the 2023-2027 Strategic Plan.",
+    "confidence": "high",
+    "quote": "Consideration of Draft Values",
+    "flags": [
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "56f65383ca00",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a Council resolution letter on the Ecological Community Advisory Committee's reports and appointed Dr. E. Dusenge to that committee.",
+    "confidence": "high",
+    "quote": "the above noted resolution letter, BE RECEIVED; and, b) Dr. E. Dusenge BE APPOINTED to the Ecological Community Advisory Committee for the term ending February 2024.",
+    "flags": [
+      "appointment",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "72970ed2dbd2",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a standard-form purchase-of-service agreement template for contracting homeless-prevention and housing-stability services, and delegated routine signing authority to staff for within-budget agreements with service providers.",
+    "confidence": "medium",
+    "quote": "approve the Municipal Purchase of Service Agreement, as appended to the above-noted by-law, as the standard form of agreement with respect to the purchase of homeless prevention and housing stability services by The Corporation of the City of London",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote and 14-1 vote verified verbatim against Council item 8.1.10 -- standard-form agreement approval + signing-authority delegation, no funding/scale language. Correctly encampments/unclear."
+  },
+  {
+    "id": "a03c5b2162e3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the revised exotic-animal-establishment by-law amendments and related delegation requests to a future Community and Protective Services Committee meeting for a public participation meeting.",
+    "confidence": "high",
+    "quote": "the revised attached proposed by-laws, BE REFERRED to a future meeting of the Community and Protective Services Committee for a public participation meeting",
+    "flags": [
+      "referral",
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote and 6-9 vote verified verbatim against Council item 8.1.11. Pure referral (BE REFERRED), no approve/deny verb -- correctly none/unclear."
+  },
+  {
+    "id": "074853b55bd7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-option majority-preference vote to select a draft Value Set for the 2023-2027 Strategic Plan (no option reached a majority).",
+    "confidence": "high",
+    "quote": "Consideration of Draft Value Sets",
+    "flags": [
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "6f607d48d662",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-option majority-preference vote to select a draft Value Set for the 2023-2027 Strategic Plan.",
+    "confidence": "high",
+    "quote": "Consideration of Draft Value Sets",
+    "flags": [
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "2f08b328a2b0",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing the standard-form Housing Stability Services purchase-of-service agreement.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-8329-36 - A by-law to authorize and approve a standard form Municipal Purchase of Service Agreement, for Housing Stability Services between The Corporation of the City of London and various Service Providers.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the meeting's bills list (Bill No. 52). Correctly encampments/unclear (by-law reading of the same standard-form agreement)."
+  },
+  {
+    "id": "367355bbd5c7",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing the standard-form Housing Stability Services purchase-of-service agreement.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-8329-36 - A by-law to authorize and approve a standard form Municipal Purchase of Service Agreement, for Housing Stability Services between The Corporation of the City of London and various Service Providers.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill No. 52 second reading; quote verified verbatim."
+  },
+  {
+    "id": "69e5aac9aa25",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing the standard-form Housing Stability Services purchase-of-service agreement.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-8329-36 - A by-law to authorize and approve a standard form Municipal Purchase of Service Agreement, for Housing Stability Services between The Corporation of the City of London and various Service Providers.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill No. 52 third reading; quote verified verbatim."
+  },
+  {
+    "id": "d41af8bfc3fe",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to the by-law authorizing construction of the East London Link bus rapid transit project.",
+    "confidence": "high",
+    "quote": "By-law No. W.-5688-46 - A by-law to authorize the East London Link – Construction Rapid Transit.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED (c): quote was not verbatim. Meeting's bills list gives Bill No. 62 as 'By-law No. W.-5688-46 - A by-law to authorize the East London Link – Construction Rapid Transit.' -- no 'and approve' (that phrase does appear on the neighbouring Wellington Gateway by-laws, likely bled in from those). Corrected the quote to the verbatim bills-list text. Issue/axis/polarity stand: authorizing construction of the East London Link Bus Rapid Transit line is unambiguously transit-service/expansive; the 14-1 vote and Bill 62 identity confirmed against the item-13 motion list."
+  },
+  {
+    "id": "5f3723195a1a",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to the by-law authorizing construction of the East London Link bus rapid transit project.",
+    "confidence": "high",
+    "quote": "By-law No. W.-5688-46 - A by-law to authorize the East London Link – Construction Rapid Transit.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED (c): quote was not verbatim. Meeting's bills list gives Bill No. 62 as 'By-law No. W.-5688-46 - A by-law to authorize the East London Link – Construction Rapid Transit.' -- no 'and approve' (that phrase does appear on the neighbouring Wellington Gateway by-laws, likely bled in from those). Corrected the quote to the verbatim bills-list text. Issue/axis/polarity stand: authorizing construction of the East London Link Bus Rapid Transit line is unambiguously transit-service/expansive; the 14-1 vote and Bill 62 identity confirmed against the item-13 motion list."
+  },
+  {
+    "id": "5741a6b2f6e6",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing construction of the East London Link bus rapid transit project.",
+    "confidence": "high",
+    "quote": "By-law No. W.-5688-46 - A by-law to authorize the East London Link – Construction Rapid Transit.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED (c): quote was not verbatim. Meeting's bills list gives Bill No. 62 as 'By-law No. W.-5688-46 - A by-law to authorize the East London Link – Construction Rapid Transit.' -- no 'and approve' (that phrase does appear on the neighbouring Wellington Gateway by-laws, likely bled in from those). Corrected the quote to the verbatim bills-list text. Issue/axis/polarity stand: authorizing construction of the East London Link Bus Rapid Transit line is unambiguously transit-service/expansive; the 14-1 vote and Bill 62 identity confirmed against the item-13 motion list."
+  },
+  {
+    "id": "efbff6669b7b",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law rezoning the property at 489 Upper Queen Street.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-233088 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 489 Upper Queen Street.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote against the meeting's bills list (verbatim). This council reading's own operative text is only the by-law's title (address + 'rezone'), no density/height/use language. I pulled the originating PEC recommendation (from the January 2023 PEC meeting) for context and found it IS a density increase (R1-9 to R5-7/R8-4 Special Provision, up to 6 storeys) -- but that language lives in a different agenda item at a different meeting, not in this motion's own operative clause. Per the quote-in-body rule, direction must come from this motion's own text, so I left axis/polarity null rather than importing cross-meeting substance. Confirmed as correctly unclear, not a missed classification."
+  },
+  {
+    "id": "9ddd4cbfed13",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law rezoning the property at 489 Upper Queen Street.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-233088 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 489 Upper Queen Street.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote against the meeting's bills list (verbatim). This council reading's own operative text is only the by-law's title (address + 'rezone'), no density/height/use language. I pulled the originating PEC recommendation (from the January 2023 PEC meeting) for context and found it IS a density increase (R1-9 to R5-7/R8-4 Special Provision, up to 6 storeys) -- but that language lives in a different agenda item at a different meeting, not in this motion's own operative clause. Per the quote-in-body rule, direction must come from this motion's own text, so I left axis/polarity null rather than importing cross-meeting substance. Confirmed as correctly unclear, not a missed classification."
+  },
+  {
+    "id": "b26f5ab87f4d",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning the property at 489 Upper Queen Street.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-233088 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 489 Upper Queen Street.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote against the meeting's bills list (verbatim). This council reading's own operative text is only the by-law's title (address + 'rezone'), no density/height/use language. I pulled the originating PEC recommendation (from the January 2023 PEC meeting) for context and found it IS a density increase (R1-9 to R5-7/R8-4 Special Provision, up to 6 storeys) -- but that language lives in a different agenda item at a different meeting, not in this motion's own operative clause. Per the quote-in-body rule, direction must come from this motion's own text, so I left axis/polarity null rather than importing cross-meeting substance. Confirmed as correctly unclear, not a missed classification."
+  },
+  {
+    "id": "9d21053371f4",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law rezoning the property at 608 Commissioners Road West.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-233089 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 608 Commissioners Road West.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote against the meeting's bills list (verbatim). This council reading's own operative text is only the by-law's title (address + 'rezone'), no density/height/use language. I pulled the originating PEC recommendation (from the January 2023 PEC meeting) for context and found it IS a density increase (R1-9 to R5-7/R8-4 Special Provision, up to 6 storeys) -- but that language lives in a different agenda item at a different meeting, not in this motion's own operative clause. Per the quote-in-body rule, direction must come from this motion's own text, so I left axis/polarity null rather than importing cross-meeting substance. Confirmed as correctly unclear, not a missed classification."
+  },
+  {
+    "id": "d257a5390603",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law rezoning the property at 608 Commissioners Road West.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-233089 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 608 Commissioners Road West.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote against the meeting's bills list (verbatim). This council reading's own operative text is only the by-law's title (address + 'rezone'), no density/height/use language. I pulled the originating PEC recommendation (from the January 2023 PEC meeting) for context and found it IS a density increase (R1-9 to R5-7/R8-4 Special Provision, up to 6 storeys) -- but that language lives in a different agenda item at a different meeting, not in this motion's own operative clause. Per the quote-in-body rule, direction must come from this motion's own text, so I left axis/polarity null rather than importing cross-meeting substance. Confirmed as correctly unclear, not a missed classification."
+  },
+  {
+    "id": "efdbba8644fc",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning the property at 608 Commissioners Road West.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-233089 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 608 Commissioners Road West.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote against the meeting's bills list (verbatim). This council reading's own operative text is only the by-law's title (address + 'rezone'), no density/height/use language. I pulled the originating PEC recommendation (from the January 2023 PEC meeting) for context and found it IS a density increase (R1-9 to R5-7/R8-4 Special Provision, up to 6 storeys) -- but that language lives in a different agenda item at a different meeting, not in this motion's own operative clause. Per the quote-in-body rule, direction must come from this motion's own text, so I left axis/polarity null rather than importing cross-meeting substance. Confirmed as correctly unclear, not a missed classification."
+  },
+  {
+    "id": "0743179d71cf",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing purchase of the property at 249 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-8335-51 - A by-law to authorize and approve an Agreement of Purchase and Sale ... for the acquisition of the property located at 249 Wellington Road ... for the Wellington Gateway Project.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote verbatim against the meeting's bills list / closed-session report text. Operative text is a property acquisition ('for the Wellington Gateway Project' / 'for future road improvements') with no widen/new-lane/road-capacity language and no transit-service language -- correctly left unclear rather than inferring road-capacity or transit direction from the project name alone."
+  },
+  {
+    "id": "c9da2c86611f",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing purchase of the property at 249 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-8335-51 - A by-law to authorize and approve an Agreement of Purchase and Sale ... for the acquisition of the property located at 249 Wellington Road ... for the Wellington Gateway Project.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote verbatim against the meeting's bills list / closed-session report text. Operative text is a property acquisition ('for the Wellington Gateway Project' / 'for future road improvements') with no widen/new-lane/road-capacity language and no transit-service language -- correctly left unclear rather than inferring road-capacity or transit direction from the project name alone."
+  },
+  {
+    "id": "b6954f38183e",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing purchase of the property at 249 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-8335-51 - A by-law to authorize and approve an Agreement of Purchase and Sale ... for the acquisition of the property located at 249 Wellington Road ... for the Wellington Gateway Project.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote verbatim against the meeting's bills list / closed-session report text. Operative text is a property acquisition ('for the Wellington Gateway Project' / 'for future road improvements') with no widen/new-lane/road-capacity language and no transit-service language -- correctly left unclear rather than inferring road-capacity or transit direction from the project name alone."
+  },
+  {
+    "id": "0041143c96d8",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, without approving or funding, the staff business case to increase the police complement.",
+    "confidence": "high",
+    "quote": "That Business Case #11 Police Services: Increase Complement BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote and 13-1 vote verified verbatim against SPPC item 2.1 content[3] (Business Case #11 pulled out of the general Assessment Growth motion for separate vote). Pure receive, no funding decision -- correctly informational_ask/unclear."
+  },
+  {
+    "id": "0ddbfefc2109",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the draft 2023-2027 Strategic Plan to add a metric tracking the number of Londoners participating in public participation meetings.",
+    "confidence": "high",
+    "quote": "That the Strategic Area of Focus: Well-Run City, Expected Result 1.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric d) # of Londoners participating in public participation meetings (in person and online).",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "567894c6eb99",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-candidate vote to appoint a member to the Committee of Adjustment.",
+    "confidence": "high",
+    "quote": "Consideration of Appointment to the Committee of Adjustment",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "3410252a4665",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, for information only, the staff report on the results of the 2022 Bike Share Request for Proposal process, without directing any next steps.",
+    "confidence": "high",
+    "quote": "the above-noted staff report BE RECEIVED for information; it being noted that the results and learnings will be part of the development of the Mobility Master Plan",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote and 13-1 vote verified verbatim against Council item 8.1.5 content[1] (bike-share RFP receive-only, part a only). Correctly informational_ask/unclear."
+  },
+  {
+    "id": "69c606ddd5fc",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, without approving or funding, the staff business case to increase the police complement.",
+    "confidence": "high",
+    "quote": "That Business Case #11 Police Services: Increase Complement BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote and 13-1 vote verified verbatim against Council's 6th Report item (2.1), content[2] -- same Business Case #11 receive-only motion ratified at Council. Correctly unclear."
+  },
+  {
+    "id": "e969a41cc07b",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, in closed session, the purchase of the 21 Raywood Avenue property and its financing, for future road improvements to the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "for the purpose of future road improvements to accommodate the Wellington Gateway Project",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote verbatim against the meeting's bills list / closed-session report text. Operative text is a property acquisition ('for the Wellington Gateway Project' / 'for future road improvements') with no widen/new-lane/road-capacity language and no transit-service language -- correctly left unclear rather than inferring road-capacity or transit direction from the project name alone."
+  },
+  {
+    "id": "3c198ec23832",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing purchase of the property at 21 Raywood Avenue for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-8345-66 - A by-law to authorize and approve an Agreement of Purchase and Sale ... for the acquisition of the property located at 21 Raywood Avenue ... for the Wellington Gateway Project.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote verbatim against the meeting's bills list / closed-session report text. Operative text is a property acquisition ('for the Wellington Gateway Project' / 'for future road improvements') with no widen/new-lane/road-capacity language and no transit-service language -- correctly left unclear rather than inferring road-capacity or transit direction from the project name alone."
+  },
+  {
+    "id": "868e007d7f8a",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing purchase of the property at 21 Raywood Avenue for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-8345-66 - A by-law to authorize and approve an Agreement of Purchase and Sale ... for the acquisition of the property located at 21 Raywood Avenue ... for the Wellington Gateway Project.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote verbatim against the meeting's bills list / closed-session report text. Operative text is a property acquisition ('for the Wellington Gateway Project' / 'for future road improvements') with no widen/new-lane/road-capacity language and no transit-service language -- correctly left unclear rather than inferring road-capacity or transit direction from the project name alone."
+  },
+  {
+    "id": "428f2a83ba3e",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing purchase of the property at 21 Raywood Avenue for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-8345-66 - A by-law to authorize and approve an Agreement of Purchase and Sale ... for the acquisition of the property located at 21 Raywood Avenue ... for the Wellington Gateway Project.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote verbatim against the meeting's bills list / closed-session report text. Operative text is a property acquisition ('for the Wellington Gateway Project' / 'for future road improvements') with no widen/new-lane/road-capacity language and no transit-service language -- correctly left unclear rather than inferring road-capacity or transit direction from the project name alone."
+  },
+  {
+    "id": "1d1acc2f0c39",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-candidate vote to appoint a Council member to the London Police Services Board (no candidate reached a majority).",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the London Police Services Board.",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "b4922755536b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-candidate vote to appoint a Council member to the London Police Services Board.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the London Police Services Board.",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "3cdf4dbb98f8",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law rezoning the property at 614 Westmount Crescent.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-233096 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 614 Westmount Crescent.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote against the meeting's bills list (verbatim). This council reading's own operative text is only the by-law's title (address + 'rezone'), no density/height/use language. I pulled the originating PEC recommendation (from the January 2023 PEC meeting) for context and found it IS a density increase (R1-9 to R5-7/R8-4 Special Provision, up to 6 storeys) -- but that language lives in a different agenda item at a different meeting, not in this motion's own operative clause. Per the quote-in-body rule, direction must come from this motion's own text, so I left axis/polarity null rather than importing cross-meeting substance. Confirmed as correctly unclear, not a missed classification."
+  },
+  {
+    "id": "9648c231e356",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law rezoning the property at 614 Westmount Crescent.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-233096 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 614 Westmount Crescent.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote against the meeting's bills list (verbatim). This council reading's own operative text is only the by-law's title (address + 'rezone'), no density/height/use language. I pulled the originating PEC recommendation (from the January 2023 PEC meeting) for context and found it IS a density increase (R1-9 to R5-7/R8-4 Special Provision, up to 6 storeys) -- but that language lives in a different agenda item at a different meeting, not in this motion's own operative clause. Per the quote-in-body rule, direction must come from this motion's own text, so I left axis/polarity null rather than importing cross-meeting substance. Confirmed as correctly unclear, not a missed classification."
+  },
+  {
+    "id": "807700826b2f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning the property at 614 Westmount Crescent.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-233096 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 614 Westmount Crescent.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote against the meeting's bills list (verbatim). This council reading's own operative text is only the by-law's title (address + 'rezone'), no density/height/use language. I pulled the originating PEC recommendation (from the January 2023 PEC meeting) for context and found it IS a density increase (R1-9 to R5-7/R8-4 Special Provision, up to 6 storeys) -- but that language lives in a different agenda item at a different meeting, not in this motion's own operative clause. Per the quote-in-body rule, direction must come from this motion's own text, so I left axis/polarity null rather than importing cross-meeting substance. Confirmed as correctly unclear, not a missed classification."
+  },
+  {
+    "id": "84029487a951",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed Civic Administration to plan the draft 2024-2027 Multi-Year Budget around an average annual tax levy increase of approximately 2.9%-3.9%, plus an additional 0.5% for further investment.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% – 3.9% as identified to maintain existing service levels as well as additional investments of an additional 0.5% in funding for additional investment, for planning purposes",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Traced the full amendment ladder in the SPPC item: original part b) proposed a flat 4.9% max levy (amendment failed/no result), a rival amendment to part b) setting 2.9%-3.9%+0.5% passed 12-3, then 'the motion, as amended, BE APPROVED' passed 13-2 and reproduces clause b) verbatim matching the quote here. This is genuinely the final, amended, decided text -- not a wrapper masking a different verb. levy-size/expansive confirmed, high confidence."
+  },
+  {
+    "id": "46d317dfe83f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot in the multi-candidate vote ranking five shortlisted candidates for appointment to the London Police Services Board.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the London Police Services Board",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full motion text from the meeting JSON (or, for by-law readings, the council meeting's own item-13 motion plus the matching entry in the meeting's bills list); quote, result, and vote counts match the source verbatim; issue/no-direction call is correct."
+  },
+  {
+    "id": "367e2d2e2c97",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to bring forward financing and further financial analysis for the Budweiser Gardens expansion's Phase 1, and to forward both phases and the Ovations Food Services contract extension to the 2024-2027 Multi-Year Budget process, rather than deciding financing now.",
+    "confidence": "medium",
+    "quote": "Civic Administration BE DIRECTED to bring forward a confirmed source of financing and further financial analysis for Phase 1 and that both Phase 1 and 2 will be forwarded to the 2024-2027 Multi-Year Budget process",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote and 2-3 vote (Trosow/Ferreira yea; Morgan/Lewis/Stevenson nay) verified verbatim against the CSC item. This losing motion would have deferred Phase 1 financing to the future budget process instead of financing it now (the passed alternative, content[0], committed Phase-1 financing immediately via the Tourism Infrastructure Reserve Fund) -- correctly read as a deferral with no clean levy increase/decrease signal, left unclear rather than forced onto levy-size or business-case axes."
+  }
+]

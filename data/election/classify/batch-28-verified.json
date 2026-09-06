@@ -1,0 +1,582 @@
+[
+  {
+    "id": "5670ed1fca1f",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted first reading of the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+    "confidence": "high",
+    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject lands FROM a Holding Residential R9 Special Provision (h-5.h-11.h-17. R9-7(17).H50) TO a Holding Residential R9 Special Provision (h-.h-5.h-11.h-110. R9-7( ).H60 Zone to permit the development of two, 17 storey residential apartment buildings interconnected by a 6-storey podium with a total of 481 residential units, BE APPROVED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Traced Bill 422 (1st reading, item 13, 12-3) via item 8/PEC-18th-report/(3.5) 978 Gainsborough Rd (Relates to Bill No.'s 422 and 459) in the same meeting JSON. PEC recommendation clause b) verbatim matches the classified quote: R9 density up to 370 units/ha, 17 storeys, 481 units. Housing/density/expansive confirmed."
+  },
+  {
+    "id": "7b6c0d43eb52",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted second reading of the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+    "confidence": "high",
+    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject lands FROM a Holding Residential R9 Special Provision (h-5.h-11.h-17. R9-7(17).H50) TO a Holding Residential R9 Special Provision (h-.h-5.h-11.h-110. R9-7( ).H60 Zone to permit the development of two, 17 storey residential apartment buildings interconnected by a 6-storey podium with a total of 481 residential units, BE APPROVED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Gainsborough Rd Bill 422/459 substance as 1st reading (2nd reading, 12-3). Quote verbatim in PEC clause b). Confirmed."
+  },
+  {
+    "id": "d02511e5110a",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted third reading and final enactment of the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+    "confidence": "high",
+    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject lands FROM a Holding Residential R9 Special Provision (h-5.h-11.h-17. R9-7(17).H50) TO a Holding Residential R9 Special Provision (h-.h-5.h-11.h-110. R9-7( ).H60 Zone to permit the development of two, 17 storey residential apartment buildings interconnected by a 6-storey podium with a total of 481 residential units, BE APPROVED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Gainsborough Rd Bill 422/459 substance (3rd reading/enactment, 12-3). Quote verbatim. Confirmed."
+  },
+  {
+    "id": "2ccd40c14860",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to prepare a by-law amending the Streets By-law to regulate the display of graphic images on city streets, with a report back and public participation meeting by Q1 2024.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to prepare a by-law amending the Streets By-law (S-1) to regulate the display of graphic images in the City of London with a report back at a future meeting of the Community and Protective Services Committee and a public participation meeting on the proposed by-law amendment by the end of Q1 2024",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Full text is a report-back + public-participation-meeting directive on street-signage regulation; no tracked-issue keyword in substance. issue=none/unclear upheld -- no missed classification."
+  },
+  {
+    "id": "332acd01fa51",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Enacted first reading of by-laws authorizing service and grant agreements with the London Economic Development Corporation, London Community Small Business Centre, and TechAlliance of Southwestern Ontario.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.'s 5 to Bill No. 7, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "rollCallOrdinal 6 (via _all-motions.json) resolves this to Bill 5-7 (LEDC/Small Business Centre/TechAlliance grant agreements), correctly distinguished from Bill 15 despite an identical 14-1 tally in the same item. No tracked-issue keyword hit in body; issue=none upheld."
+  },
+  {
+    "id": "5e131eade2c5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Enacted second reading of by-laws authorizing service and grant agreements with the London Economic Development Corporation, London Community Small Business Centre, and TechAlliance of Southwestern Ontario.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.'s 5 to Bill No. 7, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 5-7 grant-agreement substance (2nd reading). issue=none upheld."
+  },
+  {
+    "id": "b82df9a301b6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Enacted third reading and enactment of by-laws authorizing service and grant agreements with the London Economic Development Corporation, London Community Small Business Centre, and TechAlliance of Southwestern Ontario.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.'s 5 to Bill No. 7, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 5-7 grant-agreement substance (3rd reading). issue=none upheld."
+  },
+  {
+    "id": "85d2cab1cedb",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted first reading of the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+    "confidence": "high",
+    "quote": "to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-9) Zone TO a Residential R3 Special Provision (R3-1(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "rollCallOrdinal 9 resolves this to Bill 15 (1st reading), not Bill 5-7. Bill 15 = 130 Southdale Rd West (3.3/1/PEC). PEC clause verbatim: R1(R1-9) -> R3-1(_) Special Provision. Housing/use-permission/expansive confirmed."
+  },
+  {
+    "id": "50534cbd6201",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted second reading of the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+    "confidence": "high",
+    "quote": "to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-9) Zone TO a Residential R3 Special Provision (R3-1(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "rollCallOrdinal 10 = Bill 15, 2nd reading. Same Southdale Rd substance, quote verbatim. Confirmed."
+  },
+  {
+    "id": "9f2a2b2b780d",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted third reading and enactment of the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+    "confidence": "high",
+    "quote": "to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-9) Zone TO a Residential R3 Special Provision (R3-1(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "rollCallOrdinal 11 = Bill 15, 3rd reading/enactment. Same Southdale Rd substance, quote verbatim. Confirmed."
+  },
+  {
+    "id": "d7a9b3a1e871",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received Councillor S. Stevenson's communication requesting indemnification for a judicial review, and took no further action on the request.",
+    "confidence": "high",
+    "quote": "That the communication dated January 10, 2024 from Councillor S. Stevenson with respect to Indemnification for a Judicial Review BE RECEIVED and NO FURTHER ACTION BE TAKEN.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Full text: communication RECEIVED, NO FURTHER ACTION TAKEN -- a pure non-decision. issue=none/unclear upheld."
+  },
+  {
+    "id": "4e42822605c7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received Councillor S. Stevenson's communication requesting indemnification for a judicial review, and took no further action on the request.",
+    "confidence": "high",
+    "quote": "That the communication dated January 10, 2024 from Councillor S. Stevenson with respect to Indemnification for a Judicial Review BE RECEIVED and NO FURTHER ACTION BE TAKEN.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same indemnification request at Council stage, same receive-and-no-action outcome. issue=none/unclear upheld."
+  },
+  {
+    "id": "3c0c215e08f5",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved property acquisition and settlement agreements (with financing) to acquire land at 1453/1455/1457 and 1459 Oxford Street East and 847 Highbury Avenue North for the East London Link rapid transit project.",
+    "confidence": "medium",
+    "quote": "for the purpose of future road improvements to accommodate the East London Link Project, the following actions be taken: a) the offer submitted by Paul-Marc Champagne (the Vendor), to sell the subject properties to the City, for the sum of $310,000.00 BE ACCEPTED... and b) the financing for this acquisition BE APPROVED",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Read closed-session clauses 2-4 (6th/2nd Report of Council in Closed Session): a real-estate settlement/financing approval for East London Link land. Left null is the safe call -- a settlement-price/terms vote does not cleanly encode a transit-policy position distinct from the Bill 40-42 enactment already captured elsewhere. Unclear upheld."
+  },
+  {
+    "id": "455572d4dc1f",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted first reading of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+    "confidence": "medium",
+    "quote": "A by-law to amend by-law No. W.-5689-65, entitled, \"A by-law to authorize Project RT1430-1B – Wellington Gateway – Land Rapid Transit.\"",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified via top-level bills registry: Bill 31 amends the Wellington Gateway rapid-transit authorization by-law to reallocate MTO ICIP funding INTO the project (item 2.1/3rd SPPC report, 9-6 passed, found in same meeting JSON); Bills 40-42 are East London Link property acquisitions. Quote verbatim in bills registry. Bundle correctly read expansive."
+  },
+  {
+    "id": "0ca9bd431129",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted second reading of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+    "confidence": "medium",
+    "quote": "A by-law to amend by-law No. W.-5689-65, entitled, \"A by-law to authorize Project RT1430-1B – Wellington Gateway – Land Rapid Transit.\"",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 31/40-42 bundle, 2nd reading. Confirmed."
+  },
+  {
+    "id": "4a001013fb34",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted third reading and enactment of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+    "confidence": "medium",
+    "quote": "A by-law to amend by-law No. W.-5689-65, entitled, \"A by-law to authorize Project RT1430-1B – Wellington Gateway – Land Rapid Transit.\"",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 31/40-42 bundle, 3rd reading/enactment. Confirmed."
+  },
+  {
+    "id": "5b0486a48ac5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved receiving the Municipal Compliance Annual Report (bylaw enforcement / short-term-accommodation and property-compliance statistics), without further action.",
+    "confidence": "high",
+    "quote": "Motion to approve that the staff report, dated January 29, 2024, with respect to the Municipal Compliance Annual Report, BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Full text: staff report RECEIVED, no further directive. issue=none/unclear upheld."
+  },
+  {
+    "id": "2e7c41c976d8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the amended motion receiving the Municipal Compliance Annual Report, noting the report doesn't preclude further inquiry into 2023 short-term-accommodation and property-compliance data.",
+    "confidence": "high",
+    "quote": "That the motion, as amended, BE APPROVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Amended motion also just receives the same report (noting further inquiry isn't precluded) -- no operative decision. issue=none/unclear upheld."
+  },
+  {
+    "id": "a0f367c870e6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved the Budget Committee into closed session to receive solicitor-client privileged legal advice.",
+    "confidence": "high",
+    "quote": "That Committee rise and go into Committee, In Closed Session, for the purpose of considering a matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose and directions and instructions to officers and employees or agents of the municipality.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Standard move-into-closed-session procedural motion, no substantive content. issue=none/unclear upheld."
+  },
+  {
+    "id": "eb943972c5e1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved the Budget Committee into closed session to consider a personal matter about identifiable municipal employees.",
+    "confidence": "high",
+    "quote": "That Committee rise and go into Committee, In Closed Session, for the purpose of considering a personal matter pertaining to identifiable individuals, including municipal employees, and communications necessary for that purpose.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Standard move-into-closed-session procedural motion (personal matter). issue=none/unclear upheld."
+  },
+  {
+    "id": "45113d40e3f0",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Authorized disbursing up to an additional $300,000 in municipal contribution funding, amending the Municipal Contribution Agreement, and allocating rent subsidies to support the transition of the 446 King Street supportive housing project to CMHA ownership.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE AUTHORIZED to disburse up to an additional $300,000 as municipal contribution to this housing project from the Service Manager Administrative Funding account, conditional on the Canadian Mental Health Association (“CMHA”) taking ownership of this property and entering into an agreement of assignment and assumption",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Full item 8.1.7 (2.6) text confirms $300,000 additional municipal contribution to 446 King St supportive-housing transition to CMHA. Quote verbatim and operative. Housing/affordable-funding/expansive confirmed."
+  },
+  {
+    "id": "b04942128565",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved single-source Housing Stability Services procurement contracts, one-time funding, and a $4.576-million contingency-reserve drawdown to fund homelessness support services, and authorized continued engagement with the Encampment Reference Table on an inclement-weather plan.",
+    "confidence": "high",
+    "quote": "a drawdown from the Operating Budget Contingency Reserve in the amount of up to $4,576,168 BE APPROVED to fund the costs of these procurements in excess of available budgets",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Full item 8.3.4 (2.2) text confirms $4,576,168 contingency-reserve drawdown plus single-source procurements funding Housing Stability Services. Quote verbatim. Encampments/response-scale/expansive confirmed."
+  },
+  {
+    "id": "3c03ee43916e",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted first reading of the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
+    "confidence": "medium",
+    "quote": "to change the zoning of the subject property FROM an Open Space Special Provision (OS4(2)) Zone TO a Holding Open Space Special Provision (h-18*OS4(_)) Zone... amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Traced Bill 71 to item 8/4/14 (3.9) 1310 Adelaide St N & 795 Windermere Rd. Base rezoning OS4(2)->h-18*OS4(_) plus a separately-voted 11-4 amendment permitting 3 commercial units incl. drive-through, both real operative clauses of the same decision, quoted verbatim. issue=housing per issue-rules.ts's structural OZ-#### code pattern (a planning-application code governs regardless of residential vs. commercial end use -- consistent with the corpus-wide rule, not a batch-specific choice). application-approval/expansive upheld."
+  },
+  {
+    "id": "744efd7c0adb",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted second reading of the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
+    "confidence": "medium",
+    "quote": "to change the zoning of the subject property FROM an Open Space Special Provision (OS4(2)) Zone TO a Holding Open Space Special Provision (h-18*OS4(_)) Zone... amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 71 / 1310 Adelaide substance, 2nd reading. Confirmed."
+  },
+  {
+    "id": "84c664eaed50",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted third reading and enactment of the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
+    "confidence": "medium",
+    "quote": "to change the zoning of the subject property FROM an Open Space Special Provision (OS4(2)) Zone TO a Holding Open Space Special Provision (h-18*OS4(_)) Zone... amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 71 / 1310 Adelaide substance, 3rd reading/enactment. Confirmed."
+  },
+  {
+    "id": "0213240f6059",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adjourned the Budget Committee meeting.",
+    "confidence": "high",
+    "quote": "That the meeting BE ADJOURNED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Bare adjournment motion. issue=none/unclear upheld."
+  },
+  {
+    "id": "a13dc1601e9b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved Council into closed session to receive solicitor-client privileged advice on provincial legislation and municipal procedures.",
+    "confidence": "high",
+    "quote": "That Council rise and go into Council, In Closed Session, for the purpose of considering the following: 4.4 Solicitor-Client Privileged Advice: A matter pertaining to advice that is subject to solicitor-client privilege... with respect to provincial legislation and municipal procedures.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Standard move-into-closed-session procedural motion (solicitor-client advice). issue=none/unclear upheld."
+  },
+  {
+    "id": "e0736e966afc",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Amended the 2024-2027 Multi-Year Budget to remove Business Case #P-5 (Fire Department Breathing Apparatus and Decontamination equipment), deferring its funding to the 2028-2031 budget cycle.",
+    "confidence": "high",
+    "quote": "the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-5 – Fire Department Breathing Apparatus and Breathing Apparatus Decontamination (Amended – funding deferred from 2024 to 2026), and that this Business Case BE REFERRED to the 2028-2031 MYB",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Full item text (8/2/4, wrapper motion) confirms the real operative clause removes Business Case #P-5 (Fire Dept breathing apparatus) from the 2024-2027 MYB and refers it to 2028-2031 MYB -- a genuine funding removal from this budget cycle, not a wrapper artifact. Budget/business-case/restrictive confirmed."
+  },
+  {
+    "id": "f1d171075098",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Noted, for the record, that the Budget Committee had considered (and failed to pass) amendments reducing Business Case #P-29 (Police Vehicle and Equipment Requirements) funding.",
+    "confidence": "low",
+    "quote": "That it BE NOTED that the Budget Committee considered an amendment to the Mayor’s Multi-Year 2024-2027 Budget related to Business Case #P-29.",
+    "flags": [
+      "informational_ask",
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Read all 4 motions under (3.8) Business Case #P-29: both actual funding-reduction amendments FAILED 7-8; this id is the separate 'BE NOTED' record motion (14-1) which decides nothing. Correctly left null -- no substantive vote to attach."
+  },
+  {
+    "id": "010b0e883c8a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Enacted first reading of the meeting's confirming by-law (the standard catch-all by-law ratifying the council's procedural motions from this meeting).",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 73, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Standard confirming by-law, 1st reading. issue=none/unclear upheld."
+  },
+  {
+    "id": "e614ed8c3fb7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Enacted second reading of the meeting's confirming by-law (the standard catch-all by-law ratifying the council's procedural motions from this meeting).",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 73, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Standard confirming by-law, 2nd reading. issue=none/unclear upheld."
+  },
+  {
+    "id": "771e2a97e970",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Enacted third reading and enactment of the meeting's confirming by-law (the standard catch-all by-law ratifying the council's procedural motions from this meeting).",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 73, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Standard confirming by-law, 3rd reading/enactment. issue=none/unclear upheld."
+  },
+  {
+    "id": "bc2ddde4c7ab",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to add a line item to the 2024 property tax bill and pamphlet identifying the impact of provincial legislative changes from the 2024-2027 Multi-Year Budget, and received the related staff report for information.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to include an individual line item on the 2024 City of London final property tax billing and their accompanying property tax pamphlet identifying the impact of legislative changes set out in the 2024-2027 Multi-Year Budget",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Full item 8.3.4 (2.3) text: directs a tax-bill line-item disclosure and receives a report for information -- a transparency/communication directive, not a levy or spending decision. Unclear upheld."
+  },
+  {
+    "id": "5e861d2e09d1",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a settlement agreement and financing to acquire property rights at 850-870 Wellington Road needed for the Wellington Gateway rapid transit project.",
+    "confidence": "low",
+    "quote": "for the purpose of future road improvements to accommodate the Wellington Gateway Project, the following actions be taken: a) the Settlement Agreement from Claurah Holdings Limited to settle the outstanding expropriation compensation to the property owner for the total sum of $13,000.00 BE ACCEPTED... and b) the financing for this acquisition BE APPROVED",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Read closed-session clause 2 (6th Report of Council in Closed Session): a $13,000 expropriation-compensation settlement for Wellington Gateway land. Same reasoning as 3c0c215e08f5 -- a settlement-price vote isn't a clean transit-policy signal. Unclear upheld."
+  },
+  {
+    "id": "99f62ff1e9ab",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, for information only, the staff report on 2024 Tax Policy Expectations (the companion directive to add a tax-bill line item failed separately on reconsideration).",
+    "confidence": "high",
+    "quote": "on the recommendation of the Deputy City Manager, Finance Supports, the staff report dated February 26, 2024 BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Traced to Emergent Motions item 12, motion 2 (14-1): 'staff report ... BE RECEIVED for information' -- the companion line-item directive (motion 1) failed 7-8 separately and isn't this id. Pure information receipt. Unclear upheld."
+  },
+  {
+    "id": "40e608ffef7c",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted first reading of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+    "confidence": "high",
+    "quote": "A by-law to amend by-law No. W.-5683-100 entitled, “A by-law to authorize the East London Link – Construction Rapid Transit (Project RT1430-3A)” ... A by-law to authorize project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Bills 89/90/95 (bills registry) = East London Link construction-authorization amendment, new Wellington Gateway South construction authorization, and a related property settlement. Cross-checked against the underlying $28.5M and $18.3M construction contract awards (Bre-Ex Construction, 2024-01-30 CWC meeting) confirming real construction advancement, not a funding cut. Transit-service/expansive confirmed."
+  },
+  {
+    "id": "1678aab07f0f",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted second reading of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+    "confidence": "high",
+    "quote": "A by-law to amend by-law No. W.-5683-100 entitled, “A by-law to authorize the East London Link – Construction Rapid Transit (Project RT1430-3A)” ... A by-law to authorize project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 89/90/95 bundle, 2nd reading. Confirmed."
+  },
+  {
+    "id": "f6df9b75ee64",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted third reading and enactment of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+    "confidence": "high",
+    "quote": "A by-law to amend by-law No. W.-5683-100 entitled, “A by-law to authorize the East London Link – Construction Rapid Transit (Project RT1430-3A)” ... A by-law to authorize project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 89/90/95 bundle, 3rd reading/enactment. Confirmed."
+  },
+  {
+    "id": "179f7140e6d6",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted first reading of the by-law authorizing the City's purchase of the former Fairmont Public School property at 1040 Hamilton Road for future housing and parkland use.",
+    "confidence": "high",
+    "quote": "A by-law to authorize and approve an Agreement of Purchase and Sale... for the acquisition of property located at 1040 Hamilton Road, in the City of London, for future housing and parkland",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Bill 96 (bills registry) verbatim matches quote: Agreement of Purchase and Sale for 1040 Hamilton Rd 'for future housing and parkland.' Cross-checked against the $5,960,000 closed-session acquisition clause (6th Report of Council in Closed Session, clause 1, 14-0). Housing/application-approval/expansive confirmed."
+  },
+  {
+    "id": "05a34dfdd9d4",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Enacted second reading of the by-law authorizing the City's purchase of the former Fairmont Public School property at 1040 Hamilton Road for future housing and parkland use.",
+    "confidence": "high",
+    "quote": "A by-law to authorize and approve an Agreement of Purchase and Sale... for the acquisition of property located at 1040 Hamilton Road, in the City of London, for future housing and parkland",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 96 / 1040 Hamilton Rd substance, 2nd reading. Confirmed."
+  },
+  {
+    "id": "1ef0288f1ddc",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, for information only, the 2024 Assessment Growth Funding Allocation staff report.",
+    "confidence": "high",
+    "quote": "the 2024 Assessment Growth Funding Allocation report BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Full text: report RECEIVED for information only, no operative decision. issue=none/unclear upheld (budget keyword hit is title-only)."
+  },
+  {
+    "id": "3999deed0c8a",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Mobility Master Plan 2050 mode-share target report to a future meeting (pending the Land Needs Assessment Study) for further study on servicing capacity, intensification policy, area-specific mode-split targets, and public focus-group input, rather than setting a target now.",
+    "confidence": "high",
+    "quote": "That the Mobility Master Plan 2050 Mode Share Target report BE RECEIVED and REFERRED to a future meeting of the Strategic Priorities and Policy Committee at the time the Land Needs Assessment Study is complete and report back on the following",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Full text confirms a pure referral (report BE RECEIVED and REFERRED to a future meeting pending the Land Needs Assessment Study) with no approve/deny verb of its own -- deferral shape per direction-rules.ts applies regardless of the 5-10 FAILED result. Unclear upheld."
+  },
+  {
+    "id": "e006bc38bdbe",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to bring forward a by-law granting Rock the Park a one-time exemption to use Harris Park for five consecutive days in July 2024.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to bring forward a by-law to amend CPOL.-142-394, being “Special Events Policies and Procedures Manual” to the April 2, 2024 meeting of Municipal Council should approval be given for a one-time policy exemption for the use of Harris Park for 5 consecutive days",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Directs a by-law be brought forward for a one-time Harris Park event exemption; no tracked-issue keyword in substance. issue=none upheld."
+  },
+  {
+    "id": "de577436422a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Enacted first reading of by-laws amending the business-licensing penalty schedule, fee schedule, and licensing regulation for Consumer Fireworks Sales businesses.",
+    "confidence": "high",
+    "quote": "A by-law to amend By-law No. A-54... to provide for an amended Penalty Schedule... for the categories of Consumer Fireworks Sales Business. / A by-law to amend By-law A-59... to add Consumer Fireworks Sales Business Licence Fees. / A by-law to amend By-law No. L.-131-16... Licensing and Regulation of Various Businesses",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Fireworks-sales business-licensing fee/penalty amendments, 1st reading; no tracked-issue keyword. issue=none upheld."
+  },
+  {
+    "id": "92b8ee648005",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Enacted second reading of by-laws amending the business-licensing penalty schedule, fee schedule, and licensing regulation for Consumer Fireworks Sales businesses.",
+    "confidence": "high",
+    "quote": "A by-law to amend By-law No. A-54... to provide for an amended Penalty Schedule... for the categories of Consumer Fireworks Sales Business. / A by-law to amend By-law A-59... to add Consumer Fireworks Sales Business Licence Fees. / A by-law to amend By-law No. L.-131-16... Licensing and Regulation of Various Businesses",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same fireworks-licensing substance, 2nd reading. issue=none upheld."
+  }
+]

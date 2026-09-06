@@ -1,0 +1,82 @@
+[
+  {
+    "id": "0f3f61ff19fd",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs).",
+    "confidence": "low",
+    "quote": "That Second Reading of Revised Bill No. 285 BE APPROVED.",
+    "flags": ["wrapper_preamble"]
+  },
+  {
+    "id": "5fa34f95e37f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs).",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Revised Bill No. 285 BE APPROVED.",
+    "flags": ["wrapper_preamble"]
+  },
+  {
+    "id": "86a0b633e388",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No.’s 273 and 289 BE APPROVED.",
+    "flags": ["wrapper_preamble"]
+  },
+  {
+    "id": "7e9919ada1e1",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No.’s 273 and 289 BE APPROVED.",
+    "flags": ["wrapper_preamble"]
+  },
+  {
+    "id": "c1f861b7ba8d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No.’s 273 and 289 APPROVED.",
+    "flags": ["wrapper_preamble"]
+  },
+  {
+    "id": "108315b793a5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law authorizing a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 297 BE APPROVED.",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "065b27df899a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law authorizing a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 297 BE APPROVED.",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "752180e500c8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law authorizing and approving a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street, and authorizing the Mayor and City Clerk to execute the Agreement.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 297 APPROVED.",
+    "flags": ["procedural"]
+  }
+]

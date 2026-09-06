@@ -1,0 +1,522 @@
+[
+  {
+    "id": "83283be2a1ca",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported amending the Automated Enforcement Program report to direct Civic Administration to investigate and implement additional Red Light Camera locations beyond the previously approved contract expansion.",
+    "confidence": "medium",
+    "quote": "that Civic Administration BE DIRECTED to investigate and implement additional Red Light Camera locations as may be feasible.",
+    "flags": []
+  },
+  {
+    "id": "2dff8f547da2",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported holding a Public Participation Meeting on the Core Area Land and Building Vacancy Reduction Strategy before multi-year budget deliberations began.",
+    "confidence": "medium",
+    "quote": "the SPPC hold a Public Participation Meeting to consider the matters in this report and other feedback, and that the meeting be scheduled prior to the commencement of the multi-year budget deliberations",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "1ea7cecafce8",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported implementing the Core Area Land and Building Vacancy Reduction Strategy's near-term initiatives within existing budgets and directing future business cases for the strategy through the Multi-Year Budget process.",
+    "confidence": "high",
+    "quote": "the strategic initiatives identified in this Strategy that can be addressed through existing budgets BE IMPLEMENTED",
+    "flags": []
+  },
+  {
+    "id": "714b9ae9db70",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported directing Civic Administration to prepare a business case for the Coves Silver Creek Restoration Project for consideration during Multi-Year Budget deliberations.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to prepare business cases for the following for consideration during the Multi-Year Budget deliberations: a) New Funding, Existing Strategies related to: i) Coves Silver Creek Restoration Project;",
+    "flags": []
+  },
+  {
+    "id": "bea3acfae330",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No.'s 170 and 171 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "c7b0c16a7a8b",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the second reading of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No.'s 170 and 171 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "b54ccad9eaae",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the third reading and enactment of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No.'s 170 and 171 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "2f4069f4769d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported opening the public participation meeting on the Blackfriars Bridge long-term use study.",
+    "confidence": "high",
+    "quote": "Motion to open the public participation meeting.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "bf77fa903694",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported continuing the current Blackfriars Bridge configuration (Option 1) and submitting that recommendation to the Ontario Ministry of Environment, Conservation and Parks.",
+    "confidence": "medium",
+    "quote": "the Option 1 – to continue with the current bridge configuration – as outlined in the staff report dated June 13, 2023 BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "9b8b600d2a9d",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported receiving the June Progress Update on the Health and Homelessness Whole of Community System Response for information.",
+    "confidence": "high",
+    "quote": "the June Progress Update – Health & Homelessness Whole of Community System Response report BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "3aac3896e9ae",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported receiving the Core Area Action Plan 2022 Review staff report and its appendices.",
+    "confidence": "high",
+    "quote": "the staff report dated June 20, 2023 entitled “Core Area Action Plan 2022 Review”, including its appendices, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "5eea3bb28c26",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "indicated a preferred candidate in the first-round secret ballot to fill a vacant seat on the London Police Services Board.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the London Police Services Board",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "8b866a77cb41",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "indicated a preferred candidate in a run-off secret ballot to fill a vacant seat on the London Police Services Board.",
+    "confidence": "high",
+    "quote": "Consideration of Selection to the London Police Services Board - run off (round 2)",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "5acf5aa1fd07",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "indicated a preferred candidate in the final run-off ballot that selected Ryan Gauss to fill a vacant seat on the London Police Services Board.",
+    "confidence": "high",
+    "quote": "Consideration of Selection to the London Police Services Board - run off (round 2)",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "500affe35a0d",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported receiving the June Progress Update on the Health and Homelessness Whole of Community System Response for information.",
+    "confidence": "high",
+    "quote": "the June Progress Update – Health & Homelessness Whole of Community System Response report BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "057b13bfa3ad",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported approving one-time funding of $100,000 for the Holly Jolly Market/Downtown for the Holidays events and $50,000 for 2023 Core Area seasonal events and activations from the Operating Budget Contingency Reserve.",
+    "confidence": "high",
+    "quote": "one-time funding of $100,000 in support of the Holly Jolly Market and Downtown for the Holidays events BE APPROVED from the Operating Budget Contingency Reserve",
+    "flags": []
+  },
+  {
+    "id": "07c94a9e0926",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported receiving the heritage designation staff report on 599-601 Richmond Street for information, notwithstanding the Director's recommendation, rather than proceeding with designation.",
+    "confidence": "high",
+    "quote": "the staff report dated June 19, 2023 entitled \"Designation of the Property at 599-601 Richmond street pursuant to Part IV, Ontario Heritage Act, Ward 13\" BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "8785b8bbd0b1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported permitting a councillor to speak a second time on the heritage designation matter, notwithstanding the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "notwithstanding the Council Procedure By-law, Councillor A. Hopkins BE PERMITTED to speak twice with respect to this matter.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "903db8a9f294",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+    "confidence": "medium",
+    "quote": "A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 1803299 Ontario Inc., for the partial acquisition of the property located at 1080 Dundas Street, in the City of London, for the East London Link Project",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "31cc7ec7eb1d",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the second reading of the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+    "confidence": "medium",
+    "quote": "A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 1803299 Ontario Inc., for the partial acquisition of the property located at 1080 Dundas Street, in the City of London, for the East London Link Project",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "1ee80ec54cf8",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the third reading and enactment of the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+    "confidence": "medium",
+    "quote": "A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 1803299 Ontario Inc., for the partial acquisition of the property located at 1080 Dundas Street, in the City of London, for the East London Link Project",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "a741d619a286",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported approving the Residential R1 (R1-13(7)) zoning special provision as part of rezoning land at 146 Exeter Road from Urban Reserve/Light Industrial to a residential subdivision.",
+    "confidence": "medium",
+    "quote": "TO a Holding Residential R1 Special Provision R1 (h*h-100*R1-13(7))",
+    "flags": []
+  },
+  {
+    "id": "ad8a2825ba8c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote among candidates for appointment to the Community Advisory Committee on Planning.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Community Advisory Committee on Planning.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "f6bb6126b29b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a run-off selection-ballot vote among candidates for appointment to a London Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Second selection round - Community Advisory Committee on Planning",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "c3f1d892cca2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a run-off selection-ballot vote among candidates for appointment to a London Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Second selection round - Community Advisory Committee on Planning",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "7490fc469b71",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that appointed members to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "39be0f486ab8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that appointed members to the Environmental Stewardship and Action Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "f6cf3b2c1950",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a run-off selection-ballot vote among candidates for appointment to a London Community Advisory Committee (Integrated Transportation).",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "0f57a9c1dcf4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a run-off selection-ballot vote among candidates for appointment to a London Community Advisory Committee (Integrated Transportation).",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "6ce2d2e19b9b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported convening the Civic Works Committee in closed session for solicitor-client-privileged advice related to the Yard and Lot Maintenance By-law.",
+    "confidence": "high",
+    "quote": "Motion to approve that the Civic Works Committee convene, In Closed Session, for the purpose of considering a matter related to advice that is subject to solicitor-client privilege, as it related to the Yard and Lot Maintenance By-law.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "eaa34dea7cd4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that selected Bryan McClure for appointment to the Eldon House Board of Directors.",
+    "confidence": "high",
+    "quote": "Consideration of Appointment to the Eldon House Board of Directors.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "26dc0eb131a4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that selected Tim Watson and Cedric Gomes for appointment to the London Hydro Board of Directors.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the London Hydro Board of Directors.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "e5d6a3c86d53",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported approving two delegations to be heard on the Health and Homelessness Whole of Community System Response Hubs Implementation Plan.",
+    "confidence": "high",
+    "quote": "That the following delegations BE APPROVED to be heard at this time: - M. Wallace, London Development Institute; - J. Herb",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "cb38db322931",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported referring the Whole of Community System Response Hubs Implementation Plan to a future special meeting that would include a public participation meeting, rather than deciding it that day.",
+    "confidence": "high",
+    "quote": "That consideration of the matter of London's Health and Homelessness Whole of Community System Response BE REFERRED to a future special meeting of the Strategic Priorities and Policy Committee which would include a public participation meeting.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "3fc89c1dc5b9",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported directing Civic Administration to secure financing for the first five Whole of Community System Response Hubs and to defer Community Improvement Plan loan repayments for participants who request it.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to secure sources of financing to support the implementation of the first five Hubs including a request through the London Community Foundation for access to the Health and Homelessness Fund for Change",
+    "flags": []
+  },
+  {
+    "id": "ebe3c019a35d",
+    "issue": "encampments",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported accepting a $125,000 RFP contract with Sagecomm and authorizing related administrative actions for the Whole of Community System Response project.",
+    "confidence": "medium",
+    "quote": "the Request for Proposal (RFP-2023-174) submitted by 2190876 Ontario Inc. - Sagecomm www.sagecomm.com 117 York St, London ON N6A 1A8, at the cost of $125,000, plus H.S.T. BE ACCEPTED",
+    "flags": []
+  },
+  {
+    "id": "b03f8efffed3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported adjourning Council sitting as the Approving Authority for the East London Link expropriation and reconvening Municipal Council in regular session.",
+    "confidence": "high",
+    "quote": "That the meeting of the Approving Authority be adjourned and that the Municipal Council reconvene in regular session.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b42d3da58b04",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that selected members for appointment to the Community Advisory Committee on Planning.",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "c25ff33ef839",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that selected members for appointment to the Integrated Transportation Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "91bfab0188be",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported introducing by-laws amending 49 separate Council administrative and governance policies as part of the 2023 Council Policy Manual Review.",
+    "confidence": "high",
+    "quote": "the attached proposed by-laws (Appendices C1 to C49) BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to make the specified amendments to the following Council Policies",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "987455c16b8f",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported directing Civic Administration to secure financing for the first five Whole of Community System Response Hubs and to defer Community Improvement Plan loan repayments for participants who request it.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to secure sources of financing to support the implementation of the first five Hubs including a request through the London Community Foundation for access to the Health and Homelessness Fund for Change",
+    "flags": []
+  },
+  {
+    "id": "766b1f44d40c",
+    "issue": "encampments",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported accepting a $125,000 RFP contract with Sagecomm and authorizing related administrative actions for the Whole of Community System Response project.",
+    "confidence": "medium",
+    "quote": "the Request for Proposal (RFP-2023-174) submitted by 2190876 Ontario Inc. - Sagecomm www.sagecomm.com 117 York St, London ON N6A 1A8, at the cost of $125,000, plus H.S.T. BE ACCEPTED",
+    "flags": []
+  },
+  {
+    "id": "522fd6b0b246",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street for redevelopment and directing staff to work with the applicant toward affordable housing units in the project.",
+    "confidence": "medium",
+    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to amend Zoning By-law No. Z.-1, ... to change the zoning of the subject lands FROM a Business District Commercial Special Provision Bonus Zone (BDC(1)*B-87) Zone TO a Business District Commercial Special Provision (BDC(_)) Zone",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "fe35f8c16d61",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the second reading of the by-law to rezone 599-601 Richmond Street for redevelopment and directing staff to work with the applicant toward affordable housing units in the project.",
+    "confidence": "medium",
+    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to amend Zoning By-law No. Z.-1, ... to change the zoning of the subject lands FROM a Business District Commercial Special Provision Bonus Zone (BDC(1)*B-87) Zone TO a Business District Commercial Special Provision (BDC(_)) Zone",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "ce54fd004fcc",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the third reading and enactment of the by-law to rezone 599-601 Richmond Street for redevelopment and directing staff to work with the applicant toward affordable housing units in the project.",
+    "confidence": "medium",
+    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to amend Zoning By-law No. Z.-1, ... to change the zoning of the subject lands FROM a Business District Commercial Special Provision Bonus Zone (BDC(1)*B-87) Zone TO a Business District Commercial Special Provision (BDC(_)) Zone",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  }
+]

@@ -60,6 +60,10 @@ const CLASSIFY_DIR = path.join(REPO_ROOT, "data/election/classify");
 const OUT_DIR = path.join(REPO_ROOT, "data/election");
 const REGEX_VS_LLM_PATH = path.join(CLASSIFY_DIR, "regex-vs-llm.json");
 const CORRECTIONS_PATH = path.join(CLASSIFY_DIR, "corrections.json");
+const RECONSIDERED_PAIRS_PATH = path.join(
+  CLASSIFY_DIR,
+  "reconsidered-pairs.json",
+);
 
 type VoteKind = "yea" | "nay" | "recuse" | "absent" | "abstain" | "other";
 
@@ -203,9 +207,38 @@ interface Correction {
   /** Final gate item 3: "motionText" corrects data/votes/_all-motions.json's
    * OWN extraction, not a classify-layer field. See RawMotion.motionText's
    * doc comment and applyMotionTextCorrections below for why this is a
-   * distinct correction target from the other four (which all patch a
-   * VerifiedEntry, keyed the same way but a structurally different map). */
-  field: "axis" | "polarity" | "whatAYeaDid" | "decisionKey" | "motionText";
+   * distinct correction target from the other fields (which all patch a
+   * VerifiedEntry, keyed the same way but a structurally different map).
+   *
+   * Round-2 gate item 0 (channel extension): added "issue" and "quote" to
+   * the five pre-existing targets (axis/polarity/whatAYeaDid/decisionKey/
+   * motionText), same additive semantics — a corrections.json row patches
+   * one field of one VerifiedEntry, staleness-checked against `was`, never
+   * touching batch-*-verified.json itself. "issue" overrides
+   * VerifiedEntry.issue (the IssueId/"none" a motion is filed under —
+   * consumed at entry.issue's every read site: directionFromVerified's
+   * llmDirectionBearing/llmIssue checks, the classified-motion push, and
+   * every issue-page/ladder aggregation keyed off it, since all of them
+   * read entry.issue AFTER this correction layer runs). "quote" overrides
+   * VerifiedEntry.quote, the verbatim source-text extract the classify
+   * pipeline stored as its own evidence — consumed by
+   * verify-quote-verbatim.py's corpus-wide verbatim check (which loads this
+   * same corrections.json to check the POST-correction quote, not the raw
+   * batch one) and by the historical quote-driven sweeps/rekey tools in
+   * this directory (sweep-business-case-levy.py, sweep-levy-sign-
+   * consistency.py, sweep-advocacy-class.py, rekey-classify-ids.py), which
+   * all key off a verified entry's `quote` field to relocate or match
+   * against full source text; a stale/garbled quote breaks that lookup the
+   * same way a stale/garbled whatAYeaDid breaks a rendered page, so it gets
+   * the same corrections-layer treatment. */
+  field:
+    | "issue"
+    | "axis"
+    | "polarity"
+    | "whatAYeaDid"
+    | "decisionKey"
+    | "motionText"
+    | "quote";
   was: string | null;
   now: string | null;
   reason: string;
@@ -233,6 +266,56 @@ function loadCorrections(): Correction[] {
   if (!fs.existsSync(CORRECTIONS_PATH)) return [];
   return JSON.parse(fs.readFileSync(CORRECTIONS_PATH, "utf-8"));
 }
+
+/** Round-5 gate item A/B (reconsidered-pair ladder handling): a s.13.6 (or
+ * committee s.35.x) reconsideration followed by a same-text re-vote is NOT
+ * the "amendment ladder" ambiguity groupIntoDecisions' multi-direction
+ * exclusion exists for (see the ladderExclusions doc comment below) — it is
+ * ONE decision, made twice, where the SECOND roll call is the one that
+ * actually stands (the first is procedurally superseded/void the moment
+ * the reconsideration carries). When a councillor's vote differs between
+ * the two (a "flipped voter" — e.g. the very correction the reconsideration
+ * was called for), the old undifferentiated rule excluded BOTH rows from
+ * every tally, silently erasing that councillor's real, current, often
+ * legally-operative position (2025-10-14 Council item 8.3.7,
+ * f44508b9efa6/bcdc340f73a8: Trosow's corrected Yea on a motion that PASSED
+ * 14-1 was vanishing from encampments/response-scale entirely). This
+ * registry (built by scripts/election/sweep-reconsidered-pairs.py's
+ * from-source enumeration, hand-reviewed) names every published
+ * same-text re-vote pair found in the 2023+ corpus; loadReconsideredPairs
+ * turns it into supersededId -> finalId. See the groupIntoDecisions call
+ * site below for how a pair changes the ladder rule: the superseded row is
+ * excluded (and honestly labeled as superseded, never silently dropped),
+ * but the final row is NOT — it counts in the tally like any other
+ * consistent vote, whether or not it agrees with the councillor's own
+ * earlier, now-void vote. */
+interface ReconsideredPair {
+  supersededId: string;
+  finalId: string;
+  meetingSlug: string;
+  itemNumber: string;
+  reason: string;
+  quote: string;
+}
+
+function loadReconsideredPairs(): Map<string, string> {
+  const map = new Map<string, string>();
+  if (!fs.existsSync(RECONSIDERED_PAIRS_PATH)) return map;
+  const rows: ReconsideredPair[] = JSON.parse(
+    fs.readFileSync(RECONSIDERED_PAIRS_PATH, "utf-8"),
+  );
+  for (const r of rows) {
+    if (map.has(r.supersededId)) {
+      throw new Error(
+        `reconsidered-pairs.json: duplicate supersededId ${r.supersededId}`,
+      );
+    }
+    map.set(r.supersededId, r.finalId);
+  }
+  return map;
+}
+
+const RECONSIDERED_SUPERSEDED_TO_FINAL = loadReconsideredPairs();
 
 /** Final gate item 3: data/votes/_all-motions.json's motion extraction
  * (scripts/generate-votes.ts's extractMotionText) reads only the
@@ -309,7 +392,39 @@ function applyCorrections(
     // (VerifiedEntry.polarity is "expansive" | "restrictive" | null, not any
     // string) instead of widening it to `string | null` at the indexed-write
     // site.
-    if (c.field === "axis") {
+    if (c.field === "issue") {
+      // Round-2 gate item 0/item 2: an "issue" correction re-files a motion
+      // (e.g. a rezoning wrongly filed under "housing" by issue-rules.ts's
+      // structural OZ-#### code pattern when its actual content is a
+      // commercial/drive-through infill with no housing content) — "none"
+      // is the valid literal for "no issue applies", same as a fresh
+      // classify entry's own issue field (see VerifiedEntry.issue), so it's
+      // accepted here alongside every real IssueId without a separate
+      // "was it none" branch.
+      if (typeof c.now !== "string" || c.now.length === 0) {
+        throw new Error(
+          `corrections.json: ${c.id}.issue 'now' must be a non-empty string (an IssueId or "none") — got ${JSON.stringify(c.now)}`,
+        );
+      }
+      if (c.now !== "none" && !ISSUE_ORDER.includes(c.now as IssueId)) {
+        throw new Error(
+          `corrections.json: ${c.id}.issue 'now' must be "none" or one of ${JSON.stringify(ISSUE_ORDER)} — got ${JSON.stringify(c.now)}`,
+        );
+      }
+      entry.issue = c.now as IssueId | "none";
+    } else if (c.field === "quote") {
+      // Round-2 gate item 0/item 5: a "quote" correction fixes a
+      // transcription slip in the classify layer's own stored verbatim
+      // extract (e.g. a spurious duplicated "Reading" not present in the
+      // source) — never legitimately empty, since the field exists
+      // precisely to hold a non-empty verbatim source excerpt.
+      if (typeof c.now !== "string" || c.now.length === 0) {
+        throw new Error(
+          `corrections.json: ${c.id}.quote 'now' must be a non-empty string — got ${JSON.stringify(c.now)}`,
+        );
+      }
+      entry.quote = c.now;
+    } else if (c.field === "axis") {
       entry.axis = c.now;
     } else if (c.field === "polarity") {
       if (c.now !== null && c.now !== "expansive" && c.now !== "restrictive") {
@@ -1052,9 +1167,27 @@ function main() {
 const STAGE_DIRECTION_RE =
   /\bAt\s+\d{1,2}:\d{2}\s*(?:AM|PM)\b(?:[^.]|(?<=\b[A-Z])\.)*\.\s*/gi;
 
+// Gate round 3 item F2 (minor, excerpt renderer): a distinct shape of
+// attendance aside the STAGE_DIRECTION_RE above doesn't catch — the source
+// sometimes glues "It being noted that Councillor X (leaves|enters|
+// re-enters) the meeting/Chair at H:MM AM/PM" onto the end of the operative
+// clause with NO terminating period at all (see f96ee1b77651: "...BE
+// APPROVED It being noted that Councillor S. Trosow leaves the meeting at
+// 5:11 PM" — nothing follows, the source string just ends there).
+// STAGE_DIRECTION_RE requires "At H:MM" at the START of the aside and a
+// closing period to terminate its match; this aside instead ends with the
+// time, so it's anchored to the END of the string ($) instead — matching
+// this exact "It being noted ... enters/leaves/assumes/vacates ... H:MM
+// AM/PM" trailing shape only, never a legitimate mid-motion "it being
+// noted that ..." clause that is followed by more operative text (those
+// are real content, left untouched).
+const TRAILING_ATTENDANCE_ASIDE_RE =
+  /\s+It (?:being|was) noted that\b.*?\b(?:leaves|enters|re-enters|assumes|vacates)\b.*?\d{1,2}:\d{2}\s*(?:AM|PM)\.?\s*$/i;
+
 function motionSnippet(motionText: string): string {
   const s = motionText
     .replace(STAGE_DIRECTION_RE, " ")
+    .replace(TRAILING_ATTENDANCE_ASIDE_RE, "")
     .trim()
     .replace(/\s+/g, " ");
   return s.length > 90 ? s.slice(0, 87) + "..." : s;
@@ -1119,25 +1252,72 @@ function axisDirectionOf(
 }
 
 /** Round-3 gate item 7: this row's own MECHANICAL role in its decision --
- * "amendment" when the motion's own text opens by amending the motion
- * already in progress ("That the motion be [further] amended..."),
- * "approval of the part" when it opens directly with the lettered
- * sub-clause itself (e.g. "c) a Single Source Procurement BE APPROVED...")
- * with no amending frame around it. Read mechanically off the motion's OWN
- * text, never guessed at or inferred from its outcome; null when neither
- * pattern matches (most motions -- this exists only to disambiguate a
- * same-decision-group whatAYeaDid collision, see renderLadderExclusions in
- * generate-hub-pages.ts). Worked example: e-peloza.md's Ark Aid day
- * drop-in pair -- 1c0f60d005b5 ("That the motion be amended to include a
- * part c)...") is the amendment; d2ed469d2746 ("c) a Single Source
- * Procurement BE APPROVED...") is Council's approval of that part as
- * amended. */
+ * "amendment" when the motion's own text opens by amending the motion (or
+ * one lettered part of it) already in progress ("That the motion be
+ * [further] amended...", or "That part a) be [further] amended..." -- the
+ * same amending-in-progress shape, just naming the specific part rather
+ * than "the motion" as a whole), "approval of the part" when it opens
+ * directly with the lettered sub-clause itself (e.g. "c) a Single Source
+ * Procurement BE APPROVED...") with no amending frame around it. Read
+ * mechanically off the motion's OWN text, never guessed at or inferred from
+ * its outcome; null when neither pattern matches (most motions -- this
+ * exists only to disambiguate a same-decision-group whatAYeaDid collision,
+ * see renderLadderExclusions/renderAxisSection in generate-hub-pages.ts).
+ * Worked example: j-morgan/p-cuddy/etc.'s Ark Aid day drop-in pair --
+ * 955427f58d48 ("That the motion be amended to include a part c)...") is
+ * the amendment; 19f813e3d11f ("c) a Single Source Procurement BE
+ * APPROVED...") is Council's approval of that part as amended. (Ids as of
+ * the 2026-08-31 rebuild; the round-3 gate's original worked example --
+ * 1c0f60d005b5/d2ed469d2746 -- no longer resolves to any motion, having
+ * been superseded by an id rekey since.)
+ *
+ * Round-6 gate item C: the "part a) be amended" phrasing (2025-04-22
+ * Watson Park item 8.2.9, "That part a) be amended to read as follows:
+ * a) ...") is the SAME amending-in-progress shape as "the motion be
+ * amended" -- just naming which lettered part is being amended instead of
+ * treating the whole motion as the target -- so it is the same "amendment"
+ * role under this function's own rule, not a new category. Watson Park's
+ * OTHER half of that pair (cf6233c1dc64, restating the full item preamble
+ * around the single now-amended part a) rather than a bare lettered
+ * clause) does not match the "approval of the part" shape below and stays
+ * null, same as before this change -- deliberately not broadened, since a
+ * bare-preamble-plus-one-clause shape is common to ordinary single-part
+ * motions too and a regex loose enough to catch it here would mislabel
+ * those as "approval of the part" elsewhere in the corpus. */
 function motionRole(motionText: string): string | null {
   const t = motionText.trim();
-  if (/^that the motion be (?:further )?amended\b/i.test(t)) return "amendment";
+  if (/^that (?:the motion|part [a-z]\)) be (?:further )?amended\b/i.test(t))
+    return "amendment";
   if (/^[a-z]\)\s/i.test(t)) return "approval of the part";
   return null;
 }
+
+/** Round-7 gate item C: a per-id override for motionRole's null default,
+ * for a motion hand-confirmed to be the base-motion half of a role-
+ * disambiguation pair (the same real shape motionRole's "approval of the
+ * part" branch exists for) whose text doesn't match that branch's regex
+ * only because of a preamble ahead of the lettered clause.
+ *
+ * cf6233c1dc64 (2025-04-22 Council item 8.2.9, Watson Park): "That the
+ * following actions be taken with respect to Watson Park: a) the Civic
+ * Administration BE DIRECTED to assist with the relocation..." is the base
+ * motion whose part a) its sibling 32b3a392fe5e ("That part a) be amended
+ * to read as follows: a) ...") amends — the identical Ark Aid
+ * (955427f58d48/19f813e3d11f) base/amendment shape, just with a topic
+ * preamble ahead of "a)" instead of a bare lettered lead-in. A same-shaped
+ * preamble ("That the following actions be taken with respect to X: a)
+ * ...") is NOT unique to this pair, though: a corpus-wide check (round-7
+ * gate item C) found 271+ OTHER motions using the identical boilerplate
+ * preamble for perfectly ordinary single-motion agenda items with no
+ * amendment sibling at all — widening the regex to match that preamble
+ * shape generically, as motionRole's own doc comment already warned when
+ * this exact pair was last reviewed (round-6 gate item C), would mislabel
+ * those as "approval of the part" wherever they happen to collide with an
+ * unrelated row in some other decision group. Hand-verified per-id
+ * override, not a broadened pattern, for exactly that reason. */
+const MOTION_ROLE_OVERRIDE: Record<string, string> = {
+  cf6233c1dc64: "approval of the part",
+};
 
 function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
   const m = c.motion;
@@ -1179,8 +1359,10 @@ function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
     // threaded through to each evidence row so groupIntoDecisions (which
     // operates on evidence-row arrays, not ClassifiedMotion) can honor it.
     decisionKey: c.decisionKey,
-    // Round-3 gate item 7: see motionRole's own doc comment above.
-    role: motionRole(m.motionText),
+    // Round-3 gate item 7: see motionRole's own doc comment above. Round-7
+    // gate item C: MOTION_ROLE_OVERRIDE takes precedence for the one
+    // hand-verified id it names — see its own doc comment.
+    role: MOTION_ROLE_OVERRIDE[m.id] ?? motionRole(m.motionText),
   };
 }
 
@@ -1421,6 +1603,48 @@ function buildPattern(
     }
     return `No direction-bearing votes cast on this axis since 2023${recusalAbsentClause(agg) || " (recused 0, absent 0)"}.`;
   }
+  // P2: state plainly, once, when this axis's whole corpus (every
+  // councillor, not just this one) only ever offered one direction of
+  // motion — never implied by a silent "0" on the missing side. Computed
+  // here, above BOTH return branches below (gate round 3 item F3: this
+  // note used to be computed only inside the >=5-decision branch, so a
+  // one-sided axis that hadn't yet cleared the pattern threshold silently
+  // omitted the very disclosure methodology.ts promises applies to "the
+  // pattern sentence" generally, not just the above-threshold one).
+  const oneSidedNote = !axisHasExpansive
+    ? ` No motion on this axis since 2023 would have ${agg.axisLabels.expansive} — every direction-bearing motion here would have ${agg.axisLabels.restrictive}.`
+    : !axisHasRestrictive
+      ? ` No motion on this axis since 2023 would have ${agg.axisLabels.restrictive} — every direction-bearing motion here would have ${agg.axisLabels.expansive}.`
+      : "";
+
+  // Gate round 4 item D: oneSidedNote above is CORPUS-scoped (computed from
+  // axisHasExpansive/axisHasRestrictive, the whole corpus's polarity
+  // presence for this axis) — it is correctly silent whenever the corpus
+  // has motions of both polarities, even when THIS COUNCILLOR's own listed
+  // rows never happened to include one of the two. That silence still lets
+  // a one-sided read stand: e.g. a councillor whose axis evidence is 78
+  // "supported approving X" + 2 "opposed approving X" and zero motions of
+  // the opposite (denial) polarity prints no disclosure at all that a
+  // whole polarity of motion never came up for THIS councillor's vote,
+  // inviting a reader to assume the omission means something it doesn't.
+  // blockScopedNote fills that gap with a BLOCK-scoped (this councillor's
+  // own evidence only) factual clause, mutually exclusive with
+  // oneSidedNote by construction (oneSidedNote fires exactly when the
+  // corpus lacks a polarity, in which case this councillor's block cannot
+  // have it either) — never a counterfactual claim about what a motion
+  // that never existed would have done, only what IS true of this
+  // councillor's own recorded votes.
+  const blockHasExpansive = agg.yeaExpansive + agg.nayExpansive > 0;
+  const blockHasRestrictive = agg.yeaRestrictive + agg.nayRestrictive > 0;
+  const blockScopedNote =
+    sampleSize > 0 && axisHasExpansive && axisHasRestrictive
+      ? !blockHasExpansive
+        ? ` Every one of this councillor's own recorded votes on this axis has been on a motion that would have ${agg.axisLabels.restrictive}; no motion that would have ${agg.axisLabels.expansive} has come up for this councillor's own recorded vote.`
+        : !blockHasRestrictive
+          ? ` Every one of this councillor's own recorded votes on this axis has been on a motion that would have ${agg.axisLabels.expansive}; no motion that would have ${agg.axisLabels.restrictive} has come up for this councillor's own recorded vote.`
+          : ""
+      : "";
+
   if (distinctItemCount < MIN_PATTERN_SAMPLE_SIZE) {
     const itemWord = distinctItemCount === 1 ? "decision" : "decisions";
     // Fixed 2026-08-31 (round-2 gate item 4): "across them" always used the
@@ -1442,7 +1666,7 @@ function buildPattern(
     // vote (sampleSize > 1) — e.g. a committee + council stage of the same
     // decision, each a separate yea/nay row.
     const isAre = sampleSize === 1 ? "is" : "are";
-    return `Only ${distinctItemCount} distinct ${itemWord} since 2023${voteClause}${recusalAbsentClause(agg)} — too few to describe a pattern. The individual vote${sampleSize === 1 ? "" : "s"} ${isAre} listed below.`;
+    return `Only ${distinctItemCount} distinct ${itemWord} since 2023${voteClause}${recusalAbsentClause(agg)} — too few to describe a pattern. The individual vote${sampleSize === 1 ? "" : "s"} ${isAre} listed below.${oneSidedNote}${blockScopedNote}`;
   }
 
   const clause = (n: number, verb: "supported" | "opposed", label: string) =>
@@ -1462,20 +1686,30 @@ function buildPattern(
       clauses.push(clause(agg.nayRestrictive, "opposed", agg.axisLabels.restrictive));
   }
 
-  // P2: state plainly, once, when this axis's whole corpus (every
-  // councillor, not just this one) only ever offered one direction of
-  // motion — never implied by a silent "0" on the missing side.
-  const oneSidedNote = !axisHasExpansive
-    ? ` No motion on this axis since 2023 would have ${agg.axisLabels.expansive} — every direction-bearing motion here would have ${agg.axisLabels.restrictive}.`
-    : !axisHasRestrictive
-      ? ` No motion on this axis since 2023 would have ${agg.axisLabels.restrictive} — every direction-bearing motion here would have ${agg.axisLabels.expansive}.`
+  // Gate round 3 item E (methodology finding 4): the 5-decision THRESHOLD
+  // above collapses a multi-stage motion to one decision, but the
+  // "supported/opposed N measures" clauses built above count every
+  // recorded vote in the sample — including every reading stage of the
+  // same by-law — so sampleSize can legitimately exceed distinctItemCount
+  // (e.g. Bill 327's three readings each add one to sampleSize for the
+  // same single rezoning decision). Naming both numbers together, right
+  // where "N measures" is about to be read, keeps the methodology's own
+  // claim about what the collapse does (see methodology.ts) literally true
+  // for this sentence rather than leaving a reader to assume N always means
+  // N distinct decisions. Omitted when they're equal — nothing to
+  // disambiguate, no reason to pad every pattern sentence on the hub with a
+  // redundant number.
+  const decisionNote =
+    distinctItemCount < sampleSize
+      ? ` across ${distinctItemCount} distinct decision${distinctItemCount === 1 ? "" : "s"}`
       : "";
 
   return (
-    `Of ${sampleSize} divided votes since 2023 where the motion's effect on this axis was clear, this councillor ${clauses.join("; ")}` +
+    `Of ${sampleSize} divided votes${decisionNote} since 2023 where the motion's effect on this axis was clear, this councillor ${clauses.join("; ")}` +
     recusalAbsentClause(agg) +
     "." +
-    oneSidedNote
+    oneSidedNote +
+    blockScopedNote
   );
 }
 
@@ -1898,13 +2132,34 @@ function writeStancesFile(
             resultNote: string | null;
             // Round-3 gate item 7: see motionRole's own doc comment above.
             role: string | null;
+            // Round-5 gate item A/B: true iff this row is the SUPERSEDED
+            // half of a known reconsidered pair (RECONSIDERED_SUPERSEDED_TO_
+            // FINAL) — see renderLadderExclusions in generate-hub-pages.ts
+            // for the distinct, honest wording this gets (never "none are
+            // counted", since the pair's other half is counted).
+            supersededByReconsideration: boolean;
           }[] = [];
           for (const group of groups) {
-            const directions = new Set(
-              group.map((i) => voteRows[i].axisDirection),
-            );
-            if (directions.size > 1) {
-              for (const i of group) {
+            // Round-5 gate item A/B: pull out any row that is the known-
+            // SUPERSEDED half of a reconsidered pair whose FINAL half is
+            // also present in this same decision group — that is exactly
+            // the shape a same-text re-vote produces (one decision group,
+            // by title/date, containing both roll calls). Excluded on its
+            // own, labeled distinctly, and never allowed to manufacture a
+            // "points in different directions" verdict against the row
+            // that actually stands.
+            const supersededIdx = group.filter((i) => {
+              const row = voteRows[i];
+              const finalId = RECONSIDERED_SUPERSEDED_TO_FINAL.get(
+                row.motionId,
+              );
+              return (
+                finalId !== undefined &&
+                group.some((j) => voteRows[j].motionId === finalId)
+              );
+            });
+            if (supersededIdx.length > 0) {
+              for (const i of supersededIdx) {
                 const row = voteRows[i];
                 ladderExcludedMotionIds.add(row.motionId);
                 ladderExclusions.push({
@@ -1922,6 +2177,40 @@ function writeStancesFile(
                   result: row.result,
                   resultNote: row.resultNote,
                   role: row.role,
+                  supersededByReconsideration: true,
+                });
+              }
+              // One reconsidered pair (however many superseded rows it
+              // contributes to this group — normally exactly one) is one
+              // ladder-exclusion GROUP, same as the genuine-ambiguity branch
+              // below increments once per group, not once per row.
+              ladderGroupIndex++;
+            }
+            const remaining = group.filter((i) => !supersededIdx.includes(i));
+            if (remaining.length === 0) continue;
+            const directions = new Set(
+              remaining.map((i) => voteRows[i].axisDirection),
+            );
+            if (directions.size > 1) {
+              for (const i of remaining) {
+                const row = voteRows[i];
+                ladderExcludedMotionIds.add(row.motionId);
+                ladderExclusions.push({
+                  decisionGroupIndex: ladderGroupIndex,
+                  motionId: row.motionId,
+                  date: row.date,
+                  meetingSlug: row.meetingSlug,
+                  itemTitle: row.itemTitle,
+                  anchor: row.anchor,
+                  anchorAmbiguous: row.anchorAmbiguous,
+                  theirVote: row.theirVote,
+                  axisDirection: row.axisDirection,
+                  whatAYeaDid: row.whatAYeaDid,
+                  meetingType: row.meetingType,
+                  result: row.result,
+                  resultNote: row.resultNote,
+                  role: row.role,
+                  supersededByReconsideration: false,
                 });
               }
               ladderGroupIndex++;

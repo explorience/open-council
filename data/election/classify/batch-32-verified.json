@@ -1,0 +1,615 @@
+[
+  {
+    "id": "a7734eae51f2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of the by-law redividing the City of London's wards.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 42 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2024-12-17 Council item 13: quote verbatim, result Motion Passed (14-1) matches. Bill 42 = ward-redistribution by-law only; no tracked-issue content. issue=none/polarity=null correct."
+  },
+  {
+    "id": "ed87fe805530",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported final enactment of the by-law redividing the City of London's wards.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 42 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 42, Third Reading, verbatim quote + 14-1 result confirmed against raw meeting JSON. Ward redistribution carries no tracked-issue substance."
+  },
+  {
+    "id": "61db58e78962",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Integrated Transportation Community Advisory Committee report with no further action taken.",
+    "confidence": "high",
+    "quote": "BE RECEIVED and NO FURTHER ACTION BE TAKEN",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-01-14 SPPC item 4.1: quote verbatim (BE RECEIVED and NO FURTHER ACTION), 11-3 matches. Pure receive-only, no operative ask beyond noting -> informational_ask/unclear correct."
+  },
+  {
+    "id": "5f972d6e8824",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving and referring the communication regarding 430 First Street (Z-9809) as noted on the added agenda.",
+    "confidence": "medium",
+    "quote": "That the following communication BE RECEIVED, and BE REFERRED as noted on the Added Agenda: 6.2   430 First Street (Z-9809)",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-01-21 Council item 6: quote verbatim, 12-1 matches. Referral of a communication decides nothing on the 430 First Street application -> referral/unclear correct."
+  },
+  {
+    "id": "9594bb7586f0",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Integrated Transportation Community Advisory Committee report with no further action taken.",
+    "confidence": "high",
+    "quote": "BE RECEIVED and NO FURTHER ACTION BE TAKEN",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-01-21 item 8.3.5 (Council ratification of the same ITCAC report): quote verbatim, 11-2 matches. Same informational_ask reasoning as 61db58e78962."
+  },
+  {
+    "id": "015563c494ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported approving the 2nd Report of Council, In Closed Session.",
+    "confidence": "high",
+    "quote": "That the 2nd Report of the Council, In Closed Session BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-01-21 item 9.1: quote verbatim, 13-1 matches. Approving a closed-session report discloses nothing about its substance -> correctly left issue=none/null."
+  },
+  {
+    "id": "bbdcef3032d7",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of the bundled by-laws amending rapid-transit project financing (Bills 61, 64, 65) and the Wellington Gateway property settlement (Bill 72).",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-01-21 item 13: quote verbatim, 13-1 matches. Bills 61/64/65 (BRT financing amendments) bundled with Bill 72 (unrelated property settlement); operative text is bare 'BE APPROVED' of bill numbers with no content clause to read an axis from -> null correctly left, cannot be overturned without a substantive quote that doesn't exist in this reading."
+  },
+  {
+    "id": "923be3c75c7c",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of the bundled by-laws amending rapid-transit project financing (Bills 61, 64, 65) and the Wellington Gateway property settlement (Bill 72).",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same bundle, Second Reading: quote + 13-1 verified verbatim against raw JSON. Same no-content-clause reasoning applies."
+  },
+  {
+    "id": "9d0e31d02209",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported final enactment of the bundled by-laws amending rapid-transit project financing (Bills 61, 64, 65) and the Wellington Gateway property settlement (Bill 72).",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same bundle, Third Reading and Enactment: quote + 13-1 verified verbatim. Same reasoning."
+  },
+  {
+    "id": "9da4e5c12c4e",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Whole of Community System Response Q4 Quarterly Report.",
+    "confidence": "high",
+    "quote": "the staff report dated January 27, 2025, with respect to the Whole of Community System Response Q4 Quarterly Report, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-02-11 Council item 8.1.5: quote verbatim, 11-1 matches. Pure BE RECEIVED of a quarterly report -> informational_ask/unclear correct."
+  },
+  {
+    "id": "e8958e760f6a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for a candidate to fill the Eldon House Board of Directors vacancy.",
+    "confidence": "high",
+    "quote": "Appointment to the Eldon House Board of Directors (Requires 1 Member)",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-02-25 SPPC item 4.1: this is the ranked-choice ballot round (candidate-preference vote rows, not yea/nay), result 'Majority Winner: Robert Fraser' matches manifest exactly. A preference ballot has no yea/nay to score on any tracked issue -> not_divided/none correct."
+  },
+  {
+    "id": "dd4fcdf4d003",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for a candidate to fill the Eldon House Board of Directors vacancy.",
+    "confidence": "high",
+    "quote": "Appointment to the Eldon House Board of Directors (Requires 1 Member)",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same item 4.1, second ballot round (Madelyn eliminated, votes redistributed) — same reasoning, result string matches manifest."
+  },
+  {
+    "id": "0c2472b114df",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported appointing Mayor J. Morgan to the London Public Library Board of Directors for the term ending November 14, 2026.",
+    "confidence": "high",
+    "quote": "Mayor J. Morgan BE APPOINTED to the London Public Library Board for the term ending November 14, 2026",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-02-25 item 4.2: quote 'Mayor J. Morgan BE APPOINTED to the London Public Library Board for the term ending November 14, 2026' is verbatim from the raw motion text (clause b), 13-1 matches. Board appointment is not a tracked issue -> issue=none/null correct regardless of the real recorded vote."
+  },
+  {
+    "id": "acbac7d8384d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for a candidate to fill the London Public Library Board of Directors vacancy.",
+    "confidence": "high",
+    "quote": "Appointment to the London Public Library Board of Directors (Requires 1 Member of Council)",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same item 4.2, the preceding preference ballot ('Majority Winner: Josh Morgan') — verified verbatim, not_divided/none correct."
+  },
+  {
+    "id": "6154c9183b81",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the pilot update and directing Civic Administration to continue discussions with the London Transit Commission and school board and report back on success metrics.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to continue the conversation with the London Transit Commission and Thames Valley District School Board representatives and report back to a future meeting",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-03-25 SPPC item 2.2: full multi-clause motion read in full; only operative content is BE RECEIVED + BE DIRECTED to continue conversation and report back on metrics — no funding/service commitment decided. 11-4 matches. informational_ask/unclear correct; 'increased ridership' appears only inside a future-metrics list, not an operative clause, so it does not trip the transit-service axis."
+  },
+  {
+    "id": "c9363baaf996",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-03-25 item 4.2 (Accessibility CAC): this is one of 8 sequential 'Majority Winner: No majority' preference-ballot rounds, verbatim match. not_divided/none correct."
+  },
+  {
+    "id": "33b5a756fd7d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same ballot sequence, round verified verbatim against raw JSON."
+  },
+  {
+    "id": "52dfc71ff9bb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same ballot sequence, round verified verbatim against raw JSON."
+  },
+  {
+    "id": "beb90f08b0ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same ballot sequence, round verified verbatim against raw JSON."
+  },
+  {
+    "id": "649df4cb80c6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same ballot sequence, round verified verbatim against raw JSON."
+  },
+  {
+    "id": "ca664a6574b8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same ballot sequence, round verified verbatim against raw JSON."
+  },
+  {
+    "id": "24c909ccd155",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same ballot sequence, round verified verbatim against raw JSON."
+  },
+  {
+    "id": "3ffa64baba37",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same ballot sequence, round verified verbatim against raw JSON."
+  },
+  {
+    "id": "cc8597e15d07",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for a candidate to fill the Covent Garden Market Board of Directors vacancy.",
+    "confidence": "high",
+    "quote": "Consideration of Appointment to the Covent Garden Market Board of Directors.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-03-25 item 4.5: preference ballot 'Majority Winner: William Westgate' matches verbatim. not_divided/none correct."
+  },
+  {
+    "id": "7ffcc1237e56",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported convening in closed session to discuss solicitor-client privileged advice regarding the Integrity Commissioner Services contract.",
+    "confidence": "high",
+    "quote": "That the Strategic Priorities and Policy Committee convenes In Closed session to consider the following: 6.1 Solicitor-Client Privilege",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-03-25 item 6: quote verbatim, 10-5 matches. Procedural motion to convene in closed session on solicitor-client privilege discloses no substance -> correctly null."
+  },
+  {
+    "id": "dc80d9dab8f2",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported vacating the London Transit Commission's membership, directing a by-law to reduce it to five Council members on an interim basis, referring member appointments to the next Council meeting, directing a further interim-supports report, and accepting the resignations of two citizen commissioners and a councillor member.",
+    "confidence": "medium",
+    "quote": "the current London Transit Commission membership BE VACATED, effective April 1, 2025",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-04-01 item 8.1.14 (the pre-amendment 10-5 motion, matched by roll call — a later reconsideration/amendment on the same item passed 12-3/8-7 and is a different, non-divided-at-10-5 motion not in this batch): full multi-part clause read (RECEIVED / VACATED / DIRECTED-bylaw / REFERRED-appointments / DIRECTED-report-back / ACCEPTED-resignations). No clean axis: this is LTC governance/membership restructuring, not a service-level or funding decision, so neither transit-service nor road-capacity fires, and it isn't a budget business-case (no levy $ or business-case language). Quote verbatim confirmed. Correctly left null — no unambiguous axis to assign."
+  },
+  {
+    "id": "9b1cace925c3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement with Canada.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 105, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-04-01 item 13: quote verbatim, 11-3 matches. Bill 105 (ETF contribution agreement) reading carries no substantive clause beyond 'BE APPROVED' of the bill number -> issue=none/null correct."
+  },
+  {
+    "id": "fdaa43d729dd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement with Canada.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 105, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 105, Second Reading: verbatim + 11-3 confirmed."
+  },
+  {
+    "id": "e6c9f34d0afa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported final enactment of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement with Canada.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 105, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 105, Third Reading: verbatim + 11-3 confirmed."
+  },
+  {
+    "id": "4e530257af07",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of the revised by-law amending the London Transit Commission's continuing by-law to change its membership composition.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Revised Bill No. 108, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-04-01 item 13: quote verbatim, 12-2 matches. Bill 108 (LTC continuing by-law membership amendment) reading has no substantive clause -> null correct (the substance was decided at item 8.1.14/dc80d9dab8f2, already correctly left unclear there)."
+  },
+  {
+    "id": "1fe2a8aaa87d",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of the revised by-law amending the London Transit Commission's continuing by-law to change its membership composition.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Revised Bill No. 108, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 108, Second Reading: verbatim + 12-2 confirmed."
+  },
+  {
+    "id": "d0e9e3f72253",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported final enactment of the revised by-law amending the London Transit Commission's continuing by-law to change its membership composition.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Revised Bill No. 108, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 108, Third Reading: verbatim + 12-2 confirmed."
+  },
+  {
+    "id": "aa59d1f5b4ce",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introduction and first reading of the by-law rezoning the property at 2634 Barn Swallow Place.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 125, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED AND FAILED. Verified vs 2025-04-01 item 13 + bills[] (Bill 125 = 'rezone an area of land located at 2634 Barn Swallow Place', 3.2/5/PEC). Quote verbatim, 12-2 matches. No DENY_RE/NOT_APPROVED_RE hit anywhere in the clause (bare 'BE APPROVED'), so the generic application-approval axis's expansive/approved read is correct per direction-rules.ts fallback logic. issue=housing, axis=application-approval, polarity=expansive CONFIRMED."
+  },
+  {
+    "id": "3025516c3c1a",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported second reading of the by-law rezoning the property at 2634 Barn Swallow Place.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 125, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 125, Second Reading: verbatim + 12-2 confirmed. Same confirmation as above."
+  },
+  {
+    "id": "6b5fea7c5729",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported final enactment of the by-law rezoning the property at 2634 Barn Swallow Place.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 125, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 125, Third Reading and Enactment: verbatim + 12-2 confirmed."
+  },
+  {
+    "id": "81a810924a1d",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introduction and first reading of the revised by-law rezoning the property at 415-421 Boler Road.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Revised Bill No. 127, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED AND FAILED. Verified vs 2025-04-01 item 13 + bills[] (Revised Bill 127 = 'rezone an area of land located at 415-421 Boler Road', 3.4a/5/PEC). Quote verbatim, 13-1 matches exactly (this is the only one of the three Bill 127 readings that was divided — 2nd/3rd passed 14-0 unanimous and correctly excluded from this batch). No denial language. expansive/approved CONFIRMED."
+  },
+  {
+    "id": "8fb91b45ac3b",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introduction and first reading of the by-laws amending the Official Plan and rezoning the property at 1620 Evans Boulevard.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No.'s 137 and 148 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED AND FAILED. Verified vs 2025-04-22 item 13 + bills[] (Bill 137 = OPA, Bill 148 = rezoning, both '1620 Evans Boulevard', 3.3a/3.3b/6/PEC). Quote verbatim, 14-1 matches. Bare 'BE APPROVED' of both bill numbers together, no denial verb -> expansive CONFIRMED."
+  },
+  {
+    "id": "e62546f60bb5",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported second reading of the by-laws amending the Official Plan and rezoning the property at 1620 Evans Boulevard.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No.'s 137 and 148 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bills 137/148, Second Reading: verbatim + 14-1 confirmed."
+  },
+  {
+    "id": "a84b84f59db9",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported final enactment of the by-laws amending the Official Plan and rezoning the property at 1620 Evans Boulevard.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No.'s 137 and 148 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bills 137/148, Third Reading and Enactment: verbatim + 14-1 confirmed."
+  },
+  {
+    "id": "dc33788d6a8d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement for basic-needs and healthcare services at 602 Queens Avenue (\"The Commons\").",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 132  BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2025-04-22 item 13 + bills[] (Bill 132 = ETF contribution agreement for 602 Queens Ave 'The Commons', 2.7/7/CPSC). Quote verbatim, 13-2 matches. Bare 'BE APPROVED' reading, no housing/encampments substance in the clause itself -> issue=none/null correct (checked for a missed encampments/housing hit — none present, this is a delegation-of-signing-authority by-law, not a funding-amount or service clause)."
+  },
+  {
+    "id": "16ecb74cd31c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement for basic-needs and healthcare services at 602 Queens Avenue (\"The Commons\").",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No.132 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 132, Second Reading: verbatim + 13-2 confirmed."
+  },
+  {
+    "id": "5588b956ec3f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported final enactment of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement for basic-needs and healthcare services at 602 Queens Avenue (\"The Commons\").",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 132 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 132, Third Reading: verbatim + 13-2 confirmed."
+  },
+  {
+    "id": "fb3a10503e57",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introduction and first reading of the added by-laws amending the Official Plan and rezoning the property at 801 Sarnia Road.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Added Bill No.'s 153 and 154 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED AND FAILED. Verified vs 2025-04-22 item 13 + bills[] (Bills 153/154 = OPA + rezoning, '801 Sarnia Road', 3.7a/3.7b/6/PEC). Quote verbatim, 13-2 matches. No denial verb -> expansive CONFIRMED."
+  },
+  {
+    "id": "b630221d1aa7",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported second reading of the added by-laws amending the Official Plan and rezoning the property at 801 Sarnia Road.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Added Bill No.'s 153 and 154 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bills 153/154, Second Reading: verbatim + 13-2 confirmed."
+  },
+  {
+    "id": "362ac6f9d26c",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported final enactment of the added by-laws amending the Official Plan and rezoning the property at 801 Sarnia Road.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Added Bill No.'s 153 and 154 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bills 153/154, Third Reading and Enactment: verbatim + 13-2 confirmed."
+  }
+]
