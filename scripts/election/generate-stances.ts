@@ -1292,6 +1292,33 @@ function motionRole(motionText: string): string | null {
   return null;
 }
 
+/** Round-7 gate item C: a per-id override for motionRole's null default,
+ * for a motion hand-confirmed to be the base-motion half of a role-
+ * disambiguation pair (the same real shape motionRole's "approval of the
+ * part" branch exists for) whose text doesn't match that branch's regex
+ * only because of a preamble ahead of the lettered clause.
+ *
+ * cf6233c1dc64 (2025-04-22 Council item 8.2.9, Watson Park): "That the
+ * following actions be taken with respect to Watson Park: a) the Civic
+ * Administration BE DIRECTED to assist with the relocation..." is the base
+ * motion whose part a) its sibling 32b3a392fe5e ("That part a) be amended
+ * to read as follows: a) ...") amends — the identical Ark Aid
+ * (955427f58d48/19f813e3d11f) base/amendment shape, just with a topic
+ * preamble ahead of "a)" instead of a bare lettered lead-in. A same-shaped
+ * preamble ("That the following actions be taken with respect to X: a)
+ * ...") is NOT unique to this pair, though: a corpus-wide check (round-7
+ * gate item C) found 271+ OTHER motions using the identical boilerplate
+ * preamble for perfectly ordinary single-motion agenda items with no
+ * amendment sibling at all — widening the regex to match that preamble
+ * shape generically, as motionRole's own doc comment already warned when
+ * this exact pair was last reviewed (round-6 gate item C), would mislabel
+ * those as "approval of the part" wherever they happen to collide with an
+ * unrelated row in some other decision group. Hand-verified per-id
+ * override, not a broadened pattern, for exactly that reason. */
+const MOTION_ROLE_OVERRIDE: Record<string, string> = {
+  cf6233c1dc64: "approval of the part",
+};
+
 function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
   const m = c.motion;
   const d = c.direction.axis !== null ? (c.direction as Direction) : null;
@@ -1332,8 +1359,10 @@ function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
     // threaded through to each evidence row so groupIntoDecisions (which
     // operates on evidence-row arrays, not ClassifiedMotion) can honor it.
     decisionKey: c.decisionKey,
-    // Round-3 gate item 7: see motionRole's own doc comment above.
-    role: motionRole(m.motionText),
+    // Round-3 gate item 7: see motionRole's own doc comment above. Round-7
+    // gate item C: MOTION_ROLE_OVERRIDE takes precedence for the one
+    // hand-verified id it names — see its own doc comment.
+    role: MOTION_ROLE_OVERRIDE[m.id] ?? motionRole(m.motionText),
   };
 }
 
