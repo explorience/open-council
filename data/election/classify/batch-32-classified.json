@@ -1,0 +1,525 @@
+[
+  {
+    "id": "a7734eae51f2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of the by-law redividing the City of London's wards.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 42 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "ed87fe805530",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported final enactment of the by-law redividing the City of London's wards.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 42 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "61db58e78962",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Integrated Transportation Community Advisory Committee report with no further action taken.",
+    "confidence": "high",
+    "quote": "BE RECEIVED and NO FURTHER ACTION BE TAKEN",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "5f972d6e8824",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving and referring the communication regarding 430 First Street (Z-9809) as noted on the added agenda.",
+    "confidence": "medium",
+    "quote": "That the following communication BE RECEIVED, and BE REFERRED as noted on the Added Agenda: 6.2   430 First Street (Z-9809)",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "9594bb7586f0",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Integrated Transportation Community Advisory Committee report with no further action taken.",
+    "confidence": "high",
+    "quote": "BE RECEIVED and NO FURTHER ACTION BE TAKEN",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "015563c494ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported approving the 2nd Report of Council, In Closed Session.",
+    "confidence": "high",
+    "quote": "That the 2nd Report of the Council, In Closed Session BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "bbdcef3032d7",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of the bundled by-laws amending rapid-transit project financing (Bills 61, 64, 65) and the Wellington Gateway property settlement (Bill 72).",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "923be3c75c7c",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of the bundled by-laws amending rapid-transit project financing (Bills 61, 64, 65) and the Wellington Gateway property settlement (Bill 72).",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "9d0e31d02209",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported final enactment of the bundled by-laws amending rapid-transit project financing (Bills 61, 64, 65) and the Wellington Gateway property settlement (Bill 72).",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "9da4e5c12c4e",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Whole of Community System Response Q4 Quarterly Report.",
+    "confidence": "high",
+    "quote": "the staff report dated January 27, 2025, with respect to the Whole of Community System Response Q4 Quarterly Report, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "e8958e760f6a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for a candidate to fill the Eldon House Board of Directors vacancy.",
+    "confidence": "high",
+    "quote": "Appointment to the Eldon House Board of Directors (Requires 1 Member)",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "dd4fcdf4d003",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for a candidate to fill the Eldon House Board of Directors vacancy.",
+    "confidence": "high",
+    "quote": "Appointment to the Eldon House Board of Directors (Requires 1 Member)",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "0c2472b114df",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported appointing Mayor J. Morgan to the London Public Library Board of Directors for the term ending November 14, 2026.",
+    "confidence": "high",
+    "quote": "Mayor J. Morgan BE APPOINTED to the London Public Library Board for the term ending November 14, 2026",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "acbac7d8384d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for a candidate to fill the London Public Library Board of Directors vacancy.",
+    "confidence": "high",
+    "quote": "Appointment to the London Public Library Board of Directors (Requires 1 Member of Council)",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "6154c9183b81",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the pilot update and directing Civic Administration to continue discussions with the London Transit Commission and school board and report back on success metrics.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to continue the conversation with the London Transit Commission and Thames Valley District School Board representatives and report back to a future meeting",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "c9363baaf996",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "33b5a756fd7d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "52dfc71ff9bb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "beb90f08b0ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "649df4cb80c6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "ca664a6574b8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "24c909ccd155",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "3ffa64baba37",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for candidates to fill vacancies on the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Accessibility Community Advisory Committee.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "cc8597e15d07",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a ballot vote for a candidate to fill the Covent Garden Market Board of Directors vacancy.",
+    "confidence": "high",
+    "quote": "Consideration of Appointment to the Covent Garden Market Board of Directors.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "7ffcc1237e56",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported convening in closed session to discuss solicitor-client privileged advice regarding the Integrity Commissioner Services contract.",
+    "confidence": "high",
+    "quote": "That the Strategic Priorities and Policy Committee convenes In Closed session to consider the following: 6.1 Solicitor-Client Privilege",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "dc80d9dab8f2",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported vacating the London Transit Commission's membership, directing a by-law to reduce it to five Council members on an interim basis, referring member appointments to the next Council meeting, directing a further interim-supports report, and accepting the resignations of two citizen commissioners and a councillor member.",
+    "confidence": "medium",
+    "quote": "the current London Transit Commission membership BE VACATED, effective April 1, 2025",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "9b1cace925c3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement with Canada.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 105, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "fdaa43d729dd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement with Canada.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 105, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e6c9f34d0afa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported final enactment of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement with Canada.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 105, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "4e530257af07",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of the revised by-law amending the London Transit Commission's continuing by-law to change its membership composition.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Revised Bill No. 108, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "1fe2a8aaa87d",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of the revised by-law amending the London Transit Commission's continuing by-law to change its membership composition.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Revised Bill No. 108, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "d0e9e3f72253",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported final enactment of the revised by-law amending the London Transit Commission's continuing by-law to change its membership composition.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Revised Bill No. 108, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "aa59d1f5b4ce",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introduction and first reading of the by-law rezoning the property at 2634 Barn Swallow Place.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 125, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "3025516c3c1a",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported second reading of the by-law rezoning the property at 2634 Barn Swallow Place.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 125, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "6b5fea7c5729",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported final enactment of the by-law rezoning the property at 2634 Barn Swallow Place.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 125, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "81a810924a1d",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introduction and first reading of the revised by-law rezoning the property at 415-421 Boler Road.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Revised Bill No. 127, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "8fb91b45ac3b",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introduction and first reading of the by-laws amending the Official Plan and rezoning the property at 1620 Evans Boulevard.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No.'s 137 and 148 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "e62546f60bb5",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported second reading of the by-laws amending the Official Plan and rezoning the property at 1620 Evans Boulevard.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No.'s 137 and 148 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "a84b84f59db9",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported final enactment of the by-laws amending the Official Plan and rezoning the property at 1620 Evans Boulevard.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No.'s 137 and 148 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "dc33788d6a8d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement for basic-needs and healthcare services at 602 Queens Avenue (\"The Commons\").",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 132  BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "16ecb74cd31c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement for basic-needs and healthcare services at 602 Queens Avenue (\"The Commons\").",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No.132 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "5588b956ec3f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported final enactment of the by-law delegating authority to administer and ratifying the Substance Use and Addictions Program Emergency Treatment Fund contribution agreement for basic-needs and healthcare services at 602 Queens Avenue (\"The Commons\").",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 132 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "fb3a10503e57",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introduction and first reading of the added by-laws amending the Official Plan and rezoning the property at 801 Sarnia Road.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Added Bill No.'s 153 and 154 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "b630221d1aa7",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported second reading of the added by-laws amending the Official Plan and rezoning the property at 801 Sarnia Road.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Added Bill No.'s 153 and 154 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "362ac6f9d26c",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported final enactment of the added by-laws amending the Official Plan and rezoning the property at 801 Sarnia Road.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Added Bill No.'s 153 and 154 BE APPROVED.",
+    "flags": []
+  }
+]

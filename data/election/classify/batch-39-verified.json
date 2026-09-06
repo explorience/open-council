@@ -1,0 +1,114 @@
+[
+  {
+    "id": "0f3f61ff19fd",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs).",
+    "confidence": "low",
+    "quote": "That Second Reading of Revised Bill No. 285 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded PEC 10th mtg (2026-06-22) item 3.3 'Parking Provisions Update' source: by-law amends ss.4.19/4.37 to 'increase minimum residential parking requirements, revise residential driveway widths, permit parking in front yard or side yard driveways, establish exceptions, revise parking requirements for additional residential units (ARUs)' -- tightens one requirement while loosening others elsewhere in the same by-law; no clean single-axis read available even from the full committee text. Committee's stated 'housing supply' rationale is a preamble, not an operative clause. Null polarity confirmed correct."
+  },
+  {
+    "id": "5fa34f95e37f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs).",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Revised Bill No. 285 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same source and reasoning as the Second Reading entry (0f3f61ff19fd) -- Third Reading enacts the identical mixed parking by-law. Null polarity confirmed correct."
+  },
+  {
+    "id": "86a0b633e388",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No.’s 273 and 289 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded PEC 11th mtg (2026-07-14) item 3.6, OZ-26037: by-law rezones 1076-1080 Commissioners Rd W & 396-402 North St 'FROM a Residential R1 (R1-9) Zone TO a holding Residential R9 Special Provision (h-13*R9-7(_)*H35) Zone', plus an Official Plan amendment adding the lands to a Specific Policy Area. R1 (lowest-density detached) to R9 with a 35m height allowance is an unambiguous density/height increase. housing/density/expansive confirmed."
+  },
+  {
+    "id": "7e9919ada1e1",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No.’s 273 and 289 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same source as Introduction/First Reading entry (86a0b633e388) -- Second Reading of the identical rezoning. housing/density/expansive confirmed."
+  },
+  {
+    "id": "c1f861b7ba8d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No.’s 273 and 289 APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same source as Introduction/First Reading entry (86a0b633e388) -- Third Reading and Enactment of the identical rezoning. housing/density/expansive confirmed."
+  },
+  {
+    "id": "108315b793a5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law authorizing a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 297 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "No committee report for Bill 297 exists in this dataset (99 Dundas St parking-lot licence to London Civic Centre LP likely arises from the Closed Session land-lease item on this same agenda, item 4). Full motion text carries no keyword hit for any of the 8 tracked issues -- 'Dundas Street' does not trigger the downtown cluster (that requires 'Dundas Place' specifically). No missed classification found; issue=none confirmed."
+  },
+  {
+    "id": "065b27df899a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law authorizing a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 297 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same reasoning as Introduction/First Reading entry (108315b793a5) -- Second Reading of the identical licence-agreement by-law. issue=none confirmed."
+  },
+  {
+    "id": "752180e500c8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law authorizing and approving a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street, and authorizing the Mayor and City Clerk to execute the Agreement.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 297 APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same reasoning as Introduction/First Reading entry (108315b793a5) -- Third Reading and Enactment of the identical licence-agreement by-law. issue=none confirmed."
+  }
+]
