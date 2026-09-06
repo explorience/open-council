@@ -1438,5 +1438,357 @@
   "now": "f)   a one-time funding allocation of up to $374,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023;",
   "reason": "Final gate item 3: this row's \"Motion (excerpt)\" cell renders blank on all 16 evidence rows it appears in (15 councillor pages plus the encampments issue page) because data/votes/_all-motions.json's own motionText for id 9ddf707bf29d (superseded id) is the empty string. Root cause is an extraction edge in scripts/generate-votes.ts's extractMotionText, not in this election pipeline's motionSnippet/generate-stances.ts: it reads only the vote-bearing eScribe content entry's OWN motion_texts, but this entry (the 8-7 vote on 2023-07-25 Council item 8.4.5, Housing Stability Services 2023-24 Contract Amendments) is one of eScribe's paired text-then-vote entries -- the operative text (\"That the motion BE FURTHER AMENDED by adding the following new part f)\" plus the $374,210 clause itself) sits on the IMMEDIATELY PRECEDING sibling content entry, which carries no vote of its own and so never surfaces in _all-motions.json at all. A corpus-wide sweep of data/votes/_all-motions.json found 75 motions (since 2013) with this same empty-motionText shape from the same extraction edge; cross-checked against every motion this generator actually publishes (data/election/stances.json + issues.json), only this one id is affected -- not class-shaped WITHIN the election hub's own divided-vote universe (2023+, non-procedural, non-unanimous), even though the underlying extractor defect is. Fixing scripts/generate-votes.ts itself is out of scope for this election-only LENS (it would touch every non-election vote page site-wide, not just this row); filled in here, additively, from the meeting JSON's own text (data/2023-07/2023-07-25 13th Meeting of City Council.json, item 8 > 4 > 5, third content block's motion_texts) for this one id. Note this specific $374,210 figure was itself later amended down to $200,000 by a subsequent 11-4 vote before the main motion passed unanimously as amended -- $374,210 is the figure THIS specific 8-7 division actually decided, which is why it's the correct excerpt for this row rather than the eventually-adopted number. This motion's own classify-layer whatAYeaDid (batch-22-verified.json) already correctly names the $374,210 figure, so even before this fix a reader had the dollar amount to search the meeting page by; this excerpt fix makes the raw motion text visible too, for a row whose anchor is ambiguous (links only to the meeting page -- item 8.4.5 has multiple lettered/re-amended sub-motions sharing one heading, so no single-motion anchor is possible).",
   "quote": "f)   a one-time funding allocation of up to $374,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023;"
+ },
+ {
+  "id": "6e5b3da1988c",
+  "field": "whatAYeaDid",
+  "was": "Supported referring the Community Encampment Response Plan buffer-distance guidelines (an alternative set of proximity limits) back to Civic Administration to report back with additional options, rather than adopting final guidelines.",
+  "now": "Would have supported referring the Community Encampment Response Plan buffer-distance guidelines (an alternative set of proximity limits) back to Civic Administration to report back with additional options, rather than adopting final guidelines.",
+  "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (5 to 10) on 2024-06-18 (SPPC item, encampments), but this label described the referral as accomplished fact with no hedge. Reworded to the corpus's established \"Would have <verb>...\" construction for a Failed motion's whatAYeaDid (see 050a9f0f9146), so the identical field heals the issue-page cell and the councillor-page unclear-section cell it renders into alike. Read against the full motion text at months/2024-06/2024-06-18 11th Meeting of the Strategic Priorities and Policy Committee; the referral genuinely failed and the label still describes what a yea supported, not the outcome.",
+  "quote": "the Community Encampment Response Plan as appended to the staff report dated June 18, 2024 as Schedule 1 BE REFERRED to Civic Administration to report back to Strategic Priorities and Policy Committee on the guidelines contained on page 36 with respect to options"
+ },
+ {
+  "id": "917b3609658b",
+  "field": "whatAYeaDid",
+  "was": "Supported referring the Community Encampment Response Plan buffer-distance guidelines (proximity limits from schools, playgrounds, residences, and sports fields) back to Civic Administration to report back with additional distance options, rather than adopting final guidelines.",
+  "now": "Would have supported referring the Community Encampment Response Plan buffer-distance guidelines (proximity limits from schools, playgrounds, residences, and sports fields) back to Civic Administration to report back with additional distance options, rather than adopting final guidelines.",
+  "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (4 to 11) on 2024-06-18 (SPPC item, encampments), same defect and same fix as 6e5b3da1988c (the sibling referral motion on the same item) -- unhedged accomplished-fact phrasing reworded to the corpus's \"Would have <verb>...\" hedge. Full motion text confirms the referral failed; the label still names what a yea supported.",
+  "quote": "the Community Encampment Response Plan as appended to the staff report dated June 18, 2024 as Schedule 1 BE REFERRED to Civic Administration to report back to Strategic Priorities and Policy Committee on the guidelines contained on page 36 with respect to options"
+ },
+ {
+  "id": "cb38db322931",
+  "field": "whatAYeaDid",
+  "was": "supported referring the Whole of Community System Response Hubs Implementation Plan to a future special meeting that would include a public participation meeting, rather than deciding it that day.",
+  "now": "Would have supported referring the Whole of Community System Response Hubs Implementation Plan to a future special meeting that would include a public participation meeting, rather than deciding it that day.",
+  "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (4 to 11) on 2023-07-24 (Special SPPC item 4.1). The existing \"would include\" phrase describes the meeting's own content, not a hedge on the outcome, so the sweep correctly still flagged it -- added the corpus's \"Would have <verb>...\" hedge at the front. Full motion text (verbatim quote below) confirms this referral genuinely failed.",
+  "quote": "That consideration of the matter of London's Health and Homelessness Whole of Community System Response BE REFERRED to a future special meeting of the Strategic Priorities and Policy Committee which would include a public participation meeting."
+ },
+ {
+  "id": "2dff8f547da2",
+  "field": "whatAYeaDid",
+  "was": "supported holding a Public Participation Meeting on the Core Area Land and Building Vacancy Reduction Strategy before multi-year budget deliberations began.",
+  "now": "Would have supported holding a Public Participation Meeting on the Core Area Land and Building Vacancy Reduction Strategy before multi-year budget deliberations began.",
+  "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (4 to 8) on 2023-05-30 (SPPC item 2.2, downtown). Unhedged accomplished-fact phrasing reworded to the corpus's \"Would have <verb>...\" hedge; full motion text confirms this scheduling motion genuinely failed.",
+  "quote": "the SPPC hold a Public Participation Meeting to consider the matters in this report and other feedback, and that the meeting be scheduled prior to the commencement of the multi-year budget deliberations"
+ },
+ {
+  "id": "367e2d2e2c97",
+  "field": "whatAYeaDid",
+  "was": "Directed Civic Administration to bring forward financing and further financial analysis for the Budweiser Gardens expansion's Phase 1, and to forward both phases and the Ovations Food Services contract extension to the 2024-2027 Multi-Year Budget process, rather than deciding financing now.",
+  "now": "Would have directed Civic Administration to bring forward financing and further financial analysis for the Budweiser Gardens expansion's Phase 1, and to forward both phases and the Ovations Food Services contract extension to the 2024-2027 Multi-Year Budget process, rather than deciding financing now.",
+  "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (2 to 3) on 2023-05-23 (Corporate Services Committee, budget). Unhedged accomplished-fact phrasing reworded to the corpus's \"Would have <verb>...\" hedge; the batch-25 verifierNote already confirms the 2-3 vote and that this losing motion would have deferred Phase 1 financing rather than committing it immediately.",
+  "quote": "Civic Administration BE DIRECTED to bring forward a confirmed source of financing and further financial analysis for Phase 1 and that both Phase 1 and 2 will be forwarded to the 2024-2027 Multi-Year Budget process"
+ },
+ {
+  "id": "1423b4a632f8",
+  "field": "whatAYeaDid",
+  "was": "Supported receiving a resident communication and verbal delegation on a Harris Park tree-planting proposal and referring it to the future Tree Planting Strategy process, without deciding any planting commitment itself.",
+  "now": "Would have supported receiving a resident communication and verbal delegation on a Harris Park tree-planting proposal and referring it to the future Tree Planting Strategy process, without deciding any planting commitment itself.",
+  "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (6 to 8) on 2024-05-14 (Council item 8.3.11, climate). Unhedged accomplished-fact phrasing reworded to the corpus's \"Would have <verb>...\" hedge; batch-29 verifierNote already confirms both the receive and refer clauses are pure deferral verbs and that the motion failed 6-8.",
+  "quote": "the above-noted communication BE REFERRED to the future work of the Tree Planting Strategy for consideration as part of that process."
+ },
+ {
+  "id": "e58982c980db",
+  "field": "whatAYeaDid",
+  "was": "Referred the 2025 London and Middlesex Community Housing Asset Management Plan back for revisions, including a property-by-property facilities-condition breakdown and further options on financing the infrastructure gap.",
+  "now": "Would have referred the 2025 London and Middlesex Community Housing Asset Management Plan back for revisions, including a property-by-property facilities-condition breakdown and further options on financing the infrastructure gap.",
+  "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (2 to 11) on 2025-05-27 (SPPC item, housing). Unhedged accomplished-fact phrasing reworded to the corpus's \"Would have <verb>...\" hedge; batch-33 verifierNote already confirms this is the losing referral motion on the item (the rival referral passed instead).",
+  "quote": "the \u201c2025 London and Middlesex Community Housing Asset Management Plan\u201d, appended to the staff report as Appendix \u201cA\u201d, BE REFERRED to the meeting of the Strategic Priorities and Policy Committee to be held on June 17, 2025 with a request to London and Middlesex Housing Community Housing to include in a revised Asset Management Plan"
+ },
+ {
+  "id": "635bbd16c5b9",
+  "field": "whatAYeaDid",
+  "was": "Received the Community Advisory Committee on Planning's comments on a draft Plan of Subdivision at 1944 Bradley Avenue, without deciding the application itself.",
+  "now": "Would have received the Community Advisory Committee on Planning's comments on a draft Plan of Subdivision at 1944 Bradley Avenue, without deciding the application itself.",
+  "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (2 to 3) on 2023-10-23 (Planning and Environment Committee item 4.2, housing). Unhedged accomplished-fact phrasing reworded to the corpus's \"Would have <verb>...\" hedge; batch-27 verifierNote already confirms this is a pure 'BE RECEIVED' of advisory comments, no approve/deny verb.",
+  "quote": "the Community Advisory Committee on Planning (CACP) made the following comments with respect to the Notice of Planning Application, dated September 18, 2023, from L. Mottram, Senior Planner, related to a Draft Plan of Subdivision for the property located at 1944 Bradley Avenue"
+ },
+ {
+  "id": "35201adfaee7",
+  "field": "whatAYeaDid",
+  "was": "Supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update.",
+  "now": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update.",
+  "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (5 to 10) on 2025-11-20 (Budget Committee item 4.3), unhedged -- reworded to the \"Would have <verb>...\" hedge. This is the FIRST, pre-reconsideration vote on Business Case #P-2 (content[3] of the raw meeting JSON; Trosow yea, McAlister nay) -- left unqualified per the corpus convention that only the later, re-voted motion gets a reconsideration qualifier (see 4a5dca856513, this same item's post-reconsideration re-vote). Also resolves verify-issue-page-rows-distinct.py's flagged byte-identical rows 33/34 on issues/budget.md by giving the two distinct roll calls distinct whatAYeaDid text.",
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update"
+ },
+ {
+  "id": "4a5dca856513",
+  "field": "whatAYeaDid",
+  "was": "Supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update.",
+  "now": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update, following a reconsideration vote.",
+  "reason": "sweep-failed-motion-yea.py / sweep-outcome-verb-inversion.py: Motion Failed (5 to 10) on 2025-11-20 (Budget Committee item 4.3), unhedged -- reworded to the \"Would have <verb>...\" hedge. This is the SECOND, post-reconsideration re-vote on Business Case #P-2 (content[5] of the raw meeting JSON, following Trosow's motion to reconsider under Council Procedure By-law s.35.7, Passed 15-0, content[4]; Trosow flipped to nay, McAlister flipped to yea vs. the first vote, 35201adfaee7) -- given the corpus's established reconsideration qualifier (see 3e064e3441fd's \"following a reconsideration vote\") so the two distinct roll calls read as distinct. Also resolves verify-issue-page-rows-distinct.py's flagged byte-identical rows 33/34 on issues/budget.md -- never a deleted vote, both recorded roll calls are kept and now distinguished.",
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update"
+ },
+ {
+  "id": "4a5dca856513",
+  "field": "axis",
+  "was": "business-case",
+  "now": "levy-size",
+  "reason": "verify-round4-items.py (business-case axis emptied): retired axis still assigned. Round-4 policy (see 81604ebe0e88/0666282b30d3) -- this motion's own text carries an explicit Tax Levy line: 'Business Case #P-2 ... BE EXCLUDED ... 2026 Tax Levy: -$2,366,000'. Per the corpus's established mechanical sign convention (EXCLUDED + negative levy -> expansive; see sweep-levy-sign-consistency.py), this is the corpus's expansive key. Reclassified onto levy-size, which describes the actual fiscal direction, instead of the retired, direction-agnostic business-case include/exclude label. This is the SECOND, post-reconsideration re-vote on item 4.3 (2025-11-20 Budget Committee) -- see the whatAYeaDid correction on this id for the reconsideration/roll-call detail.",
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
+ },
+ {
+  "id": "4a5dca856513",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": "expansive",
+  "reason": "Following from the axis correction on this id: per the corpus's established mechanical sign convention (sweep-business-case-levy.py's derive_polarity / sweep-levy-sign-consistency.py's documented CONVENTION table -- \"BE EXCLUDED + negative levy -> expansive (yea keeps a levy cut in place)\"), this row's own key is (EXCLUDED, negative): the Tax Levy line attached to Business Case #P-2 is the case's own fiscal footprint (-$2,366,000, a cut), and voting yea to EXCLUDE this cut from the budget keeps that cut from taking effect -- the levy stays HIGHER than it would with the cut applied, the levy-size axis's expansive outcome. The original batch-36 verifierNote read this as restrictive by treating the dollar line as the marginal effect of passing THIS motion rather than the case's own intrinsic sign -- corrected to match the convention every other (verb, sign) group in the corpus follows (see sweep-levy-sign-consistency.py).",
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
+ },
+ {
+  "id": "35201adfaee7",
+  "field": "axis",
+  "was": "business-case",
+  "now": "levy-size",
+  "reason": "verify-round4-items.py (business-case axis emptied): retired axis still assigned. Round-4 policy (see 81604ebe0e88/0666282b30d3) -- this motion's own text carries an explicit Tax Levy line: 'Business Case #P-2 ... BE EXCLUDED ... 2026 Tax Levy: -$2,366,000'. Per the corpus's established mechanical sign convention (EXCLUDED + negative levy -> expansive; see sweep-levy-sign-consistency.py), this is the corpus's expansive key. Reclassified onto levy-size, which describes the actual fiscal direction, instead of the retired, direction-agnostic business-case include/exclude label. This is the FIRST, pre-reconsideration vote on item 4.3 (2025-11-20 Budget Committee) -- see the whatAYeaDid correction on this id for the reconsideration/roll-call detail.",
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
+ },
+ {
+  "id": "35201adfaee7",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": "expansive",
+  "reason": "Following from the axis correction on this id: per the corpus's established mechanical sign convention (sweep-business-case-levy.py's derive_polarity / sweep-levy-sign-consistency.py's documented CONVENTION table -- \"BE EXCLUDED + negative levy -> expansive (yea keeps a levy cut in place)\"), this row's own key is (EXCLUDED, negative): the Tax Levy line attached to Business Case #P-2 is the case's own fiscal footprint (-$2,366,000, a cut), and voting yea to EXCLUDE this cut from the budget keeps that cut from taking effect -- the levy stays HIGHER than it would with the cut applied, the levy-size axis's expansive outcome. The original batch-36 verifierNote read this as restrictive by treating the dollar line as the marginal effect of passing THIS motion rather than the case's own intrinsic sign -- corrected to match the convention every other (verb, sign) group in the corpus follows (see sweep-levy-sign-consistency.py).",
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
+ },
+ {
+  "id": "e0736e966afc",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "verify-round4-items.py (business-case axis emptied): retired axis still assigned. Round-4 policy (see 050a9f0f9146/fdbfa59e401a) -- re-read against the raw 2024-02-29 5th Special Meeting of City Council JSON: this motion removes Business Case #P-5 (Fire Department Breathing Apparatus/Decontamination) from the 2024-2027 MYB and refers it to the 2028-2031 MYB, but carries no 'Tax Levy' dollar line of its own -- a funding-cycle deferral, not a stated levy change, so there is no sign to derive a fiscal direction from. Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-5 \u2013 Fire Department Breathing Apparatus and Breathing Apparatus Decontamination (Amended \u2013 funding deferred from 2024 to 2026), and that this Business Case BE REFERRED to the 2028-2031 MYB noting that the equipment\u2019s lifecycle renewal is 2031"
+ },
+ {
+  "id": "e0736e966afc",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-5 \u2013 Fire Department Breathing Apparatus and Breathing Apparatus Decontamination (Amended \u2013 funding deferred from 2024 to 2026), and that this Business Case BE REFERRED to the 2028-2031 MYB"
+ },
+ {
+  "id": "714b9ae9db70",
+  "field": "axis",
+  "was": "business-case",
+  "now": null,
+  "reason": "verify-round4-items.py (business-case axis emptied): retired axis still assigned. Round-4 policy (see 050a9f0f9146/fdbfa59e401a) -- re-read against the raw 2023-05-30 16th Meeting of the SPPC JSON: this motion directs Civic Administration to PREPARE a business case for the Coves Silver Creek Restoration Project for future Multi-Year Budget deliberations. It carries no dollar figure at all, let alone a Tax Levy line -- an information/study request, not an inclusion or exclusion with a fiscal sign. Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+  "quote": "the Civic Administration BE DIRECTED to prepare business cases for the following for consideration during the Multi-Year Budget deliberations: a) New Funding, Existing Strategies related to: i) Coves Silver Creek Restoration Project;"
+ },
+ {
+  "id": "714b9ae9db70",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+  "quote": "the Civic Administration BE DIRECTED to prepare business cases for the following for consideration during the Multi-Year Budget deliberations: a) New Funding, Existing Strategies related to: i) Coves Silver Creek Restoration Project;"
+ },
+ {
+  "id": "434e1f895232",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+  "now": "Gave first reading to the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-06/2025-06-03 9th Council Meeting (By-laws item, Bill No. 242): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Introduction and First Reading of Bill No. 242 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Introduction and First Reading of Bill No. 242 BE APPROVED."
+ },
+ {
+  "id": "07d34b3acbf4",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+  "now": "Gave second reading to the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-06/2025-06-03 9th Council Meeting (By-laws item, Bill No. 242): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Second Reading of Bill No. 242 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Second Reading of Bill No. 242 BE APPROVED."
+ },
+ {
+  "id": "ade980876004",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+  "now": "Gave third reading and enacted the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-06/2025-06-03 9th Council Meeting (By-laws item, Bill No. 242): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Third Reading and Enactment of Bill No. 242 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Third Reading and Enactment of Bill No. 242 BE APPROVED."
+ },
+ {
+  "id": "a2f046689f4d",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+  "now": "Gave first reading to the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-06/2025-06-03 9th Council Meeting (By-laws item, Bill No. 240): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Introduction and First Reading of Bill No. 240 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Introduction and First Reading of Bill No. 240 BE APPROVED."
+ },
+ {
+  "id": "03e79279ff06",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+  "now": "Gave second reading to the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-06/2025-06-03 9th Council Meeting (By-laws item, Bill No. 240): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Second Reading of Bill No. 240 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Second Reading of Bill No. 240 BE APPROVED."
+ },
+ {
+  "id": "c619398e063d",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+  "now": "Gave third reading and enacted the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-06/2025-06-03 9th Council Meeting (By-laws item, Bill No. 240): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Third Reading and Enactment of Bill No. 240 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Third Reading and Enactment of Bill No. 240 BE APPROVED."
+ },
+ {
+  "id": "a1a32e213ed5",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+  "now": "Gave first reading to the by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-06/2025-06-03 9th Council Meeting (By-laws item, Bill No.'s 196 and 243): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Introduction and First Reading of Bill No.'s 196 and 243 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Introduction and First Reading of Bill No.'s 196 and 243 BE APPROVED."
+ },
+ {
+  "id": "ffe105377ba3",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+  "now": "Gave second reading to the by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-06/2025-06-03 9th Council Meeting (By-laws item, Bill No.'s 196 and 243): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Second Reading of Bill No.'s 196 and 243 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Second Reading of Bill No.'s 196 and 243 BE APPROVED."
+ },
+ {
+  "id": "0530fb10adb8",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+  "now": "Gave third reading and enacted the by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-06/2025-06-03 9th Council Meeting (By-laws item, Bill No.'s 196 and 243): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Third Reading and Enactment of Bill No.'s 196 and 243 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Third Reading and Enactment of Bill No.'s 196 and 243 BE APPROVED."
+ },
+ {
+  "id": "9ed9e0193161",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+  "now": "Gave first reading to the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-05/2025-05-13 8th Council Meeting (By-laws item, Bill No. 179): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Introduction and First Reading of Bill No. 179 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Introduction and First Reading of Bill No. 179 BE APPROVED."
+ },
+ {
+  "id": "24342621063b",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+  "now": "Gave second reading to the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-05/2025-05-13 8th Council Meeting (By-laws item, Bill No. 179): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Second Reading of Bill No. 179 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Second Reading of Bill No. 179 BE APPROVED."
+ },
+ {
+  "id": "fc91920ce872",
+  "field": "whatAYeaDid",
+  "was": "Supported introducing the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+  "now": "Gave third reading and enacted the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2025-05/2025-05-13 8th Council Meeting (By-laws item, Bill No. 179): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Third Reading and Enactment of Bill No. 179 BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Third Reading and Enactment of Bill No. 179 BE APPROVED."
+ },
+ {
+  "id": "dbd8019b0c41",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the Official Plan Amendment and rezoning by-laws (Bill No.'s 219, 234, and 235) covering 323 Oxford Street West/92 and 825 Proudfoot Lane and 735 Southdale Road West.",
+  "now": "Gave first reading to the Official Plan Amendment and rezoning by-laws (Bill No.'s 219, 234, and 235) covering 323 Oxford Street West/92 and 825 Proudfoot Lane and 735 Southdale Road West.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2024-06/2024-06-25 12th Meeting of City Council (By-laws item, Bill No.'s 219, 234, 235): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Introduction and First Reading of Bill No.'s 219, 234, and 235 BE APPROVED') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Introduction and First Reading of Bill No.'s 219, 234, and 235 BE APPROVED"
+ },
+ {
+  "id": "e5c506071327",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the Official Plan Amendment and rezoning by-laws (Bill No.'s 219, 234, and 235) covering 323 Oxford Street West/92 and 825 Proudfoot Lane and 735 Southdale Road West.",
+  "now": "Gave second reading to the Official Plan Amendment and rezoning by-laws (Bill No.'s 219, 234, and 235) covering 323 Oxford Street West/92 and 825 Proudfoot Lane and 735 Southdale Road West.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2024-06/2024-06-25 12th Meeting of City Council (By-laws item, Bill No.'s 219, 234, 235): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Second Reading of Bill No.'s 219, 234, and 235 BE APPROVED') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Second Reading of Bill No.'s 219, 234, and 235 BE APPROVED"
+ },
+ {
+  "id": "12dbceb9d7d3",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the Official Plan Amendment and rezoning by-laws (Bill No.'s 219, 234, and 235) covering 323 Oxford Street West/92 and 825 Proudfoot Lane and 735 Southdale Road West.",
+  "now": "Gave third reading and enacted the Official Plan Amendment and rezoning by-laws (Bill No.'s 219, 234, and 235) covering 323 Oxford Street West/92 and 825 Proudfoot Lane and 735 Southdale Road West.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2024-06/2024-06-25 12th Meeting of City Council (By-laws item, Bill No.'s 219, 234, 235): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Third Reading and Enactment of Bill No.'s 219, 234, and 235 BE APPROVED') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Third Reading and Enactment of Bill No.'s 219, 234, and 235 BE APPROVED"
+ },
+ {
+  "id": "f14bfb03eecf",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law rezoning 233 Cambridge Street from a Residential R1 zone to a Holding Residential R2 special-provision zone, permitting additional housing units.",
+  "now": "Gave first reading to a by-law rezoning 233 Cambridge Street from a Residential R1 zone to a Holding Residential R2 special-provision zone, permitting additional housing units.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Bill No. 80): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Introduction and First Reading of Bill No. 80, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Introduction and First Reading of Bill No. 80, BE APPROVED."
+ },
+ {
+  "id": "de06bee73456",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law rezoning 233 Cambridge Street from a Residential R1 zone to a Holding Residential R2 special-provision zone, permitting additional housing units.",
+  "now": "Gave second reading to a by-law rezoning 233 Cambridge Street from a Residential R1 zone to a Holding Residential R2 special-provision zone, permitting additional housing units.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Bill No. 80): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Second Reading of Bill No. 80, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Second Reading of Bill No. 80, BE APPROVED."
+ },
+ {
+  "id": "d0d40d76aa7a",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law rezoning 233 Cambridge Street from a Residential R1 zone to a Holding Residential R2 special-provision zone, permitting additional housing units.",
+  "now": "Gave third reading and enacted a by-law rezoning 233 Cambridge Street from a Residential R1 zone to a Holding Residential R2 special-provision zone, permitting additional housing units.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Bill No. 80): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Third Reading and Enactment of Bill No. 80, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Third Reading and Enactment of Bill No. 80, BE APPROVED."
+ },
+ {
+  "id": "eca3027452a1",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law rezoning 644-664 Southdale Road East and 821 Nadine Avenue to a Residential R3/Transit Station Area special-provision zone as part of a transit-corridor intensification project.",
+  "now": "Gave first reading to a by-law rezoning 644-664 Southdale Road East and 821 Nadine Avenue to a Residential R3/Transit Station Area special-provision zone as part of a transit-corridor intensification project.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Bill No. 81): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Introduction and First Reading of Bill No. 81, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Introduction and First Reading of Bill No. 81, BE APPROVED."
+ },
+ {
+  "id": "cc3f10abbbb4",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law rezoning 644-664 Southdale Road East and 821 Nadine Avenue to a Residential R3/Transit Station Area special-provision zone as part of a transit-corridor intensification project.",
+  "now": "Gave second reading to a by-law rezoning 644-664 Southdale Road East and 821 Nadine Avenue to a Residential R3/Transit Station Area special-provision zone as part of a transit-corridor intensification project.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Bill No. 81): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Second Reading of Bill No. 81, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Second Reading of Bill No. 81, BE APPROVED."
+ },
+ {
+  "id": "c75df9adc395",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law rezoning 644-664 Southdale Road East and 821 Nadine Avenue to a Residential R3/Transit Station Area special-provision zone as part of a transit-corridor intensification project.",
+  "now": "Gave third reading and enacted a by-law rezoning 644-664 Southdale Road East and 821 Nadine Avenue to a Residential R3/Transit Station Area special-provision zone as part of a transit-corridor intensification project.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Bill No. 81): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Third Reading and Enactment of Bill No. 81, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Third Reading and Enactment of Bill No. 81, BE APPROVED."
+ },
+ {
+  "id": "4d40e1886a94",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law rezoning 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R5/R1 zones to a Holding Residential R8 special-provision zone, permitting an apartment building.",
+  "now": "Gave first reading to a by-law rezoning 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R5/R1 zones to a Holding Residential R8 special-provision zone, permitting an apartment building.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Revised Bill No. 82): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Introduction and First Reading of Revised Bill No. 82, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Introduction and First Reading of Revised Bill No. 82, BE APPROVED."
+ },
+ {
+  "id": "c3ffe26f3197",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law rezoning 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R5/R1 zones to a Holding Residential R8 special-provision zone, permitting an apartment building.",
+  "now": "Gave second reading to a by-law rezoning 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R5/R1 zones to a Holding Residential R8 special-provision zone, permitting an apartment building.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Revised Bill No. 82): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Second Reading of Revised Bill No. 82, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Second Reading of Revised Bill No. 82, BE APPROVED."
+ },
+ {
+  "id": "d74277dbff4d",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law rezoning 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R5/R1 zones to a Holding Residential R8 special-provision zone, permitting an apartment building.",
+  "now": "Gave third reading and enacted a by-law rezoning 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R5/R1 zones to a Holding Residential R8 special-provision zone, permitting an apartment building.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' all readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Revised Bill No. 82): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Third Reading and Enactment of Revised Bill No. 82, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Third Reading and Enactment of Revised Bill No. 82, BE APPROVED."
+ },
+ {
+  "id": "db64703634b8",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
+  "now": "Gave first reading to a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' both readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Bill No. 64): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Introduction and First Reading of Bill No. 64, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Introduction and First Reading of Bill No. 64, BE APPROVED."
+ },
+ {
+  "id": "e64c35d4457d",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
+  "now": "Gave second reading to a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
+  "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' both readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Bill No. 64): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Second Reading of Bill No. 64, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
+  "quote": "That Second Reading of Bill No. 64, BE APPROVED."
  }
 ]
