@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T17:25:49.493Z",
+  "generatedAt": "2026-09-06T18:12:10.442Z",
   "sourceHash": "c89decb146e3da17",
   "sourceGeneratedAt": "2026-09-05T10:52:14.158Z",
   "cutoffDate": "2023-01-01",
@@ -13043,7 +13043,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project."
+            "label": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project."
           },
           "positions": {
             "j-morgan": "yea",
@@ -16889,7 +16889,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+            "label": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -17093,7 +17093,7 @@
           "direction": {
             "axis": "transit-service",
             "valence": 1,
-            "label": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+            "label": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
             "axisLabels": {
               "expansive": "expanded public transit service or transit infrastructure",
               "restrictive": "reduced public transit service or transit infrastructure"
@@ -43463,7 +43463,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+            "label": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
             "axisLabels": {
               "expansive": "approved the development, rezoning, or housing-policy item",
               "restrictive": "denied the development, rezoning, or housing-policy item"

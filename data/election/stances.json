@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T17:25:49.663Z",
+  "generatedAt": "2026-09-06T18:12:10.617Z",
   "sourceHash": "c89decb146e3da17",
   "sourceGeneratedAt": "2026-09-05T10:52:14.158Z",
   "cutoffDate": "2023-01-01",
@@ -430,7 +430,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -452,7 +452,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "17cb6a0556ae",
@@ -1797,7 +1797,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -3056,7 +3056,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -3122,7 +3122,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -4483,7 +4483,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -4500,7 +4500,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -4517,7 +4517,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -4534,7 +4534,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -4551,7 +4551,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -4752,7 +4752,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -4774,7 +4774,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -4796,7 +4796,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -4818,7 +4818,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -4840,7 +4840,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -6667,7 +6667,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -6733,7 +6733,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -6934,7 +6934,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -7288,7 +7288,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -10352,7 +10352,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -10792,7 +10792,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "opposed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -12442,7 +12442,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "5956a4becf9d",
@@ -12464,7 +12464,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": null,
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -14683,7 +14683,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -18231,7 +18231,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "77276ee33106",
@@ -19987,7 +19987,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -20004,7 +20004,7 @@
                   "meetingType": "Council",
                   "result": "Motion Failed (6 to 9)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -20250,7 +20250,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "backed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -20272,7 +20272,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "17cb6a0556ae",
@@ -21548,7 +21548,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -22851,7 +22851,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -22917,7 +22917,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -24212,7 +24212,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -24229,7 +24229,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -24246,7 +24246,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -24263,7 +24263,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -24280,7 +24280,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -24503,7 +24503,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -24525,7 +24525,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -24547,7 +24547,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -24569,7 +24569,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -24591,7 +24591,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -26444,7 +26444,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -26510,7 +26510,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -26711,7 +26711,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -27087,7 +27087,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -29981,7 +29981,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -30421,7 +30421,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "opposed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -32137,7 +32137,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -34490,7 +34490,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -37695,7 +37695,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "86cd192532a6",
@@ -39297,7 +39297,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -39314,7 +39314,7 @@
                   "meetingType": "Council",
                   "result": "Motion Failed (6 to 9)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -39696,7 +39696,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -39718,7 +39718,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1604cf591bfc",
@@ -40950,7 +40950,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -42341,7 +42341,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -42407,7 +42407,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -43724,7 +43724,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -43741,7 +43741,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -43758,7 +43758,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -43775,7 +43775,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -43792,7 +43792,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -43993,7 +43993,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -44015,7 +44015,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -44037,7 +44037,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -44059,7 +44059,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -44081,7 +44081,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -45888,7 +45888,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -45954,7 +45954,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -46133,7 +46133,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -46465,7 +46465,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -49215,7 +49215,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -49611,7 +49611,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "opposed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -51195,7 +51195,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "5956a4becf9d",
@@ -51217,7 +51217,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -53744,7 +53744,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -57522,7 +57522,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "77276ee33106",
@@ -59731,7 +59731,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -59753,7 +59753,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "17cb6a0556ae",
@@ -61098,7 +61098,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -62401,7 +62401,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -62467,7 +62467,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -63762,7 +63762,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -63779,7 +63779,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -63796,7 +63796,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -63813,7 +63813,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -63830,7 +63830,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -64053,7 +64053,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -64075,7 +64075,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -64097,7 +64097,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -64119,7 +64119,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -64141,7 +64141,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -65936,7 +65936,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -66002,7 +66002,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -66203,7 +66203,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -66579,7 +66579,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -69439,7 +69439,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -69870,7 +69870,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "backed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -71454,7 +71454,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "5956a4becf9d",
@@ -71476,7 +71476,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -73884,7 +73884,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "absent",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": null,
                   "decisionKey": null,
                   "role": null
@@ -77332,7 +77332,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "86cd192532a6",
@@ -79260,7 +79260,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -79282,7 +79282,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "17cb6a0556ae",
@@ -80583,7 +80583,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -81820,7 +81820,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -81886,7 +81886,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -83289,7 +83289,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -83311,7 +83311,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -83333,7 +83333,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -83355,7 +83355,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -83377,7 +83377,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -85182,7 +85182,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "absent",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": null,
                   "decisionKey": null,
                   "role": null
@@ -85248,7 +85248,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "absent",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": null,
                   "decisionKey": null,
                   "role": null
@@ -85427,7 +85427,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -85759,7 +85759,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "nay",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -88577,7 +88577,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -89017,7 +89017,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "backed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -90724,7 +90724,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -93058,7 +93058,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -96422,7 +96422,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "77276ee33106",
@@ -97914,7 +97914,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -97931,7 +97931,7 @@
                   "meetingType": "Council",
                   "result": "Motion Failed (6 to 9)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -98454,7 +98454,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "backed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -98476,7 +98476,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1604cf591bfc",
@@ -99865,7 +99865,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -101322,7 +101322,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -101388,7 +101388,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -102857,7 +102857,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -102879,7 +102879,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -102901,7 +102901,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -102923,7 +102923,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -102945,7 +102945,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -104952,7 +104952,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -105018,7 +105018,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -105197,7 +105197,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -105573,7 +105573,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -108396,7 +108396,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -108770,7 +108770,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "opposed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -110389,7 +110389,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -112476,7 +112476,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -114763,7 +114763,7 @@
               "whatAYeaDid": "Would have amended the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "ebcc178844f5",
@@ -115621,7 +115621,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "86cd192532a6",
@@ -117508,7 +117508,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "backed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -117530,7 +117530,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "opposed a measure that would have reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1604cf591bfc",
@@ -118828,7 +118828,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "opposed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -120285,7 +120285,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -120351,7 +120351,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -121690,7 +121690,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -121707,7 +121707,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -121724,7 +121724,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -121741,7 +121741,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -121758,7 +121758,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -121981,7 +121981,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -122003,7 +122003,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -122025,7 +122025,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -122047,7 +122047,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -122069,7 +122069,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -123908,7 +123908,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -123974,7 +123974,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -124175,7 +124175,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -124551,7 +124551,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -127394,7 +127394,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "opposed a measure that would have increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -127790,7 +127790,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "opposed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -129418,7 +129418,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "backed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -131987,7 +131987,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "nay",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "opposed a measure that would have approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -134444,7 +134444,7 @@
               "whatAYeaDid": "Would have amended the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "ebcc178844f5",
@@ -135302,7 +135302,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "86cd192532a6",
@@ -137359,7 +137359,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -137381,7 +137381,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "17cb6a0556ae",
@@ -138613,7 +138613,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -139850,7 +139850,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -139916,7 +139916,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -141299,7 +141299,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -141316,7 +141316,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -141333,7 +141333,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -141350,7 +141350,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -141367,7 +141367,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -141568,7 +141568,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -141590,7 +141590,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -141612,7 +141612,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -141634,7 +141634,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -141656,7 +141656,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -143573,7 +143573,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "absent",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": null,
                   "decisionKey": null,
                   "role": null
@@ -143639,7 +143639,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -143840,7 +143840,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -144172,7 +144172,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -147190,7 +147190,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -147586,7 +147586,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "opposed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -149214,7 +149214,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -151490,7 +151490,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -154004,7 +154004,7 @@
               "whatAYeaDid": "Would have amended the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "ebcc178844f5",
@@ -154818,7 +154818,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "77276ee33106",
@@ -156868,7 +156868,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -156890,7 +156890,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "17cb6a0556ae",
@@ -158100,7 +158100,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -159337,7 +159337,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -159403,7 +159403,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -160698,7 +160698,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -160715,7 +160715,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -160732,7 +160732,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -160749,7 +160749,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -160766,7 +160766,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -160967,7 +160967,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -160989,7 +160989,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -161011,7 +161011,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -161033,7 +161033,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -161055,7 +161055,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -162772,7 +162772,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -162838,7 +162838,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -163017,7 +163017,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -163349,7 +163349,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -166099,7 +166099,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -166473,7 +166473,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "backed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -168070,7 +168070,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "5956a4becf9d",
@@ -168092,7 +168092,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -170632,7 +170632,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -174393,7 +174393,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "77276ee33106",
@@ -176237,7 +176237,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -176254,7 +176254,7 @@
                   "meetingType": "Council",
                   "result": "Motion Failed (6 to 9)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -176539,7 +176539,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "backed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -176561,7 +176561,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1604cf591bfc",
@@ -177793,7 +177793,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -179184,7 +179184,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -179250,7 +179250,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -180589,7 +180589,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -180606,7 +180606,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -180623,7 +180623,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -180640,7 +180640,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -180657,7 +180657,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -180858,7 +180858,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -180880,7 +180880,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -180902,7 +180902,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -180924,7 +180924,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -180946,7 +180946,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -182717,7 +182717,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -182783,7 +182783,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -182962,7 +182962,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -183294,7 +183294,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -186134,7 +186134,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -186508,7 +186508,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "opposed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -188070,7 +188070,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "backed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -190537,7 +190537,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "nay",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "opposed a measure that would have approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -193204,7 +193204,7 @@
               "whatAYeaDid": "Would have amended the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "ebcc178844f5",
@@ -194040,7 +194040,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "77276ee33106",
@@ -195939,7 +195939,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -195961,7 +195961,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "17cb6a0556ae",
@@ -197171,7 +197171,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -198408,7 +198408,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -198474,7 +198474,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -199769,7 +199769,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -199786,7 +199786,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -199803,7 +199803,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -199820,7 +199820,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -199837,7 +199837,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -200038,7 +200038,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -200060,7 +200060,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -200082,7 +200082,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -200104,7 +200104,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -200126,7 +200126,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -201997,7 +201997,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "nay",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "opposed a measure that would have expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -202063,7 +202063,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "nay",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "opposed a measure that would have expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -202230,7 +202230,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -202299,7 +202299,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -202631,7 +202631,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "absent",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -205513,7 +205513,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -205931,7 +205931,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "backed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -207603,7 +207603,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -211155,7 +211155,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "absent",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": null,
                   "decisionKey": null,
                   "role": null
@@ -212747,7 +212747,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "77276ee33106",
@@ -214239,7 +214239,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -214256,7 +214256,7 @@
                   "meetingType": "Council",
                   "result": "Motion Failed (6 to 9)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -214451,7 +214451,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "backed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -214473,7 +214473,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "17cb6a0556ae",
@@ -215752,7 +215752,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -216989,7 +216989,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -217055,7 +217055,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -218350,7 +218350,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -218367,7 +218367,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -218384,7 +218384,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -218401,7 +218401,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -218418,7 +218418,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -218619,7 +218619,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -218641,7 +218641,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -218663,7 +218663,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -218685,7 +218685,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -218707,7 +218707,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -220556,7 +220556,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -220622,7 +220622,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -220801,7 +220801,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "opposed a measure that would have expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -221133,7 +221133,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -223939,7 +223939,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -224335,7 +224335,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": null,
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -225985,7 +225985,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "backed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -228373,7 +228373,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -231908,7 +231908,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "77276ee33106",
@@ -233949,7 +233949,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -233971,7 +233971,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1604cf591bfc",
@@ -235052,7 +235052,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -236685,7 +236685,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -236751,7 +236751,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -238090,7 +238090,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -238107,7 +238107,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -238124,7 +238124,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -238141,7 +238141,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -238158,7 +238158,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -238359,7 +238359,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -238381,7 +238381,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -238403,7 +238403,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -238425,7 +238425,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -238447,7 +238447,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -240337,7 +240337,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "absent",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": null,
                   "decisionKey": null,
                   "role": null
@@ -240403,7 +240403,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "absent",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": null,
                   "decisionKey": null,
                   "role": null
@@ -240582,7 +240582,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -240914,7 +240914,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -242116,7 +242116,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (12 to 3)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -243800,7 +243800,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "opposed a measure that would have increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -244231,7 +244231,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": null,
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -245859,7 +245859,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "backed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "5956a4becf9d",
@@ -245881,7 +245881,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "backed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -248201,7 +248201,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "absent",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": null,
                   "decisionKey": null,
                   "role": null
@@ -251604,7 +251604,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "77276ee33106",
@@ -253250,7 +253250,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -253267,7 +253267,7 @@
                   "meetingType": "Council",
                   "result": "Motion Failed (6 to 9)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -253552,7 +253552,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "backed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -253574,7 +253574,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1604cf591bfc",
@@ -254894,7 +254894,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -256351,7 +256351,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -256417,7 +256417,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -257852,7 +257852,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -257869,7 +257869,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -257886,7 +257886,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -257903,7 +257903,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -257920,7 +257920,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -258143,7 +258143,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -258165,7 +258165,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -258187,7 +258187,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -258209,7 +258209,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "opposed a measure that would have removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -258231,7 +258231,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -260121,7 +260121,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -260187,7 +260187,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -260366,7 +260366,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -260742,7 +260742,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -263526,7 +263526,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "opposed a measure that would have increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -263957,7 +263957,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": "opposed a measure that would have directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -265563,7 +265563,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "backed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -267957,7 +267957,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "nay",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "opposed a measure that would have approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -270261,7 +270261,7 @@
               "whatAYeaDid": "Would have amended the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "ebcc178844f5",
@@ -271119,7 +271119,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "86cd192532a6",
@@ -272984,7 +272984,7 @@
                   "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "4c14fd4d7e15",
@@ -273006,7 +273006,7 @@
                   "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
                   "movedToward": "reduced the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "17cb6a0556ae",
@@ -274285,7 +274285,7 @@
                   "whatAYeaDid": "Directed Civic Administration to relocate people living unhoused out of Watson Park so the park complies with established encampment protocols, while connecting them to service supports including possible shelter options.",
                   "movedToward": "directed relocating people or services away from their current location",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "19f813e3d11f",
@@ -275522,7 +275522,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan endorsement to read with buffer-zone guidelines of 100 metres from playgrounds/pools/spray pads and 100 metres from sports fields.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "6e5b3da1988c",
@@ -275588,7 +275588,7 @@
               "whatAYeaDid": "Amended the Community Encampment Response Plan's buffer-zone guidelines to include a 150-metre setback from elementary schools/daycares and a 100-metre setback from private residential properties.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "c6f6010dcbc4",
@@ -276883,7 +276883,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (13 to 2)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -276900,7 +276900,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -276917,7 +276917,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (11 to 4)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -276934,7 +276934,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (9 to 6)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 },
                 {
@@ -276951,7 +276951,7 @@
                   "meetingType": "Strategic Priorities and Policy Committee",
                   "result": "Motion Passed (14 to 1)",
                   "resultNote": null,
-                  "role": null,
+                  "role": "amendment",
                   "supersededByReconsideration": false
                 }
               ],
@@ -277152,7 +277152,7 @@
                   "whatAYeaDid": "Removed the proposed Windermere Road to Gainsborough Road Active Transportation Connection from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "916f3366234a",
@@ -277174,7 +277174,7 @@
                   "whatAYeaDid": "Removed the proposed Huron Street, Taylor Street, McNay Street, and Gammage Street routes from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "0e1066f4e177",
@@ -277196,7 +277196,7 @@
                   "whatAYeaDid": "Removed the proposed Vancouver Street (Trafalgar Street to Wavell Street) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "8f30dc265f90",
@@ -277218,7 +277218,7 @@
                   "whatAYeaDid": "Removed the proposed Sovereign Road route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "bb1201cb1a09",
@@ -277240,7 +277240,7 @@
                   "whatAYeaDid": "Removed the proposed Royal Crescent (Clarke Road to Wexford Avenue to Admiral Drive) route from the Cycling Network maps.",
                   "movedToward": "removed or denied cycling infrastructure",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             },
@@ -278991,7 +278991,7 @@
                   "tally": "11-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+                  "whatAYeaDid": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -279057,7 +279057,7 @@
                   "tally": "12-1",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+                  "whatAYeaDid": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
                   "movedToward": "expanded public transit service or transit infrastructure",
                   "decisionKey": null,
                   "role": null
@@ -279236,7 +279236,7 @@
                   "whatAYeaDid": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
                   "movedToward": "expanded general-purpose road capacity",
                   "decisionKey": "road-capacity-bradley-roads-map-2025",
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "9ab2a13766e3",
@@ -279568,7 +279568,7 @@
               "tally": "13-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+              "whatAYeaDid": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -282216,7 +282216,7 @@
                   "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
                   "movedToward": "increased the tax levy or a budget item",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "1859dcfba3b7",
@@ -282590,7 +282590,7 @@
                   "whatAYeaDid": "Would have directed Civic Administration to work with Ark Aid Street Mission Inc. to relocate its front-door services off Dundas Street, as part of preparing the 2025 budget amendment.",
                   "movedToward": null,
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 }
               ]
             }
@@ -284152,7 +284152,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "opposed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "5956a4becf9d",
@@ -284174,7 +284174,7 @@
                   "whatAYeaDid": "Would have added a draft-plan condition requiring the developer to compensate for 1.27 hectares of removed wetlands and woodlands so there is no net loss of natural heritage features at the 3095 Bostwick Road subdivision.",
                   "movedToward": "backed a measure that would have increased tree canopy or natural-heritage protection",
                   "decisionKey": null,
-                  "role": null
+                  "role": "amendment"
                 },
                 {
                   "motionId": "a34731d34105",
@@ -286969,7 +286969,7 @@
                   "tally": "9-3",
                   "resultNote": null,
                   "theirVote": "yea",
-                  "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+                  "whatAYeaDid": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
                   "movedToward": "approved the development, rezoning, or housing-policy item",
                   "decisionKey": null,
                   "role": null
@@ -291087,7 +291087,7 @@
               "whatAYeaDid": "Referred the potential redevelopment of the 641 Queens Ave city-owned parking lot for staff to solicit expressions of interest to construct new dwelling units, and to report back in Q4 2025.",
               "movedToward": null,
               "decisionKey": null,
-              "role": null
+              "role": "amendment"
             },
             {
               "motionId": "77276ee33106",
