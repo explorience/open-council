@@ -1790,5 +1790,573 @@
   "now": "Gave second reading to a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
   "reason": "verify-ladder-bullets-distinct.py: this reading's whatAYeaDid was byte-identical to its sibling readings' both readings rendered as duplicate bullets in the same ladder-exclusion box on every voting councillor's page. months/2026-02/2026-02-10 3rd Council Meeting (By-laws item, Bill No. 64): each reading is its own recorded roll call with its own short, complete motion text stating its own stage ('That Second Reading of Bill No. 64, BE APPROVED.') -- reworded using the corpus's established reading-stage convention (see batch-25-verified.json's 'Gave first/second/third reading...' labels) so this reading's label is true of ITS OWN motion text, distinct from its sibling readings'.",
   "quote": "That Second Reading of Bill No. 64, BE APPROVED."
+ },
+ {
+  "id": "767f4847f59b",
+  "field": "axis",
+  "was": "levy-size",
+  "now": null,
+  "reason": "BLOCKER (gate round 2 item 1): the Municipal Accommodation Tax is a tax on hotel/short-term-accommodation stays under O.Reg 435/17, entirely separate from the municipal property tax levy -- this motion does not set, raise, or touch the property tax levy at all. Classified levy-size/expansive, it was publishing on every voting councillor's budget page as having 'increased the tax levy', which is false: no property-tax-levy claim can be derived from a hotel-tax rate change. Axis/polarity forced to null (unclear) per the fixer's P1 mandate against force-fitting a motion onto an axis its own text doesn't support; whatAYeaDid rewritten to name the tax precisely as a municipal accommodation/hotel tax, not 'the tax levy'.",
+  "quote": "the Civic Administration BE DIRECTED to undertake the process to increase the Municipal Accommodation Tax (MAT) rate in the City of London from 4% to 5%, to take effect no later than January 1, 2026."
+ },
+ {
+  "id": "767f4847f59b",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "BLOCKER (gate round 2 item 1): the Municipal Accommodation Tax is a tax on hotel/short-term-accommodation stays under O.Reg 435/17, entirely separate from the municipal property tax levy -- this motion does not set, raise, or touch the property tax levy at all. Classified levy-size/expansive, it was publishing on every voting councillor's budget page as having 'increased the tax levy', which is false: no property-tax-levy claim can be derived from a hotel-tax rate change. Axis/polarity forced to null (unclear) per the fixer's P1 mandate against force-fitting a motion onto an axis its own text doesn't support; whatAYeaDid rewritten to name the tax precisely as a municipal accommodation/hotel tax, not 'the tax levy'.",
+  "quote": "the Civic Administration BE DIRECTED to undertake the process to increase the Municipal Accommodation Tax (MAT) rate in the City of London from 4% to 5%, to take effect no later than January 1, 2026."
+ },
+ {
+  "id": "7ad1ee5fa5f3",
+  "field": "axis",
+  "was": "levy-size",
+  "now": null,
+  "reason": "BLOCKER (gate round 2 item 1): the Municipal Accommodation Tax is a tax on hotel/short-term-accommodation stays under O.Reg 435/17, entirely separate from the municipal property tax levy -- this motion does not set, raise, or touch the property tax levy at all. Classified levy-size/expansive, it was publishing on every voting councillor's budget page as having 'increased the tax levy', which is false: no property-tax-levy claim can be derived from a hotel-tax rate change. Axis/polarity forced to null (unclear) per the fixer's P1 mandate against force-fitting a motion onto an axis its own text doesn't support; whatAYeaDid rewritten to name the tax precisely as a municipal accommodation/hotel tax, not 'the tax levy'.",
+  "quote": "the Civic Administration BE DIRECTED to undertake the process to increase the Municipal Accommodation Tax (MAT) rate in the City of London from 4% to 5%, to take effect no later than January 1, 2026."
+ },
+ {
+  "id": "7ad1ee5fa5f3",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "BLOCKER (gate round 2 item 1): the Municipal Accommodation Tax is a tax on hotel/short-term-accommodation stays under O.Reg 435/17, entirely separate from the municipal property tax levy -- this motion does not set, raise, or touch the property tax levy at all. Classified levy-size/expansive, it was publishing on every voting councillor's budget page as having 'increased the tax levy', which is false: no property-tax-levy claim can be derived from a hotel-tax rate change. Axis/polarity forced to null (unclear) per the fixer's P1 mandate against force-fitting a motion onto an axis its own text doesn't support; whatAYeaDid rewritten to name the tax precisely as a municipal accommodation/hotel tax, not 'the tax levy'.",
+  "quote": "the Civic Administration BE DIRECTED to undertake the process to increase the Municipal Accommodation Tax (MAT) rate in the City of London from 4% to 5%, to take effect no later than January 1, 2026."
+ },
+ {
+  "id": "767f4847f59b",
+  "field": "whatAYeaDid",
+  "was": "Supported directing Civic Administration to raise the Municipal Accommodation Tax rate from 4% to 5%, effective no later than January 1, 2026.",
+  "now": "Supported directing Civic Administration to raise the Municipal Accommodation Tax (MAT), a tax on hotel and short-term accommodation stays that is separate from the municipal property tax levy, from 4% to 5%, effective no later than January 1, 2026.",
+  "reason": "BLOCKER (gate round 2 item 1): the Municipal Accommodation Tax is a tax on hotel/short-term-accommodation stays under O.Reg 435/17, entirely separate from the municipal property tax levy -- this motion does not set, raise, or touch the property tax levy at all. Classified levy-size/expansive, it was publishing on every voting councillor's budget page as having 'increased the tax levy', which is false: no property-tax-levy claim can be derived from a hotel-tax rate change. Axis/polarity forced to null (unclear) per the fixer's P1 mandate against force-fitting a motion onto an axis its own text doesn't support; whatAYeaDid rewritten to name the tax precisely as a municipal accommodation/hotel tax, not 'the tax levy'.",
+  "quote": "the Civic Administration BE DIRECTED to undertake the process to increase the Municipal Accommodation Tax (MAT) rate in the City of London from 4% to 5%, to take effect no later than January 1, 2026."
+ },
+ {
+  "id": "7ad1ee5fa5f3",
+  "field": "whatAYeaDid",
+  "was": "Supported directing Civic Administration to raise the Municipal Accommodation Tax rate from 4% to 5%, effective no later than January 1, 2026.",
+  "now": "Supported directing Civic Administration to raise the Municipal Accommodation Tax (MAT), a tax on hotel and short-term accommodation stays that is separate from the municipal property tax levy, from 4% to 5%, effective no later than January 1, 2026.",
+  "reason": "BLOCKER (gate round 2 item 1): the Municipal Accommodation Tax is a tax on hotel/short-term-accommodation stays under O.Reg 435/17, entirely separate from the municipal property tax levy -- this motion does not set, raise, or touch the property tax levy at all. Classified levy-size/expansive, it was publishing on every voting councillor's budget page as having 'increased the tax levy', which is false: no property-tax-levy claim can be derived from a hotel-tax rate change. Axis/polarity forced to null (unclear) per the fixer's P1 mandate against force-fitting a motion onto an axis its own text doesn't support; whatAYeaDid rewritten to name the tax precisely as a municipal accommodation/hotel tax, not 'the tax levy'.",
+  "quote": "the Civic Administration BE DIRECTED to undertake the process to increase the Municipal Accommodation Tax (MAT) rate in the City of London from 4% to 5%, to take effect no later than January 1, 2026."
+ },
+ {
+  "id": "3c03ee43916e",
+  "field": "issue",
+  "was": "housing",
+  "now": "none",
+  "reason": "Gate round 2 item 2: Bill 71 (1310 Adelaide Street North / 795 Windermere Road, 2024-02-13, 10-5) rezones Open Space to a Holding Open Space Special Provision zone to permit up to three commercial units, including a drive-through restaurant -- verified against the full council record (bills registry + item 13 roll calls): no housing, residential, or dwelling-unit content anywhere in the by-law or its amendment. It was filed under issue=housing solely via issue-rules.ts's structural OZ-#### rezoning-code pattern (a planning-application code that fires regardless of the application's actual land use), publishing 5 councillors' commercial-infill votes as counted rows in the Housing issue's opposition tally. Re-filed issue=none (no issue on this hub actually covers commercial zoning); polarity forced to null since a housing-axis direction claim cannot be derived from a motion with no housing content.",
+  "quote": "to change the zoning of the subject property FROM an Open Space Special Provision (OS4(2)) Zone TO a Holding Open Space Special Provision (h-18*OS4(_)) Zone... amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility"
+ },
+ {
+  "id": "3c03ee43916e",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Gate round 2 item 2: Bill 71 (1310 Adelaide Street North / 795 Windermere Road, 2024-02-13, 10-5) rezones Open Space to a Holding Open Space Special Provision zone to permit up to three commercial units, including a drive-through restaurant -- verified against the full council record (bills registry + item 13 roll calls): no housing, residential, or dwelling-unit content anywhere in the by-law or its amendment. It was filed under issue=housing solely via issue-rules.ts's structural OZ-#### rezoning-code pattern (a planning-application code that fires regardless of the application's actual land use), publishing 5 councillors' commercial-infill votes as counted rows in the Housing issue's opposition tally. Re-filed issue=none (no issue on this hub actually covers commercial zoning); polarity forced to null since a housing-axis direction claim cannot be derived from a motion with no housing content.",
+  "quote": "to change the zoning of the subject property FROM an Open Space Special Provision (OS4(2)) Zone TO a Holding Open Space Special Provision (h-18*OS4(_)) Zone... amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility"
+ },
+ {
+  "id": "744efd7c0adb",
+  "field": "issue",
+  "was": "housing",
+  "now": "none",
+  "reason": "Gate round 2 item 2: Bill 71 (1310 Adelaide Street North / 795 Windermere Road, 2024-02-13, 10-5) rezones Open Space to a Holding Open Space Special Provision zone to permit up to three commercial units, including a drive-through restaurant -- verified against the full council record (bills registry + item 13 roll calls): no housing, residential, or dwelling-unit content anywhere in the by-law or its amendment. It was filed under issue=housing solely via issue-rules.ts's structural OZ-#### rezoning-code pattern (a planning-application code that fires regardless of the application's actual land use), publishing 5 councillors' commercial-infill votes as counted rows in the Housing issue's opposition tally. Re-filed issue=none (no issue on this hub actually covers commercial zoning); polarity forced to null since a housing-axis direction claim cannot be derived from a motion with no housing content.",
+  "quote": "to change the zoning of the subject property FROM an Open Space Special Provision (OS4(2)) Zone TO a Holding Open Space Special Provision (h-18*OS4(_)) Zone... amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility"
+ },
+ {
+  "id": "744efd7c0adb",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Gate round 2 item 2: Bill 71 (1310 Adelaide Street North / 795 Windermere Road, 2024-02-13, 10-5) rezones Open Space to a Holding Open Space Special Provision zone to permit up to three commercial units, including a drive-through restaurant -- verified against the full council record (bills registry + item 13 roll calls): no housing, residential, or dwelling-unit content anywhere in the by-law or its amendment. It was filed under issue=housing solely via issue-rules.ts's structural OZ-#### rezoning-code pattern (a planning-application code that fires regardless of the application's actual land use), publishing 5 councillors' commercial-infill votes as counted rows in the Housing issue's opposition tally. Re-filed issue=none (no issue on this hub actually covers commercial zoning); polarity forced to null since a housing-axis direction claim cannot be derived from a motion with no housing content.",
+  "quote": "to change the zoning of the subject property FROM an Open Space Special Provision (OS4(2)) Zone TO a Holding Open Space Special Provision (h-18*OS4(_)) Zone... amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility"
+ },
+ {
+  "id": "84c664eaed50",
+  "field": "issue",
+  "was": "housing",
+  "now": "none",
+  "reason": "Gate round 2 item 2: Bill 71 (1310 Adelaide Street North / 795 Windermere Road, 2024-02-13, 10-5) rezones Open Space to a Holding Open Space Special Provision zone to permit up to three commercial units, including a drive-through restaurant -- verified against the full council record (bills registry + item 13 roll calls): no housing, residential, or dwelling-unit content anywhere in the by-law or its amendment. It was filed under issue=housing solely via issue-rules.ts's structural OZ-#### rezoning-code pattern (a planning-application code that fires regardless of the application's actual land use), publishing 5 councillors' commercial-infill votes as counted rows in the Housing issue's opposition tally. Re-filed issue=none (no issue on this hub actually covers commercial zoning); polarity forced to null since a housing-axis direction claim cannot be derived from a motion with no housing content.",
+  "quote": "to change the zoning of the subject property FROM an Open Space Special Provision (OS4(2)) Zone TO a Holding Open Space Special Provision (h-18*OS4(_)) Zone... amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility"
+ },
+ {
+  "id": "84c664eaed50",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Gate round 2 item 2: Bill 71 (1310 Adelaide Street North / 795 Windermere Road, 2024-02-13, 10-5) rezones Open Space to a Holding Open Space Special Provision zone to permit up to three commercial units, including a drive-through restaurant -- verified against the full council record (bills registry + item 13 roll calls): no housing, residential, or dwelling-unit content anywhere in the by-law or its amendment. It was filed under issue=housing solely via issue-rules.ts's structural OZ-#### rezoning-code pattern (a planning-application code that fires regardless of the application's actual land use), publishing 5 councillors' commercial-infill votes as counted rows in the Housing issue's opposition tally. Re-filed issue=none (no issue on this hub actually covers commercial zoning); polarity forced to null since a housing-axis direction claim cannot be derived from a motion with no housing content.",
+  "quote": "to change the zoning of the subject property FROM an Open Space Special Provision (OS4(2)) Zone TO a Holding Open Space Special Provision (h-18*OS4(_)) Zone... amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility"
+ },
+ {
+  "id": "fcdccf916473",
+  "field": "quote",
+  "was": "That Third Reading and Enactment Reading of revised Bill No. 405 BE APPROVED.",
+  "now": "That Third Reading and Enactment of revised Bill No. 405 BE APPROVED.",
+  "reason": "Integrity finding (gate round 2 item 5): this row's stored `quote` field contains a spurious duplicated word ('...Enactment READING of...') not present in the source -- verified against the meeting JSON's own item 13 motion_texts, which read 'That Third Reading and Enactment of ... BE APPROVED.' with no trailing 'Reading'. A batch-36 transcription slip, corrected via the quote channel so both the verify-quote-verbatim.py check and every consumer of this entry's quote (sweep-reading-stage-labels.py's stage derivation included) see the true source text.",
+  "quote": "That Third Reading and Enactment of revised Bill No. 405 BE APPROVED."
+ },
+ {
+  "id": "444159fc0220",
+  "field": "quote",
+  "was": "That Third Reading and Enactment Reading of Bill No. 408 BE APPROVED.",
+  "now": "That Third Reading and Enactment of Bill No. 408 BE APPROVED.",
+  "reason": "Integrity finding (gate round 2 item 5): this row's stored `quote` field contains a spurious duplicated word ('...Enactment READING of...') not present in the source -- verified against the meeting JSON's own item 13 motion_texts, which read 'That Third Reading and Enactment of ... BE APPROVED.' with no trailing 'Reading'. A batch-36 transcription slip, corrected via the quote channel so both the verify-quote-verbatim.py check and every consumer of this entry's quote (sweep-reading-stage-labels.py's stage derivation included) see the true source text.",
+  "quote": "That Third Reading and Enactment of Bill No. 408 BE APPROVED."
+ },
+ {
+  "id": "92862cab40bd",
+  "field": "quote",
+  "was": "That Third Reading and Enactment Reading of Bill No.'s 412 and 426 BE APPROVED.",
+  "now": "That Third Reading and Enactment of Bill No.\u2019s 412 and 426 BE APPROVED.",
+  "reason": "Integrity finding (gate round 2 item 5): this row's stored `quote` field contains a spurious duplicated word ('...Enactment READING of...') not present in the source -- verified against the meeting JSON's own item 13 motion_texts, which read 'That Third Reading and Enactment of ... BE APPROVED.' with no trailing 'Reading'. A batch-36 transcription slip, corrected via the quote channel so both the verify-quote-verbatim.py check and every consumer of this entry's quote (sweep-reading-stage-labels.py's stage derivation included) see the true source text.",
+  "quote": "That Third Reading and Enactment of Bill No.\u2019s 412 and 426 BE APPROVED."
+ },
+ {
+  "id": "a27293e0332d",
+  "field": "quote",
+  "was": "That Third Reading and Enactment Reading of Bill No.'s 415 and 428 BE APPROVED.",
+  "now": "That Third Reading and Enactment of Bill No.\u2019s 415 and 428 BE APPROVED.",
+  "reason": "Integrity finding (gate round 2 item 5): this row's stored `quote` field contains a spurious duplicated word ('...Enactment READING of...') not present in the source -- verified against the meeting JSON's own item 13 motion_texts, which read 'That Third Reading and Enactment of ... BE APPROVED.' with no trailing 'Reading'. A batch-36 transcription slip, corrected via the quote channel so both the verify-quote-verbatim.py check and every consumer of this entry's quote (sweep-reading-stage-labels.py's stage derivation included) see the true source text.",
+  "quote": "That Third Reading and Enactment of Bill No.\u2019s 415 and 428 BE APPROVED."
+ },
+ {
+  "id": "938ebdef5b25",
+  "field": "quote",
+  "was": "That Third Reading and Enactment Reading of Bill No. 63, BE APPROVED.",
+  "now": "That Third Reading and Enactment of Bill No. 63, BE APPROVED.",
+  "reason": "Integrity finding (gate round 2 item 5): this row's stored `quote` field contains a spurious duplicated word ('...Enactment READING of...') not present in the source -- verified against the meeting JSON's own item 13 motion_texts, which read 'That Third Reading and Enactment of ... BE APPROVED.' with no trailing 'Reading'. A batch-36 transcription slip, corrected via the quote channel so both the verify-quote-verbatim.py check and every consumer of this entry's quote (sweep-reading-stage-labels.py's stage derivation included) see the true source text.",
+  "quote": "That Third Reading and Enactment of Bill No. 63, BE APPROVED."
+ },
+ {
+  "id": "a2820440e78b",
+  "field": "quote",
+  "was": "That Third Reading and Enactment Reading of Bill No. 64, BE APPROVED.",
+  "now": "That Third Reading and Enactment of Bill No. 64, BE APPROVED.",
+  "reason": "Integrity finding (gate round 2 item 5): this row's stored `quote` field contains a spurious duplicated word ('...Enactment READING of...') not present in the source -- verified against the meeting JSON's own item 13 motion_texts, which read 'That Third Reading and Enactment of ... BE APPROVED.' with no trailing 'Reading'. A batch-36 transcription slip, corrected via the quote channel so both the verify-quote-verbatim.py check and every consumer of this entry's quote (sweep-reading-stage-labels.py's stage derivation included) see the true source text.",
+  "quote": "That Third Reading and Enactment of Bill No. 64, BE APPROVED."
+ },
+ {
+  "id": "d0d40d76aa7a",
+  "field": "quote",
+  "was": "That Third Reading and Enactment Reading of Bill No. 80, BE APPROVED.",
+  "now": "That Third Reading and Enactment of Bill No. 80, BE APPROVED.",
+  "reason": "Integrity finding (gate round 2 item 5): this row's stored `quote` field contains a spurious duplicated word ('...Enactment READING of...') not present in the source -- verified against the meeting JSON's own item 13 motion_texts, which read 'That Third Reading and Enactment of ... BE APPROVED.' with no trailing 'Reading'. A batch-36 transcription slip, corrected via the quote channel so both the verify-quote-verbatim.py check and every consumer of this entry's quote (sweep-reading-stage-labels.py's stage derivation included) see the true source text.",
+  "quote": "That Third Reading and Enactment of Bill No. 80, BE APPROVED."
+ },
+ {
+  "id": "c75df9adc395",
+  "field": "quote",
+  "was": "That Third Reading and Enactment Reading of Bill No. 81, BE APPROVED.",
+  "now": "That Third Reading and Enactment of Bill No. 81, BE APPROVED.",
+  "reason": "Integrity finding (gate round 2 item 5): this row's stored `quote` field contains a spurious duplicated word ('...Enactment READING of...') not present in the source -- verified against the meeting JSON's own item 13 motion_texts, which read 'That Third Reading and Enactment of ... BE APPROVED.' with no trailing 'Reading'. A batch-36 transcription slip, corrected via the quote channel so both the verify-quote-verbatim.py check and every consumer of this entry's quote (sweep-reading-stage-labels.py's stage derivation included) see the true source text.",
+  "quote": "That Third Reading and Enactment of Bill No. 81, BE APPROVED."
+ },
+ {
+  "id": "d74277dbff4d",
+  "field": "quote",
+  "was": "That Third Reading and Enactment Reading of Revised Bill No. 82, BE APPROVED.",
+  "now": "That Third Reading and Enactment of Revised Bill No. 82, BE APPROVED.",
+  "reason": "Integrity finding (gate round 2 item 5): this row's stored `quote` field contains a spurious duplicated word ('...Enactment READING of...') not present in the source -- verified against the meeting JSON's own item 13 motion_texts, which read 'That Third Reading and Enactment of ... BE APPROVED.' with no trailing 'Reading'. A batch-36 transcription slip, corrected via the quote channel so both the verify-quote-verbatim.py check and every consumer of this entry's quote (sweep-reading-stage-labels.py's stage derivation included) see the true source text.",
+  "quote": "That Third Reading and Enactment of Revised Bill No. 82, BE APPROVED."
+ },
+ {
+  "id": "bea3acfae330",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Gate round 2 item 4: Bills 170 (East London Link) and 171 (Wellington Gateway), 2023-06-06 -- 'A by-law to authorize and approve an application to expropriate land ... for the Rapid Transit East London Link Project' / '...for the Wellington Gateway Project' -- are the identical act, for the identical rapid-transit programs, as c26fb0e4d55e (2024-04-23, East London Link Phase 4 expropriation application) and c34b37e35099 (2024-06-04, Wellington Gateway Clark's Bridge expropriation application), both already on transit-service per the transit-split round's Wellington Gateway precedent. Verified word-for-word against the 2023-06-06 bills registry: same boilerplate 'authorize and approve an application to expropriate land ... for the Rapid Transit East London Link/Wellington Gateway Project' operative clause. Aligned to transit-service so the same act reads the same axis regardless of which reading/date it fell on. (455572d4dc1f, the OTHER application-approval-axis expropriation-adjacent row the gate flagged alongside bea3acfae330, was checked against the same 2024-01-23 bills registry and found to be a genuinely different act -- Bill 31 amends the Wellington Gateway authorization by-law's FUNDING only, Bills 40/41 are voluntary purchase-and-sale agreements, and Bill 42 is a compensation/possession agreement for land already expropriated; none of the four is itself 'an application to expropriate land' -- so it stays on application-approval, not realigned.)",
+  "quote": "A by-law to authorize and approve an application to expropriate land in the City of London, in the County of Middlesex, for the Rapid Transit East London Link Project. (2.5/10/CSC)"
+ },
+ {
+  "id": "c7b0c16a7a8b",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Gate round 2 item 4: Bills 170 (East London Link) and 171 (Wellington Gateway), 2023-06-06 -- 'A by-law to authorize and approve an application to expropriate land ... for the Rapid Transit East London Link Project' / '...for the Wellington Gateway Project' -- are the identical act, for the identical rapid-transit programs, as c26fb0e4d55e (2024-04-23, East London Link Phase 4 expropriation application) and c34b37e35099 (2024-06-04, Wellington Gateway Clark's Bridge expropriation application), both already on transit-service per the transit-split round's Wellington Gateway precedent. Verified word-for-word against the 2023-06-06 bills registry: same boilerplate 'authorize and approve an application to expropriate land ... for the Rapid Transit East London Link/Wellington Gateway Project' operative clause. Aligned to transit-service so the same act reads the same axis regardless of which reading/date it fell on. (455572d4dc1f, the OTHER application-approval-axis expropriation-adjacent row the gate flagged alongside bea3acfae330, was checked against the same 2024-01-23 bills registry and found to be a genuinely different act -- Bill 31 amends the Wellington Gateway authorization by-law's FUNDING only, Bills 40/41 are voluntary purchase-and-sale agreements, and Bill 42 is a compensation/possession agreement for land already expropriated; none of the four is itself 'an application to expropriate land' -- so it stays on application-approval, not realigned.)",
+  "quote": "A by-law to authorize and approve an application to expropriate land in the City of London, in the County of Middlesex, for the Rapid Transit East London Link Project. (2.5/10/CSC)"
+ },
+ {
+  "id": "b54ccad9eaae",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Gate round 2 item 4: Bills 170 (East London Link) and 171 (Wellington Gateway), 2023-06-06 -- 'A by-law to authorize and approve an application to expropriate land ... for the Rapid Transit East London Link Project' / '...for the Wellington Gateway Project' -- are the identical act, for the identical rapid-transit programs, as c26fb0e4d55e (2024-04-23, East London Link Phase 4 expropriation application) and c34b37e35099 (2024-06-04, Wellington Gateway Clark's Bridge expropriation application), both already on transit-service per the transit-split round's Wellington Gateway precedent. Verified word-for-word against the 2023-06-06 bills registry: same boilerplate 'authorize and approve an application to expropriate land ... for the Rapid Transit East London Link/Wellington Gateway Project' operative clause. Aligned to transit-service so the same act reads the same axis regardless of which reading/date it fell on. (455572d4dc1f, the OTHER application-approval-axis expropriation-adjacent row the gate flagged alongside bea3acfae330, was checked against the same 2024-01-23 bills registry and found to be a genuinely different act -- Bill 31 amends the Wellington Gateway authorization by-law's FUNDING only, Bills 40/41 are voluntary purchase-and-sale agreements, and Bill 42 is a compensation/possession agreement for land already expropriated; none of the four is itself 'an application to expropriate land' -- so it stays on application-approval, not realigned.)",
+  "quote": "A by-law to authorize and approve an application to expropriate land in the City of London, in the County of Middlesex, for the Rapid Transit East London Link Project. (2.5/10/CSC)"
+ },
+ {
+  "id": "010b0e883c8a",
+  "field": "whatAYeaDid",
+  "was": "Enacted first reading of the meeting's confirming by-law (the standard catch-all by-law ratifying the council's procedural motions from this meeting).",
+  "now": "Gave first reading to the meeting's confirming by-law (the standard catch-all by-law ratifying the council's procedural motions from this meeting).",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted first reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave first reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "That Introduction and First Reading of Bill No. 73, BE APPROVED."
+ },
+ {
+  "id": "05a34dfdd9d4",
+  "field": "whatAYeaDid",
+  "was": "Enacted second reading of the by-law authorizing the City's purchase of the former Fairmont Public School property at 1040 Hamilton Road for future housing and parkland use.",
+  "now": "Gave second reading to the by-law authorizing the City's purchase of the former Fairmont Public School property at 1040 Hamilton Road for future housing and parkland use.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted second reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave second reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "A by-law to authorize and approve an Agreement of Purchase and Sale... for the acquisition of property located at 1040 Hamilton Road, in the City of London, for future housing and parkland"
+ },
+ {
+  "id": "065b27df899a",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law authorizing a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street.",
+  "now": "Gave second reading to a by-law authorizing a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit second reading. Reworded to name that stage, per the corpus's established 'Gave second reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Second Reading of Bill No. 297 BE APPROVED."
+ },
+ {
+  "id": "0ca9bd431129",
+  "field": "whatAYeaDid",
+  "was": "Enacted second reading of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+  "now": "Gave second reading to by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted second reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave second reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "A by-law to amend by-law No. W.-5689-65, entitled, \"A by-law to authorize Project RT1430-1B \u2013 Wellington Gateway \u2013 Land Rapid Transit.\""
+ },
+ {
+  "id": "0f3f61ff19fd",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs).",
+  "now": "Gave second reading to a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs).",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit second reading. Reworded to name that stage, per the corpus's established 'Gave second reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Second Reading of Revised Bill No. 285 BE APPROVED."
+ },
+ {
+  "id": "108315b793a5",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law authorizing a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street.",
+  "now": "Gave first reading to a by-law authorizing a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit first reading. Reworded to name that stage, per the corpus's established 'Gave first reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Introduction and First Reading of Bill No. 297 BE APPROVED."
+ },
+ {
+  "id": "112a41ddc412",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone.",
+  "now": "Gave first reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit first reading. Reworded to name that stage, per the corpus's established 'Gave first reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Introduction and First Reading of Bill No.'s 412 and 426 BE APPROVED."
+ },
+ {
+  "id": "1678aab07f0f",
+  "field": "whatAYeaDid",
+  "was": "Enacted second reading of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+  "now": "Gave second reading to by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted second reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave second reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "A by-law to amend by-law No. W.-5683-100 entitled, \u201cA by-law to authorize the East London Link \u2013 Construction Rapid Transit (Project RT1430-3A)\u201d ... A by-law to authorize project RT1430-1A \u2013 Wellington Gateway (South) Construction Rapid Transit."
+ },
+ {
+  "id": "16e6099111bc",
+  "field": "whatAYeaDid",
+  "was": "Supported Third Reading and Enactment Reading of a by-law amending the Special Events Policies and Procedures Manual to allow the 'Rock the Park' festival's 5-day use of Harris Park.",
+  "now": "Gave third reading and enacted a by-law amending the Special Events Policies and Procedures Manual to allow the 'Rock the Park' festival's 5-day use of Harris Park.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class B: whatAYeaDid carried a doubled '...Enactment Reading of...' garble. Reworded to the corpus's established 'Gave third reading and enacted ...' convention.",
+  "quote": "By-law No. CPOL.-142(e)-75 - A by-law to amend By-law No. CPOL.-142-394 being 'Special Events Policies and Procedures Manual', to provide for the 'Rock the Park 20 \u2013 July 2024' event use of Harris Park for 5 consecutive days."
+ },
+ {
+  "id": "179f7140e6d6",
+  "field": "whatAYeaDid",
+  "was": "Enacted first reading of the by-law authorizing the City's purchase of the former Fairmont Public School property at 1040 Hamilton Road for future housing and parkland use.",
+  "now": "Gave first reading to the by-law authorizing the City's purchase of the former Fairmont Public School property at 1040 Hamilton Road for future housing and parkland use.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted first reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave first reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "A by-law to authorize and approve an Agreement of Purchase and Sale... for the acquisition of property located at 1040 Hamilton Road, in the City of London, for future housing and parkland"
+ },
+ {
+  "id": "332acd01fa51",
+  "field": "whatAYeaDid",
+  "was": "Enacted first reading of by-laws authorizing service and grant agreements with the London Economic Development Corporation, London Community Small Business Centre, and TechAlliance of Southwestern Ontario.",
+  "now": "Gave first reading to by-laws authorizing service and grant agreements with the London Economic Development Corporation, London Community Small Business Centre, and TechAlliance of Southwestern Ontario.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted first reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave first reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "That Introduction and First Reading of Bill No.'s 5 to Bill No. 7, BE APPROVED."
+ },
+ {
+  "id": "3c03ee43916e",
+  "field": "whatAYeaDid",
+  "was": "Enacted first reading of the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
+  "now": "Gave first reading to the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted first reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave first reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "to change the zoning of the subject property FROM an Open Space Special Provision (OS4(2)) Zone TO a Holding Open Space Special Provision (h-18*OS4(_)) Zone... amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility"
+ },
+ {
+  "id": "40e608ffef7c",
+  "field": "whatAYeaDid",
+  "was": "Enacted first reading of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+  "now": "Gave first reading to by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted first reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave first reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "A by-law to amend by-law No. W.-5683-100 entitled, \u201cA by-law to authorize the East London Link \u2013 Construction Rapid Transit (Project RT1430-3A)\u201d ... A by-law to authorize project RT1430-1A \u2013 Wellington Gateway (South) Construction Rapid Transit."
+ },
+ {
+  "id": "44023c67f80a",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London.",
+  "now": "Gave first reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit first reading. Reworded to name that stage, per the corpus's established 'Gave first reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Introduction and First Reading of Bill No. 408 BE APPROVED."
+ },
+ {
+  "id": "444159fc0220",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London.",
+  "now": "Gave third reading and enacted a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Third Reading and Enactment of Bill No. 408 BE APPROVED."
+ },
+ {
+  "id": "455572d4dc1f",
+  "field": "whatAYeaDid",
+  "was": "Enacted first reading of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+  "now": "Gave first reading to by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted first reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave first reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "A by-law to amend by-law No. W.-5689-65, entitled, \"A by-law to authorize Project RT1430-1B \u2013 Wellington Gateway \u2013 Land Rapid Transit.\""
+ },
+ {
+  "id": "4b3c9772a231",
+  "field": "whatAYeaDid",
+  "was": "Supported Third Reading and Enactment Reading of by-laws authorizing land expropriation for the Wellington Gateway rapid transit project's Clark's Bridge civil works, and authorizing construction of the Wellington Gateway (South) rapid transit corridor and its transit stops.",
+  "now": "Gave third reading and enacted by-laws authorizing land expropriation for the Wellington Gateway rapid transit project's Clark's Bridge civil works, and authorizing construction of the Wellington Gateway (South) rapid transit corridor and its transit stops.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class B: whatAYeaDid carried a doubled '...Enactment Reading of...' garble. Reworded to the corpus's established 'Gave third reading and enacted ...' convention.",
+  "quote": "By-law No. L.S.P.-3515-140 - A by-law to authorize and approve an application to expropriate land...for the Wellington Gateway Project Clark's Bridge Civil Works; By-law No. W.-5699(c)-153...to authorize Project RT1430-1A \u2013 Wellington Gateway (South) Construction Rapid Transit; By-law No. W.-5701-154 \u2013 A by-law to authorize Project RT1430-1D \u2013 Wellington Gateway Stops Rapid Transit."
+ },
+ {
+  "id": "50534cbd6201",
+  "field": "whatAYeaDid",
+  "was": "Enacted second reading of the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+  "now": "Gave second reading to the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted second reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave second reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-9) Zone TO a Residential R3 Special Provision (R3-1(_)) Zone"
+ },
+ {
+  "id": "5670ed1fca1f",
+  "field": "whatAYeaDid",
+  "was": "Enacted first reading of the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+  "now": "Gave first reading to the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted first reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave first reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject lands FROM a Holding Residential R9 Special Provision (h-5.h-11.h-17. R9-7(17).H50) TO a Holding Residential R9 Special Provision (h-.h-5.h-11.h-110. R9-7( ).H60 Zone to permit the development of two, 17 storey residential apartment buildings interconnected by a 6-storey podium with a total of 481 residential units, BE APPROVED"
+ },
+ {
+  "id": "57e12d3cdcee",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law amending the pilot project rules for electric kick-scooters and cargo power-assisted bicycles on highways and bicycle lanes.",
+  "now": "Gave first reading to a by-law amending the pilot project rules for electric kick-scooters and cargo power-assisted bicycles on highways and bicycle lanes.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit first reading. Reworded to name that stage, per the corpus's established 'Gave first reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Introduction and First Reading of revised Bill No. 405 BE APPROVED."
+ },
+ {
+  "id": "5e131eade2c5",
+  "field": "whatAYeaDid",
+  "was": "Enacted second reading of by-laws authorizing service and grant agreements with the London Economic Development Corporation, London Community Small Business Centre, and TechAlliance of Southwestern Ontario.",
+  "now": "Gave second reading to by-laws authorizing service and grant agreements with the London Economic Development Corporation, London Community Small Business Centre, and TechAlliance of Southwestern Ontario.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted second reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave second reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "That Introduction and First Reading of Bill No.'s 5 to Bill No. 7, BE APPROVED."
+ },
+ {
+  "id": "5fa34f95e37f",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs).",
+  "now": "Gave third reading and enacted a by-law amending the Zoning By-law's residential parking provisions, including increasing minimum residential parking requirements, permitting parking in front- or side-yard driveways, and revising parking requirements for additional residential units (ARUs).",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Third Reading and Enactment of Revised Bill No. 285 BE APPROVED."
+ },
+ {
+  "id": "66f014130472",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law for the Sunningdale Road West pipeline decommissioning and new pipeline agreement.",
+  "now": "Gave first reading to a by-law for the Sunningdale Road West pipeline decommissioning and new pipeline agreement.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit first reading. Reworded to name that stage, per the corpus's established 'Gave first reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Introduction and First Reading of Bill No. 63, BE APPROVED."
+ },
+ {
+  "id": "744efd7c0adb",
+  "field": "whatAYeaDid",
+  "was": "Enacted second reading of the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
+  "now": "Gave second reading to the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted second reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave second reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "to change the zoning of the subject property FROM an Open Space Special Provision (OS4(2)) Zone TO a Holding Open Space Special Provision (h-18*OS4(_)) Zone... amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on the property, including one restaurant with a drive-through facility"
+ },
+ {
+  "id": "752180e500c8",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law authorizing and approving a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street, and authorizing the Mayor and City Clerk to execute the Agreement.",
+  "now": "Gave third reading and enacted a by-law authorizing and approving a Licence Agreement between the City and London Civic Centre Limited Partnership for the west half of Municipal Parking Lot #8 at 99 Dundas Street, and authorizing the Mayor and City Clerk to execute the Agreement.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Third Reading and Enactment of Bill No. 297 APPROVED."
+ },
+ {
+  "id": "7b6c0d43eb52",
+  "field": "whatAYeaDid",
+  "was": "Enacted second reading of the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+  "now": "Gave second reading to the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted second reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave second reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject lands FROM a Holding Residential R9 Special Provision (h-5.h-11.h-17. R9-7(17).H50) TO a Holding Residential R9 Special Provision (h-.h-5.h-11.h-110. R9-7( ).H60 Zone to permit the development of two, 17 storey residential apartment buildings interconnected by a 6-storey podium with a total of 481 residential units, BE APPROVED"
+ },
+ {
+  "id": "7bf381a6ac08",
+  "field": "whatAYeaDid",
+  "was": "Supported Third Reading and Enactment Reading of a by-law amending the fireworks sale and discharge by-law (permits and conditions for selling and setting off fireworks in London).",
+  "now": "Gave third reading and enacted a by-law amending the fireworks sale and discharge by-law (permits and conditions for selling and setting off fireworks in London).",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class B: whatAYeaDid carried a doubled '...Enactment Reading of...' garble. Reworded to the corpus's established 'Gave third reading and enacted ...' convention.",
+  "quote": "By-law No. PW-11-24003 - A by-law to amend By-law PW-11... to provide for the sale of fireworks and the setting off of fireworks and pyrotechnics within the City of London, and for requiring a permit and imposing conditions."
+ },
+ {
+  "id": "7e9919ada1e1",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+  "now": "Gave second reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit second reading. Reworded to name that stage, per the corpus's established 'Gave second reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Second Reading of Bill No.\u2019s 273 and 289 BE APPROVED."
+ },
+ {
+  "id": "85d2cab1cedb",
+  "field": "whatAYeaDid",
+  "was": "Enacted first reading of the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+  "now": "Gave first reading to the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted first reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave first reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-9) Zone TO a Residential R3 Special Provision (R3-1(_)) Zone"
+ },
+ {
+  "id": "86a0b633e388",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+  "now": "Gave first reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit first reading. Reworded to name that stage, per the corpus's established 'Gave first reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Introduction and First Reading of Bill No.\u2019s 273 and 289 BE APPROVED."
+ },
+ {
+  "id": "8f813a32a083",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+  "now": "Gave second reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit second reading. Reworded to name that stage, per the corpus's established 'Gave second reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Second Reading of Bill No.'s 415 and 428 BE APPROVED."
+ },
+ {
+  "id": "8fb87748540d",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law amending the pilot project rules for electric kick-scooters and cargo power-assisted bicycles on highways and bicycle lanes.",
+  "now": "Gave second reading to a by-law amending the pilot project rules for electric kick-scooters and cargo power-assisted bicycles on highways and bicycle lanes.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit second reading. Reworded to name that stage, per the corpus's established 'Gave second reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Second Reading of revised Bill No. 405 BE APPROVED."
+ },
+ {
+  "id": "92862cab40bd",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone.",
+  "now": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Third Reading and Enactment of Bill No.\u2019s 412 and 426 BE APPROVED."
+ },
+ {
+  "id": "92b8ee648005",
+  "field": "whatAYeaDid",
+  "was": "Enacted second reading of by-laws amending the business-licensing penalty schedule, fee schedule, and licensing regulation for Consumer Fireworks Sales businesses.",
+  "now": "Gave second reading to by-laws amending the business-licensing penalty schedule, fee schedule, and licensing regulation for Consumer Fireworks Sales businesses.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted second reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave second reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "A by-law to amend By-law No. A-54... to provide for an amended Penalty Schedule... for the categories of Consumer Fireworks Sales Business. / A by-law to amend By-law A-59... to add Consumer Fireworks Sales Business Licence Fees. / A by-law to amend By-law No. L.-131-16... Licensing and Regulation of Various Businesses"
+ },
+ {
+  "id": "938ebdef5b25",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law for the Sunningdale Road West pipeline decommissioning and new pipeline agreement.",
+  "now": "Gave third reading and enacted a by-law for the Sunningdale Road West pipeline decommissioning and new pipeline agreement.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Third Reading and Enactment of Bill No. 63, BE APPROVED."
+ },
+ {
+  "id": "a27293e0332d",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+  "now": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Third Reading and Enactment of Bill No.\u2019s 415 and 428 BE APPROVED."
+ },
+ {
+  "id": "a2820440e78b",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
+  "now": "Gave third reading and enacted a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Third Reading and Enactment of Bill No. 64, BE APPROVED."
+ },
+ {
+  "id": "a79e2c534560",
+  "field": "whatAYeaDid",
+  "was": "Supported Third Reading and Enactment Reading of a by-law authorizing an application to expropriate land needed to build the Rapid Transit East London Link Project, Phase 4.",
+  "now": "Gave third reading and enacted a by-law authorizing an application to expropriate land needed to build the Rapid Transit East London Link Project, Phase 4.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class B: whatAYeaDid carried a doubled '...Enactment Reading of...' garble. Reworded to the corpus's established 'Gave third reading and enacted ...' convention.",
+  "quote": "A by-law to authorize and approve an application to expropriate land in the City of London, in the County of Middlesex, for the Rapid Transit East London Link Project Phase 4."
+ },
+ {
+  "id": "ae5439252e95",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law for the Sunningdale Road West pipeline decommissioning and new pipeline agreement.",
+  "now": "Gave second reading to a by-law for the Sunningdale Road West pipeline decommissioning and new pipeline agreement.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit second reading. Reworded to name that stage, per the corpus's established 'Gave second reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Second Reading of Bill No. 63, BE APPROVED."
+ },
+ {
+  "id": "b9b3dd047303",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone.",
+  "now": "Gave second reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit second reading. Reworded to name that stage, per the corpus's established 'Gave second reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Second Reading of Bill No.'s 412 and 426 BE APPROVED."
+ },
+ {
+  "id": "c1f861b7ba8d",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+  "now": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 1076-1080 Commissioners Road West and 396-402 North Street from a Residential R1 zone to a Residential R9 special-provision zone with a 35-metre height allowance, enabling a denser residential redevelopment of the site.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Third Reading and Enactment of Bill No.\u2019s 273 and 289 APPROVED."
+ },
+ {
+  "id": "c53e853071d0",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+  "now": "Gave first reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit first reading. Reworded to name that stage, per the corpus's established 'Gave first reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Introduction and First Reading of Bill No.'s 415 and 428 BE APPROVED."
+ },
+ {
+  "id": "d8d88d5a28d0",
+  "field": "whatAYeaDid",
+  "was": "Supported Third Reading and Enactment Reading of by-laws amending the Official Plan and rezoning 735 Wonderland Road North (from commercial to a Business District Commercial Special Provision zone) to permit an intensified, mixed-use redevelopment of the site.",
+  "now": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 735 Wonderland Road North (from commercial to a Business District Commercial Special Provision zone) to permit an intensified, mixed-use redevelopment of the site.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class B: whatAYeaDid carried a doubled '...Enactment Reading of...' garble. Reworded to the corpus's established 'Gave third reading and enacted ...' convention.",
+  "quote": "A by-law to amend The Official Plan for the City of London, 2016 relating to 735 Wonderland Road North; A by-law to amend By-law No. Z.-1 to rezone an area of land located at 735 Wonderland Road North."
+ },
+ {
+  "id": "dcfacb8103cc",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London.",
+  "now": "Gave second reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit second reading. Reworded to name that stage, per the corpus's established 'Gave second reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Second Reading of Bill No. 408 BE APPROVED."
+ },
+ {
+  "id": "de577436422a",
+  "field": "whatAYeaDid",
+  "was": "Enacted first reading of by-laws amending the business-licensing penalty schedule, fee schedule, and licensing regulation for Consumer Fireworks Sales businesses.",
+  "now": "Gave first reading to by-laws amending the business-licensing penalty schedule, fee schedule, and licensing regulation for Consumer Fireworks Sales businesses.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted first reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave first reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "A by-law to amend By-law No. A-54... to provide for an amended Penalty Schedule... for the categories of Consumer Fireworks Sales Business. / A by-law to amend By-law A-59... to add Consumer Fireworks Sales Business Licence Fees. / A by-law to amend By-law No. L.-131-16... Licensing and Regulation of Various Businesses"
+ },
+ {
+  "id": "e614ed8c3fb7",
+  "field": "whatAYeaDid",
+  "was": "Enacted second reading of the meeting's confirming by-law (the standard catch-all by-law ratifying the council's procedural motions from this meeting).",
+  "now": "Gave second reading to the meeting's confirming by-law (the standard catch-all by-law ratifying the council's procedural motions from this meeting).",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class A: 'Enacted second reading of ...' overstates what this specific roll call did -- nothing is enacted before third reading (enactment happens AT third reading, per the corpus's own 'Third Reading and Enactment' source phrasing). Reworded to the corpus's established 'Gave second reading to ...' convention, true of this row's own quote/stage.",
+  "quote": "That Second Reading of Bill No. 73, BE APPROVED."
+ },
+ {
+  "id": "fcdccf916473",
+  "field": "whatAYeaDid",
+  "was": "Gave a reading to a by-law amending the pilot project rules for electric kick-scooters and cargo power-assisted bicycles on highways and bicycle lanes.",
+  "now": "Gave third reading and enacted a by-law amending the pilot project rules for electric kick-scooters and cargo power-assisted bicycles on highways and bicycle lanes.",
+  "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
+  "quote": "That Third Reading and Enactment of revised Bill No. 405 BE APPROVED."
  }
 ]
