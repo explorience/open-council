@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:07:20.618Z",
+  "generatedAt": "2026-09-06T15:30:13.266Z",
   "note": "Motions dropped from the divided-vote universe because the same person appears in more than one vote-kind bucket (e.g. both yeas and nays). Needs manual repair against the source minutes; never resolved by last-write-wins.",
   "count": 31,
   "motions": [

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T14:07:21.305Z",
+  "generatedAt": "2026-09-06T15:30:13.922Z",
   "sourceHash": "c89decb146e3da17",
   "sourceGeneratedAt": "2026-09-05T10:52:14.158Z",
   "cutoffDate": "2023-01-01",
-  "methodology": "A \"divided\" vote is any council or committee motion since January 1, 2023 that wasn't approved unanimously and wasn't a routine procedural step, and it doesn't include a vote decided by secret ballot to fill an appointment, since those don't produce a recorded yea or nay by councillor. For each councillor, on each issue, on each axis: a vote counts as \"for\" when it matched that axis's more permissive outcome, and \"against\" when it matched the more restrictive one — but a nay is never described as if it enacted the restrictive outcome; it's described as opposing the motion it was cast on, and the same care is taken in the other direction. When every recorded vote on an axis since January 1, 2023 happens to fall on one side, the pattern sentence says so plainly instead of silently reporting a zero on the other side. Every motion's issue, axis, and direction (\"what a yea did\") come from an independent, motion-by-motion review, checked against that motion's own complete text in the official meeting record rather than a keyword search, with a small, separately published list of after-the-fact corrections applied on top — never a silent edit to the reviewed record. This is a genuine reading of what each clause did, not a raw yea/nay count, including for the generic \"approved or denied the item\" description used when no issue-specific axis applies. Recusals and absences are always counted on their own, never folded into \"against\" and never treated as a hidden position. A pattern sentence is only stated once a councillor has at least 5 separate underlying decisions on an axis — a committee vote followed later by a council vote on the same policy question counts as one decision, not two, so a motion with several stages can't inflate the count; below that threshold the individual votes are still shown, just without a summary sentence. Some motions were reviewed and confirmed to have no clear direction at all — a referral, a request for more information, or a genuinely ambiguous clause — and these are listed, on every relevant issue, as motions with no clear direction: never counted in any pattern or sample size, but never hidden either. This project has no source recording which committee a councillor belongs to — that list isn't published or collected anywhere; a meeting's own attendance record shows who was there that day, not who belongs to it. So when a councillor has no recorded vote on a motion, nothing is claimed about why, in either direction: only whether that meeting's own record separately listed this councillor as present without a recorded vote, or whether nothing else can be said at all. Before any of the above, motions were also dropped in 2 ways, none of them guessed at or repaired: 31 where the same person was recorded as voting more than one way on the same motion (a roster conflict in the source data); and 14 more that turned out, on review, not to be a genuine division at all — a lopsided result the source data's own \"unanimous\" marker missed, or the same motion recorded twice under two item numbers. Each motion is filed under exactly one issue, so a motion that touches two topics — a housing decision with a budget line, say — appears on one issue page only, never both. Where the source text has a hash symbol immediately followed by a case or item number — as in a title reading \"Business Case\", then a hash, then \"P-5\" — this hub shows it instead as \"Business Case No. P-5\", so the character can't be misread as a link; the underlying wording is not otherwise changed.",
+  "methodology": "A \"divided\" vote is any council or committee motion since January 1, 2023 that wasn't approved unanimously and wasn't a routine procedural step, and it doesn't include a vote decided by secret ballot to fill an appointment, since those don't produce a recorded yea or nay by councillor. For each councillor, on each issue, on each axis: a vote counts as \"for\" when it matched that axis's more permissive outcome, and \"against\" when it matched the more restrictive one — but a nay is never described as if it enacted the restrictive outcome; it's described as opposing the motion it was cast on, and the same care is taken in the other direction. When every recorded vote on an axis since January 1, 2023 happens to fall on one side, the pattern sentence says so plainly instead of silently reporting a zero on the other side. Every motion's issue, axis, and direction (\"what a yea did\") come from an independent, motion-by-motion review, checked against that motion's own complete text in the official meeting record rather than a keyword search, with a small, separately published list of after-the-fact corrections applied on top — never a silent edit to the reviewed record. This is a genuine reading of what each clause did, not a raw yea/nay count, including for the generic \"approved or denied the item\" description used when no issue-specific axis applies. Recusals and absences are always counted on their own, never folded into \"against\" and never treated as a hidden position. A pattern sentence is only stated once a councillor has at least 5 separate underlying decisions on an axis — a committee vote followed later by a council vote on the same policy question counts as one decision, not two, when checking that threshold. The \"supported/opposed N measures\" figure inside the pattern sentence itself counts every recorded vote in the sample, including more than one stage of the same decision, so a motion with several stages CAN make that figure larger than the number of distinct decisions behind it; whenever the two differ, the sentence states the distinct-decision count alongside it. Below the 5-decision threshold, the individual votes are still shown, just without a summary sentence. Some motions were reviewed and confirmed to have no clear direction at all — a referral, a request for more information, or a genuinely ambiguous clause — and these are listed, on every relevant issue, as motions with no clear direction: never counted in any pattern or sample size, but never hidden either. This project has no source recording which committee a councillor belongs to — that list isn't published or collected anywhere; a meeting's own attendance record shows who was there that day, not who belongs to it. So when a councillor has no recorded vote on a motion, nothing is claimed about why, in either direction: only whether that meeting's own record separately listed this councillor as present without a recorded vote, or whether nothing else can be said at all. Before any of the above, motions were also dropped in 2 ways, none of them guessed at or repaired: 31 where the same person was recorded as voting more than one way on the same motion (a roster conflict in the source data); and 14 more that turned out, on review, not to be a genuine division at all — a lopsided result the source data's own \"unanimous\" marker missed, or the same motion recorded twice under two item numbers. Each motion is filed under exactly one issue, so a motion that touches two topics — a housing decision with a budget line, say — appears on one issue page only, never both. Where the source text has a hash symbol immediately followed by a case or item number — as in a title reading \"Business Case\", then a hash, then \"P-5\" — this hub shows it instead as \"Business Case No. P-5\", so the character can't be misread as a link; the underlying wording is not otherwise changed.",
   "truncatedDisplayCount": 518,
   "resultMismatchCount": 0,
   "rosterConflictCount": 31,
@@ -8698,7 +8698,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Supported enacting the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy."
+            "label": "Gave second reading to the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy."
           },
           "positions": {
             "j-morgan": "yea",
@@ -8748,7 +8748,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Supported enacting the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy."
+            "label": "Gave first reading to the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy."
           },
           "positions": {
             "j-morgan": "yea",
@@ -13799,12 +13799,12 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "application-approval",
             "valence": 1,
-            "label": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+            "label": "Approved, as amended, the Roads Projects maps, which as amended add Bradley Avenue (Wellington Road to Highbury Avenue) to the next improvement cycle.",
             "axisLabels": {
-              "expansive": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
-              "restrictive": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle."
+              "expansive": "approved the transit/roads item",
+              "restrictive": "denied the transit/roads item"
             }
           },
           "positions": {
@@ -17784,7 +17784,7 @@
     "budget": {
       "label": "Taxes & Budget",
       "dividedVoteCount": 150,
-      "directionBearingVoteCount": 92,
+      "directionBearingVoteCount": 93,
       "distinctAgendaItemCount": 94,
       "votes": [
         {
@@ -18426,8 +18426,8 @@
           "matchedKeywords": [],
           "direction": {
             "axis": "levy-size",
-            "valence": -1,
-            "label": "Excluded Business Case #P-12 (Resident Satisfaction Survey Frequency) from the Mayor's Tabled 2026 Annual Budget.",
+            "valence": 1,
+            "label": "Excluded Business Case #P-12 (Resident Satisfaction Survey Frequency) from the Mayor's Tabled 2026 Annual Budget, increasing the 2027 tax levy by $28,000.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -18479,8 +18479,8 @@
           "matchedKeywords": [],
           "direction": {
             "axis": "levy-size",
-            "valence": 1,
-            "label": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update, following a reconsideration vote.",
+            "valence": -1,
+            "label": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update, reducing the 2026 tax levy by $2,366,000, following a reconsideration vote.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -18532,8 +18532,8 @@
           "matchedKeywords": [],
           "direction": {
             "axis": "levy-size",
-            "valence": 1,
-            "label": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update.",
+            "valence": -1,
+            "label": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update, reducing the 2026 tax levy by $2,366,000.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -19870,8 +19870,13 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": null,
-            "label": "Excluded the 'Reduced Road Network Improvements' business case (Appendix B, Ref #2) from the 2026 Budget Update."
+            "axis": "levy-size",
+            "valence": 1,
+            "label": "Directed staff to exclude the proposed 'Reduced Road Network Improvements' spending cut (Appendix B, Ref #2) from the 2026 Budget Update, keeping that road-network spending in the budget rather than cutting it.",
+            "axisLabels": {
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
+            }
           },
           "positions": {
             "h-mcalister": "yea",
@@ -27577,9 +27582,9 @@
     },
     "housing": {
       "label": "Housing & Density",
-      "dividedVoteCount": 349,
-      "directionBearingVoteCount": 209,
-      "distinctAgendaItemCount": 197,
+      "dividedVoteCount": 347,
+      "directionBearingVoteCount": 207,
+      "distinctAgendaItemCount": 196,
       "votes": [
         {
           "id": "d2b6a1410c01",
@@ -34928,7 +34933,7 @@
           "direction": {
             "axis": "affordable-funding",
             "valence": 1,
-            "label": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+            "label": "Gave third reading and enacted by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
             "axisLabels": {
               "expansive": "approved funding or land for affordable housing",
               "restrictive": "denied funding or land for affordable housing"
@@ -34981,7 +34986,7 @@
           "direction": {
             "axis": "affordable-funding",
             "valence": 1,
-            "label": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+            "label": "Gave second reading to by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
             "axisLabels": {
               "expansive": "approved funding or land for affordable housing",
               "restrictive": "denied funding or land for affordable housing"
@@ -35034,7 +35039,7 @@
           "direction": {
             "axis": "affordable-funding",
             "valence": 1,
-            "label": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+            "label": "Gave first reading to by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
             "axisLabels": {
               "expansive": "approved funding or land for affordable housing",
               "restrictive": "denied funding or land for affordable housing"
@@ -35788,7 +35793,7 @@
           "direction": {
             "axis": "affordable-funding",
             "valence": 1,
-            "label": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+            "label": "Gave third reading and enacted the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
             "axisLabels": {
               "expansive": "approved funding or land for affordable housing",
               "restrictive": "denied funding or land for affordable housing"
@@ -35841,7 +35846,7 @@
           "direction": {
             "axis": "affordable-funding",
             "valence": 1,
-            "label": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+            "label": "Gave second reading to the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
             "axisLabels": {
               "expansive": "approved funding or land for affordable housing",
               "restrictive": "denied funding or land for affordable housing"
@@ -35894,7 +35899,7 @@
           "direction": {
             "axis": "affordable-funding",
             "valence": 1,
-            "label": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+            "label": "Gave first reading to the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
             "axisLabels": {
               "expansive": "approved funding or land for affordable housing",
               "restrictive": "denied funding or land for affordable housing"
@@ -38291,7 +38296,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Supported enacting the rezoning by-law changing 2-4 Audrey Avenue and 186-188 Huron Street from a Residential R1 (single-detached) zone to a Residential R6 (higher-density) zone.",
+            "label": "Gave second reading to the rezoning by-law changing 2-4 Audrey Avenue and 186-188 Huron Street from a Residential R1 (single-detached) zone to a Residential R6 (higher-density) zone.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -38344,7 +38349,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Supported enacting the rezoning by-law changing 2-4 Audrey Avenue and 186-188 Huron Street from a Residential R1 (single-detached) zone to a Residential R6 (higher-density) zone.",
+            "label": "Gave first reading to the rezoning by-law changing 2-4 Audrey Avenue and 186-188 Huron Street from a Residential R1 (single-detached) zone to a Residential R6 (higher-density) zone.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -38368,7 +38373,7 @@
             "s-lehman": "absent"
           },
           "resultNote": null,
-          "motionSnippet": "That Introduction and First Reading of Bill No. 327 BE APPROVED It being noted that Cou..."
+          "motionSnippet": "That Introduction and First Reading of Bill No. 327 BE APPROVED"
         },
         {
           "id": "696963c86660",
@@ -38444,7 +38449,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Supported enacting the Official Plan Amendment for the Protected Major Transit Station Areas Zoning Review, which removed PMTSA designation and Rapid Transit Station references along Richmond Street/Western Road and the Oxford/Richmond Transit Village and deleted a density bonus tied to proximity to rapid transit stations, while also raising permitted heights elsewhere (up to 35 storeys in Transit Village PMTSAs, 25 storeys in Rapid Transit Corridors)."
+            "label": "Gave second reading to the Official Plan Amendment for the Protected Major Transit Station Areas Zoning Review, which removed PMTSA designation and Rapid Transit Station references along Richmond Street/Western Road and the Oxford/Richmond Transit Village and deleted a density bonus tied to proximity to rapid transit stations, while also raising permitted heights elsewhere (up to 35 storeys in Transit Village PMTSAs, 25 storeys in Rapid Transit Corridors)."
           },
           "positions": {
             "j-morgan": "yea",
@@ -38492,7 +38497,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Supported enacting the Official Plan Amendment for the Protected Major Transit Station Areas Zoning Review, which removed PMTSA designation and Rapid Transit Station references along Richmond Street/Western Road and the Oxford/Richmond Transit Village and deleted a density bonus tied to proximity to rapid transit stations, while also raising permitted heights elsewhere (up to 35 storeys in Transit Village PMTSAs, 25 storeys in Rapid Transit Corridors)."
+            "label": "Gave first reading to the Official Plan Amendment for the Protected Major Transit Station Areas Zoning Review, which removed PMTSA designation and Rapid Transit Station references along Richmond Street/Western Road and the Oxford/Richmond Transit Village and deleted a density bonus tied to proximity to rapid transit stations, while also raising permitted heights elsewhere (up to 35 storeys in Transit Village PMTSAs, 25 storeys in Rapid Transit Corridors)."
           },
           "positions": {
             "j-morgan": "yea",
@@ -38512,7 +38517,7 @@
             "s-lehman": "absent"
           },
           "resultNote": null,
-          "motionSnippet": "That Introduction and First Reading of Bill No. 312 BE APPROVED It being noted that Cou..."
+          "motionSnippet": "That Introduction and First Reading of Bill No. 312 BE APPROVED"
         },
         {
           "id": "a647b8e87b39",
@@ -38588,7 +38593,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Supported enacting the Official Plan Amendment for Phase 2 of the Section 26 Review of The London Plan (Heights Review/Transit Village/Major Shopping Area), which raised permitted heights in several Place Types while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments to Urban Corridor/Civic Boulevard."
+            "label": "Gave second reading to the Official Plan Amendment for Phase 2 of the Section 26 Review of The London Plan (Heights Review/Transit Village/Major Shopping Area), which raised permitted heights in several Place Types while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments to Urban Corridor/Civic Boulevard."
           },
           "positions": {
             "j-morgan": "yea",
@@ -38636,7 +38641,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Supported enacting the Official Plan Amendment for Phase 2 of the Section 26 Review of The London Plan (Heights Review/Transit Village/Major Shopping Area), which raised permitted heights in several Place Types while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments to Urban Corridor/Civic Boulevard."
+            "label": "Gave first reading to the Official Plan Amendment for Phase 2 of the Section 26 Review of The London Plan (Heights Review/Transit Village/Major Shopping Area), which raised permitted heights in several Place Types while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments to Urban Corridor/Civic Boulevard."
           },
           "positions": {
             "j-morgan": "yea",
@@ -38684,7 +38689,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Supported enacting by-laws implementing the Section 26 Heights Review parking-exemption zoning amendment and the Protected Major Transit Station Areas zoning review, which mixed density increases (higher storey limits, new Transit Station Area zones) with the removal of transit-station-area and Rapid Transit designations along Richmond Street/Western Road and the Oxford/Richmond Transit Village."
+            "label": "Gave second reading to by-laws implementing the Section 26 Heights Review parking-exemption zoning amendment and the Protected Major Transit Station Areas zoning review, which mixed density increases (higher storey limits, new Transit Station Area zones) with the removal of transit-station-area and Rapid Transit designations along Richmond Street/Western Road and the Oxford/Richmond Transit Village."
           },
           "positions": {
             "j-morgan": "yea",
@@ -38732,7 +38737,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Supported enacting by-laws implementing the Section 26 Heights Review parking-exemption zoning amendment and the Protected Major Transit Station Areas zoning review, which mixed density increases (higher storey limits, new Transit Station Area zones) with the removal of transit-station-area and Rapid Transit designations along Richmond Street/Western Road and the Oxford/Richmond Transit Village."
+            "label": "Gave first reading to by-laws implementing the Section 26 Heights Review parking-exemption zoning amendment and the Protected Major Transit Station Areas zoning review, which mixed density increases (higher storey limits, new Transit Station Area zones) with the removal of transit-station-area and Rapid Transit designations along Richmond Street/Western Road and the Oxford/Richmond Transit Village."
           },
           "positions": {
             "j-morgan": "yea",
@@ -41667,61 +41672,6 @@
           "motionSnippet": "That, based on the application by David Moubarak (c/o Strik Baldinelli Moniz Ltd.), rel..."
         },
         {
-          "id": "de0c7139026d",
-          "date": "2024-02-13",
-          "meetingSlug": "months/2024-02/2024-02-13 4th Meeting of City Council",
-          "meetingTitle": "4th Meeting of City Council",
-          "meetingType": "Council",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=75867174-f70d-4464-a41f-6323ae1ce82b&Agenda=PostMinutes&lang=English",
-          "itemNumber": "8.4.14",
-          "itemTitle": "(3.9) 1310 Adelaide Street North and 795 Windermere Road (OZ-8709) (Relates to Bill No. 58 and Bill No. 71)",
-          "motionText": "That item 14, clause 3.9, as amended, BE APPROVED.",
-          "result": "Motion Passed (10 to 5)",
-          "passed": true,
-          "margin": 5,
-          "tally": {
-            "yea": 10,
-            "nay": 5,
-            "recuse": 0,
-            "absent": 0,
-            "abstain": 0,
-            "other": 0
-          },
-          "anchor": "/months/2024-02/2024-02-13 4th Meeting of City Council",
-          "anchorAmbiguous": true,
-          "matchedKeywords": [
-            "wrapper_preamble"
-          ],
-          "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Gave final approval, as amended, to the rezoning and Official Plan amendment at 1310 Adelaide Street North and 795 Windermere Road (changing an Open Space zone to a Holding Open Space Special Provision zone permitting development).",
-            "axisLabels": {
-              "expansive": "approved the development, rezoning, or housing-policy item",
-              "restrictive": "denied the development, rezoning, or housing-policy item"
-            }
-          },
-          "positions": {
-            "h-mcalister": "yea",
-            "s-lewis": "yea",
-            "p-cuddy": "yea",
-            "s-stevenson": "yea",
-            "j-pribil": "yea",
-            "c-rahman": "yea",
-            "s-lehman": "yea",
-            "p-van-meerbergen": "yea",
-            "e-peloza": "yea",
-            "s-hillier": "yea",
-            "j-morgan": "nay",
-            "s-trosow": "nay",
-            "a-hopkins": "nay",
-            "s-franke": "nay",
-            "d-ferreira": "nay"
-          },
-          "resultNote": null,
-          "motionSnippet": "That item 14, clause 3.9, as amended, BE APPROVED."
-        },
-        {
           "id": "3c434bc28cf7",
           "date": "2024-02-13",
           "meetingSlug": "months/2024-02/2024-02-13 4th Meeting of City Council",
@@ -41871,49 +41821,6 @@
           },
           "resultNote": null,
           "motionSnippet": "That the following actions be taken with respect to the staff report, dated January 29,..."
-        },
-        {
-          "id": "9cecd5ac8fd6",
-          "date": "2024-01-30",
-          "meetingSlug": "months/2024-01/2024-01-30 3rd Meeting of the Planning and Environment Committee",
-          "meetingTitle": "3rd Meeting of the Planning and Environment Committee",
-          "meetingType": "Planning and Environment Committee",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d4f1ba6c-b95d-4bbc-af6e-fd09454e3a2f&Agenda=PostMinutes&lang=English",
-          "itemNumber": "3.9",
-          "itemTitle": "1310 Adelaide Street North and 795 Windermere Road (OZ-8709)",
-          "motionText": "That the following actions be taken with respect to the application by Royal Premier Development, relating to the property located at 1310 Adelaide Street North & 795 Windermere Road: a)    the attached, revised, proposed by-law (Appendix \"A\") BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024 to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Green Space Place Type and by ADDING the subject lands to Map 7 – Specific Policies Areas – of the Official Plan; b)    the  attached, revised, proposed by-law (...",
-          "result": "Motion Passed (3 to 2)",
-          "passed": true,
-          "margin": 1,
-          "tally": {
-            "yea": 3,
-            "nay": 2,
-            "recuse": 0,
-            "absent": 0,
-            "abstain": 0,
-            "other": 0
-          },
-          "anchor": "/months/2024-01/2024-01-30 3rd Meeting of the Planning and Environment Committee#391310-adelaide-street-north-and-795-windermere-road-oz-8709",
-          "anchorAmbiguous": false,
-          "matchedKeywords": [],
-          "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Approved introducing by-laws to amend the Official Plan and rezone 1310 Adelaide Street North & 795 Windermere Road from Open Space to a Holding Open Space Special Provision, enabling the proposed development subject to a holding provision.",
-            "axisLabels": {
-              "expansive": "approved the development, rezoning, or housing-policy item",
-              "restrictive": "denied the development, rezoning, or housing-policy item"
-            }
-          },
-          "positions": {
-            "s-lewis": "yea",
-            "s-lehman": "yea",
-            "s-hillier": "yea",
-            "c-rahman": "nay",
-            "s-franke": "nay"
-          },
-          "resultNote": null,
-          "motionSnippet": "That the following actions be taken with respect to the application by Royal Premier De..."
         },
         {
           "id": "3ccc0935ca9c",
@@ -44903,7 +44810,7 @@
     }
   },
   "unclassified": {
-    "count": 839,
+    "count": 841,
     "note": "Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here.",
     "sample": [
       {
@@ -48627,6 +48534,12 @@
         "itemTitle": "(2.4) Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street"
       },
       {
+        "id": "de0c7139026d",
+        "date": "2024-02-13",
+        "itemNumber": "8.4.14",
+        "itemTitle": "(3.9) 1310 Adelaide Street North and 795 Windermere Road (OZ-8709) (Relates to Bill No. 58 and Bill No. 71)"
+      },
+      {
         "id": "693826a95fc6",
         "date": "2024-02-08",
         "itemNumber": "3.23",
@@ -48667,6 +48580,12 @@
         "date": "2024-02-01",
         "itemNumber": "7",
         "itemTitle": "Adjournment"
+      },
+      {
+        "id": "9cecd5ac8fd6",
+        "date": "2024-01-30",
+        "itemNumber": "3.9",
+        "itemTitle": "1310 Adelaide Street North and 795 Windermere Road (OZ-8709)"
       },
       {
         "id": "289eb85336e7",

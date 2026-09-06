@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-06T14:07:21.299Z",
+  "generatedAt": "2026-09-06T15:30:13.915Z",
   "note": "Cross-check report only — the regex engine in issue-rules.ts/direction-rules.ts is NOT the source of any published claim as of the 2026-08-31 rebuild; every published issue/axis/polarity/whatAYeaDid comes from data/election/classify/batch-*-verified.json. This file records every motion in the divided universe where the regex engine's independent read (issue classification and/or direction) disagrees with the verified classification, for ongoing regex-quality monitoring.",
   "totalCompared": 1732,
-  "disagreementCount": 680,
+  "disagreementCount": 682,
   "disagreements": [
     {
       "motionId": "0f3f61ff19fd",
@@ -2305,7 +2305,7 @@
       "llm": {
         "issue": "budget",
         "axis": "levy-size",
-        "polarity": "expansive"
+        "polarity": "restrictive"
       }
     },
     {
@@ -2323,7 +2323,7 @@
       "llm": {
         "issue": "budget",
         "axis": "levy-size",
-        "polarity": "expansive"
+        "polarity": "restrictive"
       }
     },
     {
@@ -2377,7 +2377,7 @@
       "llm": {
         "issue": "budget",
         "axis": "levy-size",
-        "polarity": "restrictive"
+        "polarity": "expansive"
       }
     },
     {
@@ -4104,8 +4104,8 @@
       },
       "llm": {
         "issue": "budget",
-        "axis": null,
-        "polarity": null
+        "axis": "levy-size",
+        "polarity": "expansive"
       }
     },
     {
@@ -5364,7 +5364,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "application-approval",
         "polarity": "expansive"
       }
     },
@@ -9473,6 +9473,24 @@
       }
     },
     {
+      "motionId": "de0c7139026d",
+      "date": "2024-02-13",
+      "meetingSlug": "months/2024-02/2024-02-13 4th Meeting of City Council",
+      "itemNumber": "8.4.14",
+      "itemTitle": "(3.9) 1310 Adelaide Street North and 795 Windermere Road (OZ-8709) (Relates to Bill No. 58 and Bill No. 71)",
+      "kind": "issue",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "5c71af54ca39",
       "date": "2024-02-08",
       "meetingSlug": "months/2024-02/2024-02-08 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION",
@@ -9938,6 +9956,24 @@
         "issue": "budget",
         "axis": "levy-size",
         "polarity": "restrictive"
+      }
+    },
+    {
+      "motionId": "9cecd5ac8fd6",
+      "date": "2024-01-30",
+      "meetingSlug": "months/2024-01/2024-01-30 3rd Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.9",
+      "itemTitle": "1310 Adelaide Street North and 795 Windermere Road (OZ-8709)",
+      "kind": "issue",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
       }
     },
     {
