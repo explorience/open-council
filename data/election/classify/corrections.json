@@ -2878,5 +2878,189 @@
   "now": "supported approving the Residential R1 (R1-13(7)) zoning special provision as part of rezoning land at 146 Exeter Road from Urban Reserve/Light Industrial to a residential subdivision, following a reconsideration vote.",
   "reason": "Round-5 sweep finding (scripts/election/sweep-reconsidered-pairs.py): a 5th published re-vote pair. s.35.8 reconsideration on the R1-13(7) special-provision sub-clause of part a) (2023-07-17 PEC item 3.5), re-voted identically. First roll call (92a1830e70a9) was UNANIMOUS (5-0) -- not divided, so it was never part of the classify/stance pipeline at all (no erasure risk: an unclassified motion can never be ladder-excluded). Second roll call (this id, Passed 4-1) is the only axis-bearing side. Adding the established 'following a reconsideration vote' qualifier for consistency with every other published re-vote pair in the corpus, per the round-5 sweep's uniform rule.",
   "quote": "That, pursuant to section 35.8 of the Council Procedure By-law, the reconsideration of the motion related to the approval of the R1 Special Provision BE APPROVED."
+ },
+ {
+  "id": "24c2e69564b6",
+  "field": "whatAYeaDid",
+  "was": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+  "now": "Gave second reading to the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+  "reason": "Gate round 6 item A (BLOCKER): this id's own motion text is 'That Second Reading of Bill No. 247 BE APPROVED.' (2025-06-03 By-laws, ordinal 25) -- a second reading introduces nothing, it advances an already-introduced bill. The old text ('Approved introducing...') was byte-for-byte identical to its FIRST-reading sibling bc36553d2001's whatAYeaDid (also Bill 247, 'Introduction and First Reading ... BE APPROVED'), asserting the same false thing this row's own tally position (Second Reading) contradicts. Reworded to the corpus's established second-reading voice ('Gave second reading to...', see e.g. c9da2c86611f/868e007d7f8a, the two OTHER Wellington Gateway property-purchase by-laws at this exact stage) with the same substantive content (expropriation of lands for the Wellington Gateway project) this row's own quote already established. Third-reading sibling 5c9a1eb38502 (unpublished, issue=none) is untouched -- not part of this fix.",
+  "quote": "That Second Reading of Bill No. 247 BE APPROVED."
+ },
+ {
+  "id": "1bda609dc5ad",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No.'s 255 to 303.",
+  "now": "Gave third reading and enacted Bill No.'s 255 to 303.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No.’s 255 to 303, BE APPROVED."
+ },
+ {
+  "id": "ef5ba3d2a570",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 343.",
+  "now": "Gave third reading and enacted Bill No. 343.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 343, BE APPROVED."
+ },
+ {
+  "id": "8a6ff1288775",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 360.",
+  "now": "Gave third reading and enacted Bill No. 360.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 360, BE APPROVED."
+ },
+ {
+  "id": "b55fa8a8352a",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Added Bill No. 365.",
+  "now": "Gave third reading and enacted Added Bill No. 365.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Added Bill No. 365, BE APPROVED."
+ },
+ {
+  "id": "60193395500b",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 367.",
+  "now": "Gave third reading and enacted Bill No. 367.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 367, BE APPROVED."
+ },
+ {
+  "id": "34e4f5fac5ee",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 369.",
+  "now": "Gave third reading and enacted Bill No. 369.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 369, BE APPROVED."
+ },
+ {
+  "id": "ee17ecdd2c40",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No.'s 373 and 380.",
+  "now": "Gave third reading and enacted Bill No.'s 373 and 380.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No.'s 373 and 380, BE APPROVED."
+ },
+ {
+  "id": "eeda296fe09b",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 412.",
+  "now": "Gave third reading and enacted Bill No. 412.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 412, BE APPROVED."
+ },
+ {
+  "id": "c440895346eb",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Added Bill No. 416.",
+  "now": "Gave third reading and enacted Added Bill No. 416.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Added Bill No. 416, BE APPROVED."
+ },
+ {
+  "id": "fc270fea5077",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Added Bill No. 353.",
+  "now": "Gave third reading and enacted Added Bill No. 353.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Added Bill No. 353, BE APPROVED."
+ },
+ {
+  "id": "575e56a0d089",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 362.",
+  "now": "Gave third reading and enacted Bill No. 362.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 362 BE APPROVED."
+ },
+ {
+  "id": "84dafbd3b7e7",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 394 and revised Bill No. 396.",
+  "now": "Gave third reading and enacted Bill No. 394 and revised Bill No. 396.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 394 and Revised Bill No. 396 BE APPROVED"
+ },
+ {
+  "id": "845f95f04614",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading of Bill No. 398.",
+  "now": "Gave third reading to Bill No. 398.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading of Bill No. 398, BE APPROVED."
+ },
+ {
+  "id": "70372b5d8c24",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 8.",
+  "now": "Gave third reading and enacted Bill No. 8.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 8 BE APPROVED."
+ },
+ {
+  "id": "1fa2889a0003",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 18.",
+  "now": "Gave third reading and enacted Bill No. 18.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 18 BE APPROVED."
+ },
+ {
+  "id": "80915d57e730",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 19.",
+  "now": "Gave third reading and enacted Bill No. 19.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 19 BE APPROVED."
+ },
+ {
+  "id": "efa0eed3b47e",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 22.",
+  "now": "Gave third reading and enacted Bill No. 22.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 22 BE APPROVED."
+ },
+ {
+  "id": "0221f48fbca1",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 36.",
+  "now": "Gave third reading and enacted Bill No. 36.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 36 BE APPROVED."
+ },
+ {
+  "id": "c1de586c683c",
+  "field": "whatAYeaDid",
+  "was": "Supported the third reading and enactment of Bill No. 37.",
+  "now": "Gave third reading and enacted Bill No. 37.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization, widened from round-5's batch-26-only scope): one of the 19 batch-27/batch-31 omnibus by-law third-reading rows in the outlier 'Supported the third reading (and enactment) of Bill No. N' voice (capital-S variants included) -- see verify-reading-voice-consistency.py's own docstring, which named this exact 19-row population as found-but-out-of-round-5's-mandate. Reworded to the corpus's established 'Gave third reading and enacted...' voice (or 'Gave third reading to...' when the motion's own text is 'Third Reading' without 'Enactment' -- see 845f95f04614 specifically, quote 'That Third Reading of Bill No. 398, BE APPROVED.', no Enactment clause). No content change beyond the lead verb/capitalization: these rows carry no by-law-subject description in either voice (bill number only), so nothing about WHAT was voted on is altered, only the voice it's described in.",
+  "quote": "That Third Reading and Enactment of Bill No. 37 BE APPROVED."
+ },
+ {
+  "id": "bea3acfae330",
+  "field": "whatAYeaDid",
+  "was": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+  "now": "Gave first reading to the by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization): a first-reading sibling found by a corpus-wide enumeration script (not named in the round-5 docstring) in the outlier 'supported introducing...' voice, whose ladder mixes voices on one page -- its own second/third-reading siblings (c7b0c16a7a8b (second reading) / b54ccad9eaae (third reading)) already read 'Gave second reading to...'/'Gave third reading and enacted...' for the identical by-law subject. This id's own motion text is 'That Introduction and First Reading of Bill No.'s 170 and 171 BE APPROVED.' -- reworded to the matching 'Gave first reading to...' voice with the exact same substantive description, verified word-for-word against the second-reading sibling's own wording.",
+  "quote": "That Introduction and First Reading of Bill No.’s 170 and 171 BE APPROVED."
+ },
+ {
+  "id": "903db8a9f294",
+  "field": "whatAYeaDid",
+  "was": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+  "now": "Gave first reading to the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization): a first-reading sibling found by a corpus-wide enumeration script (not named in the round-5 docstring) in the outlier 'supported introducing...' voice, whose ladder mixes voices on one page -- its own second/third-reading siblings (31cc7ec7eb1d (second reading) / 1ee80ec54cf8 (third reading)) already read 'Gave second reading to...'/'Gave third reading and enacted...' for the identical by-law subject. This id's own motion text is 'That Introduction and First Reading of Added Bill No. 207 BE APPROVED.' -- reworded to the matching 'Gave first reading to...' voice with the exact same substantive description, verified word-for-word against the second-reading sibling's own wording.",
+  "quote": "That Introduction and First Reading of Added Bill No. 207, BE APPROVED."
+ },
+ {
+  "id": "522fd6b0b246",
+  "field": "whatAYeaDid",
+  "was": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+  "now": "Gave first reading to the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+  "reason": "Gate round 6 item B (corpus-wide reading-voice normalization): a first-reading sibling found by a corpus-wide enumeration script (not named in the round-5 docstring) in the outlier 'supported introducing...' voice, whose ladder mixes voices on one page -- its own second/third-reading siblings (fe35f8c16d61 (second reading) / ce54fd004fcc (third reading)) already read 'Gave second reading to...'/'Gave third reading and enacted...' for the identical by-law subject. This id's own motion text is 'That Introduction and First Reading of Bill No. 251 BE APPROVED.' -- reworded to the matching 'Gave first reading to...' voice with the exact same substantive description, verified word-for-word against the second-reading sibling's own wording.",
+  "quote": "That Introduction and First Reading of Bill No. 251, BE APPROVED."
  }
 ]
