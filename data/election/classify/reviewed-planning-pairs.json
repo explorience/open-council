@@ -1,0 +1,42 @@
+[
+ {
+  "anchor_id": "cfbddceb0790",
+  "candidate_id": "d2252ba8e65f",
+  "token": "Z-25151",
+  "reason": "cfbddceb0790 was downgraded to unclear for a narrow, clause-specific defect only: its own operative text is the bare fragment 'iii. Building Height (maximum): 24.5 metres;' with no stated base height, so no restrictive/expansive claim can be derived from THAT clause alone. d2252ba8e65f is a DIFFERENT clause of the same 767 Fanshawe Park Road East/679 Dunboyne Crescent application (Z-25151/Bill 82) -- the base rezoning itself, which does carry a clean comparison baseline in its own text and is unaffected by the height-amendment's missing-baseline defect.",
+  "anchor_quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+  "candidate_quote": "change the zoning of the subject property FROM a Residential R5 Special Provision (R5-7(25)) and a Residential R1 (R1-7) Zone TO a Holding Residential R8 Special Provision (h-8*R8-4(_)) Zone"
+ },
+ {
+  "anchor_id": "cfbddceb0790",
+  "candidate_id": "b49d23322893",
+  "token": "Z-25151",
+  "reason": "Same defect-class distinction as d2252ba8e65f above: b49d23322893 is the PEC-level base rezoning motion for the same 767 Fanshawe Park Road East/679 Dunboyne Crescent application (Z-25151/Bill 82), independently sign-derivable (R5/R1 low-density to Holding R8 higher-density) from its own text -- unrelated to cfbddceb0790's narrow no-baseline height-amendment defect.",
+  "anchor_quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+  "candidate_quote": "to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, The London Plan, to change the zoning of the subject property FROM a Residential R5 Special Provision (R5-7(25)) and a Residential R1 (R1-7) Zone TO a Holding Residential R8 Special Provision (h-8*R8-4(_)) Zone"
+ },
+ {
+  "anchor_id": "cfbddceb0790",
+  "candidate_id": "4d40e1886a94",
+  "token": "BILL NO. 82",
+  "reason": "4d40e1886a94 is Bill 82's own first reading, enacting the SAME base R5/R1-to-Holding-R8 rezoning as b49d23322893/d2252ba8e65f above -- a reading-stage motion of the underlying application, not the height-amendment clause cfbddceb0790 covers. Its own text and verifierNote independently re-derive expansive/density from the R5/R1-to-R8 zone change, unaffected by the height clause's missing baseline.",
+  "anchor_quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+  "candidate_quote": "That Introduction and First Reading of Revised Bill No. 82, BE APPROVED."
+ },
+ {
+  "anchor_id": "cfbddceb0790",
+  "candidate_id": "c3ffe26f3197",
+  "token": "BILL NO. 82",
+  "reason": "Same as 4d40e1886a94 above -- Bill 82's second reading, same base rezoning, unaffected by cfbddceb0790's narrow height-amendment defect.",
+  "anchor_quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+  "candidate_quote": "That Second Reading of Revised Bill No. 82, BE APPROVED."
+ },
+ {
+  "anchor_id": "cfbddceb0790",
+  "candidate_id": "d74277dbff4d",
+  "token": "BILL NO. 82",
+  "reason": "Same as 4d40e1886a94 above -- Bill 82's third reading and enactment, same base rezoning, unaffected by cfbddceb0790's narrow height-amendment defect.",
+  "anchor_quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+  "candidate_quote": "That Third Reading and Enactment Reading of Revised Bill No. 82, BE APPROVED."
+ }
+]

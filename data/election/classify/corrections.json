@@ -2358,5 +2358,317 @@
   "now": "Gave third reading and enacted a by-law amending the pilot project rules for electric kick-scooters and cargo power-assisted bicycles on highways and bicycle lanes.",
   "reason": "Gate round 2 item 3, sweep-reading-stage-labels.py class C: stage-less 'Gave a reading to ...' where this row's own quote (verified verbatim against the meeting JSON's full item text) names an explicit third reading. Reworded to name that stage, per the corpus's established 'Gave third reading to .../Gave third reading and enacted ...' convention.",
   "quote": "That Third Reading and Enactment of revised Bill No. 405 BE APPROVED."
+ },
+ {
+  "id": "35201adfaee7",
+  "field": "polarity",
+  "was": "expansive",
+  "now": "restrictive",
+  "reason": "Gate round 3 item A (integrity BLOCKER 1 fix): sweep-levy-sign-consistency.py's table was inverted for BE EXCLUDED rows -- the corpus convention, proven by precedent rows P-25 (INCLUDED, -$250k, restrictive), P-24/021ec895b691 (INCLUDED, -$192k, restrictive) and P-6/22951914b4b2 (EXCLUDED, +$114k, expansive), is that the PRINTED Tax Levy figure already IS the net effect of the motion, exactly as worded (whichever verb it uses), passing relative to the Mayor's tabled budget -- positive figure -> expansive, negative figure -> restrictive, regardless of INCLUDED/EXCLUDED verb. No verb-based sign flip is applied. Re-derived from this row's own quote/source text, independent of any group majority. This row (Case #P-2, BE EXCLUDED, 2026 Tax Levy: -$2,366,000) is a levy CUT under the corrected convention -- restrictive, restoring batch-36's original verdict before the round-4/5 sign-flip mistakenly overturned it. This is the FIRST, pre-reconsideration vote on item 4.3 (2025-11-20 Budget Committee).",
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
+ },
+ {
+  "id": "35201adfaee7",
+  "field": "whatAYeaDid",
+  "was": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update.",
+  "now": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update, reducing the 2026 tax levy by $2,366,000.",
+  "reason": "Gate round 3 item A: whatAYeaDid must state the fiscal direction now that the polarity correction on this id restores restrictive (a levy cut) -- 'reducing' matches the corrected sign, not the round-4/5 sign-flip's 'expansive' framing.",
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000     2026 Tax Levy: -$2,366,000"
+ },
+ {
+  "id": "4a5dca856513",
+  "field": "polarity",
+  "was": "expansive",
+  "now": "restrictive",
+  "reason": "Gate round 3 item A (integrity BLOCKER 1 fix): sweep-levy-sign-consistency.py's table was inverted for BE EXCLUDED rows -- the corpus convention, proven by precedent rows P-25 (INCLUDED, -$250k, restrictive), P-24/021ec895b691 (INCLUDED, -$192k, restrictive) and P-6/22951914b4b2 (EXCLUDED, +$114k, expansive), is that the PRINTED Tax Levy figure already IS the net effect of the motion, exactly as worded (whichever verb it uses), passing relative to the Mayor's tabled budget -- positive figure -> expansive, negative figure -> restrictive, regardless of INCLUDED/EXCLUDED verb. No verb-based sign flip is applied. Re-derived from this row's own quote/source text, independent of any group majority. This row (Case #P-2, BE EXCLUDED, 2026 Tax Levy: -$2,366,000) is a levy CUT under the corrected convention -- restrictive, restoring batch-36's original verdict before the round-4/5 sign-flip mistakenly overturned it. This is the SECOND, post-reconsideration re-vote on item 4.3 (2025-11-20 Budget Committee).",
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
+ },
+ {
+  "id": "4a5dca856513",
+  "field": "whatAYeaDid",
+  "was": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update, following a reconsideration vote.",
+  "now": "Would have supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update, reducing the 2026 tax levy by $2,366,000, following a reconsideration vote.",
+  "reason": "Gate round 3 item A: whatAYeaDid must state the fiscal direction now that the polarity correction on this id restores restrictive (a levy cut) -- 'reducing' matches the corrected sign, not the round-4/5 sign-flip's 'expansive' framing.",
+  "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement \u2013 BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Tax Levy: -$2,366,000"
+ },
+ {
+  "id": "0666282b30d3",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": "expansive",
+  "reason": "Gate round 3 item A (integrity BLOCKER 1 fix): sweep-levy-sign-consistency.py's table was inverted for BE EXCLUDED rows -- the corpus convention, proven by precedent rows P-25 (INCLUDED, -$250k, restrictive), P-24/021ec895b691 (INCLUDED, -$192k, restrictive) and P-6/22951914b4b2 (EXCLUDED, +$114k, expansive), is that the PRINTED Tax Levy figure already IS the net effect of the motion, exactly as worded (whichever verb it uses), passing relative to the Mayor's tabled budget -- positive figure -> expansive, negative figure -> restrictive, regardless of INCLUDED/EXCLUDED verb. No verb-based sign flip is applied. Re-derived from this row's own quote/source text, independent of any group majority. This row (Case #P-12, BE EXCLUDED, 2027 Tax Levy: $28,000) is a levy INCREASE under the corrected convention -- expansive, not restrictive as the round-4/5 sign-flip table published.",
+  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget: 2026 Operating Expenditures: $0                         2026 Tax Levy: $0                           2026 Capital Expenditures: $0 2027 Operating Expenditures: $28,000                2027 Tax Levy: $28,000                  2027 Capital Expenditures: $0"
+ },
+ {
+  "id": "0666282b30d3",
+  "field": "whatAYeaDid",
+  "was": "Excluded Business Case #P-12 (Resident Satisfaction Survey Frequency) from the Mayor's Tabled 2026 Annual Budget.",
+  "now": "Excluded Business Case #P-12 (Resident Satisfaction Survey Frequency) from the Mayor's Tabled 2026 Annual Budget, increasing the 2027 tax levy by $28,000.",
+  "reason": "Gate round 3 item A: whatAYeaDid must state the fiscal direction now that the polarity correction on this id is expansive (a levy increase), not the round-4/5 sign-flip's 'restrictive' framing.",
+  "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget"
+ },
+ {
+  "id": "1d7c40b467ec",
+  "field": "axis",
+  "was": null,
+  "now": "levy-size",
+  "reason": "Gate round 3 item A: this is the SAME underlying business case as 22951914b4b2/P-6 ('Reduced Road Network Improvements', Appendix B Ref#2) at an earlier, preliminary procedural stage (2025-05-22 Budget Committee item 4.1, a direction to Civic Administration to exclude the case) -- this specific clause's own text carries no Tax Levy dollar line (that only appears in the later, formal 2025-11-20 vote), but the case's own title identifies it as a proposed spending CUT, and BE EXCLUDED means that cut does not happen. Aligned onto the same axis as its sibling 22951914b4b2, which does carry direction, instead of being left unclear for lack of a dollar line on this particular procedural vote.",
+  "quote": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design \u2013 Reduced Road Network Improvements"
+ },
+ {
+  "id": "1d7c40b467ec",
+  "field": "polarity",
+  "was": null,
+  "now": "expansive",
+  "reason": "Gate round 3 item A: following from the axis correction on this id -- excluding the 'Reduced Road Network Improvements' cut (the same case as sibling 22951914b4b2/P-6, confirmed expansive under the corrected levy-sign convention) keeps that road-network spending in the budget rather than cutting it, the levy-size axis's expansive outcome, aligned with its sibling's direction rather than left unclear.",
+  "quote": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design \u2013 Reduced Road Network Improvements"
+ },
+ {
+  "id": "1d7c40b467ec",
+  "field": "whatAYeaDid",
+  "was": "Excluded the 'Reduced Road Network Improvements' business case (Appendix B, Ref #2) from the 2026 Budget Update.",
+  "now": "Directed staff to exclude the proposed 'Reduced Road Network Improvements' spending cut (Appendix B, Ref #2) from the 2026 Budget Update, keeping that road-network spending in the budget rather than cutting it.",
+  "reason": "Gate round 3 item A: whatAYeaDid must state the fiscal direction now that this id carries a direction (expansive) aligned with sibling 22951914b4b2.",
+  "quote": "That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design \u2013 Reduced Road Network Improvements"
+ },
+ {
+  "id": "de0c7139026d",
+  "field": "issue",
+  "was": "housing",
+  "now": "none",
+  "reason": "Gate round 3 item B (neutrality BLOCKER): this row is the SAME zero-housing OZ-8709/Bill-71 commercial-drive-through package (1310 Adelaide Street North / 795 Windermere Road, 2024-02-13 Council item 8.4.14) that gate round 2 item 2 already corrected on its three by-law-reading siblings (3c03ee43916e, 744efd7c0adb, 84c664eaed50) -- verified against the item's own full text (Official Plan amendment adding a Green Space Place Type policy + rezoning Open Space to Holding Open Space Special Provision, as amended to permit up to three commercial units including a drive-through restaurant): no housing, residential, or dwelling-unit content anywhere. This row's own verifierNote calls it 'the real, only decision on the whole OZ-8709 package' (the wrapper clause 'That item 14, clause 3.9, as amended, BE APPROVED' is not stripped because nothing follows it with an independent verb) -- yet it was missed by round 2's fix and kept publishing on 15 councillors' housing tallies as issue=housing/application-approval/expansive. Re-filed issue=none (no issue on this hub actually covers commercial zoning) and polarity forced to null, matching its three siblings exactly.",
+  "quote": "That item 14, clause 3.9, as amended, BE APPROVED."
+ },
+ {
+  "id": "de0c7139026d",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Gate round 3 item B (neutrality BLOCKER): this row is the SAME zero-housing OZ-8709/Bill-71 commercial-drive-through package (1310 Adelaide Street North / 795 Windermere Road, 2024-02-13 Council item 8.4.14) that gate round 2 item 2 already corrected on its three by-law-reading siblings (3c03ee43916e, 744efd7c0adb, 84c664eaed50) -- verified against the item's own full text (Official Plan amendment adding a Green Space Place Type policy + rezoning Open Space to Holding Open Space Special Provision, as amended to permit up to three commercial units including a drive-through restaurant): no housing, residential, or dwelling-unit content anywhere. This row's own verifierNote calls it 'the real, only decision on the whole OZ-8709 package' (the wrapper clause 'That item 14, clause 3.9, as amended, BE APPROVED' is not stripped because nothing follows it with an independent verb) -- yet it was missed by round 2's fix and kept publishing on 15 councillors' housing tallies as issue=housing/application-approval/expansive. Re-filed issue=none (no issue on this hub actually covers commercial zoning) and polarity forced to null, matching its three siblings exactly.",
+  "quote": "That item 14, clause 3.9, as amended, BE APPROVED."
+ },
+ {
+  "id": "de0c7139026d",
+  "field": "whatAYeaDid",
+  "was": "Gave final approval, as amended, to the rezoning and Official Plan amendment at 1310 Adelaide Street North and 795 Windermere Road (changing an Open Space zone to a Holding Open Space Special Provision zone permitting development).",
+  "now": "Approved, as amended, item 14 clause 3.9 -- the rezoning and Official Plan amendment at 1310 Adelaide Street North and 795 Windermere Road, changing an Open Space zone to a Holding Open Space Special Provision zone to permit up to three commercial units including a drive-through restaurant.",
+  "reason": "Gate round 3 item B: whatAYeaDid updated to name the commercial-unit/drive-through detail (verified from the item's own full text) and to match the wording already established on this same package's three by-law-reading siblings, now that the issue/polarity corrections on this id remove the housing-axis framing.",
+  "quote": "That item 14, clause 3.9, as amended, BE APPROVED."
+ },
+ {
+  "id": "9cecd5ac8fd6",
+  "field": "issue",
+  "was": "housing",
+  "now": "none",
+  "reason": "Gate round 3 item B (class guard finding, sweep-planning-token-siblings.py): this is the SAME zero-housing OZ-8709/Bill-71 commercial-drive-through package (1310 Adelaide Street North / 795 Windermere Road) as de0c7139026d and its three by-law-reading siblings (3c03ee43916e, 744efd7c0adb, 84c664eaed50) -- this is the ORIGINAL Planning and Environment Committee recommendation (2024-01-30, item 3.9), which Council later adopted 'as amended' via item 8.4.14 (de0c7139026d) and enacted via Bill 71 (the three reading siblings). Verified against the item's own full text: an Official Plan amendment adding a Green Space Place Type policy and a rezoning from Open Space to a Holding Open Space Special Provision zone -- no housing, residential, or dwelling-unit content anywhere. The class guard (matching the OZ-8709 planning-file token shared with de0c7139026d, same underlying application) surfaced this id as a still-uncorrected sibling missed by both round 2 and the de0c7139026d fix. Re-filed issue=none (no issue on this hub actually covers commercial zoning) and polarity forced to null, matching all three of its siblings.",
+  "quote": "the attached, revised, proposed by-law (Appendix \"A\") BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024 to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Green Space Place Type and by ADDING the subject lands to Map 7"
+ },
+ {
+  "id": "9cecd5ac8fd6",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Gate round 3 item B (class guard finding, sweep-planning-token-siblings.py): this is the SAME zero-housing OZ-8709/Bill-71 commercial-drive-through package (1310 Adelaide Street North / 795 Windermere Road) as de0c7139026d and its three by-law-reading siblings (3c03ee43916e, 744efd7c0adb, 84c664eaed50) -- this is the ORIGINAL Planning and Environment Committee recommendation (2024-01-30, item 3.9), which Council later adopted 'as amended' via item 8.4.14 (de0c7139026d) and enacted via Bill 71 (the three reading siblings). Verified against the item's own full text: an Official Plan amendment adding a Green Space Place Type policy and a rezoning from Open Space to a Holding Open Space Special Provision zone -- no housing, residential, or dwelling-unit content anywhere. The class guard (matching the OZ-8709 planning-file token shared with de0c7139026d, same underlying application) surfaced this id as a still-uncorrected sibling missed by both round 2 and the de0c7139026d fix. Re-filed issue=none (no issue on this hub actually covers commercial zoning) and polarity forced to null, matching all three of its siblings.",
+  "quote": "the attached, revised, proposed by-law (Appendix \"A\") BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024 to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Green Space Place Type and by ADDING the subject lands to Map 7"
+ },
+ {
+  "id": "9cecd5ac8fd6",
+  "field": "whatAYeaDid",
+  "was": "Approved introducing by-laws to amend the Official Plan and rezone 1310 Adelaide Street North & 795 Windermere Road from Open Space to a Holding Open Space Special Provision, enabling the proposed development subject to a holding provision.",
+  "now": "Approved introducing by-laws to amend the Official Plan (adding a Green Space Place Type policy) and rezone 1310 Adelaide Street North & 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, subject to a holding provision.",
+  "reason": "Gate round 3 item B: whatAYeaDid reworded to name the Official Plan policy detail (verified from the item's own full text) and drop the 'enabling the proposed development' framing, matching the neutral wording now used on its de0c7139026d/Bill-71 siblings.",
+  "quote": "the attached, revised, proposed by-law (Appendix \"A\") BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024 to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Green Space Place Type and by ADDING the subject lands to Map 7"
+ },
+ {
+  "id": "072043242dec",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting by-laws implementing the Section 26 Heights Review parking-exemption zoning amendment and the Protected Major Transit Station Areas zoning review, which mixed density increases (higher storey limits, new Transit Station Area zones) with the removal of transit-station-area and Rapid Transit designations along Richmond Street/Western Road and the Oxford/Richmond Transit Village.",
+  "now": "Gave first reading to by-laws implementing the Section 26 Heights Review parking-exemption zoning amendment and the Protected Major Transit Station Areas zoning review, which mixed density increases (higher storey limits, new Transit Station Area zones) with the removal of transit-station-area and Rapid Transit designations along Richmond Street/Western Road and the Oxford/Richmond Transit Village.",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 3, cross-checked against the raw meeting JSON) is a first reading: 'That Introduction and First Reading of Bill No. 332 and 333 BE APPROVED'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave first reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "That Introduction and First Reading of Bill No. 332 and 333 BE APPROVED"
+ },
+ {
+  "id": "090a2b675cc3",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting by-laws including the contract award for Tender RFT-2024-120 covering East London Link and municipal infrastructure improvements (Phase 3B, Highbury Avenue North CPKC Bridge).",
+  "now": "Gave second reading to by-laws including the contract award for Tender RFT-2024-120 covering East London Link and municipal infrastructure improvements (Phase 3B, Highbury Avenue North CPKC Bridge).",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 7, cross-checked against the raw meeting JSON) is a second reading: \"That Second Reading of Bill No.'s 286, 295, and 296, BE APPROVED.\". The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave second reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "That Second Reading of Bill No.'s 286, 295, and 296, BE APPROVED."
+ },
+ {
+  "id": "0f0874c4c603",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+  "now": "Gave second reading to the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 7, cross-checked against the raw meeting JSON) is a second reading: 'That Second Reading of Bill No. 163 BE APPROVED.'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave second reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "A by-law to adopt the Municipal Diversity Plan for Appointments to the London Police Service Board Policy."
+ },
+ {
+  "id": "2c0a112143ab",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the Official Plan Amendment for the Protected Major Transit Station Areas Zoning Review, which removed PMTSA designation and Rapid Transit Station references along Richmond Street/Western Road and the Oxford/Richmond Transit Village and deleted a density bonus tied to proximity to rapid transit stations, while also raising permitted heights elsewhere (up to 35 storeys in Transit Village PMTSAs, 25 storeys in Rapid Transit Corridors).",
+  "now": "Gave second reading to the Official Plan Amendment for the Protected Major Transit Station Areas Zoning Review, which removed PMTSA designation and Rapid Transit Station references along Richmond Street/Western Road and the Oxford/Richmond Transit Village and deleted a density bonus tied to proximity to rapid transit stations, while also raising permitted heights elsewhere (up to 35 storeys in Transit Village PMTSAs, 25 storeys in Rapid Transit Corridors).",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 9, cross-checked against the raw meeting JSON) is a second reading: 'That Second Reading of Bill No. 312 BE APPROVED'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave second reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "remove Protected Major Transit Station Areas along Richmond Street from Kent Street to Epworth Avenue ... remove Protected Major Transit Station Areas from Richmond Street and Oxford Street East Transit Village ... amend Policy 813 to permit a maximum of 35 storeys ... delete Policy 840.6 related to greater residential intensity ... within 100 metres of a rapid transit station"
+ },
+ {
+  "id": "396aeea2ac8c",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the rezoning by-law changing 2-4 Audrey Avenue and 186-188 Huron Street from a Residential R1 (single-detached) zone to a Residential R6 (higher-density) zone.",
+  "now": "Gave first reading to the rezoning by-law changing 2-4 Audrey Avenue and 186-188 Huron Street from a Residential R1 (single-detached) zone to a Residential R6 (higher-density) zone.",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 11, cross-checked against the raw meeting JSON) is a first reading: 'That Introduction and First Reading of Bill No. 327 BE APPROVED It being noted that Councillor S. Trosow re-enters the meeting at 5:13 PM'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave first reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "to change the zoning of the subject properties FROM a Residential R1 Special Provision (R1-5(3)) Zone TO a Residential R6 Special Provision (R6-5(_)) Zone"
+ },
+ {
+  "id": "4394f8fb5edf",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the Official Plan Amendment for Phase 2 of the Section 26 Review of The London Plan (Heights Review/Transit Village/Major Shopping Area), which raised permitted heights in several Place Types while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments to Urban Corridor/Civic Boulevard.",
+  "now": "Gave first reading to the Official Plan Amendment for Phase 2 of the Section 26 Review of The London Plan (Heights Review/Transit Village/Major Shopping Area), which raised permitted heights in several Place Types while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments to Urban Corridor/Civic Boulevard.",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 5, cross-checked against the raw meeting JSON) is a first reading: 'That Introduction and First Reading of Bill No. 311 BE APPROVED'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave first reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "That Introduction and First Reading of Bill No. 311 BE APPROVED"
+ },
+ {
+  "id": "60fc259aec00",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting by-laws including the contract award for Tender RFT-2024-120 covering East London Link and municipal infrastructure improvements (Phase 3B, Highbury Avenue North CPKC Bridge).",
+  "now": "Gave first reading to by-laws including the contract award for Tender RFT-2024-120 covering East London Link and municipal infrastructure improvements (Phase 3B, Highbury Avenue North CPKC Bridge).",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 6, cross-checked against the raw meeting JSON) is a first reading: \"That Introduction and First Reading of Bill No.'s 286, 295, and 296, BE APPROVED.\". The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave first reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "That Introduction and First Reading of Bill No.'s 286, 295, and 296, BE APPROVED."
+ },
+ {
+  "id": "6ac6d8117556",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+  "now": "Gave first reading to the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 6, cross-checked against the raw meeting JSON) is a first reading: 'That Introduction and First Reading of Bill No. 163 BE APPROVED.'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave first reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "A by-law to adopt the Municipal Diversity Plan for Appointments to the London Police Service Board Policy."
+ },
+ {
+  "id": "6b0e853e4b92",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the by-laws authorizing the Agreement of Purchase and Sale for 22 Wellington Road (Wellington Gateway Project) and the Settlement Agreement for 1144 Dundas Street (East London Link Project).",
+  "now": "Gave first reading to the by-laws authorizing the Agreement of Purchase and Sale for 22 Wellington Road (Wellington Gateway Project) and the Settlement Agreement for 1144 Dundas Street (East London Link Project).",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 9, cross-checked against the raw meeting JSON) is a first reading: 'That Introduction and First Reading of Added Bill No. 266 and 269 BE APPROVED'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave first reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "That Introduction and First Reading of Added Bill No. 266 and 269 BE APPROVED"
+ },
+ {
+  "id": "8b3507eb9459",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting by-laws implementing the Section 26 Heights Review parking-exemption zoning amendment and the Protected Major Transit Station Areas zoning review, which mixed density increases (higher storey limits, new Transit Station Area zones) with the removal of transit-station-area and Rapid Transit designations along Richmond Street/Western Road and the Oxford/Richmond Transit Village.",
+  "now": "Gave second reading to by-laws implementing the Section 26 Heights Review parking-exemption zoning amendment and the Protected Major Transit Station Areas zoning review, which mixed density increases (higher storey limits, new Transit Station Area zones) with the removal of transit-station-area and Rapid Transit designations along Richmond Street/Western Road and the Oxford/Richmond Transit Village.",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 4, cross-checked against the raw meeting JSON) is a second reading: 'That Second Reading of Bill No. 332 and 333 BE APPROVED'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave second reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "That Second Reading of Bill No. 332 and 333 BE APPROVED"
+ },
+ {
+  "id": "9797690f5ca1",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the by-law authorizing the Agreement of Purchase and Sale with Fanshawe College for the partial property acquisition at 1001 Fanshawe College Blvd. for the East London Link Project.",
+  "now": "Gave first reading to the by-law authorizing the Agreement of Purchase and Sale with Fanshawe College for the partial property acquisition at 1001 Fanshawe College Blvd. for the East London Link Project.",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 6, cross-checked against the raw meeting JSON) is a first reading: 'That Introduction and First Reading of Added Bill No. 265 BE APPROVED'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave first reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "That Introduction and First Reading of Added Bill No. 265 BE APPROVED"
+ },
+ {
+  "id": "9e3f35bfaec6",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the by-law authorizing the Agreement of Purchase and Sale with Fanshawe College for the partial property acquisition at 1001 Fanshawe College Blvd. for the East London Link Project.",
+  "now": "Gave second reading to the by-law authorizing the Agreement of Purchase and Sale with Fanshawe College for the partial property acquisition at 1001 Fanshawe College Blvd. for the East London Link Project.",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 7, cross-checked against the raw meeting JSON) is a second reading: 'That Second Reading of Added Bill No. 265 BE APPROVED'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave second reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "That Second Reading of Added Bill No. 265 BE APPROVED"
+ },
+ {
+  "id": "a248a2530653",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the rezoning by-law changing 2-4 Audrey Avenue and 186-188 Huron Street from a Residential R1 (single-detached) zone to a Residential R6 (higher-density) zone.",
+  "now": "Gave second reading to the rezoning by-law changing 2-4 Audrey Avenue and 186-188 Huron Street from a Residential R1 (single-detached) zone to a Residential R6 (higher-density) zone.",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 12, cross-checked against the raw meeting JSON) is a second reading: 'That Second Reading of Bill No. 327 BE APPROVED'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave second reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "to change the zoning of the subject properties FROM a Residential R1 Special Provision (R1-5(3)) Zone TO a Residential R6 Special Provision (R6-5(_)) Zone"
+ },
+ {
+  "id": "d57d1e348764",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the Official Plan Amendment for Phase 2 of the Section 26 Review of The London Plan (Heights Review/Transit Village/Major Shopping Area), which raised permitted heights in several Place Types while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments to Urban Corridor/Civic Boulevard.",
+  "now": "Gave second reading to the Official Plan Amendment for Phase 2 of the Section 26 Review of The London Plan (Heights Review/Transit Village/Major Shopping Area), which raised permitted heights in several Place Types while also removing the Transit Village designation and downgrading Rapid Transit Corridor/Boulevard segments to Urban Corridor/Civic Boulevard.",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 6, cross-checked against the raw meeting JSON) is a second reading: 'That Second Reading of Bill No. 311 BE APPROVED'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave second reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "That Second Reading of Bill No. 311 BE APPROVED"
+ },
+ {
+  "id": "de1eafd74164",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the by-laws authorizing the Agreement of Purchase and Sale for 22 Wellington Road (Wellington Gateway Project) and the Settlement Agreement for 1144 Dundas Street (East London Link Project).",
+  "now": "Gave second reading to the by-laws authorizing the Agreement of Purchase and Sale for 22 Wellington Road (Wellington Gateway Project) and the Settlement Agreement for 1144 Dundas Street (East London Link Project).",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 10, cross-checked against the raw meeting JSON) is a second reading: 'That Second Reading of Added Bill No. 266 and 269 BE APPROVED'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave second reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "That Second Reading of Added Bill No. 266 and 269 BE APPROVED"
+ },
+ {
+  "id": "f96ee1b77651",
+  "field": "whatAYeaDid",
+  "was": "Supported enacting the Official Plan Amendment for the Protected Major Transit Station Areas Zoning Review, which removed PMTSA designation and Rapid Transit Station references along Richmond Street/Western Road and the Oxford/Richmond Transit Village and deleted a density bonus tied to proximity to rapid transit stations, while also raising permitted heights elsewhere (up to 35 storeys in Transit Village PMTSAs, 25 storeys in Rapid Transit Corridors).",
+  "now": "Gave first reading to the Official Plan Amendment for the Protected Major Transit Station Areas Zoning Review, which removed PMTSA designation and Rapid Transit Station references along Richmond Street/Western Road and the Oxford/Richmond Transit Village and deleted a density bonus tied to proximity to rapid transit stations, while also raising permitted heights elsewhere (up to 35 storeys in Transit Village PMTSAs, 25 storeys in Rapid Transit Corridors).",
+  "reason": "Gate round 3 item C (integrity BLOCKER 2), extending sweep-reading-stage-labels.py: this row's whatAYeaDid says 'Supported enacting ...' -- enact-semantics, which only third reading performs -- but this roll call's own authoritative source motion (per _all-motions.json's motionText/rollCallOrdinal 8, cross-checked against the raw meeting JSON) is a first reading: 'That Introduction and First Reading of Bill No. 312 BE APPROVED It being noted that Councillor S. Trosow leaves the meeting at 5:11 PM'. The original sweep missed this because the label carries no stage word for it to catch (it says 'enacting', not 'Enacted First/Second Reading'); the extended sweep flags enact-semantics wording against the motion's own stage regardless of whether a stage word appears. Reworded to 'Gave first reading to ...', matching the corpus's established reading-stage-label convention.",
+  "quote": "remove Protected Major Transit Station Areas along Richmond Street from Kent Street to Epworth Avenue ... remove Protected Major Transit Station Areas from Richmond Street and Oxford Street East Transit Village ... amend Policy 813 to permit a maximum of 35 storeys ... delete Policy 840.6 related to greater residential intensity ... within 100 metres of a rapid transit station"
+ },
+ {
+  "id": "f5d2c8a7250b",
+  "field": "axis",
+  "was": "service-expansion",
+  "now": "application-approval",
+  "reason": "Gate round 3 item D (integrity BLOCKER 3): this row carries axis=service-expansion, which was fully retired 2026-08-31 when the transit issue's single axis was split into transit-service/road-capacity (see direction-rules.ts's own comment on that split) -- axisLabelsFor(issue, axis) returns null for a retired axis string, and generate-stances.ts's directionFromVerified falls back to '{expansive: entry.whatAYeaDid, restrictive: entry.whatAYeaDid}', collapsing both poles to the SAME text ('X vs. X' headings) and, downstream, a garbled 'would have Gave final approval...' grammar on the 15 profiles this row touches. Read this row's own full source text (2025-03-25 SPPC item 4.1, content[10]/[13]: an amendment adding 'expansion of Bradley Ave from Wellington Road to Highbury Avenue... in the next improvement cycle' to part a) of the Mobility Master Plan, followed by 'Motion to approve part a), as amended', Passed 14-1): 'expansion' here names no unambiguous operative basis for road-capacity's own live pattern (no lane count, no 'widen'/'new lanes'/'general purpose lanes' wording -- an infrastructure-program 'improvement cycle' entry could be a widening, a reconstruction, or something else entirely; the record does not say which). What IS unambiguous is the vote itself: a motion to approve the Roads Projects maps, as amended, Passed 14-1 -- the live, generic application-approval axis (already used for exactly this shape of clause elsewhere on this hub, e.g. 9cecd5ac8fd6) resolves to two distinct, non-degenerate poles for issue=transit ('approved the transit/roads item' / 'denied the transit/roads item') and needs no unverifiable guess about what kind of 'expansion' Bradley Ave got.",
+  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+ },
+ {
+  "id": "f5d2c8a7250b",
+  "field": "whatAYeaDid",
+  "was": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+  "now": "Approved, as amended, the Roads Projects maps, which as amended add Bradley Avenue (Wellington Road to Highbury Avenue) to the next improvement cycle.",
+  "reason": "Gate round 3 item D: whatAYeaDid reworded to drop the unverifiable 'expansion' direction claim (see the axis correction on this id) while still accurately naming what the amendment does -- adds a segment to the improvement-cycle list, without asserting what kind of improvement that will be.",
+  "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+ },
+ {
+  "id": "691ae2ebf06d",
+  "field": "whatAYeaDid",
+  "was": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+  "now": "Gave first reading to the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+  "reason": "Gate round 3 item F1 (minor): this row's whatAYeaDid is byte-identical to its sibling reading-stage rows of the same bill -- three DISTINCT roll calls (Introduction and First Reading, Second Reading, Third Reading and Enactment), each its own recorded vote across all 15 councillors, published with no stage word at all, so a reader cannot tell from the label alone which of the three roll calls a given row is for. Reworded to name the stage, matching the corpus's established 'Gave {stage} reading to .../Gave third reading and enacted ...' convention (see sweep-reading-stage-labels.py) -- this phrasing ('Approved the by-law authorizing ...') never went through that convention because it never used enact-semantics wording for that sweep to catch.",
+  "quote": "That Introduction and First Reading of Bill No. 157 BE APPROVED."
+ },
+ {
+  "id": "7f52f9d63ae8",
+  "field": "whatAYeaDid",
+  "was": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+  "now": "Gave second reading to the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+  "reason": "Gate round 3 item F1 (minor): this row's whatAYeaDid is byte-identical to its sibling reading-stage rows of the same bill -- three DISTINCT roll calls (Introduction and First Reading, Second Reading, Third Reading and Enactment), each its own recorded vote across all 15 councillors, published with no stage word at all, so a reader cannot tell from the label alone which of the three roll calls a given row is for. Reworded to name the stage, matching the corpus's established 'Gave {stage} reading to .../Gave third reading and enacted ...' convention (see sweep-reading-stage-labels.py) -- this phrasing ('Approved the by-law authorizing ...') never went through that convention because it never used enact-semantics wording for that sweep to catch.",
+  "quote": "That Second Reading of Bill No. 157 BE APPROVED."
+ },
+ {
+  "id": "6e90419d5680",
+  "field": "whatAYeaDid",
+  "was": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+  "now": "Gave third reading and enacted the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+  "reason": "Gate round 3 item F1 (minor): this row's whatAYeaDid is byte-identical to its sibling reading-stage rows of the same bill -- three DISTINCT roll calls (Introduction and First Reading, Second Reading, Third Reading and Enactment), each its own recorded vote across all 15 councillors, published with no stage word at all, so a reader cannot tell from the label alone which of the three roll calls a given row is for. Reworded to name the stage, matching the corpus's established 'Gave {stage} reading to .../Gave third reading and enacted ...' convention (see sweep-reading-stage-labels.py) -- this phrasing ('Approved the by-law authorizing ...') never went through that convention because it never used enact-semantics wording for that sweep to catch.",
+  "quote": "That Third Reading and Enactment of Bill No. 157 BE APPROVED."
+ },
+ {
+  "id": "3419490f3101",
+  "field": "whatAYeaDid",
+  "was": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+  "now": "Gave first reading to by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+  "reason": "Gate round 3 item F1 (minor): this row's whatAYeaDid is byte-identical to its sibling reading-stage rows of the same bill -- three DISTINCT roll calls (Introduction and First Reading, Second Reading, Third Reading and Enactment), each its own recorded vote across all 15 councillors, published with no stage word at all, so a reader cannot tell from the label alone which of the three roll calls a given row is for. Reworded to name the stage, matching the corpus's established 'Gave {stage} reading to .../Gave third reading and enacted ...' convention (see sweep-reading-stage-labels.py) -- this phrasing ('Approved the by-law authorizing ...') never went through that convention because it never used enact-semantics wording for that sweep to catch.",
+  "quote": "That Introduction and First Reading of Bill No. 181 and 182 BE APPROVED."
+ },
+ {
+  "id": "50c4d89fbbc9",
+  "field": "whatAYeaDid",
+  "was": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+  "now": "Gave second reading to by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+  "reason": "Gate round 3 item F1 (minor): this row's whatAYeaDid is byte-identical to its sibling reading-stage rows of the same bill -- three DISTINCT roll calls (Introduction and First Reading, Second Reading, Third Reading and Enactment), each its own recorded vote across all 15 councillors, published with no stage word at all, so a reader cannot tell from the label alone which of the three roll calls a given row is for. Reworded to name the stage, matching the corpus's established 'Gave {stage} reading to .../Gave third reading and enacted ...' convention (see sweep-reading-stage-labels.py) -- this phrasing ('Approved the by-law authorizing ...') never went through that convention because it never used enact-semantics wording for that sweep to catch.",
+  "quote": "That Second Reading of Bill No. 181 and 182 BE APPROVED."
+ },
+ {
+  "id": "3892d99b84bc",
+  "field": "whatAYeaDid",
+  "was": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+  "now": "Gave third reading and enacted by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+  "reason": "Gate round 3 item F1 (minor): this row's whatAYeaDid is byte-identical to its sibling reading-stage rows of the same bill -- three DISTINCT roll calls (Introduction and First Reading, Second Reading, Third Reading and Enactment), each its own recorded vote across all 15 councillors, published with no stage word at all, so a reader cannot tell from the label alone which of the three roll calls a given row is for. Reworded to name the stage, matching the corpus's established 'Gave {stage} reading to .../Gave third reading and enacted ...' convention (see sweep-reading-stage-labels.py) -- this phrasing ('Approved the by-law authorizing ...') never went through that convention because it never used enact-semantics wording for that sweep to catch.",
+  "quote": "That Third Reading and Enactment of Bill No. 181 and 182 BE APPROVED."
  }
 ]
