@@ -203,9 +203,38 @@ interface Correction {
   /** Final gate item 3: "motionText" corrects data/votes/_all-motions.json's
    * OWN extraction, not a classify-layer field. See RawMotion.motionText's
    * doc comment and applyMotionTextCorrections below for why this is a
-   * distinct correction target from the other four (which all patch a
-   * VerifiedEntry, keyed the same way but a structurally different map). */
-  field: "axis" | "polarity" | "whatAYeaDid" | "decisionKey" | "motionText";
+   * distinct correction target from the other fields (which all patch a
+   * VerifiedEntry, keyed the same way but a structurally different map).
+   *
+   * Round-2 gate item 0 (channel extension): added "issue" and "quote" to
+   * the five pre-existing targets (axis/polarity/whatAYeaDid/decisionKey/
+   * motionText), same additive semantics — a corrections.json row patches
+   * one field of one VerifiedEntry, staleness-checked against `was`, never
+   * touching batch-*-verified.json itself. "issue" overrides
+   * VerifiedEntry.issue (the IssueId/"none" a motion is filed under —
+   * consumed at entry.issue's every read site: directionFromVerified's
+   * llmDirectionBearing/llmIssue checks, the classified-motion push, and
+   * every issue-page/ladder aggregation keyed off it, since all of them
+   * read entry.issue AFTER this correction layer runs). "quote" overrides
+   * VerifiedEntry.quote, the verbatim source-text extract the classify
+   * pipeline stored as its own evidence — consumed by
+   * verify-quote-verbatim.py's corpus-wide verbatim check (which loads this
+   * same corrections.json to check the POST-correction quote, not the raw
+   * batch one) and by the historical quote-driven sweeps/rekey tools in
+   * this directory (sweep-business-case-levy.py, sweep-levy-sign-
+   * consistency.py, sweep-advocacy-class.py, rekey-classify-ids.py), which
+   * all key off a verified entry's `quote` field to relocate or match
+   * against full source text; a stale/garbled quote breaks that lookup the
+   * same way a stale/garbled whatAYeaDid breaks a rendered page, so it gets
+   * the same corrections-layer treatment. */
+  field:
+    | "issue"
+    | "axis"
+    | "polarity"
+    | "whatAYeaDid"
+    | "decisionKey"
+    | "motionText"
+    | "quote";
   was: string | null;
   now: string | null;
   reason: string;
@@ -309,7 +338,39 @@ function applyCorrections(
     // (VerifiedEntry.polarity is "expansive" | "restrictive" | null, not any
     // string) instead of widening it to `string | null` at the indexed-write
     // site.
-    if (c.field === "axis") {
+    if (c.field === "issue") {
+      // Round-2 gate item 0/item 2: an "issue" correction re-files a motion
+      // (e.g. a rezoning wrongly filed under "housing" by issue-rules.ts's
+      // structural OZ-#### code pattern when its actual content is a
+      // commercial/drive-through infill with no housing content) — "none"
+      // is the valid literal for "no issue applies", same as a fresh
+      // classify entry's own issue field (see VerifiedEntry.issue), so it's
+      // accepted here alongside every real IssueId without a separate
+      // "was it none" branch.
+      if (typeof c.now !== "string" || c.now.length === 0) {
+        throw new Error(
+          `corrections.json: ${c.id}.issue 'now' must be a non-empty string (an IssueId or "none") — got ${JSON.stringify(c.now)}`,
+        );
+      }
+      if (c.now !== "none" && !ISSUE_ORDER.includes(c.now as IssueId)) {
+        throw new Error(
+          `corrections.json: ${c.id}.issue 'now' must be "none" or one of ${JSON.stringify(ISSUE_ORDER)} — got ${JSON.stringify(c.now)}`,
+        );
+      }
+      entry.issue = c.now as IssueId | "none";
+    } else if (c.field === "quote") {
+      // Round-2 gate item 0/item 5: a "quote" correction fixes a
+      // transcription slip in the classify layer's own stored verbatim
+      // extract (e.g. a spurious duplicated "Reading" not present in the
+      // source) — never legitimately empty, since the field exists
+      // precisely to hold a non-empty verbatim source excerpt.
+      if (typeof c.now !== "string" || c.now.length === 0) {
+        throw new Error(
+          `corrections.json: ${c.id}.quote 'now' must be a non-empty string — got ${JSON.stringify(c.now)}`,
+        );
+      }
+      entry.quote = c.now;
+    } else if (c.field === "axis") {
       entry.axis = c.now;
     } else if (c.field === "polarity") {
       if (c.now !== null && c.now !== "expansive" && c.now !== "restrictive") {
