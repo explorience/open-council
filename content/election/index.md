@@ -28,7 +28,7 @@ Zoning and the budget, yes. Policing and healthcare, mostly not. [Read the plain
 
 These are the issues where council has actually split since 2023 — where a vote wasn't unanimous, and wasn't purely procedural. 841 additional divided motions since 2023 were independently classified as not fitting any of these tracked issue clusters, and are not force-fit into one; all of them are listed on the [issues page](/election/issues).
 
-- [Housing & Density](/election/issues/housing) — 347 divided votes since 2023, 207 with a clear direction
+- [Housing & Density](/election/issues/housing) — 347 divided votes since 2023, 206 with a clear direction
 - [Homelessness & Encampments](/election/issues/encampments) — 162 divided votes since 2023, 65 with a clear direction
 - [Taxes & Budget](/election/issues/budget) — 150 divided votes since 2023, 91 with a clear direction
 - [Transit & Roads](/election/issues/transit) — 117 divided votes since 2023, 60 with a clear direction

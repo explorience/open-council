@@ -14,7 +14,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
-| [Housing & Density](/election/issues/housing) | 347 | 207 |
+| [Housing & Density](/election/issues/housing) | 347 | 206 |
 | [Homelessness & Encampments](/election/issues/encampments) | 162 | 65 |
 | [Taxes & Budget](/election/issues/budget) | 150 | 91 |
 | [Transit & Roads](/election/issues/transit) | 117 | 60 |
