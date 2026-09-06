@@ -37,6 +37,14 @@
   "token": "BILL NO. 82",
   "reason": "Same as 4d40e1886a94 above -- Bill 82's third reading and enactment, same base rezoning, unaffected by cfbddceb0790's narrow height-amendment defect.",
   "anchor_quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
-  "candidate_quote": "That Third Reading and Enactment Reading of Revised Bill No. 82, BE APPROVED."
+  "candidate_quote": "That Third Reading and Enactment of Revised Bill No. 82, BE APPROVED."
+ },
+ {
+  "anchor_id": "c77f2ff22429",
+  "candidate_id": "85e437b965cd",
+  "token": "CASE #P-13",
+  "reason": "Gate round 4 item B: c77f2ff22429 was downgraded to unclear for a narrow, procedural-step reason only -- it is the INTERMEDIATE 'the motion BE AMENDED to read as follows' step in this item's amendment chain (2025-11-20 Budget Cttee item 4.8, statutory DC-exemption tax-levy mitigation), and per the amendment-to-pending convention its own direction has to be judged against what was actually PENDING at that moment (S. Stevenson's floor motion, which put the full $4,800,000 into 2026 only) -- against that pending alternative this amendment is a same-total, different-year-split reallocation with no single clean net direction, hence unclear. 85e437b965cd is the SEPARATE, FINAL wrapper vote ('the motion, as amended, BE APPROVED', 12-3) ratifying that same amended text -- but its own natural comparison baseline is the true TABLED budget (nothing pending after it; this is the up-or-down adoption vote), against which the adopted text nets an unambiguous $2,400,000/yr tax-levy reduction in both 2026 and 2027. Different roll calls, different natural baselines, independently derived -- 85e437b965cd's restrictive direction is not inherited from or contingent on c77f2ff22429's own (now-unclear) intermediate step.",
+  "anchor_quote": "That the motion BE AMENDED to read as follows: That the Mayor's Tabled 2026 Annual Budget Update BE AMENDED to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation",
+  "candidate_quote": "to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation"
  }
 ]

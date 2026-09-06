@@ -2670,5 +2670,117 @@
   "now": "Gave third reading and enacted by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
   "reason": "Gate round 3 item F1 (minor): this row's whatAYeaDid is byte-identical to its sibling reading-stage rows of the same bill -- three DISTINCT roll calls (Introduction and First Reading, Second Reading, Third Reading and Enactment), each its own recorded vote across all 15 councillors, published with no stage word at all, so a reader cannot tell from the label alone which of the three roll calls a given row is for. Reworded to name the stage, matching the corpus's established 'Gave {stage} reading to .../Gave third reading and enacted ...' convention (see sweep-reading-stage-labels.py) -- this phrasing ('Approved the by-law authorizing ...') never went through that convention because it never used enact-semantics wording for that sweep to catch.",
   "quote": "That Third Reading and Enactment of Bill No. 181 and 182 BE APPROVED."
+ },
+ {
+  "id": "ad4332ac35af",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": "expansive",
+  "reason": "Gate round 4 item A: this row's own precedent (verified against the corpus's own established amendment-to-pending-motion convention in 92c5abcb31d2, 98b1cc4021c2, 2071a9b9c052) signs an amendment's levy direction AGAINST THE PENDING MOTION IT AMENDS, not against the tabled budget. The full source record (2023-01-26 SPPC-BUDGET item 4.3) shows the PENDING motion at the point this amendment was moved was Case #P-17 as tabled: 'Operating Expenditure ($950,000); Tax Levy ($950,000) BE APPROVED' -- a pending $950,000 levy cut. This amendment (13-1) halves that cut to $475,000. Passing it leaves $475,000 MORE in the budget than the pending $950,000-cut alternative would have -- i.e. the levy ends up $475,000 HIGHER than the pending motion, an expansive move relative to what was on the floor, not a restrictive one. Previously published restrictive/'reduced the levy' with no stated baseline, which reads as a cut when relative to the actual pending alternative it is the opposite.",
+  "quote": "That the following actions be taken with respect to the 2023 Annual Budget Update: h)    Case #P-17 - Capital Financing - Reduction to Previously Approved \"For Consideration\" Business Case - Infrastructure Gap RF Contribution - Operating Expenditure ($950,000); Tax Levy ($950,000) BE APPROVED."
+ },
+ {
+  "id": "ad4332ac35af",
+  "field": "whatAYeaDid",
+  "was": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
+  "now": "Halved a pending $950,000 reduction to the Infrastructure Gap Reserve Fund contribution (Budget Amendment Case #P-17) down to a $475,000 reduction -- leaving the tax levy $475,000 higher than the pending $950,000 cut would have.",
+  "reason": "Gate round 4 item A: whatAYeaDid must state BOTH figures (the pending $950,000 and the amended $475,000) so a reader can see this is a partial reversal of a pending cut, not an unqualified reduction -- see the polarity correction on this id for the full derivation.",
+  "quote": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000."
+ },
+ {
+  "id": "2789ce535bcb",
+  "field": "polarity",
+  "was": "expansive",
+  "now": "restrictive",
+  "reason": "Gate round 4 item A: at 2024-11-22 Budget Cttee-CONTINUATION item 3.3, the PENDING floor motion at the point this further amendment was moved (Passed 12-2 immediately prior, d925b5e3502c) funded the LDBA cleaning/beautification grant at $300,000 in BOTH 2025 and 2026. This further amendment (Failed 2-12) would have funded 2025 only, dropping the 2026 $300,000 entirely -- a $300,000 REMOVAL relative to the pending motion it amends, per the corpus's own amendment-to-pending convention (verified in 92c5abcb31d2, 98b1cc4021c2, 2071a9b9c052), not an increase. Previously published expansive solely because the boilerplate clause reads 'BE AMENDED by increasing the budget' -- but that exact boilerplate opening also appears verbatim on d925b5e3502c, a same-item sibling that changes nothing but the funding source, confirming it is fixed drafting boilerplate for this grant-amendment form, not evidence of this specific amendment's own net fiscal direction. whatAYeaDid on this row already correctly states both figures ('$300,000 for 2025 only ... rather than the $300,000/year for 2025 and 2026 in the version already on the floor'); only the polarity field was inverted.",
+  "quote": "That the motion be further amended, to read as follows: That the Mayor's 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and maintenance ...: 2025 Operating Expenditures: $300,000     2025 Tax Levy: $0    2025 Capital Expenditures: $0"
+ },
+ {
+  "id": "d925b5e3502c",
+  "field": "axis",
+  "was": "levy-size",
+  "now": null,
+  "reason": "Gate round 4 item A: at 2024-11-22 Budget Cttee-CONTINUATION item 3.3, this amendment (Passed 12-2) swaps the LDBA cleaning/beautification grant's funding source only (Economic Development Reserve Fund -> Community Investment Reserve Fund) -- the dollar amounts are byte-identical to the motion it amends ($300,000 in both 2025 and 2026, Tax Levy $0 both years in both versions). Per the amendment-to-pending convention (see the sibling correction on 2789ce535bcb), the relevant comparison is against the pending motion this amends, and against it there is no fiscal delta at all -- no direction to derive. Downgraded from expansive (which had compared only against a hypothetical zero baseline, not the actual pending motion) to no axis.",
+  "quote": "That the motion be amended, to read as follows: That the Mayor's 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association ...: 2025 Operating Expenditures: $300,000     2025 Tax Levy: $0    2025 Capital Expenditures: $0\n\n2026 Operating Expenditures: $300,000     2026 Tax Levy: $0    2026 Capital Expenditures: $0"
+ },
+ {
+  "id": "d925b5e3502c",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Gate round 4 item A: follows from the axis correction on this id -- a funding-source-only swap with identical dollar amounts against the pending motion it amends carries no derivable fiscal direction.",
+  "quote": "That the motion be amended, to read as follows: That the Mayor's 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association ...: 2025 Operating Expenditures: $300,000     2025 Tax Levy: $0    2025 Capital Expenditures: $0\n\n2026 Operating Expenditures: $300,000     2026 Tax Levy: $0    2026 Capital Expenditures: $0"
+ },
+ {
+  "id": "c77f2ff22429",
+  "field": "axis",
+  "was": "levy-size",
+  "now": null,
+  "reason": "Gate round 4 item B (levy sweep widening): 2025-11-20 Budget Cttee item 4.8. Applying the same amendment-to-pending convention used for item A: the pending motion this amendment ('the motion BE AMENDED to read as follows', Passed 11-4) replaces was the immediately preceding floor motion (moved by S. Stevenson), which put the full $4,800,000 statutory-DC-exemption tax-levy mitigation into 2026 only (2026 Tax Levy -$4,800,000, 2027 Tax Levy $0). This amendment reallocates the SAME total ($4,800,000) evenly across 2026 and 2027 (-$2,400,000 each) -- relative to the pending motion, 2026 nets $2,400,000 HIGHER (less cut) while 2027 nets $2,400,000 lower (a new cut), an even timing reallocation with no net change to the total two-year commitment. The convention gives no single clean direction for a same-total, different-year-split reallocation against a pending alternative; per the fixer's own governing instruction ('if the precedent convention itself turns out ambiguous for a case, downgrade to unclear rather than pick a side'), downgraded to no axis rather than asserting restrictive (the previous read, which compared this step only to a zero/base baseline rather than to what was actually pending). NOTE: this does not touch the item's separate FINAL ratification vote (85e437b965cd, 'the motion, as amended, BE APPROVED', 12-3), which is correctly read against the true tabled baseline (not a pending alternative) and unambiguously nets a real $2,400,000/yr levy cut -- left restrictive, unchanged.",
+  "quote": "That the motion BE AMENDED to read as follows: That the Mayor's Tabled 2026 Annual Budget Update BE AMENDED to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation ...: 2026 Operating Expenditures: $0             2026 Tax Levy: -$2,400,000                      2026 Capital Expenditures: $0 2027 Operating Expenditures: $0             2027 Tax Levy: -$2,400,000                      2027 Capital Expenditures: $0"
+ },
+ {
+  "id": "c77f2ff22429",
+  "field": "polarity",
+  "was": "restrictive",
+  "now": null,
+  "reason": "Gate round 4 item B: follows from the axis correction on this id -- see that correction's reason for the full amendment-to-pending derivation.",
+  "quote": "That the motion BE AMENDED to read as follows: That the Mayor's Tabled 2026 Annual Budget Update BE AMENDED to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation ...: 2026 Operating Expenditures: $0             2026 Tax Levy: -$2,400,000                      2026 Capital Expenditures: $0 2027 Operating Expenditures: $0             2027 Tax Levy: -$2,400,000                      2027 Capital Expenditures: $0"
+ },
+ {
+  "id": "d02511e5110a",
+  "field": "whatAYeaDid",
+  "was": "Enacted third reading and final enactment of the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+  "now": "Gave third reading and enacted the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units.",
+  "reason": "Gate round 4 item C: enact-grammar defect class -- 'Enacted third reading and (final) enactment of X' is garbled (nothing is 'enacted' before third reading, and third reading itself IS the enactment, so the phrase double-states it backwards). The claim was already true (motionText confirms this roll call is Third Reading and Enactment); reworded to the corpus's own established phrasing for this exact shape ('Gave third reading and enacted ...', used verbatim on batch-25/batch-36's clean rows).",
+  "quote": "Enacted third reading and final enactment of the by-law rezoning 978 Gainsborough Road to a higher-density zone, enabling two 17-storey towers with 481 residential units."
+ },
+ {
+  "id": "b82df9a301b6",
+  "field": "whatAYeaDid",
+  "was": "Enacted third reading and enactment of by-laws authorizing service and grant agreements with the London Economic Development Corporation, London Community Small Business Centre, and TechAlliance of Southwestern Ontario.",
+  "now": "Gave third reading and enacted by-laws authorizing service and grant agreements with the London Economic Development Corporation, London Community Small Business Centre, and TechAlliance of Southwestern Ontario.",
+  "reason": "Gate round 4 item C: same enact-grammar defect class as d02511e5110a. This roll call's own motionText ('That Third Reading and Enactment of Bill No.'s 5 to Bill No. 7, BE APPROVED.') confirms third reading -- the batch's own `quote` field is a different item's cross-referenced first-reading text (a separate, already-known quote-field defect, not touched here); only whatAYeaDid's garbled grammar is fixed.",
+  "quote": "Enacted third reading and enactment of by-laws authorizing service and grant agreements with the London Economic Development Corporation, London Community Small Business Centre, and TechAlliance of Southwestern Ontario."
+ },
+ {
+  "id": "9f2a2b2b780d",
+  "field": "whatAYeaDid",
+  "was": "Enacted third reading and enactment of the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+  "now": "Gave third reading and enacted the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types.",
+  "reason": "Gate round 4 item C: same enact-grammar defect class as d02511e5110a.",
+  "quote": "Enacted third reading and enactment of the by-law rezoning 130 Southdale Road West from a Residential R1 single-detached zone to a Residential R3 Special Provision zone, permitting additional housing types."
+ },
+ {
+  "id": "4a001013fb34",
+  "field": "whatAYeaDid",
+  "was": "Enacted third reading and enactment of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+  "now": "Gave third reading and enacted by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project.",
+  "reason": "Gate round 4 item C: same enact-grammar defect class as d02511e5110a.",
+  "quote": "Enacted third reading and enactment of by-laws amending the authorization for the Wellington Gateway rapid transit project and approving property purchase/settlement agreements for the related East London Link rapid transit project."
+ },
+ {
+  "id": "84c664eaed50",
+  "field": "whatAYeaDid",
+  "was": "Enacted third reading and enactment of the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
+  "now": "Gave third reading and enacted the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant.",
+  "reason": "Gate round 4 item C: same enact-grammar defect class as d02511e5110a.",
+  "quote": "Enacted third reading and enactment of the by-law rezoning 1310 Adelaide Street North and 795 Windermere Road from Open Space to a Holding Open Space Special Provision zone, as amended to permit up to three commercial units including a drive-through restaurant."
+ },
+ {
+  "id": "771e2a97e970",
+  "field": "whatAYeaDid",
+  "was": "Enacted third reading and enactment of the meeting's confirming by-law (the standard catch-all by-law ratifying the council's procedural motions from this meeting).",
+  "now": "Gave third reading and enacted the meeting's confirming by-law (the standard catch-all by-law ratifying the council's procedural motions from this meeting).",
+  "reason": "Gate round 4 item C: same enact-grammar defect class as d02511e5110a.",
+  "quote": "Enacted third reading and enactment of the meeting's confirming by-law (the standard catch-all by-law ratifying the council's procedural motions from this meeting)."
+ },
+ {
+  "id": "f6df9b75ee64",
+  "field": "whatAYeaDid",
+  "was": "Enacted third reading and enactment of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+  "now": "Gave third reading and enacted by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement.",
+  "reason": "Gate round 4 item C: same enact-grammar defect class as d02511e5110a.",
+  "quote": "Enacted third reading and enactment of by-laws authorizing construction of the East London Link and Wellington Gateway South rapid transit projects, and approved a related property settlement agreement."
  }
 ]
