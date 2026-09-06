@@ -14,9 +14,9 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
-| [Housing & Density](/election/issues/housing) | 349 | 209 |
+| [Housing & Density](/election/issues/housing) | 347 | 207 |
 | [Homelessness & Encampments](/election/issues/encampments) | 162 | 65 |
-| [Taxes & Budget](/election/issues/budget) | 150 | 92 |
+| [Taxes & Budget](/election/issues/budget) | 150 | 93 |
 | [Transit & Roads](/election/issues/transit) | 117 | 60 |
 | [Climate & Green Space](/election/issues/climate) | 43 | 17 |
 | [Downtown & Core](/election/issues/downtown) | 30 | 19 |
@@ -26,7 +26,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 
 ## Unclassified divided votes
 
-839 additional divided motions since January 1, 2023 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 839 are listed below:
+841 additional divided motions since January 1, 2023 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 841 are listed below:
 
 - July 21, 2026 — By-laws (item 13)
 - July 21, 2026 — By-laws (item 13)
@@ -648,6 +648,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - February 13, 2024 — By-laws (item 13)
 - February 13, 2024 — (2.5) Contract Award - Tender No. RFT-2023-241 - East London Link and Municipal Infrastructure Improvements Phase 3C - Highbury Avenue (item 8.2.5)
 - February 13, 2024 — (2.4) Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street (item 8.2.8)
+- February 13, 2024 — (3.9) 1310 Adelaide Street North and 795 Windermere Road (OZ-8709) (Relates to Bill No. 58 and Bill No. 71) (item 8.4.14)
 - February 8, 2024 — Amendment - Business Case No. P-51 (item 3.23)
 - February 8, 2024 — Solicitor-Client Privileged Advice (item 6.2)
 - February 8, 2024 — Personal Matters About Identifiable Individual (item 6.3)
@@ -655,6 +656,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - February 2, 2024 — Amendment - Business Case No. P-29 (item 3.8)
 - February 2, 2024 — Adjournment (item 7)
 - February 1, 2024 — Adjournment (item 7)
+- January 30, 2024 — 1310 Adelaide Street North and 795 Windermere Road (OZ-8709) (item 3.9)
 - January 29, 2024 — Municipal Compliance Annual Report (item 2.5)
 - January 29, 2024 — Municipal Compliance Annual Report (item 2.5)
 - January 29, 2024 — Municipal Compliance Annual Report (item 2.5)
