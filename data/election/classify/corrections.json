@@ -6502,5 +6502,85 @@
   "now": "Amended item 17, clause 3.6, part a) to substitute a revised version of the by-law -- adding wording to the Waste Transfer Station and Recycling Depot definition to include a construction/demolition recycling facility and a specialized recycling facility, excluding other organic wastes -- in place of the by-law text as it stood before this amendment: a vote on which by-law version to introduce, not on the Open Space Special Provision (OS5) zoning outcome, which Council then separately approved 13-1 ('Item 17, clause 3.6, as amended BE APPROVED,' Helmer among the 13 yeas).",
   "reason": "Round-4 gate BLOCKER: the prior whatAYeaDid described this amendment as if it were the substantive natural-heritage zoning decision, when the amendment's operative act is substituting revised by-law wording for the by-law text as it stood before the amendment -- the OS5 zoning outcome carries through both versions unchanged. Rewritten to name the substitution accurately and to record that the zoning outcome was separately approved 13-1 on the immediate next roll call.",
   "quote": "a) the proposed, revised, attached by-law BE INTRODUCED at the Municipal Council meeting to be held on August 25, 2020, to amend Zoning By-law No. A-1 (in conformity with the Official Plan), to change the zoning of the subject property FROM a holding General Industrial (h*G12) Zone and a Light Industrial/General Industrial (L16/G12) Zond TO an Open Space Special Provision (OS5(_)) and a holding Light Industrial Special Provision/General Industrial Special Provision (h-47*L16(_)/G12(_)) Zone; it being noted that the following was added to the above noted revised by-law at the end of the Definition for “Waste Transfer Station and Recycling Depot” in part 2) a) i), \"and includes a construction and demolition recycling facility, and a specialized recycling facility but does not include any other organic wastes.\" of the revised, attached by-law"
+ },
+ {
+  "id": "f90513408920",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Gate round 5 (2018-2022 tranche) BLOCKER, caught by the new verify-cross-stage-consistency.py guard: byte-identical motionText to 1de168466ef0 (2020-12-16 Strategic Priorities and Policy Committee item 4.1), which corrections.json already nulled -- \"should not tally Helmer, Turner or Kayabaga as opponents of housing\" (a corporate-restructuring/HDC-dissolution vote, not a housing-supply or housing-policy one; the operative clauses receive a governance review, authorize implementation, and dissolve HDC into the Corporation's structure, with no clause expanding or restricting housing supply or policy). This id is the Council ratification of the SAME SPPC recommendation (2021-01-12 Council item 8.5.6.6.7, PASS 14-1, sole nay Stephen Turner) and had kept the pre-correction housing/application-approval/expansive tally, publishing Turner as having opposed housing on a vote about a corporate restructuring. Corrected to axis=null/polarity=null to match its already-corrected committee twin; whatAYeaDid stays accurate and untouched (per this round's own gate finding).",
+  "quote": "the Civic Administration BE DIRECTED to bring forward the necessary by-laws and documentation to dissolve Housing Development Corporation, London (HDC) and to integrate the affordable housing portfolio into the Corporation of City of London’s Corporate Structure with an implementation timeline of Q2 2021"
+ },
+ {
+  "id": "f90513408920",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Gate round 5 companion to this id's axis correction above: polarity->null alongside axis->null, matching 1de168466ef0's committee-stage correction. This is a corporate-restructuring/dissolution ratification, not a substantive housing-supply or housing-policy decision -- it should not tally Turner (the sole nay) as an opponent of housing.",
+  "quote": "the Civic Administration BE DIRECTED to bring forward the necessary by-laws and documentation to dissolve Housing Development Corporation, London (HDC) and to integrate the affordable housing portfolio into the Corporation of City of London’s Corporate Structure with an implementation timeline of Q2 2021"
+ },
+ {
+  "id": "c10fea602dda",
+  "field": "axis",
+  "was": "density",
+  "now": null,
+  "reason": "Gate round 5, caught by the new verify-cross-stage-consistency.py guard: same Westdell 689 Oxford Street West referral text as b1226b64400a (2022-07-05 Council, failed 4-9), which already carries axis=null/polarity=null under the deferOnly convention -- the clause's ONLY verb, at BOTH stages, is 'BE REFERRED back to the Civic Administration to work with the developer', with no AFFIRM (BE APPROVED/DIRECTED/...) or DENY verb anywhere in the text, so direction-rules.ts's own item-4 rule (a pure deferral/referral motion is direction:'unclear', axis=null) applies to this stage exactly as it already does to the Council stage. Corpus-wide, 244 of 247 other referral-flagged verified entries carry axis=null; the only 2 exceptions (82920ae88a00, 6f0c9180d01c) each have a genuine second, independent AFFIRM clause elsewhere in the same motion that this Westdell text does not. No previously -published false claim (polarity was already null, so this entry never contributed to a directional tally), but leaving axis='density' set while polarity=null is an internal inconsistency with both the deferOnly convention and this id's own Council-stage twin -- corrected to null to align. The differing vote OUTCOMES (PEC passed 4-2 the referral vs Council failed it 4-9) do not make these stages genuinely different: a failed referral is still a non-decision on the underlying application, same as a passed one -- neither carries a housing-density verdict.",
+  "quote": "the application by 2399731 Ontario Ltd, c/o Westdell Development Corporation BE REFERRED back to the Civic Administration to work with the developer to improve the proposed transition from high density towers to the existing low density abutting residential neighbourhoods with specific attention to addressing shadowing and traffic management at Wonderland and Beaverbrook"
+ },
+ {
+  "id": "bbdcbfecfc06",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "density",
+  "reason": "Gate round 5, caught by the new verify-cross-stage-consistency.py guard: same 36 Wethered Street (Z-26050) motionText as 99fafa72d237 (2026-06-09 Planning and Environment Committee item 3.7), which independently classified housing/density/expansive -- a verdict=confirmed read of the motion's own 'FROM a Residential R1 (R1-6) Zone TO a Holding Residential R5 Special Provision (h-6*R5-4(_)) Zone' language, present verbatim in THIS id's motionText too (the Council ratification carries the identical rezoning clause forward unchanged). This id had instead fallen to the generic application-approval axis. Corrected to density to match its committee twin; polarity=expansive already agreed on both sides.",
+  "quote": "the proposed by-law as appended to the staff report dated June 9, 2026, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone TO a Holding Residential R5 Special Provision (h-6*R5-4(_)) Zone;"
+ },
+ {
+  "id": "7418004bd1af",
+  "field": "axis",
+  "was": "density",
+  "now": "application-approval",
+  "reason": "Gate round 5, caught by the new verify-cross-stage-consistency.py guard: same 193-199 College Avenue (OZ-8693) motionText as 58f81ba0e912 (2024-05-22 Planning and Environment Committee item 3.6), which classified housing/application-approval/expansive. Unlike the Wethered Street pair above, this text has no FROM/TO zone-category change and no increase/decrease word near a density figure -- just static maximum specs ('Density (Maximum) - 196 units per hectare', 'Building Height (Maximum) - 21.0 metres') with no stated baseline to compare against, so direction-rules.ts's own density content-axis pattern (an increase/decrease word within 80 characters of density/height/storeys/units-per-hectare) does not match either stage's text -- confirmed independently by the regex cross-check (data/election/classify/regex-vs-llm.json): the regex engine reads THIS id's motionText as application-approval, same as its committee twin, and flags exactly this id's density label as the disagreement. Corrected to application-approval to align with the better-grounded committee-stage read; polarity=expansive already agreed on both sides.",
+  "quote": "the development, as proposed, BE ENDORSED"
+ },
+ {
+  "id": "3f1093ba6162",
+  "field": "issue",
+  "was": "budget",
+  "now": "downtown",
+  "reason": "Gate round 5, caught by the new verify-cross-stage-consistency.py guard: same Honk App free two-hour on-street parking budget-amendment motionText as d3b3b84ba64c (2025-11-20 Budget Committee item 4.9), which classified downtown/application-approval/expansive. Hand-scoring issue-rules.ts's own keyword lists against this text: budget hits 'tax levy' + 'annual budget update' (2), downtown hits 'downtown' + 'core area' (2) -- a tie that classifyIssue's own ISSUE_ORDER tie-break resolves toward downtown (listed ahead of budget specifically to prefer a specific topical cluster over the budget catch-all). The regex cross-check (data/election/classify/regex-vs-llm.json) independently computes issue=downtown for BOTH this id and d3b3b84ba64c over the identical text, confirming the tie-break rather than the 'budget wins on score' reasoning this id's own verifierNote gave (which undercounted budget's own keyword hits as 1, not 2, but still lands on the same downtown answer once broken by ISSUE_ORDER). Corrected to downtown to match the committee stage; the underlying vote (a real, passed $784,000/yr spending expansion) is unchanged either way, and polarity=expansive already agreed.",
+  "quote": "the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village)"
+ },
+ {
+  "id": "3f1093ba6162",
+  "field": "axis",
+  "was": "levy-size",
+  "now": "application-approval",
+  "reason": "Companion to this id's issue correction above: axis follows issue=downtown, which has no issue-specific AXIS_PATTERNS entry in direction-rules.ts, so the generic application-approval fallback applies -- matching d3b3b84ba64c exactly. polarity=expansive is unaffected and already agreed on both sides.",
+  "quote": "the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village)"
+ },
+ {
+  "id": "b38513a0a390",
+  "field": "issue",
+  "was": "none",
+  "now": "transit",
+  "reason": "Gate round 5, caught by the new verify-cross-stage-consistency.py guard: same Wellington Gateway Project Phase 2 land-expropriation motionText as 0052db0821e2 (2025-07-22 Council item 8.1.9), which an earlier round already corrected from issue=transit/axis=null/polarity=null to issue=transit/axis=transit-service/polarity=expansive via the transit axis split (data/election/classify/transit-split-verified.json) -- that file documents the Wellington Gateway project as a Rapid Transit corridor (ICIP Public Transit Stream funded) and matches this exact 'approval BE GIVEN to the expropriation of land ... Wellington Gateway Project' clause to several sibling ids already reclassified transit-service/expansive on the same grounds. This id (the committee-stage twin, byte-identical operative clause) was never swept into transit-split-verified.json -- confirmed absent from all 64 of its rows, simply missed by that round's sweep, not a genuine committee-vs-Council difference (this item passed at both stages, 4-1 committee and 13-2 Council, on the same text). Its own pre-existing verifierNote ('never uses any of the 8 issue-cluster keywords ... issue=none') predates and is superseded by the transit-split sweep's project-identity reasoning, exactly as 0052db0821e2's own now-stale verifierNote does. Corrected to match its Council twin.",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project"
+ },
+ {
+  "id": "b38513a0a390",
+  "field": "axis",
+  "was": null,
+  "now": "transit-service",
+  "reason": "Companion to this id's issue correction above: axis follows issue=transit, matching 0052db0821e2's already-corrected transit-service axis for the identical expropriation-approval clause.",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project"
+ },
+ {
+  "id": "b38513a0a390",
+  "field": "polarity",
+  "was": null,
+  "now": "expansive",
+  "reason": "Companion to this id's issue/axis corrections above: polarity follows, matching 0052db0821e2's already-corrected expansive polarity -- an expropriation-approval clause advancing the transit corridor project is the expansive outcome on the transit-service axis, same reasoning already applied to the Council-stage twin.",
+  "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project"
  }
 ]
