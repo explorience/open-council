@@ -6356,7 +6356,7 @@
   "field": "axis",
   "was": "transit-service",
   "now": null,
-  "reason": "Gate round 10 opus-gate finding 1: this id's earlier correction (this same file, above) reclassified issue downtown->transit and axis application-approval->transit-service to match the BRT-consistency fix, but left polarity=expansive standing -- so this s.15.2(e) Consulting-Engineer-appointment procurement vote (AECOM appointed for the Downtown Loop project's design phase; full motion text months/2020-01/2020-01-14 Council item 8.3.10, parts a-e, is entirely appointment/financing/administrative-execution clauses with no content about transit service itself) was publishing as 'expanded public transit service' with Van Meerbergen and van Holst tallied as opponents of transit expansion, when they in fact opposed a consulting-engineer procurement appointment. Its structural twins b5e77870e85f (DILLON/East London Link consulting-engineer appointment) and 96a8316ca83a (AECOM Wellington Gateway consulting-engineer appointment) carry axis=null/polarity=null for this identical pattern ('pure appointment, no directional content' per their own verifierNotes). Corrected to match: axis->null (issue stays transit, per this id's separate issue correction). The two Downtown Loop tender-award votes (2cb6c9292ef6, 74f91fe1f257) were checked against this same question and confirmed to genuinely differ -- a construction-tender bid acceptance is a real capital commitment to build, not a directionless procurement-appointment step, matching corpus precedent 4214b0fc1e5c/6dd7c2a2b04d (other transit contract-award bid acceptances kept axis=application-approval/polarity=expansive) -- so they are NOT nulled and are left as classified.",
+  "reason": "Gate round 10 opus-gate finding 1: this id's earlier correction (this same file, above) reclassified issue downtown->transit and axis application-approval->transit-service to match the BRT-consistency fix, but left polarity=expansive standing -- so this s.15.2(e) Consulting-Engineer-appointment procurement vote (AECOM appointed for the Downtown Loop project's design phase; full motion text months/2020-01/2020-01-14 Council item 8.3.10, parts a-e, is entirely appointment/financing/administrative-execution clauses with no content about transit service itself) was publishing as 'expanded public transit service' with Van Meerbergen and van Holst tallied as opponents of transit expansion, when they in fact opposed a consulting-engineer procurement appointment. Its structural twins b5e77870e85f (DILLON/East London Link consulting-engineer appointment) and 96a8316ca83a (AECOM Wellington Gateway consulting-engineer appointment) carry axis=null/polarity=null for this identical pattern ('pure appointment, no directional content' per their own verifierNotes). Corrected to match: axis->null (issue stays transit, per this id's separate issue correction). The two Downtown Loop tender-award votes (2cb6c9292ef6, 74f91fe1f257) were checked against this same question and confirmed to genuinely differ -- a construction-tender bid acceptance is a real capital commitment to build, not a directionless procurement-appointment step, matching corpus precedent 4214b0fc1e5c/6dd7c2a2b04d (other transit contract-award bid acceptances kept axis=application-approval/polarity=expansive) -- so they are NOT nulled and are left as classified. [Round-3 gate item 4 fixer note: this reason's phrase 'kept axis=application-approval' for 4214b0fc1e5c/6dd7c2a2b04d describes their PRE-correction batch state, not their current one -- both were separately corrected (this file, transit-split-verified.json) from axis=application-approval to axis=transit-service, the same 'dedicated BRT corridor construction' distinction this reason is making. The substantive claim is unchanged and true: both remain classified with a real directional axis (transit-service/expansive), which is what distinguishes them from this id's directionless procurement appointment -- only the specific axis name in this sentence was stale.]",
   "quote": "AECOM Canada Ltd. BE APPOINTED Consulting Engineers for the Downtown Loop and Municipal Infrastructure Improvements at an upset amount of $3,345,245 including contingency (excluding HST), in accordance with Section 15.2 (e) of the Procurement of Goods and Services policy;"
  },
  {
@@ -6382,5 +6382,101 @@
   "now": null,
   "reason": "Gate round 10 opus-gate finding 3 (see this id's axis correction above for full reasoning): polarity->null alongside axis->null. This is a corporate-restructuring/dissolution vote, not a substantive housing-supply or housing-policy decision -- it should not tally Helmer, Turner or Kayabaga as opponents of housing.",
   "quote": "the Civic Administration BE DIRECTED to bring forward the necessary by-laws and documentation to dissolve Housing Development Corporation, London (HDC) and to integrate the affordable housing portfolio into the Corporation of City of London’s Corporate Structure with an implementation timeline of Q2 2021"
+ },
+ {
+  "id": "95d5c6f299be",
+  "field": "axis",
+  "was": "density",
+  "now": null,
+  "reason": "Round-3 gate BLOCKER (substitution-amendment vs unanimous-final class): this Council 2021-02-02 item 8.4.7 vote (12-3, Van Meerbergen/Holder/Squire nay) is S. Turner's amendment to clause 3.1(a), which substitutes 'the proposed attached revised by-law' for 'the proposed by-law appended to the staff report dated January 18, 2021' -- a vote on WHICH version of the East Village Holdings by-law to introduce, not on the density/height/affordable-housing content those three councillors are recorded as opposing. The very next motion in the same item, the main motion as amended, passed 15-0 -- Van Meerbergen, Holder, and Squire all voted yea on the same East Village development they would otherwise be published as having opposed. Publishing this as a density-axis nay would be a false statement: they denied a by-law-text swap, not the development itself, which they approved unanimously minutes later. Downgraded to no direction.",
+  "quote": "That clause 3.1 BE AMENDED in part a) to read as follows: That, the following actions be taken with respect to the application by East Village Holdings Limited... a) the proposed attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on February 2, 2021 to amend Zoning By-law No. Z.-1"
+ },
+ {
+  "id": "95d5c6f299be",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as this id's axis correction above: the amendment is a vote on which by-law text to introduce (original staff-report version vs. revised version), not on the development's density content, so no polarity is asserted. The unanimous 15-0 final vote on the main motion as amended (same item, same meeting) is why direction cannot be honestly attributed to the 12-3 amendment nays.",
+  "quote": "That clause 3.1 BE AMENDED in part a) to read as follows: ... the proposed attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on February 2, 2021"
+ },
+ {
+  "id": "95d5c6f299be",
+  "field": "whatAYeaDid",
+  "was": "Amended clause 3.1 to revise the proposed zoning by-law for 690-700 King Street, 400 Lyle Street, 701-737 Dundas Street, and 389-393 Hewitt Street, permitting a mixed-use development up to 24 storeys (82 m) with a maximum density of 750 units per hectare, including 13 affordable dwelling units.",
+  "now": "Amended clause 3.1(a) to substitute a revised version of the East Village Holdings by-law -- in place of the by-law text appended to the January 18, 2021 staff report -- as the text to be introduced: a vote on which by-law version to introduce, not on the development's density, height, or affordable-housing content, which Council then approved unanimously (15-0, main motion as amended, same item).",
+  "reason": "Round-3 gate BLOCKER: the prior whatAYeaDid described this amendment as if it were the substantive density/height decision, when the amendment's operative act is substituting the revised by-law text for the original staff-report by-law text -- the same East Village content carries through both versions. Rewritten to name the substitution accurately and to record that the substantive content was separately approved 15-0.",
+  "quote": "That clause 3.1 BE AMENDED in part a) to read as follows: ... a) the proposed attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on February 2, 2021 to amend Zoning By-law No. Z.-1"
+ },
+ {
+  "id": "c4cfc1e826ec",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Round-3 gate BLOCKER (substitution-amendment vs unanimous-final class): this Council 2021-12-07 item 8.8.1.17 vote (14-1, Hamou nay) amends clause 3.3, substituting 'the proposed attached, revised, by-law (including the attached revised map)' for the original 'proposed by-law appended to the staff report dated November 22, 2021 as Appendix A' -- a vote on WHICH by-law/map version to introduce for 99 Southdale Road West, not on whether to approve the R9 rezoning itself. The next motion in the same item, 'that item 17, clause 3.3, as amended, BE APPROVED,' passed 15-0 -- Hamou voted yea. Publishing her 14-1 nay as an application-approval opposition to this rezoning would be a false statement: she would appear to have denied a development she approved unanimously in the same item. Downgraded to no direction.",
+  "quote": "That clause 3.3 BE AMENDED to read as follows: ... a) the proposed attached, revised, by-law (including the attached revised map) BE INTRODUCED at the Municipal Council meeting to be held on December 7, 2021"
+ },
+ {
+  "id": "c4cfc1e826ec",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as this id's axis correction above: the amendment is a vote on which by-law/map version to introduce, not on the rezoning's own content, so no polarity is asserted. The unanimous 15-0 final vote on 'item 17, clause 3.3, as amended' (same item, same meeting) is why direction cannot be honestly attributed to the 14-1 amendment nay.",
+  "quote": "That clause 3.3 BE AMENDED to read as follows: ... a) the proposed attached, revised, by-law (including the attached revised map) BE INTRODUCED"
+ },
+ {
+  "id": "c4cfc1e826ec",
+  "field": "whatAYeaDid",
+  "was": "Amended clause 3.3 to introduce a revised by-law rezoning 99 Southdale Road West from Urban Reserve and Environmental Review to Residential R9 Special Provision and Open Space zoning, with Site Plan Approval conditions and no further notice under section 34(17) of the Planning Act.",
+  "now": "Amended clause 3.3 to substitute a revised by-law and site plan map -- in place of the by-law and map appended to the November 22, 2021 staff report -- as the text to be introduced for 99 Southdale Road West: a vote on which by-law version to introduce, not on whether to approve the R9 rezoning, which Council then approved unanimously (15-0, 'item 17, clause 3.3, as amended,' same item).",
+  "reason": "Round-3 gate BLOCKER: the prior whatAYeaDid described this amendment as the substantive rezoning-approval act, when the amendment's operative content is substituting a revised by-law/map for the original staff-report version -- the underlying rezoning carries through both. Rewritten to name the substitution accurately and to record that the rezoning was separately approved 15-0.",
+  "quote": "That clause 3.3 BE AMENDED to read as follows: ... a) the proposed attached, revised, by-law (including the attached revised map) BE INTRODUCED at the Municipal Council meeting to be held on December 7, 2021"
+ },
+ {
+  "id": "d3f2b15062e0",
+  "field": "axis",
+  "was": "infrastructure-expansion",
+  "now": null,
+  "reason": "Round-3 gate BLOCKER (substitution-amendment vs unanimous-final class): this Council 2021-04-13 item 8.2.18 vote (14-1, Hopkins nay) directs Civic Administration to bring forward by-laws to operationalize Option #3 (Traffic Diversions) for the Dundas Place temporary bicycle lanes -- moved immediately after Option 1 (Bi-directional Bicycle Lanes, the staff-recommended option) had already failed 7-8 on the prior roll call in the same item. This is a vote on WHICH implementation option to proceed with (Option 3 substituting for the failed Option 1), not on whether to build bike-lane infrastructure at all. The next motion, the main motion as amended, passed 15-0 -- Hopkins voted yea. Publishing her 14-1 nay as infrastructure-expansion opposition would be a false statement: she would appear to have opposed the bike-lane project she approved unanimously in the same item. Downgraded to no direction.",
+  "quote": "The Civic Administration BE DIRECTED to bring forward the necessary by-laws to the May 4, 2021 meeting of Municipal Council to operationalize Option #3, Traffic Diversions, with respect to Dundas Place temporary bicycle lanes, with components of physical barriers being included in the plan."
+ },
+ {
+  "id": "d3f2b15062e0",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as this id's axis correction above: the vote is on which bike-lane implementation option to proceed with (Option 3, after Option 1 failed 7-8 in the same item), not on whether to build the infrastructure, so no polarity is asserted. The unanimous 15-0 final vote on the main motion as amended (same item, same meeting) is why direction cannot be honestly attributed to the 14-1 nay.",
+  "quote": "The Civic Administration BE DIRECTED to bring forward the necessary by-laws to the May 4, 2021 meeting of Municipal Council to operationalize Option #3, Traffic Diversions, with respect to Dundas Place temporary bicycle lanes"
+ },
+ {
+  "id": "d3f2b15062e0",
+  "field": "whatAYeaDid",
+  "was": "Directed the Civic Administration to bring forward the necessary by-laws to operationalize Option #3, Traffic Diversions, for the Dundas Place temporary bicycle lanes, including physical barriers.",
+  "now": "Directed Civic Administration to bring forward by-laws to operationalize Option #3 (Traffic Diversions), in place of Option 1 (Bi-directional Bicycle Lanes, which had already failed 7-8 earlier in the same item), for the Dundas Place temporary bicycle lanes: a vote on which implementation option to proceed with, not on whether to build the bike-lane project, which Council then approved unanimously (15-0, main motion as amended, same item).",
+  "reason": "Round-3 gate BLOCKER: the prior whatAYeaDid described this vote as a plain infrastructure-expansion act without naming that it substitutes Option 3 for the just-failed Option 1 -- the choice-of-option framing that makes the nay unattributable as opposition to the project. Rewritten to name the substitution accurately and to record that the project was separately approved 15-0.",
+  "quote": "The Civic Administration BE DIRECTED to bring forward the necessary by-laws to the May 4, 2021 meeting of Municipal Council to operationalize Option #3, Traffic Diversions, with respect to Dundas Place temporary bicycle lanes, with components of physical barriers being included in the plan."
+ },
+ {
+  "id": "1599984864a1",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Round-3 gate BLOCKER: this SPPC 2020-12-16 item 5.1 motion (14-1, Helmer nay; Helmer himself moved it) receives a communication from the LPSB Chair and Chief of Police and approves 'the protocol therein.' The item's own title -- '(ADDED) Protocol London Police Services Business Plan Timelines' -- and its single attachment (the LPS Board's submission on that protocol) show the content is a governance/administrative timelines matter for when the Board's Business Plan gets submitted, not policing scope, operations, or funding. This is the ONLY direction-bearing policing row in the entire 2018-2022 tranche: publishing Helmer's nay on a timelines-protocol receipt as denying 'the policing item' would make his whole era policing record read as a single act of opposition to policing itself, when the vote concerned a scheduling protocol he moved and then voted against. Downgraded to no direction.",
+  "quote": "That the communication dated November 17, 2020 from Dr. J. Sukhera, Chair, London Police Services Board and S. Williams, Chief of Police, BE RECEIVED and the protocol therein BE APPROVED."
+ },
+ {
+  "id": "1599984864a1",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as this id's axis correction above: a governance/administrative-timelines protocol receipt carries no policing-scope or funding content to expand or restrict, so no polarity is asserted.",
+  "quote": "That the communication dated November 17, 2020 from Dr. J. Sukhera, Chair, London Police Services Board and S. Williams, Chief of Police, BE RECEIVED and the protocol therein BE APPROVED."
+ },
+ {
+  "id": "fc8342189a59",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "Round-3 gate item 5 (consistency sweep): this Council 2019-01-29 item 9.1 motion (11-4) accepts purchase offers for two Wellington Road properties (180 Wellington Road, $215,000; 263 Wellington Road, $275,000) explicitly 'for the purpose of future road improvements to accommodate the Bus Rapid Transit initiative' and approves financing for both acquisitions -- a genuine capital commitment (City funds spent to acquire the right-of-way land the BRT corridor is built on), the same class as the dedicated BRT corridor construction-contract awards already reclassified to transit-service (4214b0fc1e5c, 6dd7c2a2b04d, transit-split-verified.json: 'dedicated BRT corridor construction' warrants axis=transit-service over the generic application-approval fallback). Distinguished from the Downtown Loop consulting-engineer appointment (8dc6de530d39, axis->null) and its structural twins b5e77870e85f/96a8316ca83a, which are pure administrative-appointment procurement with no capital-spending content of their own -- here the City is directly buying land for a named transit project and financing the purchase, a real BRT-capital act. Polarity stays expansive (unchanged): the acquisitions and their financing were both approved. Aligns the axis with the established BRT-capital treatment rather than the generic fallback.",
+  "quote": "for the purpose of future road improvements to accommodate the Bus Rapid Transit initiative, the following actions be taken: a) the offer submitted by Shayne Sterling Johnston, to sell the subject property to the City, for the sum of $215,000.00, BE ACCEPTED"
  }
 ]
