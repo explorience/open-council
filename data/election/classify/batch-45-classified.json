@@ -1,0 +1,518 @@
+[
+  {
+    "id": "3cacd5dd213d",
+    "issue": "transit",
+    "axis": "road-capacity",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the expropriation of land required for the Wharncliffe Road South road widening and improvements project between Becher Street and Springbank Drive, and directed introduction of the related expropriation by-law at Council.",
+    "confidence": "medium",
+    "quote": "the expropriation of land as may be required for the Wharncliffe Road South Road Widening and Improvements Project between Becher Street and Springbank Drive, BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "c45da0a4bc85",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have upheld the Chair's ruling that a delegation's request for an extension of time was out of order.",
+    "confidence": "high",
+    "quote": "Shall the ruling of the Chair be upheld?",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "23c001037998",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred to a future meeting a proposed by-law (Appendix “B” to the June 24, 2019 staff report) related to London & Middlesex Community Housing Inc.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated June 24, 2019 as Appendix “B” BE REFERRED to a future meeting for consideration",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "fe44f9e3ca14",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Advanced the interview process for a vacant Class III director seat on the London Hydro Inc. board and reappointed the Class I, II and IV directors whose terms were expiring.",
+    "confidence": "high",
+    "quote": "class I Directors, Gabe Valente and Jack Smit whose terms are expiring, be reappointed to the board of London Hydro Inc.; ... the remaining class II, III and IV Directors whose terms are expiring, be reappointed to the board of London Hydro Inc.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "b7771157d046",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information a staff report updating Council on workplace diversity and inclusion.",
+    "confidence": "high",
+    "quote": "the staff report dated June 18, 2019 with respect to an update on Workplace Diversity and Inclusion BE RECEIVED for information purposes",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "c9bb5ca8d1e7",
+    "issue": "transit",
+    "axis": "road-capacity",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the expropriation of land required for the Wharncliffe Road South road widening and improvements project between Becher Street and Springbank Drive, and directed introduction of the related expropriation by-law.",
+    "confidence": "medium",
+    "quote": "the expropriation of land as may be required for the Wharncliffe Road South Road Widening and Improvements Project between Becher Street and Springbank Drive, BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "3dab2bb2e75c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended a proposed change to the Neighbourhood Decision Making Program to specify that an idea cannot be submitted for an address that received funding in the prior year.",
+    "confidence": "high",
+    "quote": "an idea cannot be submitted for an address, which received funding in the prior year",
+    "flags": []
+  },
+  {
+    "id": "7e21dc1204ba",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved, as amended, barring the submission of a Neighbourhood Decision Making Program idea for an address that received funding in the prior year.",
+    "confidence": "medium",
+    "quote": "an idea cannot be submitted for an address, which received funding in the prior year",
+    "flags": []
+  },
+  {
+    "id": "8983348ce339",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a by-law implementing the Local Planning Appeal Tribunal's decision approving commercial floor area and Southwest Area Secondary Plan urban design policies for 3234, 3263 and 3274 Wonderland Road South, and forwarded it to the Tribunal for approval.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated July 22, 2019, which reflects the decision of the Local Planning Appeal Tribunal to approve commercial floor area on the subject lands and also implements the Urban Design policies of the Southwest Area Secondary Plan on the subject lands, BE ENDORSED, and BE FORWARDED to the Local Planning Appeal Tribunal for Approval.",
+    "flags": []
+  },
+  {
+    "id": "e0d623a06c72",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized the Managing Director, Development Services and Compliance and Chief Building Official to accept a Minor Variance application for the property at 660 Sunningdale Road East.",
+    "confidence": "high",
+    "quote": "the Managing Director, Development Services and Compliance and Chief Building Official BE AUTHORIZED to accept a Minor Variance application by M. Clawson, Clawson Group Inc., on behalf of Extra Realty Limited, for the property located at 660 Sunningdale Road East",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ef2523fc131e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have deferred the Gateway Casinos and Entertainment Ltd. application for 3334 and 3354 Wonderland Road South to the August 12, 2019 Planning and Environment Committee meeting to allow comment from First Nations communities.",
+    "confidence": "high",
+    "quote": "The application by Gateway Casinos and Entertainment Ltd., relating to the property located at 3334 and 3354 Wonderland Road South BE DEFERRED to the August 12, 2019 Planning and Environment Committee, to allow for comment to be provided by First Nations communities.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "c602110bd14f",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have introduced by-laws amending the Official Plan and Southwest Area Secondary Plan to change 3334 and 3354 Wonderland Road South from a Multi-Family, Medium Density Residential designation to a Wonderland Road Community Enterprise Corridor designation and rezoning the site, with a directive to consult First Nations communities, to permit a proposed Gateway Casinos development.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated July 22, 2019 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on July 30, 2019 to amend the Official Plan to change the designation of the subject lands FROM Multi-Family, Medium Density Residential TO Wonderland Road Community Enterprise Corridor",
+    "flags": []
+  },
+  {
+    "id": "7ef1d8113921",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted delegate S. Allen (MHBC) an extension beyond five minutes for his delegation.",
+    "confidence": "high",
+    "quote": "Motion to grant Mr. S. Allen, MHBC, an extension beyond five minutes for his delegation.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "638d10d32f0b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Victoria Bridge replacement detailed-design-and-tendering consulting-engineer appointment back to Civic Administration to report on more cost-effective design alternatives addressing cultural heritage concerns.",
+    "confidence": "high",
+    "quote": "That consideration of the Victoria Bridge replacement detailed design and tendering, appointment of consulting engineer BE REFERRED to the Managing Director, Environmental & Engineering Services to report back at a future meeting of the Civic Works Committee with more cost effective alternatives for addressing cultural heritage concerns that would include an enhanced design for a concrete girder bridge which incorporates special treatments, public art and/or portions of the existing bridge, with the goal of achieving an overall project cost savings",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "189d2165995f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved hearing a delegation request from C. Butler at this time.",
+    "confidence": "high",
+    "quote": "That the delegation request from C. Butler BE APPROVED to be heard at this time.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "0019d9d5144c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added the City's Information Technology function to the list of services under review for potential reductions, with a report back on past initiatives and future review tools.",
+    "confidence": "high",
+    "quote": "Information Technology, with a report back summary and potential future review tools",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "f15ce439b29f",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added rescinding the Tree Protection By-law to the City services under review for potential reductions, with a report back on possible cost savings from repealing the by-law.",
+    "confidence": "medium",
+    "quote": "Rescinding the Tree Protection By-law, with report back on possible cost savings that may result from the repeal of the By-law",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "8868fb5f4501",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Added a possible phased-in reduction in Tourism London's funding from the municipal levy to the City services under review, in light of new Municipal Accommodation Tax funding transferred to Tourism London.",
+    "confidence": "medium",
+    "quote": "Opportunities for a phased-in Tourism London funding reduction from the municipal levy, in light of new funding transferred to Tourism London from the Municipal Accommodation Tax.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "f7b0b8cc498f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b)ii) of the service-review clause, adding Information Technology to the list of services under review for potential reductions, with a report back on past initiatives and future review tools.",
+    "confidence": "medium",
+    "quote": "Information Technology, with a report back with a summary of past initiatives and potential future review tools",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "2c091d243f1b",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved part b)iii) of the service-review clause, confirming that a possible phased-in reduction in Tourism London's funding from the municipal levy remains under review.",
+    "confidence": "medium",
+    "quote": "opportunities for a phased-in Tourism London funding reduction from the municipal levy, in light of new funding transferred to Tourism London from the Municipal Accommodation Tax",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "9e087d758556",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to by-laws amending the Official Plan and Southwest Area Secondary Plan and rezoning 3334 and 3354 Wonderland Road South from a Multi-Family, Medium Density Residential designation to a Wonderland Road Community Enterprise Corridor designation to permit a proposed Gateway Casinos development.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Added Bill No.’s 311 to 313, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "4ecb93b89af4",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to by-laws amending the Official Plan and Southwest Area Secondary Plan and rezoning 3334 and 3354 Wonderland Road South from a Multi-Family, Medium Density Residential designation to a Wonderland Road Community Enterprise Corridor designation to permit a proposed Gateway Casinos development.",
+    "confidence": "low",
+    "quote": "That Second Reading of Added Bill No.’s 311 to 313, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "70ea0044228f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted by-laws amending the Official Plan and Southwest Area Secondary Plan and rezoning 3334 and 3354 Wonderland Road South from a Multi-Family, Medium Density Residential designation to a Wonderland Road Community Enterprise Corridor designation to permit a proposed Gateway Casinos development.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Added Bill No.’s 311 to 313, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "84f708b4dd90",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adjourned the meeting.",
+    "confidence": "high",
+    "quote": "That the meeting adjourn.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "0ed9330b8cd2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Victoria Bridge replacement detailed-design-and-tendering consulting-engineer appointment back to Civic Administration to report on more cost-effective design alternatives addressing cultural heritage concerns.",
+    "confidence": "high",
+    "quote": "That consideration of the Victoria Bridge replacement detailed design and tendering, appointment of consulting engineer BE REFERRED to the Managing Director, Environmental & Engineering Services to report back at a future meeting of the Civic Works Committee with more cost effective alternatives for addressing cultural heritage concerns that would include an enhanced design for a concrete girder bridge which incorporates special treatments, public art and/or portions of the existing bridge, with the goal of achieving an overall project cost savings",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "b5438512ff3e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed AECOM Canada Ltd. as consulting engineer for the Victoria Bridge Replacement Project's detailed design and tendering at an upset amount of $772,894, approved project financing per the Sources of Financing Report, and authorized the Civic Administration to carry out the related administrative and contract actions.",
+    "confidence": "high",
+    "quote": "AECOM Canada Ltd. BE APPOINTED Consulting Engineers for the detailed design and tendering for the Victoria Bridge Replacement Project at an upset amount of $772,894 (excluding HST) in accordance with Section 15.2 (g) of the Procurement of Goods and Services Policy",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "d5e27b7e7f6a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a by-law implementing the Local Planning Appeal Tribunal's decision approving commercial floor area and Southwest Area Secondary Plan urban design policies for 3234, 3263 and 3274 Wonderland Road South, and forwarded it to the Tribunal for approval.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated July 22, 2019, which reflects the decision of the Local Planning Appeal Tribunal to approve commercial floor area on the subject lands and also implements the Urban Design policies of the Southwest Area Secondary Plan on the subject lands, BE ENDORSED, and BE FORWARDED to the Local Planning Appeal Tribunal for Approval.",
+    "flags": []
+  },
+  {
+    "id": "aff0749bd2fc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized the Managing Director, Development Services and Compliance and Chief Building Official to accept a Minor Variance application for the property at 660 Sunningdale Road East.",
+    "confidence": "high",
+    "quote": "the Managing Director, Development Services and Compliance and Chief Building Official BE AUTHORIZED to accept a Minor Variance application by M. Clawson, Clawson Group Inc., on behalf of Extra Realty Limited, for the property located at 660 Sunningdale Road East",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "afd6e95d7893",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Gateway Casinos zoning by-law amendment for 3334 and 3354 Wonderland Road South to add an H5 Holding Provision requiring a public site plan process.",
+    "confidence": "medium",
+    "quote": "the proposed revised by-law BE INTRODUCED at a future Municipal Council meeting to amend Zoning By-law No. Z.-1, in conformity with the Official Plan as amended in part (a) through (d) above, to change the zoning of the subject property FROM a Holding Light Industrial (h-17·LI1/LI7) Zone and Environmental Review (ER) Zone, TO a Commercial Recreation Special Provision (CR(*)) Zone, an Open Space Special Provision (OS4(*))  Zone and an H5 Holding Provision for a public site plan process",
+    "flags": []
+  },
+  {
+    "id": "d15a42920dd9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Gateway Casinos zoning application (3334 and 3354 Wonderland Road South) to direct the Civic Administration to continue consultation specifically with neighbouring First Nations communities.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to continue consultation specifically with neighbouring First Nations Communities with respect to this application",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "3eaa66417809",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave final approval, as amended, to by-laws for the Gateway Casinos development at 3334 and 3354 Wonderland Road South, changing the site's land-use designation from Multi-Family, Medium Density Residential to Wonderland Road Community Enterprise Corridor and rezoning it from Holding Light Industrial/Environmental Review to Commercial Recreation/Open Space.",
+    "confidence": "medium",
+    "quote": "That Clause 3.11, as amended, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "6ba46b8d1668",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved requiring the property owner to obtain final Site Plan Approval before any demolition at 123 Queens Avenue, as originally proposed for part a) of the heritage demolition permit.",
+    "confidence": "high",
+    "quote": "That clause 4.1 a) BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "ad106ceeef77",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information a staff report on cost-savings and avoidance initiatives undertaken by the City of London.",
+    "confidence": "high",
+    "quote": "the staff report dated July 29, 2019 detailing the cost savings and avoidance initiatives ongoing and recently undertaken by the City of London BE RECEIVED for information",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "dd04596429d7",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved considering for further review two potential service reductions: a reduced subsidy level for the Downtown and Industrial Community Improvement Project areas, and a review of reserve funds with uncommitted balances whose annual tax-levy contributions might be scaled back.",
+    "confidence": "medium",
+    "quote": "the Downtown and Industrial CIPs, with consideration for a reduced level of subsidy; ... a review of reserve funds with uncommitted balances, (excluding capital asset renewal/replacement funds, and capital asset growth funds) for an analysis of funding contributions to those funds where the annual contributions from the tax levy may be scaled back",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "8f48f0ed0a72",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved considering the City's Information Technology function for further review, with a report back on past initiatives and potential future review tools.",
+    "confidence": "high",
+    "quote": "Information Technology, with a report back with a summary of past initiatives and potential future review tools",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "ca6e251cf083",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Would have approved considering for further review a possible phased-in reduction in Tourism London's funding from the municipal levy, in light of new Municipal Accommodation Tax funding transferred to Tourism London.",
+    "confidence": "medium",
+    "quote": "opportunities for a phased-in Tourism London funding reduction from the municipal levy, in light of new funding transferred to Tourism London from the Municipal Accommodation Tax",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "54ee695805df",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to report back on the implications of phasing in a 5% reduction in property tax funding for Tourism London over four years from a 2019 baseline (roughly $25,000 less per year, reaching $100,000 in year four).",
+    "confidence": "medium",
+    "quote": "Civic Administration BE DIRECTED to report back on the implications of a 5% reduction in property tax funding for Tourism London, phased in over four years and using 2019’s approved net budget as the baseline (ie. $25,000 less each year, reaching $100,000 in year four).",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "01c3ef87697d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized the Managing Director, Development Services and Compliance and Chief Building Official to accept a Minor Variance application for the property at Lot 66, 1738 Hamilton Road.",
+    "confidence": "high",
+    "quote": "the Managing Director, Development Services and Compliance and Chief Building Official BE AUTHORIZED to accept a Minor Variance application by P. Derakhshan, Thames Village Joint Venture, for the property located at Lot 66, 1738 Hamilton Road",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3c3ade6e6ced",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to undertake a further review of London & Middlesex Community Housing's request for changes to its shareholder agreement, in light of the KPMG report, and report back.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to undertake a further review of the request from LMCH with respect to changes to the shareholder agreement and report back with respect to this matter.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "c2b7d1050ae5",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved receiving for information a staff report and KPMG findings on the City's housing service delivery review, and directed Civic Administration to determine next steps based on that analysis and to examine the development of affordable housing with a report back on a recommended course of action.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to examine the development of affordable housing, consistent with the City’s Service Manager legislated responsibility and report back on a recommended course of action",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "d000e8db7061",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved taking no action on London & Middlesex Community Housing's requested changes to its Shareholder Declaration and Articles of Incorporation.",
+    "confidence": "high",
+    "quote": "the requested changes to the Shareholder Declaration and Articles of Incorporation for LMCH, NO ACTION be taken",
+    "flags": []
+  },
+  {
+    "id": "09407faa6721",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended a proposed clause to direct Civic Administration to report back with a strategy for investing the roughly $7.3 million returned from the London Medical Network grant in developing permanent supportive housing for people facing homelessness, mental health, and addictions.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back with a strategy for investing the approximate $7.3m in developing permanent housing with supports for mental health and addictions, noting this will support all services dealing with the crisis of homelessness, mental health and addictions, ultimately alleviating the pressure on those services, including the social services, shelters, hospitals and policing.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "509dc607b9cf",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, directing Civic Administration to report back with a strategy for investing the roughly $7.3 million returned from the London Medical Network grant in developing permanent supportive housing for people facing homelessness, mental health, and addictions.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back with a strategy for investing the approximate $7.3m in developing permanent housing with supports for mental health and addictions, noting this will support all services dealing with the crisis of homelessness, mental health and addictions, ultimately alleviating the pressure on those services, including the social services, shelters, hospitals and policing.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "e1fde3a4316e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized the Managing Director, Development Services and Compliance and Chief Building Official to accept a Minor Variance application for the property at Lot 66, 1738 Hamilton Road.",
+    "confidence": "high",
+    "quote": "the Managing Director, Development Services and Compliance and Chief Building Official BE AUTHORIZED to accept a Minor Variance application by P. Derakhshan, Thames Village Joint Venture, for the property located at Lot 66, 1738 Hamilton Road",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "07f48914a1aa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted Digital Echidna's proposal and pricing for the City of London website redesign development and implementation (first-year cost of $473,750, plus $78,750 annually), approved project financing per the Sources of Funding Report, and authorized the Civic Administration to complete the related contract actions.",
+    "confidence": "high",
+    "quote": "the proposal submitted by Echidna Corp. O/A Digital Echidna, 200-365 Talbot Street, London, Ontario N6A 2R5 for the Website Redesign Development and Implementation for the City of London BE ACCEPTED in accordance with the Procurement of Goods and Services Policy",
+    "flags": []
+  }
+]

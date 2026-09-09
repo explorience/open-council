@@ -1,0 +1,522 @@
+[
+  {
+    "id": "b856c8d2d8ce",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Extended L. Kirkness's delegation time beyond five minutes at the public participation meeting for the 689 Oxford Street West rezoning application.",
+    "confidence": "high",
+    "quote": "That Mr. L. Kirkness's delegation BE EXTENDED beyond five minutes.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "466bcd557337",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have sustained the Chair's ruling on a point of order raised during the public participation meeting for the 689 Oxford Street West rezoning application.",
+    "confidence": "medium",
+    "quote": "Shall the ruling of the Chair BE SUSTAINED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "6ba3539df326",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to bring forward a business case for a Rent Safe London Housing Enforcement Program, for consideration during the next multi-year budget development.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to bring forward a business case that would provide for the implementation of a Rent Safe London Housing Enforcement Program, for consideration during the next multi-year budget development.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "8dfbb441780b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received J. Scott-Pearse's delegation requesting permission to use Gibbons Park for an event and took no action on the request.",
+    "confidence": "high",
+    "quote": "That the verbal delegation, from J. Scott-Pearse, with respect to a request for permission to use Gibbons Park for an event, BE RECEIVED and NO ACTION BE TAKEN.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "cc133e801cce",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to by-laws changing the Specific Area Policy to permit a maximum building height of 23 storeys and rezoning 84-86 St. George Street and 175-197 Ann Street to a holding Residential R10/Convenience Commercial Special Provision Bonus zone.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of the Bill No.’s 284 and 301 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "58aeedf300f9",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to by-laws changing the Specific Area Policy to permit a maximum building height of 23 storeys and rezoning 84-86 St. George Street and 175-197 Ann Street to a holding Residential R10/Convenience Commercial Special Provision Bonus zone.",
+    "confidence": "medium",
+    "quote": "That Second Reading of the Bill No.’s 284 and 301 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "23a5ea85bf38",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted by-laws changing the Specific Area Policy to permit a maximum building height of 23 storeys and rezoning 84-86 St. George Street and 175-197 Ann Street to a holding Residential R10/Convenience Commercial Special Provision Bonus zone.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of the Bill No.’s 284 and 301 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "9784e360c6f1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to by-laws authorizing property acquisitions for the Wellington Gateway Project at 19 Raywood Avenue, the property north of Front Street on the east side of Wellington Road, and 1 Kennon Place.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Added Bill No.’s 304 to 306, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "2a6d53daa571",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to by-laws authorizing property acquisitions for the Wellington Gateway Project at 19 Raywood Avenue, the property north of Front Street on the east side of Wellington Road, and 1 Kennon Place.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Added Bill No.’s 304 to 306, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "2f503b430c04",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted by-laws authorizing property acquisitions for the Wellington Gateway Project at 19 Raywood Avenue, the property north of Front Street on the east side of Wellington Road, and 1 Kennon Place.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Added Bill No.’s 304 to 306, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "670a9121d3ca",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to the by-law rezoning 689 Oxford Street West to a holding Residential R9 Special Provision Bonus zone permitting three apartment towers of 17, 18, and 21 storeys (490 units total), an increased density of up to 396 units per hectare.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Added Bill No. 310, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "687f5f8fb2e5",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to the by-law rezoning 689 Oxford Street West to a holding Residential R9 Special Provision Bonus zone permitting three apartment towers of 17, 18, and 21 storeys (490 units total), an increased density of up to 396 units per hectare.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Added Bill No. 310, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "579860aaeb2f",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning 689 Oxford Street West to a holding Residential R9 Special Provision Bonus zone permitting three apartment towers of 17, 18, and 21 storeys (490 units total), an increased density of up to 396 units per hectare.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Added Bill No. 310, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "fc1a6776eace",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended Item 13, clause 3.5 to add Council's stated reasons for approving the 84-86 St. George Street and 175-197 Ann Street application, citing consistency with the Provincial Policy Statement, the London Plan, and heritage mitigation measures.",
+    "confidence": "high",
+    "quote": "That Item 13, clause 3.5, BE AMENDED to include the following at the end of the clause:",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d370f61dcb2a",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved, as amended, introducing by-laws to change the Specific Area Policy to permit a maximum building height of 23 storeys and to rezone 84-86 St. George Street and 175-197 Ann Street from a Residential R9 zone to a holding Residential R10/Convenience Commercial Special Provision Bonus zone.",
+    "confidence": "high",
+    "quote": "That Item 13, clause 3.5, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "b1226b64400a",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 689 Oxford Street West application back to the Civic Administration to work with the developer on improving the transition from high-density towers to the abutting low-density residential neighbourhood, including shadowing and traffic management at Wonderland and Beaverbrook.",
+    "confidence": "high",
+    "quote": "That, the application by 2399731 Ontario Ltd, c/o Westdell Development Corporation BE REFERRED back to the Civic Administration to work with the developer to improve the proposed transition from high density towers to the existing low density abutting residential neighbourhoods with specific attention to addressing shadowing and traffic management at Wonderland and Beaverbrook;",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "f2d8c8172ef0",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 689 Oxford Street West from Highway Service/Restricted Service Commercial to a holding Residential R9 Special Provision Bonus zone permitting three apartment towers of 17, 18, and 21 storeys (490 units total), an increased density of up to 396 units per hectare, including 30 affordable housing units.",
+    "confidence": "high",
+    "quote": "The Bonus Zone shall be implemented through one or more agreements to facilitate the development of three apartment buildings as follows: a 17-storey building of 146 units; an 18-storey building of 160 units; and a 21-storey building of 184 units. The development is an increased density of up to 396 units per hectare (490 units total).",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "151c1e7bbd45",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended clause 2.4 to direct the Civic Administration to develop and bring forward a business case for a RentSafe London program, modelled on RentSafeTO enforcement data, for consideration during the next multi-year budget.",
+    "confidence": "high",
+    "quote": "That clause 2.4, BE AMENDED, by adding the following new part b):",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "1ac24a3ea475",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on the \"RentSafeTO\" Program and Complaint Process Improvements, along with a communication and a delegation on the matter, with no further action.",
+    "confidence": "medium",
+    "quote": "Motion to approve clause 2.4.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "cbdb3c616a34",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted offers to purchase three properties for the Wellington Gateway Project road improvements — 19 Raywood Avenue for $571,500, the property north of Front Street on the east side of Wellington Road for $150,000, and 1 Kennon Place for $525,000 — and approved financing for each acquisition.",
+    "confidence": "high",
+    "quote": "the offer submitted by Tatiana Natasha Tielemans and Alexandra Coros (the “Vendor”), to sell the subject property to the City, for the sum of $571,500.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and,",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b05193c107c2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed September 2022 as \"230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone,\" based on the #1792Project's application.",
+    "confidence": "high",
+    "quote": "That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ab7af74d62eb",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the 1067-1071 Wellington Road application back to the Civic Administration and the applicant for further consideration of the 1,050-square-metre floor plate condition and a larger mix of unit sizes among the sixty-five affordable units, with a report back at the August 22, 2022 Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 1050 square metre floor plate condition as recommended by the applicant and to direct Municipal Housing to have a further discussion with the applicant with respect to a larger mix of unit sizes in terms of affordable units and  to further negotiate the sixty-five affordable units, specifically to increase the ratio of 2 and 3 bedroom units that would be available and to report back at a public participation meeting to be held at the August 22, 2022 Planning and Environment Committee meeting; and,",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "a4a86e882114",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and Zoning By-law to remove minimum parking requirements in the Downtown, Transit Village, Rapid Transit Corridor, and Main Street Place Types, reduce minimum parking requirements elsewhere in the city, and modify other parking regulations.",
+    "confidence": "medium",
+    "quote": "b)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix A, BE INTRODUCED at the Municipal Council meeting to be held on August 2, 2022, TO AMEND Zoning Bylaw No. Z.-1, Section 4.19 (in conformity with the Official Plan, as amended above) to remove minimum parking requirements in the Downtown Transit Village, Rapid Transit Corridor, and Main Street Place Types; reduce minimum parking requirements in other parts of the City; and modify other regulations including bicycle and accessible parking requirements;",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "943025bcbc3c",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed the Civic Administration to work with the London Transit Commission to develop a joint application to the federal-provincial ICIP Public Transit Stream for a new LTC facility on Highbury Avenue to accommodate transit service growth and convert the LTC fleet to zero-emission buses.",
+    "confidence": "medium",
+    "quote": "That, on the recommendation of the Deputy City Manager, Finance Supports and the Deputy City Manager, Environment and Infrastructure, the Civic Administration BE DIRECTED to work with London Transit Commission (LTC) staff to develop a joint application to the Investing in Canada Infrastructure Program Public Transit Stream (ICIP-PTS) for a new LTC facility on Highbury Avenue to accommodate transit service growth and the conversion of the LTC fleet to zero-emission buses",
+    "flags": []
+  },
+  {
+    "id": "9e7bd14431c8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved London Community Recovery Network Business Cases #1 (Green Economic Stimulus building retrofits), #2 (Belong: Inclusive Arts Experiences for Children and Youth), and #5 (London Innovation Challenge) for recovery funding, received Business Cases A through F, and authorized the Mayor and City Clerk to execute related contracts.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated July 27, 2022 related to the London Community Recovery Network (LCRN) – Recovery Funding Business Cases: a) the LCRN Business Cases: A through F, included in the above-noted staff report, BE RECEIVED; b) the following funding requests BE APPROVED: i) Business Case #1: Green Economic Stimulus: Building Retrofits for Local Residents and Businesses;",
+    "flags": []
+  },
+  {
+    "id": "6a116821cad8",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved London Community Recovery Network Business Case #4, funding library reading-garden access from Dundas Place Flex Street.",
+    "confidence": "medium",
+    "quote": "iv) Business Case # 4: London Public Library Reading Garden Access from Dundas Place Flex Street;",
+    "flags": []
+  },
+  {
+    "id": "5b02abbd7ca7",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to the by-law amending the Official Plan relating to the Parking Standards Review, which removes and reduces minimum parking requirements citywide.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of the Bill No. 318, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "53bddcc7a553",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to the by-law amending the Official Plan relating to the Parking Standards Review, which removes and reduces minimum parking requirements citywide.",
+    "confidence": "medium",
+    "quote": "That Second Reading of the Bill No. 318, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "b47a92f37e7c",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted the by-law amending the Official Plan relating to the Parking Standards Review, which removes and reduces minimum parking requirements citywide.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of the Bill No. 318, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "134cad82f94c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back, ahead of the 2024-2027 multi-year budget process, on extending water services to parks including dog parks, and received communications and a delegation on installing water for dogs at Pottersburg Dog Park.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back, in advance of the 2024-2027 multi year budget process, with respect to extending water services to parks, including dog parks in the City of London;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "3d937c9d1618",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended clause 4.5 to direct staff to include a business case in the 2023 annual budget deliberations for expanding the Neighbourhood Decision Making program by doubling its tax-levy funding.",
+    "confidence": "medium",
+    "quote": "b)     that staff BE DIRECTED to include in the 2023 annual budget deliberations, a business case for expanding the neighbourhood decision making program, by doubling the tax levy funding.",
+    "flags": []
+  },
+  {
+    "id": "32e4b8ace214",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, receiving Councillor van Holst's Neighbourhood Decision Making Expansion Business Case communication and directing staff to include a business case in the 2023 annual budget deliberations for expanding the program by doubling its tax-levy funding.",
+    "confidence": "medium",
+    "quote": "That clause 4.5 as amended, BE APPROVED",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "c0999f0eeebb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed September 2022 as \"230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone,\" based on the #1792Project's application.",
+    "confidence": "high",
+    "quote": "That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "8cae3e2d9351",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and Zoning By-law to remove minimum parking requirements in the Downtown, Transit Village, Rapid Transit Corridor, and Main Street Place Types, reduce minimum parking requirements elsewhere in the city, and modify other parking regulations.",
+    "confidence": "high",
+    "quote": "b)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix A, BE INTRODUCED at the Municipal Council meeting to be held on August 2, 2022, TO AMEND Zoning Bylaw No. Z.-1, Section 4.19 (in conformity with the Official Plan, as amended above) to remove minimum parking requirements in the Downtown Transit Village, Rapid Transit Corridor, and Main Street Place Types; reduce minimum parking requirements in other parts of the City; and modify other regulations including bicycle and accessible parking requirements;",
+    "flags": []
+  },
+  {
+    "id": "483af11c84bf",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 1067-1071 Wellington Road application back to the Civic Administration and the applicant for further consideration of the floor plate condition and a larger mix of unit sizes among the sixty-five affordable units, with a report back at the August 22, 2022 Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 1050 square metre floor plate condition as recommended by the applicant and to direct Municipal Housing to have a further discussion with the applicant with respect to a larger mix of unit sizes in terms of affordable units and  to further negotiate the sixty-five affordable units, specifically to increase the ratio of 2 and 3 bedroom units that would be available and to report back at a public participation meeting to be held at the August 22, 2022 Planning and Environment Committee meeting; and,",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "f98b6978e747",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred Councillors Peloza and Lewis's motion and associated by-laws for 1067, 1069 and 1071 Wellington Road — introducing by-laws for a five-tower, 1,272-unit development up to 27 storeys — back to the Civic Administration for review, with the matter to return to the August 22, 2022 Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "That the motion of Councillors E. Peloza and S. Lewis, and the associated by-laws, related to the applications for the properties located at 1067, 1069 and 1071 Wellington Road (OZ-6263/ Z-9264), BE REFERRED back to the Civic Administration in order to review and that this matter may be brought forward to the August 22, 2022 Planning and Environment Committee meeting.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "e37a3aec0b10",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Closed the public participation meeting for the 21-41 Meadowlily Road North and 20 Norlan Avenue rezoning application.",
+    "confidence": "high",
+    "quote": "Motion to close the public participation meeting.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "45b364f4c60a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reaffirmed Council's intention to designate the built resources at 183 and 197 Ann Street under Part IV, Section 29 of the Ontario Heritage Act, received York Developments' notice of objection, and directed that by-laws designating each property be introduced at the September 6, 2022 Council meeting.",
+    "confidence": "high",
+    "quote": "the Municipal Council's intention to designate the built resources at municipal addresses 183 Ann Street and 197 Ann Street under Part IV, Section 29 of the Ontario Heritage Act as set out in Resolution (2022-D09/R01) (4.2/9/PEC) on May 4, 2022 BE REAFFIRMED;",
+    "flags": []
+  },
+  {
+    "id": "304adbb9f877",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that revised by-laws for Century Centre Developments Inc.'s application at 1067, 1069 and 1071 Wellington Road be introduced at the September 6, 2022 Council meeting, and received the accompanying staff report for information.",
+    "confidence": "low",
+    "quote": "a)  the proposed, attached, by-laws BE INTRODUCED at the Municipal Council meeting to be held on September 6, 2022; and,",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "f41b1d0f37f1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Denied the request to transfer the adult entertainment body-rub parlour license from 802 Exeter Road to 232 Dundas Street.",
+    "confidence": "high",
+    "quote": "Motion to approve part b) of the clause.",
+    "flags": [
+      "relocation"
+    ]
+  },
+  {
+    "id": "1f5f10761f4c",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to by-laws amending the Official Plan and rezoning 1067, 1069 and 1071 Wellington Road.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of the Bill No.’s 342 and 354, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "987e728b475b",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to by-laws amending the Official Plan and rezoning 1067, 1069 and 1071 Wellington Road.",
+    "confidence": "low",
+    "quote": "That Second Reading of the Bill No.’s 342 and 354, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "bf8474ffdbbb",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 1067, 1069 and 1071 Wellington Road.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of the Bill No.’s 342 and 354, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "3231b79f2dc7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reaffirmed Council's intention to designate the built resources at 183 and 197 Ann Street under Part IV, Section 29 of the Ontario Heritage Act, received York Developments' notice of objection, and directed that by-laws designating each property be introduced at the September 6, 2022 Council meeting.",
+    "confidence": "high",
+    "quote": "the Municipal Council’s intention to designate the built resources at municipal addresses 183 Ann Street and 197 Ann Street under Part IV, Section 29 of the Ontario Heritage Act as set out in Resolution (2022-D09/R01) (4.2/9/PEC) on May 4, 2022 BE REAFFIRMED;",
+    "flags": []
+  },
+  {
+    "id": "bd86cf984d36",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that by-laws for Century Centre Developments Inc.'s application at 1067, 1069 and 1071 Wellington Road be introduced at the September 6, 2022 Council meeting, and received the accompanying staff report for information.",
+    "confidence": "low",
+    "quote": "a)    the proposed, attached, by-laws BE INTRODUCED at the Municipal Council meeting to be held on September 6, 2022; and, b)    the staff report dated August 22, 2022 entitled \"Century Centre Developments Inc. - 1067, 1069 and 1071 Wellington Road\" BE RECEIVED for information;",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  }
+]

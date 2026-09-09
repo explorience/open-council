@@ -1,0 +1,530 @@
+[
+  {
+    "id": "1aa1953fb73b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillor Jesse Helmer as Deputy Mayor for the City of London for the term commencing December 3, 2018 and ending November 30, 2020.",
+    "confidence": "high",
+    "quote": "That on the recommendation of the Mayor, the appointment of Councillor Jesse Helmer as Deputy Mayor for the City of London, for a term commencing on December 3, 2018 and ending on November 30, 2020 to carry out such responsibilities as set out and as provided for in the Council Policy “Appointment of Deputy Mayor Policy” and the Council Procedure By-law BE APPROVED.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "528dcbb684d5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that a ranked ballot be used for board and committee appointments where the number of applicants exceeds the number of appointments to be made.",
+    "confidence": "high",
+    "quote": "That a ranked ballot be utilized for those appointments where the number of applicants exceed the number of appointments to be made.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "0e2e0ae4b5d5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillors P. Squire, S. Lehman, S. Lewis, E. Peloza, and M. van Holst to the Civic Works Committee for the term December 1, 2018 to November 30, 2019, with remaining appointments made by the City Clerk's ranked ballot method.",
+    "confidence": "high",
+    "quote": "That the following Council Members BE APPOINTED to the Civic Works Committee for the term December 1, 2018 to November 30, 2019: Councillor P. Squire Councillor S. Lehman Councillor S. Lewis Councillor E. Peloza Councillor M. van Holst and remaining appointments be made using the City Clerk's spreadsheet ranked ballot method.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "b2034c3ee99d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed T. Khan, T. Park, and S.L. Rooth to the London Transit Commission for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to appointments to the London Transit Commission for the term December 1, 2018 to November 15, 2022: T. Khan, T. Park, and S.L. Rooth BE APPOINTED.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "c90143838821",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Kimble F. Ainslie to the Lower Thames Valley Conservation Authority for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That Kimble F. Ainslie BE APPOINTED to the Lower Thames Valley Conservation Authority for the term December 1, 2018 to November 15, 2022.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "eefae54d1bc7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillors M. van Holst and S. Lewis to the Tourism London Board of Directors for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That Councillors M. van Holst and S. Lewis BE APPOINTED to the Tourism London Board of Directors for the term December 1, 2018 to November 15, 2022; it being noted that the above-noted appointments were made in accordance with the  ranked ballot.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "b527961cbdb9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Mayor E. Holder and H. Usher to the Western University Board of Governors for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to appointments to the Western University Board of Governors for the term December 1, 2018 to November 15, 2022: a)         Mayor E. Holder BE APPOINTED; and, b)         H. Usher BE APPOINTED; it being noted that the appointment in part b) above was made in accordance with the  ranked ballot.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "53d126ba0c9f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed D. Brown, J. Fyfe-Millar, C. Miller, S. Polhill, and D. Schmidt to the Committee of Adjustment for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That the following individuals BE APPOINTED to the Committee of Adjustment for the term December 1, 2018 to November 15, 2022: D. Brown, J. Fyfe-Millar, C. Miller, S. Polhill and D. Schmidt; it being noted that the above-noted appointment was made in accordance with the  ranked ballot.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "71eec98d9e48",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recessed the committee until 4:30 PM, Wednesday, December 5, 2018, to reconvene at that time.",
+    "confidence": "high",
+    "quote": "That the committee recess until 4:30 PM, Wednesday December 5, and reconvene at that time.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "4956710e1cfb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill No. 3.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading Bill No. 3 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "aac3debac668",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill No. 3.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 3 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "d48e48e351bd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Bill No. 3.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 3 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "9311fd89545f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recessed Council during consideration of the 1st Report of the Strategic Priorities and Policy Committee.",
+    "confidence": "high",
+    "quote": "That Council RECESS.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "98bebdf8bf1c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Put to a vote the motion to approve the 1st Report of the Strategic Priorities and Policy Committee, excluding Items 4.8, 4.12, 4.20, 4.24, 4.25, 4.28, 4.33, and 4.39.",
+    "confidence": "medium",
+    "quote": "The motion to Approve the 1st Report of the Strategic Priorities and Policy Committee, excluding Items 4.8, 4.12, 4.20, 4.24, 4.25, 4.28, 4.33 and 4.39 is put.",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "a41a57778f62",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, following a reconsideration vote, the 1st Report of the Strategic Priorities and Policy Committee, excluding Items 4.8, 4.12, 4.20, 4.24, 4.25, 4.28, 4.33, and 4.39, each of which was pulled out for a separate appointment vote.",
+    "confidence": "medium",
+    "quote": "The 1st Report of the Strategic and Priorities Committee BE APPROVED, excluding Items 4.8, 4.12, 4.20, 4.24, 4.25, 4.28, 4.33 and 4.39.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "a7e6368b18c6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Eldon House board appointments (M. Donachie, G. Harrod, L. Henderson, R. Koudys, E. Nagel, J. O'Neil, T. Regnier, M. Spencer Golovchenko, and M. Tovey) to the Corporate Services Committee for candidate interviews.",
+    "confidence": "high",
+    "quote": "That the appointments to the Eldon House BE REFERRED to the Corporate Services Committee in order to interview the following individuals:  M. Donachie, G. Harrod, L. Henderson, R. Koudys, E. Nagel, J. O’Neil, T. Regnier, M. Spencer Golovchenko and M. Tovey.",
+    "flags": [
+      "appointment",
+      "referral"
+    ]
+  },
+  {
+    "id": "bad40dbb4d10",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the London Council for Adult Education appointment to the Corporate Services Committee to interview the top three candidates identified by the ranked ballot process.",
+    "confidence": "high",
+    "quote": "That the appointments to the London Council for Adult Education BE REFERRED to the Corporate Services Committee in order to interview the top three candidates identified by the ranked ballot process.",
+    "flags": [
+      "appointment",
+      "referral"
+    ]
+  },
+  {
+    "id": "f3541ddff342",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the London Public Library Board appointments to add D. Vachon to the ranked-ballot appointees, alongside Councillors E. Peloza and A. Kayabaga and the other named appointees, for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That Item 4.24 BE AMENDED to read as follows: That following actions be taken with respect to appointments to the London Public Library Board for the term December 1, 2018 to November 15, 2022: a)     E. Peloza and A. Kayabaga BE APPOINTED; and, b)     M. Boyce, S. Clark, B. Gibson, M. Hamou, J. McCall, J. Shelley, D. Vachon  BE APPOINTED; it being noted that the appointments in part b) above were made in accordance with the attached ranked ballot.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "3053a02d2088",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred part b) of the London Transit Commission public-member appointments to the December 17, 2018 Strategic Priorities and Policy Committee for further consideration, after errors were found in the ranked ballot results.",
+    "confidence": "high",
+    "quote": "That part b) of clause 4.25 BE REFERRED to the December 17, 2018 Strategic Priorities and Policy Committee for further consideration, noting that errors were contained on the attached ranked ballot results.",
+    "flags": [
+      "appointment",
+      "referral"
+    ]
+  },
+  {
+    "id": "f4de1f10e8c4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillors P. Squire and J. Helmer to the London Transit Commission for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to appointments to the London Transit Commission, for the term December 1, 2018 to November 15, 2022: a)  Councillors P. Squire and J. Helmer BE APPOINTED; and,",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "29ef1cb59658",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillors M. Cassidy and E. Peloza, and M. Reid, to the Middlesex-London Health Unit Board of Directors for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That following actions be taken with respect to appointments to the Middlesex-London Health Unit Board of Directors, for the term December 1, 2018 to November 15, 2022: a)     Councillors M. Cassidy and E. Peloza BE APPOINTED; and, b)     M. Reid BE APPOINTED; it being noted that the appointment in part b) above was made in accordance with the attached ranked ballot.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "a47d312362e7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b) of the Western University Board of Governors appointment, appointing H. Usher for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "medium",
+    "quote": "The motion to approve part b) is put.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "3f9326c57a2e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed D. Brown, J. Fyfe-Millar, C. Miller, S. Polhill, and D. Schmidt to the Committee of Adjustment for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That the following individuals BE APPOINTED to the Committee of Adjustment for the term December 1, 2018 to November 15, 2022: D. Brown, J. Fyfe-Millar, C. Miller, S. Polhill and D. Schmidt; it being noted that the above-noted appointment was made in accordance with the attached ranked ballot.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "b3f3db85f608",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the zoos and mobile zoos matter back to Civic Administration for further review and legal advice, particularly regarding alignment with provincial legislation and impacts to working animals, with a report back to a future Community and Protective Services Committee meeting.",
+    "confidence": "high",
+    "quote": "That this matter BE REFERRED back to the Civic Administration for further review and legal advice on this matter and a report back at a future meeting of the Community and Protective Services Committee, particularly regarding alignment with provincial legislation and impacts to working animals.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "33152b70194e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred, following a reconsideration vote, the zoos and mobile zoos matter back to Civic Administration for further review and legal advice, particularly regarding alignment with provincial legislation and impacts to working animals.",
+    "confidence": "high",
+    "quote": "That this matter BE REFERRED back to the Civic Administration for further review and legal advice on this matter and a report back at a future meeting of the Community and Protective Services Committee, particularly regarding alignment with provincial legislation and impacts to working animals.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "f7d3886ed12c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b) of the staff recommendation, directing Civic Administration to draft by-law amendments to the Business Licence By-law regulating zoos, fairs, exhibitions, and circuses, for consideration at a future Community and Protective Services Committee meeting.",
+    "confidence": "medium",
+    "quote": "Motion to approve part b) of the staff recommendation.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "0a79c7d93d9d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred council expense restrictions and Council's policy for debate at standing committee meetings to the Governance Working Group for consideration.",
+    "confidence": "high",
+    "quote": "That the following matters BE REFERRED to the Governance Working Group for consideration, as contained in the submission dated November 30, 2018, from Councillor M. van Holst: a)      Council expense restrictions; and b)      Council policy for debate at standing committee meetings.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "2ae2af467854",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Committee Members to ask questions of the delegates on the 2019 Development Charges Study.",
+    "confidence": "high",
+    "quote": "That questions from Committee Members, to the delegates BE PERMITTED, with respect to Development Charges Study.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "c49d2e09ba27",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed T. Park, S.L. Rooth, and T. Khan to the London Transit Commission for the term ending November 15, 2022, per the ranked ballot results.",
+    "confidence": "high",
+    "quote": "That T. Park, S.L. Rooth and T. Khan BE APPOINTED to the London Transit Commission for the term ending November 15, 2022, in accordance with the ranked ballot appended to the meeting agenda.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "c5c15e5696d5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law rezoning 446 York Street from a Restricted Service Commercial (RSC2/RSC4) Zone to a Holding Restricted Service Commercial/Restricted Service Commercial Special Provision Zone, to permit a supervised consumption facility as an accessory clinic use.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 33 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "411c9e2ea61b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law rezoning 446 York Street from a Restricted Service Commercial (RSC2/RSC4) Zone to a Holding Restricted Service Commercial/Restricted Service Commercial Special Provision Zone, to permit a supervised consumption facility as an accessory clinic use.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 33 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "bfa214e8e94b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law rezoning 446 York Street from a Restricted Service Commercial (RSC2/RSC4) Zone to a Holding Restricted Service Commercial/Restricted Service Commercial Special Provision Zone, to permit a supervised consumption facility as an accessory clinic use.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 33 BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "7c23e5820f77",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the potential draft by-law amendments to the Business Licence By-law regulating zoos, fairs, exhibitions, and circuses back to Civic Administration for additional consultation.",
+    "confidence": "high",
+    "quote": "That the matter of potential draft by-law amendments to the Business License By-law, L-131-16 to regulate zoos, fairs, exhibitions and circuses BE REFERRED back to the Civic Administration in order for additional consultation to take place.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "3f79b1365501",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part a) of the staff recommendation, receiving the December 10, 2018 staff report on zoos and mobile zoos.",
+    "confidence": "medium",
+    "quote": "The motion to approve part a) is put.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "9fec5d03c504",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved part b) of the staff recommendation, directing Civic Administration to draft by-law amendments to the Business Licence By-law regulating zoos, fairs, exhibitions, and circuses.",
+    "confidence": "medium",
+    "quote": "The motion to approve part b) is put.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "bd4900b85b7b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that Civic Administration be advised Council opts in to allowing cannabis retail stores in London rather than passing a resolution to prohibit them, directed continued work with other governments on policing, by-law enforcement, and community-service impacts of cannabis legalization, and directed a report back to the Community and Protective Services Committee by April 2020.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE ADVISED that the Municipal Council endorses opting in to having cannabis retail stores in the community; c)            the Civic Administration BE DIRECTED to continue to work with the federal and provincial governments to identify current or future potential challenges relating to policing, by-law enforcement, and community services requirements associated with the legalization of recreational cannabis; and, d)            the Civic Administration BE DIRECTED to continue monitor impacts associated with recreational cannabis and report back to the Community and Protective Services Committee no later than April 2020; it being noted that the Province of Ontario has established a deadline of January 22, 2019 for Municipal Council to pass a resolution, if it so chooses, to prohibit cannabis retail stores from being located in the municipality. (2018-L11)",
+    "flags": []
+  },
+  {
+    "id": "835d79fc97b1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law, for introduction at the December 18, 2018 Council meeting, rezoning 446 York Street from a Restricted Service Commercial (RSC2/RSC4) Zone to a Holding Restricted Service Commercial/Restricted Service Commercial Special Provision Zone, to permit a supervised consumption facility as an accessory clinic use.",
+    "confidence": "high",
+    "quote": "to change the zoning of the subject property FROM a Restricted Service Commercial (RSC2/RSC4) Zone TO a Holding Restricted Service Commercial/Restricted Service Commercial Special Provision (h-(*)●RSC2/RSC4(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "f418114bc715",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed S.L. Rooth and T. Khan to the London Transit Commission for the term ending November 15, 2022, per the ranked ballot results.",
+    "confidence": "high",
+    "quote": "That S.L. Rooth and T. Khan BE APPOINTED to the London Transit Commission for the term ending November 15, 2022, in accordance with the ranked ballot appended to the meeting agenda.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "36448440ec47",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed T. Park to the London Transit Commission for the term ending November 15, 2022, per the ranked ballot results.",
+    "confidence": "high",
+    "quote": "That T. Park BE APPOINTED to the London Transit Commission for the term ending November 15, 2022, in accordance with the ranked ballot appended to the meeting agenda.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "543fa20a9c80",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the City's comments on Bill 66, “Restoring Ontario's Competitiveness Act, 2018,” to add a request that the Province protect the public's right to community-based land use planning, health and environmental protections, public participation, and the right to appeal.",
+    "confidence": "high",
+    "quote": "Motion to add a new part c) which reads: the Premier and the Ministers of Finance, and Municipal Affairs and Housing BE INFORMED that the City of London would request that any proposed legislation protect the public's right to community based land use planning, health and environmental protections, public participation and the public’s right to appeal.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "e96321495363",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the rezoning application by 2492222 Ontario Inc. for 536 and 542 Windermere Road back to Civic Administration for further review incorporating community concerns (tree preservation, fencing/access, and yard-setback requirements), with a report back to a future public participation meeting.",
+    "confidence": "medium",
+    "quote": "That the application of 2492222 Ontario Inc., relating to the properties located at 536 and 542 Windermere Road BE REFERRED to the Civic Administration for further review taking into consideration the concerns raised by the community and report back to a future public participation meeting before the Planning and Environment Committee after taking into consideration the following matters: i)              the concerns and comments raised by members of the public; ii)             a tree preservation plan to preserve as many trees as possible on the site; iii)            the presence of fencing that would restrict access to Orkney Crescent from the site; iv)           a minimum front yard depth of 2.1 metres; v)            side yard depths reflective of 0.5 metres per one metre of building height; and, vi)        a minimum rear yard setback of 6 metres",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "b4a875dbac13",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Consent agenda items receiving staff updates on Workplace Diversity and Inclusion, and on developing an Equity and Inclusion Lens for City policies, procedures, and programs.",
+    "confidence": "medium",
+    "quote": "That items 2.1 and 2.2 BE APPROVED.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "8972470812dc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Considered the draft Vision, Mission, and Values statements for Council's 2019-2023 Strategic Plan and directed that they be shared with the community for feedback.",
+    "confidence": "high",
+    "quote": "That the attached draft Vision, Mission and Values statements, for Council’s Strategic Plan 2019 – 2023 BE CONSIDERED and BE SHARED with the community to seek feedback; it being noted that the Strategic Priorities and Policy Committee broke into working groups to develop the above-noted drafts and received the attached presentation from L. Livingstone, Managing Director, Neighbourhood, Children & Fire Services.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "f3adb2e31b98",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the 2nd Report of the Corporate Services Committee, excluding items 2 (2.1) and 3 (2.2), which were voted on separately.",
+    "confidence": "medium",
+    "quote": "That the 2nd Report of the Corporate Services Committee BE APPROVED. excluding items 2(2.1) and 3(2.2).",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "6311f21fa7e3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Considered the draft Vision, Mission, and Values statements for Council's 2019-2023 Strategic Plan and directed that they be shared with the community for feedback.",
+    "confidence": "high",
+    "quote": "That the attached draft Vision, Mission and Values statements, for Council’s Strategic Plan 2019 – 2023 BE CONSIDERED and BE SHARED with the community to seek feedback; it being noted that the Strategic Priorities and Policy Committee broke into working groups to develop the above-noted drafts and received the attached presentation from L. Livingstone, Managing Director, Neighbourhood, Children & Fire Services.",
+    "flags": [
+      "informational_ask"
+    ]
+  }
+]

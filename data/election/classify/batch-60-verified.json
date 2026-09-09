@@ -1,0 +1,599 @@
+[
+  {
+    "id": "08dd9dec12b0",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted the revised by-laws (Bill No.'s 531 and 548) redesignating 560 and 562 Wellington Street from Low Density Residential to Multi-Family High Density Residential and rezoning the property from an Office (OF1) zone to a holding Residential R10 Special Provision Bonus zone, permitting a height increase to 17 storeys and a density increase to 807 units per hectare, the housing rezoning application (OZ-8462) decided under Item 17 (3.7) of the same meeting.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of the revised Bill No.\u2019s 531 and 548, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "CORRECTED axis/polarity null->density/expansive. This is the 3rd-reading enactment of the SAME Bill 531/548 ladder whose 1st/2nd readings (batch 59 ids 1bd4b453e63c, ae7855d26e36) already carry axis=density/polarity=expansive, and Item 17 (3.7) in this SAME 2021-11-16 Council meeting (71636679f65d, 906ef2c980bf) establishes the 17-storey/807-units-per-hectare figures verbatim. Same-meeting cross-item tracing is the corpus's own precedent for reading ladders (batch-44 Wonderland Rd); the null-axis precedent (batch-25, 489 Upper Queen St) applies only when the substance lives in a DIFFERENT meeting, which is not the case here. Leaving this entry null was an internal inconsistency with its own ladder siblings. Quote unchanged (verbatim, item 13 idx5); vote roll (8 Yeas/4 Nays) matches Item 17's amendment vote roll exactly."
+  },
+  {
+    "id": "24d2eae0b6fd",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received and forwarded the communication on the City's 2021-22 Winter Response Program for Unsheltered Individuals to Item 8 (2.5) of the 15th Report of the Community and Protective Services Committee for consideration.",
+    "confidence": "medium",
+    "quote": "That the following communications BE RECEIVED and BE FORWARDED as noted on the Agenda: 6.1     The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43) - refer to Item 8 (2.5) of the 15th Report of the Community and Protective Services Committee",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs Council 2021-11-16 item 6 (8-6). issue=encampments correctly triggered by 'Unsheltered' in the motion's own body/title. Pure referral, axis/polarity correctly null."
+  },
+  {
+    "id": "1c2ca7d6508e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended Item 9 (3.1) to add a new part directing the Civic Administration to prepare an alternate draft by-law specifically regulating the distribution of flyers containing graphic images of dismembered human beings or aborted fetuses, including enforcement and penalty provisions.",
+    "confidence": "high",
+    "quote": "That Item 9 (3.1) BE AMENDED to add the following new part b): b)     the Civic Administration BE DIRECTED to prepare an alternate draft by-law for consideration of Municipal Council, specific to the distribution of graphic flyers, that would incorporate the following measures; i)     to specifically regulate flyers containing graphic images of dismembered human beings or aborted fetuses to residences; ii)    to identified sources of municipal authority supporting the above-noted measure, [10(2) powers]; and, iii)   to include provisions providing for enforcement and penalties for violations of the by-law;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs Item 9(3.1) idx1 (11-2). issue=none correct -- no cluster keyword in body."
+  },
+  {
+    "id": "641327a76c09",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have further amended Item 9 (3.1) to direct staff to use City communication channels to promote the Trespass to Property Act as a means for residents to avoid unwanted flyer deliveries from specific organizations.",
+    "confidence": "high",
+    "quote": "That Item 9 (3.1) BE FURTHER AMENDED, to include the following: That staff BE DIRECTED to use city channels of communication to promote the Trespass to Property Act as a means for residents to avoid the delivery of unwanted flyers from specific organizations.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "FAILED motion (3-10), quote verbatim vs idx2. Hedge 'Would have further amended...' correct, no banned stance verb. issue=none correct."
+  },
+  {
+    "id": "7897aca72029",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Item 9 (3.1), as amended, referring the draft flyer-delivery by-law back to the Civic Administration for revisions to include enforcement measures, and directing preparation of a separate draft by-law specifically regulating graphic flyers.",
+    "confidence": "high",
+    "quote": "That Item 9 (3.1), as amended, BE APPROVED.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs idx3 (11-2). Cross-traced to idx0 (original refer-back-for-revisions text) and idx1 (the part b amendment, same item) to build whatAYeaDid -- both same-item, confirmed accurate. issue=none correct."
+  },
+  {
+    "id": "4f76e96b440b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b) of Item 9 (3.1), as amended, directing the Civic Administration to prepare an alternate draft by-law specifically regulating the distribution of flyers containing graphic images of dismembered human beings or aborted fetuses, citing evidence that such flyers cause demonstrable harm to residents.",
+    "confidence": "high",
+    "quote": "That part b) of Item 9 (3.1), as amended, BE APPROVED: b)     that Civic Administration be directed to prepare an alternate draft bylaw for committee and council consideration specific to the distribution of graphic flyers; i) to specifically regulate flyers containing graphic images of dismembered human beings or aborted fetuses to residences for consideration by council, ii) to include in the by-law identified sources of municipal authority supporting this measure, [10(2) powers] and acknowledge the substantial evidence received by council from Londoners that such unsolicited Flyers cause demonstrable harm to London residents. iii) and that the by-law include provisions providing for enforcement and penalties for violation of its terms.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs idx4 (10-3). issue=none correct -- no cluster keyword."
+  },
+  {
+    "id": "db46d35bf814",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to submit an application to demolish the heritage-designated property at 100 Stanley Street as part of the Wharncliffe Road South improvements process, subject to further consultation with the London Advisory Committee on Heritage and a public participation meeting.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with consideration of the March 23, 2021 Council resolution, the Civic Administration BE DIRECTED to submit an application to Council to demolish the heritage designated property at 100 Stanley Street, it being noted that the application process requires further consultation with the London Advisory Committee on Heritage and a public participation meeting at the Planning and Environment Committee to consider the application.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 8.3.10 (9-4). issue=none correct -- 'Wharncliffe Road South' is a title-only hit with zero transit-keyword body support, correctly NOT classified transit (distinguishes cleanly from the Blackfriars/Mobility corrections above only by having zero keyword hit at all, vs. those two having a title/context hit that was wrongly promoted)."
+  },
+  {
+    "id": "c0af93dc41bf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the question of whether Blackfriars Bridge remains closed to vehicles indefinitely to a future Civic Works Committee meeting, pending a required usage study under the Provincial Environmental Assessment and further public engagement.",
+    "confidence": "medium",
+    "quote": "That consideration of the Blackfriars Bridge remaining closed to vehicles indefinitely BE REFERRED to a future meeting of the Civic Works Committee in order for the Civic Administration to complete the required usage study as required in the Provincial EA, provide the related report to council, and allow for a more fulsome public engagement with respect to this matter.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "CORRECTED issue transit->none. Read the full item 8.3.14 (5.4) Blackfriars Bridge text (both the original motion and this referral) in the source meeting JSON: neither the itemTitle ('Blackfriars Bridge') nor this motion's own body ('vehicles', 'bridge', 'usage study', 'Provincial EA', 'public engagement') contains any transit-cluster keyword (transit, bus rapid transit, mobility master plan, london transit, rapid transit, transportation master plan, road widening, traffic calming, bus route, transit service), and transit has no CODE_PATTERNS entry to fall back on. issue-rules.ts classifyIssue() explicitly returns null when neither body nor code hits, and its own doc comment bans exactly this pattern (title-topic judgment without keyword support). Precedent: batch-53 verifier overturned two entries on this identical basis. Axis/polarity were already correctly null; only issue changes."
+  },
+  {
+    "id": "d7244782ddf9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Draft Guiding Principles for the Mobility Master Plan Development to add \"Efficiency\" as an additional principle.",
+    "confidence": "high",
+    "quote": "That part a) BE AMENDED by adding the following additional Draft Guiding Principle:  \"Efficiency\".",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "CORRECTED issue transit->none. This motion's own operative clause is 'That part a) BE AMENDED by adding the following additional Draft Guiding Principle: \"Efficiency\".' -- no transit-cluster keyword appears in its own body; the only 'mobility master plan' hit is in the itemTitle. Transit has no CODE_PATTERNS fallback, so per classifyIssue() a title-only hit with zero body support does not classify (same rule and precedent as the Blackfriars Bridge correction above). This is a real, independent-content amendment (not a wrapper/reading motion with 'zero independent content'), so the wrapper/adoption cross-trace exception does not apply either. Axis/polarity were already null; only issue changes."
+  },
+  {
+    "id": "71636679f65d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Amended part a) of Item 17 (3.7) to introduce a revised by-law redesignating 560 and 562 Wellington Street from Low Density Residential to Multi-Family High Density Residential, permitting a height increase to 17 storeys and a density increase to 807 units per hectare, with affordable housing provided through a bonus zone.",
+    "confidence": "high",
+    "quote": "That, based on the application of 560 Wellington Holdings Inc., relating to the property located at 560 and 562 Wellington Street: a)     the proposed attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on November 16, 2021 to amend the Official Plan (1989) to change the designation FROM a Low Density Residential designation TO a Multi-Family, High Density Residential Designation, and to ADD a Specific Area Policy in Chapter 10 \u2013 Policies for Specific Areas to permit an increased height of 17 storeys (61 m); an increase density of 807 units per hectare; a limited range of commercial uses in the Multi-Family, High Density Residential designation and the provision of affordable housing units implemented through a Bonus Zone;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against Item 17 (3.7) idx3 (Council 2021-11-16), 8-4 roll call matches. Density/expansive is textual and direct ('increase density of 807 units per hectare', '17 storeys'). Issue=housing also independently supported by the item's own OZ-8462 CODE_PATTERNS hit."
+  },
+  {
+    "id": "892d2cc8f157",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended part b) of Item 17 (3.7) to specify bonus-zone implementation terms for 560 and 562 Wellington Street, committing to twelve affordable residential rental units with rents capped at 70% of average market rent for 25 years from initial occupancy.",
+    "confidence": "medium",
+    "quote": "That part b) of Item 17 (3.7) BE AMENDED by adding the following to the end of part b): \"it being noted that the Bonus Zone shall be implemented through one or more agreements to facilitate a high quality development comprised of a mixed-use apartment building with a maximum height of 17 storeys (61 m), and a maximum density of 807 units per hectare, which generally implements the Site Plan and Elevations attached as Schedule \u201c1\u201d to the amending by-law and provides for affordable housing as follows: - A total of twelve affordable residential rental units; with seven units to be provided within the development at 560 and 562 Wellington Street, and five units to be provided in existing inventory upon the completion of site plan approval; - Rents not exceeding 70% of the Average Market Rent (AMR) for the London Census Metropolitan Area as determined by the CMHC at the time of building occupancy; - The duration of affordability shall be set at 25 years from the point of initial occupancy of all affordable units; it being noted that Civic Administration is encouraged to speak with Auburn Developments on the tenant selection process for the affordable units\"",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs idx4 (11-1). Correctly left axis/polarity null: this amendment's own new content is the affordable-unit count/rent/duration terms, not a density figure change (the 17-storey/807-uph text it restates was already set by the prior amendment, not newly authorized here)."
+  },
+  {
+    "id": "65c587371e1a",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended Item 17 (3.7) to add that no further notice be given under Section 34(17) of the Planning Act, as the recommended zoning implements the site concept submitted with the application.",
+    "confidence": "high",
+    "quote": "That Item 17 (3.7) BE AMENDED by adding the following new part c): \"c)     pursuant to Section 34(17) of the Planning Act, R.S.O. 1990, c. P.13, as determined by the Municipal Council, no further notice BE GIVEN in respect of the proposed by-law as the recommended zoning implements the site concept submitted with the application;\"",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs idx5 (9-3), the Planning Act s.34(17) notice-waiver amendment. Correctly axis/polarity null -- no increase/decrease verb in its own clause; issue=housing supported via the item's OZ-8462 code pattern, not force-fit body keywords."
+  },
+  {
+    "id": "5e529f7a59be",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended Item 17 (3.7) to add Council's stated reasoning for approving the application notwithstanding staff's advice, citing consistency with the Provincial Policy Statement's promotion of intensification and redevelopment while conserving significant heritage resources.",
+    "confidence": "medium",
+    "quote": "That Item 17 (3.7) BE AMENDED by adding the following at the end of the clause: \"it being further noted that notwithstanding the advice of staff, municipal council is of the belief that this application is approved for the following reasons: -    the proposed development is consistent with the Provincial Policy Statement, 2020, which promotes intensification and redevelopment in appropriate locations, while conserving significant heritage resources;\"",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs idx6 (8-4), Council's stated PPS-consistency rationale for approval. Correctly axis/polarity null -- explanatory/reasoning clause, not a density figure."
+  },
+  {
+    "id": "906ef2c980bf",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved Item 17 (3.7), as amended, introducing by-laws to redesignate and rezone 560 and 562 Wellington Street from Low Density Residential to Multi-Family High Density Residential, permitting a 17-storey, 807-units-per-hectare mixed-use apartment building with twelve affordable rental units secured through a bonus zone.",
+    "confidence": "high",
+    "quote": "a)     the proposed  revised by-law BE INTRODUCED at the Municipal Council meeting to be held on November 16, 2021 to amend the Official Plan (1989) to change the designation FROM a Low Density Residential designation TO a Multi-Family, High Density Residential Designation, and to ADD a Specific Area Policy in Chapter 10 \u2013 Policies for Specific Areas to permit an increased height of 17 storeys (61 m); an increase density of 807 units per hectare; a limited range of commercial uses in the Multi-Family, High Density Residential designation and the provision of affordable housing units implemented through a Bonus Zone;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against this motion's OWN post_motion_texts ('Item 17 (3.7), as amended, reads as follows...') at idx7 (8-4) -- same-item tracing, not cross-item. Density/expansive textually direct (17 storeys, 807 uph, bonus-zone affordable units)."
+  },
+  {
+    "id": "56639f41aa8f",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deferred the Hamilton Road BIA's 2022 budget request to the 2023 budget process and requested the BIA work with the Civic Administration to develop a full business case with a proposed funding source.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the Hamilton Road BIA 2022 Budget request dated October 22, 2021: a)      the above-noted request BE DEFERRED to the 2023 budget process; b)      the Hamilton Road BIA BE REQUESTED to work with Civic Administration to develop a full business case, with proposed funding source, for the 2023 budget process; and,",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 8.5.10 idx1 (10-2). issue=budget correctly triggered by 'business case' in the motion's own body (not the year-specific '2023 budget process' phrase, which isn't in the corpus's keyword list). axis/polarity correctly null (deferral + business-case request, no levy figure)."
+  },
+  {
+    "id": "eb7470b16459",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a one-time $30,000 grant to the Hamilton Road BIA from the Community Investment Reserve Fund to establish an operating reserve.",
+    "confidence": "high",
+    "quote": "c)   that a one time grant of $30,000 be provided to the Hamilton Road BIA from the Community Investment Reserve Fund to establish an operating reserve.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 8.5.10 idx2 (10-2). issue=none correctly left as-is despite the item's 'Budget Request' title -- this part c)'s own body ('Community Investment Reserve Fund', 'operating reserve') has zero budget-cluster keyword hit; title-only would be a force-fit per the same rule used in the corrections above."
+  },
+  {
+    "id": "d38c447cc9c2",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Red Maple Properties development application for 1453-1459 Oxford Street East and 648-656 Ayerswood Avenue back to the Civic Administration to work with the applicant on a framework for affordable housing units at 70% of average market rent for fifty years, resolving sanitary sewer capacity issues, and revising the application to consolidate the properties within the Rapid Transit Corridor.",
+    "confidence": "medium",
+    "quote": "That the application by Red Maple Properties, relating to the properties located at 1453 to 1459 Oxford Street East and 648 to 656 Ayerswood Avenue BE REFERRED to the Civic Administration to undertake the following actions and to report back to a future meeting of the Planning and Environment Committee to: a)  work with the applicant to ensure the appropriate framework is in place for the provision of affordable housing units at 70% of the average market rate for fifty years; b) work with the applicant to determine options to resolve the sanitary sewer capacity issues; and, c)  work with the applicant to revise the application to consolidate the subject properties as being within the Rapid Transit Corridor;",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "CORRECTED issue housing->transit. Re-ran the keyword count by hand on this motion's own body: housing scores 1 ('affordable housing'); transit scores 2 ('transit' and 'rapid transit', both literal entries in transit's include list, both present via 'Rapid Transit Corridor' / 'Rapid Transit Station'). This is not a tie needing ISSUE_ORDER tie-break (as the classifier's note claimed) -- transit wins outright 2-1 on the deterministic classifyIssue() keyword count. Even if it had been a tie, ISSUE_ORDER lists transit before housing, so the script's own tie-break would still resolve to transit. whatAYeaDid/quote/flags/confidence already accurately describe both the affordable-housing ask and the Rapid Transit Corridor consolidation, so only the issue label changes."
+  },
+  {
+    "id": "44156a11b512",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected, by secret ballot, the Council members to sit on the Planning and Environment Committee for the December 2021 to November 2022 committee term.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "SPPC 2021-11-30 item 4.1 idx1 preference-tally round; Majority Winner names (Lehman, Lewis, Hopkins, Hillier, Turner) match the PEC composition already listed in idx0's unanimous (15-0) appointment motion. Empty quote + appointment/not_divided flags match established precedent (batch-23) for secret-ballot preference rounds with no operative motion text to quote."
+  },
+  {
+    "id": "40f09c2aa293",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected, by secret ballot, the Chair of the Civic Works Committee for the December 2021 to November 2022 committee term.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 4.1 idx2, same pattern/precedent as above; Majority Winner: Peloza matches idx0's Civic Works chair listing."
+  },
+  {
+    "id": "8cbd67de3488",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected, by secret ballot, a Council member to fill the seat on the London Transit Commission.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 4.4 idx1 (Majority Winner tally). Correctly NOT conflated with idx0's separate real roll-call appointment motion (15-0, Hopkins) -- the manifest assigns this id only to the tally round; whatAYeaDid describes the tally, not a false attribution of the roll-call vote."
+  },
+  {
+    "id": "40f01e0d8ef0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected, by secret ballot, a Council member to fill the seat on the Middlesex-London Health Unit Board of Directors.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 4.5 idx1, same pattern as 8cbd67de3488 (MLHU seat, Hamou)."
+  },
+  {
+    "id": "eea93d186ce9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in a secret-ballot round to select a Council member for the Tourism London Board of Directors seat; this round recorded no majority winner.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 4.6 idx1, 'No majority' first round -- accurately described as producing no winner."
+  },
+  {
+    "id": "e52d2652c237",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected, by secret ballot, a Council member to fill the seat on the Tourism London Board of Directors, in a second round after the first produced no majority winner.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 4.6 idx2, second round, Majority Winner: Hillier -- matches idx0's unanimous confirmation motion."
+  },
+  {
+    "id": "67d84bf78588",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Antonio D. Santiago to the Committee of Adjustment for the term ending November 14, 2022.",
+    "confidence": "high",
+    "quote": "That Antonio D. Santiago BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2022.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 4.8 idx0 -- REAL roll-call vote (14-1, J. Helmer dissenting), quote verbatim vs source. Correctly issue=none despite the real Nay (personnel appointment, not policy)."
+  },
+  {
+    "id": "7ad7dcdfc4e2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in a secret-ballot round to select a Member at Large for the Committee of Adjustment; this round recorded no majority winner.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 4.8 idx1, 'No majority' round for the Member at Large seat -- accurate."
+  },
+  {
+    "id": "bdfdabfb44f4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the 4th Report of the Governance Working Group (excluding clause 3.2), directing the Civic Administration to report back with draft information on potential amendments to the Council Members' Expense Account Policy \u2014 including a ward-wide mail-out allowance, removing home-internet reimbursement, and other expense-category changes \u2014 and receiving clauses 1.1 and 3.3 of the report.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back to the November 15 meeting of the Governance Working Group with respect to draft information related to the following potential amendments to the Council Members\u2019 Expense Account Policy, prior to moving any recommendations to the SPPC: i)     an amendment to the Councillor Expense Account that would provide for one annual ward-wide mail out per year... clauses 1.1 and 3.3 from the 4th Report of the Governance Working Group BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim (ellipsis-segmented, checked head/tail) vs item 4.9 idx1 (12-3). issue=none correct, no cluster keyword."
+  },
+  {
+    "id": "68fa206b530f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 3.2 a) of the 4th Report of the Governance Working Group, directing the Civic Administration to change Council's meeting start time to 1:00 PM beginning with the 2022 term of Council.",
+    "confidence": "high",
+    "quote": "Motion that clause 3.2 a) of the 4th Report of the Governance Working Group BE APPROVED. b) the following actions be taken with respect to the general operations of Municipal Council: i)     the Civic Administration BE DIRECTED to make the necessary changes to facilitate Council meetings to be held starting at 1:00 PM, beginning with the 2022 term of Council, while still being based on the current meeting schedule;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.9 idx2 (11-4), 1:00 PM meeting-start change."
+  },
+  {
+    "id": "c73d5858df4c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred consideration of the Advisory Committee Review Final Report (clause 3.1 of the 5th Report of the Governance Working Group) to a future Governance Working Group meeting, to invite all current advisory committee members to a discussion on the matter.",
+    "confidence": "high",
+    "quote": "That consideration of clause 3.1 of the 5th Report of the Governance Working Group, related to the Advisory Committee Review Final Report BE REFERRED to a future meeting of the Governance Working Group (GWG) in order to invite all members of the current advisory committees to have a discussion with the GWG with respect to this matter.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.9 idx6 (8-7), Advisory Committee Review referral."
+  },
+  {
+    "id": "00f5f0c6a745",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended section 4.2 c) vii) of the Draft Council Members' Expense Account Policy by deleting the exclusion of home internet costs, services, or equipment from reimbursable expenses.",
+    "confidence": "high",
+    "quote": "That section 4.2 c) vii) of the Draft Council Members' Expense Account Policy BE AMENDED by deleting the following:  \"but excluding home internet costs, services or equipment;\"",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.9 idx7 (12-3), home-internet exclusion deletion."
+  },
+  {
+    "id": "c49b0cfe26be",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 4.1 of the 5th Report of the Governance Working Group, forwarding the revised Council Members' Expense Account Policy to the Strategic Priorities and Policy Committee for approval, effective for the next term of Council.",
+    "confidence": "high",
+    "quote": "That Clause 4.1 of the 5th Report of the Governance Working Group BE APPROVED: d)    the attached revised Council Members' Expense Account Policy BE FORWARDED to the Strategic Priorities and Policy Committee for approval; it being noted that the proposed changes would come into effect for the next term of Council;",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.9 idx8 (12-2), revised Expense Account Policy forwarded to SPPC."
+  },
+  {
+    "id": "9e0076e03b4e",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved Case #P-2 (Middlesex-London Health Unit inflationary pressures), adding $1,280,000 in operating expenditure and $1,280,000 to the tax levy.",
+    "confidence": "high",
+    "quote": "b)    Case #P-2 - Middlesex London Health Unit - Inflationary Pressures - Operating Expenditure $1,280,000; Tax Levy $1,280,000 BE APPROVED;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs Dec 2 SPPC item 4.1 idx2 (13-2). Tax Levy $1,280,000 (positive) = expansive, correct."
+  },
+  {
+    "id": "06de6805313f",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved Case #P-5a (Child Care), reducing required investment by $1,630,000 in operating expenditure and the tax levy.",
+    "confidence": "high",
+    "quote": "e. Case #P-5 - Child Care and Ontario Works - Reduction in Required Investment - Operating Expenditure Case #P-5a \u2013 Child Care - Operating Expenditure ($1,630,000); Tax Levy ($1,630,000)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.1 idx5 (13-1). Tax Levy ($1,630,000) (negative) = restrictive, correct."
+  },
+  {
+    "id": "f6247fba7e9f",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved Case #P-5b (Ontario Works), reducing required investment by $1,143,000 in operating expenditure and the tax levy.",
+    "confidence": "high",
+    "quote": "e. Case #P-5 - Child Care and Ontario Works - Reduction in Required Investment Case #P-5b \u2013 Ontario Works - Operating Expenditure ($1,143,000); Tax Levy ($1,143,000)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.1 idx6 (14-1). Tax Levy ($1,143,000) = restrictive, correct."
+  },
+  {
+    "id": "6ab530b311d7",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved Case #P-6 (Infrastructure Gap and Community Building Projects), reducing operating expenditure and the tax levy by $1,300,000.",
+    "confidence": "high",
+    "quote": "f)    Case #P-6 - Infrastructure Gap and Community Building Projects - Reductions - Operating Expenditure ($1,300,000); Tax Levy ($1,300,000) BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.1 idx7 (10-5). Tax Levy ($1,300,000) = restrictive, correct."
+  },
+  {
+    "id": "166547810fd7",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have approved Case #P-7a, reducing the Neighbourhood Decision Making Program's operating expenditure and the tax levy by $250,000.",
+    "confidence": "high",
+    "quote": "That Case #P-7a BE APPROVED: Case #P-7 - Neighbourhood Strategic Initiatives and Funding and Sports Services - Reduction to Neighbourhood and Athletic Travel Grant Programs - Operating Expenditure ($470,000); Tax Levy ($470,000) i.    Case #P-7a \u2013 Neighbourhood Decision Making Program - Operating Expenditure ($250,000); Tax Levy ($250,000)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "FAILED (3-12), quote verbatim vs item 4.3 idx1. Hedge 'Would have approved... reducing... by $250,000' correct. Tax Levy ($250,000) direction preserved for the failed motion per corpus convention (a Yea on a failed reduction still signals support for the reduction) -- restrictive is correct."
+  },
+  {
+    "id": "bebb7ae66546",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have approved Case #P-7b, reducing the Neighbourhood Small Events Fund's operating expenditure and the tax levy by $20,000.",
+    "confidence": "high",
+    "quote": "That Case #P-7b BE APPROVED: ii.    Case #P-7b \u2013 Neighbourhood Small Events Fund - Operating Expenditure ($20,000); Tax Levy ($20,000)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "FAILED (5-10), quote verbatim vs item 4.3 idx2. Same hedge/direction convention as above -- restrictive correct."
+  },
+  {
+    "id": "1e685a656cda",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved Case #P-7c, reducing Athletic Travel Grants' operating expenditure and the tax levy by $200,000.",
+    "confidence": "high",
+    "quote": "That Case #P-7c BE APPROVED: iii.    Case #P-7c \u2013 Athletic Travel Grants - Operating Expenditure ($200,000); Tax Levy ($200,000)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.3 idx3 (13-2). Tax Levy ($200,000) = restrictive, correct."
+  },
+  {
+    "id": "5b41f1944bec",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved Case #P-8, reducing Parks Planning and Design and Parks, Horticulture and Urban Forestry operating expenditure and the tax levy by $516,000 through naturalization and reduced tree trimming.",
+    "confidence": "high",
+    "quote": "b.    Case #P-8 - Parks Planning and Design, Parks and Horticulture and Urban Forestry - Naturalization and Reduction in Tree Trimming - Operating Expenditure ($516,000); Tax Levy ($516,000)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.3 idx4 (14-1). Tax Levy ($516,000) = restrictive, correct."
+  },
+  {
+    "id": "04c00ffa8c5d",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved Case #P-10 capital project adjustments, including $3,000,000 in capital expenditure for the Wharncliffe Road Grade Separation Project (TS1355-1), with no net tax levy impact.",
+    "confidence": "high",
+    "quote": "b)    Case #P-10 - Transportation - Capital Project Adjustments -Capital Expenditure $9,191,000; Tax Levy $0 BE APPROVED; iii)    TS1355-1 \u2013 Wharncliffe Road Grade Separation Project - Capital Expenditure $3,000,000; Tax Levy $0",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.4 idx3 (14-1). Tax Levy $0 on both the P-10 total and the TS1355-1 sub-line -- capital expenditure funded outside the levy, axis=levy-size/polarity=null correct per the $0-delta convention."
+  },
+  {
+    "id": "dc41c2ba3b26",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Readopted, under section 291(4)(c) of the Municipal Act, 2001, the amended 2022 operating budget for the London Public Library in the gross expenditure amount of $21,741,937 and the tax levy amount of $21,741,937.",
+    "confidence": "medium",
+    "quote": "the amended 2022 operating budget for London Public Library BE APPROVED in the gross expenditure amount of $21,741,937 and the tax levy amount of $21,741,937;",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.8 idx1 (13-1). Total-figure readoption, axis/polarity null per batch-42 precedent (Golf/Community readoption entries), correct."
+  },
+  {
+    "id": "dbfcf9af1d3b",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Readopted the amended 2022 operating budget for Golf in the gross expenditure amount of $3,740,834 and the tax levy amount of $57,062.",
+    "confidence": "medium",
+    "quote": "the amended 2022 operating budget for Golf BE APPROVED in the gross expenditure amount of $3,740,834 and the tax levy amount of $57,062;",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.8 idx3 (13-1). Same readoption convention, correct."
+  },
+  {
+    "id": "96fb9f7d6a97",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Readopted the amended 2022 operating budget (excluding London Public Library, Children's Services, and Golf) in the gross expenditure amount of $989,370,443 and the tax levy amount of $672,905,283, bringing the total amended 2022 operating budget to a gross expenditure of $1,073,519,667 and a tax levy of $701,849,363.",
+    "confidence": "medium",
+    "quote": "iv.    the amended 2022 operating budget, excluding London Public Library, Children\u2019s Services, and Golf BE APPROVED in the gross expenditure amount of $989,370,443 and the tax levy amount of $672,905,283 after recognizing $9,430,132 of increased taxation from assessment growth; it being noted that the amended total 2022 operating budget being readopted is the gross expenditure amount of $1,073,519,667 and the tax levy amount of $701,849,363 after recognizing $9,430,132 of increased taxation from assessment growth",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.8 idx4 (14-1). Same readoption convention, correct."
+  },
+  {
+    "id": "6197ae75f34d",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Readopted the amended 2023 operating budget for the London Public Library in the gross expenditure amount of $22,128,694 and the tax levy amount of $22,128,694.",
+    "confidence": "medium",
+    "quote": "b) the amended 2023 operating budget BE READOPTED as follows: i.    the amended 2023 operating budget for London Public Library BE APPROVED in the gross expenditure amount of $22,128,694 and the tax levy amount of $22,128,694;",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.8 idx5 (13-1). Same readoption convention, correct."
+  },
+  {
+    "id": "f3bebaa87de5",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Readopted the amended 2023 operating budget for Golf in the gross expenditure amount of $3,787,965 and the tax levy amount of $75,564.",
+    "confidence": "medium",
+    "quote": "iii.    the amended 2023 operating budget for Golf BE APPROVED in the gross expenditure amount of $3,787,965 and the tax levy amount of $75,564;",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.8 idx7 (13-1). Same readoption convention, correct."
+  },
+  {
+    "id": "a2659314937f",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Readopted the amended 2023 operating budget (excluding London Public Library, Children's Services, and Golf) in the gross expenditure amount of $1,012,085,786 and the tax levy amount of $698,023,097, bringing the total amended 2023 operating budget to a gross expenditure of $1,098,817,618 and a tax levy of $729,063,058.",
+    "confidence": "medium",
+    "quote": "iv.    the amended 2023 operating budget, excluding London Public Library, Children\u2019s Services, and Golf BE APPROVED in the gross expenditure amount of $1,012,085,786 and the tax levy amount of $698,023,097; it being noted that the amended total 2023 operating budget being readopted is in the gross expenditure amount of $1,098,817,618 and the tax levy amount of $729,063,058",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs item 4.8 idx8 (14-1). Same readoption convention, correct."
+  }
+]

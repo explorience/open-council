@@ -1,0 +1,596 @@
+[
+ {
+  "id": "5a3c84f1acdb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the 1st Report of the Cycling Advisory Committee back to the Committee for re-submission to the Civic Works Committee with a completed 2020 work plan.",
+  "confidence": "high",
+  "quote": "That the 1st report of the Cycling Advisory Committee BE REFERRED back to the CAC for re-submission to the Civic Works Committee with a completed 2020 work plan for Council consideration and approval.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "CWC 4-2 referral of CAC 1st Report; quote verbatim; issue=none correct (referral, no substantive content)."
+ },
+ {
+  "id": "c92ba57d1f70",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Accepted Councillor M. Salih's resignation from the London Police Services Board, effective January 16, 2020.",
+  "confidence": "high",
+  "quote": "That the resignation of Councillor Salih, from the Police Services Board BE ACCEPTED, effective January 16, 2020.",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "SPPC 14-1 resignation acceptance motion (traced past two prior 15-0/consensus motions on same item to the correct 14-1 vote); quote verbatim; appointment flag correct exclusion."
+ },
+ {
+  "id": "dead3cbf0def",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to a by-law amending By-law PS-113 to regulate traffic and parking related to school community safety zones.",
+  "confidence": "medium",
+  "quote": "That Introduction and First Reading of Bill No. 30 BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Bill 30 1st reading, 14-1; lowercase stage phrasing correct, no enactment language, quote verbatim."
+ },
+ {
+  "id": "f747a6d16468",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to a by-law amending By-law PS-113 to regulate traffic and parking related to school community safety zones.",
+  "confidence": "medium",
+  "quote": "That Second Reading of Bill No. 30 BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Bill 30 2nd reading, 14-1; correct stage phrasing, quote verbatim."
+ },
+ {
+  "id": "21b5ecbdf47c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading and enacted a by-law amending By-law PS-113 to regulate traffic and parking related to school community safety zones.",
+  "confidence": "medium",
+  "quote": "That Third Reading and Enactment of Bill No. 30 BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Bill 30 3rd reading, 14-1; enactment language verified present in this motion's own POST text (By-law PS-113-20044 listed as enacted); quote verbatim."
+ },
+ {
+  "id": "526c7b3de1df",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law to repeal and replace the City's Issuance of Proclamations Policy, to be enacted as a one-year pilot project subject to review.",
+  "confidence": "high",
+  "quote": "the proposed by-law, as appended to the staff report dated January 6, 2020 BE INTRODUCED at the Municipal Council meeting to be held on January 14, 2020 to repeal Council Policy By-law No. CPOL.-115-367, as amended by By-law No. CPOL.115(a)-418, being \"Issuance of Proclamations Policy\" and replace it with a new Council policy entitled \"Issuance of Proclamations Policy\"; it being noted that this policy will be enacted as a pilot project to be reviewed one year after implementation.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Proclamations Policy by-law introduction, 9-6; quote verbatim; issue=none correct, no tracked-issue keyword hit."
+ },
+ {
+  "id": "8dc6de530d39",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Appointed AECOM Canada Ltd. as consulting engineer for the Downtown Loop and Municipal Infrastructure Improvements project at an upset amount of $3,345,245 (excluding HST), approved the project's financing, and authorized related administrative acts.",
+  "confidence": "medium",
+  "quote": "AECOM Canada Ltd. BE APPOINTED Consulting Engineers for the Downtown Loop and Municipal Infrastructure Improvements at an upset amount of $3,345,245 including contingency (excluding HST), in accordance with Section 15.2 (e) of the Procurement of Goods and Services policy;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "AECOM appointment for Downtown Loop, 13-2; quote verbatim, full motion (parts a-e) matches whatAYeaDid summary. issue=downtown is a legitimate keyword hit ('Downtown Loop' in the motion's own body, not just the title) under issue-rules.ts; axis=application-approval is the correct generic fallback for downtown (no content axis exists for this issue) since AFFIRM_RE matches 'BE AUTHORIZED'/'BE APPROVED' in the clause. Medium confidence appropriately flagged since it's procurement, not policy."
+ },
+ {
+  "id": "73330e6a984d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law amending By-law PS-113 to regulate traffic and parking, related to school community safety zones.",
+  "confidence": "high",
+  "quote": "the proposed by-law, as appended to the staff report dated January 7, 2020, to amend By-law PS-113 entitled, \"A by-law to regulate traffic and the parking of motor vehicles in the City of London\", BE INTRODUCED at the Municipal Council meeting to be held on January 14, 2020 (2019-T08).",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "CWC recommendation to introduce Bill 30, 14-1; quote verbatim; issue=none correct (traffic/parking regulation, no tracked keyword)."
+ },
+ {
+  "id": "a417517f4b8c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to develop a plan and process to evaluate a potential e-scooter pilot project in London, including stakeholder input and possible by-law amendments, and authorized modifying the Bike Share Request for Proposal process to also gather scooter-sharing program details.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to prepare a plan and initiate a process to determine how a Pilot Project might be undertaken in London, including the advantages and disadvantages of a program, key stakeholder input (e.g., Middlesex London Health Unit, London Police Services), potential restrictions on where scooters may be used, amendments that would be required to City by-laws, how this would apply to a personal (owned) scooter versus a scooter-sharing program, and seek community input;",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "E-scooter pilot review + Bike Share RFP modification, 14-1; quote verbatim for part a); whatAYeaDid accurately summarizes both a) and b). issue=none correct — 'Bike Share' does not match any bikes-issue keyword phrase (bike lane/cycle track/bicycle facilit/etc.)."
+ },
+ {
+  "id": "ef06ecdae622",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the 11th Report and the 1st Report of the Cycling Advisory Committee back to the Committee for re-submission with a completed 2020 work plan.",
+  "confidence": "high",
+  "quote": "9. (2.1) 11th Report of the Cycling Advisory Committee: That the 11th report of the Cycling Advisory Committee (CAC) BE REFERRED back to the CAC for re-submission to the Civic Works Committee with a completed 2020 work plan for Council consideration and approval.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "FAILED 7-8 bundled referral of 11th + 1st CAC Reports (Items 9+18); correctly hedged 'Would have referred'; whatAYeaDid covers both bundled reports; quote is one of the two identical-structure clauses, adequately representative; issue=none correct (referral, no bikes keyword)."
+ },
+ {
+  "id": "4a8a784f7e7f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the motion under consideration to add a requirement that the Cycling Advisory Committee submit its 2020 work plan at its next meeting.",
+  "confidence": "high",
+  "quote": "That a new part b) be added to the motion to require that the Cycling Advisory Committee BE REQUIRED to submit the 2020 Work Plan with their next meeting.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "8-7 amendment adding work-plan requirement; quote verbatim; motion-action voice; issue=none correct (procedural amendment)."
+ },
+ {
+  "id": "2a7caa65da4d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the 11th Report of the Cycling Advisory Committee and the 1st Report of the Cycling Advisory Committee, and required the Committee to submit its 2020 work plan at its next meeting.",
+  "confidence": "high",
+  "quote": "a) the 11th Report of the Cycling Advisory Committee and the 1st Report of the Cycling Advisory Committee BE RECEIVED and, b) the Cycling Advisory Committee BE REQUIRED to submit the 2020 Work Plan with their next meeting.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "14-1 'motion as amended' final vote receiving both reports + requiring work plan; quote verbatim; issue=none correct (receipt + admin requirement, not cycling infrastructure)."
+ },
+ {
+  "id": "4d58adf781f1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Accepted Councillor M. Salih's resignation from the London Police Services Board, effective January 16, 2020.",
+  "confidence": "high",
+  "quote": "a) the resignation of Councillor Salih, from the Police Services Board BE ACCEPTED, effective January 16, 2020; and,",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Council 14-1 confirmation of Salih resignation (traced through the amended-clause structure to the correct 'part a) be approved' 14-1 vote); quote verbatim; appointment flag correct."
+ },
+ {
+  "id": "27edee01018f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a package of Diversity, Inclusion and Anti-Oppression Advisory Committee actions, including appointing a secondary representative to the Community Diversity and Inclusion Strategy Leadership Table, approving up to $500 to recover the Committee's Hands Against Racism event costs, declining action on a proposed $300 Black History Month contribution and a proclamation request, and receiving the Committee's 8th, 1st, and 2nd reports.",
+  "confidence": "high",
+  "quote": "up to $500.00, to recover costs born by DIAAC in the co-ordination and co-hosting of the March 21st ‘Hands Against Racism’ event, BE APPROVED subject to the review and approval by the City Clerk for compliance with the General Policy for Advisory Committees;",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "CPSC 4-1 DIAAC omnibus report bundle; quote (the $500 Hands Against Racism approval clause) is verbatim and a real operative clause within the bundle; whatAYeaDid accurately summarizes the full multi-part bundle including the two 'NO ACTION' declines; issue=none correct (no tracked-issue keyword; committee governance/grants)."
+ },
+ {
+  "id": "fdec3050b2ea",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that the Mayor call on the Provincial Government to halt reductions to local Public Health Unit, land ambulance, and Dearness Home funding and to restore long-term care funding through the provincial tax base rather than the municipal property tax levy, and received the Ontario Health Coalition delegation.",
+  "confidence": "high",
+  "quote": "the Mayor BE REQUESTED to call upon the Provincial Government to do the following with respect to health care funding: i) halt any mergers or reductions of funding to the local Public Health Unit, the Middlesex County Land Ambulance services and the Dearness Home; and, ii) restore funding, particularly the two special funds and per diem funding of long-term care homes, through the provincial tax base as it is the most equitable form of public financing for these critical institutions, as opposed to adding it to the property tax levy;",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "CPSC 3-2 health-care-funding request motion; quote verbatim. Direction correctly null: clause's only verbs are BE REQUESTED (not in AFFIRM_RE) and BE RECEIVED (defer-only, no AFFIRM present) so it is a genuine non-decision regardless of issue tag. issue=none is a defensible read of the 'property tax levy' mention as incidental to a health-funding advocacy ask rather than a substantive levy position; flagging as borderline but not overturning since it carries zero polarity/stance effect either way."
+ },
+ {
+  "id": "e35742b3bf9b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed Civic Administration to bring forward a policy restricting the issuance of parade permits on public streets from November 1 to November 11 to activities directly related to honouring Canada's veterans, organized in partnership with veterans organizations.",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE DIRECTED to bring forward a policy to restrict the issuance of parade permits on public streets, from November 1 to November 11, to those activities which are directly related to the honouring of Canada’s veterans and organized in partnership with veterans organizations;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "CPSC 4-1 parade-permit policy direction; quote verbatim; issue=none correct (no tracked-issue keyword)."
+ },
+ {
+  "id": "13ab51d8cec7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to a by-law removing the holding provision from the zoning at 3900 Scotland Drive, 3777 Westminster Drive, and 5110 White Oak Road.",
+  "confidence": "high",
+  "quote": "That Introduction and First Reading of Bill No. 75, BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Bill 75 1st reading, 14-1; quote verbatim; correct stage phrasing."
+ },
+ {
+  "id": "bc4750b2c6e0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to a by-law removing the holding provision from the zoning at 3900 Scotland Drive, 3777 Westminster Drive, and 5110 White Oak Road.",
+  "confidence": "high",
+  "quote": "That Second Reading of Bill No. 75, BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Bill 75 2nd reading, 14-1; quote verbatim; correct stage phrasing."
+ },
+ {
+  "id": "305c28f2e2bc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading and enacted a by-law removing the holding provision from the zoning at 3900 Scotland Drive, 3777 Westminster Drive, and 5110 White Oak Road.",
+  "confidence": "high",
+  "quote": "That Third Reading and Enactment of Bill No. 75, BE APPROVED.",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Bill 75 3rd reading, 14-1; enactment language verified present in this motion's own POST text (By-law Z.-1-202830 listed as enacted); quote verbatim."
+ },
+ {
+  "id": "a2eb67e3ddd2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Convened Council as the Approving Authority under the Expropriations Act to consider the proposed expropriation of lands for the Wharncliffe Road South Road Widening and Improvements Project, between Becher Street and Springbank Drive.",
+  "confidence": "high",
+  "quote": "That Council convene as the Approving Authority pursuant to the provisions of the Expropriation Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Managing Director, Environmental and Engineering Services and City Engineer, with respect to the expropriation of the lands for the Project known as the Wharncliffe Road South Road Widening and Improvements Project, between Becher Street and Springbank Drive.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "14-1 motion to convene Council as Expropriations Act Approving Authority; quote verbatim. issue=none is the correct, careful call: this is a purely procedural convening motion (no AFFIRM/DEFER verb of its own) — it does NOT decide the Wharncliffe road-widening project itself (that passed 15-0 unanimously in a separate, non-divided motion later in the same item). Tagging this as issue=transit/road-capacity-expansive purely because the project's name contains 'Road Widening' would misstate what the vote decided, given the sole nay (Kayabaga) may reflect a process objection, not opposition to the road project — correctly left issue=none/polarity=null per the 'unclear is always acceptable, wrong direction never is' bar."
+ },
+ {
+  "id": "ea7d13109216",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Planning and Environment Committee's recommendation on the demolition request for the heritage-listed property at 247 Halls Mill Road back to the Committee to allow additional discussion with the property owner.",
+  "confidence": "high",
+  "quote": "That consideration of the Planning and Environment Committee (PEC) recommendation 3.3, as it relates to the demolition request for Heritage Listed Property at 247 Halls Mill Road BE REFERRED back to the PEC in order to allow for additional discussion with the property owner.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "FAILED 2-13 referral of the 247 Halls Mill Road demolition item; correctly hedged 'Would have referred'; quote verbatim; issue=none correct (heritage isn't a tracked issue)."
+ },
+ {
+  "id": "20a9ce0787d7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave notice of intention to designate 247 Halls Mill Road as a property of cultural heritage value, directed Civic Administration to prepare a designation by-law absent appeals, and directed Civic Administration to evaluate other Halls Mill properties and city barns for potential heritage designation.",
+  "confidence": "high",
+  "quote": "notice BE GIVEN in accordance with section 29(3) of the Ontario Heritage Act, R.S.O. 1990, C.O. 18, of the Municipal Council’s intention to designate the property located at 247 Halls Mill Road to be of cultural heritage value or interest for the reasons outlined in Appendix E appended to the staff report, dated January 20, 2020;",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "12-3 final vote on the original heritage-designation recommendation (correctly traced through the 'original recommendation motion IS PUT' node back to the full a-d text after the referral attempt failed); quote verbatim; issue=none correct (heritage not tracked)."
+ },
+ {
+  "id": "68c38d1983dc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law changing the zoning of 3900 Scotland Drive, 3777 Westminster Drive, and 5110 White Oak Road from a holding Resource Extraction (h-226*EX1) Zone to a Resource Extraction (EX1) Zone.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated January 20, 2020 BE INTRODUCED at the Municipal Council meeting to be held on January 28, 2020 to amend Zoning By-law Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a holding Resource Extraction (h-226*EX1) Zone TO a Resource Extraction (EX1) Zone.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "14-1 introduction of by-law removing holding provision on Resource Extraction zoning; quote verbatim. issue=none correct: this is a holding-provision removal on an EX1 (Resource Extraction) zone, not a housing/rezoning action — no housing keyword in body, and the itemTitle's 'H-9113' code is not a Z/OZ/O/TZ housing code pattern."
+ },
+ {
+  "id": "1fd3efb5c1d9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that the Mayor call on the Provincial Government to halt reductions to local Public Health Unit, land ambulance, and Dearness Home funding and to restore long-term care funding through the provincial tax base rather than the municipal property tax levy, and received the Ontario Health Coalition delegation.",
+  "confidence": "high",
+  "quote": "the Mayor BE REQUESTED to call upon the Provincial Government to do the following with respect to health care funding: i) halt any mergers or reductions of funding to the local Public Health Unit, the Middlesex County Land Ambulance services and the Dearness Home; and, ii) restore funding, particularly the two special funds and per diem funding of long-term care homes, through the provincial tax base as it is the most equitable form of public financing for these critical institutions, as opposed to adding it to the property tax levy;",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Council 12-2 duplicate of the same health-care-funding request considered at CPSC (fdec3050b2ea); quote verbatim; same direction/issue reasoning applies (BE REQUESTED + BE RECEIVED = no AFFIRM verb = correctly null; issue=none defensible as a borderline, zero-effect call)."
+ },
+ {
+  "id": "30abef9a1318",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recessed the Council meeting for a dinner break.",
+  "confidence": "high",
+  "quote": "That Council recess at this time for dinner break.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "9-6 dinner recess motion; quote verbatim; issue=none/procedural correct."
+ },
+ {
+  "id": "160cd6d059e2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved an extended recess from 10:45 AM to 1:00 PM for the January 30, 2020 meeting, to allow attendance at a funeral for a former Member of Council.",
+  "confidence": "high",
+  "quote": "That an extended recess from 10:45 AM to 1:00 PM, BE APPROVED for the January 30, 2020 meeting; it being noted that there is a funeral scheduled for a former Member of Council during that time.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "13-2 extended-recess-for-funeral motion; quote verbatim; issue=none/procedural correct."
+ },
+ {
+  "id": "e0c770629166",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have adopted a $54,000 addition to the net 2020-2023 Multi-Year Operating Budget for Museum London to cover provincial funding impacts.",
+  "confidence": "medium",
+  "quote": "a) the net 2020-2023 Multi-Year Operating Budget for the following service within Culture BE ADOPTED: iv. Page 60 - Museum London provincial impacts for consideration - $54,000",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "FAILED 5-10 Museum London provincial-impacts addition ($54,000, no parens); correctly hedged 'Would have adopted'; axis=levy-size, polarity=expansive correct per the era's positive/no-parens=expansive sign convention; quote verbatim."
+ },
+ {
+  "id": "589ac66aeda6",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Brought forward for consideration five 2020-2023 Multi-Year business cases for potential levy reductions at the London Public Library and Museum London (eliminating planned security enhancements, eliminating a planned staffing increase, promissory note forgiveness, a Wi-Fi hotspot lending program, and exhibitions and programs reductions).",
+  "confidence": "low",
+  "quote": "That the following 2020-2023 Multi-Year business cases for potential levy reductions BE CONSIDERED at this time: ii. Business Case 27 - London Public Library - Eliminate Planned Security Enhancements - 2020-2023 Total Investments ($107,000); Net Levy ($107,000)",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "9-6 'BE CONSIDERED' bundling motion listing 5 business cases; quote verbatim. axis/polarity correctly null: 'BE CONSIDERED' matches neither AFFIRM_RE nor DEFER_RE, so it decides nothing about the levy itself — it only brings the individual business cases up for their own separate votes (69b2de1dbbea etc.), consistent with the procedural flag."
+ },
+ {
+  "id": "69b2de1dbbea",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved Business Case 27, eliminating the London Public Library's planned security enhancements for a 2020-2023 Net Levy reduction of $107,000.",
+  "confidence": "high",
+  "quote": "ii. Business Case 27 - London Public Library - Eliminate Planned Security Enhancements – 2020-2023 Total Investment ($107,000); Net Levy ($107,000)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Business Case 27, 14-1, Net Levy ($107,000) parens=restrictive; quote verbatim; math/sign correct."
+ },
+ {
+  "id": "e5b0a6e30e72",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved Business Case 28, eliminating the London Public Library's planned staffing increase for a 2020-2023 Net Levy reduction of $42,000.",
+  "confidence": "high",
+  "quote": "iii. Business Case 28 - London Public Library - Eliminate Planned Staffing Increase – 2020-2023 Total Investment ($42,000); Net Levy ($42,000)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Business Case 28, 14-1, Net Levy ($42,000) parens=restrictive; quote verbatim."
+ },
+ {
+  "id": "862d5f97ccd9",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved Business Case 29, forgiving a London Public Library promissory note for a 2020-2023 Net Levy reduction of $717,000.",
+  "confidence": "high",
+  "quote": "iv. Business Case 29 - London Public Library – Promissory Note Forgiveness - 2020- 2023 Total Investment ($912,000); Net Levy ($717,000)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Business Case 29, 8-6, Net Levy ($717,000) parens=restrictive (correctly uses the Net Levy figure, not the larger $912,000 Total Investment figure); quote verbatim."
+ },
+ {
+  "id": "bc233596944d",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved Business Case 30, eliminating the London Public Library's Wi-Fi Hotspot Lending Program for a 2020-2023 Net Levy reduction of $188,000.",
+  "confidence": "high",
+  "quote": "v. Business Case 30 - London Public Library - Wi-Fi Hotspot Lending Program – 2020-2023 Total Investment ($188,000); Net Levy ($188,000)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Business Case 30, 9-6, Net Levy ($188,000) parens=restrictive; quote verbatim."
+ },
+ {
+  "id": "5e82a3c983ed",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have sustained a procedural ruling of the Chair, raised as a point of order during the Business Cases for Potential Net Levy Reductions item.",
+  "confidence": "high",
+  "quote": "Pursuant to section 32.5 of the Council Procedural By-law, shall the ruling of the Chair BE SUSTAINED?",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "FAILED 7-8 Chair's-ruling sustain vote (point of order during the levy-reduction business cases); correctly hedged 'Would have sustained'; issue=none/procedural correct; quote verbatim."
+ },
+ {
+  "id": "ab673272bd9e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted to reconsider the earlier vote on upholding the Chair's procedural ruling.",
+  "confidence": "high",
+  "quote": "Reconsideration of the vote with respect to the upholding the decision of the Chair.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "13-2 PASSED reconsideration vote; not hedged (correct, since it passed); quote verbatim; procedural."
+ },
+ {
+  "id": "6062d93f5c37",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have sustained a procedural ruling of the Chair, following a reconsideration vote.",
+  "confidence": "high",
+  "quote": "Pursuant to section 32.5 of the Council Procedural By-law, shall the ruling of the Chair BE SUSTAINED?",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "FAILED 7-8 second Chair's-ruling sustain vote following the reconsideration; correctly hedged and correctly carries the 'following a reconsideration vote' qualifier; quote verbatim."
+ },
+ {
+  "id": "acb79cdad948",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have ordered a member removed from their seat for the remainder of the meeting for disorderly conduct.",
+  "confidence": "high",
+  "quote": "Pursuant to section 31.18 Disorderly conduct - member to be removed - \"Shall the member be ordered to leave his/her seat for the duration of the meeting?\"",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "FAILED 4-11 disorderly-conduct removal vote; correctly hedged 'Would have ordered'; quote verbatim; procedural."
+ },
+ {
+  "id": "d0077680f900",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have approved Business Case 32, reducing Museum London's exhibitions and programs for a 2020-2023 Net Levy reduction of $182,000.",
+  "confidence": "high",
+  "quote": "vii. Business Case 32 - Museum London - Exhibitions and Programs Reductions - 2020-2023 Total revised Investment ($182,000); Net Levy ($182,000)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "FAILED 7-7 Business Case 32, Net Levy ($182,000) parens=restrictive; correctly hedged 'Would have approved'; quote verbatim."
+ },
+ {
+  "id": "92544394476b",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have reduced the annual base allocation to Tourism London's Operating Budget (within the pending $8,254,000 2020-2023 Tourism & Sports Attraction line) by $200,000.",
+  "confidence": "high",
+  "quote": "That the annual base allocation to the Operating Budget of Tourism London, including in part 4.2 a)iv) BE REDUCED by $200,000.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "FAILED 3-11 amendment to REDUCE the still-pending Tourism London base allocation (part 4.2 a)iv, not yet voted — the $8,254,000 line was adopted separately afterward at 13-1); correctly hedged, correctly states BOTH the $8,254,000 pending line and the $200,000 proposed cut per the amendment-to-pending-motion convention; axis=levy-size, polarity=restrictive correct (a yea would have cut the levy); quote verbatim."
+ },
+ {
+  "id": "4a1b2f99494f",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted the net 2020-2023 Multi-Year Operating Budget for Tourism & Sports Attraction at $8,254,000.",
+  "confidence": "high",
+  "quote": "a) the net 2020-2023 Multi-Year Operating Budget for the following service within Economic Prosperity BE ADOPTED: iv. Page 71 - Tourism & Sports Attraction - $8,254,000",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "13-1 adoption of the Tourism & Sports Attraction operating line at $8,254,000 (voted separately after the above amendment failed); quote verbatim; axis=levy-size, polarity=expansive consistent with this era's established positive/no-parens=expansive base-budget-adoption sign convention."
+ },
+ {
+  "id": "6798dbb66012",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Convened the Strategic Priorities and Policy Committee in closed session to receive advice subject to solicitor-client privilege.",
+  "confidence": "high",
+  "quote": "That the Strategic Priorities and Policy Committee convene, In Closed Session, at this time in order to receive advice that is subject to solicit client privilege.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "14-1 closed-session convening motion; quote verbatim, including the source's own 'solicit client privilege' (verified against raw JSON, not a transcription error introduced by the classifier); issue=none/procedural correct."
+ },
+ {
+  "id": "9ceeef382443",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted the net 2020-2023 Multi-Year Operating Budget provincial-impacts lines for the Kettle Creek, Lower Thames Valley, and Upper Thames River Conservation Authorities, totalling $603,000.",
+  "confidence": "high",
+  "quote": "a) the net 2020-2023 Multi-Year Operating Budget for the following services within Environmental Services BE ADOPTED: ii. Page 81 – Kettle Creek Conservation Authority provincial impacts for consideration - $133,000, iv. Page 81 – Lower Thames Valley Conservation Authority provincial impacts for consideration - $19,000, vi. Page 81 – Upper Thames River Conservation Authority provincial impacts for consideration - $451,000",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "12-3 adoption of 3 Conservation Authority provincial-impacts lines ($133k+$19k+$451k=$603k); quote verbatim; math correct; axis=levy-size, polarity=expansive consistent with era sign convention."
+ },
+ {
+  "id": "45ac863d926e",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted the net 2020-2023 Multi-Year Operating Budget for Garbage Recycling and Composting at $82,011,000.",
+  "confidence": "high",
+  "quote": "a) the net 2020-2023 Multi-Year Operating Budget for the following services within Environmental Services BE ADOPTED: viii. Page 80 – Garbage Recycling and Composting - $82,011,000",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "14-1 adoption of Garbage Recycling and Composting operating line at $82,011,000; quote verbatim; axis/polarity correct."
+ },
+ {
+  "id": "c6f6255d67a5",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted the 2020-2023 Multi-Year Lifecycle Renewal Capital Budget for Environmental Services at $8,790,000.",
+  "confidence": "high",
+  "quote": "b) the 2020-2023 Multi-Year Capital Budget for Environmental Services BE ADOPTED: i. Page 82 – Lifecycle Renewal Capital Budget - $8,790,00",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Quote-verbatim violation: the classified quote read '...Lifecycle Renewal Capital Budget - $8,790,000' (3 zeros), but THIS specific sub-motion's own printed text (verified against raw meeting JSON, distinct from the earlier bundling/wrapper node which does show $8,790,000 correctly) reads '$8,790,00' — a source transcription typo dropping the trailing zero. Corrected the quote field to match this motion's own verbatim text exactly (typo preserved, per verify-quote-verbatim.py's cross-item tracing requirement). Left whatAYeaDid stating the true $8,790,000 figure (cross-confirmed via the identical line item in the parent bundling motion and the item's own budget-book page reference) since that is the accurate amount and not itself a false statement; axis=levy-size/polarity=expansive unaffected either way (sign is positive under both readings)."
+ },
+ {
+  "id": "40fbf92043f3",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted the 2020-2023 Multi-Year Growth Capital Budget ($0) and Service Improvement Capital Budget ($51,500,000) for Environmental Services.",
+  "confidence": "high",
+  "quote": "b) the 2020-2023 Multi-Year Capital Budget for Environmental Services BE ADOPTED: ii. Page 82 – Growth Capital Budget - $0, iii. Page 82 – Service Improvement Capital Budget - $51,500,000",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "14-1 adoption of Growth Capital Budget ($0) + Service Improvement Capital Budget ($51,500,000); quote verbatim; net-positive sign correctly read as expansive."
+ },
+ {
+  "id": "fa3b5b548788",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted in principle the 2024-2029 Multi-Year Capital Forecast for Environmental Services, totalling $37,315,000 across Lifecycle Renewal, Growth, and Service Improvement Capital.",
+  "confidence": "high",
+  "quote": "c) the 2024-2029 Multi-Year Capital Forecast for Environmental Services BE ADOPTED in principle: i. Page 82 – Lifecycle Renewal Capital Forecast - $9,315,000, ii. Page 82 – Growth Capital Forecast - $20,000,000, iii. Page 82 – Service Improvement Capital Forecast - $8,000,000",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "14-1 adoption in principle of the 2024-2029 Capital Forecast ($9,315k+$20,000k+$8,000k=$37,315k); quote verbatim; math correct; axis/polarity correct."
+ }
+]

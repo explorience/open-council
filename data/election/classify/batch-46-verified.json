@@ -1,0 +1,588 @@
+[
+  {
+    "id": "d476a6731870",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Continued the Council meeting past the scheduled 6:30 PM dinner recess.",
+    "confidence": "high",
+    "quote": "notwithstanding the allocated Dinner Recess time of 6:30 PM as indicated on the Council Agenda, the Council Meeting BE CONTINUED",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: itemTitle-vs-real-motion mismatch verified directly (itemTitle says Hydro Board appointment; the manifest's own untruncated motionText is the dinner-recess continuation) -- quote verbatim, issue/flags correct."
+  },
+  {
+    "id": "a480e3604447",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to determine next steps and actions based on the KPMG report's analysis of housing service delivery.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to determine next steps and actions based on the analysis and potential courses of action identified in the KPMG report dated August 12, 2019 with respect to a review of service delivery for housing",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full item 8.9.2.3 text (Council, 2019-08-27): quote is the verbatim, separately-voted part b) (14-1); informational_ask flag and null axis/polarity correct for a 'determine next steps' directive."
+  },
+  {
+    "id": "f0831e1704c9",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back with a strategy for investing the London Medical Network's returned grant in permanent housing with supports for mental health and addictions.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to report back with a strategy for investing the approximate $7.3 m in developing permanent housing with supports for mental health and addictions, noting this will support all services dealing with the crisis of homelessness, mental health and addictions",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full item 8.9.2.4 text (Council, 2019-08-27): quote is the verbatim, separately-voted part d) (13-2); 'homelessness' keyword correctly routes this to encampments over housing; informational_ask correct."
+  },
+  {
+    "id": "5cf9a9e49377",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended introducing by-laws to amend the Official Plan and Zoning By-law to permit Service Station and Convenience Commercial uses at 3493 Colonel Talbot Road.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated September 9, 2019 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend section 3.6.5, vi), of the 1989 Official Plan, by ADDING the subject site to the list of Locations of Convenience Commercial and Service Station uses, to permit Service Station and Convenience Commercial Uses",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Committee item 3.6 text: R6/R8 residential zoning is UNCHANGED on both sides of the amendment -- only the commercial (CC/SS) portion changes, so issue=none (commercial rezoning, no housing content) is correct, not a density read. Quote verbatim."
+  },
+  {
+    "id": "3727e829b7c4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 3493 Colonel Talbot Road application back to the Civic Administration to further consider noise mitigation and site-layout impacts on neighbouring properties.",
+    "confidence": "high",
+    "quote": "Motion to refer the application back to the Civic Administration to further consider the following: a) noise mitigation measures be put in place to mitigate potential noise impacts to all neighbouring properties",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: same item, FAILED (3-3) referral, correctly hedged 'Would have referred...'; quote verbatim."
+  },
+  {
+    "id": "0658be7e8003",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Option 3 of the City of London Housing Service Review and directed the Civic Administration to implement it and report quarterly to Council on progress.",
+    "confidence": "medium",
+    "quote": "Option 3 identified in the reports, noted in a ) above, BE APPROVED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full SPPC item 4.1 text (7-6 vote matched by voter list, not just tally): quote verbatim; axis/polarity correctly left null -- none of the three housing axes (density/use-permission/affordable-funding) describes a governance-restructuring 'Option 3' approval."
+  },
+  {
+    "id": "9b6bd4422d03",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law to appoint an interim director of the Housing Development Corporation, London, and a by-law to appoint an interim director of the London Middlesex Community Housing.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.'s 363 and 365, BE APPROVED.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED whatAYeaDid: the meeting's own enacted-by-laws list (post_motion_texts of the Council item-13 third-reading motion) shows Bill 363 = \"appoint an interim director of the Housing Development Corporation, London\" and Bill 365 = \"appoint an interim director of the London Middlesex Community Housing\" -- classifier had swapped in an unrelated bill (362, the 627 Central Ave/CPR grade-separation purchase, which reads in the SAME unanimous 13-0 bundle just above and isn't part of this 363/365 divided vote at all) and mis-stated 365 as a board discharge. Corrected to the verified bill text; added issue=housing (this + the 364/366 discharge triple are the concrete governance act implementing the same meeting's Housing Service Review Option 3, consistent with 0658be7e8003/462c68da91fc's own housing tag) and the appointment flag."
+  },
+  {
+    "id": "1d7007b6618b",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law to appoint an interim director of the Housing Development Corporation, London, and a by-law to appoint an interim director of the London Middlesex Community Housing.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No.'s 363 and 365, BE APPROVED.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Same Bill 363/365 swap as 9b6bd4422d03 (second reading of the same pair) -- corrected against the meeting's own enacted-by-laws text; issue=housing + appointment flag added for the same reason."
+  },
+  {
+    "id": "b630c3744775",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law to appoint an interim director of the Housing Development Corporation, London, and a by-law to appoint an interim director of the London Middlesex Community Housing.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No.'s 363 and 365, BE APPROVED.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Same Bill 363/365 swap as 9b6bd4422d03 (third reading/enactment of the same pair) -- corrected against the meeting's own enacted-by-laws text; issue=housing + appointment flag added for the same reason."
+  },
+  {
+    "id": "71ebfd330895",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law to discharge the current board members of the Housing Development Corporation, London, and a by-law to discharge the current board members of the London Middlesex Community Housing.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.'s 364 and 366, BE APPROVED.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED whatAYeaDid: the meeting's own enacted-by-laws list shows Bill 364 = \"discharge the current Board members of the Housing Development Corporation, London\" and Bill 366 = \"discharge the current Board members of the London Middlesex Community Housing\" -- classifier described both as appointments (that's actually Bills 363/365, see 9b6bd4422d03). This is a real vote-substance inversion: a yea here removed sitting board members, not appointed one. Corrected the action and dropped the appointment flag (nothing is being appointed); added issue=housing for the same reason as the 363/365 triple -- this is the governance act (discharging the incumbent boards) implementing the same meeting's Housing Service Review Option 3."
+  },
+  {
+    "id": "1d105ce1c1b2",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law to discharge the current board members of the Housing Development Corporation, London, and a by-law to discharge the current board members of the London Middlesex Community Housing.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No.'s 364 and 366, BE APPROVED.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Same Bill 364/366 appoint-vs-discharge inversion as 71ebfd330895 (second reading of the same pair) -- corrected against the meeting's own enacted-by-laws text; appointment flag dropped, issue=housing added."
+  },
+  {
+    "id": "2933b85c7869",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law to discharge the current board members of the Housing Development Corporation, London, and a by-law to discharge the current board members of the London Middlesex Community Housing.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No.'s 364 and 366, BE APPROVED.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Same Bill 364/366 appoint-vs-discharge inversion as 71ebfd330895 (third reading/enactment of the same pair) -- corrected against the meeting's own enacted-by-laws text; appointment flag dropped, issue=housing added."
+  },
+  {
+    "id": "7b9ec629567e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and Zoning By-law to permit Service Station and Convenience Commercial uses at 3493 Colonel Talbot Road.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated September 9, 2019 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend section 3.6.5, vi), of the 1989 Official Plan, by ADDING the subject site to the list of Locations of Convenience Commercial and Service Station uses, to permit Service Station and Convenience Commercial Uses",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Council item 8.1.19 text: identical substance to 5cf9a9e49377 (R6/R8 unchanged, only commercial use added) -- issue=none correct. Quote verbatim."
+  },
+  {
+    "id": "6aaae1ea138e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 3493 Colonel Talbot Road application back to the Civic Administration to further consider noise mitigation and site-layout impacts on neighbouring properties.",
+    "confidence": "high",
+    "quote": "Motion to refer the application back to the Civic Administration to further consider the following: a) noise mitigation measures be put in place to mitigate potential noise impacts to all neighbouring properties",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: same item, FAILED (5-8) referral, correctly hedged. Quote verbatim."
+  },
+  {
+    "id": "a4fe9739a93b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to prepare an amendment to the Business Licensing By-law adding Motor Vehicle Towing as a class of licence and to hold a public participation meeting on the change.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to prepare an amendment to the Business Licensing By-law to include Motor Vehicle Towing as a Class of Licence and hold a public participation meeting at a future meeting of the Community and Protective Services Committee",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full item 8.2.12 text (12-1): quote verbatim, no flag needed (concrete drafting directive, not a bare report-back ask)."
+  },
+  {
+    "id": "5448b6485723",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the motion to direct the Civic Administration to review the Special Events Policies and Procedures Manual and report back on possible amendments addressing evening-event disruption, Harris Park rules, and increased fines.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to review the City's \"Special Events Policies Manual\" and report back on possible amendments to the Manual to address the following matters",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full item 8.2.14 text (10-2 amendment adding part b): quote verbatim, informational_ask correct."
+  },
+  {
+    "id": "ddafee87a5a6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, receiving the communication on the Special Events Policies and Procedures Manual and directing the Civic Administration to review the Manual and report back on possible amendments.",
+    "confidence": "high",
+    "quote": "That Item 4.1(14), as amended, BE APPROVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full item 8.2.14 text (11-1, approving as amended): quote verbatim."
+  },
+  {
+    "id": "515d513a0dba",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recessed the Council meeting.",
+    "confidence": "high",
+    "quote": "That Council Recess.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full item 8.2.14 text (7-6 recess): quote verbatim, procedural flag correct."
+  },
+  {
+    "id": "462c68da91fc",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Option 3 of the City of London Housing Service Review and directed the Civic Administration to implement it, report quarterly to Council, and bring forward the by-laws needed to carry it out.",
+    "confidence": "medium",
+    "quote": "Option 3 identified in the reports, noted in a) above, BE APPROVED; c) the Civic Administration BE DIRECTED to take all necessary steps to implement the above-noted Option 3",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Council item 9.2.2 text (9-4 vote matched by voter list): quote is the verbatim 'approve parts b) through e)' motion; axis/polarity correctly null for the same governance-restructuring reason as 0658be7e8003."
+  },
+  {
+    "id": "433391c2e6af",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have introduced a by-law to rezone 307 Fanshawe Park Road East from a Holding Residential R1/Bonus zone to a Holding Residential R5 Special Provision zone, a higher-density designation.",
+    "confidence": "high",
+    "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting on October 1, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Holding Residential R1/ Bonus (h-5*h-54*h-89*R1-8*B-15) Zone TO a Holding Residential R5 Special Provision (h-5*h-54*h-89*R5-7 (*)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Committee item 3.3 text: quote verbatim; FAILED (2-2) correctly hedged 'Would have introduced...'; R1/Bonus -> R5 Special Provision is a genuine density increase (R5 = multi-family apartment vs R1 single-detached), density/expansive correctly assigned per corpus R-number precedent."
+  },
+  {
+    "id": "16b05acbb178",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adjourned the meeting.",
+    "confidence": "high",
+    "quote": "The meeting adjourned at 9:37 PM.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed trivial adjournment, quote verbatim."
+  },
+  {
+    "id": "f37949ad6cb0",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Area Speed Limit Program staff report back to the Civic Administration to consult with the London Transit Commission and report back on the effect a change to speed limits would have on transit service.",
+    "confidence": "high",
+    "quote": "the staff report dated September 24, 2019, with respect to an Area Speed Limit Program, BE REFERRED back to the Civic Administration in order to consult with the London Transit Commission and report back at a future meeting of the Civic Works Committee regarding the effect a change to speed limits would have on transit service",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Committee item 3.2 text (3-1): quote verbatim (whole clause, including 'London Transit Commission' and 'transit service'); pure referral (BE REFERRED, no AFFIRM_RE verb) correctly left axis/polarity null."
+  },
+  {
+    "id": "8fc8ac2f7e4f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to report back on the potential to repeal the by-law prohibiting homeowners from parking a vehicle in their driveway parallel to the roadway.",
+    "confidence": "high",
+    "quote": "Motion to approve that the Civic Administration report back with respect to the potential to repeal the by-law prohibiting homeowners from parking a vehicle in their driveway parallel to the road way.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Committee item 4.1 text: FAILED (2-2), correctly hedged 'Would have directed...'; informational_ask correct."
+  },
+  {
+    "id": "6cdb511bd735",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law to authorize a purchase and sale agreement for the acquisition of 275 Wellington Road from Andrew Thomas Tarling for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 389 BE APPROVED.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED whatAYeaDid: this meeting's own enacted-by-laws text for Bill 389 reads \"A by-law to authorize and approve an Agreement of Purchase and Sale ... and Andrew Thomas Tarling, for the acquisition of property located at 275 Wellington Road ... for the Wellington Gateway Project\" -- the same $365,000 Tarling purchase this Council approved via Closed Session the same day (item 9.1/6e3dccd91972, already correctly classified in this batch). The classified text instead described an unrelated, separately-voted (unanimous 13-0, not part of this batch) City-owned industrial-land sale on Swiftsure Court in Trafalgar Industrial Park -- no Bill number in this meeting's record is actually tied to that Swiftsure sale. Corrected to the verified Bill 389 text; issue stays none, matching the established road/civil-works-infrastructure precedent already applied to 6e3dccd91972/94c77edaffff/c528af1b41b5."
+  },
+  {
+    "id": "9c3cbcbda7db",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law to authorize a purchase and sale agreement for the acquisition of 275 Wellington Road from Andrew Thomas Tarling for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 389 BE APPROVED.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Same Bill 389 misattribution as 6cdb511bd735 (second reading) -- corrected against the meeting's own enacted-by-laws text."
+  },
+  {
+    "id": "d2c6b2047b2b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law to authorize a purchase and sale agreement for the acquisition of 275 Wellington Road from Andrew Thomas Tarling for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 389 BE APPROVED.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Same Bill 389 misattribution as 6cdb511bd735 (third reading/enactment) -- corrected against the meeting's own enacted-by-laws text."
+  },
+  {
+    "id": "08fdd5731d3f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Awarded the Automated Speed Enforcement Services contract to Redflex Traffic Systems (Canada) Limited and authorized the related agreements to implement the program.",
+    "confidence": "high",
+    "quote": "Redflex Traffic Systems (Canada) Limited, BE AWARDED the contract for the provision of Automated Speed Enforcement Services for a five (5) year period",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Council item 8.1.14 text (13-1): quote is verbatim part a); Automated Speed Enforcement is a distinct program from tracked transit/road-capacity axes -- issue=none correct."
+  },
+  {
+    "id": "5980e5bd2910",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Area Speed Limit Program staff report back to the Civic Administration to consult with the London Transit Commission and report back on the effect a change to speed limits would have on transit service.",
+    "confidence": "high",
+    "quote": "the staff report dated September 24, 2019, with respect to an Area Speed Limit Program, BE REFERRED back to the Civic Administration in order to consult with the London Transit Commission and report back at a future meeting of the Civic Works Committee regarding the effect a change to speed limits would have on transit service",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Council item 8.1.16 text (7-7, same voter split as the amendment below): quote verbatim, identical substance to f37949ad6cb0 -- referral, axis/polarity correctly null."
+  },
+  {
+    "id": "1afcbf6406b7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the proposed area speed limit to 30 km/hr, from the proposed 40 km/hr, for local residential streets.",
+    "confidence": "high",
+    "quote": "That part a) of the item related to the proposed area speed limit BE AMENDED to be 30 km/hr, from the proposed 40 km/hr, for local residential streets.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full item 8.1.16 text (7-7): quote verbatim; this sub-clause (30 vs 40 km/h on local streets) never itself mentions transit -- issue=none correct, distinct from the sibling referral motion that does."
+  },
+  {
+    "id": "2f957c93eb5d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added reduction of school-zone speed limits from 40 km/hr to 30 km/hr on local streets to the list of considerations referred back to the Civic Administration for consultation with the London Transit Commission.",
+    "confidence": "high",
+    "quote": "a new part b) iii) BE ADDED to the proposed motion, as follows: \"iii) reduction of the School Zone speed limits from 40 km/hr, to 30 km/hr on local streets\"",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full item 8.1.16 text (11-3): quote verbatim; this sub-motion's own text doesn't restate the transit-consultation context (only 'the proposed motion' is referenced) -- issue=none correctly follows the body-text-only convention."
+  },
+  {
+    "id": "ba457e405dfc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved adding reduction of school-zone speed limits from 40 km/hr to 30 km/hr on local streets to the list of considerations referred back to the Civic Administration for consultation with the London Transit Commission.",
+    "confidence": "high",
+    "quote": "iii) reduction of the School Zone speed limits from 40 km/hr, to 30 km/hr on local streets.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full item 8.1.16 text (13-1, 'the motion to approve part b)iii)... is put'): quote verbatim, same reasoning as 2f957c93eb5d."
+  },
+  {
+    "id": "173eeeae5db1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to bring forward a report on the potential impacts of extending the overnight parking ban season, expanding paid overnight parking permits, and lengthening the on-street parking time limit.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to bring forward a report to a future meeting of the Civic Works Committee with details on potential impacts and recommendations on implementing the following changes to parking restrictions",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Committee-sourced item 8.1.17 text (13-1): quote verbatim; 'BE DIRECTED to bring forward a report... with recommendations' is a report-back ask -- informational_ask and null axis/polarity correct."
+  },
+  {
+    "id": "e87f7740a3d4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have continued the Council session at that time to consider Item 3.3(8) of the 18th Report of the Planning and Environment Committee before the dinner break.",
+    "confidence": "high",
+    "quote": "That the Council session BE CONTINUED at this time, to consider Item 3.3 (8) of the 18th Report of the Planning and Environment Committee, prior to a dinner break.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full item 8.1.17 text: FAILED (6-7), correctly hedged 'Would have continued...'; quote verbatim."
+  },
+  {
+    "id": "6e3dccd91972",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted the offer to purchase 275 Wellington Road for the Wellington Gateway Project and approved the financing for the acquisition.",
+    "confidence": "high",
+    "quote": "the offer submitted by Andrew Thomas Tarling (the \"Vendor\"), to sell the subject property to the City, for the sum of $365,000.00 BE ACCEPTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Closed Session item 9.1 text (12-1, matched by voter list against the sibling 13-0 items in the same closed-session report): quote verbatim; motion never uses 'transit' in its own operative text (only a concurring officer's job title, 'Director, Rapid Transit') -- issue=none correctly follows established corpus precedent that this project is generic road infrastructure."
+  },
+  {
+    "id": "3a7dd2c4bfef",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and rezone 1339-1347 Commissioners Road West from a Residential R1/R5 zone to a Residential R8 Bonus zone, permitting higher-density residential development.",
+    "confidence": "high",
+    "quote": "the attached proposed revised by-law BE INTRODUCED at the Municipal Council meeting to be held on October 15, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above), to change the zoning of the subject property FROM a Residential R1/Residential R5 (R1-9/R5-3) Zone TO a Residential R8 Bonus (R8-4*B-_) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Committee item 3.4 text (4-1, matched by voter list against a same-tally sibling motion in the same item): quote verbatim; R1/R5 -> R8 Bonus is a genuine density increase (R8 = higher-density apartment class) -- density/expansive correctly assigned."
+  },
+  {
+    "id": "73a919e44d4e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved adding tree-protection and privacy-tree-replacement conditions to the site-plan review for 1339-1347 Commissioners Road West.",
+    "confidence": "high",
+    "quote": "the protection and preservation of trees along the northerly boundary (both shared and within the boundary vegetation) of the subject property, with the exception of invasive species or hazard trees",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Committee item 3.4 text: correctly distinguished from the sibling 4-1 main motion (3a7dd2c4bfef) by voter breakdown -- this is the separate part c)iv)/v) tree-and-privacy-tree vote; quote verbatim."
+  },
+  {
+    "id": "58efc3e23985",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adjourned the meeting.",
+    "confidence": "high",
+    "quote": "The meeting adjourned at 7:05 PM.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed trivial adjournment, quote verbatim."
+  },
+  {
+    "id": "b20ae98ede5f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Councillor Turner to speak longer than five minutes on the Core Area Informed Response and Resting Spaces Update item.",
+    "confidence": "high",
+    "quote": "Councillor Turner BE PERMITTED to speak longer than 5 minutes with respect to item 2.7(8) of the 11th Report of the Community and Protective Services Committee Report regarding the Core Area Informed Response and Resting Spaces Update",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Council item 8.1 text (12-2): quote verbatim, procedural flag correct."
+  },
+  {
+    "id": "b6a3cf43c673",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law to amend the Mayor's New Year's Honour List Policy to add a new nomination category, 'Distinguished Londoner,' selected by the Mayor.",
+    "confidence": "high",
+    "quote": "the proposed by-law as appended to the staff report dated October 8, 2019, BE INTRODUCED at the Municipal Council Meeting to be held on October 15, 2019, to amend By-law No. CPOL.-18-214, as amended, being \"Mayor's New Year's Honour List Policy\" to add a new category of nomination, being \"Distinguished Londoner\" to be selected by the Mayor",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Council item 8.2.4 text (13-1): quote verbatim."
+  },
+  {
+    "id": "8ea0bcf84ac2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the tree-protection site-plan condition for 1339-1347 Commissioners Road West by adding 'where possible' at its start, making it conditional.",
+    "confidence": "high",
+    "quote": "part c) iv) BE AMENDED by adding \"where possible\" at the beginning of the clause, to read as follows: \"c) iv) where possible, the protection and preservation of trees along the northerly boundary",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Council item 8.3.12 text: FAILED (6-8), correctly hedged 'Would have amended...'; quote verbatim."
+  },
+  {
+    "id": "29a983f9fbc4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the tree-protection site-plan condition for 1339-1347 Commissioners Road West, requiring preservation of trees along the northerly boundary.",
+    "confidence": "high",
+    "quote": "the protection and preservation of trees along the northerly boundary (both shared and within the boundary vegetation) of the subject property, with the exception of invasive species or hazard trees",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Council item 8.3.12 text (11-3, 'the motion to approve... part c)iv), is put' after the softening amendment failed): quote (the original, unsoftened part c)iv) text) verbatim and correctly distinct from the failed amendment's wording."
+  },
+  {
+    "id": "f5444e3ee169",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Council to continue through the agenda and break for dinner upon its completion.",
+    "confidence": "high",
+    "quote": "That the Municipal Council continue through the agenda and break for dinner upon completion of the agenda.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Council item 8.3.7 text: this item's itemTitle is a Queens Avenue parking-lot application, but the SECOND, separately-voted motion in the same item (9-5, matching this entry's tally exactly, distinct from the first motion's 14-0) is an unrelated dinner-break procedural motion -- same itemTitle-mismatch pattern the classifier caught elsewhere in this batch (d476a6731870); correctly identified, quote verbatim."
+  },
+  {
+    "id": "0902e222b12c",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Removed the proposed Electric Vehicle Charging user fee from the Fees and Charges By-law and referred the matter back to staff for a future report tied to the City's Climate Change action plan.",
+    "confidence": "high",
+    "quote": "the implementation of a user fee for Electric Vehicle Charging BE REMOVED from the proposed Fees and Charges By-law at this time, and the matter BE REFERRED back to staff for a future report related to Climate Change and the city's action plan",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full SPPC item 3.1 text (13-2): quote verbatim; clause has BE REMOVED + BE REFERRED with no AFFIRM_RE verb -- axis/polarity correctly left null (deferOnly)."
+  },
+  {
+    "id": "94c77edaffff",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law to authorize the purchase and sale agreement for the acquisition of property at 265 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 415, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full Council-item enacted-by-laws text (2019-10-29): Bill 415 = acquisition of 265 Wellington Road from Justin Graham Wright for the Wellington Gateway Project, matching the classified description exactly. Quote verbatim."
+  },
+  {
+    "id": "c528af1b41b5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law to authorize the purchase and sale agreement for the acquisition of property at 265 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 415, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: same Bill 415, second reading. Quote verbatim."
+  }
+]

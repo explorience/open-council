@@ -1,0 +1,611 @@
+[
+ {
+  "id": "9a0dc7ad2cc3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed, following a reconsideration vote, the Civic Administration to make the changes needed to hold Council meetings starting at 1:00 PM beginning with the 2022 term of Council, while continuing to base the schedule on the current meeting calendar.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to make the necessary changes to facilitate Council meetings to be held starting at 1:00 PM, beginning with the 2022 term of Council, while still being based on the current meeting schedule; it being noted that the 2022/2023 meeting calendar will reflect this change when it is brought forward to a future Corporate Services Committee meeting for consideration; and,",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.12 (Emergent Motions), 2021-12-07 Council, motion 2 (10-5). Genuine reconsideration of Item 14 clause 4.9 part b)i) 'a voting error was identified' (motion 1, leave+reconsideration both 15-0) -- quote verbatim-matched; 'following a reconsideration vote' qualifier correctly applied to this (the final) vote only."
+ },
+ {
+  "id": "c4cfc1e826ec",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Amended clause 3.3 to introduce a revised by-law rezoning 99 Southdale Road West from Urban Reserve and Environmental Review to Residential R9 Special Provision and Open Space zoning, with Site Plan Approval conditions and no further notice under section 34(17) of the Planning Act.",
+  "confidence": "medium",
+  "quote": "the proposed attached, revised, by-law (including the attached revised map) BE INTRODUCED at the Municipal Council meeting to be held on December 7, 2021, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM an Urban Reserve (UR4) and Environmental Review (ER) Zone TO a Residential R9 Special Provision Zone (R9-5(_) Zone and Open Space (OS4) Zone;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.8.1.17, motion 1 (14-1, the amended clause 3.3 itself, not the wrapper). Quote verbatim. Housing/application-approval/expansive correct: UR4+ER -> R9 residential rezoning approval with SPA conditions and s.34(17) no-further-notice, matches motion 0's staff-recommendation content plus the s.34(17) addition."
+ },
+ {
+  "id": "4289e0948d5f",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the application by Red Maple Properties for 1453-1459 Oxford Street East and 648-656 Ayreswood Avenue back to Civic Administration to negotiate an affordable-housing framework (units at 70% of average market rate for fifty years) and resolve sanitary sewer capacity issues, and to report back to a future Planning and Environment Committee meeting.",
+  "confidence": "medium",
+  "quote": "That the application by Red Maple Properties, relating to the properties located at 1453 to 1459 Oxford Street East and 648 to 656 Ayerswood Avenue BE REFERRED to the Civic Administration to undertake the following actions and to report back to a future meeting of the Planning and Environment Committee to: a) work with the applicant to ensure the appropriate framework is in place for the provision of affordable housing units at 70% of the average market rate for fifty years;",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.8.1.21, motion 1 (FAILED 7-8). Correctly hedged 'Would have referred...'. Referral = non-decision, axis/polarity correctly null."
+ },
+ {
+  "id": "8cdb2c327020",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved item 21, clause 3.7, refusing the requested Official Plan and Zoning By-law amendments for 1453-1459 Oxford Street East and 648-656 Ayreswood Avenue that would have permitted a higher-density multi-family residential rezoning, citing over-intensification and insufficient sanitary sewer capacity.",
+  "confidence": "medium",
+  "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone and Residential R1/Office Conversion (R1-6/OC4) Zone TO a Residential R9 Bonus/Neighbourhood Shopping Area (R9-7*B-_*H77/NSA3) Zone, BE REFUSED for the following reasons:",
+  "flags": [
+   "wrapper_preamble"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "Item 8.8.1.21, motion 2 ('The motion to approve item 21, clause 3.7, is put.', 13-2) -- a bare wrapper; the quoted refusal text is verbatim from motion 0's (unvoted, descriptive) clause 3.7 text, same item, legitimate same-item wrapper tracing (motion 1's referral amendment failed 7-8 so the original refusal recommendation stood for the vote). Issue/axis/polarity/whatAYeaDid/quote all correct -- BE REFUSED correctly flips fallback to restrictive/application-approval. ADDED missing 'wrapper_preamble' flag: this is exactly the corpus's own wrapper pattern (cf. c4cfc1e826ec's sibling and dozens of prior-batch precedents), and it was omitted here."
+ },
+ {
+  "id": "5d44db338e35",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part a) of the 4th and 5th Reports of the Governance Working Group, directing Civic Administration to report back on potential amendments to the Council Members' Expense Account Policy covering ward-wide mail-outs, home internet reimbursement, community/ward event spending, advertisement rules, and FCM/AMO conference registration.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to report back to the November 15 meeting of the Governance Working Group with respect to draft information related to the following potential amendments to the Council Members' Expense Account Policy, prior to moving any recommendations to the SPPC:",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.8.6.14 motion 1 (13-2, part a): report-back on expense-account policy amendments. Quote verbatim; informational_ask correct, issue=none correct (governance/council-administration, not a tracked issue)."
+ },
+ {
+  "id": "e875c6a94a3e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to make the changes needed to hold Council meetings starting at 1:00 PM beginning with the 2022 term of Council, while continuing to base the schedule on the current meeting calendar.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to make the necessary changes to facilitate Council meetings to be held starting at 1:00 PM, beginning with the 2022 term of Council, while still being based on the current meeting schedule; it being noted that the 2022/2023 meeting calendar will reflect this change when it is brought forward to a future Corporate Services Committee meeting for consideration; and,",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.8.6.14 motion 2 (12-3, part b)i): the ORIGINAL 1:00 PM meeting-start vote, later reconsidered as 9a0dc7ad2cc3 (10-5) due to a voting error. Quote verbatim; correctly carries no reconsideration qualifier since this is the superseded original. Issue=none correct."
+ },
+ {
+  "id": "7cfbb93fe320",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved forwarding the revised Council Members' Expense Account Policy to the Strategic Priorities and Policy Committee for approval, with the proposed changes to take effect for the next term of Council.",
+  "confidence": "high",
+  "quote": "the attached revised Council Members' Expense Account Policy BE FORWARDED to the Strategic Priorities and Policy Committee for approval; it being noted that the proposed changes would come into effect for the next term of Council; and",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.8.6.14 motion 7 (12-3, part d): forwards revised expense policy to SPPC. Quote verbatim; referral flag and issue=none correct."
+ },
+ {
+  "id": "f3bf146df077",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have added a bi-annual review of the Environmental Management Guidelines to the Planning and Environment Committee's Deferred Matters List.",
+  "confidence": "medium",
+  "quote": "the bi-annual review as outlined in the Environmental Management Guidelines BE ADDED to the Planning and Environment Committee Deferred Matters List;",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 3.8, motion 3 (FAILED 3-3): adds a bi-annual-review line to the Deferred Matters List. Correctly hedged 'Would have added...'. The substantive Guidelines adoption (motion 0) passed 6-0 and is out of the divided-vote universe. Issue=none correct -- 'Environmental Management Guidelines' does not hit the climate keyword list (no 'environmentally significant area' etc. in this clause)."
+ },
+ {
+  "id": "23a52ef20ab8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave leave, under section 18.4 of the Council Procedure By-law, to introduce a substantive motion on the Members of Council Proof of COVID-19 Vaccination Policy.",
+  "confidence": "high",
+  "quote": "That pursuant to section 18.4 of the Council Procedure By-law, leave BE GIVEN to introduce a substantive motion with respect to the Members of Council Proof of COVID-19 Vaccination Policy.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 11.2 motion 0 (14-1): leave to introduce a substantive COVID policy motion. Quote verbatim; procedural/issue=none correct."
+ },
+ {
+  "id": "4d7637efb232",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to bring forward an updated Members of Council Proof of COVID-19 Vaccination Policy aligned with the updated Mandatory Proof of COVID-19 Vaccination Administrative Policy to the next Corporate Services Committee meeting.",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE DIRECTED to bring forward an updated Members of Council Proof of COVID-19 Vaccination Policy that incorporates any changes to bring the Council Policy in line with the updated Mandatory Proof of COVID -19 Vaccination Administrative Policy, as verbally noted by the City Manager, to the next Corporate Services Committee.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 11.2 motion 1 (14-1): directs an updated COVID vaccination policy report-back. Quote verbatim; informational_ask/issue=none correct."
+ },
+ {
+  "id": "aac148ca89ec",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Convened Council in closed session to receive advice subject to solicitor-client privilege regarding funds related to a legal challenge of Quebec's Bill 21.",
+  "confidence": "high",
+  "quote": "That Council convene, in closed session, in order to receive advice subject to solicitor-client privilege, with respect to consideration of funds related to a legal challenge of Quebec's Bill 21.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 12.1.1 motion 2 (14-1): convene closed session re Bill 21 legal-challenge funds. Quote verbatim; procedural/issue=none correct -- distinct from motion 4 (978f0a2bd042) which is the actual $100k grant vote."
+ },
+ {
+  "id": "978f0a2bd042",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed the Civic Administration to provide a one-time grant of up to $100,000 to the joint legal challenges against Quebec's Bill 21 by the National Council of Canadian Muslims, the World Sikh Organization, and the Canadian Civil Liberties Association, funded from the operating budget contingency.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to provide a one-time grant of up to $100,000 to the joint legal challenges of Bill 21 by the National Council of Canadian Muslims, the World Sikh Organization, and the Canadian Civil Liberties Association, with the funding to be accommodated from the operating budget contingency.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Item 12.1.1 motion 4 ('Motion to approve part c)', 13-2); quoted text is verbatim part c) from motion 1, same item, legitimate wrapper tracing. Budget/levy-size/expansive matches the human-reviewed 0947f5f92e12 precedent (a real new $-commitment funded from operating-budget contingency, no printed Tax Levy line, read as expansive) -- checked reviewed-levy-rows.json entry for 0947f5f92e12 directly, pattern applies cleanly here too."
+ },
+ {
+  "id": "635ccc07c63d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have appointed Councillor J. Fyfe-Millar as Vice Chair for the term ending November 14, 2022.",
+  "confidence": "high",
+  "quote": "That Councillor J. Fyfe-Millar BE APPOINTED Vice Chair for the term ending November 14, 2022.",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.4.2 motion 0 (FAILED 1-14): Fyfe-Millar Vice Chair appointment. Correctly hedged 'Would have appointed...'. Appointment/issue=none correct (M. Hamou's competing appointment, 15-0, is unanimous and correctly outside the divided-vote manifest)."
+ },
+ {
+  "id": "23badf5329ce",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Readopted, under section 291(4)(c) of the Municipal Act, the amended 2022 operating budget for London Public Library in the gross expenditure amount of $21,741,937 and the tax levy amount of $21,741,937.",
+  "confidence": "medium",
+  "quote": "the amended 2022 operating budget for London Public Library BE APPROVED in the gross expenditure amount of $21,741,937 and the tax levy amount of $21,741,937;",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.10 motion 1 (13-1): s.291(4)(c) readoption of the 2022 Library operating budget. Quote verbatim. Axis/polarity correctly null per direct precedent (d747b0b5c3c0/08f4496ab2d0, checked directly): a readoption states the full post-amendment total, not a marginal change -- the actual levy deltas were already voted separately (see the P-case items below)."
+ },
+ {
+  "id": "9d234ee73f67",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Readopted, under section 291(4)(c) of the Municipal Act, the amended 2022 operating budget for Golf in the gross expenditure amount of $3,740,834 and the tax levy amount of $57,062.",
+  "confidence": "medium",
+  "quote": "the amended 2022 operating budget for Golf BE APPROVED in the gross expenditure amount of $3,740,834 and the tax levy amount of $57,062;",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.10 motion 3 (13-1): 2022 Golf readoption. Quote verbatim; null/null correct for the same readoption reason."
+ },
+ {
+  "id": "b4fe6656318c",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Readopted, under section 291(4)(c) of the Municipal Act, the amended 2022 operating budget (excluding London Public Library, Children's Services and Golf) in the gross expenditure amount of $989,370,443 and the tax levy amount of $672,905,283 after recognizing $9,430,132 of increased taxation from assessment growth, for a total amended 2022 operating budget tax levy of $701,849,363.",
+  "confidence": "medium",
+  "quote": "the amended 2022 operating budget, excluding London Public Library, Children's Services, and Golf BE APPROVED in the gross expenditure amount of $989,370,443 and the tax levy amount of $672,905,283 after recognizing $9,430,132 of increased taxation from assessment growth; it being noted that the amended total 2022 operating budget being readopted is the gross expenditure amount of $1,073,519,667 and the tax levy amount of $701,849,363 after recognizing $9,430,132 of increased taxation from assessment growth;",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.10 motion 4 (14-1): 2022 budget-excl-Library/Children's/Golf readoption, total $701,849,363 after assessment-growth note. Quote verbatim including the 'it being noted' total sentence; null/null correct per the d9f45401f04f assessment-growth precedent (checked directly) and the readoption rule."
+ },
+ {
+  "id": "04b577bd46f1",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Readopted, under section 291(4)(c) of the Municipal Act, the amended 2023 operating budget for London Public Library in the gross expenditure amount of $22,128,694 and the tax levy amount of $22,128,694.",
+  "confidence": "medium",
+  "quote": "the amended 2023 operating budget for London Public Library BE APPROVED in the gross expenditure amount of $22,128,694 and the tax levy amount of $22,128,694;",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.10 motion 5 (13-1): 2023 Library readoption. Quote verbatim; null/null correct."
+ },
+ {
+  "id": "c966cf904f8d",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Readopted, under section 291(4)(c) of the Municipal Act, the amended 2023 operating budget for Golf in the gross expenditure amount of $3,787,965 and the tax levy amount of $75,564.",
+  "confidence": "medium",
+  "quote": "the amended 2023 operating budget for Golf BE APPROVED in the gross expenditure amount of $3,787,965 and the tax levy amount of $75,564;",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.10 motion 7 (13-1): 2023 Golf readoption. Quote verbatim; null/null correct."
+ },
+ {
+  "id": "55bf632dbf7a",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Readopted, under section 291(4)(c) of the Municipal Act, the amended 2023 operating budget (excluding London Public Library, Children's Services and Golf) in the gross expenditure amount of $1,012,085,786 and the tax levy amount of $698,023,097, for a total amended 2023 operating budget tax levy of $729,063,058.",
+  "confidence": "medium",
+  "quote": "the amended 2023 operating budget, excluding London Public Library, Children's Services, and Golf BE APPROVED in the gross expenditure amount of $1,012,085,786 and the tax levy amount of $698,023,097; it being noted that the amended total 2023 operating budget being readopted is in the gross expenditure amount of $1,098,817,618 and the tax levy amount of $729,063,058.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.10 motion 8 (14-1): 2023 budget-excl readoption, total $729,063,058. Quote verbatim; null/null correct, same readoption rule."
+ },
+ {
+  "id": "1ccb290c1c4d",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Case #P-2 (Middlesex-London Health Unit inflationary pressures), increasing the 2022 operating budget and tax levy by $1,280,000.",
+  "confidence": "high",
+  "quote": "Case #P-2 - Middlesex London Health Unit - Inflationary Pressures - Operating Expenditure $1,280,000; Tax Levy $1,280,000 BE APPROVED;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.3 motion 2 (14-1): Case P-2 Health Unit, Tax Levy $1,280,000 (positive). Quote verbatim; budget/levy-size/expansive correct (net effect of passing = levy increase)."
+ },
+ {
+  "id": "ecb26c65e13b",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved Case #P-5a, reducing the 2022 Child Care operating budget and tax levy by $1,630,000 as part of a reduction in required investment.",
+  "confidence": "high",
+  "quote": "Case #P-5 - Child Care and Ontario Works - Reduction in Required Investment - Operating Expenditure Case #P-5a – Child Care - Operating Expenditure ($1,630,000); Tax Levy ($1,630,000)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.3 motion 5 (12-2): Case P-5a Child Care, Tax Levy ($1,630,000) (negative). Quote verbatim; restrictive correct."
+ },
+ {
+  "id": "0836e36584a3",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved Case #P-5B, reducing the 2022 Ontario Works required investment (and associated tax levy) by $1,143,000.",
+  "confidence": "medium",
+  "quote": "Case #P-5B - Ontario Works ($1,143,000)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.3 motion 6 (14-1): Case P-5B Ontario Works ($1,143,000). Quote verbatim. Cross-checked arithmetic: parent Case P-5's printed total (motion 0) is Tax Levy ($2,773,000) = P-5a's ($1,630,000) + P-5B's ($1,143,000) exactly, confirming the bare P-5B figure is itself the Tax Levy line (both Expenditure and Levy equal, matching P-5a's own pattern) even though the word 'Tax Levy' isn't repeated on this sub-line. Restrictive correct."
+ },
+ {
+  "id": "8e1d9ab1f06f",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved Case #P-6, reducing 2022 Infrastructure Gap and Community Building Projects operating expenditure and tax levy by $1,300,000.",
+  "confidence": "high",
+  "quote": "Case #P-6 - Infrastructure Gap and Community Building Projects - Reductions - Operating Expenditure ($1,300,000); Tax Levy ($1,300,000) BE APPROVED.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.3 motion 7 (9-6): Case P-6, Tax Levy ($1,300,000) (negative). Quote verbatim; restrictive correct."
+ },
+ {
+  "id": "1f36da35dd6d",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved Case #P-7 (only sub-case P-7c, Athletic Travel Grants; the Neighbourhood Decision Making Program and Neighbourhood Small Events Fund reduction options were not supported), reducing the 2022 Neighbourhood and Athletic Travel Grant Programs tax levy by $200,000.",
+  "confidence": "high",
+  "quote": "Case #P-7 - Neighbourhood Strategic Initiatives and Funding and Sports Services - Reduction to Neighbourhood and Athletic Travel Grant Programs - Operating Expenditure ($200,000); Tax Levy ($200,000) i. Case #P-7a – Neighbourhood Decision Making Program - NOT SUPPORTED ii. Case #P-7b – Neighbourhood Small Events Fund - NOT SUPPORTED iii. Case #P-7c – Athletic Travel Grants - Operating Expenditure ($200,000); Tax Levy ($200,000); and",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.5 motion 1 (14-1): Case P-7, Tax Levy ($200,000), with only sub-case P-7c (Athletic Travel Grants, itself printed at exactly $200,000) actually approved -- P-7a/P-7b explicitly 'NOT SUPPORTED' in the same clause. whatAYeaDid correctly narrows to P-7c only; figures reconcile exactly. Restrictive correct."
+ },
+ {
+  "id": "7ba612439c78",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Reserves and Reserve Funds Overview report by adding a new part directing the Civic Administration to consult with the Upper Thames River Conservation Authority on the need and ability to expand environmentally significant area monitoring, and to report back in the first quarter of 2022.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to consult with the Upper Thames River Conservation Authority with respect to the potential need and ability to facilitate additional monitoring of ESAs, and report back to the appropriate committee in the first quarter of 2022.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.5.7 motion 1 (11-4): adds a UTRCA-consultation report-back to the Reserves overview. Quote verbatim; climate issue correct ('Conservation Authority' keyword); informational_ask -> null/null correct."
+ },
+ {
+  "id": "c84602cca76d",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved clause 4.5 as amended, receiving the Reserves and Reserve Funds Overview for information (projections subject to annual review and adjustment) and incorporating the added direction to consult with the Upper Thames River Conservation Authority on environmentally significant area monitoring.",
+  "confidence": "medium",
+  "quote": "That the Reserves and Reserve Funds Overview BE RECEIVED for information; it being noted projections are subject to annual review and adjustment.",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "Item 8.5.7 motion 2 ('Approve clause 4.5 as amended.', 14-1) -- a bare wrapper combining motion 0 (receive-for-information, base clause) + motion 1's added UTRCA directive. Quoted text is verbatim from motion 0, same item, legitimate wrapper tracing. Issue/axis/polarity all correct (BE RECEIVED + informational ask -> null). ADDED missing 'wrapper_preamble' flag, same reasoning as 8cdb2c327020."
+ },
+ {
+  "id": "e7210eaee8d2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "First ballot round for the London Public Library Board vacancy produced no majority winner among the nominees.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 4.2 (SPPC 2022-01-18), first ballot round, 'Majority Winner: No majority' -- no operative motion text exists in source (label only: 'Appointment to the London Public Library Board'). Empty quote correctly reflects this; appointment/issue=none correct."
+ },
+ {
+  "id": "2ed4fd0cf8ec",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Second ballot round for the London Public Library Board vacancy produced a majority result, selecting Scott Andrew Collyer.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 4.2, second ballot round, 'Majority Winner: Scott Andrew Collyer' -- same no-text ballot-label situation. Empty quote correct; appointment/issue=none correct."
+ },
+ {
+  "id": "69367c168539",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received Councillor M. van Holst's communication on typical daytime office hours and took no action.",
+  "confidence": "high",
+  "quote": "That the communication from Councillor M. van Holst, dated January 9, 2022, with respect to typical daytime office hours, BE RECEIVED and no action be taken.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "SPPC item 4.3 motion 0 (12-1): receive van Holst office-hours communication, no action. Quote verbatim; informational_ask/issue=none correct."
+ },
+ {
+  "id": "0331aeabf720",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on a procedural step of the 1st Report of the Environmental and Ecological Planning Advisory Committee (item 14, clause 4.1); the source record does not preserve this motion's operative text, so its content cannot be verified.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.1.14 (Council 2022-01-25), 1st Report of Environmental and Ecological Planning Advisory Committee -- confirmed via direct meeting-JSON lookup that this item's divided sub-motion (13-1) carries no preserved operative text, consistent with the classifier's empty-text finding. issue=none/confidence=low correctly follows the ERA NOTES instruction rather than inferring from the title."
+ },
+ {
+  "id": "b3e0ab035cb0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law amending the Members of Council Proof of COVID-19 Vaccination Policy for the January 25, 2022 Council meeting, and took no further action on Councillor van Holst's related communications.",
+  "confidence": "high",
+  "quote": "on the recommendation of the City Clerk, the proposed by-law, as appended to the staff report dated January 10, 2022 to amend the \"Members of Council Proof of COVID-19 Vaccination Policy\", BE INTRODUCED at the Municipal Council Meeting to be held on January 25, 2022; and, b) that NO ACTION be taken with respect to the communications dated December 23, 2021 and January 6, 2022 from Councillor M. van Holst.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Item 8.3.12 motion 0 (13-1): introduces the COVID policy amendment by-law, no action on van Holst communications. Quote verbatim; issue=none correct."
+ },
+ {
+  "id": "7003f3111158",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received, at Council, Councillor M. van Holst's communication on typical daytime office hours and took no action.",
+  "confidence": "high",
+  "quote": "That the communication from Councillor M. van Holst, dated January 9, 2022, with respect to typical daytime office hours, BE RECEIVED and no action be taken.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Council item 8.5.6 motion 0 (12-3): same office-hours receive/no-action text as 69367c168539 (SPPC), now at Council. Quote verbatim; informational_ask/issue=none correct."
+ },
+ {
+  "id": "0a9e354942ff",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on a procedural step of the Corporate Services Committee's consideration of a Vacant Home Tax in London; the source record does not preserve this motion's operative text, so its content cannot be verified.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Corporate Services Committee item 2.2, 2022-01-31 -- confirmed via direct lookup: motion 1 (Passed 4-2) genuinely has an empty motion_texts array in source (distinct from motion 2, same 4-2 result, which is e421726e0402's full text). issue=none/confidence=low correctly follows ERA NOTES rather than inferring from title."
+ },
+ {
+  "id": "e421726e0402",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to begin a Request for Proposal for consultant services on a feasibility study and public benefit review of a Vacant Home Strategy (including but not limited to a Vacant Home Tax), and to continue monitoring other Ontario municipalities' experience with the tax.",
+  "confidence": "high",
+  "quote": "That Civic Administration BE DIRECTED to begin a Request for Proposal (RFP) for consultant services to prepare a feasibility study and public benefit review on a Vacant Home Strategy including but not limited to the implementation of a Vacant Home Tax and report back to a future meeting of Corporate Services Committee;",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Item 2.2 motion 2 (4-2): directs an RFP for a Vacant Home Strategy feasibility study. Quote verbatim; informational_ask -> null/null correct. Issue=none correct: 'Vacant Home Tax' is a distinct instrument from 'property tax'/'tax levy' (the budget keyword list requires those literal phrases), analogous to the Municipal Accommodation Tax exclusion in the codified conventions -- no budget/housing keyword actually present in the clause body."
+ },
+ {
+  "id": "dcf09a70f399",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the application for a Parental Alienation Awareness Day proclamation and took no action.",
+  "confidence": "high",
+  "quote": "That based on the application dated January 10, 2022 from Just Another Parent, April 25, 2022 BE RECEIVED and NO ACTION be taken.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "CSC item 4.1 motion 0 (4-1): Parental Alienation proclamation, received/no action. Quote verbatim; the item was later reconsidered same meeting (motion 2, unanimous re-vote 5-0, correctly outside the divided-vote manifest) -- this entry correctly represents the original 4-1 vote with no reconsideration qualifier needed. issue=none correct."
+ },
+ {
+  "id": "1138bd1502d8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Friends of Meadowlily Woods Community Association's request for a Secondary Plan for the Meadowlily Road Area to the Civic Administration for review and consideration in developing Special Area Policies for Meadowlily Road South, with a report back to a future Planning and Environment Committee meeting.",
+  "confidence": "high",
+  "quote": "That the communication BE REFERRED to the Civic Administration for review and for consideration in the development of Special Area Policies for Meadowlily Road South and to report back at a future meeting of the Planning and Environment Committee.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Planning and Environment Committee item 4.1 motion 1 (FAILED 3-3): referral of a Meadowlily Secondary Plan request. Correctly hedged 'Would have referred...'. Checked full body text: no housing keyword (no rezoning/official plan/dwelling-unit/density language) actually appears -- issue=none is consistent with the strict keyword vocabulary even though 'Secondary Plan' sounds housing-adjacent; polarity is null regardless (referral) so the practical stakes of this issue call are nil."
+ },
+ {
+  "id": "40d1a5e80cc5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Governance Working Group to discuss and report back to the Strategic Priorities and Policy Committee with recommendations on whether Council should continue as a unique part-time role or transition to a unique full-time role.",
+  "confidence": "high",
+  "quote": "That the Governance Working Group BE REQUESTED to discuss and report back to the Strategic Priorities and Policy Committee with their recommendations about Council continuing as a unique-part-time-role versus transitioning to a unique-full-time-role.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "SPPC item 4.10 motion 0 (10-4): requests GWG discussion of part-time vs full-time Council role. Quote verbatim; informational_ask/issue=none correct (governance, not a tracked issue)."
+ },
+ {
+  "id": "3499f43ae745",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved dissolving the Childcare Advisory Committee, with no new related committee established.",
+  "confidence": "high",
+  "quote": "the Childcare Advisory Committee BE DISSOLVED and no new related committee be established BE APPROVED.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "SPPC item 4.9 motion 1 (12-1, part a)vi): dissolves the Childcare Advisory Committee. Quote verbatim; issue=none correct (childcare governance isn't a tracked issue). Noted: the same item's part a)v) (new Housing Committee report-back) passed 14-0 unanimous (motion 3) and is correctly outside the divided-vote manifest -- not a missed classification."
+ },
+ {
+  "id": "34cb89aad44d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the revised Terms of Reference for the London Community Advisory Committees for enactment, and directed the Civic Administration to recruit for the resulting membership appointments.",
+  "confidence": "high",
+  "quote": "the attached revised Terms of Reference for the London Community Advisory Committees (LCAC) BE APPROVED for enactment; and ii) the Civic Administration BE DIRECTED to recruit for the membership appointments for all of the LCACs, included in part a) above, upon Council approval; BE APPROVED.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "SPPC item 4.9 motion 2 (11-3, part a)i+ii): LCAC Terms of Reference + recruitment. Quote verbatim; issue=none correct, matches GLOBAL_EXCLUDE 'terms of reference'."
+ },
+ {
+  "id": "8da0ae160f04",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended part b) to direct the Civic Administration to issue a Request for Proposal for consultant services to study and validate the number of vacant residential properties in London and report back on the scope of the problem and potential mitigation measures, narrowing the earlier committee recommendation for a full Vacant Home Strategy feasibility study.",
+  "confidence": "high",
+  "quote": "\"b) That Civic Administration BE DIRECTED to begin a Request for Proposal (RFP) for consultant services to study and validate the number of vacant residential properties in London and report back on the scope of the problem and potential mitigation measures to a future meeting of Corporate Services Committee;\"",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Council item 8.2.3 motion 0 (13-2): amends part b) to narrow the RFP to a vacant-residential-property count/validation study. Quote verbatim; informational_ask/issue=none correct, same Vacant-Home-Tax-is-not-'the tax levy' reasoning as e421726e0402."
+ },
+ {
+  "id": "9dbf05a879da",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, as amended, directing the Civic Administration to issue a Request for Proposal for consultant services to study and validate the number of vacant residential properties in London and report back on the scope of the problem and potential mitigation measures.",
+  "confidence": "high",
+  "quote": "That Civic Administration BE DIRECTED to begin a Request for Proposal (RFP) for consultant services to study and validate the number of vacant residential properties in London and report back on the scope of the problem and potential mitigation measures to a future meeting of Corporate Services Committee;",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Council item 8.2.3 motion 2 ('part b), of clause 2.2, as amended BE APPROVED', 11-4) -- wrapper; quoted text verbatim from motion 0, same item. informational_ask/issue=none correct."
+ },
+ {
+  "id": "035d0eb705f0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, at Council, the revised Terms of Reference for the London Community Advisory Committees for enactment, and directed the Civic Administration to recruit for the resulting membership appointments.",
+  "confidence": "high",
+  "quote": "the attached revised Terms of Reference for the London Community Advisory Committees (LCAC) BE APPROVED for enactment; ii) the Civic Administration BE DIRECTED to recruit for the membership appointments for all of the LCACs, included in part a) above, upon Council approval;",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Council item 8.4.11 motion 2 (12-3): LCAC Terms of Reference + recruitment, Council-level re-vote of the SPPC item. Quote verbatim; issue=none correct (GLOBAL_EXCLUDE)."
+ },
+ {
+  "id": "7420b81bb221",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, at Council, dissolving the Childcare Advisory Committee, with no new related committee established.",
+  "confidence": "high",
+  "quote": "vi) the Childcare Advisory Committee BE DISSOLVED and no new related committee be established.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Council item 8.4.11 motion 3 (13-1): Childcare Advisory Committee dissolution, Council-level. Quote verbatim; issue=none correct."
+ },
+ {
+  "id": "bb0100873874",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested, at Council, the Governance Working Group to discuss and report back to the Strategic Priorities and Policy Committee with recommendations on whether Council should continue as a unique part-time role or transition to a unique full-time role.",
+  "confidence": "high",
+  "quote": "That the Governance Working Group BE REQUESTED to discuss and report back to the Strategic Priorities and Policy Committee with their recommendations about Council continuing as a unique-part-time-role versus transitioning to a unique-full-time-role.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Council item 8.4.12 motion 0 (11-4): requests GWG discussion of part-time vs full-time Council role, Council-level. Quote verbatim; informational_ask/issue=none correct."
+ },
+ {
+  "id": "ac52ede5839a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to settle the expropriation of 220 Wellington Road South (Wellington Gateway Project) for $1,140,000 in compensation to A Team London Inc., pay up to $25,000 of the owner's legal costs, and authorized the Mayor and City Clerk to execute the purchase and interim lease agreements, with financing approved as set out in the staff report.",
+  "confidence": "high",
+  "quote": "offer to purchase the above property and settle all potential claims pursuant to the Expropriation Act on the basis of payment to the registered owner, A Team London Inc., of the total sum of $1,140,000.00 as full compensation for market value of the land taken, future business losses, disturbance damages and statutory interest, in connection with an acquisition of a commercial property located at 220 Wellington Road South, in the City of London;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Council item 9.1 motion 0 (13-1): 220 Wellington Road South expropriation settlement ($1,140,000 compensation + up to $25,000 legal costs). Quote verbatim. Checked full text for stray transit/budget keywords (e.g. 'road widening') -- none present; this is a property-acquisition/litigation settlement, not a budget-keyword or transit-keyword item. issue=none correct."
+ }
+]

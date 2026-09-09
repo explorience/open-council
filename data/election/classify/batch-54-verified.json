@@ -1,0 +1,601 @@
+[
+  {
+    "id": "c5b4159e473a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law authorizing the City's purchase of 92 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 372, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Second reading of Bill No. 372 (92 Wellington Rd purchase for Wellington Gateway Project); cross-checked against S. Turner's pecuniary-interest disclosure elsewhere in the same meeting, which explicitly names Bill No. 372 as the 92 Wellington Road purchase by-law -- attribution confirmed correct (this is exactly the Bill-mixup failure mode the classifier caught elsewhere in this batch; here it checks out). Reading-stage phrasing compliant."
+  },
+  {
+    "id": "04aeb8545161",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law authorizing the City's purchase of 92 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 372, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Third reading/enactment of Bill No. 372; same cross-check as second reading -- confirmed correct attribution to 92 Wellington Road. 'Gave third reading and enacted' matches motion's own 'Enactment' wording."
+  },
+  {
+    "id": "8d006e287e18",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to report back to Corporate Services Committee with a phased approach to reducing the effective tax rate on London Middlesex Community Housing Inc. buildings toward the residential tax rate, over four years.",
+    "confidence": "high",
+    "quote": "That Civic Administration BE DIRECTED to report back to Corporate Services Committee with a phased approach of reducing the effective tax rate for London Middlesex Community Housing Inc. (LMCH) buildings, over a period of four years, to be equivalent to the residential tax rate.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Correctly hedged (FAILED 3-3). LMCH tax-rate report-back directive -- issue=none is correct: 'London Middlesex Community Housing Inc.' does not hit any housing keyword (no 'affordable housing' etc in text); informational_ask flag correct (pure report-back, no implementation)."
+  },
+  {
+    "id": "4fbbcfff6d11",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning multiple parcels at 1284 and 1388 Sunningdale Road West and advised that red-line revisions to the draft-approved Kent Subdivision plan, including removal of a walkway block and park block and realignment of residential zone boundaries, may proceed.",
+    "confidence": "medium",
+    "quote": "a) the proposed by-law appended to the staff report dated November 30, 2020 BE INTRODUCED at the Municipal Council meeting to be held on December 8, 2020 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Residential R1 Special Provision (R1-3(8)) Zone and Holding Residential R6/Neighbourhood Facility (h-71*h-95*h-109*R6-3/NF1) Zone TO a Holding Residential R1/R5/R6 (h-71*h-95*h-109*R1-3/R5-7/R6-3) Zone; FROM an Open Space (OS1) Zone TO a Holding Residential R1 (h*h100*R1-5) Zone; FROM a Holding Residential R1 Special Provision (h*h-100*R1-3(8)) Zone TO a Holding Residential R1/R4 Special Provision (h*h-100*R1-3(8)/R4-6(*)) Zone; FROM a Holding Residential R6 (h*h-54*h-71*h-95*h-100*R6-5) Zone TO a Holding Residential R1/R4/R6 (h*h-54*h-71*h-95*h-100*R1-1/R4-6(*)/R6-5) Zone; and FROM a Holding Residential R6/R7/R8 (h*h-54*h-71*h-95*h-100*R6-5/R7*h15*D75/R8*H15*D75) TO a Holding Residential R4/R6/R7/R8 Special Provision (h*h-54*h-71*h-95*h-100*R4-6(*)/R6-5/R7*h15*D75/R8*H15*D75) Zone; b) the Civic Administration BE ADVISED that the Municipal Council supports the proposed red-line revisions to the draft-approved plan of subdivision as submitted by Auburn Developments Ltd., prepared by Stantec Consulting Ltd. (Drawing No. 1, Project No. 161403100 dated April 30, 2020), which shows the extension of Shields Place, removal of the Walkway Block (previously block 41), Park Block (previously Block 40) and property realignment between blocks 19 and 20 (previously blocks 20, 21) and property realignment between blocks 15 and 16 SUBJECT TO the conditions contained in Appendix ‘A-2’ appended to the staff report dated November 30, 2020; and,",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Full PEC 2020-11-30 item 3.1 text loaded independently. Quote verified verbatim (parts a+b joined) against source. Issue=housing correct (Z-9216 hits the housing structural-ID regex). Axis=application-approval is right call, not density: no 'maximum density/units per hectare' figure appears anywhere in this clause (unlike sibling c05301f23334), so the density content-axis pattern has nothing to match and the generic approve/deny fallback is the correct axis per direction-rules.ts. Polarity=expansive matches the clean 5-1 PASS with no denial verb. whatAYeaDid states the concrete action (introduced rezoning by-law + advised support for red-line subdivision revisions) with no stance verb."
+  },
+  {
+    "id": "c05301f23334",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws amending the Official Plan, The London Plan, and the zoning by-law to permit a 17-storey, 226-units-per-hectare mixed-use commercial/residential apartment building at 1761 Wonderland Road North, including 12 affordable rental units.",
+    "confidence": "high",
+    "quote": "a) the proposed by-law appended to the staff report dated November 30, 2020 as Appendix “A\" BE INTRODUCED at the Municipal Council meeting to be held on on December 8, 2020 to amend the Official Plan for the City of London (1989) to ADD a policy to Section 10.1.3 – “Policies for Specific Areas” to permit a mixed-use commercial/residential apartment building within the Neighbourhood Commercial Node designation having a maximum residential density of 226 units/ha; b) the proposed by-law appended to the staff report dated November 30, 2020 as Appendix “B\" BE INTRODUCED at the Municipal Council meeting to be held on December 8, 2020 to amend The London Plan to ADD a new policy to the Specific Policies for the Shopping Area Place Type to permit a mixed-use commercial/residential apartment building having a maximum height of 63 metres, 17 storeys, exclusive of the mechanical penthouse, and by ADDING the subject lands to Map 7 - Specific Area Policies – of The London Plan;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Full PEC 2020-11-30 item 3.2 text loaded. Quote verbatim (parts a+b joined). Issue=housing correct (OZ-9178 in title). Axis=density correct: clause explicitly states 'maximum residential density of 226 units/ha' and a new London Plan policy permitting the apartment building -- a real density figure being established, not just a generic approval. Polarity=expansive matches clean 5-1 PASS, no denial. whatAYeaDid's '17-storey, 226-units-per-hectare... including 12 affordable rental units' matches the source (12 one-bed units at <=85% AMR, 50-yr affordability) exactly -- no title/operative mismatch."
+  },
+  {
+    "id": "3b5773f04faa",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law amending The London Plan to add new policies and a map for Protected Major Transit Station Areas.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 6, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "First reading of Bill No. 6 (PMTSA London Plan amendment). Wrapper-only text ('Introduction and First Reading of Bill No. 6, BE APPROVED') -- axis null is correct per the reading-ladder convention (no content signal in a bare reading motion). Reading-stage phrasing compliant."
+  },
+  {
+    "id": "f70654d4bb65",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law amending The London Plan to add new policies and a map for Protected Major Transit Station Areas.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 6, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Second reading of Bill No. 6; same as above, compliant."
+  },
+  {
+    "id": "c6c73f31cb92",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law amending The London Plan to add new policies and a map for Protected Major Transit Station Areas.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 6, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Third reading/enactment of Bill No. 6; motion's own text says 'Third Reading and Enactment of Bill No. 6, BE APPROVED' -- 'enacted' language correctly triggered by the motion's own text per convention."
+  },
+  {
+    "id": "8186ed4be295",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a London Plan amendment adding new Protected Major Transit Station Area policies and mapping directing greater density and mix of uses near planned higher-order transit stations, and forwarded the by-law to the Minister of Municipal Affairs and Housing for approval.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Director, City Planning and City Planner, based on the application by The Corporation of the City of London, relating to Protected Major Transit Station Areas (PMTSAs), the proposed by-law appended to the staff report dated November 30, 2020 BE INTRODUCED at the Municipal Council meeting to be held on December 8, 2020 to amend The London Plan, 2016 TO ADD new policies and a map pertaining to Protected Major Transit Station Areas and the by-law BE FORWARDED to the Minister of Municipal Affairs and Housing for approval;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Full Council 2020-12-08 item 8.1.8 text loaded, quote verbatim, result 13-1 PASS confirmed matching a separately-recorded 2-12 FAILED referral motion in the same item (d9b4eb0afa74, correctly hedged and null per the referral flag). Issue=housing per corpus keyword-count convention (official-plan + O-9208 code hits outweigh transit-cluster hits) is a documented, consistently-applied methodology choice, not an error -- I could not find a rule that would flip this to transit given the current issue-rules.ts scoring is keyword-based, not topic-based. Axis=application-approval correct: this specific clause forwards the PMTSA by-law to the Minister without itself restating a density/units-per-hectare figure (those live in the by-law text being forwarded, not quoted here), so the generic fallback (not density) is the right axis. Polarity=expansive matches the clean PASS."
+  },
+  {
+    "id": "d9b4eb0afa74",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the matter of Protected Major Transit Station Areas back to the Planning and Environment Committee for additional industry consultation, with a report back within 60 days.",
+    "confidence": "high",
+    "quote": "That the matter of Protected Major Transit Station Areas BE REFERRED back to the Planning and Environment Committee in order for additional consultation with the industry, with a report back within 60 (sixty) days.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Correctly hedged (FAILED 2-12) and correctly null (referral flag; PMTSA re-referral for industry consultation, no approve/deny content). Quote verbatim against the same item 8.1.8 record confirmed above."
+  },
+  {
+    "id": "87b16c05d654",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the pending motion on Taxation of Properties Owned by London Middlesex Community Housing Inc. to add a part directing the Civic Administration to report back with a phased approach to reducing the effective tax rate on LMCH buildings toward the residential rate over four years, including consultation with the County of Middlesex.",
+    "confidence": "high",
+    "quote": "That clause 2.1 BE AMENDED to add the following new part b), as follows: \"b)      the Civic Administration BE DIRECTED to report back to Corporate Services Committee with a phased approach of reducing the effective tax rate for London Middlesex Community Housing Inc. (LMCH) buildings, over a period of four years, to be equivalent to the residential tax rate, and with the report to include information related to consultation with the County of Middlesex with respect to this matter.\"",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Correctly hedged (FAILED 7-8). Amendment to the pending LMCH tax-rate motion -- issue=none correct (no housing keyword hit), informational_ask correct."
+  },
+  {
+    "id": "0d9ee1a72824",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information the staff report on Taxation of Properties Owned by London Middlesex Community Housing Inc.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the staff report dated November 30, 2020, entitled “Taxation of Properties Owned by London Middlesex Community Housing Inc.,\" BE RECEIVED for information.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Report received for information on LMCH taxation -- issue=none correct (no keyword hit), procedural flag correct."
+  },
+  {
+    "id": "a171524980f7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on the Western Fair Association ground lease and accepted Base Rent of $615,000 per annum for the next ten-year term commencing January 1, 2021, subject to an annual escalation of up to 3%.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, with the concurrence of the Director, Financial Services, on the advice of the Manager of Realty Services, with respect to the Ground Lease dated January 1, 2016, between the City and Western Fair Association (the “Ground Lease”) in relation to the lease of lands known as the Western Fair District: a)     the staff report dated November 30, 2020 BE RECEIVED for information; and, b)     Base Rent in the amount of $615,000.00 per annum BE ACCEPTED for each year of the next ten (10) year term commencing January 1, 2021, subject to an annual rent escalation of up to 3% per year, as provided in Section 5.01(b) of the Ground Lease.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Western Fair ground lease report + Base Rent acceptance -- issue=none correct (no tracked-issue keyword; a real-estate lease matter, not a levy/budget line), procedural flag reasonable."
+  },
+  {
+    "id": "5b259d12ed89",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law confirming the proceedings of the December 8, 2020 Council meeting.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 1, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "First reading, Dec 8 2020 confirming by-law (Bill No. 1) -- routine, issue=none correct."
+  },
+  {
+    "id": "c0772bac592d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law confirming the proceedings of the December 8, 2020 Council meeting.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 1, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Second reading, same Bill No. 1 confirming by-law -- compliant."
+  },
+  {
+    "id": "8cb5c9dfda1a",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Amended Business Case #9, Growing a Film Sector in London, to set its annual funding allocation at $300,000.",
+    "confidence": "medium",
+    "quote": "Motion to approve part b) of the amendment as follows: b)       Business Case #9 (ADDED) – Parks and Recreation – Implementation of Strategic Objectives Related to Growing a Film Sector in London” BE AMENDED to increase the annual funding allocation to $300,000",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Business Case #9 first amendment (raise allocation to $300,000) -- funding source not yet specified at this stage (only fixed to Economic Development Reserve Fund in the following amendment, 7e14ccfbf0ad/cd2845327f06), so the tax-levy effect of this specific clause is genuinely undetermined -- null polarity defensible under the 'funding-source swap' / 'no derivable dollar line at this stage' convention. Quote verbatim."
+  },
+  {
+    "id": "7e14ccfbf0ad",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved Business Case #9, Growing a Film Sector in London, as amended to set the annual funding allocation at $300,000 and change its funding source to the Economic Development Reserve Fund rather than the tax levy.",
+    "confidence": "medium",
+    "quote": "Motion to approve Business Case #9, as amended.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Business Case #9 approved as amended, funding source switched to Economic Development Reserve Fund rather than tax levy -- textbook funding-source-swap-with-$0-delta case, null polarity correct per convention. Quote verbatim."
+  },
+  {
+    "id": "cd2845327f06",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved Business Case #9, Growing a Film Sector in London, as further amended.",
+    "confidence": "low",
+    "quote": "Approve Business Case #9, as further amended.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Bare wrapper ratification ('Approve Business Case #9, as further amended') -- no dollar figures in this clause's own text; null polarity correct (no derivable dollar line), consistent with the funding-source swap already established in the prior two rows."
+  },
+  {
+    "id": "9ed992fb7625",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Reduced the pending Business Case #4B (City of London Infrastructure Gap reserve contribution) by $500,000 annually, revising its tax levy impact from $1,000,000 / $1,750,000 / $2,500,000 (2021/2022/2023) to $1,000,000 / $1,250,000 / $1,500,000.",
+    "confidence": "high",
+    "quote": "That Business Case #4B: City of London Infrastructure Gap, BE REDUCED by $500,000 annually, with the revised tax levy impacts to be as follows:\n\n2021 - 1,000,000\n\n2022 - 1,250,000\n\n2023 - 1,500,000",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Confirmed the claimed escribe split-vote artifact: SPPC 2020-12-10 item 4.1's motion block 15 (BE REDUCED text, empty result) is immediately followed by motion block 16 (empty text, 'Motion Passed (9 to 6)') -- verified directly from the meeting JSON, not just taken on the classifier's word. Quote verbatim against block 15. Polarity=restrictive correct: reduces BC#4B's annual levy contributions from the previously-amended 1.0M/1.75M/2.5M (set in the omnibus motion) down to 1.0M/1.25M/1.5M -- a real levy-size decrease, correctly signed against the pending figure per the amendment-vs-pending convention. whatAYeaDid states both the old and new figures as required."
+  },
+  {
+    "id": "374735d9976b",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved the revision to Business Case #4B, the City of London Infrastructure Gap reserve contribution, as amended.",
+    "confidence": "low",
+    "quote": "Approve the revision to BC #4B, as amended.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Bare wrapper ratification of the BC#4B revision -- no dollar figures restated in this clause's own text; null polarity correct (no derivable dollar line in this specific quote), figures already captured directionally in the paired 9ed992fb7625 row."
+  },
+  {
+    "id": "137c80ec8730",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have reduced Business Case 7B, the Core Area Action Plan, by $825,000 across 2021 to 2023 to eliminate the four-year Core Area Ambassador Pilot Program.",
+    "confidence": "high",
+    "quote": "That Business Case 7B: Core Area Action Plan, BE AMENDED by reducing the annual allocation for 2021, 2022 and 2023, in the amount of $825 K, to eliminate the 4 year Core Area Ambassador Pilot Program.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Confirmed FAILED 2-11 in source (P. Van Meerbergen's motion, SPPC 2020-12-10 item 4.1). Correctly hedged 'Would have reduced...'. Quote verbatim. Polarity=restrictive: motion cuts BC7B's annual allocation by $825K to eliminate the 4-year Core Area Ambassador pilot -- a real spending/levy reduction; no alternate funding source is named anywhere in the clause, so treating the $825K figure as the levy-size delta (rather than requiring a separate 'Net Levy' label) is the correct reading, consistent with how Business Case allocations are treated elsewhere in this same item when no reserve-fund swap is stated."
+  },
+  {
+    "id": "2f1ba95f03a3",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved the revised 2021 to 2023 Golf operating budget, including a 2021 net budget of $40,255 and a combined 2022-2023 net budget of $132,626.",
+    "confidence": "medium",
+    "quote": "Motion to approve part b) b)      Golf\n\n     i)       the revised 2021 budget for Golf BE APPROVED in the gross amount of $3,695,630 and net amount of $40,255; \n\n     ii)      the revised 2022 to 2023 budget for Golf BE APPROVED in the gross amount of $7,528,799 and net amount of $132,626.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Golf operating budget approval (2021 net $40,255; 2022-23 net $132,626) -- this restates a composite service-area budget total rather than a marginal increase/decrease, so treating it as non-directional (null) rather than force-fitting expansive/restrictive is correct; no single derivable delta stated."
+  },
+  {
+    "id": "01465f51f33f",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved the revised 2021 to 2023 operating budget for all City service areas apart from the Middlesex-London Health Unit, Golf, and Children's Services, in a 2021 net amount of $657,542,662 (after $8,852,749 of increased taxation from assessment growth) and a combined 2022-2023 net amount of $1,389,138,809.",
+    "confidence": "medium",
+    "quote": "Motion to approve part d) d)      All Other Areas\n\n     i)      the revised 2021 budget, excluding Middlesex-London Health Unit, Golf, and Children’s Services BE APPROVED in the net amount of $657,542,662 after recognizing $8,852,749 of increased taxation from assessment growth; and 2021 gross expenditures equal to $968,398,612;\n\n     ii)      the revised 2022 to 2023 budget, excluding Middlesex-London Health Unit, Golf, and Children’s Services BE APPROVED in the gross amount of $2,015,476,425 and net amount of $1,389,138,809;",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "'All Other Areas' composite operating budget approval, net figures stated but this is a bottom-line total covering the whole remaining budget (not a marginal change) -- null polarity correct, consistent treatment with sibling total-budget rows."
+  },
+  {
+    "id": "a587bb9b1f9c",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved the Total Budget summary, noting a 2021 total tax levy of $673,580,833 net (after $8,852,749 of increased taxation from assessment growth) and a combined 2022-2023 forecasted tax levy of $1,422,754,073 net.",
+    "confidence": "medium",
+    "quote": "Motion to approve part e) e)      Total Budget\n\n     i)      it being noted that the revised total 2021 tax levy is the net amount of $673,580,833 after recognizing $8,852,749 of increased taxation from assessment growth; and total 2021 gross expenditures equal to $1,039,162,202; and, \n\n     ii)     it being noted that the revised total 2022 to 2023 forecasted tax levy is equal to the gross amount of $2,159,988,704 and net amount of $1,422,754,073.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Total Budget summary noting figures -- same composite-total reasoning as above, null correct."
+  },
+  {
+    "id": "a0c9f6a93504",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Readopted the amended 2021 ($228,419,000), 2022 ($290,668,000), and 2023 ($392,039,000) capital budgets and approved in principle the 2024-2029 capital forecast of $1,546,794,000.",
+    "confidence": "medium",
+    "quote": "That, in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the capital budget (Appendix B), it being noted the 2021, 2022 and 2023 budget figures reflect the exclusion of the Master Accommodation Plan as approved via the “Master Accommodation Plan Update and Procurement Process” report (SPPC, Nov 17, 2020, Agenda Item 2.1) approved at the Council meeting on November 24, 2020: a)     the amended 2021 capital budget BE READOPTED in the amount of $228,419,000. b)     the amended 2022 capital budget BE READOPTED in the amount of $290,668,000. c)     the amended 2023 capital budget BE READOPTED in the amount of $392,039,000. d)     the amended 2024-2029 capital forecast BE APPROVED in principle the amount of $1,546,794,000.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Capital budget readoption + 2024-29 forecast approval in principle -- composite multi-year capital totals, not a marginal directional change; null correct."
+  },
+  {
+    "id": "1de168466ef0",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved dissolving the Housing Development Corporation, London (HDC), integrating its affordable housing portfolio into the City's corporate structure by Q2 2021, and authorized the Acting Managing Director, Housing, Social Services and Dearness Home to implement the governance review's recommendations.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to bring forward the necessary by-laws and documentation to dissolve Housing Development Corporation, London (HDC) and to integrate the affordable housing portfolio into the Corporation of City of London’s Corporate Structure with an implementation timeline of Q2 2021",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Full SPPC 2020-12-16 item 4.1 text loaded, quote verbatim (clause c), PASS 12-3 confirmed. Issue=housing correct: 'affordable housing portfolio' is a literal, direct keyword hit (classifier's own correction from an initial 'none' call is validated by re-reading the source). Axis=application-approval correct (generic fallback -- BE AUTHORIZED/BE DIRECTED verbs, no density content). Polarity=expansive matches the clean PASS. whatAYeaDid accurately summarizes all four operative clauses (receive report, authorize implementation, dissolve HDC + integrate portfolio by Q2 2021) without overstating."
+  },
+  {
+    "id": "1599984864a1",
+    "issue": "policing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Received a communication from the Chair of the London Police Services Board and the Chief of Police, and approved the protocol on Police Services Business Plan timelines described in it.",
+    "confidence": "high",
+    "quote": "That the communication dated November 17, 2020 from Dr. J. Sukhera, Chair, London Police Services Board and S. Williams, Chief of Police, BE RECEIVED and the protocol therein BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Full SPPC 2020-12-16 item 5.1 text loaded, quote verbatim (the entire one-sentence motion), PASS 14-1 confirmed. Issue=policing correct: 'London Police Services Board' and 'Chief of Police' both literal keyword hits. Axis=application-approval is the only content axis available (no budget-size language in this protocol-timelines communication) -- correct generic fallback. Polarity=expansive matches PASS; the clause has a genuine BE APPROVED verb (approving the protocol), not merely BE RECEIVED, so this is a real decision, not an informational-only receipt."
+  },
+  {
+    "id": "eddb1a73a9ac",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law respecting the City's 2020-2023 Multi-Year Tax Supported Operating and Capital Budget.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 33 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "First reading of Bill No. 33 (2020-2023 Multi-Year Budget by-law) -- wrapper-only, axis null correct. Note: automated stance-verb scan flagged 'Supported' but this is a false positive -- it's from the by-law's own official title 'Tax Supported Operating and Capital Budget', not a voter-stance verb; whatAYeaDid uses 'Gave first reading to', no actual stance verb."
+  },
+  {
+    "id": "812797fcaa37",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law respecting the City's 2020-2023 Multi-Year Tax Supported Operating and Capital Budget.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No 33 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Second reading of Bill No. 33 -- same false-positive note as above (title contains 'Tax Supported'); compliant reading-stage phrasing."
+  },
+  {
+    "id": "80323528af64",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law respecting the City's 2020-2023 Multi-Year Tax Supported Operating and Capital Budget.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 33 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Third reading/enactment of Bill No. 33 -- motion's own text says 'Third Reading and Enactment... BE APPROVED', enactment language correctly triggered. Same 'Tax Supported' false-positive note."
+  },
+  {
+    "id": "7413d3ed0a81",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved Case #4, a $1,630,000 reduction in Children's Services' required 2021 investment due to COVID-19 impacts, with a Net Levy reduction of $1,630,000.",
+    "confidence": "high",
+    "quote": "That Item 4.1, part d),  Case #4 BE APPROVED. d)      Case #4 - Children's Services - Reduction in Required Investment in 2021 due to impacts of COVID-19 - Operating Expenditure ($1,630,000); Net Levy ($1,630,000), BE APPROVED;",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Full Council 2021-01-12 item 8.5.5.3 text loaded (this is the Council-level ratification vote for Case #4, distinct from the earlier SPPC recommendation), quote verbatim, PASS 12-1 (one Nay, one Recuse -- P. Van Meerbergen's declared pecuniary interest) confirmed directly from the vote rows. Polarity=restrictive correct: Net Levy shown as ($1,630,000) in parentheses = a levy reduction (COVID-19 investment cut), correctly read as restrictive per the motion's own printed Tax Levy line."
+  },
+  {
+    "id": "87a544f49888",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved Case #9, referring the London Community Ideas for Film Industry Development document to the Civic Administration and amending Business Case #9 to set the annual funding allocation at $300,000, funded from the Economic Development Reserve Fund rather than the tax levy.",
+    "confidence": "medium",
+    "quote": "That Item 4.1, part i), Case #9 BE APPROVED. i)     Case #9 - Parks and Recreation - Implementation of Strategic Objectives Related to Growing a Film Sector in London\n\n      i)       the document entitled “London Community Ideas for Film Industry Development”, as submitted by Councillors M. van Holst and P. Squire, BE REFFERED to the Civic Administration for consideration;\n\n      ii)      Business Case #9 - Implementation of Strategic Objectives Related to Growing a Film Sector in London BE AMENDED to increase the annual funding allocation to $300,000; and\n\n      iii)      the above-noted amended Business Case #9 BE FURTHER AMENDED by revising the source of funding to be from the Economic Development Reserve Fund;",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council-level ratification of Case #9 (film-sector funding), same funding-source-swap-to-reserve-fund pattern as the SPPC-level rows above -- null correct."
+  },
+  {
+    "id": "8b2f3fe6d958",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved the revised 2021 to 2023 Golf operating budget, including a 2021 net budget of $40,255 and a combined 2022-2023 net budget of $132,626.",
+    "confidence": "medium",
+    "quote": "That Item 4.5, part b), BE APPROVED: b)  Golf\n\n     i)      the revised 2021 budget for Golf BE APPROVED in the gross amount of $3,695,630 and net amount of $40,255; \n\n     ii)     the revised 2022 to 2023 budget for Golf BE APPROVED in the gross amount of $7,528,799 and net amount of $132,626.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council-level ratification of the Golf operating budget -- composite total, null correct, consistent with 2f1ba95f03a3."
+  },
+  {
+    "id": "7ba03c8e164e",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved the operating budget for all other City service areas and the Total Budget summary, noting a 2021 total tax levy of $673,580,833 net and a combined 2022-2023 forecasted tax levy of $1,422,754,073 net.",
+    "confidence": "medium",
+    "quote": "That Item 4.5, parts d) and e), BE APPROVED. d) All Other Areas\n\n      i)      the revised 2021 budget, excluding Middlesex-London Health Unit, Golf, and Children’s Services BE APPROVED in the net amount of $657,542,662 after recognizing $8,852,749 of increased taxation from assessment growth; and 2021 gross expenditures equal to $968,398,612;\n\n     ii)      the revised 2022 to 2023 budget, excluding Middlesex-London Health Unit, Golf, and Children’s Services BE APPROVED in the gross amount of $2,015,476,425 and net amount of $1,389,138,809; e) Total Budget\n\n     i)      it being noted that the revised total 2021 tax levy is the net amount of $673,580,833 after recognizing $8,852,749 of increased taxation from assessment growth; and total 2021 gross expenditures equal to $1,039,162,202; and, \n\n     ii)     it being noted that the revised total 2022 to 2023 forecasted tax levy is equal to the gross amount of $2,159,988,704 and net amount of $1,422,754,073.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council-level ratification of 'All Other Areas' + Total Budget -- composite totals, null correct, consistent with 01465f51f33f/a587bb9b1f9c."
+  },
+  {
+    "id": "4ad0024b0bcc",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Readopted the amended 2021 ($228,419,000), 2022 ($290,668,000), and 2023 ($392,039,000) capital budgets and approved in principle the 2024-2029 capital forecast of $1,546,794,000.",
+    "confidence": "medium",
+    "quote": "That, in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the capital budget (Appendix B), it being noted the 2021, 2022 and 2023 budget figures reflect the exclusion of the Master Accommodation Plan as approved via the “Master Accommodation Plan Update and Procurement Process” report (SPPC, Nov 17, 2020, Agenda Item 2.1) approved at the Council meeting on November 24, 2020: a)     the amended 2021 capital budget BE READOPTED in the amount of $228,419,000. b)     the amended 2022 capital budget BE READOPTED in the amount of $290,668,000. c)     the amended 2023 capital budget BE READOPTED in the amount of $392,039,000. d)     the amended 2024-2029 capital forecast BE APPROVED in principle the amount of $1,546,794,000.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Council-level ratification of capital budget readoption + 2024-29 forecast -- composite multi-year totals, null correct, consistent with a0c9f6a93504."
+  },
+  {
+    "id": "f90513408920",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved dissolving the Housing Development Corporation, London (HDC), integrating its affordable housing portfolio into the City's corporate structure by Q2 2021, and authorized the Acting Managing Director, Housing, Social Services and Dearness Home to implement the governance review's recommendations.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to bring forward the necessary by-laws and documentation to dissolve Housing Development Corporation, London (HDC) and to integrate the affordable housing portfolio into the Corporation of City of London’s Corporate Structure with an implementation timeline of Q2 2021",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Full Council 2021-01-12 item 8.5.6.6.7 text loaded -- identical operative clause to 1de168466ef0 (SPPC recommendation), now at the Council ratification stage, PASS 14-1 confirmed. Quote verbatim. Same housing/application-approval/expansive reasoning as 1de168466ef0 applies and holds."
+  },
+  {
+    "id": "1a35b608c74d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law authorizing the Ontario Transfer Payment Agreement providing provincial funding for the City's costs of reverting to a first-past-the-post voting system for the 2022 Municipal Election.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the City Clerk, the proposed by-law as appended to the staff report dated January 18, 2021 as Appendix “A”, being a by-law to approve and authorize the Ontario Transfer Payment Agreement between Her Majesty the Queen in right of Ontario as represented by the Minister of Municipal Affairs and Housing (the “Province”) and The Corporation of the City of London (the “Recipient”) to provide funding for expenses related to the to return to first-past-the-post election framework for the 2022 Municipal Election, BE INTRODUCED at the Municipal Council meeting to be held on February 2, 2021.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Ontario Transfer Payment Agreement by-law for FPTP election-system funding -- issue=none correct; election-administration financing isn't one of the eight tracked issue clusters."
+  },
+  {
+    "id": "43549f2d4c9f",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to submit future State of the Downtown reports to the Strategic Priorities and Policy Committee.",
+    "confidence": "high",
+    "quote": "Motion to approve the following: \"The Civic Administration BE DIRECTED to submit future reports relating to the State of the Downtown to the Strategic Priorities and Polices Committee.\"",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Correctly hedged (FAILED 2-4). State of the Downtown report-routing directive -- issue=downtown correct, informational_ask correct (pure report-back-to-committee redirection, no substantive content)."
+  },
+  {
+    "id": "e577b604f643",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to bring back recommendations on introducing an anonymized application process for the London Community Grants Program, for potential use starting with 2022 funding allocations.",
+    "confidence": "high",
+    "quote": "Motion to approve part c): c)     the Civic Administration BE DIRECTED to bring back recommendations for the potential introduction of an anonymized application process for the London Community Grants Program that could be implemented for 2022 funding allocations and be used going forward.",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Anonymized grants-application-process directive -- issue=none correct (no tracked-issue keyword), informational_ask correct."
+  },
+  {
+    "id": "1aa5cd679ad8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to advise the Board of London Hydro Inc. that Municipal Council would not proceed with the proposed “Holdco Option” for restructuring.",
+    "confidence": "high",
+    "quote": "Motion to approve part c): c)      the Civic Administration BE DIRECTED to advise the Board of London Hydro Inc. that the Municipal Council will not be proceeding with the proposed \"Holdco Option\"; and,",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "London Hydro Holdco-option rejection directive -- issue=none correct (utility restructuring, no tracked-issue keyword hit)."
+  },
+  {
+    "id": "c75312cd89c1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law authorizing the Ontario Transfer Payment Agreement providing provincial funding for the City's costs of reverting to a first-past-the-post voting system for the 2022 Municipal Election.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the City Clerk, the proposed by-law as appended to the staff report dated January 18, 2021 as Appendix “A”, being a by-law to approve and authorize the Ontario Transfer Payment Agreement between Her Majesty the Queen in right of Ontario as represented by the Minister of Municipal Affairs and Housing (the “Province”) and The Corporation of the City of London (the “Recipient”) to provide funding for expenses related to the to return to first-past-the-post election framework for the 2022 Municipal Election, BE INTRODUCED at the Municipal Council meeting to be held on February 2, 2021.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Duplicate of 1a35b608c74d at the by-law-introduction stage -- same reasoning, issue=none correct."
+  },
+  {
+    "id": "95d5c6f299be",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Amended clause 3.1 to revise the proposed zoning by-law for 690-700 King Street, 400 Lyle Street, 701-737 Dundas Street, and 389-393 Hewitt Street, permitting a mixed-use development up to 24 storeys (82 m) with a maximum density of 750 units per hectare, including 13 affordable dwelling units.",
+    "confidence": "high",
+    "quote": "the proposed attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on February 2, 2021 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject properties BY AMENDING the Bonus (B-32) Zone, and to change the zoning of the subject property FROM a Business District Commercial Special Provision Bonus (BDC(24)*D160*H36*B-32) Zone and a Business District Commercial Special Provision (BDC(19)*D250*H46) Zone TO a holding Business District Commercial Special Provision Bonus (h*h-5*BDC(24)*D160*H36*B-32) Zone;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Full Council 2021-02-02 item 8.4.7 text loaded -- this is S. Turner's amendment to clause 3.1 part a) (PASS 12-3), distinct from the main-motion-as-amended vote that follows it (15-0) in the same item. Quote verbatim against the amendment's own text. Axis=density correct: clause explicitly carries 'maximum density of 750 units per hectare' -- a real density figure, matching the same convention applied to c05301f23334. Polarity=expansive matches the clean PASS. whatAYeaDid correctly frames this as amending clause 3.1 (not as the final by-law approval, which is a separate motion) while accurately restating the amended clause's content (24 storeys/82m, 750 units/ha, 13 affordable units) -- no overstatement of what this specific vote did."
+  },
+  {
+    "id": "beb7e72a67a9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to bring back recommendations on introducing an anonymized application process for the London Community Grants Program, for potential use starting with 2022 funding allocations.",
+    "confidence": "high",
+    "quote": "That part c), BE APPROVED: c)      the Civic Administration BE DIRECTED to bring back recommendations for the potential introduction of an anonymized application process for the London Community Grants Program that could be implemented for 2022 funding allocations and be used going forward.",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Duplicate of e577b604f643 at a later meeting stage -- same reasoning, issue=none correct."
+  },
+  {
+    "id": "ddd0a8447b7a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the report comparing London Hydro Inc. restructuring options; directed the Civic Administration to report back with the by-laws needed to implement the “Newco Option” and to advise the Board of London Hydro Inc. that Council would not proceed with the “Holdco Option”; and thanked the Board and staff of London Hydro Inc. for their work.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the comparison of proposed London Hydro Inc. restructuring options:\n\n\n\na)      the report dated January 26, 2021 entitled \"Comparison of Proposed London Hydro Restructuring Options\", BE RECEIVED;\n\n\n\nb)      the Civic Administration BE DIRECTED to report back to a future meeting of the Strategic Priorities and Policy Committee with the necessary by-laws and documentation to implement the proposed \"Newco Option\" with respect to London Hydro Inc. restructuring;\n\n\n\nc)      the Civic Administration BE DIRECTED to advise the Board of London Hydro Inc. that the Municipal Council will not be proceeding with the proposed \"Holdco Option\"; and,\n\n\n\nd)      the Board and staff of London Hydro Inc. and the Civic Administration of the City of London, BE THANKED for the work undertaken with respect to London Hydro Inc. restructuring;\n\n\n\nit being noted that the Strategic Priorities and Policy Committee received a communication dated January 24, 2021 from Councillor M. van Holst with respect to this matter.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Council-level omnibus Hydro-restructuring motion (receive report, Newco directive, Holdco rejection, thanks) -- issue=none correct, no tracked-issue keyword."
+  },
+  {
+    "id": "3633a55c7581",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved implementing “A Break in the Clouds,” one of the ideas for action submitted by the London Community Recovery Network.",
+    "confidence": "medium",
+    "quote": "Motion to approve clause a) 1.3, which reads as follows: \"a)  the implementation plans for the following ideas for action submitted from the London Community Recovery Network and received by Municipal Council BE APPROVED: - 1.3 A Break in the Clouds;\"",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Correctly hedged (FAILED 2-4). Full PEC 2021-02-08 item 2.8 text loaded independently -- quote verbatim against the specific 'A Break in the Clouds' sub-clause motion (distinct 2-4 vote among several separate sub-clause votes in the same item). Issue=none correct: no tracked-issue keyword in this specific clause's text."
+  }
+]

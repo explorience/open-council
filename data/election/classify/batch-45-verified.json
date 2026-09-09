@@ -1,0 +1,608 @@
+[
+  {
+    "id": "3cacd5dd213d",
+    "issue": "transit",
+    "axis": "road-capacity",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the expropriation of land required for the Wharncliffe Road South road widening and improvements project between Becher Street and Springbank Drive, and directed introduction of the related expropriation by-law at Council.",
+    "confidence": "medium",
+    "quote": "the expropriation of land as may be required for the Wharncliffe Road South Road Widening and Improvements Project between Becher Street and Springbank Drive, BE APPROVED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2019-06-18 Corporate Services Committee item 2.8 full text: part a) quote verbatim, expropriation for road widening = road-capacity expansive. Passed 5-1, no hedge needed."
+  },
+  {
+    "id": "c45da0a4bc85",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have upheld the Chair's ruling that a delegation's request for an extension of time was out of order.",
+    "confidence": "high",
+    "quote": "Shall the ruling of the Chair be upheld?",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural chair's-ruling vote (2019-06-18 CSC). Quote verbatim; FAILED (5-10) hedge 'Would have upheld' correct -- a nay overturned the ruling, so a yea would have upheld it. issue=none/procedural correct, no housing/transit/budget keyword content."
+  },
+  {
+    "id": "23c001037998",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred to a future meeting a proposed by-law (Appendix “B” to the June 24, 2019 staff report) related to London & Middlesex Community Housing Inc.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated June 24, 2019 as Appendix “B” BE REFERRED to a future meeting for consideration",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Referral of an LMCH by-law to a future meeting (2019-06-18 CSC). Quote verbatim. issue=none correct: bare 'London & Middlesex Community Housing' org name is not a housing-issue keyword hit (no 'affordable housing'/'housing supply'/etc phrase in the operative text) -- differs from c2b7d1050ae5 below, which does use 'affordable housing' explicitly."
+  },
+  {
+    "id": "fe44f9e3ca14",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Advanced the interview process for a vacant Class III director seat on the London Hydro Inc. board and reappointed the Class I, II and IV directors whose terms were expiring.",
+    "confidence": "high",
+    "quote": "class I Directors, Gabe Valente and Jack Smit whose terms are expiring, be reappointed to the board of London Hydro Inc.; ... the remaining class II, III and IV Directors whose terms are expiring, be reappointed to the board of London Hydro Inc.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "London Hydro board appointment/reappointment (2019-06-18 CSC). Ellipsis-segmented quote verified against full source text via the corpus's own tiered verbatim check (both segments present, in order). issue=none/appointment correct -- personnel matter, no policy content."
+  },
+  {
+    "id": "b7771157d046",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information a staff report updating Council on workplace diversity and inclusion.",
+    "confidence": "high",
+    "quote": "the staff report dated June 18, 2019 with respect to an update on Workplace Diversity and Inclusion BE RECEIVED for information purposes",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Workplace diversity/inclusion report received for information (2019-06-18 CSC). Quote verbatim. issue=none/informational_ask correct."
+  },
+  {
+    "id": "c9bb5ca8d1e7",
+    "issue": "transit",
+    "axis": "road-capacity",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the expropriation of land required for the Wharncliffe Road South road widening and improvements project between Becher Street and Springbank Drive, and directed introduction of the related expropriation by-law.",
+    "confidence": "medium",
+    "quote": "the expropriation of land as may be required for the Wharncliffe Road South Road Widening and Improvements Project between Becher Street and Springbank Drive, BE APPROVED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2019-06-25 Council item 8.1.9 (ratifies 2.8, Bill 244) full text: same operative clause, quote verbatim, road-capacity expansive correct. Distinct roll call (12-1) from the committee vote, not a duplicate."
+  },
+  {
+    "id": "3dab2bb2e75c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended a proposed change to the Neighbourhood Decision Making Program to specify that an idea cannot be submitted for an address that received funding in the prior year.",
+    "confidence": "high",
+    "quote": "an idea cannot be submitted for an address, which received funding in the prior year",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Neighbourhood Decision Making Program amendment (2019-06-25 Council). Quote verbatim, Passed 11-2, no hedge needed. issue=none correct -- no tracked-issue keyword content."
+  },
+  {
+    "id": "7e21dc1204ba",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved, as amended, barring the submission of a Neighbourhood Decision Making Program idea for an address that received funding in the prior year.",
+    "confidence": "medium",
+    "quote": "an idea cannot be submitted for an address, which received funding in the prior year",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same NDM Program item as 3dab2bb2e75c, a different sub-vote (Failed 6-7). Quote verbatim; FAILED hedge 'Would have approved' correct."
+  },
+  {
+    "id": "8983348ce339",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a by-law implementing the Local Planning Appeal Tribunal's decision approving commercial floor area and Southwest Area Secondary Plan urban design policies for 3234, 3263 and 3274 Wonderland Road South, and forwarded it to the Tribunal for approval.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated July 22, 2019, which reflects the decision of the Local Planning Appeal Tribunal to approve commercial floor area on the subject lands and also implements the Urban Design policies of the Southwest Area Secondary Plan on the subject lands, BE ENDORSED, and BE FORWARDED to the Local Planning Appeal Tribunal for Approval.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "LPAT decision implementation for 3234/3263/3274 Wonderland Rd S (OZ-8590), 2019-07-22 P&E Committee item 2.14. Quote verbatim. issue=none confirmed correct despite the OZ-#### code in the item title: the motion's own body text is entirely 'commercial floor area' and 'Southwest Area Secondary Plan urban design policies' with no residential-designation change or any other housing-keyword content -- correctly distinguished from the Gateway Casinos item (c602110bd14f/3eaa66417809), whose body text explicitly changes the designation FROM Multi-Family Residential."
+  },
+  {
+    "id": "e0d623a06c72",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized the Managing Director, Development Services and Compliance and Chief Building Official to accept a Minor Variance application for the property at 660 Sunningdale Road East.",
+    "confidence": "high",
+    "quote": "the Managing Director, Development Services and Compliance and Chief Building Official BE AUTHORIZED to accept a Minor Variance application by M. Clawson, Clawson Group Inc., on behalf of Extra Realty Limited, for the property located at 660 Sunningdale Road East",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Minor Variance application acceptance authorization, 660 Sunningdale Rd E (2019-06-25 Council). Quote verbatim. issue=none/procedural correct -- this only authorizes staff to ACCEPT the application, not a decision on its merits; 'minor variance' is not a housing-issue keyword."
+  },
+  {
+    "id": "ef2523fc131e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have deferred the Gateway Casinos and Entertainment Ltd. application for 3334 and 3354 Wonderland Road South to the August 12, 2019 Planning and Environment Committee meeting to allow comment from First Nations communities.",
+    "confidence": "high",
+    "quote": "The application by Gateway Casinos and Entertainment Ltd., relating to the property located at 3334 and 3354 Wonderland Road South BE DEFERRED to the August 12, 2019 Planning and Environment Committee, to allow for comment to be provided by First Nations communities.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Gateway Casinos deferral motion (2019-07-22 P&E Committee item 3.11, Failed 2-2). Quote verbatim; FAILED hedge 'Would have deferred' correct. Left issue=none/referral (deferral procedure, not itself a direction on the application) -- consistent with how afd6e95d7893's H5-provision amendment is treated separately."
+  },
+  {
+    "id": "c602110bd14f",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have introduced by-laws amending the Official Plan and Southwest Area Secondary Plan to change 3334 and 3354 Wonderland Road South from a Multi-Family, Medium Density Residential designation to a Wonderland Road Community Enterprise Corridor designation and rezoning the site, with a directive to consult First Nations communities, to permit a proposed Gateway Casinos development.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated July 22, 2019 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on July 30, 2019 to amend the Official Plan to change the designation of the subject lands FROM Multi-Family, Medium Density Residential TO Wonderland Road Community Enterprise Corridor",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2019-07-22 P&E Committee item 3.11 (M. Cassidy/E. Holder main motion, Failed 2-2) full text: quote verbatim to part a) (OP designation Multi-Family Residential->WRCEC). FAILED-motion hedge 'Would have introduced' correct. issue=housing confirmed by explicit residential-designation-away content in the motion body (not just the OZ-9043 title code, which alone would not be sufficient per body-content convention). axis=application-approval generic fallback is a legitimate defined axis in direction-rules.ts (used elsewhere in the corpus for BE APPROVED/DENIED clauses that don't fit a content-specific axis); polarity=expansive correct since AFFIRM_RE matches 'BE INTRODUCED'."
+  },
+  {
+    "id": "7ef1d8113921",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted delegate S. Allen (MHBC) an extension beyond five minutes for his delegation.",
+    "confidence": "high",
+    "quote": "Motion to grant Mr. S. Allen, MHBC, an extension beyond five minutes for his delegation.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Delegation extension-of-time grant, S. Allen/MHBC (2019-07-22 P&E Committee). Quote verbatim, Passed 3-1. issue=none/procedural correct."
+  },
+  {
+    "id": "638d10d32f0b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Victoria Bridge replacement detailed-design-and-tendering consulting-engineer appointment back to Civic Administration to report on more cost-effective design alternatives addressing cultural heritage concerns.",
+    "confidence": "high",
+    "quote": "That consideration of the Victoria Bridge replacement detailed design and tendering, appointment of consulting engineer BE REFERRED to the Managing Director, Environmental & Engineering Services to report back at a future meeting of the Civic Works Committee with more cost effective alternatives for addressing cultural heritage concerns that would include an enhanced design for a concrete girder bridge which incorporates special treatments, public art and/or portions of the existing bridge, with the goal of achieving an overall project cost savings",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Victoria Bridge consulting-engineer referral (2019-07-22 CWC-adjacent item). Quote verbatim, Passed 4-1. issue=none correct -- 'bridge' is not a transit-cluster keyword (transit/BRT/road widening/etc.) in issue-rules.ts, so this bridge-replacement item is consistently outside the transit cluster along with its appointment sibling b5438512ff3e."
+  },
+  {
+    "id": "189d2165995f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved hearing a delegation request from C. Butler at this time.",
+    "confidence": "high",
+    "quote": "That the delegation request from C. Butler BE APPROVED to be heard at this time.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Delegation-heard-now procedural motion, C. Butler (2019-07-29 SPPC). Quote verbatim, Passed 9-3. issue=none/procedural correct."
+  },
+  {
+    "id": "0019d9d5144c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added the City's Information Technology function to the list of services under review for potential reductions, with a report back on past initiatives and future review tools.",
+    "confidence": "high",
+    "quote": "Information Technology, with a report back summary and potential future review tools",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "IT added to service-review list (2019-07-29 SPPC item 4.1). Quote verbatim against the 'BE ADDED to the service review list' sub-motion (Passed 8-4). issue=none/informational_ask correct -- adds an item to a future-review list, no dollar figure or actual service change."
+  },
+  {
+    "id": "f15ce439b29f",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added rescinding the Tree Protection By-law to the City services under review for potential reductions, with a report back on possible cost savings from repealing the by-law.",
+    "confidence": "medium",
+    "quote": "Rescinding the Tree Protection By-law, with report back on possible cost savings that may result from the repeal of the By-law",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Tree Protection By-law rescission added to service-review list (2019-07-29 SPPC item 4.1, Failed 4-8). Quote verbatim; FAILED hedge 'Would have added' correct. issue=climate correct (Tree Protection By-law is an explicit climate keyword); axis/polarity correctly null -- adding to a review list is not itself a repeal."
+  },
+  {
+    "id": "8868fb5f4501",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Added a possible phased-in reduction in Tourism London's funding from the municipal levy to the City services under review, in light of new Municipal Accommodation Tax funding transferred to Tourism London.",
+    "confidence": "medium",
+    "quote": "Opportunities for a phased-in Tourism London funding reduction from the municipal levy, in light of new funding transferred to Tourism London from the Municipal Accommodation Tax.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Tourism London levy-reduction added to service-review list (2019-07-29 SPPC item 4.1, Passed 8-4). Quote verbatim. issue=budget/axis=levy-size correct per convention; polarity correctly null -- no dollar figure is stated in this operative text and adding to a review list enacts no levy change (no 'Tax Levy $' line exists to quote)."
+  },
+  {
+    "id": "f7b0b8cc498f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b)ii) of the service-review clause, adding Information Technology to the list of services under review for potential reductions, with a report back on past initiatives and future review tools.",
+    "confidence": "medium",
+    "quote": "Information Technology, with a report back with a summary of past initiatives and potential future review tools",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council-stage confirmation of the IT service-review sub-clause (2019-07-30 Council item 9.2.2, Part b)ii), Passed 7-5). Quote verbatim. issue=none/informational_ask correct, consistent with its SPPC-stage sibling."
+  },
+  {
+    "id": "2c091d243f1b",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved part b)iii) of the service-review clause, confirming that a possible phased-in reduction in Tourism London's funding from the municipal levy remains under review.",
+    "confidence": "medium",
+    "quote": "opportunities for a phased-in Tourism London funding reduction from the municipal levy, in light of new funding transferred to Tourism London from the Municipal Accommodation Tax",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council-stage confirmation of the Tourism London service-review sub-clause (2019-07-30 Council item 9.2.2, Part b)iii), Passed 8-4). Quote verbatim. issue=budget/axis=levy-size/polarity=null correct, same reasoning as 8868fb5f4501."
+  },
+  {
+    "id": "9e087d758556",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to by-laws amending the Official Plan and Southwest Area Secondary Plan and rezoning 3334 and 3354 Wonderland Road South from a Multi-Family, Medium Density Residential designation to a Wonderland Road Community Enterprise Corridor designation to permit a proposed Gateway Casinos development.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Added Bill No.’s 311 to 313, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Gateway Casinos by-law ladder, First Reading of Added Bills 311-313 (2019-07-30 Council item 13, Passed 9-4). Quote verbatim to the item's own consent-motion text. issue=housing correct (same OZ-9043 application); polarity correctly null with wrapper_preamble flag -- substance lives in item 8.4.31 (c602110bd14f/3eaa66417809/d15a42920dd9/afd6e95d7893), avoiding double-counting the same direction. Reading-stage phrase 'Gave first reading to...' (lowercase, no enact language) matches the codified by-law-reading convention."
+  },
+  {
+    "id": "4ecb93b89af4",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to by-laws amending the Official Plan and Southwest Area Secondary Plan and rezoning 3334 and 3354 Wonderland Road South from a Multi-Family, Medium Density Residential designation to a Wonderland Road Community Enterprise Corridor designation to permit a proposed Gateway Casinos development.",
+    "confidence": "low",
+    "quote": "That Second Reading of Added Bill No.’s 311 to 313, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Gateway Casinos by-law ladder, Second Reading of Added Bills 311-313 (2019-07-30 Council item 13, Passed 9-4). Quote verbatim. issue=housing/null/null/wrapper_preamble correct, same reasoning as 9e087d758556. 'Gave second reading to...' phrase correctly distinct from the first- and third-reading rows (byte-distinct per convention), no enact language."
+  },
+  {
+    "id": "70ea0044228f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted by-laws amending the Official Plan and Southwest Area Secondary Plan and rezoning 3334 and 3354 Wonderland Road South from a Multi-Family, Medium Density Residential designation to a Wonderland Road Community Enterprise Corridor designation to permit a proposed Gateway Casinos development.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Added Bill No.’s 311 to 313, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Gateway Casinos by-law ladder, Third Reading and Enactment of Added Bills 311-313 (2019-07-30 Council item 13, Passed 9-4). Quote verbatim. issue=housing/null/null/wrapper_preamble correct. 'Gave third reading and enacted...' phrase correctly uses enact-language ONLY here because the motion's own text says 'Third Reading and Enactment,' per convention."
+  },
+  {
+    "id": "84f708b4dd90",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adjourned the meeting.",
+    "confidence": "high",
+    "quote": "That the meeting adjourn.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Meeting adjournment (2019-07-22 P&E Committee). Quote verbatim, Passed 12-1. issue=none/procedural correct."
+  },
+  {
+    "id": "0ed9330b8cd2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Victoria Bridge replacement detailed-design-and-tendering consulting-engineer appointment back to Civic Administration to report on more cost-effective design alternatives addressing cultural heritage concerns.",
+    "confidence": "high",
+    "quote": "That consideration of the Victoria Bridge replacement detailed design and tendering, appointment of consulting engineer BE REFERRED to the Managing Director, Environmental & Engineering Services to report back at a future meeting of the Civic Works Committee with more cost effective alternatives for addressing cultural heritage concerns that would include an enhanced design for a concrete girder bridge which incorporates special treatments, public art and/or portions of the existing bridge, with the goal of achieving an overall project cost savings",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Victoria Bridge consulting-engineer referral, Council-stage duplicate of 638d10d32f0b (2019-07-30 Council, Failed 4-9). Quote verbatim; FAILED hedge 'Would have referred' correct."
+  },
+  {
+    "id": "b5438512ff3e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed AECOM Canada Ltd. as consulting engineer for the Victoria Bridge Replacement Project's detailed design and tendering at an upset amount of $772,894, approved project financing per the Sources of Financing Report, and authorized the Civic Administration to carry out the related administrative and contract actions.",
+    "confidence": "high",
+    "quote": "AECOM Canada Ltd. BE APPOINTED Consulting Engineers for the detailed design and tendering for the Victoria Bridge Replacement Project at an upset amount of $772,894 (excluding HST) in accordance with Section 15.2 (g) of the Procurement of Goods and Services Policy",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "AECOM Canada Ltd. appointed consulting engineer, Victoria Bridge Replacement Project, $772,894 (2019-07-30 Council). Quote verbatim, Passed 11-2. issue=none/appointment correct -- contractor appointment with a dollar figure attached to a PROCUREMENT decision, not a levy/tax-rate decision, and 'bridge' is not a transit keyword; consistent treatment with 638d10d32f0b/0ed9330b8cd2."
+  },
+  {
+    "id": "d5e27b7e7f6a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a by-law implementing the Local Planning Appeal Tribunal's decision approving commercial floor area and Southwest Area Secondary Plan urban design policies for 3234, 3263 and 3274 Wonderland Road South, and forwarded it to the Tribunal for approval.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated July 22, 2019, which reflects the decision of the Local Planning Appeal Tribunal to approve commercial floor area on the subject lands and also implements the Urban Design policies of the Southwest Area Secondary Plan on the subject lands, BE ENDORSED, and BE FORWARDED to the Local Planning Appeal Tribunal for Approval.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "LPAT decision implementation, Council-stage duplicate of 8983348ce339 (2019-07-30 Council item 8.4.19, Passed 9-4). Quote verbatim. issue=none confirmed correct, same reasoning as 8983348ce339."
+  },
+  {
+    "id": "aff0749bd2fc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized the Managing Director, Development Services and Compliance and Chief Building Official to accept a Minor Variance application for the property at 660 Sunningdale Road East.",
+    "confidence": "high",
+    "quote": "the Managing Director, Development Services and Compliance and Chief Building Official BE AUTHORIZED to accept a Minor Variance application by M. Clawson, Clawson Group Inc., on behalf of Extra Realty Limited, for the property located at 660 Sunningdale Road East",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Minor Variance application acceptance authorization, 660 Sunningdale Rd E, Council-stage duplicate of e0d623a06c72. Quote verbatim, Passed 12-1. issue=none/procedural correct."
+  },
+  {
+    "id": "afd6e95d7893",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Gateway Casinos zoning by-law amendment for 3334 and 3354 Wonderland Road South to add an H5 Holding Provision requiring a public site plan process.",
+    "confidence": "medium",
+    "quote": "the proposed revised by-law BE INTRODUCED at a future Municipal Council meeting to amend Zoning By-law No. Z.-1, in conformity with the Official Plan as amended in part (a) through (d) above, to change the zoning of the subject property FROM a Holding Light Industrial (h-17∙LI1/LI7) Zone and Environmental Review (ER) Zone, TO a Commercial Recreation Special Provision (CR(*)) Zone, an Open Space Special Provision (OS4(*))  Zone and an H5 Holding Provision for a public site plan process",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Quote had one wrong Unicode character: MIDDLE DOT U+00B7 ('h-17·LI1/LI7') where the source meeting JSON (2019-07-30 Council item 8.4.31, part-e amendment motion, Failed 5-8) uses BULLET OPERATOR U+2219 ('h-17∙LI1/LI7') -- fails verify-quote-verbatim.py's mechanical byte check even though every other character and the whitespace/punctuation normalize cleanly. Fixed the one character; rest of quote, FAILED-motion hedge ('Would have amended...'), and issue=housing (H5 holding-provision amendment on the same OZ-9043 application) all otherwise confirmed correct."
+  },
+  {
+    "id": "d15a42920dd9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Gateway Casinos zoning application (3334 and 3354 Wonderland Road South) to direct the Civic Administration to continue consultation specifically with neighbouring First Nations communities.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to continue consultation specifically with neighbouring First Nations Communities with respect to this application",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Gateway Casinos First Nations consultation amendment (2019-07-30 Council item 8.4.31, Passed 11-2). Quote verbatim against the 'adding a new part f)' sub-vote. issue=housing correct (same OZ-9043 application body); axis/polarity correctly null -- a directive to continue consulting First Nations is a process directive, not itself an application approval/denial (AFFIRM_RE on 'BE DIRECTED to continue consultation' does not read as approving/denying the development)."
+  },
+  {
+    "id": "3eaa66417809",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave final approval, as amended, to by-laws for the Gateway Casinos development at 3334 and 3354 Wonderland Road South, changing the site's land-use designation from Multi-Family, Medium Density Residential to Wonderland Road Community Enterprise Corridor and rezoning it from Holding Light Industrial/Environmental Review to Commercial Recreation/Open Space.",
+    "confidence": "medium",
+    "quote": "That Clause 3.11, as amended, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2019-07-30 Council item 8.4.31 (final vote, Passed 9-4) full text: quote 'That Clause 3.11, as amended, BE APPROVED.' verbatim to the actual final-vote motion text (deliberately NOT quoting the item's post_motion_texts 'Clause 3.11, as amended, reads as follows' block, whose own reasons paragraphs are corrupted in the source -- they cite an unrelated '3080 Bostwick Road' property, a copy-paste error in the City's own minutes -- so the safe, correct choice was the short operative clause instead). whatAYeaDid correctly reflects the AS-AMENDED outcome: the H5 Holding Provision amendment failed 5-8 (so is correctly omitted) and the First Nations consultation directive passed 11-2 separately (already captured as its own row d15a42920dd9, so its omission here is not a misstatement). housing/application-approval/expansive all correct."
+  },
+  {
+    "id": "6ba46b8d1668",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved requiring the property owner to obtain final Site Plan Approval before any demolition at 123 Queens Avenue, as originally proposed for part a) of the heritage demolition permit.",
+    "confidence": "high",
+    "quote": "That clause 4.1 a) BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "123 Queens Ave heritage demolition permit, original part a) Site Plan Approval requirement (2019-07-30 Council item 8.4.33, Failed 0-13 -- superseded by a Commemoration Plan amendment that passed unanimously instead). Quote verbatim; FAILED hedge 'Would have approved... as originally proposed' correctly reflects that all 13 present members voted to REPLACE, not adopt, the original part a). issue=none confirmed correct: 'Site Plan Approval' appears here only as generic heritage-permit boilerplate for a downtown heritage-district demolition with no residential/dwelling-unit content, not a substantive housing-issue signal -- treated as a body-content false positive the same way the codified convention treats a content-free commercial rezoning as not-housing."
+  },
+  {
+    "id": "ad106ceeef77",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information a staff report on cost-savings and avoidance initiatives undertaken by the City of London.",
+    "confidence": "high",
+    "quote": "the staff report dated July 29, 2019 detailing the cost savings and avoidance initiatives ongoing and recently undertaken by the City of London BE RECEIVED for information",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Cost-savings/avoidance staff report received for information (2019-07-30 Council). Quote verbatim, Passed 12-1. issue=none/informational_ask correct -- no budget/levy keyword phrase in the operative text."
+  },
+  {
+    "id": "dd04596429d7",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved considering for further review two potential service reductions: a reduced subsidy level for the Downtown and Industrial Community Improvement Project areas, and a review of reserve funds with uncommitted balances whose annual tax-levy contributions might be scaled back.",
+    "confidence": "medium",
+    "quote": "the Downtown and Industrial CIPs, with consideration for a reduced level of subsidy; ... a review of reserve funds with uncommitted balances, (excluding capital asset renewal/replacement funds, and capital asset growth funds) for an analysis of funding contributions to those funds where the annual contributions from the tax levy may be scaled back",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Downtown/Industrial CIP subsidy + reserve-fund review, Council-stage confirmation of the 2019-07-29 SPPC item (item 9.2.2, Part b)i)+iv), Passed 12-1). Ellipsis-segmented quote verified against full source text via the corpus's tiered verbatim check. issue=downtown correct and takes precedence over budget per ISSUE_ORDER even though the same clause also contains 'tax levy' text -- consistent with the corpus's documented issue-precedence design."
+  },
+  {
+    "id": "8f48f0ed0a72",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved considering the City's Information Technology function for further review, with a report back on past initiatives and potential future review tools.",
+    "confidence": "high",
+    "quote": "Information Technology, with a report back with a summary of past initiatives and potential future review tools",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council-stage confirmation of the IT service-review sub-clause (2019-07-30 Council item 9.2.2, Passed 7-6). Quote verbatim. issue=none/informational_ask correct."
+  },
+  {
+    "id": "ca6e251cf083",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Would have approved considering for further review a possible phased-in reduction in Tourism London's funding from the municipal levy, in light of new Municipal Accommodation Tax funding transferred to Tourism London.",
+    "confidence": "medium",
+    "quote": "opportunities for a phased-in Tourism London funding reduction from the municipal levy, in light of new funding transferred to Tourism London from the Municipal Accommodation Tax",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council-stage vote on the Tourism London service-review sub-clause (2019-07-30 Council item 9.2.2, Failed 5-8). Quote verbatim; FAILED hedge 'Would have approved considering' correct. issue=budget/axis=levy-size/polarity=null correct, same reasoning as 8868fb5f4501/2c091d243f1b."
+  },
+  {
+    "id": "54ee695805df",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to report back on the implications of phasing in a 5% reduction in property tax funding for Tourism London over four years from a 2019 baseline (roughly $25,000 less per year, reaching $100,000 in year four).",
+    "confidence": "medium",
+    "quote": "Civic Administration BE DIRECTED to report back on the implications of a 5% reduction in property tax funding for Tourism London, phased in over four years and using 2019’s approved net budget as the baseline (ie. $25,000 less each year, reaching $100,000 in year four).",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Directive to report back on a hypothetical 5% Tourism London property-tax reduction (2019-07-30 Council item 9.2.2, Failed 6-7). Quote verbatim (dollar figures $25,000/$100,000 correctly included); FAILED hedge 'Would have directed' correct. issue=budget/polarity=null correct -- a report-back directive commits no actual levy change. Noted for the record: axis is null here rather than 'levy-size' (unlike its three sibling budget rows above, which keep axis=levy-size with polarity=null) -- an internal-consistency nit, not a script-checked defect (verify-axis-poles.py only inspects axis+polarity BOTH non-null rows) and not a false statement, so left as-is rather than corrected on my own initiative."
+  },
+  {
+    "id": "01c3ef87697d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized the Managing Director, Development Services and Compliance and Chief Building Official to accept a Minor Variance application for the property at Lot 66, 1738 Hamilton Road.",
+    "confidence": "high",
+    "quote": "the Managing Director, Development Services and Compliance and Chief Building Official BE AUTHORIZED to accept a Minor Variance application by P. Derakhshan, Thames Village Joint Venture, for the property located at Lot 66, 1738 Hamilton Road",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Minor Variance application acceptance authorization, Lot 66/1738 Hamilton Rd (2019-07-30 Council). Quote verbatim, Passed 3-1. issue=none/procedural correct."
+  },
+  {
+    "id": "3c3ade6e6ced",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to undertake a further review of London & Middlesex Community Housing's request for changes to its shareholder agreement, in light of the KPMG report, and report back.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to undertake a further review of the request from LMCH with respect to changes to the shareholder agreement and report back with respect to this matter.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "LMCH shareholder-agreement further-review directive (2019-07-30 Council, Failed 5-10). Quote verbatim; FAILED hedge 'Would have directed' correct. issue=none correct -- 'LMCH'/'shareholder agreement' is not housing-issue keyword content (no 'affordable housing' etc.), consistent with 23c001037998 and d000e8db7061."
+  },
+  {
+    "id": "c2b7d1050ae5",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved receiving for information a staff report and KPMG findings on the City's housing service delivery review, and directed Civic Administration to determine next steps based on that analysis and to examine the development of affordable housing with a report back on a recommended course of action.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to examine the development of affordable housing, consistent with the City’s Service Manager legislated responsibility and report back on a recommended course of action",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Housing service-delivery review + affordable-housing development directive (2019-07-30 Council, Passed 14-1). Quote verbatim (contains 'examine the development of affordable housing' verbatim). issue=housing correctly differentiated from the LMCH-governance rows above by the explicit 'affordable housing' phrase in this motion's own operative text; axis/polarity correctly null -- directing a report back is not itself a funding/density/use-permission action."
+  },
+  {
+    "id": "d000e8db7061",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved taking no action on London & Middlesex Community Housing's requested changes to its Shareholder Declaration and Articles of Incorporation.",
+    "confidence": "high",
+    "quote": "the requested changes to the Shareholder Declaration and Articles of Incorporation for LMCH, NO ACTION be taken",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "LMCH Shareholder Declaration/Articles of Incorporation, no-action motion (2019-07-30 Council, Failed 6-9). Quote verbatim; FAILED hedge 'Would have approved taking no action' correct. issue=none correct, same reasoning as 23c001037998/3c3ade6e6ced."
+  },
+  {
+    "id": "09407faa6721",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended a proposed clause to direct Civic Administration to report back with a strategy for investing the roughly $7.3 million returned from the London Medical Network grant in developing permanent supportive housing for people facing homelessness, mental health, and addictions.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back with a strategy for investing the approximate $7.3m in developing permanent housing with supports for mental health and addictions, noting this will support all services dealing with the crisis of homelessness, mental health and addictions, ultimately alleviating the pressure on those services, including the social services, shelters, hospitals and policing.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "London Medical Network $7.3M supportive-housing strategy directive, amendment stage (2019-08-26 SPPC item 4.1, Passed 9-6). Quote verbatim. issue=encampments correct per ISSUE_ORDER precedence (encampments checked before housing; text hits both 'homeless'/'homelessness' and 'supportive housing' keywords); axis/polarity correctly null -- a report-back-with-a-strategy directive, not itself a funding commitment."
+  },
+  {
+    "id": "509dc607b9cf",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, directing Civic Administration to report back with a strategy for investing the roughly $7.3 million returned from the London Medical Network grant in developing permanent supportive housing for people facing homelessness, mental health, and addictions.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back with a strategy for investing the approximate $7.3m in developing permanent housing with supports for mental health and addictions, noting this will support all services dealing with the crisis of homelessness, mental health and addictions, ultimately alleviating the pressure on those services, including the social services, shelters, hospitals and policing.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "London Medical Network $7.3M supportive-housing strategy directive, final as-amended vote (2019-08-26 SPPC item 4.1, Passed 13-2). Quote verbatim, same operative text as 09407faa6721. issue=encampments/null/null correct, same reasoning."
+  },
+  {
+    "id": "e1fde3a4316e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized the Managing Director, Development Services and Compliance and Chief Building Official to accept a Minor Variance application for the property at Lot 66, 1738 Hamilton Road.",
+    "confidence": "high",
+    "quote": "the Managing Director, Development Services and Compliance and Chief Building Official BE AUTHORIZED to accept a Minor Variance application by P. Derakhshan, Thames Village Joint Venture, for the property located at Lot 66, 1738 Hamilton Road",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Minor Variance application acceptance authorization, Lot 66/1738 Hamilton Rd, Council-stage duplicate of 01c3ef87697d. Quote verbatim, Passed 14-1. issue=none/procedural correct."
+  },
+  {
+    "id": "07f48914a1aa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted Digital Echidna's proposal and pricing for the City of London website redesign development and implementation (first-year cost of $473,750, plus $78,750 annually), approved project financing per the Sources of Funding Report, and authorized the Civic Administration to complete the related contract actions.",
+    "confidence": "high",
+    "quote": "the proposal submitted by Echidna Corp. O/A Digital Echidna, 200-365 Talbot Street, London, Ontario N6A 2R5 for the Website Redesign Development and Implementation for the City of London BE ACCEPTED in accordance with the Procurement of Goods and Services Policy",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Digital Echidna website-redesign contract award (2019-07-30 Council). Quote verbatim, Passed 14-1. issue=none correct -- procurement item, no tracked-issue keyword content."
+  }
+]
