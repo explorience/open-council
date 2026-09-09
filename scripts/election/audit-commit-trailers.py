@@ -6,17 +6,30 @@ commit on feat/election-hub.
 DETECTION RULE (the whole rule, not a summary): for every commit in
 `git log origin/main..HEAD` that is BRANCH-AUTHORED (see the exclusion rule
 below), the commit's full raw message (`git log -1 --format=%B`), with only
-its trailing newline(s) stripped, must end with EXACTLY:
+its trailing newline(s) stripped, must end with EXACTLY one of two accepted
+forms:
 
-  Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
-  Claude-Session: <the authoring session URL — any one of KNOWN_SESSIONS below>
+  (a) the historical two-line block (append-only -- kept valid forever for
+      the commits already written with it):
 
-and nothing else after that second line -- no extra blank line with
+        Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
+        Claude-Session: <the authoring session URL — any one of KNOWN_SESSIONS below>
+
+  (b) the current single-line form (ATTRIBUTION CHANGE, session account
+      switched -- no Claude-Session line any more):
+
+        Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
+
+and nothing else after that final line -- no extra blank line with
 content, no leaked heredoc terminator ("EOF"), no stray closing paren, no
-duplicate trailer, nothing. A commit whose message doesn't contain both
-lines at all (e.g. missing Claude-Session entirely) fails the same way as
-one with garbage trailing after them: either way, the message does not end
-with exactly this two-line block.
+duplicate trailer, nothing. A commit whose message doesn't contain any
+accepted trailer at all (e.g. missing it entirely) fails the same way as
+one with garbage trailing after an accepted trailer: either way, the
+message does not end with exactly one accepted block. Note the single-line
+form (b) is not a suffix of the two-line block (a) -- (a) ends with the
+Claude-Session line, not the Co-Authored-By line -- so the two forms never
+collide and a message ending in Co-Authored-By plus garbage never
+false-passes as (b).
 
 EXCLUSION RULE ("excluding upstream content"): a commit is NOT branch-
 authored -- and is skipped by this audit entirely, neither passed nor
@@ -47,10 +60,17 @@ KNOWN_SESSIONS = (
     "https://claude.ai/code/session_01AEA1RWnKEDhEFCsvSP5Xmp",
     "https://claude.ai/code/session_014Svnp8WcfKWLkqhk694WTP",
 )
+CO_AUTHORED_BY_LINE = "Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+
+# Historical two-line blocks: one per known session, append-only -- never
+# remove an entry (its commits are permanent history).
 ACCEPTED_TRAILER_BLOCKS = tuple(
-    "Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>\n"
-    f"Claude-Session: {session}"
-    for session in KNOWN_SESSIONS
+    f"{CO_AUTHORED_BY_LINE}\nClaude-Session: {session}" for session in KNOWN_SESSIONS
+) + (
+    # Current single-line form (ATTRIBUTION CHANGE): bare Co-Authored-By,
+    # nothing after it. Added for the new authoring account; the two-line
+    # blocks above stay valid forever for pre-existing commits.
+    CO_AUTHORED_BY_LINE,
 )
 
 PR_SUBJECT_RE = re.compile(r"\(#\d+\)\s*$")
@@ -93,9 +113,9 @@ def main():
             passes.append((sha[:8], subject))
         else:
             reason = (
-                "missing one or both required trailer lines"
-                if not any(block in body for block in ACCEPTED_TRAILER_BLOCKS)
-                else "trailers present but followed by extra content (leaked heredoc/paren/etc.)"
+                "missing a recognized trailer block entirely"
+                if CO_AUTHORED_BY_LINE not in body
+                else "trailer present but followed by extra content (leaked heredoc/paren/etc.), or malformed"
             )
             failures.append((sha[:8], subject, reason, trimmed[-200:]))
 
