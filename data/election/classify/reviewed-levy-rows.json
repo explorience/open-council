@@ -3,84 +3,84 @@
   "id": "0499ef880a69",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "BE AMENDED to include Business Case #P-48 \u2013 Canadian Mental Health Transitional Case Worker \u2013 London Public Library",
+  "quote": "BE AMENDED to include Business Case #P-48 – Canadian Mental Health Transitional Case Worker – London Public Library",
   "reason": "One-time $65,000 NEW addition (Business Case #P-48, Canadian Mental Health Transitional Case Worker) funded from a reserve -- no 'Tax Levy:' table exists in the source (plain-prose funding clause), but this is new spending being added, not a swap or removal: expansive."
  },
  {
   "id": "0947f5f92e12",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "the Civic Administration BE DIRECTED to fund the City of London\u2019s increased share of $226,954 for 2025 from the Operating Budget Contingency Reserve.",
+  "quote": "the Civic Administration BE DIRECTED to fund the City of London’s increased share of $226,954 for 2025 from the Operating Budget Contingency Reserve.",
   "reason": "Directs paying the City's increased $226,954 Middlesex-London Health Unit share from the Operating Budget Contingency Reserve -- a real new cost commitment funded from reserve (no Tax Levy line): expansive."
  },
  {
   "id": "1d7c40b467ec",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design – Reduced Road Network Improvements",
   "reason": "Gate round 3 already re-derived this one (see corrections.json): directs EXCLUDING a proposed spending CUT ('Reduced Road Network Improvements', the same case as sibling 22951914b4b2/P-6) from the 2026 Budget Update -- excluding a cut keeps the road-network spending in the budget: expansive."
  },
  {
   "id": "1f5ca5da65a4",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 \u2013 The Grand Theatre",
+  "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 – The Grand Theatre",
   "reason": "Re-vote of the Grand Theatre Business Case #P-39 amendment: adds $100,000/year in NEW funding. Expansive."
  },
  {
   "id": "2bb2090dcda1",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% \u2013 3.9% as identified to maintain existing service levels as well as additional investments of an additional 0.5% in funding for additional investment, for planning purposes;",
+  "quote": "the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% – 3.9% as identified to maintain existing service levels as well as additional investments of an additional 0.5% in funding for additional investment, for planning purposes;",
   "reason": "Advises Civic Administration of Council's desired average annual tax-levy INCREASE of 2.9%-3.9% plus a further 0.5% for additional investment -- an explicit increase-direction stated in the clause's own prose, no dollar table needed: expansive."
  },
  {
   "id": "3751f8ed1ef5",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "a) to support investment of $31,000 for expansion of the services delivered by the Central Library\u2019s 2nd Floor Creativity Lab",
+  "quote": "a) to support investment of $31,000 for expansion of the services delivered by the Central Library’s 2nd Floor Creativity Lab",
   "reason": "Adds $31,000 in NEW capital spending (Business Case #P-30, Central Library Creativity Lab expansion), funded from reserve (Tax Levy lines are $0 because reserve-funded, not because nothing changed): expansive."
  },
  {
   "id": "59db5e3fabf9",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "BE AMENDED to remove Business Case #P-34 \u2013 City Hall Main Lobby Security Guard.",
+  "quote": "BE AMENDED to remove Business Case #P-34 – City Hall Main Lobby Security Guard.",
   "reason": "Removes Business Case #P-34 (City Hall Main Lobby Security Guard) from the tabled budget entirely -- a clean full removal of a proposed NEW expenditure: restrictive."
  },
  {
   "id": "5c71af54ca39",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-L3 \u2013 More Homes Built Faster Act, Bill 23 \u2013 Statutory Exemptions.",
+  "quote": "the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-L3 – More Homes Built Faster Act, Bill 23 – Statutory Exemptions.",
   "reason": "Removes Business Case #P-L3 (Bill 23 statutory DC exemptions, ~$1.8M/yr) from the tabled budget entirely -- a clean full removal of a proposed NEW expenditure: restrictive."
  },
  {
   "id": "5c913d5c0ac8",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements (5 permanent staff, $613,000)",
+  "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (5 permanent staff, $613,000)",
   "reason": "Adds a Parks Maintenance Service Enhancements package (Business Case #P-31, 5 permanent staff, $613,000), funded via $404,000 in 2025 capital expenditures -- a genuine new-spending addition, Tax Levy $0 because reserve/capital-funded: expansive."
  },
  {
   "id": "5e7c4ffad8fb",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "BE AMENDED by reducing Business Case #P-2 \u2013 Vehicle and Equipment Replacement to spread the reserve fund repayments over 6 years instead of 5 years",
+  "quote": "BE AMENDED by reducing Business Case #P-2 – Vehicle and Equipment Replacement to spread the reserve fund repayments over 6 years instead of 5 years",
   "reason": "Reduces Business Case #P-2 (Vehicle and Equipment Replacement) by spreading reserve-fund repayments over 6 years instead of 5 -- lowers the near-term annual cost: restrictive."
  },
  {
   "id": "641e792f4e4d",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements (2 permanent staff, $214,000)",
+  "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (2 permanent staff, $214,000)",
   "reason": "Adds a smaller Parks Maintenance Service Enhancements package (Business Case #P-31, 2 permanent staff, $214,000), funded via $156,000 in 2025 capital expenditures -- new-spending addition: expansive."
  },
  {
   "id": "68d604999a94",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to remove Budget Amendment #P-2 \u2013 \u201cPause Current City of London Annual Community Grants Program and Implement Reduced Program based on Availability of Funding\u201d ($496,000) and the annual contribution to the Economic Development Reserve Fund be reduced by an equivalent amount ($496,000)",
+  "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove Budget Amendment #P-2 – “Pause Current City of London Annual Community Grants Program and Implement Reduced Program based on Availability of Funding” ($496,000) and the annual contribution to the Economic Development Reserve Fund be reduced by an equivalent amount ($496,000)",
   "reason": "Would have removed a previously-proposed $496,000 pause/reduction to the Community Grants Program (restoring that funding), offset by an equal $496,000 cut to the Economic Development Reserve Fund contribution -- net $0 impact on THIS budget line's own dollar table, but the operative act is restoring the grants-program funding that was slated for a cut: expansive on the grants-program budget item, consistent with its own whatAYeaDid disclosure of the offsetting mechanism."
  },
  {
@@ -94,7 +94,7 @@
   "id": "732d2c36fa00",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "BE AMENDED to remove Business Case #P-7 \u2013 Implementation of a New Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting.",
+  "quote": "BE AMENDED to remove Business Case #P-7 – Implementation of a New Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting.",
   "reason": "Removes Business Case #P-7 (new Property Tax Software System / Capital Asset Reporting Tool) from the tabled budget entirely -- clean full removal of a proposed NEW expenditure: restrictive."
  },
  {
@@ -108,7 +108,7 @@
   "id": "84029487a951",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% \u2013 3.9% as identified to maintain existing service levels as well as additional investments of an additional 0.5% in funding for additional investment, for planning purposes",
+  "quote": "the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% – 3.9% as identified to maintain existing service levels as well as additional investments of an additional 0.5% in funding for additional investment, for planning purposes",
   "reason": "Final wrapper ('the motion, as amended, BE APPROVED') ratifying the same 2.9%-3.9%+0.5% tax-levy-increase direction as 2bb2090dcda1 above, confirmed via the full amendment ladder for this item: expansive."
  },
  {
@@ -129,28 +129,28 @@
   "id": "8e57a868a95d",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "b) an investment of $100,000 to expand the suite of children\u2019s digital literacy discovery programs",
+  "quote": "b) an investment of $100,000 to expand the suite of children’s digital literacy discovery programs",
   "reason": "Adds $100,000 in NEW capital spending (Business Case #P-30, children's digital literacy discovery programs), funded from reserve: expansive."
  },
  {
   "id": "96ff20fe8980",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "BE AMENDED to include Business Case #P-26 \u2013 Community Gardens Program Expansion to Support Food Security",
+  "quote": "BE AMENDED to include Business Case #P-26 – Community Gardens Program Expansion to Support Food Security",
   "reason": "Adds Business Case #P-26 (Community Gardens Program Expansion), delayed to 2026, funded partly by a new $12,000 property tax levy in 2026 and 2027 -- new spending: expansive."
  },
  {
   "id": "98b1cc4021c2",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to adjust Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements from $827,000 of Parks Operating Expenditures to $808,000, with an equal adjustment to the contribution to the Climate Change Reserve Fund, and to adjust Parks Capital Expenditures from $560,000 to $221,000",
+  "quote": "the Mayor’s 2025 Annual Budget Update BE AMENDED to adjust Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements from $827,000 of Parks Operating Expenditures to $808,000, with an equal adjustment to the contribution to the Climate Change Reserve Fund, and to adjust Parks Capital Expenditures from $560,000 to $221,000",
   "reason": "One of item A's own cited precedents: reduces Business Case #P-31 (Parks Maintenance Service Enhancements) from $827,000 to $808,000 operating and $560,000 to $221,000 capital, a real -$339,000 capital cut (Tax Levy nets $0 only because offset dollar-for-dollar against the Climate Change Reserve Fund contribution): restrictive."
  },
  {
   "id": "9f3df4886131",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "BE AMENDED to remove Business Case # P-9 \u2013 Giwetashkad Implementation.",
+  "quote": "BE AMENDED to remove Business Case # P-9 – Giwetashkad Implementation.",
   "reason": "Removes Business Case #P-9 (Giwetashkad Implementation) from the tabled budget entirely -- clean full removal of a proposed NEW expenditure: restrictive."
  },
  {
@@ -164,14 +164,14 @@
   "id": "ad20db2291a4",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "BE AMENDED to remove Business Case #P-37 \u2013 CMHA Holly\u2019s House.",
+  "quote": "BE AMENDED to remove Business Case #P-37 – CMHA Holly’s House.",
   "reason": "Removes Business Case #P-37 (CMHA Holly's House) from the tabled budget entirely -- clean full removal of a proposed NEW expenditure: restrictive."
  },
  {
   "id": "af27bf4fe10a",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "the Civic Administration BE DIRECTED to take no further action for the implementation of an expanded Tax Deferral Program at this time noting the impacts on budget amid the Mayor\u2019s direction to bring forward options for consideration that, if adopted, would produce a 2026 property tax levy increase under 5%",
+  "quote": "the Civic Administration BE DIRECTED to take no further action for the implementation of an expanded Tax Deferral Program at this time noting the impacts on budget amid the Mayor’s direction to bring forward options for consideration that, if adopted, would produce a 2026 property tax levy increase under 5%",
   "reason": "Directs taking NO further action on an expanded low-income property-tax deferral program at this time, citing the Mayor's direction to keep the 2026 levy increase under 5% -- declines an expansion: restrictive."
  },
  {
@@ -185,7 +185,7 @@
   "id": "c16642a4b383",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements (4 temporary staff, $149,000)",
+  "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (4 temporary staff, $149,000)",
   "reason": "Would have added a Parks Maintenance Service Enhancements package (Business Case #P-31, 4 temporary staff, $149,000), funded via $213,000 in 2025 capital expenditures -- new-spending addition: expansive."
  },
  {
@@ -199,21 +199,21 @@
   "id": "cb1ea540f2b8",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "BE AMENDED to remove Business Case #P-27 \u2013 Neighbourhood Decision Making Program Expansion.",
+  "quote": "BE AMENDED to remove Business Case #P-27 – Neighbourhood Decision Making Program Expansion.",
   "reason": "Removes Business Case #P-27 (Neighbourhood Decision Making Program Expansion) from the tabled budget entirely -- clean full removal of a proposed NEW expenditure: restrictive."
  },
  {
   "id": "e07bab24dc8b",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "BE AMENDED to remove Adj. #4 \u2013 Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget)",
+  "quote": "BE AMENDED to remove Adj. #4 – Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget)",
   "reason": "Removes Adj. #4 (a reduction of Museum London's increase down to 5.4%) and substitutes the higher 6.3% base-budget figure -- a double negative that nets to MORE funding, not less: expansive."
  },
  {
   "id": "e159c6f63bf1",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements (6 temporary staff, $276,000)",
+  "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (6 temporary staff, $276,000)",
   "reason": "Would have added a larger Parks Maintenance Service Enhancements package (Business Case #P-31, 6 temporary staff, $276,000), funded via $213,000 in 2025 capital expenditures -- new-spending addition: expansive."
  },
  {
@@ -227,7 +227,7 @@
   "id": "e9ba4b49deae",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 \u2013 The Grand Theatre",
+  "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 – The Grand Theatre",
   "reason": "First of the Grand Theatre Business Case #P-39 amendment votes: adds $100,000/year in NEW funding: expansive."
  },
  {
@@ -241,28 +241,28 @@
   "id": "fe3906dd8a26",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "BE AMENDED to remove Business Case #P-38 \u2013 City of London Community Arts Investment Program Expansion",
+  "quote": "BE AMENDED to remove Business Case #P-38 – City of London Community Arts Investment Program Expansion",
   "reason": "Would have removed Business Case #P-38 (City of London Community Arts Investment Program Expansion) from the tabled budget entirely -- clean full removal of a proposed NEW expenditure: restrictive."
  },
  {
   "id": "ff0da2243870",
   "axis": "levy-size",
   "polarity": "expansive",
-  "quote": "the Mayor\u2019s 2024-2027 Multi Year Budget BE AMENDED to remove Adj. #4 \u2013 Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget) as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023.",
+  "quote": "the Mayor’s 2024-2027 Multi Year Budget BE AMENDED to remove Adj. #4 – Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget) as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023.",
   "reason": "Same Museum London double-negative as e07bab24dc8b above (removes a reduction-to-5.4%, substitutes the higher 6.3% base figure) -- nets to MORE funding: expansive."
  },
  {
   "id": "2789ce535bcb",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and maintenance, such as graffiti removal, power washing, expanded street cleaning (garbage and sharps removal), and beautification and maintenance",
+  "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and maintenance, such as graffiti removal, power washing, expanded street cleaning (garbage and sharps removal), and beautification and maintenance",
   "reason": "Amendment-to-pending case, see corrections.json (Gate round 4 item A): relative to the pending motion it further amends (d925b5e3502c, $300,000 in both 2025 AND 2026), this failed further amendment would have dropped the 2026 $300,000 entirely -- restrictive relative to pending."
  },
  {
   "id": "a16e518570bf",
   "axis": "levy-size",
   "polarity": "restrictive",
-  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED by reducing by $500,000 the additional annual contribution to the Economic Development Reserve Fund included in 2024-2027 Multi-Year Budget Business Case #P-46 \u2013 Economic and Partnerships Initiatives in the adopted 2024-2027 Multi-Year Budget and that Civic Administration BE DIRECTED to transfer one million dollars from the Community Investment Reserve Fund to the Economic Development Reserve Fund in 2025 only.",
+  "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing by $500,000 the additional annual contribution to the Economic Development Reserve Fund included in 2024-2027 Multi-Year Budget Business Case #P-46 – Economic and Partnerships Initiatives in the adopted 2024-2027 Multi-Year Budget and that Civic Administration BE DIRECTED to transfer one million dollars from the Community Investment Reserve Fund to the Economic Development Reserve Fund in 2025 only.",
   "reason": "Self-referential 'the motion be amended to read as follows' wrapper whose replacement text is BYTE-IDENTICAL to the motion it wraps (both propose reducing the Economic Development Reserve Fund's annual contribution by $500,000/yr) -- no pending-vs-amended delta exists, so the printed Tax Levy: -$500,000 figure is read directly against the base budget with no amendment-to-pending ambiguity: restrictive."
  },
  {
@@ -278,5 +278,621 @@
   "polarity": "restrictive",
   "quote": "limit the City of London Community Grants Annual Program to the capital funding category, as defined in the City of London Community Grants Policy for 2026 and 2027",
   "reason": "Self-referential 'the motion BE AMENDED to read as follows' wrapper, but the motion it replaces (item 0) was a bare communication-receipt with no fiscal content pending at all -- this substitutes a genuine new restriction (limiting the Community Grants Annual Program to the capital-funding category only for 2026-2027, ending operating-stream grant funding for those years), so there is no pending dollar figure to net against: restrictive."
+ },
+ {
+  "id": "01465f51f33f",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "Motion to approve part d) d)      All Other Areas\n\n     i)      the revised 2021 budget, excluding Middlesex-London Health Unit, Golf, and Children’s Services BE APPROVED in the net amount of $657,542,662 after recognizing $8,852,749 of increased taxation from assessment growth; and 2021 gross expenditures equal to $968,398,612;\n\n     ii)      the revised 2022 to 2023 budget, excluding Middlesex-London Health Unit, Golf, and Children’s Services BE APPROVED in the gross amount of $2,015,476,425 and net amount of $1,389,138,809;",
+  "reason": "'All Other Areas' composite operating budget approval, net figures stated but this is a bottom-line total covering the whole remaining budget (not a marginal change) -- null polarity correct, consistent treatment with sibling total-budget rows."
+ },
+ {
+  "id": "02b775d6fd9f",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Initiative 23 of Business Case 7B (Operating), Expand case management approach for helping vulnerable populations, in the amount of $700,000 BE APPROVED.",
+  "reason": "Business-case initiative approved with $700,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "04c00ffa8c5d",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "b)    Case #P-10 - Transportation - Capital Project Adjustments -Capital Expenditure $9,191,000; Tax Levy $0 BE APPROVED; iii)    TS1355-1 – Wharncliffe Road Grade Separation Project - Capital Expenditure $3,000,000; Tax Levy $0",
+  "reason": "Quote verbatim vs item 4.4 idx3 (14-1). Tax Levy $0 on both the P-10 total and the TS1355-1 sub-line -- capital expenditure funded outside the levy, axis=levy-size/polarity=null correct per the $0-delta convention."
+ },
+ {
+  "id": "0501e1ce7481",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Initiative 43, as amended, BE APPROVED.",
+  "reason": "Ratifies Initiative 43 (Business Case 7B, temporary free municipal parking), $600,000 of NEW spending under the item's own 'business cases for additional investment' framing. The separate amendment motion (id 3767ea8f24da, this same item) only changed Initiative 43's funding source to the 2019 Operating Budget Surplus with the $600,000 figure itself unchanged, which is why THAT amendment is null (a funding-source swap against a still-pending amount, $0 delta) -- but this 'as amended, BE APPROVED' vote is what finally approves the $600,000 of new spending itself. New spending funded off-levy is still expansive per the corpus's own precedent for reserve/surplus-funded NEW additions (e.g. 0499ef880a69), distinct from a swap of an EXISTING levy allocation's funding source."
+ },
+ {
+  "id": "0836e36584a3",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "Case #P-5B - Ontario Works ($1,143,000)",
+  "reason": "Item 8.5.3 motion 6 (14-1): Case P-5B Ontario Works ($1,143,000). Quote verbatim. Cross-checked arithmetic: parent Case P-5's printed total (motion 0) is Tax Levy ($2,773,000) = P-5a's ($1,630,000) + P-5B's ($1,143,000) exactly, confirming the bare P-5B figure is itself the Tax Levy line (both Expenditure and Levy equal, matching P-5a's own pattern) even though the word 'Tax Levy' isn't repeated on this sub-line. Restrictive correct."
+ },
+ {
+  "id": "08ff8fc96f2c",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Main motion, as amended, with respect to Business Case 9 in the amount of $2,500,000, over ten years.",
+  "reason": "Ratifies the main motion for Business Case 9 (Fanshawe College Innovation Village), $2,500,000 of NEW investment over ten years, as fixed by the companion amendment (id 9eb55a7dc402, same item) which set the funding to $250,000 annually from the reserve fund. Same new-spending-funded-off-levy principle as 0501e1ce7481/9eb55a7dc402 -- expansive."
+ },
+ {
+  "id": "09ca4e8d3037",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "b) the 2020-2023 Multi-Year Capital Budget for Fire Services component BE ADOPTED: i. Page 110 – Lifecycle Renewal Capital Budget - $10,377,000 ii. Page 110 – Growth Capital Budget - $6,183,000 iii. Page 110 – Service Improvement Capital Budget - $4,503,000",
+  "reason": "Multi-Year Capital Budget/Forecast line-item readoption clause ('b) the 2020-2023 Multi-Year Capital Budget for Fire Services component BE ADOPTED: i. Page...') -- a composite service-area capital figure restated as part of budget book adoption, not a marginal directional change against the tabled budget; null polarity, consistent with the era's other composite capital-readoption rows in this same budget cycle."
+ },
+ {
+  "id": "0cebb09b9645",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "viii. Business Case 33 - Reduce Road Network Improvements for Minor Streets – 2020-2023 Total Investment ($3,200,000); Net Levy ($3,200,000)",
+  "reason": "Own printed Net Levy ($3,200,000) is parenthesized -- the corpus's parens-equals-negative convention makes this a levy decrease relative to the tabled/pending figure: restrictive."
+ },
+ {
+  "id": "137c80ec8730",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "That Business Case 7B: Core Area Action Plan, BE AMENDED by reducing the annual allocation for 2021, 2022 and 2023, in the amount of $825 K, to eliminate the 4 year Core Area Ambassador Pilot Program.",
+  "reason": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Confirmed FAILED 2-11 in source (P. Van Meerbergen's motion, SPPC 2020-12-10 item 4.1). Correctly hedged 'Would have reduced...'. Quote verbatim. Polarity=restrictive: motion cuts BC7B's annual allocation by $825K to eliminate the 4-year Core Area Ambassador pilot -- a real spending/levy reduction; no alternate funding source is named anywhere in the clause, so treating the $825K figure as the levy-size delta (rather than requiring a separate 'Net Levy' label) is the correct reading, consistent with how Business Case allocations are treated elsewhere in this same item when no reserve-fund swap is stated."
+ },
+ {
+  "id": "13d85a7489ae",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "ix. Business Case 34 - Transfer portion of Conservation Authority costs to Wastewater & Treatment Budget – 2020-2023 Total Investment ($11,544,000); Net Levy ($11,554,000).",
+  "reason": "Own printed Net Levy ($11,554,000) is parenthesized -- the corpus's parens-equals-negative convention makes this a levy decrease relative to the tabled/pending figure: restrictive."
+ },
+ {
+  "id": "1417bac61d37",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That Operating Budget Amendments included in Case #4 (Bicycle Lane Maintenance), BE APPROVED.",
+  "reason": "Same pattern as Case #2: Case #4 standalone vote carries no dollar figure in its own motion text; correctly null."
+ },
+ {
+  "id": "19abbf6e629f",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "iii. B) Neighbourhood and Recreation Services provincial impacts for consideration - Child Care Expansion Funding Municipal Cost Sharing Changes (related to children’s services): $4,890,000;",
+  "reason": "Own printed figure ($4,890,000) is positive/unparenthesized in this clause's own text: expansive, per the corpus's signed-figure convention."
+ },
+ {
+  "id": "1d7a01345286",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Initiative 29 of Business Case 7A (Capital), proactive by-law enforcement, in the amount of $50,000 BE APPROVED.",
+  "reason": "Business-case initiative approved with $50,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "2c091d243f1b",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "opportunities for a phased-in Tourism London funding reduction from the municipal levy, in light of new funding transferred to Tourism London from the Municipal Accommodation Tax",
+  "reason": "Council-stage confirmation of the Tourism London service-review sub-clause (2019-07-30 Council item 9.2.2, Part b)iii), Passed 8-4). Quote verbatim. issue=budget/axis=levy-size/polarity=null correct, same reasoning as 8868fb5f4501."
+ },
+ {
+  "id": "2d989f0d676e",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "Business Case #2 (Cancellation of Planned 2019 Minimum wage Increase) - Net Impact $(521), BE APPROVED;",
+  "reason": "Verified against the split 8.4.4(ii) sub-vote (9-6): quote is verbatim, and 'Net Impact $(521)' is the motion's own levy-effect figure -- a negative number is a levy decrease, so restrictive is correct. No stance verb; whatAYeaDid uses motion-action voice."
+ },
+ {
+  "id": "2f1ba95f03a3",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "Motion to approve part b) b)      Golf\n\n     i)       the revised 2021 budget for Golf BE APPROVED in the gross amount of $3,695,630 and net amount of $40,255; \n\n     ii)      the revised 2022 to 2023 budget for Golf BE APPROVED in the gross amount of $7,528,799 and net amount of $132,626.",
+  "reason": "Golf operating budget approval (2021 net $40,255; 2022-23 net $132,626) -- this restates a composite service-area budget total rather than a marginal increase/decrease, so treating it as non-directional (null) rather than force-fitting expansive/restrictive is correct; no single derivable delta stated."
+ },
+ {
+  "id": "313701d284a1",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the following contributions BE APPROVED, with respect to Business Case 4B - City of London Infrastructure Gap: 2020 $750,000 2021 $1,500,000 2022 $2,250,000 2023 $3,000,000; it being noted that the Net Levy Investment for the 2020-2023 Multi-Year Budget will be $7,500,000.",
+  "reason": "Own printed the Net Levy/Net Impact figure is an unparenthesized positive figure -- a levy increase relative to the tabled/pending figure: expansive."
+ },
+ {
+  "id": "355512e50dd7",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "That the following portion of the 2020-2023 Multi-Year Budget business case for potential net levy reduction BE ADOPTED: v. Business Case 30 - London Public Library - Wi-Fi Hotspot Lending Program – 2020-2023 Total Investment ($188,000); Net Levy ($188,000)",
+  "reason": "REFUTATION PASS: loaded Council 8.5.14 source JSON directly. Item 4.11 has TWO motion blocks -- an unrecorded 'approve items i-ix as a batch' block and a separately recorded 9-6 vote on ONLY 'v. Business Case 30 ... Net Levy ($188,000)'. Quote matches the second (voted) block verbatim, correctly isolated. Net Levy line is the motion's own printed figure; parenthesized = reduction -> levy-size/restrictive is correct (eliminates program funding, cuts the levy). Not an amendment-to-pending case (this IS the pending, independently-voted item). No denial verb, no stance verb."
+ },
+ {
+  "id": "36c04108c4a0",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "b) the 2020-2023 Multi-Year Capital Budget for Rapid Transit BE ADOPTED: i. Page 133 – Growth Capital Budget - $257,563,000",
+  "reason": "Multi-Year Capital Budget/Forecast line-item readoption clause ('b) the 2020-2023 Multi-Year Capital Budget for Rapid Transit BE ADOPTED: i. Page 133 – Gro...') -- a composite service-area capital figure restated as part of budget book adoption, not a marginal directional change against the tabled budget; null polarity, consistent with the era's other composite capital-readoption rows in this same budget cycle."
+ },
+ {
+  "id": "374735d9976b",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "Approve the revision to BC #4B, as amended.",
+  "reason": "Bare wrapper ratification of the BC#4B revision -- no dollar figures restated in this clause's own text; null polarity correct (no derivable dollar line in this specific quote), figures already captured directionally in the paired 9ed992fb7625 row."
+ },
+ {
+  "id": "3767ea8f24da",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That Initiative 43 of Business Case 7B (Operating), Experiment with temporary free municipal parking, in the amount of $600,000 BE AMENDED to fund the four-year initiative from the 2019 Operating Budget Surplus.",
+  "reason": "Amends Initiative 43 (Business Case 7B, temporary free municipal parking) to change ONLY its funding source, to the 2019 Operating Budget Surplus -- the $600,000 figure itself is unchanged from what was already pending. A funding-source swap against a still-pending amount with $0 delta to the levy: null, per convention. (Contrast 0501e1ce7481, the later 'as amended, BE APPROVED' ratification of this same initiative, which is expansive as the vote that actually approves the $600,000 of new spending.)"
+ },
+ {
+  "id": "39836762cff5",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Item a) iii) London Transit Commission provincial impacts for consideration, as amended, BE APPROVED.",
+  "reason": "Confirmed expansive (unambiguous positive levy-impact direction on the LTC provincial-impacts line either way), but flagging for the record: the item's own text shows two different pre-final dollar figures for this line ($19,328,000 in the original wrapper text vs $21,926,000 in an unvoted intermediate ordinal-3 draft) -- whatAYeaDid's '$19,328,000 offset by $2.6M' detail is grounded in the item's own wrapper text (content ordinal 0) via legitimate cross-item tracing, not invented, but the exact reconciliation of the two figures is not fully resolved by the source text."
+ },
+ {
+  "id": "40fbf92043f3",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "b) the 2020-2023 Multi-Year Capital Budget for Environmental Services BE ADOPTED:\n\nii. Page 82 – Growth Capital Budget - $0\n\niii. Page 82 – Service Improvement Capital Budget - $51,500,000",
+  "reason": "14-1 adoption of Growth Capital Budget ($0) + Service Improvement Capital Budget ($51,500,000); quote verbatim; net-positive sign correctly read as expansive."
+ },
+ {
+  "id": "44ddbc36ed43",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Initiative 54 of Business Case 7B (Operating), Provide grants to implement safety audit recommendations on privately-owned property through Core Area Community Improvement Plan, in the amount of $300,000 BE APPROVED.",
+  "reason": "Business-case initiative approved with $300,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "45ac863d926e",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "a) the net 2020-2023 Multi-Year Operating Budget for the following services within Environmental Services BE ADOPTED: viii. Page 80 – Garbage Recycling and Composting - $82,011,000",
+  "reason": "14-1 adoption of Garbage Recycling and Composting operating line at $82,011,000; quote verbatim; axis/polarity correct."
+ },
+ {
+  "id": "47529b6bfd4b",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "That the motion to allocate $330,000 from Assessment Growth Revenue to the 2019 Budget BE AMENDED to be $1,000,000 to the 2019 Budget amount.",
+  "reason": "FAILED amendment (5-10) correctly hedged \"Would have amended...\"; both figures ($330,000 -> $1,000,000) stated per amendment-vs-pending convention; bigger levy-offset = restrictive is right on the levy-size axis definition (reduces the levy). Quote verbatim."
+ },
+ {
+  "id": "4a1b2f99494f",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "a) the net 2020-2023 Multi-Year Operating Budget for the following service within Economic Prosperity BE ADOPTED: iv. Page 71 - Tourism & Sports Attraction - $8,254,000",
+  "reason": "13-1 adoption of the Tourism & Sports Attraction operating line at $8,254,000 (voted separately after the above amendment failed); quote verbatim; axis=levy-size, polarity=expansive consistent with this era's established positive/no-parens=expansive base-budget-adoption sign convention."
+ },
+ {
+  "id": "4ad0024b0bcc",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That, in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the capital budget (Appendix B), it being noted the 2021, 2022 and 2023 budget figures reflect the exclusion of the Master Accommodation Plan as approved via the “Master Accommodation Plan Update and Procurement Process” report (SPPC, Nov 17, 2020, Agenda Item 2.1) approved at the Council meeting on November 24, 2020: a)     the amended 2021 capital budget BE READOPTED in the amount of $228,419,000. b)     the amended 2022 capital budget BE READOPTED in the amount of $290,668,000. c)     the amended 2023 capital budget BE READOPTED in the amount of $392,039,000. d)     the amended 2024-2029 capital forecast BE APPROVED in principle the amount of $1,546,794,000.",
+  "reason": "Council-level ratification of capital budget readoption + 2024-29 forecast -- composite multi-year totals, null correct, consistent with a0c9f6a93504."
+ },
+ {
+  "id": "4b344c12d54b",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "x. Business Case 21 – Regeneration of Public Housing – 2020-2023 Total: Investment $5,250,000; Net Levy $5,250,000",
+  "reason": "Own printed Net Levy $5,250,000 is an unparenthesized positive figure -- a levy increase relative to the tabled/pending figure: expansive."
+ },
+ {
+  "id": "4e5a559e24ca",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That “new” Initiative of Business Case 7A (Capital), Invest in Dundas Place, in the amount of $200,000 BE APPROVED.",
+  "reason": "Business-case initiative approved with $200,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "52679d13ba79",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That Operating Budget Amendments included in Case #13 (Subsidized Transit for Seniors), BE APPROVED.",
+  "reason": "Case #13 standalone vote, no own dollar line; correctly null."
+ },
+ {
+  "id": "532f9cf65fd9",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "vii. Business Case 18 – LMCH Co-Investment with CMHC – 2020-2023 Total: Investment $20,229,000; Net Levy $7,777,000",
+  "reason": "Own printed Net Levy $7,777,000 is an unparenthesized positive figure -- a levy increase relative to the tabled/pending figure: expansive."
+ },
+ {
+  "id": "5927c18f15df",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "vii. Business Case 5A – Climate Emergency Declaration – Develop Action Plan – 2020-2023 Total: Investment $50,000; Net Levy $0",
+  "reason": "Downgraded expansive->null. Classifier's own stated rule (judgment call #2) requires reserve/surplus funding to be EXPLICITLY noted in the motion's own text before a $0-Net-Levy business case counts as expansive; BC5A's text ('Investment $50,000; Net Levy $0') carries no such language anywhere in the wrapper or the pulled sub-motion (unlike BC9's ordinal-5 amendment, which does say '...from the reserve fund' explicitly) -- no derivable levy-direction line, so null per the corpus's own $0-delta-is-unclear convention."
+ },
+ {
+  "id": "5988d9904b79",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the following actions be taken with respect to the 2020-2023 Multi-Year Budget: a) the 2020-2023 corporate tax levy BE ADOPTED in the amount of $2,684,600,789, which represents an approximate average annual increase of 3.9% from rates; and 2020-2023 gross expenditures equal to $4,197,079,669; b) the 2020 corporate tax levy BE ADOPTED in the amount of $642,901,178 after recognizing $9,868,280 of increased taxation from assessment growth; and 2020 gross expenditures equal to $1,021,582,817;",
+  "reason": "REFUTATION PASS: loaded Council 8.5.5.19 source JSON directly (nested under item 8.5.5, sub-item 19). Motion text, 12-3 roll call (same 12 yeas / 3 nays as the SPPC version), and both $ figures match dabf702ad211 verbatim -- this is Council's own vote adopting the same corporate levy figures the committee recommended. Same '3.9% average annual increase' printed line -> levy-size/expansive confirmed independently."
+ },
+ {
+  "id": "59c574597373",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That the Hamilton Road Business Improvement Area (BIA) BE GIVEN a grant of $50,000 for 2019 to assist the BIA in their activities; it being noted that this is a 4km, low assessment area with a 4.9% levy totaling only $70,000; it being further noted that the grant would be funded from the Community Investment Reserve Fund.",
+  "reason": "Hamilton Road BIA grant funded from a reserve fund, not the levy; correctly polarity null (no tax-levy line)."
+ },
+ {
+  "id": "5a296dd3b522",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "b) the 2020-2023 Multi-Year Capital Budget for Victoria Bridge BE ADOPTED: i. Page 133 – Lifecycle Renewal Capital Budget – $10,840,000 ii. Page 133 – Growth Capital Budget – $3,300,000",
+  "reason": "Multi-Year Capital Budget/Forecast line-item readoption clause ('b) the 2020-2023 Multi-Year Capital Budget for Victoria Bridge BE ADOPTED: i. Page 133 – L...') -- a composite service-area capital figure restated as part of budget book adoption, not a marginal directional change against the tabled budget; null polarity, consistent with the era's other composite capital-readoption rows in this same budget cycle."
+ },
+ {
+  "id": "5c79b950d1c2",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That Operating Budget Amendments included in Case #6 (Safeguard Program - London Police Service), BE APPROVED.",
+  "reason": "Case #6 standalone vote, no own dollar line; correctly null."
+ },
+ {
+  "id": "69b2de1dbbea",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "ii. Business Case 27 - London Public Library - Eliminate Planned Security Enhancements – 2020-2023 Total Investment ($107,000); Net Levy ($107,000)",
+  "reason": "Business Case 27, 14-1, Net Levy ($107,000) parens=restrictive; quote verbatim; math/sign correct."
+ },
+ {
+  "id": "74069de95545",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That parts a)iii), iv) and vi) of item 4.1 BE APPROVED: iii)       Business Case #4 (Bicycle Lane Maintenance) - Net Impact $408, BE APPROVED; iv)       Business Case #6 (Safeguard Program - London Police Service) - Net Impact $161, BE APPROVED; vi)       Business Case #13 (Subsidized Transit for Seniors) - Net Impact $285, BE APPROVED;",
+  "reason": "Council-stage sub-motion (14-1) quote matches the actual voted text exactly (part a)iii,iv,vi of item 4.1, distinct from the 15-0 and 9-6 sub-motions in the same source item); all three net impacts are positive (+$408k, +$161k, +$285k = more spending), so expansive is correct on the levy-size axis."
+ },
+ {
+  "id": "78a0f0a36c6d",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "That $330,000 from Assessment Growth revenue BE ALLOCATED to the 2019 Budget in order to off-set the tax levy.",
+  "reason": "Floor motion (12-3) quote verbatim matches the standalone $330,000 vote at 2019-01-24 SPPC exactly; own text carries the dollar figure and explicit \"off-set the tax levy\" language — restrictive is correct (an allocation that offsets/reduces the levy)."
+ },
+ {
+  "id": "7ba03c8e164e",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That Item 4.5, parts d) and e), BE APPROVED. d) All Other Areas\n\n      i)      the revised 2021 budget, excluding Middlesex-London Health Unit, Golf, and Children’s Services BE APPROVED in the net amount of $657,542,662 after recognizing $8,852,749 of increased taxation from assessment growth; and 2021 gross expenditures equal to $968,398,612;\n\n     ii)      the revised 2022 to 2023 budget, excluding Middlesex-London Health Unit, Golf, and Children’s Services BE APPROVED in the gross amount of $2,015,476,425 and net amount of $1,389,138,809; e) Total Budget\n\n     i)      it being noted that the revised total 2021 tax levy is the net amount of $673,580,833 after recognizing $8,852,749 of increased taxation from assessment growth; and total 2021 gross expenditures equal to $1,039,162,202; and, \n\n     ii)     it being noted that the revised total 2022 to 2023 forecasted tax levy is equal to the gross amount of $2,159,988,704 and net amount of $1,422,754,073.",
+  "reason": "Council-level ratification of 'All Other Areas' + Total Budget -- composite totals, null correct, consistent with 01465f51f33f/a587bb9b1f9c."
+ },
+ {
+  "id": "7e0f69812921",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That “new” Initiative of Business Case 7A (Operating), Invest in Dundas Place, in the amount of $1,200,000 BE APPROVED.",
+  "reason": "Business-case initiative approved with $1,200,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "7e14ccfbf0ad",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "Motion to approve Business Case #9, as amended.",
+  "reason": "Business Case #9 approved as amended, funding source switched to Economic Development Reserve Fund rather than tax levy -- textbook funding-source-swap-with-$0-delta case, null polarity correct per convention. Quote verbatim."
+ },
+ {
+  "id": "7e78ec4c4496",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the Balance of Business Case 7A – Administratively Prioritized Balance of Full Core Action Plan in the amounts of $3,620,000 (Operating) and $2,015,000 (Capital) BE APPROVED.",
+  "reason": "Business-case initiative approved with $3,620,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "80fd559375d4",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "ii. Business Case 2 – Affordable Housing Community Improvement Plan – 2020-2023 Total: Investment $4,772,000; Net Levy $772,000",
+  "reason": "Own printed Net Levy $772,000 is an unparenthesized positive figure -- a levy increase relative to the tabled/pending figure: expansive."
+ },
+ {
+  "id": "8129dc1eca23",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That Operating Budget Amendments included in Case #2 (Cancellation of Planned 2019 Minimum wage Increase), BE APPROVED.",
+  "reason": "Standalone Case #2 floor motion has no dollar figure in its own text (the $(521) net impact only appears in the sibling omnibus item 4.1 text) — correctly left polarity null."
+ },
+ {
+  "id": "862d5f97ccd9",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "iv. Business Case 29 - London Public Library – Promissory Note Forgiveness - 2020- 2023 Total Investment ($912,000); Net Levy ($717,000)",
+  "reason": "Business Case 29, 8-6, Net Levy ($717,000) parens=restrictive (correctly uses the Net Levy figure, not the larger $912,000 Total Investment figure); quote verbatim."
+ },
+ {
+  "id": "87a544f49888",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That Item 4.1, part i), Case #9 BE APPROVED. i)     Case #9 - Parks and Recreation - Implementation of Strategic Objectives Related to Growing a Film Sector in London\n\n      i)       the document entitled “London Community Ideas for Film Industry Development”, as submitted by Councillors M. van Holst and P. Squire, BE REFFERED to the Civic Administration for consideration;\n\n      ii)      Business Case #9 - Implementation of Strategic Objectives Related to Growing a Film Sector in London BE AMENDED to increase the annual funding allocation to $300,000; and\n\n      iii)      the above-noted amended Business Case #9 BE FURTHER AMENDED by revising the source of funding to be from the Economic Development Reserve Fund;",
+  "reason": "Council-level ratification of Case #9 (film-sector funding), same funding-source-swap-to-reserve-fund pattern as the SPPC-level rows above -- null correct."
+ },
+ {
+  "id": "8868fb5f4501",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "Opportunities for a phased-in Tourism London funding reduction from the municipal levy, in light of new funding transferred to Tourism London from the Municipal Accommodation Tax.",
+  "reason": "Tourism London levy-reduction added to service-review list (2019-07-29 SPPC item 4.1, Passed 8-4). Quote verbatim. issue=budget/axis=levy-size correct per convention; polarity correctly null -- no dollar figure is stated in this operative text and adding to a review list enacts no levy change (no 'Tax Levy $' line exists to quote)."
+ },
+ {
+  "id": "8b2f3fe6d958",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That Item 4.5, part b), BE APPROVED: b)  Golf\n\n     i)      the revised 2021 budget for Golf BE APPROVED in the gross amount of $3,695,630 and net amount of $40,255; \n\n     ii)     the revised 2022 to 2023 budget for Golf BE APPROVED in the gross amount of $7,528,799 and net amount of $132,626.",
+  "reason": "Council-level ratification of the Golf operating budget -- composite total, null correct, consistent with 2f1ba95f03a3."
+ },
+ {
+  "id": "8cb5c9dfda1a",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "Motion to approve part b) of the amendment as follows: b)       Business Case #9 (ADDED) – Parks and Recreation – Implementation of Strategic Objectives Related to Growing a Film Sector in London” BE AMENDED to increase the annual funding allocation to $300,000",
+  "reason": "Business Case #9 first amendment (raise allocation to $300,000) -- funding source not yet specified at this stage (only fixed to Economic Development Reserve Fund in the following amendment, 7e14ccfbf0ad/cd2845327f06), so the tax-levy effect of this specific clause is genuinely undetermined -- null polarity defensible under the 'funding-source swap' / 'no derivable dollar line at this stage' convention. Quote verbatim."
+ },
+ {
+  "id": "901667d2387a",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That Operating Budget Amendment - Case #7 (London Children's Museum - Funding Request), BE AMENDED, to revise the source of funding of the Case with $1,500,000 being funded from the Economic Development Reserve Fund, and $500,000 being funded from the Tourism Infrastructure Reserve Fund.",
+  "reason": "Case #7 funding-source swap, total unchanged (Net Impact $0 in source item 4.1(a)(v)); $0-delta swap = polarity null per convention."
+ },
+ {
+  "id": "92544394476b",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "That the annual base allocation to the Operating Budget of Tourism London, including in part 4.2 a)iv) BE REDUCED by $200,000.",
+  "reason": "FAILED 3-11 amendment to REDUCE the still-pending Tourism London base allocation (part 4.2 a)iv, not yet voted — the $8,254,000 line was adopted separately afterward at 13-1); correctly hedged, correctly states BOTH the $8,254,000 pending line and the $200,000 proposed cut per the amendment-to-pending-motion convention; axis=levy-size, polarity=restrictive correct (a yea would have cut the levy); quote verbatim."
+ },
+ {
+  "id": "9458857bddc6",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "ix. Page 122 – Social and Community Support Services provincial impacts for consideration - $6,249,000",
+  "reason": "Own printed figure ($6,249,000) is positive/unparenthesized in this clause's own text: expansive, per the corpus's signed-figure convention."
+ },
+ {
+  "id": "978f0a2bd042",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "the Civic Administration BE DIRECTED to provide a one-time grant of up to $100,000 to the joint legal challenges of Bill 21 by the National Council of Canadian Muslims, the World Sikh Organization, and the Canadian Civil Liberties Association, with the funding to be accommodated from the operating budget contingency.",
+  "reason": "Item 12.1.1 motion 4 ('Motion to approve part c)', 13-2); quoted text is verbatim part c) from motion 1, same item, legitimate wrapper tracing. Budget/levy-size/expansive matches the human-reviewed 0947f5f92e12 precedent (a real new $-commitment funded from operating-budget contingency, no printed Tax Levy line, read as expansive) -- checked reviewed-levy-rows.json entry for 0947f5f92e12 directly, pattern applies cleanly here too."
+ },
+ {
+  "id": "9ceeef382443",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "a) the net 2020-2023 Multi-Year Operating Budget for the following services within Environmental Services BE ADOPTED:\n\nii. Page 81 – Kettle Creek Conservation Authority provincial impacts for consideration - $133,000\n\niv. Page 81 – Lower Thames Valley Conservation Authority provincial impacts for consideration - $19,000\n\nvi. Page 81 – Upper Thames River Conservation Authority provincial impacts for consideration - $451,000",
+  "reason": "12-3 adoption of 3 Conservation Authority provincial-impacts lines ($133k+$19k+$451k=$603k); quote verbatim; math correct; axis=levy-size, polarity=expansive consistent with era sign convention."
+ },
+ {
+  "id": "9d5a329ad946",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Initiative 25, of Business Case 7B (Operating), Core Area Ambassador Pilot Program, in the amount of $2,875,000, as amended (revised source of funding) BE APPROVED.",
+  "reason": "Business-case initiative approved with $2,875,000,  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "9eb55a7dc402",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the motion related to Business Case 9, Fanshawe College Innovation Village, BE AMENDED to reflect a funding amount of $2,500,000, with the funding to be paid over ten years ($250,000 annually from the reserve fund).",
+  "reason": "Amends the Business Case 9 (Fanshawe College Innovation Village) motion to SET its funding at $2,500,000 over ten years ($250,000 annually from the reserve fund) -- this fixes a new dollar amount for the case, not a swap of an already-approved figure's funding source with $0 delta (contrast 8cb5c9dfda1a, a different Business Case #9 at a different meeting, where the funding source alone was still undetermined and correctly null). New reserve-funded investment being established: expansive."
+ },
+ {
+  "id": "9ed992fb7625",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "That Business Case #4B: City of London Infrastructure Gap, BE REDUCED by $500,000 annually, with the revised tax levy impacts to be as follows:\n\n2021 - 1,000,000\n\n2022 - 1,250,000\n\n2023 - 1,500,000",
+  "reason": "REFUTATION ATTEMPTED, FAILED TO OVERTURN. Confirmed the claimed escribe split-vote artifact: SPPC 2020-12-10 item 4.1's motion block 15 (BE REDUCED text, empty result) is immediately followed by motion block 16 (empty text, 'Motion Passed (9 to 6)') -- verified directly from the meeting JSON, not just taken on the classifier's word. Quote verbatim against block 15. Polarity=restrictive correct: reduces BC#4B's annual levy contributions from the previously-amended 1.0M/1.75M/2.5M (set in the omnibus motion) down to 1.0M/1.25M/1.5M -- a real levy-size decrease, correctly signed against the pending figure per the amendment-vs-pending convention. whatAYeaDid states both the old and new figures as required."
+ },
+ {
+  "id": "a0c9f6a93504",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That, in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the capital budget (Appendix B), it being noted the 2021, 2022 and 2023 budget figures reflect the exclusion of the Master Accommodation Plan as approved via the “Master Accommodation Plan Update and Procurement Process” report (SPPC, Nov 17, 2020, Agenda Item 2.1) approved at the Council meeting on November 24, 2020: a)     the amended 2021 capital budget BE READOPTED in the amount of $228,419,000. b)     the amended 2022 capital budget BE READOPTED in the amount of $290,668,000. c)     the amended 2023 capital budget BE READOPTED in the amount of $392,039,000. d)     the amended 2024-2029 capital forecast BE APPROVED in principle the amount of $1,546,794,000.",
+  "reason": "Capital budget readoption + 2024-29 forecast approval in principle -- composite multi-year capital totals, not a marginal directional change; null correct."
+ },
+ {
+  "id": "a587bb9b1f9c",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "Motion to approve part e) e)      Total Budget\n\n     i)      it being noted that the revised total 2021 tax levy is the net amount of $673,580,833 after recognizing $8,852,749 of increased taxation from assessment growth; and total 2021 gross expenditures equal to $1,039,162,202; and, \n\n     ii)     it being noted that the revised total 2022 to 2023 forecasted tax levy is equal to the gross amount of $2,159,988,704 and net amount of $1,422,754,073.",
+  "reason": "Total Budget summary noting figures -- same composite-total reasoning as above, null correct."
+ },
+ {
+  "id": "a611aef6d438",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "i. Business Case 1 – 60% Waste Diversion Action Plan – 2020-2023 Total: Investment $17,600,000; Net Levy $17,600,000",
+  "reason": "Own printed Net Levy $17,600,000 is an unparenthesized positive figure -- a levy increase relative to the tabled/pending figure: expansive."
+ },
+ {
+  "id": "a6baae988499",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "b) the capital funding program BE SUSPENDED after 2020; and,",
+  "reason": "whatAYeaDid said 'discontinued' but the actually-voted amendment text (rollCallOrdinal 4, distinct from the earlier unvoted 'BE DISCONTINUED' draft at ordinal 1) reads 'BE SUSPENDED' -- fixed the verb to match the operative text the quote already correctly cited; polarity/restrictive/hedge unaffected."
+ },
+ {
+  "id": "a8bbf3d1b972",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Initiative 55 of Business Case 7B (Operating), Implement safety audit recommendations on public property, in the amount of $600,000 BE APPROVED.",
+  "reason": "Business-case initiative approved with $600,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "a933f1714801",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Initiative 42 of Business Case 7A (Operating), Fund four-year Core Area “construction dollars” pilot program, in the amount of $200,000 BE APPROVED.",
+  "reason": "Business-case initiative approved with $200,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "ac608489d5e1",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "That Initiative 25 (Operating), of Business Case 7B (Operating), four-year Core Area Ambassador pilot program, in the amount of $2.875 million, BE AMENDED to be funded from the 2019 operating budget surplus.",
+  "reason": "Amends Initiative 25 (Business Case 7B, four-year Core Area Ambassador pilot program) to change ONLY its funding source, to the 2019 operating budget surplus -- the $2.875 million figure itself is unchanged from what was already pending. Same funding-source-swap-with-$0-delta pattern as 3767ea8f24da: null."
+ },
+ {
+  "id": "ad17b02b1352",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Initiative 45 of Business Case 7A (Operating), Activate spaces and places with bistro chairs and tables, in the amount of $200,000 BE APPROVED.",
+  "reason": "Business-case initiative approved with $200,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "b12ec4b1e9f6",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "iv. Business Case 10B – HDC Funding for Affordable Housing – 2020-2023 Total: Investment $2,800,000; Net Levy $2,800,000",
+  "reason": "Own printed Net Levy $2,800,000 is an unparenthesized positive figure -- a levy increase relative to the tabled/pending figure: expansive."
+ },
+ {
+  "id": "bc233596944d",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "v. Business Case 30 - London Public Library - Wi-Fi Hotspot Lending Program – 2020-2023 Total Investment ($188,000); Net Levy ($188,000)",
+  "reason": "Business Case 30, 9-6, Net Levy ($188,000) parens=restrictive; quote verbatim."
+ },
+ {
+  "id": "be74a08b9548",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the Balance of Business Case 7B – For Consideration Balance of Full Core Action Plan in the amounts of $2,900,000 (Operating) and $1,5000,000 (Capital) BE APPROVED.",
+  "reason": "Business-case initiative approved with $2,900,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "c45ecfdaf1a0",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "c) the 2024-2029 Multi-Year Capital Forecast for Rapid Transit BE ADOPTED in principle: i. Page 133 – Growth Capital Forecast - $212,982,000",
+  "reason": "Multi-Year Capital Budget/Forecast line-item readoption clause ('c) the 2024-2029 Multi-Year Capital Forecast for Rapid Transit BE ADOPTED in principle: i....') -- a composite service-area capital figure restated as part of budget book adoption, not a marginal directional change against the tabled budget; null polarity, consistent with the era's other composite capital-readoption rows in this same budget cycle."
+ },
+ {
+  "id": "c6f6255d67a5",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "b) the 2020-2023 Multi-Year Capital Budget for Environmental Services BE ADOPTED: i. Page 82 – Lifecycle Renewal Capital Budget - $8,790,00",
+  "reason": "Quote-verbatim violation: the classified quote read '...Lifecycle Renewal Capital Budget - $8,790,000' (3 zeros), but THIS specific sub-motion's own printed text (verified against raw meeting JSON, distinct from the earlier bundling/wrapper node which does show $8,790,000 correctly) reads '$8,790,00' — a source transcription typo dropping the trailing zero. Corrected the quote field to match this motion's own verbatim text exactly (typo preserved, per verify-quote-verbatim.py's cross-item tracing requirement). Left whatAYeaDid stating the true $8,790,000 figure (cross-confirmed via the identical line item in the parent bundling motion and the item's own budget-book page reference) since that is the accurate amount and not itself a false statement; axis=levy-size/polarity=expansive unaffected either way (sign is positive under both readings)."
+ },
+ {
+  "id": "ca6e251cf083",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "opportunities for a phased-in Tourism London funding reduction from the municipal levy, in light of new funding transferred to Tourism London from the Municipal Accommodation Tax",
+  "reason": "Council-stage vote on the Tourism London service-review sub-clause (2019-07-30 Council item 9.2.2, Failed 5-8). Quote verbatim; FAILED hedge 'Would have approved considering' correct. issue=budget/axis=levy-size/polarity=null correct, same reasoning as 8868fb5f4501/2c091d243f1b."
+ },
+ {
+  "id": "cd2845327f06",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "Approve Business Case #9, as further amended.",
+  "reason": "Bare wrapper ratification ('Approve Business Case #9, as further amended') -- no dollar figures in this clause's own text; null polarity correct (no derivable dollar line), consistent with the funding-source swap already established in the prior two rows."
+ },
+ {
+  "id": "d0077680f900",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "vii. Business Case 32 - Museum London - Exhibitions and Programs Reductions - 2020-2023 Total revised Investment ($182,000); Net Levy ($182,000)",
+  "reason": "FAILED 7-7 Business Case 32, Net Levy ($182,000) parens=restrictive; correctly hedged 'Would have approved'; quote verbatim."
+ },
+ {
+  "id": "dabf702ad211",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the following actions be taken with respect to the 2020-2023 Multi-Year Budget: a) the 2020-2023 corporate tax levy BE ADOPTED in the amount of $2,684,600,789, which represents an approximate average annual increase of 3.9% from rates; and 2020-2023 gross expenditures equal to $4,197,079,669; b) the 2020 corporate tax levy BE ADOPTED in the amount of $642,901,178 after recognizing $9,868,280 of increased taxation from assessment growth; and 2020 gross expenditures equal to $1,021,582,817;",
+  "reason": "REFUTATION PASS: loaded 2020-02-14 SPPC item 4.16 source JSON directly. Motion text, 12-3 roll call, and both $ figures match verbatim. Own clause states '3.9% average annual increase' -- levy-size/expansive is the only reading; no denial verb, no amendment-vs-pending wrinkle (this is the base adopting motion). whatAYeaDid is motion-action voice, no stance verb."
+ },
+ {
+  "id": "e0c770629166",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "a) the net 2020-2023 Multi-Year Operating Budget for the following service within Culture BE ADOPTED: iv. Page 60 - Museum London provincial impacts for consideration - $54,000",
+  "reason": "FAILED 5-10 Museum London provincial-impacts addition ($54,000, no parens); correctly hedged 'Would have adopted'; axis=levy-size, polarity=expansive correct per the era's positive/no-parens=expansive sign convention; quote verbatim."
+ },
+ {
+  "id": "e341007f8111",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "v. Page 131 – Rapid Transit - $0",
+  "reason": "Own printed figure is exactly $0 ('v. Page 131 – Rapid Transit - $0') -- no derivable net levy effect, null polarity per convention (no derivable dollar line)."
+ },
+ {
+  "id": "e5b0a6e30e72",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "iii. Business Case 28 - London Public Library - Eliminate Planned Staffing Increase – 2020-2023 Total Investment ($42,000); Net Levy ($42,000)",
+  "reason": "Business Case 28, 14-1, Net Levy ($42,000) parens=restrictive; quote verbatim."
+ },
+ {
+  "id": "eac1f29279f5",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "that $330,000 from Assessment Growth revenue BE ALLOCATED to the 2019 Budget in order to off-set the tax levy.",
+  "reason": "Verified against 8.4.4(c) (12-3): quote verbatim ('off-set' hyphenation matches source). $330,000 assessment-growth revenue applied to REDUCE the levy requirement is correctly restrictive (smaller levy), matching the convention's 'net effect of the motion passing' read."
+ },
+ {
+  "id": "ec0a24bd7eda",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Initiative 23 of Business Case 7A (Operating), Expand case management approach for helping vulnerable populations, in the amount of $3,300,000 BE APPROVED.",
+  "reason": "Business-case initiative approved with $3,300,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "eddc79d79b5a",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "That the following actions be taken with regard to the London Community Grants Program in order to reduce the overall tax levy and keep public spending focused on areas of municipal responsibility: a) that funding set out in the draft Multi-Year Budget for the 2022 and 2023 multi-year stream BE REDUCED by 50%; and,",
+  "reason": "FAILED motion correctly hedged ('Would have reduced...'); quote is the voted-on part-a) excerpt (ordinal 3), distinct from the unvoted full-package draft at ordinal 1 -- correct motion selected."
+ },
+ {
+  "id": "f3a6dba77fbb",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "i. Business Case 26 – Eliminate Curbside Christmas Tree Collection - 2020-2023 Total Investment ($120,000); Net Levy ($120,000)",
+  "reason": "Own printed Net Levy ($120,000) is parenthesized -- the corpus's parens-equals-negative convention makes this a levy decrease relative to the tabled/pending figure: restrictive."
+ },
+ {
+  "id": "f76e891066b0",
+  "axis": "levy-size",
+  "polarity": null,
+  "quote": "i. C) Golf within Neighbourhood and Recreation Services excluding provincial impacts: $0",
+  "reason": "Own printed figure is exactly $0 ('i. C) Golf within Neighbourhood and Recreation Services excluding provincial impacts: $0') -- no derivable net levy effect, null polarity per convention (no derivable dollar line)."
+ },
+ {
+  "id": "fa155f03b395",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Initiative 50 of Business Case 7B (Operating), Establish new Core Area garbage and recycling collection program, in the amount of $100,000 BE APPROVED.",
+  "reason": "Business-case initiative approved with $100,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "fa3b5b548788",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "c) the 2024-2029 Multi-Year Capital Forecast for Environmental Services BE ADOPTED in principle: i. Page 82 – Lifecycle Renewal Capital Forecast - $9,315,000, ii. Page 82 – Growth Capital Forecast - $20,000,000, iii. Page 82 – Service Improvement Capital Forecast - $8,000,000",
+  "reason": "14-1 adoption in principle of the 2024-2029 Capital Forecast ($9,315k+$20,000k+$8,000k=$37,315k); quote verbatim; math correct; axis/polarity correct."
+ },
+ {
+  "id": "fc0b03767de1",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "vi. Business Case 31 - Multi-Residential Sector Fee Increase for Waste Collection – 2020-2023 Total Investment $0; Net Levy ($900,000)",
+  "reason": "Own printed Net Levy ($900,000) is parenthesized -- the corpus's parens-equals-negative convention makes this a levy decrease relative to the tabled/pending figure: restrictive."
+ },
+ {
+  "id": "fcd8f179e5c1",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Initiative 22 of Business Case 7A (Capital), Create new housing units with supportive living arrangements, in the amount of $5,000,000 BE APPROVED.",
+  "reason": "Business-case initiative approved with $5,000,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
  }
 ]

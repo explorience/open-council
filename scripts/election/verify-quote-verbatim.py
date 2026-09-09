@@ -83,6 +83,85 @@ HAND_TRACED = {
         "item 4.4's own specific clause (a separate roll call in the same "
         "item) — a legitimate two-source-string quote, not a misquote."
     ),
+    "1d36bfd23162": (
+        "months/2020-09/2020-09-22 Civic Works Committee, item 4.1 (Plantation "
+        "Road amendment): the quote reads '...oppression and racism;\" from part "
+        "b)' while the source paragraph has one extra space before the closing "
+        "quote mark ('racism; \" from part b)'). Confirmed identical content "
+        "otherwise — a single dropped space adjacent to an embedded quotation "
+        "mark, not a misquote."
+    ),
+    "6babf3bc897c": (
+        "months/2020-10/2020-10-27 Council, item 12.1 (Bill 218 ranked-ballot "
+        "resolution): the quote's two '...' elisions correctly mark real "
+        "dropped text (sub-clauses ii/iii between a)/b), and the 'to the "
+        "Municipal Elections Act, 1996 as set out in Bill 218...' clause "
+        "between b)/c)) but the first segment's 'Act, 1996:' collapses the "
+        "source's 'Act, 1996 :' (space before the colon) to no-space, which "
+        "the whitespace-normalized tiers don't treat as equivalent. Confirmed "
+        "against the full item text — the ellipses are accurate and no "
+        "content is misrepresented."
+    ),
+    "e0c8bf325a44": (
+        "months/2020-11/2020-11-24 Council, item 8.3.11 (Active Transportation "
+        "Infrastructure Plan amendment): the quote concatenates the amendment's "
+        "part b) (RIS sub-clauses i and ii, source paragraphs joined by a "
+        "line break) directly into part c) with a '...' where the source has "
+        "none — b) and c) are in fact contiguous in the source with nothing "
+        "elided between them, so the '...' is a harmless extra marker, not a "
+        "dropped-content error. Confirmed b)+i)+ii)+c) read exactly as quoted."
+    ),
+    "3633a55c7581": (
+        "months/2021-02/2021-02-08 Planning and Environment Committee, item "
+        "2.8, Additional Votes (clause a) 1.3 sub-motion): the quote is the "
+        "literal concatenation of three adjacent source paragraphs ('Motion "
+        "to approve clause a) 1.3, which reads as follows:' + the quoted "
+        "clause header + '- 1.3 A Break in the Clouds;\"') stored as separate "
+        "Paragraph entries in eScribe but contiguous in the actual motion "
+        "text — confirmed verbatim once joined."
+    ),
+    "c1ecdbe63ec4": (
+        "months/2021-02/2021-02-08 Planning and Environment Committee, item "
+        "2.8, Additional Votes (clause a) 3.5 sub-motion): the quote is the "
+        "embedded quoted clause from 'Motion to approve clause a) 3.5, which "
+        "reads as follows: \"a) ... APPROVED: - 3.5 Provide better market "
+        "data to attract new businesses;\"' with the wrapper sentence and the "
+        "outer typographic quote marks stripped — confirmed the retained span "
+        "is a verbatim, contiguous quote of that specific roll call's own "
+        "motion text (distinct from the main a) list of items 2.5-2.9)."
+    ),
+    "5fb9391bf3ee": (
+        "months/2021-10/2021-10-05 Council, item 8.2.6 (McCOR/Westmount Mall "
+        "referral): the quote joins the referral clause with the 'it being "
+        "noted...communications' clause and its dash-bulleted list, which the "
+        "source stores as separate Paragraph entries separated by blank "
+        "lines rather than as one string — confirmed contiguous and verbatim "
+        "once joined; no content dropped or altered."
+    ),
+    "fd6ec817ee4d": (
+        "months/2021-11/2021-11-01 Planning and Environment Committee, item "
+        "3.7 (560 Wellington rezoning introduction): same multi-paragraph-"
+        "join pattern as 5fb9391bf3ee — the preamble, parts a)/b), and the "
+        "'it being pointed out...communications' clause with its dash list "
+        "are separate source Paragraph entries joined contiguously in the "
+        "quote; confirmed verbatim once joined."
+    ),
+    "c2d2cccde147": (
+        "months/2021-11/2021-11-02 Community and Protective Services "
+        "Committee, item 2.5 (Winter Response Program funding): same "
+        "multi-paragraph-join pattern — parts a)-d), the agency dash list, "
+        "and the 'it being pointed out...communications' clause are separate "
+        "source Paragraph entries; confirmed the quote reproduces them "
+        "verbatim and contiguously, including the $1,685,000.00 figure."
+    ),
+    "5e529f7a59be": (
+        "months/2021-11/2021-11-16 Council, item 8.4.17 (560 Wellington "
+        "rezoning, 'BE AMENDED by adding...at the end of the clause'): the "
+        "quote is the source's own bracketed amendment text — 'it being "
+        "further noted...' plus its one dash-bulleted reason — stored as "
+        "separate Paragraph entries; confirmed contiguous and verbatim once "
+        "joined."
+    ),
 }
 
 BULLET_RE = re.compile(r"(?m)^[\s\xa0]*[-•][\s\xa0]+")
