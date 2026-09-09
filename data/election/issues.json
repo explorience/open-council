@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T13:00:49.071Z",
+  "generatedAt": "2026-09-09T13:52:12.364Z",
   "sourceHash": "c89decb146e3da17",
   "sourceGeneratedAt": "2026-09-05T10:52:14.158Z",
   "cutoffDate": "2023-01-01",
@@ -6785,7 +6785,7 @@
           "direction": {
             "axis": "response-scale",
             "valence": 1,
-            "label": "Approved a one-time funding allocation of up to $174,210 for London Cares Homeless Response Services to support security services at two locations, plus endorsed additional safety programming within existing budgets.",
+            "label": "Approved a one-time funding allocation of up to $174,210 for London Cares Homeless Response Services to support security services at two locations, plus adopted additional safety programming within existing budgets.",
             "axisLabels": {
               "expansive": "expanded the encampment/homelessness response",
               "restrictive": "reduced the encampment/homelessness response"
@@ -39516,7 +39516,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Approved Official Plan and zoning amendments for 323 Oxford Street West and 92/825 Proudfoot Lane permitting building heights up to 18 storeys, and endorsed a draft plan of subdivision with medium- and high-density residential blocks.",
+            "label": "Approved Official Plan and zoning amendments for 323 Oxford Street West and 92/825 Proudfoot Lane permitting building heights up to 18 storeys, and advised the Approval Authority of Council's support for issuing draft approval of a plan of subdivision with medium- and high-density residential blocks.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
