@@ -6582,5 +6582,13 @@
   "now": "expansive",
   "reason": "Companion to this id's issue/axis corrections above: polarity follows, matching 0052db0821e2's already-corrected expansive polarity -- an expropriation-approval clause advancing the transit corridor project is the expansive outcome on the transit-service axis, same reasoning already applied to the Council-stage twin.",
   "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project"
+ },
+ {
+  "id": "bbdcbfecfc06",
+  "field": "whatAYeaDid",
+  "was": "Approved introducing a by-law rezoning 36 Wethered Street from Residential R1 to a Holding Residential R5 Special Provision zone, which the motion states permits an appropriate form of more intensive residential redevelopment on the site.",
+  "now": "Approved introducing a by-law rezoning 36 Wethered Street from Residential R1 to a Holding Residential R5 Special Provision zone, which the motion states would permit an appropriate form of redevelopment at an intensity that can be accommodated on the subject lands and compatible with the surrounding neighbourhood.",
+  "reason": "Gate round 6: under an explicit 'the motion states' attribution, the label used the comparative 'more intensive residential redevelopment' -- words the motion never uses -- and dropped its compatibility qualifier. Reworded to track the motion's own reasons clause ('would permit an appropriate form of redevelopment at an intensity that can be accommodated on the subject lands and is considered compatible with the surrounding neighbourhood'). Axis (density) and polarity (expansive) unchanged -- grounded in the FROM R1 TO R5 rezoning clause per the round-5 correction above.",
+  "quote": "would permit an appropriate form of redevelopment at an intensity that can be accommodated on the subject lands and is considered compatible with the surrounding neighbourhood"
  }
 ]

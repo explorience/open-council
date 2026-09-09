@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T16:06:56.595Z",
+  "generatedAt": "2026-09-09T16:34:23.053Z",
   "sourceHash": "c89decb146e3da17",
   "sourceGeneratedAt": "2026-09-05T10:52:14.158Z",
   "cutoffDate": "2023-01-01",
@@ -28210,7 +28210,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Approved introducing a by-law rezoning 36 Wethered Street from Residential R1 to a Holding Residential R5 Special Provision zone, which the motion states permits an appropriate form of more intensive residential redevelopment on the site.",
+            "label": "Approved introducing a by-law rezoning 36 Wethered Street from Residential R1 to a Holding Residential R5 Special Provision zone, which the motion states would permit an appropriate form of redevelopment at an intensity that can be accommodated on the subject lands and compatible with the surrounding neighbourhood.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
