@@ -9,7 +9,7 @@ below), the commit's full raw message (`git log -1 --format=%B`), with only
 its trailing newline(s) stripped, must end with EXACTLY:
 
   Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
-  Claude-Session: https://claude.ai/code/session_01AEA1RWnKEDhEFCsvSP5Xmp
+  Claude-Session: <the authoring session URL — any one of KNOWN_SESSIONS below>
 
 and nothing else after that second line -- no extra blank line with
 content, no leaked heredoc terminator ("EOF"), no stray closing paren, no
@@ -39,9 +39,18 @@ import re
 import subprocess
 import sys
 
-REQUIRED_TRAILERS = (
+# One entry per legitimate authoring session: a commit must end with exactly
+# the Co-Authored-By line plus the Claude-Session line of the session that
+# authored it. Sessions are append-only here; never remove an old one (its
+# commits are permanent history).
+KNOWN_SESSIONS = (
+    "https://claude.ai/code/session_01AEA1RWnKEDhEFCsvSP5Xmp",
+    "https://claude.ai/code/session_014Svnp8WcfKWLkqhk694WTP",
+)
+ACCEPTED_TRAILER_BLOCKS = tuple(
     "Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>\n"
-    "Claude-Session: https://claude.ai/code/session_01AEA1RWnKEDhEFCsvSP5Xmp"
+    f"Claude-Session: {session}"
+    for session in KNOWN_SESSIONS
 )
 
 PR_SUBJECT_RE = re.compile(r"\(#\d+\)\s*$")
@@ -80,12 +89,12 @@ def main():
         body = run("log", "-1", "--format=%B", sha)
         trimmed = body.rstrip("\n")
 
-        if trimmed.endswith(REQUIRED_TRAILERS):
+        if any(trimmed.endswith(block) for block in ACCEPTED_TRAILER_BLOCKS):
             passes.append((sha[:8], subject))
         else:
             reason = (
                 "missing one or both required trailer lines"
-                if REQUIRED_TRAILERS not in body
+                if not any(block in body for block in ACCEPTED_TRAILER_BLOCKS)
                 else "trailers present but followed by extra content (leaked heredoc/paren/etc.)"
             )
             failures.append((sha[:8], subject, reason, trimmed[-200:]))
