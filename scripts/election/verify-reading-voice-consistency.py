@@ -86,7 +86,29 @@ ESTABLISHED_RE = re.compile(
 )
 
 TO_READ_RE = re.compile(r"\bto read\b", re.IGNORECASE)
+# Gate round 9 item D: a capitalized "Reading" inside a PROPER NAME (the
+# London Public Library's "Reading Garden" amenity -- see 6a116821cad8's
+# corrections.json entries) is not a legislative-reading stage word at all,
+# but READING_WORD_RE's bare \breading\b match can't tell the difference on
+# its own. The prior fix for this row escaped the check by dropping
+# "Reading" entirely -- lossy (it erased the amenity's real name), not
+# false, but avoidable: strip every known proper-noun-Reading phrase from
+# the text BEFORE testing READING_WORD_RE, so the name can stay in
+# whatAYeaDid without re-triggering this check. Deliberately an enumerated,
+# capitalized-exact list (like STANCE_VERBS/HEDGE_PREFIXES in
+# verify-no-stance-verb-whataeadid.py), not a bare-word carve-out: a
+# lowercase/generic "reading garden" (were one ever misused as a common
+# noun) would NOT match this and would still correctly fall through to the
+# stage-word test.
+PROPER_NOUN_READING_PHRASES = ["Reading Garden"]
+PROPER_NOUN_READING_RE = re.compile(
+    r"\b(" + "|".join(re.escape(p) for p in PROPER_NOUN_READING_PHRASES) + r")\b"
+)
 READING_WORD_RE = re.compile(r"\breading\b", re.IGNORECASE)
+
+
+def _strip_proper_noun_reading(text: str) -> str:
+    return PROPER_NOUN_READING_RE.sub("", text)
 ENACT_WORD_RE = re.compile(r"\benact\w*\b", re.IGNORECASE)
 # Same negation convention as sweep-reading-stage-labels.py's RE_D_NEGATED:
 # an "enact" immediately preceded by without/not/never is a correctly-hedged
@@ -102,7 +124,7 @@ READING_MOTION_RE = re.compile(
 def is_reading_related(text: str, motion: dict | None) -> bool:
     if TO_READ_RE.search(text):
         return False
-    if READING_WORD_RE.search(text):
+    if READING_WORD_RE.search(_strip_proper_noun_reading(text)):
         return True
     for m in ENACT_WORD_RE.finditer(text):
         preceding = text[max(0, m.start() - 15) : m.start()]
@@ -214,6 +236,50 @@ def self_test() -> int:
     if not expected_ids <= flagged_ids:
         print(f"SELF-TEST FAILED: expected all of {expected_ids} flagged, got {flagged_ids}")
         return 1
+    print("\n=== self-test: round-9 item D proper-noun guard, BOTH directions ===")
+    # (1) THE GARBLED FORM FAILS: a lowercase/generic "reading garden" (NOT
+    # the capitalized proper noun PROPER_NOUN_READING_RE matches) must still
+    # be caught as reading-related and, since it doesn't match ESTABLISHED_RE,
+    # flagged as an outlier -- proves the guard doesn't blanket-exempt the
+    # phrase regardless of case.
+    garbled_key = ("6a116821cad8", "whatAYeaDid")
+    garbled_text = "Approved London Community Recovery Network Business Case #4, funding library reading garden access from Dundas Place Flex Street."
+    last_idx = max(idx for idx, c in enumerate(base) if (c["id"], c["field"]) == garbled_key)
+    if base[last_idx]["now"] == garbled_text:
+        print(f"SELF-TEST FAILED: {garbled_key} is already at the garbled revert text -- proves nothing")
+        return 1
+    mutated_garbled = list(base)
+    mutated_garbled[last_idx] = dict(mutated_garbled[last_idx])
+    mutated_garbled[last_idx]["now"] = garbled_text
+    code_g, msgs_g = run_check(corrections_override=mutated_garbled)
+    if code_g != 1:
+        print("\n".join(msgs_g))
+        print("SELF-TEST FAILED: lowercase/generic 'reading garden' (garbled form) was not flagged as an outlier")
+        return 1
+    entries_g = lc.load_verified_entries()
+    motions_g = lc.load_all_motions()
+    lc.apply_corrections(entries_g, motions_g, mutated_garbled)
+    flagged_g = {mid for mid, _ in find_outliers(entries_g, motions_g)[0]}
+    if garbled_key[0] not in flagged_g:
+        print(f"SELF-TEST FAILED: expected {garbled_key[0]} flagged for the garbled lowercase form, got {flagged_g}")
+        return 1
+    print(f" - garbled form ({garbled_text!r}) -> exit 1 (confirmed flagged)")
+
+    # (2) THE PROPER NOUN PASSES: the real, current (post-corrections.json)
+    # text restores the capitalized "Reading Garden" name and must NOT be
+    # treated as reading-related at all (so it can never be an outlier).
+    entries_real = lc.load_verified_entries()
+    motions_real = lc.load_all_motions()
+    lc.apply_corrections(entries_real, motions_real, lc.load_corrections())
+    real_text = entries_real[garbled_key[0]]["whatAYeaDid"]
+    if "Reading Garden" not in real_text:
+        print(f"SELF-TEST FAILED: expected the current corrections.json text for {garbled_key[0]} to contain 'Reading Garden', got {real_text!r}")
+        return 1
+    if is_reading_related(real_text, motions_real.get(garbled_key[0])):
+        print(f"SELF-TEST FAILED: proper-noun text {real_text!r} was incorrectly treated as reading-related")
+        return 1
+    print(f" - proper noun ({real_text!r}) -> correctly NOT reading-related (not flagged)")
+
     print("\n=== self-test: restore, expect exit 0 ===")
     code2, msgs2 = run_check()
     print("\n".join(msgs2))
