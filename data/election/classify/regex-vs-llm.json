@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-09T15:15:08.742Z",
+  "generatedAt": "2026-09-09T16:06:53.527Z",
   "note": "Cross-check report only — the regex engine in issue-rules.ts/direction-rules.ts is NOT the source of any published claim as of the 2026-08-31 rebuild; every published issue/axis/polarity/whatAYeaDid comes from data/election/classify/batch-*-verified.json. This file records every motion in the divided universe where the regex engine's independent read (issue classification and/or direction) disagrees with the verified classification, for ongoing regex-quality monitoring.",
   "totalCompared": 1732,
-  "disagreementCount": 684,
+  "disagreementCount": 685,
   "disagreements": [
     {
       "motionId": "0f3f61ff19fd",
@@ -325,6 +325,24 @@
       "llm": {
         "issue": "downtown",
         "axis": "application-approval",
+        "polarity": "expansive"
+      }
+    },
+    {
+      "motionId": "bbdcbfecfc06",
+      "date": "2026-06-23",
+      "meetingSlug": "months/2026-06/2026-06-23 11th Meeting of Council",
+      "itemNumber": "8.5.8",
+      "itemTitle": "(3.7) 36 Wethered Street - Z-26050 (Relates to Bill No. 260)",
+      "kind": "axis",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": "density",
         "polarity": "expansive"
       }
     },
@@ -1936,15 +1954,15 @@
       "meetingSlug": "months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET",
       "itemNumber": "8.3.8",
       "itemTitle": "(4.9) Amendment - Councillor D. Ferreira",
-      "kind": "issue",
+      "kind": "axis",
       "regex": {
         "issue": "downtown",
         "axis": null,
         "valence": null
       },
       "llm": {
-        "issue": "budget",
-        "axis": "levy-size",
+        "issue": "downtown",
+        "axis": "application-approval",
         "polarity": "expansive"
       }
     },
@@ -3422,6 +3440,24 @@
         "issue": null,
         "axis": null,
         "polarity": null
+      }
+    },
+    {
+      "motionId": "b38513a0a390",
+      "date": "2025-07-16",
+      "meetingSlug": "months/2025-07/2025-07-16 12th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemNumber": "2.8",
+      "itemTitle": "Expropriation of Lands - Phase 2 - Wellington Gateway Project Civil Works",
+      "kind": "issue",
+      "regex": {
+        "issue": null,
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": "transit",
+        "axis": "transit-service",
+        "polarity": "expansive"
       }
     },
     {
@@ -7922,24 +7958,6 @@
         "issue": "transit",
         "axis": null,
         "polarity": null
-      }
-    },
-    {
-      "motionId": "7418004bd1af",
-      "date": "2024-06-04",
-      "meetingSlug": "months/2024-06/2024-06-04 11th Meeting of City Council",
-      "itemNumber": "8.4.11",
-      "itemTitle": "(3.6) 193-199 College Avenue (OZ-8693)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "expansive"
       }
     },
     {

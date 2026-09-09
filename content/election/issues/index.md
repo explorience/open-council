@@ -16,17 +16,17 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 |-------|:---:|:---:|
 | [Housing & Density](/election/issues/housing) | 347 | 206 |
 | [Homelessness & Encampments](/election/issues/encampments) | 162 | 65 |
-| [Taxes & Budget](/election/issues/budget) | 150 | 91 |
-| [Transit & Roads](/election/issues/transit) | 117 | 60 |
+| [Taxes & Budget](/election/issues/budget) | 149 | 90 |
+| [Transit & Roads](/election/issues/transit) | 118 | 61 |
 | [Climate & Green Space](/election/issues/climate) | 43 | 17 |
-| [Downtown & Core](/election/issues/downtown) | 30 | 19 |
+| [Downtown & Core](/election/issues/downtown) | 31 | 20 |
 | [Policing](/election/issues/policing) | 21 | 6 |
 | [Bike Lanes / Cycling](/election/issues/bikes) | 21 | 15 |
 
 
 ## Unclassified divided votes
 
-841 additional divided motions since January 1, 2023 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 841 are listed below:
+840 additional divided motions since January 1, 2023 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 840 are listed below:
 
 - July 21, 2026 — By-laws (item 13)
 - July 21, 2026 — By-laws (item 13)
@@ -317,7 +317,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - July 22, 2025 — (2.1) 2nd Report of the Governance Working Group (item 8.5.4)
 - July 17, 2025 — 2nd Report of the Governance Working Group (item 2.1)
 - July 16, 2025 — Biosolids Management Master Plan - Notice of Completion (item 2.1)
-- July 16, 2025 — Expropriation of Lands - Phase 2 - Wellington Gateway Project Civil Works (item 2.8)
 - July 16, 2025 — London Emergency Services Campus (item 4.1)
 - July 14, 2025 — (ADDED) Funding Request for Hamilton Road BIA and the Old East Village BIA (item 5.2)
 - June 24, 2025 — By-laws (item 13)
