@@ -6246,5 +6246,109 @@
   "now": "Approved London Community Recovery Network Business Case #4, funding library garden access from Dundas Place Flex Street.",
   "reason": "verify-reading-voice-consistency.py: 'reading-garden' is the library amenity's own name (London Public Library Reading Garden), not a legislative reading, but the check's word-boundary match on 'reading' pulls it into the reading/enactment voice check regardless of context, where it cannot take the 'Gave ... reading' voice. Dropped 'reading' from the paraphrase (garden access from Dundas Place Flex Street) -- the substance of what Business Case #4 funds is unchanged.",
   "quote": "iv) Business Case # 4: London Public Library Reading Garden Access from Dundas Place Flex Street;"
+ },
+ {
+  "id": "2d989f0d676e",
+  "field": "whatAYeaDid",
+  "was": "Approved Business Case #2, cancelling the planned 2019 minimum wage increase in the Operating Budget, a net decrease of $521 to the 2019 tax levy.",
+  "now": "Approved Business Case #2, cancelling the planned 2019 minimum wage increase in the Operating Budget, a net decrease of $521,000 to the 2019 tax levy.",
+  "reason": "Gate round 9 item A BLOCKER: the source item's own title is '(4.1) Review of Operating Budget Amendments (rounded to the closest $1,000)' -- the motion's own 'Net Impact $(521)' figure is $521,000, not $521. Sibling 74069de95545 (SAME item 8.4.4, same 2019-02-12 meeting) correctly renders its own three business-case figures as full dollars ($408,000/$161,000/$285,000) from the identically-rounded '$408'/'$161'/'$285' source figures, proving the corpus's own established convention for this item is to scale, not copy the bare digits. Understated the true fiscal magnitude of this vote by 1000x. Corpus-wide scan of every levy/budget whatAYeaDid dollar figure in batches 40-65 (scripts/election/sweep-levy-thousands-rounding.py) against all 9 rounded-to-$1,000 source items in scope confirms this is the sole instance of the class. Direction (restrictive) is unchanged -- a negative levy figure is a decrease at any scale.",
+  "quote": "Business Case #2 (Cancellation of Planned 2019 Minimum wage Increase) - Net Impact $(521), BE APPROVED;"
+ },
+ {
+  "id": "960505d7bb80",
+  "field": "whatAYeaDid",
+  "was": "Approved introducing a by-law to rezone 355 Marconi Boulevard from Restricted Service Commercial to Holding Residential R1, and supported draft approval of a 30-lot single-detached residential subdivision on the property.",
+  "now": "Approved introducing a by-law to rezone 355 Marconi Boulevard from Restricted Service Commercial to Holding Residential R1, and advised the Approval Authority of Council's support for issuing draft approval of a 30-lot single-detached residential subdivision on the property.",
+  "reason": "Gate round 9 item B: 'and supported draft approval of ...' is a mid-sentence coordinated STANCE verb (a second predicate of the yea, same defect class as the corpus's opening-position 'Supported'/'Backed'/'Endorsed' guard already forbids) -- source is 'the Approval Authority BE ADVISED that Municipal Council supports issuing draft approval of the proposed plan of subdivision ...', an advisory-to-another-body action, not Council personally endorsing anything. Reworded to advisory-action voice matching what the motion's own text does. Caught by widening scripts/election/verify-no-stance-verb-whataeadid.py to detect coordinated stance-verb predicates mid-sentence (after 'and '/', '/'; ').",
+  "quote": "the proposed by-law appended to the staff report dated October 19, 2020 as Appendix 'A' BE INTRODUCED at the Municipal Council meeting to be held on October 27, 2020 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Restricted Service Commercial RSC1/RSC3/RSC5 Zone TO a Holding Residential R1 (h-R1-1) Zone and a Holding Residential R1 Special Provision (h-R1-1( )) Zone; ... the Approval Authority BE ADVISED that Municipal Council supports issuing draft approval of the proposed plan of subdivision ... which shows thirty (30) single detached residential dwelling lots and one (1) new street"
+ },
+ {
+  "id": "f6361a61d337",
+  "field": "whatAYeaDid",
+  "was": "Approved Official Plan and zoning amendments for 323 Oxford Street West and 92/825 Proudfoot Lane permitting building heights up to 18 storeys, and endorsed a draft plan of subdivision with medium- and high-density residential blocks.",
+  "now": "Approved Official Plan and zoning amendments for 323 Oxford Street West and 92/825 Proudfoot Lane permitting building heights up to 18 storeys, and advised the Approval Authority of Council's support for issuing draft approval of a plan of subdivision with medium- and high-density residential blocks.",
+  "reason": "Gate round 9 item B (same defect class as 960505d7bb80, found by the widened corpus-wide mid-sentence stance-verb check): source part f) is 'the Approval Authority BE ADVISED that Municipal Council supports issuing draft approval of the proposed plan of residential subdivision ... which shows a draft plan of subdivision consisting of three (3) medium density residential blocks; four (4) high density blocks ...' -- the identical advisory-to-the-Approval-Authority construction, not a personal Council endorsement. Reworded to the same advisory-action voice.",
+  "quote": "permit development with a maximum height of 18 storeys (60 metres)"
+ },
+ {
+  "id": "35d6a5473517",
+  "field": "whatAYeaDid",
+  "was": "Approved a one-time funding allocation of up to $174,210 for London Cares Homeless Response Services to support security services at two locations, plus endorsed additional safety programming within existing budgets.",
+  "now": "Approved a one-time funding allocation of up to $174,210 for London Cares Homeless Response Services to support security services at two locations, plus adopted additional safety programming within existing budgets.",
+  "reason": "Gate round 9 item B: found by manual corpus audit alongside the widened stance-verb check (not itself caught by that check's literal 'and '/', '/'; ' marker set, since this row's coordinator is 'plus' -- resolved here as the same underlying defect class rather than left in place). Source part c) reads '... BE ENDORSED', a literal council action clause; per this corpus's established convention (verify-no-stance-verb-whataeadid.py's own docstring: a motion's own 'BE ENDORSED' operative text is still rendered in the corpus's action-voice vocabulary, never the personal-agreement verb) reworded 'endorsed' to 'adopted', consistent with how every other 'BE ENDORSED' clause in the corpus is rendered.",
+  "quote": "a one-time funding allocation of up to $174,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations BE AUTHORIZED AND APPROVED"
+ },
+ {
+  "id": "0dd0f857160d",
+  "field": "issue",
+  "was": "downtown",
+  "now": "transit",
+  "reason": "months/2019-03/2019-03-26 Council item 9.4.4 -- this item's own title is '(4.1) Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission': Project 1 Downtown Loop is one of the ICIP Public Transit Stream transportation projects submitted for federal/provincial transit funding, alongside Project 3 East London Link (dcb0f1eb29ad, already issue=transit/transit-service) -- both are bus rapid transit corridor projects, not general downtown-area content. Filing Project 1 under issue=downtown while its sibling Project 3 sits under issue=transit split the SAME BRT program's sibling capital decisions across two issues within one item, so a returning councillor's transit voting record omits their Downtown Loop votes. (Two OTHER same-item entries, 1b50644b049a/a98a86bddb89, cover genuinely different projects in the same ICIP submission -- Dundas Place Active Transportation Connection and Dundas Street Old East Village Streetscape Improvements, neither a BRT project -- and correctly stay issue=downtown; documented in data/election/classify/reviewed-issue-splits.json rather than reclassified.)",
+  "quote": "That Item 4.1 a) i) Project 1. Downtown Loop BE APPROVED."
+ },
+ {
+  "id": "0dd0f857160d",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "months/2019-03/2019-03-26 Council item 9.4.4 -- this item's own title is '(4.1) Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission': Project 1 Downtown Loop is one of the ICIP Public Transit Stream transportation projects submitted for federal/provincial transit funding, alongside Project 3 East London Link (dcb0f1eb29ad, already issue=transit/transit-service) -- both are bus rapid transit corridor projects, not general downtown-area content. Filing Project 1 under issue=downtown while its sibling Project 3 sits under issue=transit split the SAME BRT program's sibling capital decisions across two issues within one item, so a returning councillor's transit voting record omits their Downtown Loop votes. (Two OTHER same-item entries, 1b50644b049a/a98a86bddb89, cover genuinely different projects in the same ICIP submission -- Dundas Place Active Transportation Connection and Dundas Street Old East Village Streetscape Improvements, neither a BRT project -- and correctly stay issue=downtown; documented in data/election/classify/reviewed-issue-splits.json rather than reclassified.)",
+  "quote": "That Item 4.1 a) i) Project 1. Downtown Loop BE APPROVED."
+ },
+ {
+  "id": "8dc6de530d39",
+  "field": "issue",
+  "was": "downtown",
+  "now": "transit",
+  "reason": "months/2020-01/2020-01-14 Council item 8.3.10, 'Downtown Loop and Municipal Infrastructure Improvements - Appointment of Consulting Engineer' -- the design-engineering stage of the SAME Downtown Loop BRT capital project approved for ICIP Public Transit Stream funding submission at 2019-03-26 item 9.4.4 (0dd0f857160d, this round). Reclassified alongside it.",
+  "quote": "AECOM Canada Ltd. BE APPOINTED Consulting Engineers for the Downtown Loop and Municipal Infrastructure Improvements at an upset amount of $3,345,245 including contingency (excluding HST), in accordance with Section 15.2 (e) of the Procurement of Goods and Services policy;"
+ },
+ {
+  "id": "8dc6de530d39",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "months/2020-01/2020-01-14 Council item 8.3.10, 'Downtown Loop and Municipal Infrastructure Improvements - Appointment of Consulting Engineer' -- the design-engineering stage of the SAME Downtown Loop BRT capital project approved for ICIP Public Transit Stream funding submission at 2019-03-26 item 9.4.4 (0dd0f857160d, this round). Reclassified alongside it.",
+  "quote": "AECOM Canada Ltd. BE APPOINTED Consulting Engineers for the Downtown Loop and Municipal Infrastructure Improvements at an upset amount of $3,345,245 including contingency (excluding HST), in accordance with Section 15.2 (e) of the Procurement of Goods and Services policy;"
+ },
+ {
+  "id": "2cb6c9292ef6",
+  "field": "issue",
+  "was": "downtown",
+  "now": "transit",
+  "reason": "months/2021-02/2021-02-23 Council item 8.4.11, Council ratification of Contract Award Tender No. 21-01 for 'Downtown Loop and Municipal Infrastructure Improvements Phase 1' -- the construction-tender stage of the SAME Downtown Loop BRT capital project (see 0dd0f857160d). Reclassified alongside it.",
+  "quote": "a) the bid submitted by L82 Construction Ltd. at its tendered price of $8,177,280.64 (excluding HST) for the Downtown Loop and Municipal Infrastructure Improvements Phase 1 Project BE ACCEPTED; it being noted that the bid submitted by L82 Construction Ltd. was the lowest of five bids received and meets the City's specifications and requirements in all areas;"
+ },
+ {
+  "id": "2cb6c9292ef6",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "months/2021-02/2021-02-23 Council item 8.4.11, Council ratification of Contract Award Tender No. 21-01 for 'Downtown Loop and Municipal Infrastructure Improvements Phase 1' -- the construction-tender stage of the SAME Downtown Loop BRT capital project (see 0dd0f857160d). Reclassified alongside it.",
+  "quote": "a) the bid submitted by L82 Construction Ltd. at its tendered price of $8,177,280.64 (excluding HST) for the Downtown Loop and Municipal Infrastructure Improvements Phase 1 Project BE ACCEPTED; it being noted that the bid submitted by L82 Construction Ltd. was the lowest of five bids received and meets the City's specifications and requirements in all areas;"
+ },
+ {
+  "id": "74f91fe1f257",
+  "field": "issue",
+  "was": "downtown",
+  "now": "transit",
+  "reason": "months/2021-02/2021-02-09 Civic Works Committee item 2.5 -- the committee-stage recommendation of the SAME Tender No. 21-01 contract award (2cb6c9292ef6 is its Council ratification). Reclassified alongside it.",
+  "quote": "the bid submitted by L82 Construction Ltd. at its tendered price of $8,177,280.64 (excluding HST) for the Downtown Loop and Municipal Infrastructure Improvements Phase 1 Project BE ACCEPTED; it being noted that the bid submitted by L82 Construction Ltd. was the lowest of five bids received and meets the City's specifications and requirements in all areas;"
+ },
+ {
+  "id": "74f91fe1f257",
+  "field": "axis",
+  "was": "application-approval",
+  "now": "transit-service",
+  "reason": "months/2021-02/2021-02-09 Civic Works Committee item 2.5 -- the committee-stage recommendation of the SAME Tender No. 21-01 contract award (2cb6c9292ef6 is its Council ratification). Reclassified alongside it.",
+  "quote": "the bid submitted by L82 Construction Ltd. at its tendered price of $8,177,280.64 (excluding HST) for the Downtown Loop and Municipal Infrastructure Improvements Phase 1 Project BE ACCEPTED; it being noted that the bid submitted by L82 Construction Ltd. was the lowest of five bids received and meets the City's specifications and requirements in all areas;"
+ },
+ {
+  "id": "6a116821cad8",
+  "field": "whatAYeaDid",
+  "was": "Approved London Community Recovery Network Business Case #4, funding library garden access from Dundas Place Flex Street.",
+  "now": "Approved London Community Recovery Network Business Case #4, funding library Reading Garden access from Dundas Place Flex Street.",
+  "reason": "Gate round 9 item D repair: the prior fix (this same id's earlier correction row) dropped the proper noun 'Reading Garden' entirely to escape verify-reading-voice-consistency.py's bare \\breading\\b scope test -- lossy, not false, but it erased the London Public Library's own amenity name from the record. scripts/election/verify-reading-voice-consistency.py now carries a proper-noun guard (PROPER_NOUN_RE = r'\\bReading Garden\\b', stripped from the text before the reading/enactment in-scope test) so the capitalized proper name 'Reading Garden' is never treated as a legislative-reading stage word, letting the name be restored here without retriggering the check.",
+  "quote": "iv) Business Case # 4: London Public Library Reading Garden Access from Dundas Place Flex Street;"
  }
 ]
