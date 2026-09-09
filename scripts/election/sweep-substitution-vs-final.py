@@ -30,13 +30,20 @@ DETECTION RULE (the whole rule, not a summary):
      SINGLE, IMMEDIATE next roll call in the same item (same meetingSlug +
      itemNumber, next-higher rollCallOrdinal, adjacency required -- not
      merely "some later unanimous vote in the item"), where:
-       a. F.unanimous is True (F.nays == []), AND
-       b. F.motionText contains "as amended" (case-insensitive) -- the
-          corpus's own recurring wrapper-motion phrasing ("the main
-          motion, as amended BE APPROVED", "item N, clause X, as amended,
-          BE APPROVED", "the motion to approve the motion, as amended, is
-          put") that folds a prior amendment's content into one final
-          vote, AND
+       a. F.passed is True (a failed final vote absorbs nothing), AND
+       b. F.motionText contains the corpus's recurring WRAPPER "as amended"
+          phrasing (case-insensitive: "the main motion, as amended BE
+          APPROVED", "item N, clause X, as amended, BE APPROVED", "the
+          motion to approve the motion, as amended, is put") -- EXCLUDING
+          a bare statutory citation that happens to contain the same two
+          words ("...section 291(4)(c) of the Municipal Act, 2001, as
+          amended, the revised 2019 tax levy ... BE READOPTED"). Without
+          this exclusion, every "Municipal Act, 2001, as amended"
+          READOPTED-tax-levy roll call in an omnibus item falsely counts
+          as a wrapper final for whichever unrelated, independently-numbered
+          levy vote happens to sit next to it (2019-02-12 item 8.4.7's
+          d747b0b5c3c0/08f4496ab2d0 were exactly this false pairing --
+          neither is a real substitution-vs-final candidate), AND
        c. if both D and F name a specific "Case #N" (a budget item can
           bundle many INDEPENDENT business-case roll calls back to back
           under one item number), the numbers must agree -- otherwise D
@@ -47,13 +54,26 @@ DETECTION RULE (the whole rule, not a summary):
           the NEXT, unrelated Case #7 vote's own "as amended" wrapper),
           AND
        d. every name in D.nays appears in F.yeas (the actual offsetting
-          check -- not just "some unanimous vote exists later", but THIS
+          check -- not just "some passing vote exists later", but THIS
           motion's specific nay-voters all voted yea on it).
      If F fails any of these, D is not a candidate for this defect (most
      divided motions in the corpus have no such absorbing final vote, and
      are unaffected). Adjacency is itself derived from the three confirmed
      BLOCKER pairs, every one of which has its final vote as the very next
      roll call with nothing intervening.
+
+     NOTE, round 4: F is deliberately NOT required to be unanimous. That
+     requirement was incidental to the round-3 BLOCKER seeds (all three had
+     a 15-0 final) rather than principled -- the actual test is (d), the
+     offset itself. The round-4 BLOCKER 61e2cd83874e (2020-08-25 item
+     8.2.17, D 13-1 sole nay Helmer) proves the point directly: its own
+     final F (144d5e593cc6, "Item 17, clause 3.6, as amended BE APPROVED")
+     passes 13-1, NOT unanimously -- Paul Van Meerbergen votes nay on F for
+     reasons unrelated to D -- but Helmer, D's sole nay, votes YEA on F.
+     Helmer's 13-1 nay is still a document-version-swap vote he then
+     approved on the merits, whether or not everyone else agreed with him
+     on F. Requiring F.unanimous would let this exact defect shape hide
+     behind any OTHER councillor's unrelated dissent on the final vote.
 
   3. For each candidate (D, F) pair, classify D's OWN motionText (the
      divided motion's operative text, not the whole item) using two
@@ -84,6 +104,26 @@ DETECTION RULE (the whole rule, not a summary):
        the same clause -- that combination is still a real stance, not a
        bare version swap) and marks D as OUT OF SCOPE for this sweep.
 
+       "D's own text" for this signal is NOT motionText alone (see
+       dollar_signal()): D's own _all-motions.json motionText, PLUS -- if D
+       has a verified-batch entry -- that entry's own `quote` field, PLUS,
+       if D names a specific "Case #N" and neither of those two carries a
+       dollar figure, the resolved full source text for D's item (every
+       pre_motion_texts/motion_texts/post_motion_texts string under D's
+       meetingSlug+itemNumber, via lib_corrections.full_motion_texts --
+       the same full text a classify/correction quote is checked against),
+       SCOPED to the blob(s) naming that same case number (an unscoped
+       whole-item search would attribute a dollar figure belonging to a
+       different, unrelated business case in the same omnibus item -- see
+       dollar_signal()'s own docstring). This is not optional:
+       9ed992fb7625 (SPPC 2020-12-10 item 4.1, "BC #4B BE REDUCED by
+       $500,000 annually", 9-6) has an EMPTY motionText -- the $500,000
+       figure exists only in its verified quote -- so a motionText-only
+       DOLLAR_RE check would silently misclassify a real, 9-6 spending
+       stance as a bare-text "ambiguous" hit requiring axis=null, which
+       would be exactly as false a statement as the substitution defect
+       this sweep exists to catch.
+
      - SUBSTITUTION matched, no dollar figure -> HIT: this row must be
        axis=null/polarity=null (post corrections.json) for its verified
        entry, OR (if it has no verified entry / was never batch-
@@ -94,8 +134,8 @@ DETECTION RULE (the whole rule, not a summary):
        the 9 known levy pairs (and any new ones) were correctly excluded,
        not silently skipped.
      - NEITHER matched -> the structural shape (divided + absorbed by a
-       same-item unanimous "as amended" final with full offset) is
-       present but the principled text rule can't classify it. -> HIT,
+       same-item "as amended" final with every nay-voter offset onto its
+       yeas) is present but the principled text rule can't classify it. -> HIT,
        same resolution requirement as a SUBSTITUTION hit (axis=null or a
        reviewed-entry with a quote-backed reason) -- conservatively
        treated as needing sign-off, never silently ignored.
@@ -131,13 +171,64 @@ REVIEWED_PATH = CLASSIFY_DIR / "reviewed-substitution-pairs.json"
 ERA_BATCH_RANGE = range(40, 66)  # batches 40-65, the 2018-2022 term -- this branch's remit
 
 AS_AMENDED_RE = re.compile(r"as\s+amended", re.IGNORECASE)
+# A bare statutory citation ("...section 291(4)(c) of the Municipal Act,
+# 2001, as amended, the revised 2019 tax levy...") is not the corpus's
+# wrapper-final phrasing -- it's boilerplate that happens to contain "as
+# amended" while citing the Municipal Act's own amendment history. Strip
+# it out (see has_wrapper_as_amended below) before testing AS_AMENDED_RE so
+# it can't manufacture a false candidate pair out of two unrelated,
+# independently-numbered READOPTED-tax-levy roll calls that merely sit
+# adjacent in an omnibus item (d747b0b5c3c0/08f4496ab2d0, 2019-02-12 item
+# 8.4.7).
+MUNICIPAL_ACT_CITATION_RE = re.compile(
+    r"Municipal\s+Act,?\s*\d{4},?\s+as\s+amended", re.IGNORECASE
+)
 SUBSTITUTION_RE = re.compile(
-    r"(revised,?\s+by-?law|attached\s+revised|revised\s+(map|schedule|site\s+plan))",
+    r"(revised,?\s+by-?law|attached\s+revised|revised,?\s+attached\s+by-?law"
+    r"|revised\s+(map|schedule|site\s+plan))",
     re.IGNORECASE,
 )
 OPTION_RE = re.compile(r"Option\s*#?\s*(\d+)", re.IGNORECASE)
 CASE_RE = re.compile(r"Case\s*#\s*(\d+)", re.IGNORECASE)
 DOLLAR_RE = re.compile(r"\$\s?\d")
+
+
+def has_wrapper_as_amended(text: str) -> bool:
+    """True if `text` contains the corpus's recurring wrapper-motion "as
+    amended" phrasing, after stripping out any bare Municipal Act statutory
+    citation that would otherwise false-positive on the same two words."""
+    return bool(AS_AMENDED_RE.search(MUNICIPAL_ACT_CITATION_RE.sub("", text)))
+
+
+def dollar_signal(d: dict, entries: dict[str, dict]) -> bool:
+    """True if a dollar figure appears in D's own text: its
+    _all-motions.json motionText, or its verified-batch entry's `quote`
+    (some divided business-case sub-motions -- e.g. 9ed992fb7625 -- have an
+    EMPTY motionText with the dollar figure captured only in the verified
+    quote). If NEITHER carries a dollar figure, and D itself names a
+    specific "Case #N" (in its motionText or quote), the resolved full
+    source text for D's item is checked too -- but SCOPED to the blob(s)
+    naming that SAME case number, the same same-instrument identity
+    principle the D/F pairing above already applies. An unscoped
+    whole-item search would wrongly attribute a dollar figure belonging to
+    a DIFFERENT, unrelated business case bundled in the same omnibus item
+    (e.g. ca4acfc9e5bd's on-street-parking amendment sharing an item with
+    an unrelated $3.1M construction-tender clause, or 5f323e30d9c5's
+    genuinely-uncaptured procedural motion sharing an item with an
+    unrelated $78,749.83 loan-forgiveness clause) to D, and wrongly
+    exclude a motion that carries no dollar figure of its own."""
+    entry = entries.get(d["id"])
+    quote = (entry.get("quote") or "") if entry else ""
+    own_text = (d.get("motionText") or "") + " " + quote
+    if DOLLAR_RE.search(own_text):
+        return True
+    d_cases = set(CASE_RE.findall(own_text))
+    if not d_cases:
+        return False
+    for t in lc.full_motion_texts(d["meetingSlug"], d["itemNumber"]):
+        if set(CASE_RE.findall(t)) & d_cases and DOLLAR_RE.search(t):
+            return True
+    return False
 
 # The 9 confirmed-legitimate budget levy amendment-pairs (gate round 3,
 # distinct spending stances) -- kept ONLY as a printed cross-check that the
@@ -150,10 +241,12 @@ KNOWN_LEGIT_LEVY_IDS = {
     "9d5a329ad946",
 }
 
-# The 3 confirmed substitution BLOCKERS this round already fixed -- printed
-# as a cross-check that the sweep still finds them (not load-bearing for
-# detection).
-KNOWN_FIXED_SUBSTITUTION_IDS = {"95d5c6f299be", "c4cfc1e826ec", "d3f2b15062e0"}
+# The 4 confirmed substitution BLOCKERS fixed so far (3 from round 3, plus
+# round 4's 61e2cd83874e) -- printed as a cross-check that the sweep still
+# finds them (not load-bearing for detection).
+KNOWN_FIXED_SUBSTITUTION_IDS = {
+    "95d5c6f299be", "c4cfc1e826ec", "d3f2b15062e0", "61e2cd83874e",
+}
 
 
 def load_reviewed() -> dict[str, dict]:
@@ -204,11 +297,13 @@ def find_candidates(all_motions: list[dict], era_ids: set[str]) -> list[tuple[di
             # LATER, unrelated case's own "as amended" vote -- not this D's
             # final vote at all.
             f = group_sorted[i + 1]
-            if not f.get("unanimous"):
-                continue
+            # F is deliberately NOT required to be unanimous -- see the
+            # round-4 docstring note above. The offset check below (every
+            # D.nays name in F.yeas) is the actual, principled test; F's
+            # own unanimity was incidental to the round-3 15-0 seeds.
             if not f.get("passed"):
                 continue
-            if not AS_AMENDED_RE.search(f.get("motionText") or ""):
+            if not has_wrapper_as_amended(f.get("motionText") or ""):
                 continue
             # Same-instrument identity check: adjacency alone still lets a
             # multi-case omnibus item (a budget SPPC item voting Case #6,
@@ -228,9 +323,11 @@ def find_candidates(all_motions: list[dict], era_ids: set[str]) -> list[tuple[di
     return pairs
 
 
-def classify(d: dict, group_by_item: dict[tuple[str, str], list[dict]]) -> str:
+def classify(
+    d: dict, group_by_item: dict[tuple[str, str], list[dict]], entries: dict[str, dict]
+) -> str:
     text = d.get("motionText") or ""
-    if DOLLAR_RE.search(text):
+    if dollar_signal(d, entries):
         return "dollar"
 
     if SUBSTITUTION_RE.search(text):
@@ -280,19 +377,21 @@ def run_sweep(corrections_override=None) -> tuple[int, list[str]]:
 
     msgs = [
         f"Era universe (batches 40-65, 2018-2022 term): {len(era_ids)} classified motions",
-        f"Divided-motion candidates with a same-item unanimous 'as amended' final absorbing every nay-voter: {len(pairs)}",
+        f"Divided-motion candidates with a same-item 'as amended' final offsetting every nay-voter onto its own yeas: {len(pairs)}",
     ]
 
     dollar_count = 0
+    dollar_excluded: list[tuple[dict, dict]] = []
     substitution_hits: list[tuple[dict, dict, str]] = []
     ambiguous_hits: list[tuple[dict, dict]] = []
     resolved = []
     unresolved = []
 
     for d, f in pairs:
-        klass = classify(d, by_item)
+        klass = classify(d, by_item, entries)
         if klass == "dollar":
             dollar_count += 1
+            dollar_excluded.append((d, f))
             continue
         if klass == "substitution":
             substitution_hits.append((d, f, "substitution"))
@@ -314,6 +413,16 @@ def run_sweep(corrections_override=None) -> tuple[int, list[str]]:
             unresolved.append((mid, d, f, klass, cur))
 
     msgs.append(f"  -> excluded as real spending stances (dollar figure in the amendment's own text): {dollar_count}")
+    for d, f in sorted(dollar_excluded, key=lambda pair: pair[0]["id"]):
+        mid = d["id"]
+        cur = current.get(mid)
+        msgs.append(
+            f"       {mid}  [dollar, stays directional]  {d['meetingSlug']}#{d['itemNumber']}  "
+            f"D.result={d.get('result')!r}  current={cur}"
+        )
+        msgs.append(f"         D.motionText: {(d.get('motionText') or '')[:80]!r}")
+        entry = entries.get(mid)
+        msgs.append(f"         D.quote:      {((entry or {}).get('quote') or '')[:120]!r}")
     msgs.append(f"  -> substitution-shaped hits: {len(substitution_hits)}")
     msgs.append(f"  -> structurally-flagged but text-ambiguous hits: {len(ambiguous_hits)}")
     msgs.append(f"  -> resolved (null or reviewed): {len(resolved)}")
@@ -335,7 +444,7 @@ def run_sweep(corrections_override=None) -> tuple[int, list[str]]:
     # would mean the principled rule just misclassified a confirmed real
     # spending stance as a bare document-version swap.
     candidate_ids = {d["id"] for d, _f in pairs}
-    id_class_map = {d["id"]: classify(d, by_item) for d, _f in pairs}
+    id_class_map = {d["id"]: classify(d, by_item, entries) for d, _f in pairs}
     never_candidates = KNOWN_LEGIT_LEVY_IDS - candidate_ids
     correctly_excluded = {i for i in KNOWN_LEGIT_LEVY_IDS if id_class_map.get(i) == "dollar"}
     wrongly_flagged = KNOWN_LEGIT_LEVY_IDS & candidate_ids - correctly_excluded
@@ -403,6 +512,37 @@ def self_test() -> int:
         print("SELF-TEST FAILED: normal (unmutated) run did not exit 0")
         return 1
     print("\nSELF-TEST PASSED (both directions)")
+
+    print(
+        "\n=== self-test direction 3: dollar-carrying substitution-shaped "
+        "mutant must classify as 'dollar', not 'substitution' ==="
+    )
+    # The docstring's DOLLAR-signal claim ("a dollar figure in D's own text
+    # takes priority over a SUBSTITUTION match") was previously untested by
+    # live data -- none of the 9 known-legitimate levy pairs ALSO matches
+    # SUBSTITUTION_RE, so the priority rule itself was never exercised.
+    # Plant a synthetic D that matches BOTH signals in its own motionText
+    # and confirm DOLLAR wins.
+    mutant = {
+        "id": "SELF-TEST-DOLLAR-SUBSTITUTION-MUTANT",
+        "meetingSlug": "months/2099-01/2099-01-01 Self-Test Meeting",
+        "itemNumber": "0.0",
+        "motionText": (
+            "the proposed, revised, attached by-law BE INTRODUCED, at an "
+            "increased cost of $500,000 to the capital budget"
+        ),
+        "rollCallOrdinal": 1,
+    }
+    klass = classify(mutant, {}, {})
+    if klass != "dollar":
+        print(
+            f"SELF-TEST FAILED: a mutant matching both SUBSTITUTION_RE and "
+            f"DOLLAR_RE classified as {klass!r}, not 'dollar' -- the DOLLAR "
+            f"signal no longer takes priority as the docstring claims"
+        )
+        return 1
+    print(" - dollar-carrying substitution-shaped mutant -> classified 'dollar' (confirmed priority)")
+    print("\nSELF-TEST PASSED (all directions)")
     return 0
 
 
