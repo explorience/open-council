@@ -492,14 +492,6 @@ HAND_TRACED = {
         "paragraph, with an ellipsis in the quote correctly marking a genuinely "
         "dropped middle portion the classify layer chose not to reproduce."
     ),
-    "ef4d7fc590ed": (
-        "months/2016-11/2016-11-14 Planning and Environment Committee, item 12 "
-        "(Official Plan Amendment, Light Industrial/Open Space designation changes): "
-        "confirmed verbatim -- the i) designation-change clause and iii) Chapter 10 "
-        "policy-addition clause are both the source's own lettered sub-clauses of "
-        "one Official Plan amendment paragraph; the quote's own '...' between them "
-        "correctly marks the ii) sub-clause it chose not to reproduce."
-    ),
     "7d9717f22021": (
         "months/2016-03/2016-03-07 Planning and Environment Committee, item 10 "
         "(zoning FROM/TO clause, R6 Special Provision rezoning): confirmed verbatim "
@@ -548,19 +540,6 @@ HAND_TRACED = {
         "parts of the source's amendment motion (not adjacent), so the ellipsis "
         "tier's in-order segment search can't bridge them the way the classify "
         "quote's own '...' does."
-    ),
-    "c987563b1b3c": (
-        "months/2018-03/2018-03-19 Planning and Environment Committee, item 3.4 "
-        "(Southwest Area Secondary Plan, Wonderland Road Community Enterprise "
-        "Corridor policy 20.5.6.1.v)a) deletion): confirmed verbatim in source; twin "
-        "to 3f7c0b9517b0 below (Council's own introduction vote, one week later, "
-        "reading the identical staff-report clause)."
-    ),
-    "3f7c0b9517b0": (
-        "months/2018-03/2018-03-27 Council, item 8.4.17: confirmed verbatim -- twin "
-        "to c987563b1b3c (Planning and Environment Committee's own recommendation of "
-        "the identical clause, one week earlier); Council's introduction vote here "
-        "reads the same staff-report text by reference."
     ),
     "1f3c130b77e9": (
         "months/2018-03/2018-03-20 Community and Protective Services Committee, item "
