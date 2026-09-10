@@ -7418,5 +7418,173 @@
   "now": "change Schedule “B-1,” Natural Heritage Features, by REVISING the boundary of the Environmentally Significant Area and Provincially Significant Wetland, REMOVING an Unevaluated Corridor and Potential Naturalization Area, and ADDING a Potential Naturalization Area",
   "reason": "Two-pass adjudication (upheld on check): Both quotes are verbatim from the same source paragraph; pass2's excerpt (part ii) is the clause that actually substantiates the issue=climate call being adopted here, so it is the more useful/accurate quote to pair with that classification. The `was` here is the exact current merged value; the adjudication file recorded an abbreviated live_value, which the applier's staleness guard correctly refused. Adopting this also makes the quote mechanically resolvable, so this id's HAND_TRACED entry in verify-quote-verbatim.py is retired in the same commit.",
   "quote": "change Schedule “B-1,” Natural Heritage Features, by REVISING the boundary of the Environmentally Significant Area and Provincially Significant Wetland, REMOVING an Unevaluated Corridor and Potential Naturalization Area, and ADDING a Potential Naturalization Area"
+ },
+ {
+  "id": "30823f9db4dc",
+  "field": "whatAYeaDid",
+  "was": "Adopted the portion of part 2e)i) of the Neighbourhood and Recreation Services 2016-2019 Multi-Year Operating Budget pertaining to municipal golf, in the net amount of $1 for 2016-2019.",
+  "now": "Adopted the portion of part 2e)i) of the Neighbourhood and Recreation Services 2016-2019 Multi-Year Operating Budget pertaining to municipal golf, in the net amount of $1,000 for 2016-2019.",
+  "reason": "Fixer round 1 (era-range class fix): sweep-levy-thousands-rounding.py's ERA_BATCH_RANGE was hard-coded to batches 40-65 (the 2018-2022 term), so it never read this branch's own batches 66-95 and silently passed. Re-pointed at 66-95, the sweep catches this row: the source item's own title (months/2016-01/2016-01-29 Strategic Priorities and Policy Committee, item 2) is 'CORPORATE OPERATING BUDGET (all amounts rounded to the nearest $1,000s)', and the motion's own printed figure is 'pertaining to municipal golf ($1 for 2016-2019)' -- $1 as printed is $1,000 true value, same 1000x understatement class as 2d989f0d676e (batch 42, 2018-2022 era, this branch's sibling fix). axis/polarity are unaffected and remain null -- this was already correctly treated as a break-even/symbolic net amount per the source-swap-$0 convention (see verifierNote); only the displayed dollar magnitude was wrong by 1000x, not the direction.",
+  "quote": "the portion of part 2e)i), Neighbourhood and Recreation Services 2016-2019 Multi-Year Operating Budget, pertaining to municipal golf ($1 for 2016-2019) BE ADOPTED -- source item title: CORPORATE OPERATING BUDGET (all amounts rounded to the nearest $1,000s)"
+ },
+ {
+  "id": "f480de5c2bdd",
+  "field": "issue",
+  "was": "housing",
+  "now": "none",
+  "reason": "Fixer round 1 (verify-cross-stage-consistency.py quote-based grouping class fix): this entry's own motionText row is pure boilerplate ('Motion Passed'), but the classify pipeline correctly recovered the item's real operative text into this entry's own `quote` field -- and that quote is IDENTICAL to Council twin 8985ed0ff68b's quote (same item 9, 195 Dundas Street T-54 zone extension, committee 2016-05-09 then Council 2016-05-17, 8 days apart). The two entries disagreed: this one carried housing/application-approval/expansive while its twin correctly carries issue=none/axis=null/polarity=null. This entry's own verifierNote admits the reclassification to housing/expansive was based on 'the item title itself carries a TZ-#### code (structural housing signal)' -- but the item's own operative text ('the attached, revised, by-law BE INTRODUCED ... by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year') states no land use whatsoever for T-54, exactly as the Council twin's own verifierNote independently found ('pure boilerplate ... no indication of what use T-54 permits'). The era rule is explicit: pre-2018 committee text that is boilerplate/absent must be classified issue=none/polarity=null and NEVER inferred from the item title -- the TZ-#### code lives only in the title, not the motion's own text. Reverted to match the Council twin's correct, independently-verified null classification; THE BAR (no false direction ever, unclear always acceptable) requires this over guessing housing from a title code.",
+  "quote": "Committee item 9 title: 'Property located at 195 Dundas Street (TZ-8592)'. Committee's own full operative text (item 9, content block 1): 'That, on the recommendation of the Managing Director, Planning and City Planner, based on the application of Ayerswood Development Corp., relating to the property located at 195 Dundas Street, the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year' -- no stated land use for T-54 anywhere in this text, matching Council twin 8985ed0ff68b's identical quote and its own null classification."
+ },
+ {
+  "id": "f480de5c2bdd",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Same defect as the issue correction on this id above: the TZ-#### housing signal this axis was derived from lives only in the item title, which the era rule bars inferring from; the motion's own text states no land use for the T-54 zone. Reverted to null, matching Council twin 8985ed0ff68b.",
+  "quote": "by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year -- no stated land use, same text as 8985ed0ff68b"
+ },
+ {
+  "id": "f480de5c2bdd",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same defect as the issue/axis corrections on this id above. Reverted to null, matching Council twin 8985ed0ff68b.",
+  "quote": "by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year -- no stated land use, same text as 8985ed0ff68b"
+ },
+ {
+  "id": "4411a0f0ddcc",
+  "field": "issue",
+  "was": "none",
+  "now": "housing",
+  "reason": "Fixer round 1 (verify-cross-stage-consistency.py quote-based grouping class fix): this entry's own motionText row is pure boilerplate ('Motion Passed'), but this entry's own `quote` field already correctly carries the item's real operative text -- 'the application of Bradel Properties Limited ... to extend the Temporary Use (T-71) Zone ... BE REFUSED as there are existing parking lots surrounding this development and the rezoning to add an additional parking lot is not required' -- IDENTICAL to Council twin 66e1dd367654's quote (same 324 York Street application, committee 2017-12-04 then Council 2017-12-12, 8 days apart, Council REFUSED 3-8). This entry's own whatAYeaDid ('Recommended refusing the application by Bradel Properties Limited to extend the Temporary Use (T-71) Zone at 324 York Street for up to six months, on the grounds that existing parking lots surround the development and an additional parking lot is not required') already correctly describes a housing/application-approval refusal, but issue/axis/polarity were left at none/null/null -- an inconsistency between this entry's own fields, not a genuine boilerplate case (unlike f480de5c2bdd's T-54 pair above, this quote DOES name the application and the refusal grounds). Corrected to match its own whatAYeaDid and its Council twin's independently-verified classification.",
+  "quote": "the application of Bradel Properties Limited, relating to the property located at 324 York Street, to extend the Temporary Use (T-71) Zone for a period not exceeding six (6) months BE REFUSED as there are existing parking lots surrounding this development and the rezoning to add an additional parking lot is not required"
+ },
+ {
+  "id": "4411a0f0ddcc",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Same defect as the issue correction on this id above: this entry's own quote and whatAYeaDid already describe a housing application refusal; axis was left null despite that. Corrected to match its own fields and Council twin 66e1dd367654.",
+  "quote": "the application of Bradel Properties Limited ... to extend the Temporary Use (T-71) Zone ... BE REFUSED as there are existing parking lots surrounding this development and the rezoning to add an additional parking lot is not required"
+ },
+ {
+  "id": "4411a0f0ddcc",
+  "field": "polarity",
+  "was": null,
+  "now": "restrictive",
+  "reason": "Same defect as the issue/axis corrections on this id above: a recommendation to REFUSE (deny) a rezoning/temporary-use application is restrictive per the corpus's own convention (denying a development/housing-policy item reads restrictive). Corrected to match its own fields and Council twin 66e1dd367654.",
+  "quote": "the application of Bradel Properties Limited ... to extend the Temporary Use (T-71) Zone ... BE REFUSED as there are existing parking lots surrounding this development and the rezoning to add an additional parking lot is not required"
+ },
+ {
+  "id": "01ef42e8258d",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Fixer round 1 BLOCKER (gate: Tokala Trail OZ-8511): this id was one of 15 null-axis rows in batch-70 auto-promoted to axis=application-approval by a prior 'corpus-wide taxonomy fix' correction (grep of committed axis values across all housing+polarity rows, picking application-approval as 'the dominant catch-all') -- a schema-consistency pass, not a per-motion textual re-derivation. That promotion made this row's NATIVE, never-independently-reviewed polarity=restrictive suddenly render for the first time (axis=null rows are excluded from every direction claim -- see generate-stances.ts's `axis !== null` gate); pre-correction this id was axis-null and excluded, which was the last state anyone actually verified against source text. This id is the ORIGINAL motion in the Tokala Trail (OZ-8511, 2015-10-27 Council item 7) sequence -- a compound clause combining a redesignation/rezoning approval with a refusal of a parking-fee provision, FAILED 5-10, immediately superseded by amendment 42cba9ee91f2 and final-as-amended 1d7f4ec01410 (both nulled below) -- too compound and superseded to safely carry a single axis/polarity claim. Reverted to axis=null (its pre-taxonomy-fix state) per THE BAR: unclear is always acceptable, a wrong or superseded direction never is.",
+  "quote": "the proposed by-law appended to the staff report dated October 19, 2015 as Appendix \"A\" BE INTRODUCED ... to amend the Official Plan ... [combined with] refused a requested zoning provision permitting parking fees, and requested Site Plan Approval Authority design considerations -- Motion Failed 5-10, superseded by the amended clause 7 sequence below"
+ },
+ {
+  "id": "1d7f4ec01410",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Fixer round 1 BLOCKER (gate: Tokala Trail OZ-8511): same batch-70 taxonomy-fix over-promotion as 01ef42e8258d above. This id is 'Approve clause 7, as amended' (2015-10-27 Council item 7, PASSED 11-4) -- Josh Morgan and Anna Hopkins are BOTH in the 11 YEAS approving this clause. With axis=application-approval/polarity=restrictive (the native, never-independently-verified value the taxonomy fix made visible), the rendered claim reads 'denied the development, rezoning, or housing-policy item' for every yea-voter -- false for Morgan and Hopkins, who voted to APPROVE it, not deny it. Independently, this id's own polarity (restrictive) directly contradicts its immediate predecessor in the same clause-7 sequence, amendment 42cba9ee91f2 (polarity=expansive), despite BOTH sharing the identical 11-4 yea/nay roster -- two ordinals of the same passage cannot honestly carry opposite directions for the same voters. Reverted to axis=null (its pre-taxonomy-fix state).",
+  "quote": "Approve clause 7, as amended. -- 11-4 PASSED, yeas include Josh Morgan and Anna Hopkins; identical 11-4 roster to 42cba9ee91f2 (axis=application-approval/polarity=expansive), a direct polarity contradiction for the same voters"
+ },
+ {
+  "id": "680d0c7292ca",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Fixer round 1 BLOCKER (gate: Tokala Trail OZ-8511): same batch-70 taxonomy-fix over-promotion as 01ef42e8258d above. This id is first reading of Bill No. 357 and the revised Bill No. 366 (the Tokala Trail OZ-8511 by-laws), PASSED 13-2 -- Josh Morgan and Anna Hopkins are BOTH in the 13 YEAS giving first reading. With axis=application-approval/polarity=restrictive (the native value the taxonomy fix made visible), the rendered claim would read 'denied the development, rezoning, or housing-policy item' for every yea-voter -- false for Morgan and Hopkins, who voted to give the by-law its first reading, the opposite of denial. Reverted to axis=null (its pre-taxonomy-fix state).",
+  "quote": "Approve Introduction and First Reading of Bill No. 357 and the revised Bill No. 366. -- 13-2 PASSED, yeas include Josh Morgan and Anna Hopkins"
+ },
+ {
+  "id": "7c5b2a64db26",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Fixer round 1 BLOCKER (gate: Tokala Trail OZ-8511): same batch-70 taxonomy-fix over-promotion as 01ef42e8258d above. This id is second reading of Bill No. 357 and the revised Bill No. 366 (the Tokala Trail OZ-8511 by-laws), PASSED 11-4 -- Josh Morgan and Anna Hopkins are BOTH in the 11 YEAS giving second reading. With axis=application-approval/polarity=restrictive (the native value the taxonomy fix made visible), the rendered claim would read 'denied the development, rezoning, or housing-policy item' for every yea-voter -- false for Morgan and Hopkins, who voted to give the by-law its second reading, the opposite of denial. Reverted to axis=null (its pre-taxonomy-fix state).",
+  "quote": "Approve Second Reading of Bill No. 357 and the revised Bill No. 366. -- 11-4 PASSED, yeas include Josh Morgan and Anna Hopkins"
+ },
+ {
+  "id": "11256244f4e4",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Fixer round 1 BLOCKER (gate: Tokala Trail OZ-8511): same batch-70 taxonomy-fix over-promotion as 01ef42e8258d above. This id is third reading and enactment of Bill No. 357 and the revised Bill No. 366 (the Tokala Trail OZ-8511 by-laws), PASSED 11-4 -- Josh Morgan and Anna Hopkins are BOTH in the 11 YEAS giving third reading and enactment. With axis=application-approval/polarity=restrictive (the native value the taxonomy fix made visible), the rendered claim would read 'denied the development, rezoning, or housing-policy item' for every yea-voter -- false for Morgan and Hopkins, who voted to enact the by-laws, the opposite of denial. Reverted to axis=null (its pre-taxonomy-fix state).",
+  "quote": "Approve Third Reading and Enactment of Bill No. 357 and the revised Bill No. 366. -- 11-4 PASSED, yeas include Josh Morgan and Anna Hopkins"
+ },
+ {
+  "id": "42cba9ee91f2",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Fixer round 1 BLOCKER (gate: Tokala Trail OZ-8511): this id was never touched by the batch-70 taxonomy fix (its axis was already application-approval/polarity=expansive natively), but the gate finding names it as the other half of a direct internal contradiction: this amendment (replacing a recommendation to REFUSE a parking-fee zoning provision with a revised by-law PERMITTING controlled parking fees, PASSED 11-4) carries polarity=expansive, while its immediate successor in the same clause-7 sequence, 1d7f4ec01410 ('Approve clause 7, as amended', nulled above), carried polarity=restrictive -- despite BOTH sharing the identical 11-4 yea/nay roster (same councillors, same vote). Two ordinals of the same passage cannot honestly carry opposite directions for the same voters, and this amendment's own substance is narrowly about a parking-fee permission mechanism, not itself a clean housing-supply signal. Nulled to resolve the contradiction and match the rest of the clause-7 sequence's now-null axis.",
+  "quote": "the attached revised proposed by-law BE INTRODUCED ... TO a Holding Office Special Provision ... permitting controlled parking through barriers and prescribed fees, replacing the recommendation to REFUSE that provision -- 11-4 PASSED, identical yea/nay roster to 1d7f4ec01410"
+ },
+ {
+  "id": "2ce9b0c30e4f",
+  "field": "axis",
+  "was": "levy-size",
+  "now": null,
+  "reason": "Fixer round 1 (gate finding + new permanent guard sweep-duplicate-parsed-votes.py): 2015-01-29 Strategic Priorities and Policy Committee item 2, roll-call ordinals 37/39/40 (this id, 8472d08a14e3, 5d09f101f7c3) are ONE underlying vote extracted three times into _all-motions.json -- identical 4-9 FAILED tally (same yea/nay roster each time, including Josh Morgan yea and Anna Hopkins nay), identical verified quote ('Motion to approve the Financial Management Budget in the amount of $94,736,000.'), and identical whatAYeaDid. With all three still axis-bearing, Morgan's yea and Hopkins's nay were each counted three times toward any levy-size tally. Corpus-wide enumeration (sweep-duplicate-parsed-votes.py) finds 7 other such duplicate-parse clusters; 6 are already correctly resolved by nulling EVERY member (not picking one as canonical) -- that is this corpus's own established convention for the class, applied here. Nulled to match.",
+  "quote": "Motion to approve the Financial Management Budget in the amount of $94,736,000. -- identical quote/tally/whatAYeaDid at ordinals 37, 39, and 40 of the same item"
+ },
+ {
+  "id": "2ce9b0c30e4f",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same duplicate-parsed-vote defect as the axis correction on this id above.",
+  "quote": "Motion to approve the Financial Management Budget in the amount of $94,736,000. -- identical quote/tally/whatAYeaDid at ordinals 37, 39, and 40 of the same item"
+ },
+ {
+  "id": "8472d08a14e3",
+  "field": "axis",
+  "was": "levy-size",
+  "now": null,
+  "reason": "Fixer round 1 (gate finding + new permanent guard sweep-duplicate-parsed-votes.py): same duplicate-parsed-vote cluster as 2ce9b0c30e4f above (2015-01-29 SPPC item 2, ordinals 37/39/40, identical tally/quote/whatAYeaDid). Nulled to match the corpus's own established convention for this class (null every member of the cluster).",
+  "quote": "Motion to approve the Financial Management Budget in the amount of $94,736,000. -- identical quote/tally/whatAYeaDid at ordinals 37, 39, and 40 of the same item"
+ },
+ {
+  "id": "8472d08a14e3",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same duplicate-parsed-vote defect as the axis correction on this id above.",
+  "quote": "Motion to approve the Financial Management Budget in the amount of $94,736,000. -- identical quote/tally/whatAYeaDid at ordinals 37, 39, and 40 of the same item"
+ },
+ {
+  "id": "5d09f101f7c3",
+  "field": "axis",
+  "was": "levy-size",
+  "now": null,
+  "reason": "Fixer round 1 (gate finding + new permanent guard sweep-duplicate-parsed-votes.py): same duplicate-parsed-vote cluster as 2ce9b0c30e4f above (2015-01-29 SPPC item 2, ordinals 37/39/40, identical tally/quote/whatAYeaDid). Nulled to match the corpus's own established convention for this class (null every member of the cluster).",
+  "quote": "Motion to approve the Financial Management Budget in the amount of $94,736,000. -- identical quote/tally/whatAYeaDid at ordinals 37, 39, and 40 of the same item"
+ },
+ {
+  "id": "5d09f101f7c3",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Same duplicate-parsed-vote defect as the axis correction on this id above.",
+  "quote": "Motion to approve the Financial Management Budget in the amount of $94,736,000. -- identical quote/tally/whatAYeaDid at ordinals 37, 39, and 40 of the same item"
+ },
+ {
+  "id": "ed1101394ca0",
+  "field": "quote",
+  "was": "Options B- Standard Enhancement – 5 cm Response and G – Service Enhancement – 50% Parks Pathways BE APPROVED in the amounts of $300,000 and $92,840, respectively",
+  "now": "Options B- Standard Enhancement – 5 cm Response ... BE APPROVED in the amounts of $300,000",
+  "reason": "Fixer round 1 (gate minor finding): this id's own operative vote is the isolated 'Motion to Approve Option B.' (6-9 FAILED), split out from item 3's bundled paragraph a), per this entry's own verifierNote -- Option G was voted and passed separately under a different id (idx27-28), not this one. The prior quote's verbatim source sentence bundles both options' dollar figures together ('...in the amounts of $300,000 and $92,840, respectively'), which reads as if this Option-B-only vote also decided Option G's $92,840 figure. Elided the Option G clause and its $92,840 figure with '...' (tier-2 ellipsis-segmented quoting, verify-quote-verbatim.py's own documented convention) so the quote scopes to Option B alone; both remaining segments are unchanged, contiguous, verbatim substrings of the source. whatAYeaDid and axis/polarity were already correctly scoped to $300,000/Option B only and are unchanged.",
+  "quote": "Source item 3, content block 24 (Business Case #17 Winter Maintenance, part a): 'Options B- Standard Enhancement – 5 cm Response and G – Service Enhancement – 50% Parks Pathways BE APPROVED in the amounts of $300,000 and $92,840, respectively' -- both kept segments ('Options B- Standard Enhancement – 5 cm Response' and 'BE APPROVED in the amounts of $300,000') are exact contiguous substrings of this sentence."
+ },
+ {
+  "id": "cc3e889a2778",
+  "field": "axis",
+  "was": "application-approval",
+  "now": null,
+  "reason": "Fixer round 1 BLOCKER follow-on (gate: Tokala Trail OZ-8511), found by re-running verify-cross-stage-consistency.py after the six Tokala Trail corrections above: this id is the COMMITTEE-STAGE predecessor of 01ef42e8258d (2015-10-19 Planning and Environment Committee item 7, PASSED 4-1) -- the same batch-70 taxonomy-fix over-promotion (null -> application-approval, native polarity=restrictive left standing), and the same compound Tokala Trail (OZ-8511) clause committee recommended and Council later voted on (Council's own vote on this same recommendation, 01ef42e8258d, was nulled above and FAILED 5-10 -- Council substantively rejected the committee's recommendation before the amendment/final-approval sequence that followed). With 01ef42e8258d now null and this id still application-approval/restrictive, verify-cross-stage-consistency.py's quote-based join correctly flagged the pair as newly mismatched (identical quote, axis now disagreeing). Nulled to match, for the same reason as the other six: the taxonomy fix's batch-wide promotion carries no per-motion textual re-derivation to trust for this compound, superseded clause.",
+  "quote": "the proposed by-law appended to the staff report dated October 19, 2015 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on October 27, 2015, to amend the Official Plan to change the designation on a portion of the subject lands FROM a Multi-Family, Medium Density Residential designation TO an Office Area designation -- identical quote to Council twin 01ef42e8258d (nulled above), same compound clause, PASSED 4-1 at committee then FAILED 5-10 at Council"
  }
 ]
