@@ -103,6 +103,12 @@
 .fp-stats {
   display: grid;
   grid-template-columns: minmax(0, 2.1fr) minmax(0, 1fr);
+  // Grid's default align-items:stretch was making the shorter column
+  // grow to match the taller one's height — with all committees listed
+  // in .fp-numcol, that stretched .fp-card.fp-assistant into an empty
+  // box with a few hundred px of blank card background below its
+  // actual content. Both columns should size to their own content.
+  align-items: start;
   gap: 2rem;
   margin-bottom: 2.5rem;
 
