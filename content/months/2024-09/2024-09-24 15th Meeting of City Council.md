@@ -3957,7 +3957,7 @@ All right, thank you, we're adjourned.
 
 ### 8.1. 14th Report of the Corporate Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Corporate Services Committee BE APPROVED with the exception of item 6 (2.3).
 
@@ -3967,7 +3967,7 @@ Unanimous (14-0)
 
 ### 8.1.6. (2.3) Downtown London Entertainment and Sports Centre Naming Rights
 
-<a id="motion-8-1-6-0" class="motion-anchor"></a>
+<div id="motion-8-1-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the name change for the Downtown London Entertainment and Sports Centre BE APPROVED from Budweiser Gardens to Canada Life Place.
 
@@ -3977,7 +3977,7 @@ Unanimous (13-0)
 
 ### 8.2. 11th Report of the Community and Protective Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 11th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 4 (2.2) and 5 (2.3)
 
@@ -3987,7 +3987,7 @@ Unanimous (14-0)
 
 ### 8.2.4. (2.2) Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (Relates to Bills No. 307, 308 and 320)
 
-<a id="motion-8-2-4-1" class="motion-anchor"></a>
+<div id="motion-8-2-4-1" class="motion-anchor"></div>
 
 > That the proposed by-law to amend By-law A-54, as appended to the staff report dated September 9, 2024, BE AMENDED to reflect the following changes in Schedule A-5 Penalty Schedule for Business Licensing By-law: a)    Item # 143 being Rental Unit Repair Licence – Fail to apply for Licence BE AMEN...
 
@@ -3997,7 +3997,7 @@ Unanimous (14-0)
 
 ### 8.2.4. (2.2) Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (Relates to Bills No. 307, 308 and 320)
 
-<a id="motion-8-2-4-2" class="motion-anchor"></a>
+<div id="motion-8-2-4-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED At 2:41 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.   At 2:44 PM, His Worship Mayor J. Morgan resumes the Chair.
 
@@ -4007,7 +4007,7 @@ Unanimous (14-0)
 
 ### 8.2.4. (2.2) Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (Relates to Bills No. 307, 308 and 320)
 
-<a id="motion-8-2-4-3" class="motion-anchor"></a>
+<div id="motion-8-2-4-3" class="motion-anchor"></div>
 
 > That the staff report related to Renovictions and Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence BE REFERRED to the next meeting of Community and Protective Services Committee to include temporary alternative accommodation for displaced tenants and short-ter...
 
@@ -4026,7 +4026,7 @@ Unanimous (14-0)
 
 ### 8.2.5. (2.3) Regulating Maximum Temperature in Rental Units
 
-<a id="motion-8-2-5-0" class="motion-anchor"></a>
+<div id="motion-8-2-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to the staff report, dated September 9, 2024, related to Regulating Maximum Temperature in Rental Units: a)  the above-noted staff report BE RECEIVED; and, b)  a d...
 
@@ -4045,7 +4045,7 @@ Unanimous (14-0)
 
 ### 8.3. 12th Report of the Civic Works Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 12th Report of the Civic Works Committee BE APPROVED It being noted that Councillor P. Van Meerbergen re-enters the meeting at 2:49 PM
 
@@ -4055,7 +4055,7 @@ Unanimous (14-0)
 
 ### 8.4. 14th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 6 (2.2) It being noted that Councillor S. Trosow leaves the meeting at 2:57 PM
 
@@ -4065,7 +4065,7 @@ Unanimous (13-0)
 
 ### 8.4.6. (2.2) Municipal Accommodation Tax - Tourism London Annual Report
 
-<a id="motion-8-4-6-0" class="motion-anchor"></a>
+<div id="motion-8-4-6-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Municipal Accommodation Tax: a)    on the recommendation of the Deputy City Manager, Planning and Economic Development, Tourism’s London annual report on the expenditures of Municipal Accommodation Tax (MAT) revenues BE RECEIVED for informat...
 
@@ -4084,7 +4084,7 @@ Unanimous (13-0)
 
 ### 8.5. 13th Special Report of the Planning and Environment Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 13th Special Report of the Planning and Environment Committee BE APPROVED
 
@@ -4094,7 +4094,7 @@ Unanimous (14-0)
 
 ### 8.6. 14th Report of the Planning and Environment Committee
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Planning and Environment Committee BE APPROVED with the exception of items 4 (3.1) and 9 (3.6) It being noted that Councillor S. Trosow leaves the meeting at 3:03 PM It being noted that Councillor S. Trosow re-enters the meeting at 3:04 PM
 
@@ -4104,7 +4104,7 @@ Unanimous (13-0)
 
 ### 8.6.4. (3.1) 2-4 Audrey Avenue and 186-188 Huron Street (Z-9755) (Relates to Bill No. 327)
 
-<a id="motion-8-6-4-0" class="motion-anchor"></a>
+<div id="motion-8-6-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by KAP Holdings Inc. (c/o Zelinka Priamo Ltd.), relating to the properties located at 2-4 Audrey Avenue and 186-188 Huron Street: a)    the proposed by-law appende...
 
@@ -4123,7 +4123,7 @@ Unanimous (13-0)
 
 ### 8.6.9. (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332)
 
-<a id="motion-8-6-9-1" class="motion-anchor"></a>
+<div id="motion-8-6-9-1" class="motion-anchor"></div>
 
 > That the motion be amended to include a new clause to read as follows: the Civic Administration BE DIRECTED to bring forward a report to a future meeting of Planning and Environment Committee providing a planning review of all of the Public Participation Meeting  and September 24th Council Meetin...
 
@@ -4142,7 +4142,7 @@ Unanimous (13-0)
 
 ### 8.6.9. (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332)
 
-<a id="motion-8-6-9-2" class="motion-anchor"></a>
+<div id="motion-8-6-9-2" class="motion-anchor"></div>
 
 > That the motion with respect to Phase 2 of the Section 26 Official Plan Review of The London Plan be amended as follows: a)    the Official Plan amendment is revised by removing changes to where stacked townhouses are permitted along Neighbourhood Connector street classifications, and maintaining...
 
@@ -4161,7 +4161,7 @@ Unanimous (13-0)
 
 ### 8.6.9. (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332)
 
-<a id="motion-8-6-9-3" class="motion-anchor"></a>
+<div id="motion-8-6-9-3" class="motion-anchor"></div>
 
 > That the Council recess at this time, for 10 minutes.
 
@@ -4180,7 +4180,7 @@ Unanimous (13-0)
 
 ### 8.6.9. (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332)
 
-<a id="motion-8-6-9-4" class="motion-anchor"></a>
+<div id="motion-8-6-9-4" class="motion-anchor"></div>
 
 > That the motion, as amended, BE AMENDED, to include the following: that it be noted that council discussion was not unanimous on the following provisions: a) v)    reclassify the following portions of the Rapid Transit Boulevard from Rapid Transit Boulevard to Civic Boulevard and remove the Rapid...
 
@@ -4199,7 +4199,7 @@ Unanimous (13-0)
 
 ### 8.6.9. (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332)
 
-<a id="motion-8-6-9-5" class="motion-anchor"></a>
+<div id="motion-8-6-9-5" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED
 
@@ -4218,7 +4218,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 332 and 333 BE APPROVED
 
@@ -4237,7 +4237,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 332 and 333 BE APPROVED
 
@@ -4256,7 +4256,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 311 BE APPROVED
 
@@ -4275,7 +4275,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 311 BE APPROVED
 
@@ -4294,7 +4294,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 311 BE APPROVED
 
@@ -4313,7 +4313,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 312 BE APPROVED It being noted that Councillor S. Trosow leaves the meeting at 5:11 PM
 
@@ -4332,7 +4332,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-9" class="motion-anchor"></a>
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 312 BE APPROVED
 
@@ -4351,7 +4351,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-10" class="motion-anchor"></a>
+<div id="motion-13-10" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 312 BE APPROVED
 
@@ -4370,7 +4370,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-11" class="motion-anchor"></a>
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 327 BE APPROVED It being noted that Councillor S. Trosow re-enters the meeting at 5:13 PM
 
@@ -4389,7 +4389,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-12" class="motion-anchor"></a>
+<div id="motion-13-12" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 327 BE APPROVED
 
@@ -4408,7 +4408,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-13" class="motion-anchor"></a>
+<div id="motion-13-13" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 327 BE APPROVED
 

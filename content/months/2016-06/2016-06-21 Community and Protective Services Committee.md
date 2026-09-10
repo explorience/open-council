@@ -667,7 +667,7 @@ Motion
 ### 2. 5th Report of the
   London Housing Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -679,7 +679,7 @@ Unanimous (4-0)
 ### 3. 5th Report of the
   London Diversity and Race Relations Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -691,7 +691,7 @@ Unanimous (4-0)
 ### 4. Southwest Community
   Centre Joint Venture Agreement
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -703,7 +703,7 @@ Unanimous (4-0)
 ### 5. Phase 2 - Award of
   Construction Contract for the Southwest Community Centre - YMCA and Library
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -715,7 +715,7 @@ Unanimous (4-0)
 ### 6. London's Homeless
   Prevention System Contract Award
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -727,7 +727,7 @@ Unanimous (4-0)
 ### 7. Amendment to the
   Fireworks By-law
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -739,7 +739,7 @@ Unanimous (4-0)
 ### 8. Purchase of Service
   Agreement - Addiction Services of Thames Valley to Deliver Addiction Services
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -751,7 +751,7 @@ Unanimous (4-0)
 ### 9. Amendment to
   Purchase of Service Agreement - Ontario Works Employment Assistance Services
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -763,7 +763,7 @@ Unanimous (4-0)
 ### 11. Extension of Hours
   for Amplified Sound a Country Music Week
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Voting   Record:   Motion   Passed
 
@@ -775,7 +775,7 @@ Unanimous (3-0)
 ### 12. 3rd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -787,7 +787,7 @@ Unanimous (4-0)
 ### 13. 5th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -799,7 +799,7 @@ Unanimous (4-0)
 ### 14. 7th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -811,7 +811,7 @@ Unanimous (4-0)
 ### 15. 6th Report of the
   London Housing Advisory Committee
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -822,7 +822,7 @@ Unanimous (4-0)
 
 ### 16. Existing Vehicle-for-Hire Industry
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Voting   Record:   Motion   Passed
 
@@ -841,7 +841,7 @@ Unanimous (4-0)
 ### 17. Business Licensing
   By-law - New Categories and Proposed Regulations
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -860,7 +860,7 @@ Unanimous (4-0)
 ### 18. Deferred Matters
   List
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -872,7 +872,7 @@ Unanimous (4-0)
 ### 19. Syrian Refugee
   Initiatives
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

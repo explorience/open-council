@@ -1170,7 +1170,7 @@ I would say that we can at least receive the the report or receive the letter fr
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 and 2.2, inclusive, BE APPROVED.
 
@@ -1180,7 +1180,7 @@ Unanimous (5-0)
 
 ### 3.1. Housekeeping Amendment to Secondary Plans (O-9346)
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to housekeeping amendments to approved Secondary Plans: a) the proposed by-law appended to the staff report dated January 31, 2022 as Appendix "A" BE INTRODUCED at the Municipal Coun...
 
@@ -1190,7 +1190,7 @@ Unanimous (6-0)
 
 ### 4.1. Secondary Plan for Meadowlilly Road Area
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the communication BE REFERRED to the Civic Administration for review and for consideration in the development of Special Area Policies for Meadowlily Road South and to report back at a future meeting of the Planning and Environment Committee.
 

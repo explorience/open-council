@@ -312,7 +312,7 @@ The meeting adjourned at 12:59 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1, 2.2, 2.4 and 2.5, BE APPROVED.
 
@@ -322,7 +322,7 @@ Unanimous (5-0)
 
 ### 2.3. Development Charges Housekeeping Matters Related To Bill 108
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer, the following actions be taken:    a) the proposed by-law appended to the staff report dated March 9, 2020 as Appendix “A” being “A by-law to adopt a new Council Policy entitled “Dev...
 
@@ -332,7 +332,7 @@ Unanimous (5-0)
 
 ### 2.3. Development Charges Housekeeping Matters Related To Bill 108
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > That the delegation request from M. Wallace, London Development Institute BE APPROVED to be heard at this time.
 
@@ -342,7 +342,7 @@ Unanimous (5-0)
 
 ### 4.1. Application - Issuance of Proclamation - Guru Nanak Mission Society, London ON
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, based on the application dated February 13, 2020, April 2020 BE PROCLAIMED as Sikh Heritage Month in the City of London; it being noted that every April Sikhs across Canada participate in Sikh Heritage Month festivities and events that honour the birth of Khalsa and the rich heritage of the...
 
@@ -352,7 +352,7 @@ Unanimous (5-0)
 
 ### 4.2. Application - Issuance of Proclamation - GBS/CIDP Foundation of Canada Day
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, based on the application dated February 19, 2020, the day of May 5, 2020 BE PROCLAIMED as Guillain-Barre Syndrome-Chronic Inflammatory Demyelinating Polyneuropathy Foundation of Canada Day in London, as it falls within Neuropathy Awareness Month.
 
@@ -362,7 +362,7 @@ Unanimous (5-0)
 
 ### 4.3. Application - Issuance of Proclamation - Amputee Coalition of Toronto
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That, based on the application dated February 24, 2020, from the Amputee Coalition of Toronto, the month of April 2020 BE PROCLAIMED as Limb Loss Awareness Month in London.
 
@@ -381,7 +381,7 @@ Unanimous (5-0)
 
 ### 4.3. Application - Issuance of Proclamation - Amputee Coalition of Toronto
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That the application for a proclamation from the Amputee Coalition of Toronto, BE RECEIVED, and no further action be taken with respect to this matter.
 
@@ -400,7 +400,7 @@ Unanimous (5-0)
 
 ### 4.4. (ADDED) Resolution Regarding Banking Ontario Works Royal Bank of Canada Right Pay Reloadable Payment Card Program Agreement
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the agreements associated with the Ontario Works Royal Bank of Canada Right Pay Reloadable Payment Card Program Agreement: a)      t...
 

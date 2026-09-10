@@ -502,7 +502,7 @@ Motion Passed
 ### 2. Election of
   Vice-Chair for the term ending November 30, 2015
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -514,7 +514,7 @@ Unanimous (5-0)
 ### 3. 2014 Operating
   Budget Status - Third Quarter Report
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -525,7 +525,7 @@ Unanimous (5-0)
 ### 4. 2014 Capital Budget
   Status - Third Quarter Report
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -536,7 +536,7 @@ Unanimous (5-0)
 ### 5. City of London's Aaa
   Credit Rating
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -547,7 +547,7 @@ Unanimous (5-0)
 ### 6. Request for Write
   Off of Accounts Receivable
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -558,7 +558,7 @@ Unanimous (5-0)
 ### 7. Court Security
   Prisoner Transportation Program Funding Agreement
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -570,7 +570,7 @@ Unanimous (5-0)
   2014 AMO Annual General Meeting, Conference and Trade Show Sponsorship and
   Budget
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -582,7 +582,7 @@ Unanimous (5-0)
   Middlesex Immigration Portal Enhancements and Second Annual International
   Student Welcome Event
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -593,7 +593,7 @@ Unanimous (5-0)
 ### 10. Canadian Trade
   Agreements and Canada-China Foreign Investment Protection Agreement Update
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -604,7 +604,7 @@ Unanimous (5-0)
 ### 11. City of London Days
   at the Budweiser Gardens
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -617,7 +617,7 @@ Unanimous (3-0)
   City-Owned Land in the Vicinity of the W12A Landfill and Resource Recovery
   Area
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -630,7 +630,7 @@ Unanimous (5-0)
   City-Owned Land in the Vicinity of the W12A Landfill and Resource Recovery
   Area
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -641,7 +641,7 @@ Unanimous (5-0)
 ### 14. Request for
   Reimbursement of Expenses - Community Event Sponsorship
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -652,7 +652,7 @@ Unanimous (5-0)
 ### 15. Establishment of
   "Outstanding London Ambassador" Award
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -663,7 +663,7 @@ Unanimous (5-0)
 ### 16. Councillor Expense
   Funds
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -675,7 +675,7 @@ Unanimous (5-0)
   Appointments to the Environmental and Ecological Planning Advisory Committee
   (Requires up to 5 Members at Large)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -687,7 +687,7 @@ Unanimous (5-0)
   Appointments to the Environmental and Ecological Planning Advisory Committee
   (Requires up to 5 Members at Large)
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion Passed
 

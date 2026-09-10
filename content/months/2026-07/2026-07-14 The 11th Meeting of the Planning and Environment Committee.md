@@ -1176,7 +1176,7 @@ The meeting adjourned at 5:51 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Item 2.2, BE APPROVED.
 
@@ -1186,7 +1186,7 @@ Unanimous (4-0)
 
 ### 2.1. Development Security Modernization
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED by: a) adding the following to Section 4.4 to the proposed Subdivision and Development Agreement Security Policy: "for all Planning and Development Agreements, to the satisfaction of the City. This may include land security specifically for Subdivision Agreements."; and...
 
@@ -1196,7 +1196,7 @@ Unanimous (5-0)
 
 ### 2.1. Development Security Modernization
 
-<a id="motion-2-1-2" class="motion-anchor"></a>
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1206,7 +1206,7 @@ Unanimous (5-0)
 
 ### 2.1. Development Security Modernization
 
-<a id="motion-2-1-3" class="motion-anchor"></a>
+<div id="motion-2-1-3" class="motion-anchor"></div>
 
 > That the delegation request from M. Wallace, LDI, as appended to the Added Agenda, be heard at this time.
 
@@ -1216,7 +1216,7 @@ Unanimous (5-0)
 
 ### 2.4. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 242 Huron Street
 
-<a id="motion-2-4-2" class="motion-anchor"></a>
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to provide a referral date of September 29, 2026
 
@@ -1226,7 +1226,7 @@ Unanimous (5-0)
 
 ### 2.4. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 242 Huron Street
 
-<a id="motion-2-4-3" class="motion-anchor"></a>
+<div id="motion-2-4-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1236,7 +1236,7 @@ Unanimous (5-0)
 
 ### 2.5. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue
 
-<a id="motion-2-5-1" class="motion-anchor"></a>
+<div id="motion-2-5-1" class="motion-anchor"></div>
 
 > That the delegation request from P. Malloy, as appended to the Added Agenda, be heard at this time.
 
@@ -1246,7 +1246,7 @@ Unanimous (5-0)
 
 ### 3.3. Southwest Area Secondary Plan (SWAP) Detailed Review - OZ-25029
 
-<a id="motion-3-3-1" class="motion-anchor"></a>
+<div id="motion-3-3-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include a new part a) v) to designate:     the lands located at 443 and 447 Exeter Road be changed from Light Industrial Place Type to Shopping Area Place Type as part of the SWAP detailed review process; it being noted the Civic Administration confirm the transition...
 
@@ -1256,7 +1256,7 @@ Unanimous (5-0)
 
 ### 3.3. Southwest Area Secondary Plan (SWAP) Detailed Review - OZ-25029
 
-<a id="motion-3-3-2" class="motion-anchor"></a>
+<div id="motion-3-3-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1266,7 +1266,7 @@ Unanimous (5-0)
 
 ### 3.6. 1076-1080 Commissioners Road West and 396-402 North Street - OZ-26037
 
-<a id="motion-3-6-2" class="motion-anchor"></a>
+<div id="motion-3-6-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include a new part c) v) that reads as follows: v) utilize bird friendly policies using the adopted CSA standard;
 
@@ -1276,7 +1276,7 @@ Unanimous (5-0)
 
 ### 3.6. 1076-1080 Commissioners Road West and 396-402 North Street - OZ-26037
 
-<a id="motion-3-6-3" class="motion-anchor"></a>
+<div id="motion-3-6-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1286,7 +1286,7 @@ Unanimous (5-0)
 
 ### 3.8. 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055
 
-<a id="motion-3-8-2" class="motion-anchor"></a>
+<div id="motion-3-8-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED in part c) i) that reads as follows: i)    adding a park block within the Draft Plan of Subdivision to include a dedicated, publicly accessible parkland block or a cash in lieu contribution proportionate to the density of the development;
 
@@ -1296,7 +1296,7 @@ Unanimous (5-0)
 
 ### 3.8. 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055
 
-<a id="motion-3-8-3" class="motion-anchor"></a>
+<div id="motion-3-8-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1313,7 +1313,7 @@ Unanimous (5-0)
 
 ### 3.8. 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055
 
-<a id="motion-3-8-6" class="motion-anchor"></a>
+<div id="motion-3-8-6" class="motion-anchor"></div>
 
 > That the Committee recess at this time, for 10 minutes.
 

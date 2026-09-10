@@ -1217,7 +1217,7 @@ Thank you through the chair just want to get some clarification because when we 
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Item 2.1 BE APPROVED.
 
@@ -1227,7 +1227,7 @@ Unanimous (5-0)
 
 ### 3.1. 3640 Dingman Drive (OZ-9771)
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of The Corporation of the City of London, relating to the property located at 3640 Dingman Drive: a) the proposed by-law appended to the staff report dated Novembe...
 
@@ -1237,7 +1237,7 @@ Unanimous (5-0)
 
 ### 3.4. 145 Base Line Road West (Z-9783)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application of 1000915350 Ontario Inc., (c/o Siv-ik), relating to the property located at 145 Base Line Road West: a) the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 26, 2024 to amend Zonin...
 
@@ -1254,7 +1254,7 @@ Unanimous (5-0)
 
 ### 7. Adjournment
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > The meeting adjourned at 5:00 PM.
 

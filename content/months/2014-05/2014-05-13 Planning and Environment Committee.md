@@ -487,7 +487,7 @@ The
 ### 2. 5th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -500,7 +500,7 @@ Unanimous (3-0)
   at 56-82 Wellington Street, 283-323 South Street and 69-77 Waterloo Street
   (OZ-8114)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -513,7 +513,7 @@ Unanimous (3-0)
   1671 Fanshawe Park Road East - Cedarhollow Draft Plan - Request for Extension
   of Draft Approval (39T-03518)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -525,7 +525,7 @@ Unanimous (3-0)
 ### 5. Properties located
   at 3924 and 4138 Colonel Talbot Road (39T-12503/OZ-8052)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -538,7 +538,7 @@ Unanimous (3-0)
   Construction of Companies - 3804 South Winds Drive – Appeal to the
   Ontario Municipal Board
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -550,7 +550,7 @@ Unanimous (3-0)
 ### 7. Properties located
   at 583, 585 and 589 Oxford Street East
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -562,7 +562,7 @@ Unanimous (6-0)
 ### 7. Properties located
   at 583, 585 and 589 Oxford Street East
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -574,7 +574,7 @@ Unanimous (6-0)
 ### 7. Properties located
   at 583, 585 and 589 Oxford Street East
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -586,7 +586,7 @@ Unanimous (5-0)
 ### 8. Entertainment on
   Outdoor Patios (Z-8335)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -605,7 +605,7 @@ Unanimous (5-0)
 ### 8. Entertainment on
   Outdoor Patios (Z-8335)
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -617,7 +617,7 @@ Unanimous (6-0)
 ### 8. Entertainment on
   Outdoor Patios (Z-8335)
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -629,7 +629,7 @@ Unanimous (5-0)
 ### 9. 4th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -641,7 +641,7 @@ Unanimous (6-0)
 ### 10. Property located at
   1103 Adelaide Street North
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -653,7 +653,7 @@ Unanimous (6-0)
 ### 11. Property located at
   230 Victoria Street
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -665,7 +665,7 @@ Unanimous (6-0)
 ### 11. Property located at
   230 Victoria Street
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

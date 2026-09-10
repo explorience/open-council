@@ -549,7 +549,7 @@ Have a good afternoon.
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the consideration of appointments to the following London Community Advisory Committees BE REFERRED to the May 28, 2024 meeting of the Strategic Priorities and Policy Committee: - Animal Welfare Community Advisory Committee; - Diversity, Inclusion and Anti-Oppression Community Advisory Commi...
 
@@ -559,7 +559,7 @@ Unanimous (5-0)
 
 ### 4.2. Application - Issuance of Proclamation - Day of Remembrance of Our London Family
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That items 4.2 to 4.6 BE APPROVED. 4.2       Application – Issuance of Proclamation – Day of Remembrance of Our London Family That based on the application from Muslim Wellness Network, June 6, 2024 BE PROCLAIMED Day of Remembrance of Our London Family. 4.3       Application - Issuance of Proclam...
 

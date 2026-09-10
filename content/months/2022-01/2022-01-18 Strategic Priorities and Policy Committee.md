@@ -436,7 +436,7 @@ Bye for now.
 
 ### 4.1. London Public Library Board
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to Council appointments to the London Public Library Board:    a)     the resignation of Councillor S. Lewis, from the London Public Library Board BE ACCEPTED; and,    b)     Councillor J. Fyfe-Millar BE APPOINTED to the London Public Library Board...
 
@@ -446,7 +446,7 @@ Unanimous (12-0)
 
 ### 4.2. Resubmitting - London Public Library Board Vacancy
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Appointment to the London Public Library Board
 
@@ -461,7 +461,7 @@ Unanimous (12-0)
 
 ### 4.2. Resubmitting - London Public Library Board Vacancy
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > Appointment to the London Public Library Board
 
@@ -476,7 +476,7 @@ Unanimous (12-0)
 
 ### 4.3. Full-Time Compensation Determination
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the communication from Councillor M. van Holst, dated January 9, 2022, with respect to typical daytime office hours, BE RECEIVED and no action be taken.
 

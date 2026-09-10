@@ -1678,7 +1678,7 @@ Motion Passed
 ### 5#3. Highway 401
   Interchange Projects Agreement with Ministry of Transportation.
 
-<a id="motion-5-3-0" class="motion-anchor"></a>
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the   Director, Roads and Transportation, the following actions be taken with   respect to an Agreement between Her Majesty the Queen ln Right of the Province   of Ontario, represented by the Minister of Transportation for the Province of   Ontario (MTO), and The Co...
 
@@ -1689,7 +1689,7 @@ Unanimous (15-0)
 ### 5#5. 2nd Report of the
   the London Housing Advisory Committee.
 
-<a id="motion-5-5-0" class="motion-anchor"></a>
+<div id="motion-5-5-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with   respect to the 2nd Report of the London Housing Advisory Committee, from its   meeting held on January 16, 2013:   a)         Clause 1 of the Report BE   REFERRED to the 2013 Budget.   Clause 1, as   referred reads as follows:    "1.    Municipal Counci...
 
@@ -1700,7 +1700,7 @@ Unanimous (15-0)
 ### 6#3. Ontario Works
   Decentralization.
 
-<a id="motion-6-3-0" class="motion-anchor"></a>
+<div id="motion-6-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Acting   Ontario Works Administrator, the following actions be taken with respect to   the decentralization of Ontario Works services:   a)         the   Ontario Works Decentralization plan, outlined in the staff report dated February   4, 2013, BE APPROVED in p...
 
@@ -1711,7 +1711,7 @@ Unanimous (13-0)
 ### 6#4. Lorne Avenue Public
   School
 
-<a id="motion-6-4-0" class="motion-anchor"></a>
+<div id="motion-6-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the enhancement of public use of the Lorne Avenue Public School;   a)         the above-noted matter BE   REFERRED to the 2013 Capital Budget discussions; and,   b)         the   Civic Administration BE DIRECTED to bring forward a report to th...
 
@@ -1722,7 +1722,7 @@ Unanimous (12-0)
 ### 8#2. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > Amend clause 8, to add the following   wording after the word "consideration", "including, but not   limited to".
 
@@ -1733,7 +1733,7 @@ Unanimous (15-0)
 ### 8#2. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
-<a id="motion-8-2-1" class="motion-anchor"></a>
+<div id="motion-8-2-1" class="motion-anchor"></div>
 
 > Approve clause 8, as amended.
 
@@ -1744,7 +1744,7 @@ Unanimous (15-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -1755,7 +1755,7 @@ Unanimous (13-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 29, 2013
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve Minutes of the 3rd Meeting   held on January 29, 2013.
 
@@ -1765,7 +1765,7 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-0" class="motion-anchor"></a>
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Approve 1st reading of Bill No.s 94 to   102, inclusive.
 
@@ -1775,7 +1775,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Approve 2nd reading of Bill No.s 94 to   102, inclusive.
 
@@ -1785,7 +1785,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-2" class="motion-anchor"></a>
+<div id="motion-xiii-2" class="motion-anchor"></div>
 
 > Approve 3rd reading and enactment of Bill   No.s 94 to 102, inclusive.
 
@@ -1797,7 +1797,7 @@ Unanimous (14-0)
   Delegation Status at the Corporate Services Committee re Post Secondary
   Students Becoming More Involved in Municipal Government
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Amend clause 5 in part b) by deleting   all words following "representation" and by replacing with the   following words, "from all of Western University affiliated colleges, a   corresponding number of neighbourhood representatives, and a representative   from the London Property Management Asso...
 
@@ -1809,7 +1809,7 @@ Unanimous (15-0)
   Delegation Status at the Corporate Services Committee re Post Secondary
   Students Becoming More Involved in Municipal Government
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1820,7 +1820,7 @@ Unanimous (15-0)
 ### 10. Property located at
   9345 Elviage Drive
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > That, the Civic Administration BE DIRECTED   to report back to a future meeting of the Planning and Environment Committee,   relating to the communication, dated January 15, 2013, from M. Doornbosch,   Zelinka Priamo Ltd., relating to the property located at 9345 Elviage Drive;   it being noted t...
 

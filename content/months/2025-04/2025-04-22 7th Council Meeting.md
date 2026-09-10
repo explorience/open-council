@@ -3215,7 +3215,7 @@ Motion carries. That carries, we're adjourned.
 
 ### 8.1. 7th Report of the Infrastructure and Corporate Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 7th Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of items 9 (2.1), and 10 (4.1).
 
@@ -3225,7 +3225,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (2.1) 2026 Municipal and School Board Elections Update (Relates to Bill No. 139)
 
-<a id="motion-8-1-9-1" class="motion-anchor"></a>
+<div id="motion-8-1-9-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Clerk, the following actions be taken with respect to the 2026 Municipal Election: a)    the City Clerk BE DIRECTED to request local school boards to consider scheduling a Professional Activity Day (PA Day) on Voting Day, October 26, 2026, as elementary and...
 
@@ -3242,7 +3242,7 @@ Unanimous (15-0)
 
 ### 8.1.10. (4.1) Review of Winter Maintenance Performance Regarding Snow and Ice Removal - Councillors S. Franke and C. Rahman
 
-<a id="motion-8-1-10-1" class="motion-anchor"></a>
+<div id="motion-8-1-10-1" class="motion-anchor"></div>
 
 > That part b) iii) of the motion be amended to read as follows: b) iii)  investigating alternative options for snow and ice removals on roads, laneways, and sidewalks; and
 
@@ -3252,7 +3252,7 @@ Unanimous (15-0)
 
 ### 8.1.10. (4.1) Review of Winter Maintenance Performance Regarding Snow and Ice Removal - Councillors S. Franke and C. Rahman
 
-<a id="motion-8-1-10-3" class="motion-anchor"></a>
+<div id="motion-8-1-10-3" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Review of Winter Maintenance Performance regarding Snow and Ice Removal: a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee regarding amendments to the Minimum...
 
@@ -3269,7 +3269,7 @@ Unanimous (15-0)
 
 ### 8.1.10. (4.1) Review of Winter Maintenance Performance Regarding Snow and Ice Removal - Councillors S. Franke and C. Rahman
 
-<a id="motion-8-1-10-4" class="motion-anchor"></a>
+<div id="motion-8-1-10-4" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Review of Winter Maintenance Performance regarding Snow and Ice Removal: b)   the City’s 2024/2025 winter maintenance performance, challenges and opportunities for potential service improvements BE REVIEWED, including but not limited to: i) ...
 
@@ -3286,7 +3286,7 @@ Unanimous (15-0)
 
 ### 8.2. 7th Report of the Community and Protective Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 7th Report of the Community and Protective Services Committee BE APPROVED with the exception of items 8 (2.7) and 9 (5.1).
 
@@ -3296,7 +3296,7 @@ Unanimous (15-0)
 
 ### 8.2.8. (2.7) Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement (Reducing Substance Use Harms Through Basic Needs and Healthcare at 602 Queens "The Commons") (Relates to Bill No. 132)
 
-<a id="motion-8-2-8-0" class="motion-anchor"></a>
+<div id="motion-8-2-8-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the staff report, dated April 7, 2025, related to the Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement (Reducing Substance Use Harms Through Basic Needs and Healthcare at 602 Queens “The Commons”): a)    the proposed by-...
 
@@ -3313,7 +3313,7 @@ Unanimous (15-0)
 
 ### 8.2.9. (5.1) Watson Park
 
-<a id="motion-8-2-9-1" class="motion-anchor"></a>
+<div id="motion-8-2-9-1" class="motion-anchor"></div>
 
 > That part a) be amended to read as follows: a)   the Civic Administration BE DIRECTED to assist with the relocation of those living unhoused in Watson Park, to ensure that Watson Park is in compliance with established encampment protocols, and connect them with appropriate service supports, inclu...
 
@@ -3330,7 +3330,7 @@ Unanimous (15-0)
 
 ### 8.2.9. (5.1) Watson Park
 
-<a id="motion-8-2-9-3" class="motion-anchor"></a>
+<div id="motion-8-2-9-3" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to Watson Park: a)   the Civic Administration BE DIRECTED to assist with the relocation of those living unhoused in Watson Park, to ensure that Watson Park is in compliance with established encampment protocols, and connect them with appropriate se...
 
@@ -3347,7 +3347,7 @@ Unanimous (15-0)
 
 ### 8.2.9. (5.1) Watson Park
 
-<a id="motion-8-2-9-4" class="motion-anchor"></a>
+<div id="motion-8-2-9-4" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to Watson Park: b)    the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible and that, in the interim period, depot resources be reallocated to...
 
@@ -3364,7 +3364,7 @@ Unanimous (15-0)
 
 ### 8.3. 6th Report of the Planning and Environment Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 6th Report of the Planning and Environment Committee BE APPROVED with the exception of items 4 (3.1), 6 (3.3), and 10 (3.7).
 
@@ -3374,7 +3374,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (3.1) 3095 Bostwick Road (Z-9791/O-25032) (Relates to Bill No.'s 136 and 146)
 
-<a id="motion-8-3-4-1" class="motion-anchor"></a>
+<div id="motion-8-3-4-1" class="motion-anchor"></div>
 
 > that part c) be amended to include i) to read as follows: i)    The subdivision approval authority include a draft plan condition specific to natural heritage compensation for the 1.27 hectares of feature removal, consisting of 0.57 ha of wetlands and 0.70 ha of woodlands, to demonstrate no net l...
 
@@ -3391,7 +3391,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (3.1) 3095 Bostwick Road (Z-9791/O-25032) (Relates to Bill No.'s 136 and 146)
 
-<a id="motion-8-3-4-2" class="motion-anchor"></a>
+<div id="motion-8-3-4-2" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Southside Construction Management Ltd. relating to the property located at 3095 Bostwick Road:    a)     the proposed by-law as appended to the staff report dat...
 
@@ -3408,7 +3408,7 @@ Unanimous (15-0)
 
 ### 8.3.6. (3.3) 1622 Evans Boulevard (OZ-25010) (Relates to Bill No.'s 137 and 148)
 
-<a id="motion-8-3-6-0" class="motion-anchor"></a>
+<div id="motion-8-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Drewlo Holdings Inc. relating to the property located at 1620 Evans Boulevard (formerly 1622 Evans Boulevard): a)    the proposed by-law as appended to the staf...
 
@@ -3425,7 +3425,7 @@ Unanimous (15-0)
 
 ### 8.3.10. (3.7) 801 Sarnia Road (OZ-25017)
 
-<a id="motion-8-3-10-0" class="motion-anchor"></a>
+<div id="motion-8-3-10-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Royal Premier Homes (c/o Siv-ik Planning and Design Inc.) relating to the property located at 801 Sarnia Road:    a)    the request to amend the Official Plan f...
 
@@ -3442,7 +3442,7 @@ Unanimous (15-0)
 
 ### 8.3.10. (3.7) 801 Sarnia Road (OZ-25017)
 
-<a id="motion-8-3-10-2" class="motion-anchor"></a>
+<div id="motion-8-3-10-2" class="motion-anchor"></div>
 
 > that the motion be amended to add a new e) part that reads as follows: e)   the applicant BE REQUESTED to meet with Municipal Housing and Industrial Development (MHID) to explore viable contributions Royal Premier Homes can make to affordable housing initiatives in the city. At 4:09 PM, His Worsh...
 
@@ -3452,7 +3452,7 @@ Unanimous (14-0)
 
 ### 8.3.10. (3.7) 801 Sarnia Road (OZ-25017)
 
-<a id="motion-8-3-10-3" class="motion-anchor"></a>
+<div id="motion-8-3-10-3" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions, as amended, be taken with respect to the application of Royal Premiere Homes relating to the property located at 801 Sarnia Road: a)    the proposed by-law (attached as Appendix A) BE INTRODUCED a...
 
@@ -3469,7 +3469,7 @@ Unanimous (14-0)
 
 ### 8.4. 5th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 5th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 2 (2.1).
 
@@ -3479,7 +3479,7 @@ Unanimous (15-0)
 
 ### 8.4.2. (2.1) Economic Development Strategy: Appointment of Consultant for RFP 2025-004
 
-<a id="motion-8-4-2-0" class="motion-anchor"></a>
+<div id="motion-8-4-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Manager, the following actions be taken with respect to the appointment of a consultant for the development of the Economic Development Strategy:    a)    Deloitte LLP BE APPOINTED as the Consultant to undertake the development of the Economic Development S...
 
@@ -3496,7 +3496,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.'s 137 and 148 BE APPROVED.
 
@@ -3513,7 +3513,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No.'s 137 and 148 BE APPROVED.
 
@@ -3530,7 +3530,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.'s 137 and 148 BE APPROVED.
 
@@ -3547,7 +3547,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 132  BE APPROVED.
 
@@ -3564,7 +3564,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No.132 BE APPROVED.
 
@@ -3581,7 +3581,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 132 BE APPROVED.
 
@@ -3598,7 +3598,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-9" class="motion-anchor"></a>
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Added Bill No.'s 153 and 154 BE APPROVED.
 
@@ -3615,7 +3615,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-10" class="motion-anchor"></a>
+<div id="motion-13-10" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No.'s 153 and 154 BE APPROVED.
 
@@ -3632,7 +3632,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-11" class="motion-anchor"></a>
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Added Bill No.'s 153 and 154 BE APPROVED.
 

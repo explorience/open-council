@@ -531,7 +531,7 @@ Motion is carried for adjournment. We're adjourned.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 and 2.3 to 2.7 BE APPROVED.
 
@@ -541,7 +541,7 @@ Unanimous (5-0)
 
 ### 2.2. Neighbourhood Decision Making: 2024 Update
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > Motion to approve the request for delegation from B. Samuels, to be heard at this meeting.
 

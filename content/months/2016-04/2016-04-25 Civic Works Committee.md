@@ -352,7 +352,7 @@ The
 ### 2. School Zone Speed
   Limit Policy
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -367,7 +367,7 @@ Unanimous (5-0)
   Reconstruction and Bond Street/Raywood Avenue Alexandra Street/Lincoln Place
   Reconstruction
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -380,7 +380,7 @@ Unanimous (5-0)
   Traffic and Parking By-law Pertaining to the No Left-Turn Restrictions on
   Southdale Road West at Tillman Road and at Farnham Road
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -392,7 +392,7 @@ Unanimous (5-0)
 ### 5. Pedestrian
   Crossover Program
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -405,7 +405,7 @@ Unanimous (5-0)
   Rehabilitation Detailed Design and Tendering - Appointment of Consulting
   Engineer
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -417,7 +417,7 @@ Unanimous (5-0)
 ### 7. Landscape Material
   on Boulevard Policy
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -429,7 +429,7 @@ Unanimous (5-0)
 ### 8. Environmental
   Programs Update
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -441,7 +441,7 @@ Unanimous (5-0)
 ### 9. 4th Report of the
   Transportation Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -453,7 +453,7 @@ Unanimous (5-0)
 ### 10. Deferred Matters
   List
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -465,7 +465,7 @@ Unanimous (5-0)
 ### 11. (ADDED)  Blackfriars Bridge – Review of
   Vehicular Access
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

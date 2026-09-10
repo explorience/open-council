@@ -409,7 +409,7 @@ The Meeting adjourned at 1:53 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.4, 2.6 and 2.7 BE APPROVED.
 
@@ -419,7 +419,7 @@ Unanimous (5-0)
 
 ### 2.1. London Downtown Business Association 2018 Proposed Budget - Municipal Special Levy
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the London Downtown Business Association:    a)            the London Downtown Business Association proposed 2018 budget submission ...
 
@@ -429,7 +429,7 @@ Unanimous (5-0)
 
 ### 2.2. Old East Village Business Association 2018 Proposed Budget - Municipal Special Levy
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the Old East Village Business Improvement Area:    a)            the Old East Village Business Improvement Area proposed 2018 budget...
 
@@ -439,7 +439,7 @@ Unanimous (6-0)
 
 ### 2.3. Argyle Business Improvement Area 2018 Proposed Budget - Municipal Special Levy
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the Argyle Business Improvement Area:    a)            the Argyle Business Improvement Area proposed 2018 budget submission in the a...
 
@@ -449,7 +449,7 @@ Unanimous (6-0)
 
 ### 2.8. Declare Surplus and Sale - 1694 Evangeline Street and 126 Hamilton Road
 
-<a id="motion-2-8-0" class="motion-anchor"></a>
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, on the advice of the Manager of Realty Services, the following actions be taken with respect to the City-owned properties located at 1694 Evangeline Street, described as Part Lot ...
 
@@ -459,7 +459,7 @@ Unanimous (5-0)
 
 ### 4.1. Consideration of Appointment to the Transportation Advisory Committee (Requires 1 Voting Member at Large)
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That Dan Foster BE APPOINTED to the Transportation Advisory Committee as a Voting Member at Large for the term ending February 28, 2019; it being noted that the appointment was made in accordance with the attached ranked ballot comprised of the nominees of the Corporate Services Committee.
 
@@ -469,7 +469,7 @@ Unanimous (6-0)
 
 ### 4.2. Consideration of Appointment to the Town and Gown Committee (Requires 1 Voting Member from Ward 13)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That Zachery Engel BE APPOINTED to the Town and Gown Committee as a Voting Representative of Ward 13 for the term ending February 28, 2019.
 
@@ -479,7 +479,7 @@ Unanimous (6-0)
 
 ### 4.3. Request for Designation of the Forked Fest as a Municipally Significant Event
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the Forked River Fest, to be held on June 9, 2018, at 4-45 Pacific Court, from 11:00 AM to 9:00 PM, BE DESIGNATED as an event of municipal significance in the City of London.
 

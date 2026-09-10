@@ -429,7 +429,7 @@ The meeting adjourned at 6:51 PM.
 
 ### 2.1. COVID-19 Financial Impacts and Additional Measures for Community Relief
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > Amendment to add a new part h) as follows: h)     that the Civic Administration BE DIRECTED to proceed with the implementation of Initiative 2 of Appendix E (post pandemic – Preliminary Possible Recovery Measures for Londoners and Businesses), “Enhancing Food Security Opportunities for Londoners”
 
@@ -446,7 +446,7 @@ The meeting adjourned at 6:51 PM.
 
 ### 4.1. Request for a Shareholder's Meeting - Housing Development Corporation, London
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2019 Annual General Meeting of the Shareholder for the Housing Development Corporation, London:    a)      the 2019 Annual General Meeting of the Shareholder for the Housing Development Corporation, London BE HELD at a meeting of the Strateg...
 
@@ -456,7 +456,7 @@ Unanimous (15-0)
 
 ### 4.2. Request for a Shareholder’s Meeting – London Hydro Inc.
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2019 Annual General Meeting of the Shareholder for London Hydro Inc.: a)      the 2019 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on June 9, 2020, for...
 
@@ -466,7 +466,7 @@ Unanimous (15-0)
 
 ### 4.3. Request for a Shareholder's Meeting - London-Middlesex Community Housing
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2019 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing: a)      the 2019 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing BE HELD at a meeting of the Strategic Priori...
 
@@ -476,7 +476,7 @@ Unanimous (15-0)
 
 ### 4.4. London Public Library Board Vacancy Notification
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > That the resignation of Donna Vachon from the London Public Library Board of Directors BE ACCEPTED.
 
@@ -486,7 +486,7 @@ Unanimous (15-0)
 
 ### 4.4. London Public Library Board Vacancy Notification
 
-<a id="motion-4-4-2" class="motion-anchor"></a>
+<div id="motion-4-4-2" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to review the current applications on file, to confirm that those individuals remain interested in appointment, and further that additional applications be sought, in order to fill the vacancy on the London Public Library Board.
 
@@ -496,7 +496,7 @@ Unanimous (15-0)
 
 ### 4.5. Hamilton Road BIA
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Hamilton Road Business Improvement Area Board of Management:    a)     the resignations of Cassi Mask-Wildman and Raphael Metron BE ACCEPTED; and    b)     Chantal Watier BE APPOINTED for the term ending November 15, 2022.
 

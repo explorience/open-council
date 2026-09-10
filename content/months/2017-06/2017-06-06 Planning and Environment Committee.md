@@ -1045,7 +1045,7 @@ The meeting adjourned at 10:16 PM.
 ### 2. 5th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1057,7 +1057,7 @@ Unanimous (5-0)
 ### 3. 6th  Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1069,7 +1069,7 @@ Unanimous (5-0)
 ### 4. STAFF REPORT -
   Planning Services 18-24 Month Work Program
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1081,7 +1081,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Cedar Hollow Subdivision - Portion of 1800 Cedarhollow Boulevard (39T-03518)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1093,7 +1093,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Cedar Hollow Subdivision - Portion of 1800 Cedarhollow Boulevard (39T-03518)
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1105,7 +1105,7 @@ Unanimous (6-0)
 ### 5. STAFF REPORT -
   Cedar Hollow Subdivision - Portion of 1800 Cedarhollow Boulevard (39T-03518)
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1117,7 +1117,7 @@ Unanimous (5-0)
 ### 7. STAFF REPORT -
   Building Division Monthly Report - April 2017
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1130,7 +1130,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Amendments to the Z-1 Zoning By-law - Shipping
   Containers and Trailers - City Wide (Z-8623)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1143,7 +1143,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Amendments to the Z-1 Zoning By-law - Shipping
   Containers and Trailers - City Wide (Z-8623)
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1156,7 +1156,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Amendments to the Z-1 Zoning By-law - Shipping
   Containers and Trailers - City Wide (Z-8623)
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1169,7 +1169,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 905 Adelaide Street North
   (Z-8743)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1182,7 +1182,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 905 Adelaide Street North
   (Z-8743)
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1195,7 +1195,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 905 Adelaide Street North
   (Z-8743)
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1207,7 +1207,7 @@ Unanimous (5-0)
 ### 10. PUBLIC
   PARTICIPATION MEETING - Property located at 510 Central Avenue (SPA17-021)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1219,7 +1219,7 @@ Unanimous (5-0)
 ### 10. PUBLIC
   PARTICIPATION MEETING - Property located at 510 Central Avenue (SPA17-021)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1231,7 +1231,7 @@ Unanimous (5-0)
 ### 10. PUBLIC
   PARTICIPATION MEETING - Property located at 510 Central Avenue (SPA17-021)
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1244,7 +1244,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 3350 and 3460 Morgan Avenue
   (Z-8738)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1257,7 +1257,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 3350 and 3460 Morgan Avenue
   (Z-8738)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1270,7 +1270,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Properties located at 3350 and 3460 Morgan Avenue
   (Z-8738)
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1283,7 +1283,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Deleting Section 4.18.5 of Zoning By-law Z-1 to
   permit Amplified Music, Dancing on Patios City Wide (Z-8763)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1296,7 +1296,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Deleting Section 4.18.5 of Zoning By-law Z-1 to
   permit Amplified Music, Dancing on Patios City Wide (Z-8763)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1309,7 +1309,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Deleting Section 4.18.5 of Zoning By-law Z-1 to
   permit Amplified Music, Dancing on Patios City Wide (Z-8763)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1322,7 +1322,7 @@ Unanimous (6-0)
   MEETING - Wonderland Road Community Enterprise Corridor Land Use Designation
   in the Southwest Area Secondary Plan (O-8731)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1335,7 +1335,7 @@ Unanimous (6-0)
   MEETING - Wonderland Road Community Enterprise Corridor Land Use Designation
   in the Southwest Area Secondary Plan (O-8731)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1348,7 +1348,7 @@ Unanimous (6-0)
   MEETING - Wonderland Road Community Enterprise Corridor Land Use Designation
   in the Southwest Area Secondary Plan (O-8731)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1361,7 +1361,7 @@ Unanimous (6-0)
   MEETING - Wonderland Road Community Enterprise Corridor Land Use Designation
   in the Southwest Area Secondary Plan (O-8731)
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -1381,7 +1381,7 @@ Unanimous (6-0)
   MEETING - Wonderland Road Community Enterprise Corridor Land Use Designation
   in the Southwest Area Secondary Plan (O-8731)
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > Motion   Passed
 

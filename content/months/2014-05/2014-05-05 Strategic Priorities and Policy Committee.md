@@ -407,7 +407,7 @@ Recommendation:  That consideration of the
 ### 2. Industrial Land
   Development Strategy Implementation Options
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -426,7 +426,7 @@ Recommendation:  That consideration of the
 ### 2. Industrial Land
   Development Strategy Implementation Options
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -445,7 +445,7 @@ Recommendation:  That consideration of the
 ### 3. London Hydro Inc. – 2013 Annual
   Meeting of the Shareholder – Annual Resolutions
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -458,7 +458,7 @@ Unanimous (12-0)
   - 2013 Annual Meeting of the Shareholder - Annual Resolutions and Declaration
   of the Sole Shareholder and Accountability Rules
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -471,7 +471,7 @@ Unanimous (12-0)
   Nominees for Appointment to the Board of Directors of the Greater London
   International Airport Authority
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -491,7 +491,7 @@ Unanimous (12-0)
   Nominees for Appointment to the Board of Directors of the Greater London
   International Airport Authority
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -511,7 +511,7 @@ Unanimous (12-0)
   Nominees for Appointment to the Board of Directors of the Greater London
   International Airport Authority
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -531,7 +531,7 @@ Unanimous (12-0)
   Nominees for Appointment to the Board of Directors of the Greater London
   International Airport Authority
 
-<a id="motion-6-3" class="motion-anchor"></a>
+<div id="motion-6-3" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -551,7 +551,7 @@ Unanimous (12-0)
   Nominees for Appointment to the Board of Directors of the Greater London
   International Airport Authority
 
-<a id="motion-6-4" class="motion-anchor"></a>
+<div id="motion-6-4" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -571,7 +571,7 @@ Unanimous (12-0)
   Nominees for Appointment to the Board of Directors of the Greater London
   International Airport Authority
 
-<a id="motion-6-5" class="motion-anchor"></a>
+<div id="motion-6-5" class="motion-anchor"></div>
 
 > Motion   Passed
 

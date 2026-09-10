@@ -236,7 +236,7 @@ Councillor J.L. Baechler enquired about the
 ### 2. Strategic Funding
   Framework: City Council-Directed Funding to Non-Profit Organizations
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -247,7 +247,7 @@ Unanimous (13-0)
 ### 2. Strategic Funding
   Framework: City Council-Directed Funding to Non-Profit Organizations
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -258,7 +258,7 @@ Unanimous (12-0)
 ### 3. Development Charges
   Review Update
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -270,7 +270,7 @@ Unanimous (13-0)
 ### 4. Future Options for
   London Hydro Inc.
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -289,7 +289,7 @@ Unanimous (13-0)
 ### 5. Status of ReThink
   London Key Directions and Discussion Papers
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

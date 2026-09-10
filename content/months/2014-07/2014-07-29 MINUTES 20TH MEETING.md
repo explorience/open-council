@@ -3745,7 +3745,7 @@ Motion Passed
 ### 10#3. Thames Valley
   District School Board and City of London Joint Use of Facilities Agreement
 
-<a id="motion-10-3-0" class="motion-anchor"></a>
+<div id="motion-10-3-0" class="motion-anchor"></div>
 
 > That, at the request of the Civic   Administration, the consideration of the Thames Valley District School Board   and the City of London Joint Use of Facilities Agreement BE DEFERRED to a   future meeting of the Community and Protective Services Committee.     (2014-L04A)
 
@@ -3756,7 +3756,7 @@ Unanimous (10-0)
 ### 13#3. Appointment to the
   Trees and Forests Advisory Committee
 
-<a id="motion-13-3-0" class="motion-anchor"></a>
+<div id="motion-13-3-0" class="motion-anchor"></div>
 
 > That Gillian Barker BE APPOINTED as a   Voting Member at Large on the Trees and Forests Advisory Committee, for the   term ending February 28, 2015.
 
@@ -3767,7 +3767,7 @@ Unanimous (11-0)
 ### 16#2. 7th and 8th Reports
   of the London Advisory Committee on Heritage
 
-<a id="motion-16-2-0" class="motion-anchor"></a>
+<div id="motion-16-2-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with   respect to the 7th and 8th Reports of the London Advisory Committee on   Heritage (LACH) from its meetings held on June 11, 2014 and July 9, 2014,   respectively:   a)         on the   recommendation of the Director of Land Use Planning and City Planner...
 
@@ -3778,7 +3778,7 @@ Unanimous (12-0)
 ### 16#2. 7th and 8th Reports
   of the London Advisory Committee on Heritage
 
-<a id="motion-16-2-1" class="motion-anchor"></a>
+<div id="motion-16-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3796,7 +3796,7 @@ Unanimous (12-0)
 ### 16#2. 7th and 8th Reports
   of the London Advisory Committee on Heritage
 
-<a id="motion-16-2-2" class="motion-anchor"></a>
+<div id="motion-16-2-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3807,7 +3807,7 @@ Unanimous (12-0)
 ### 17#3. The Impact of Prescription
   and Non-Prescription Drug Use on Middlesex-London
 
-<a id="motion-17-3-0" class="motion-anchor"></a>
+<div id="motion-17-3-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED   to work collaboratively with the Middlesex-London Health Unit (MLHU) with   respect to initiatives related to prescription and non-prescription drug use   impacts in the City of London; it being noted that the Community and   Protective Services Committ...
 
@@ -3825,7 +3825,7 @@ Unanimous (12-0)
 ### 17#3. The Impact of Prescription
   and Non-Prescription Drug Use on Middlesex-London
 
-<a id="motion-17-3-1" class="motion-anchor"></a>
+<div id="motion-17-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3836,7 +3836,7 @@ Unanimous (12-0)
 ### 2#6. Property located at 660 Sunningdale Road
   East (39T-09501/OZ/7368)
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Senior   Planner, Development Planning, the following actions be taken with respect to   the Draft Plan of Subdivision, Official Plan amendment and Zoning By-law   amendment applications by Extra Realty, relating to the property located at   660 Sunningdale Road...
 
@@ -3847,7 +3847,7 @@ Unanimous (12-0)
 ### 3#2. Western University
   and Western University Research Parks Progress Report
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 13.8 of   the Council Procedure By-law, the actions of the Municipal Council taken at   its meeting of October 1, 2013, with respect to part c) of clause 2 of the   11th Report of the Investment and Economic Prosperity Committee (IEPC),   related to the reporting ...
 
@@ -3858,7 +3858,7 @@ Unanimous (14-0)
 ### 3#2. Western University
   and Western University Research Parks Progress Report
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3869,7 +3869,7 @@ Unanimous (12-0)
 ### 3#8. Appointment to the Greater London
   International Airport Authority Board of Directors
 
-<a id="motion-3-8-0" class="motion-anchor"></a>
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3882,7 +3882,7 @@ Unanimous (10-0)
   Housing Access Centre Process Review and Environmental and Engineering
   Services: Solid Waste-Landfill Process Review
 
-<a id="motion-7-5-1" class="motion-anchor"></a>
+<div id="motion-7-5-1" class="motion-anchor"></div>
 
 > Approve clause 1, clause 2, as amended   and clauses 3 to 7, inclusive.
 
@@ -3893,7 +3893,7 @@ Unanimous (12-0)
 ### 7#6. Improvements to Governance Model and
   Tracking Approved Projects
 
-<a id="motion-7-6-0" class="motion-anchor"></a>
+<div id="motion-7-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3904,7 +3904,7 @@ Unanimous (12-0)
 ### 8#4. Annual Meeting
   Calendar
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > Approve that the draft annual meeting   calendar, as attached to the staff report dated July 22, 2014,   for the period December 1, 2014 to December 31, 2015, BE REFERRED to the next   meeting of the Corporate Services Committee to provide an opportunity for the   City Clerk to receive input from...
 
@@ -3922,7 +3922,7 @@ Unanimous (12-0)
 ### 8#5. Appointments to the London Public Library
   2014 – Terms December 1, 2014 to November 30, 2018
 
-<a id="motion-8-5-2" class="motion-anchor"></a>
+<div id="motion-8-5-2" class="motion-anchor"></div>
 
 > 2.                     That, as a   procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the   following recommendation be forwarded to City Council for deliberation and a   vote in public session:   That, on the recommendation of the Managing   Director, Corporate Services a...
 
@@ -3933,7 +3933,7 @@ Unanimous (12-0)
 ### 8#5. Appointments to the London Public Library
   2014 – Terms December 1, 2014 to November 30, 2018
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3944,7 +3944,7 @@ Unanimous (10-0)
 ### 8#5. Appointments to the London Public Library
   2014 – Terms December 1, 2014 to November 30, 2018
 
-<a id="motion-8-5-1" class="motion-anchor"></a>
+<div id="motion-8-5-1" class="motion-anchor"></div>
 
 > Approve clause 1.
 
@@ -3955,7 +3955,7 @@ Unanimous (10-0)
 ### I. DISCLOSURES
   OF PECUNIARY INTEREST
 
-<a id="motion-i-0" class="motion-anchor"></a>
+<div id="motion-i-0" class="motion-anchor"></div>
 
 > Councillor M. Brown discloses a pecuniary interest   in clause 8 of the 16th Report of the Strategic Priorities and Policy Committee,   having to do with appointments to the London Public Library Board, by   indicating that S. Courtice, one of the requested appointees, is doing some   volunteer w...
 
@@ -3966,7 +3966,7 @@ Unanimous (13-0)
 ### I. DISCLOSURES
   OF PECUNIARY INTEREST
 
-<a id="motion-i-1" class="motion-anchor"></a>
+<div id="motion-i-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3977,7 +3977,7 @@ Unanimous (13-0)
 ### I. DISCLOSURES
   OF PECUNIARY INTEREST
 
-<a id="motion-i-2" class="motion-anchor"></a>
+<div id="motion-i-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3988,7 +3988,7 @@ Unanimous (13-0)
 ### I. DISCLOSURES
   OF PECUNIARY INTEREST
 
-<a id="motion-i-3" class="motion-anchor"></a>
+<div id="motion-i-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3999,7 +3999,7 @@ Unanimous (13-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into to   Committee of the Whole, in camera, for purposes of considering the following:
 
@@ -4011,7 +4011,7 @@ Unanimous (13-0)
   AND SIGNING OF THE MINUTES OF THE SIXTEENTH, EIGHTEENTH AND NINETEENTH
   MEETINGS HELD ON JUNE 24, 2014, JUNE 25, 2014 AND JULY 21, 2014, RESPECTIVELY.
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 16th Meeting   held on June 24, 2014, the 18th Meeting held on June 25, 2014 and the 19th   Meeting held on July 21, 2014.
 
@@ -4021,7 +4021,7 @@ Unanimous (14-0)
 
 ### XII. ENQUIRIES
 
-<a id="motion-xii-0" class="motion-anchor"></a>
+<div id="motion-xii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 17.4 of   the Council Procedure By-law, leave be given for discussion and debate and   the making of a substantive motion with respect to the enquiry of Mayor J.   Baechler to ask that the Civic Administration review proposed changes or   additions to the Municipa...
 
@@ -4031,7 +4031,7 @@ Unanimous (12-0)
 
 ### XII. ENQUIRIES
 
-<a id="motion-xii-1" class="motion-anchor"></a>
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4044,7 +4044,7 @@ Unanimous (12-0)
   to the Planning and Environment Committee Stage for consideration with clause
   29 of the 13th Report of the Planning and Environment Committee.)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4055,7 +4055,7 @@ Unanimous (14-0)
 ### 4. London Medical
   Innovation and Commercialization Network - Grant Agreement
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Corporate Services, Chief Financial Officer and City Treasurer, the   following actions be taken with respect to the London Medical Innovation and   Commercialization Network:   a)         the   proposed by-law, included as Appendix A to the...
 
@@ -4068,7 +4068,7 @@ Unanimous (12-0)
   Conditions - Update (Managing Director, Corporate Services and City Treasurer
   and Chief Financial Officer)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   following actions be taken with respect to a Mixed-Use Development, including   a Performing Arts Centre:   a)         the   Civic Administration BE AUTHORIZED to expand t...
 
@@ -4086,7 +4086,7 @@ Unanimous (12-0)
 ### 9. Request for Support
   for Fanshawe College London Downtown Campus - Phase ll
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > At 6:26 PM, Her Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -4104,7 +4104,7 @@ Unanimous (12-0)
 ### 9. Request for Support
   for Fanshawe College London Downtown Campus - Phase ll
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4122,7 +4122,7 @@ Unanimous (12-0)
 ### 12. By-law Amendments
   for Expanded Animal Welfare Initiatives
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Approve that parts a) and b) of the   clause be referred back to the Community and Protective Services Committee   (CPSC) for further review and refinement of the revised proposed by-laws with   respect to a complete exemption from pets limits for London foster homes that   have been approved by ...
 
@@ -4133,7 +4133,7 @@ Unanimous (14-0)
 ### 12. By-law Amendments
   for Expanded Animal Welfare Initiatives
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4144,7 +4144,7 @@ Unanimous (14-0)
 ### 12. By-law Amendments
   for Expanded Animal Welfare Initiatives
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4162,7 +4162,7 @@ Unanimous (14-0)
 ### 12. By-law Amendments
   for Expanded Animal Welfare Initiatives
 
-<a id="motion-12-3" class="motion-anchor"></a>
+<div id="motion-12-3" class="motion-anchor"></div>
 
 > The motion to Approve parts c), d) and e)   of clause 12 is put.
 
@@ -4180,7 +4180,7 @@ Unanimous (14-0)
 ### 18. Interim Waste
   Diversion Plan 2014-2015
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Approve that   part b) of clause 6 be amended to read as follows:   b)         the contract value for Pure   Technologies BE APPROVED in accordance with section 14.4(e) of The   Corporation of the City of London’s Procurement of Goods and Services Policy,   in the amount of $1,076,660.00, excludi...
 
@@ -4191,7 +4191,7 @@ Unanimous (12-0)
 ### 18. Interim Waste
   Diversion Plan 2014-2015
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Approve that   part a) of clause 13, be amended to read as follows:   a)         IBI Group BE APPOINTED   Consulting Engineers to complete the Rapid Transit Corridors EA, First Stage,   North-South Corridor, including high-speed rails consideration, in the amount   of $1,930,655.00, excluding H.S...
 
@@ -4202,7 +4202,7 @@ Unanimous (12-0)
 ### 18. Interim Waste
   Diversion Plan 2014-2015
 
-<a id="motion-18-2" class="motion-anchor"></a>
+<div id="motion-18-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4213,7 +4213,7 @@ Unanimous (12-0)
 ### 29. Property located at
   2118 Richmond Street (OZ-7890)
 
-<a id="motion-29-0" class="motion-anchor"></a>
+<div id="motion-29-0" class="motion-anchor"></div>
 
 > Approve that the rezoning application   submitted by 1705820 Ontario Limited (York Developments), relating to the   property located at 2118 Richmond Street, BE REFERRED back to the Managing   Director, Planning and City Planner to facilitate a further conversation   between the applicant, the co...
 
@@ -4231,7 +4231,7 @@ Unanimous (12-0)
 ### 33. Election of
   Vice-Chair for the term ending November 30, 2014
 
-<a id="motion-33-0" class="motion-anchor"></a>
+<div id="motion-33-0" class="motion-anchor"></div>
 
 > That Councillor S.E. White BE ELECTED as   the Vice Chair of the Planning and Environment Committee for the term ending   November 30, 2014.
 

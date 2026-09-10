@@ -148,7 +148,7 @@ We are adjourned. Thank you.
 
 ### 2.1. 736-773 Dundas Street - Approval of Contribution Agreement with The London Cross-Cultural Learner Centre
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report, dated March 24, 2025, related to an Approval of a Contribution Agreement with The London Cross-Cultural Learner Centre for the property located at...
 

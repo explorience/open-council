@@ -339,7 +339,7 @@ The
 ### 2. 8th Report of the
   Transportation Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -351,7 +351,7 @@ Unanimous (3-0)
 ### 3. Amendments to the
   Traffic and Parking By-law
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -363,7 +363,7 @@ Unanimous (3-0)
 ### 4. Closing Part of
   Concept Drive
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -375,7 +375,7 @@ Unanimous (3-0)
 ### 5. Closing Part of the
   Unnamed Road Allowance on Sarnia Road
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -388,7 +388,7 @@ Unanimous (3-0)
   Project-Braesyde and Dengate Infrastructure Replacement Detailed Design and
   Tendering Appointment of Consulting Engineer
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -400,7 +400,7 @@ Unanimous (3-0)
 ### 7. 5th Report of the
   Cycling Advisory Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -412,7 +412,7 @@ Unanimous (3-0)
 ### 8. Parking Regulation
   Changes
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -424,7 +424,7 @@ Unanimous (3-0)
 ### 9. Sharp Curve North
   End of Proudfoot Lane
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -436,7 +436,7 @@ Unanimous (3-0)
 ### 10. Installation of
   Traffic Control Measures at Hyde Park Road and South Carriage Road
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -447,7 +447,7 @@ Unanimous (3-0)
 
 ### 11. Parking Regulation Amendment
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -459,7 +459,7 @@ Unanimous (3-0)
 ### 12. (ADDED) Civic Works Committee Meeting –
   November 17, 2014
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

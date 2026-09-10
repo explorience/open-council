@@ -380,7 +380,7 @@ The meeting adjourned at 1:18 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.10, 2.12 and 2.13 BE APPROVED.
 
@@ -390,7 +390,7 @@ Unanimous (5-0)
 
 ### 2.11. Environmental Assessment Process - Updates and Preferred Method to Expand the W12A Landfill
 
-<a id="motion-2-11-0" class="motion-anchor"></a>
+<div id="motion-2-11-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, and with the support of the Waste Management Working Group, the “Alternative 1 - Vertical Expansion Over Existing Footprint” BE APPROVED as the preferred landfill expansion alternative ...
 
@@ -400,7 +400,7 @@ Unanimous (5-0)
 
 ### 4.1. Street Renaming By-law, Policies and Guidelines - Councillor E. Peloza
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to amend the main motion by removing the following, "it being noted that the report back is to include a review of the request set out in the above-noted petition, recognizing that, historically, the word “Plantation” has a strong correlation to slavery, oppression and racism; " from part ...
 
@@ -419,7 +419,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) Low-Cost Active Transportation Infrastructure for COVID-19 Resilience Funding Stream - Councillor E. Peloza, Councillor S. Lewis and Councillor J. Helmer
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back at a future meeting of the Civic Works Committee with a proposed plan for construction of active transportation infrastructure that would be eligible for the COVID-19 Resilience stream funding and can be built within the timelines of the CO...
 

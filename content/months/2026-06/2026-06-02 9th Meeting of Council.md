@@ -2104,7 +2104,7 @@ Third and final reading for that set of bylaws and on this one the third reading
 
 ### 6.1. Expropriation of Lands - Wellington Gateway Project - Civil Works – Phase 2 – Report 2
 
-<a id="motion-6-1-0" class="motion-anchor"></a>
+<div id="motion-6-1-0" class="motion-anchor"></div>
 
 > That Council convene as the Approving Authority pursuant to the provisions of the Expropriations Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure with respect to the expropriation of the lands as ...
 
@@ -2123,7 +2123,7 @@ Third and final reading for that set of bylaws and on this one the third reading
 
 ### 6.1. Expropriation of Lands - Wellington Gateway Project - Civil Works – Phase 2 – Report 2
 
-<a id="motion-6-1-1" class="motion-anchor"></a>
+<div id="motion-6-1-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
 
@@ -2142,7 +2142,7 @@ Third and final reading for that set of bylaws and on this one the third reading
 
 ### 6.2. Expropriation of Lands - Wellington Gateway Project - Civil Works – Phase 3 – Report 3 (Relates to Bill No. 235)
 
-<a id="motion-6-2-0" class="motion-anchor"></a>
+<div id="motion-6-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
 
@@ -2161,7 +2161,7 @@ Third and final reading for that set of bylaws and on this one the third reading
 
 ### 6.8.1. 8th Report of the Planning and Environment Committee
 
-<a id="motion-6-8-1-0" class="motion-anchor"></a>
+<div id="motion-6-8-1-0" class="motion-anchor"></div>
 
 > That the 8th Report of the Planning and Environment Committee BE APPROVED with the exception of item 5 (3.3).
 
@@ -2171,7 +2171,7 @@ Unanimous (14-0)
 
 ### 6.8.1.5. (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
 
-<a id="motion-6-8-1-5-0" class="motion-anchor"></a>
+<div id="motion-6-8-1-5-0" class="motion-anchor"></div>
 
 > That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a future meeting of the Planning and Environment Committee to allow the applicant to consider the conso...
 
@@ -2190,7 +2190,7 @@ Unanimous (14-0)
 
 ### 6.8.1.5. (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
 
-<a id="motion-6-8-1-5-1" class="motion-anchor"></a>
+<div id="motion-6-8-1-5-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne:  a) ...
 
@@ -2200,7 +2200,7 @@ Unanimous (14-0)
 
 ### 6.8.2. 8th Report of the Community and Protective Services Committee
 
-<a id="motion-6-8-2-0" class="motion-anchor"></a>
+<div id="motion-6-8-2-0" class="motion-anchor"></div>
 
 > That the 8th Report of the Community and Protective Services Committee BE APPROVED with the exception of item 5 (2.4).
 
@@ -2210,7 +2210,7 @@ Unanimous (14-0)
 
 ### 6.8.2.5. (2.4) Thames Valley District School Board and City of London Joint Use of Facilities Agreement (Relates to Bill No. 218)
 
-<a id="motion-6-8-2-5-0" class="motion-anchor"></a>
+<div id="motion-6-8-2-5-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed by-law, as appended to the staff report dated May 25, 2026, as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on June 2, 2026, to:    a)    AUTHORIZE and APPROVE...
 
@@ -2220,7 +2220,7 @@ Unanimous (13-0)
 
 ### 6.8.3. 7th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-6-8-3-0" class="motion-anchor"></a>
+<div id="motion-6-8-3-0" class="motion-anchor"></div>
 
 > That the 7th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 12 (4.1).
 
@@ -2230,7 +2230,7 @@ Unanimous (14-0)
 
 ### 6.8.3.12. (4.1) Review of the London & Middlesex Community Housing Master Regeneration Plan
 
-<a id="motion-6-8-3-12-0" class="motion-anchor"></a>
+<div id="motion-6-8-3-12-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports and the Deputy City Manager, Housing and Community Growth, the report on the London and Middlesex Community Housing Master Regeneration Plan BE RECEIVED for information. At 2:43 PM, Councillor S. Hillier leaves the meeting.
 
@@ -2249,7 +2249,7 @@ Unanimous (14-0)
 
 ### 6.8.4. 10th Report of the Infrastructure and Corporate Services Committee
 
-<a id="motion-6-8-4-0" class="motion-anchor"></a>
+<div id="motion-6-8-4-0" class="motion-anchor"></div>
 
 > That the 10th Report of the Infrastructure and Corporate Services Committee BE APPROVED.
 
@@ -2259,7 +2259,7 @@ Unanimous (13-0)
 
 ### 6.8.5. 2nd Report of the Audit Committee
 
-<a id="motion-6-8-5-0" class="motion-anchor"></a>
+<div id="motion-6-8-5-0" class="motion-anchor"></div>
 
 > That the 2nd Report of the Audit Committee BE APPROVED.
 
@@ -2269,7 +2269,7 @@ Unanimous (13-0)
 
 ### 6.13. By-laws
 
-<a id="motion-6-13-3" class="motion-anchor"></a>
+<div id="motion-6-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 235 BE APPROVED.
 
@@ -2288,7 +2288,7 @@ Unanimous (13-0)
 
 ### 6.13. By-laws
 
-<a id="motion-6-13-4" class="motion-anchor"></a>
+<div id="motion-6-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 235 BE APPROVED.
 
@@ -2307,7 +2307,7 @@ Unanimous (13-0)
 
 ### 6.13. By-laws
 
-<a id="motion-6-13-5" class="motion-anchor"></a>
+<div id="motion-6-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 235 BE APPROVED.
 

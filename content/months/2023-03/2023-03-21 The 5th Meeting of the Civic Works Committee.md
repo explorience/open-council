@@ -508,7 +508,7 @@ Seeing none, we're on item number six, adjournment. Councilor Troso and Councilo
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2 and 2.4 to 2.12 BE APPROVED.
 
@@ -518,7 +518,7 @@ Unanimous (6-0)
 
 ### 2.3. Hamilton Road and Highbury Avenue Intersection - Safety Review
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > Motion to approve part a).
 
@@ -528,7 +528,7 @@ Unanimous (6-0)
 
 ### 2.3. Hamilton Road and Highbury Avenue Intersection - Safety Review
 
-<a id="motion-2-3-2" class="motion-anchor"></a>
+<div id="motion-2-3-2" class="motion-anchor"></div>
 
 > Motion to approve part b).
 

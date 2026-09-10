@@ -438,7 +438,7 @@ The meeting adjourned at 2:13 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.3, 2.5 and 2.7 BE APPROVED.
 
@@ -448,7 +448,7 @@ Unanimous (5-0)
 
 ### 2.1. City of London 2019 Provincial and Federal Budget Submissions
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > Motion to approve parts a) and b): That, on the recommendation of the Director, Community & Economic Innovation, the following actions be taken with respect to the City of London’s 2018 Budget Submissions:    a)            the Civic Administration BE DIRECTED to submit the City of London 2019 Pro...
 
@@ -467,7 +467,7 @@ Unanimous (5-0)
 
 ### 2.2. Reserves Rationalization Report
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to The Corporation of the City of London reserves:    a)    the following six (6) reserves BE APPROVED as the reserves of The Corporati...
 
@@ -477,7 +477,7 @@ Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the recommendations contained in the Tax Adjustment Agenda dated September 25, 2018 BE APPROVED; it being noted that there were no members of the public in attendance to speak before the Corporate Services Committee, at the public hearing associated with the Tax Adjustment Agenda.
 
@@ -487,7 +487,7 @@ Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > Motion to open the meeting to the public for comment.
 
@@ -497,7 +497,7 @@ Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
-<a id="motion-3-1-2" class="motion-anchor"></a>
+<div id="motion-3-1-2" class="motion-anchor"></div>
 
 > Motion to close the meeting to the public for comment.
 

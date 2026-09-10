@@ -6111,7 +6111,7 @@ The following actions be taken. The offers submitted by way while fan, sun child
 
 ### 8.1. 4th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 5 (2.5), 9(4.1), 11(4.3), 12(4.4) and 14(4.6).
 
@@ -6121,7 +6121,7 @@ Unanimous (15-0)
 
 ### 8.1.5. (2.5) Downtown Master Plan: Appointment of Consultant for RFP 2025-001
 
-<a id="motion-8-1-5-0" class="motion-anchor"></a>
+<div id="motion-8-1-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the appointment of a consultant for the development of the Downtown Master Plan: a)    the Canadian Urban Institute, BE APPOINTED as the Consultant to undertake the...
 
@@ -6138,7 +6138,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-1" class="motion-anchor"></a>
+<div id="motion-8-1-9-1" class="motion-anchor"></div>
 
 > Motion to approve preamble and part a): That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken regarding the Mobility Master Plan Network Map infrastructure recommendations, as appended to the staff report dated March 25, 2025, as Appe...
 
@@ -6155,7 +6155,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-2" class="motion-anchor"></a>
+<div id="motion-8-1-9-2" class="motion-anchor"></div>
 
 > Motion to approve part b): b)    the Transit Priority Network maps BE APPROVED;
 
@@ -6172,7 +6172,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-3" class="motion-anchor"></a>
+<div id="motion-8-1-9-3" class="motion-anchor"></div>
 
 > Motion to approve part c): c)    the Cycling Network maps BE APPROVED, except:
 
@@ -6189,7 +6189,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-4" class="motion-anchor"></a>
+<div id="motion-8-1-9-4" class="motion-anchor"></div>
 
 > Motion to approve part c) i) A: i) the following Proposed Network Additions BE REMOVED from the Network Cycling maps:  A. Royal Crescent east of Clarke Road to Wexford Avenue to Admiral Drive;
 
@@ -6206,7 +6206,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-5" class="motion-anchor"></a>
+<div id="motion-8-1-9-5" class="motion-anchor"></div>
 
 > Motion to approve part c) i) B: B. Sovereign Road;
 
@@ -6223,7 +6223,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-6" class="motion-anchor"></a>
+<div id="motion-8-1-9-6" class="motion-anchor"></div>
 
 > Motion to approve part c) i) C: C. Vancouver Street from Trafalgar Street to Wavell Street;
 
@@ -6240,7 +6240,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-7" class="motion-anchor"></a>
+<div id="motion-8-1-9-7" class="motion-anchor"></div>
 
 > Motion to approve part c) ii) A.: ii) the following Proposed Network Additions BE REMOVED from the Network Cycling Maps: A. Huron Street;
 
@@ -6257,7 +6257,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-8" class="motion-anchor"></a>
+<div id="motion-8-1-9-8" class="motion-anchor"></div>
 
 > Motion to approve part c) ii): ii) Huron Street BE CHANGED to medium-term cycling project;
 
@@ -6274,7 +6274,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-9" class="motion-anchor"></a>
+<div id="motion-8-1-9-9" class="motion-anchor"></div>
 
 > Motion to approve part c) ii) B.: B. Taylor Street, McNay Street and Gammage Street;
 
@@ -6291,7 +6291,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-10" class="motion-anchor"></a>
+<div id="motion-8-1-9-10" class="motion-anchor"></div>
 
 > Motion to approve part c) iii): iii) the Windermere Road to Gainsborough Road Active Transportation Connection BE REMOVED from the Cycling Network maps;
 
@@ -6308,7 +6308,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-11" class="motion-anchor"></a>
+<div id="motion-8-1-9-11" class="motion-anchor"></div>
 
 > Motion to approve part d): d)    the Sidewalk Gaps on Major Roads maps BE APPROVED;
 
@@ -6318,7 +6318,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-12" class="motion-anchor"></a>
+<div id="motion-8-1-9-12" class="motion-anchor"></div>
 
 > Motion to approve part e): e)    the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term bui...
 
@@ -6335,7 +6335,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-13" class="motion-anchor"></a>
+<div id="motion-8-1-9-13" class="motion-anchor"></div>
 
 > Motion to approve part f): f)    the Mayor and Civic Administration BE REQUESTED to engage in discussions with neighbouring municipalities and the Province to work collaboratively on a ring road and integrated transportation network that would help move people, goods and services within and acros...
 
@@ -6352,7 +6352,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-14" class="motion-anchor"></a>
+<div id="motion-8-1-9-14" class="motion-anchor"></div>
 
 > Motion to approve part g) and it being noted statements: g)    the communication from D. R. Schmidt, Development Manager, Corlon Properties Inc./Sunningdale Golf & Country Club Ltd. BE REFERRED to a future meeting of Planning and Environment Committee; it being noted that the maps will form part ...
 
@@ -6362,7 +6362,7 @@ Unanimous (15-0)
 
 ### 8.1.9. (4.1) Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-8-1-9-15" class="motion-anchor"></a>
+<div id="motion-8-1-9-15" class="motion-anchor"></div>
 
 > Item 9, clause 4.1, as amended, BE APPROVED.
 
@@ -6379,7 +6379,7 @@ Unanimous (15-0)
 
 ### 8.1.11. (4.3) Consideration of Appointment to the Community Advisory Committee on Planning (Requires up to 11 Members)
 
-<a id="motion-8-1-11-0" class="motion-anchor"></a>
+<div id="motion-8-1-11-0" class="motion-anchor"></div>
 
 > That notwithstanding the Selection Process Policy for Appointing Members to Committees, Civic Boards and Commissions, the alternate selection mechanism for Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (11 members) BE APPROVED.
 
@@ -6389,7 +6389,7 @@ Unanimous (15-0)
 
 ### 8.1.11. (4.3) Consideration of Appointment to the Community Advisory Committee on Planning (Requires up to 11 Members)
 
-<a id="motion-8-1-11-1" class="motion-anchor"></a>
+<div id="motion-8-1-11-1" class="motion-anchor"></div>
 
 > That the following individuals BE APPOINTED to the Community Advisory Committee on Planning for the term ending March 31, 2027: Mark C. Ambrogio   Carl L. Cadogan  Jeff Gard  Heather Garrett   Susan Jory  Chris McKaskell  Jean-Marc Metrailler  Paige Murray (Youth)  Spencer Sandor  Mike Wallace  A...
 
@@ -6399,7 +6399,7 @@ Unanimous (15-0)
 
 ### 8.1.12. (4.4) Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (Requires up to 11 Members)
 
-<a id="motion-8-1-12-0" class="motion-anchor"></a>
+<div id="motion-8-1-12-0" class="motion-anchor"></div>
 
 > That notwithstanding the Selection Process Policy for Appointing Members to Committees, Civic Boards and Commissions, the alternate selection mechanism for Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (11 members) BE APPROVED.
 
@@ -6409,7 +6409,7 @@ Unanimous (15-0)
 
 ### 8.1.12. (4.4) Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (Requires up to 11 Members)
 
-<a id="motion-8-1-12-1" class="motion-anchor"></a>
+<div id="motion-8-1-12-1" class="motion-anchor"></div>
 
 > That the following individuals BE APPOINTED to the Environmental Stewardship and Action Community Advisory Committee for the term ending March 31, 2027: Andrea Butnari  Jessica Cordes  Jenelle Cornelius  Dina Layth Dwairi (Youth)  Amy Ford  Mary Ann Hodge  Nicole Karsch  Anand Menon  Brooke North...
 
@@ -6419,7 +6419,7 @@ Unanimous (15-0)
 
 ### 8.1.14. (4.6) London Transit Commission Assessment Growth Business Case (Relates to Bill No. 108)
 
-<a id="motion-8-1-14-0" class="motion-anchor"></a>
+<div id="motion-8-1-14-0" class="motion-anchor"></div>
 
 > That with respect to the communication from London Transit Commission regarding Assessment Growth Business Cases, the following actions be taken: a)   the communication dated March 3, 2025 from S. Marentette, Board Chair, London Transit Commission BE RECEIVED; b)   the current London Transit Comm...
 
@@ -6436,7 +6436,7 @@ Unanimous (15-0)
 
 ### 8.1.14. (4.6) London Transit Commission Assessment Growth Business Case (Relates to Bill No. 108)
 
-<a id="motion-8-1-14-1" class="motion-anchor"></a>
+<div id="motion-8-1-14-1" class="motion-anchor"></div>
 
 > That pursuant to section 13.6 of the Council Procedure by-law, the Strategic Policy and Committee decision with respect to the composition of the London Transit Commission BE RECONSIDERED to provide for seven members.
 
@@ -6453,7 +6453,7 @@ Unanimous (15-0)
 
 ### 8.1.14. (4.6) London Transit Commission Assessment Growth Business Case (Relates to Bill No. 108)
 
-<a id="motion-8-1-14-2" class="motion-anchor"></a>
+<div id="motion-8-1-14-2" class="motion-anchor"></div>
 
 > Motion to amend composition from five members to seven members in part c) to read as follows: c)   the Civic Administration BE DIRECTED to bring forward to the Municipal Council meeting on April 1, 2025, a by-law with the necessary amendments to By-law No. A.-6377-206, as amended, to provide that...
 
@@ -6470,7 +6470,7 @@ Unanimous (15-0)
 
 ### 8.1.14. (4.6) London Transit Commission Assessment Growth Business Case (Relates to Bill No. 108)
 
-<a id="motion-8-1-14-3" class="motion-anchor"></a>
+<div id="motion-8-1-14-3" class="motion-anchor"></div>
 
 > That the following Council Members BE APPOINTED to the London Transit Commission: Mayor J. Morgan  Councillor S. Trosow  Councillor C. Rahman  Councillor S. Lehman  Councillor A. Hopkins  Councillor S. Franke  Councillor E. Peloza
 
@@ -6480,7 +6480,7 @@ Unanimous (15-0)
 
 ### 8.1.14. (4.6) London Transit Commission Assessment Growth Business Case (Relates to Bill No. 108)
 
-<a id="motion-8-1-14-4" class="motion-anchor"></a>
+<div id="motion-8-1-14-4" class="motion-anchor"></div>
 
 > That, pursuant to section 6.4 of the Council Procedure By-law, a change in order of the Council Agenda BE APPROVED, to provide for Item 8.4, 5th Report of the Planning and Environment Committee, to be considered after Item 8.1, 4th Report of the Strategic Priorities and Policy Committee.
 
@@ -6497,7 +6497,7 @@ Unanimous (15-0)
 
 ### 8.2. 6th Report of the Infrastructure and Corporate Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 6th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 13(2.10), 14(2.12) and 15(4.1).
 
@@ -6507,7 +6507,7 @@ Unanimous (15-0)
 
 ### 8.2.13. (2.10) Declare Surplus - City-Owned Property - Part of Belvedere Park
 
-<a id="motion-8-2-13-0" class="motion-anchor"></a>
+<div id="motion-8-2-13-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with concurrence of the Director, Parks and Forestry, with respect to City-owned property, the following actions be taken: a)    the subject property outlined on Location Map ...
 
@@ -6524,7 +6524,7 @@ Unanimous (15-0)
 
 ### 8.2.14. (2.12) Consideration for an Updated Low-Income Seniors and Low-Income Persons with Disabilities Tax Deferral Program
 
-<a id="motion-8-2-14-2" class="motion-anchor"></a>
+<div id="motion-8-2-14-2" class="motion-anchor"></div>
 
 > Motion to approve part b): b)    the Civic Administration BE DIRECTED to prepare a Business Case for the implementation of an expanded Low-income Seniors and Low-income Persons with disabilities Tax Deferral program modeled on the program in effect in Ottawa for submission to the Budget Committee...
 
@@ -6541,7 +6541,7 @@ Unanimous (15-0)
 
 ### 8.2.15. (4.1) Municipal Autonomy and Revenue Generation - Councillor S. Franke, Councillor A. Hopkins and Mayor J. Morgan
 
-<a id="motion-8-2-15-0" class="motion-anchor"></a>
+<div id="motion-8-2-15-0" class="motion-anchor"></div>
 
 > That Councillor Anna Hopkins BE REQUESTED to bring forward the issue of municipal right-of-way fees for natural gas utilities to the Association of Municipalities of Ontario (AMO), requesting that AMO: a)    advocate for provincial regulatory changes to allow municipalities to charge utilities fo...
 
@@ -6558,7 +6558,7 @@ Unanimous (15-0)
 
 ### 8.3. 5th Report of the Community and Protective Services Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 5th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 8(2.2), 10(2.9), 11(2.10), 12(2.11).
 
@@ -6568,7 +6568,7 @@ Unanimous (15-0)
 
 ### 8.3.8. (2.2) Primary Care Recruitment and Retention Program Report
 
-<a id="motion-8-3-8-1" class="motion-anchor"></a>
+<div id="motion-8-3-8-1" class="motion-anchor"></div>
 
 > Motion to amend from $80,000 to $50,000 in parts b) and c): b)    the City’s financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $50,000 for one year; it being noted that the uncommitted balance of the Economic Development Fund is approximately $4.8 mill...
 
@@ -6585,7 +6585,7 @@ Unanimous (15-0)
 
 ### 8.3.8. (2.2) Primary Care Recruitment and Retention Program Report
 
-<a id="motion-8-3-8-2" class="motion-anchor"></a>
+<div id="motion-8-3-8-2" class="motion-anchor"></div>
 
 > That pursuant to section 11.11 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -6602,7 +6602,7 @@ Unanimous (15-0)
 
 ### 8.3.8. (2.2) Primary Care Recruitment and Retention Program Report
 
-<a id="motion-8-3-8-4" class="motion-anchor"></a>
+<div id="motion-8-3-8-4" class="motion-anchor"></div>
 
 > Motion to approve part b) and c), as amended: b)    the City’s financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $50,000 for one year; it being noted that the uncommitted balance of the Economic Development Fund is approximately $4.8 million; and, c)  ...
 
@@ -6619,7 +6619,7 @@ Unanimous (15-0)
 
 ### 8.3.10. (2.9) Provision of Outdoor Basic Needs
 
-<a id="motion-8-3-10-1" class="motion-anchor"></a>
+<div id="motion-8-3-10-1" class="motion-anchor"></div>
 
 > Motion to add a new part j): j)    Civic Administration BE DIRECTED to add McCormick Park to the list of areas where encampments are not permitted and outreach will not be provided;
 
@@ -6636,7 +6636,7 @@ Unanimous (15-0)
 
 ### 8.3.10. (2.9) Provision of Outdoor Basic Needs
 
-<a id="motion-8-3-10-2" class="motion-anchor"></a>
+<div id="motion-8-3-10-2" class="motion-anchor"></div>
 
 > Item 10, clause 2.9, as amended, BE APPROVED.
 
@@ -6653,7 +6653,7 @@ Unanimous (15-0)
 
 ### 8.3.11. (2.10) Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement  (Relates to Bill No. 105)
 
-<a id="motion-8-3-11-0" class="motion-anchor"></a>
+<div id="motion-8-3-11-0" class="motion-anchor"></div>
 
 > That the proposed by-law, as appended to the staff report dated March 17, 2025, BE INTRODUCED at the Municipal Council meeting to be held on April 1, 2025 to: a)        severally delegate authority to the City Manager and the Deputy City Manager, Social and Health Development to approve: i)      ...
 
@@ -6672,7 +6672,7 @@ Unanimous (15-0)
 
 ### 8.3.12. (2.11) Additional Emergency Shelter and Day Drop-in Space Update Report
 
-<a id="motion-8-3-12-1" class="motion-anchor"></a>
+<div id="motion-8-3-12-1" class="motion-anchor"></div>
 
 > That the motion be amended to add a new part c): c)    a Single Source Procurement BE APPROVED at a total estimated cost of up to $610,577 (excluding HST) for the period of April 1, 2025 to March 31, 2026 for The Ark Aid Street Mission – “Day Drop-In” (SS-2025-66)  to provide day drop-in space at...
 
@@ -6691,7 +6691,7 @@ Unanimous (15-0)
 
 ### 8.3.12. (2.11) Additional Emergency Shelter and Day Drop-in Space Update Report
 
-<a id="motion-8-3-12-2" class="motion-anchor"></a>
+<div id="motion-8-3-12-2" class="motion-anchor"></div>
 
 > That the motion be further amended with the following: c)    a Single Source Procurement BE APPROVED at a total estimated cost of up to $610,577 (excluding HST) for the period of April 1, 2025 to March 31, 2026 for The Ark Aid Street Mission – “Day Drop-In” (SS-2025-66)  to provide day drop-in sp...
 
@@ -6710,7 +6710,7 @@ Unanimous (15-0)
 
 ### 8.3.12. (2.11) Additional Emergency Shelter and Day Drop-in Space Update Report
 
-<a id="motion-8-3-12-3" class="motion-anchor"></a>
+<div id="motion-8-3-12-3" class="motion-anchor"></div>
 
 > That the motion be amended to include a part c) to read as follows: c) a Single Source Procurement BE APPROVED at a total estimated cost of up to $610,577 (excluding HST) for the period of April 1, 2025, to March 31, 2026, to continue limited day drop-in space at The Ark Aid Street Mission – “Day...
 
@@ -6729,7 +6729,7 @@ Unanimous (15-0)
 
 ### 8.3.12. (2.11) Additional Emergency Shelter and Day Drop-in Space Update Report
 
-<a id="motion-8-3-12-4" class="motion-anchor"></a>
+<div id="motion-8-3-12-4" class="motion-anchor"></div>
 
 > That, pursuant to section 10.5 of the Council Procedure By-law, “the ruling of the Chair BE SUSTAINED?"
 
@@ -6748,7 +6748,7 @@ Unanimous (15-0)
 
 ### 8.3.12. (2.11) Additional Emergency Shelter and Day Drop-in Space Update Report
 
-<a id="motion-8-3-12-5" class="motion-anchor"></a>
+<div id="motion-8-3-12-5" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the staff report, dated March 17, 2025, related to Additional Emergency Shelter and Day Drop-in Space Update Report with respect to amending existing contracts to implement the Unsheltered Homelessness and Encampment Initiative (UHEI) and additi...
 
@@ -6767,7 +6767,7 @@ Unanimous (15-0)
 
 ### 8.3.12. (2.11) Additional Emergency Shelter and Day Drop-in Space Update Report
 
-<a id="motion-8-3-12-6" class="motion-anchor"></a>
+<div id="motion-8-3-12-6" class="motion-anchor"></div>
 
 > c) a Single Source Procurement BE APPROVED at a total estimated cost of up to $610,577 (excluding HST) for the period of April 1, 2025, to March 31, 2026, to continue limited day drop-in space at The Ark Aid Street Mission – “Day Drop-In” (SS-2025-66) utilizing Housing Stability Services funding ...
 
@@ -6786,7 +6786,7 @@ Unanimous (15-0)
 
 ### 8.4. 5th Report of the Planning and Environment Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 5th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 3(2.2), 6(3.2) and 8(3.4).
 
@@ -6796,7 +6796,7 @@ Unanimous (15-0)
 
 ### 8.4.3. (2.2) Heritage Alteration Permit application by Z. Xiong and Y. Meng for 124 Wilson Ave, Blackfriars-Petersville Heritage Conservation District (HAP25-004-L)
 
-<a id="motion-8-4-3-0" class="motion-anchor"></a>
+<div id="motion-8-4-3-0" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the exterior cladding and porch alterations on the heritage designated property at 124 Wilson Avenue, within the Blackfriars-...
 
@@ -6813,7 +6813,7 @@ Unanimous (15-0)
 
 ### 8.4.6. (3.2) 2634 Barn Swallow Place (Z-25006)  (Relates to Bill No. 125)
 
-<a id="motion-8-4-6-0" class="motion-anchor"></a>
+<div id="motion-8-4-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property located at 2634 Barn Swallow Place:    a) the proposed by-law as appended to the staff report dated March 18,...
 
@@ -6830,7 +6830,7 @@ Unanimous (15-0)
 
 ### 8.4.8. (3.4) 415-421 Boler Road (Z-9536) (Relates to Bill No. 127)
 
-<a id="motion-8-4-8-1" class="motion-anchor"></a>
+<div id="motion-8-4-8-1" class="motion-anchor"></div>
 
 > Motion to approve a): a) the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council meeting on April 1, 2025, to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, The London Plan, to change the zoning of the subject property FROM a Residential R1 ...
 
@@ -6847,7 +6847,7 @@ Unanimous (15-0)
 
 ### 8.4.8. (3.4) 415-421 Boler Road (Z-9536) (Relates to Bill No. 127)
 
-<a id="motion-8-4-8-2" class="motion-anchor"></a>
+<div id="motion-8-4-8-2" class="motion-anchor"></div>
 
 > That the motion be amended to with a new a) and b) to read as follows: That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1822056 Ontario Limited (c/o Strik Baldinelli Moniz) relating to the properties located a...
 
@@ -6864,7 +6864,7 @@ Unanimous (15-0)
 
 ### 8.4.8. (3.4) 415-421 Boler Road (Z-9536) (Relates to Bill No. 127)
 
-<a id="motion-8-4-8-3" class="motion-anchor"></a>
+<div id="motion-8-4-8-3" class="motion-anchor"></div>
 
 > Item 8, clause 3.4, as amended, BE APPROVED.
 
@@ -6881,7 +6881,7 @@ Unanimous (15-0)
 
 ### 8.5. 1st Report of the Budget Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 1st Report of the Budget Committee BE APPROVED. At 8:34 PM, Deputy Mayor S. Lewis leaves the meeting.
 
@@ -6891,7 +6891,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 105, BE APPROVED.
 
@@ -6910,7 +6910,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 105, BE APPROVED.
 
@@ -6929,7 +6929,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 105, BE APPROVED.
 
@@ -6948,7 +6948,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Revised Bill No. 108, BE APPROVED.
 
@@ -6967,7 +6967,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Revised Bill No. 108, BE APPROVED.
 
@@ -6986,7 +6986,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Revised Bill No. 108, BE APPROVED.
 
@@ -7005,7 +7005,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 125, BE APPROVED.
 
@@ -7024,7 +7024,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 125, BE APPROVED.
 
@@ -7043,7 +7043,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 125, BE APPROVED.
 
@@ -7062,7 +7062,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-9" class="motion-anchor"></a>
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Revised Bill No. 127, BE APPROVED.
 

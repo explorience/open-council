@@ -482,7 +482,7 @@ Motion
 ### 2. STAFF REPORT -
   Update on Federal and Provincial Budget Advocacy
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -494,7 +494,7 @@ Unanimous (4-0)
 ### 3. STAFF REPORT -
   Billboard Advertising Tender
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -506,7 +506,7 @@ Unanimous (5-0)
 ### 4. STAFF REPORT -
   Electronic Procurement Solution for Solicitation of Bids for City Procurement
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -519,7 +519,7 @@ Unanimous (5-0)
   Federation of Canadian Municipalities (FCM) Green Municipal Fund Study -
   Municipal Tools for Catalyzing Net-Zero Energy Development
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -532,7 +532,7 @@ Unanimous (5-0)
   Industrial Land Development Strategy - Annual Monitoring and Pricing Report -
   City of London
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -545,7 +545,7 @@ Unanimous (5-0)
   Industrial Land Development Strategy - Annual Monitoring and Pricing Report -
   City of London
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -565,7 +565,7 @@ Unanimous (5-0)
   Approval to Demolish City-Owned Properties - 5615 Wellington Road South, 6712
   James Street and 5861 White Oak Road
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -577,7 +577,7 @@ Unanimous (5-0)
 ### 9. STAFF REPORT - 2016
   Investment Report
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -589,7 +589,7 @@ Unanimous (5-0)
 ### 10. STAFF REPORT -
   Lorne Avenue Public School Update
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -610,7 +610,7 @@ Unanimous (5-0)
   Representative from Fanshawe College and 1 Voting Representative from Western
   University Students' Council) University
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -622,7 +622,7 @@ Unanimous (5-0)
 ### 15. COUNCIL MEMBER
   SUBMISSION - Council Expense Policy
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -634,7 +634,7 @@ Unanimous (5-0)
 ### 16. COUNCIL MEMBER
   SUBMISSION - Committee Meals When Attending Afternoon Meetings
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -647,7 +647,7 @@ Unanimous (5-0)
   Consideration of Appointment to the Environmental and Ecological Planning
   Advisory Committee (Requires up to 6 Extra Members at Large)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

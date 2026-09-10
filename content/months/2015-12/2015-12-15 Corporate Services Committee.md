@@ -407,7 +407,7 @@ The Corporate Services Committee convened
 ### 2. Request for Write
   Off of Accounts Receivable
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -419,7 +419,7 @@ Unanimous (5-0)
 ### 3. 2014 Annual Update
   on Budweiser Gardens
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -431,7 +431,7 @@ Unanimous (5-0)
 ### 4. Appointments to the
   Joint Venture Management Committee for the 4-Pad Arena Complex
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -443,7 +443,7 @@ Unanimous (5-0)
 ### 5. Standing Committee
   Meetings with MPs and MPPs
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -455,7 +455,7 @@ Unanimous (5-0)
 ### 6. Annual Report -
   Risk Management Services
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -469,7 +469,7 @@ Unanimous (5-0)
   and Indemnity Agreement Between The Corporation of the City of London and The
   Guarantee Company of North America
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -482,7 +482,7 @@ Unanimous (5-0)
   Federation of Canadian Municipalities Board of Directors Meeting – Ottawa, ON
   - November 17-20, 2015
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -495,7 +495,7 @@ Unanimous (5-0)
   Seating at Municipal Council Meetings and Strategic Priorities and Policy
   Committee Meetings
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -514,7 +514,7 @@ Unanimous (5-0)
 ### 10. Confirmation of
   Appointment to the Transportation Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -526,7 +526,7 @@ Unanimous (5-0)
 ### 11. Confirmation of
   Appointment to the Accessibility Advisory Committee
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -538,7 +538,7 @@ Unanimous (5-0)
 ### 12. Consideration of
   Appointments to the Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -550,7 +550,7 @@ Unanimous (5-0)
 ### 13. Confirmation of Appointment
   to the Advisory Committee on the Environment
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -562,7 +562,7 @@ Unanimous (5-0)
 ### 14. (ADDED) Appeal
   Under Section 2.9 of the Procurement of Goods and Services Policy
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

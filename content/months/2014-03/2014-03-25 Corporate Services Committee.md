@@ -932,7 +932,7 @@ The Corporate Services Committee convened
 ### 2. City of London Days
   - Budweiser Gardens
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -944,7 +944,7 @@ Unanimous (5-0)
 ### 3. Elected Officials
   and Appointed Citizen Members - 2014 Remuneration
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -963,7 +963,7 @@ Unanimous (5-0)
 ### 3. Elected Officials
   and Appointed Citizen Members - 2014 Remuneration
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -982,7 +982,7 @@ Unanimous (5-0)
 ### 4. Public Sector
   Salary Disclosure Act Report for Calendar Year 2013
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -994,7 +994,7 @@ Unanimous (5-0)
 ### 5. Amendment to
   Council Policy 28(2) - Council Members' Expense Account
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1006,7 +1006,7 @@ Unanimous (5-0)
 ### 5. Amendment to
   Council Policy 28(2) - Council Members' Expense Account
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1025,7 +1025,7 @@ Unanimous (5-0)
 ### 5. Amendment to
   Council Policy 28(2) - Council Members' Expense Account
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1037,7 +1037,7 @@ Unanimous (5-0)
 ### 6. New Council Policy
   - Mayor's Expenses
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1050,7 +1050,7 @@ Unanimous (5-0)
   Prime Consultant for the Normal School Renovation Request for Proposal No.
   13-47 - Project #GG1558
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1062,7 +1062,7 @@ Unanimous (5-0)
 ### 8. Year 2014 Education
   Tax Rates
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1074,7 +1074,7 @@ Unanimous (5-0)
 ### 9. Rooftop Solar PV
   Systems on Municipal Buildings Under the Fit 3.0 Program Rules Update
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1086,7 +1086,7 @@ Unanimous (5-0)
 ### 10. Local Improvement
   Charges for Energy and Water Efficiency Improvements Update
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1098,7 +1098,7 @@ Unanimous (5-0)
 ### 11. Old East Village
   Business Improvement Area - 2014 Proposed Budget - Municipal Special Levy
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1110,7 +1110,7 @@ Unanimous (5-0)
 ### 12. London Downtown
   Business Association - 2014 Proposed Budget - Municipal Special Levy
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1122,7 +1122,7 @@ Unanimous (5-0)
 ### 13. Argyle Business
   Improvement Area - 2014 Proposed Budget - Municipal Special Levy
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1134,7 +1134,7 @@ Unanimous (5-0)
 ### 14. London Bid to Host
   AMO Annual General Meeting Conference and Trade Show 2018, 2019 and 2020
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1146,7 +1146,7 @@ Unanimous (5-0)
 ### 15. Bill 69: The Prompt
   Payment Act 2013
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1158,7 +1158,7 @@ Unanimous (5-0)
 ### 16. Apportionment of
   Taxes
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1170,7 +1170,7 @@ Unanimous (5-0)
 ### 16. Apportionment of
   Taxes
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1182,7 +1182,7 @@ Unanimous (5-0)
 ### 17. Year 2014 Tax
   Policy
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1194,7 +1194,7 @@ Unanimous (5-0)
 ### 18. Board of Directors
   - Federation of Canadian Municipalities
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1206,7 +1206,7 @@ Unanimous (5-0)
 ### 19. Comprehensive
   Economic and Trade Agreement (CETA)
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1218,7 +1218,7 @@ Unanimous (5-0)
 ### 20. Changes to Canada
   Post Delivery
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1230,7 +1230,7 @@ Unanimous (5-0)
 ### 21. Request for
   Designation of the Forest City Beer Fest as a Municipally Significant Event
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1243,7 +1243,7 @@ Unanimous (5-0)
   Community Safety and Crime Prevention Advisory Committee (Requires 1
   Appointment from Middlesex London Child Safety)
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1255,7 +1255,7 @@ Unanimous (5-0)
 ### 23. Environmental and
   Ecological Planning Advisory Committee (Requires up to 5 Members at Large)
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

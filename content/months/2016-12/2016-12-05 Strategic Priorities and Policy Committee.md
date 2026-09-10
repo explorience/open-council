@@ -253,7 +253,7 @@ Motion Passed
 ### 3. Establishment of
   the New Governance Working Group
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -265,7 +265,7 @@ Unanimous (14-0)
   - Vinay Sharma, Chief Executive Officer, London Hydro re Hydro Industry
   Consolidation
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -277,7 +277,7 @@ Unanimous (14-0)
   - Vinay Sharma, Chief Executive Officer, London Hydro re Hydro Industry
   Consolidation
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -296,7 +296,7 @@ Unanimous (14-0)
   - Vinay Sharma, Chief Executive Officer, London Hydro re Hydro Industry
   Consolidation
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -307,7 +307,7 @@ Unanimous (14-0)
 ### 8. ADDED - COUNCIL
   MEMBER SUBMISSION - Council Reconfiguration
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -318,7 +318,7 @@ Unanimous (14-0)
 ### 8. ADDED - COUNCIL
   MEMBER SUBMISSION - Council Reconfiguration
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -336,7 +336,7 @@ Unanimous (14-0)
 ### 9. ADDED - PUBLIC
   SUBMISSION - London Transit Commission Chair and Vice-Chair
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 

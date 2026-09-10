@@ -3850,7 +3850,7 @@ So I'll look for a motion to adjourn. Councilor Vamevergan, seconded by Councilo
 
 ### 7.1. Mayor J. Morgan, Deputy Mayor S. Lewis, Councillors A. Hopkins and S. Franke - Automated Speed Enforcement (ASE)
 
-<a id="motion-7-1-0" class="motion-anchor"></a>
+<div id="motion-7-1-0" class="motion-anchor"></div>
 
 > That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Mayor J. Morgan, Deputy Mayor S. Lewis, Councillors A. Hopkins and S. Franke to move a motion related to item 7.1 on the Council Agenda related to Automated Speed Enforcement (ASE).
 
@@ -3860,7 +3860,7 @@ Unanimous (15-0)
 
 ### 7.1. Mayor J. Morgan, Deputy Mayor S. Lewis, Councillors A. Hopkins and S. Franke - Automated Speed Enforcement (ASE)
 
-<a id="motion-7-1-1" class="motion-anchor"></a>
+<div id="motion-7-1-1" class="motion-anchor"></div>
 
 > That, the following resolution BE ADOPTED and BE FORWARDED to the Premier of Ontario, the Minister of Municipal Affairs and Housing, the Minister of Transportation, and the Association of Municipalities of Ontario Policy Centre: WHEREAS reducing vehicle speeds helps create calmer, safer neighbour...
 
@@ -3870,7 +3870,7 @@ Unanimous (15-0)
 
 ### 7.2. Councillor S. Franke - Revisiting the Urban Growth Boundary Review Using Updated Population Projections
 
-<a id="motion-7-2-0" class="motion-anchor"></a>
+<div id="motion-7-2-0" class="motion-anchor"></div>
 
 > That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Franke to move a motion related to item 7.2 on the Council Agenda related to Revisiting the Urban Boundary Review Using Updated Population Projections.
 
@@ -3887,7 +3887,7 @@ Unanimous (15-0)
 
 ### 8.1. 12th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED.
 
@@ -3897,7 +3897,7 @@ Unanimous (15-0)
 
 ### 8.2. 15th Report of the Infrastructure and Corporate Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 15th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 4 (2.3) and 8 (2.5).
 
@@ -3907,7 +3907,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (2.3) 2025 Mid-Year Operating Budget Monitoring Report (Relates to Bill No. 371)
 
-<a id="motion-8-2-4-0" class="motion-anchor"></a>
+<div id="motion-8-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Mid-Year Operating Budget Monitoring Report: a)    the 2025 Operating Budget Mid-Year Monitoring Report for the Property Tax Supported Budget, Water Budget, and Wastew...
 
@@ -3924,7 +3924,7 @@ Unanimous (15-0)
 
 ### 8.2.8. (2.5) City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Programs (Relates to Bill No.'s 363 to 367)
 
-<a id="motion-8-2-8-1" class="motion-anchor"></a>
+<div id="motion-8-2-8-1" class="motion-anchor"></div>
 
 > That part d) be approved: d)    the proposed by-law, as appended to the staff report dated October 6, 2025 as Appendix “D”, BE INTRODUCED at the Municipal Council meeting to be held on October 14, 2025 to approve the Child Care Services Cost Apportionment and Agency Agreement (“Schedule D”) betwe...
 
@@ -3934,7 +3934,7 @@ Unanimous (14-0)
 
 ### 8.2.8. (2.5) City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Programs (Relates to Bill No.'s 363 to 367)
 
-<a id="motion-8-2-8-2" class="motion-anchor"></a>
+<div id="motion-8-2-8-2" class="motion-anchor"></div>
 
 > That the balance of item 8, clause 2.5, be approved: That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the proposed by-law, as appended to the staff report dated October 6, 2025 as Appendix “A”, BE INTRODUCED at the Municipal Council m...
 
@@ -3944,7 +3944,7 @@ Unanimous (15-0)
 
 ### 8.3. 14th Report of the Community and Protective Services Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 3 (2.4), 4 (2.5), 7 (2.3), 9 (3.1), and 10 (3.2).
 
@@ -3954,7 +3954,7 @@ Unanimous (15-0)
 
 ### 8.3.3. (2.4) Bike Parking Implementation Plan 2025-2029
 
-<a id="motion-8-3-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Bike Parking Implementation Plan 2025-2029: a)    the above-noted staff report BE RECEIVED; b)    the C...
 
@@ -3971,7 +3971,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
 
-<a id="motion-8-3-4-1" class="motion-anchor"></a>
+<div id="motion-8-3-4-1" class="motion-anchor"></div>
 
 > That the motion be amended to include a new part that reads as follows: The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with further evaluation and associated cost analysis regarding the implementation of weekly garbage co...
 
@@ -3988,7 +3988,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
 
-<a id="motion-8-3-4-2" class="motion-anchor"></a>
+<div id="motion-8-3-4-2" class="motion-anchor"></div>
 
 > Motion to approve part d): d)    the Civic Administration BE DIRECTED to take no action on expanding the materials collected in the Green Bin Program at this time;
 
@@ -4005,7 +4005,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
 
-<a id="motion-8-3-4-3" class="motion-anchor"></a>
+<div id="motion-8-3-4-3" class="motion-anchor"></div>
 
 > That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
 
@@ -4022,7 +4022,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
 
-<a id="motion-8-3-4-5" class="motion-anchor"></a>
+<div id="motion-8-3-4-5" class="motion-anchor"></div>
 
 > That the motion be further amended by adding "menstrual products" to the list of materials included in the Green Bin Program.
 
@@ -4032,7 +4032,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
 
-<a id="motion-8-3-4-6" class="motion-anchor"></a>
+<div id="motion-8-3-4-6" class="motion-anchor"></div>
 
 > That part d), as amended, be approved: That Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of including diaper and menstrual product waste in the Green Bin Program;
 
@@ -4049,7 +4049,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
 
-<a id="motion-8-3-4-7" class="motion-anchor"></a>
+<div id="motion-8-3-4-7" class="motion-anchor"></div>
 
 > That item 4, clause 2.5, as amended, BE APPROVED.
 
@@ -4059,7 +4059,7 @@ Unanimous (15-0)
 
 ### 8.3.7. (2.3) Proposed Temporary Warming Centre Framework
 
-<a id="motion-8-3-7-0" class="motion-anchor"></a>
+<div id="motion-8-3-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Managers of Neighbourhood and Community-Wide Services and Social and Health Development, the following actions be taken with respect to the staff report, dated September 29, 2025, related to a Proposed Temporary Warming Centre Framework: a)    the ab...
 
@@ -4076,7 +4076,7 @@ Unanimous (15-0)
 
 ### 8.3.7. (2.3) Proposed Temporary Warming Centre Framework
 
-<a id="motion-8-3-7-1" class="motion-anchor"></a>
+<div id="motion-8-3-7-1" class="motion-anchor"></div>
 
 > That pursuant to section 13.6 of the Council Procedure By-law, the Council decision with respect to item 7, clause 2.3 having to do with the Proposed Temporary Warming Centre Framework BE RECONSIDERED to provide for Councillor S. Trosow to correct his vote.
 
@@ -4086,7 +4086,7 @@ Unanimous (15-0)
 
 ### 8.3.7. (2.3) Proposed Temporary Warming Centre Framework
 
-<a id="motion-8-3-7-2" class="motion-anchor"></a>
+<div id="motion-8-3-7-2" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Managers of Neighbourhood and Community-Wide Services and Social and Health Development, the following actions be taken with respect to the staff report, dated September 29, 2025, related to a Proposed Temporary Warming Centre Framework: a)    the ab...
 
@@ -4103,7 +4103,7 @@ Unanimous (15-0)
 
 ### 8.3.9. (3.1) Health and Homelessness Whole of Community System Response Research and Evaluation Report
 
-<a id="motion-8-3-9-1" class="motion-anchor"></a>
+<div id="motion-8-3-9-1" class="motion-anchor"></div>
 
 > That the motion be amended to include a new part that reads as follows: The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with the requested metrics as presented and discussed at the October 8, 2024 meeting of the Strategic ...
 
@@ -4120,7 +4120,7 @@ Unanimous (15-0)
 
 ### 8.3.9. (3.1) Health and Homelessness Whole of Community System Response Research and Evaluation Report
 
-<a id="motion-8-3-9-2" class="motion-anchor"></a>
+<div id="motion-8-3-9-2" class="motion-anchor"></div>
 
 > That the preamble, part a), and it being noted, be approved: That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Health and Homelessness Whole of Community ...
 
@@ -4137,7 +4137,7 @@ Unanimous (15-0)
 
 ### 8.3.9. (3.1) Health and Homelessness Whole of Community System Response Research and Evaluation Report
 
-<a id="motion-8-3-9-3" class="motion-anchor"></a>
+<div id="motion-8-3-9-3" class="motion-anchor"></div>
 
 > That part b) be approved: b)    the Mayor and Municipal Council BE REQUESTED to continue to prioritize advocacy efforts with the Federal and Provincial governments to secure ongoing operating funding in support of the provision of related services;
 
@@ -4147,7 +4147,7 @@ Unanimous (15-0)
 
 ### 8.3.10. (3.2) Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
 
-<a id="motion-8-3-10-0" class="motion-anchor"></a>
+<div id="motion-8-3-10-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54): a)...
 
@@ -4164,7 +4164,7 @@ Unanimous (15-0)
 
 ### 8.4. 15th Report of the Community and Protective Services Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 15th Report of the Community and Protective Services Committee BE APPROVED, with the exception of item 2 (4.1).
 
@@ -4174,7 +4174,7 @@ Unanimous (15-0)
 
 ### 8.4.2. (4.1) Micro-Modular Shelter Site
 
-<a id="motion-8-4-2-1" class="motion-anchor"></a>
+<div id="motion-8-4-2-1" class="motion-anchor"></div>
 
 > That the motion be amended by adding the following parts: i) the Civic Administration BE DIRECTED to bring forward a Briefing Note on the public agenda of the Community and Protective Services Committee regarding agreements and contracts as they are finalized; j) the Civic Administration BE DIREC...
 
@@ -4184,7 +4184,7 @@ Unanimous (15-0)
 
 ### 8.4.2. (4.1) Micro-Modular Shelter Site
 
-<a id="motion-8-4-2-2" class="motion-anchor"></a>
+<div id="motion-8-4-2-2" class="motion-anchor"></div>
 
 > That the motion be further amended in part i) by changing "regarding" to "with the" before the text "agreements and contracts as they are finalized;"
 
@@ -4201,7 +4201,7 @@ Unanimous (15-0)
 
 ### 8.4.2. (4.1) Micro-Modular Shelter Site
 
-<a id="motion-8-4-2-3" class="motion-anchor"></a>
+<div id="motion-8-4-2-3" class="motion-anchor"></div>
 
 > That part d) of the motion, as amended, BE APPROVED. At 5:07 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. At 5:12 PM, His Worship Mayor J. Morgan resumes the Chair.
 
@@ -4218,7 +4218,7 @@ Unanimous (15-0)
 
 ### 8.4.2. (4.1) Micro-Modular Shelter Site
 
-<a id="motion-8-4-2-4" class="motion-anchor"></a>
+<div id="motion-8-4-2-4" class="motion-anchor"></div>
 
 > That the balance of the motion, as amended, BE APPROVED.
 
@@ -4228,7 +4228,7 @@ Unanimous (15-0)
 
 ### 8.5. 15th Report of the Planning and Environment Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 15th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 9 (3.5) and 11 (3.7).
 
@@ -4238,7 +4238,7 @@ Unanimous (14-0)
 
 ### 8.5.9. (3.5) 1511 Clarke Road - 39T-24505 (Relates to Bill No.'s 369 and 379)
 
-<a id="motion-8-5-9-1" class="motion-anchor"></a>
+<div id="motion-8-5-9-1" class="motion-anchor"></div>
 
 > That the motion be amended to read as follows: Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property located at 1511 Clarke Road (Caverhill West): a) the pr...
 
@@ -4257,7 +4257,7 @@ Unanimous (14-0)
 
 ### 8.5.9. (3.5) 1511 Clarke Road - 39T-24505 (Relates to Bill No.'s 369 and 379)
 
-<a id="motion-8-5-9-2" class="motion-anchor"></a>
+<div id="motion-8-5-9-2" class="motion-anchor"></div>
 
 > That item 9, clause 3.5, as amended, BE APPROVED.
 
@@ -4276,7 +4276,7 @@ Unanimous (14-0)
 
 ### 8.5.11. (3.7) Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
 
-<a id="motion-8-5-11-1" class="motion-anchor"></a>
+<div id="motion-8-5-11-1" class="motion-anchor"></div>
 
 > That the motion be amended by adding a new part i): i) the Civic Administration BE DIRECTED to include, as an appendix to the final Official Plan Review of The London Plan: Urban Growth Boundary Review report, mapping of a boundary expansion encompassing 1,054 hectares of developable land, for in...
 
@@ -4295,7 +4295,7 @@ Unanimous (14-0)
 
 ### 8.5.11. (3.7) Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
 
-<a id="motion-8-5-11-2" class="motion-anchor"></a>
+<div id="motion-8-5-11-2" class="motion-anchor"></div>
 
 > That part b) of the motion be approved.
 
@@ -4314,7 +4314,7 @@ Unanimous (14-0)
 
 ### 8.5.11. (3.7) Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
 
-<a id="motion-8-5-11-3" class="motion-anchor"></a>
+<div id="motion-8-5-11-3" class="motion-anchor"></div>
 
 > The balance of item 11, clause 3.7, be approved.
 
@@ -4324,7 +4324,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 371 BE APPROVED.
 
@@ -4343,7 +4343,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 371 BE APPROVED.
 
@@ -4362,7 +4362,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 371 BE APPROVED.
 
@@ -4381,7 +4381,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.'s 369 and 379 BE APPROVED.
 
@@ -4400,7 +4400,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No.'s 369 and 379 BE APPROVED.
 
@@ -4419,7 +4419,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.'s 369 and 379 BE APPROVED.
 

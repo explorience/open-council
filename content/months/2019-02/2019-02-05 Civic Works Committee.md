@@ -211,7 +211,7 @@ The meeting adjourned at 5:50 PM
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Approve items 2.1 to 2.5
 
@@ -221,7 +221,7 @@ Unanimous (6-0)
 
 ### 3.1. Community Water Fluoridation
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > The additional requests for Delegation Status with respect to the above matter from the following BE GRANTED : - P. Killen - L. Cianchino - N. Kuzmanovich - L.Timler, School of Health Sciences, Fanshawe College - M.Czechowicz
 

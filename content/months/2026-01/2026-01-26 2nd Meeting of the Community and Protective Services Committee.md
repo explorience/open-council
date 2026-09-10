@@ -2636,7 +2636,7 @@ Kemel and I had a great conversation on the weekend and she mentioned it herself
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.4 and 2.5 BE APPROVED.
 
@@ -2646,7 +2646,7 @@ Unanimous (6-0)
 
 ### 2.2. Good Neighbour Agreements
 
-<a id="motion-2-2-3" class="motion-anchor"></a>
+<div id="motion-2-2-3" class="motion-anchor"></div>
 
 > That part a) of the motion BE AMENDED as follows: i)     the Civic Administration BE DIRECTED to provide a one year contract renewal for the procurement framework  with an option to renew for one year; and, ii)     that Civic Administration BE DIRECTED to review existing housing stability contrac...
 
@@ -2663,7 +2663,7 @@ Unanimous (6-0)
 
 ### 2.2. Good Neighbour Agreements
 
-<a id="motion-2-2-4" class="motion-anchor"></a>
+<div id="motion-2-2-4" class="motion-anchor"></div>
 
 > That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -2680,7 +2680,7 @@ Unanimous (6-0)
 
 ### 2.2. Good Neighbour Agreements
 
-<a id="motion-2-2-5" class="motion-anchor"></a>
+<div id="motion-2-2-5" class="motion-anchor"></div>
 
 > That part a) of the motion BE APPROVED.
 
@@ -2697,7 +2697,7 @@ Unanimous (6-0)
 
 ### 2.2. Good Neighbour Agreements
 
-<a id="motion-2-2-6" class="motion-anchor"></a>
+<div id="motion-2-2-6" class="motion-anchor"></div>
 
 > That part b) of the motion BE APPROVED.
 
@@ -2714,7 +2714,7 @@ Unanimous (6-0)
 
 ### 2.2. Good Neighbour Agreements
 
-<a id="motion-2-2-7" class="motion-anchor"></a>
+<div id="motion-2-2-7" class="motion-anchor"></div>
 
 > That part c) of the motion BE APPROVED.
 
@@ -2724,7 +2724,7 @@ Unanimous (6-0)
 
 ### 2.2. Good Neighbour Agreements
 
-<a id="motion-2-2-8" class="motion-anchor"></a>
+<div id="motion-2-2-8" class="motion-anchor"></div>
 
 > That part d) of the motion BE APPROVED.
 
@@ -2734,7 +2734,7 @@ Unanimous (6-0)
 
 ### 2.2. Good Neighbour Agreements
 
-<a id="motion-2-2-9" class="motion-anchor"></a>
+<div id="motion-2-2-9" class="motion-anchor"></div>
 
 > That part e) of the motion BE APPROVED.
 
@@ -2744,7 +2744,7 @@ Unanimous (6-0)
 
 ### 2.3. System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > That the delegation request from S. Campbell, Ark Aid Street Mission, with respect to this matter, BE APPROVED.
 
@@ -2754,7 +2754,7 @@ Unanimous (6-0)
 
 ### 4.1. Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the communication, as appended to the Agenda, from Councillor Rahman, Deputy Mayor S. Lewis and Councillor E. Peloza, with respect to Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles, BE RECEIVED; it being noted tha...
 
@@ -2771,7 +2771,7 @@ Unanimous (6-0)
 
 ### 4.1. Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to limit the City of London Community Grants Annual Program to the capital funding category, as defined in the City of London Community Grants Policy for 2026 and 2027; it being noted that a communication, as appended to the Added Agenda, as well as a ver...
 
@@ -2788,7 +2788,7 @@ Unanimous (6-0)
 
 ### 4.1. Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the request for delegation from M. Cassidy, Pillar Nonprofit Network BE APPROVED.
 
@@ -2798,7 +2798,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > That it being noted that communications from the following individuals, as appended to the Agenda and the Added Agenda, with respect to this matter, were received: -    Councillors S. Trosow and D. Ferreira;  -    Councillor S. Stevenson;  -    S. Mcfarlane, London ACORN East of Adelaide Chapter;...
 
@@ -2808,7 +2808,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > That the delegation requests from S. Campbell, Ark Aid Mission, V. Brown, C. McDonald, London Cares, M. Kolls, R. Klemm and T. Davies BE APPROVED.
 
@@ -2818,7 +2818,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-4" class="motion-anchor"></a>
+<div id="motion-4-2-4" class="motion-anchor"></div>
 
 > That pursuant to section 35.7 of the Council Procedure by-law, the Council decision with respect to the Temporary Warming Centre Framework for Winter 2025/2026 and Winter 2026/2027 having to do with the September 29, 2025 Staff Report – Proposed Temporary Warming Centre Framework BE RECONSIDERED ...
 
@@ -2828,7 +2828,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-6" class="motion-anchor"></a>
+<div id="motion-4-2-6" class="motion-anchor"></div>
 
 > That the amendment to part a) BE FURTHER AMENDED to add the following: and that notwithstanding previous council direction spaces on a BIA main street shall be considered as part of this initiative until April 30, 2026
 
@@ -2838,7 +2838,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-7" class="motion-anchor"></a>
+<div id="motion-4-2-7" class="motion-anchor"></div>
 
 > That the amendment to part a), as amended, BE APPROVED.
 
@@ -2848,7 +2848,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-8" class="motion-anchor"></a>
+<div id="motion-4-2-8" class="motion-anchor"></div>
 
 > That part b) BE AMENDED to provide for the financing to be pulled from the Social Services Reserve Fund up to a maximum of $290,000.
 
@@ -2858,7 +2858,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-9" class="motion-anchor"></a>
+<div id="motion-4-2-9" class="motion-anchor"></div>
 
 > That parts a), b) and c) of the main motion, as amended, BE APPROVED.
 
@@ -2868,7 +2868,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-10" class="motion-anchor"></a>
+<div id="motion-4-2-10" class="motion-anchor"></div>
 
 > That part d) of the motion, as amended, BE APPROVED.
 
@@ -2885,7 +2885,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-11" class="motion-anchor"></a>
+<div id="motion-4-2-11" class="motion-anchor"></div>
 
 > That part e) i) of the motion, as amended, BE APPROVED.
 
@@ -2895,7 +2895,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-12" class="motion-anchor"></a>
+<div id="motion-4-2-12" class="motion-anchor"></div>
 
 > That part e) ii) of the motion, as amended, BE APPROVED.
 
@@ -2912,7 +2912,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-13" class="motion-anchor"></a>
+<div id="motion-4-2-13" class="motion-anchor"></div>
 
 > That part e) iii) of the motion, as amended, BE APPROVED.
 
@@ -2929,7 +2929,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-14" class="motion-anchor"></a>
+<div id="motion-4-2-14" class="motion-anchor"></div>
 
 > That part e) iv) of the motion, as amended, BE APPROVED.
 
@@ -2939,7 +2939,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-15" class="motion-anchor"></a>
+<div id="motion-4-2-15" class="motion-anchor"></div>
 
 > That part e) v) of the motion, as amended, BE APPROVED.
 
@@ -2956,7 +2956,7 @@ Unanimous (6-0)
 
 ### 4.2. Temporary Warming Centres
 
-<a id="motion-4-2-16" class="motion-anchor"></a>
+<div id="motion-4-2-16" class="motion-anchor"></div>
 
 > That part e) vi) of the motion, as amended, BE APPROVED.
 

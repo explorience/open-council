@@ -2695,7 +2695,7 @@ Motion Passed
 ### 10#2. Purchase of Service Agreements - Ontario
   Works Employment Assistance Services
 
-<a id="motion-10-2-0" class="motion-anchor"></a>
+<div id="motion-10-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Acting   Administrator of Ontario Works, the by-law as attached to the   staff report dated February 25, 2013, BE INTRODUCED at the Municipal   Council meeting of March 5, 2013 to:    a)         approve   the Ontario Works Employment Assistance Services Agreemen...
 
@@ -2706,7 +2706,7 @@ Unanimous (13-0)
 ### 14#2. Ontario
   Water/Wastewater Agency Response Network
 
-<a id="motion-14-2-0" class="motion-anchor"></a>
+<div id="motion-14-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the attached   proposed by-law BE INTRODUCED at the Municipal Council meeting of March 5,   2013, to:   a)         approve   the Mutual Aid and Assistance Agreement for an Ontario Wat...
 
@@ -2716,7 +2716,7 @@ Unanimous (15-0)
 
 ### 2#7. Property located at 527 Wellington Road
 
-<a id="motion-2-7-1" class="motion-anchor"></a>
+<div id="motion-2-7-1" class="motion-anchor"></div>
 
 > At 5:48 PM the Mayor J.F. Fontana resumes   the Chair and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -2727,7 +2727,7 @@ Unanimous (15-0)
 ### 3#8. Re-appointment of Ken Kalopsis to the
   London International Airport Board of Directors
 
-<a id="motion-3-8-0" class="motion-anchor"></a>
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2743,7 +2743,7 @@ Unanimous (15-0)
 ### 3#8. Re-appointment of Ken Kalopsis to the
   London International Airport Board of Directors
 
-<a id="motion-3-8-1" class="motion-anchor"></a>
+<div id="motion-3-8-1" class="motion-anchor"></div>
 
 > 6th Report of the Committee of the Whole
 
@@ -2754,7 +2754,7 @@ Unanimous (14-0)
 ### 4#2. Prohibiting Smoking Near Recreation
   Amenities and Entrances By-law
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director of Parks & Recreation, the by-law, as appended to the staff   report dated February 25, 2013, BE INTRODUCED at the Municipal Council   meeting to be held on March 5, 2013 to prohibit smoking within 9 meters of   playgrounds and recreation ame...
 
@@ -2771,7 +2771,7 @@ Unanimous (14-0)
 
 ### 4#6. London Transit Commission
 
-<a id="motion-4-6-0" class="motion-anchor"></a>
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2782,7 +2782,7 @@ Unanimous (15-0)
 ### 5#5. Update on Boler
   Mountain's Current Plans and Activities
 
-<a id="motion-5-5-0" class="motion-anchor"></a>
+<div id="motion-5-5-0" class="motion-anchor"></div>
 
 > That the request for delegation status from   J. Kennedy, President of Boler Mountain BE REFERRED to the Civic   Administration to confirm the appropriate Standing Committee the matter   should be directed to.
 
@@ -2792,7 +2792,7 @@ Unanimous (15-0)
 
 ### 5#6. Sherwood Forest Public School
 
-<a id="motion-5-6-0" class="motion-anchor"></a>
+<div id="motion-5-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2803,7 +2803,7 @@ Unanimous (13-0)
 ### 6#2. Tax Adjustment
   Agenda
 
-<a id="motion-6-2-0" class="motion-anchor"></a>
+<div id="motion-6-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the request for a letter for support for “All Points Bulletin” TV   network:   a)         the   Mayor BE REQUESTED to prepare a letter to the Canadian Radio-television &   Telecommunications Commission (CRTC) in support of the request for rene...
 
@@ -2813,7 +2813,7 @@ Unanimous (15-0)
 
 ### 8#2. Food Truck Proposal
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Managing   Director, Development & Compliance Services and the Chief Building   Official,  Civic Administration BE DIRECTED  to report back at a public   participation meeting of the Community and Protective Services Committee   meeting on amendments to the Busin...
 
@@ -2823,7 +2823,7 @@ Unanimous (15-0)
 
 ### 8#2. Food Truck Proposal
 
-<a id="motion-8-2-1" class="motion-anchor"></a>
+<div id="motion-8-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2833,7 +2833,7 @@ Unanimous (15-0)
 
 ### 8#2. Food Truck Proposal
 
-<a id="motion-8-2-2" class="motion-anchor"></a>
+<div id="motion-8-2-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2844,7 +2844,7 @@ Unanimous (13-0)
 ### 9#2. Annual Review, 2013
   Special Events Policies and Procedures Manual
 
-<a id="motion-9-2-0" class="motion-anchor"></a>
+<div id="motion-9-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director of Parks and Recreation the by-law, as appended to the staff report   dated February 25, 2013 BE INTRODUCED at the Municipal Council meeting of   March 5, 2013 to approve the 2013 Special Events Policies and Procedures   Manual. 2013-C01/M02
 
@@ -2855,7 +2855,7 @@ Unanimous (15-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -2865,7 +2865,7 @@ Unanimous (15-0)
 
 ### IX. REPORTS
 
-<a id="motion-ix-0" class="motion-anchor"></a>
+<div id="motion-ix-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2876,7 +2876,7 @@ Unanimous (15-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON FEBRUARY 12, 2013
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2886,7 +2886,7 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-0" class="motion-anchor"></a>
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2896,7 +2896,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2906,7 +2906,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-2" class="motion-anchor"></a>
+<div id="motion-xiii-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2916,7 +2916,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2926,7 +2926,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-4" class="motion-anchor"></a>
+<div id="motion-xiii-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2936,7 +2936,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2950,7 +2950,7 @@ Unanimous (12-0)
   Consideration with Clause 13 of the 5th Report of the Planning and
   Environment Committee.)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2961,7 +2961,7 @@ Unanimous (15-0)
 ### 14. Student Rental
   Housing
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > That the communication, dated September 25,   2012, from M. Noskiewicz, Goodmans, with respect to Student Rental Housing in   Zoning By-law No. Z.-1 BE REFERRED to the Civic Administration and the Town   & Gown Committee to determine how this can be applied using the Near   Campus Neighbourhoods;...
 
@@ -2972,7 +2972,7 @@ Unanimous (15-0)
 ### 15. Railway Pedestrian
   Crossing Safety
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the   Director, Roads & Transportation, the following actions be taken with   respect to railway pedestrian crossing safety:   a)         the   Civic Administration BE AUTHORIZED to undertake a railway pedestrian crossing   assessment study to determine the appropri...
 
@@ -2990,7 +2990,7 @@ Unanimous (15-0)
 ### 15. Railway Pedestrian
   Crossing Safety
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3008,7 +3008,7 @@ Unanimous (15-0)
 ### 16. Rental of General
   Equipment with Operators (Tender 13-06) - Revised
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > That, the previously-approved bids for the   Rental of General Equipment with Operators, as appended to the staff report   dated January 21, 2013 BE AMENDED by deleting “Benko Sewer Service, Division   of Badger Daylighting Inc. 6629 Orr Drive, London, ON N6L 1P1” and replacing   with “W. Carsey ...
 
@@ -3019,7 +3019,7 @@ Unanimous (13-0)
 ### 16. Rental of General
   Equipment with Operators (Tender 13-06) - Revised
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion Passed
 

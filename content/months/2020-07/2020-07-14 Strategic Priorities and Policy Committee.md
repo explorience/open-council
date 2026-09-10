@@ -618,7 +618,7 @@ The meeting adjourns at 8:43 PM.
 
 ### 2.1. Core Area Action Plan - 2020 Progress Update
 
-<a id="motion-2-1-2" class="motion-anchor"></a>
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > That Item 45 of the 2020 Modified Operating Budget for the Core Action Plan, Activate Spaces and Places with bistro chairs and tables, BE APPROVED.
 
@@ -635,7 +635,7 @@ The meeting adjourns at 8:43 PM.
 
 ### 2.4. 2nd Report of the Rapid Transit Implementation Working Group
 
-<a id="motion-2-4-2" class="motion-anchor"></a>
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > That clause 3.2 of the 2nd Report of the Rapid Transit Implementation Working Group BE APPROVED.
 
@@ -645,7 +645,7 @@ Unanimous (12-0)
 
 ### 4.1. Resignation from Eldon House Board of Directors
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the communication dated June 17, 2020 from Mark Tovey from Eldon House BE ACCEPTED.
 
@@ -655,7 +655,7 @@ Unanimous (15-0)
 
 ### 4.1. Resignation from Eldon House Board of Directors
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That staff BE DIRECTED to consult with the current Eldon House Board, with respect to potential membership requirements and undertake candidate recruitment for consideration accordingly.
 
@@ -665,7 +665,7 @@ Unanimous (15-0)
 
 ### 4.2. Argyle Business Improvement Association
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to Argyle Business Improvement Association:    a)  the resignation of Erik Lasch BE ACCEPTED; and,    b)  Dan Eminger and Frank Boutzis BE APPOINTED for the term ending November 15, 2022.
 
@@ -675,7 +675,7 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) Making Anti-Racism a Strategic Priority
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to making anti-racism a strategic priority:    a)      the mandate of the Strategic Priorities and Policy Committee BE AMENDED to include “Anti-racism, diversity, inclusion and anti-oppression” as a new bullet point under Strategic Initiatives;    ...
 
@@ -685,7 +685,7 @@ Unanimous (15-0)
 
 ### 5.2. Additional Legislative Measures to Prevent the Spread of COVID-19
 
-<a id="motion-5-2-2" class="motion-anchor"></a>
+<div id="motion-5-2-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part b), as follows: b)      the Medical Officer of Health, Dr. Chris Mackie, BE REQUESTED to attend the standing committee meeting(s), to provide advice and answer questions about any advice or actions that may result from part a) above.
 
@@ -695,7 +695,7 @@ Unanimous (14-0)
 
 ### 5.2. Additional Legislative Measures to Prevent the Spread of COVID-19
 
-<a id="motion-5-2-3" class="motion-anchor"></a>
+<div id="motion-5-2-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED; the motion reads as follows: That the following actions be taken with respect to additional legislative measures to prevent the spread of COVID-19: a)      the Civic Administration, including the City Solicitor, BE DIRECTED to consult with the County of M...
 

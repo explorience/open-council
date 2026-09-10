@@ -1158,7 +1158,7 @@ So that means we are here for adjournment. So looking for a motion to adjourn mo
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2,1, 2,3 and 2.4 BE APPROVED.
 
@@ -1168,7 +1168,7 @@ Unanimous (5-0)
 
 ### 2. Consent
 
-<a id="motion-2-2" class="motion-anchor"></a>
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > That the motion to approve Items 2.1, 2.3, 2.4 and 2.5 BE WITHDRAWN.
 
@@ -1185,7 +1185,7 @@ Unanimous (5-0)
 
 ### 2.2. Whole of Community System Response Q1 2025 Quarterly Report
 
-<a id="motion-2-2-2" class="motion-anchor"></a>
+<div id="motion-2-2-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1195,7 +1195,7 @@ Unanimous (4-0)
 
 ### 2.5. Approval of the Template Contribution Agreement for Affordable Housing Projects
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated April 28, 2025, related to Approval of the Template Contribution Agreement for Affordable Housing Projects: a)    the proposed by-law, as app...
 
@@ -1205,7 +1205,7 @@ Unanimous (4-0)
 
 ### 4.1. Request for Report Back on Quick Communities
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to prepare a report summarizing their research, stakeholder feedback and proposed next steps related to Quick Communities for presentation to the Community and Protective Services Committee on May 20, 2025; it being noted that the communication, as append...
 

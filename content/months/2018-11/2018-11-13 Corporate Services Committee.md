@@ -222,7 +222,7 @@ The meeting adjourned at 1:39 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.3, BE APPROVED.
 
@@ -232,7 +232,7 @@ Unanimous (5-0)
 
 ### 2.4. Advisory Committee Review - Interim Report
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the recruitment and appointment of Advisory Committee members for the up-coming term: a)            the recruitment for voting members, BE UNDERTAKEN; b)            the appointments for the above-noted recruitment BE LIMITED to a term from June ...
 

@@ -765,7 +765,7 @@ The meeting adjourned at 7:28 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.6, inclusive, BE APPROVED.
 
@@ -775,7 +775,7 @@ Unanimous (4-0)
 
 ### 3.4. Public Participation Meeting - Application - 324 York Street (TZ-8917)
 
-<a id="motion-3-4-3" class="motion-anchor"></a>
+<div id="motion-3-4-3" class="motion-anchor"></div>
 
 > Motion to approve part b), which reads as follows: b)         the proposed by-law appended to the staff report dated October 29, 2018 as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on November 6, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Pla...
 
@@ -794,7 +794,7 @@ Unanimous (4-0)
 
 ### 3.4. Public Participation Meeting - Application - 324 York Street (TZ-8917)
 
-<a id="motion-3-4-4" class="motion-anchor"></a>
+<div id="motion-3-4-4" class="motion-anchor"></div>
 
 > Motion to approve part a) which reads as follows: That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Bradel Properties Ltd., relating to the property located at 324 York Street: a)          the request...
 
@@ -804,7 +804,7 @@ Unanimous (4-0)
 
 ### 3.6. Delegation - D. Park, L. Black, C. Morrison, E. Washburn, J. Santin and M. Laliberte - Byron Valley Nature Trail Planning Process
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the Byron Valley Nature Trail Planning process: a)             the staff report entitled "Byron Valley Nature Trail Planning Process" BE RECEIVED for information; b)    ...
 
@@ -823,7 +823,7 @@ Unanimous (4-0)
 
 ### 3.6. Delegation - D. Park, L. Black, C. Morrison, E. Washburn, J. Santin and M. Laliberte - Byron Valley Nature Trail Planning Process
 
-<a id="motion-3-6-1" class="motion-anchor"></a>
+<div id="motion-3-6-1" class="motion-anchor"></div>
 
 > That S. Sutton and D. Sutherland BE GRANTED delegation status with respect to this matter.
 
@@ -833,7 +833,7 @@ Unanimous (4-0)
 
 ### 3.6. Delegation - D. Park, L. Black, C. Morrison, E. Washburn, J. Santin and M. Laliberte - Byron Valley Nature Trail Planning Process
 
-<a id="motion-3-6-2" class="motion-anchor"></a>
+<div id="motion-3-6-2" class="motion-anchor"></div>
 
 > That D. Park, et. al. BE GRANTED an additional three minutes for their delegation.
 
@@ -848,7 +848,7 @@ Unanimous (4-0)
 
 ### 4.2. Section 37 -  Planning Act (Bonusing) Revisions and Additional Opportunities for Implementation
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to Section 37 of the Planning Act (Bonusing) revisions and additional opportunities for implementation: a)            the staff report dated October 29, 2018 entitled "Sect...
 
@@ -858,7 +858,7 @@ Unanimous (4-0)
 
 ### 6.1. Personal Matters/Identifiable Individual
 
-<a id="motion-6-1-0" class="motion-anchor"></a>
+<div id="motion-6-1-0" class="motion-anchor"></div>
 
 > (Confidential Appendix enclosed for Members only.) The Planning and Environment Committee convened in camera from 7:24 PM to 7:27 PM after having passed a motion to do so, with respect to the following matter: 6.1     A personal matter pertaining to identifiable individuals, including municipal e...
 

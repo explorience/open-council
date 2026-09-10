@@ -695,7 +695,7 @@ Motion carries.
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That items 4.2 and 4.3 BE APPROVED
 
@@ -705,7 +705,7 @@ Unanimous (4-0)
 
 ### 4.1. Application - Issuance of Proclamation - World Thinking Day
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That based on the application dated December 5, 2023 from Girl Guides of Canada, February 22, 2024 the proclamation request BE REFERRED to the January 23, 2024 Council meeting for consideration.
 
@@ -715,7 +715,7 @@ Unanimous (4-0)
 
 ### 5.1. (ADDED) Request for Indemnification for a Judicial Review - Councillor S. Stevenson
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the communication dated January 10, 2024 from Councillor S. Stevenson with respect to Indemnification for a Judicial Review BE RECEIVED and NO FURTHER ACTION BE TAKEN.
 

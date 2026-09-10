@@ -564,7 +564,7 @@ The
   Appointment of Consulting Engineer for Construction Administration of Old
   Victoria Stormwater Management Facility No. 1 (ESSWM-OV1)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -576,7 +576,7 @@ Unanimous (5-0)
 ### 3. STAFF REPORT - New
   2017 Traffic Signals
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -589,7 +589,7 @@ Unanimous (5-0)
   Emergency Repair - Greenway Wastewater Treatment Plant Incinerator Heat
   Exchangers and Dome Replacement
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -602,7 +602,7 @@ Unanimous (5-0)
   Contract Award Tender 17-23 - Veterans Memorial Parkway Resurfacing - Gore
   Road to Oxford Street East
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -615,7 +615,7 @@ Unanimous (5-0)
   Contract Award Tender 17-21 - Sarnia Road Improvements Phase 3 - Hyde Park
   Road to Oakcrossing Gate
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -630,7 +630,7 @@ Unanimous (5-0)
   Emery Street, East Mile Road/Oban Crescent/Glen Crescent/Hyman Street/Victor
   Street/Tecumseh Avenue/Byron Avenue
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -643,7 +643,7 @@ Unanimous (5-0)
   Contract Award: Tender No. 17-15 - 2017 Infrastructure Renewal Program -
   Byron Baseline Road Reconstruction Project
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -656,7 +656,7 @@ Unanimous (5-0)
   Contract Award: Tender No. 17-11 -  2017 Infrastructure Lifecycle Renewal
   Program - Contract 2: St. George Street, Cheapside Street and Bridport Street
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -668,7 +668,7 @@ Unanimous (5-0)
 ### 10. 3rd Report of the
   Transportation Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -680,7 +680,7 @@ Unanimous (5-0)
 ### 11. 3rd and 4th Reports
   of the Cycling Advisory Committee
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -692,7 +692,7 @@ Unanimous (5-0)
 ### 12. 5th Report of the
   Rapid Transit Implementation Working Group
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -704,7 +704,7 @@ Unanimous (5-0)
 ### 13. Deferred Matters
   List
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

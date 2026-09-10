@@ -210,7 +210,7 @@ The Meeting adjourned at 8:07 PM.
 
 ### 4.1. London Hydro - Request for a Shareholder's Meeting
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2017 Annual General Meeting of the Shareholder for London Hydro Inc.: a)         the 2017 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on June 25, 2018,...
 
@@ -220,7 +220,7 @@ Unanimous (14-0)
 
 ### 5.1. ADDED - London and Middlesex Housing Corporation
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > Motion to approve the request for delegation status from J. Peaire, at a future meeting of the appropriate committee.
 
@@ -237,7 +237,7 @@ Unanimous (14-0)
 
 ### 5.1. ADDED - London and Middlesex Housing Corporation
 
-<a id="motion-5-1-2" class="motion-anchor"></a>
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > Motion to receive the communication from the London & Middlesex Housing Corporation (LMHC) Board of Directors regarding clarification and information relating to the selection and appointment of the LMHC Board Members.
 
@@ -247,7 +247,7 @@ Unanimous (15-0)
 
 ### 5.1. ADDED - London and Middlesex Housing Corporation
 
-<a id="motion-5-1-3" class="motion-anchor"></a>
+<div id="motion-5-1-3" class="motion-anchor"></div>
 
 > Motion to approve interviews with three applicants for appointment to the LMHC Board, as per the ranked ballot.
 

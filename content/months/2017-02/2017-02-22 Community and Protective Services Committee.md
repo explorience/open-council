@@ -790,7 +790,7 @@ The
 ### 2. 1st Report of the
   Town and Gown Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -802,7 +802,7 @@ Unanimous (5-0)
 ### 3. 1st Report of the
   Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -814,7 +814,7 @@ Unanimous (5-0)
 ### 4. 1st Report of the
   Accessibility Advisory Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -826,7 +826,7 @@ Unanimous (5-0)
 ### 5. 2nd and 3rd Reports
   of the London Housing Advisory Committee
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -838,7 +838,7 @@ Unanimous (5-0)
 ### 6. 2nd Report of the
   Diversity Inclusivity and Anti-Oppression Advisory Committee
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -850,7 +850,7 @@ Unanimous (5-0)
 ### 7. 3rd Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -862,7 +862,7 @@ Unanimous (5-0)
 ### 8. STAFF REPORT -
   Immigration Strategy Update
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -874,7 +874,7 @@ Unanimous (5-0)
 ### 9. STAFF REPORT -
   Supporting Community Response to Syrian Newcomers - Update
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -886,7 +886,7 @@ Unanimous (5-0)
 ### 10. STAFF REPORT -
   Strategic Plan Progress Variance
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -899,7 +899,7 @@ Unanimous (5-0)
   Single Source 17-03 - Single Source Procurement  of Lifeguard Qualifications
   Literature/Manuals and  Associated Registration Fees/Documents
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -911,7 +911,7 @@ Unanimous (5-0)
 ### 12. STAFF REPORT -
   Journey Together Early Years Transfer Payment Agreement
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -924,7 +924,7 @@ Unanimous (5-0)
   By-law Review Contractors - Donation Bins, Personal Service Establishment and
   Tobacco and Electronic Cigarette Retailers
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -937,7 +937,7 @@ Unanimous (5-0)
   By-law Review Contractors - Donation Bins, Personal Service Establishment and
   Tobacco and Electronic Cigarette Retailers
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -950,7 +950,7 @@ Unanimous (5-0)
   By-law Review Contractors - Donation Bins, Personal Service Establishment and
   Tobacco and Electronic Cigarette Retailers
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -962,7 +962,7 @@ Unanimous (5-0)
 ### 14. Public Nuisance
   By-law - Use of Roofs/Social Gatherings
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -974,7 +974,7 @@ Unanimous (5-0)
 ### 14. Public Nuisance
   By-law - Use of Roofs/Social Gatherings
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -986,7 +986,7 @@ Unanimous (5-0)
 ### 14. Public Nuisance
   By-law - Use of Roofs/Social Gatherings
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -998,7 +998,7 @@ Unanimous (5-0)
 ### 15. 1st Report of the
   Childcare Advisory Committee
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1011,7 +1011,7 @@ Unanimous (5-0)
   SUBMISSION - Assist Community Organizations in Distribution of Food to
   Individuals in Need
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1023,7 +1023,7 @@ Unanimous (5-0)
 ### 17. STAFF REPORT -
   Request for Naming of Vimy Ridge Park
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1035,7 +1035,7 @@ Unanimous (5-0)
 ### 17. STAFF REPORT -
   Request for Naming of Vimy Ridge Park
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1047,7 +1047,7 @@ Unanimous (5-0)
 ### 18. STAFF REPORT -
   Request for Renaming Mildred Barons Park to "Vimy Ridge Park"
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1059,7 +1059,7 @@ Unanimous (5-0)
 ### 19. Housing and ODSP
   Residents
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1070,7 +1070,7 @@ Unanimous (4-0)
 
 ### 20. 100In1Day London
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1082,7 +1082,7 @@ Unanimous (4-0)
 ### 21. Deferred Matters
   List
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

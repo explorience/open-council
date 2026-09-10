@@ -2201,7 +2201,7 @@ All those in favor? We are adjourned. Thank you, everyone.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.3, 2.4, 2.5, 2.7 and 2.8 BE APPROVED.
 
@@ -2211,7 +2211,7 @@ Unanimous (5-0)
 
 ### 2.2. Primary Care Recruitment and Retention Program Report
 
-<a id="motion-2-2-3" class="motion-anchor"></a>
+<div id="motion-2-2-3" class="motion-anchor"></div>
 
 > That the motion be amended to add a new part to read as follows: The Mayor BE REQUESTED to write a letter to Middlesex County Mayors requesting that the county contribute a percentage of the $80,000 London is contributing for the recruitment of doctors to London Middlesex and surrounding area.
 
@@ -2228,7 +2228,7 @@ Unanimous (5-0)
 
 ### 2.2. Primary Care Recruitment and Retention Program Report
 
-<a id="motion-2-2-4" class="motion-anchor"></a>
+<div id="motion-2-2-4" class="motion-anchor"></div>
 
 > That the amendment, as amended, be approved.
 
@@ -2247,7 +2247,7 @@ Unanimous (5-0)
 
 ### 2.2. Primary Care Recruitment and Retention Program Report
 
-<a id="motion-2-2-5" class="motion-anchor"></a>
+<div id="motion-2-2-5" class="motion-anchor"></div>
 
 > That the motion, as amended, be approved.
 
@@ -2266,7 +2266,7 @@ Unanimous (5-0)
 
 ### 2.2. Primary Care Recruitment and Retention Program Report
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from A. Loewen, Middlesex London Ontario Health Team to be heard at this meeting.
 
@@ -2276,7 +2276,7 @@ Unanimous (5-0)
 
 ### 2.6. One Year Update: Green Bin and Biweekly Collection Program - Part One: Program Monitoring and Community Feedback
 
-<a id="motion-2-6-1" class="motion-anchor"></a>
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > That the motion be amended to include a new part b) iv) to read as follows: iv) options and cost estimates on how the green bin program can be extended to churches and non-profits offering food services for hospitality meals.
 
@@ -2286,7 +2286,7 @@ Unanimous (4-0)
 
 ### 2.6. One Year Update: Green Bin and Biweekly Collection Program - Part One: Program Monitoring and Community Feedback
 
-<a id="motion-2-6-2" class="motion-anchor"></a>
+<div id="motion-2-6-2" class="motion-anchor"></div>
 
 > That the motion, as amended, be approved.
 
@@ -2296,7 +2296,7 @@ Unanimous (4-0)
 
 ### 2.9. Provision of Outdoor Basic Needs
 
-<a id="motion-2-9-1" class="motion-anchor"></a>
+<div id="motion-2-9-1" class="motion-anchor"></div>
 
 > That the motion be amended to include a new part g) to read as follows: The Civic Administration BE DIRECTED to present a report at a future meeting of the Community and Protective Services Committee, providing the above noted executed contracts for information.
 
@@ -2315,7 +2315,7 @@ Unanimous (4-0)
 
 ### 2.9. Provision of Outdoor Basic Needs
 
-<a id="motion-2-9-2" class="motion-anchor"></a>
+<div id="motion-2-9-2" class="motion-anchor"></div>
 
 > That the motion, as amended, be approved.
 
@@ -2325,7 +2325,7 @@ Unanimous (4-0)
 
 ### 2.10. Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement
 
-<a id="motion-2-10-1" class="motion-anchor"></a>
+<div id="motion-2-10-1" class="motion-anchor"></div>
 
 > That the motion be amended to include a new part g) to read as follows: The Civic Administration BE DIRECTED to present a report at a future meeting of the Community and Protective Services Committee, providing the above noted executed contracts for information.
 
@@ -2344,7 +2344,7 @@ Unanimous (4-0)
 
 ### 2.10. Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement
 
-<a id="motion-2-10-2" class="motion-anchor"></a>
+<div id="motion-2-10-2" class="motion-anchor"></div>
 
 > That the motion, as amended, be approved.
 
@@ -2354,7 +2354,7 @@ Unanimous (4-0)
 
 ### 2.11. Additional Emergency Shelter and Day Drop-in Space Update Report
 
-<a id="motion-2-11-2" class="motion-anchor"></a>
+<div id="motion-2-11-2" class="motion-anchor"></div>
 
 > That the delegation request from S. Campbell BE HEARD at this meeting.
 
@@ -2364,7 +2364,7 @@ Unanimous (4-0)
 
 ### 2.11. Additional Emergency Shelter and Day Drop-in Space Update Report
 
-<a id="motion-2-11-3" class="motion-anchor"></a>
+<div id="motion-2-11-3" class="motion-anchor"></div>
 
 > That part c) of the motion BE APPROVED.
 
@@ -2383,7 +2383,7 @@ Unanimous (4-0)
 
 ### 2.11. Additional Emergency Shelter and Day Drop-in Space Update Report
 
-<a id="motion-2-11-4" class="motion-anchor"></a>
+<div id="motion-2-11-4" class="motion-anchor"></div>
 
 > That parts a) and b) of the motion BE APPROVED.
 
@@ -2393,7 +2393,7 @@ Unanimous (4-0)
 
 ### 5.1. (ADDED) Short-Term Rental Enforcement Fund
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of Deputy City Manager, Housing and Community Growth the proposed by-law, as appended to the staff report dated March 17, 2025, BE INTRODUCED at the Municipal Council meeting to be held on April 1, 2025, to: a)         ratify the Short-Term Rental Enforcement Fund Agre...
 
@@ -2403,7 +2403,7 @@ Unanimous (4-0)
 
 ### 5.2. (ADDED) Interim Housing Assistance Program (IHAP) for Costs Incurred Between April 1 and December 31, 2024
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the proposed by-law, as appended to the staff report dated March 17, 2025, BE INTRODUCED at the Council meeting to be held on April 1, 2025, to: a)         severally delegate the authority to the City Manager a...
 

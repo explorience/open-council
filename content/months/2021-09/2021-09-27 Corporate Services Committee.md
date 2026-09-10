@@ -110,7 +110,7 @@ The meeting adjourned at 12:23 PM.
 
 ### 2.1. Declaration of Vacancy - Office of Councillor, Ward 13
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That consideration of the declaration of vacancy of the Office of Ward 13 BE REFERRED to the Municipal Council meeting to be held on October 5, 2021.
 

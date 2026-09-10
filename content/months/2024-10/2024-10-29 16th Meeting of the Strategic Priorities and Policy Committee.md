@@ -2153,7 +2153,7 @@ Thank you colleagues moving on our next item 4.4 is the 10th report of the diver
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation requests from R. Van Gelderen, J. Herb, J. Ross and D. Devine BE APPROVED to heard at this time.
 
@@ -2163,7 +2163,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That part b) of the motion be amended to read as follows: b)    the Civic Administration BE DIRECTED to reallocate up to $141,400 from the surplus 2024 Housing Stability Services funding to fund the basic needs provision for a period of November 1, 2024 through December 31, 2024;
 
@@ -2173,7 +2173,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That part c) of the motion be amended to read as follows: c)    the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of ...
 
@@ -2183,7 +2183,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-5" class="motion-anchor"></a>
+<div id="motion-4-1-5" class="motion-anchor"></div>
 
 > That part f) of the motion be further amended to indicate "with a buffer of 100 metres"
 
@@ -2200,7 +2200,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-6" class="motion-anchor"></a>
+<div id="motion-4-1-6" class="motion-anchor"></div>
 
 > That part f) i) and ii) of the motion be amended to read as follows: f)     the following actions BE TAKEN with respect to additional service depot location(s):  i) the establishment of future service depot locations include a community meeting, which will include city staff, service support agen...
 
@@ -2210,7 +2210,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-7" class="motion-anchor"></a>
+<div id="motion-4-1-7" class="motion-anchor"></div>
 
 > That part f) iii) of the motion be amended to read as follows: iii) future service depot locations be deferred for consideration at the November 19, 2024 meeting of Strategic Priorities and Policy Committee and that Civic Administration bring forward a new list of possible locations (with a buffe...
 
@@ -2227,7 +2227,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-9" class="motion-anchor"></a>
+<div id="motion-4-1-9" class="motion-anchor"></div>
 
 > That part b) of the motion be further amended to change funding amount from $141,400 to $99,700 and to read as follows: b)    the Civic Administration BE DIRECTED to reallocate up to $99,700 from the surplus 2024 Housing Stability Services funding to fund the basic needs provision for a period of...
 
@@ -2244,7 +2244,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-10" class="motion-anchor"></a>
+<div id="motion-4-1-10" class="motion-anchor"></div>
 
 > That part a) of the motion be approved: a)    amendments to the setback requirements in the Community Encampment Response Plan to be on or within 25 metres of any private residential property line with a habitable dwelling as per the Building Code BE ENDORSED;
 
@@ -2261,7 +2261,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-11" class="motion-anchor"></a>
+<div id="motion-4-1-11" class="motion-anchor"></div>
 
 > That part b) of the motion, as amended, be approved: b)    the Civic Administration BE DIRECTED to reallocate up to $99,700 from the surplus 2024 Housing Stability Services funding to fund the basic needs provision for a period of November 1, 2024 through December 31, 2024;
 
@@ -2278,7 +2278,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-12" class="motion-anchor"></a>
+<div id="motion-4-1-12" class="motion-anchor"></div>
 
 > That part c) of the motion, as amended, be approved: c)    the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of Londo...
 
@@ -2295,7 +2295,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-13" class="motion-anchor"></a>
+<div id="motion-4-1-13" class="motion-anchor"></div>
 
 > That part f) i) and ii) of the motion, as amended, be approved: f)     the following actions BE TAKEN with respect to additional service depot location(s):  i) the establishment of future service depot locations include a community meeting, which will include city staff, service support agencies,...
 
@@ -2305,7 +2305,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-14" class="motion-anchor"></a>
+<div id="motion-4-1-14" class="motion-anchor"></div>
 
 > That part f) iii) of the motion, as amended, be approved: iii) future service depot locations be deferred for consideration at the November 19, 2024 meeting of Strategic Priorities and Policy Committee and that Civic Administration bring forward a new list of possible locations (with a buffer of ...
 
@@ -2322,7 +2322,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-15" class="motion-anchor"></a>
+<div id="motion-4-1-15" class="motion-anchor"></div>
 
 > That part h) of the motion be approved: h) continuation of contracted services at the Canadian Mental Health Association Thames Valley Addictions Mental Health Services (CMHA-TVAMHS) related to their previously approved Cold Weather Response by reallocating remaining operational surplus to mainta...
 
@@ -2339,7 +2339,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-16" class="motion-anchor"></a>
+<div id="motion-4-1-16" class="motion-anchor"></div>
 
 > That parts d), e), g), i), j) and balance of the motion be approved: d) the Civic Administration BE DIRECTED to seek out and apply for additional sources of funding to offset any Municipal funding; e) the Civic Administration BE DIRECTED to report back in mid-2025 on plans and recommended funding...
 
@@ -2356,7 +2356,7 @@ Unanimous (15-0)
 
 ### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-4-1-17" class="motion-anchor"></a>
+<div id="motion-4-1-17" class="motion-anchor"></div>
 
 > That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -2373,7 +2373,7 @@ Unanimous (15-0)
 
 ### 4.2. Sprung Shelter Motion - Councillor S.  Franke and Councillor J. Pribil
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That correspondence from Councillor S. Franke and Councillor J. Pribil regarding the feasibility of a quick community with small housing structures such as sprung shelters, tiny homes etc. BE REFERRED to the Customer Service and Process Improvements Reference Group to receive feedback from commun...
 
@@ -2390,7 +2390,7 @@ Unanimous (15-0)
 
 ### 4.3. Agencies, Boards and Commissions Motion - Councillor S. Franke and Councillor C. Rahman
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to convey to all agencies, boards and commissions that receive tax levy funding through the City of London budget, be directed to work in good faith in their interactions with the City and that the use of municipal funding intended to support lobbying eff...
 
@@ -2407,7 +2407,7 @@ Unanimous (15-0)
 
 ### 4.5. Committee Appointment Preferences Submitted by Council Members
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That the following appointments BE MADE to the Standing Committees of the Municipal Council for the term December 1, 2024 to November 30, 2025:    a)      Planning and Environment Committee    Councillor P. Cuddy  Councillor E. Peloza  Councillor S. Hillier     b)      Infrastructure and Corporat...
 
@@ -2417,7 +2417,7 @@ Unanimous (15-0)
 
 ### 4.5. Committee Appointment Preferences Submitted by Council Members
 
-<a id="motion-4-5-1" class="motion-anchor"></a>
+<div id="motion-4-5-1" class="motion-anchor"></div>
 
 > Appointment to Planning and Environment Committee
 
@@ -2430,7 +2430,7 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) 2025 Calendar Amendment Motion - Deputy Mayor S. Lewis and Councillor P. Cuddy
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to bring forward a by-law to a future meeting of Municipal Council to amend the Council Procedure By-law to adjust the Annual Schedule of Meetings, effective 2025 and on an ongoing basis, by incorporating a meeting-free "Constituency Week" in both April a...
 

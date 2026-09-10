@@ -270,7 +270,7 @@ The meeting adjourned at 5:12 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.4, inclusive, BE APPROVED.
 
@@ -280,7 +280,7 @@ Unanimous (5-0)
 
 ### 3.2. Public Participation Meeting - Application - 440 Clarke Road (Z-8975/O-8989)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application of Zerin Development Corporation, relating to the property located at 440 Clarke Road: a)            the proposed by-law appended to the staff report dated February 4, 2019 as Appendix "A" BE INTRODUCED at the Municipal Council ...
 
@@ -290,7 +290,7 @@ Unanimous (5-0)
 
 ### 4.1. L .Kirkness, Kirkness Consulting Inc - Request for Delegation Status - 894 Adelaide Street North
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That L. Kirkness, Kirkness Consulting Inc., BE GRANTED delegation status at the February 19, 2019 Planning and Environment Committee meeting with respect to the property located at 894 Adelaide Street North.   (2019-D13)
 
@@ -309,7 +309,7 @@ Unanimous (5-0)
 
 ### 4.2. L .Kirkness, Kirkness Consulting Inc - Request for Delegation Status - 131 King Street
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That L. Kirkness, Kirkness Consulting Inc., BE GRANTED delegation status at the February 19, 2019 Planning and Environment Committee meeting with respect to the property located at 131 King Street.   (2019-D14)
 

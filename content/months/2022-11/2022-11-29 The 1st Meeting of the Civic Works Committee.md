@@ -260,7 +260,7 @@ The meeting adjourned at 12:36 PM.
 
 ### 1.2. Election of Vice-Chair
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > That Councillor H. McAlister BE ELECTED Vice-Chair of the Civic Works Committee for the term ending November 14, 2023.
 
@@ -270,7 +270,7 @@ Unanimous (4-0)
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.6 BE APPROVED.
 

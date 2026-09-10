@@ -410,7 +410,7 @@ Stolfi in the past I've always been impressed with CMHA and what they've been ab
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.4 BE APPROVED.
 
@@ -420,7 +420,7 @@ Unanimous (5-0)
 
 ### 4.1. Whole of Community System Response Overview
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the communication from Councillor S. Stevenson, dated May 12, 2025, with respect to the Whole of Community System Response Overview, BE RECEIVED and no further action be taken.
 
@@ -437,7 +437,7 @@ Unanimous (5-0)
 
 ### 4.1. Whole of Community System Response Overview
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor J. Pribil BE PERMITTED to speak an additional 1 minute with respect to this matter.
 
@@ -454,7 +454,7 @@ Unanimous (5-0)
 
 ### 4.2. (ADDED) Memo - Affordable and Supportive Housing Agreement Templates
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the memo, dated May 20, 2025, related to Affordable and Supportive Housing Agreement Templates: a)         the proposed by-law, as appended to the above-noted memo, BE INTRODUCED at Municipal Council to be held on June 3, 2025 to: i)          au...
 
@@ -464,7 +464,7 @@ Unanimous (5-0)
 
 ### 4.3. (ADDED) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth the following actions be taken with respect to the staff report, dated May 20, 2025, related to RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill ...
 
@@ -474,7 +474,7 @@ Unanimous (5-0)
 
 ### 4.3. (ADDED) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That the delegation request from D. Astolfi, as appended to the added agenda, BE APPROVED to be heard at this meeting.
 

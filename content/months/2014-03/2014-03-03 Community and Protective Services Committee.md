@@ -190,7 +190,7 @@ Motion
 ### 6. Newcomer Champion
   Award
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -202,7 +202,7 @@ Unanimous (4-0)
 ### 7. 3rd Report of the
   London Housing Advisory Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -214,7 +214,7 @@ Unanimous (4-0)
 ### 8. 10 Minutes Grace
   Period for Parking
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -226,7 +226,7 @@ Unanimous (4-0)
 ### 9. Annual Review -
   2014 Special Events Policies and Procedures Manual
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

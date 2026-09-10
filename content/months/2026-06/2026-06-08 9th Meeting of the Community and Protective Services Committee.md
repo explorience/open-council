@@ -1096,7 +1096,7 @@ Okay, Councillor Joceau, Councillor Hopkins, thank you by hand, all in favor. Mo
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.6, 2.8, 2.10 and 2.11 BE APPROVED.
 
@@ -1106,7 +1106,7 @@ Unanimous (5-0)
 
 ### 2.7. Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6
 
-<a id="motion-2-7-1" class="motion-anchor"></a>
+<div id="motion-2-7-1" class="motion-anchor"></div>
 
 > That parts a) and b) BE APPROVED.
 
@@ -1116,7 +1116,7 @@ Unanimous (5-0)
 
 ### 2.7. Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6
 
-<a id="motion-2-7-2" class="motion-anchor"></a>
+<div id="motion-2-7-2" class="motion-anchor"></div>
 
 > That part c) BE APPROVED.
 
@@ -1133,7 +1133,7 @@ Unanimous (5-0)
 
 ### 2.9. Byron Veterans Monument Donation to Springbank Park
 
-<a id="motion-2-9-0" class="motion-anchor"></a>
+<div id="motion-2-9-0" class="motion-anchor"></div>
 
 > That the matter of the Byron Veterans Monument Donation to Springbank Park, as included in the staff report dated June 8, 2026, BE REFERRED to a special meeting of the Community and Protective Services Committee on June 16, 2026.
 
@@ -1143,7 +1143,7 @@ Unanimous (5-0)
 
 ### 3.1. 5th Report of the Environmental Stewardship and Action Community Advisory Committee
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That the delegation request from M. Blake Rose, with respect to this matter, BE APPROVED.
 

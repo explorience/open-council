@@ -894,7 +894,7 @@ The Strategic Priorities and Policy
 ### 2. 2014 Annual Report
   - Development Charges Reserve Funds
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -905,7 +905,7 @@ Unanimous (15-0)
 ### 3. Development Charges
   Rate Monitoring - 2015 Review
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -916,7 +916,7 @@ Unanimous (15-0)
 ### 4. Ontario Cultural
   Strategy Discussion Paper Submission
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -927,7 +927,7 @@ Unanimous (14-0)
 ### 5. Public Participation
   Meeting - Amendments to Consolidated Fees and Charges By-law
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -938,7 +938,7 @@ Unanimous (13-0)
 ### 5. Public Participation
   Meeting - Amendments to Consolidated Fees and Charges By-law
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -949,7 +949,7 @@ Unanimous (14-0)
 ### 5. Public Participation
   Meeting - Amendments to Consolidated Fees and Charges By-law
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -960,7 +960,7 @@ Unanimous (15-0)
 ### 6. London's Community
   Economic Road Map
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -971,7 +971,7 @@ Unanimous (14-0)
 ### 6. London's Community
   Economic Road Map
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -989,7 +989,7 @@ Unanimous (14-0)
 ### 6. London's Community
   Economic Road Map
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1000,7 +1000,7 @@ Unanimous (14-0)
 ### 7. Shift Rapid Transit
   Update
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1018,7 +1018,7 @@ Unanimous (14-0)
 ### 7. Shift Rapid Transit
   Update
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1036,7 +1036,7 @@ Unanimous (14-0)
 ### 7. Shift Rapid Transit
   Update
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1047,7 +1047,7 @@ Unanimous (15-0)
 ### 8. London &
   Middlesex Housing Corporation Board of Directors
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1058,7 +1058,7 @@ Unanimous (15-0)
 ### 8. London &
   Middlesex Housing Corporation Board of Directors
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1069,7 +1069,7 @@ Unanimous (15-0)
 ### 8. London &
   Middlesex Housing Corporation Board of Directors
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1080,7 +1080,7 @@ Unanimous (15-0)
 ### 9. Appointment of
   Deputy Mayor Appointed by Municipal Council
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1091,7 +1091,7 @@ Unanimous (15-0)
 ### 10. Committee
   Appointment Preferences submitted by Council Members
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1102,7 +1102,7 @@ Unanimous (15-0)
 ### 10. Committee
   Appointment Preferences submitted by Council Members
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1113,7 +1113,7 @@ Unanimous (15-0)
 ### 11. 7th Report of the
   Governance Working Group
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1131,7 +1131,7 @@ Unanimous (15-0)
 ### 11. 7th Report of the
   Governance Working Group
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1149,7 +1149,7 @@ Unanimous (15-0)
 ### 11. 7th Report of the
   Governance Working Group
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1167,7 +1167,7 @@ Unanimous (15-0)
 ### 11. 7th Report of the
   Governance Working Group
 
-<a id="motion-11-3" class="motion-anchor"></a>
+<div id="motion-11-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1184,7 +1184,7 @@ Unanimous (15-0)
 
 ### 12. Additional “As Needed” SPPC Meeting Dates
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion Passed
 

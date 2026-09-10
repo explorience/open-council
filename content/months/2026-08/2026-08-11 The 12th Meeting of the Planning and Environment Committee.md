@@ -939,7 +939,7 @@ The meeting adjourned at 3:49PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.2 to 2.3 BE APPROVED.
 
@@ -949,7 +949,7 @@ Unanimous (5-0)
 
 ### 2.1. Addition to the Affordable Housing Community Improvement Plan - Dollars to Doors Variable Affordability Program Guidelines
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That the staff report dated August 11, 2026, related to Addition to the Affordable Housing Community Improvement Plan - Dollars to Doors Variable Affordability Program Guidelines BE REFERRED to a future meeting of the Planning and Environment Committee to align with the Federal CMHC MLI Select de...
 
@@ -959,7 +959,7 @@ Unanimous (5-0)
 
 ### 3.1. 7th Report of the Community Advisory Committee on Planning
 
-<a id="motion-3-1-2" class="motion-anchor"></a>
+<div id="motion-3-1-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to part a) i) to read as follows: that the Civic Administration BE REQUESTED to report back to a future meeting of the Planning and Environment Committee with recommendations for implementation of a Heritage Property Tax Relief Program, including associated budget impac...
 
@@ -969,7 +969,7 @@ Unanimous (5-0)
 
 ### 3.1. 7th Report of the Community Advisory Committee on Planning
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -979,7 +979,7 @@ Unanimous (5-0)
 
 ### 3.3. 3080 and 3514 Bostwick Road, 1875 Wharncliffe Road South, and 3341 Wonderland Road South - OZ-26066
 
-<a id="motion-3-3-2" class="motion-anchor"></a>
+<div id="motion-3-3-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include a new part that reads as follows: d)    the Civic Administration BE DIRECTED to consider the provision of enhanced transit service in this area as part of the next update of the Master of Mobility Plan.
 
@@ -989,7 +989,7 @@ Unanimous (5-0)
 
 ### 3.3. 3080 and 3514 Bostwick Road, 1875 Wharncliffe Road South, and 3341 Wonderland Road South - OZ-26066
 
-<a id="motion-3-3-3" class="motion-anchor"></a>
+<div id="motion-3-3-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -999,7 +999,7 @@ Unanimous (5-0)
 
 ### 3.6. 1047-1055 Dearness Drive - OZ-26063
 
-<a id="motion-3-6-2" class="motion-anchor"></a>
+<div id="motion-3-6-2" class="motion-anchor"></div>
 
 > that the motion BE AMENDED in part c) to add a new part that reads as follows:    iii)    a privacy fence be constructed along the north boundary to ensure additional privacy for the neighbours.
 
@@ -1009,7 +1009,7 @@ Unanimous (5-0)
 
 ### 3.6. 1047-1055 Dearness Drive - OZ-26063
 
-<a id="motion-3-6-3" class="motion-anchor"></a>
+<div id="motion-3-6-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1026,7 +1026,7 @@ Unanimous (5-0)
 
 ### 4.1. Councillor S. Franke - Temporary Accommodation Commitments
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to review and report back to the Planning and Environment Committee to be held on September 9, 2026, related to the Temporary Accommodation Commitments for the residents at 145 Base Line Road West, including: a)    the status of the temporary accommodatio...
 
@@ -1036,7 +1036,7 @@ Unanimous (5-0)
 
 ### 4.1. Councillor S. Franke - Temporary Accommodation Commitments
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation request from K. Pagniello, Neighbourhood Legal Services, as appended to the added agenda, be heard at this time.
 

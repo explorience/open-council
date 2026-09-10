@@ -316,7 +316,7 @@ The meeting adjourned at 4:29 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.6 BE APPROVED.
 
@@ -326,7 +326,7 @@ Unanimous (6-0)
 
 ### 2.7. By-law and Vehicle Lease Agreements - Urban Animal Management Inc. and Tourism London
 
-<a id="motion-2-7-0" class="motion-anchor"></a>
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to Vehicle Lease Agreements for the London Animal Care Centre and Tourism London: a)           the proposed by-law, as appended to the staff ...
 
@@ -336,7 +336,7 @@ Unanimous (6-0)
 
 ### 2.8. Kilally Fields - Closing of Elgin Street on Registered Plan 325(C)
 
-<a id="motion-2-8-0" class="motion-anchor"></a>
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the proposed by-law, as appended to the staff report dated November 19, 2019, being "A By-law to stop up and close Elgin Street on Registered Plan 325(C), East of Adelaide", BE INTRODUC...
 

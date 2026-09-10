@@ -166,7 +166,7 @@ The meeting adjourned at 1:34 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 and 2.2 BE APPROVED.
 
@@ -176,7 +176,7 @@ Unanimous (6-0)
 
 ### 4.1. Council Policy - Mayor New Year's Honour List Policy
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the proposed by-law as appended to the staff report dated October 8, 2019, BE INTRODUCED at the Municipal Council Meeting to be held on October 15, 2019, to amend By-law No. CPOL.-18-214, as amended, being “Mayor’s New Year’s Honour List Policy” to add a new category of nomination, being “Di...
 
@@ -186,7 +186,7 @@ Unanimous (6-0)
 
 ### 5.1. Issuance of Proclamation Policy
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to review and report back to the Corporate Services Committee with respect to the City of London Issuance of Proclamation Policy, specifically in terms of acknowledging nationally recognized proclamations.
 

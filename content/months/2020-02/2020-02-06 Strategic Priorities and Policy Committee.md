@@ -1217,7 +1217,7 @@ The Strategic Priorities and Policy Committee recessed at 4:13 PM; it being note
 
 ### 4.7. Social and Health Services
 
-<a id="motion-4-7-1" class="motion-anchor"></a>
+<div id="motion-4-7-1" class="motion-anchor"></div>
 
 > a) the net 2020-2023 Multi-Year Operating Budget for the following services within Social and Health Services BE ADOPTED:    vi. Page 122 – Middlesex-London Health Unit excluding provincial impacts - $24,380,000
 
@@ -1227,7 +1227,7 @@ Unanimous (14-0)
 
 ### 4.7. Social and Health Services
 
-<a id="motion-4-7-2" class="motion-anchor"></a>
+<div id="motion-4-7-2" class="motion-anchor"></div>
 
 > a) the net 2020-2023 Multi-Year Operating Budget for the following services within Social and Health Services BE ADOPTED:    vii. Page 122 – Middlesex- London Health Unit recommended provincial impacts - $2,438,000
 
@@ -1237,7 +1237,7 @@ Unanimous (14-0)
 
 ### 4.7. Social and Health Services
 
-<a id="motion-4-7-3" class="motion-anchor"></a>
+<div id="motion-4-7-3" class="motion-anchor"></div>
 
 > a) the net 2020-2023 Multi-Year Operating Budget for the following services within Social and Health Services BE ADOPTED:    ix. Page 122 – Social and Community Support Services provincial impacts for consideration - $6,249,000
 
@@ -1254,7 +1254,7 @@ Unanimous (14-0)
 
 ### 4.7. Social and Health Services
 
-<a id="motion-4-7-4" class="motion-anchor"></a>
+<div id="motion-4-7-4" class="motion-anchor"></div>
 
 > b) the 2020-2023 Multi-Year Capital Budget for Social and Health Services BE ADOPTED:    i. Page 123 – Lifecycle Renewal Capital Budget - $11,217,000  ii. Page 123 – Growth Capital Budget - $0  iii. Page 123 – Service Improvement Capital Budget - $3,750,000
 
@@ -1264,7 +1264,7 @@ Unanimous (15-0)
 
 ### 4.7. Social and Health Services
 
-<a id="motion-4-7-5" class="motion-anchor"></a>
+<div id="motion-4-7-5" class="motion-anchor"></div>
 
 > c) the 2024-2029 Multi-Year Capital Forecast for Social and Health Services BE ADOPTED in principle:    i. Page 123 – Lifecycle Renewal Capital Forecast - $17,636,000  ii. Page 123 – Growth Capital Forecast - $0  iii. Page 123 – Service Improvement Capital Forecast - $5,000,000.
 
@@ -1274,7 +1274,7 @@ Unanimous (15-0)
 
 ### 4.8. Transportation Services
 
-<a id="motion-4-8-1" class="motion-anchor"></a>
+<div id="motion-4-8-1" class="motion-anchor"></div>
 
 > That Item a) iii) London Transit Commission provincial impacts for consideration, BE AMENDED, by adding the following: and that $2.6 million, from the one-time doubling of the federal gas tax funding BE USED to mitigate the provincial impact on public transit, with $866,000 allocated in each of 2...
 
@@ -1284,7 +1284,7 @@ Unanimous (15-0)
 
 ### 4.8. Transportation Services
 
-<a id="motion-4-8-2" class="motion-anchor"></a>
+<div id="motion-4-8-2" class="motion-anchor"></div>
 
 > a)      the net 2020-2023 Multi-Year Operating Budget for the following services within Transportation Services BE ADOPTED:    i. Page 131 – Parking - $(15,051,000)  ii. Page 131 – London Transit Commission excluding provincial impacts - $136,505,000    iv. Page 131 – Roadways - $183,961,000
 
@@ -1294,7 +1294,7 @@ Unanimous (15-0)
 
 ### 4.8. Transportation Services
 
-<a id="motion-4-8-4" class="motion-anchor"></a>
+<div id="motion-4-8-4" class="motion-anchor"></div>
 
 > That Item a) iii) London Transit Commission provincial impacts for consideration, as amended, BE APPROVED.
 
@@ -1311,7 +1311,7 @@ Unanimous (15-0)
 
 ### 4.8. Transportation Services
 
-<a id="motion-4-8-5" class="motion-anchor"></a>
+<div id="motion-4-8-5" class="motion-anchor"></div>
 
 > a)      the net 2020-2023 Multi-Year Operating Budget for the following services within Transportation Services BE ADOPTED:    v. Page 131 – Rapid Transit - $0
 
@@ -1328,7 +1328,7 @@ Unanimous (15-0)
 
 ### 4.8. Transportation Services
 
-<a id="motion-4-8-6" class="motion-anchor"></a>
+<div id="motion-4-8-6" class="motion-anchor"></div>
 
 > b)   the 2020-2023 Multi-Year Capital Budget for Transportation Services, excluding Victoria Bridge and Rapid Transit BE ADOPTED: i. Page 133 – Lifecycle Renewal Capital Budget - $208,366,000  ii. Page 133 – Growth Capital Budget - $245,963,000  iii. Page 133 – Service Improvement Capital Budget ...
 
@@ -1338,7 +1338,7 @@ Unanimous (15-0)
 
 ### 4.8. Transportation Services
 
-<a id="motion-4-8-7" class="motion-anchor"></a>
+<div id="motion-4-8-7" class="motion-anchor"></div>
 
 > b)     the 2020-2023 Multi-Year Capital Budget for Victoria Bridge BE ADOPTED: i. Page 133 – Lifecycle Renewal Capital Budget – $10,840,000  ii. Page 133 – Growth Capital Budget – $3,300,000
 
@@ -1355,7 +1355,7 @@ Unanimous (15-0)
 
 ### 4.8. Transportation Services
 
-<a id="motion-4-8-8" class="motion-anchor"></a>
+<div id="motion-4-8-8" class="motion-anchor"></div>
 
 > b)      the 2020-2023 Multi-Year Capital Budget for Rapid Transit BE ADOPTED: i. Page 133 – Growth Capital Budget - $257,563,000
 
@@ -1372,7 +1372,7 @@ Unanimous (15-0)
 
 ### 4.8. Transportation Services
 
-<a id="motion-4-8-9" class="motion-anchor"></a>
+<div id="motion-4-8-9" class="motion-anchor"></div>
 
 > c)      the 2024-2029 Multi-Year Capital Forecast for Transportation Services, excluding Rapid Transit BE ADOPTED in principle: i. Page 133 – Lifecycle Renewal Capital Forecast - $342,678,000  ii. Page 133 – Growth Capital Forecast - $330,517,000  iii. Page 133 – Service Improvement Capital Forec...
 
@@ -1382,7 +1382,7 @@ Unanimous (14-0)
 
 ### 4.8. Transportation Services
 
-<a id="motion-4-8-10" class="motion-anchor"></a>
+<div id="motion-4-8-10" class="motion-anchor"></div>
 
 > c)      the 2024-2029 Multi-Year Capital Forecast for Rapid Transit BE ADOPTED in principle: i. Page 133 – Growth Capital Forecast - $212,982,000
 
@@ -1399,7 +1399,7 @@ Unanimous (14-0)
 
 ### 4.9. Corporate, Operational and Council Services
 
-<a id="motion-4-9-1" class="motion-anchor"></a>
+<div id="motion-4-9-1" class="motion-anchor"></div>
 
 > a) the net 2020-2023 Multi-Year Operating Budget for the following services within Corporate, Operational and Council Services BE ADOPTED: i. Page 142 – Corporate Services - $238,396,000  ii. Page 142 – Corporate Planning and Administration - $8,623,000  iii. Page 142 – Council Services - $15,812...
 
@@ -1409,7 +1409,7 @@ Unanimous (15-0)
 
 ### 4.9. Corporate, Operational and Council Services
 
-<a id="motion-4-9-2" class="motion-anchor"></a>
+<div id="motion-4-9-2" class="motion-anchor"></div>
 
 > b) the 2020-2023 Multi-Year Capital Budget for Corporate, Operational and Council Services BE ADOPTED: i. Page 143 – Lifecycle Renewal Capital Budget - $51,726,000  ii. Page 143 – Growth Capital Budget - $0  iii. Page 143 – Service Improvement Capital Budget - $5,135,000
 
@@ -1419,7 +1419,7 @@ Unanimous (15-0)
 
 ### 4.9. Corporate, Operational and Council Services
 
-<a id="motion-4-9-3" class="motion-anchor"></a>
+<div id="motion-4-9-3" class="motion-anchor"></div>
 
 > c) the 2024-2029 Multi-Year Capital Forecast for Corporate, Operational and Council Services BE ADOPTED in principle: i. Page 143 – Lifecycle Renewal Capital Forecast - $79,180,000  ii. Page 143 – Growth Capital Forecast - $0  iii. Page 143 – Service Improvement Capital Forecast - $3,000,000.
 
@@ -1429,7 +1429,7 @@ Unanimous (15-0)
 
 ### 4.10. Financial Management
 
-<a id="motion-4-10-1" class="motion-anchor"></a>
+<div id="motion-4-10-1" class="motion-anchor"></div>
 
 > That the net 2020-2023 Multi-Year Operating Budget for the following within Financial Management BE ADOPTED: i. Page 149 – Capital Levy - $199,716,000  ii. Page 149 – Debt Servicing - $139,244,000    iv. Page 149 – Contingencies - $72,534,000  v. Page 149 – Other Corporate Revenue and Expenditure...
 
@@ -1439,7 +1439,7 @@ Unanimous (15-0)
 
 ### 4.10. Financial Management
 
-<a id="motion-4-10-2" class="motion-anchor"></a>
+<div id="motion-4-10-2" class="motion-anchor"></div>
 
 > That the net 2020-2023 Multi-Year Operating Budget for the following within Financial Management BE ADOPTED:    iii. Page 149 – Contributions to Capital Reserve Funds - $110,033,000
 
@@ -1449,7 +1449,7 @@ Unanimous (15-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-1" class="motion-anchor"></a>
+<div id="motion-4-11-1" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for potential net levy reductions BE APPROVED: i. Business Case 26 – Eliminate Curbside Christmas Tree Collection - 2020-2023 Total Investment ($120,000); Net Levy ($120,000)
 
@@ -1466,7 +1466,7 @@ Unanimous (15-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-2" class="motion-anchor"></a>
+<div id="motion-4-11-2" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for potential net levy reductions BE APPROVED: vi. Business Case 31 - Multi-Residential Sector Fee Increase for Waste Collection – 2020-2023 Total Investment $0; Net Levy ($900,000)
 
@@ -1483,7 +1483,7 @@ Unanimous (15-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-3" class="motion-anchor"></a>
+<div id="motion-4-11-3" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for potential net levy reductions BE APPROVED: viii. Business Case 33 - Reduce Road Network Improvements for Minor Streets – 2020-2023 Total Investment ($3,200,000); Net Levy ($3,200,000)
 
@@ -1500,7 +1500,7 @@ Unanimous (15-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-4" class="motion-anchor"></a>
+<div id="motion-4-11-4" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for potential net levy reductions BE APPROVED: ix. Business Case 34 - Transfer portion of Conservation Authority costs to Wastewater & Treatment Budget – 2020-2023 Total Investment ($11,544,000); Net Levy ($11,554,000).
 
@@ -1519,7 +1519,7 @@ Unanimous (15-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-1" class="motion-anchor"></a>
+<div id="motion-4-12-1" class="motion-anchor"></div>
 
 > That consideration of Business Cases 3A, 3B, 3C (Back to the River Business Cases) and 8 (Dearness Home Auditorium Expansion) BE REFERRED to later in the meeting agenda, to be heard at the end of item 4.13.
 
@@ -1529,7 +1529,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-3" class="motion-anchor"></a>
+<div id="motion-4-12-3" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: i. Business Case 1 – 60% Waste Diversion Action Plan – 2020-2023 Total: Investment $17,600,000; Net Levy $17,600,000
 
@@ -1548,7 +1548,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-4" class="motion-anchor"></a>
+<div id="motion-4-12-4" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: ii. Business Case 2 – Affordable Housing Community Improvement Plan – 2020-2023 Total: Investment $4,772,000; Net Levy $772,000
 
@@ -1567,7 +1567,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-5" class="motion-anchor"></a>
+<div id="motion-4-12-5" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: vi. Business Case 4A – City of London Infrastructure Gap – 2020-2023 Total: Investment $3,000,000; Net Levy $3,000,000
 
@@ -1577,7 +1577,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-6" class="motion-anchor"></a>
+<div id="motion-4-12-6" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: vii. Business Case 5A – Climate Emergency Declaration – Develop Action Plan – 2020-2023 Total: Investment $50,000; Net Levy $0
 
@@ -1596,7 +1596,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-7" class="motion-anchor"></a>
+<div id="motion-4-12-7" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: viii. Business Case 6 – Coordinated Informed Response – 2020-2023 Total: Investment $6,703,000; Net Levy $6,703,000
 

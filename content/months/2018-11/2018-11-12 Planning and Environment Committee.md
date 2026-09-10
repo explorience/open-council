@@ -1345,7 +1345,7 @@ The meeting adjourned at 10:58 PM
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.12, inclusive, BE APPROVED.
 
@@ -1355,7 +1355,7 @@ Unanimous (6-0)
 
 ### 3.4. Public Participation Meeting - Application - 131 King Street (Z-8902)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of York Development, relating to the property located at 131 King Street: a)            the proposed by-law appended to the staff report dated November 1...
 
@@ -1365,7 +1365,7 @@ Unanimous (6-0)
 
 ### 3.5. Public Participation Meeting - Application - 3080 Bostwick Road (Site 1) (OZ-8941)
 
-<a id="motion-3-5-1" class="motion-anchor"></a>
+<div id="motion-3-5-1" class="motion-anchor"></div>
 
 > That the applications submitted by 31675 Ontario Limited (York Developments), relating to Sites 1, 3 and 5, 3080 Bostwick Road BE REFERRED back to the Civic Administration to work with the applicant to complete the technical review and, where appropriate, prepare a Bonus Zone that would ‘lock in’...
 
@@ -1382,7 +1382,7 @@ Unanimous (6-0)
 
 ### 3.5. Public Participation Meeting - Application - 3080 Bostwick Road (Site 1) (OZ-8941)
 
-<a id="motion-3-5-2" class="motion-anchor"></a>
+<div id="motion-3-5-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road, referred to as Site 1: a)            the request to amend the Official Plan to add the site to the list of preferred locations...
 
@@ -1399,7 +1399,7 @@ Unanimous (6-0)
 
 ### 3.6. Public Participation Meeting - Application - 3080 Bostwick Road (Site 3) (Z-8942)
 
-<a id="motion-3-6-1" class="motion-anchor"></a>
+<div id="motion-3-6-1" class="motion-anchor"></div>
 
 > That the applications submitted by 31675 Ontario Limited (York Developments), relating to Sites 1, 3 and 5, 3080 Bostwick Road BE REFERRED back to the Civic Administration to work with the applicant to complete the technical review and, where appropriate, prepare a Bonus Zone that would ‘lock in’...
 
@@ -1416,7 +1416,7 @@ Unanimous (6-0)
 
 ### 3.6. Public Participation Meeting - Application - 3080 Bostwick Road (Site 3) (Z-8942)
 
-<a id="motion-3-6-2" class="motion-anchor"></a>
+<div id="motion-3-6-2" class="motion-anchor"></div>
 
 > That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of 31675 Ontario Ltd. (York Developments Inc.), relating to the property located at 3080 Bostwick Road referred to as Site 3: a)            the request to amend ...
 
@@ -1433,7 +1433,7 @@ Unanimous (6-0)
 
 ### 3.7. Public Participation Meeting - Application - 3080 Bostwick Road (Site 5) (OZ-8943)
 
-<a id="motion-3-7-1" class="motion-anchor"></a>
+<div id="motion-3-7-1" class="motion-anchor"></div>
 
 > That the applications submitted by 31675 Ontario Limited (York Developments), relating to Sites 1, 3 and 5, 3080 Bostwick Road BE REFERRED back to the Civic Administration to work with the applicant to complete the technical review and, where appropriate, prepare a Bonus Zone that would ‘lock in’...
 
@@ -1450,7 +1450,7 @@ Unanimous (6-0)
 
 ### 3.7. Public Participation Meeting - Application - 3080 Bostwick Road (Site 5) (OZ-8943)
 
-<a id="motion-3-7-2" class="motion-anchor"></a>
+<div id="motion-3-7-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road referred to as Site 5: a)            the request to amend the Official Plan to add the site to the list of preferred locations ...
 
@@ -1467,7 +1467,7 @@ Unanimous (6-0)
 
 ### 3.8. Public Participation Meeting - Application - 809 Dundas Street (Z-8875)
 
-<a id="motion-3-8-0" class="motion-anchor"></a>
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Paramount Development (London) Inc., relating to the property located at 809 Dundas Street: a)            the proposed by-law appended to the staff re...
 
@@ -1477,7 +1477,7 @@ Unanimous (4-0)
 
 ### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
 
-<a id="motion-3-9-0" class="motion-anchor"></a>
+<div id="motion-3-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of The Tricar Group, relating to the property located at 230 North Centre Road: a)         the proposed by-law appended to the staff report dated Novembe...
 
@@ -1496,7 +1496,7 @@ Unanimous (4-0)
 
 ### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
 
-<a id="motion-3-9-4" class="motion-anchor"></a>
+<div id="motion-3-9-4" class="motion-anchor"></div>
 
 > Referral to Staff to reduce the massing.
 
@@ -1515,7 +1515,7 @@ Unanimous (4-0)
 
 ### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
 
-<a id="motion-3-9-5" class="motion-anchor"></a>
+<div id="motion-3-9-5" class="motion-anchor"></div>
 
 > d)  the Civic Administration BE REQUESTED to investigate and report to the Civic Works Committee on the potential installation of a pedestrian crossover on North Centre Road;
 
@@ -1525,7 +1525,7 @@ Unanimous (5-0)
 
 ### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
 
-<a id="motion-3-9-3" class="motion-anchor"></a>
+<div id="motion-3-9-3" class="motion-anchor"></div>
 
 > Grant G. McGinn-McTeer an extension beyond 5 minutes.
 
@@ -1540,7 +1540,7 @@ Unanimous (5-0)
 
 ### 4.1. D. Broostad, Hamilton Road Area Business Association - Request for Amendment to Hamilton Road BIA By-laws
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the proposed amendments to the Hamilton Road Business Improvement Area By-law as requested by the Hamilton Road Business Improvement Area Board of Management as outlined in the commun...
 
@@ -1550,7 +1550,7 @@ Unanimous (4-0)
 
 ### 6. Confidential
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > (Confidential Appendix enclosed for Members only.) The Planning and Environment Committee convened in camera from 4:03 PM to 4:43 PM after having passed a motion to do so, with respect to the following matters: 6.1.  Litigation or Potential Litigation/Solicitor-Client Privilege     A matter perta...
 

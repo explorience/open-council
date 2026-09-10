@@ -127,7 +127,7 @@ Motion carries. Thanks everyone, have a great rest of your day.
 
 ### 2.1. Spring 2025 Debenture Issuance Update
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the issuance of serial debentures for a total of $26,200,000 BE APPROVED, noting the average all-in rate is 3.763% over a 10-year term and that all debt has been placed with investors i...
 

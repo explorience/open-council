@@ -199,7 +199,7 @@ Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-0" class="motion-anchor"></a>
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Approve Introduction and 1st Reading of   Bill No. 52.
 
@@ -216,7 +216,7 @@ Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Approve 2nd Reading of Bill No. 52.
 
@@ -233,7 +233,7 @@ Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-2" class="motion-anchor"></a>
+<div id="motion-xiii-2" class="motion-anchor"></div>
 
 > Approve 3rd Reading and Enactment of Bill   No. 52.
 

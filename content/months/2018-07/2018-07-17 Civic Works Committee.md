@@ -518,7 +518,7 @@ The meeting adjourned at 6:05PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Approve items 2.1 to 2.9
 
@@ -528,7 +528,7 @@ Unanimous (4-0)
 
 ### 4.1. King Street Bike Lanes - Public Submissions
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the cycle tracks located on King Street between Ridout Street and Colborne Street and the new north-south cycle track: a) the Managing Director, Environmental and Engineering Services and City Engineer BE DIRECTED to report back to the Civic Wo...
 
@@ -538,7 +538,7 @@ Unanimous (4-0)
 
 ### 4.2. Request for Delegation - D. Davis, Filthy Rebena Vintage
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That D. Davis BE GRANTED delegation status, with respect to the Dundas Street Construction.
 
@@ -548,7 +548,7 @@ Unanimous (4-0)
 
 ### 4.4. Presentation – Canadian Urban Transit Research and Innovation Consortium (CUTRIC)
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to make the necessary arrangements to invite Dr. Josipa Petrunic, Executive director and Chief Executive Officer of the Canadian Urban Transit Research and Innovation Consortium as a delegate before the September 17, 2018 meeting of the Strategic Priorities and Pol...
 
@@ -558,7 +558,7 @@ Unanimous (4-0)
 
 ### 4.5. Traffic Light - South Carriage Road and Hyde Park Road
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That staff BE DIRECTED to install traffic lights at South Carriage road and Hyde Park Road as soon as possible and identify a source of funding for the installation; it being noted that verbal presentations from D. Foster and D. Szapakowski were received, with respect to this matter.
 
@@ -568,7 +568,7 @@ Unanimous (4-0)
 
 ### 4.5. Traffic Light - South Carriage Road and Hyde Park Road
 
-<a id="motion-4-5-1" class="motion-anchor"></a>
+<div id="motion-4-5-1" class="motion-anchor"></div>
 
 > That D. Foster and D. Szpakowski BE Granted delegation status with respect to the Traffic Light-South Carriage Road and Hyde Park Road.
 
@@ -578,7 +578,7 @@ Unanimous (4-0)
 
 ### 4.6. Residential Damage - Storm Water Discharge
 
-<a id="motion-4-6-0" class="motion-anchor"></a>
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to storm sewer connections in residential areas: a)   the Civic Administration BE DIRECTED to report back to the Civic Works Committee providing an update with respect to the voluntary pilot project currently underway on Guildwood Boulevard to exte...
 

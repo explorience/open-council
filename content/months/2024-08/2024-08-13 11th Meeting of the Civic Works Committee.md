@@ -587,7 +587,7 @@ And with that, I am looking for a chairman, Councillor Frank and Councillor Ferr
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.3 to 2.6 BE APPROVED.
 
@@ -597,7 +597,7 @@ Unanimous (6-0)
 
 ### 4.1. Councillor S. Franke - Planned Green Municipal Fund Project Applications in the Next 12-24 Months Request
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > The communication dated July 11, 2024, from Councillor S. Franke, with respect to a request for a report back to a future meeting of the Civic Works Committee regarding the Planned Green Municipal Fund Project Applications in the next 12-24 months BE REFERRED to the Strategic Priorities and Polic...
 
@@ -607,7 +607,7 @@ Unanimous (6-0)
 
 ### 4.2. Councillor H. McAlister - Update to the Hamilton Road Streetscape Master Plan
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Motion to amend the motion to remove "including, but not limited to" from part a) of the main motion and insert "which could include" in its place.
 
@@ -617,7 +617,7 @@ Unanimous (6-0)
 
 ### 4.2. Councillor H. McAlister - Update to the Hamilton Road Streetscape Master Plan
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > Motion to approve the motion, as amended.
 

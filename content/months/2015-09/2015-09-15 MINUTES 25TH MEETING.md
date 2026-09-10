@@ -704,7 +704,7 @@ Motion Passed
   AND SIGNING OF THE MINUTES OF THE TWENTY-FOURTH MEETING HELD ON SEPTEMBER 1,
   2015
 
-<a id="motion-vi-1" class="motion-anchor"></a>
+<div id="motion-vi-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -714,7 +714,7 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -724,7 +724,7 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -734,7 +734,7 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -745,7 +745,7 @@ Unanimous (15-0)
 ### 3. Community Mailbox
   Installation Agreement
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -756,7 +756,7 @@ Unanimous (15-0)
 ### 14. Residential
   Development
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion Passed
 

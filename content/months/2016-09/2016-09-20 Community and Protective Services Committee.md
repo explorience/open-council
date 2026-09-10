@@ -328,7 +328,7 @@ C-3      ADDED
 ### 2. Museum London
   Endowment Fund
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -341,7 +341,7 @@ Unanimous (5-0)
   Health Partner Gateway Portal - The Corporation of the City of London -
   Dearness Home
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -353,7 +353,7 @@ Unanimous (3-0)
 ### 5. DELEGATION - Jill
   Tansley, Manager, Strategic Programs & Partnership
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -365,7 +365,7 @@ Unanimous (5-0)
 ### 6. 8th Report of the
   London Diversity and Race Relations Advisory Committee
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed    Voting   Record:   Motion   to approve part a).
 
@@ -384,7 +384,7 @@ Unanimous (5-0)
 ### 7. 8th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -396,7 +396,7 @@ Unanimous (3-0)
 ### 8. Deferred Matters
   List
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -408,7 +408,7 @@ Unanimous (3-0)
 ### 9. ADDED - COUNCILLOR
   SUBMISSION - Heritage Properties – Property Standards By-law
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -420,7 +420,7 @@ Unanimous (4-0)
 ### 10. ADDED – Upcoming Meetings of the Community
   and Protective Services Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

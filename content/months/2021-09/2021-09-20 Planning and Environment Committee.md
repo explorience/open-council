@@ -760,7 +760,7 @@ chair i'm prepared to receive and file i'm not prepared to uh as a committee end
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 and 2.2, inclusive, BE APPROVED.
 
@@ -770,7 +770,7 @@ Unanimous (4-0)
 
 ### 3.4. 250-272 Springbank Drive (OZ-9310)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development the following actions be taken with respect to the application of 2355440 Ontario Inc., relating to the property located at 250-272 Springbank Drive: a)    the proposed by-law appended to the staff report dated September 20, 20...
 
@@ -780,7 +780,7 @@ Unanimous (4-0)
 
 ### 3.5. Argyle Core Area Community Improvement Plan (O-9299)
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development and Interim Director, Economic Services and Supports, the following actions BE TAKEN with respect to the Argyle Core Area Community Improvement Plan (CIP): a)    the proposed by-law appended to the staff report dated September ...
 
@@ -790,7 +790,7 @@ Unanimous (4-0)
 
 ### 4.1. 9th Report of the London Advisory Committee on Heritage
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the 9th Report of the London Advisory Committee on Heritage, from its meeting held on September 8, 2021, BE RECIEVED for information.
 

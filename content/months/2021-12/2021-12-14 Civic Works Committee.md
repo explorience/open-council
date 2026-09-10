@@ -493,7 +493,7 @@ So all in favor of adjournment and parting ways today, the motion is passed. Tha
 
 ### 1.2. Election of Vice-Chair for the term ending November 14, 2022
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > That Councillor J. Fyfe-Millar BE ELECTED Vice-Chair of the Civic Works Committee for the term ending November 14, 2022.
 
@@ -503,7 +503,7 @@ Unanimous (5-0)
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 and 2.3 BE APPROVED.
 
@@ -513,7 +513,7 @@ Unanimous (6-0)
 
 ### 2.2. Supply and Delivery of Transit Signal Priority and Emergency Vehicle Preemption System
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated December 14, 2021, related to RFP21-08 Transit Signal Priority and Emergency Vehicle Preemption System: a)        Applied Information Inc. ...
 
@@ -523,7 +523,7 @@ Unanimous (6-0)
 
 ### 4.1. A Conceptual Framework for Regional Transportation in London
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated December 14, 2021, related to regional transportation in Southwestern Ontario: a)        the conceptual framework for regional transport...
 

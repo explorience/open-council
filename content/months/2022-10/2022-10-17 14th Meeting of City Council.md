@@ -2220,7 +2220,7 @@ That motion's carried. Thanks, meeting adjourned.
 
 ### 8.1. 13th Report of the Civic Works Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 13th Report of the Civic Works Committee, BE APPROVED.
 
@@ -2230,7 +2230,7 @@ Unanimous (15-0)
 
 ### 8.2. 11th Report of the Community and Protective Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That Items 1 to 4 of the 11th Report of the Community and Protective Services Committee, BE APPROVED.
 
@@ -2240,7 +2240,7 @@ Unanimous (15-0)
 
 ### 8.2.5. (3.1) Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location
 
-<a id="motion-8-2-5-0" class="motion-anchor"></a>
+<div id="motion-8-2-5-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the staff report, dated October 4, 2022, with respect to the Adult Live Entertainment Parlour located at 2010 Dundas Street – Deletion of Location: a)    the Civic Administration BE DIRECTED to provide the Community and Protective Services Commi...
 
@@ -2257,7 +2257,7 @@ Unanimous (15-0)
 
 ### 8.2.6. (5.1) Deferred Matters List
 
-<a id="motion-8-2-6-1" class="motion-anchor"></a>
+<div id="motion-8-2-6-1" class="motion-anchor"></div>
 
 > Motion to approve Item 1 of the Deferred Matters List.
 
@@ -2267,7 +2267,7 @@ Unanimous (14-0)
 
 ### 8.2.6. (5.1) Deferred Matters List
 
-<a id="motion-8-2-6-2" class="motion-anchor"></a>
+<div id="motion-8-2-6-2" class="motion-anchor"></div>
 
 > Motion to approve the balance of the Deferred Matters List.
 
@@ -2277,7 +2277,7 @@ Unanimous (15-0)
 
 ### 8.2.7. (5.2) Councillor M. Van Holst - Zoning Amendment to Permit a Pilot of Temporary Mobile Shelters
 
-<a id="motion-8-2-7-2" class="motion-anchor"></a>
+<div id="motion-8-2-7-2" class="motion-anchor"></div>
 
 > That the communications from Councillor M. van Holst, as well as the proposed amendment to the clause BE REFERRED to the ongoing ReThink Zoning process, in order to consider the use of temporary mobile shelters, including on lands zoned for places of worship.
 
@@ -2294,7 +2294,7 @@ Unanimous (15-0)
 
 ### 8.3. 13th Report of the Corporate Services Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 13th Report of the Corporate Services Committee, BE APPROVED.
 
@@ -2304,7 +2304,7 @@ Unanimous (15-0)
 
 ### 8.4. 16th Report of the Planning and Environment Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 16th Report of the Planning and Environment Committee BE APPROVED.
 
@@ -2314,7 +2314,7 @@ Unanimous (15-0)
 
 ### 8.5. 17th Report of the Planning and Environment Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That Items 1, 2 and  4 of the 17th Report of the Planning and Environment Committee, BE APPROVED.
 
@@ -2324,7 +2324,7 @@ Unanimous (15-0)
 
 ### 8.5.3. (3.2) 4452 Wellington Road South (OZ-9497) (Relates to Bill No.'s 367 and 378)
 
-<a id="motion-8-5-3-1" class="motion-anchor"></a>
+<div id="motion-8-5-3-1" class="motion-anchor"></div>
 
 > That consideration of Item 3 (3.2) BE REFERRED back to the Planning and Environment Committee in order to facilitate an additional public participation meeting; it being noted that a broader circulation of notice for the PPM meeting is required.
 
@@ -2341,7 +2341,7 @@ Unanimous (15-0)
 
 ### 8.5.5. (3.4) 366 Hill Street (Z-9511) (Relates to Bill No. 380)
 
-<a id="motion-8-5-5-2" class="motion-anchor"></a>
+<div id="motion-8-5-5-2" class="motion-anchor"></div>
 
 > Clause 3.4, as amended, BE APPROVED.
 
@@ -2351,7 +2351,7 @@ Unanimous (15-0)
 
 ### 8.5.6. (3.5) 1156 Dundas Street (39T-21508 / Z-9524 / O-9545) (Relates to Bill No.'s 368, 381 and 382)
 
-<a id="motion-8-5-6-1" class="motion-anchor"></a>
+<div id="motion-8-5-6-1" class="motion-anchor"></div>
 
 > That Item 6 (3.5) BE AMENDED to read as follows: That the following actions be taken with respect to the application by McCormick Villages Inc., relating to lands located at 1156 Dundas Street: a) the proposed by-law appended to the staff report dated October 5, 2022 as Appendix "B" BE INTRODUCED...
 
@@ -2361,7 +2361,7 @@ Unanimous (15-0)
 
 ### 8.5.6. (3.5) 1156 Dundas Street (39T-21508 / Z-9524 / O-9545) (Relates to Bill No.'s 368, 381 and 382)
 
-<a id="motion-8-5-6-2" class="motion-anchor"></a>
+<div id="motion-8-5-6-2" class="motion-anchor"></div>
 
 > That clause 3.5, as amended, BE APPROVED.
 
@@ -2371,7 +2371,7 @@ Unanimous (15-0)
 
 ### 8.6. 14th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Strategic Priorities and Policy Committee, BE APPROVED.
 

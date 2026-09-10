@@ -749,7 +749,7 @@ The meeting adjourns at 10:02 PM.
 
 ### 2.2. Response to London Middlesex Housing Corporation (LMHC) Requested Changes to the Articles of Incorporation and PricewaterhouseCoopers Internal Audit Report
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > That the request for delegation status from London & Middlesex Community Housing BE APPROVED to be heard at this time.
 
@@ -759,7 +759,7 @@ Unanimous (15-0)
 
 ### 2.2. Response to London Middlesex Housing Corporation (LMHC) Requested Changes to the Articles of Incorporation and PricewaterhouseCoopers Internal Audit Report
 
-<a id="motion-2-2-3" class="motion-anchor"></a>
+<div id="motion-2-2-3" class="motion-anchor"></div>
 
 > To ensure it is maximizing its investment in housing, civic administration BE DIRECTED to undertake a review of the delivery of housing programs and services that are specific to the shareholder agreement between the City and London Middlesex Community Housing Corporation (“LMCH”) as well as the ...
 
@@ -769,7 +769,7 @@ Unanimous (15-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That the following vision statement BE APPROVED for the 2019-2023 Strategic Plan: "A leader in commerce, culture, and innovation - our region’s connection to the World".
 
@@ -788,7 +788,7 @@ Unanimous (15-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-2" class="motion-anchor"></a>
+<div id="motion-3-1-2" class="motion-anchor"></div>
 
 > That the following proposed mission statement BE APPROVED for the 2019-2023 Strategic Plan: "A responsive and modern public service partner that fosters change to build a better London for all."
 
@@ -805,7 +805,7 @@ Unanimous (15-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That the following proposed values BE APPROVED for the 2019-2023 Strategic Plan: “Good governance, driven by community, acting with compassion, moving forward through innovation.”
 
@@ -822,7 +822,7 @@ Unanimous (15-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-4" class="motion-anchor"></a>
+<div id="motion-3-1-4" class="motion-anchor"></div>
 
 > That staff be directed to work with the London Abused Women’s Centre, in follow-up to the attached letter of March 4th, to add a draft outcome and strategies to support  efforts to reduce violence against women in our community and support victims of violence, for council’s consideration in the S...
 
@@ -832,7 +832,7 @@ Unanimous (15-0)
 
 ### 4.2. Resignation from Councillor A. Kayabaga from the London Public Library Board and the Elgin Area Primary Water Supply Board
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the resignation of Councillor A. Kayabaga from the London Public Library Board and the Elgin Area Primary Water Supply System Joint Board of Management: a)    the resignations BE ACCEPTED;
 
@@ -842,7 +842,7 @@ Unanimous (15-0)
 
 ### 4.2. Resignation from Councillor A. Kayabaga from the London Public Library Board and the Elgin Area Primary Water Supply Board
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > b)    Councillor S. Lewis BE APPOINTED to the London Public Library Board, for the term ending November 15, 2022;
 
@@ -852,7 +852,7 @@ Unanimous (15-0)
 
 ### 4.2. Resignation from Councillor A. Kayabaga from the London Public Library Board and the Elgin Area Primary Water Supply Board
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > c)    Councillor S. Lehman BE APPOINTED as an Alternate member to the Elgin Area Primary Water Supply System Joint Board of Management, for the term ending November 15, 2022.
 
@@ -862,7 +862,7 @@ Unanimous (15-0)
 
 ### 4.3. Request for a Shareholder's Meeting - Housing Development Corporation, London
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2018 Annual General Meeting of the Shareholder for the Housing Development Corporation, London: a)         the 2018 Annual General Meeting of the Shareholder for the Housing Development Corporation, London BE HELD at a meeting of the Strateg...
 
@@ -872,7 +872,7 @@ Unanimous (15-0)
 
 ### 4.4. Confirmation of Appointment to the Old East Village Business Improvement Area
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That Robert Campbell BE APPOINTED to the Old East Village Business Improvement Area Board of Management until April 2019 or until the successors are appointed.
 
@@ -882,7 +882,7 @@ Unanimous (15-0)
 
 ### 4.5. Confirmation of Appointments to the London Downtown Business Association Board of Directors
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That consideration of appointments to the London Downtown Business Association Board of Directors, as outlined on the correspondence dated January 31, 2019 with respect to this matter, BE DEFERRED to a future meeting of the Strategic Priorities and Policy Committee.
 
@@ -899,7 +899,7 @@ Unanimous (15-0)
 
 ### 4.6. Request for Rapid Transit and Other Transportation Seeking Public Transit Infrastructure Stream (PTIS) Funding be Directed to the Strategic Priorities and Policy Committee
 
-<a id="motion-4-6-1" class="motion-anchor"></a>
+<div id="motion-4-6-1" class="motion-anchor"></div>
 
 > The Civic Administration BE DIRECTED to:    a)       consign to meetings of the Strategic Priorities and Policy Committee (SPPC) all major Bus Rapid Transit (BRT) related matters, including but not limited to reports, presentations and Councillor submissions that have regard to Rapid Transit or a...
 

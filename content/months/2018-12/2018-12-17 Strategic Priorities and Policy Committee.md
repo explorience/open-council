@@ -588,7 +588,7 @@ The meeting adjourned at 6:48 PM.
 
 ### 4.1. 2019 Development Charges Study - Update on Draft Rates
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the following delegations, related to the 2019 Development Charges Study, BE APPROVED to be heard at this time: a)    S. Levin, A. Beaton and A. Stratton; b)    B. Veitch, London Development Institute; and, c)    L. Langdon; it being noted that L. Langdon was not in attendance.
 
@@ -598,7 +598,7 @@ Unanimous (14-0)
 
 ### 4.1. 2019 Development Charges Study - Update on Draft Rates
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That questions from Committee Members, to the delegates BE PERMITTED, with respect to Development Charges Study.
 
@@ -615,7 +615,7 @@ Unanimous (14-0)
 
 ### 4.2. 2019 Development Charges Study - Non-Residential Rate Review
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Development and Compliance Services & Chief Building Official, with the concurrence of the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer, the following actions be taken:    a)    the Institutional, Commercial,...
 
@@ -625,7 +625,7 @@ Unanimous (15-0)
 
 ### 4.3. Confirmation of Appointments to the Hyde Park Business Improvement Association
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the following individuals BE APPOINTED to the Hyde Park Business Improvement Area for the term ending November 15, 2022;    Nancy Moffatt Quinn  Christine Buchanan  Terryanne Daniel  Lorean Pritchard  Tom Delaney  Mandi Hurst
 
@@ -635,7 +635,7 @@ Unanimous (15-0)
 
 ### 4.4. Consideration of Appointments to the Plumbers' and Drain Layers' Examining Board
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That D. Brouwer and M. Salliss BE APPOINTED to the Plumbers' and Drain Layers' Examining Board for the term ending November 15, 2022.
 
@@ -645,7 +645,7 @@ Unanimous (15-0)
 
 ### 4.5. Consideration of Appointment to the Committee of Revision/Court of Revision
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That K. May BE APPOINTED to the Committee of Revision/Court of Revision for the term ending November 15, 2022.
 
@@ -655,7 +655,7 @@ Unanimous (15-0)
 
 ### 4.6. Ranked Ballot Results for the London Transit Commission
 
-<a id="motion-4-6-0" class="motion-anchor"></a>
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > That T. Park, S.L. Rooth and T. Khan BE APPOINTED to the London Transit Commission for the term ending November 15, 2022, in accordance with the ranked ballot appended to the meeting agenda.
 
@@ -672,7 +672,7 @@ Unanimous (15-0)
 
 ### 4.7. Ranked Ballot Results for the Tourism London Board of Directors
 
-<a id="motion-4-7-0" class="motion-anchor"></a>
+<div id="motion-4-7-0" class="motion-anchor"></div>
 
 > That Councillors A. Kayabaga and S. Lewis BE APPOINTED to the Tourism London Board of Directors for the term ending November 15, 2022, in accordance with the ranked ballot appended to the meeting agenda.
 
@@ -682,7 +682,7 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) Appointments
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the Lake Huron Primary Water Supply System Joint Board of Management, the Kettle Creek Conservation Authority and the Middlesex-London Food Policy Council: a)         the resignation of Councillor E. Peloza from the Lake Huron Pr...
 
@@ -692,7 +692,7 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) Appointments
 
-<a id="motion-5-1-2" class="motion-anchor"></a>
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > That S. Lewis BE APPOINTED as a member on the Middlesex-London Food Policy Council for the term ending November 30, 2020.
 

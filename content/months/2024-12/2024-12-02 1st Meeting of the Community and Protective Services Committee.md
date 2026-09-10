@@ -829,7 +829,7 @@ All those opposed? That motion carries. Where is your?
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5, 2.7 to 2.9 and 2.11 to 2.13 BE APPROVED.
 
@@ -839,7 +839,7 @@ Unanimous (4-0)
 
 ### 2.10. Property Standards By-law CP-24 - Amendments Related to Minimum Headroom and Information Regarding the Tenant-Landlord Forum
 
-<a id="motion-2-10-0" class="motion-anchor"></a>
+<div id="motion-2-10-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated December 2, 2024, related to Property Standards By-law CP-24 Amendments Related to Minimum Headroom and Information Regarding the Tenan...
 
@@ -856,7 +856,7 @@ Unanimous (4-0)
 
 ### 2.10. Property Standards By-law CP-24 - Amendments Related to Minimum Headroom and Information Regarding the Tenant-Landlord Forum
 
-<a id="motion-2-10-1" class="motion-anchor"></a>
+<div id="motion-2-10-1" class="motion-anchor"></div>
 
 > Motion to amend part b) to read as follows: b) that the matter of reducing minimum headroom requirements BE REFERRED back to Civic Administration to bring forward a report to a future meeting of the Community and Protective Services Committee with further details regarding the amendment including...
 
@@ -873,7 +873,7 @@ Unanimous (4-0)
 
 ### 2.14. Special Events Policy Update
 
-<a id="motion-2-14-0" class="motion-anchor"></a>
+<div id="motion-2-14-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated December 2, 2024, related to the Special Events Policy: a)    the proposed by-law, as appended to the above-noted staff report,...
 

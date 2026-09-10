@@ -2321,7 +2321,7 @@ Councillor McAllister with a second, and by hand, all in favor. Motion carries. 
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Consent Item 2.2 BE APPROVED.
 
@@ -2331,7 +2331,7 @@ Unanimous (15-0)
 
 ### 2.1. Diversity, Race Relations and Inclusivity Awards Policy Amendments
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That the staff report dated June 16, 2026, with respect to amendments to the Diversity, Race Relations and Inclusivity Awards Policy, BE REFERRED to the Civic Administration for consultation with the London Chamber of Commerce regarding the potential to recognize diversity, race relations and inc...
 
@@ -2341,7 +2341,7 @@ Unanimous (11-0)
 
 ### 3.1. Not to be heard before 1:05 PM - London & Middlesex Community Housing - 2025 Annual General Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That pursuant to section 36.3 of the Council Procedure By-law, the London & Middlesex Community Housing BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
 
@@ -2351,7 +2351,7 @@ Unanimous (15-0)
 
 ### 3.1. Not to be heard before 1:05 PM - London & Middlesex Community Housing - 2025 Annual General Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-1-2" class="motion-anchor"></a>
+<div id="motion-3-1-2" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 
@@ -2368,7 +2368,7 @@ Unanimous (15-0)
 
 ### 4.1. The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Manager, the following actions be taken with respect to the report dated June 16, 2026, with regard to “The Centre of Opportunity: London’s Economic Development Strategy (2026-2030) and Implementation Plan”: a)    “The Centre of Opportunity: London’s Econom...
 
@@ -2385,7 +2385,7 @@ Unanimous (15-0)
 
 ### 4.1. The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation requests from M. Wallace, Executive Director, London Development Institute, K. Morrison, Executive Director, Old East Village BIA and V. Smith, Interim Executive Director, Downtown London BE APPROVED to heard at this time.
 
@@ -2395,7 +2395,7 @@ Unanimous (15-0)
 
 ### 4.1. The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor C. Rahman BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 
@@ -2405,7 +2405,7 @@ Unanimous (14-0)
 
 ### 4.2. Downtown Reimagined: City of London Downtown Plan
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the delegation requests from M. Wallace, Executive Director, London Development Institute, K. Morrison, Executive Director, Old East Village BIA and V. Smith, Interim Executive Director, Downtown London BE APPROVED to heard at this time.
 
@@ -2415,7 +2415,7 @@ Unanimous (15-0)
 
 ### 4.2. Downtown Reimagined: City of London Downtown Plan
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > That the Committee recess at this time, for 10 minutes.
 
@@ -2425,7 +2425,7 @@ Unanimous (15-0)
 
 ### 4.2. Downtown Reimagined: City of London Downtown Plan
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > That the staff report dated June 16, 2026, entitled “Downtown Reimagined: City of London Downtown Plan”, BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee to allow the Civic Administration to undertake additional consultation with downtown community partners with re...
 
@@ -2444,7 +2444,7 @@ Unanimous (15-0)
 
 ### 4.2. Downtown Reimagined: City of London Downtown Plan
 
-<a id="motion-4-2-4" class="motion-anchor"></a>
+<div id="motion-4-2-4" class="motion-anchor"></div>
 
 > That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -2454,7 +2454,7 @@ Unanimous (14-0)
 
 ### 4.2. Downtown Reimagined: City of London Downtown Plan
 
-<a id="motion-4-2-5" class="motion-anchor"></a>
+<div id="motion-4-2-5" class="motion-anchor"></div>
 
 > That the following part BE APPROVED: b)   the actions identified in this Plan, that can be accommodated within existing approved budgets, BE IMPLEMENTED;
 
@@ -2473,7 +2473,7 @@ Unanimous (14-0)
 
 ### 4.2. Downtown Reimagined: City of London Downtown Plan
 
-<a id="motion-4-2-7" class="motion-anchor"></a>
+<div id="motion-4-2-7" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 3 minutes with respect to this matter.
 
@@ -2492,7 +2492,7 @@ Unanimous (14-0)
 
 ### 4.2. Downtown Reimagined: City of London Downtown Plan
 
-<a id="motion-4-2-8" class="motion-anchor"></a>
+<div id="motion-4-2-8" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, His Worship Mayor J. Morgan, BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 
@@ -2511,7 +2511,7 @@ Unanimous (14-0)
 
 ### 4.3. Request for Province-Wide Deposit-Return for Non-Alcoholic Beverage Containers - Councillors S. Franke and H. McAlister
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the Mayor and Councillor A. Hopkins BE REQUESTED to advocate, through the Ontario Big City Mayors Caucus and the Association of Municipalities of Ontario for a province-wide deposit-return program for non-alcoholic beverage containers; it being noted that the Strategic Priorities and Policy ...
 

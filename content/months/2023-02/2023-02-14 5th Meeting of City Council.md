@@ -3629,7 +3629,7 @@ We are adjourned. Happy Valentine's Day.
 
 ### 8.1. 3rd Report of the Community and Protective Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the items 1 to 9 (2.8) of 3rd Report of the Community and Protective Services Committee, BE APPROVED.
 
@@ -3639,7 +3639,7 @@ Unanimous (15-0)
 
 ### 8.1.10. (2.9) Housing Stability Services Purchase of Service Agreement Template (Relates to Bill No. 52)
 
-<a id="motion-8-1-10-0" class="motion-anchor"></a>
+<div id="motion-8-1-10-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the proposed by-law, as appended to the staff report dated January 31, 2023, BE INTRODUCED at the Municipal Council meeting to be held on February 14, 2023, to: a)    approve the Municipal Purchase of Service A...
 
@@ -3656,7 +3656,7 @@ Unanimous (15-0)
 
 ### 8.1.11. (4.1) Exotic Animal Establishments
 
-<a id="motion-8-1-11-0" class="motion-anchor"></a>
+<div id="motion-8-1-11-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the staff report, dated January 31, 2023, related to Exotic Animal Establishments: a)    the revised attached proposed by-laws, BE REFERRED to a future meeting of the Community and Protective Services Committee for a public participation meeting...
 
@@ -3673,7 +3673,7 @@ Unanimous (15-0)
 
 ### 8.2.6. (2.5) Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation - Wellington Street from Queens Avenue to the Thames River (South Branch) - Irregular Result
 
-<a id="motion-8-2-6-0" class="motion-anchor"></a>
+<div id="motion-8-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 31, 2023, related to the award of contracts for Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames ...
 
@@ -3690,7 +3690,7 @@ Unanimous (15-0)
 
 ### 8.3. 7th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 7th Report of the Strategic Priorities and Policy Committee BE APPROVED.
 
@@ -3700,7 +3700,7 @@ Unanimous (14-0)
 
 ### 8.4. 8th Report of the Strategic Priorities and Policy Committee - Budget
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding items 3 (4.1) and 10 (4.8).
 
@@ -3710,7 +3710,7 @@ Unanimous (15-0)
 
 ### 8.4.3. (4.1) Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
 
-<a id="motion-8-4-3-1" class="motion-anchor"></a>
+<div id="motion-8-4-3-1" class="motion-anchor"></div>
 
 > Motion to approve item 3, clause 4.1, excluding part b) ii) Case #P-2b - Reduction in Child Care Investment. That the following actions be taken with respect to the 2023 Annual Budget Update: a)    Case #P-1 - Various Services - Budget Right-Sizing - Operating Expenditure ($2,900,000); Tax Levy (...
 
@@ -3720,7 +3720,7 @@ Unanimous (15-0)
 
 ### 8.4.3. (4.1) Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
 
-<a id="motion-8-4-3-2" class="motion-anchor"></a>
+<div id="motion-8-4-3-2" class="motion-anchor"></div>
 
 > Motion to approve part b) ii) of item 3, clause 4.1. ii)     Case #P-2b - Reduction in Child Care Investment in 2023 due to Transitional Funding Availability, Case #P-2c - Partial Deferral of Expansion Child Care Investment in 2023 due to COVID-19 Impacts - Operating Expenditure ($232,000); Tax L...
 
@@ -3730,7 +3730,7 @@ Unanimous (14-0)
 
 ### 8.4.10. (4.8) Operating Budget
 
-<a id="motion-8-4-10-1" class="motion-anchor"></a>
+<div id="motion-8-4-10-1" class="motion-anchor"></div>
 
 > That item 10, clause 4.8 BE AMENDED by adding the following: a)    That City Staff BE DIRECTED to take the administrative actions required to maintain the washroom opening hours provided at the Dundas Place Fieldhouse and Victoria Park for the remainder of 2023 (or until further information regar...
 
@@ -3740,7 +3740,7 @@ Unanimous (15-0)
 
 ### 8.4.10. (4.8) Operating Budget
 
-<a id="motion-8-4-10-2" class="motion-anchor"></a>
+<div id="motion-8-4-10-2" class="motion-anchor"></div>
 
 > Item 10, clause 4.8, as amended, BE APPROVED.
 
@@ -3750,7 +3750,7 @@ Unanimous (15-0)
 
 ### 8.5. 9th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 9th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding item 4 (4.2).
 
@@ -3760,7 +3760,7 @@ Unanimous (15-0)
 
 ### 8.5.4. (4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-8-5-4-1" class="motion-anchor"></a>
+<div id="motion-8-5-4-1" class="motion-anchor"></div>
 
 > That item 4, clause 4.2 BE AMENDED in part c) to read as follows: c)  that all three Draft Value sets, BE ACCEPTED for additional consultation with the public;
 
@@ -3777,7 +3777,7 @@ Unanimous (15-0)
 
 ### 8.5.4. (4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-8-5-4-2" class="motion-anchor"></a>
+<div id="motion-8-5-4-2" class="motion-anchor"></div>
 
 > Consideration of Draft Value Sets 1. An affordable, prosperous, inclusive and healthy city for all Londoners. Sustainable and forward thinking through positive collaborations. Open and transparent decision making in the public interest to foster trust.  2. Inclusive and Respectful Accountability ...
 
@@ -3790,7 +3790,7 @@ Unanimous (15-0)
 
 ### 8.5.4. (4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-8-5-4-3" class="motion-anchor"></a>
+<div id="motion-8-5-4-3" class="motion-anchor"></div>
 
 > Consideration of Draft Value Sets 1. An affordable, prosperous, inclusive and healthy city for all Londoners. Sustainable and forward thinking through positive collaborations. Open and transparent decision making in the public interest to foster trust.  2. Inclusive and Respectful Accountability ...
 
@@ -3803,7 +3803,7 @@ Unanimous (15-0)
 
 ### 8.5.4. (4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-8-5-4-4" class="motion-anchor"></a>
+<div id="motion-8-5-4-4" class="motion-anchor"></div>
 
 > That item 4, clause 4.2 BE AMENDED in part c) to read as follows: c)    the following Draft Value set, BE ACCEPTED for additional consultation with the public: 2.    Inclusive and Respectful Accountability and Trust Compassion Teamwork Committed and Driven Learning
 
@@ -3820,7 +3820,7 @@ Unanimous (15-0)
 
 ### 8.5.4. (4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-8-5-4-5" class="motion-anchor"></a>
+<div id="motion-8-5-4-5" class="motion-anchor"></div>
 
 > Item 4, clause 4.2, as amended, BE APPROVED.
 
@@ -3830,7 +3830,7 @@ Unanimous (15-0)
 
 ### 8.6. 3rd Report of the Planning and Environment Committee
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 3rd Report of the Planning and Environment Committee BE APPROVED, excluding items 10 (3.4) and 11 (3.5); it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal Counc...
 
@@ -3840,7 +3840,7 @@ Unanimous (15-0)
 
 ### 8.6.10. (3.4) 489 Upper Queen Street (Z-9540) (Relates to Bill No. 66)
 
-<a id="motion-8-6-10-0" class="motion-anchor"></a>
+<div id="motion-8-6-10-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, based on the application by 2863382 Ontario Inc. c/o Siv-ik Planning & Design Inc., relating to the property located at 489 Upper Queen Street, the proposed by-law appended to the staff report dated January 30, 2023 as Appendi...
 
@@ -3857,7 +3857,7 @@ Unanimous (15-0)
 
 ### 8.6.11. (3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)
 
-<a id="motion-8-6-11-1" class="motion-anchor"></a>
+<div id="motion-8-6-11-1" class="motion-anchor"></div>
 
 > That the application for 608 Commissioners Road West (Z-9516) BE REFERRED back to the Civic Administration, in order to work with the applicant and bring forward a revised proposed by-law that would reduce the proposed maximum height to four stories and a maximum density of sixty-four units.
 
@@ -3874,7 +3874,7 @@ Unanimous (15-0)
 
 ### 8.6.11. (3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)
 
-<a id="motion-8-6-11-2" class="motion-anchor"></a>
+<div id="motion-8-6-11-2" class="motion-anchor"></div>
 
 > “That part a) BE AMENDED by adding the following new part vii) “Provide privacy fencing or a quick growing coniferous hedge to the south and west boundaries;”
 
@@ -3884,7 +3884,7 @@ Unanimous (15-0)
 
 ### 8.6.11. (3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)
 
-<a id="motion-8-6-11-3" class="motion-anchor"></a>
+<div id="motion-8-6-11-3" class="motion-anchor"></div>
 
 > That item 11, clause 3.5, as amended, BE APPROVED.
 
@@ -3901,7 +3901,7 @@ Unanimous (15-0)
 
 ### 8.7. 3rd Report of the Corporate Services Committee
 
-<a id="motion-8-7-0" class="motion-anchor"></a>
+<div id="motion-8-7-0" class="motion-anchor"></div>
 
 > That the 3rd Report of the Corporate Services Committee BE APPROVED, excluding item 5 (2.4).
 
@@ -3911,7 +3911,7 @@ Unanimous (15-0)
 
 ### 8.7.5. (2.4) Declare Surplus - City-Owned Property - Part of 641 Queens Avenue
 
-<a id="motion-8-7-5-0" class="motion-anchor"></a>
+<div id="motion-8-7-5-0" class="motion-anchor"></div>
 
 > That the matter of the declaration of the property located at Part of 641 Queens Avenue as surplus, BE REFERRED back to the Civic Administration in order to provide notice to agencies within the City that have not been notified about the potential disposition, with a report back to a future meeti...
 
@@ -3928,7 +3928,7 @@ Unanimous (15-0)
 
 ### 8.7.5. (2.4) Declare Surplus - City-Owned Property - Part of 641 Queens Avenue
 
-<a id="motion-8-7-5-1" class="motion-anchor"></a>
+<div id="motion-8-7-5-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to a portion of City-owned property municipally known as part of 641 Queens Avenue, legally described as Part Lot 9, Plan 390(3rd), in the City of London, to be f...
 
@@ -3945,7 +3945,7 @@ Unanimous (15-0)
 
 ### 9.1. 4th Report of Council in Closed Session
 
-<a id="motion-9-1-0" class="motion-anchor"></a>
+<div id="motion-9-1-0" class="motion-anchor"></div>
 
 > Motion that items 1, 2, 3 and 5, BE APPROVED: 1.    Lease Extension and Amending Agreement – 251 Dundas Street, London Public Library – Rapid Transit Implementation Office That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction ...
 
@@ -3955,7 +3955,7 @@ Unanimous (15-0)
 
 ### 9.1. 4th Report of Council in Closed Session
 
-<a id="motion-9-1-1" class="motion-anchor"></a>
+<div id="motion-9-1-1" class="motion-anchor"></div>
 
 > Motion that item 4, BE APPROVED: 4.    Property Acquisition – 249 Wellington Road – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, R...
 
@@ -3972,7 +3972,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 52, BE APPROVED.
 
@@ -3989,7 +3989,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 52, BE APPROVED.
 
@@ -4006,7 +4006,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 52, BE APPROVED.
 
@@ -4023,7 +4023,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 62, BE APPROVED.
 
@@ -4040,7 +4040,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 62, BE APPROVED.
 
@@ -4057,7 +4057,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 62, BE APPROVED.
 
@@ -4074,7 +4074,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-9" class="motion-anchor"></a>
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 66, BE APPROVED.
 
@@ -4091,7 +4091,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-10" class="motion-anchor"></a>
+<div id="motion-13-10" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 66, BE APPROVED.
 
@@ -4108,7 +4108,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-11" class="motion-anchor"></a>
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 66, BE APPROVED.
 
@@ -4125,7 +4125,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-12" class="motion-anchor"></a>
+<div id="motion-13-12" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 67, BE APPROVED.
 
@@ -4142,7 +4142,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-13" class="motion-anchor"></a>
+<div id="motion-13-13" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 67, BE APPROVED.
 
@@ -4159,7 +4159,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-14" class="motion-anchor"></a>
+<div id="motion-13-14" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 67, BE APPROVED.
 
@@ -4176,7 +4176,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-15" class="motion-anchor"></a>
+<div id="motion-13-15" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Added Bill No. 71, BE APPROVED.
 
@@ -4193,7 +4193,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-16" class="motion-anchor"></a>
+<div id="motion-13-16" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No. 71, BE APPROVED.
 
@@ -4210,7 +4210,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-17" class="motion-anchor"></a>
+<div id="motion-13-17" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Added Bill No. 71, BE APPROVED.
 

@@ -398,7 +398,7 @@ Motion Passed
 
 ### VIII. REPORTS
 
-<a id="motion-viii-0" class="motion-anchor"></a>
+<div id="motion-viii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 2.3   of the Council Procedure By-law, section 9.7 of said by-law be suspended to   permit a member to speak more than once to any motion with respect to the   ranked ballot model.
 
@@ -408,7 +408,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-0" class="motion-anchor"></a>
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading of   Bill No.’s 179 and 180.
 
@@ -425,7 +425,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No.’s 179   and 180.
 
@@ -442,7 +442,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-2" class="motion-anchor"></a>
+<div id="motion-xiii-2" class="motion-anchor"></div>
 
 > Approve Third Reading of Bill No.’s 179   and 180.
 
@@ -460,7 +460,7 @@ Unanimous (13-0)
 ### 1. Ranked Ballot
   Community Engagement Results Update
 
-<a id="motion-1-0" class="motion-anchor"></a>
+<div id="motion-1-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -472,7 +472,7 @@ Unanimous (13-0)
 ### 2. Ranked Ballot
   Community Engagement Results
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > The motion to Approve the new part c) to   clause 2 is put.    Motion Passed
 
@@ -490,7 +490,7 @@ Unanimous (13-0)
 ### 2. Ranked Ballot
   Community Engagement Results
 
-<a id="motion-2-2" class="motion-anchor"></a>
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Approve clause 2, as amended.
 

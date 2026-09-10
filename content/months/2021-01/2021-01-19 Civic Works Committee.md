@@ -366,7 +366,7 @@ The meeting adjourned at 12:44 PM.
 
 ### 1.2. Election of Vice Chair for the term ending November 30, 2021
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > That Councillor S. Turner BE ELECTED Vice-Chair of the Civic Works Committee for the term ending November 30, 2021.
 
@@ -376,7 +376,7 @@ Unanimous (6-0)
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.5, 2.6, 2.7 BE APPROVED.
 
@@ -386,7 +386,7 @@ Unanimous (6-0)
 
 ### 2.4. Ministry of Transportation Road Closures for the Highway 401/Highway 4 (Colonel Talbot Road) Interchange Improvements
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the required municipal road closures related to the Highway 401 / Highway 4 (Colonel Talbot Road) interchange improvements and the Highway 4 and Glanworth Drive underpass bridge replace...
 
@@ -396,7 +396,7 @@ Unanimous (6-0)
 
 ### 2.8. RFP 20-72 Supply and Delivery of Medium Duty Crew Cab Trucks
 
-<a id="motion-2-8-0" class="motion-anchor"></a>
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the staff report dated January 19, 2021, related to RFP20-72 for the Supply and Delivery of Medium Duty Crew Cab Trucks: a)     the submis...
 

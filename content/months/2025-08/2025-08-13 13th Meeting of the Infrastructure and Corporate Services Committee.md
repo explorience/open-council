@@ -413,7 +413,7 @@ Motion carries. Great day.
 
 ### 2.4. Consultant Contract Price Increase: Rapid Transit Implementation - Wellington Street from Queens Avenue to the Thames River (South Branch)
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project: a)   the contract with AECOM Canada ULC for const...
 
@@ -430,7 +430,7 @@ Motion carries. Great day.
 
 ### 5. Deferred Matters/Additional Business
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > The Civic Administration BE DIRECTED to advance the timing of pedestrian crossover improvements planned for implementation in 2026 at Viscount Rd and Steeplechase Dr to 2025 and the value of the 2025 pedestrian crossover contract BE INCREASED to accommodate this additional work.
 

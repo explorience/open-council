@@ -2142,7 +2142,7 @@ All those in favor of adjournment today? No, no motion carries. We are adjourned
 
 ### 8.1. 4th Report of the Civic Works Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 4th Report of the Civic Works Committee, excluding items 5 (2.4) and 11 (3.1), BE APPROVED.
 
@@ -2152,7 +2152,7 @@ Unanimous (14-0)
 
 ### 8.1.5. (2.4) Results of the 2022 Bike Share Request for Proposal Process and Next Steps
 
-<a id="motion-8-1-5-1" class="motion-anchor"></a>
+<div id="motion-8-1-5-1" class="motion-anchor"></div>
 
 > Motion to approve clause 2.4, excluding part b) That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated February 22, 2023, related to the results of the 2022 Bike Share Request for Proposal and N...
 
@@ -2171,7 +2171,7 @@ Unanimous (14-0)
 
 ### 8.1.5. (2.4) Results of the 2022 Bike Share Request for Proposal Process and Next Steps
 
-<a id="motion-8-1-5-2" class="motion-anchor"></a>
+<div id="motion-8-1-5-2" class="motion-anchor"></div>
 
 > Motion to approve part b) b)    the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;
 
@@ -2190,7 +2190,7 @@ Unanimous (14-0)
 
 ### 8.1.11. (3.1) J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
 
-<a id="motion-8-1-11-1" class="motion-anchor"></a>
+<div id="motion-8-1-11-1" class="motion-anchor"></div>
 
 > That item 11, clause 3.1, BE AMENDED by adding a new part d), as follows: “d)   enhance customer feedback mechanisms by tasking a third party to complete research and reports that are compliant with peer-reviewed research methodology and AODA, by 2023/2024.”
 
@@ -2200,7 +2200,7 @@ Unanimous (14-0)
 
 ### 8.1.11. (3.1) J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
 
-<a id="motion-8-1-11-2" class="motion-anchor"></a>
+<div id="motion-8-1-11-2" class="motion-anchor"></div>
 
 > That item 11, clause 3.1, as amended, BE APPROVED.
 
@@ -2210,7 +2210,7 @@ Unanimous (14-0)
 
 ### 8.2. 10th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 10th Report of the Strategic Priorities and Policy Committee, BE APPROVED, excluding item 2 (2.1).
 
@@ -2220,7 +2220,7 @@ Unanimous (14-0)
 
 ### 8.2.2. (2.1) 2023 Assessment Growth Funding Allocation
 
-<a id="motion-8-2-2-2" class="motion-anchor"></a>
+<div id="motion-8-2-2-2" class="motion-anchor"></div>
 
 > That Business Case #11 Police Services: Increase Complement BE RECEIVED.
 
@@ -2239,7 +2239,7 @@ Unanimous (14-0)
 
 ### 8.3. 4th Report of the Planning and Environment Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 4th Report of the Planning and Environment Committee, BE APPROVED, it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal Council, as well as oral submissions made a...
 
@@ -2249,7 +2249,7 @@ Unanimous (14-0)
 
 ### 8.4. 4th Report of the Corporate Services Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 4th Report of the Corporate Services Committee, BE APPROVED.
 
@@ -2259,7 +2259,7 @@ Unanimous (14-0)
 
 ### 8.5. 4th Report of the Community and Protective Services Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 4th Report of the Community and Protective Services Committee, BE APPROVED.
 
@@ -2269,7 +2269,7 @@ Unanimous (14-0)
 
 ### 8.6. 1st Report of the Audit Committee
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 1st Report of the Audit Committee, BE APPROVED.
 
@@ -2279,7 +2279,7 @@ Unanimous (14-0)
 
 ### 9.1. 5th Report of Council in Closed Session
 
-<a id="motion-9-1-0" class="motion-anchor"></a>
+<div id="motion-9-1-0" class="motion-anchor"></div>
 
 > That the 5th Report of Council, In Closed Session, BE APPROVED. 1.    Property Acquisition – 21 Raywood Avenue – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on ...
 
@@ -2298,7 +2298,7 @@ Unanimous (14-0)
 
 ### 9.2. 5th Meeting of the Corporate Services Committee
 
-<a id="motion-9-2-0" class="motion-anchor"></a>
+<div id="motion-9-2-0" class="motion-anchor"></div>
 
 > That the 5th Report of the Corporate Services Committee, BE APPROVED.
 
@@ -2308,7 +2308,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Added Bill No. 94, BE APPROVED.
 
@@ -2327,7 +2327,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No. 94, BE APPROVED.
 
@@ -2346,7 +2346,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Added Bill No. 94, BE APPROVED.
 

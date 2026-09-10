@@ -304,7 +304,7 @@ Motion Passed
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-v-1" class="motion-anchor"></a>
+<div id="motion-v-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -315,7 +315,7 @@ Unanimous (15-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON JANUARY 13, 2015
 
-<a id="motion-vi-1" class="motion-anchor"></a>
+<div id="motion-vi-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -325,7 +325,7 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -335,7 +335,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Motion Passed
 

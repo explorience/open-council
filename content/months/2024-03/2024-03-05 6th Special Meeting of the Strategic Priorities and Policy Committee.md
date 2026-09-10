@@ -829,7 +829,7 @@ Motion carries. And you have an hour and 27 minutes before we reconvene for coun
 
 ### 2.1. Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That the following actions BE TAKEN with respect to the Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners report: a)    an extension to the existing Municipal Purchase of Service agreement with London Cares at a total estimated increase of up to $139,600 (excludin...
 
@@ -846,7 +846,7 @@ Motion carries. And you have an hour and 27 minutes before we reconvene for coun
 
 ### 2.1. Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
 
-<a id="motion-2-1-2" class="motion-anchor"></a>
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > Motion to amend part a) to change the contract extension end date to be June 30, 2024 and increase funding to $209,400 and part b) to change the contract extension end date to be June 30, 2024 and increase funding to $193,500
 
@@ -863,7 +863,7 @@ Motion carries. And you have an hour and 27 minutes before we reconvene for coun
 
 ### 2.1. Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
 
-<a id="motion-2-1-3" class="motion-anchor"></a>
+<div id="motion-2-1-3" class="motion-anchor"></div>
 
 > Motion to approve part a) to read as follows: a)    an extension to the existing Municipal Purchase of Service Agreement with London Cares at a total estimated increase of up to $139,600 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary drop-in sp...
 
@@ -880,7 +880,7 @@ Motion carries. And you have an hour and 27 minutes before we reconvene for coun
 
 ### 2.1. Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
 
-<a id="motion-2-1-4" class="motion-anchor"></a>
+<div id="motion-2-1-4" class="motion-anchor"></div>
 
 > Motion to approve part b) to read as follows: b)    an extension to the existing Municipal Purchase of Service Agreement with Safe Space London at a total estimated increase of up to $129,000 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary day a...
 
@@ -897,7 +897,7 @@ Motion carries. And you have an hour and 27 minutes before we reconvene for coun
 
 ### 2.1. Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
 
-<a id="motion-2-1-5" class="motion-anchor"></a>
+<div id="motion-2-1-5" class="motion-anchor"></div>
 
 > Motion to approve parts c) and d): c)    the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in connection with the contracts noted in a) and b); and d)    approval given herein BE CONDITIONAL upon the Corporation of the City of London amending existing...
 

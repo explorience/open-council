@@ -4017,7 +4017,7 @@ appendix b number five quatix waiting pools and v.i.i. appendix c reference four
 
 ### 4. Council, In Closed Session
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > That Council rise and go into Council, In Closed Session, for the purpose of considering the following: 4.2    Litigation/Potential Litigation / Solicitor-Client Privileged Advice A matter that is subject to solicitor-client privilege, including communications necessary for that purpose with resp...
 
@@ -4036,7 +4036,7 @@ appendix b number five quatix waiting pools and v.i.i. appendix c reference four
 
 ### 4. Council, In Closed Session
 
-<a id="motion-4-2" class="motion-anchor"></a>
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > That Council convenes In Closed session for the purpose of considering the following: 4.3    Litigation/Potential Litigation / Solicitor-Client Privileged Advice A matter that is subject to solicitor-client privilege, including communications necessary for that purpose with respect to the Approva...
 
@@ -4055,7 +4055,7 @@ appendix b number five quatix waiting pools and v.i.i. appendix c reference four
 
 ### 6. Communications and Petitions
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > That the following communications BE RECEIVED, and BE REFERRED as noted on the Added Agenda: 6.3    Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block 1.    C. Ryan          2.    L. White          3.    D. ...
 
@@ -4074,7 +4074,7 @@ appendix b number five quatix waiting pools and v.i.i. appendix c reference four
 
 ### 6.1. Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Approving Authority")
 
-<a id="motion-6-1-0" class="motion-anchor"></a>
+<div id="motion-6-1-0" class="motion-anchor"></div>
 
 > That Council convene as the Approving Authority pursuant to the provisions of the Expropriations Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure with respect to the expropriation of the lands as ...
 
@@ -4093,7 +4093,7 @@ appendix b number five quatix waiting pools and v.i.i. appendix c reference four
 
 ### 6.1. Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Approving Authority")
 
-<a id="motion-6-1-1" class="motion-anchor"></a>
+<div id="motion-6-1-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, the following actions be taken with respect to the expropriation of lands as may ...
 
@@ -4112,7 +4112,7 @@ appendix b number five quatix waiting pools and v.i.i. appendix c reference four
 
 ### 6.2. Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Expropriating Authority") (Relates to Bill No. 247)
 
-<a id="motion-6-2-0" class="motion-anchor"></a>
+<div id="motion-6-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, the following actions be taken with respect to the expropriation of lands as may ...
 
@@ -4131,7 +4131,7 @@ appendix b number five quatix waiting pools and v.i.i. appendix c reference four
 
 ### 8.1. 8th Report of the Planning and Environment Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 8th Report of the Planning and Environment Committee BE APPROVED with the exception of items 7 (2.6), 12 (2.11), 13 (2.12), 15 (3.1), and 17 (3.3) to 21 (3.7)
 
@@ -4141,7 +4141,7 @@ Unanimous (14-0)
 
 ### 8.1.7. (2.6) Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
 
-<a id="motion-8-1-7-0" class="motion-anchor"></a>
+<div id="motion-8-1-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, related to the application under Section 42 of the Ontario Heritage Act seeking approval for window replacement on the heritage designated pro...
 
@@ -4160,7 +4160,7 @@ Unanimous (14-0)
 
 ### 8.1.12. (2.11) Update on Green Development Guidelines (Framework)
 
-<a id="motion-8-1-12-1" class="motion-anchor"></a>
+<div id="motion-8-1-12-1" class="motion-anchor"></div>
 
 > That the Green Development Guidelines Framework BE REFERRED to Civic Administration for an additional report back to the Planning and Environment Committee on scope and feasibility following a decision on provincial legislation Bill 17, Protect Ontario by Building Faster and Smarter Act, 2025, cu...
 
@@ -4179,7 +4179,7 @@ Unanimous (14-0)
 
 ### 8.1.15. (3.1) 20 Clarke Road (Z-25038) (Relates to Bill No. 240)
 
-<a id="motion-8-1-15-0" class="motion-anchor"></a>
+<div id="motion-8-1-15-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2823522 Ontario Inc. (c/o Randy Mackay) relating to the property located at 20 Clarke Road: a)    the proposed by-law as appended to the staff report dated May ...
 
@@ -4198,7 +4198,7 @@ Unanimous (14-0)
 
 ### 8.1.17. (3.3) 1890 & 1900 Kilgorman Way (Z-25045) (Relates to Bill No. 242)
 
-<a id="motion-8-1-17-0" class="motion-anchor"></a>
+<div id="motion-8-1-17-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Farhi Holdings Corporation relating to the property located at 1890 & 1900 Kilgorman Way, the proposed by-law as appended to the staff report dated May 21, 2025...
 
@@ -4217,7 +4217,7 @@ Unanimous (14-0)
 
 ### 8.1.18. (3.4) 168 Meadowlily Road South (OZ-9763) (Relates to Bill No.'s 196 and 243)
 
-<a id="motion-8-1-18-0" class="motion-anchor"></a>
+<div id="motion-8-1-18-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Forever Homes Meadowlily Limited Partnership, relating to the property located at 168 Meadowlily Road South: a)    the proposed by-law as appended to the staff ...
 
@@ -4236,7 +4236,7 @@ Unanimous (14-0)
 
 ### 8.1.19. (3.5) 1206 Oxford Street East & 17-19 Wistow Street (Z-25036) (Relates to Bill No. 244)
 
-<a id="motion-8-1-19-1" class="motion-anchor"></a>
+<div id="motion-8-1-19-1" class="motion-anchor"></div>
 
 > That the motion be amended to read as follows: That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 509482 Ontario Ltd. relating to the properties located at 1206 Oxford Street East and 17-19 Wistow Street:  a)   ...
 
@@ -4246,7 +4246,7 @@ Unanimous (14-0)
 
 ### 8.1.19. (3.5) 1206 Oxford Street East & 17-19 Wistow Street (Z-25036) (Relates to Bill No. 244)
 
-<a id="motion-8-1-19-2" class="motion-anchor"></a>
+<div id="motion-8-1-19-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED
 
@@ -4256,7 +4256,7 @@ Unanimous (14-0)
 
 ### 8.1.20. (3.6) Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block
 
-<a id="motion-8-1-20-0" class="motion-anchor"></a>
+<div id="motion-8-1-20-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, regarding the application under Section 34(1)(2) of the Ontario Heritage Act seeking to demolish the buildings known as the Kent Brewery (197 ...
 
@@ -4275,7 +4275,7 @@ Unanimous (14-0)
 
 ### 8.2. 7th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 7th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of items 3 (2.2) and 7 (4.2)
 
@@ -4285,7 +4285,7 @@ Unanimous (14-0)
 
 ### 8.2.3. (2.2) Strategic Plan Implementation Update: Mid-Year 2025
 
-<a id="motion-8-2-3-0" class="motion-anchor"></a>
+<div id="motion-8-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Manager, the report regarding 2025 Mid-Year Strategic Plan Implementation Update BE RECEIVED for information.
 
@@ -4304,7 +4304,7 @@ Unanimous (14-0)
 
 ### 8.2.7. (4.2) 2025 London and Middlesex Community Housing Asset Management Plan
 
-<a id="motion-8-2-7-0" class="motion-anchor"></a>
+<div id="motion-8-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 London and Middlesex Community Housing Asset Management Plan:    a)    the report BE RECEIVED for information purposes; and    b)    the “2025 London and Middlesex Com...
 
@@ -4323,7 +4323,7 @@ Unanimous (14-0)
 
 ### 8.3. 10th Report of the Infrastructure and Corporate Services Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 10th Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of items 5 (2.4), 6 (2.5), 13 (4.1), 14 (4.2), and 16 (5.2)
 
@@ -4333,7 +4333,7 @@ Unanimous (14-0)
 
 ### 8.3.13. (4.1) 2025 Council Policy Review (Relates to Bill No.'s 186 to 190, 197 to 237)
 
-<a id="motion-8-3-13-0" class="motion-anchor"></a>
+<div id="motion-8-3-13-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Clerk, the following actions be taken with respect to the Policy for the Establishment and Maintenance of Council Polices:    a)    the proposed by-law (as appended to the staff report dated May 26, 2025 as Appendix "B") BE INTRODUCED at the Municipal Counc...
 
@@ -4343,7 +4343,7 @@ Unanimous (14-0)
 
 ### 8.3.14. (4.2) Bad Debts - Aspire Food Group - Councillor S. Stevenson
 
-<a id="motion-8-3-14-0" class="motion-anchor"></a>
+<div id="motion-8-3-14-0" class="motion-anchor"></div>
 
 > That it BE NOTED that the Infrastructure and Corporate Services Committee received a communication dated May 15, 2025 from Councillor S. Stevenson with respect to this matter.
 
@@ -4362,7 +4362,7 @@ Unanimous (14-0)
 
 ### 8.3.16. (5.2) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
 
-<a id="motion-8-3-16-1" class="motion-anchor"></a>
+<div id="motion-8-3-16-1" class="motion-anchor"></div>
 
 > That pursuant to section 13.6 of the Council Procedure By-law, the Council decision with respect to item 16 (5.2) having to do with Councillor Stevenson's Communication BE RECONSIDERED to provide for Councillor Stevenson to recast her vote.
 
@@ -4381,7 +4381,7 @@ Unanimous (14-0)
 
 ### 8.3.16. (5.2) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
 
-<a id="motion-8-3-16-2" class="motion-anchor"></a>
+<div id="motion-8-3-16-2" class="motion-anchor"></div>
 
 > That it BE NOTED that the Infrastructure and Corporate Services Committee received a communication dated May 15, 2025 from Councillor S. Stevenson with respect to this matter.
 
@@ -4400,7 +4400,7 @@ Unanimous (14-0)
 
 ### 8.4. 9th Report of the Community and Protective Services Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 9th Report of the Community and Protective Services Committee BE APPROVED with the exception of items 6 (4.1), 7 (4.2), and 8 (4.3).
 
@@ -4410,7 +4410,7 @@ Unanimous (14-0)
 
 ### 8.4.6. (4.1) Whole of Community System Response Overview
 
-<a id="motion-8-4-6-0" class="motion-anchor"></a>
+<div id="motion-8-4-6-0" class="motion-anchor"></div>
 
 > That the communication from Councillor S. Stevenson, dated May 12, 2025, with respect to the Whole of Community System Response Overview, BE RECEIVED and no further action be taken.
 
@@ -4429,7 +4429,7 @@ Unanimous (14-0)
 
 ### 8.4.7. (4.2) Memo - Affordable and Supportive Housing Agreement Templates (Relates to Bill No. 181)
 
-<a id="motion-8-4-7-1" class="motion-anchor"></a>
+<div id="motion-8-4-7-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include a new part that reads as follows: The Civic Administration BE DIRECTED to seek Council approval for contribution agreements, including loan agreements under the Affordable Housing Community Improvement Plan, for any highly supportive housing projects.
 
@@ -4448,7 +4448,7 @@ Unanimous (14-0)
 
 ### 8.4.7. (4.2) Memo - Affordable and Supportive Housing Agreement Templates (Relates to Bill No. 181)
 
-<a id="motion-8-4-7-2" class="motion-anchor"></a>
+<div id="motion-8-4-7-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -4458,7 +4458,7 @@ Unanimous (14-0)
 
 ### 8.4.8. (4.3) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street (Relates to Bill No. 182)
 
-<a id="motion-8-4-8-0" class="motion-anchor"></a>
+<div id="motion-8-4-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth the following actions be taken with respect to the staff report, dated May 20, 2025, related to RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill ...
 
@@ -4477,7 +4477,7 @@ Unanimous (14-0)
 
 ### 8.4.8. (4.3) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street (Relates to Bill No. 182)
 
-<a id="motion-8-4-8-1" class="motion-anchor"></a>
+<div id="motion-8-4-8-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include a new part that reads as follows: The Civic Administration BE DIRECTED to include provisions in all future agreements related to forgivable loans for highly supportive housing that allow Council to require repayment of the loan or impose other consequences if...
 
@@ -4496,7 +4496,7 @@ Unanimous (14-0)
 
 ### 8.5. 2nd Report of the Budget Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 2nd Report of the Budget Committee BE APPROVED with the exception of item 4 (4.1).
 
@@ -4506,7 +4506,7 @@ Unanimous (14-0)
 
 ### 8.5.4. (4.1) 2026 Annual Budget Update - Status Update
 
-<a id="motion-8-5-4-1" class="motion-anchor"></a>
+<div id="motion-8-5-4-1" class="motion-anchor"></div>
 
 > d)   the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii)   Appendix B, Ref # - 2    Roadway Planning & Design – Reduced Road Network Improvements  v)   Appendix C, Ref # - 2    Recycling & Composting - Stop Multi-Residential Green Bin Cart P...
 
@@ -4525,7 +4525,7 @@ Unanimous (14-0)
 
 ### 8.5.4. (4.1) 2026 Annual Budget Update - Status Update
 
-<a id="motion-8-5-4-2" class="motion-anchor"></a>
+<div id="motion-8-5-4-2" class="motion-anchor"></div>
 
 > d)   the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i)    Appendix B, Ref # - 1    Roadway Maintenance – Reduced Summer Sidewalk Maintenance
 
@@ -4544,7 +4544,7 @@ Unanimous (14-0)
 
 ### 8.5.4. (4.1) 2026 Annual Budget Update - Status Update
 
-<a id="motion-8-5-4-3" class="motion-anchor"></a>
+<div id="motion-8-5-4-3" class="motion-anchor"></div>
 
 > d)   the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update:  iii)  Appendix B, Ref # - 3    Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching  iv)  Appendix B, Ref # - 5    Aquatics – Closure of 5 Wading Pools vii)  Appendix C, Re...
 
@@ -4554,7 +4554,7 @@ Unanimous (14-0)
 
 ### 12. Emergent Motions
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > That pursuant to section 20.1 of the Council Procedure By-law, leave be granted to allow Councillor S. Trosow to move a motion related to AMO's submission related to Bill 5, Protect Ontario by Unleashing our Economy Act, 2025.
 
@@ -4573,7 +4573,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 181 and 182 BE APPROVED.
 
@@ -4592,7 +4592,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 181 and 182 BE APPROVED.
 
@@ -4611,7 +4611,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 181 and 182 BE APPROVED.
 
@@ -4630,7 +4630,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-9" class="motion-anchor"></a>
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 198 and 217 BE APPROVED.
 
@@ -4649,7 +4649,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-10" class="motion-anchor"></a>
+<div id="motion-13-10" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 198 and 217  BE APPROVED.
 
@@ -4668,7 +4668,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-11" class="motion-anchor"></a>
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Third and Enactment of Bill No. 198 and 217  BE APPROVED.
 
@@ -4687,7 +4687,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-12" class="motion-anchor"></a>
+<div id="motion-13-12" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 240 BE APPROVED.
 
@@ -4706,7 +4706,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-13" class="motion-anchor"></a>
+<div id="motion-13-13" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 240  BE APPROVED.
 
@@ -4725,7 +4725,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-14" class="motion-anchor"></a>
+<div id="motion-13-14" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 240  BE APPROVED.
 
@@ -4744,7 +4744,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-15" class="motion-anchor"></a>
+<div id="motion-13-15" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.’s 196 and 243 BE APPROVED.
 
@@ -4763,7 +4763,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-16" class="motion-anchor"></a>
+<div id="motion-13-16" class="motion-anchor"></div>
 
 > That Second Reading of Bill No.’s 196 and 243 BE APPROVED.
 
@@ -4782,7 +4782,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-17" class="motion-anchor"></a>
+<div id="motion-13-17" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.’s 196 and 243 BE APPROVED.
 
@@ -4801,7 +4801,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-18" class="motion-anchor"></a>
+<div id="motion-13-18" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 242 BE APPROVED.
 
@@ -4820,7 +4820,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-19" class="motion-anchor"></a>
+<div id="motion-13-19" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 242 BE APPROVED.
 
@@ -4839,7 +4839,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-20" class="motion-anchor"></a>
+<div id="motion-13-20" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 242 BE APPROVED.
 
@@ -4858,7 +4858,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-24" class="motion-anchor"></a>
+<div id="motion-13-24" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 247 BE APPROVED.
 
@@ -4877,7 +4877,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-25" class="motion-anchor"></a>
+<div id="motion-13-25" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 247 BE APPROVED.
 
@@ -4896,7 +4896,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-26" class="motion-anchor"></a>
+<div id="motion-13-26" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 247 BE APPROVED.
 

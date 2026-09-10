@@ -991,7 +991,7 @@ Any opposed? Motion carries. Thank you.
 
 ### 8.3.18. (3.12) Grant - Economic Development Reserve Fund - Councillor D. Ferreira - LDBA for Improving Safety/Security, Property Damage Grants and Crime Prevention
 
-<a id="motion-8-3-18-0" class="motion-anchor"></a>
+<div id="motion-8-3-18-0" class="motion-anchor"></div>
 
 > That it BE NOTED that the Budget Committee considered an amendment to the Mayor's 2025 Annual Budget Update related to a Grant - Economic Development Reserve Fund - Councillor D. Ferreira - LDBA for Improving Safety/Security, Property Damage Grants and Crime Prevention.
 
@@ -1008,7 +1008,7 @@ Any opposed? Motion carries. Thank you.
 
 ### 13. By-laws
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 398, BE APPROVED.
 
@@ -1025,7 +1025,7 @@ Any opposed? Motion carries. Thank you.
 
 ### 13. By-laws
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 398, BE APPROVED.
 
@@ -1042,7 +1042,7 @@ Any opposed? Motion carries. Thank you.
 
 ### 13. By-laws
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > That Third Reading of Bill No. 398, BE APPROVED.
 

@@ -790,7 +790,7 @@ Motion carries. Thank you everyone for your time and I wish you a wonderful week
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.4, and 2.5 BE APPROVED.
 
@@ -800,7 +800,7 @@ Unanimous (6-0)
 
 ### 4.1. Investing in Canada Infrastructure Program: Public Transit Stream Intake 3
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the Civic Administration BE DIRECTED to submit the projects identified in the staff report dated January 11, 2022 to Intake 3 of the Public Transit Stream of the Investing in Canada Infrastructure Program (ICI...
 

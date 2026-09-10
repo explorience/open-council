@@ -1400,7 +1400,7 @@ That takes us to item seven, adjournment, looking for a mover and seconder, Coun
 
 ### 1. Disclosures of Pecuniary Interest
 
-<a id="motion-1-0" class="motion-anchor"></a>
+<div id="motion-1-0" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Items 6.1 to 6.3 in Stage 6, Confidential, to be considered after Stage 1, Disclosures of Pecuniary Interest.
 
@@ -1410,7 +1410,7 @@ Unanimous (6-0)
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5 and 2.7 BE APPROVED.
 
@@ -1420,7 +1420,7 @@ Unanimous (6-0)
 
 ### 2.6. Renovictions: Rental Unit Repair Licensing Program One Year Update
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That the staff report dated April 13, 2026, entitled Renovictions: Rental Unit Repair Licensing Program One Year Update, BE REFERRED to the next meeting of the Community and Protective Services Committee for further consultation with stakeholders, including but not limited to Neighbourhood Legal ...
 
@@ -1430,7 +1430,7 @@ Unanimous (5-0)
 
 ### 4.1. Parks and Recreation Master Plan - 2026 Update - Preliminary Findings
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the request for delegation status from K. Galloway BE APPROVED.
 
@@ -1440,7 +1440,7 @@ Unanimous (6-0)
 
 ### 4.2. Report Back: Basic Needs and Pathway Options Feasibility of Contract Extension - 519Pursuit Umbrella Relief Programs Inc.
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the requests for delegation from A. DeBlaire, M. Boissonneault, M. Ferguson, S. Horrell and M. Riley, BE APPROVED.
 
@@ -1450,7 +1450,7 @@ Unanimous (6-0)
 
 ### 4.2. Report Back: Basic Needs and Pathway Options Feasibility of Contract Extension - 519Pursuit Umbrella Relief Programs Inc.
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part c) that reads as follows: c) the Civic Administration BE DIRECTED to re-engage with the agencies under the UHEI and Emergency Treatment Fund to explore service opportunities
 
@@ -1460,7 +1460,7 @@ Unanimous (6-0)
 
 ### 4.2. Report Back: Basic Needs and Pathway Options Feasibility of Contract Extension - 519Pursuit Umbrella Relief Programs Inc.
 
-<a id="motion-4-2-4" class="motion-anchor"></a>
+<div id="motion-4-2-4" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1470,7 +1470,7 @@ Unanimous (6-0)
 
 ### 4.3. Tolpuddle Co-operative Inc. Capital and Operational Transition Plan
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That the request for delegation status from J. Phoenix BE APPROVED.
 
@@ -1480,7 +1480,7 @@ Unanimous (5-0)
 
 ### 4.3. Tolpuddle Co-operative Inc. Capital and Operational Transition Plan
 
-<a id="motion-4-3-2" class="motion-anchor"></a>
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > That parts a) through d) of the motion BE APPROVED.
 
@@ -1490,7 +1490,7 @@ Unanimous (5-0)
 
 ### 4.3. Tolpuddle Co-operative Inc. Capital and Operational Transition Plan
 
-<a id="motion-4-3-3" class="motion-anchor"></a>
+<div id="motion-4-3-3" class="motion-anchor"></div>
 
 > That part e) of the motion BE APPROVED.
 

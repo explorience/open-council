@@ -1329,7 +1329,7 @@ chair i don't have any particular comments about that one uh the one thing i wou
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.2 BE APPROVED.
 
@@ -1339,7 +1339,7 @@ Unanimous (5-0)
 
 ### 2.3. Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
 
-<a id="motion-2-3-2" class="motion-anchor"></a>
+<div id="motion-2-3-2" class="motion-anchor"></div>
 
 > That the delegation request from D. R. Schmidt, as appended to the Added Agenda BE APPROVED, to be heard at this time.
 
@@ -1349,7 +1349,7 @@ Unanimous (5-0)
 
 ### 2.3. Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
 
-<a id="motion-2-3-3" class="motion-anchor"></a>
+<div id="motion-2-3-3" class="motion-anchor"></div>
 
 > That the motion be amendment to include a new part b) to read as follows: b) that Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee with respect to existing traffic calming policy standards through the design specification guidelines thr...
 
@@ -1359,7 +1359,7 @@ Unanimous (5-0)
 
 ### 2.3. Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
 
-<a id="motion-2-3-4" class="motion-anchor"></a>
+<div id="motion-2-3-4" class="motion-anchor"></div>
 
 > That the motion, as amended, be approved.
 
@@ -1369,7 +1369,7 @@ Unanimous (5-0)
 
 ### 2.4. Fast-Tracking Housing - Mayoral Direction 2025-001
 
-<a id="motion-2-4-1" class="motion-anchor"></a>
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > That the delegation request from M. Wallace, as appended to the Added Agenda BE APPROVED, to be heard at this time.
 
@@ -1379,7 +1379,7 @@ Unanimous (5-0)
 
 ### 2.6. Housing Accelerator Fund Initiative 5: City Land Disposal Process Review for Increasing Affordable Housing
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated April 29, 2025, related to the continued improvement of initiatives associated with the Housing Accelerator Fund and the City’s Land Disposal...
 
@@ -1389,7 +1389,7 @@ Unanimous (5-0)
 
 ### 3.1. 3095 Bostwick Road (OZ-25018)
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Southside Construction Management Ltd. relating to the property located at 3095 Bostwick Road, Talbot Village Phase 9: a)    the proposed by-law as appended to ...
 

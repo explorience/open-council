@@ -556,7 +556,7 @@ The
 ### 2. Amendments to the
   Traffic and Parking By-law
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -568,7 +568,7 @@ Unanimous (5-0)
 ### 3. Transport Canada
   Grade Crossings Regulations and Railway Funding Applications
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -580,7 +580,7 @@ Unanimous (5-0)
 ### 4. Transit Rerouting
   Off Dundas Street in Downtown
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -592,7 +592,7 @@ Unanimous (5-0)
 ### 5. One River
   Environmental Assessment Update: Agency Advisory Committee Report
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -605,7 +605,7 @@ Unanimous (5-0)
   Tender No. T17-28 - Old Victoria Stormwater Management Facility No. 1
   (ESSWM-OV1)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -617,7 +617,7 @@ Unanimous (5-0)
 ### 7. Thames Sydenham
   Source Water Protection Plan -  Renewal of Risk Management Services Agreement
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -629,7 +629,7 @@ Unanimous (5-0)
 ### 8. Wastewater Pumping
   Station Variable - Frequency Drive Replacements
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -642,7 +642,7 @@ Unanimous (5-0)
   Thames River Experimental Stream Science Facility at Adelaide Pollution
   Control Plant
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -654,7 +654,7 @@ Unanimous (5-0)
 ### 10. Municipal Waste
   & Resource Materials Collection By-Law Amendments
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -667,7 +667,7 @@ Unanimous (4-0)
   Contract Renewal - Navistar Original Equipment Manufacturer (OEM) Replacement
   Parts
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -679,7 +679,7 @@ Unanimous (5-0)
 ### 12. 6th Report of the
   Rapid Transit Implementation Working Group
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -691,7 +691,7 @@ Unanimous (5-0)
 ### 13. London Transit
   Commission 2016 Annual Report
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -703,7 +703,7 @@ Unanimous (5-0)
 ### 14. Domestic Action
   Plan (DAP) London - Proposal Update
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -715,7 +715,7 @@ Unanimous (5-0)
 ### 15. Deferred Matters
   List
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -727,7 +727,7 @@ Unanimous (4-0)
 ### 16. (ADDED) Warranted
   Sidewalk Program
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -746,7 +746,7 @@ Unanimous (4-0)
 ### 16. (ADDED) Warranted
   Sidewalk Program
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

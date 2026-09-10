@@ -458,7 +458,7 @@ The Corporate Services Committee convened in
 ### 2. STAFF REPORT -
   Ranked Ballot Election Model
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -477,7 +477,7 @@ The Corporate Services Committee convened in
 ### 3. STAFF REPORT -
   Municipal Election Campaign Contribution Rebate By-law
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -496,7 +496,7 @@ The Corporate Services Committee convened in
 ### 4. STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Cedarpark Crescent
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -508,7 +508,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Lilac Avenue
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -520,7 +520,7 @@ Unanimous (5-0)
 ### 6. STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Isaac Drive
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -532,7 +532,7 @@ Unanimous (5-0)
 ### 7. STAFF REPORT -
   Authorization for Temporary Borrowing
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -544,7 +544,7 @@ Unanimous (5-0)
 ### 8. STAFF REPORT -
   Transportation Advisory Committee Amendment to Terms of Reference
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -557,7 +557,7 @@ Unanimous (5-0)
   Expropriation of Land - Western Road Widening and Improvements Project TS
   1489-1
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -569,7 +569,7 @@ Unanimous (5-0)
 ### 10. COUNCIL MEMBER
   SUBMISSION - Ontario Good Roads Association Campaign Expenses
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -582,7 +582,7 @@ Unanimous (5-0)
   Request for Designation of the Colombia Gastronomy Festival as a Municipally Significant
   Event
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -595,7 +595,7 @@ Unanimous (5-0)
   - Change in Representation on the London Advisory Committee on
   Heritage
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -607,7 +607,7 @@ Unanimous (5-0)
 ### 13. COUNCIL MEMBER
   SUBMISSION - Funding Unclosed Projects
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -619,7 +619,7 @@ Unanimous (5-0)
 ### 14. COUNCIL MEMBER
   SUBMISSION - Federation of Canadian Municipalities (FCM) Board of Directors
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -631,7 +631,7 @@ Unanimous (5-0)
 ### 15. Corporate Services
   Committee Deferred Matters List
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -643,7 +643,7 @@ Unanimous (5-0)
 ### 16. ADDED - STAFF
   REPORT - Review of City of London Ward Boundaries
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

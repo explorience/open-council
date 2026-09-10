@@ -3663,7 +3663,7 @@ Motion Passed
 
 ### 1#6. Disclosures of Pecuniary Interest
 
-<a id="motion-1-6-0" class="motion-anchor"></a>
+<div id="motion-1-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3674,7 +3674,7 @@ Unanimous (14-0)
 ### 11#3. 2013 Operating
   Budget Status - Third Quarter Report
 
-<a id="motion-11-3-0" class="motion-anchor"></a>
+<div id="motion-11-3-0" class="motion-anchor"></div>
 
 > Amend clause 11, in line 2 of part b),   by deleting the word "CONSIDERED" and by replacing it with the   following words "REFERRED to the 2014 Budget Process".
 
@@ -3685,7 +3685,7 @@ Unanimous (15-0)
 ### 11#3. 2013 Operating
   Budget Status - Third Quarter Report
 
-<a id="motion-11-3-1" class="motion-anchor"></a>
+<div id="motion-11-3-1" class="motion-anchor"></div>
 
 > Approve clause 11, as amended.
 
@@ -3696,7 +3696,7 @@ Unanimous (15-0)
 ### 2#7. Submission of
   Questions on Ballot - 2014 Municipal Election
 
-<a id="motion-2-7-0" class="motion-anchor"></a>
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City   Clerk, the staff report dated December 10, 2013, providing information   outlining the legislative requirements to place a question on the 2014 Municipal   Election ballot, BE RECEIVED for information.
 
@@ -3714,7 +3714,7 @@ Unanimous (15-0)
 ### 3#4. Single Source for a
   Supply Chain Group Purchasing Organization
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director Housing, Social Services and Dearness Home the following actions be   taken with the respect to the implementation of a Supply Chain Group   Purchasing Organization Contract for the City of London:   a)         the   proposed attached by-law ...
 
@@ -3725,7 +3725,7 @@ Unanimous (15-0)
 ### 3#5. Donation of the
   "Sentinel" Public Art from the Blackburn Foundation
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director of Corporate Investments   and Partnerships, the following actions be taken with respect to the   acquisition of the “Sentinel” public art:   a)         the   proposed by-law, as appended to the staff report dated December 2, 2013, BE   INTRODUC...
 
@@ -3743,7 +3743,7 @@ Unanimous (15-0)
 ### 5#6. Proposed Risk
   Assessment and 2014 - 2016 Risk-Based Audit Plan
 
-<a id="motion-5-6-0" class="motion-anchor"></a>
+<div id="motion-5-6-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the Proposed Risk Assessment and 2014 - 2016 Risk-Based Audit   Plan:   a)         the   Risk Assessment and 2014 - 2016 Risk-Based Audit Plan identified in Appendix   A of the PricewaterhouseCoopers’ (PwC) report dated December 5, 2013, BE   ...
 
@@ -3753,7 +3753,7 @@ Unanimous (14-0)
 
 ### 5#7. 2013 Report to the Community
 
-<a id="motion-5-7-0" class="motion-anchor"></a>
+<div id="motion-5-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3764,7 +3764,7 @@ Unanimous (14-0)
 ### 6#3. Rockin' New Year's
   Eve
 
-<a id="motion-6-3-0" class="motion-anchor"></a>
+<div id="motion-6-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director of Parks and Recreation, with respect to the noise levels at the   Rockin’ New Year’s Eve Event, the attached by-law BE INTRODUCED   at the Municipal Council meeting to be held on December 17, 2013, to provide   an exemption from sections 13....
 
@@ -3782,7 +3782,7 @@ Unanimous (14-0)
 ### 6#4. Declare Surplus
   City-Owned Land Adjacent to 47 and 49 Agincourt Gardens
 
-<a id="motion-6-4-0" class="motion-anchor"></a>
+<div id="motion-6-4-0" class="motion-anchor"></div>
 
 > Refer clause 6 regarding the declaration of   surplus city-owned land adjacent to 47 and 49 Agincourt Gardens back to the   Civic Administration for further review.
 
@@ -3799,7 +3799,7 @@ Unanimous (14-0)
 
 ### 6#6. Cycling Advisory Committee
 
-<a id="motion-6-6-0" class="motion-anchor"></a>
+<div id="motion-6-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3816,7 +3816,7 @@ Unanimous (14-0)
 
 ### 6#6. Cycling Advisory Committee
 
-<a id="motion-6-6-1" class="motion-anchor"></a>
+<div id="motion-6-6-1" class="motion-anchor"></div>
 
 > Approve:   That, as a procedural matter pursuant to   Section 239 (6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:   That, on the recommendation of the Managing   Director, Corporate Services and City Trea...
 
@@ -3828,7 +3828,7 @@ Unanimous (14-0)
   City-Owned Land Adjacent to 33, 37, 41, 45, 49, 53 and 57 Stoneycreek
   Crescent
 
-<a id="motion-7-4-0" class="motion-anchor"></a>
+<div id="motion-7-4-0" class="motion-anchor"></div>
 
 > That, notwithstanding the recommendation of   Staff to enforce the encroachment policy, on October 1, 2013 the Municipal   Council directed staff to sell certain encroachment properties. In light of   this, it is recommended the following actions be taken with respect to the   City-owned property...
 
@@ -3846,7 +3846,7 @@ Unanimous (14-0)
 ### 7#5. Sunfest Funding
   Request
 
-<a id="motion-7-5-0" class="motion-anchor"></a>
+<div id="motion-7-5-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the communication dated November 8, 2013, from A. Caxaj,   Executive, Artistic Director and D. Mumford, Board Member, Sunfest, relating   to a one-time funding request of $50,000 to assist in celebrating the   festival’s 20th Anniversary:   a)...
 
@@ -3857,7 +3857,7 @@ Unanimous (14-0)
 ### 8#3. Request for
   Proposal (RFP) 12-28 Animal Welfare Services
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > Amend clause 8 by adding the following new   part q):   “q)      in   support of a no kill principle, City Administration BE DIRECTED to complete   the public processes noted in parts f), g) and h) above, early in 2014 to   ensure that any necessary by-law amendments are in place prior to July 1,...
 
@@ -3868,7 +3868,7 @@ Unanimous (15-0)
 ### 8#3. Request for
   Proposal (RFP) 12-28 Animal Welfare Services
 
-<a id="motion-8-3-1" class="motion-anchor"></a>
+<div id="motion-8-3-1" class="motion-anchor"></div>
 
 > Approve clause 8, as amended.
 
@@ -3879,7 +3879,7 @@ Unanimous (15-0)
 ### 8#5. Ontario Music Fund
   Program
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the communication from A. Halwa,   Executive Director, London Arts Council, with respect to a funding request of   $50,000 per year for a two year London Music Strategy Business Plan BE   REFERRED to the Civic Administration to work through the due diligence   project checklist process with ...
 
@@ -3890,7 +3890,7 @@ Unanimous (14-0)
 ### 8#5. Ontario Music Fund
   Program
 
-<a id="motion-8-5-1" class="motion-anchor"></a>
+<div id="motion-8-5-1" class="motion-anchor"></div>
 
 > Approve clause 8, as amended.
 
@@ -3901,7 +3901,7 @@ Unanimous (14-0)
 ### 9#4. Procurement of
   Goods and Services Policy Revisions
 
-<a id="motion-9-4-0" class="motion-anchor"></a>
+<div id="motion-9-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   proposed by-law appended to the staff report dated December 10, 2013, being a   By-Law to amend By-Law No. A.-6151-17, BE INTRODUCED at the Municipal Council   meeting on ...
 
@@ -3912,7 +3912,7 @@ Unanimous (15-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that the Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -3923,7 +3923,7 @@ Unanimous (15-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIRST MEETING HELD ON DECEMBER 3, 2013
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 1st Meeting   held on December 3, 2013.
 
@@ -3937,7 +3937,7 @@ Unanimous (14-0)
   with clause 8 of the 2nd Report of the Community and Protective Services
   Committee.)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3948,7 +3948,7 @@ Unanimous (14-0)
 ### 11. Urban Growth
   Boundary Inclusion Requests (O-7938)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3966,7 +3966,7 @@ Unanimous (14-0)
 ### 11. Urban Growth
   Boundary Inclusion Requests (O-7938)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Approve that the following actions be   taken with respect to the Urban Growth Boundary inclusion requests:   a)           NO ACTION BE TAKEN to amend the Urban Growth Boundary for residential,   institutional or commercial for the Rethink London Official Plan Review   process; and,   b)         ...
 
@@ -3984,7 +3984,7 @@ Unanimous (14-0)
 ### 13. Candidate Approval
   for the Urban Design Peer Review Panel
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following candidates BE APPROVED for   available positions on the Urban Design Peer Review Panel:   a)         Brad Smith – Position of   Landscape Architect;   b)         John Nicholson – Position of   Archite...
 
@@ -3994,7 +3994,7 @@ Unanimous (15-0)
 
 ### 14. Property located at 275 Thames Street
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with   respect to the Fugitive Slave Chapel, located at 275 Thames Street:   a)         $50,000   BE ALLOCATED for the foundation with a basement from the Capital Budget; and,   b)           the Civic Administration BE REQUESTED to waive the associated   devel...
 
@@ -4011,7 +4011,7 @@ Unanimous (15-0)
 
 ### 14. Property located at 275 Thames Street
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Approve clause 14, as amended.
 
@@ -4029,7 +4029,7 @@ Unanimous (15-0)
 ### 17. Request for Write
   Off of Miscellaneous and Dearness Home Accounts Receivable
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy   City Treasurer, the Civic Administration BE AUTHORIZED to write off the outstanding   Miscellaneous and Dearness accounts receivable, attached as   Appendix “A” to the staff report dated December 10, 2013, to the Allowance   for Doubtful Accounts, in ac...
 
@@ -4040,7 +4040,7 @@ Unanimous (15-0)
 ### 18. Participation of
   Young Women in Civics and Government
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED   to provide one-time funding in the amount of $20,000, within the existing   budget to be contributed to the Operating Contingency Reserve Fund, for a   video to deliver an impactful message to young women to be shared widely,   including on-line media, ...
 

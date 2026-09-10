@@ -253,7 +253,7 @@ The meeting adjourned at 4:41 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3 and 2.4 BE APPROVED.
 
@@ -263,7 +263,7 @@ Unanimous (6-0)
 
 ### 4.1. Towing Services Review
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the communication, as appended to the agenda, from Councillor S. Lewis, with respect to a request for a draft by-law related to the towing industry, BE REFERRED to the Civic Administration for a review and consultation with the industry as well as with law enforcement agencies, including the...
 

@@ -650,7 +650,7 @@ Motion
   Tender No. 15-51 Commissioners Road West Widening Wonderland Road South to
   Huxley Street
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -662,7 +662,7 @@ Unanimous (5-0)
 ### 3. London Hydro
   Alternate Locate Agreement
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -674,7 +674,7 @@ Unanimous (5-0)
 ### 4. Contract Award:
   Tender No. 15-24 2015 Arterial Road Rehabilitation Contract #3
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -688,7 +688,7 @@ Unanimous (5-0)
   Associated with the Construction of 2015 Infrastructure Renewal Projects:
   Riverside, Vancouver and Egerton Reconstruction Projects
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -700,7 +700,7 @@ Unanimous (5-0)
 ### 6. Transportation
   Energy Optimization Plan (TEOP) Phase 1 Financing
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -712,7 +712,7 @@ Unanimous (5-0)
 ### 7. Municipal Parking
   Lot Upgrade Strategy
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -724,7 +724,7 @@ Unanimous (5-0)
 ### 8. School Zone Speed
   Limit Policy
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -736,7 +736,7 @@ Unanimous (5-0)
 ### 8. School Zone Speed
   Limit Policy
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -755,7 +755,7 @@ Unanimous (5-0)
 ### 8. School Zone Speed
   Limit Policy
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -767,7 +767,7 @@ Unanimous (5-0)
 ### 9. Proposed Water
   By-law (W-8) Amendment Regarding Outdoor Water Use Restrictions
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -779,7 +779,7 @@ Unanimous (5-0)
 ### 9. Proposed Water
   By-law (W-8) Amendment Regarding Outdoor Water Use Restrictions
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -791,7 +791,7 @@ Unanimous (5-0)
 ### 9. Proposed Water
   By-law (W-8) Amendment Regarding Outdoor Water Use Restrictions
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -803,7 +803,7 @@ Unanimous (5-0)
 ### 9. Proposed Water
   By-law (W-8) Amendment Regarding Outdoor Water Use Restrictions
 
-<a id="motion-9-3" class="motion-anchor"></a>
+<div id="motion-9-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -815,7 +815,7 @@ Unanimous (5-0)
 ### 10. 3rd Report of the
   Transportation Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -827,7 +827,7 @@ Unanimous (5-0)
 ### 10. 3rd Report of the
   Transportation Advisory Committee
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -838,7 +838,7 @@ Unanimous (5-0)
 
 ### 11. Deferred Matters List
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -856,7 +856,7 @@ Unanimous (5-0)
 
 ### 11. Deferred Matters List
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -867,7 +867,7 @@ Unanimous (5-0)
 
 ### 12. (Added) Recycling Bins in City Parks
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -878,7 +878,7 @@ Unanimous (5-0)
 
 ### 12. (Added) Recycling Bins in City Parks
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -587,7 +587,7 @@ The meeting adjourned at 2:31 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.2 to 2.13 BE APPROVED.
 
@@ -597,7 +597,7 @@ Unanimous (5-0)
 
 ### 3.2. Choose London – Innovative, Vibrant and Global - London’s Newcomer Strategy
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the Strategy Report, as appended to the staff report dated June 18, 2018, with respect to Choose London – Innovative, Vibrant and Global: London’s Newcomer Strategy, BE ENDORSED; it being noted that ...
 
@@ -607,7 +607,7 @@ Unanimous (5-0)
 
 ### 4.1. 5th Report of the Accessibility Advisory Committee
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to refer parts 3.2 and 3.4 of the 5th Report of the Accessibility Advisory Committee to a future meeting of the Community and Protective Services Committee for consideration.
 
@@ -626,7 +626,7 @@ Unanimous (5-0)
 
 ### 4.1. 5th Report of the Accessibility Advisory Committee
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > Motion to approve the remainder of the 5th Report of the Accessibility Advisory Committee.
 
@@ -636,7 +636,7 @@ Unanimous (5-0)
 
 ### 4.2. Middlesex-London Health Unit Office Space Fit-up Funding Request
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the communication, dated June 18, 2018, from Dr. C. Mackie, Medical Officer of Heath/CEO from the Middlesex-London Heath Unit, with respect to the Middlesex-London Heath Unit office space fit-up funding request, BE REFERRED to the next meeting of the Community and Protective Services Committ...
 

@@ -477,7 +477,7 @@ The meeting adjourned at 9:42 PM.
 
 ### 2.1. London Community Grants Program Innovation and Capital Funding Allocations (2019)
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > Motion to direct the Mayor to communicate Council's thanks to each of the panel members.
 
@@ -487,7 +487,7 @@ Unanimous (15-0)
 
 ### 3.1. Amendments to Consolidated Fees and Charges By-law
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Clerk, with the concurrence of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the proposed by-law appended to the staff report dated September 17, 2018 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on...
 
@@ -504,7 +504,7 @@ Unanimous (15-0)
 
 ### 3.2. Dr. Josipa Petrunic, Executive Director and Chief Executive Officer, Canadian Urban Transit Research and Innovation Consortium - Rapid Transit
 
-<a id="motion-3-2-2" class="motion-anchor"></a>
+<div id="motion-3-2-2" class="motion-anchor"></div>
 
 > b)    based on the financial and environmental benefits shown by the modelling done by CUTRIC, electrification of London’s Bus Rapid Transit system BE ENDORSED-IN-PRINCIPLE;
 
@@ -521,7 +521,7 @@ Unanimous (15-0)
 
 ### 3.2. Dr. Josipa Petrunic, Executive Director and Chief Executive Officer, Canadian Urban Transit Research and Innovation Consortium - Rapid Transit
 
-<a id="motion-3-2-3" class="motion-anchor"></a>
+<div id="motion-3-2-3" class="motion-anchor"></div>
 
 > c)    the Civic Administration BE DIRECTED to continue working with the London Transit Commission and  Canadian Urban Transit Research & Innovation Consortium (CUTRIC) on economic modelling for electrification, including maintenance; and,
 
@@ -531,7 +531,7 @@ Unanimous (15-0)
 
 ### 3.2. Dr. Josipa Petrunic, Executive Director and Chief Executive Officer, Canadian Urban Transit Research and Innovation Consortium - Rapid Transit
 
-<a id="motion-3-2-4" class="motion-anchor"></a>
+<div id="motion-3-2-4" class="motion-anchor"></div>
 
 > d)     the Civic Administration BE DIRECTED to work with the London Transit Commission and the Canadian Urban Transit Research & Innovation Consortium (CUTRIC) on securing funding and partnerships that would allow London to implement electric buses as part of London’s Bus Rapid Transit.
 
@@ -548,7 +548,7 @@ Unanimous (15-0)
 
 ### 4.1. London Convention Centre Board Appointments
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the changes to the London Convention Centre Corporation By-law as requested in the communication dated September 5, 2018 from L. Da Silva.
 

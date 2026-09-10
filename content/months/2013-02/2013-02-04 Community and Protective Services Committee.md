@@ -185,7 +185,7 @@ Motion Passed
 ### 4. 1st Report of the
   Community and Crime Prevention Advisory Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -196,7 +196,7 @@ Unanimous (5-0)
 ### 5. 2nd Report of the
   London Housing Advisory Committee
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -207,7 +207,7 @@ Unanimous (6-0)
 ### 6. Ontario Works
   Decentralization
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 

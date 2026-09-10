@@ -669,7 +669,7 @@ The meeting adjourned at 7:06 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.7, inclusive, BE APPROVED.
 
@@ -679,7 +679,7 @@ Unanimous (6-0)
 
 ### 3.6. Delegation - Dr. C. Mackie, Middlesex London Health Unit - Supervised Consumption Facility Location
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to supervised consumption facility locations: a)              the provision of supervised consumption facilities in London BE ENDORSED; b)             the provision of supervised consumption services at 241 Simcoe St and 446 York St BE ENDORSED su...
 
@@ -689,7 +689,7 @@ Unanimous (5-0)
 
 ### 3.6. Delegation - Dr. C. Mackie, Middlesex London Health Unit - Supervised Consumption Facility Location
 
-<a id="motion-3-6-1" class="motion-anchor"></a>
+<div id="motion-3-6-1" class="motion-anchor"></div>
 
 > Motion to grant Dr. C. Mackie an extension of his delegation beyond five minutes.
 

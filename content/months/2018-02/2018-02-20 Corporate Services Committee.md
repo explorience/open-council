@@ -446,7 +446,7 @@ The meeting adjourned at 2:13 PM.
 ### 2. 2018 Municipal
   Election Update
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -463,7 +463,7 @@ The meeting adjourned at 2:13 PM.
 ### 3. 2018 Municipal
   Election Compliance Audit Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -480,7 +480,7 @@ The meeting adjourned at 2:13 PM.
 ### 4. Update: Equity and
   Inclusion Lens for Development of Policies, Procedures and Programs
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -497,7 +497,7 @@ The meeting adjourned at 2:13 PM.
 ### 5. Infrastructure
   Canada's Smart Cities Challenge
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -514,7 +514,7 @@ The meeting adjourned at 2:13 PM.
 ### 6. Apportionment of
   Taxes
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -531,7 +531,7 @@ The meeting adjourned at 2:13 PM.
 ### 7. Requests for
   "Sister City" Partnerships
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -548,7 +548,7 @@ The meeting adjourned at 2:13 PM.
 ### 7. Requests for
   "Sister City" Partnerships
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -565,7 +565,7 @@ The meeting adjourned at 2:13 PM.
 ### 8. Mayor’s Report on
   the FCM Trip to Washington, DC
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -583,7 +583,7 @@ The meeting adjourned at 2:13 PM.
   Designation of the I ♥ Beer and Bacon Event as a Municipally
   Significant Event
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -601,7 +601,7 @@ The meeting adjourned at 2:13 PM.
   Designation of the Latin Gastronomy Festival as a Municipally Significant
   Event
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -618,7 +618,7 @@ The meeting adjourned at 2:13 PM.
 ### 11. Request for
   Designation of the London Taco Fest as a Municipally Significant Event
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -635,7 +635,7 @@ The meeting adjourned at 2:13 PM.
 ### 12. Appointment to the
   Diversity Inclusion & Anti-Oppression Advisory Committee
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -652,7 +652,7 @@ The meeting adjourned at 2:13 PM.
 ### 13. Appointment to the
   Animal Welfare Advisory Committee
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -669,7 +669,7 @@ The meeting adjourned at 2:13 PM.
 ### 14. Appointment to the
   Cycling Advisory Committee
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -686,7 +686,7 @@ The meeting adjourned at 2:13 PM.
 ### 15. Corporate Services
   Committee Deferred Matters List
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

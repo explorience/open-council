@@ -390,7 +390,7 @@ The meeting adjourned at 3:01 PM.
 ### 2. Proposed Election
   Sign By-law
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -409,7 +409,7 @@ The meeting adjourned at 3:01 PM.
 ### 2. Proposed Election
   Sign By-law
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -428,7 +428,7 @@ The meeting adjourned at 3:01 PM.
 ### 2. Proposed Election
   Sign By-law
 
-<a id="motion-2-2" class="motion-anchor"></a>
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -447,7 +447,7 @@ The meeting adjourned at 3:01 PM.
 ### 3. Tax Adjustment
   Agenda
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -459,7 +459,7 @@ Unanimous (4-0)
 ### 3. Tax Adjustment
   Agenda
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -471,7 +471,7 @@ Unanimous (2-0)
 ### 3. Tax Adjustment
   Agenda
 
-<a id="motion-3-3" class="motion-anchor"></a>
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -483,7 +483,7 @@ Unanimous (4-0)
 ### 3. Tax Adjustment
   Agenda
 
-<a id="motion-3-4" class="motion-anchor"></a>
+<div id="motion-3-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -495,7 +495,7 @@ Unanimous (4-0)
 ### 3. Tax Adjustment
   Agenda
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -507,7 +507,7 @@ Unanimous (2-0)
 ### 4. Tribunal -
   Development Charge Complaint - 1030 Elias Street
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -519,7 +519,7 @@ Unanimous (4-0)
 ### 4. Tribunal -
   Development Charge Complaint - 1030 Elias Street
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -531,7 +531,7 @@ Unanimous (4-0)
 ### 4. Tribunal -
   Development Charge Complaint - 1030 Elias Street
 
-<a id="motion-4-2" class="motion-anchor"></a>
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -543,7 +543,7 @@ Unanimous (4-0)
 ### 5. Council Policy -
   Use of Corporate Resources During a Municipal Election Year
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -562,7 +562,7 @@ Unanimous (4-0)
 ### 6. London I♥Beer
   Holiday Festival - Request for Designation as a Municipally Significant Event
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -574,7 +574,7 @@ Unanimous (4-0)
 ### 7. Corporate Services
   Committee Deferred Matters List
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -586,7 +586,7 @@ Unanimous (4-0)
 ### 7. Corporate Services
   Committee Deferred Matters List
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -598,7 +598,7 @@ Unanimous (4-0)
 ### 7. Corporate Services
   Committee Deferred Matters List
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -3484,7 +3484,7 @@ Passed
 ### 13#2. North American Free
   Trade Agreement (NAFTA)
 
-<a id="motion-13-2-0" class="motion-anchor"></a>
+<div id="motion-13-2-0" class="motion-anchor"></div>
 
 > Approve that clause 13 be amended by   adding the words, ", labour and Indigenous " after the word   "business".
 
@@ -3495,7 +3495,7 @@ Unanimous (10-0)
 ### 13#2. North American Free
   Trade Agreement (NAFTA)
 
-<a id="motion-13-2-1" class="motion-anchor"></a>
+<div id="motion-13-2-1" class="motion-anchor"></div>
 
 > Approve that clause 13 be further   amended by adding the word "Mexico" after the words "United   States of America" and by adding the following words to the end of   clause:   "and that the Government of Canada be   requested to engage in further consultation with the City of London and the   br...
 
@@ -3511,7 +3511,7 @@ Unanimous (10-0)
 ### 13#2. North American Free
   Trade Agreement (NAFTA)
 
-<a id="motion-13-2-2" class="motion-anchor"></a>
+<div id="motion-13-2-2" class="motion-anchor"></div>
 
 > Approve clause 13, as amended.
 
@@ -3522,7 +3522,7 @@ Unanimous (11-0)
 ### 14#4. Request for Demolition
   of Heritage Listed Property located at 660 Sunningdale Road East
 
-<a id="motion-14-4-0" class="motion-anchor"></a>
+<div id="motion-14-4-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with   respect to the request for the demolition of a heritage listed property   located at 660 Sunningdale Road East:    a)         notice   BE GIVEN under the provision of Section 29(3) of the Ontario Heritage Act,   R.S.O. 1990, c. O. 18, of the Municipal C...
 
@@ -3540,7 +3540,7 @@ Unanimous (11-0)
 ### 14#4. Request for Demolition
   of Heritage Listed Property located at 660 Sunningdale Road East
 
-<a id="motion-14-4-1" class="motion-anchor"></a>
+<div id="motion-14-4-1" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of   the Managing Director, Planning & City Planner, with the advice of the   Heritage Planner, with respect to the request for the demolition of a   heritage listed property located at 660 Sunningdale Road East, that notice BE   GIVEN under the provision of Se...
 
@@ -3559,7 +3559,7 @@ Unanimous (11-0)
   Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
   (Relates to Bill No.'s 332 and 345)
 
-<a id="motion-15-3-0" class="motion-anchor"></a>
+<div id="motion-15-3-0" class="motion-anchor"></div>
 
 > Approve that clause 15 be amended as   follows:   a)        by adding the following new part   c):   “c)        the   proposed amendment referenced in a) above BE FORWARDED the Ontario Municipal   Board for their consideration of a potential amendment to Policy 942 of The   London Plan to delete ...
 
@@ -3578,7 +3578,7 @@ Unanimous (11-0)
   Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
   (Relates to Bill No.'s 332 and 345)
 
-<a id="motion-15-3-1" class="motion-anchor"></a>
+<div id="motion-15-3-1" class="motion-anchor"></div>
 
 > Approve clause 15, as amended.
 
@@ -3597,7 +3597,7 @@ Unanimous (11-0)
   1355 Commissioners Road West (formerly 1349, 1351, 1357, 1361 Commissioners
   Road West) (SPA17-024)
 
-<a id="motion-16-3-0" class="motion-anchor"></a>
+<div id="motion-16-3-0" class="motion-anchor"></div>
 
 > Approve that clause 16 be amended  as   follows:   i)          by adding the following new   part c):   “c)        in   accordance with section 45 (1.4) of the Planning Act, R.S.O. 1990, c.P. 13,   as amended, consent BE GIVEN to the Secretary-Treasurer of the Committee of   Adjustment to accept ...
 
@@ -3616,7 +3616,7 @@ Unanimous (11-0)
   1355 Commissioners Road West (formerly 1349, 1351, 1357, 1361 Commissioners
   Road West) (SPA17-024)
 
-<a id="motion-16-3-1" class="motion-anchor"></a>
+<div id="motion-16-3-1" class="motion-anchor"></div>
 
 > Approve that clause 16 be further amended   in part d) to read as follows   d)         the   Civic Administration BE REQUESTED to provide notification related to   Committee of Adjustment application resulting from c) above, to anyone who   made a submission regarding previous applications before...
 
@@ -3635,7 +3635,7 @@ Unanimous (11-0)
   1355 Commissioners Road West (formerly 1349, 1351, 1357, 1361 Commissioners
   Road West) (SPA17-024)
 
-<a id="motion-16-3-2" class="motion-anchor"></a>
+<div id="motion-16-3-2" class="motion-anchor"></div>
 
 > Approve part d) of clause 16, as amended.
 
@@ -3654,7 +3654,7 @@ Unanimous (11-0)
   1355 Commissioners Road West (formerly 1349, 1351, 1357, 1361 Commissioners
   Road West) (SPA17-024)
 
-<a id="motion-16-3-3" class="motion-anchor"></a>
+<div id="motion-16-3-3" class="motion-anchor"></div>
 
 > Approve parts a) and b) of clause 16, as   amended.
 
@@ -3666,7 +3666,7 @@ Unanimous (13-0)
   1355 Commissioners Road West (formerly 1349, 1351, 1357, 1361 Commissioners
   Road West) (SPA17-024)
 
-<a id="motion-16-3-4" class="motion-anchor"></a>
+<div id="motion-16-3-4" class="motion-anchor"></div>
 
 > Approve part c) of clause 16, as amended.
 
@@ -3684,7 +3684,7 @@ Unanimous (13-0)
 ### 2#4. Amendments to the
   Traffic and Parking By-law (Relates to Bill No's. 335, 336 and 337)
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to amendments to the Traffic and   Parking By-law (PS-113):   a)         the   proposed by-law, appended to the staff report dated July 1...
 
@@ -3695,7 +3695,7 @@ Unanimous (13-0)
 ### 2#6. Service London:  The Costs and
   Considerations Associated with a 311 Number
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3713,7 +3713,7 @@ Unanimous (13-0)
 ### 20#2. 6th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-20-2-0" class="motion-anchor"></a>
+<div id="motion-20-2-0" class="motion-anchor"></div>
 
 > That the 6th Report of the EEPAC BE   RECEIVED; it being noted that it is addressed in clause 2 of this Report.
 
@@ -3724,7 +3724,7 @@ Unanimous (12-0)
 ### 3#2. Property located at
   8076 Longwoods Road (Z-8735) (Relates to Bill No. 342)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3735,7 +3735,7 @@ Unanimous (14-0)
 ### 4#6. Shift Rapid Transit – Master Plan and
   Business Case
 
-<a id="motion-4-6-0" class="motion-anchor"></a>
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3753,7 +3753,7 @@ Unanimous (14-0)
 ### 4#6. Shift Rapid Transit – Master Plan and
   Business Case
 
-<a id="motion-4-6-3" class="motion-anchor"></a>
+<div id="motion-4-6-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3765,7 +3765,7 @@ Unanimous (13-0)
 ### 4#6. Shift Rapid Transit – Master Plan and
   Business Case
 
-<a id="motion-4-6-1" class="motion-anchor"></a>
+<div id="motion-4-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3783,7 +3783,7 @@ Unanimous (13-0)
 ### 4#6. Shift Rapid Transit – Master Plan and
   Business Case
 
-<a id="motion-4-6-2" class="motion-anchor"></a>
+<div id="motion-4-6-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3799,7 +3799,7 @@ Unanimous (13-0)
 ### 5#2. Closed Adult Live
   Entertainment Parlour - 2190 Dundas Street East
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -3810,7 +3810,7 @@ Unanimous (14-0)
 ### 7#5. Staff Resourcing to
   Support the New Tree Protection By-law
 
-<a id="motion-7-5-0" class="motion-anchor"></a>
+<div id="motion-7-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the Civic Administration BE AUTHORIZED   to increase the staff complement in Planning Services by one permanent   full-time equivalent, using existing Operational funding, to support the   ongoing administration of...
 
@@ -3822,7 +3822,7 @@ Unanimous (13-0)
   Prime Consultant for the Byron Pool and Bathhouse Life Cycle Renewal Project
   - Request for Proposal No. F-RFP17-04, Project No. P029-RC22017
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   following actions be taken with respect to the request for proposal for the   architect to act as prime consultant for the Byron Pool and Bathhouse Life   Cycle Renewal (R...
 
@@ -3833,7 +3833,7 @@ Unanimous (14-0)
 ### 8#4. Downsizing Water
   Meters
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the matter of downsizing water meters   BE REFERRED to the Civic Administration for review and report back to the   Civic Works Committee with respect to options that will allow people to right   size water meters on their property.  (2017-E08)
 
@@ -3850,7 +3850,7 @@ Unanimous (14-0)
 
 ### 8#6. Appointment of Acting Mayors
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3861,7 +3861,7 @@ Unanimous (13-0)
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3872,7 +3872,7 @@ Unanimous (13-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINETEENTH MEETING HELD ON JUNE 26, 2017
 
-<a id="motion-v-0" class="motion-anchor"></a>
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Nineteenth Meeting   held on June 26, 2017.
 
@@ -3883,7 +3883,7 @@ Unanimous (13-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-0" class="motion-anchor"></a>
+<div id="motion-xii-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3901,7 +3901,7 @@ Unanimous (13-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-1" class="motion-anchor"></a>
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Approve that   the Civic Administration BE DIRECTED to suspend enforcement of Section 4.18   5) of Zoning By-law Z.-1 until the appeal to the Ontario Municipal Board   (OMB) related to Municipal Council's decision to delete that section from   Zoning By-law Z-1 has been decided or withdrawn; it b...
 
@@ -3918,7 +3918,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading   of Bill No.’s 332 and 345.
 
@@ -3935,7 +3935,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-4" class="motion-anchor"></a>
+<div id="motion-xiii-4" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No.’s 332   and 345.
 
@@ -3952,7 +3952,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No.’s 332 and 345.
 
@@ -3975,7 +3975,7 @@ Unanimous (13-0)
   Committee Stage for Consideration with Clause 12 of the 14th Report of the
   Planning and Environment Committee)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3991,7 +3991,7 @@ Unanimous (14-0)
   Committee Stage for Consideration with Clause 12 of the 14th Report of the
   Planning and Environment Committee)
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 3 of the 14th Report of the Planning and Environment   Committee at this time.
 
@@ -4002,7 +4002,7 @@ Unanimous (14-0)
 ### 10. Council Policy for
   Publicly Releasing Fire Conviction Information
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > That it BE NOTED that the report dated July   18, 2017 from the Fire Chief with respect to a proposed Council Policy for   publicly releasing fire conviction information, was received; it being noted   that there will be no further action with respect to this matter; it being   further noted that...
 
@@ -4020,7 +4020,7 @@ Unanimous (14-0)
 ### 16. 7th Report of the
   Diversity, Inclusion and Anti-Oppression Advisory Committee
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Approve that clause 16 be amended to   read as follows:   “That the following actions be taken with   respect to the 7th Report of the Diversity, Inclusion and Anti-Oppression   Advisory Committee from its meeting held on June 15, 2017:   a)         the   Civic Administration BE REQUESTED to revi...
 
@@ -4038,7 +4038,7 @@ Unanimous (14-0)
 ### 16. 7th Report of the
   Diversity, Inclusion and Anti-Oppression Advisory Committee
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Approve clause 16, as amended.
 
@@ -4056,7 +4056,7 @@ Unanimous (14-0)
 ### 18. 6th Report of
   Accessibility Advisory Committee
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Approve that clause 18 be amended to   read as follows:   “That the following actions be taken with   respect to the 6th Report of the Accessibility Advisory Committee from the   meeting held on June 22, 2017:   a)         the   Civic Administration BE REQUESTED to review and report back on the  ...
 
@@ -4074,7 +4074,7 @@ Unanimous (14-0)
 ### 18. 6th Report of
   Accessibility Advisory Committee
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Approve clause 18, as amended.
 
@@ -4085,7 +4085,7 @@ Unanimous (13-0)
 ### 21. Deferral of Tree
   Cutting on Trowbridge Avenue
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > That NO ACTION BE TAKEN at this time to   install sidewalks on Trowbridge Avenue, so that the removal of trees for   construction purposes can be avoided, recognizing that some trees will still   need to be removed for safety reasons due to their condition; it being noted   that the Civic Works C...
 
@@ -4103,7 +4103,7 @@ Unanimous (13-0)
 ### 22. F. Fernandez -
   Ontario Power Generation's Proposed Nuclear Waste Repository
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > That the submission dated June 21, 2017,   from F. Fernandez with respect to the Ontario Power Generation's Proposed   Nuclear Waste Repository, BE REFERRED to the next meeting of the Civic Works   Committee.
 

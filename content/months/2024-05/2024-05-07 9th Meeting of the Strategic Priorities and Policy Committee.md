@@ -1700,7 +1700,7 @@ All those in favor. Motion carries. Thank you, everyone. We're adjourned.
 
 ### 4.2. Consideration of Appointment to the Kettle Creek Conservation Authority Board of Directors (Requires 1 Member)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That John Joseph Strybosch BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
 
@@ -1710,7 +1710,7 @@ Unanimous (13-0)
 
 ### 4.2. Consideration of Appointment to the Kettle Creek Conservation Authority Board of Directors (Requires 1 Member)
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Consideration of Appointment to the Kettle Creek Conservation Authority
 
@@ -1725,7 +1725,7 @@ Unanimous (13-0)
 
 ### 4.4. Request for a Review of the Code of Conduct for Members of Council - Councillor S. Stevenson and Deputy Mayor S. Lewis
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > That the motion be amended to include a new part c) to read as follows: c)   the Civic Administration BE DIRECTED to review the Code of Conduct for Community Advisory Committees contained within the General Policy for Community Advisory Committees for general alignment with the principles of the ...
 
@@ -1735,7 +1735,7 @@ Unanimous (14-0)
 
 ### 4.4. Request for a Review of the Code of Conduct for Members of Council - Councillor S. Stevenson and Deputy Mayor S. Lewis
 
-<a id="motion-4-4-2" class="motion-anchor"></a>
+<div id="motion-4-4-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1745,7 +1745,7 @@ Unanimous (14-0)
 
 ### 5.1. (ADDED) Request for One-Time Funding for Ark Aid - Mayor J. Morgan and Deputy Mayor S. Lewis
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > That the delegation request from Sarah Campbell, Executive Director, Ark Aid Street Mission Inc. BE APPROVED to heard at this time.
 
@@ -1755,7 +1755,7 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) Request for One-Time Funding for Ark Aid - Mayor J. Morgan and Deputy Mayor S. Lewis
 
-<a id="motion-5-1-3" class="motion-anchor"></a>
+<div id="motion-5-1-3" class="motion-anchor"></div>
 
 > That part b) of the motion BE REFERRED to the May 28, 2024 meeting of the Strategic Priorities and Policy Committee
 
@@ -1774,7 +1774,7 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) Request for One-Time Funding for Ark Aid - Mayor J. Morgan and Deputy Mayor S. Lewis
 
-<a id="motion-5-1-4" class="motion-anchor"></a>
+<div id="motion-5-1-4" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to extend one-time funding in the amount of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days until July 31, 2024 to be funded through the Community Investment Reserve Fund and for staff to engage with Ark Aid Street Mission Inc. to review...
 

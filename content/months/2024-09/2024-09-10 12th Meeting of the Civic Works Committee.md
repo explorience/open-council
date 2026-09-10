@@ -276,7 +276,7 @@ Moved by Councillor Trussell and seconded by Councillor Frank. Can we do a hand 
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.6 BE APPROVED.
 

@@ -1747,7 +1747,7 @@ Deputy Mayor. Yes thank you and that's kind of what I wanted to get to is really
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.6 BE APPROVED.
 
@@ -1757,7 +1757,7 @@ Unanimous (5-0)
 
 ### 3.2. 2118 Richmond Street (OZ-9770)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Encore at Upper Richmond Inc., relating to the property located at 2118 Richmond Street: a) the proposed by-law appended to the staff report dated October 22, 2...
 
@@ -1767,7 +1767,7 @@ Unanimous (5-0)
 
 ### 3.5. 1856-1910 Oxford Street West (O-9484 & Z-9458)
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Oxford West Gateway Inc., (c/o Strik Baldinelli Moniz), relating to the property located at 1856-1910 Oxford Street West: a) the proposed revised, attached, by-...
 
@@ -1777,7 +1777,7 @@ Unanimous (5-0)
 
 ### 3.5. 1856-1910 Oxford Street West (O-9484 & Z-9458)
 
-<a id="motion-3-5-3" class="motion-anchor"></a>
+<div id="motion-3-5-3" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Oxford West Gateway Inc. (c/o Strik Baldinelli Moniz) relating to the property located at 1856-1910 Oxford Street West:  (a)    the proposed by-law attac...
 
@@ -1794,7 +1794,7 @@ Unanimous (5-0)
 
 ### 4.1. Hyde Park BIA Boundary Expansion Request
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That Civic Administration BE DIRECTED to take the necessary steps to expand the boundary of the Hyde Park Business Improvement Area; it being noted that the Planning and Environment Committee heard verbal delegations and received a communication dated October 8, 2024 from D. Szpakowski, General M...
 
@@ -1804,7 +1804,7 @@ Unanimous (5-0)
 
 ### 4.1. Hyde Park BIA Boundary Expansion Request
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That D. Szpakowski and T. Delaney, Hyde Park Business Improvement Association BE GRANTED delegation status with respect to the Hyde Park Business Improvement Association boundary expansion request.
 
@@ -1814,7 +1814,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) A. Badillo, Urban Roots London
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > The Civic Administration be directed to allocate $23,167.00 from the Community Investment Reserve Fund to cover the cost of severing the residential portion of the Urban Roots property at 21 Norlan.
 
@@ -1824,7 +1824,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) A. Badillo, Urban Roots London
 
-<a id="motion-5-2-1" class="motion-anchor"></a>
+<div id="motion-5-2-1" class="motion-anchor"></div>
 
 > That A. Badillo, Executive Director, Urban Roots BE GRANTED delegation status; it being noted that the Planning and Environment Committee received a communication dated October 16, 2024, from A. Badillo, Executive Director, Urban Roots London, with respect to these matters.
 
@@ -1834,7 +1834,7 @@ Unanimous (5-0)
 
 ### 6. Adjournment
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > The meeting adjourned at 3:36 PM.
 

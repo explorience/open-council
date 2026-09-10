@@ -502,7 +502,7 @@ The meeting adjourned at 3:26 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.3, 2.4, 2.6, 2.7, 2.8 and 2.11 BE APPROVED.
 
@@ -512,7 +512,7 @@ Unanimous (6-0)
 
 ### 2.2. Designation of Municipally Significant Events
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Clerk, with the concurrence of the Managing Director, Corporate Services and City Solicitor, the proposed by-law included as Appendix “A” to the staff report dated June 19, 2018 BE INTRODUCED at the Municipal Council meeting to be held on June 26, 2018 to i...
 
@@ -531,7 +531,7 @@ Unanimous (6-0)
 
 ### 2.5. Southwestern Integrated Fibre Technology (SWIFT) Network Project
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director of Information Technology Services, and the Director of Community and Economic Innovation, with the concurrence of the Managing Director,  Corporate Services & City Treasurer, Chief Financial Officer, the following actions be taken with respect to the S...
 
@@ -541,7 +541,7 @@ Unanimous (5-0)
 
 ### 2.9. Taxation of Railway Rights of Way - High Tonnage
 
-<a id="motion-2-9-0" class="motion-anchor"></a>
+<div id="motion-2-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the Minister of Finance BE REQUESTED to impose a high tonnage rate for railway rights of way in the City of London where such a rate is appropriately based on the data available t...
 
@@ -551,7 +551,7 @@ Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the recommendations contained in the Tax Adjustment Agenda appended to the June 19, 2018 agenda of the Corporate Services Committee, BE APPROVED; it being noted that the following members of the public were in attendance to speak before the Corporate Services Committee with respect to the Ta...
 
@@ -561,7 +561,7 @@ Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > Motion to open the meeting to the public for comment.
 
@@ -571,7 +571,7 @@ Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
-<a id="motion-3-1-2" class="motion-anchor"></a>
+<div id="motion-3-1-2" class="motion-anchor"></div>
 
 > Motion to close the meeting to the public for comment.
 
@@ -581,7 +581,7 @@ Unanimous (5-0)
 
 ### 4.1. Covent Garden Market
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That representatives of the Covent Garden Market BE INVITED to work with the City of London's Facilities and Transportation staff to investigate possible improvements to access points and procedures for garbage collection and the delivery of goods at the Covent Garden Market.
 
@@ -591,7 +591,7 @@ Unanimous (5-0)
 
 ### 4.2. Confirmation of Appointment to the Transportation Advisory Committee and the London Housing Advisory Committee
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That Danny Chang BE APPOINTED as a Non-Voting Post-Secondary Student Representative to the Transportation Advisory Committee and the London Housing Advisory Committee, for the term ending February 28, 2019.
 
@@ -601,7 +601,7 @@ Unanimous (5-0)
 
 ### 4.3. Request for Delegation Status at the July 17, 2018 Corporate Services Committee - Ontario Federation of Agriculture - Producing Prosperity in Ontario
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the request by Crispin Colvin, Director, Ontario Federation of Agriculture, for delegation status  at the July 17, 2018 Corporate Services Committee (CSC) meeting, with respect to the Ontario Federation of Agriculture - Producing Prosperity in Ontario, BE APPROVED for the July 17, 2018 CSC m...
 

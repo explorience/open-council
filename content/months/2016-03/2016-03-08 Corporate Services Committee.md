@@ -692,7 +692,7 @@ The Corporate Services Committee convened
 ### 2. Queen Elizabeth
   Scholarship Policy Update
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -704,7 +704,7 @@ Unanimous (6-0)
 ### 3. Ontario Lottery and
   Gaming Corporation’s Community Recognition Program
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -716,7 +716,7 @@ Unanimous (6-0)
 ### 4. Statement of
   Remuneration and Expenses for Elected and Appointed Officials
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -728,7 +728,7 @@ Unanimous (6-0)
 ### 5. London Downtown
   Business Association 2016 Proposed Budget - Municipal Special Levy
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -740,7 +740,7 @@ Unanimous (6-0)
 ### 6. Argyle Business
   Improvement Area 2016 Proposed Budget - Municipal Special Levy
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -752,7 +752,7 @@ Unanimous (6-0)
 ### 7. Old East Village
   Business Improvement Area 2016 Proposed Budget - Municipal Special Levy
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -764,7 +764,7 @@ Unanimous (6-0)
 ### 8. Employee
   Absenteeism 2015 Update
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -777,7 +777,7 @@ Unanimous (6-0)
   Human Rights and Code of Conduct Inquiries, Requests, Complaints and Training
   Initiatives as of December 31, 2015
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -789,7 +789,7 @@ Unanimous (6-0)
 ### 10. Tax Adjustment
   Agenda
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -801,7 +801,7 @@ Unanimous (5-0)
 ### 10. Tax Adjustment
   Agenda
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -813,7 +813,7 @@ Unanimous (5-0)
 ### 10. Tax Adjustment
   Agenda
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -826,7 +826,7 @@ Unanimous (5-0)
   the Public at Public Participation Meetings of Municipal Council Standing
   Committees
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -839,7 +839,7 @@ Unanimous (6-0)
   the Public at Public Participation Meetings of Municipal Council Standing
   Committees
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -852,7 +852,7 @@ Unanimous (6-0)
   Designation of the 1st Annual Colombia Gastronomy Festival as a Municipally
   Significant Event
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -864,7 +864,7 @@ Unanimous (6-0)
 ### 13. Request for
   Designation of the Forest City Beer Fest as a Municipally Significant Event
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -876,7 +876,7 @@ Unanimous (6-0)
 ### 14. Forked River
   Brewing Corporation Liquor Sales Licence Application
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -888,7 +888,7 @@ Unanimous (6-0)
 ### 15. Consideration of
   Appointments to the Accessibility Advisory Committee
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -900,7 +900,7 @@ Unanimous (6-0)
 ### 15. Consideration of
   Appointments to the Accessibility Advisory Committee
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -912,7 +912,7 @@ Unanimous (6-0)
 ### 17. Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -924,7 +924,7 @@ Unanimous (6-0)
 ### 18. Ontario Ombudsman -
   Municipal Council Meeting June 10, 2015
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

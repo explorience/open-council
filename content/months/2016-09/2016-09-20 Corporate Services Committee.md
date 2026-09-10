@@ -284,7 +284,7 @@ The Corporate Services Committee convened
   Community Safety and Crime Prevention Advisory Committee Amendment to Terms
   of Reference
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -296,7 +296,7 @@ Unanimous (4-0)
 ### 3. STAFF REPORT - City
   of London's Credit Rating
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -309,7 +309,7 @@ Unanimous (4-0)
   Operating Budget Mid-Year Monitoring Report - Property Tax, Water, Wastewater
   & Treatment Budgets
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -321,7 +321,7 @@ Unanimous (4-0)
 ### 5. STAFF REPORT - 2016
   Life-To-Date Capital Budget - 2016 Mid-Year Capital Monitoring Report
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -333,7 +333,7 @@ Unanimous (4-0)
 ### 6. DELEGATION - Brenda
   Elliot, Eldon House
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -345,7 +345,7 @@ Unanimous (4-0)
 ### 7. Tax Adjustment
   Agenda
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -357,7 +357,7 @@ Unanimous (3-0)
 ### 7. Tax Adjustment
   Agenda
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -369,7 +369,7 @@ Unanimous (3-0)
 ### 7. Tax Adjustment
   Agenda
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -201,7 +201,7 @@ The Corporate Services Committee convened in
 ### 2. 2013 Investment
   Report
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -212,7 +212,7 @@ Unanimous (4-0)
 ### 2. 2013 Investment
   Report
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -223,7 +223,7 @@ Unanimous (4-0)
 ### 4. Revision of Taxes
   Section of City Council Policy Manual
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -234,7 +234,7 @@ Unanimous (4-0)
 ### 4. Revision of Taxes
   Section of City Council Policy Manual
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -245,7 +245,7 @@ Unanimous (4-0)
 ### 4. Revision of Taxes
   Section of City Council Policy Manual
 
-<a id="motion-4-2" class="motion-anchor"></a>
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -258,7 +258,7 @@ Unanimous (4-0)
   for London Seniors and 1 Voting Member  from the London-Middlesex Road Safety
   Committee)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -271,7 +271,7 @@ Unanimous (4-0)
   for London Seniors and 1 Voting Member  from the London-Middlesex Road Safety
   Committee)
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -284,7 +284,7 @@ Unanimous (4-0)
   for London Seniors and 1 Voting Member  from the London-Middlesex Road Safety
   Committee)
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -297,7 +297,7 @@ Unanimous (4-0)
   for London Seniors and 1 Voting Member  from the London-Middlesex Road Safety
   Committee)
 
-<a id="motion-8-3" class="motion-anchor"></a>
+<div id="motion-8-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -310,7 +310,7 @@ Unanimous (4-0)
   for London Seniors and 1 Voting Member  from the London-Middlesex Road Safety
   Committee)
 
-<a id="motion-8-4" class="motion-anchor"></a>
+<div id="motion-8-4" class="motion-anchor"></div>
 
 > Motion Passed
 

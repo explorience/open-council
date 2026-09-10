@@ -2551,7 +2551,7 @@ The meeting adjourned at 4:46 PM, Wednesday, December 5, 2018.
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That a ranked ballot be utilized for those appointments where the number of applicants exceed the number of appointments to be made.
 
@@ -2568,7 +2568,7 @@ The meeting adjourned at 4:46 PM, Wednesday, December 5, 2018.
 
 ### 4.1. Request for Delegation Status - Conservation Authorities - Leith R. A. Coghlin
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the request for delegation status from L. Coghlin BE REFERRED to a future meeting of the Corporate Services Committee.
 
@@ -2578,7 +2578,7 @@ Unanimous (15-0)
 
 ### 4.2. Consideration of Appointments to the Civic Works Committee
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the following Council Members BE APPOINTED to the Civic Works Committee for the term December 1, 2018 to November 30, 2019: Councillor P. Squire Councillor S. Lehman Councillor S. Lewis Councillor E. Peloza Councillor M. van Holst and remaining appointments be made using the City Clerk's spr...
 
@@ -2595,7 +2595,7 @@ Unanimous (15-0)
 
 ### 4.2. Consideration of Appointments to the Civic Works Committee
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > That Councillor P. Squire BE APPOINTED Chair of the Civic Works Committee, for the term ending November 30, 2019
 
@@ -2605,7 +2605,7 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointments to the Community and Protective Services Committee
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That the following Council Members BE APPOINTED to the Community and Protective Services Committee for the term December 1, 2018 to November 30, 2019: Councillor S. Lewis Councillor M. Salih Councillor M. Cassidy Councillor S. Hillier Councillor E. Peloza
 
@@ -2615,7 +2615,7 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointments to the Community and Protective Services Committee
 
-<a id="motion-4-3-2" class="motion-anchor"></a>
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > That Councillor M. Cassidy BE APPOINTED Chair of the CPSC, for the term ending November 30, 2019.
 
@@ -2625,7 +2625,7 @@ Unanimous (15-0)
 
 ### 4.4. Consideration of Appointments to the Corporate Services Committee
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > That the following Council Members BE APPOINTED to the Corporate Services Committee for the term December 1, 2018 to November 30, 2019: Councillor J. Morgan Councillor A. Kayabaga Councillor J. Helmer Councillor P. Van Meerbergen Councillor S. Hillier
 
@@ -2635,7 +2635,7 @@ Unanimous (15-0)
 
 ### 4.4. Consideration of Appointments to the Corporate Services Committee
 
-<a id="motion-4-4-2" class="motion-anchor"></a>
+<div id="motion-4-4-2" class="motion-anchor"></div>
 
 > That Councillor J. Morgan BE APPOINTED Chair of the Corporate Services committee for the term ending November 30, 2019
 
@@ -2645,7 +2645,7 @@ Unanimous (15-0)
 
 ### 4.5. Consideration of Appointments to the Planning and Environment Committee
 
-<a id="motion-4-5-1" class="motion-anchor"></a>
+<div id="motion-4-5-1" class="motion-anchor"></div>
 
 > That the following Council Members BE APPOINTED to the Planning and Environment Committee for the term December 1, 2018 to November 30, 2019: Councillor M. Cassidy Councillor A. Hopkins Councillor S. Turner Councillor J. Helmer Councillor P. Squire
 
@@ -2655,7 +2655,7 @@ Unanimous (15-0)
 
 ### 4.5. Consideration of Appointments to the Planning and Environment Committee
 
-<a id="motion-4-5-2" class="motion-anchor"></a>
+<div id="motion-4-5-2" class="motion-anchor"></div>
 
 > That Councillor A. Hopkins BE APPOINTED Chair of the Planning and Environment Committee for the term ending November 30, 2019.
 
@@ -2665,7 +2665,7 @@ Unanimous (15-0)
 
 ### 4.6. Consideration of Appointments to the Audit Committee
 
-<a id="motion-4-6-1" class="motion-anchor"></a>
+<div id="motion-4-6-1" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Audit Committee for the term December 1, 2018 to November 15, 2022:    Deputy Mayor J. Helmer (Chair)  Councillor Turner  Councillor Morgan  Councillor van Holst
 
@@ -2675,7 +2675,7 @@ Unanimous (15-0)
 
 ### 4.6. Consideration of Appointments to the Audit Committee
 
-<a id="motion-4-6-2" class="motion-anchor"></a>
+<div id="motion-4-6-2" class="motion-anchor"></div>
 
 > That L. Higgs BE APPOINTED to the Audit Committee for the term December 1, 2018 to November 15, 2022.
 
@@ -2685,7 +2685,7 @@ Unanimous (15-0)
 
 ### 4.7. Consideration of Appointment to the Argyle Business Improvement Area
 
-<a id="motion-4-7-0" class="motion-anchor"></a>
+<div id="motion-4-7-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Argyle Business Improvement Area for the term December 1, 2018 to November 15, 2022:    Councillor S. Lewis  C. Biglianti  M. McHardy  E. Lasch  B. Merrifield  C. Taylor  R. Pearce  L. Wakelin  R. Graham
 
@@ -2695,7 +2695,7 @@ Unanimous (15-0)
 
 ### 4.8. Consideration of Appointments to the Committee of Adjustment
 
-<a id="motion-4-8-0" class="motion-anchor"></a>
+<div id="motion-4-8-0" class="motion-anchor"></div>
 
 > That the following individuals BE APPOINTED to the Committee of Adjustment for the term December 1, 2018 to November 15, 2022: D. Brown, J. Fyfe-Millar, C. Miller, S. Polhill and D. Schmidt; it being noted that the above-noted appointment was made in accordance with the  ranked ballot.
 
@@ -2712,7 +2712,7 @@ Unanimous (15-0)
 
 ### 4.9. Consideration of Appointments to the Committee of Revision/Court of Revision
 
-<a id="motion-4-9-0" class="motion-anchor"></a>
+<div id="motion-4-9-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the appointments to the Committee of Revision/Court of Revision for the term December 1, 2018 to November 15, 2022: a)         T. Khan and A. Stratton BE APPOINTED; and b)         the City Clerk BE DIRECTED to advertise to seek applications for ...
 
@@ -2722,7 +2722,7 @@ Unanimous (15-0)
 
 ### 4.10. Consideration of Appointments to the Covent Garden Market Board of Directors
 
-<a id="motion-4-10-1" class="motion-anchor"></a>
+<div id="motion-4-10-1" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the Covent Garden Market Board of Directors for the term December 1, 2018 to November 15, 2022: Councillor S. Lehman Councillor S. Hillier BE APPOINTED
 
@@ -2732,7 +2732,7 @@ Unanimous (15-0)
 
 ### 4.10. Consideration of Appointments to the Covent Garden Market Board of Directors
 
-<a id="motion-4-10-2" class="motion-anchor"></a>
+<div id="motion-4-10-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the Covent Garden Market Board of Directors for the term December 1, 2018 to November 15, 2022: D. Brown C. De Vincenzo M. Marsman M. Reid N. Soave D. Szpakowski J. Zaifman
 
@@ -2742,7 +2742,7 @@ Unanimous (15-0)
 
 ### 4.11. Consideration of Appointments to the Dearness Home Committee of Management
 
-<a id="motion-4-11-0" class="motion-anchor"></a>
+<div id="motion-4-11-0" class="motion-anchor"></div>
 
 > That Councillors A. Hopkins, E. Peloza, S. Lehman, S. Hillier and M. Cassidy BE APPOINTED to the Dearness Home Committee of Management for the term December 1, 2018 to November 15, 2022.
 
@@ -2752,7 +2752,7 @@ Unanimous (15-0)
 
 ### 4.12. Consideration of Appointments to Eldon House
 
-<a id="motion-4-12-0" class="motion-anchor"></a>
+<div id="motion-4-12-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Eldon House for the term December 1, 2018 to November 15, 2022: M. Donachie, G. Harrod, L. Henderson, R. Koudys, E. Nagel, J. O’Neil, T. Regnier, M. Spencer Golovchenko and M. Tovey.
 
@@ -2762,7 +2762,7 @@ Unanimous (15-0)
 
 ### 4.13. Consideration of Appointments to the Elgin Area Primary Water Supply System Joint Board of Management
 
-<a id="motion-4-13-0" class="motion-anchor"></a>
+<div id="motion-4-13-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the Elgin Area Primary Water Supply Joint Board of Management for the term December 1, 2018 to November 15, 2022: a)         Councillors M. van Holst, E. Peloza, and S. Hiller BE APPOINTED as Members of the Board of Management; a...
 
@@ -2772,7 +2772,7 @@ Unanimous (15-0)
 
 ### 4.14. Consideration of Appointments to the Governance Working Group
 
-<a id="motion-4-14-0" class="motion-anchor"></a>
+<div id="motion-4-14-0" class="motion-anchor"></div>
 
 > That Councillors M. van Holst, P. Squire, J. Morgan, S. Lewis, A. Kayabaga and S. Hillier BE APPOINTED to the Governance Working Group for the term December 1, 2018 to November 30, 2019; it being noted that the City Clerk is undertaking a review of Advisory Committees, Working Groups and Task For...
 
@@ -2782,7 +2782,7 @@ Unanimous (15-0)
 
 ### 4.15. Consideration of Appointment to the Hyde Park Business Improvement Area
 
-<a id="motion-4-15-0" class="motion-anchor"></a>
+<div id="motion-4-15-0" class="motion-anchor"></div>
 
 > That Councillor J. Morgan BE APPOINTED to the Hyde Park Business Improvement Area Board of Management for the term December 1, 2018 to November 15, 2022; it being noted that other appointments will be considered at a future date, once available from the Hyde Park Business Improvement Area.
 
@@ -2792,7 +2792,7 @@ Unanimous (15-0)
 
 ### 4.16. Consideration of Appointments to the Kettle Creek Conservation Authority
 
-<a id="motion-4-16-1" class="motion-anchor"></a>
+<div id="motion-4-16-1" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Kettle Creek Conservation Authority for the term December 1, 2018 to November 15, 2022: Councillor S. Hillier
 
@@ -2802,7 +2802,7 @@ Unanimous (15-0)
 
 ### 4.16. Consideration of Appointments to the Kettle Creek Conservation Authority
 
-<a id="motion-4-16-2" class="motion-anchor"></a>
+<div id="motion-4-16-2" class="motion-anchor"></div>
 
 > That the following be appointed to the Kettle Creek Conservation Authority, for the term ending November 15, 2022 B. Mackie and R. G. Winfield
 
@@ -2812,7 +2812,7 @@ Unanimous (15-0)
 
 ### 4.17. Consideration of Appointments to the Lake Huron Primary Water Supply System Joint Board of Management
 
-<a id="motion-4-17-0" class="motion-anchor"></a>
+<div id="motion-4-17-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the Lake Huron Primary Water Supply Joint Board of Management for the term December 1, 2018 to November 15, 2022: a)         Councillors M. van Holst, S. Lehman, S. Hillier and P. Van Meerbergen BE APPOINTED as Members of the Boa...
 
@@ -2822,7 +2822,7 @@ Unanimous (15-0)
 
 ### 4.18. Consideration of Appointments to the London and Middlesex Housing Corporation
 
-<a id="motion-4-18-1" class="motion-anchor"></a>
+<div id="motion-4-18-1" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the London and Middlesex Housing Corporation for the term December 1, 2018 to November 15, 2022: Councillor A. Kayabaga
 
@@ -2832,7 +2832,7 @@ Unanimous (15-0)
 
 ### 4.18. Consideration of Appointments to the London and Middlesex Housing Corporation
 
-<a id="motion-4-18-2" class="motion-anchor"></a>
+<div id="motion-4-18-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the London and Middlesex Housing Corporation for the term December 1, 2018 to November 15, 2022: S. Marentette Di Battista R.J. Morgan
 
@@ -2842,7 +2842,7 @@ Unanimous (15-0)
 
 ### 4.19. Consideration of Appointments to the London Convention Centre Corporation Board of Directors
 
-<a id="motion-4-19-0" class="motion-anchor"></a>
+<div id="motion-4-19-0" class="motion-anchor"></div>
 
 > That Mayor E. Holder and Councillors M. Cassidy and S. Hillier BE APPOINTED to the London Convention Centre Board of Directors for the term December 1, 2018 to November 15, 2022.
 
@@ -2852,7 +2852,7 @@ Unanimous (15-0)
 
 ### 4.20. Consideration of Appointment to the London Council for Adult Education
 
-<a id="motion-4-20-1" class="motion-anchor"></a>
+<div id="motion-4-20-1" class="motion-anchor"></div>
 
 > That D. Vanden Boomen BE APPOINTED to the London Council for Adult Education for the term December 1, 2018 to November 15, 2022; it being noted that the above-noted appointment was made in accordance with the  ranked ballot.
 
@@ -2862,7 +2862,7 @@ Unanimous (15-0)
 
 ### 4.21. Consideration of Appointment to the London Downtown Business Association Board of Management
 
-<a id="motion-4-21-0" class="motion-anchor"></a>
+<div id="motion-4-21-0" class="motion-anchor"></div>
 
 > That Councillor A. Kayabaga BE APPOINTED to the London Downtown Business Association Board of Management for the term December 1, 2018 to November 15, 2022; it being noted that other appointments will be considered at a future date, once available from the London Downtown Business Association.
 
@@ -2872,7 +2872,7 @@ Unanimous (15-0)
 
 ### 4.22. Consideration of Appointment to the London Hydro Inc. Board of Directors
 
-<a id="motion-4-22-0" class="motion-anchor"></a>
+<div id="motion-4-22-0" class="motion-anchor"></div>
 
 > That Councillor M. van Holst BE APPOINTED to the London Hydro Inc. Board of Directors for the term December 1, 2018 to November 15, 2022.
 
@@ -2882,7 +2882,7 @@ Unanimous (15-0)
 
 ### 4.23. Consideration of Appointments to the London Police Services Board
 
-<a id="motion-4-23-1" class="motion-anchor"></a>
+<div id="motion-4-23-1" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the London Police Services Board for the term December 1, 2018 to November 15, 2022: a)         Mayor E. Holder, Councillors M. Salih and J. Helmer BE APPOINTED
 
@@ -2892,7 +2892,7 @@ Unanimous (15-0)
 
 ### 4.23. Consideration of Appointments to the London Police Services Board
 
-<a id="motion-4-23-2" class="motion-anchor"></a>
+<div id="motion-4-23-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the London Police Services Board for the term December 1, 2018 to November 15, 2022: S. Toth
 
@@ -2902,7 +2902,7 @@ Unanimous (15-0)
 
 ### 4.24. Consideration of Appointments to the London Public Library Board
 
-<a id="motion-4-24-1" class="motion-anchor"></a>
+<div id="motion-4-24-1" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the London Public Library Board for the term December 1, 2018 to November 15, 2022: Councillor Peloza  Councillor Kayabaga
 
@@ -2912,7 +2912,7 @@ Unanimous (15-0)
 
 ### 4.25. Consideration of Appointments to the London Transit Commission
 
-<a id="motion-4-25-1" class="motion-anchor"></a>
+<div id="motion-4-25-1" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the London Transit Commission for the term December 1, 2018 to November 15, 2022: Councillor Squire  Councillor Helmer
 
@@ -2922,7 +2922,7 @@ Unanimous (15-0)
 
 ### 4.25. Consideration of Appointments to the London Transit Commission
 
-<a id="motion-4-25-2" class="motion-anchor"></a>
+<div id="motion-4-25-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the London Transit Commission for the term December 1, 2018 to November 15, 2022: T. Khan, T. Park, and S.L. Rooth BE APPOINTED.
 
@@ -2939,7 +2939,7 @@ Unanimous (15-0)
 
 ### 4.26. Consideration of Appointment to the Lower Thames Valley Conservation Authority
 
-<a id="motion-4-26-0" class="motion-anchor"></a>
+<div id="motion-4-26-0" class="motion-anchor"></div>
 
 > That Kimble F. Ainslie BE APPOINTED to the Lower Thames Valley Conservation Authority for the term December 1, 2018 to November 15, 2022.
 
@@ -2956,7 +2956,7 @@ Unanimous (15-0)
 
 ### 4.27. Consideration of Appointments to the Middlesex-London Food Policy Council
 
-<a id="motion-4-27-0" class="motion-anchor"></a>
+<div id="motion-4-27-0" class="motion-anchor"></div>
 
 > That Councillor E. Peloza BE APPOINTED to the Middlesex-London Food Policy Council for the term December 1, 2018 to November 30, 2020.
 
@@ -2966,7 +2966,7 @@ Unanimous (15-0)
 
 ### 4.28. Consideration of Appointments to the Middlesex-London Health Unit Board of Directors
 
-<a id="motion-4-28-1" class="motion-anchor"></a>
+<div id="motion-4-28-1" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Middlesex-London Health Unit Board of Directors for the term December 1, 2018 to November 15, 2022: Councillor Cassidy  Councillor Peloza
 
@@ -2976,7 +2976,7 @@ Unanimous (14-0)
 
 ### 4.28. Consideration of Appointments to the Middlesex-London Health Unit Board of Directors
 
-<a id="motion-4-28-2" class="motion-anchor"></a>
+<div id="motion-4-28-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the Middlesex-London Health Unit Board of Directors for the term December 1, 2018 to November 15, 2022: M. Reid BE APPOINTED
 
@@ -2986,7 +2986,7 @@ Unanimous (14-0)
 
 ### 4.29. Consideration of Appointment to the Museum London Board of Directors
 
-<a id="motion-4-29-0" class="motion-anchor"></a>
+<div id="motion-4-29-0" class="motion-anchor"></div>
 
 > That Councillor E. Peloza BE APPOINTED to the Museum London Board of Directors for the term December 1, 2018 to November 15, 2022.
 
@@ -2996,7 +2996,7 @@ Unanimous (15-0)
 
 ### 4.30. Consideration of Appointment to the Old East Village Business Improvement Area Board of Management
 
-<a id="motion-4-30-0" class="motion-anchor"></a>
+<div id="motion-4-30-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments of the Old East Village Business Improvement Area Board of Management: a) Councillor J. Helmer BE APPOINTED, for the term December 1, 2018 to November 15, 2022; and, b) Maria Drangova, David Chandler, Ken Keane, Henry Eastabrook, Je...
 
@@ -3006,7 +3006,7 @@ Unanimous (15-0)
 
 ### 4.31. Consideration of Appointments to the Plumbers' and Drain Layers' Examining Board
 
-<a id="motion-4-31-0" class="motion-anchor"></a>
+<div id="motion-4-31-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the appointments to the Plumbers’ and Drain Layers’ Examining Board for the term December 1, 2018 to November 15, 2022: a)         S. Atchison BE APPOINTED; and b)         the City Clerk BE DIRECTED to advertise to seek applications for the rema...
 
@@ -3016,7 +3016,7 @@ Unanimous (15-0)
 
 ### 4.32. Consideration of Appointments to the Rapid Transit Implementation Working Group
 
-<a id="motion-4-32-0" class="motion-anchor"></a>
+<div id="motion-4-32-0" class="motion-anchor"></div>
 
 > That Councillors M. van Holst, P. Squire, M. Cassidy, J. Helmer, A. Kayabaga, S. Hillier, E. Peloza, A. Hopkins and M. Lehman BE APPOINTED to the Rapid Transit Implementation Working Group for the term December 1, 2018 to November 30, 2019; it being noted that the City Clerk is undertaking a revi...
 
@@ -3026,7 +3026,7 @@ Unanimous (15-0)
 
 ### 4.33. Consideration of Appointments to the Tourism London Board of Directors
 
-<a id="motion-4-33-0" class="motion-anchor"></a>
+<div id="motion-4-33-0" class="motion-anchor"></div>
 
 > That Councillors M. van Holst and S. Lewis BE APPOINTED to the Tourism London Board of Directors for the term December 1, 2018 to November 15, 2022; it being noted that the above-noted appointments were made in accordance with the  ranked ballot.
 
@@ -3043,7 +3043,7 @@ Unanimous (15-0)
 
 ### 4.34. Consideration of Appointments to the Town and Gown Committee
 
-<a id="motion-4-34-0" class="motion-anchor"></a>
+<div id="motion-4-34-0" class="motion-anchor"></div>
 
 > That Councillors J. Helmer, M. Salih, P. Squire, A. Kayabaga and S. Lehman BE APPOINTED to the Town and Gown Committee for the term December 1, 2018 to November 30, 2019; it being noted that the City Clerk is undertaking a review of Advisory Committees, Working Groups and Task Forces and will be ...
 
@@ -3053,7 +3053,7 @@ Unanimous (15-0)
 
 ### 4.35. Consideration of Appointments to the Upper Thames River Conservation Authority
 
-<a id="motion-4-35-1" class="motion-anchor"></a>
+<div id="motion-4-35-1" class="motion-anchor"></div>
 
 > That Councillor A. Hopkins BE APPOINTED to the Upper Thames River Conservation Authority for the term December 1, 2018 to November 15, 2022.
 
@@ -3063,7 +3063,7 @@ Unanimous (15-0)
 
 ### 4.35. Consideration of Appointments to the Upper Thames River Conservation Authority
 
-<a id="motion-4-35-2" class="motion-anchor"></a>
+<div id="motion-4-35-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the Upper Thames River Conservation Authority for the term December 1, 2018 to November 15, 2022: M. Blosh, S. Levin and J. Reffle
 
@@ -3073,7 +3073,7 @@ Unanimous (15-0)
 
 ### 4.36. Consideration of Appointments to the Waste Management Working Group
 
-<a id="motion-4-36-0" class="motion-anchor"></a>
+<div id="motion-4-36-0" class="motion-anchor"></div>
 
 > That Councillors M. van Holst, S. Lehman, S. Turner and E. Peloza BE APPOINTED to the Waste Management Working Group for the term December 4, 2018 to November 30, 2019: it being noted that the City Clerk is undertaking a review of Advisory Committees, Working Groups and Task Forces and will be re...
 
@@ -3083,7 +3083,7 @@ Unanimous (15-0)
 
 ### 4.37. Consideration of Appointment to the Western Fair Board of Governors
 
-<a id="motion-4-37-0" class="motion-anchor"></a>
+<div id="motion-4-37-0" class="motion-anchor"></div>
 
 > That Councillor J. Morgan BE APPOINTED to the Western Fair Board of Governors for the term December 1, 2018 to November 15, 2022.
 
@@ -3093,7 +3093,7 @@ Unanimous (15-0)
 
 ### 4.38. Consideration of Appointments to the Western Fair Programming Council
 
-<a id="motion-4-38-0" class="motion-anchor"></a>
+<div id="motion-4-38-0" class="motion-anchor"></div>
 
 > That Councillor M. Salih and Councillor A. Kayabaga BE APPOINTED to the Western Fair Programming Council for the term December 1, 2018 to November 15, 2022.
 
@@ -3103,7 +3103,7 @@ Unanimous (15-0)
 
 ### 4.39. Consideration of Appointments to Western University Board of Governors
 
-<a id="motion-4-39-0" class="motion-anchor"></a>
+<div id="motion-4-39-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the Western University Board of Governors for the term December 1, 2018 to November 15, 2022: a)         Mayor E. Holder BE APPOINTED; and, b)         H. Usher BE APPOINTED; it being noted that the appointment in part b) above wa...
 
@@ -3120,7 +3120,7 @@ Unanimous (15-0)
 
 ### 4.40. Special Meeting of the Strategic Priorities and Policy Committee
 
-<a id="motion-4-40-0" class="motion-anchor"></a>
+<div id="motion-4-40-0" class="motion-anchor"></div>
 
 > That pursuant to section 2.6 of the Council Procedure By-law, authorization BE GIVEN for the December 18, 2018 Special Meeting of the Strategic Priorities and Policy Committee be held at the Spencer Hall Conference Centre, 551 Windermere Road, London, Ontario N5X 2T1, commencing at 9 AM for the p...
 
@@ -3130,7 +3130,7 @@ Unanimous (15-0)
 
 ### 5.1. ADDED - Request for Appointment Process to be Referred to the Governance Working Group
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the process for public appointments of directors for boards and commissions, at the beginning of the term, be referred to the Governance Working Group (GWG) for the creation of a more robust strategy.
 
@@ -3140,7 +3140,7 @@ Unanimous (15-0)
 
 ### 6. Adjournment
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > That the committee recess until 4:30 PM, Wednesday December 5, and reconvene at that time.
 

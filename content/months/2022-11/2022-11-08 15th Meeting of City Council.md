@@ -1268,7 +1268,7 @@ This meeting is adjourned. Bravo.
 
 ### 8.1. 12th Report of the Community and Protective Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 12th Report of the Community and Protective Services Committee BE APPROVED, excluding Item 5 (clause 5.1).
 
@@ -1278,7 +1278,7 @@ Unanimous (15-0)
 
 ### 8.1.5. (5.1) Deferred Matters List
 
-<a id="motion-8-1-5-1" class="motion-anchor"></a>
+<div id="motion-8-1-5-1" class="motion-anchor"></div>
 
 > Motion that Item 1 of the Deferred Matters List BE APPROVED.
 
@@ -1288,7 +1288,7 @@ Unanimous (14-0)
 
 ### 8.1.5. (5.1) Deferred Matters List
 
-<a id="motion-8-1-5-2" class="motion-anchor"></a>
+<div id="motion-8-1-5-2" class="motion-anchor"></div>
 
 > Motion that the balance of the Deferred Matters List BE APPROVED.
 
@@ -1298,7 +1298,7 @@ Unanimous (15-0)
 
 ### 8.2. 14th Report of the Corporate Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Corporate Services Committee BE APPROVED.
 
@@ -1308,7 +1308,7 @@ Unanimous (14-0)
 
 ### 8.3. 14th Report of the Civic Works Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Civic Works Committee BE APPROVED.
 
@@ -1318,7 +1318,7 @@ Unanimous (14-0)
 
 ### 9.1. 14th Report of Council in Closed Session
 
-<a id="motion-9-1-0" class="motion-anchor"></a>
+<div id="motion-9-1-0" class="motion-anchor"></div>
 
 > - That progress was made with respect to items 4.1 and 4.2, as noted on the public agenda (6.1/14/CSC) and (6.1/15/SPPC).
 
@@ -1328,7 +1328,7 @@ Unanimous (15-0)
 
 ### 9.2. 15th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-9-2-0" class="motion-anchor"></a>
+<div id="motion-9-2-0" class="motion-anchor"></div>
 
 > That the 15th Report of the Strategic Priorities and Policy Committee BE APPROVED.
 

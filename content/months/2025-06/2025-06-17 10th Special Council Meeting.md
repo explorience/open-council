@@ -322,7 +322,7 @@ All those in favor of adjournment by hand. That motion carries. Thank you very m
 
 ### 6.1. Highly Supportive Housing Contribution Agreement for Indwell Community Homes Development at 346 South Street, London
 
-<a id="motion-6-1-0" class="motion-anchor"></a>
+<div id="motion-6-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken: a)    a grant of $3,152,410, in the form of a forgivable loan, to Indwell Community Homes for the development and operation of ninety-six (96) highly supportive housing units at 3...
 

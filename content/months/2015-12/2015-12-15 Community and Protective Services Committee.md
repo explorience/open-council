@@ -820,7 +820,7 @@ Motion
 ### 2. Election of Vice-Chair
   for the term ending November 30, 2016
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -839,7 +839,7 @@ Motion
 ### 3. 7th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -851,7 +851,7 @@ Unanimous (5-0)
 ### 4. 1st Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -863,7 +863,7 @@ Unanimous (5-0)
 ### 5. 7th Report of the
   London Housing Advisory Committee
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -875,7 +875,7 @@ Unanimous (5-0)
 ### 6. Annual Emergency
   Management Program Update
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -888,7 +888,7 @@ Unanimous (5-0)
   N' Puff Seniors Fitness Association of London, Ontario, for Access to
   Recreation Facilities
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -900,7 +900,7 @@ Unanimous (5-0)
 ### 8. RFP 15-22 Supply,
   Delivery and Various Services for Incontinence Products at the Dearness Home
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -913,7 +913,7 @@ Unanimous (5-0)
   Existing Municipal Contribution Agreements (MCA) for Affordable Housing
   Including MCA with 8999872 Canada Ltd.
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -925,7 +925,7 @@ Unanimous (5-0)
 ### 10. Trade-Mark Licence
   Agreement for "Canada's Clean50 Top 15 Project" Award Honorees’
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -937,7 +937,7 @@ Unanimous (5-0)
 ### 11. Update on the East
   Community Centre Project
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -949,7 +949,7 @@ Unanimous (5-0)
 ### 12. Architect to Act as
   Prime Consultant for the East London Community Centre
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -961,7 +961,7 @@ Unanimous (5-0)
 ### 13. London's Child and
   Youth Network - Family Centred Service System Impact Assessment
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -973,7 +973,7 @@ Unanimous (5-0)
 ### 15. 7th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -985,7 +985,7 @@ Unanimous (5-0)
 ### 16. 11th Report of the
   London Diversity and Race Relations Advisory Committee
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -997,7 +997,7 @@ Unanimous (5-0)
 ### 17. Community Facility
   Repurposing Strategy
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1009,7 +1009,7 @@ Unanimous (5-0)
 ### 17. Community Facility
   Repurposing Strategy
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1021,7 +1021,7 @@ Unanimous (5-0)
 ### 19. Taxicab and
   Limousine Licensing By-law
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1033,7 +1033,7 @@ Unanimous (5-0)
 ### 20. Noise By-law
   Complaints
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1045,7 +1045,7 @@ Unanimous (5-0)
 ### 21. Change of Date –
   February 23, 2016 CPSC Meeting
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1057,7 +1057,7 @@ Unanimous (5-0)
 ### 22. Deferred Matter
   List
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

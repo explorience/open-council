@@ -965,7 +965,7 @@ The
 ### 2. STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -977,7 +977,7 @@ Unanimous (4-0)
 ### 3. STAFF REPORT -
   Traffic on Aldersbrook Gate
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -989,7 +989,7 @@ Unanimous (4-0)
 ### 4. STAFF REPORT -
   Blackfriars Bridge Project Status Update
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1002,7 +1002,7 @@ Unanimous (4-0)
   Memorandum of the Understanding with Bio-Techfar Inc. as part of the London
   Waste to Resources Innovation Centre
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1015,7 +1015,7 @@ Unanimous (4-0)
   Memorandum of Understanding With Hawthorne Green Key Group Inc. as Part of
   the London Waste To Resources Innovation Centre
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1028,7 +1028,7 @@ Unanimous (4-0)
   Memorandum of Understanding With Try Recycling Inc. as Part of the London
   Waste To Resources Innovation Centre
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1041,7 +1041,7 @@ Unanimous (4-0)
   Permission for GE Water and Process Technologies to Pilot Test at the Oxford
   Wastewater Treatment Plant
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1054,7 +1054,7 @@ Unanimous (4-0)
   Clean Water and Wastewater Fund - Single Source Purchase of Inlet Screens for
   the Adelaide and Pottersburg Wastewater Treatment Plants
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1067,7 +1067,7 @@ Unanimous (4-0)
   Water and Wastewater Fund - Single Source Purchase of Odour Control, Air
   Handling and Heat Recovery Units for  Wastewater Facilities
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1081,7 +1081,7 @@ Unanimous (4-0)
   System Components for Power Generation at the Greenway Wastewater Treatment
   Plant
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1094,7 +1094,7 @@ Unanimous (4-0)
   Creek Subwatershed Schedule B - Municipal Class Environmental Assessment
   Notice of Completion
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1107,7 +1107,7 @@ Unanimous (4-0)
   Clean Water and Wastewater Fund -  Appointment of Consulting Engineers for
   the 2017 Projects for Stormwater Engineering
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1119,7 +1119,7 @@ Unanimous (4-0)
 ### 14. STAFF REPORT - 2016
   Renew London Infrastrastructure Post Construction Overview Report
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1132,7 +1132,7 @@ Unanimous (4-0)
   Clean Water and Wastewater Fund  -  Irregular Result   -  Arva Pumping
   Station Optimization and Energy Efficiency Study
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1145,7 +1145,7 @@ Unanimous (4-0)
   Infrastructure Canada – Phase One Investments -  Clean Water and Wastewater
   Fund – Approved Projects
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1159,7 +1159,7 @@ Unanimous (4-0)
   Renewal Program -  Frances Street, Margaret Street and Ethel Street
   Reconstruction
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1171,7 +1171,7 @@ Unanimous (4-0)
 ### 18. STAFF REPORT - Overnight 
   Parking 2016/2017 Experience
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1184,7 +1184,7 @@ Unanimous (4-0)
   Staff Resourcing to Meet the Demands of the Clean Water and Waste Water Fund
   Program
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1197,7 +1197,7 @@ Unanimous (3-0)
   Staff Resourcing to Meet the Demands of the Clean Water and Waste Water Fund
   Program
 
-<a id="motion-19-1" class="motion-anchor"></a>
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1209,7 +1209,7 @@ Unanimous (3-0)
 ### 20. STAFF REPORT -
   Veresen District Energy Partnership - Municipal Access Agreement
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1221,7 +1221,7 @@ Unanimous (4-0)
 ### 21. 6th Report of the
   Cycling Advisory Committee
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1233,7 +1233,7 @@ Unanimous (4-0)
 ### 22. 6th Report of the
   Transportation Advisory Committee
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1245,7 +1245,7 @@ Unanimous (4-0)
 ### 23. Deferred Matters
   List
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1257,7 +1257,7 @@ Unanimous (4-0)
 ### 24. (ADDED) COUNCILLOR SUBMISSION - Councillor
   V. Ridley – Vision Zero
 
-<a id="motion-24-0" class="motion-anchor"></a>
+<div id="motion-24-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

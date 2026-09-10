@@ -665,7 +665,7 @@ The meeting adjourned at 3:37 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.4, 2.6, 2.7 and 2.8 BE APPROVED.
 
@@ -675,7 +675,7 @@ Unanimous (5-0)
 
 ### 2.1. Canada-Ontario Community Housing Initiative (CHOCI) and Ontario Priorities Housing Initiative (OPHI) Approval of Ontario Transfer Payment Agreement
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the following actions be taken with respect to the Canada-Ontario Community Housing Initiative (CHOCI) and Ontario Priorities Housing Initiative (OPHI) Approval of Ontario Transfer Payment Agreement:...
 
@@ -685,7 +685,7 @@ Unanimous (5-0)
 
 ### 2.3. Employment Ontario Transformation - Service System Manager Competition
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the following actions be taken with respect to the staff report dated June 17, 2019 related to the Employment Ontario Service Transformation and Service System Manager Competition: a)            the ...
 
@@ -695,7 +695,7 @@ Unanimous (5-0)
 
 ### 2.5. London Strengthening Neighbourhoods Strategy - Neighbourhood Decision Making Program
 
-<a id="motion-2-5-1" class="motion-anchor"></a>
+<div id="motion-2-5-1" class="motion-anchor"></div>
 
 > Motion to approve that London be split up into 10 geographic areas for the NDM program.
 
@@ -714,7 +714,7 @@ Unanimous (5-0)
 
 ### 2.5. London Strengthening Neighbourhoods Strategy - Neighbourhood Decision Making Program
 
-<a id="motion-2-5-2" class="motion-anchor"></a>
+<div id="motion-2-5-2" class="motion-anchor"></div>
 
 > Motion to approve that an idea cannot be submitted for the same address for NDM program funding in back to back years.
 
@@ -733,7 +733,7 @@ Unanimous (5-0)
 
 ### 2.5. London Strengthening Neighbourhoods Strategy - Neighbourhood Decision Making Program
 
-<a id="motion-2-5-3" class="motion-anchor"></a>
+<div id="motion-2-5-3" class="motion-anchor"></div>
 
 > Motion to approve a cap on NDM funding to an individual project at $30,000.
 
@@ -752,7 +752,7 @@ Unanimous (5-0)
 
 ### 3.2. London For All Update
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > Motion to approve part a).
 
@@ -762,7 +762,7 @@ Unanimous (5-0)
 
 ### 3.2. London For All Update
 
-<a id="motion-3-2-2" class="motion-anchor"></a>
+<div id="motion-3-2-2" class="motion-anchor"></div>
 
 > Motion to approve part b).
 
@@ -772,7 +772,7 @@ Unanimous (5-0)
 
 ### 3.3. Parks and Recreation Master Plan Update
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Directors of Parks and Recreation and Neighbourhood, Children and Fire Services, the following actions be taken with respect to the Draft Parks and Recreation Master Plan: a)            the above-noted Plan BE ADOPTED; b)            the Civic Administra...
 
@@ -782,7 +782,7 @@ Unanimous (5-0)
 
 ### 4.1. Impact of Social Assistance Changes on the Community and the City of London Budget
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from M. Laliberte, Neighbourhood Legal Services.
 
@@ -792,7 +792,7 @@ Unanimous (5-0)
 
 ### 4.1. Impact of Social Assistance Changes on the Community and the City of London Budget
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > Motion to approve part b).
 
@@ -802,7 +802,7 @@ Unanimous (4-0)
 
 ### 4.1. Impact of Social Assistance Changes on the Community and the City of London Budget
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > Motion to approve part c).
 
@@ -812,7 +812,7 @@ Unanimous (4-0)
 
 ### 4.2. Impact of Cuts to Legal Aid on the Community and the City of London Budget
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from L. Burns and C. McMullan, Neighbourhood Legal Services.
 
@@ -822,7 +822,7 @@ Unanimous (5-0)
 
 ### 4.2. Impact of Cuts to Legal Aid on the Community and the City of London Budget
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > Motion to approve part b).
 
@@ -832,7 +832,7 @@ Unanimous (4-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > Motion to approve part a).
 
@@ -842,7 +842,7 @@ Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-2" class="motion-anchor"></a>
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > Motion to approve part b).
 

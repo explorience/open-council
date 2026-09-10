@@ -604,7 +604,7 @@ The meeting adjourned at 6:26 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.4, inclusive, BE APPROVED.
 
@@ -614,7 +614,7 @@ Unanimous (6-0)
 
 ### 4.1. 7th Report of the London Advisory Committee on Heritage 183 and 197 Ann Street
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Director, Development Services, the following actions be taken with respect to the properties located at 183 Ann Street and 197 Ann Street: a) pursuant to section 35.2 of the Council Procedure By-law, the resolution of the Municipal Council meeting held on Octobe...
 
@@ -624,7 +624,7 @@ Unanimous (6-0)
 
 ### 5.1. (ADDED) 8th report of the London Advisory Committee on Heritage
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 8th Report of the London Advisory Committee on Heritage from its meeting held on November 11, 2020: a)  the following actions be taken with respect to the Stewardship Sub-Committee Report, from its meeting held on October 28, 2020: i) the fo...
 

@@ -416,7 +416,7 @@ The Strategic Priorities and Policy
 ### 2. Service London
   Update Report
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -435,7 +435,7 @@ The Strategic Priorities and Policy
 ### 3. ReThink London
   - Update
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -447,7 +447,7 @@ Unanimous (14-0)
 ### 4. Industrial Land
   Development Strategy Update (City Manager)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -459,7 +459,7 @@ Unanimous (14-0)
 ### 5. 2014 Development
   Charges - Covering Report and Draft DC Rate By-law
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -473,7 +473,7 @@ Unanimous (14-0)
   Committee Meeting re London & Middlesex Housing Corporation (LMHC) Annual
   General Meeting
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -486,7 +486,7 @@ Unanimous (14-0)
   Delegation Status at the May 5, 2014 Strategic Priorities and Policy
   Committee Meeting re London Hydro Inc. (LHI) Annual General Meeting
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -498,7 +498,7 @@ Unanimous (14-0)
 ### 8. London Hydro By-law
   Request for VISA Payments
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

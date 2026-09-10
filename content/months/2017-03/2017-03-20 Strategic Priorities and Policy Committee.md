@@ -277,7 +277,7 @@ Motion Passed
 ### 2. STAFF REPORT - 2017
   Rock the Park One-Time Exemption Request
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -296,7 +296,7 @@ Motion Passed
   MEETING - Music, Entertainment and Culture District Feasibility Study and
   Strategy
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -315,7 +315,7 @@ Motion Passed
   MEETING - Music, Entertainment and Culture District Feasibility Study and
   Strategy
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -327,7 +327,7 @@ Unanimous (13-0)
   MEETING - Music, Entertainment and Culture District Feasibility Study and
   Strategy
 
-<a id="motion-4-2" class="motion-anchor"></a>
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -346,7 +346,7 @@ Unanimous (13-0)
   MEETING - Music, Entertainment and Culture District Feasibility Study and
   Strategy
 
-<a id="motion-4-3" class="motion-anchor"></a>
+<div id="motion-4-3" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -365,7 +365,7 @@ Unanimous (13-0)
   MEETING - Music, Entertainment and Culture District Feasibility Study and
   Strategy
 
-<a id="motion-4-4" class="motion-anchor"></a>
+<div id="motion-4-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -377,7 +377,7 @@ Unanimous (13-0)
   MEETING - Music, Entertainment and Culture District Feasibility Study and
   Strategy
 
-<a id="motion-4-5" class="motion-anchor"></a>
+<div id="motion-4-5" class="motion-anchor"></div>
 
 > Motion Passed
 

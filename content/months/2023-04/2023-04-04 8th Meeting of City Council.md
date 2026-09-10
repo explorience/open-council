@@ -2820,7 +2820,7 @@ Thanks for your patience. Good conversation today. Thanks as always to our fanta
 
 ### 8.1. 11th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED.
 
@@ -2830,7 +2830,7 @@ Unanimous (15-0)
 
 ### 8.2. 12th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding item 5 (clause 4.2).
 
@@ -2840,7 +2840,7 @@ Unanimous (15-0)
 
 ### 8.2.5. (4.2) Consideration of Appointment to the London Police Services Board
 
-<a id="motion-8-2-5-2" class="motion-anchor"></a>
+<div id="motion-8-2-5-2" class="motion-anchor"></div>
 
 > That the proposed referral BE AMENDED by adding the following to the end of the clause, "it being further noted that this process will be with regard to the Reconciliation, Equity, Accessibility and Inclusion Strategic Area of Focus in the 2023-2027 Strategic Plan and the Municipal-focused Truth ...
 
@@ -2857,7 +2857,7 @@ Unanimous (15-0)
 
 ### 8.2.5. (4.2) Consideration of Appointment to the London Police Services Board
 
-<a id="motion-8-2-5-3" class="motion-anchor"></a>
+<div id="motion-8-2-5-3" class="motion-anchor"></div>
 
 > That the referral, as amended, BE APPROVED. That the matter of an appointment to the London Police Services Board, including all fifty-four applications received, BE REFERRED to the Strategic Priorities and Policy Committee in order to determine a shortlist of 5 candidates for interviews; it bein...
 
@@ -2874,7 +2874,7 @@ Unanimous (15-0)
 
 ### 8.3. 5th Report of the Planning and Environment Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 5th Report of the Planning and Environment Committee BE APPROVED, excluding item 9 (clause 3.2).
 
@@ -2884,7 +2884,7 @@ Unanimous (15-0)
 
 ### 8.3.9. (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes
 
-<a id="motion-8-3-9-1" class="motion-anchor"></a>
+<div id="motion-8-3-9-1" class="motion-anchor"></div>
 
 > That clause 9, item 3.2, BE AMENDED to read as follows: That, notwithstanding the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the request to remove heritage attributes from the property at 247 Halls Mill Road, pursuant to Section 34(1) of the...
 
@@ -2901,7 +2901,7 @@ Unanimous (15-0)
 
 ### 8.3.9. (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes
 
-<a id="motion-8-3-9-2" class="motion-anchor"></a>
+<div id="motion-8-3-9-2" class="motion-anchor"></div>
 
 > That the Committee recommendation BE APPROVED. That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the request to remove heritage attributes from the property at 247 Halls Mill Road, pursuant to Section 34(1) of the Ontario Heritage Act,...
 
@@ -2918,7 +2918,7 @@ Unanimous (15-0)
 
 ### 8.4. 6th Report of the Planning and Environment Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 6th Report of the Planning and Environment Committee BE APPROVED, excluding item 9 (clause 3.7).
 
@@ -2928,7 +2928,7 @@ Unanimous (15-0)
 
 ### 8.4.9. (3.7) 614 Westmount Crescent (Z-9553) (Relates to Bill No. 116)
 
-<a id="motion-8-4-9-1" class="motion-anchor"></a>
+<div id="motion-8-4-9-1" class="motion-anchor"></div>
 
 > Motion to approve part a) of the motion: That, the following actions be taken with respect to the application by LA-Rosa Community Ltd., relating to the property located at 614 Westmount Crescent: a)    the proposed, revised, attached, by-law as Appendix "A" BE INTRODUCED at the Municipal Council...
 
@@ -2947,7 +2947,7 @@ Unanimous (15-0)
 
 ### 8.5. 6th Report of the Corporate Services Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 6th Report of the Corporate Services Committee BE APPROVED.
 
@@ -2957,7 +2957,7 @@ Unanimous (14-0)
 
 ### 8.6. 6th Report of the Community and Protective Services Committee
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 6th Report of the Community and Protective Services Committee BE APPROVED, excluding item 10 (clause 2.6).
 
@@ -2967,7 +2967,7 @@ Unanimous (14-0)
 
 ### 8.6.10. (2.6) Infrastructure Update - Thames Outdoor Pool
 
-<a id="motion-8-6-10-1" class="motion-anchor"></a>
+<div id="motion-8-6-10-1" class="motion-anchor"></div>
 
 > That part a) BE AMENDED to read as follows: “a)       provide a report by the end of July 2023 to the Community and Protective Services Committee (CPSC) providing an updated condition assessment and identifying the scope of necessary repairs and associated costs to re-open the Thames Pool with su...
 
@@ -2977,7 +2977,7 @@ Unanimous (14-0)
 
 ### 8.6.10. (2.6) Infrastructure Update - Thames Outdoor Pool
 
-<a id="motion-8-6-10-2" class="motion-anchor"></a>
+<div id="motion-8-6-10-2" class="motion-anchor"></div>
 
 > Item 10, clause 2.6, as amended, BE APPROVED.
 
@@ -2987,7 +2987,7 @@ Unanimous (14-0)
 
 ### 8.7. 5th Report of the Civic Works Committee
 
-<a id="motion-8-7-0" class="motion-anchor"></a>
+<div id="motion-8-7-0" class="motion-anchor"></div>
 
 > That the 5th Report of the Civic Works Committee BE APPROVED.
 
@@ -2997,7 +2997,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That Bill No. 105 BE REFERRED back to the Civic Administration in order to provide for additional consultation.
 
@@ -3007,7 +3007,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 116, BE APPROVED.
 
@@ -3026,7 +3026,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 116, BE APPROVED.
 
@@ -3045,7 +3045,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 116, BE APPROVED.
 

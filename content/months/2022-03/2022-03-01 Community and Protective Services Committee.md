@@ -1154,7 +1154,7 @@ We are adjourned, thanks everybody.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.4 and 2.5 BE APPROVED.
 
@@ -1164,7 +1164,7 @@ Unanimous (5-0)
 
 ### 2.3. Licensing Agreement for the Creation of a Food Hub in Cavendish Park, 136 Cavendish Crescent
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report, dated March 1, 2022, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2022, to: a)    authorize and approve the Agreement between The...
 
@@ -1174,7 +1174,7 @@ Unanimous (5-0)
 
 ### 2.6. Pet Limits for Approved Foster Organizations
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the staff report dated March 1, 2022, with respect to Pet Limits for Approved Foster Organizations, BE RECEIVED; it being noted that the current regulation of no pet limits for Approved Foster Organizations...
 
@@ -1193,7 +1193,7 @@ Unanimous (5-0)
 
 ### 2.6. Pet Limits for Approved Foster Organizations
 
-<a id="motion-2-6-1" class="motion-anchor"></a>
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation requests from W. Brown and M. Blosh, Animal Welfare Advisory Committee, with respect to this matter.
 
@@ -1203,7 +1203,7 @@ Unanimous (5-0)
 
 ### 2.6. Pet Limits for Approved Foster Organizations
 
-<a id="motion-2-6-2" class="motion-anchor"></a>
+<div id="motion-2-6-2" class="motion-anchor"></div>
 
 > Motion to restrict the number of and types of rescue animals in foster homes to be the number of animals allowed in private homes.
 
@@ -1222,7 +1222,7 @@ Unanimous (5-0)
 
 ### 4.1. K. Pihlak, Executive Director, Oak Park Co-operative Children's Centre - REQUEST FOR DELEGATION STATUS
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the delegation from K. Pihlak, Oak Park Co-Operative Children’s Centre, related to the Bi-Lateral Child Care Agreement: a)    the Mayor BE REQUESTED to call on the Provincial Government to: -    sign the Bi-Lateral Child Care Agreement before Ma...
 
@@ -1232,7 +1232,7 @@ Unanimous (5-0)
 
 ### 4.1. K. Pihlak, Executive Director, Oak Park Co-operative Children's Centre - REQUEST FOR DELEGATION STATUS
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from K. Pihlak, Oak Park Co-operative Children’s Centre, with respect to the Bi-Lateral Child Care Agreement.
 
@@ -1242,7 +1242,7 @@ Unanimous (5-0)
 
 ### 4.3. Draft By-laws: Program Regulating Distribution of Flyers By-law and Distribution of Graphic Flyers to Residential Properties By-law
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the staff report, dated March 1, 2022, related to a Program Regulating Distribution of Flyers and Distribution of Graphic Flyer Deliveries to Residential Properties: a)    the proposed by-law, as appended to the above-noted staff report (Appendi...
 

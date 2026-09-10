@@ -416,7 +416,7 @@ The Corporate Services Committee convened
 ### 2. SS16-11 Single
   Source Corporate Technology Assets
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -428,7 +428,7 @@ Unanimous (4-0)
 ### 3. Shamrock
   Subdivision - Agreement with Property Owner
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -440,7 +440,7 @@ Unanimous (4-0)
 ### 4. 2015 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -452,7 +452,7 @@ Unanimous (4-0)
 ### 5. 2015 Operating
   Budget Status - Fourth Quarter Report
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -464,7 +464,7 @@ Unanimous (4-0)
 ### 6. 2015 Capital Budget
   Status - Fourth Quarter Report
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -477,7 +477,7 @@ Unanimous (4-0)
   Assessment Update - Carla Nell, VP, Municipal & Stakeholder Relations,
   Municipal Property Assessment Corporation (MPAC)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -489,7 +489,7 @@ Unanimous (4-0)
 ### 8. Apportionment of
   Taxes
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -501,7 +501,7 @@ Unanimous (4-0)
 ### 8. Apportionment of
   Taxes
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -513,7 +513,7 @@ Unanimous (4-0)
 ### 8. Apportionment of
   Taxes
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -525,7 +525,7 @@ Unanimous (4-0)
 ### 9. Corporate Services
   Committee Deferred Matters List
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

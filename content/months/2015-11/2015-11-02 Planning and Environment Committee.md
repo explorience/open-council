@@ -630,7 +630,7 @@ The
 ### 2. Property located at
   275 Thames Street
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -642,7 +642,7 @@ Unanimous (5-0)
 ### 3. Property located at
   510 Central Avenue (SP15-005948)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -661,7 +661,7 @@ Unanimous (5-0)
 ### 4. 12th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -673,7 +673,7 @@ Unanimous (5-0)
 ### 4. 12th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -685,7 +685,7 @@ Unanimous (5-0)
 ### 5. Properties located
   at 2095 Coronation Drive and 955 Gainsborough Road (39T-15502/Z-8477)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -704,7 +704,7 @@ Unanimous (5-0)
 ### 5. Properties located
   at 2095 Coronation Drive and 955 Gainsborough Road (39T-15502/Z-8477)
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -716,7 +716,7 @@ Unanimous (5-0)
 ### 5. Properties located
   at 2095 Coronation Drive and 955 Gainsborough Road (39T-15502/Z-8477)
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -728,7 +728,7 @@ Unanimous (5-0)
 ### 6. Property located at
   2170 Wharncliffe Road South (TZ-8520)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -747,7 +747,7 @@ Unanimous (5-0)
 ### 6. Property located at
   2170 Wharncliffe Road South (TZ-8520)
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -759,7 +759,7 @@ Unanimous (5-0)
 ### 6. Property located at
   2170 Wharncliffe Road South (TZ-8520)
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -778,7 +778,7 @@ Unanimous (5-0)
 ### 7. Property located at
   759 Elizabeth Street - Request for Demolition
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -797,7 +797,7 @@ Unanimous (5-0)
 ### 7. Property located at
   759 Elizabeth Street - Request for Demolition
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -809,7 +809,7 @@ Unanimous (5-0)
 ### 7. Property located at
   759 Elizabeth Street - Request for Demolition
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -828,7 +828,7 @@ Unanimous (5-0)
 ### 7. Property located at
   759 Elizabeth Street - Request for Demolition
 
-<a id="motion-7-3" class="motion-anchor"></a>
+<div id="motion-7-3" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -847,7 +847,7 @@ Unanimous (5-0)
 ### 7. Property located at
   759 Elizabeth Street - Request for Demolition
 
-<a id="motion-7-4" class="motion-anchor"></a>
+<div id="motion-7-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -866,7 +866,7 @@ Unanimous (5-0)
 ### 7. Property located at
   759 Elizabeth Street - Request for Demolition
 
-<a id="motion-7-5" class="motion-anchor"></a>
+<div id="motion-7-5" class="motion-anchor"></div>
 
 > Motion   Passed
 

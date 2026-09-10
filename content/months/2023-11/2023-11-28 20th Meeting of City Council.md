@@ -3053,7 +3053,7 @@ All right, thank you very much. We're adjourned.
 
 ### 8.1. 27th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 27th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 10 (2.4) and 17 (4.2).
 
@@ -3063,7 +3063,7 @@ Unanimous (15-0)
 
 ### 8.1.10. (2.4) 2023-2027 City of London Strategic Plan: Core Area
 
-<a id="motion-8-1-10-0" class="motion-anchor"></a>
+<div id="motion-8-1-10-0" class="motion-anchor"></div>
 
 > That with respect to the 2023-2027 City of London Strategic Plan: Core Area, the following actions be taken:  a)    the 2023-2027 City of London Strategic Plan: Core Area BE REFERRED back to Civic Administration;  b)    the Civic Administration BE DIRECTED to undertake a comprehensive review cons...
 
@@ -3073,7 +3073,7 @@ Unanimous (14-0)
 
 ### 8.1.17. (4.2) Community Cold Weather Response Update
 
-<a id="motion-8-1-17-1" class="motion-anchor"></a>
+<div id="motion-8-1-17-1" class="motion-anchor"></div>
 
 > Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan: i)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission ...
 
@@ -3083,7 +3083,7 @@ Unanimous (15-0)
 
 ### 8.1.17. (4.2) Community Cold Weather Response Update
 
-<a id="motion-8-1-17-2" class="motion-anchor"></a>
+<div id="motion-8-1-17-2" class="motion-anchor"></div>
 
 > Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan:  ii)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Missio...
 
@@ -3100,7 +3100,7 @@ Unanimous (15-0)
 
 ### 8.1.17. (4.2) Community Cold Weather Response Update
 
-<a id="motion-8-1-17-3" class="motion-anchor"></a>
+<div id="motion-8-1-17-3" class="motion-anchor"></div>
 
 > Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan:  iii)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Missi...
 
@@ -3117,7 +3117,7 @@ Unanimous (15-0)
 
 ### 8.1.17. (4.2) Community Cold Weather Response Update
 
-<a id="motion-8-1-17-4" class="motion-anchor"></a>
+<div id="motion-8-1-17-4" class="motion-anchor"></div>
 
 > Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan:  iv)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Missio...
 
@@ -3127,7 +3127,7 @@ Unanimous (15-0)
 
 ### 8.2. 18th Report of the Planning and Environment Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 18th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 8 (3.5).
 
@@ -3137,7 +3137,7 @@ Unanimous (14-0)
 
 ### 8.2.8. (3.5) 978 Gainsborough Road (Z-9247) (Relates to Bill No.'s 422 and 459)
 
-<a id="motion-8-2-8-0" class="motion-anchor"></a>
+<div id="motion-8-2-8-0" class="motion-anchor"></div>
 
 > That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highland Communities Ltd., relating to the property located at 978 Gainsborough Road: a)    the request to amend the Official Plan, The London Plan...
 
@@ -3154,7 +3154,7 @@ Unanimous (14-0)
 
 ### 8.3. 17th Report of the Community and Protective Services Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 17th Report of the Community and Protective Services Committee BE APPROVED.
 
@@ -3164,7 +3164,7 @@ Unanimous (15-0)
 
 ### 8.4. 16th Report of the Civic Works Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 16th Report of the Civic Works Committee BE APPROVED, with the exception of items 4 (2.3), 5 (3.1), and 6 (3.2).
 
@@ -3174,7 +3174,7 @@ Unanimous (15-0)
 
 ### 8.4.5. (3.1) Northridge Neighbourhood Connectivity Plan
 
-<a id="motion-8-4-5-0" class="motion-anchor"></a>
+<div id="motion-8-4-5-0" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to remove Dalkeith Avenue from the list of exempted streets for sidewalks in the Northridge Neighbourhood Connectivity Plan.
 
@@ -3191,7 +3191,7 @@ Unanimous (15-0)
 
 ### 8.4.5. (3.1) Northridge Neighbourhood Connectivity Plan
 
-<a id="motion-8-4-5-1" class="motion-anchor"></a>
+<div id="motion-8-4-5-1" class="motion-anchor"></div>
 
 > That the Northridge Neighbourhood Connectivity Plan, as appended to the staff report dated November 14, 2023, BE APPROVED to inform the annual Renew London Construction Program with the exception of the proposed Glengarry Avenue, Dalkeith Avenue, Algoma Avenue, Glengyle Crescent, Dunboyne Crescen...
 
@@ -3208,7 +3208,7 @@ Unanimous (15-0)
 
 ### 8.4.6. (3.2) Huron Heights Neighbourhood Connectivity Plan
 
-<a id="motion-8-4-6-1" class="motion-anchor"></a>
+<div id="motion-8-4-6-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to remove Michael Street from the list of exempted streets for sidewalks in the Huron Heights Neighbourhood Connectivity Plan.
 
@@ -3218,7 +3218,7 @@ Unanimous (15-0)
 
 ### 8.4.6. (3.2) Huron Heights Neighbourhood Connectivity Plan
 
-<a id="motion-8-4-6-2" class="motion-anchor"></a>
+<div id="motion-8-4-6-2" class="motion-anchor"></div>
 
 > That the Huron Heights Neighbourhood Connectivity Plan, as appended to the staff report dated November 14, 2023, BE APPROVED to inform the annual Renew London Construction Program with the exception of the proposed Kaladar Drive, Cayuga Crescent, and Mark Street sidewalks; it being noted that no ...
 
@@ -3235,7 +3235,7 @@ Unanimous (15-0)
 
 ### 8.5. 3rd Report of the Audit Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 3rd Report of the Audit Committee BE APPROVED.
 
@@ -3245,7 +3245,7 @@ Unanimous (15-0)
 
 ### 12. Emergent Motions
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > That, pursuant to section 20.2 of the Council Procedure By-law, Mayor J. Morgan BE GRANTED leave to bring forward an Emergent Motion with respect to a matter pertaining to the proposed or pending acquisition of land by the municipality, including communications necessary for that purpose; advice ...
 
@@ -3255,7 +3255,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.’s 422 and Bill No. 459, BE APPROVED.
 
@@ -3272,7 +3272,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No.’s 422 and Bill No. 459, BE APPROVED.
 
@@ -3289,7 +3289,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.’s 422 and Bill No. 459, BE APPROVED.
 

@@ -650,7 +650,7 @@ The meeting adjourned at 2:53 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.7, 2.9 to 2.11, 2.15 and 2.16 BE APPROVED.
 
@@ -660,7 +660,7 @@ Unanimous (6-0)
 
 ### 2.8. Automated Speed Enforcement - Spring 2021 Update
 
-<a id="motion-2-8-0" class="motion-anchor"></a>
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to proceed with the implementation of the Automated Speed Enforcement (ASE) program; it being noted that the staff report, dated March 30, 2021, with respect to this matter, was received. (2021-T08)
 
@@ -677,7 +677,7 @@ Unanimous (6-0)
 
 ### 2.13. Green Bin Program Design - Community Engagement Feedback
 
-<a id="motion-2-13-1" class="motion-anchor"></a>
+<div id="motion-2-13-1" class="motion-anchor"></div>
 
 > Motion to approve part a) of the clause.
 
@@ -687,7 +687,7 @@ Unanimous (6-0)
 
 ### 2.13. Green Bin Program Design - Community Engagement Feedback
 
-<a id="motion-2-13-2" class="motion-anchor"></a>
+<div id="motion-2-13-2" class="motion-anchor"></div>
 
 > Motion to approve the remainder of the clause, parts b) to f), inclusive.
 
@@ -704,7 +704,7 @@ Unanimous (6-0)
 
 ### 2.17. Dundas Place - Temporary Bicycle Lanes
 
-<a id="motion-2-17-1" class="motion-anchor"></a>
+<div id="motion-2-17-1" class="motion-anchor"></div>
 
 > Motion to approve part a) of the clause.
 
@@ -714,7 +714,7 @@ Unanimous (4-0)
 
 ### 2.17. Dundas Place - Temporary Bicycle Lanes
 
-<a id="motion-2-17-2" class="motion-anchor"></a>
+<div id="motion-2-17-2" class="motion-anchor"></div>
 
 > Motion to approve part b) of the clause.
 
@@ -724,7 +724,7 @@ Unanimous (4-0)
 
 ### 4.2. (ADDED) Imperial Road Sidewalk - Councillor M. Cassidy
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back to a future meeting of the Civic Works Committee with the results of the photometric study on Imperial Road and the detailed design of the proposed sidewalk on the east side of Imperial Road prior to tendering or commencing work; it being n...
 
@@ -734,7 +734,7 @@ Unanimous (4-0)
 
 ### 4.3. (ADDED) Reallocation of Sidewalk Construction Funds - Councillor M. van Holst
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to transfer any budgetary savings resulting from proposed sidewalk infrastructure being removed from the related 2021 road reconstruction projects to the new sidewalk construction program; it being noted that a communication, appended to the Added Agenda,...
 

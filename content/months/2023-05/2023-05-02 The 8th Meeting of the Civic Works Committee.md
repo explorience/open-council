@@ -233,7 +233,7 @@ I don't think so. Take care everyone.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2 and 2.3 BE APPROVED.
 
@@ -243,7 +243,7 @@ Unanimous (5-0)
 
 ### 2.4. Broughdale Dyke Disaster Mitigation and Adaptation Funding - Contribution Agreement
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report, dated May 2, 2023, BE INTRODUCED at the Municipal Council meeting to be held on May 16, 2023, to: a)    approve the Contribution Agreement, as appended to ...
 
@@ -253,7 +253,7 @@ Unanimous (4-0)
 
 ### 4.1. (ADDED) Councillor S. Franke - Plastic Regulations Feedback
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the public consultation, released April 18, 2023, from the Environment and Climate Change Canada’s “Strategy on Zero Plastic Waste”: a)    the Civic Administration BE DIRECTED to provide written feedback on the proposed plastic regulatory framew...
 

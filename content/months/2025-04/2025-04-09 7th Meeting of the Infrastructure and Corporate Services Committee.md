@@ -617,7 +617,7 @@ Thanks everyone.
 
 ### 2.1. 2026 Municipal and School Board Elections Update
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Clerk, the following actions be taken with respect to the 2026 Municipal Election: a)    the City Clerk BE DIRECTED to request local school boards to consider scheduling a Professional Activity Day (PA Day) on Voting Day, October 26, 2026, as elementary and...
 
@@ -634,7 +634,7 @@ Thanks everyone.
 
 ### 4.1. Review of Winter Maintenance Performance Regarding Snow and Ice Removal - Councillors S. Franke and C. Rahman
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Review of Winter Maintenance Performance regarding Snow and Ice Removal : a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee regarding amendments to the Minimu...
 

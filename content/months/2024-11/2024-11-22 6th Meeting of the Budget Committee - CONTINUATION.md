@@ -1795,7 +1795,7 @@ Closing the vote, motion carries, 15, 14 to zero. Thank you, we're adjourned.
 
 ### 3.1. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to adjust Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements from $827,000 of Parks Operating Expenditures to $808,000, with...
 
@@ -1812,7 +1812,7 @@ Closing the vote, motion carries, 15, 14 to zero. Thank you, we're adjourned.
 
 ### 3.2. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Improving Safety/Security, Property Damage Grants and Crime Prevention
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Economic Development Reserve Fund, to the London Downtown Business Association for the purpose of supporting businesses, such as improving safety/security, property damage grants, an...
 
@@ -1829,7 +1829,7 @@ Closing the vote, motion carries, 15, 14 to zero. Thank you, we're adjourned.
 
 ### 3.3. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Graffiti Removal, Power Washing, Expanded Street Cleaning and Beautification and Maintenance
 
-<a id="motion-3-3-1" class="motion-anchor"></a>
+<div id="motion-3-3-1" class="motion-anchor"></div>
 
 > That the motion be amended, to read as follows: That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and maintenance,...
 
@@ -1848,7 +1848,7 @@ Closing the vote, motion carries, 15, 14 to zero. Thank you, we're adjourned.
 
 ### 3.3. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Graffiti Removal, Power Washing, Expanded Street Cleaning and Beautification and Maintenance
 
-<a id="motion-3-3-2" class="motion-anchor"></a>
+<div id="motion-3-3-2" class="motion-anchor"></div>
 
 > That the motion be further amended, to read as follows: That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and main...
 
@@ -1867,7 +1867,7 @@ Closing the vote, motion carries, 15, 14 to zero. Thank you, we're adjourned.
 
 ### 3.3. (ADDED) Amendment - Grant - Economic Development Reserve Fund -Councillor D. Ferreira - LDBA for Graffiti Removal, Power Washing, Expanded Street Cleaning and Beautification and Maintenance
 
-<a id="motion-3-3-3" class="motion-anchor"></a>
+<div id="motion-3-3-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1886,7 +1886,7 @@ Closing the vote, motion carries, 15, 14 to zero. Thank you, we're adjourned.
 
 ### 4.1. Middlesex-London Health Unit 2025 Funding Request
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: b)    the Civic Administration BE DIRECTED to fund the City of London’s increased share of $226,954 for 2025 from the Operating Budget Contingency Reserve.
 
@@ -1905,7 +1905,7 @@ Closing the vote, motion carries, 15, 14 to zero. Thank you, we're adjourned.
 
 ### 4.1. Middlesex-London Health Unit 2025 Funding Request
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That the Budget Committee recess at this time for 30 minutes
 
@@ -1915,7 +1915,7 @@ Unanimous (14-0)
 
 ### 5.2. Amendment – Business Case #P-46 - Councillor S. Stevenson
 
-<a id="motion-5-2-1" class="motion-anchor"></a>
+<div id="motion-5-2-1" class="motion-anchor"></div>
 
 > That the motion be amended to read as follows: That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing by $500,000 the additional annual contribution to the Economic Development Reserve Fund included in 2024-2027 Multi-Year Budget Business Case #P-46 – Economic and Partnerships Initiati...
 
@@ -1934,7 +1934,7 @@ Unanimous (14-0)
 
 ### 5.2. Amendment – Business Case #P-46 - Councillor S. Stevenson
 
-<a id="motion-5-2-3" class="motion-anchor"></a>
+<div id="motion-5-2-3" class="motion-anchor"></div>
 
 > That the motion, as amended, be approved.
 
@@ -1953,7 +1953,7 @@ Unanimous (14-0)
 
 ### 5.3. Amendment - Rapid Transit - East London Link - Councillor S. Stevenson
 
-<a id="motion-5-3-1" class="motion-anchor"></a>
+<div id="motion-5-3-1" class="motion-anchor"></div>
 
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Developme...
 
@@ -1972,7 +1972,7 @@ Unanimous (14-0)
 
 ### 5.3. Amendment - Rapid Transit - East London Link - Councillor S. Stevenson
 
-<a id="motion-5-3-2" class="motion-anchor"></a>
+<div id="motion-5-3-2" class="motion-anchor"></div>
 
 > That pursuant to section 35.10 of the Council Procedure by-law, the Committee decision with respect to the Mayor's 2025 Annual Budget Amendment - Rapid Transit - East London Link project BE RECONSIDERED.
 
@@ -1982,7 +1982,7 @@ Unanimous (14-0)
 
 ### 5.3. Amendment - Rapid Transit - East London Link - Councillor S. Stevenson
 
-<a id="motion-5-3-3" class="motion-anchor"></a>
+<div id="motion-5-3-3" class="motion-anchor"></div>
 
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Developme...
 
@@ -2001,7 +2001,7 @@ Unanimous (14-0)
 
 ### 5.4. Amendment - Unfunded Liability Reserve Fund - Councillor S. Stevenson
 
-<a id="motion-5-4-1" class="motion-anchor"></a>
+<div id="motion-5-4-1" class="motion-anchor"></div>
 
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to include a drawdown from the Unfunded Liability Reserve Fund, notwithstanding the Council approved by-law that directs the fund to provide for employee benefits payable excluding WSIB claims in excess of $250,000.00, landfill closure and pos...
 

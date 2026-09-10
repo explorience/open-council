@@ -526,7 +526,7 @@ Councillor Frank all right this did not prove the point i was trying to make at 
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.3, inclusive, BE APPROVED.
 
@@ -536,7 +536,7 @@ Unanimous (5-0)
 
 ### 3.4. 1515 Trossacks Avenue (Z-9632)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application by Daniel Boyer c/o Polocorp Inc., relating to the property located at 1515 Trossacks Avenue: a)    the proposed by-law appended to the Planning and Environment Committee Added Agenda as Appendix "A" BE INTRODUCED at the Municip...
 
@@ -555,7 +555,7 @@ Unanimous (5-0)
 
 ### 3.4. 1515 Trossacks Avenue (Z-9632)
 
-<a id="motion-3-4-1" class="motion-anchor"></a>
+<div id="motion-3-4-1" class="motion-anchor"></div>
 
 > Motion to delete clause b) ii), which reads as follows: "b) ii)  removal of surface level parking to provide larger outdoor amenity space and a paratransit layby."
 
@@ -574,7 +574,7 @@ Unanimous (5-0)
 
 ### 4.1. Council Resolution - Housing Accelerator Fund
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That clause b) of the Municipal Council resolution adopted at its meeting held on August 29, 2023, with respect to the Housing Accelerator Fund BE DEFERRED to a future Planning and Environment Committee meeting.
 

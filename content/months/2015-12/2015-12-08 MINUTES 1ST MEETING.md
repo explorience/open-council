@@ -2573,7 +2573,7 @@ Passed
 ### 10#2. Syrian Refugee
   Resettlement
 
-<a id="motion-10-2-0" class="motion-anchor"></a>
+<div id="motion-10-2-0" class="motion-anchor"></div>
 
 > At 6:17 PM, His Worship the Mayor resumes   the Chair and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -2584,7 +2584,7 @@ Unanimous (15-0)
 ### 12#2. 8th Report of the Governance
   Working Group
 
-<a id="motion-12-2-0" class="motion-anchor"></a>
+<div id="motion-12-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2596,7 +2596,7 @@ Unanimous (15-0)
 ### 13#2. Request for Delegation Status – Expansion
   of London Optimist Sports Centre (BMO Centre)
 
-<a id="motion-13-2-0" class="motion-anchor"></a>
+<div id="motion-13-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2614,7 +2614,7 @@ Unanimous (15-0)
 ### 13#2. Request for Delegation Status – Expansion
   of London Optimist Sports Centre (BMO Centre)
 
-<a id="motion-13-2-2" class="motion-anchor"></a>
+<div id="motion-13-2-2" class="motion-anchor"></div>
 
 > A matter pertaining to personal matters,   including information regarding an identifiable individual, including a   municipal employee, with respect to employment related matters, advice or   recommendations of officers and employees of the Corporation including   communications necessary for th...
 
@@ -2625,7 +2625,7 @@ Unanimous (15-0)
 ### 13#2. Request for Delegation Status – Expansion
   of London Optimist Sports Centre (BMO Centre)
 
-<a id="motion-13-2-3" class="motion-anchor"></a>
+<div id="motion-13-2-3" class="motion-anchor"></div>
 
 > Approve that, as a procedural matter pursuant to Section 239 (6) of the   Municipal Act, 2001, the following recommendation be forwarded to City   Council for deliberation and a vote in public session:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer...
 
@@ -2638,7 +2638,7 @@ Unanimous (14-0)
   Planning and Environment Committee stage for consideration with clause 4 of
   the 26th Report of the Planning and Environment Committee.)
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2649,7 +2649,7 @@ Unanimous (15-0)
 ### 2#8. Municipal Implications of the Truth and
   Reconciliation Commission Report
 
-<a id="motion-2-8-0" class="motion-anchor"></a>
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > Amend part   a) of clause 2, by adding the following words “with regular progress updates   to be provided to the Municipal Council, through the appropriate standing committee”   after the words “Group;”
 
@@ -2660,7 +2660,7 @@ Unanimous (15-0)
 ### 2#8. Municipal Implications of the Truth and
   Reconciliation Commission Report
 
-<a id="motion-2-8-1" class="motion-anchor"></a>
+<div id="motion-2-8-1" class="motion-anchor"></div>
 
 > Approve clause 2, as amended.
 
@@ -2671,7 +2671,7 @@ Unanimous (15-0)
 ### 3#3. Property located at
   1156 Dundas Street (OZ-8489) (Relates to Bill No. 4 and Bill No. 15)
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of City of London, Realty Services Division,   relating to the property located at 1156 Dundas Street:   a)         the   proposed by-law appended to...
 
@@ -2682,7 +2682,7 @@ Unanimous (15-0)
 ### 4#2. Secondary Dwelling
   Units (OZ-8053) (Relates to Bill No. 5 and Bill No. 16)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > Approve that   clause 4 of the 26th Report of the Planning and Environment Committee (PEC)   regarding secondary dwelling units BE REFERRED back to the Civic   Administration to be considered and reported back on as part of the   Great-Near Campus Neighbourhoods Strategy Review currently being un...
 
@@ -2700,7 +2700,7 @@ Unanimous (15-0)
 ### 5#3. City of London Days
   at the Budweiser Gardens
 
-<a id="motion-5-3-0" class="motion-anchor"></a>
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City   Clerk, and notwithstanding Council Policy 3(8) – City of London Days at the   Budweiser Gardens, which restricts a group from having more than two event   days over a five year consecutive period, the request from the Parkinson   Society Southwestern Onta...
 
@@ -2712,7 +2712,7 @@ Unanimous (13-0)
   at 1155-1236 Gough Road and 1974-2119 Gough Avenue (Z-8509) (Relates to Bill No.
   18)
 
-<a id="motion-6-2-0" class="motion-anchor"></a>
+<div id="motion-6-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, with respect to the application of   Sifton Properties Limited, relating to the properties located at 1155-1236   Gough Road and 1974-2119 Gough Avenue, the proposed by-law appended to the   staff report dated Nove...
 
@@ -2732,7 +2732,7 @@ Unanimous (13-0)
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410) (Relates to
   Bill No. 6 and Bill No. 19)
 
-<a id="motion-7-2-0" class="motion-anchor"></a>
+<div id="motion-7-2-0" class="motion-anchor"></div>
 
 > Approve that clause 7 be amended as   follows:   i)                by   deleting part b) in its entirety and by replacing it with the following new   part b):   “b)                  the proposed attached   revised by-law BE INTRODUCED at the Municipal Council meeting to be held on   December 21, ...
 
@@ -2752,7 +2752,7 @@ Unanimous (13-0)
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410) (Relates to
   Bill No. 6 and Bill No. 19)
 
-<a id="motion-7-2-1" class="motion-anchor"></a>
+<div id="motion-7-2-1" class="motion-anchor"></div>
 
 > Approve clause 7, as amended.
 
@@ -2763,7 +2763,7 @@ Unanimous (15-0)
 ### 7#4. London Medical Innovation and
   Commercialization Network Update (Paul Paolatto and Peter White)
 
-<a id="motion-7-4-0" class="motion-anchor"></a>
+<div id="motion-7-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2774,7 +2774,7 @@ Unanimous (13-0)
 ### 8#2. Property located at
   2300 Richmond Street (OZ-8501)
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2785,7 +2785,7 @@ Unanimous (15-0)
 ### 8#3. Tax Adjustment
   Agenda
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the recommendations contained in the   Tax Adjustment Agenda dated December 1, 2015, as revised by the revisions   included on the Added Agenda as Item 8 a), BE APPROVED; it being noted that   there were no members of the public in attendance to speak to the Corporate   Services Committee, a...
 
@@ -2796,7 +2796,7 @@ Unanimous (13-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-v-0" class="motion-anchor"></a>
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the following   matters:
 
@@ -2807,7 +2807,7 @@ Unanimous (14-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRTIETH MEETING HELD ON NOVEMBER 24, 2015
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 30th Meeting   held on November 24, 2015.
 
@@ -2818,7 +2818,7 @@ Unanimous (15-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-0" class="motion-anchor"></a>
+<div id="motion-xii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to amend the annual meeting calendar by deleting the December   21, 2015 Council Meeting date and by replacing it with a January 4, 2016   Council Meeting date, wit...
 
@@ -2829,7 +2829,7 @@ Unanimous (14-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-1" class="motion-anchor"></a>
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Approve that   the annual meeting calendar be amended by deleting the December 21, 2015   Council Meeting date and by replacing it with a January 4, 2016 Council   Meeting date, with the meeting commencing at 4:00 PM.
 
@@ -2846,7 +2846,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading   of Bill No 18.
 
@@ -2863,7 +2863,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-4" class="motion-anchor"></a>
+<div id="motion-xiii-4" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No. 18.
 
@@ -2880,7 +2880,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 18.
 
@@ -2897,7 +2897,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-6" class="motion-anchor"></a>
+<div id="motion-xiii-6" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading   of Bill No. 20.
 
@@ -2914,7 +2914,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-7" class="motion-anchor"></a>
+<div id="motion-xiii-7" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No. 20.
 
@@ -2931,7 +2931,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-8" class="motion-anchor"></a>
+<div id="motion-xiii-8" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 20.
 
@@ -2950,7 +2950,7 @@ Unanimous (14-0)
   Consultant for Environmental Assessment, Design, and Contract Administration
   for the Colonel Talbot Pumping Station and Sanitary Servicing Works
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the assignment of consulting   services for the Environmental Assessment, Design and Contract Administration   for the Colonel Talbot ...
 
@@ -2961,7 +2961,7 @@ Unanimous (15-0)
 ### 9. Red Light Camera
   Program Update
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the   Director, Roads and Transportation, the implementation of the Red Light   Camera Enforcement Program BE DEFFERED until more information is available   from the Province of Ontario with respect to fine administration.  (2015-T08)
 
@@ -2973,7 +2973,7 @@ Unanimous (15-0)
   Consulting Engineers for Design and Construction of Stormwater Management
   Facilities
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the following   actions be taken with respect to the appointment of Consulting Engineers for   the 2015 Stormwater Management Facility (SWMF) Design and Construction   Program in acco...
 
@@ -2985,7 +2985,7 @@ Unanimous (13-0)
   Extension - Wharncliffe Road South to Wonderland Road South - Detailed Design
   - Appointment of Consulting Engineer
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the Bradley Avenue Extension from   Wharncliffe Road South to Wonderland Road South:    a)         Archibald,   Gray & McKay Engineeri...
 

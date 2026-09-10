@@ -3167,7 +3167,7 @@ By motion carries. We are adjourned.
 
 ### 6. Communications and Petitions
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > That the communications, with respect to the following, BE RECIEVED and BE REFERRED as noted on the Council Added Agenda: 6.1  1236 Southdale Road (Z-9634) 6.3  Urban Design Peer Review Panel 6.4  Deferred Matters List
 
@@ -3177,7 +3177,7 @@ Unanimous (14-0)
 
 ### 6. Communications and Petitions
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > That the communications, with respect to the following, BE RECIEVED and BE REFERRED as noted on the Council Added Agenda: 6.2  50 King Street and 399 Ridout Street (OZ-9622)
 
@@ -3187,7 +3187,7 @@ Unanimous (13-0)
 
 ### 8.1. 15th Report of the Community and Protective Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 15th Report of the Community and Protective Services Committee BE APPROVED.
 
@@ -3197,7 +3197,7 @@ Unanimous (14-0)
 
 ### 8.2. 14th Report of the Civic Works Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Civic Works Committee BE APPROVED.
 
@@ -3207,7 +3207,7 @@ Unanimous (14-0)
 
 ### 8.3. 24th Report of the Special Strategic Priorities and Policy Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 24th Report of the Special Strategic Priorities and Policy Committee BE APPROVED.
 
@@ -3217,7 +3217,7 @@ Unanimous (14-0)
 
 ### 8.4. 25th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 25th Report of the Strategic Priorities and Policy Committee, excluding item 6 (4.2), item 7 (4.3), and item 8 (4.4), BE APPROVED.
 
@@ -3227,7 +3227,7 @@ Unanimous (14-0)
 
 ### 8.4.6. (4.2) Consideration of Appointments to the London Transit Commission
 
-<a id="motion-8-4-6-0" class="motion-anchor"></a>
+<div id="motion-8-4-6-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the London Transit Commission for the term ending November 14, 2026: - Jacqueline Madden - David Little
 
@@ -3246,7 +3246,7 @@ Unanimous (14-0)
 
 ### 8.4.7. (4.3) Lobbyist Registrar
 
-<a id="motion-8-4-7-0" class="motion-anchor"></a>
+<div id="motion-8-4-7-0" class="motion-anchor"></div>
 
 > That the Strategic Priorities and Policy Committee receive a communication dated October 10, 2023 from Councillors D. Ferreira and S. Franke with respect to the Lobbyist Registrar.
 
@@ -3265,7 +3265,7 @@ Unanimous (14-0)
 
 ### 8.4.7. (4.3) Lobbyist Registrar
 
-<a id="motion-8-4-7-1" class="motion-anchor"></a>
+<div id="motion-8-4-7-1" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to conduct a review and present a report on the feasibility, purpose, and associated expenses of implementing a mandatory municipal lobbyist registry. The review should encompass the establishment of a publicly accessible electronic portal for tracking lo...
 
@@ -3284,7 +3284,7 @@ Unanimous (14-0)
 
 ### 8.4.8. (4.4) Establishing Homes Ontario
 
-<a id="motion-8-4-8-0" class="motion-anchor"></a>
+<div id="motion-8-4-8-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to correspondence from T. Kernaghan: a)    the correspondence from T. Kernaghan, Member of Provincial Parliament, London North Centre dated October 1, 2023 and entitled "Establishing Homes Ontario" BE RECEIVED; b)    the Government of Ontario BE AD...
 
@@ -3303,7 +3303,7 @@ Unanimous (14-0)
 
 ### 8.5. 16th Report of the Planning and Environment Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 16th Report of the Planning and Environment Committee, excluding item 7 (3.5) and item 8 (4.1), BE APPROVED.
 
@@ -3313,7 +3313,7 @@ Unanimous (14-0)
 
 ### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
 
-<a id="motion-8-5-7-2" class="motion-anchor"></a>
+<div id="motion-8-5-7-2" class="motion-anchor"></div>
 
 > That part c) of the clause BE FURTHER AMENDED with respect to part iv): iv) utilize visual markers, etched or stained glass to provide bird-friendly glazing, as consistent with the London Plan section 304;
 
@@ -3332,7 +3332,7 @@ Unanimous (14-0)
 
 ### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
 
-<a id="motion-8-5-7-3" class="motion-anchor"></a>
+<div id="motion-8-5-7-3" class="motion-anchor"></div>
 
 > That part c) of the clause BE AMENDED with respect to parts iv), and the addition of parts xiii) and xiv), as follows: iv) utilize visual markers, etched or stained glass to provide bird-friendly glazing, as consistent with the London Plan section 304; xiii) implement a robust solar installation ...
 
@@ -3351,7 +3351,7 @@ Unanimous (14-0)
 
 ### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
 
-<a id="motion-8-5-7-4" class="motion-anchor"></a>
+<div id="motion-8-5-7-4" class="motion-anchor"></div>
 
 > That Council rise and go into Council, In Closed Session, for the purpose of considering the following: A matter pertaining to solicitor-client privilege with respect to 50 King Street and 399 Ridout Street.
 
@@ -3370,7 +3370,7 @@ Unanimous (14-0)
 
 ### 8.5.7. (3.5) 50 King Street and 399 Ridout Street (OZ-9622) (Relates to Bills No. 373 and 380)
 
-<a id="motion-8-5-7-5" class="motion-anchor"></a>
+<div id="motion-8-5-7-5" class="motion-anchor"></div>
 
 > That item 7 (3.5), as amended, BE APPROVED.
 
@@ -3389,7 +3389,7 @@ Unanimous (14-0)
 
 ### 8.5.8. (4.1) Urban Design Peer Review Panel
 
-<a id="motion-8-5-8-2" class="motion-anchor"></a>
+<div id="motion-8-5-8-2" class="motion-anchor"></div>
 
 > That the matter of the dissolution of the Urban Design Peer Review Panel BE REFERRED to a future meeting of the Planning and Environment Committee.
 
@@ -3408,7 +3408,7 @@ Unanimous (14-0)
 
 ### 8.5.8. (4.1) Urban Design Peer Review Panel
 
-<a id="motion-8-5-8-3" class="motion-anchor"></a>
+<div id="motion-8-5-8-3" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a part b) as follows: that Civic Administration BE DIRECTED to bring the Terms of Reference for the Community Advisory Committee on Planning (CACP) to a future Strategic Priorities and Policy Committee meeting for consideration of the inclusion of urban design.
 
@@ -3427,7 +3427,7 @@ Unanimous (14-0)
 
 ### 8.5.8. (4.1) Urban Design Peer Review Panel
 
-<a id="motion-8-5-8-5" class="motion-anchor"></a>
+<div id="motion-8-5-8-5" class="motion-anchor"></div>
 
 > Motion to AMEND by adding a part c) c)    that Civic Administration BE DIRECTED to provide an information report that addresses the matter of the Urban Design Awards and any other matters relevant to the dissolution of the Urban Design Peer Review Panel.
 
@@ -3446,7 +3446,7 @@ Unanimous (14-0)
 
 ### 8.5.8. (4.1) Urban Design Peer Review Panel
 
-<a id="motion-8-5-8-6" class="motion-anchor"></a>
+<div id="motion-8-5-8-6" class="motion-anchor"></div>
 
 > Motion to approve part a), as amended, to read as follows: that Civic Administration BE DIRECTED to take the necessary steps to provide for the immediate dissolution of the Urban Design Peer Review Panel;
 
@@ -3465,7 +3465,7 @@ Unanimous (14-0)
 
 ### 8.5.8. (4.1) Urban Design Peer Review Panel
 
-<a id="motion-8-5-8-7" class="motion-anchor"></a>
+<div id="motion-8-5-8-7" class="motion-anchor"></div>
 
 > Motion to approve part b), as amended, to read as follows: that Civic Administration BE DIRECTED to bring the Terms of Reference for the Community Advisory Committee on Planning (CACP) back to a future Strategic Priorities and Policy Committee meeting for consideration of the inclusion of urban d...
 
@@ -3484,7 +3484,7 @@ Unanimous (14-0)
 
 ### 8.5.8. (4.1) Urban Design Peer Review Panel
 
-<a id="motion-8-5-8-8" class="motion-anchor"></a>
+<div id="motion-8-5-8-8" class="motion-anchor"></div>
 
 > Motion to APPROVE, as amended part c) c)    that Civic Administration BE DIRECTED to provide an information report that addresses the matter of the Urban Design Awards and any other matters relevant to the dissolution of the Urban Design Peer Review Panel.
 
@@ -3503,7 +3503,7 @@ Unanimous (14-0)
 
 ### 8.6. 17th Report of the Corporate Services Committee
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 17th Report of the Corporate Services Committee, excluding item 6 (4.1), BE APPROVED.
 
@@ -3513,7 +3513,7 @@ Unanimous (14-0)
 
 ### 8.6.6. (4.1) Budweiser Gardens Proposed Expansion - Additional Information and Proposed Amending Agreement (Relates to Bill No. 369)
 
-<a id="motion-8-6-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the report providing additional information on the proposed Budweiser Gardens Expansion BE RECEIVED for information; b)    the proposed by-law as appended to the staff report dated Octo...
 
@@ -3532,7 +3532,7 @@ Unanimous (14-0)
 
 ### 9.1. 14th Report of Council in Closed Session
 
-<a id="motion-9-1-0" class="motion-anchor"></a>
+<div id="motion-9-1-0" class="motion-anchor"></div>
 
 > 1.  Lease of Office Space - Lease Agreement – 520 Wellington Street, Unit 10 – Centennial House That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Fleet & Facilities, on the advice of the Director, Realty Services, with respect to the l...
 
@@ -3542,7 +3542,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 369, BE APPROVED.
 
@@ -3561,7 +3561,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 369, BE APPROVED.
 
@@ -3580,7 +3580,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 369, BE APPROVED.
 
@@ -3599,7 +3599,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.'s 373 and 380, BE APPROVED.
 
@@ -3618,7 +3618,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No.'s 373 and 380, BE APPROVED.
 
@@ -3637,7 +3637,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.'s 373 and 380, BE APPROVED.
 

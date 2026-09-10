@@ -963,7 +963,7 @@ Can we do a hand vote? Thanks everyone.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.3 and 2.5 to 2.12 BE APPROVED.
 
@@ -973,7 +973,7 @@ Unanimous (5-0)
 
 ### 2.4. 2024 Renew London Infrastructure Construction Program and 2023 Review
 
-<a id="motion-2-4-1" class="motion-anchor"></a>
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > Motion to approve part a) of the motion.
 
@@ -983,7 +983,7 @@ Unanimous (5-0)
 
 ### 2.4. 2024 Renew London Infrastructure Construction Program and 2023 Review
 
-<a id="motion-2-4-2" class="motion-anchor"></a>
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > Motion to approve part b) of the motion.
 
@@ -993,7 +993,7 @@ Unanimous (5-0)
 
 ### 4.1. Harris Park Shoreline Reconstruction - A.M. Valastro - REQUEST FOR DELEGATION STATUS
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from A.M. Valastro, to be heard at this meeting.
 

@@ -192,7 +192,7 @@ The meeting adjourned at 12:47 PM.
 
 ### 1.2. Election of Vice Chair for the term ending November 14, 2022
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > That Councillor J. Fyfe-Millar BE APPOINTED Vice Chair for the term ending November 14, 2022.
 
@@ -202,7 +202,7 @@ Unanimous (6-0)
 
 ### 4.1. (ADDED) WITHDRAWN - Request for Delegation Status - AM Valastro - Public Notice Amendment
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to Approve the delegation of B. Benedict, to be heard at this time.
 

@@ -673,7 +673,7 @@ The meeting adjourned at 5:45 PM.
 ### 2. 1st Report of the
   Transportation Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -685,7 +685,7 @@ Unanimous (5-0)
 ### 3. 1st Report of the
   Cycling Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -697,7 +697,7 @@ Unanimous (5-0)
 ### 4. 2nd Report of the
   Rapid Transit Implementation Working Group
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -709,7 +709,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT - 2017
   Renew London Infrastructure Construction Program
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -721,7 +721,7 @@ Unanimous (5-0)
 ### 6. STAFF REPORT - Lead
   Mitigation Program Update
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -734,7 +734,7 @@ Unanimous (5-0)
   Appointment of Consulting Engineer for the Stormwater Servicing Municipal
   Class Environmental Assessment for the Huron Industrial Area
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -746,7 +746,7 @@ Unanimous (5-0)
 ### 8. STAFF REPORT -
   Queens Avenue and Colborne Street Cycletracks
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -758,7 +758,7 @@ Unanimous (5-0)
 ### 8. STAFF REPORT -
   Queens Avenue and Colborne Street Cycletracks
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -772,7 +772,7 @@ Unanimous (5-0)
   Colonel Talbot Road, Including Bostwick Road North of Pack Road, Appointment
   of Consulting Engineer
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -785,7 +785,7 @@ Unanimous (5-0)
   Kiwanis Park Pathway Connection - Ontario Municipal Cycling Infrastructure
   Program Transfer Payment Agreement and Consultant Services Extension
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -798,7 +798,7 @@ Unanimous (5-0)
   Fees Contract Amendment: Huron Street Watermain River Crossing Project No.
   EW3580
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -811,7 +811,7 @@ Unanimous (5-0)
   Single Source: Arva-Huron Pipeline Chamber Upgrades and Pipe Replacement
   Project No. EW3576
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -823,7 +823,7 @@ Unanimous (5-0)
 ### 13. STAFF REPORT -
   Updates: Garbage and Recycling Collection and Next Steps
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -836,7 +836,7 @@ Unanimous (3-0)
   Execution of Contribution Amending Agreement with the Government of Canada
   for the HELP Clean Water Initiative
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -849,7 +849,7 @@ Unanimous (5-0)
   Environmental Bill of Rights Registry - Final Draft Strategy for a Waste Free
   Ontario: Building the Circular Economy
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -861,7 +861,7 @@ Unanimous (3-0)
 ### 16. (ADDED) Deferred
   Matters List
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -872,7 +872,7 @@ Unanimous (5-0)
 
 ### 17. (ADDED) Request for Delegation Status
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

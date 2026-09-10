@@ -1060,7 +1060,7 @@ The meeting adjourned at 10:34 PM
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.3, 2.4, 2.8 to 2.10, inclusive, BE APPROVED.
 
@@ -1070,7 +1070,7 @@ Unanimous (5-0)
 
 ### 2.2. Hamilton Road Area CIP Forgivable Loan Program
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, with respect to the Hamilton Road Area Community Improvement Plan Forgivable Loan Program, the proposed by-law appended to the staff report dated June 18, 2018 BE INTRODUCED at the Municipal Council meeting to be hel...
 
@@ -1089,7 +1089,7 @@ Unanimous (5-0)
 
 ### 2.5. Capital Works Budget Cost Sharing for 164 Sherwood Forest Square
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the attached, revised, Source of Financing Report BE APPROVED with respect to the site plan development agreement between The Corporation of the City of London and Futurelands Ltd...
 
@@ -1099,7 +1099,7 @@ Unanimous (5-0)
 
 ### 2.6. Application - 1900 Kilgorman Way (H-8854)
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Senior Planner, Development Services, based on the application by Harasym Homes Inc., relating to the lands located at 1900 Kilgorman Way, comprising Lot 9 Registered Plan No. 33M-682, the request to amend Zoning By-law Z.-1 to change the zoning of the lands FRO...
 
@@ -1109,7 +1109,7 @@ Unanimous (5-0)
 
 ### 2.6. Application - 1900 Kilgorman Way (H-8854)
 
-<a id="motion-2-6-1" class="motion-anchor"></a>
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request.
 
@@ -1119,7 +1119,7 @@ Unanimous (5-0)
 
 ### 3.1. S. Ratz, Chair, Advisory Committee on the Environment - 7th Report of the Advisory Committee on the Environment
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 7th Report of the Advisory Committee on the Environment from its meeting held on June 6, 2018: a)           the Managing Director, Environmental and Engineering Services & City Engineer BE REQUESTED to review the presentation appended to th...
 
@@ -1129,7 +1129,7 @@ Unanimous (5-0)
 
 ### 3.6. Public Participation Meeting - Application - 1738, 1742, 1752 and 1756 Hamilton Road (39T-17502/OZ-8147)
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of Thames Village Joint Venture Corporation, relating to the properties located at 1738, 1742, 1752 and 1756 Hamilton Road: a)         the proposed by-law append...
 
@@ -1139,7 +1139,7 @@ Unanimous (5-0)
 
 ### 3.8. Public Participation Meeting - Application - 420 Fanshawe Park Road East (SPA18-024)
 
-<a id="motion-3-8-0" class="motion-anchor"></a>
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Manger, Development Planning, the following actions be taken with respect to the application of Westdell Development Corporation, relating to the property located at 420 Fanshawe Park Road East: a)             the Approval Authority BE ADVISED that the following...
 
@@ -1149,7 +1149,7 @@ Unanimous (5-0)
 
 ### 4.2. The Dundas Place Manager Purchase of Service Agreement
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the Dundas Place Manager Purchase of Service Agreement: a)    the proposed by-law appended to the staff report dated June 18, 2018 BE INTRODUCED at the Municipal Council...
 
@@ -1159,7 +1159,7 @@ Unanimous (5-0)
 
 ### 4.3. Subdivision Application Procedure - 3080 Bostwick Road; 3700 Colonel Talbot Road and 3645 Bostwick Road
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Motion to part a) which reads as follows: "a)  the Civic Administration BE AUTHORIZED to accept and process applications by York Developments for the properties located at 3080 Bostwick Road, 3700 Colonel Talbot Road and 3645 Bostwick Road; it being noted that these applications may require amend...
 
@@ -1169,7 +1169,7 @@ Unanimous (5-0)
 
 ### 4.3. Subdivision Application Procedure - 3080 Bostwick Road; 3700 Colonel Talbot Road and 3645 Bostwick Road
 
-<a id="motion-4-3-2" class="motion-anchor"></a>
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > 
 
@@ -1188,7 +1188,7 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED) 7th Report of the London Advisory Committee on Heritage
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 7th Report of the London Advisory Committee on Heritage from its meeting held on June 13, 2018: a)         on the recommendation of the Managing Director, Planning & City Planner, with the advice of the Heritage Planner, the following actio...
 

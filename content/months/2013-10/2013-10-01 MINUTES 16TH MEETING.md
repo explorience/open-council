@@ -1989,7 +1989,7 @@ Passed
   Stage for Consideration with Clause 12 of the 21st Report of the Planning and
   Environment Committee.)
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2000,7 +2000,7 @@ Unanimous (14-0)
 ### 3#5. London's Medical
   Innovation and Commercialization Network Update
 
-<a id="motion-3-5-1" class="motion-anchor"></a>
+<div id="motion-3-5-1" class="motion-anchor"></div>
 
 > Approve clauses 1 and 3.
 
@@ -2011,7 +2011,7 @@ Unanimous (14-0)
 ### 3#5. London's Medical
   Innovation and Commercialization Network Update
 
-<a id="motion-3-5-2" class="motion-anchor"></a>
+<div id="motion-3-5-2" class="motion-anchor"></div>
 
 > Approve clause 2 .
 
@@ -2022,7 +2022,7 @@ Unanimous (12-0)
 ### 3#5. London's Medical
   Innovation and Commercialization Network Update
 
-<a id="motion-3-5-3" class="motion-anchor"></a>
+<div id="motion-3-5-3" class="motion-anchor"></div>
 
 > Approve:   a)              that,   on the recommendation of the Solicitor II, the Minutes of Settlement with   respect to a proposed settlement of the application by Liahn Farms Limited,   to the Ontario Superior Court of Justice, Divisional Court, in connection   with By-law C.P.-1466-249, the T...
 
@@ -2033,7 +2033,7 @@ Unanimous (13-0)
 ### 4#4. Long Term Care and
   Adult Day Program, Management Consulting and Administrator Services Contract
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > At 6:10 PM His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -2051,7 +2051,7 @@ Unanimous (13-0)
 ### 5#2. Southwest Economic
   Alliance Regional Transportation Advocacy Initiative
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the following resolution BE ADOPTED   and BE FORWARDED to the Southwest Economic Alliance (SWEA), appropriate   Ministries, local Members of Parliament, local Members of the Legislative   Assembly of Ontario, the Association of Municipalities Ontario, the   Federation of Canadian Municipalit...
 
@@ -2063,7 +2063,7 @@ Unanimous (14-0)
 ### 5#2. Southwest Economic
   Alliance Regional Transportation Advocacy Initiative
 
-<a id="motion-5-2-1" class="motion-anchor"></a>
+<div id="motion-5-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2075,7 +2075,7 @@ Unanimous (12-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that   Council rise and go into Committee of the Whole, in camera, for the purpose   of considering the following:
 
@@ -2087,7 +2087,7 @@ Unanimous (13-0)
   AND SIGNING OF THE MINUTES OF THE FIFTEENTH MEETING HELD ON SEPTEMBER 17,
   2013
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 15th   Meeting.
 
@@ -2098,7 +2098,7 @@ Unanimous (14-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-0" class="motion-anchor"></a>
+<div id="motion-xii-0" class="motion-anchor"></div>
 
 > Approve leave to introduce a motion   related to correspondence issued by the Mayor regarding the imprisonment of   Mr. John Greyson and Dr. Tarek Loubani.
 
@@ -2109,7 +2109,7 @@ Unanimous (12-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-1" class="motion-anchor"></a>
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Approve that the attached letter   issued by Mayor J.F. Fontana on September 30, 2013, to The Right Honourable   Stephen Harper, PC, MP, with respect to the imprisonment of Mr. John Greyson   and Dr. Tarek Loubani, BE ENDORSED by the Municipal Council.
 
@@ -2120,7 +2120,7 @@ Unanimous (12-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-2" class="motion-anchor"></a>
+<div id="motion-xii-2" class="motion-anchor"></div>
 
 > Approve leave for the introduction of a   motion by Councillor J.L. Baechler, related to Deep Geological Repositories.
 
@@ -2131,7 +2131,7 @@ Unanimous (12-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-3" class="motion-anchor"></a>
+<div id="motion-xii-3" class="motion-anchor"></div>
 
 > Approve that:    WHEREAS the Great   Lakes are a connected water system;                           AND   WHEREAS the Great Lakes Basin is home to 90% of Ontario’s population;                                       AND   WHEREAS the Great Lakes contribute an estimated $180 billion to Canada-U.S.   ...
 
@@ -2141,7 +2141,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-0" class="motion-anchor"></a>
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Approve Introduction and First   Reading of Bill No.s 416 to 427.
 
@@ -2152,7 +2152,7 @@ Unanimous (13-0)
 ### 10. Appointment to the
   London Advisory Committee on Heritage
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > That Carson Rennick BE APPOINTED to the   London Advisory Committee on Heritage as a Voting Member-at-Large, for the   term ending February 28, 2015.
 
@@ -2163,7 +2163,7 @@ Unanimous (14-0)
 ### 10. Appointment to the
   London Advisory Committee on Heritage
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2174,7 +2174,7 @@ Unanimous (14-0)
 ### 12. Property located at
   1103 Adelaide Street North
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 13.7   of the Council Procedure By-law, the actions of the Municipal Council taken   at its meeting of April 30, 2013, related to the adoption of clause 4 of the   9th Report of the Planning and Environment Committee, concerning the property   located at 1103 Adel...
 
@@ -2185,7 +2185,7 @@ Unanimous (14-0)
 ### 12. Property located at
   1103 Adelaide Street North
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2196,7 +2196,7 @@ Unanimous (14-0)
 ### 12. Property located at
   1103 Adelaide Street North
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Approve clause 12, as  amended.
 
@@ -2208,7 +2208,7 @@ Unanimous (14-0)
   London Advisory Committee on Heritage and Property located at 275 Thames
   Street
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with   respect to the 9th Report of the London Advisory Committee on Heritage (LACH)   from its meeting held on September 11, 2013:   a)         the   Civic Administration BE ADVISED that the LACH endorses a project to create a   digital map of intangible cult...
 

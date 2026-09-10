@@ -67,7 +67,7 @@ Motion
   before 4:00 PM - PUBLIC PARTICIPATION MEETING - The London Plan - 
   Second Draft - June 2015
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -80,7 +80,7 @@ Unanimous (3-0)
   before 4:00 PM - PUBLIC PARTICIPATION MEETING - The London Plan - 
   Second Draft - June 2015
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

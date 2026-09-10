@@ -1264,7 +1264,7 @@ Meeting adjourned.
 
 ### 3.2. Not to be heard before 4:20 PM - London Hydro Inc. - 2020 Annual General Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with to the London Hydro Inc. 2020 Annual General Meeting of the Shareholder Annual Resolutions: a)      the by-law appended to the staff report dated June 23, 2021 entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London Hyd...
 
@@ -1274,7 +1274,7 @@ Unanimous (13-0)
 
 ### 3.3. Not to be heard before 4:40 PM - London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-3-1" class="motion-anchor"></a>
+<div id="motion-3-3-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Interim Board of Directors, London & Middlesex Community Housing, the following appointments to the London & Middlesex Community Housing Board of Directors, BE APPROVED: a)    First Class:  Aynsley Anderson and John Millson b)    Second Class: Shellie Chowns (Co...
 
@@ -1284,7 +1284,7 @@ Unanimous (13-0)
 
 ### 3.3. Not to be heard before 4:40 PM - London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-3-2" class="motion-anchor"></a>
+<div id="motion-3-3-2" class="motion-anchor"></div>
 
 > London City Council Member appointments (2) to the London & Middlesex Community Housing Board of Directors
 
@@ -1297,7 +1297,7 @@ Unanimous (13-0)
 
 ### 4.2. Strategy for Core Area Land and Vacant Buildings - Councillor M. Cassidy
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back on a proposed strategy that sets out potential tools that may assist in reducing core area land and building vacancy, including, but not limited to: a)      a review of existing incentive programs and any recommended changes to them;  b)   ...
 
@@ -1307,7 +1307,7 @@ Unanimous (13-0)
 
 ### 4.3. Confirmation of Appointment to the Hamilton Road Business Improvement Area
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That, Mark Simpson BE APPOINTED to the Hamilton Road Business Improvement Area for the term ending November 15, 2022.
 
@@ -1317,7 +1317,7 @@ Unanimous (13-0)
 
 ### 4.4. Consideration of Appointment to Eldon House (Requires 1 Voting Member)
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That Megan Halliday BE APPOINTED to Eldon House Board of Directors for the term ending November 15, 2022.
 
@@ -1327,7 +1327,7 @@ Unanimous (13-0)
 
 ### 4.4. Consideration of Appointment to Eldon House (Requires 1 Voting Member)
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > Appointment to Eldon House Board of Directors
 
@@ -1342,7 +1342,7 @@ Unanimous (13-0)
 
 ### 4.5. Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Voting Member)
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That JJ Strybosch BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 15, 2022.
 
@@ -1352,7 +1352,7 @@ Unanimous (13-0)
 
 ### 4.5. Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Voting Member)
 
-<a id="motion-4-5-1" class="motion-anchor"></a>
+<div id="motion-4-5-1" class="motion-anchor"></div>
 
 > Appointment to the Lower Thames Valley Conservation Authority
 

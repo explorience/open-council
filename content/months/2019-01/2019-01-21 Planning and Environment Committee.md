@@ -406,7 +406,7 @@ The meeting adjourned at 5:26 PM
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5, inclusive, BE APPROVED.
 
@@ -416,7 +416,7 @@ Unanimous (4-0)
 
 ### 2.3. Application - 1522 Kilally Road and 1654 Highbury North - Edgevalley Subdivision (39T-05505) (H-8892)
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application by Drewlo Holdings Inc., relating to the properties located at 1522 Kilally Road and 1654 Highbury Avenue North, the proposed by-law appended to the staff report...
 
@@ -426,7 +426,7 @@ Unanimous (4-0)
 
 ### 2.4. Priority Levels on the Register (Inventory of Heritage Resources)
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the priority levels on the Register (Inventory of Heritage Resources) BE REMOVED. (2019-R01)
 
@@ -436,7 +436,7 @@ Unanimous (4-0)
 
 ### 6. Confidential
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > (Confidential Appendix enclosed for Members only.) The Planning and Environment Committee convened in camera from 5:07 PM to 5:25 PM after having passed a motion to do so, with respect to the following matters: 6.1.  Solicitor-Client Privileged Advice/Litigation or Potential Litigation     A matt...
 

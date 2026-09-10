@@ -609,7 +609,7 @@ Have a great rest of your afternoon.
 
 ### 4.1. Election Sign By-law Update
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Clerk, the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2022 to repeal By-law No. E-185-537, being the “Election Sign By-law” and to replace it with a new Election Sign By-law.
 
@@ -619,7 +619,7 @@ Unanimous (6-0)
 
 ### 4.1. Election Sign By-law Update
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That section 4.5 (i) of the proposed by-law BE AMENDED to read: “4.5(i) to be 100m between election signs of the same candidate, on the same side of the street.”
 
@@ -629,7 +629,7 @@ Unanimous (6-0)
 
 ### 4.1. Election Sign By-law Update
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That section 3.4 of the proposed by-law BE AMENDED to change 96 hours to 72 hours.
 
@@ -646,7 +646,7 @@ Unanimous (6-0)
 
 ### 4.1. Election Sign By-law Update
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That section 3.2 of the proposed by-law BE AMENDED in section 3.2 to read as follows: "3.2  No person shall place of permit to be placed an Election Sign for a municipal election, except an Election Sign which is Placed on a Campaign Office or on the Property on which the Campaign Office sits pro...
 
@@ -663,7 +663,7 @@ Unanimous (6-0)
 
 ### 4.2. Application - Issuance of Proclamation - Sikh Heritage Month
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That based on the application dated February 7, 2022 from Guru Nanak Mission Society, London Ontario, April 1, 2022 to April 30, 2022 BE PROCLAIMED as Sikh Heritage Month.
 

@@ -613,7 +613,7 @@ Dickens counselor purple yes i just think that by end of august is sorry by the 
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.3 and 2.5 to 2.10 BE APPROVED.
 
@@ -623,7 +623,7 @@ Unanimous (6-0)
 
 ### 2.4. Delegation of Authority for Municipal Contribution Agreements for Affordable Housing
 
-<a id="motion-2-4-1" class="motion-anchor"></a>
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request, as appended to the Added Agenda, from G. Playford, with respect to this matter, to be heard at this time.
 
@@ -633,7 +633,7 @@ Unanimous (6-0)
 
 ### 2.4. Delegation of Authority for Municipal Contribution Agreements for Affordable Housing
 
-<a id="motion-2-4-2" class="motion-anchor"></a>
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > Motion to approve part a) of the clause.
 
@@ -643,7 +643,7 @@ Unanimous (6-0)
 
 ### 2.4. Delegation of Authority for Municipal Contribution Agreements for Affordable Housing
 
-<a id="motion-2-4-3" class="motion-anchor"></a>
+<div id="motion-2-4-3" class="motion-anchor"></div>
 
 > Motion to approve part b) of the clause.
 
@@ -653,7 +653,7 @@ Unanimous (6-0)
 
 ### 4.1. Occupant Noise Enforcement - Partnered Pilot Project Update
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to amend part c) of the staff recommendation to read: c)     the Civic Administration BE DIRECTED to bring forward as part of a multi-year budget a business case that provides funding to continue and improve the intake of the partnered Occupant Noise Enforcement program or other service im...
 
@@ -663,7 +663,7 @@ Unanimous (6-0)
 
 ### 4.2. Fireworks By-Law Options Report
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Motion to approve parts a) and b) of the clause.
 
@@ -673,7 +673,7 @@ Unanimous (6-0)
 
 ### 4.2. Fireworks By-Law Options Report
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > Motion to approve part c) of the clause.
 
@@ -690,7 +690,7 @@ Unanimous (6-0)
 
 ### 4.3. Encampment Response Update
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated June 13, 2023, related to the Encampment Response Update: a)    the funding allocation, from the Social Services Reserve Fund, for the tota...
 
@@ -709,7 +709,7 @@ Unanimous (6-0)
 
 ### 4.4. (ADDED) Councillor J. Pribil - Winter Response Program
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to include a year over year comparison, for the past three years (2020-2021, 2021-2022, 2022-2023), on the number of bed days available/occupied, number of bed nights available/occupied, number of hours service bed facility, number of hours service non-be...
 

@@ -2167,7 +2167,7 @@ Passed
   Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses
   Policy 28(3)
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to amendments to Council Policies 28(2) and 28(3):   a)         the   attached revised proposed by-law (Appendix “A”) BE INTRODUCED at the   Municipal Council meeting on October 14, 2014 to repeal Council Policy 28(2),   “Council Members’ Expense...
 
@@ -2185,7 +2185,7 @@ Passed
 ### 3#4. Ontario Works
   Participant Profile - July 2014
 
-<a id="motion-3-4-1" class="motion-anchor"></a>
+<div id="motion-3-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2197,7 +2197,7 @@ Unanimous (14-0)
   Performance Measurement Program (MPMP) Three-Year Comparative Values
   2011-2013
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy   City Treasurer, the staff report dated September 25, 2014 outlining the   Municipal Performance Measurement Program (MPMP) and providing comparative   measures for the three years ending December 31, 2011, 2012 and 2013 BE   RECEIVED for information.
 
@@ -2209,7 +2209,7 @@ Unanimous (14-0)
   Performance Measurement Program (MPMP) Three-Year Comparative Values
   2011-2013
 
-<a id="motion-3-6-1" class="motion-anchor"></a>
+<div id="motion-3-6-1" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering a matter pertaining to advice that is subject to   solicitor-client privilege, including communications necessary for that   purpose, with respect to the Application by Greenhills Shopping Ce...
 
@@ -2227,7 +2227,7 @@ Unanimous (14-0)
 ### 6#2. Properties located
   at 51 and 99 Exeter Road (OZ-8324)
 
-<a id="motion-6-2-0" class="motion-anchor"></a>
+<div id="motion-6-2-0" class="motion-anchor"></div>
 
 > Approve that consideration of clause 6   BE POSTPONED to a later time in the meeting, following an additional in   camera session to receive related legal advice.
 
@@ -2245,7 +2245,7 @@ Unanimous (14-0)
 ### 6#4. Amendments to
   Council Procedure By-law
 
-<a id="motion-6-4-0" class="motion-anchor"></a>
+<div id="motion-6-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to By-law No. A-45 entitled “A by-law to provide for the Rules of Order   and Procedure for the Council of The Corporation of the City of London”:   a)         the   attached revised proposed by-law (Appendix “A”) BE INTRODUCED at the   Municipal...
 
@@ -2256,7 +2256,7 @@ Unanimous (14-0)
 ### 6#5. Properties located at 51 and 99 Exeter Road
   (OZ-8324)
 
-<a id="motion-6-5-0" class="motion-anchor"></a>
+<div id="motion-6-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation   of the Managing Director, Planning and City Planner, the following actions be   taken with respect to the application of Greenhills Shopping Centres Ltd.   (Greenhills) relating to the property located at 51 and 99 Exeter Road:   a)         the   proposed by-law, app...
 
@@ -2274,7 +2274,7 @@ Unanimous (14-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering a personal   matter pertaining to identifiable individuals, including municipal employees,   with respect to the 2015 Mayor’s New Year’s Honour List. (C1/17/CPSC)
 
@@ -2286,7 +2286,7 @@ Unanimous (14-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-THIRD MEETING HELD ON SEPTEMBER 30,
   2014
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 23rd   Meeting held on September 30, 2014.
 
@@ -2296,7 +2296,7 @@ Unanimous (14-0)
 
 ### XI. ENQUIRIES
 
-<a id="motion-xi-0" class="motion-anchor"></a>
+<div id="motion-xi-0" class="motion-anchor"></div>
 
 > Approve leave for Councillor H.L. Usher to   introduce a motion to request staff to report back at a future meeting of the   Community and Protective Services Committee with respect to the potential for   granting variances under the Fence By-law PS-6.
 
@@ -2306,7 +2306,7 @@ Unanimous (11-0)
 
 ### XI. ENQUIRIES
 
-<a id="motion-xi-1" class="motion-anchor"></a>
+<div id="motion-xi-1" class="motion-anchor"></div>
 
 > Approve  that the Managing Director   Development and Compliance Services and Chief Building Official BE DIRECTED   to report back at a future meeting of the Community and Protective Services   Committee with respect to the potential for granting variances under the   Fence By-law PS-6.
 
@@ -2326,7 +2326,7 @@ Unanimous (11-0)
   Planning and Environment Committee stage for consideration with clause 18 of
   the 18th Report of the Planning and Environment Committee.)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2338,7 +2338,7 @@ Unanimous (14-0)
   Highbury Avenue Intersection Improvements Environmental Assessment Study
   Appointment of Consulting Engineer
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the following   actions be taken with respect to the appointment of a consultant for the   Hamilton Road and Highbury Avenue Intersection Improvements Environmental   Assessment:   a)...
 
@@ -2349,7 +2349,7 @@ Unanimous (14-0)
 ### 10. Minor Revisions to
   the W12A Landfill Site Community Enhancement and Mitigative Measures Program
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director   Environment, Fleet and Solid Waste, the proposed by-law appended to the staff   report dated October 6, 2014, BE INTRODUCED at the Municipal Council meeting   to be held October 14, 2014 to update the W12A Landfill Site Community   Enhancement and Mit...
 
@@ -2360,7 +2360,7 @@ Unanimous (14-0)
 ### 17. Property located at
   50 King Street (Z-8372)
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Approve clause 1 and that the application   by 2353034 Ontario Limited (formerly Treadstone Group) related to the   properties located at 510 Central Avenue and 609 William Street (Z-8141) BE   REFERRED back to the Civic Administration for further public consultation   related to the proposed cha...
 
@@ -2378,7 +2378,7 @@ Unanimous (14-0)
 ### 20. Property located at
   1040 Coronation Drive (H-8376)
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Development and Compliance Services and Chief Building Official,   based on the application of The Tricar Group relating to the property located   at 1040 Coronation Drive, the proposed by-law, as appended to the staff   report dated October...
 

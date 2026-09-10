@@ -528,7 +528,7 @@ Thank you, everyone. Have a great one. And for those who want to see the mayor l
 
 ### 4.1. Code of Conduct for Members of Council and Local Boards
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Code of Conduct for Members of Council and Local Boards and the Council and Staff Relations Policy BE REFERRED to a future meeting of the Governance Working Group for further review, with an invitation extended to the Integrity Commissioner to attend and respond to questions; it being no...
 
@@ -538,7 +538,7 @@ Unanimous (14-0)
 
 ### 4.2. Delegation - Ysni Semsedini, CEO and Tanya Goodine, Board Chair, London Hydro - Affiliated Proposal
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, with respect to the London Hydro Inc. Affiliate Proposal, the Civic Administration BE DIRECTED to work with London Hydro Inc. and report back to a future meeting of the Strategic Priorities and Policy Committee with the necessary by-laws and supporting documentation to implement the propose...
 
@@ -548,7 +548,7 @@ Unanimous (14-0)
 
 ### 4.2. Delegation - Ysni Semsedini, CEO and Tanya Goodine, Board Chair, London Hydro - Affiliated Proposal
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the delegation request from Y. Semsedini, CEO and T. Goodine, Board Chair, London Hydro, BE APPROVED to be heard at this time.
 
@@ -558,7 +558,7 @@ Unanimous (14-0)
 
 ### 4.3. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That Michelle Southern BE APPOINTED to the Eldon House Board of Directors for the term ending November 14, 2026.
 
@@ -568,7 +568,7 @@ Unanimous (14-0)
 
 ### 4.3. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Consideration of Appointment to the Eldon House Board of Directors.
 

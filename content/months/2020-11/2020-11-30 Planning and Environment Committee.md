@@ -632,7 +632,7 @@ The meeting adjourned at 7:04 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.4, inclusive, BE APPROVED.
 
@@ -642,7 +642,7 @@ Unanimous (5-0)
 
 ### 3.1. Application - 1284 and 1388 Sunningdale Road West - Application for Zoning By-law Amendment  - Request for Revisions to the Draft Plan of Subdivision 39T-04510 (Z-9216)
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Auburn Developments Ltd., relating to portions of the lands located at 1284 and 1388 Sunningdale Road West: a) the proposed by-law appended to the staff report date...
 
@@ -659,7 +659,7 @@ Unanimous (5-0)
 
 ### 3.2. Application - 1761 Wonderland Road North (OZ-9178)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1830145 Ontario Limited, relating to the property located at 1761 Wonderland Road North: a) the proposed by-law appended to the staff report dated November 30, 2020...
 
@@ -676,7 +676,7 @@ Unanimous (5-0)
 
 ### 3.5. Implementing Additional Residential Units Requirements of the Planning Act (Bill 108) (OZ-9176)
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, City Planning and City Planner, the following actions be taken with respect to the Official Plan and Zoning By-law review relating to additional residential units: a) the proposed by-law appended to the staff report dated November 30, 2020 as Appendix ...
 
@@ -686,7 +686,7 @@ Unanimous (6-0)
 
 ### 4.1. E. Wyatt, Ontario Clean Air Alliance - Phasing-Out Ontario's Gas Fired Power Plants - Request for Delegation Status
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the phasing out of Ontario's gas fired power plants: a)  E. Wyatt, Ontario Clean Air Alliance, BE GRANTED delegation status with respect to the phasing out of Ontario's gas fired power plants; and,  (See attached presentation.) b) the Civic Adm...
 
@@ -696,7 +696,7 @@ Unanimous (6-0)
 
 ### 4.1. E. Wyatt, Ontario Clean Air Alliance - Phasing-Out Ontario's Gas Fired Power Plants - Request for Delegation Status
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to grant E. Wyatt, Ontario Clean Air Alliance, delegation status with respect to the phasing out of Ontario's gas fired power plants.
 

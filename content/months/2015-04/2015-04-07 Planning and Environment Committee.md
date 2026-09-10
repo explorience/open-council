@@ -514,7 +514,7 @@ The
 ### 2. 4th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -526,7 +526,7 @@ Unanimous (5-0)
 ### 3. 3rd Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -538,7 +538,7 @@ Unanimous (5-0)
 ### 4. 2nd Report of the
   Agricultural Advisory Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -550,7 +550,7 @@ Unanimous (5-0)
 ### 5. Evaluation of
   Community Improvement Plan Incentives
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -563,7 +563,7 @@ Unanimous (5-0)
   on the Environment Recommendations on the Provincial Pollinator Health
   Discussion Paper
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -575,7 +575,7 @@ Unanimous (5-0)
 ### 7. "Our Move
   Forward" London's Downtown Plan
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -587,7 +587,7 @@ Unanimous (5-0)
 ### 8. Building Division
   Monthly Report for February 2015
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -600,7 +600,7 @@ Unanimous (5-0)
   Authority to Consent to or Grant Permits for Alterations to Heritage
   Designated Properties
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -620,7 +620,7 @@ Unanimous (5-0)
   Authority to Consent to or Grant Permits for Alterations to Heritage
   Designated Properties
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -633,7 +633,7 @@ Unanimous (5-0)
   Authority to Consent to or Grant Permits for Alterations to Heritage
   Designated Properties
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -646,7 +646,7 @@ Unanimous (5-0)
   Authority to Consent to or Grant Permits for Alterations to Heritage
   Designated Properties
 
-<a id="motion-9-3" class="motion-anchor"></a>
+<div id="motion-9-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -665,7 +665,7 @@ Unanimous (5-0)
 ### 10. Property located at
   161 Windermere Road
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -677,7 +677,7 @@ Unanimous (5-0)
 ### 10. Property located at
   161 Windermere Road
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -696,7 +696,7 @@ Unanimous (5-0)
 ### 11. Planning and
   Environment Committee Deferred Matters List
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -708,7 +708,7 @@ Unanimous (5-0)
 ### 12. Possible Amendments to the Tree
   Conservation By-law and Site Alteration By-law
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

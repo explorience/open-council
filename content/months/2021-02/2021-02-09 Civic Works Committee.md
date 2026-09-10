@@ -469,7 +469,7 @@ The meeting adjourned at 1:37 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.4, 2.8, 2.9, 2.10, 2.12 and 2.13 BE APPROVED.
 
@@ -479,7 +479,7 @@ Unanimous (5-0)
 
 ### 2.5. Contract Award: Tender No. 21-01 - Downtown Loop and Municipal Infrastructure Improvements Phase 1
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the staff report dated February 9, 2021 related to Contract Award for Tender No. 21-01 for the Downtown Loop and Municipal Infrastructure ...
 
@@ -496,7 +496,7 @@ Unanimous (5-0)
 
 ### 2.7. Stopping and Parking Restrictions in Bicycle Lanes
 
-<a id="motion-2-7-0" class="motion-anchor"></a>
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the proposed by-law, as appended to the staff report dated February 9, 2021, BE INTRODUCED at the Municipal Council meeting to be held on February 23, 2021, for the purpose of amending ...
 

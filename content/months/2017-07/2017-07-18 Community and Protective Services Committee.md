@@ -798,7 +798,7 @@ The meeting adjourned at 7:26 PM.
   Administration Agreements for the Development of Affordable Housing  to the
   Housing Development Corporation, London (HDC)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -811,7 +811,7 @@ Unanimous (5-0)
   Participant Profile Report - City of London Social Services / Ontario Works
   Program Delivery
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -824,7 +824,7 @@ Unanimous (5-0)
   Child Care Information Update and London-Middlesex Child Care and Early Years
   Service Plan
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -836,7 +836,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Closed Adult Live Entertainment Parlour - 2190 Dundas Street East
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -848,7 +848,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Closed Adult Live Entertainment Parlour - 2190 Dundas Street East
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -860,7 +860,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Closed Adult Live Entertainment Parlour - 2190 Dundas Street East
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -872,7 +872,7 @@ Unanimous (5-0)
 ### 6. STAFF REPORT -
   Property Standards Related Demolitions
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -884,7 +884,7 @@ Unanimous (5-0)
 ### 7. STAFF REPORT -
   Strategic Plan Progress Variance
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -898,7 +898,7 @@ Unanimous (5-0)
   Cycle Renewal Project -  Request for Proposal No. F-RFP17-04, Project No.
   P029-RC22017
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -911,7 +911,7 @@ Unanimous (5-0)
   Single Source Contractor Selection - Continuation of Garden Terrace and
   Splash Pad at Queen's Park - Canada 150 Funding
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -923,7 +923,7 @@ Unanimous (5-0)
 ### 10. Council Policy for
   Publicly Releasing Fire Conviction Information
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -942,7 +942,7 @@ Unanimous (5-0)
 ### 10. Council Policy for
   Publicly Releasing Fire Conviction Information
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -954,7 +954,7 @@ Unanimous (5-0)
 ### 10. Council Policy for
   Publicly Releasing Fire Conviction Information
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -966,7 +966,7 @@ Unanimous (5-0)
 ### 11. Business Licensing
   By-law Review - Lodging Houses, Second Hand Stores, Salvage Yards
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -978,7 +978,7 @@ Unanimous (5-0)
 ### 11. Business Licensing
   By-law Review - Lodging Houses, Second Hand Stores, Salvage Yards
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -990,7 +990,7 @@ Unanimous (3-0)
 ### 11. Business Licensing
   By-law Review - Lodging Houses, Second Hand Stores, Salvage Yards
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1002,7 +1002,7 @@ Unanimous (5-0)
 ### 12. COUNCILLOR SUBMISSION
   - V. Ridley - Pet Boarding and /or Pet Sitting Services
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1014,7 +1014,7 @@ Unanimous (5-0)
 ### 13. PUBLIC SUBMISSION -
   REQUEST FOR DELEGATION STATUS - J. Henkel - Berkshire Court Naturalized Area
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1033,7 +1033,7 @@ Unanimous (5-0)
 ### 14. Ontario Power
   Generation's Proposed Nuclear Waste Repository
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1045,7 +1045,7 @@ Unanimous (5-0)
 ### 15. 6th Report of the
   London Housing Advisory Committee
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1057,7 +1057,7 @@ Unanimous (5-0)
 ### 16. 7th Report of the
   Diversity,  Inclusion and Anti-Oppression Advisory Committee
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1069,7 +1069,7 @@ Unanimous (5-0)
 ### 17. 4th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1081,7 +1081,7 @@ Unanimous (5-0)
 ### 18. 6th Report of
   Accessibility Advisory Committee
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1093,7 +1093,7 @@ Unanimous (5-0)
 ### 19. Deferred Matters
   List
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -2514,7 +2514,7 @@ Motion Passed
 ### 12#3. Winter Maintenance
   Update
 
-<a id="motion-12-3-0" class="motion-anchor"></a>
+<div id="motion-12-3-0" class="motion-anchor"></div>
 
 > Amend clause 2 by deleting part a) in   its entirety and by replacing it with the following new part a):   “a)        the   proposed by-law appended as Schedule ‘A’, to the staff report dated March 3,   2014, approving the Franchise Agreement between the City and Natural   Resources Gas Limited, ...
 
@@ -2525,7 +2525,7 @@ Unanimous (15-0)
 ### 12#3. Winter Maintenance
   Update
 
-<a id="motion-12-3-1" class="motion-anchor"></a>
+<div id="motion-12-3-1" class="motion-anchor"></div>
 
 > The motion to Approve clause 1, clause 2,   as amended, clauses 3 to 9, and clause 12, is put.
 
@@ -2536,7 +2536,7 @@ Unanimous (15-0)
 ### 12#3. Winter Maintenance
   Update
 
-<a id="motion-12-3-2" class="motion-anchor"></a>
+<div id="motion-12-3-2" class="motion-anchor"></div>
 
 > Amend clause 10 in the first line of   part a) by deleting the word “APPROVED” and by replacing it with the word “CONSIDERED".
 
@@ -2554,7 +2554,7 @@ Unanimous (15-0)
 ### 12#3. Winter Maintenance
   Update
 
-<a id="motion-12-3-3" class="motion-anchor"></a>
+<div id="motion-12-3-3" class="motion-anchor"></div>
 
 > Approve clause 10, as amended.
 
@@ -2572,7 +2572,7 @@ Unanimous (15-0)
 ### 12#3. Winter Maintenance
   Update
 
-<a id="motion-12-3-4" class="motion-anchor"></a>
+<div id="motion-12-3-4" class="motion-anchor"></div>
 
 > The motion to Approve clause 11 is put.
 
@@ -2583,7 +2583,7 @@ Unanimous (14-0)
 ### 17#2. Consideration of
   Appointment to the Child Care Advisory Committee
 
-<a id="motion-17-2-0" class="motion-anchor"></a>
+<div id="motion-17-2-0" class="motion-anchor"></div>
 
 > Amend clause 3 in the first line of part   d), by deleting the words “dated March 4, 2014, appended to the staff report,”   and by adding in the first line of part d), the words “attached   revised” before the word “by-law”.
 
@@ -2594,7 +2594,7 @@ Unanimous (15-0)
 ### 17#2. Consideration of
   Appointment to the Child Care Advisory Committee
 
-<a id="motion-17-2-1" class="motion-anchor"></a>
+<div id="motion-17-2-1" class="motion-anchor"></div>
 
 > The motion to Approve clauses 1, 2, 3, as   amended, 4 to 10, inclusive and 12 to 17, inclusive, is put.
 
@@ -2605,7 +2605,7 @@ Unanimous (15-0)
 ### 17#2. Consideration of
   Appointment to the Child Care Advisory Committee
 
-<a id="motion-17-2-2" class="motion-anchor"></a>
+<div id="motion-17-2-2" class="motion-anchor"></div>
 
 > Amend clause 11 by adding the   following new c), as follows:   "c)        the City Clerk BE REQUESTED to report back to the Corporate Services   Committee with respect to a fulsome review of the entire expense account   policy to incorporate guidelines that reflect public expectations, including...
 
@@ -2623,7 +2623,7 @@ Unanimous (15-0)
 ### 17#2. Consideration of
   Appointment to the Child Care Advisory Committee
 
-<a id="motion-17-2-3" class="motion-anchor"></a>
+<div id="motion-17-2-3" class="motion-anchor"></div>
 
 > Amend clause 11 by adding the   following new part d) as follows:   “d)        that the annual expense account for individual Council members be reduced   from $15,000 to $10,000 per Member.”
 
@@ -2641,7 +2641,7 @@ Unanimous (15-0)
 ### 17#2. Consideration of
   Appointment to the Child Care Advisory Committee
 
-<a id="motion-17-2-4" class="motion-anchor"></a>
+<div id="motion-17-2-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2658,7 +2658,7 @@ Unanimous (15-0)
 
 ### 4#5. Industrial Land Development Strategy
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2670,7 +2670,7 @@ Unanimous (14-0)
   Greater London International Airport Authority Board of Directors (One
   Upcoming Vacancy)
 
-<a id="motion-5-5-0" class="motion-anchor"></a>
+<div id="motion-5-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2682,7 +2682,7 @@ Unanimous (12-0)
   Greater London International Airport Authority Board of Directors (One
   Upcoming Vacancy)
 
-<a id="motion-5-5-1" class="motion-anchor"></a>
+<div id="motion-5-5-1" class="motion-anchor"></div>
 
 > 8th Report of the   Committee of the Whole
 
@@ -2694,7 +2694,7 @@ Unanimous (12-0)
   Greater London International Airport Authority Board of Directors (One
   Upcoming Vacancy)
 
-<a id="motion-5-5-2" class="motion-anchor"></a>
+<div id="motion-5-5-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2706,7 +2706,7 @@ Unanimous (14-0)
   Greater London International Airport Authority Board of Directors (One
   Upcoming Vacancy)
 
-<a id="motion-5-5-3" class="motion-anchor"></a>
+<div id="motion-5-5-3" class="motion-anchor"></div>
 
 > At 7:31  PM, his Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board
 
@@ -2717,7 +2717,7 @@ Unanimous (14-0)
 ### 9#2. Annual Review -
   2014 Special Events Policies and Procedures Manual.
 
-<a id="motion-9-2-0" class="motion-anchor"></a>
+<div id="motion-9-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director of Parks and Recreation, the by-law appended to the staff report   dated March 3, 2014, BE INTRODUCED at the Municipal Council meeting of March   18, 2014 to approve the 2014 Special Events Policies and Procedures Manual (attached   as Schedu...
 
@@ -2728,7 +2728,7 @@ Unanimous (14-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > MOTION FOR IN CAMERA SESSION
 
@@ -2740,7 +2740,7 @@ Unanimous (13-0)
   AND SIGNING OF THE MINUTES OF THE SIXTH, SEVENTH AND EIGHTH MEETINGS HELD ON
   FEBRUARY 25, 2014 AND FEBRUARY 27, 2014
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 6th, 7th and   8th Meetings held on February 25, February 27 and February 27, 2014,   respectively.
 
@@ -2750,7 +2750,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First   Reading of Bill No. 147.
 
@@ -2761,7 +2761,7 @@ Unanimous (12-0)
 ### 6. Property located at
   350 Oxford Street East (H-8296)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Planner   II, Development Planning, based on the application of Zelinka Priamo Limited,   relating to the property located at 350 Oxford Street East, the proposed   by-law, as appended to the staff report dated March 4, 2013, BE INTRODUCED at   the Municipal Cou...
 
@@ -2773,7 +2773,7 @@ Unanimous (12-0)
   Heritage Forest Environmentally Significant Area, Phase One, Conservation
   Master Plan
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Amend clause 17 in the first line of part   a)i) by deleting the following words “, as appended to the staff report dated   March 4, 2014,”; and to amend in the first line of part a)i) by adding the   words “attached revised” after the word “proposed”.
 
@@ -2785,7 +2785,7 @@ Unanimous (14-0)
   Heritage Forest Environmentally Significant Area, Phase One, Conservation
   Master Plan
 
-<a id="motion-21-1" class="motion-anchor"></a>
+<div id="motion-21-1" class="motion-anchor"></div>
 
 > Motion Passed
 

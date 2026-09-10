@@ -710,7 +710,7 @@ Colleagues, thanks very much. We'll see you all soon.
 
 ### 4.1. Request for Delegation Status - 4 Pillars of Medical Ethics - Courtney Roddis
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the communications listed on the public agenda as items 4.1 a. through ac., inclusive, BE RECEIVED for information, and no further action be taken with respect to these submissions; it being noted that there are no current related decisions or considerations before the Strategic Priorities a...
 
@@ -729,7 +729,7 @@ Colleagues, thanks very much. We'll see you all soon.
 
 ### 4.2. Downtown Business Improvement Association Appointment
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That consideration of an interim Councillor appointment to the London Downtown Business Association Board of Directors BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee in order to allow for members of Council to express their interest in the appointment.
 
@@ -748,7 +748,7 @@ Colleagues, thanks very much. We'll see you all soon.
 
 ### 4.2. Downtown Business Improvement Association Appointment
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > Interim Appointment to the London Downtown Business Association
 
@@ -763,7 +763,7 @@ Colleagues, thanks very much. We'll see you all soon.
 
 ### 4.2. Downtown Business Improvement Association Appointment
 
-<a id="motion-4-2-4" class="motion-anchor"></a>
+<div id="motion-4-2-4" class="motion-anchor"></div>
 
 > That Councillor J. Helmer BE APPOINTED as the Municipal Council representative on the Downtown Business Area Board to replace Councillor A. Kayabaga, on an interim basis until such time as the leave of Councillor Kayabaga is resolved.
 
@@ -773,7 +773,7 @@ Unanimous (13-0)
 
 ### 4.4. London Transit Commission Vacancy
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the resignation of Tanya Park from the London Transit Commission as of October 22, 2021 BE ACCEPTED and the City Clerk BE DIRECTED to publicly advertise for a replacement appointment with applications to be considered at the next meeting of the Strategic Priorities and Policy Committee.
 
@@ -783,7 +783,7 @@ Unanimous (14-0)
 
 ### 4.5. Appointment to the London Hydro Inc. Board of Directors
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Corporate Services Committee, the attached proposed by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to be held September 14, 2021 to: a)     ratify and confirm the Resolution of the Shareholder of London Hydro Inc., attached as Schedule “A” ...
 
@@ -793,7 +793,7 @@ Unanimous (14-0)
 
 ### 5.1. (ADDED) Request of Appointment of Councillor Lehman to the Hyde Park BIA
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > That the resignation of Councillor J. Morgan from the Hyde Park BIA, BE ACCEPTED.
 
@@ -803,7 +803,7 @@ Unanimous (14-0)
 
 ### 5.1. (ADDED) Request of Appointment of Councillor Lehman to the Hyde Park BIA
 
-<a id="motion-5-1-2" class="motion-anchor"></a>
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > That nominations for an appointment to the Hyde Park BIA be opened.
 
@@ -813,7 +813,7 @@ Unanimous (14-0)
 
 ### 5.1. (ADDED) Request of Appointment of Councillor Lehman to the Hyde Park BIA
 
-<a id="motion-5-1-3" class="motion-anchor"></a>
+<div id="motion-5-1-3" class="motion-anchor"></div>
 
 > That nominations be closed and Councillor S. Lehman BE APPOINTED to the Hyde Park Business Improvement Association Board of Directors, for the term ending November 15, 2022.
 

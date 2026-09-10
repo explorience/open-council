@@ -467,7 +467,7 @@ The meeting adjourned at 9:47 PM.
 ### 2. Requirements for a
   Proposed Expansion of a Gaming Site
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -483,7 +483,7 @@ The meeting adjourned at 9:47 PM.
 ### 3. Transient
   Accommodation Tax
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -501,7 +501,7 @@ The meeting adjourned at 9:47 PM.
 ### 3. Transient
   Accommodation Tax
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -519,7 +519,7 @@ The meeting adjourned at 9:47 PM.
 ### 4. 2019 Development
   Charges Study Policy Matters Update
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -537,7 +537,7 @@ The meeting adjourned at 9:47 PM.
 ### 5. Development Charges:
   Core Area Servicing Studies
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -553,7 +553,7 @@ The meeting adjourned at 9:47 PM.
 ### 6. 2019 Development
   Charge (DC) Study - DC Area Rating Policy Review
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -569,7 +569,7 @@ The meeting adjourned at 9:47 PM.
 ### 7. Appointment to the
   Committee of Adjustment
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -585,7 +585,7 @@ The meeting adjourned at 9:47 PM.
 ### 8. London Transit
   Commission Chair and Vice Chair
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -601,7 +601,7 @@ The meeting adjourned at 9:47 PM.
 ### 9. Hyde Park Business
   Improvement Association Board of Management - Change to Membership
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -617,7 +617,7 @@ The meeting adjourned at 9:47 PM.
 ### 10. Resignation from
   the Rapid Transit Implementation Working Group
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -635,7 +635,7 @@ The meeting adjourned at 9:47 PM.
 ### 11. International
   Plowing Match
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion Passed
 

@@ -339,7 +339,7 @@ The meeting adjourned at 2:14 PM.
 
 ### 4.1. Representation on the Municipal Service Board for the Provision of Land Ambulance Services
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Middlesex-London Service Board for the Provision of Land Ambulance: a)     the County of Middlesex BE REQUESTED to provide for a voting representative of the City of London Council, on the Municipal Service Board for the Provision of Land Am...
 
@@ -358,7 +358,7 @@ The meeting adjourned at 2:14 PM.
 
 ### 4.2. Application - Issuance of Proclamation - Terry Fox Run London
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That based on the application dated July 7, 2020, from Terry Fox Run London, the week of September 13 - 20, 2020 BE PROCLAIMED as Terry Fox Week.
 
@@ -368,7 +368,7 @@ Unanimous (5-0)
 
 ### 4.3. Application - Issuance of Proclamation - World Patient Safety Day
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That based on the application dated July 28, 2020, from Patients for Patient Safety Canada, the day of September 17, 2020 BE PROCLAIMED as World Patient Safety Day.
 
@@ -387,7 +387,7 @@ Unanimous (5-0)
 
 ### 4.4. Application - Issuance of Proclamation - Mitochondrial Disease Awareness Week
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That based on the application dated July 30, 2020, from MitoCanada, the week of September 13 - 19, 2020 BE PROCLAIMED as Mitochondrial Disease Awareness Week.
 

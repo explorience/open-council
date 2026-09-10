@@ -402,7 +402,7 @@ Motion
   Dawthorne, J. Sanders and M. Cairns - 7th Report of the Accessibility
   Advisory Committee
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -414,7 +414,7 @@ Unanimous (3-0)
 ### 7. PUBLIC PARTICIPATION
   MEETING - Informal Residential Care Facility Licensing By-law
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -426,7 +426,7 @@ Unanimous (3-0)
 ### 7. PUBLIC PARTICIPATION
   MEETING - Informal Residential Care Facility Licensing By-law
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -438,7 +438,7 @@ Unanimous (3-0)
 ### 8. Deferred Matters
   List
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -450,7 +450,7 @@ Unanimous (3-0)
 ### 9. (ADDED) 8th Report
   of the Animal Welfare Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

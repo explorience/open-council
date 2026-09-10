@@ -43,7 +43,7 @@ import remarkParse from "remark-parse";
 import { toString as mdastToString } from "mdast-util-to-string";
 import GithubSlugger from "github-slugger";
 import type { Root, Heading } from "mdast";
-import { motionAnchorId } from "../motion-anchor.js";
+import { motionAnchorId, MOTION_ANCHOR_ID_PATTERN } from "../motion-anchor.js";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 const parser = unified().use(remarkParse);
@@ -374,7 +374,7 @@ function emittedAnchorsFor(meetingSlug: string): Set<string> | null {
     } else {
       const raw = fs.readFileSync(mdPath, "utf-8");
       ids = new Set<string>();
-      for (const m of raw.matchAll(/<a id="(motion-[a-z0-9-]+)"/g)) {
+      for (const m of raw.matchAll(MOTION_ANCHOR_ID_PATTERN)) {
         ids.add(m[1]);
       }
     }

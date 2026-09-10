@@ -393,7 +393,7 @@ That's carried. We're adjourned.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.4 BE APPROVED.
 
@@ -403,7 +403,7 @@ Unanimous (4-0)
 
 ### 4.1. Councillor C. Rahman and Councillor D. Ferreira - CPKC Train Fire
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the CPKC Train Fire: a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with key learning from the Sunday April 21, 2024 CPKC train fire including any updates to the E...
 

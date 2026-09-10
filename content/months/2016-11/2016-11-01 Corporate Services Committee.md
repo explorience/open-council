@@ -498,7 +498,7 @@ The
 ### 2. STAFF REPORT - Vesting
   Properties in the Name of the City after a Tax Sale
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -511,7 +511,7 @@ Unanimous (5-0)
   Pre-Authorized Tax Payment Plan By-law and Collection of Property Taxes
   By-law
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -524,7 +524,7 @@ Unanimous (5-0)
   Forked River Brewing - Request for Designation as a Municipally Significant
   Event
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -536,7 +536,7 @@ Unanimous (5-0)
 ### 5. COUNCIL MEMBER
   SUBMISSION - Ontario Good Roads Association
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -548,7 +548,7 @@ Unanimous (6-0)
 ### 6. COUNCIL MEMBER
   SUBMISSION - Canada 150 Community Leader
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -560,7 +560,7 @@ Unanimous (6-0)
 ### 7. COUNCIL MEMBER
   SUBMISSION - Length of Time of Council, In Closed Session
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -572,7 +572,7 @@ Unanimous (6-0)
 ### 7. COUNCIL MEMBER
   SUBMISSION - Length of Time of Council, In Closed Session
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -591,7 +591,7 @@ Unanimous (6-0)
 ### 8. COUNCIL MEMBER
   SUBMISSION - Appointment By-laws
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -604,7 +604,7 @@ Unanimous (5-0)
   Appointments to the Environmental and Ecological Planning Advisory Committee
   (Requires up to 4 Members-at-Large)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -617,7 +617,7 @@ Unanimous (5-0)
   Appointment to the London Advisory Committee on Heritage (Requires 1
   Non-Voting Post-Secondary Student)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -630,7 +630,7 @@ Unanimous (5-0)
   Appointment to the Cycling Advisory Committee (Requires 1 Non-Voting
   Post-Secondary Student)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -643,7 +643,7 @@ Unanimous (5-0)
   Appointment to the Advisory Committee on the Environment (Requires 1
   Non-Voting Post-Secondary Student)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -656,7 +656,7 @@ Unanimous (5-0)
   Appointment to the Diversity, Inclusion and Anti-Oppression Advisory
   Committee (Requires 1 Non-Voting Post-Secondary Student)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -669,7 +669,7 @@ Unanimous (5-0)
   Confirmation of Appointment to the Community Safety and Crime Prevention
   Advisory Committee (Requires 1 Non-Voting Post-Secondary Student)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -682,7 +682,7 @@ Unanimous (5-0)
   Confirmation of Appointment to the London Housing Advisory Committee
   (Requires 1 Non-Voting Post-Secondary Student)
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -695,7 +695,7 @@ Unanimous (5-0)
   Confirmation of Appointment to the Transportation Advisory Committee
   (Requires 1 Non-Voting Post-Secondary Student)
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -708,7 +708,7 @@ Unanimous (5-0)
   Confirmation of Appointment to the Accessibility Advisory Committee (Requires
   1 Non-Voting Post-Secondary Student)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -721,7 +721,7 @@ Unanimous (5-0)
   Committee on the Environment and Diversity, Inclusion and Anti-Oppression
   Advisory Committee
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

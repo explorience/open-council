@@ -621,7 +621,7 @@ Motion
 ### 2. Property located at
   447 Old Wonderland Road
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -634,7 +634,7 @@ Unanimous (5-0)
   Subdivision - Phase 4 - Special Provisions for the Subdivision Agreement
   (39T-13504)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -646,7 +646,7 @@ Unanimous (5-0)
 ### 4. London Community
   Foundation, re Back to the River
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -658,7 +658,7 @@ Unanimous (5-0)
 ### 5. Properties located
   at 4366 & 4402 Colonel Talbot Road (Z8461)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -670,7 +670,7 @@ Unanimous (5-0)
 ### 6. Property located at
   120 Weston Street (Z-8475)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -682,7 +682,7 @@ Unanimous (5-0)
 ### 7. Property located at
   348 Sunningdale Road East - Request for Demolition
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -694,7 +694,7 @@ Unanimous (5-0)
 ### 8. Property located at
   1192 Highbury Avenue North (OZ-8463)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -706,7 +706,7 @@ Unanimous (5-0)
 ### 9. 8th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -718,7 +718,7 @@ Unanimous (5-0)
 ### 9. 8th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -730,7 +730,7 @@ Unanimous (4-0)
 ### 10. Property located at
   183 King Street - Request for Demolition
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -742,7 +742,7 @@ Unanimous (5-0)
 ### 10. Property located at
   183 King Street - Request for Demolition
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -754,7 +754,7 @@ Unanimous (5-0)
 ### 11. Delayed Planning and Development
   Applications
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

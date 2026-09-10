@@ -462,7 +462,7 @@ The meeting was adjourned at 3:22 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.2 and 2.3 BE APPROVED.
 
@@ -472,7 +472,7 @@ Unanimous (5-0)
 
 ### 2.1. Green Development Framework Update
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > Motion to approve part a) and b).
 
@@ -482,7 +482,7 @@ Unanimous (5-0)
 
 ### 2.1. Green Development Framework Update
 
-<a id="motion-2-1-2" class="motion-anchor"></a>
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > Motion to approve part c).
 
@@ -499,7 +499,7 @@ Unanimous (5-0)
 
 ### 3.1. 415 York Street - OZ-25124
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > Motion to open the pubic participation meeting.
 

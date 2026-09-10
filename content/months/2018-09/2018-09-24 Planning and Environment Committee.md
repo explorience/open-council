@@ -1018,7 +1018,7 @@ The meeting adjourned at 9:45 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.7, inclusive, BE APPROVED.
 
@@ -1028,7 +1028,7 @@ Unanimous (6-0)
 
 ### 3.4. Public Participation Meeting - Application - 3425 Emily Carr Lane (39T-16508/Z-8697)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of 2178254 Ontario Limited, c/o DNL Group Inc., relating to the property located at 3425 Emily Carr Lane (1160 Wharncliffe Road South): a)            the propose...
 
@@ -1038,7 +1038,7 @@ Unanimous (6-0)
 
 ### 3.5. Public Participation Meeting - Application - 745-747 Waterloo Street (Z-8921)
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of The Y Group Investments and Management Inc., relating to the property located at 745-747 Waterloo Street: a)            the proposed by-law appended t...
 
@@ -1055,7 +1055,7 @@ Unanimous (6-0)
 
 ### 3.5. Public Participation Meeting - Application - 745-747 Waterloo Street (Z-8921)
 
-<a id="motion-3-5-3" class="motion-anchor"></a>
+<div id="motion-3-5-3" class="motion-anchor"></div>
 
 > Motion to approve a new part b) which reads as follows: b)  the Civic Administration BE REQUESTED to review, in consultation with the neighbourhood, the traffic and parking congestion concerns raised by the neighbourhood and to report back at a future meeting.
 
@@ -1065,7 +1065,7 @@ Unanimous (6-0)
 
 ### 3.7. Public Participation Meeting - Application - 900 King Street and 925 Dundas Street (0Z-8937)
 
-<a id="motion-3-7-0" class="motion-anchor"></a>
+<div id="motion-3-7-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application of the Western Fair Association and The Corporation of the City of London, relating to the property located at 900 King Street and 925 Dundas Street: a)          the proposed by-law appended to the staff report dated September 2...
 
@@ -1075,7 +1075,7 @@ Unanimous (6-0)
 
 ### 3.8. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
 
-<a id="motion-3-8-0" class="motion-anchor"></a>
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > The application by Tricar Group, relating to the property located at 230 North Centre Road, BE REFERRED back to the Civic Administration to initiate consultation between the applicant, the community and the Civic Administration to explore potential revisions to the proposed development taking int...
 
@@ -1092,7 +1092,7 @@ Unanimous (6-0)
 
 ### 4.1. 9th Report of the London Advisory Committee on Heritage
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 9th Report of the London Heritage Advisory Committee from its meeting held on September 12, 2018: a)            on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the applicati...
 
@@ -1102,7 +1102,7 @@ Unanimous (6-0)
 
 ### 4.2. Request for Delegation Status - D. Park, Halls Mill Place - Byron Valley Conceptual Nature Trail Plan
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That D. Park, L. Black, C. Morrison, E. Washburn, J. Santin and M. Laliberte, BE GRANTED delegation status at the October 29, 2018 Planning and Environment Committee meeting with respect to the Byron Valley Conceptual Nature Trail Plan concurrent with the Managing Director, Planning and City Plan...
 
@@ -1112,7 +1112,7 @@ Unanimous (6-0)
 
 ### 4.2. Request for Delegation Status - D. Park, Halls Mill Place - Byron Valley Conceptual Nature Trail Plan
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Move Item 4.2 to the first item under Scheduled Items
 

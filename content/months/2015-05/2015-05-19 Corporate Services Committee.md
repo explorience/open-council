@@ -300,7 +300,7 @@ The Corporate Services Committee convened
 ### 2. Outstanding London
   Ambassador Award
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -319,7 +319,7 @@ The Corporate Services Committee convened
 ### 3. Employee
     Absenteeism 2014 Update
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion     Passed
 
@@ -331,7 +331,7 @@ Unanimous (3-0)
 ### 3. Employee
     Absenteeism 2014 Update
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -343,7 +343,7 @@ Unanimous (5-0)
 ### 3. Employee
     Absenteeism 2014 Update
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -355,7 +355,7 @@ Unanimous (5-0)
 ### 3. Employee
     Absenteeism 2014 Update
 
-<a id="motion-3-3" class="motion-anchor"></a>
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -367,7 +367,7 @@ Unanimous (5-0)
 ### 3. Employee
     Absenteeism 2014 Update
 
-<a id="motion-3-4" class="motion-anchor"></a>
+<div id="motion-3-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -379,7 +379,7 @@ Unanimous (5-0)
 ### 3. Employee
     Absenteeism 2014 Update
 
-<a id="motion-3-5" class="motion-anchor"></a>
+<div id="motion-3-5" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -392,7 +392,7 @@ Unanimous (5-0)
   Expenditure - HVAC Units/Caps on Outside Stairwells - Covent Garden Market
   Corporation
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -405,7 +405,7 @@ Unanimous (5-0)
   Expenditure - HVAC Units/Caps on Outside Stairwells - Covent Garden Market
   Corporation
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -418,7 +418,7 @@ Unanimous (5-0)
   Expenditure - HVAC Units/Caps on Outside Stairwells - Covent Garden Market
   Corporation
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

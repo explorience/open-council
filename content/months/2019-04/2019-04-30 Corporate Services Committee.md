@@ -182,7 +182,7 @@ The meeting adjourned at 2:39 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.2 and 2.3 BE APPROVED.
 
@@ -192,7 +192,7 @@ Unanimous (6-0)
 
 ### 2.1. Year 2019 Tax Policy
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to property taxation for 2019: a)         the by-law, as appended to the staff report dated April 30, 2019 as Appendix A, BE INTRODUCED...
 
@@ -202,7 +202,7 @@ Unanimous (6-0)
 
 ### 4.1. Full-Time Councillors for Next Term of Council
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the communication dated April 8, 2019 from Councillor M. van Holst with respect to full-time Councillors for the next term BE RECEIVED for information.
 

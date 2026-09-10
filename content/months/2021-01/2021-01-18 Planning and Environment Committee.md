@@ -353,7 +353,7 @@ The meeting adjourned at 6:08 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.2 and 2.3, inclusive, and Item 2.5 BE APPROVED.
 
@@ -363,7 +363,7 @@ Unanimous (6-0)
 
 ### 2.1. 2019 State of the Downtown Report
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > Motion to approve the following: "The Civic Administration BE DIRECTED to submit future reports relating to the State of the Downtown to the Strategic Priorities and Polices Committee."
 
@@ -380,7 +380,7 @@ Unanimous (6-0)
 
 ### 2.4. Application - 307 Fanshawe Park Road East (H-9255)
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, based on the application by 1423197 Ontario Inc. (Royal Premier Homes), relating to the property located at 307 Fanshawe Park Road East, the proposed by-law appended to the staff report dated January 18, 2021 BE INTRODUCED at the ...
 
@@ -390,7 +390,7 @@ Unanimous (6-0)
 
 ### 3.1. Application - 690, 696, 698, 700 King Street, 400 Lyle Street, 701, 725, 729, 735, 737 Dundas Street and 389, 391, 393 Hewitt Street
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by East Village Holdings Limited, relating to the properties located at 690, 696, 698, 700 King Street, 400 Lyle Street, 701, 725, 729, 735, 737 Dundas Street, and 389...
 
@@ -400,7 +400,7 @@ Unanimous (6-0)
 
 ### 4.1. R. Pinheiro, Chairman, Hamilton Road Business Improvement Area - Request for Amendment to our Hamilton Road Business Improvement Area By-laws
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the proposed amendments to the Hamilton Road Business Improvement Area By-law as requested by the Hamilton Road Business Improvement Area Board of Management as outlined in the commun...
 

@@ -241,7 +241,7 @@ Thank you, everyone. Have a good day.
 
 ### 2.3. (ADDED) Government Relations Consulting Assignment
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Manager, in accordance with section 15.1 (c) of the Procurement of Goods and Services Policy, that Coriano Capital BE APPROVED to continue to provide consulting services for government relations, strategic advisory services, and advocacy in addressing local...
 

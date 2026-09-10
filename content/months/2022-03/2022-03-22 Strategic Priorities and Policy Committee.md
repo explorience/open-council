@@ -154,7 +154,7 @@ The meeting adjourned at 4:23 PM.
 
 ### 4.1. Temporary Reintroduction of Mask By-law to Limit the Spread of COVID-19 - Councillors Helmer, Turner and Cassidy
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the attached by-law BE INTRODUCED at the Council meeting to be held on March 22, 2022 to temporarily require the use of face coverings within enclosed publicly-accessible spaces in the City of London.
 

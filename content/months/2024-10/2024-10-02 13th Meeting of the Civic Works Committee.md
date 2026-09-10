@@ -601,7 +601,7 @@ Can we do a hand vote on that? Hand vote. Thanks everyone.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.7 BE APPROVED.
 
@@ -611,7 +611,7 @@ Unanimous (3-0)
 
 ### 3.2. Memorandum of Understanding with the London Chamber of Commerce for Action on Climate Change
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report dated October 2, 2024, BE INTRODUCED at the Municipal Council meeting to be held on October 15, 2024 to: a)    authorize and approve a Memorandum of Underst...
 

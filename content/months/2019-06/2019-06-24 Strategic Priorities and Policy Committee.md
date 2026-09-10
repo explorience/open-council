@@ -536,7 +536,7 @@ The meeting adjourned at 7:13 PM.
 
 ### 2.1. London Economic Development Corporation Purchase of Services Amending Agreement
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Manager, the following actions be taken with respect to the City of London Agreement with the London Economic Development Corporation:    a)            in accordance with the City of London Procurement of Goods and Services Policy, Section 20.3 (e) Contract...
 
@@ -546,7 +546,7 @@ Unanimous (15-0)
 
 ### 3.2. London & Middlesex Community Housing - 2018 Annual Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > Shall the ruling of the Chair be upheld? The Mayor rules a request for an extension of time for the delegation out of order.
 
@@ -563,7 +563,7 @@ Unanimous (15-0)
 
 ### 3.2. London & Middlesex Community Housing - 2018 Annual Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-2-3" class="motion-anchor"></a>
+<div id="motion-3-2-3" class="motion-anchor"></div>
 
 > Motion to approve part c) as follows: c)         the proposed by-law appended to the staff report dated June 24, 2019 as Appendix “B” BE REFERRED to a future meeting for consideration;
 
@@ -580,7 +580,7 @@ Unanimous (15-0)
 
 ### 3.3. London Hydro Inc. - 2018 Annual Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-3-2" class="motion-anchor"></a>
+<div id="motion-3-3-2" class="motion-anchor"></div>
 
 > The following actions be taken with respect to the London Hydro Board of Directors: e)   for the purpose of retaining a strong engineering skillset on the board of London Hydro Inc., the following candidates be interviewed for the class III Director position made vacant by the retirement of Mohan...
 
@@ -599,7 +599,7 @@ Unanimous (15-0)
 
 ### 3.3. London Hydro Inc. - 2018 Annual Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-3-3" class="motion-anchor"></a>
+<div id="motion-3-3-3" class="motion-anchor"></div>
 
 > That the interviews, noted in part e), above, BE CONDUCTED by the Corporate Services Committee.
 
@@ -609,7 +609,7 @@ Unanimous (14-0)
 
 ### 4.2. Resignation from Councillor S. Lewis from the Middlesex-London Food Policy Council
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the communication dated June 24, 2019 from Councillor Shawn Lewis resigning his appointment to the Middlesex-London Food Policy Council BE ACCEPTED.
 

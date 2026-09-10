@@ -1453,7 +1453,7 @@ I'll look for a motion for a German, Councillor Hillier, seconded by Councillor 
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.3, 2.4, 2.6, 2.7 and 2.8 BE APPROVED.
 
@@ -1463,7 +1463,7 @@ Unanimous (5-0)
 
 ### 2.1. 600 Sunningdale Road West - Phase 2 Special Provisions
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Sunningdale Golf and Country Ltd., for the subdivision of land legally described as ...
 
@@ -1473,7 +1473,7 @@ Unanimous (5-0)
 
 ### 2.2. 600 Sunningdale Road West - Phase 3 Special Provisions
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Sunningdale Golf and Country Ltd., for the subdivision of land legally described as ...
 
@@ -1483,7 +1483,7 @@ Unanimous (5-0)
 
 ### 2.5. 864 Hellmuth Avenue - Heritage Alteration Permit Application
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That the application under Section 42 of the Ontario Heritage Act seeking approval to pave a portion of the front yard for parking on the heritage designated property at 864 Hellmuth Avenue, within the Bishop Hellmuth Heritage Conservation District, BE REFERRED back to a future Planning and Envir...
 
@@ -1493,7 +1493,7 @@ Unanimous (5-0)
 
 ### 3.2. 634 Commissioners Road West
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by Royal Premier Homes (c/o Farhad Noory), relating to the property located at 634 Commissioners Road West: a) the proposed by-law appended to the staff rep...
 
@@ -1503,7 +1503,7 @@ Unanimous (5-0)
 
 ### 3.2. 634 Commissioners Road West
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > Motion to amend the recommendation to include a new part b) viii), request the Civic Administration review the Tree Preservation Plan further, specifically with respect to the locust tree;
 

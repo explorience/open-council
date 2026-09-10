@@ -367,7 +367,7 @@ Opposed? - Motion carries. Thank you everyone.
 
 ### 2.5. Demolition - City-Owned Properties - 3465 and 3561 Scotland Drive
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned property at 3465 and 3561 Scotland Drive, the following actions be taken: a) the subject properties BE RECOMMENDED for demolition; and b) the Ci...
 
@@ -377,7 +377,7 @@ Unanimous (4-0)
 
 ### 2.5. Demolition - City-Owned Properties - 3465 and 3561 Scotland Drive
 
-<a id="motion-2-5-1" class="motion-anchor"></a>
+<div id="motion-2-5-1" class="motion-anchor"></div>
 
 > That the delegation request from A. Meyer BE APPROVED to be heard at this time.
 

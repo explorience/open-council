@@ -615,7 +615,7 @@ The meeting adjourned at 6:13 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.2 to 2.7, inclusive, and Item 2.9 BE APPROVED.
 
@@ -625,7 +625,7 @@ Unanimous (6-0)
 
 ### 2.8. London Community Recovery Network - Ideas for Action by Municipal Council
 
-<a id="motion-2-8-1" class="motion-anchor"></a>
+<div id="motion-2-8-1" class="motion-anchor"></div>
 
 > Motion to approve clause a) 1.3, which reads as follows: "a)  the implementation plans for the following ideas for action submitted from the London Community Recovery Network and received by Municipal Council BE APPROVED: - 1.3 A Break in the Clouds;"
 
@@ -642,7 +642,7 @@ Unanimous (6-0)
 
 ### 2.8. London Community Recovery Network - Ideas for Action by Municipal Council
 
-<a id="motion-2-8-2" class="motion-anchor"></a>
+<div id="motion-2-8-2" class="motion-anchor"></div>
 
 > Motion to approve clause a) section 2.5 which reads as follows: "a)  the implementation plans for the following ideas for action submitted from the London Community Recovery Network and received by Municipal Council BE APPROVED: - 2.5 Increase grant funding/building code for façade upgrades;"
 
@@ -652,7 +652,7 @@ Unanimous (5-0)
 
 ### 2.8. London Community Recovery Network - Ideas for Action by Municipal Council
 
-<a id="motion-2-8-3" class="motion-anchor"></a>
+<div id="motion-2-8-3" class="motion-anchor"></div>
 
 > Motion to approve clause a) 3.5, which reads as follows: "a)  the implementation plans for the following ideas for action submitted from the London Community Recovery Network and received by Municipal Council BE APPROVED: - 3.5 Provide better market data to attract new businesses;"
 
@@ -669,7 +669,7 @@ Unanimous (5-0)
 
 ### 3.3. Application - 185 Horton Street East
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, with respect to the application by 1524400 Ontario Inc., relating to the property located at 185 Horton Street East, the proposed revised, attached, by-law BE INTRODUCED at the Municipal Council meeting to be held on February 23, ...
 

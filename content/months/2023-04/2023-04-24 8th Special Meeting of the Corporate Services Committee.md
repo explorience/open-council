@@ -116,7 +116,7 @@ The motion's passed. Thank you, everyone. And there's two special meetings today
 
 ### 4.1. 2023 Debenture Issuance Update
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2023 City of London Debenture Issuance:    a)    the issuance of serial debentures for a total of $21,500,000 BE APPROVED; it being noted that the average all-in rate is 3....
 

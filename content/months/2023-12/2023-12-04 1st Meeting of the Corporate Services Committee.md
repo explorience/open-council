@@ -215,7 +215,7 @@ Motion carries.
 
 ### 2.1. Demolition of City-Owned Property Buildings - 3243 Manning Drive
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned property located at 3243 Manning Drive, the following actions be taken: a) the improvements associated with the subject City-owned property BE R...
 

@@ -1070,7 +1070,7 @@ Thank you, everyone.
 
 ### 2.1. Biosolids Management Master Plan - Notice of Completion
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Biosolids Management Master Plan:    a)    the Notice of Completion BE FILED with the Municipal Clerk;    b)    the Biosolids Management Master Plan report BE PLAC...
 
@@ -1089,7 +1089,7 @@ Thank you, everyone.
 
 ### 2.8. Expropriation of Lands - Phase 2 - Wellington Gateway Project Civil Works
 
-<a id="motion-2-8-0" class="motion-anchor"></a>
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
 
@@ -1108,7 +1108,7 @@ Thank you, everyone.
 
 ### 4.1. London Emergency Services Campus
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the Deputy City Manager, Neighbourhood and Community-Wide Services, with the concurrence of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Housing and Community Growth, on the advice of...
 
@@ -1118,7 +1118,7 @@ Unanimous (6-0)
 
 ### 4.1. London Emergency Services Campus
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation request from C. Colvin, P. Verkley and K. McLean, Ontario Federation of Agriculture BE APPROVED to be heard at this time.
 
@@ -1128,7 +1128,7 @@ Unanimous (6-0)
 
 ### 4.1. London Emergency Services Campus
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor E. Peloza BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 
@@ -1138,7 +1138,7 @@ Unanimous (6-0)
 
 ### 4.1. London Emergency Services Campus
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 1 minute with respect to this matter.
 
@@ -1148,7 +1148,7 @@ Unanimous (6-0)
 
 ### 4.1. London Emergency Services Campus
 
-<a id="motion-4-1-4" class="motion-anchor"></a>
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > That the Infrastructure and Corporate Services Committee convenes In Closed Session for the purpose of considering advice that is subject to solicitor-client privilege, including communications necessary for that purpose related to the London Emergency Services Campus.
 

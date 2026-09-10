@@ -1538,7 +1538,7 @@ We're adjourned.
 
 ### 2.1. London: A Place to Call Home (London Development Institute (LDI) and London Home Builders' Association (LHBA))
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That the delegation request from Mr. M. Wallace, LDI, BE APPROVED to be heard at this time.
 
@@ -1548,7 +1548,7 @@ Unanimous (15-0)
 
 ### 3.2. Delegation - Bill Rayburn, CAO, Middlesex County and Neal Roberts, Chief of Middlesex-London Paramedic Service
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > That notwithstanding the Council Procedure By-law, the delegation BE PERMITTED to speak longer than five minutes.
 
@@ -1558,7 +1558,7 @@ Unanimous (14-0)
 
 ### 4.1. Confirmation of Appointment to the Old East Village Business Improvement Area
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Old East Village BIA Board of Directors for the term ending November 14, 2026:    Maria Drangova, representing the London Clay Art Centre   Grant Maltman, representing Banting House National Historic Site   Rob Campbell, Property Owner  Chris Stroud, represe...
 
@@ -1568,7 +1568,7 @@ Unanimous (15-0)
 
 ### 4.2. Consideration of Appointment to the Kettle Creek Conservation Authority (Requires 2 Members)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026; Prabhsimran Gill  JJ Strybosch    it being noted that approval from the Minister of Environment Conservation and Parks (MECP) is required.
 
@@ -1578,7 +1578,7 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Member)
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That Marie Blosh BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 14, 2026; it being noted that approval from the Minister of Environment Conservation and Parks (MECP) is required.
 
@@ -1588,7 +1588,7 @@ Unanimous (14-0)
 
 ### 4.3. Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Member)
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Appointment to the Lower Thames Valley Conservation Authority
 
@@ -1603,7 +1603,7 @@ Unanimous (14-0)
 
 ### 4.4. Consideration of Appointment to the Upper Thames River Conservation Authority (Requires 1 Member)
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That Sandy Levin BE APPOINTED to the Upper Thames River Conservation Authority Board of Directors for the term ending November 14, 2026.
 
@@ -1613,7 +1613,7 @@ Unanimous (15-0)
 
 ### 4.4. Consideration of Appointment to the Upper Thames River Conservation Authority (Requires 1 Member)
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > Appointment to the Upper Thames River Conservation Authority
 

@@ -228,7 +228,7 @@ The meeting adjourned at 1:07 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 and 2.2 BE APPROVED.
 
@@ -245,7 +245,7 @@ The meeting adjourned at 1:07 PM.
 
 ### 4.1. Consideration of Appointment to the Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED as Voting Members to the Environmental and Ecological Planning Advisory Committee for the term ending May 31, 2019:    R. Doyle  A. Galvao Duarte  I. Mohamed
 
@@ -255,7 +255,7 @@ Unanimous (6-0)
 
 ### 4.2. Confirmation of Appointment to the Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That Lori-Ann Pizzolato BE APPOINTED as an Alternate Voting Member representing the Thames Valley District School Board to the Community Safety and Crime Prevention Advisory Committee for the term ending May 31, 2019.
 
@@ -265,7 +265,7 @@ Unanimous (6-0)
 
 ### 5.3. ADDED - Federation of Canadian Municipalities (FCM) - Third Vice-President Vacancy
 
-<a id="motion-5-3-0" class="motion-anchor"></a>
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > That the nomination of Councillor J. Morgan for appointment as the Third-Vice President for the Federation of Canadian Municipalities (FCM) BE ENDORSED by the Municipal Council and in the event that Councillor J. Morgan is elected to this position that the Councillor BE REIMBURSED by The Corporat...
 

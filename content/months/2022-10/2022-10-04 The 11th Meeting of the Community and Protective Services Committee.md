@@ -479,7 +479,7 @@ Have a good evening.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.3 BE APPROVED.
 
@@ -489,7 +489,7 @@ Unanimous (6-0)
 
 ### 3.1. Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the staff report, dated October 4, 2022, with respect to the Adult Live Entertainment Parlour located at 2010 Dundas Street – Deletion of Location: a)    the Civic Administration BE DIRECTED to provide the Community and Protective Services Commi...
 
@@ -506,7 +506,7 @@ Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > Motion to receive Item Number 1 on the Deferred Matters List for the Community and Protective Services Committee, as at September 26, 2022.
 
@@ -516,7 +516,7 @@ Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-2" class="motion-anchor"></a>
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at September 26, 2022, with the exception of Item Number 1.
 

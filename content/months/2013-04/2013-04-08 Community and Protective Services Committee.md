@@ -370,7 +370,7 @@ The Corporate Services Committee convened
 ### 5. London Majors
   Baseball License Agreement for Use of Labatt Park
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -382,7 +382,7 @@ Unanimous (5-0)
 ### 6. Amendments to Fees
   and Charges By-law
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > 
 
@@ -393,7 +393,7 @@ Unanimous (3-0)
 ### 6. Amendments to Fees
   and Charges By-law
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > 
 
@@ -404,7 +404,7 @@ Unanimous (3-0)
 ### 7. Child Care Funding
   Formula Update
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -415,7 +415,7 @@ Unanimous (5-0)
 ### 8. Introduction of
   By-law for Approval of Liquor Licence Applications for the City of London
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 

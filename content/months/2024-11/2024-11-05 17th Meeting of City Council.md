@@ -3909,7 +3909,7 @@ All those in favor of adjournment. Motion carries. Thank you, we're adjourned.
 
 ### 6.1. Expropriation of Lands - East London Link Project - Phase 4 (As the "Approving Authority")
 
-<a id="motion-6-1-0" class="motion-anchor"></a>
+<div id="motion-6-1-0" class="motion-anchor"></div>
 
 > That Council convene as the Approving Authority pursuant to the provisions of the Expropriations Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure with respect to the expropriation of the lands as ...
 
@@ -3926,7 +3926,7 @@ All those in favor of adjournment. Motion carries. Thank you, we're adjourned.
 
 ### 6.1. Expropriation of Lands - East London Link Project - Phase 4 (As the "Approving Authority")
 
-<a id="motion-6-1-1" class="motion-anchor"></a>
+<div id="motion-6-1-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
 
@@ -3943,7 +3943,7 @@ All those in favor of adjournment. Motion carries. Thank you, we're adjourned.
 
 ### 6.2. Expropriation of Lands - East London Link Project - Phase 4 (As the "Expropriating Authority") (Relates to Bill No. 362)
 
-<a id="motion-6-2-0" class="motion-anchor"></a>
+<div id="motion-6-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
 
@@ -3960,7 +3960,7 @@ All those in favor of adjournment. Motion carries. Thank you, we're adjourned.
 
 ### 8.1. 14th Report of the Civic Works Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Civic Works Committee BE APPROVED.
 
@@ -3970,7 +3970,7 @@ Unanimous (15-0)
 
 ### 8.2. 16th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 16th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of items 4 (4.1), 6 (4.3) and 8 (4.5)
 
@@ -3980,7 +3980,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-8-2-4-2" class="motion-anchor"></a>
+<div id="motion-8-2-4-2" class="motion-anchor"></div>
 
 > That the motion to amend part b) be further amended to read as follows : b) the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces (that are not located on the main street of any BIA), rent supplements and tran...
 
@@ -3997,7 +3997,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-8-2-4-3" class="motion-anchor"></a>
+<div id="motion-8-2-4-3" class="motion-anchor"></div>
 
 > That the motion to amend part d) be further amended to read as follows: d) the Civic Administration BE DIRECTED to engage with contracted agencies, time permitting, on a plan that fits the Federal encampment funding requirements and report back to Municipal Council on the submission for the two-y...
 
@@ -4007,7 +4007,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-8-2-4-4" class="motion-anchor"></a>
+<div id="motion-8-2-4-4" class="motion-anchor"></div>
 
 > That the motion to amend part b) be further amended to read as follows: b) the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces, rent supplements and transactional encampment services as outlined in the repor...
 
@@ -4024,7 +4024,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-8-2-4-5" class="motion-anchor"></a>
+<div id="motion-8-2-4-5" class="motion-anchor"></div>
 
 > That parts b) and d) of the motion, as amended, be further amended to read as follows: b) the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces, rent supplements and transactional encampment services as outlin...
 
@@ -4034,7 +4034,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-8-2-4-6" class="motion-anchor"></a>
+<div id="motion-8-2-4-6" class="motion-anchor"></div>
 
 > That the motion be amended to add a new part be further amended to read as follows: j)  resting spaces to NOT BE LOCATED on the main street of any Business Improvement Area (BIA) without the approval of Municipal Council.
 
@@ -4051,7 +4051,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-8-2-4-7" class="motion-anchor"></a>
+<div id="motion-8-2-4-7" class="motion-anchor"></div>
 
 > That the motion be amended to add a new part to read as follows: j)   resting spaces to NOT BE LOCATED on the main street of any Business Improvement Area (BIA); At 3:25 PM, His Worship Mayor J. Morgan, places Councillor S. Lehman in the Chair.   At 3:33 PM, His Worship Mayor J. Morgan resumes th...
 
@@ -4068,7 +4068,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-8-2-4-8" class="motion-anchor"></a>
+<div id="motion-8-2-4-8" class="motion-anchor"></div>
 
 > That pursuant to section 9.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 5 minutes with respect to this matter.
 
@@ -4085,7 +4085,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-8-2-4-9" class="motion-anchor"></a>
+<div id="motion-8-2-4-9" class="motion-anchor"></div>
 
 > That the motion be amended by adding a new part k) to read as follows: k) Civic Administration BE DIRECTED to report back with respect to the setback requirements from any private residential property line in the Community Encampment Response Plan with the following criteria included:  i) an anal...
 
@@ -4102,7 +4102,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
 
-<a id="motion-8-2-4-10" class="motion-anchor"></a>
+<div id="motion-8-2-4-10" class="motion-anchor"></div>
 
 > That part j) of the motion BE APPROVED: j)  resting spaces to NOT BE LOCATED on the main street of any Business Improvement Area (BIA);
 
@@ -4119,7 +4119,7 @@ Unanimous (15-0)
 
 ### 8.2.6. (4.3) Agencies, Boards and Commissions Motion
 
-<a id="motion-8-2-6-0" class="motion-anchor"></a>
+<div id="motion-8-2-6-0" class="motion-anchor"></div>
 
 > That it BE NOTED a communication dated October 16, 2024 from Councillor S. Franke and Councillor C. Rahman was received with respect to this matter;    it being further noted that the Strategic Priorities and Policy Committee received communications from the following individuals with respect to ...
 
@@ -4136,7 +4136,7 @@ Unanimous (15-0)
 
 ### 8.2.8. (4.5) Committee Appointment Preferences Submitted by Council Members
 
-<a id="motion-8-2-8-1" class="motion-anchor"></a>
+<div id="motion-8-2-8-1" class="motion-anchor"></div>
 
 > That the following appointments BE MADE to the Standing Committees of the Municipal Council for the term December 1, 2024 to November 30, 2025: a)      Planning and Environment Committee Councillor P. Cuddy  Councillor E. Peloza  Councillor S. Hillier b)      Infrastructure and Corporate Services...
 
@@ -4146,7 +4146,7 @@ Unanimous (15-0)
 
 ### 8.2.8. (4.5) Committee Appointment Preferences Submitted by Council Members
 
-<a id="motion-8-2-8-2" class="motion-anchor"></a>
+<div id="motion-8-2-8-2" class="motion-anchor"></div>
 
 > That the appointments to the Community and Protective Services Committee for the term December 1, 2024 to November 30, 2025 BE REFERRED to a future meeting of Municipal Council meeting for consideration and the pending issuance of a Mayoral Decision to reduce the committee size. it being noted th...
 
@@ -4156,7 +4156,7 @@ Unanimous (15-0)
 
 ### 8.3. 16th Report of the Planning and Environment Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 16th Report of the Planning and Environment Committee BE APPROVED with the exception of item 11 (3.4) At 4:54 Deputy Mayor S. Lewis leaves the meeting.
 
@@ -4166,7 +4166,7 @@ Unanimous (14-0)
 
 ### 8.4. 16th Report of the Corporate Services Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 16th Report of the Corporate Services Committee BE APPROVED.
 
@@ -4176,7 +4176,7 @@ Unanimous (14-0)
 
 ### 8.5. 13th Report of the Community and Protective Services Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 13th Report of the Community and Protective Services Committee BE APPROVED with the exception of items 5 (2.1) and 6 (3.1) At 4:59 PM Deputy Mayor S. Lewis re-enters the meeting.
 
@@ -4186,7 +4186,7 @@ Unanimous (15-0)
 
 ### 8.5.6. (3.1) Life*Spin - Property Standards and Tenant Support
 
-<a id="motion-8-5-6-1" class="motion-anchor"></a>
+<div id="motion-8-5-6-1" class="motion-anchor"></div>
 
 > That a) i) be approved and reads as follows: a)    the Civic Administration BE DIRECTED to: i)    work with Life*Spin and other community organizations to facilitate, coordinate, and fund an annual Tenant Support Fair at City Hall for the purposes of including greater transparency within the Prop...
 
@@ -4196,7 +4196,7 @@ Unanimous (15-0)
 
 ### 8.5.6. (3.1) Life*Spin - Property Standards and Tenant Support
 
-<a id="motion-8-5-6-2" class="motion-anchor"></a>
+<div id="motion-8-5-6-2" class="motion-anchor"></div>
 
 > That a) ii) be approved and reads as follows: a)    the Civic Administration BE DIRECTED to: ii)    complete a municipal scan of Property Standards By-laws and programs, and report back to a future meeting of the Community and Protective Services Committee by Q2 2025 with recommendations to enhan...
 
@@ -4213,7 +4213,7 @@ Unanimous (15-0)
 
 ### 8.5.6. (3.1) Life*Spin - Property Standards and Tenant Support
 
-<a id="motion-8-5-6-3" class="motion-anchor"></a>
+<div id="motion-8-5-6-3" class="motion-anchor"></div>
 
 > That a) iii) be approved and reads as follows: a)    the Civic Administration BE DIRECTED to: iii)    investigate the feasibility of developing and funding a pilot Public Extermination Program, with a focus on providing systematic oversight and resolution of persistent infestations, particularly ...
 
@@ -4230,7 +4230,7 @@ Unanimous (15-0)
 
 ### 8.5.6. (3.1) Life*Spin - Property Standards and Tenant Support
 
-<a id="motion-8-5-6-4" class="motion-anchor"></a>
+<div id="motion-8-5-6-4" class="motion-anchor"></div>
 
 > That pursuant to section 9.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 3 minutes with respect to this matter.
 
@@ -4247,7 +4247,7 @@ Unanimous (15-0)
 
 ### 8.5.6. (3.1) Life*Spin - Property Standards and Tenant Support
 
-<a id="motion-8-5-6-5" class="motion-anchor"></a>
+<div id="motion-8-5-6-5" class="motion-anchor"></div>
 
 > That b) be approved and reads as follows: b)    the request for funding the VHA Home HealthCare and its Extreme Clean Program BE REFERRED to the Budget Committee for consideration in the 2025 Budget Update, as per the business case P15 in the 2024-2027 Draft Budget; it being noted that the issue ...
 
@@ -4264,7 +4264,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 362 BE APPROVED.
 
@@ -4283,7 +4283,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 362 BE APPROVED.
 
@@ -4302,7 +4302,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 362 BE APPROVED.
 

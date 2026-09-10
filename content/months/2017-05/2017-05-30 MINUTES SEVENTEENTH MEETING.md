@@ -3272,7 +3272,7 @@ Motion Passed
   Engineering Services and City Engineer - Expropriation of Lands - Western
   Road Widening and Improvements Project - TS1489-1
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > Approve that Council convene as the   Approving Authority pursuant to the provisions of the Expropriation Act,   R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication   No. 1 from the Managing Director, Environmental & Engineering Services   and City Engineer, with respect...
 
@@ -3284,7 +3284,7 @@ Unanimous (15-0)
   Engineering Services and City Engineer - Expropriation of Lands - Western
   Road Widening and Improvements Project - TS1489-1
 
-<a id="motion-1-2-1" class="motion-anchor"></a>
+<div id="motion-1-2-1" class="motion-anchor"></div>
 
 > Approve that on the recommendation of   the Managing Director, Environmental & Engineering Services and City   Engineer, on the advice of the Manager of Realty Services, with the review   and concurrence of the Director, Roads and Transportation, the following   actions be taken with respect to t...
 
@@ -3295,7 +3295,7 @@ Unanimous (15-0)
 ### 1#6. Disclosures of
   Pecuniary Interest
 
-<a id="motion-1-6-1" class="motion-anchor"></a>
+<div id="motion-1-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3306,7 +3306,7 @@ Unanimous (13-0)
 ### 11#3. 6th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-11-3-0" class="motion-anchor"></a>
+<div id="motion-11-3-0" class="motion-anchor"></div>
 
 > That the following action be taken with   respect to the 6th Report on the London Advisory Committee on Heritage, from   its meeting held on May 10, 2017:   a)              on   the recommendation of the Managing Director, Planning and City Planner, with   the advice of the Heritage Planner, the ...
 
@@ -3317,7 +3317,7 @@ Unanimous (13-0)
 ### 2#5. 6th Report of the
   Advisory Committee on the Environment
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That the 6th Report of the Advisory   Committee on the Environment from its meeting held on May 3, 2017 BE   RECEIVED.
 
@@ -3327,7 +3327,7 @@ Unanimous (11-0)
 
 ### 2#6. Strategic Plan: Semi-Annual Progress Report
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3344,7 +3344,7 @@ Unanimous (11-0)
 
 ### 2#6. Strategic Plan: Semi-Annual Progress Report
 
-<a id="motion-2-6-1" class="motion-anchor"></a>
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > Approve clause 2, as amended.
 
@@ -3362,7 +3362,7 @@ Unanimous (11-0)
 ### 4#2. Council Policy for 
   Publicly  Releasing  Enforcement Information (Relates to Bill No. 227)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > Approve that the proposed Council Policy   for publicly releasing enforcement conviction information be referred back to   receive further comment at a future Public Participation Meeting to be held   before the Community and Protective Services Committee.
 
@@ -3380,7 +3380,7 @@ Unanimous (11-0)
 ### 6#5. Consultations
   Regarding Arrangements for the City of London to Become a Sanctuary City
 
-<a id="motion-6-5-1" class="motion-anchor"></a>
+<div id="motion-6-5-1" class="motion-anchor"></div>
 
 > Motion Lost
 
@@ -3398,7 +3398,7 @@ Unanimous (11-0)
 ### 6#5. Consultations
   Regarding Arrangements for the City of London to Become a Sanctuary City
 
-<a id="motion-6-5-2" class="motion-anchor"></a>
+<div id="motion-6-5-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3416,7 +3416,7 @@ Unanimous (11-0)
 ### 6#5. Consultations
   Regarding Arrangements for the City of London to Become a Sanctuary City
 
-<a id="motion-6-5-3" class="motion-anchor"></a>
+<div id="motion-6-5-3" class="motion-anchor"></div>
 
 > Approve clause 3.
 
@@ -3427,7 +3427,7 @@ Unanimous (10-0)
 ### 6#5. Consultations
   Regarding Arrangements for the City of London to Become a Sanctuary City
 
-<a id="motion-6-5-5" class="motion-anchor"></a>
+<div id="motion-6-5-5" class="motion-anchor"></div>
 
 > Approve clause 2.
 
@@ -3438,7 +3438,7 @@ Unanimous (12-0)
 ### 6#5. Consultations
   Regarding Arrangements for the City of London to Become a Sanctuary City
 
-<a id="motion-6-5-4" class="motion-anchor"></a>
+<div id="motion-6-5-4" class="motion-anchor"></div>
 
 > Approve clause 1.
 
@@ -3449,7 +3449,7 @@ Unanimous (10-0)
 ### 8#2. Property located at
   8076 Longwoods Road (Z-8735)
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > Approve that part a) of clause 8 be   amended to read as follows:   “a)         the application of Mike Abualhayja, for the above-noted property BE   REFERERD to the Civic Administration to report back with a revised by-law   that would provide for a potential opportunity to ensure that the lives...
 
@@ -3460,7 +3460,7 @@ Unanimous (14-0)
 ### 8#2. Property located at
   8076 Longwoods Road (Z-8735)
 
-<a id="motion-8-2-1" class="motion-anchor"></a>
+<div id="motion-8-2-1" class="motion-anchor"></div>
 
 > Approve clause 8, as amended.
 
@@ -3471,7 +3471,7 @@ Unanimous (14-0)
 ### 8#2. Property located at
   8076 Longwoods Road (Z-8735)
 
-<a id="motion-8-2-2" class="motion-anchor"></a>
+<div id="motion-8-2-2" class="motion-anchor"></div>
 
 > Approve that pursuant to section 6.4   of the Council Procedure By-law, the order of business be changed to permit   consideration of the 6th Report of the Community and Protective Services Committee   at this time.
 
@@ -3482,7 +3482,7 @@ Unanimous (14-0)
 ### 8#4. Contract Award:
   Tender No. 17-58 - Kiwanis Park Pathway Connection
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the award of a contract for the   Kiwanis Park Pathway Connection between Trafalgar Street and Tweedsmuir Ave:   a)         the   bid ...
 
@@ -3493,7 +3493,7 @@ Unanimous (13-0)
 ### 9#3. Proposed Revised
   Sign By-law and Amendments to Current Sign and Canopy By-law
 
-<a id="motion-9-3-0" class="motion-anchor"></a>
+<div id="motion-9-3-0" class="motion-anchor"></div>
 
 > Approve that   clause 9 be amended in part b) to read as follows:   “b)       the amendment to the Sign and   Canopy By-law S.-3775-94, appended as Appendix “D” to the staff report dated   May 23, 2017, BE INTRODUCED at the Municipal Council meeting to be held on   May 30, 2017;”.
 
@@ -3504,7 +3504,7 @@ Unanimous (13-0)
 ### 9#3. Proposed Revised
   Sign By-law and Amendments to Current Sign and Canopy By-law
 
-<a id="motion-9-3-1" class="motion-anchor"></a>
+<div id="motion-9-3-1" class="motion-anchor"></div>
 
 > Approve clause 9, as amended.
 
@@ -3515,7 +3515,7 @@ Unanimous (13-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SIXTEENTH MEETING HELD ON MAY 16, 2017
 
-<a id="motion-v-0" class="motion-anchor"></a>
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Sixteenth   meeting held on May 16, 2017.
 
@@ -3525,7 +3525,7 @@ Unanimous (13-0)
 
 ### VIII. REPORTS
 
-<a id="motion-viii-0" class="motion-anchor"></a>
+<div id="motion-viii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 6.4   of the Council Procedure By-law, the order of business be changed to permit   consideration of clause 10 of the 10th Report of the Planning and Environment   Committee at 5:30 PM.
 
@@ -3536,7 +3536,7 @@ Unanimous (15-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-0" class="motion-anchor"></a>
+<div id="motion-xii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 20.1   of the Council Procedure By-law, leave be given for the introduction of an   emergent motion to appoint Councillor Anna Hopkins as Acting Mayor from May   31, 2017 until the morning of Saturday, June 3, 2017, at which time Mayor   Matt Brown will resume his...
 
@@ -3546,7 +3546,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading of   Bill No. 231.
 
@@ -3563,7 +3563,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-4" class="motion-anchor"></a>
+<div id="motion-xiii-4" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No. 231.
 
@@ -3580,7 +3580,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of Bill   No. 231.
 
@@ -3599,7 +3599,7 @@ Unanimous (12-0)
   Environmental and Engineering Services and City Engineer - Expropriation of
   Lands - Western Road Widening and Improvements Project - TS1489-1
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of   the Managing Director, Environmental & Engineering Services and City   Engineer, on the advice of the Manager of Realty Services, with the review   and concurrence of the Director, Roads and Transportation, the following   actions be taken with respect to ...
 
@@ -3614,7 +3614,7 @@ Unanimous (15-0)
   Services Committee Stage for Consideration with Clause 17 of the 6th Report
   of the Community and Protective Services Committee )
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3625,7 +3625,7 @@ Unanimous (15-0)
 ### 4. Review of City of
   London Ward Boundaries
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City   Clerk, the proposed by-law appended to the staff report dated May 23, 2017 BE   INTRODUCED at the Municipal Council meeting to be held on May 30, 2017 to set   out the City of London’s ward boundaries in preparation for the 2018   Municipal Election.
 
@@ -3644,7 +3644,7 @@ Unanimous (15-0)
   Craft Beer Garden - Request for Designation as a Municipally Significant
   Event
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > That the SesquiFest  Ontario Craft Beer   Garden, to be held on June 29, 2017 to July 2, 2017 from 12:00 PM to 11:00 PM   and July 3, 2017 from 12:00 PM to 7:00 PM, at the corner of Carling Street   and Talbot Street, London, ON, BE DESIGNATED as a municipally significant   event.
 
@@ -3655,7 +3655,7 @@ Unanimous (15-0)
 ### 10. Property located at
   420 Fanshawe Park Road East - (OZ-8624)
 
-<a id="motion-10-4" class="motion-anchor"></a>
+<div id="motion-10-4" class="motion-anchor"></div>
 
 > Motion passed
 
@@ -3673,7 +3673,7 @@ Unanimous (15-0)
 ### 10. Property located at
   420 Fanshawe Park Road East - (OZ-8624)
 
-<a id="motion-10-5" class="motion-anchor"></a>
+<div id="motion-10-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3691,7 +3691,7 @@ Unanimous (15-0)
 ### 10. Property located at
   420 Fanshawe Park Road East - (OZ-8624)
 
-<a id="motion-10-7" class="motion-anchor"></a>
+<div id="motion-10-7" class="motion-anchor"></div>
 
 > Approve that pursuant to section 6.4   of the Council Procedure By-law, the order of business be changed to permit   consideration of clause 8 of the 10th Report of the Planning and Environment   Committee at this time.
 
@@ -3702,7 +3702,7 @@ Unanimous (11-0)
 ### 11. Parking Enforcement
   - Privately-Owned Parking Lots
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3713,7 +3713,7 @@ Unanimous (14-0)
 ### 17. Museum London
   Endowment Funds Transfer Request
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Approve that the request from Museum   London with respect to the possible transfer of the Museum London Endowment   funds to the Museum London Foundation be referred back to the Civic   Administration for further discussion with Museum London and a report back at   a future meeting of the Commun...
 
@@ -3732,7 +3732,7 @@ Unanimous (14-0)
   Sports Centre BMO Centre 295 Rectory Street - Grant Agreement (Relates to
   Bill No. 226)
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City   Solicitor’s Office, the proposed by-law, appended to the staff report dated   May 24, 2017 BE INTRODUCED at the Municipal Council meeting of May 30, 2017,   to:   a)         approve   a Grant Agreement, substantially in the form appended to the above-note...
 

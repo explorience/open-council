@@ -493,7 +493,7 @@ The Civic Works Committee convened in
   Services Associated with the Construction of 2015 Infrastructure Renewal
   Project - Braesyde and Dengate Reconstruction
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -505,7 +505,7 @@ Unanimous (4-0)
 ### 3. Greenway Wastewater
   Treatment Plant Expansion & Upgrades - Construction Contract Award
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -517,7 +517,7 @@ Unanimous (4-0)
 ### 4. Single Source
   Procurement - Customer Engagement Upgrade to MyLondonHydro Web Portal
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -536,7 +536,7 @@ Unanimous (4-0)
 ### 5. Update on Rainfall
   Event of June 22, 2015
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -548,7 +548,7 @@ Unanimous (4-0)
 ### 6. Sewer Flow
   Monitoring Services to Support Infoworks Modeling
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -560,7 +560,7 @@ Unanimous (4-0)
 ### 7. Quebec Street
   Bridge - Pedestrian Safety
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -572,7 +572,7 @@ Unanimous (4-0)
 ### 8. Wonderland Road
   South Environmental Study Report
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -584,7 +584,7 @@ Unanimous (4-0)
 ### 9. Proposed Revision
   to the W12A Landfill Designated Haul Route
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -596,7 +596,7 @@ Unanimous (4-0)
 ### 10. Wickerson Road -
   Parking Infractions
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -609,7 +609,7 @@ Unanimous (4-0)
   Agreement with the University of Waterloo - Sustainable Management of Water
   Infrastructure
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -621,7 +621,7 @@ Unanimous (4-0)
 ### 12. (ADDED) Deferred
   Matters List
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -633,7 +633,7 @@ Unanimous (4-0)
 ### 13. (ADDED) Coordination of Environmental
   Assessments with Shift Rapid Transit Initiative
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

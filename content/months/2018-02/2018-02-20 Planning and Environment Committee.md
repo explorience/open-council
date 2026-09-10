@@ -1160,7 +1160,7 @@ The meeting adjourned at 7:06 PM.
 ### 2. 3rd Report of the
   Advisory Committee on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1177,7 +1177,7 @@ The meeting adjourned at 7:06 PM.
 ### 3. 1st Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1194,7 +1194,7 @@ The meeting adjourned at 7:06 PM.
 ### 4. Property located at
   905 Sarnia Road (H-8849)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1211,7 +1211,7 @@ The meeting adjourned at 7:06 PM.
 ### 5. Property located at
   810 Southdale Road East (H-8204)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1228,7 +1228,7 @@ The meeting adjourned at 7:06 PM.
 ### 6. Property located at
   660 Sunningdale Road East - Applewood Subdivision (39T-09501/Z-8818)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1245,7 +1245,7 @@ The meeting adjourned at 7:06 PM.
 ### 7. Strategic Plan
   Variance Report
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1262,7 +1262,7 @@ The meeting adjourned at 7:06 PM.
 ### 8. Building Division
   Monthly Report for December 2017
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1279,7 +1279,7 @@ The meeting adjourned at 7:06 PM.
 ### 9. 2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1296,7 +1296,7 @@ The meeting adjourned at 7:06 PM.
 ### 10. Property located at
   2150 Oxford Street East (OZ-8851)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1315,7 +1315,7 @@ The meeting adjourned at 7:06 PM.
 ### 10. Property located at
   2150 Oxford Street East (OZ-8851)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1332,7 +1332,7 @@ The meeting adjourned at 7:06 PM.
 ### 10. Property located at
   2150 Oxford Street East (OZ-8851)
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1349,7 +1349,7 @@ The meeting adjourned at 7:06 PM.
 ### 11. Property located at
   2081 Trafalgar Street (Z-8846)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1366,7 +1366,7 @@ The meeting adjourned at 7:06 PM.
 ### 11. Property located at
   2081 Trafalgar Street (Z-8846)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1383,7 +1383,7 @@ The meeting adjourned at 7:06 PM.
 ### 11. Property located at
   2081 Trafalgar Street (Z-8846)
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1400,7 +1400,7 @@ The meeting adjourned at 7:06 PM.
 ### 12. Property located at
   255 South Carriage Road (Z-8850)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1417,7 +1417,7 @@ The meeting adjourned at 7:06 PM.
 ### 12. Property located at
   255 South Carriage Road (Z-8850)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1434,7 +1434,7 @@ The meeting adjourned at 7:06 PM.
 ### 12. Property located at
   255 South Carriage Road (Z-8850)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1451,7 +1451,7 @@ The meeting adjourned at 7:06 PM.
 ### 13. Property located at
   220 Adelaide Street South (Z-8853)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1468,7 +1468,7 @@ The meeting adjourned at 7:06 PM.
 ### 13. Property located at
   220 Adelaide Street South (Z-8853)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1485,7 +1485,7 @@ The meeting adjourned at 7:06 PM.
 ### 13. Property located at
   220 Adelaide Street South (Z-8853)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1502,7 +1502,7 @@ The meeting adjourned at 7:06 PM.
 ### 14. Properties located
   at 644 and 646 Huron Street (Z-8843)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1519,7 +1519,7 @@ The meeting adjourned at 7:06 PM.
 ### 14. Properties located
   at 644 and 646 Huron Street (Z-8843)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1536,7 +1536,7 @@ The meeting adjourned at 7:06 PM.
 ### 14. Properties located
   at 644 and 646 Huron Street (Z-8843)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1553,7 +1553,7 @@ The meeting adjourned at 7:06 PM.
 ### 15. Property located at
   1900 Kilgorman Way (H-8854)
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1570,7 +1570,7 @@ The meeting adjourned at 7:06 PM.
 ### 15. Property located at
   1900 Kilgorman Way (H-8854)
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1587,7 +1587,7 @@ The meeting adjourned at 7:06 PM.
 ### 16. (ADDED) 3rd Report
   of the London Advisory Committee on Heritage
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1604,7 +1604,7 @@ The meeting adjourned at 7:06 PM.
 ### 16. (ADDED) 3rd Report
   of the London Advisory Committee on Heritage
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

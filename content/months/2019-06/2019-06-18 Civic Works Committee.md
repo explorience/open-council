@@ -632,7 +632,7 @@ The meeting adjourned at 5:48 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That all items except 2.4, 2.8, 2.9 and 2.19, BE APPROVED.
 
@@ -642,7 +642,7 @@ Unanimous (4-0)
 
 ### 2.4. Single Source Procurement - Greenway Reheater
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director of Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the procurement of a replacement reheater at the Greenway Wastewater Treatment Plant: a)            the approval hereby BE GIVEN to ente...
 
@@ -652,7 +652,7 @@ Unanimous (4-0)
 
 ### 2.8. Amendments to the Traffic and Parking By-law
 
-<a id="motion-2-8-0" class="motion-anchor"></a>
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the proposed by-laws appended to the staff report dated June 18, 2019 as Appendix ‘A’ and ‘B’ BE INTRODUCED at the Municipal Council meeting to be held on June 25, 2019, for the purpose ...
 
@@ -662,7 +662,7 @@ Unanimous (4-0)
 
 ### 2.9. 2020 Annual New Sidewalk Program
 
-<a id="motion-2-9-0" class="motion-anchor"></a>
+<div id="motion-2-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the sidewalk candidates proposed for the 2020 Annual New Sidewalk Program BE ENDORSED for implementation in 2020; it being noted that the Civic Works Committee received a communication ...
 
@@ -681,7 +681,7 @@ Unanimous (4-0)
 
 ### 4.2. Councillor M. van Holst - Best Practices for Investing in Energy Efficiency and Greenhouse Gas Reduction
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That Civic Administration BE REQUESTED to develop a set of guidelines to evaluate efficiency and Greenhouse Gas reduction investments and provide some suggested best practices. (2019-E17)
 

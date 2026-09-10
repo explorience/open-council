@@ -696,7 +696,7 @@ Thank you everyone.
 
 ### 2.2. Single Source SS-2024-277 J Allyn Taylor Heating System
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the procurement of a replacement heating system for the J Allyn Taylor building (Single Source # SS-2024-277):    a)    in accordance with Sections 14.4(d) and 14.4(e) of the P...
 
@@ -706,7 +706,7 @@ Unanimous (6-0)
 
 ### 4.1. Property Tax Deferral Program - Councillor S. Trosow
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back to a future meeting of the Corporate Services Committee on the potential for, and considerations related to an updated Property Tax Deferral Program for low-income seniors and low-income persons with disabilities, including the following wi...
 
@@ -716,7 +716,7 @@ Unanimous (6-0)
 
 ### 4.2. Tax-Levy Reduction - Councillors C. Rahman and J. Pribil
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That notwithstanding the Council approved Surplus/Deficit Policy, the following actions be taken:    a)    the Civic Administration BE DIRECTED to transfer $3,000,000 from the Community Investment Reserve Fund to the Operating Budget Contingency Reserve (OBCR) to support a $1,000,000 tax-levy red...
 
@@ -726,7 +726,7 @@ Unanimous (6-0)
 
 ### 5.1. (ADDED) Request for Delegation Status - Request for Funding - Lyndee Hansen, Executive Director, Grand Theatre
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That notwithstanding previous Council direction restricting the use of the Tourism Infrastructure Reserve Fund for investment in public owned facilities and resources, Civic Administration BE DIRECTED to allocate up to $400,000 from the Municipal Accommodation Tax fund to the Grand Theatre for th...
 
@@ -736,7 +736,7 @@ Unanimous (6-0)
 
 ### 5.1. (ADDED) Request for Delegation Status - Request for Funding - Lyndee Hansen, Executive Director, Grand Theatre
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > That the delegation request from L. Hansen BE APPROVED to be heard at this time.
 

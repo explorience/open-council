@@ -767,7 +767,7 @@ The meeting adjourned at 7:57 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5, 2.7 to 2.10, inclusive, BE APPROVED.
 
@@ -777,7 +777,7 @@ Unanimous (5-0)
 
 ### 3.4. Application - 221 Queens Avenue (TZ-9197)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and City Planner, based on the application by Sifton Properties Limited, relating to the property located at 221 Queens Avenue, the proposed by-law appended to the staff report dated August 10, 2020 BE INTRODUCED at the Municipal Council meeti...
 
@@ -796,7 +796,7 @@ Unanimous (5-0)
 
 ### 3.6. Application - 2040 River Road (Z-9133)
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Global Waste Disposal London Ltd, relating to the property located at 2040 River Road: a) the proposed, revised, attached by-law BE INTRODUCED at the Municipal Coun...
 
@@ -815,7 +815,7 @@ Unanimous (5-0)
 
 ### 4.1. Request for Council Resolution, under section 45(1.4) of the Planning Act, R.S.O. 1990, c.P.13 – 745-747 Waterloo Street
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That M. Doornbosch BE GRANTED delegation status relating to the request for a minor variance application for the property located at 745-747 Waterloo Street.
 
@@ -825,7 +825,7 @@ Unanimous (3-0)
 
 ### 4.2. G. Pearson, Co-executive Director, London Food Bank and J. Roy, Co-executive Director, London Food Bank - Request to Waive Fees for City-wide Planning Application
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > The Civic Administration BE DIRECTED to initiate the requested City-wide application on behalf of the London Food Bank, with respect to  the removal of barriers to growing food; it being noted that the Planning and Environment Committee reviewed and received a communication dated July 30, 2020, w...
 
@@ -835,7 +835,7 @@ Unanimous (4-0)
 
 ### 4.3. The Silverleaf Community - Reconsideration Request - Sidewalk Installation
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Motion to approve the following recommendations: "That the following actions be taken with respect to the communication from “The Silverleaf Community” and subsequent request for delegation from the “Residents of Silverleaf” with respect to safety concerns related to Sliverleaf Chase and Silver C...
 

@@ -182,7 +182,7 @@ The
   Business Licensing By-law Review - Amendments to Allow for Transitioning to
   New By-Law
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -194,7 +194,7 @@ Unanimous (4-0)
 ### 3. Business Licensing
   By-law Review - New and Revised Regulations
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -206,7 +206,7 @@ Unanimous (4-0)
 ### 3. Business Licensing
   By-law Review - New and Revised Regulations
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -218,7 +218,7 @@ Unanimous (4-0)
 ### 3. Business Licensing
   By-law Review - New and Revised Regulations
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -237,7 +237,7 @@ Unanimous (4-0)
 ### 3. Business Licensing
   By-law Review - New and Revised Regulations
 
-<a id="motion-3-3" class="motion-anchor"></a>
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -353,7 +353,7 @@ Motion
 ### 6. London &
   Middlesex Local Immigration Partnership Strategic Plan 2013-2016 and Update
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -365,7 +365,7 @@ Unanimous (5-0)
 ### 7. 9th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -377,7 +377,7 @@ Unanimous (5-0)
 ### 8. 7th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -390,7 +390,7 @@ Unanimous (5-0)
   Group - Community Connections Project, Ecological Studies and Conservation
   Master Plan Funding
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -402,7 +402,7 @@ Unanimous (5-0)
 ### 10. J. Kukurudiak,
   President, London Taxi Association - Fare Increase Request
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

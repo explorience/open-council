@@ -429,7 +429,7 @@ The meeting adjourned at 5:14 PM
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1, 2.3-2.8 and 2.10 BE APPROVED.
 
@@ -439,7 +439,7 @@ Unanimous (4-0)
 
 ### 2.2. Amendments to the Traffic and Parking By-law
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the Traffic and Parking By-law (PS-113): a)    the proposed by-law appended to the staff report dated June 19, 2018 as Appendix A BE INTRODU...
 
@@ -449,7 +449,7 @@ Unanimous (4-0)
 
 ### 4.1. Innovate4Cities - A Global Climate Action Accelerator - Edmonton Declaration
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Managing Director, Environmental Services & Engineering and City Engineer BE DIRECTED to: a)      investigate the City of London becoming a signatory to the Edmonton Declaration which calls on all the governments to recognize the immediate and urgent need for coordinated action on climat...
 
@@ -459,7 +459,7 @@ Unanimous (4-0)
 
 ### 4.2. Cycling Advisory Committee and Transportation Advisory Committee
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That consideration of  amending the Terms of Reference for the Cycling Advisory Committee and the Transportation Advisory Committee BE DEFERRED for consideration as part of the broader review of Advisory Committees. (2018-C12)
 

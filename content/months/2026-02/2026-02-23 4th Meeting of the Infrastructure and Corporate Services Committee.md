@@ -1261,7 +1261,7 @@ Reporting that Committee went into closed session, that progress was made on all
 
 ### 2.2. Federation of Canadian Municipalities: Green Municipal Fund Agreement for Accelerating Community Energy Systems
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on March 3, 2026, to: a)    APPROVE the Green Municipal Fund ...
 
@@ -1271,7 +1271,7 @@ Unanimous (5-0)
 
 ### 2.3. Federation of Canadian Municipalities: Green Municipal Fund Agreement for Municipal Fleet Decarbonization Feasibility Study
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held  on March 3, 2026, to: a)    APPROVE the Green Municipal Fun...
 
@@ -1288,7 +1288,7 @@ Unanimous (5-0)
 
 ### 2.8. Restricted Acts of Council after Nomination Day and Voting Day
 
-<a id="motion-2-8-0" class="motion-anchor"></a>
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > That the staff report dated February 23, 2026 to delegate certain authority, should Municipal Council’s actions be restricted after Nomination Day and/or Voting Day in 2026 BE REFERRED to the Civic Administration to report back to a future meeting of the Infrastructure and Corporate Services Comm...
 
@@ -1305,7 +1305,7 @@ Unanimous (5-0)
 
 ### 2.9. Contract Award: Tender No. RFT-2025-223 Wellington Gateway and Municipal Infrastructure Improvements Phase 2A – Wilkins Street to Baseline Road
 
-<a id="motion-2-9-0" class="motion-anchor"></a>
+<div id="motion-2-9-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of contracts for Wellington Gateway and Municipal Infrastructure Improvements Phase 2A – Wilkins Street to Baseline Road; it being noted that in accordance...
 
@@ -1322,7 +1322,7 @@ Unanimous (5-0)
 
 ### 2.10. Limited Tendering and Cooperative Procurement - LTC Purchase of Nine New Buses
 
-<a id="motion-2-10-0" class="motion-anchor"></a>
+<div id="motion-2-10-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to funding for the purchase of new London Transit Commission buses: a)    approval BE GIVEN to finance the London Transit Commission purchase of nine 60-foot buses requ...
 
@@ -1339,7 +1339,7 @@ Unanimous (5-0)
 
 ### 2.13. Update to Council Policy - Travel and Business Expenses
 
-<a id="motion-2-13-1" class="motion-anchor"></a>
+<div id="motion-2-13-1" class="motion-anchor"></div>
 
 > That the staff report dated February 23, 2026 to amend By-law No. CPOL.-227-479, being “A by-law to revoke and repeal Council policy related to Travel & Business Expenses and replace it with a new Council policy entitled Travel & Business Expenses,” to repeal and replace Schedule “A” to the by-la...
 
@@ -1354,7 +1354,7 @@ Unanimous (5-0)
 
 ### 2.13. Update to Council Policy - Travel and Business Expenses
 
-<a id="motion-2-13-2" class="motion-anchor"></a>
+<div id="motion-2-13-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include a new part that reads as follows: the Civic Administration BE DIRECTED to prepare two separate policies: one governing Travel and Business Expenses for Civic Administration, and a second governing Travel and Business Expenses for Members of Council, and to re...
 
@@ -1371,7 +1371,7 @@ Unanimous (5-0)
 
 ### 2.13. Update to Council Policy - Travel and Business Expenses
 
-<a id="motion-2-13-3" class="motion-anchor"></a>
+<div id="motion-2-13-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED
 
@@ -1381,7 +1381,7 @@ Unanimous (5-0)
 
 ### 4.1. Traffic Calming - Councillor C. Rahman
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the delegation requests from B. Samuels; D. Cameron, Advocates for Calmer Traffic in Old North (ACTION); and C. L. Mitchell, Associate Professor, School of Planning, University of Waterloo, Fellow, Balsillie School of International Affairs, BE APPROVED to be heard at this time.
 
@@ -1391,7 +1391,7 @@ Unanimous (5-0)
 
 ### 4.1. Traffic Calming - Councillor C. Rahman
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part c) that reads as follows: that Civic Administration BE DIRECTED to report back on any recommendations for additional resources.
 
@@ -1401,7 +1401,7 @@ Unanimous (5-0)
 
 ### 4.1. Traffic Calming - Councillor C. Rahman
 
-<a id="motion-4-1-4" class="motion-anchor"></a>
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 

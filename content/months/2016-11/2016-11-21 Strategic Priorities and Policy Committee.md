@@ -527,7 +527,7 @@ Motion Passed
   Reconciliation of Tabled Budget to Public Sector Accounting Board (PSAB)
   Financial Statement Budget
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -538,7 +538,7 @@ Unanimous (11-0)
 ### 3. STAFF REPORT -
   Housing Development Corporation, London (HDC) Shareholder Declaration
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -549,7 +549,7 @@ Unanimous (11-0)
 ### 4. STAFF REPORT - London
   Hydro Inc. - Appointment of Auditors Resolution of the Shareholder
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -560,7 +560,7 @@ Unanimous (11-0)
 ### 5. COUNCIL MEMBER
   SUBMISSION - Absence from Meeting
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -571,7 +571,7 @@ Unanimous (11-0)
 ### 6. PUBLIC
   PARTICIPATION MEETING - Multi-Year Budget
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -582,7 +582,7 @@ Unanimous (11-0)
 ### 6. PUBLIC
   PARTICIPATION MEETING - Multi-Year Budget
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -593,7 +593,7 @@ Unanimous (10-0)
 ### 6. PUBLIC
   PARTICIPATION MEETING - Multi-Year Budget
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -604,7 +604,7 @@ Unanimous (10-0)
 ### 7. PUBLIC
   PARTICIPATION MEETING - Multi-Year Water and Wastewater Rates
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -615,7 +615,7 @@ Unanimous (11-0)
 ### 7. PUBLIC
   PARTICIPATION MEETING - Multi-Year Water and Wastewater Rates
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -626,7 +626,7 @@ Unanimous (12-0)
 ### 7. PUBLIC
   PARTICIPATION MEETING - Multi-Year Water and Wastewater Rates
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -637,7 +637,7 @@ Unanimous (12-0)
 ### 8. DELEGATION -
   Strategic Plan: Semi-Annual Progress Report and 2016 Report to the Community
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -653,7 +653,7 @@ Unanimous (11-0)
   Workforce Planning and Development Board, David Hill - Lawson Health Research
   Institute re London's Community Economic Road Map - First Year Update
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -664,7 +664,7 @@ Unanimous (11-0)
 ### 10. PUBLIC SUBMISSION -
   London Convention Centre Corporation Board Appointments
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 

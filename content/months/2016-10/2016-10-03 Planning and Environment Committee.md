@@ -660,7 +660,7 @@ The meeting adjourned at 6:20 PM.
 ### 2. 10th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -672,7 +672,7 @@ Unanimous (4-0)
 ### 3. 5th Report of the
   Agricultural Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -684,7 +684,7 @@ Unanimous (4-0)
 ### 4. Lots on Cranbrook
   Road and Thornley Street (H-8634-2)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -696,7 +696,7 @@ Unanimous (4-0)
 ### 5. Victoria on the
   River Subdivision (Phase 3) (39T-09502)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -708,7 +708,7 @@ Unanimous (4-0)
 ### 6. Property located at
   4206 Perkins Road (H-8677)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -720,7 +720,7 @@ Unanimous (4-0)
 ### 7. Chelsea Green
   Meadows Delegation
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -733,7 +733,7 @@ Unanimous (4-0)
   the Hyde Park Business Association/Business Improvement Area (BIA)
   Designation
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -745,7 +745,7 @@ Unanimous (4-0)
 ### 9. Properties located
   at 479-485, 487 and 489 Talbot Street
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -757,7 +757,7 @@ Unanimous (4-0)
 ### 9. Properties located
   at 479-485, 487 and 489 Talbot Street
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -769,7 +769,7 @@ Unanimous (4-0)
 ### 9. Properties located
   at 479-485, 487 and 489 Talbot Street
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -781,7 +781,7 @@ Unanimous (4-0)
 ### 9. Properties located
   at 479-485, 487 and 489 Talbot Street
 
-<a id="motion-9-3" class="motion-anchor"></a>
+<div id="motion-9-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -800,7 +800,7 @@ Unanimous (4-0)
 ### 9. Properties located
   at 479-485, 487 and 489 Talbot Street
 
-<a id="motion-9-4" class="motion-anchor"></a>
+<div id="motion-9-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -819,7 +819,7 @@ Unanimous (4-0)
 ### 9. Properties located
   at 479-485, 487 and 489 Talbot Street
 
-<a id="motion-9-5" class="motion-anchor"></a>
+<div id="motion-9-5" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -831,7 +831,7 @@ Unanimous (4-0)
 ### 10. Tender 16-94 -
   Invasive Species Management - Irregular Result
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -843,7 +843,7 @@ Unanimous (4-0)
 ### 11. Increased
   Assessment of Property Taxes at 300 Dundas Street
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -855,7 +855,7 @@ Unanimous (4-0)
 ### 12. CTV London/Jack FM
   Signage Removal - Files 16001285 & 16001286
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -866,7 +866,7 @@ Unanimous (4-0)
 
 ### 13. PEC Deferred List
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

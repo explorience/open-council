@@ -283,7 +283,7 @@ Motion carries. Thank you colleagues, for those who are not done with committee 
 
 ### 4.1. Application - Issuance of Proclamation - Recognizing the Salvation Army Week
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the application dated October 26, 2023 from The Salvation Army of Canada and Bermuda, December 18, 2023 BE PROCLAIMED Recognizing the Salvation Army Week.
 
@@ -293,7 +293,7 @@ Unanimous (5-0)
 
 ### 4.2. Consideration of Appointment to the Animal Welfare Community Advisory Committee (Requires up to 6 Members)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That Jon Higgins BE APPOINTED to the Animal Welfare Community Advisory Committee for the term ending February 2024.
 

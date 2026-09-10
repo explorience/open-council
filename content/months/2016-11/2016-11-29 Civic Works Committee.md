@@ -985,7 +985,7 @@ The
 ### 2. 11th Report of the
   Cycling Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -997,7 +997,7 @@ Unanimous (5-0)
 ### 3. STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1009,7 +1009,7 @@ Unanimous (5-0)
 ### 4. STAFF REPORT -
   Riverside Drive and Beaverbrook Avenue Intersection
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1021,7 +1021,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   South Carriage Road and Hyde Park Road Intersection
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -1040,7 +1040,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   South Carriage Road and Hyde Park Road Intersection
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -1059,7 +1059,7 @@ Unanimous (5-0)
 ### 6. STAFF REPORT -
   Wharncliffe Road South - Environmental Assessment Update
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1071,7 +1071,7 @@ Unanimous (5-0)
 ### 7. STAFF REPORT -
   Complete Streets Design Manual - Appointment of Consulting Engineer
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1084,7 +1084,7 @@ Unanimous (5-0)
   Appointment of Consulting Engineer for the Contract Administration of the Fox
   Hollow SWM Facility No. 3 (ES3020-FH3) and Trunk Sanitary Sewer (ES5236-16)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1097,7 +1097,7 @@ Unanimous (5-0)
   Quotation Q16-50 - Irregular Result - Supply and Delivery of Geotextile Tubes
   - Greenway Wastewater Treatment Plant
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1109,7 +1109,7 @@ Unanimous (5-0)
 ### 11. STAFF REPORT -
   Appointment of Consultants - Clean Water and Wastewater Fund Projects
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1122,7 +1122,7 @@ Unanimous (5-0)
   Engineering Fees Contract Amendment - Wickerson Pumping Station Upgrades -
   Project No. EW3653
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1134,7 +1134,7 @@ Unanimous (5-0)
 ### 13. STAFF REPORT -
   Shift Rapid Transit Implementation Office
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1146,7 +1146,7 @@ Unanimous (5-0)
 ### 14. STAFF REPORT -
   Closing of Isaac Drive
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1158,7 +1158,7 @@ Unanimous (5-0)
 ### 15. STAFF REPORT -
   Closing of Lilac Avenue
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1171,7 +1171,7 @@ Unanimous (5-0)
   16-44 Irregular Bid - Engineering Services for the Detailed Design of the
   First Phase of the York Street Sewer Separation
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1184,7 +1184,7 @@ Unanimous (5-0)
   RFP16-49 Irregular Bid - Engineering Services for City Centre Servicing
   Strategy
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1198,7 +1198,7 @@ Unanimous (5-0)
   Cycling Initiatives for Submission to the Environmental Bill of Rights (EBR)
   Registry
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1211,7 +1211,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Application by Cedar Hollow Developments Limited -
   Street Renaming - Cedarpark Crescent (East of Cedarhollow Boulevard)
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1224,7 +1224,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Application by Cedar Hollow Developments Limited -
   Street Renaming - Cedarpark Crescent (East of Cedarhollow Boulevard)
 
-<a id="motion-19-1" class="motion-anchor"></a>
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1237,7 +1237,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Application by Cedar Hollow Developments Limited -
   Street Renaming - Cedarpark Crescent (East of Cedarhollow Boulevard)
 
-<a id="motion-19-2" class="motion-anchor"></a>
+<div id="motion-19-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1249,7 +1249,7 @@ Unanimous (5-0)
 ### 20. Lake Erie
   Bi-National Phosphorous Reduction Target
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1261,7 +1261,7 @@ Unanimous (5-0)
 ### 21. 1st Report of the
   Rapid Transit Implementation Working Group
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1275,7 +1275,7 @@ Unanimous (5-0)
   Finish Line on the North Side of Dufferin Avenue, between Clarence Street and
   Wellington Street
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1287,7 +1287,7 @@ Unanimous (5-0)
 ### 23. REQUEST FOR
   DELEGATION STATUS - L. McKenzie, Gleed Inc., Broker - Disabled Street Parking
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1299,7 +1299,7 @@ Unanimous (5-0)
 ### 23. REQUEST FOR
   DELEGATION STATUS - L. McKenzie, Gleed Inc., Broker - Disabled Street Parking
 
-<a id="motion-23-1" class="motion-anchor"></a>
+<div id="motion-23-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1311,7 +1311,7 @@ Unanimous (5-0)
 ### 24. Deferred Matters
   List
 
-<a id="motion-24-0" class="motion-anchor"></a>
+<div id="motion-24-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1324,7 +1324,7 @@ Unanimous (5-0)
   SUBMSSION - Terms of Reference and Public Consultation Process -
   Environmental Assessment
 
-<a id="motion-25-0" class="motion-anchor"></a>
+<div id="motion-25-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1336,7 +1336,7 @@ Unanimous (5-0)
 ### 26. (ADDED) COUNCILLOR
   SUBMSSION - Traffic Calming
 
-<a id="motion-26-0" class="motion-anchor"></a>
+<div id="motion-26-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -386,7 +386,7 @@ That's earlier. Seconded by Councillor Lewis. All those in favor in favor for ad
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.7 BE APPROVED.
 
@@ -396,7 +396,7 @@ Unanimous (6-0)
 
 ### 3.1. Post June 30, 2021 Strategy for High Acuity Homelessness - S. Campbell, Ark Aid Mission - REQUEST FOR DELEGATION STATUS
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the request for delegation from S. Campbell, Ark Aid Mission, with respect to a post June 30, 2021 strategy for high acuity homelessness, BE APPROVED for a future meeting of the Community and Protective Services Committee; it being noted that a communication from S. Campbell, as appended to ...
 

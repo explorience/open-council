@@ -773,7 +773,7 @@ The meeting adjourned at 5:51 PM.
 ### 2. COUNCIL MEMBER
   SUBMISSION – Absent From Meeting
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -790,7 +790,7 @@ The meeting adjourned at 5:51 PM.
 ### 3. STAFF REPORT -
   Contract Award  -  T17-130 Wonderland Road South Two-Lane Upgrade
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -807,7 +807,7 @@ The meeting adjourned at 5:51 PM.
 ### 4. STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -825,7 +825,7 @@ The meeting adjourned at 5:51 PM.
   Hamilton Road Infrastructure Lifecycle Renewal -  Chesley Avenue to Egerton
   Street -  Hydro and Telecommunication Utility Locations
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -843,7 +843,7 @@ The meeting adjourned at 5:51 PM.
   Contract Award -  Tender No. 17-129 Western Road/Wharncliffe Road North
   Improvements Phase 2
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -861,7 +861,7 @@ The meeting adjourned at 5:51 PM.
   Consultant Assignments -  Southeast Pressure Zone Development -  Construction
   Administration
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -878,7 +878,7 @@ The meeting adjourned at 5:51 PM.
 ### 8. STAFF REPORT - Sole
   Source Award - Acoustic Fiber Optic Monitoring Contract Project No. EW3538
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -896,7 +896,7 @@ The meeting adjourned at 5:51 PM.
   Appointment of Consulting Engineer for Detailed Design and Contract Administration
   of the Fox Hollow Stormwater Management Facility No. 1-North Cell (ESSWM-FH1)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -914,7 +914,7 @@ The meeting adjourned at 5:51 PM.
   Contract Award  - T17-56 North Lambeth P9 Stormwater Management Facility
   (ESSWM  - DCNLP9)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -931,7 +931,7 @@ The meeting adjourned at 5:51 PM.
 ### 11. STAFF REPORT -
   Weeping Tile Disconnection Promotional Canvassing Campaign
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -949,7 +949,7 @@ The meeting adjourned at 5:51 PM.
   2017 Ministry of the Environment and Climate Change Inspection Report for the
   City of London Water Distribution System
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -967,7 +967,7 @@ The meeting adjourned at 5:51 PM.
   Contract Price Increase -  Tender T17-15 Infrastructure Renewal Program -
   Byron Baseline Road Reconstruction Project
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -984,7 +984,7 @@ The meeting adjourned at 5:51 PM.
 ### 14. STAFF REPORT -
   Strategic Plan Variance Report
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1001,7 +1001,7 @@ The meeting adjourned at 5:51 PM.
 ### 15. 1st Report of the
   Waste Management Working Group
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1018,7 +1018,7 @@ The meeting adjourned at 5:51 PM.
 ### 16. 1st Report of the
   Transportation Advisory Committee
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1035,7 +1035,7 @@ The meeting adjourned at 5:51 PM.
 ### 17. Wharncliffe Road
   South Environmental Study Report
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1052,7 +1052,7 @@ The meeting adjourned at 5:51 PM.
 ### 17. Wharncliffe Road
   South Environmental Study Report
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1069,7 +1069,7 @@ The meeting adjourned at 5:51 PM.
 ### 18. 2nd Report of the
   Cycling Advisory Committee
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1086,7 +1086,7 @@ The meeting adjourned at 5:51 PM.
 ### 19. COUNCIL MEMBER
   SUBMISSION – Underground Utilities on Hamilton Road
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1103,7 +1103,7 @@ The meeting adjourned at 5:51 PM.
 ### 20. COUNCIL MEMBER
   SUBMISSION – Private Drain Connection (PDC) Projects
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1120,7 +1120,7 @@ The meeting adjourned at 5:51 PM.
 ### 21. PUBLIC SUBMISSION -
   Pedestrian Sidewalk  - Pack Road and Colonel Talbot Road
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1137,7 +1137,7 @@ The meeting adjourned at 5:51 PM.
 ### 22. Deferred Matters
   List
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

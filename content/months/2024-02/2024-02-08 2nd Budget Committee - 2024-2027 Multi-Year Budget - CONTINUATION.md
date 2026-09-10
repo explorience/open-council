@@ -1789,7 +1789,7 @@ I'm looking for a seconder and Councillor Stevenson. Okay, a hand votes okay, so
 
 ### 3.21. Amendment - Business Case #P-L3
 
-<a id="motion-3-21-0" class="motion-anchor"></a>
+<div id="motion-3-21-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-L3 – More Homes Built Faster Act, Bill 23 – Statutory Exemptions.
 
@@ -1806,7 +1806,7 @@ I'm looking for a seconder and Councillor Stevenson. Okay, a hand votes okay, so
 
 ### 3.22. Amendment - Business Case #P-40
 
-<a id="motion-3-22-0" class="motion-anchor"></a>
+<div id="motion-3-22-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include one-time funding in 2024 for the Board Governance Training initiative of Business Case #P-40 – Pillar Nonprofit Network – Strengthening and Building Capacity in the Nonprofit Sector as set out in the Civic Administration draft 202...
 
@@ -1823,7 +1823,7 @@ I'm looking for a seconder and Councillor Stevenson. Okay, a hand votes okay, so
 
 ### 3.23. Amendment - Business Case #P-51
 
-<a id="motion-3-23-0" class="motion-anchor"></a>
+<div id="motion-3-23-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for 2024 only for Business Case #P-51 – Transit Service Hours Growth, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy ...
 
@@ -1840,7 +1840,7 @@ I'm looking for a seconder and Councillor Stevenson. Okay, a hand votes okay, so
 
 ### 3.23. Amendment - Business Case #P-51
 
-<a id="motion-3-23-1" class="motion-anchor"></a>
+<div id="motion-3-23-1" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 5 minutes with respect to this matter.
 
@@ -1857,7 +1857,7 @@ I'm looking for a seconder and Councillor Stevenson. Okay, a hand votes okay, so
 
 ### 3.24. Amendment - Business Case #P-53
 
-<a id="motion-3-24-0" class="motion-anchor"></a>
+<div id="motion-3-24-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Road Safety Initiative #3 – Provision of Basic Sweeping and Plowing of Boulevard Bike Lanes for Business Case #P-53 – Road Safety Enhancements, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by t...
 
@@ -1874,7 +1874,7 @@ I'm looking for a seconder and Councillor Stevenson. Okay, a hand votes okay, so
 
 ### 3.25. Amendment - Business Case #P-62
 
-<a id="motion-3-25-0" class="motion-anchor"></a>
+<div id="motion-3-25-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to fund 50% of Business Case #P-62 – Environmentally Significant Areas Management as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, with a...
 
@@ -1891,7 +1891,7 @@ I'm looking for a seconder and Councillor Stevenson. Okay, a hand votes okay, so
 
 ### 3.26. Amendment - Business Case #P-65
 
-<a id="motion-3-26-0" class="motion-anchor"></a>
+<div id="motion-3-26-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-year Budget BE AMENDED by removing funding for the two additional Administrative Assistant positions related to Business Case #P-65 – Legislative and Council Services: 2024 Operating Expenditures: -$170,000     2024 Tax Levy:  -$170,000 2025 Operating Expenditures...
 
@@ -1908,7 +1908,7 @@ I'm looking for a seconder and Councillor Stevenson. Okay, a hand votes okay, so
 
 ### 3.27. Amendment - Capital Project PD1218
 
-<a id="motion-3-27-0" class="motion-anchor"></a>
+<div id="motion-3-27-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Capital Project PD1218 London’s Downtown Plan – Small Scale Projects as set out in the Base Capital Budget in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on D...
 
@@ -1925,7 +1925,7 @@ I'm looking for a seconder and Councillor Stevenson. Okay, a hand votes okay, so
 
 ### 3.27. Amendment - Capital Project PD1218
 
-<a id="motion-3-27-1" class="motion-anchor"></a>
+<div id="motion-3-27-1" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Capital Project PD1218 London’s Downtown Plan – Small Scale Projects as set out in the Base Capital Budget in the Civic Administration draft 2024-2027 Multi-Year Budget referred by the Strategic Priorities and Policy Committee on D...
 
@@ -1942,7 +1942,7 @@ I'm looking for a seconder and Councillor Stevenson. Okay, a hand votes okay, so
 
 ### 3.28. Amendment - Capital Project RC1036
 
-<a id="motion-3-28-0" class="motion-anchor"></a>
+<div id="motion-3-28-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Capital Project RC1036 Dundas Place Equipment as set out in the Base Capital Budget of the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023: 2024 ...
 
@@ -1959,7 +1959,7 @@ I'm looking for a seconder and Councillor Stevenson. Okay, a hand votes okay, so
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That Items for Direction 4.1 to 4.4 BE APPROVED.
 
@@ -1969,7 +1969,7 @@ Unanimous (15-0)
 
 ### 6.2. Solicitor-Client Privileged Advice
 
-<a id="motion-6-2-0" class="motion-anchor"></a>
+<div id="motion-6-2-0" class="motion-anchor"></div>
 
 > That Committee rise and go into Committee, In Closed Session, for the purpose of considering a matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose and directions and instructions to officers and employees or agents of the ...
 
@@ -1988,7 +1988,7 @@ Unanimous (15-0)
 
 ### 6.3. Personal Matters About Identifiable Individual
 
-<a id="motion-6-3-0" class="motion-anchor"></a>
+<div id="motion-6-3-0" class="motion-anchor"></div>
 
 > That Committee rise and go into Committee, In Closed Session, for the purpose of considering a personal matter pertaining to identifiable individuals, including municipal employees, and communications necessary for that purpose.
 

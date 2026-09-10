@@ -772,7 +772,7 @@ The meeting adjourned at 11:16 PM.
 
 ### 3.2. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Council’s Strategic Plan 2019-2023: a)         the staff report dated March 25, 2019 entitled “Council’s Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates” BE REFERRED to ...
 
@@ -782,7 +782,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the motion to approve the inclusion of Project 4 North Connection, BE AMENDED to revise the proposed design to have mixed traffic, and remove the requirement for designated lanes between Central Avenue and the Western University Gate on Richmond Street.
 
@@ -801,7 +801,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the motion to approve Project 2, Wellington Road Gateway, BE AMENDED as follows: That the application for transit funding shall not use the term “dedicated” bus lanes but rather “priority” transit lanes with the following definition: “Priority transit lanes may take the form of dedicated lan...
 
@@ -818,7 +818,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the motion to approve Project 3. East London Link, BE AMENDED as follows: b) London Transit Commission BE THANKED for implementing a new express bus service to Argyle Mall, Route 94, to start in Fall 2019; and c) London Transit Commission BE REQUESTED to consider the following as priorities ...
 
@@ -835,7 +835,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-4" class="motion-anchor"></a>
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > That pursuant to section 2.3 of the Council Procedure By-law, section 31.0 of the said By-law be suspended for the purpose of permitting a revised format for debate and conduct at this meeting, generally revised to be as follows: -         statements from each Member, who chooses to do so, in rel...
 
@@ -852,7 +852,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-5" class="motion-anchor"></a>
+<div id="motion-4-1-5" class="motion-anchor"></div>
 
 > Motion to approve that Committee recess until 7:00 PM.
 
@@ -862,7 +862,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-6" class="motion-anchor"></a>
+<div id="motion-4-1-6" class="motion-anchor"></div>
 
 > That consideration of the following projects BE REFERRED to a future meeting, in order to allow for the preparation of additional business cases for consideration: - Project 1. The Downtown Loop - Project 3. East London Link - Project 5. West Connection - Project 6. Intelligent Traffic Signals (T...
 
@@ -879,7 +879,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-7" class="motion-anchor"></a>
+<div id="motion-4-1-7" class="motion-anchor"></div>
 
 > That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
 
@@ -898,7 +898,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-8" class="motion-anchor"></a>
+<div id="motion-4-1-8" class="motion-anchor"></div>
 
 > That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
 
@@ -915,7 +915,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-9" class="motion-anchor"></a>
+<div id="motion-4-1-9" class="motion-anchor"></div>
 
 > a) That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes:...
 
@@ -932,7 +932,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-10" class="motion-anchor"></a>
+<div id="motion-4-1-10" class="motion-anchor"></div>
 
 > That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
 
@@ -949,7 +949,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-11" class="motion-anchor"></a>
+<div id="motion-4-1-11" class="motion-anchor"></div>
 
 > That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
 
@@ -966,7 +966,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-12" class="motion-anchor"></a>
+<div id="motion-4-1-12" class="motion-anchor"></div>
 
 > That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
 
@@ -983,7 +983,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-13" class="motion-anchor"></a>
+<div id="motion-4-1-13" class="motion-anchor"></div>
 
 > That pursuant to section 2.3 of the Council Procedure By-law, section 11.10 of the said by-law BE SUSPENDED for the purpose of permitting the meeting to proceed beyond 11:00 PM.
 
@@ -1000,7 +1000,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-14" class="motion-anchor"></a>
+<div id="motion-4-1-14" class="motion-anchor"></div>
 
 > That consideration of the following projects BE REFERRED to a future meeting: Project 8. On-Board Information Screens Project 10. Pedestrian Street Connectivity Improvements to the Transit Network Project 11. New Sidewalks Project 13. Active Transportation Improvements across Transit Route Bridge...
 
@@ -1017,7 +1017,7 @@ Unanimous (15-0)
 
 ### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
 
-<a id="motion-4-1-15" class="motion-anchor"></a>
+<div id="motion-4-1-15" class="motion-anchor"></div>
 
 > That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
 

@@ -341,7 +341,7 @@ The meeting adjourned at 1:55 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.4, 2.6, 2.7 and 2.8 BE APPROVED.
 
@@ -351,7 +351,7 @@ Unanimous (4-0)
 
 ### 3.2. Community Diversity and Inclusion Strategy (CDIS) Update
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > Motion to approve part a).
 
@@ -368,7 +368,7 @@ Unanimous (4-0)
 
 ### 3.2. Community Diversity and Inclusion Strategy (CDIS) Update
 
-<a id="motion-3-2-2" class="motion-anchor"></a>
+<div id="motion-3-2-2" class="motion-anchor"></div>
 
 > Motion to approve part b).
 

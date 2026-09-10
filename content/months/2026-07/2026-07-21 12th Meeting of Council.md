@@ -3267,7 +3267,7 @@ The meeting adjourned at 8:26 PM.
 
 ### 8. Reports
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > That, pursuant to section 6.4 of the Council Procedure By-law, a change in order of the Council Agenda BE APPROVED, to provide for the 11th Report of the Community and Protective Services Committee in Stage 8.4, to be considered before the 12th Report of the Infrastructure and Corporate Services ...
 
@@ -3277,7 +3277,7 @@ Unanimous (15-0)
 
 ### 8.1. 12th Report of the Infrastructure and Corporate Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 12th Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of item 5 (2.2).
 
@@ -3287,7 +3287,7 @@ Unanimous (15-0)
 
 ### 8.1.5. (2.2) Canada Public Transit Fund - Baseline Funding – Contribution Agreement (Relates to Bill No.  268)
 
-<a id="motion-8-1-5-0" class="motion-anchor"></a>
+<div id="motion-8-1-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:    a)    the proposed by-law, as appended to the staff report dated July 15, 2026 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:    i)    app...
 
@@ -3304,7 +3304,7 @@ Unanimous (15-0)
 
 ### 8.2. 10th Report of the Planning and Environment Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 10th Report of the Planning and Environment Committee BE APPROVED with the exception of items 4 (2.1), and 7 (3.3).
 
@@ -3314,7 +3314,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (2.1) Green Development Framework Update
 
-<a id="motion-8-2-4-1" class="motion-anchor"></a>
+<div id="motion-8-2-4-1" class="motion-anchor"></div>
 
 > That the following part c) BE APPROVED: c) the funding for the Green Development Framework Study BE APPROVED as set out in the Source of Financing Report as appended to the above-noted staff report as Appendix “A”;
 
@@ -3331,7 +3331,7 @@ Unanimous (15-0)
 
 ### 8.2.7. (3.3) Parking Provisions Update (Relates to Bill No. 285)
 
-<a id="motion-8-2-7-1" class="motion-anchor"></a>
+<div id="motion-8-2-7-1" class="motion-anchor"></div>
 
 > That the zoning by-law BE AMENDED to provide for a set ratio of 0.5 parking spaces per unit of affordable housing as defined in the staff report and zoning by-law; and that pursuant to Section 34(17) of the Planning Act no further notice BE GIVEN.
 
@@ -3341,7 +3341,7 @@ Unanimous (15-0)
 
 ### 8.2.7. (3.3) Parking Provisions Update (Relates to Bill No. 285)
 
-<a id="motion-8-2-7-2" class="motion-anchor"></a>
+<div id="motion-8-2-7-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -3358,7 +3358,7 @@ Unanimous (15-0)
 
 ### 8.3. 11th Report of the Planning and Environment Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 11th Report of the Planning and Environment Committee BE APPROVED with the exception of items 6 (2.5), 12 (3.6), 13 (3.7), and 14 (3.8)
 
@@ -3368,7 +3368,7 @@ Unanimous (15-0)
 
 ### 8.3.6. (2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue
 
-<a id="motion-8-3-6-0" class="motion-anchor"></a>
+<div id="motion-8-3-6-0" class="motion-anchor"></div>
 
 > That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated July 14, 2026, related to the Designation under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue, Ward 4 BE RECEIVED for information and no furth...
 
@@ -3385,7 +3385,7 @@ Unanimous (15-0)
 
 ### 8.3.12. (3.6) 1076-1080 Commissioners Road West and 396-402 North Street - OZ-26037 (Relates to Bill No. 273 and No. 289)
 
-<a id="motion-8-3-12-1" class="motion-anchor"></a>
+<div id="motion-8-3-12-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part c) vi) that reads as follows: vi) a sidewalk improvement along Commissioners Road West that is set back from the street and aligned with the existing sidewalk location adjacent to the western portion of 1066 to 1068 Commissioners Road West.
 
@@ -3395,7 +3395,7 @@ Unanimous (15-0)
 
 ### 8.3.12. (3.6) 1076-1080 Commissioners Road West and 396-402 North Street - OZ-26037 (Relates to Bill No. 273 and No. 289)
 
-<a id="motion-8-3-12-2" class="motion-anchor"></a>
+<div id="motion-8-3-12-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED
 
@@ -3412,7 +3412,7 @@ Unanimous (15-0)
 
 ### 8.3.13. (3.7) 755-765, 785 and 815 Wonderland Road South - OZ-26061
 
-<a id="motion-8-3-13-0" class="motion-anchor"></a>
+<div id="motion-8-3-13-0" class="motion-anchor"></div>
 
 > That the application dated July 14, 2026, from Westmount Development London Corporation related to the property at 755-765, 785 and 815 Wonderland Road South BE REFERRED to a future meeting of the Planning and Environment Committee meeting for the reason of allowing the applicant and representati...
 
@@ -3429,7 +3429,7 @@ Unanimous (15-0)
 
 ### 8.3.14. (3.8) 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055 (Relates to Bill No. 274 and No. 290)
 
-<a id="motion-8-3-14-1" class="motion-anchor"></a>
+<div id="motion-8-3-14-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to read as follows: c)    The Subdivision Approval Authority BE REQUESTED to consider the following issues through the subdivision approval process:   i)    add a park block within the first phase of the Draft Plan of Subdivision that is publicly accessible with a minim...
 
@@ -3439,7 +3439,7 @@ Unanimous (14-0)
 
 ### 8.3.14. (3.8) 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055 (Relates to Bill No. 274 and No. 290)
 
-<a id="motion-8-3-14-2" class="motion-anchor"></a>
+<div id="motion-8-3-14-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -3449,7 +3449,7 @@ Unanimous (14-0)
 
 ### 8.4. 11th Report of the Community and Protective Services Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 11th Report of the Community and Protective Services Committee BE APPROVED with the exception of items 4 (2.4), 5 (2.5), 6 (2.3), 9 (4.3), 10 (4.4), and 11 (4.5).
 
@@ -3459,7 +3459,7 @@ Unanimous (15-0)
 
 ### 8.4. 11th Report of the Community and Protective Services Committee
 
-<a id="motion-8-4-1" class="motion-anchor"></a>
+<div id="motion-8-4-1" class="motion-anchor"></div>
 
 > That, pursuant to section 6.4 of the Council Procedure By-law, a change in order of the Council Agenda BE APPROVED, to provide for item 10 (4.4) City of London Special Constable Program to be considered before item 4 (2.4) Housing Stability Services Procurement and Delivery Framework.
 
@@ -3469,7 +3469,7 @@ Unanimous (15-0)
 
 ### 8.4.4. (2.4) Housing Stability Services Procurement and Delivery Framework
 
-<a id="motion-8-4-4-1" class="motion-anchor"></a>
+<div id="motion-8-4-4-1" class="motion-anchor"></div>
 
 > That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -3486,7 +3486,7 @@ Unanimous (15-0)
 
 ### 8.4.4. (2.4) Housing Stability Services Procurement and Delivery Framework
 
-<a id="motion-8-4-4-2" class="motion-anchor"></a>
+<div id="motion-8-4-4-2" class="motion-anchor"></div>
 
 > That part c) of the motion BE REFERRED to the next meeting of the Community and Protective Services Committee for a staff report outlining the changes made to the updated Emergency Shelter Guidelines, including an explanation of how the proposed changes support and advance the City's Strategic Pl...
 
@@ -3503,7 +3503,7 @@ Unanimous (15-0)
 
 ### 8.4.4. (2.4) Housing Stability Services Procurement and Delivery Framework
 
-<a id="motion-8-4-4-3" class="motion-anchor"></a>
+<div id="motion-8-4-4-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -3513,7 +3513,7 @@ Unanimous (15-0)
 
 ### 8.4.5. (2.5) Child Care and Early Years - Engagement of Auditor Services (Relates to Bill No. 267)
 
-<a id="motion-8-4-5-0" class="motion-anchor"></a>
+<div id="motion-8-4-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development and the City Treasurer, the proposed by-law, as appended to the staff report dated July 13, 2026, BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:    a) DELEGATE the City of London...
 
@@ -3523,7 +3523,7 @@ Unanimous (14-0)
 
 ### 8.4.6. (2.3) Proposed Winter Response for 2026-2027
 
-<a id="motion-8-4-6-1" class="motion-anchor"></a>
+<div id="motion-8-4-6-1" class="motion-anchor"></div>
 
 > That the staff report dated July 13, 2026, regarding the Proposed Winter Response for 2026–2027, BE REFERRED to the next meeting of the Community and Protective Services Committee to allow Civic Administration additional time to continue discussions with federal partners regarding funding options...
 
@@ -3540,7 +3540,7 @@ Unanimous (14-0)
 
 ### 8.4.9. (4.3) Pilot Program for Air Conditioning Support for Low-Income Seniors
 
-<a id="motion-8-4-9-1" class="motion-anchor"></a>
+<div id="motion-8-4-9-1" class="motion-anchor"></div>
 
 > That the following part BE APPROVED: a) the Civic Administration BE DIRECTED to report back by Q1 2027 on the development of a pilot program to provide free or subsidized air conditioning units to low-income seniors in the City of London, with implementation targeted in advance of the 2027 summer...
 
@@ -3557,7 +3557,7 @@ Unanimous (14-0)
 
 ### 8.4.9. (4.3) Pilot Program for Air Conditioning Support for Low-Income Seniors
 
-<a id="motion-8-4-9-2" class="motion-anchor"></a>
+<div id="motion-8-4-9-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the communication, dated July 3, 2026, from Councillor S. Franke, related to a Pilot Program for Air Conditioning Support for Low-Income Seniors: b) the Mayor BE REQUESTED to advocate to the Federation of Canadian Municipalities (FCM) for fundin...
 
@@ -3567,7 +3567,7 @@ Unanimous (15-0)
 
 ### 8.4.10. (4.4) City of London Special Constable Program
 
-<a id="motion-8-4-10-1" class="motion-anchor"></a>
+<div id="motion-8-4-10-1" class="motion-anchor"></div>
 
 > That the matter relating to a City of London Special Constable Program BE REFERRED to the Municipal Council meeting to be held on August 25, 2026, in order to provide additional time for members of the public to review the proposed direction and provide any comments to Council prior to a decision...
 
@@ -3584,7 +3584,7 @@ Unanimous (15-0)
 
 ### 8.4.10. (4.4) City of London Special Constable Program
 
-<a id="motion-8-4-10-2" class="motion-anchor"></a>
+<div id="motion-8-4-10-2" class="motion-anchor"></div>
 
 > That part e) of the motion be amended to read as follows: e) potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordinated Informed Response teams, and relationships with the London Police Service and other community partners ...
 
@@ -3601,7 +3601,7 @@ Unanimous (15-0)
 
 ### 8.4.10. (4.4) City of London Special Constable Program
 
-<a id="motion-8-4-10-4" class="motion-anchor"></a>
+<div id="motion-8-4-10-4" class="motion-anchor"></div>
 
 > That the following part BE APPROVED: That the motion BE AMENDED by replacing the words "establishing a City of London Special Constable Program" with "implementing a permanent City of London Special Constable Program"; and amending clause c) c) legislative and regulatory requirements, including a...
 
@@ -3618,7 +3618,7 @@ Unanimous (15-0)
 
 ### 8.4.10. (4.4) City of London Special Constable Program
 
-<a id="motion-8-4-10-5" class="motion-anchor"></a>
+<div id="motion-8-4-10-5" class="motion-anchor"></div>
 
 > That the following part BE APPROVED: d) estimated capital and operating costs, funding options, including the potential use of revenues generated through the City's Automated Speed Enforcement Program, opportunities for external funding, and the financial feasibility of implementing a permanent p...
 
@@ -3635,7 +3635,7 @@ Unanimous (15-0)
 
 ### 8.4.10. (4.4) City of London Special Constable Program
 
-<a id="motion-8-4-10-7" class="motion-anchor"></a>
+<div id="motion-8-4-10-7" class="motion-anchor"></div>
 
 > That the following parts of the main motion, as amended, BE APPROVED: That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of implementing a permanent City of London Special Constable Program, with the report to include: a)...
 
@@ -3652,7 +3652,7 @@ Unanimous (15-0)
 
 ### 8.4.10. (4.4) City of London Special Constable Program
 
-<a id="motion-8-4-10-8" class="motion-anchor"></a>
+<div id="motion-8-4-10-8" class="motion-anchor"></div>
 
 > That the following part of the main motion, as amended, BE APPROVED: e) potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordinated Informed Response teams, and relationships with the London Police Service and other communit...
 
@@ -3669,7 +3669,7 @@ Unanimous (15-0)
 
 ### 8.4.11. (4.5) By-law Enforcement Administrative Fees
 
-<a id="motion-8-4-11-0" class="motion-anchor"></a>
+<div id="motion-8-4-11-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to review the application of the administrative fee and any cost recovery associated with PW-15, Yard and Lot Maintenance by-law initial work order when it is issued as a result of a property owner having been the victim of a criminal act; it being noted ...
 
@@ -3686,7 +3686,7 @@ Unanimous (15-0)
 
 ### 9. Added Reports
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > That clause 7 of the 12th Report of the Council, In Closed Session, BE APPROVED 7.    Licence Agreement – Municipal Parking Lot #8 (West Half) 99 Dundas Street That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to...
 
@@ -3705,7 +3705,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 268 BE APPROVED.
 
@@ -3724,7 +3724,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 268 BE APPROVED.
 
@@ -3743,7 +3743,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 268 BE APPROVED.
 
@@ -3762,7 +3762,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Revised Bill No. 285 BE APPROVED.
 
@@ -3781,7 +3781,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Revised Bill No. 285 BE APPROVED.
 
@@ -3800,7 +3800,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Revised Bill No. 285 BE APPROVED.
 
@@ -3819,7 +3819,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-9" class="motion-anchor"></a>
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.’s 273 and 289 BE APPROVED.
 
@@ -3838,7 +3838,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-10" class="motion-anchor"></a>
+<div id="motion-13-10" class="motion-anchor"></div>
 
 > That Second Reading of Bill No.’s 273 and 289 BE APPROVED.
 
@@ -3857,7 +3857,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-11" class="motion-anchor"></a>
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.’s 273 and 289 APPROVED.
 
@@ -3876,7 +3876,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-12" class="motion-anchor"></a>
+<div id="motion-13-12" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 297 BE APPROVED.
 
@@ -3895,7 +3895,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-13" class="motion-anchor"></a>
+<div id="motion-13-13" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 297 BE APPROVED.
 
@@ -3914,7 +3914,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-14" class="motion-anchor"></a>
+<div id="motion-13-14" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 297 APPROVED.
 

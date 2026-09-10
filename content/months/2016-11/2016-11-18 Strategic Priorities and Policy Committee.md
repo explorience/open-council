@@ -128,7 +128,7 @@ C-2      A
   the London Police Services Board (LPSB) and the Chief Administrator's Office
   (CAO)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -148,7 +148,7 @@ C-2      A
   the London Police Services Board (LPSB) and the Chief Administrator's Office
   (CAO)
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -161,7 +161,7 @@ Unanimous (12-0)
   the London Police Services Board (LPSB) and the Chief Administrator's Office
   (CAO)
 
-<a id="motion-2-2" class="motion-anchor"></a>
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion Passed
 

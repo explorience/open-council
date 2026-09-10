@@ -347,7 +347,7 @@ The meeting adjourned at 1:26 PM.
 
 ### 4.1. Year 2018 Tax Policy
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to property taxation for 2018: a)         the Civic Administration BE DIRECTED to bring forward a proposed by-law for introduction and enactment at the Municipal Council meeting to be held on April 24, 2018, reflective of the Corporate Services Com...
 

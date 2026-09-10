@@ -912,7 +912,7 @@ The
 ### 2. 2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -924,7 +924,7 @@ Unanimous (5-0)
 ### 3. Properties located
   at 3550 and 3590 Singleton Avenue (H-8322)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -937,7 +937,7 @@ Unanimous (5-0)
   Grant Program for Downtown and Old East Village Community Improvement Plan
   (CIP) Areas
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -949,7 +949,7 @@ Unanimous (5-0)
 ### 5. Proposed Amendments
   to the Site Plan By-law
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -961,7 +961,7 @@ Unanimous (5-0)
 ### 5. Proposed Amendments
   to the Site Plan By-law
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -973,7 +973,7 @@ Unanimous (5-0)
 ### 5. Proposed Amendments
   to the Site Plan By-law
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -985,7 +985,7 @@ Unanimous (5-0)
 ### 6. Property located at
   1671 Fanshawe Park Road West (TZ-8438)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -997,7 +997,7 @@ Unanimous (5-0)
 ### 6. Property located at
   1671 Fanshawe Park Road West (TZ-8438)
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1009,7 +1009,7 @@ Unanimous (5-0)
 ### 6. Property located at
   1671 Fanshawe Park Road West (TZ-8438)
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1021,7 +1021,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 2155 and 2253 Richmond Street (Z-8440)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1033,7 +1033,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 2155 and 2253 Richmond Street (Z-8440)
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1045,7 +1045,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 2155 and 2253 Richmond Street (Z-8440)
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1057,7 +1057,7 @@ Unanimous (5-0)
 ### 8. 2nd Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1069,7 +1069,7 @@ Unanimous (5-0)
 ### 9. Boulevard Tree
   Protection By-law Revision
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1081,7 +1081,7 @@ Unanimous (5-0)
 ### 9. Boulevard Tree
   Protection By-law Revision
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1093,7 +1093,7 @@ Unanimous (5-0)
 ### 9. Boulevard Tree
   Protection By-law Revision
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1105,7 +1105,7 @@ Unanimous (5-0)
 ### 9. Boulevard Tree
   Protection By-law Revision
 
-<a id="motion-9-3" class="motion-anchor"></a>
+<div id="motion-9-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1117,7 +1117,7 @@ Unanimous (5-0)
 ### 10. “Our Move
   Forward" London's Downtown Plan (O-8385)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1129,7 +1129,7 @@ Unanimous (6-0)
 ### 10. “Our Move
   Forward" London's Downtown Plan (O-8385)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1141,19 +1141,7 @@ Unanimous (5-0)
 ### 10. “Our Move
   Forward" London's Downtown Plan (O-8385)
 
-<a id="motion-10-2" class="motion-anchor"></a>
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 11. 2nd Report of the
-  Advisory Committee on the Environment
-
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1165,7 +1153,19 @@ Unanimous (6-0)
 ### 11. 2nd Report of the
   Advisory Committee on the Environment
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. 2nd Report of the
+  Advisory Committee on the Environment
+
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1184,7 +1184,7 @@ Unanimous (6-0)
 ### 12. General Orientation
   - Key Committee Matters - Development Services
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1196,7 +1196,7 @@ Unanimous (5-0)
 ### 13. General Orientation
   - Key Committee Matters – Planning
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1208,7 +1208,7 @@ Unanimous (5-0)
 ### 14. Old East Village
   Community Incentive Plan's Tax Grant Program
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1220,7 +1220,7 @@ Unanimous (5-0)
 ### 15. North London
   Housing Concerns
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1232,7 +1232,7 @@ Unanimous (5-0)
 ### 15. North London
   Housing Concerns
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1251,7 +1251,7 @@ Unanimous (5-0)
 ### 16. Hamilton Road Area
   Community Improvement Plan
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

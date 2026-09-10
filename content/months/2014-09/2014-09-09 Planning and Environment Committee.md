@@ -1284,7 +1284,7 @@ The
   at 360 Crumlin Sideroad and 3301 and 3345 Gore Road - Notice of Appeal to the
   Ontario Municipal Board (OZ-8188)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1296,7 +1296,7 @@ Unanimous (5-0)
 ### 3. Properties located
   at 1195 Fanshawe Park Road West and 2151 Dalmagarry Road (H-8388)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1308,7 +1308,7 @@ Unanimous (5-0)
 ### 4. Property located at
   1057 Richmond Street
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1320,7 +1320,7 @@ Unanimous (5-0)
 ### 5. Victoria on the
   River Subdivision - Phase 1 (formerly 1603 Hamilton Road) (H-8403)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1333,7 +1333,7 @@ Unanimous (5-0)
   1959 Wharncliffe Road South (Foxwood Crossing - Phase 2) - Request for
   Extension - Draft Plan (39T-07507)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1346,7 +1346,7 @@ Unanimous (5-0)
   at 181 and 199 Commissioners Road East - Highland Green Subdivision -
   Extension to Draft Plan of Subdivision Approval (39T-08501)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1358,7 +1358,7 @@ Unanimous (5-0)
 ### 8. Property located at
   1070 Gainsborough Road (H-8398)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1370,7 +1370,7 @@ Unanimous (5-0)
 ### 9. Property located at
   1139 Fanshawe Park Road West (H-8337)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1383,7 +1383,7 @@ Unanimous (5-0)
   312 Sunningdale Road West - Request for Extension of Draft Approval
   (39T-10502)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1395,7 +1395,7 @@ Unanimous (5-0)
 ### 11. Cedarhollow
   Subdivision - Phase 3 (39T-03518)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1407,7 +1407,7 @@ Unanimous (5-0)
 ### 12. Powell-Uplands
   North Subdivision - Phase 3 (39T-05510)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1419,7 +1419,7 @@ Unanimous (5-0)
 ### 13. Property located at
   312 Oxford Street East
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1431,7 +1431,7 @@ Unanimous (5-0)
 ### 13. Property located at
   312 Oxford Street East
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1443,7 +1443,7 @@ Unanimous (5-0)
 ### 13. Property located at
   312 Oxford Street East
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1455,7 +1455,7 @@ Unanimous (5-0)
 ### 14. Property located at
   720 Proudfoot Lane (OZ-8375)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1467,7 +1467,7 @@ Unanimous (5-0)
 ### 14. Property located at
   720 Proudfoot Lane (OZ-8375)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1479,7 +1479,7 @@ Unanimous (5-0)
 ### 14. Property located at
   720 Proudfoot Lane (OZ-8375)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1491,7 +1491,7 @@ Unanimous (5-0)
 ### 15. Wortley Village -
   Old South Heritage Conservation District
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1503,7 +1503,7 @@ Unanimous (5-0)
 ### 15. Wortley Village -
   Old South Heritage Conservation District
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1515,7 +1515,7 @@ Unanimous (5-0)
 ### 15. Wortley Village -
   Old South Heritage Conservation District
 
-<a id="motion-15-2" class="motion-anchor"></a>
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1527,7 +1527,7 @@ Unanimous (5-0)
 ### 16. Property located at
   915 Queens Avenue
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1539,7 +1539,7 @@ Unanimous (5-0)
 ### 16. Property located at
   915 Queens Avenue
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1551,7 +1551,7 @@ Unanimous (5-0)
 ### 16. Property located at
   915 Queens Avenue
 
-<a id="motion-16-2" class="motion-anchor"></a>
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1563,7 +1563,7 @@ Unanimous (5-0)
 ### 17. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1575,7 +1575,7 @@ Unanimous (5-0)
 ### 17. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1587,7 +1587,7 @@ Unanimous (5-0)
 ### 17. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
 
-<a id="motion-17-2" class="motion-anchor"></a>
+<div id="motion-17-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1600,7 +1600,7 @@ Unanimous (5-0)
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
   Marr Drain (O-8362)
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1613,7 +1613,7 @@ Unanimous (5-0)
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
   Marr Drain (O-8362)
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1626,7 +1626,7 @@ Unanimous (5-0)
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
   Marr Drain (O-8362)
 
-<a id="motion-18-2" class="motion-anchor"></a>
+<div id="motion-18-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1638,7 +1638,7 @@ Unanimous (5-0)
 ### 19. Property located at
   2151 Dalmagarry Road and 1195 Fanshawe Park Road West (Z-8387)
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1650,7 +1650,7 @@ Unanimous (5-0)
 ### 19. Property located at
   2151 Dalmagarry Road and 1195 Fanshawe Park Road West (Z-8387)
 
-<a id="motion-19-1" class="motion-anchor"></a>
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1662,7 +1662,7 @@ Unanimous (5-0)
 ### 19. Property located at
   2151 Dalmagarry Road and 1195 Fanshawe Park Road West (Z-8387)
 
-<a id="motion-19-2" class="motion-anchor"></a>
+<div id="motion-19-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

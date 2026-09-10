@@ -645,7 +645,7 @@ The motion carries six to zero.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.7 BE APPROVED.
 
@@ -655,7 +655,7 @@ Unanimous (6-0)
 
 ### 4.2. School Planning
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to provide an information report at a future meeting of the Community and Protective Services Committee with respect to the roles and responsibilities of the local school boards and how the City of London interacts with the boards related to the items lis...
 
@@ -665,7 +665,7 @@ Unanimous (6-0)
 
 ### 4.3. London's Climate Emergency Declaration - Fireworks - REQUEST FOR DELEGATION STATUS
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from R. Amendola BE APPROVED to be heard at this meeting.
 

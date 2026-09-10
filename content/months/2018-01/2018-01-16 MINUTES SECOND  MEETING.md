@@ -793,7 +793,7 @@ Motion Passed
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
-<a id="motion-iv-1" class="motion-anchor"></a>
+<div id="motion-iv-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -809,7 +809,7 @@ Motion Passed
 ### IX. ADDED
   REPORTS
 
-<a id="motion-ix-1" class="motion-anchor"></a>
+<div id="motion-ix-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -825,7 +825,7 @@ Motion Passed
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIRST MEETING HELD ON DECEMBER 12, 2017
 
-<a id="motion-v-1" class="motion-anchor"></a>
+<div id="motion-v-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -840,7 +840,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -855,7 +855,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -870,7 +870,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -886,7 +886,7 @@ Motion Passed
 ### 6. Summerside
   Subdivision Phase 13A (39T-92020)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -902,7 +902,7 @@ Motion Passed
 ### 12. Notice of Intention
   to Designate - 440 Grey Street
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -918,7 +918,7 @@ Motion Passed
 ### 13. C. Mackie -
   Middlesex-London Health Unit
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -934,7 +934,7 @@ Motion Passed
 ### 14. 1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion Passed
 

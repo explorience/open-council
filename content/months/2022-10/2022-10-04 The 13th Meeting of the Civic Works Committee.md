@@ -396,7 +396,7 @@ It confirmed we are adjourned. Thank you, everyone, and wishing you a wonderful 
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.4 BE APPROVED.
 
@@ -406,7 +406,7 @@ Unanimous (6-0)
 
 ### 5.2. (ADDED) Greenway and Adelaide Wastewater Treatment Plants Climate Change Resiliency Detailed Design Consultant Award
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated October 4, 2022, related to the Greenway and Adelaide Wastewater Treatment Plants Climate Change Resiliency Detailed Design Consultant Awa...
 

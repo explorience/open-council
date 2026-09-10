@@ -746,7 +746,7 @@ The meeting adjourned at 8:02 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.3 and 2.4 BE APPROVED.
 
@@ -756,7 +756,7 @@ Unanimous (14-0)
 
 ### 2.2. London Economic Development Corporation Purchase of Services Agreement 2020-2023
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That the following potential amendments to the Purchase of Services Agreement with the London Economic Development Corporation (LEDC) BE REFERRED back to staff in order to consult with the LEDC, with a report back to a future meeting of the Strategic Priorities and Policy Committee: a) section 3....
 
@@ -766,7 +766,7 @@ Unanimous (15-0)
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - Amendments to Consolidated Fees and Charges By-law
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That the implementation of a user fee for Electric Vehicle Charging BE REMOVED from the proposed Fees and Charges By-law at this time, and the matter BE REFERRED back to staff for a future report related to Climate Change and the city's action plan.
 
@@ -783,7 +783,7 @@ Unanimous (15-0)
 
 ### 4.1. Request for Second Term Appointments to the Greater London International Airport Authority Board of Directors
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That Maureen O'Leary-Pickard and Gus Kotsiomitis BE APPOINTED for a second term to the Greater London International Airport Authority Board of Directors, it being noted that this second term will end July 31, 2022.
 
@@ -793,7 +793,7 @@ Unanimous (15-0)
 
 ### 4.4. Committee Appointment Preferences submitted by Council Members
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > That the following appointments BE MADE to the Planning and Environment Committee of the Municipal Council for the term December 1, 2019 to November 30, 2020: Councillor M. Cassidy  Councillor J. Helmer  Councillor A. Hopkins  Councillor A. Kayabaga  Councillor S. Turner That Councillor M. Cassid...
 
@@ -803,7 +803,7 @@ Unanimous (15-0)
 
 ### 4.4. Committee Appointment Preferences submitted by Council Members
 
-<a id="motion-4-4-2" class="motion-anchor"></a>
+<div id="motion-4-4-2" class="motion-anchor"></div>
 
 > That the following slate BE APPROVED for appointment consideration to the Civic Works Committee: Councillor M. Cassidy  Councillor S. Lehman  Councillor E. Peloza  Councillor P. van Meerbergen  Councillor S. Lewis Councillor S. Hillier
 
@@ -813,7 +813,7 @@ Unanimous (15-0)
 
 ### 4.4. Committee Appointment Preferences submitted by Council Members
 
-<a id="motion-4-4-3" class="motion-anchor"></a>
+<div id="motion-4-4-3" class="motion-anchor"></div>
 
 > That the following appointments BE MADE to the Civic Works Committee of the Municipal Council for the term December 1, 2019 to November 30, 2020: Councillor M. Cassidy  Councillor S. Lehman  Councillor E. Peloza  Councillor P. van Meerbergen  Councillor S. Lewis it being noted that Councillor S. ...
 
@@ -823,7 +823,7 @@ Unanimous (15-0)
 
 ### 4.4. Committee Appointment Preferences submitted by Council Members
 
-<a id="motion-4-4-4" class="motion-anchor"></a>
+<div id="motion-4-4-4" class="motion-anchor"></div>
 
 > That the following appointments BE MADE to the Corporate Services Committee of the Municipal Council for the term December 1, 2019 to November 30, 2020: Councillor J. Helmer  Councillor A. Kayabaga  Councillor J. Morgan  Councillor M. van Holst  Councillor A. Hopkins That Councillor A. Kayabaga B...
 
@@ -833,7 +833,7 @@ Unanimous (15-0)
 
 ### 4.4. Committee Appointment Preferences submitted by Council Members
 
-<a id="motion-4-4-5" class="motion-anchor"></a>
+<div id="motion-4-4-5" class="motion-anchor"></div>
 
 > That the following appointments BE MADE to the Community and Protective Services Committee of the Municipal Council for the term December 1, 2019 to November 30, 2020: Councillor S. Hillier  Councillor S. Lewis  Councillor P. Squire  Councillor M. van Holst  Councillor M. Salih That Councillor S....
 
@@ -843,7 +843,7 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) City Manager Search Committee - Terms of Reference
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Clerk, the Terms of Reference for the City Manager Search Committee, attached as Appendix “A” to the staff report dated October 22, 2019 with respect to this matter, BE APPROVED.
 

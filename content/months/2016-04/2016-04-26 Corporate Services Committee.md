@@ -445,7 +445,7 @@ The Corporate Services Committee convened
 ### 2. Ontario Police
   Services Act Review - London Submission
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -457,7 +457,7 @@ Unanimous (4-0)
 ### 3. Canada 150
   Community Infrastructure Program Contribution Agreement
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -469,7 +469,7 @@ Unanimous (4-0)
 ### 4. Southwest Ontario
   Urban Mayors Caucus (SOUMC) - Update
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -482,7 +482,7 @@ Unanimous (4-0)
   Partnership for Local Economic Development and Democratic Governance (PLEDDG
   Ukraine)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -494,7 +494,7 @@ Unanimous (4-0)
 ### 6. New Council Policy
   - Asset Transfers to Municipal Services Corporations
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -506,7 +506,7 @@ Unanimous (4-0)
 ### 7. Council Resolution
   on Future Tax Policy Report
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -518,7 +518,7 @@ Unanimous (4-0)
 ### 8. Pre-Authorized Tax
   Payment Plan By-law Amendment
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -530,7 +530,7 @@ Unanimous (4-0)
 ### 9. Year 2016 Tax
   Policy
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -542,7 +542,7 @@ Unanimous (4-0)
 ### 10. Year 2016 Education
   Tax Rates
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -554,7 +554,7 @@ Unanimous (4-0)
 ### 11. Application of a
   Gender Lens - L. N. Garrison
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -566,7 +566,7 @@ Unanimous (4-0)
 ### 12. Municipal Council Resolution
   - Appointment of M. McAlpine to the Agricultural Advisory Committee
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -578,7 +578,7 @@ Unanimous (4-0)
 ### 13. Legalization of
   Assisted Suicide and Euthanasia
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -589,7 +589,7 @@ Unanimous (4-0)
 
 ### 14. (ADDED) Change in Meeting Date
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -602,7 +602,7 @@ Unanimous (4-0)
   Police Services’ Notice of Application to the Ontario Civilian Police
   Commission
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

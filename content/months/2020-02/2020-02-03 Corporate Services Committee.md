@@ -170,7 +170,7 @@ The meeting adjourned at 12:16 PM.
 
 ### 4.1. Consideration of Appointment to the Advisory Committee on the Environment (Requires 4 Voting Members)
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following individuals BE APPOINTED to the Advisory Committee on the Environment for the term ending June 30, 2021:     Robert Pate  Joseph Santarelli  Natalie Beauregard  Brennan Vogel
 
@@ -180,7 +180,7 @@ Unanimous (4-0)
 
 ### 4.1. Consideration of Appointment to the Advisory Committee on the Environment (Requires 4 Voting Members)
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Appointments to vacancies on the Advisory Committee on the Environment
 

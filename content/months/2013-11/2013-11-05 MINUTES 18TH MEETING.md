@@ -2076,7 +2076,7 @@ Passed
 ### 10#2. Extension of
   Enhanced Financial Incentive Programs for Downtown and Old East Village
 
-<a id="motion-10-2-0" class="motion-anchor"></a>
+<div id="motion-10-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2088,7 +2088,7 @@ Unanimous (15-0)
 ### 10#4. ADDED – Request for
   Expense Authorization – Councillor J.L. Baechler
 
-<a id="motion-10-4-0" class="motion-anchor"></a>
+<div id="motion-10-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to a request from Councillor J.L. Baechler  for authorization to   cover the costs associated with arrangements for a guest speaker at an open   forum on Deep Geological Repositories:   a)         Councillor Baechler’s request BE   APPROVED; and ...
 
@@ -2099,7 +2099,7 @@ Unanimous (15-0)
 ### 10#5. Sanitary Service
   Agreement between the City of London and Middlesex Centre
 
-<a id="motion-10-5-0" class="motion-anchor"></a>
+<div id="motion-10-5-0" class="motion-anchor"></div>
 
 > At 6:44 PM Mayor J.F. Fontana resumes the   Chair and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -2117,7 +2117,7 @@ Unanimous (15-0)
 ### 11#2. Sign and Canopy
   By-law - Gateway Sign Feature Request
 
-<a id="motion-11-2-0" class="motion-anchor"></a>
+<div id="motion-11-2-0" class="motion-anchor"></div>
 
 > Approve that clause 11 be referred back to   the Civic Administration for further consideration as a result of recent   correspondence from the applicant.
 
@@ -2135,7 +2135,7 @@ Unanimous (15-0)
 ### 12#3. Water Power Imports
   from Quebec
 
-<a id="motion-12-3-0" class="motion-anchor"></a>
+<div id="motion-12-3-0" class="motion-anchor"></div>
 
 > That the communication dated October 8,   2013, from J. Gibbons, Chair, Ontario Clean Air Alliance, with respect to   Water Power Imports from Quebec, BE REFERRED to London Hydro Inc.  (2013-E06)
 
@@ -2146,7 +2146,7 @@ Unanimous (15-0)
 ### 2#4. Mixed-Use Development Including a
   Performing Arts Centre – Review of Proposals and Public Input
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2164,7 +2164,7 @@ Unanimous (15-0)
 ### 2#4. Mixed-Use Development Including a
   Performing Arts Centre – Review of Proposals and Public Input
 
-<a id="motion-2-4-1" class="motion-anchor"></a>
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > Approve:   That, as a procedural matter pursuant to   section 239(6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:     1.                   That, on the   recommendation of the Managing Director of Corporat...
 
@@ -2175,7 +2175,7 @@ Unanimous (13-0)
 ### 2#4. Mixed-Use Development Including a
   Performing Arts Centre – Review of Proposals and Public Input
 
-<a id="motion-2-4-2" class="motion-anchor"></a>
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2186,7 +2186,7 @@ Unanimous (15-0)
 ### 4#4. Greenway Wastewater
   Treatment Plant Expansion and Upgrade Update
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > Amend clause 4 by adding a new part d) as   follows:   “d)         the Civic Administration BE DIRECTED to report back at a future meeting of   the Civic Works Committee with respect to climate change matters,   specifically as it related to flooding concerns;”
 
@@ -2197,7 +2197,7 @@ Unanimous (15-0)
 ### 4#4. Greenway Wastewater
   Treatment Plant Expansion and Upgrade Update
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > Approve clause 4, as amended.
 
@@ -2207,7 +2207,7 @@ Unanimous (15-0)
 
 ### 5#5. Porter Airlines in London, Ontario
 
-<a id="motion-5-5-0" class="motion-anchor"></a>
+<div id="motion-5-5-0" class="motion-anchor"></div>
 
 > That the Greater London International   Airport Authority BE ADVISED that the City of London fully supports the   presence of Porter Airlines in London, Ontario.
 
@@ -2218,7 +2218,7 @@ Unanimous (15-0)
 ### 7#4. Adelaide Street/Canadian
   Pacific Railway Grade Separation
 
-<a id="motion-7-4-0" class="motion-anchor"></a>
+<div id="motion-7-4-0" class="motion-anchor"></div>
 
 > Motion to Approve parts a) and c) of clause   7 is put.
 
@@ -2236,7 +2236,7 @@ Unanimous (15-0)
 ### 7#4. Adelaide Street/Canadian
   Pacific Railway Grade Separation
 
-<a id="motion-7-4-1" class="motion-anchor"></a>
+<div id="motion-7-4-1" class="motion-anchor"></div>
 
 > Motion to Approve part b) of clause 7 is   put.
 
@@ -2254,7 +2254,7 @@ Unanimous (15-0)
 ### 9#4. Waste Diversion and
   Garbage Collection Updates
 
-<a id="motion-9-4-0" class="motion-anchor"></a>
+<div id="motion-9-4-0" class="motion-anchor"></div>
 
 > Motion Passed to sustain the ruling of the   Chair.
 
@@ -2272,7 +2272,7 @@ Unanimous (15-0)
 ### 9#4. Waste Diversion and
   Garbage Collection Updates
 
-<a id="motion-9-4-1" class="motion-anchor"></a>
+<div id="motion-9-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2283,7 +2283,7 @@ Unanimous (15-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, at 4:13 PM for the purpose of considering   the following:
 
@@ -2296,7 +2296,7 @@ Unanimous (14-0)
   AND SIGNING OF THE MINUTES OF THE SEVENTEENTH MEETING HELD ON OCTOBER 22,
   2013
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 17th meeting   held on October 22, 2013.
 
@@ -2306,7 +2306,7 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First   Reading of Bill No.s 438 to 441 and Bill No.s 443 to 449.
 
@@ -2316,7 +2316,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-2" class="motion-anchor"></a>
+<div id="motion-xiii-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2327,7 +2327,7 @@ Unanimous (12-0)
 ### 6. Woodhull
   Subdivision (39T-03511)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Approve that clause 6 be referred to the Civic   Administration for further review and a report back at a future Planning and   Environment Committee meeting.
 
@@ -2338,7 +2338,7 @@ Unanimous (15-0)
 ### 8. Emerald Ash Borer
   Business Plan
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with   respect to the Emerald Ash Borer Business Plan:   a)         the   Provincial Emerald Ash Borer funding, in the amount of $200,000 that expires   in 2013, BE PLACED in the 2014 Budget; it being noted that Planning Staff has   prepared a Business Case ac...
 
@@ -2349,7 +2349,7 @@ Unanimous (15-0)
 ### 13. Proposed Wortley
   Village - Old South Heritage Conservation District (O-8118)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, with the advice of the Heritage Planner,   the following actions be taken with respect to the creation of a Heritage   Conservation District for the Wortley Village-Old South neighbourhood:   a)         the propose...
 
@@ -2360,7 +2360,7 @@ Unanimous (15-0)
 ### 16. Children's Services
   Funding Agreement
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director of Neighbourhood, Children and Fire Services, the proposed by-Law,   as appended to the staff report dated October 28, 2013, BE INTRODUCED at the   Municipal Council Meeting of November 5, 2013 to:   a)         approve   the standard form for...
 
@@ -2371,7 +2371,7 @@ Unanimous (13-0)
 ### 17. S. Cordes,
   Executive Director, Youth Opportunities Unlimited - Update on the Cornerstone
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > That the request for delegation status,   from S. Cordes, Youth Opportunities Unlimited to provide an update on the   Cornerstone, BE APPROVED. (2013-S12)
 

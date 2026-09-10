@@ -318,7 +318,7 @@ Motion Passed
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -328,7 +328,7 @@ Unanimous (14-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-1" class="motion-anchor"></a>
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -338,7 +338,7 @@ Unanimous (13-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-3" class="motion-anchor"></a>
+<div id="motion-xii-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -348,7 +348,7 @@ Unanimous (12-0)
 
 ### XIII. ADJOURNMENT
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Motion Passed
 

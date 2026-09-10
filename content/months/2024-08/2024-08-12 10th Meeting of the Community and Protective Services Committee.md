@@ -429,7 +429,7 @@ Everyone in favor to adjourn? That motion carries.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.2 and 2.3 BE APPROVED.
 
@@ -439,7 +439,7 @@ Unanimous (5-0)
 
 ### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > Motion to approve a request for delegation status from M. Blosh, Vice-Chair, Animal Welfare Community Advisory Committee, to be heard at this meeting.
 
@@ -449,7 +449,7 @@ Unanimous (5-0)
 
 ### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
 
-<a id="motion-2-1-2" class="motion-anchor"></a>
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > Motion to amend the main motion to add an additional part d): That the Civic Administration BE DIRECTED to provide the available information to the City Clerk’s Office for distribution with respect to complaints regarding Canadian Geese, including the location of complaints and the frequency of g...
 
@@ -459,7 +459,7 @@ Unanimous (5-0)
 
 ### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
 
-<a id="motion-2-1-3" class="motion-anchor"></a>
+<div id="motion-2-1-3" class="motion-anchor"></div>
 
 > Motion to approve part c) of the amended motion.
 
@@ -476,7 +476,7 @@ Unanimous (5-0)
 
 ### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
 
-<a id="motion-2-1-4" class="motion-anchor"></a>
+<div id="motion-2-1-4" class="motion-anchor"></div>
 
 > Motion to approve parts a), b) and d) of the amended motion.
 

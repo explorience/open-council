@@ -594,7 +594,7 @@ The
 ### 2. STAFF REPORT - 4th
   Report of the London Housing Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -606,7 +606,7 @@ Unanimous (3-0)
 ### 3. STAFF REPORT -
   Community Action Program for Children (CAPC) Funding in London:  2017-2020
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -619,7 +619,7 @@ Unanimous (3-0)
   Agency to Oversee the Implementation of London For All:  A Roadmap to End
   Poverty Request for Proposal 17-10
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -639,7 +639,7 @@ Unanimous (3-0)
   Supporting the Community Response to Syrian Newcomers - Update on Potential
   Survey Questions or Other Means of Gathering Information
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -652,7 +652,7 @@ Unanimous (3-0)
   Agreement with the Province of Ontario to Support the Development of an
   Immigration Strategy
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -664,7 +664,7 @@ Unanimous (3-0)
 ### 7. STAFF REPORT -
   Short Term Accommodations
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -677,7 +677,7 @@ Unanimous (3-0)
   Anti-Contraband Tobacco Campaign Funded by Tobacco Industry Front Groups
   Intend to Block Tobacco Control Measures
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -689,7 +689,7 @@ Unanimous (3-0)
 ### 9. Community Diversity
   and Inclusion Strategy
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -700,7 +700,7 @@ Unanimous (3-0)
 
 ### 10. Open Air Burning
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -720,7 +720,7 @@ Unanimous (3-0)
   By-Law Review - Commercial Parking Facilities, Pet Shops, Public Halls and
   Seasonal Sales Businesses
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -733,7 +733,7 @@ Unanimous (4-0)
   By-Law Review - Commercial Parking Facilities, Pet Shops, Public Halls and
   Seasonal Sales Businesses
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -746,7 +746,7 @@ Unanimous (4-0)
   By-Law Review - Commercial Parking Facilities, Pet Shops, Public Halls and
   Seasonal Sales Businesses
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -758,7 +758,7 @@ Unanimous (4-0)
 ### 12. 4th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -770,7 +770,7 @@ Unanimous (4-0)
 ### 13. File No. 16-260872
   - Naturalization Project - London Condominium Corporation No. 11
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -783,7 +783,7 @@ Unanimous (4-0)
   Council and Standing Committee Pre-Recorded Video Content - City Website and
   YouTube Channel
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -795,7 +795,7 @@ Unanimous (4-0)
 ### 15. Deferred Matters
   List
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -808,7 +808,7 @@ Unanimous (3-0)
   SUBMISSION - Withdrawal Renaming Proposal - Mildred Barons Park to Vimy Ridge
   Park
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

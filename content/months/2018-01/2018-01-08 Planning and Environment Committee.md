@@ -688,7 +688,7 @@ The meeting adjourned at 4:54 PM.
 ### 2. 1st Report  of the
   Advisory Committee on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -706,7 +706,7 @@ The meeting adjourned at 4:54 PM.
   at 1733 Hamilton Road and 2046 Commissioners Road East - Hajjar Subdivision
   (H-8841)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -723,7 +723,7 @@ The meeting adjourned at 4:54 PM.
 ### 4. Property located at
   1691 Hamilton Road (H-8859)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -740,7 +740,7 @@ The meeting adjourned at 4:54 PM.
 ### 5. Edgevalley
   Subdivision (39T-05505)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -757,7 +757,7 @@ The meeting adjourned at 4:54 PM.
 ### 6. Summerside
   Subdivision Phase 13A (39T-92020)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -774,7 +774,7 @@ The meeting adjourned at 4:54 PM.
 ### 7. Property located at
   7 Annadale Drive (H-8855)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -791,7 +791,7 @@ The meeting adjourned at 4:54 PM.
 ### 8. Ontario Municipal
   Board (OMB) Reform Bill 139 Potential Regulations
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -808,7 +808,7 @@ The meeting adjourned at 4:54 PM.
 ### 9. Property located at
   1843 Frederick Crescent (Z-8836)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -825,7 +825,7 @@ The meeting adjourned at 4:54 PM.
 ### 9. Property located at
   1843 Frederick Crescent (Z-8836)
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -842,7 +842,7 @@ The meeting adjourned at 4:54 PM.
 ### 9. Property located at
   1843 Frederick Crescent (Z-8836)
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -859,7 +859,7 @@ The meeting adjourned at 4:54 PM.
 ### 10. Property located at
   653 Talbot Street (Z-8808)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -876,7 +876,7 @@ The meeting adjourned at 4:54 PM.
 ### 10. Property located at
   653 Talbot Street (Z-8808)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -893,7 +893,7 @@ The meeting adjourned at 4:54 PM.
 ### 10. Property located at
   653 Talbot Street (Z-8808)
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -910,7 +910,7 @@ The meeting adjourned at 4:54 PM.
 ### 11. 1st Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -927,7 +927,7 @@ The meeting adjourned at 4:54 PM.
 ### 12. Notice of Intention
   to Designate - 440 Grey Street
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -944,7 +944,7 @@ The meeting adjourned at 4:54 PM.
 ### 13. (ADDED) C. Mackie -
   Middlesex-London Health Unit
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -961,7 +961,7 @@ The meeting adjourned at 4:54 PM.
 ### 14. (ADDED) 1st Report
   of the Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

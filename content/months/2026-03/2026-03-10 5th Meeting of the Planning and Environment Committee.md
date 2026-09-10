@@ -2060,7 +2060,7 @@ Motion carries. adjourned.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.4, BE APPROVED.
 
@@ -2070,7 +2070,7 @@ Unanimous (5-0)
 
 ### 3.6. 6712 James Street - Z-26001
 
-<a id="motion-3-6-2" class="motion-anchor"></a>
+<div id="motion-3-6-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part that reads as follows: the Civic Administration BE DIRECTED to use best efforts to offset the anticipated tree loss resulting from the development of 6712 James Street by undertaking enhanced tree planting initiatives on suitable City owned lands assoc...
 
@@ -2080,7 +2080,7 @@ Unanimous (5-0)
 
 ### 3.6. 6712 James Street - Z-26001
 
-<a id="motion-3-6-3" class="motion-anchor"></a>
+<div id="motion-3-6-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -2090,7 +2090,7 @@ Unanimous (5-0)
 
 ### 3.8. 929 Cheapside Street - Z-26003
 
-<a id="motion-3-8-1" class="motion-anchor"></a>
+<div id="motion-3-8-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 929 Cheapside Inc. (c/o Monteith Brown Planning Consultants) relating to the property located at 929 Cheapside Street: a)    the proposed by-law as appended to ...
 
@@ -2107,7 +2107,7 @@ Unanimous (5-0)
 
 ### 3.9. 50 Southbridge Drive - OZ-26002
 
-<a id="motion-3-9-2" class="motion-anchor"></a>
+<div id="motion-3-9-2" class="motion-anchor"></div>
 
 > That, notwithstanding the recommendation of the Director, Planning and Development, part b) of the motion BE AMENDED to remove parts 2 a) ix) and x), Section Number 13.4 of the R9-7 Zone Special Provisions, from the proposed by-law as appended to the above-noted staff report as Appendix "B", to a...
 
@@ -2117,7 +2117,7 @@ Unanimous (5-0)
 
 ### 3.9. 50 Southbridge Drive - OZ-26002
 
-<a id="motion-3-9-3" class="motion-anchor"></a>
+<div id="motion-3-9-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 

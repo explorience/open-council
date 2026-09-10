@@ -409,7 +409,7 @@ The meeting adjourned at 5:32 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.7 BE APPROVED.
 
@@ -419,7 +419,7 @@ Unanimous (6-0)
 
 ### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Motion to approve part a).
 
@@ -429,7 +429,7 @@ Unanimous (6-0)
 
 ### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > Motion to approve part b).
 
@@ -439,7 +439,7 @@ Unanimous (6-0)
 
 ### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > Motion to approve part c).
 
@@ -449,7 +449,7 @@ Unanimous (6-0)
 
 ### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
 
-<a id="motion-4-2-4" class="motion-anchor"></a>
+<div id="motion-4-2-4" class="motion-anchor"></div>
 
 > Motion to approve part d).
 
@@ -459,7 +459,7 @@ Unanimous (6-0)
 
 ### 4.3. Proposed Amendment to the Noise/Sound By-law - High Frequency Noise - Request for Delegation Status - D. Mailer
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the request for delegation by D. Mailer with respect to amending the City of London Noise/Sound By-law to prohibit the use of outdoor high frequency sound emitting devices within city limits BE APPROVED for the December 1, 2020 Community and Protective Services Committee meeting; it being no...
 
@@ -469,7 +469,7 @@ Unanimous (6-0)
 
 ### 4.4. (ADDED) Canada Mortgage and Housing Corporation (CMHC) - Rapid Housing Initiative (RHI)
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Acting Managing Director, Housing, Social Services and Dearness Home the proposed by-law, as appended to the staff report dated November 3, 2020, BE INTRODUCED at the Municipal Council Meeting to be held November 10, 2020, to: a)     authorize and approve the st...
 

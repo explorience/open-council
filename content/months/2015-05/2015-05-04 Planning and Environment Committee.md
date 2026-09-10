@@ -338,7 +338,7 @@ The
 ### 2. 4th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -351,7 +351,7 @@ Unanimous (4-0)
   Response to Draft Ontario Ministry of Agriculture, Food and Rural Affairs
   Guidelines on Permitted Uses in Ontario's Prime Agricultural Areas
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -364,7 +364,7 @@ Unanimous (4-0)
   - Sifton Properties Limited - Forest Hill Subdivision (Phase 4C)
   (39T-99515-4C)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -376,7 +376,7 @@ Unanimous (4-0)
 ### 5. Property located at
   1820 Woodhull Road (H-8433)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -388,7 +388,7 @@ Unanimous (4-0)
 ### 6. Building Division
   Monthly Report for March 2015
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -400,7 +400,7 @@ Unanimous (4-0)
 ### 7. 5th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -412,7 +412,7 @@ Unanimous (4-0)
 ### 8. Property located at
   1551 Blackwell Boulevard (39T-08504/Z-7521)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -424,7 +424,7 @@ Unanimous (4-0)
 ### 8. Property located at
   1551 Blackwell Boulevard (39T-08504/Z-7521)
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -436,7 +436,7 @@ Unanimous (4-0)
 ### 8. Property located at
   1551 Blackwell Boulevard (39T-08504/Z-7521)
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

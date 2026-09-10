@@ -321,7 +321,7 @@ Recommendation: That it BE NOTED that Councillor
 ### 2. Annual Report -
   Risk Management Services
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -333,7 +333,7 @@ Unanimous (4-0)
 ### 3. Pre-Authorized Tax
   Payment Plan By-law and Collection of Property Taxes By-law
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -345,7 +345,7 @@ Unanimous (4-0)
 ### 5. Lorne Avenue Public
   School - Verbal
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -357,7 +357,7 @@ Unanimous (4-0)
 ### 6. Apportionment of
   Taxes
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -369,7 +369,7 @@ Unanimous (4-0)
 ### 6. Apportionment of
   Taxes
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -381,7 +381,7 @@ Unanimous (4-0)
 ### 6. Apportionment of
   Taxes
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -392,7 +392,7 @@ Unanimous (4-0)
 
 ### 7. Tax Adjustment Applications
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -403,7 +403,7 @@ Unanimous (4-0)
 
 ### 7. Tax Adjustment Applications
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -414,7 +414,7 @@ Unanimous (4-0)
 
 ### 7. Tax Adjustment Applications
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -426,7 +426,7 @@ Unanimous (4-0)
 ### 8. Appointments to the
   Animal Welfare Advisory Committee
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -438,7 +438,7 @@ Unanimous (4-0)
 ### 9. Appointment to the
   Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

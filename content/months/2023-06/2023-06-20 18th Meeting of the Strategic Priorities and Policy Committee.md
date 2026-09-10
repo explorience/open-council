@@ -2068,7 +2068,7 @@ All those in favor? Motion carries. All right, thank you very much.
 
 ### 2.1. June Progress Update - Health and Homelessness Whole of Community System Response
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the June Progress Update – Health & Homelessness Whole of Community System Response report BE RECEIVED for information.
 
@@ -2087,7 +2087,7 @@ All those in favor? Motion carries. All right, thank you very much.
 
 ### 2.2. Core Area Action Plan 2022 Review
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > Motion to approve part a) of the clause: a)    the staff report dated June 20, 2023 entitled “Core Area Action Plan 2022 Review”, including its appendices, BE RECEIVED;
 
@@ -2106,7 +2106,7 @@ All those in favor? Motion carries. All right, thank you very much.
 
 ### 2.2. Core Area Action Plan 2022 Review
 
-<a id="motion-2-2-2" class="motion-anchor"></a>
+<div id="motion-2-2-2" class="motion-anchor"></div>
 
 > Motion to approve part b) of the clause: b)    one-time funding of $100,000 in support of the Holly Jolly Market and Downtown for the Holidays events BE APPROVED from the Operating Budget Contingency Reserve; and,
 
@@ -2125,7 +2125,7 @@ All those in favor? Motion carries. All right, thank you very much.
 
 ### 2.2. Core Area Action Plan 2022 Review
 
-<a id="motion-2-2-3" class="motion-anchor"></a>
+<div id="motion-2-2-3" class="motion-anchor"></div>
 
 > Motion to approve part c) of the clause: c)    a one-time funding increase of $50,000 to support 2023 Summer, Fall and Winter Core Area events and activations BE APPROVED from the Operating Budget Contingency Reserve;    it being noted that the Strategic Priorities and Policy Committee received a...
 
@@ -2135,7 +2135,7 @@ Unanimous (12-0)
 
 ### 4.1. Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That Councillor H. McAlister BE APPOINTED to the Lower Thames Valley Conservation Authority Board for the term ending November 14, 2026.
 
@@ -2145,7 +2145,7 @@ Unanimous (13-0)
 
 ### 4.1. Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That Councillor J. Pribil BE APPOINTED to the Kettle Creek Conservation Authority Board of Directors for the term ending November 14, 2026.
 
@@ -2155,7 +2155,7 @@ Unanimous (13-0)
 
 ### 4.1. Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That Councillor P. Van Meerbergen BE APPOINTED to the Kettle Creek Conservation Authority Board of Directors for the term ending November 14, 2026.
 

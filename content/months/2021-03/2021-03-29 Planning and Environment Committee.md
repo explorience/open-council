@@ -3077,7 +3077,7 @@ I'll go just to hand vote all yay. Again, thank you very much. Have a good eveni
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.13, inclusive, BE APPROVED.
 
@@ -3087,7 +3087,7 @@ Unanimous (6-0)
 
 ### 3.3. Application - 1414 Dundas Street (Z-9276)
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Humane Society London & Middlesex, relating to the property located at 1414 Dundas Street: a)       the request to amend Zoning-By-law No. Z.-1 to change the zoning...
 
@@ -3104,7 +3104,7 @@ Unanimous (6-0)
 
 ### 3.3. Application - 1414 Dundas Street (Z-9276)
 
-<a id="motion-3-3-1" class="motion-anchor"></a>
+<div id="motion-3-3-1" class="motion-anchor"></div>
 
 > That the matter of Application for 1414 Dundas Street BE REFERRED back to Civic Administration in order for additional discussion with respect to parking location and reduction and the landscaped buffer with the applicant.
 
@@ -3121,7 +3121,7 @@ Unanimous (6-0)
 
 ### 3.5. Application - 101 Meadowlily Road South 39CD-20502 (OZ-9192)
 
-<a id="motion-3-5-1" class="motion-anchor"></a>
+<div id="motion-3-5-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2690015 Ontario Inc., relating to the property located at 101 Meadowlily Road South: a)       the proposed by-law appended to the staff report dated March 29, 2021 ...
 
@@ -3138,7 +3138,7 @@ Unanimous (6-0)
 
 ### 3.5. Application - 101 Meadowlily Road South 39CD-20502 (OZ-9192)
 
-<a id="motion-3-5-2" class="motion-anchor"></a>
+<div id="motion-3-5-2" class="motion-anchor"></div>
 
 > That the following be added to the recommendation: f) the Civic Administration BE REQUESTED to include the HIA with any recommendation and continue to consult with the London Advisory Committee on Heritage (LACH) on future approvals for this matter and to consult with the LACH on HIA related matt...
 
@@ -3148,7 +3148,7 @@ Unanimous (6-0)
 
 ### 3.8. Application - 1478 Westdel Bourne 39T-20503 (Z-9278)
 
-<a id="motion-3-8-0" class="motion-anchor"></a>
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Townline Orchard Property Ltd., relating to the lands located at 1478 Westdel Bourne: a)       the proposed by-law appended to the staff report dated March 29, 2021...
 
@@ -3158,7 +3158,7 @@ Unanimous (6-0)
 
 ### 3.9. 3080 Bostwick Road - 39T-18502 (Z-8931)
 
-<a id="motion-3-9-0" class="motion-anchor"></a>
+<div id="motion-3-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 731675 Ontario Limited (York Developments Inc.), relating to the lands located at 3080 Bostwick Road: a)       the proposed by-law appended to the staff report date...
 
@@ -3168,7 +3168,7 @@ Unanimous (6-0)
 
 ### 4.2. 2nd Report of the Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 2nd Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on March 18, 2021: a)       the 14 Gideon Drive and 2012 Oxford Street West Working Group comments, appended to the Environmental and Ecologic...
 

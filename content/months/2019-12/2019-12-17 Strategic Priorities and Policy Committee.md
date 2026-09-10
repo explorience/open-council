@@ -259,7 +259,7 @@ The meeting adjourns at 7:26 PM.
 
 ### 2.1. Review of City Services for Potential Reductions and Eliminations - Downtown and Industrial Lands Community Improvement Plans (CIPs)
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That the request for delegation status from C. Butler BE APPROVED to be heard at this time.
 
@@ -278,7 +278,7 @@ The meeting adjourns at 7:26 PM.
 
 ### 3.1. Tabling of the 2020-2023 Multi-Year Budget (Tax Supported, Water and Wastewater and Treatment)
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That the committee recess at this time for fifteen minutes.
 

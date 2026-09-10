@@ -2072,7 +2072,7 @@ The
 ### 2. 3rd Report of the
   Agricultural Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2084,7 +2084,7 @@ Unanimous (5-0)
 ### 3. 7th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2096,7 +2096,7 @@ Unanimous (5-0)
 ### 4. Tax Grant Incentive
   Program for the property located at 637 Dundas Street
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2108,7 +2108,7 @@ Unanimous (5-0)
 ### 5. Properties located
   at 218 Burnside Drive and 220-222 Burnside Drive (Z-8299)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2120,7 +2120,7 @@ Unanimous (5-0)
 ### 6. Amendment to the
   City of London's Tree Conservation By-law, C.P.1466-249
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2133,7 +2133,7 @@ Unanimous (5-0)
   Secondary Plan - Official Plan Amendment No. 541 - Information Report
   (O-7609)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2145,7 +2145,7 @@ Unanimous (5-0)
 ### 8. Property located at
   2405 Concept Drive (formerly 2430 Bradley Avenue) (H-8181)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2157,7 +2157,7 @@ Unanimous (5-0)
 ### 9. Property located at
   705 Freeport Street (H-8215)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2169,7 +2169,7 @@ Unanimous (5-0)
 ### 10. Properties located
   at 1968-1984 Wateroak Drive (H-8153)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2181,7 +2181,7 @@ Unanimous (5-0)
 ### 11. Property located at
   675 Riverside Drive (H-8341)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2193,7 +2193,7 @@ Unanimous (5-0)
 ### 12. Subdivision and
   Development Agreement Security Policy
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2205,7 +2205,7 @@ Unanimous (5-0)
 ### 13. Ballymote Woods
   Subdivision (Lots 88-94 in Plan 33M-631 and Lots 1-12 Plan 33M-632) (P-8205)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2217,7 +2217,7 @@ Unanimous (5-0)
 ### 14. Development
   Inspection Fee
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2229,7 +2229,7 @@ Unanimous (5-0)
 ### 15. Building Division
   Monthly Report for May 2014
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2241,7 +2241,7 @@ Unanimous (5-0)
 ### 16. 7th and 8th Reports
   of the London Advisory Committee on Heritage
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2254,7 +2254,7 @@ Unanimous (5-0)
   Parking Section of 4.19 of the Z-1 By-law and Amendments to the Site Plan
   Control Area By-law (Z-8331)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2267,7 +2267,7 @@ Unanimous (5-0)
   Parking Section of 4.19 of the Z-1 By-law and Amendments to the Site Plan
   Control Area By-law (Z-8331)
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2280,7 +2280,7 @@ Unanimous (5-0)
   Parking Section of 4.19 of the Z-1 By-law and Amendments to the Site Plan
   Control Area By-law (Z-8331)
 
-<a id="motion-17-2" class="motion-anchor"></a>
+<div id="motion-17-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2292,7 +2292,7 @@ Unanimous (5-0)
 ### 18. Proposed Boulevard
   Agreement at 1365 Dundas Street - Highbury Ford
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2304,7 +2304,7 @@ Unanimous (5-0)
 ### 18. Proposed Boulevard
   Agreement at 1365 Dundas Street - Highbury Ford
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2316,7 +2316,7 @@ Unanimous (5-0)
 ### 18. Proposed Boulevard
   Agreement at 1365 Dundas Street - Highbury Ford
 
-<a id="motion-18-2" class="motion-anchor"></a>
+<div id="motion-18-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2328,7 +2328,7 @@ Unanimous (5-0)
 ### 19. Hyde Park
   Industrial Area (O-8340)
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2340,7 +2340,7 @@ Unanimous (5-0)
 ### 19. Hyde Park
   Industrial Area (O-8340)
 
-<a id="motion-19-1" class="motion-anchor"></a>
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2352,7 +2352,7 @@ Unanimous (5-0)
 ### 19. Hyde Park
   Industrial Area (O-8340)
 
-<a id="motion-19-2" class="motion-anchor"></a>
+<div id="motion-19-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2364,7 +2364,7 @@ Unanimous (5-0)
 ### 20. Property located at
   3425 Roe Street (OZ-8360)
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2376,7 +2376,7 @@ Unanimous (5-0)
 ### 20. Property located at
   3425 Roe Street (OZ-8360)
 
-<a id="motion-20-1" class="motion-anchor"></a>
+<div id="motion-20-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2388,7 +2388,7 @@ Unanimous (5-0)
 ### 20. Property located at
   3425 Roe Street (OZ-8360)
 
-<a id="motion-20-2" class="motion-anchor"></a>
+<div id="motion-20-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2400,7 +2400,7 @@ Unanimous (5-0)
 ### 21. Property located at
   4585 Blakie Road (OZ-8361)
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2412,7 +2412,7 @@ Unanimous (5-0)
 ### 21. Property located at
   4585 Blakie Road (OZ-8361)
 
-<a id="motion-21-1" class="motion-anchor"></a>
+<div id="motion-21-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2424,7 +2424,7 @@ Unanimous (5-0)
 ### 21. Property located at
   4585 Blakie Road (OZ-8361)
 
-<a id="motion-21-2" class="motion-anchor"></a>
+<div id="motion-21-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2436,7 +2436,7 @@ Unanimous (5-0)
 ### 22. Property located at
   5279 Colonel Talbot Road (Z-8342)
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2448,7 +2448,7 @@ Unanimous (5-0)
 ### 22. Property located at
   5279 Colonel Talbot Road (Z-8342)
 
-<a id="motion-22-1" class="motion-anchor"></a>
+<div id="motion-22-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2460,7 +2460,7 @@ Unanimous (5-0)
 ### 22. Property located at
   5279 Colonel Talbot Road (Z-8342)
 
-<a id="motion-22-2" class="motion-anchor"></a>
+<div id="motion-22-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2473,7 +2473,7 @@ Unanimous (5-0)
   at 1922-1930 Mallard Road and surrounding properties zoned Open Space (OS4)
   (OZ-8306)
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2486,7 +2486,7 @@ Unanimous (5-0)
   at 1922-1930 Mallard Road and surrounding properties zoned Open Space (OS4)
   (OZ-8306)
 
-<a id="motion-23-1" class="motion-anchor"></a>
+<div id="motion-23-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2499,7 +2499,7 @@ Unanimous (5-0)
   at 1922-1930 Mallard Road and surrounding properties zoned Open Space (OS4)
   (OZ-8306)
 
-<a id="motion-23-2" class="motion-anchor"></a>
+<div id="motion-23-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2511,7 +2511,7 @@ Unanimous (5-0)
 ### 24. Property located at
   930 Gainsborough Road (39T-13505/Z-8308)
 
-<a id="motion-24-0" class="motion-anchor"></a>
+<div id="motion-24-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2523,7 +2523,7 @@ Unanimous (5-0)
 ### 24. Property located at
   930 Gainsborough Road (39T-13505/Z-8308)
 
-<a id="motion-24-1" class="motion-anchor"></a>
+<div id="motion-24-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2535,7 +2535,7 @@ Unanimous (5-0)
 ### 24. Property located at
   930 Gainsborough Road (39T-13505/Z-8308)
 
-<a id="motion-24-2" class="motion-anchor"></a>
+<div id="motion-24-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2547,7 +2547,7 @@ Unanimous (5-0)
 ### 25. Request for
   Demolition – Property located at 646 Dingman Drive
 
-<a id="motion-25-0" class="motion-anchor"></a>
+<div id="motion-25-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2559,7 +2559,7 @@ Unanimous (5-0)
 ### 25. Request for
   Demolition – Property located at 646 Dingman Drive
 
-<a id="motion-25-1" class="motion-anchor"></a>
+<div id="motion-25-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2571,7 +2571,7 @@ Unanimous (5-0)
 ### 25. Request for
   Demolition – Property located at 646 Dingman Drive
 
-<a id="motion-25-2" class="motion-anchor"></a>
+<div id="motion-25-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2583,7 +2583,7 @@ Unanimous (5-0)
 ### 26. Request for
   Demolition – Property located at 1057 Richmond Street
 
-<a id="motion-26-0" class="motion-anchor"></a>
+<div id="motion-26-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2595,7 +2595,7 @@ Unanimous (5-0)
 ### 26. Request for
   Demolition – Property located at 1057 Richmond Street
 
-<a id="motion-26-1" class="motion-anchor"></a>
+<div id="motion-26-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2607,7 +2607,7 @@ Unanimous (5-0)
 ### 26. Request for
   Demolition – Property located at 1057 Richmond Street
 
-<a id="motion-26-2" class="motion-anchor"></a>
+<div id="motion-26-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2619,7 +2619,7 @@ Unanimous (5-0)
 ### 27. Property located at
   660 Sunningdale Road East (39T-09501/OZ-7638)
 
-<a id="motion-27-0" class="motion-anchor"></a>
+<div id="motion-27-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2631,7 +2631,7 @@ Unanimous (6-0)
 ### 27. Property located at
   660 Sunningdale Road East (39T-09501/OZ-7638)
 
-<a id="motion-27-1" class="motion-anchor"></a>
+<div id="motion-27-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2643,7 +2643,7 @@ Unanimous (6-0)
 ### 27. Property located at
   660 Sunningdale Road East (39T-09501/OZ-7638)
 
-<a id="motion-27-2" class="motion-anchor"></a>
+<div id="motion-27-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2655,7 +2655,7 @@ Unanimous (6-0)
 ### 27. Property located at
   660 Sunningdale Road East (39T-09501/OZ-7638)
 
-<a id="motion-27-3" class="motion-anchor"></a>
+<div id="motion-27-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2667,7 +2667,7 @@ Unanimous (6-0)
 ### 28. Properties located
   at 225 and 229 Greenwood Avenue (Z-8289)
 
-<a id="motion-28-0" class="motion-anchor"></a>
+<div id="motion-28-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2679,7 +2679,7 @@ Unanimous (6-0)
 ### 28. Properties located
   at 225 and 229 Greenwood Avenue (Z-8289)
 
-<a id="motion-28-1" class="motion-anchor"></a>
+<div id="motion-28-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2691,7 +2691,7 @@ Unanimous (6-0)
 ### 28. Properties located
   at 225 and 229 Greenwood Avenue (Z-8289)
 
-<a id="motion-28-2" class="motion-anchor"></a>
+<div id="motion-28-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2703,7 +2703,7 @@ Unanimous (6-0)
 ### 29. Property located at
   2118 Richmond Street (OZ-7890)
 
-<a id="motion-29-0" class="motion-anchor"></a>
+<div id="motion-29-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2715,7 +2715,7 @@ Unanimous (6-0)
 ### 29. Property located at
   2118 Richmond Street (OZ-7890)
 
-<a id="motion-29-1" class="motion-anchor"></a>
+<div id="motion-29-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2727,7 +2727,7 @@ Unanimous (6-0)
 ### 29. Property located at
   2118 Richmond Street (OZ-7890)
 
-<a id="motion-29-2" class="motion-anchor"></a>
+<div id="motion-29-2" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -2746,7 +2746,7 @@ Unanimous (6-0)
 ### 29. Property located at
   2118 Richmond Street (OZ-7890)
 
-<a id="motion-29-3" class="motion-anchor"></a>
+<div id="motion-29-3" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -2765,7 +2765,7 @@ Unanimous (6-0)
 ### 30. Properties located
   at 51 and 99 Exeter Road (OZ-8324)
 
-<a id="motion-30-0" class="motion-anchor"></a>
+<div id="motion-30-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2777,7 +2777,7 @@ Unanimous (6-0)
 ### 30. Properties located
   at 51 and 99 Exeter Road (OZ-8324)
 
-<a id="motion-30-1" class="motion-anchor"></a>
+<div id="motion-30-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2796,7 +2796,7 @@ Unanimous (6-0)
 ### 30. Properties located
   at 51 and 99 Exeter Road (OZ-8324)
 
-<a id="motion-30-2" class="motion-anchor"></a>
+<div id="motion-30-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2808,7 +2808,7 @@ Unanimous (6-0)
 ### 30. Properties located
   at 51 and 99 Exeter Road (OZ-8324)
 
-<a id="motion-30-3" class="motion-anchor"></a>
+<div id="motion-30-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2820,7 +2820,7 @@ Unanimous (6-0)
 ### 30. Properties located
   at 51 and 99 Exeter Road (OZ-8324)
 
-<a id="motion-30-4" class="motion-anchor"></a>
+<div id="motion-30-4" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -2839,7 +2839,7 @@ Unanimous (6-0)
 ### 31. 6th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-31-0" class="motion-anchor"></a>
+<div id="motion-31-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2852,7 +2852,7 @@ Unanimous (6-0)
   Heritage Conservation District Status for the Neighbourhood of St.
   George-Grosvenor
 
-<a id="motion-32-0" class="motion-anchor"></a>
+<div id="motion-32-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2864,7 +2864,7 @@ Unanimous (6-0)
 ### 33. Election of
   Vice-Chair for the term ending November 30, 2014
 
-<a id="motion-33-0" class="motion-anchor"></a>
+<div id="motion-33-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2876,7 +2876,7 @@ Unanimous (5-0)
 ### 33. Election of
   Vice-Chair for the term ending November 30, 2014
 
-<a id="motion-33-1" class="motion-anchor"></a>
+<div id="motion-33-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

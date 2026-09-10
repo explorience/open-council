@@ -1005,7 +1005,7 @@ The meeting adjourned at 8:45 PM
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.7, inclusive, BE APPROVED.
 
@@ -1015,7 +1015,7 @@ Unanimous (3-0)
 
 ### 3.3. Public Participation Meeting - Summerside Subdivision - 2910 and 3229 Turner Crescent (Phase 12B) - Request for Revisions to Draft Plan of Subdivision 39T-07508 (Z-9021)
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Greengate Village Limited, relating to the lands located at 2910 to 3229 Turner Crescent (also known as Lots 1 - 38 and Blocks 97 - 108 within the Summerside Draft ...
 
@@ -1025,7 +1025,7 @@ Unanimous (3-0)
 
 ### 3.4. Public Participation Meeting - Application - 462, 468, 470 and 472 Springbank Drive (OZ-8995)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Atlas Springbank Developments Ltd., relating to the properties located at 462, 468, 470, 472 Springbank Drive: a)          the proposed by-law appended to the staff...
 
@@ -1035,7 +1035,7 @@ Unanimous (3-0)
 
 ### 3.9. Public Participation Meeting - 2096 Wonderland Road North (Z-9010)
 
-<a id="motion-3-9-3" class="motion-anchor"></a>
+<div id="motion-3-9-3" class="motion-anchor"></div>
 
 > Motion to grant Mr. Kirkness an extension to his presentation.
 
@@ -1045,7 +1045,7 @@ Unanimous (3-0)
 
 ### 3.10. Public Participation Meeting - Public Site Plan Meeting - 112 St. James Street SPA18-140
 
-<a id="motion-3-10-3" class="motion-anchor"></a>
+<div id="motion-3-10-3" class="motion-anchor"></div>
 
 > Motion to allow Mr. Owen an extension of time.
 
@@ -1055,7 +1055,7 @@ Unanimous (3-0)
 
 ### 3.10. Public Participation Meeting - Public Site Plan Meeting - 112 St. James Street SPA18-140
 
-<a id="motion-3-10-4" class="motion-anchor"></a>
+<div id="motion-3-10-4" class="motion-anchor"></div>
 
 > Motion to approve the following: "the Site Plan Approval Authority BE REQUESTED to consider the following with respect to this application: a)  a masonry enclosure for the temporary storage of external garbage; and, b) the installation of a four-way stop at the intersection of St. James Street an...
 

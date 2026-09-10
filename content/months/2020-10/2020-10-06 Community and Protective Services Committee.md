@@ -353,7 +353,7 @@ The meeting adjourned at 6:16 PM
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.2, 2.3 and 2.5 to 2.8 BE APPROVED.
 
@@ -363,7 +363,7 @@ Unanimous (6-0)
 
 ### 2.1. RFP 20-54 Municipal Parking Enforcement Services
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the following actions be taken with respect to the Municipal Parking Enforcement Services contract, RFP 20-54: a)     the Submission from Imperial Parking Canada Corporation – Pa...
 

@@ -667,7 +667,7 @@ Barboon said the absolute fastest we could fast track it would be three months I
 
 ### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
 
-<a id="motion-2-1-2" class="motion-anchor"></a>
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > That part a) i) 641 Queens Avenue, ii) 434 Elizabeth Street, vi) 824 Dundas Street BE REFERRED to Civic Administration to consult with the Old East Village Business Improvement Area and community association and report back to a future meeting of the Strategic Priorities and Policy Committee.
 
@@ -677,7 +677,7 @@ Unanimous (14-0)
 
 ### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
 
-<a id="motion-2-1-3" class="motion-anchor"></a>
+<div id="motion-2-1-3" class="motion-anchor"></div>
 
 > That part a) of the motion be amended to read as follows: a)    the Civic Administration BE DIRECTED to undertake a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-density housing, encouraging modular construction techn...
 
@@ -687,7 +687,7 @@ Unanimous (14-0)
 
 ### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
 
-<a id="motion-2-1-4" class="motion-anchor"></a>
+<div id="motion-2-1-4" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -697,7 +697,7 @@ Unanimous (14-0)
 
 ### 2.2. Municipal Accommodation Tax - Tourism London Annual Report
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Municipal Accommodation Tax: a)    on the recommendation of the Deputy City Manager, Planning and Economic Development, Tourism’s London annual report on the expenditures of Municipal Accommodation Tax (MAT) revenues BE RECEIVED for informat...
 
@@ -716,7 +716,7 @@ Unanimous (14-0)
 
 ### 2.2. Municipal Accommodation Tax - Tourism London Annual Report
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > That the motion related to the Municipal Accommodation Tax (MAT) BE REFERRED to the next meeting of Strategic Priorities and Policy Committee in order to allow the accommodation industry to provide comment on the proposed increase to the MAT.
 
@@ -735,7 +735,7 @@ Unanimous (14-0)
 
 ### 4.1. 2nd Report of the Strategic Opportunities Review Working Group
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That it BE NOTED the 2nd Report of the Strategic Opportunities Review Working Group was considered at the Council meeting held on July 23, 2024.
 
@@ -752,7 +752,7 @@ Unanimous (14-0)
 
 ### 4.2. 3rd Report of the Strategic Opportunities Review Working Group
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the delegation request from A. McGuigan BE APPROVED to be heard at this time.
 
@@ -762,7 +762,7 @@ Unanimous (15-0)
 
 ### 4.3. 12th Report of the Governance Working Group
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 12th Report of the Special Governance Working Group from its meeting held on August 15, 2024: a)    the Councillor Role Description, as amended and attached, BE APPROVED; b)    on the recommendation of the City Clerk, the following actions b...
 
@@ -772,7 +772,7 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) Support for a Grant Application for the Growing Canada's Community Canopies - Councillors S. Franke and C. Rahman
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the grant application for the Growing Canada's Community Canopies to assist London in achieving our tree canopy target BE SUPPORTED by Municipal Council.
 

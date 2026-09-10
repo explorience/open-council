@@ -1720,7 +1720,7 @@ Thank you. Motion to adjourn is a successful meeting adjourned.
 
 ### 4.1. London Community Recovery Network – Recovery Funding Business Cases
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > Motion to approve Business Case #4: iv) Business Case #4: Talent Attraction and Labour Force Growth for Sustainable Economic Recovery
 
@@ -1730,7 +1730,7 @@ Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to Western University Board of Governors (Requires 2 Members)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to Western University Board of Governors for the term July 1, 2022 to June 30, 2026:    Lori Higgs  Marlene McGrath    it being noted that the Strategic Priorities and Policy Committee received a communication dated June 3, 2022 from R. Konrad, Chair and K. Gibbons...
 
@@ -1740,7 +1740,7 @@ Unanimous (13-0)
 
 ### 5.1. (ADDED) Recruitment for the London and Middlesex Community Housing
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the application process BE RE-ADVERTISED to allow for additional outreach for applicants for the 2 vacant positions for the Board of Directors for the London and Middlesex Community Housing; it being noted that the Strategic Priorities and Policy Committee received a communication dated May ...
 

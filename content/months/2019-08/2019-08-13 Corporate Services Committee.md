@@ -236,7 +236,7 @@ The meeting adjourned at 2:36 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 to 2.3 BE APPROVED.
 
@@ -246,7 +246,7 @@ Unanimous (4-0)
 
 ### 2.4. Demolition - UTRCA Owned - City Managed Property - 1318 Old Bridge Road
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director of Corporate Services and City Treasurer, Chief Financial Officer, on the advice of the Manager of Realty Services, with respect to the property owned by the Upper Thames River Conservation Authority (UTRCA) and managed by the City, located at ...
 
@@ -256,7 +256,7 @@ Unanimous (4-0)
 
 ### 5.1. Appointment to the London Hydro Board of Directors
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Corporate Services Committee, the attached proposed by-law BE INTRODUCED at the Municipal Council meeting to be held August 27, 2019 to: a)         ratify and confirm the Resolution of the Shareholder of London Hydro Inc., appended as Schedule “A” to the by-law;...
 

@@ -161,7 +161,7 @@ The meeting adjourned at 1:05 PM
 
 ### 4.1. Consideration of Appointment for the Accessibility Advisory Committee
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That Alicia McGaw BE APPOINTED as a Voting Member to the Accessibility Advisory Committee for the term ending June 30, 2021.
 
@@ -171,7 +171,7 @@ Unanimous (6-0)
 
 ### 4.2. Request for Delegation Status - Advisory Committees - Dharshi Lacey, Director, Equity, Inclusion and Governance, Pillar Nonprofit Network
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the requested delegations, as identified on the public agenda D. Lacey (4.2) and S. Lewkowitz (4.3), BE APPROVED to be heard at this time.
 

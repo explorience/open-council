@@ -164,7 +164,7 @@ The meeting adjourned at 12:26 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 to 2.3 BE APPROVED.
 
@@ -174,7 +174,7 @@ Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Deferred Matters List, as at May 4, 2020, excluding item #5 – 745-747 Waterloo Street, BE APPROVED.
 
@@ -184,7 +184,7 @@ Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > That Deferred Matters List, as at May 4, 2020, item #5 – 745-747 Waterloo Street, BE APPROVED.
 

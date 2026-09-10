@@ -1033,7 +1033,7 @@ The
 ### 2. 9th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1045,7 +1045,7 @@ Unanimous (4-0)
 ### 3. Urban Agriculture
   Strategy - Draft Terms of Reference
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1059,7 +1059,7 @@ Unanimous (3-0)
   West of Hyde Park Road - Draft Approved Plan - Doman Developments Inc.
   (39T-78066)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1078,7 +1078,7 @@ Unanimous (3-0)
 ### 5. Subdivision
   Agreement Provisions Relating to School Blocks and Park Facilities
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1091,7 +1091,7 @@ Unanimous (4-0)
   1030 Coronation Drive, Hyde Park, Block 8 Reconstruction - Update to DC
   Claimable Works
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1103,7 +1103,7 @@ Unanimous (4-0)
 ### 7. Property located at
   1400 Riverbend Road  (H-8631)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1115,7 +1115,7 @@ Unanimous (4-0)
 ### 8. Foxwood Crossing
   Subdivision - Phase 3 (39T-14502)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1127,7 +1127,7 @@ Unanimous (4-0)
 ### 9. Building Division
   Monthly Report for July 2016
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1139,7 +1139,7 @@ Unanimous (4-0)
 ### 10. Property located at
   25 Gower Street (Z-8648)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1151,7 +1151,7 @@ Unanimous (4-0)
 ### 10. Property located at
   25 Gower Street (Z-8648)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1163,7 +1163,7 @@ Unanimous (4-0)
 ### 10. Property located at
   25 Gower Street (Z-8648)
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1175,7 +1175,7 @@ Unanimous (4-0)
 ### 11. Property located on
   a portion of 1654 Highbury Avenue North (Edgevalley Subdivision)  (Z-8618)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1187,7 +1187,7 @@ Unanimous (4-0)
 ### 11. Property located on
   a portion of 1654 Highbury Avenue North (Edgevalley Subdivision)  (Z-8618)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1199,7 +1199,7 @@ Unanimous (4-0)
 ### 11. Property located on
   a portion of 1654 Highbury Avenue North (Edgevalley Subdivision)  (Z-8618)
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1211,7 +1211,7 @@ Unanimous (4-0)
 ### 12. Portion of Land
   Known Municipally as 1500 Dundas Street East (Z-8628)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1223,7 +1223,7 @@ Unanimous (5-0)
 ### 12. Portion of Land
   Known Municipally as 1500 Dundas Street East (Z-8628)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1235,7 +1235,7 @@ Unanimous (4-0)
 ### 12. Portion of Land
   Known Municipally as 1500 Dundas Street East (Z-8628)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1247,7 +1247,7 @@ Unanimous (5-0)
 ### 13. Property located at
   21 Wharncliffe Road South (OZ-8484)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1259,7 +1259,7 @@ Unanimous (5-0)
 ### 13. Property located at
   21 Wharncliffe Road South (OZ-8484)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1271,7 +1271,7 @@ Unanimous (5-0)
 ### 13. Property located at
   21 Wharncliffe Road South (OZ-8484)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1284,7 +1284,7 @@ Unanimous (5-0)
   at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue
   (Z-8617)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1304,7 +1304,7 @@ Unanimous (5-0)
   at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue
   (Z-8617)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1317,7 +1317,7 @@ Unanimous (5-0)
   at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue
   (Z-8617)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1329,7 +1329,7 @@ Unanimous (4-0)
 ### 15. Walkway at Clayton
   Walk
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1341,7 +1341,7 @@ Unanimous (4-0)
 ### 16. 8th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1353,7 +1353,7 @@ Unanimous (5-0)
 ### 17. Brownfield
   Incentive Application - Chelsea Green Meadows (33M-686)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1365,7 +1365,7 @@ Unanimous (4-0)
 ### 18. Dundas Flex Street –
   Programming
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -932,7 +932,7 @@ The
   Consultant - Engineering Services for Class EA and Design of Upgrades for
   East Park Pumping Station
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -945,7 +945,7 @@ Unanimous (4-0)
   Consulting Engineers for the Core Area Servicing Studies RFP's - 16-14,
   16-15, 16-16 (Irregular)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -957,7 +957,7 @@ Unanimous (4-0)
 ### 4. Appointment of
   Consulting Engineers - Infrastructure Renewal Program 2017-2018
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -970,7 +970,7 @@ Unanimous (4-0)
   Increase - Tender No. T13-73 Elgin Middlesex Pumping Station Upgrades and
   Increase in Engineering Fees
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -983,7 +983,7 @@ Unanimous (4-0)
   East, Highbury Avenue North, Fanshawe Park Road East and Byron Baseline Road
   Pipeline Inspection - Single Source Procurement
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -995,7 +995,7 @@ Unanimous (4-0)
 ### 7. Wickerson Pumping
   Station Upgrades Additional Funding EW3653
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1007,7 +1007,7 @@ Unanimous (4-0)
 ### 8. Amendments to the
   Traffic and Parking By-law to Support Mobile App Payments
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1019,7 +1019,7 @@ Unanimous (4-0)
 ### 9. Single Source Award
   - SCADA System Reporting Software
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1031,7 +1031,7 @@ Unanimous (4-0)
 ### 10. 2015 Community
   Energy and Greenhouse Gas Inventory
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1043,7 +1043,7 @@ Unanimous (4-0)
 ### 11. Community Energy
   Action Plan - Update and Status
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1055,7 +1055,7 @@ Unanimous (4-0)
 ### 12. Review and Action
   at Selected Garbage Can, Needle Bins and Signage Areas - Downtown London
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1067,7 +1067,7 @@ Unanimous (4-0)
 ### 13. Overnight Parking
   2016 and Beyond
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1079,7 +1079,7 @@ Unanimous (4-0)
 ### 14. Computerized
   Maintenance Management System Acquisition – Esri Canada Limited Cityworks
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1091,7 +1091,7 @@ Unanimous (4-0)
 ### 15. Proposed Changes to
   the Garbage Container Limit
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1110,7 +1110,7 @@ Unanimous (4-0)
 ### 15. Proposed Changes to
   the Garbage Container Limit
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > 
 
@@ -1128,7 +1128,7 @@ Unanimous (4-0)
 ### 15. Proposed Changes to
   the Garbage Container Limit
 
-<a id="motion-15-2" class="motion-anchor"></a>
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1147,7 +1147,7 @@ Unanimous (4-0)
 ### 15. Proposed Changes to
   the Garbage Container Limit
 
-<a id="motion-15-3" class="motion-anchor"></a>
+<div id="motion-15-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1159,7 +1159,7 @@ Unanimous (4-0)
 ### 16. Flooding Matters
   Work Plan - Phase 1 (Investigation)
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1171,7 +1171,7 @@ Unanimous (4-0)
 ### 17. London ON Bikes -
   Draft Cycling Master Plan
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1183,7 +1183,7 @@ Unanimous (4-0)
 ### 18. 6th Report of the
   Cycling Advisory Committee
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1195,7 +1195,7 @@ Unanimous (4-0)
 ### 19. Deferred Matters
   List
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1207,7 +1207,7 @@ Unanimous (4-0)
 ### 20. Request for
   Colouring Pedestrian Crosswalks
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -168,7 +168,7 @@ The Strategic Priorities and Policy
   Treasurer, Chief Financial Officer and Director, Financial Planning and
   Policy)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -179,7 +179,7 @@ Unanimous (15-0)
 ### 3. Strategic Plan -
   Tabling of Strategies
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -190,7 +190,7 @@ Unanimous (14-0)
 ### 4. (ADDED) Provision of PowerPoint
   Presentations
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 

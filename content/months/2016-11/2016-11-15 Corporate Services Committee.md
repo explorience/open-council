@@ -447,7 +447,7 @@ The
   Offer to Purchase Industrial Lands - PTN Holdings Limited - Part of Lot 4 -
   Trafalgar Industrial Park, Phase lll
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -459,7 +459,7 @@ Unanimous (6-0)
 ### 3. STAFF REPORT -
   Signing Authority By-law
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -472,7 +472,7 @@ Unanimous (6-0)
   Subordination Agreement Request: Libro Credit Union and London Community
   Players
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -484,7 +484,7 @@ Unanimous (6-0)
 ### 5. STAFF REPORT - City
   of London 2017 Federal Budget Submission – City Building is Nation Building
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -496,7 +496,7 @@ Unanimous (4-0)
 ### 6. STAFF REPORT - Expropriation
   of Land - Western Road Widening and Improvement Project TS 1489-1
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -509,7 +509,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Proposed Amendments to Council Procedure By-law -
   Acting Mayor and Council Policy 5(1) Appointment of Deputy Mayors
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -522,7 +522,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Proposed Amendments to Council Procedure By-law -
   Acting Mayor and Council Policy 5(1) Appointment of Deputy Mayors
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -535,7 +535,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Proposed Amendments to Council Procedure By-law -
   Acting Mayor and Council Policy 5(1) Appointment of Deputy Mayors
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -547,7 +547,7 @@ Unanimous (6-0)
 ### 8. DELEGATION - Canada
   150 London Celebration
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -559,7 +559,7 @@ Unanimous (6-0)
 ### 8. DELEGATION - Canada
   150 London Celebration
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -572,7 +572,7 @@ Unanimous (6-0)
   SUBMISSION - Bill 46 - Municipal Statute Law Amendment Act (Councillor
   Pregnancy and Parental Leave) 2016
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -583,7 +583,7 @@ Unanimous (6-0)
 
 ### 10. ADDED – Community Investment Reserve Fund
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

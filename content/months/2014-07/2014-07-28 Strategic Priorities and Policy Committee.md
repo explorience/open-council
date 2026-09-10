@@ -395,7 +395,7 @@ The Strategic Priorities and Policy
 ### 2. 2011-2014 Report to
   the Community
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -407,7 +407,7 @@ Unanimous (12-0)
 ### 3. Appointment to the
   Greater London International Airport Authority Board of Directors
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -419,7 +419,7 @@ Unanimous (10-0)
 ### 4. London Hydro
   Promissory Note to the City of London
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -431,7 +431,7 @@ Unanimous (13-0)
 ### 5. Proposal to
   Establish a Housing Development Corporation
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -443,7 +443,7 @@ Unanimous (13-0)
 ### 6. Review of Council
   Policy 5(1) - Process for the Appointment of an Acting Mayor
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -462,7 +462,7 @@ Unanimous (13-0)
 ### 6. Review of Council
   Policy 5(1) - Process for the Appointment of an Acting Mayor
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Lost
 
@@ -480,7 +480,7 @@ Unanimous (13-0)
 ### 6. Review of Council
   Policy 5(1) - Process for the Appointment of an Acting Mayor
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Lost
 
@@ -498,7 +498,7 @@ Unanimous (13-0)
 ### 7. Improvements to
   Governance Model and Tracking Approved Projects
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -517,7 +517,7 @@ Unanimous (13-0)
 ### 8. Appointments to the
   London Public Library, 2014 - Term December 1, 2014 to November 30, 2018
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

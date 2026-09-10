@@ -84,15 +84,27 @@ export function motionAnchorId(
 }
 
 /**
- * The markdown/HTML the Votes-section generator writes. Raw HTML on its own
- * block line: Quartz parses it (ObsidianFlavoredMarkdown registers
- * rehype-raw) into a real, empty <a> element that rehype-slug ignores
- * because it is not a heading. `class` is only used for a scroll offset so
- * the motion's own heading stays visible when a reader taps through.
+ * The markdown/HTML the Votes-section generator writes.
+ *
+ * A <div>, deliberately, not an <a>. CommonMark only treats a raw-HTML line
+ * as a BLOCK when its tag is on the block-tag list; <a> is not on it, so an
+ * anchor written as `<a id=…></a>` comes back wrapped in a paragraph
+ * (`<p><a …></a></p>`) and that empty paragraph's margins add visible
+ * whitespace under every motion heading on 1,376 meeting pages. <div> is on
+ * the list, so it passes through as its own block with no wrapper. Any
+ * element with an id is a valid fragment target, so nothing else changes.
+ *
+ * Quartz parses this raw HTML into a real element (ObsidianFlavoredMarkdown
+ * registers rehype-raw), and rehype-slug ignores it because it is not a
+ * heading — which is what keeps this additive. `class` carries only a
+ * scroll offset, so the motion's own heading stays on screen when a reader
+ * taps through.
  */
 export function motionAnchorHtml(anchorId: string): string {
-  return `<a id="${anchorId}" class="motion-anchor"></a>`;
+  return `<div id="${anchorId}" class="motion-anchor"></div>`;
 }
 
-/** Matches an emitted anchor in a meeting page's markdown or HTML. */
-export const MOTION_ANCHOR_ID_PATTERN = /id="(motion-[a-z0-9-]+)"/g;
+/** Matches an emitted anchor in a meeting page's markdown or HTML. The <a>
+ * form is accepted too: it is what the first cut emitted, and anchors are
+ * append-only, so a page carrying one must keep resolving. */
+export const MOTION_ANCHOR_ID_PATTERN = /<(?:div|a) id="(motion-[a-z0-9-]+)"/g;

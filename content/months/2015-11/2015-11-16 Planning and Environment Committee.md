@@ -308,7 +308,7 @@ The
 ### 2. 8th Report of the
   Advisory Committee on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -320,7 +320,7 @@ Unanimous (4-0)
 ### 3. 7th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -332,7 +332,7 @@ Unanimous (4-0)
 ### 4. Byron Gravel Pits
   Secondary Plan - Information Update
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -344,7 +344,7 @@ Unanimous (4-0)
 ### 5. Properties located
   at 3294 Singleton Avenue and a portion of 3260 Singleton Avenue (H-8485)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -356,7 +356,7 @@ Unanimous (4-0)
 ### 6. Building Division
   Monthly Report for May to September 2015
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -369,7 +369,7 @@ Unanimous (4-0)
   800 Sunningdale Road West - Draft Approved Plan 39T-05508 - Sunningdale Golf
   Club Limited (39T-05508/Z-8515)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -389,7 +389,7 @@ Unanimous (4-0)
   800 Sunningdale Road West - Draft Approved Plan 39T-05508 - Sunningdale Golf
   Club Limited (39T-05508/Z-8515)
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -402,7 +402,7 @@ Unanimous (4-0)
   800 Sunningdale Road West - Draft Approved Plan 39T-05508 - Sunningdale Golf
   Club Limited (39T-05508/Z-8515)
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

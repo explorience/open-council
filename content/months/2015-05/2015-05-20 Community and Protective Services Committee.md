@@ -389,7 +389,7 @@ Motion
 ### 2. 1st Report of the City
   of London and London District Catholic School Board Liaison Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -401,7 +401,7 @@ Unanimous (5-0)
 ### 3. 2nd Report of the Childcare
   Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -413,7 +413,7 @@ Unanimous (5-0)
 ### 4. 4th Report of the Accessibility
   Advisory Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -425,7 +425,7 @@ Unanimous (5-0)
 ### 5. 4th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -438,7 +438,7 @@ Unanimous (5-0)
   Affordable Housing (IAH) Program (2014 Extension) Recommendation for
   Proposals Under RFP 15-14
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -450,7 +450,7 @@ Unanimous (5-0)
 ### 7. Immigrants and the
   Labour Market - A London Perspective
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -463,7 +463,7 @@ Unanimous (5-0)
   Multi-Sector Service Accountability Agreement Dearness Home Adult Day Program
   and the South West LHIN Declaration of Compliance
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -475,7 +475,7 @@ Unanimous (5-0)
 ### 9. RZONE Policy -
   Implementation Update
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -487,7 +487,7 @@ Unanimous (5-0)
 ### 10. Update on Responses
   to Unsafe Housing Conditions of Vulnerable Persons
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -499,7 +499,7 @@ Unanimous (5-0)
 ### 11. 5th Report of the London
   Diversity and Race Relations Advisory Committee
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -511,7 +511,7 @@ Unanimous (5-0)
 ### 12. Deferred Matters
   List
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

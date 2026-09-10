@@ -401,7 +401,7 @@ The meeting adjourned at 7:50 PM.
 
 ### 2.1. Mandatory Face Coverings By-law Status Update
 
-<a id="motion-2-1-2" class="motion-anchor"></a>
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > That the delegations, as noted on the committee agenda, BE APPROVED to be heard at this time.
 
@@ -411,7 +411,7 @@ Unanimous (14-0)
 
 ### 3.2. Delegation - Paul Yeoman, Chair and Rosanna Wilcox, Vice Chair, London Middlesex Community Housing Board of Directors - London and Middlesex Community Housing
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the governance review of London & Middlesex Community Housing (LMCH): a)      the recommendations of the LMCH Board, as outlined in their presentation and report dated December 16, 2020, BE ENDORSED; b)      the Civic Administration BE DIRECTED ...
 
@@ -421,7 +421,7 @@ Unanimous (15-0)
 
 ### 4.1. Governance Functional Review - Housing Development Corporation, London (HDC)
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Acting Managing Director, Housing, Social Services and Dearness Home, the Managing Director, Corporate Services and the City Treasurer, Chief Financial Officer and with the concurrence of the City Manager, that the following actions be taken with respect to the ...
 
@@ -438,7 +438,7 @@ Unanimous (15-0)
 
 ### 4.2. Diversity, Race Relations and Inclusivity Award Nominations
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2020 Diversity, Race Relations and Inclusivity Award:    a)     Immploy BE AWARDED the 2020 Diversity, Race Relations and Inclusivity Award, in the Social/Community Services (including Not-for-Profits) (49 or fewer employees/members);    b) ...
 
@@ -448,7 +448,7 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) Protocol London Police Services Business Plan Timelines
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the communication dated November 17, 2020 from Dr. J. Sukhera, Chair, London Police Services Board and S. Williams, Chief of Police, BE RECEIVED and the protocol therein BE APPROVED.
 

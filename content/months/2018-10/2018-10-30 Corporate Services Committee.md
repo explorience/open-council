@@ -271,7 +271,7 @@ The meeting adjourned at 1:02 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.7, excluding 2.3, BE APPROVED.
 
@@ -281,7 +281,7 @@ Unanimous (5-0)
 
 ### 2.3. Land Allocation - Fire Station No. 15 - Innovation Drive
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, with the concurrence of the Fire Chief and the Managing Director, Neighbourhood, Children and Fire Services, on the advice of the Manager of Realty Services, with respect to a por...
 

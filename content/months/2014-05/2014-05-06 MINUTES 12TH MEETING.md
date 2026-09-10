@@ -1682,7 +1682,7 @@ Motion Passed
 ### 11#2. Request to start
   the May 13, 2014 Planning and Environment Committee meeting at 4:30 PM
 
-<a id="motion-11-2-0" class="motion-anchor"></a>
+<div id="motion-11-2-0" class="motion-anchor"></div>
 
 > That, notwithstanding Section 24.11 of the   Council Procedure By-law, the May 13, 2014 meeting of the Planning and   Environment Committee commence at 4:30 PM.
 
@@ -1693,7 +1693,7 @@ Unanimous (14-0)
 ### 3#2. Gore Road Bridge
   Replacement (Tender No. 14-28)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > Amend clause 3 by deleting part c) in its   entirety and by replacing it with the following new part c):   “c)        the   funding for the project BE APPROVED as set out in the Sources of Financing   Report attached as Appendix “A”;
 
@@ -1704,7 +1704,7 @@ Unanimous (14-0)
 ### 3#2. Gore Road Bridge
   Replacement (Tender No. 14-28)
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > Approve clause 3, as amended.
 
@@ -1715,7 +1715,7 @@ Unanimous (14-0)
 ### 6#4. 2014 Ontario
   Provincial General Election Candidate Questionnaire
 
-<a id="motion-6-4-0" class="motion-anchor"></a>
+<div id="motion-6-4-0" class="motion-anchor"></div>
 
 > energy prices in Ontario are competitive   with the North American market?   ii)         How   will you and your Party improve mental health and addictions services so that   people can be supported effectively and not be discharged to homeless   shelters without any support?  What will you and y...
 
@@ -1726,7 +1726,7 @@ Unanimous (12-0)
 ### 6#4. 2014 Ontario
   Provincial General Election Candidate Questionnaire
 
-<a id="motion-6-4-1" class="motion-anchor"></a>
+<div id="motion-6-4-1" class="motion-anchor"></div>
 
 > Approve that pursuant to section 13.6 of   the Council Procedure By-law, that reconsideration of clause 6 be given  to   correct a voting error.
 
@@ -1737,7 +1737,7 @@ Unanimous (12-0)
 ### 6#4. 2014 Ontario
   Provincial General Election Candidate Questionnaire
 
-<a id="motion-6-4-2" class="motion-anchor"></a>
+<div id="motion-6-4-2" class="motion-anchor"></div>
 
 > Amend clause 6 by deleting part a) in its   entirety and by replacing it with the following new part a):   “a)       the   following three additional questions and those contained in the staff report   dated April 29, 2014 BE APPROVED:   i)          How   will you and your Party ensure that energ...
 
@@ -1748,7 +1748,7 @@ Unanimous (12-0)
 ### 6#4. 2014 Ontario
   Provincial General Election Candidate Questionnaire
 
-<a id="motion-6-4-3" class="motion-anchor"></a>
+<div id="motion-6-4-3" class="motion-anchor"></div>
 
 > Approve clause 6, as amended.
 
@@ -1759,7 +1759,7 @@ Unanimous (12-0)
 ### 8#3. Old East Village
   BIA Request for Signage within the Community Improvement Plan Area
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the communication dated April 11,   2014, from S. Merritt, Manager, Old East Village BIA, with respect to   proposed signage for the Old East Village district BE REFERRED to the Civic   Administration in order to assist in the co-ordination of the request and   necessary approvals and to per...
 
@@ -1770,7 +1770,7 @@ Unanimous (14-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the following reasons.
 
@@ -1781,7 +1781,7 @@ Unanimous (13-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-1" class="motion-anchor"></a>
+<div id="motion-iv-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1792,7 +1792,7 @@ Unanimous (14-0)
 ### IV#2. COMMITTEE OF THE WHOLE, IN
   CAMERA (continued)
 
-<a id="motion-iv-2-0" class="motion-anchor"></a>
+<div id="motion-iv-2-0" class="motion-anchor"></div>
 
 > Refer clause 2 back to the Civic Administration   for further consideration of all matters noted during the debate of this   matter, and to incorporate a more fulsome map depicting the designated areas.
 
@@ -1810,7 +1810,7 @@ Unanimous (14-0)
 ### IV#2. COMMITTEE OF THE WHOLE, IN
   CAMERA (continued)
 
-<a id="motion-iv-2-1" class="motion-anchor"></a>
+<div id="motion-iv-2-1" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1828,7 +1828,7 @@ Unanimous (14-0)
 ### IV#2. COMMITTEE OF THE WHOLE, IN
   CAMERA (continued)
 
-<a id="motion-iv-2-2" class="motion-anchor"></a>
+<div id="motion-iv-2-2" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1846,7 +1846,7 @@ Unanimous (14-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON APRIL 15, 2014
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 11th Meeting   held on April 15, 2014.
 
@@ -1860,7 +1860,7 @@ Unanimous (14-0)
   Committee Stage for Consideration with Clause 6 of the 13th Report of the
   Corporate Services Committee.)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1872,7 +1872,7 @@ Unanimous (14-0)
   Conservation District Plan and Conservation Guidelines and Official Plan
   Amendments to Implement District (OZ-8295)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Approve that clause 10 be amended as   follows:   i)            by amending part a) by adding the words “revised attached”   after the word “proposed”   and by deleting the words “as appended to the   revised staff report dated April 29, 2014”; and ,   ii)          by amending part b) by adding t...
 
@@ -1884,7 +1884,7 @@ Unanimous (14-0)
   Conservation District Plan and Conservation Guidelines and Official Plan
   Amendments to Implement District (OZ-8295)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Approve clause 10, as amended.
 
@@ -1895,7 +1895,7 @@ Unanimous (14-0)
 ### 12. Beaverbrook and
   Riverside - High Density Traffic Zone Safety Issues
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > That the communication dated April 28,   2014, received from Councillor J.L. Bryant and Councillor P. Hubert, with   respect to high density traffic zone safety issues at Beaverbrook Avenue and   Riverside Drive, BE REFERRED to the Civic Administration for report back as   soon as possible with a...
 
@@ -1906,7 +1906,7 @@ Unanimous (14-0)
 ### 15. Additional
   Sidewalks in the W. Sherwood Fox Public School Area
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED   to report back at a future meeting of the Civic Works Committee with respect   to the actions that will be taken in response to concerns raised by residents   in the area of W. Sherwood Fox Public School regarding the need for additional   sidewalks.
 

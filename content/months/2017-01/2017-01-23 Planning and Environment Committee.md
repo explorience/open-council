@@ -764,7 +764,7 @@ The
 ### 2. 2nd Report of the
   Advisory Committee on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -776,7 +776,7 @@ Unanimous (4-0)
 ### 3. 1st Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -788,7 +788,7 @@ Unanimous (4-0)
 ### 4. STAFF REPORT - Building
   Division Monthly Report for November 2016
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -800,7 +800,7 @@ Unanimous (4-0)
 ### 5. 2nd Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -812,7 +812,7 @@ Unanimous (5-0)
 ### 6. PUBLIC
   PARTICIPATION MEETING - Property located at 169 Foster Avenue (Z-8651)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -824,7 +824,7 @@ Unanimous (5-0)
 ### 6. PUBLIC
   PARTICIPATION MEETING - Property located at 169 Foster Avenue (Z-8651)
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -836,7 +836,7 @@ Unanimous (5-0)
 ### 6. PUBLIC
   PARTICIPATION MEETING - Property located at 169 Foster Avenue (Z-8651)
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -848,7 +848,7 @@ Unanimous (5-0)
 ### 7. PUBLIC
   PARTICIPATION MEETING - Property Located at 1509 Ed Ervasti Lane (39T-16507)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -860,7 +860,7 @@ Unanimous (5-0)
 ### 7. PUBLIC
   PARTICIPATION MEETING - Property Located at 1509 Ed Ervasti Lane (39T-16507)
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -872,7 +872,7 @@ Unanimous (5-0)
 ### 7. PUBLIC
   PARTICIPATION MEETING - Property Located at 1509 Ed Ervasti Lane (39T-16507)
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -884,7 +884,7 @@ Unanimous (5-0)
 ### 8. STAFF REPORT - The
   London Plan - Minister's Modifications
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -897,7 +897,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property Located at 1245 Michael Street
   (39T-1506/Z-8664)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -910,7 +910,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property Located at 1245 Michael Street
   (39T-1506/Z-8664)
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -923,7 +923,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property Located at 1245 Michael Street
   (39T-1506/Z-8664)
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -936,7 +936,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property Located at 1245 Michael Street
   (39T-1506/Z-8664)
 
-<a id="motion-9-3" class="motion-anchor"></a>
+<div id="motion-9-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -948,7 +948,7 @@ Unanimous (5-0)
 ### 10. STAFF REPORT -
   Mushroom Farm Zoning Review (Z-8513)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

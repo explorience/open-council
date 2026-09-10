@@ -377,7 +377,7 @@ The meeting adjourned at 1:08 PM.
 ### 2. Election of
   Vice-Chair for the term ending November 30, 2017
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -389,7 +389,7 @@ Unanimous (4-0)
 ### 3. STAFF REPORT -
   Flooding Matters Phase ll - Progress Report
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -401,7 +401,7 @@ Unanimous (6-0)
 ### 4. STAFF REPORT -
   Traffic and Parking By-law Consolidation
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -414,7 +414,7 @@ Unanimous (6-0)
   Adelaide Street/Canadian Pacific Railway Grade Separation Environmental Assessment
   Update
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -426,7 +426,7 @@ Unanimous (6-0)
 ### 6. STAFF REPORT -
   Options for Increased Recycling in the Downtown Core
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -439,7 +439,7 @@ Unanimous (6-0)
   Comments on the Ministry of Energy's Discussion Paper on Ontario's Long-Term
   Energy Plan for Submission to the Environmental Bill of Rights (EBR) Registry
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -453,7 +453,7 @@ Unanimous (4-0)
   for Chemicals and Fuels from Alternative Resources) as Part of the London
   Waste to Resources Innovation Centre
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -466,7 +466,7 @@ Unanimous (6-0)
   Matthews, P. Eng., Dillon Consulting  -  Dundas Place - Environmental Study
   Report
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -478,7 +478,7 @@ Unanimous (6-0)
 ### 10. Deferred Matters
   List
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -490,7 +490,7 @@ Unanimous (6-0)
 ### 11. (ADDED) COUNCILLOR
   SUBMISSION - Rapid Transit Corridor Traffic Flow
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

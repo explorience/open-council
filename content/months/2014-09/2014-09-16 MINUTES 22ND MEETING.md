@@ -1447,7 +1447,7 @@ Passed
 ### 2#2. Tribunal -
   Development Charge Complaint - 1030 Elias Street
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > Approve that the Record of Proceedings   be amended by inserting the word “no” after the words “There was” in line 2,   paragraph 3 of page 7 of the Record of Proceedings so that the sentence now   reads “There was no support by other Tribunal Members for that proposal.”
 
@@ -1458,7 +1458,7 @@ Unanimous (13-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > MOTION FOR IN CAMERA SESSION
 
@@ -1469,7 +1469,7 @@ Unanimous (13-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-1" class="motion-anchor"></a>
+<div id="motion-iv-1" class="motion-anchor"></div>
 
 > Approve clause 2, as amended.
 
@@ -1487,7 +1487,7 @@ Unanimous (13-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-2" class="motion-anchor"></a>
+<div id="motion-iv-2" class="motion-anchor"></div>
 
 > Approve that the following actions be   taken with respect to the complaint by Junction Climbing Centre Inc.   regarding development charges imposed by The Corporation of the City of   London in connection with development on the land known as 1030 Elias Street:   a)         the   development cha...
 
@@ -1506,7 +1506,7 @@ Unanimous (13-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-FIRST MEETING HELD ON SEPTEMBER 2,
   2014
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of 21st Meeting held   on September 2, 2014.
 
@@ -1516,7 +1516,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-0" class="motion-anchor"></a>
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Approve Introduction and First   Reading of Bill No. 449.
 
@@ -1526,7 +1526,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First   Reading of Bill No.s 431 to 455, excluding Bill No.s 436, 437 and 449.
 
@@ -1540,7 +1540,7 @@ Unanimous (13-0)
   Planning and Environment Committee stage for consideration with clause 18 of
   the 16th Report of the Planning and Environment Committee.)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1551,7 +1551,7 @@ Unanimous (13-0)
 ### 17. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Approve that part a) of clause 17 be   amended in line 1 by inserting the word “revised” before the word “proposed”   and that the proposed by-law included in part a) be amended in Section 2 of   Part D “The Amendment” of the proposed Official Plan Amendment, by deleting   the street name “Sunnin...
 
@@ -1562,7 +1562,7 @@ Unanimous (13-0)
 ### 17. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Approve clause 17, as amended.
 
@@ -1574,7 +1574,7 @@ Unanimous (13-0)
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
   Marr Drain (O-8362)
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Approve that clause 18 be referred back   to the Civic Administration for further review and consultation and report   back at a future meeting of the Planning and Environment Committee.
 

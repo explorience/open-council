@@ -1988,7 +1988,7 @@ The
 ### 2. 4th Report of the
   Advisory Committee on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2000,7 +2000,7 @@ Unanimous (6-0)
 ### 3. Property located at
   215 Fanshawe Park Road West (H-8291)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2012,7 +2012,7 @@ Unanimous (6-0)
 ### 4. Property located at
   2245 Callingham Drive (H-8216)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2025,7 +2025,7 @@ Unanimous (6-0)
   751 Fanshawe Park Road West - Draft Approved Plan - Vista Woods Estates
   Limited (39T-03505)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2037,7 +2037,7 @@ Unanimous (6-0)
 ### 6. Entertainment on
   Outdoor Patios
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2049,7 +2049,7 @@ Unanimous (6-0)
 ### 7. Property located at
   930 Gainsborough Road
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2061,7 +2061,7 @@ Unanimous (6-0)
 ### 8. Building Division
   Monthly Report for February 2014
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2073,7 +2073,7 @@ Unanimous (6-0)
 ### 9. Blackfriars/Petersville
   Heritage Conservation District Draft Plan and Conservation Guidelines
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2085,7 +2085,7 @@ Unanimous (6-0)
 ### 10. 4th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2097,7 +2097,7 @@ Unanimous (6-0)
 ### 11. Property located at
   1796 Adelaide Street North (Z-8301)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2109,7 +2109,7 @@ Unanimous (6-0)
 ### 11. Property located at
   1796 Adelaide Street North (Z-8301)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2121,7 +2121,7 @@ Unanimous (6-0)
 ### 11. Property located at
   1796 Adelaide Street North (Z-8301)
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2133,7 +2133,7 @@ Unanimous (6-0)
 ### 11. Property located at
   1796 Adelaide Street North (Z-8301)
 
-<a id="motion-11-3" class="motion-anchor"></a>
+<div id="motion-11-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2148,7 +2148,7 @@ Unanimous (6-0)
   209, 215, 223, 231, 239, 247, 255, 261, 267, 275, 283 and 297 Bradwell Chase
   and 2079, 2085 and 2093 Pelkey Road (Z-8319)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2163,7 +2163,7 @@ Unanimous (6-0)
   209, 215, 223, 231, 239, 247, 255, 261, 267, 275, 283 and 297 Bradwell Chase
   and 2079, 2085 and 2093 Pelkey Road (Z-8319)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2178,7 +2178,7 @@ Unanimous (6-0)
   209, 215, 223, 231, 239, 247, 255, 261, 267, 275, 283 and 297 Bradwell Chase
   and 2079, 2085 and 2093 Pelkey Road (Z-8319)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2193,7 +2193,7 @@ Unanimous (6-0)
   209, 215, 223, 231, 239, 247, 255, 261, 267, 275, 283 and 297 Bradwell Chase
   and 2079, 2085 and 2093 Pelkey Road (Z-8319)
 
-<a id="motion-12-3" class="motion-anchor"></a>
+<div id="motion-12-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2205,7 +2205,7 @@ Unanimous (6-0)
 ### 13. City-Wide Offical
   Plan/Zoning By-law Review - City of London (OZ-8219)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2217,7 +2217,7 @@ Unanimous (6-0)
 ### 13. City-Wide Offical
   Plan/Zoning By-law Review - City of London (OZ-8219)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2229,7 +2229,7 @@ Unanimous (6-0)
 ### 13. City-Wide Offical
   Plan/Zoning By-law Review - City of London (OZ-8219)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2241,7 +2241,7 @@ Unanimous (6-0)
 ### 14. Property located at
   457 Southdale Road West (Z-8314)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2253,7 +2253,7 @@ Unanimous (6-0)
 ### 14. Property located at
   457 Southdale Road West (Z-8314)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2265,7 +2265,7 @@ Unanimous (6-0)
 ### 14. Property located at
   457 Southdale Road West (Z-8314)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2278,7 +2278,7 @@ Unanimous (6-0)
   at 73, 77, 81 and 91 Southdale Road East and 3021 and 3033 White Oak Road
   (Z-8305)
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2291,7 +2291,7 @@ Unanimous (6-0)
   at 73, 77, 81 and 91 Southdale Road East and 3021 and 3033 White Oak Road
   (Z-8305)
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2304,7 +2304,7 @@ Unanimous (6-0)
   at 73, 77, 81 and 91 Southdale Road East and 3021 and 3033 White Oak Road
   (Z-8305)
 
-<a id="motion-15-2" class="motion-anchor"></a>
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2316,7 +2316,7 @@ Unanimous (6-0)
 ### 16. Properties located
   at 2250 Blackwater Road and 660 and 670 Garibaldi Avenue (Z-8190)
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2328,7 +2328,7 @@ Unanimous (6-0)
 ### 16. Properties located
   at 2250 Blackwater Road and 660 and 670 Garibaldi Avenue (Z-8190)
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2340,7 +2340,7 @@ Unanimous (6-0)
 ### 16. Properties located
   at 2250 Blackwater Road and 660 and 670 Garibaldi Avenue (Z-8190)
 
-<a id="motion-16-2" class="motion-anchor"></a>
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2352,7 +2352,7 @@ Unanimous (6-0)
 ### 16. Properties located
   at 2250 Blackwater Road and 660 and 670 Garibaldi Avenue (Z-8190)
 
-<a id="motion-16-3" class="motion-anchor"></a>
+<div id="motion-16-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2364,7 +2364,7 @@ Unanimous (6-0)
 ### 17. Property located at
   1140 Southdale Road West (Z-8302/O-8303)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2376,7 +2376,7 @@ Unanimous (6-0)
 ### 17. Property located at
   1140 Southdale Road West (Z-8302/O-8303)
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2388,7 +2388,7 @@ Unanimous (6-0)
 ### 17. Property located at
   1140 Southdale Road West (Z-8302/O-8303)
 
-<a id="motion-17-2" class="motion-anchor"></a>
+<div id="motion-17-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2400,7 +2400,7 @@ Unanimous (6-0)
 ### 17. Property located at
   1140 Southdale Road West (Z-8302/O-8303)
 
-<a id="motion-17-3" class="motion-anchor"></a>
+<div id="motion-17-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2412,7 +2412,7 @@ Unanimous (6-0)
 ### 17. Property located at
   1140 Southdale Road West (Z-8302/O-8303)
 
-<a id="motion-17-4" class="motion-anchor"></a>
+<div id="motion-17-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2424,7 +2424,7 @@ Unanimous (6-0)
 ### 17. Property located at
   1140 Southdale Road West (Z-8302/O-8303)
 
-<a id="motion-17-5" class="motion-anchor"></a>
+<div id="motion-17-5" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2437,7 +2437,7 @@ Unanimous (6-0)
   Improvement Plan for Industrial Land Uses and Official Plan Amendment
   (O-8318)
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2456,7 +2456,7 @@ Unanimous (6-0)
 ### 20. Development Charges
   Grant Program for Downtown, Old East Village and SoHo CIP Areas
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2468,7 +2468,7 @@ Unanimous (5-0)
 ### 21. Property located at
   3100 Colonel Talbot Road (39T-13504/Z-8243)
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2480,7 +2480,7 @@ Unanimous (6-0)
 ### 21. Property located at
   3100 Colonel Talbot Road (39T-13504/Z-8243)
 
-<a id="motion-21-1" class="motion-anchor"></a>
+<div id="motion-21-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2492,7 +2492,7 @@ Unanimous (6-0)
 ### 21. Property located at
   3100 Colonel Talbot Road (39T-13504/Z-8243)
 
-<a id="motion-21-2" class="motion-anchor"></a>
+<div id="motion-21-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2504,7 +2504,7 @@ Unanimous (6-0)
 ### 22. Property located at
   447 Old Wonderland Road (Z-8228)
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2523,7 +2523,7 @@ Unanimous (6-0)
 ### 22. Property located at
   447 Old Wonderland Road (Z-8228)
 
-<a id="motion-22-1" class="motion-anchor"></a>
+<div id="motion-22-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2535,7 +2535,7 @@ Unanimous (6-0)
 ### 22. Property located at
   447 Old Wonderland Road (Z-8228)
 
-<a id="motion-22-2" class="motion-anchor"></a>
+<div id="motion-22-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2547,7 +2547,7 @@ Unanimous (6-0)
 ### 22. Property located at
   447 Old Wonderland Road (Z-8228)
 
-<a id="motion-22-3" class="motion-anchor"></a>
+<div id="motion-22-3" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -2566,7 +2566,7 @@ Unanimous (6-0)
 ### 23. Property located at
   545 Fanshawe Park Road West (OZ-8286)
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2578,7 +2578,7 @@ Unanimous (6-0)
 ### 23. Property located at
   545 Fanshawe Park Road West (OZ-8286)
 
-<a id="motion-23-1" class="motion-anchor"></a>
+<div id="motion-23-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2590,7 +2590,7 @@ Unanimous (6-0)
 ### 23. Property located at
   545 Fanshawe Park Road West (OZ-8286)
 
-<a id="motion-23-2" class="motion-anchor"></a>
+<div id="motion-23-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

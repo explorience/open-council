@@ -1660,7 +1660,7 @@ Thank you all. Thanks, Chair.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.4, 2.6 and 2.7 BE APPROVED.
 
@@ -1670,7 +1670,7 @@ Unanimous (5-0)
 
 ### 2.5. (REVISED REPORT) The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43)
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated November 2, 2021, related to The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21...
 
@@ -1687,7 +1687,7 @@ Unanimous (5-0)
 
 ### 2.5. (REVISED REPORT) The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43)
 
-<a id="motion-2-5-1" class="motion-anchor"></a>
+<div id="motion-2-5-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request, as appended to the Added Agenda, from J. Duckitt, with respect to this matter.
 

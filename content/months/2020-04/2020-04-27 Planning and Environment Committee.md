@@ -348,7 +348,7 @@ The meeting adjourned at 5:07 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.3, inclusive, and 2.7 to 2.10, inclusive, BE APPROVED.
 
@@ -358,7 +358,7 @@ Unanimous (4-0)
 
 ### 2.4. Meadowlilly Subdivision Amendment Agreement 39T-00517
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the Subdivision Agreement between The Corporation of the City of London and Rembrandt Meadowlilly Inc., for the subdivision of land over Registered Plan 33M-603, located on the north ...
 
@@ -368,7 +368,7 @@ Unanimous (4-0)
 
 ### 2.6. 130, 136, 146 and 164 Pond Mills Road Pond Mills Subdivision Agreement Special Provisions 39T-12501
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That the application to enter into a subdivision agreement between The Corporation of the City of London and Drewlo Holdings Inc., for the subdivision of land over Lot 1, Lot 7 and Lot 8 Registered Plan No. 284(C) and Part of Lot 17 and Lot 18 Broken Front Concession B (Geographic Township of Wes...
 
@@ -378,7 +378,7 @@ Unanimous (4-0)
 
 ### 5.1. (ADDED)  Hamilton Road Community Improvement Plan Forgivable Loan Programs
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That Civic Administration BE DIRECTED to take the actions necessary to implement the Facade Improvement and Upgrade to Building Code Forgivable Loan Programs for the Hamilton Road Community Improvement Plan Project Area; it being noted that funding to support these Programs are available in the C...
 

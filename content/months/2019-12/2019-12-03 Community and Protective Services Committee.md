@@ -424,7 +424,7 @@ The meeting adjourned at 6:57 PM.
 
 ### 1.2. Election of Vice Chair for the term ending November 30, 2020
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > That Councillor P. Squire BE ELECTED Vice-Chair of the Community and Protective Services Committee for the term ending November 30, 2020.
 
@@ -434,7 +434,7 @@ Unanimous (5-0)
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.7 and 2.9 BE APPROVED.
 
@@ -444,7 +444,7 @@ Unanimous (6-0)
 
 ### 2.8. Municipal Council Approval of the Housing Stability Plan 2019 to 2024, As Required Under the Housing Services Act, 2011
 
-<a id="motion-2-8-0" class="motion-anchor"></a>
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the following actions be taken with respect to the Homeless Prevention and Housing Plan update: a)            the Housing Stability Plan 2019-2024, as appended to the staff report dated December 3, 2...
 
@@ -454,7 +454,7 @@ Unanimous (6-0)
 
 ### 4.1. Policies and Funding - Arts and Culture - K. O'Neill - Request for Delegation Status
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the delegation request by K. O’Neill with respect to policies and funding related to arts and culture, BE APPROVED for a future meeting of the Community and Protective Services Committee; it being noted that the communication from K. O’Neill, as appended to the agenda, was received with resp...
 

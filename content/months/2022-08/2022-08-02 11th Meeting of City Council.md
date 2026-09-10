@@ -3830,7 +3830,7 @@ So screen's on and since it's okay, those who want to adjourn. And that motion c
 
 ### 8.1. 9th Report of the Community and Protective Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 9th Report of the Community and Protective Services Committee BE APPROVED, excluding items 11 (4.3), 13 (4.5) and 15 (5.1).
 
@@ -3840,7 +3840,7 @@ Unanimous (14-0)
 
 ### 8.1.11. (4.3) Water for Dogs at Pottersburg Dog Park
 
-<a id="motion-8-1-11-0" class="motion-anchor"></a>
+<div id="motion-8-1-11-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the installation of a water supply for dogs at the Pottersburg Dog Park: a) the Civic Administration BE DIRECTED to report back, in advance of the 2024-2027 multi year budget process, with respect to extending water services to parks, including ...
 
@@ -3859,7 +3859,7 @@ Unanimous (14-0)
 
 ### 8.1.13. (4.5) Councillor M. van Holst - Neighbourhood Decision Making Business Case
 
-<a id="motion-8-1-13-1" class="motion-anchor"></a>
+<div id="motion-8-1-13-1" class="motion-anchor"></div>
 
 > That item 13, clause 4.5 be amended by adding the following new part b): b)     that staff BE DIRECTED to include in the 2023 annual budget deliberations, a business case for expanding the neighbourhood decision making program, by doubling the tax levy funding.
 
@@ -3878,7 +3878,7 @@ Unanimous (14-0)
 
 ### 8.1.13. (4.5) Councillor M. van Holst - Neighbourhood Decision Making Business Case
 
-<a id="motion-8-1-13-2" class="motion-anchor"></a>
+<div id="motion-8-1-13-2" class="motion-anchor"></div>
 
 > That clause 4.5 as amended, BE APPROVED
 
@@ -3897,7 +3897,7 @@ Unanimous (14-0)
 
 ### 8.2. 11th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 11th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding items 6 (3.1) and 7 (4.1).
 
@@ -3907,7 +3907,7 @@ Unanimous (14-0)
 
 ### 8.2.7. (4.1) London Community Recovery Network – Recovery Funding Business Cases
 
-<a id="motion-8-2-7-2" class="motion-anchor"></a>
+<div id="motion-8-2-7-2" class="motion-anchor"></div>
 
 > Motion to approve part b) iii) - Business Case #3 b)     the following funding requests BE APPROVED: iii) Business Case # 3: Argyle BIA Currency Pilot Program;
 
@@ -3917,7 +3917,7 @@ Unanimous (14-0)
 
 ### 8.2.7. (4.1) London Community Recovery Network – Recovery Funding Business Cases
 
-<a id="motion-8-2-7-3" class="motion-anchor"></a>
+<div id="motion-8-2-7-3" class="motion-anchor"></div>
 
 > Motion to approve part b) iv) - Business Case #4 b)     the following funding requests BE APPROVED: iv) Business Case # 4: London Public Library Reading Garden Access from Dundas Place Flex Street;
 
@@ -3927,7 +3927,7 @@ Unanimous (13-0)
 
 ### 8.2.7. (4.1) London Community Recovery Network – Recovery Funding Business Cases
 
-<a id="motion-8-2-7-4" class="motion-anchor"></a>
+<div id="motion-8-2-7-4" class="motion-anchor"></div>
 
 > Motion to approve part b) vi) - Business Case #6 b)     the following funding requests BE APPROVED: vi) Business Case # 6: London Tech Talent Growth;
 
@@ -3937,7 +3937,7 @@ Unanimous (14-0)
 
 ### 8.3. 11th Report of the Corporate Services Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 11th Report of the Corporate Services Committee, BE APPROVED, excluding item 14 (4.3).
 
@@ -3947,7 +3947,7 @@ Unanimous (14-0)
 
 ### 8.3.14. (4.3) Application - Issuance of Proclamation - 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone
 
-<a id="motion-8-3-14-0" class="motion-anchor"></a>
+<div id="motion-8-3-14-0" class="motion-anchor"></div>
 
 > That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.
 
@@ -3966,7 +3966,7 @@ Unanimous (14-0)
 
 ### 8.4. 10th Report of the Civic Works Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 10th Report of the Civic Works Committee, BE APPROVED.
 
@@ -3976,7 +3976,7 @@ Unanimous (14-0)
 
 ### 8.5. 13th Report of the Planning and Environment Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 13th Report of the Planning and Environment Committee BE APPROVED, excluding items 14 (3.6) and 18 (3.10); it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal Cou...
 
@@ -3986,7 +3986,7 @@ Unanimous (14-0)
 
 ### 8.5.14. (3.6) Parking Standards Review (OZ-9520) (Relates to Bill No.'s 318 and 328)
 
-<a id="motion-8-5-14-0" class="motion-anchor"></a>
+<div id="motion-8-5-14-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Parking Standards Review: a)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix B, BE INTRODUCED at the Municipal Council meeting to be held o...
 
@@ -4005,7 +4005,7 @@ Unanimous (14-0)
 
 ### 8.5.18. (3.10) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)
 
-<a id="motion-8-5-18-0" class="motion-anchor"></a>
+<div id="motion-8-5-18-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 10...
 
@@ -4024,7 +4024,7 @@ Unanimous (14-0)
 
 ### 8.5.18. (3.10) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)
 
-<a id="motion-8-5-18-3" class="motion-anchor"></a>
+<div id="motion-8-5-18-3" class="motion-anchor"></div>
 
 > That the motion of Councillors E. Peloza and S. Lewis, and the associated by-laws, related to the applications for the properties located at 1067, 1069 and 1071 Wellington Road (OZ-6263/ Z-9264), BE REFERRED back to the Civic Administration in order to review and that this matter may be brought f...
 
@@ -4043,7 +4043,7 @@ Unanimous (14-0)
 
 ### 9.1. 11th Report of Council in Closed Session
 
-<a id="motion-9-1-1" class="motion-anchor"></a>
+<div id="motion-9-1-1" class="motion-anchor"></div>
 
 > Motion to approve items 3 and 4, 3.    Property Acquisition – Wellington Gateway Project – 253-255 Wellington Road – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services,...
 
@@ -4053,7 +4053,7 @@ Unanimous (13-0)
 
 ### 9.1. 11th Report of Council in Closed Session
 
-<a id="motion-9-1-2" class="motion-anchor"></a>
+<div id="motion-9-1-2" class="motion-anchor"></div>
 
 > Motion to approve parts 1 and 2 1.    Awarding of the 2022 Queen Elizabeth Scholarships That, on the recommendation of the City Clerk, the following actions be taken in connection with the awarding of the 2022 Queen Elizabeth Scholarships: a)    in recognition of achieving the highest scholastic ...
 
@@ -4063,7 +4063,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of the Bill No. 318, BE APPROVED.
 
@@ -4082,7 +4082,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of the Bill No. 318, BE APPROVED.
 
@@ -4101,7 +4101,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of the Bill No. 318, BE APPROVED.
 
@@ -4120,7 +4120,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-14" class="motion-anchor"></a>
+<div id="motion-13-14" class="motion-anchor"></div>
 
 > That reconsideration of the voting on the readings of Bill No.'s 315 and 316, BE APPROVED.
 

@@ -617,7 +617,7 @@ The meeting adjourned at 10:09 PM.
 ### 2. Traffic Calming
   Program - 10 Year Annual Plan
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -636,7 +636,7 @@ The meeting adjourned at 10:09 PM.
 ### 3. Sidewalk
   Maintenance Program
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -648,7 +648,7 @@ Unanimous (6-0)
 ### 3. Sidewalk
   Maintenance Program
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -667,7 +667,7 @@ Unanimous (6-0)
 ### 4. Local Improvement
   Initiation Hyde Park Industrial Subdivision
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -679,7 +679,7 @@ Unanimous (6-0)
 ### 5. Amendments to the
   Traffic and Parking By-law
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -691,7 +691,7 @@ Unanimous (6-0)
 ### 6. Update on Corporate
   Energy Management and Report Requirements
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -703,7 +703,7 @@ Unanimous (6-0)
 ### 7. Transportation
   Infrastructure Gap
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -714,7 +714,7 @@ Unanimous (6-0)
 
 ### 8. Bus Rapid Transit Strategy
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -726,7 +726,7 @@ Unanimous (6-0)
 ### 9. Veterans Memorial
   Parkway Noise Study
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -745,7 +745,7 @@ Unanimous (6-0)
 ### 10. Railway Pedestrian
   Crossing Safety
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -764,7 +764,7 @@ Unanimous (6-0)
 ### 11. Removal of Fluoride
   from London's Drinking Water
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -783,7 +783,7 @@ Unanimous (6-0)
 ### 11. Removal of Fluoride
   from London's Drinking Water
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -802,7 +802,7 @@ Unanimous (6-0)
 ### 11. Removal of Fluoride
   from London's Drinking Water
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -821,7 +821,7 @@ Unanimous (6-0)
 ### 12. Active Transportation
   (AT) and Transportation Demand Management (TDM) - Updates and the Next Steps
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -833,7 +833,7 @@ Unanimous (5-0)
 ### 13. Provincial Minimum
   Maintenance Standards 2013 Update
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -845,7 +845,7 @@ Unanimous (5-0)
 ### 14. Meadowlily
   Bridge
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

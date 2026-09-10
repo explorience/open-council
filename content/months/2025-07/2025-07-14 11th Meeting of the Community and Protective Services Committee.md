@@ -1447,7 +1447,7 @@ All those opposed, adjourned. Thank you.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.12, with the exception of Item 2.2, BE APPROVED.
 
@@ -1457,7 +1457,7 @@ Unanimous (4-0)
 
 ### 2.2. 3rd Report of the Environmental Stewardship and Action Community Advisory Committee
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > That the delegation request from B. Samuels BE APPROVED to be heard at this time.
 
@@ -1467,7 +1467,7 @@ Unanimous (4-0)
 
 ### 5.1. (ADDED) Request to Review the School Crossing Guard Program
 
-<a id="motion-5-1-2" class="motion-anchor"></a>
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > That the delegation requests from M. Grimminck, A. Tate, C. Mitchell and E. Johnston BE APPROVED to be heard at this time.
 
@@ -1477,7 +1477,7 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED) Request to Review the School Crossing Guard Program
 
-<a id="motion-5-1-3" class="motion-anchor"></a>
+<div id="motion-5-1-3" class="motion-anchor"></div>
 
 > That the main motion BE AMENDED to add a new part c), to read as follows: c) the Civic Administration BE DIRECTED to engage on the review of the standards of the School Guard Crossing Policy with all public school boards and private schools within the City of London to discuss the issues of schoo...
 
@@ -1487,7 +1487,7 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED) Request to Review the School Crossing Guard Program
 
-<a id="motion-5-1-4" class="motion-anchor"></a>
+<div id="motion-5-1-4" class="motion-anchor"></div>
 
 > That the main motion, as amended, BE APPROVED.
 
@@ -1497,7 +1497,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) Funding Request for Hamilton Road BIA and the Old East Village BIA
 
-<a id="motion-5-2-2" class="motion-anchor"></a>
+<div id="motion-5-2-2" class="motion-anchor"></div>
 
 > That the communication from Councillor H. McAlister, dated July 7, 2025, with respect to a Funding Request for the Hamilton Road BIA and the Old East Village BIA, BE REFERRED to the August 11, 2025 meeting of the Community and Protective Services Committee in order to allow time to receive a list...
 
@@ -1514,7 +1514,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) Funding Request for Hamilton Road BIA and the Old East Village BIA
 
-<a id="motion-5-2-3" class="motion-anchor"></a>
+<div id="motion-5-2-3" class="motion-anchor"></div>
 
 > That the delegation requests from C. Luistro and K. Morrison BE APPROVED to be heard at this time.
 
@@ -1524,7 +1524,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) Funding Request for Hamilton Road BIA and the Old East Village BIA
 
-<a id="motion-5-2-4" class="motion-anchor"></a>
+<div id="motion-5-2-4" class="motion-anchor"></div>
 
 > That the delegation request from Brandon McGlone BE APPROVED to be heard at this time.
 

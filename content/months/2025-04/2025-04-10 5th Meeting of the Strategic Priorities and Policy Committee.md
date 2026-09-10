@@ -375,7 +375,7 @@ and we have dispensed with our agenda so I'm looking for a motion to adjourn mov
 
 ### 2.1. Economic Development Strategy: Appointment of Consultant for RFP 2025-004
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Manager, the following actions be taken with respect to the appointment of a consultant for the development of the Economic Development Strategy: a)    Deloitte LLP BE APPOINTED as the Consultant to undertake the development of the Economic Development Stra...
 
@@ -394,7 +394,7 @@ and we have dispensed with our agenda so I'm looking for a motion to adjourn mov
 
 ### 2.1. Economic Development Strategy: Appointment of Consultant for RFP 2025-004
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That the appointment of a consultant for the development of the Economic Development Strategy BE REFERRED to a future meeting of the Strategic Policy and Priorities Committee for Civic Administration to report back on proponents and their status as Canadian firms.
 
@@ -413,7 +413,7 @@ and we have dispensed with our agenda so I'm looking for a motion to adjourn mov
 
 ### 2.2. Communication from Councillor/Budget Chair E. Peloza and Councillor S. Lehman
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Submission – Economic Development Strategy: a) the Civic Administration BE DIRECTED to review the City of London’s contracted services with London Economic Development Corporation, TechAlliance and the Small Business Center to identify if an...
 

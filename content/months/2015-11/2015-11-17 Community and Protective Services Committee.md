@@ -437,7 +437,7 @@ Motion
 ### 2. 6th Report of the
   London Housing Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -449,7 +449,7 @@ Unanimous (4-0)
 ### 3. 10th Report of the
   London Diversity and Race Relations Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -461,7 +461,7 @@ Unanimous (4-0)
 ### 4. 6th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -473,7 +473,7 @@ Unanimous (4-0)
 ### 4. 6th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -484,7 +484,7 @@ Unanimous (4-0)
 ### 6. 7th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -495,7 +495,7 @@ Unanimous (4-0)
 ### 7. 3rd Report of the
   Childcare Advisory Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -506,7 +506,7 @@ Unanimous (4-0)
 ### 8. 5th and 6th Reports
   of Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -517,7 +517,7 @@ Unanimous (4-0)
 ### 9. Architect to Act as
   Prime Consultant for the New No. 11 Fire Station
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -529,7 +529,7 @@ Unanimous (4-0)
   Agreement Regarding the Transfer of Ownership for the Affordable Housing
   Project at 343 Richmond Street, London
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -540,7 +540,7 @@ Unanimous (4-0)
 ### 11. Licence Agreement
   Between City of London and Urban Animal Management Inc.
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -551,7 +551,7 @@ Unanimous (4-0)
 ### 12. Single Source
   Procurement - Municipal Parking Enforcement Service       (T 15-38)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -563,7 +563,7 @@ Unanimous (4-0)
 ### 13. Radio System Update
   Onevoice 2.0
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -575,7 +575,7 @@ Unanimous (4-0)
 ### 14. Deferred Matters
   List
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -587,7 +587,7 @@ Unanimous (4-0)
 ### 14. Deferred Matters
   List
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -310,7 +310,7 @@ Motion
   Community Accountability Planning Submission (CAPS) for the Dearness Home -
   Adult Day Program
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -322,7 +322,7 @@ Unanimous (6-0)
 ### 5. Ontario Works
   Employment Assistance Framework 2013 - 2018
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -334,7 +334,7 @@ Unanimous (6-0)
 ### 6. London Special Events Policies and
   Procedures Manual - Proposed Amendment – Noise Exemptions
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -353,7 +353,7 @@ Unanimous (6-0)
 ### 8. Fees for Fire
   Prevention Office Services
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -365,7 +365,7 @@ Unanimous (6-0)
 ### 9. S. Cordes,
   Executive Director, Youth Opportunities Unlimited - Update on the Cornerstone
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -377,7 +377,7 @@ Unanimous (6-0)
 ### 10. 9th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -389,7 +389,7 @@ Unanimous (6-0)
 ### 11. A. Oudshoorn,
   Chair, London Homeless Coalition – Request for Delegation Status
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

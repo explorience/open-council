@@ -313,7 +313,7 @@ The meeting adjourned at 6:22 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion to approve Items 2.1, 2.2 and 2.5.
 
@@ -323,7 +323,7 @@ Unanimous (6-0)
 
 ### 2.4. "RentSafeTO" Program and Complaint Process Improvements
 
-<a id="motion-2-4-1" class="motion-anchor"></a>
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from D. Devine, to be heard at this meeting.
 
@@ -333,7 +333,7 @@ Unanimous (6-0)
 
 ### 2.4. "RentSafeTO" Program and Complaint Process Improvements
 
-<a id="motion-2-4-2" class="motion-anchor"></a>
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to bring forward a business case that would provide for the implementation of a Rent Safe London Housing Enforcement Program, for consideration during the next multi-year budget development.
 
@@ -350,7 +350,7 @@ Unanimous (6-0)
 
 ### 4.1. REQUEST FOR DELEGATION STATUS - Permission to Use Gibbons Park for an Event - J. Scott-Pearse
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the verbal delegation, from J. Scott-Pearse, with respect to a request for permission to use Gibbons Park for an event, BE RECEIVED and NO ACTION BE TAKEN.
 
@@ -369,7 +369,7 @@ Unanimous (6-0)
 
 ### 4.1. REQUEST FOR DELEGATION STATUS - Permission to Use Gibbons Park for an Event - J. Scott-Pearse
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from J. Scott-Pearse to be heard at this meeting.
 
@@ -379,7 +379,7 @@ Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > Motion to receive Item number 1 on the Deferred Matters List for the Community and Protective Services Committee, as at June 13, 2022.
 
@@ -389,7 +389,7 @@ Unanimous (4-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-2" class="motion-anchor"></a>
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at June 13, 2022, with the exception of Item Number 1.
 

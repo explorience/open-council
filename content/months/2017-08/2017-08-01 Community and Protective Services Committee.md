@@ -345,7 +345,7 @@ The meeting adjourned at 6:17 PM.
 ### 2. Middlesex-London
   Health Unit
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -357,7 +357,7 @@ Unanimous (5-0)
 ### 3. Community Diversity
   and Inclusion Strategy
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -369,7 +369,7 @@ Unanimous (6-0)
 ### 4. Establishment of
   Opioid Crisis Working Group
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -388,7 +388,7 @@ Unanimous (6-0)
 ### 4. Establishment of
   Opioid Crisis Working Group
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -407,7 +407,7 @@ Unanimous (6-0)
 ### 4. Establishment of
   Opioid Crisis Working Group
 
-<a id="motion-4-2" class="motion-anchor"></a>
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -425,7 +425,7 @@ Unanimous (6-0)
 
 ### 5. Ontario Works Rates
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -437,7 +437,7 @@ Unanimous (6-0)
 ### 6. London Public
   Library Art Collection
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -449,7 +449,7 @@ Unanimous (6-0)
 ### 7. 8th Report of the
   Diversity, Inclusion and Anti-Oppression Advisory Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -461,7 +461,7 @@ Unanimous (6-0)
 ### 8. Deferred Matters
   List
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -473,7 +473,7 @@ Unanimous (6-0)
 ### 9. (ADDED) 7th Report
   of the Accessibility Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

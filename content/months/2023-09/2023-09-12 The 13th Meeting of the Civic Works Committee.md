@@ -425,7 +425,7 @@ Could I get the hands? Motion to adjourn. We are adjourned, thank you.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 to 2.3 BE APPROVED.
 
@@ -435,7 +435,7 @@ Unanimous (5-0)
 
 ### 4.1. 9th Report of the Integrated Transportation Community Advisory Committee
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 9th Report of the Integrated Transportation Community Advisory Committee, from its meeting held on August 16, 2023: a)    the attached presentation, with respect to the Mobility Master Plan, BE RECEIVED by the Civic Works Committee for their...
 
@@ -454,7 +454,7 @@ Unanimous (5-0)
 
 ### 4.1. 9th Report of the Integrated Transportation Community Advisory Committee
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That pursuant to the Council Procedure By-law, the delegate BE PERMITTED to speak an additional 5 minutes with respect to this matter.
 
@@ -464,7 +464,7 @@ Unanimous (5-0)
 
 ### 4.1. 9th Report of the Integrated Transportation Community Advisory Committee
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the Integrated Transportation Community Advisory Committee (ITCAC) BE THANKED, and the ITCAC Presentation, BE RECEIVED with no further action be taken.
 

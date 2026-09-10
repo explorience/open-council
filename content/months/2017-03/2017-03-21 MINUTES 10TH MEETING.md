@@ -2050,7 +2050,7 @@ Passed
 ### 14#2. StormFisher
   Operations
 
-<a id="motion-14-2-0" class="motion-anchor"></a>
+<div id="motion-14-2-0" class="motion-anchor"></div>
 
 > That delegation status BE GRANTED to B.   Moffatt, StormFisher, at a future meeting of the Planning and Environment Committee,   concurrent with a staff report with respect to an outline of StormFisher   operations.   (2017-E07)
 
@@ -2061,7 +2061,7 @@ Unanimous (11-0)
 ### 2#5. STAFF REPORT - 2017
   Rock the Park One-Time Exemption Request
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That the by-law included as Appendix A to   the staff report dated March 20, 2017 BE INTRODUCED at the Municipal Council   meeting of March 21, 2017 to approve a one-time exemption and amend the 2017   Special Events Policies and Procedures Manual to add a fifth day to the Rock   the Park 14 even...
 
@@ -2079,7 +2079,7 @@ Unanimous (11-0)
 ### 4#3. Property located at
   259 Sunningdale Road West (H-8095) (Relates to Bill No. 128)
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Manager,   Development Services, based on the application of Sunningdale Golf and   Country Club, relating to the property located at 259 Sunningdale Road West,   the proposed by-law appended to the staff report dated March 6, 2017, BE   INTRODUCED at the Munici...
 
@@ -2090,7 +2090,7 @@ Unanimous (9-0)
 ### 9#2. Queens Avenue and
   Colborne Street Cycle Tracks
 
-<a id="motion-9-2-0" class="motion-anchor"></a>
+<div id="motion-9-2-0" class="motion-anchor"></div>
 
 > Approve that clause 9 be amended at the   end of part b) by adding the words "; it being noted that the Civic   Administration will report back to the Civic Works Committee, should project   delays indicate that the completion may not be feasible prior to March 2018,   in accordance with the appl...
 
@@ -2101,7 +2101,7 @@ Unanimous (11-0)
 ### 9#2. Queens Avenue and
   Colborne Street Cycle Tracks
 
-<a id="motion-9-2-1" class="motion-anchor"></a>
+<div id="motion-9-2-1" class="motion-anchor"></div>
 
 > Approve part a) of clause 9
 
@@ -2119,7 +2119,7 @@ Unanimous (11-0)
 ### 9#2. Queens Avenue and
   Colborne Street Cycle Tracks
 
-<a id="motion-9-2-2" class="motion-anchor"></a>
+<div id="motion-9-2-2" class="motion-anchor"></div>
 
 > Approve part b), as amended, and   remainder of the clause.
 
@@ -2130,7 +2130,7 @@ Unanimous (11-0)
 ### 9#3. City Wide
   Amendments (Z-8703) (Relates to Bill No. 131)
 
-<a id="motion-9-3-0" class="motion-anchor"></a>
+<div id="motion-9-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of the Corporation of the City of London, relating   to the Zoning By-law review of artisanal uses in commercial and industrial   areas in the City o...
 
@@ -2141,7 +2141,7 @@ Unanimous (9-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON MARCH 2, 2017
 
-<a id="motion-v-0" class="motion-anchor"></a>
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Ninth Meeting   held on March 2, 2017.
 
@@ -2151,7 +2151,7 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-9" class="motion-anchor"></a>
+<div id="motion-xiii-9" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading   of Bill No. 133.
 
@@ -2168,7 +2168,7 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-10" class="motion-anchor"></a>
+<div id="motion-xiii-10" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No. 133.
 
@@ -2185,7 +2185,7 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-11" class="motion-anchor"></a>
+<div id="motion-xiii-11" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 133.
 
@@ -2207,7 +2207,7 @@ Unanimous (11-0)
   Committee Stage for Consideration with Clause 9 of the 5th Report of the
   Planning and Environment Committee)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2219,7 +2219,7 @@ Unanimous (11-0)
   Improvement Area - 2017 Proposed Budget - Municipal Special Levy (Relates to
   Bill No.115)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer   & Acting City Manager, the following actions be taken with respect to the   Argyle Business Improvement Area:   a)         the   Argyle Business Improvement Area proposed 2017 ...
 
@@ -2230,7 +2230,7 @@ Unanimous (12-0)
 ### 12. Procurement of
   Goods and Services Policy Revision (Relates to Bill No.119)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Approve that clause 12 be amended to read   as follows:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer and   Acting City Manager, the proposed attached revised by-law   (Appendix “A”) BE INTRODUCED at the Municipal Council ...
 
@@ -2241,7 +2241,7 @@ Unanimous (12-0)
 ### 12. Procurement of
   Goods and Services Policy Revision (Relates to Bill No.119)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Approve clause 12, as amended.
 
@@ -2252,7 +2252,7 @@ Unanimous (12-0)
 ### 13. 2016 Statement of
   Remuneration and Expenses - Elected and Appointed Officials
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Approve clause 13, as amended.
 
@@ -2263,7 +2263,7 @@ Unanimous (12-0)
 ### 14. Audio Recording of
   Municipal Council and Standing Committees in Closed Session Meetings
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > At 5:47 PM HIs Worship the Mayor places   Councillor P. Hubert in the Chair, and takes a seat at the Council Board.    At 5:49 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -2281,7 +2281,7 @@ Unanimous (12-0)
 ### 14. Audio Recording of
   Municipal Council and Standing Committees in Closed Session Meetings
 
-<a id="motion-14-3" class="motion-anchor"></a>
+<div id="motion-14-3" class="motion-anchor"></div>
 
 > At 5:57 PM, His Worship the Mayor places   Councillor P. Hubert in the Chair, and takes a seat at the Council Board.    At 6:04 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -2299,7 +2299,7 @@ Unanimous (12-0)
 ### 14. Audio Recording of
   Municipal Council and Standing Committees in Closed Session Meetings
 
-<a id="motion-14-5" class="motion-anchor"></a>
+<div id="motion-14-5" class="motion-anchor"></div>
 
 > Approve clause 14, as amended.
 
@@ -2310,7 +2310,7 @@ Unanimous (12-0)
 ### 16. Canadian Coalition
   of Municipalities Against Racism and Discrimination
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > That the application of Councillor H.L.   Usher to the Canadian Coalition of Municipalities Against Racism and   Discrimination (CCMARD) for its two-year pilot project of an Advisory   Committee for the organization, BE SUPPORTED by the Municipal Council; it   being noted that there are no antici...
 
@@ -2321,7 +2321,7 @@ Unanimous (12-0)
 ### 17. Start Time of
   Corporate Services Committee Meetings
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to bring   forward the necessary amendments to the Council Procedure By-law A-50, as   amended, to amend the start time for future regularly scheduled meetings of   the Corporate Services Committee to 12:30 PM, instead of the current 12:00   PM.
 

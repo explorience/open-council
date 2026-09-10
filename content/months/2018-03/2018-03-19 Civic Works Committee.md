@@ -490,7 +490,7 @@ The meeting adjourned at 2:25 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.2 to 2.8 BE APPROVED.
 
@@ -500,7 +500,7 @@ Unanimous (6-0)
 
 ### 2.1. 2018 Ontario Municipal Commuter Cycling (OMCC) Program
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the 2018 Ontario Municipal Commuter Cycling (OMCC) Program: a)            the draft proposed by-law, as appended to the staff report dated M...
 
@@ -510,7 +510,7 @@ Unanimous (6-0)
 
 ### 3.1. Highway 401 / Highway 4 Interchange Improvements and Highway 4 and Glanworth Drive Underpass Replacements Environmental Assessment
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the technically-preferred alternative for the Highway 401/Highway 4 Interchange Improvements and Highway 4 and Glanworth Drive Underpass Replacements Environmental Assessment, BE ENDORS...
 
@@ -520,7 +520,7 @@ Unanimous (6-0)
 
 ### 5.4. (Added) 2030 Smart Moves Transportation Master Plan
 
-<a id="motion-5-4-0" class="motion-anchor"></a>
+<div id="motion-5-4-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED to provide an update on the 2030 Smart Moves Transportation Master Plan, including an overview of projects that have been completed so far and projects that are planned for future years.
 

@@ -3359,7 +3359,7 @@ Motion Passed
 ### 1#6. Disclosures of
   Pecuniary Interest
 
-<a id="motion-1-6-0" class="motion-anchor"></a>
+<div id="motion-1-6-0" class="motion-anchor"></div>
 
 > Approve that clause 1 be amended to read as   follows:
 
@@ -3370,7 +3370,7 @@ Unanimous (13-0)
 ### 1#6. Disclosures of
   Pecuniary Interest
 
-<a id="motion-1-6-1" class="motion-anchor"></a>
+<div id="motion-1-6-1" class="motion-anchor"></div>
 
 > Approve clause 1, as amended
 
@@ -3381,7 +3381,7 @@ Unanimous (13-0)
 ### 11#3. Potential Additional Strategic Priorities
   and Policy Committee Meeting
 
-<a id="motion-11-3-0" class="motion-anchor"></a>
+<div id="motion-11-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3392,7 +3392,7 @@ Unanimous (13-0)
 ### 12#2. Property located at
   1992 Fanshawe Park Road West (TZ-8734) (Relates to Bill No. 215)
 
-<a id="motion-12-2-0" class="motion-anchor"></a>
+<div id="motion-12-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, based on the application of Ken Van   Steensel, relating to the property located at 1992 Fanshawe Park Road West,   the proposed by-law appended to the staff report dated May 8, 2017, BE   INTRODUCED at the Municip...
 
@@ -3410,7 +3410,7 @@ Unanimous (13-0)
 ### 14#2. Properties located
   at 560 and 562 Wellington Street (OZ-8462)
 
-<a id="motion-14-2-0" class="motion-anchor"></a>
+<div id="motion-14-2-0" class="motion-anchor"></div>
 
 > At 8:08 PM, His Worship the Mayor places   Councillor P. Hubert in the Chair and takes a seat at the Council Board.    At 8:11 PM, His Worship the Mayor resumes the   Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -3428,7 +3428,7 @@ Unanimous (13-0)
 ### 14#2. Properties located
   at 560 and 562 Wellington Street (OZ-8462)
 
-<a id="motion-14-2-1" class="motion-anchor"></a>
+<div id="motion-14-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3446,7 +3446,7 @@ Unanimous (13-0)
 ### 16#2. Request for
   Rescheduling of June 15 Public Participation Meeting
 
-<a id="motion-16-2-0" class="motion-anchor"></a>
+<div id="motion-16-2-0" class="motion-anchor"></div>
 
 > The motion to Approve part a) of clause 16   is put:   a)         pursuant to section 13.6 of the Council Procedure By-law, the actions of the   Municipal Council taken at its meeting of May 2, 2017, related to the   adoption of part a) of clause 4 of the 8th Report of the Planning and   Environm...
 
@@ -3457,7 +3457,7 @@ Unanimous (11-0)
 ### 3#6. Council Policy Manual Review of Chapters 1,
   2, 3, 4, 6 and 8
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 13.6 of   the Council Procedure By-law, the actions of the Municipal Council taken at its   meeting of March 2, 2017, related to the process for updating the Council   Policy Manual BE RECONSIDERED.
 
@@ -3468,7 +3468,7 @@ Unanimous (13-0)
 ### 3#6. Council Policy Manual Review of Chapters 1,
   2, 3, 4, 6 and 8
 
-<a id="motion-3-6-1" class="motion-anchor"></a>
+<div id="motion-3-6-1" class="motion-anchor"></div>
 
 > Approve that clause 3 be amended to read   as follows:   That the following actions be taken with   respect to the updating of the Council Policy Manual:   a)         the   Civic Administration BE DIRECTED to direct proposed amendments under Phase II   of the project to the Governance Working Gro...
 
@@ -3479,7 +3479,7 @@ Unanimous (13-0)
 ### 4#2. Workplace Diversity
   and Inclusion Activities
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > Approve that clause 4 be amended by adding the   following new part b):   b)         the Civic Administration BE   DIRECTED to initiate an on-going process of data collection (metrics) for new   hires at the City of London, by means of voluntary self-disclosure to assist   with the collection of ...
 
@@ -3490,7 +3490,7 @@ Unanimous (13-0)
 ### 4#2. Workplace Diversity
   and Inclusion Activities
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Approve clause 4, as amended.
 
@@ -3501,7 +3501,7 @@ Unanimous (13-0)
 ### 4#5. Update on Municipal Implications of the
   Truth and Reconciliation Commission Report
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > Approve that the request to invite the   Munsee-Delaware Nation, the Oneida Nation of the Thames and the Chippewas of   the Thames First Nation to provide their flags and have them raised in an   appropriate manner at London City Hall BE REFERRED to the Civic   Administration in order to allow fo...
 
@@ -3512,7 +3512,7 @@ Unanimous (13-0)
 ### 4#5. Update on Municipal Implications of the
   Truth and Reconciliation Commission Report
 
-<a id="motion-4-5-1" class="motion-anchor"></a>
+<div id="motion-4-5-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3523,7 +3523,7 @@ Unanimous (13-0)
 ### 4#5. Update on Municipal Implications of the
   Truth and Reconciliation Commission Report
 
-<a id="motion-4-5-2" class="motion-anchor"></a>
+<div id="motion-4-5-2" class="motion-anchor"></div>
 
 > Approve that, pursuant to section 20.1   of the Council Procedure By-law, leave BE GIVEN for the introduction of an   emergent motion to authorize the flying of Canadian flags on utility poles   along City of London streets until September 5, 2017, in celebration of   Canada’s 150th Anniversary, ...
 
@@ -3534,7 +3534,7 @@ Unanimous (13-0)
 ### 4#5. Update on Municipal Implications of the
   Truth and Reconciliation Commission Report
 
-<a id="motion-4-5-3" class="motion-anchor"></a>
+<div id="motion-4-5-3" class="motion-anchor"></div>
 
 > Approve that the flying of Canadian   flags on utility poles along City of London streets until September 5, 2017,   in celebration of Canada’s 150th Anniversary, BE AUTHORIZED subject to the   consent of London Hydro and providing that the flags and their accessories do   not pose any risk to wo...
 
@@ -3545,7 +3545,7 @@ Unanimous (13-0)
 ### 4#5. Update on Municipal Implications of the
   Truth and Reconciliation Commission Report
 
-<a id="motion-4-5-4" class="motion-anchor"></a>
+<div id="motion-4-5-4" class="motion-anchor"></div>
 
 > Approve that, pursuant to section 20.1   of the Council Procedure By-law, leave BE GIVEN for the introduction of an   emergent motion to authorize a contribution of $2,000 from the Contingency   Reserve Fund in order to assist in relief efforts in the Township of Minden   Hills, Ontario, specific...
 
@@ -3556,7 +3556,7 @@ Unanimous (13-0)
 ### 4#5. Update on Municipal Implications of the
   Truth and Reconciliation Commission Report
 
-<a id="motion-4-5-5" class="motion-anchor"></a>
+<div id="motion-4-5-5" class="motion-anchor"></div>
 
 > Approve that a contribution of $2,000 from the   Contingency Reserve Fund BE AUTHORIZED in order to assist in relief efforts   in the Township of Minden Hills, Ontario, specifically by way of a   contribution to Minden’s local Food Bank.
 
@@ -3567,7 +3567,7 @@ Unanimous (12-0)
 ### III. REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-<a id="motion-iii-0" class="motion-anchor"></a>
+<div id="motion-iii-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3578,7 +3578,7 @@ Unanimous (12-0)
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3588,7 +3588,7 @@ Unanimous (12-0)
 
 ### IX#3. ADDED REPORTS (continued)
 
-<a id="motion-ix-3-0" class="motion-anchor"></a>
+<div id="motion-ix-3-0" class="motion-anchor"></div>
 
 > Approve clause 1.
 
@@ -3599,7 +3599,7 @@ Unanimous (12-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTEENTH MEEING HELD ON MAY 2, 2017.
 
-<a id="motion-v-0" class="motion-anchor"></a>
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Fifteenth   meeting held on May 2, 2017.
 
@@ -3609,7 +3609,7 @@ Unanimous (12-0)
 
 ### XI. ENQUIRIES
 
-<a id="motion-xi-0" class="motion-anchor"></a>
+<div id="motion-xi-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 11.4   of the Council Procedure By-law, leave be given to bring forward a   substantive motion.
 
@@ -3619,7 +3619,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading   of Bill No.215.
 
@@ -3636,7 +3636,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-4" class="motion-anchor"></a>
+<div id="motion-xiii-4" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No.215.
 
@@ -3653,7 +3653,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 215.
 
@@ -3676,7 +3676,7 @@ Unanimous (12-0)
   Committee Stage for Consideration with Clause 14 of the 9th Report of the
   Planning and Environment Committee )
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3692,7 +3692,7 @@ Unanimous (12-0)
   Committee Stage for Consideration with Clause 14 of the 9th Report of the
   Planning and Environment Committee )
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   clause 10 of the 11th Report of the Strategic Priorities and Policy Committee   to be considered at this time.
 
@@ -3703,7 +3703,7 @@ Unanimous (13-0)
 ### 5. Appleseed Cider
   Festival - Request for Designation as a Municipally Significant Event
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > That the Appleseed Cider Festival, to be   held on Saturday, June 24, 2017 from 3:00 PM to 11:00 PM, at Hassan Law   Gallery, 142 Dundas Street and, subject to obtaining the necessary approvals,   also at an adjacent street closure on Dundas Street as per the attached   diagram, BE DESIGNATED as ...
 
@@ -3721,7 +3721,7 @@ Unanimous (13-0)
 ### 6. Canada 150
   Celebrations
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Approve that part b) of clause 6 be   amended by deleting the amount of “$25,000” and by replacing it with the   amount of “$6,400”.
 
@@ -3732,7 +3732,7 @@ Unanimous (13-0)
 ### 6. Canada 150
   Celebrations
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Approve part a) and part b), as amended,   of clause 6.
 
@@ -3750,7 +3750,7 @@ Unanimous (13-0)
 ### 6. Canada 150
   Celebrations
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Approve part c).   c)         an   amount equal to the funding shortfall in the amount of $10,000 for the   Chippewas of the Thames.
 
@@ -3768,7 +3768,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Approve part a) of clause 10:   a)         the   King Street/Queens Avenue couplet system BE APPROVED as the preferred   downtown east-west corridors;
 
@@ -3786,7 +3786,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-4" class="motion-anchor"></a>
+<div id="motion-10-4" class="motion-anchor"></div>
 
 > Approve part e) of clause 10:   e)         staff   BE AUTHORIZED to contact the Canadian Transportation Agency (CTA) to request   they facilitate discussion between CP and CN Rail in order to negotiate an   agreement for CP operations to relocate and merge onto the CN operational   tracks within ...
 
@@ -3797,7 +3797,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-5" class="motion-anchor"></a>
+<div id="motion-10-5" class="motion-anchor"></div>
 
 > Approve part e) of clause 10, as amended.
 
@@ -3808,7 +3808,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-7" class="motion-anchor"></a>
+<div id="motion-10-7" class="motion-anchor"></div>
 
 > Approve part f) of clause 10 as it relates to the South Corridor:  Wellington   Road south of King Street regardless of King Street or couplet.
 
@@ -3826,7 +3826,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-8" class="motion-anchor"></a>
+<div id="motion-10-8" class="motion-anchor"></div>
 
 > Approve part f) of clause 10 as it relates to the East Corridor: east of   Wellington Street to Fanshawe College.
 
@@ -3844,7 +3844,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-9" class="motion-anchor"></a>
+<div id="motion-10-9" class="motion-anchor"></div>
 
 > Approve part f) of clause 10 as it relates to the West Corridor:  west of the   Thames River to Wonderland Commercial Area.
 
@@ -3862,7 +3862,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-11" class="motion-anchor"></a>
+<div id="motion-10-11" class="motion-anchor"></div>
 
 > Approve part h) of clause 10:   h)         options   to support Back to the River and service to Via and the Airport BE EXPLORED   further during the Transit Project Assessment Process;
 
@@ -3880,7 +3880,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-12" class="motion-anchor"></a>
+<div id="motion-10-12" class="motion-anchor"></div>
 
 > Approve that part i) of clause 10 be   amended to read as follows:   i)               the   Civic Administration BE DIRECTED to report back with a communications plan   for bus rapid transit; it being noted that the communications plan should   include multiple, diverse options to reach as many L...
 
@@ -3891,7 +3891,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-13" class="motion-anchor"></a>
+<div id="motion-10-13" class="motion-anchor"></div>
 
 > Approve part i), as amended.
 
@@ -3902,7 +3902,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-15" class="motion-anchor"></a>
+<div id="motion-10-15" class="motion-anchor"></div>
 
 > Approve that clause 10 be amended by   adding the following new part k):   k)        the Civic Administration BE DIRECTED to work with the London Transit   Commission (LTC) Administration and the RTIWG to communicate to the public,   the preliminary framework for a future LTC network and how it s...
 
@@ -3913,7 +3913,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-16" class="motion-anchor"></a>
+<div id="motion-10-16" class="motion-anchor"></div>
 
 > Approve part k) of clause 10, as amended.
 
@@ -3924,7 +3924,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Approve part b) of clause 10:   b)         the   Richmond Street corridor BE APPROVED as the preferred northern corridor   through the downtown;
 
@@ -3942,7 +3942,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Approve part c) of clause 10:   c)         an   at-grade level crossing at the CP Railway with dedicated bus lanes BE   APPROVED as the preferred cross section on the Richmond Street corridor at   this time;
 
@@ -3960,7 +3960,7 @@ Unanimous (13-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-3" class="motion-anchor"></a>
+<div id="motion-10-3" class="motion-anchor"></div>
 
 > Approve part d) of clause 10:   d)         alternative   methods to separate both automobile and transit vehicles from the railway in   the downtown (for example, a tunnel or grade separation, etc.) BE EVALUATED   for long term implementation; it being noted that this evaluation would be   subjec...
 
@@ -3971,7 +3971,7 @@ Unanimous (11-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-6" class="motion-anchor"></a>
+<div id="motion-10-6" class="motion-anchor"></div>
 
 > the Richmond Corridor:  north of Queens   Avenue.
 
@@ -3989,7 +3989,7 @@ Unanimous (11-0)
 ### 10. Rapid Transit
   Corridors
 
-<a id="motion-10-10" class="motion-anchor"></a>
+<div id="motion-10-10" class="motion-anchor"></div>
 
 > Approve part g) of clause 10:   g)         subject   to the approval of c), the implementation of the Adelaide Street / CP railway   grade separation BE CONSIDERED a necessary element of the rapid transit   system and a request for funding under the Public Transit Infrastructure Fund   Phase II p...
 
@@ -4005,7 +4005,7 @@ Unanimous (11-0)
 ### 13. Amendments To The
   Traffic And Parking By-law (Relates to Bill No. 205)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Approve that clause 13 be amended to read   as follows:
 
@@ -4016,7 +4016,7 @@ Unanimous (13-0)
 ### 13. Amendments To The
   Traffic And Parking By-law (Relates to Bill No. 205)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Approve clause 13, as amended.
 
@@ -4027,7 +4027,7 @@ Unanimous (13-0)
 ### 15. 5th Report for
   Cycling Advisory Committee
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Approve amend part b) of clause 13 to   read as follows:   b)         the attached 2017 Work   Plan for the Cycling Advisory Committee BE APPROVED.
 
@@ -4038,7 +4038,7 @@ Unanimous (13-0)
 ### 15. 5th Report for
   Cycling Advisory Committee
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Approve clause 15, as amended.
 

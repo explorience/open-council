@@ -2877,7 +2877,7 @@ Thank you, I'll look for a motion to adjourn. Deputy Mayor Lewis, seconded by Co
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.7 BE APPROVED.
 
@@ -2887,7 +2887,7 @@ Unanimous (6-0)
 
 ### 3.9. 1922 Highland Heights and 205 Commissioners Road East
 
-<a id="motion-3-9-0" class="motion-anchor"></a>
+<div id="motion-3-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Highland Golf & Country Club, c/o Zelinka Priamo Ltd., relating to the property located at 1922 Highland Heights and 205 Commissioners Road East: a) the propose...
 
@@ -2904,7 +2904,7 @@ Unanimous (6-0)
 
 ### 3.10. 21-41 Meadowlily Road North and 20 Norlan Avenue
 
-<a id="motion-3-10-0" class="motion-anchor"></a>
+<div id="motion-3-10-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application of 2812347 Ontario Inc., c/o Zelinka Priamo Ltd., relating to the property located at 21-41 Meadowlily Road North and 20 Norlan Avenue: a)    the proposed revised, attached, by-law BE INTRODUCED at the Municipal Council meeting ...
 
@@ -2921,7 +2921,7 @@ Unanimous (6-0)
 
 ### 3.12. 415 Oxford Street West (OZ-9789)
 
-<a id="motion-3-12-0" class="motion-anchor"></a>
+<div id="motion-3-12-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of RAND Developments, (c/o Zelinka Priamo Ltd.), relating to the property located at 415 Oxford Street West: a) the request to amend the Official Plan, The London ...
 
@@ -2931,7 +2931,7 @@ Unanimous (5-0)
 
 ### 3.14. Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
 
-<a id="motion-3-14-3" class="motion-anchor"></a>
+<div id="motion-3-14-3" class="motion-anchor"></div>
 
 > Motion to approve clauses d) and e) of the staff recommendation; it being noted that clauses d) and e) read as follows: "d) the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London’s new housing supply, consid...
 
@@ -2948,7 +2948,7 @@ Unanimous (5-0)
 
 ### 3.14. Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
 
-<a id="motion-3-14-4" class="motion-anchor"></a>
+<div id="motion-3-14-4" class="motion-anchor"></div>
 
 > Pursuant to Section 2.3 of the Council Procedure By-law, Section 33.8 of the said by-law be suspended for the purpose of permitting the meeting to proceed beyond 6:00 PM.
 

@@ -411,7 +411,7 @@ The meeting adjourned at 7:17 PM.
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - City of London Service Review: Recommended Closure of River Road Golf Course
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the River Road Golf Course: a)      the Civic Administration BE DIRECTED to proceed with the operation of River Road Golf Course for the 2021 season, in order to evaluate the municipal golf operations more holistically, in a “post-COVID” environ...
 
@@ -430,7 +430,7 @@ The meeting adjourned at 7:17 PM.
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - City of London Service Review: Recommended Closure of River Road Golf Course
 
-<a id="motion-3-1-4" class="motion-anchor"></a>
+<div id="motion-3-1-4" class="motion-anchor"></div>
 
 > Motion to approve parts a) and b) of the staff recommendation: That, on the recommendation of the Managing Director, Parks and Recreation and the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken: a)     the Civic Administration BE D...
 
@@ -447,7 +447,7 @@ The meeting adjourned at 7:17 PM.
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - City of London Service Review: Recommended Closure of River Road Golf Course
 
-<a id="motion-3-1-5" class="motion-anchor"></a>
+<div id="motion-3-1-5" class="motion-anchor"></div>
 
 > Motion to approve part c) of the staff recommendation: c)     notwithstanding the Municipal Council's approved Sale of Major Assets Policy, the proceeds from any partial or full disposition of River Road Golf Course lands BE ALLOCATED to the municipal golf reserve fund;
 
@@ -464,7 +464,7 @@ The meeting adjourned at 7:17 PM.
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - City of London Service Review: Recommended Closure of River Road Golf Course
 
-<a id="motion-3-1-6" class="motion-anchor"></a>
+<div id="motion-3-1-6" class="motion-anchor"></div>
 
 > Motion to receive the communications and verbal submissions.
 
@@ -474,7 +474,7 @@ Unanimous (15-0)
 
 ### 4.1. Consideration of Appointment to the RBC Place London Board
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That Garrett Vanderwyst (sustainability business), Class 2, BE REAPPOINTED to the RBC Place London Board of Directors for a two-year term ending November 15, 2022.
 

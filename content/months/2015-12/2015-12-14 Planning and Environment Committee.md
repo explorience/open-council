@@ -1251,7 +1251,7 @@ The
 ### 2. Election of
   Vice-Chair for the Term Ending November 30, 2016
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1263,7 +1263,7 @@ Unanimous (5-0)
 ### 3. Great Near-Campus
   Neighbourhoods Strategy Review - Status Update
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1275,7 +1275,7 @@ Unanimous (5-0)
 ### 4. Environmental
   Impact Study Recommendations Within Plans of Subdivision
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1287,7 +1287,7 @@ Unanimous (5-0)
 ### 5. Designation of
   Appointment Authority
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1299,7 +1299,7 @@ Unanimous (5-0)
 ### 6. Wickerson Hills
   Subdivision - Subdivision Special Provisions (39T-08507)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1311,7 +1311,7 @@ Unanimous (5-0)
 ### 7. Wickerson Woods
   Subdivision - Subdivision Special Provisions (39T-00519)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1323,7 +1323,7 @@ Unanimous (5-0)
 ### 8. 1st Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1335,7 +1335,7 @@ Unanimous (5-0)
 ### 9. Property located at
   1890 Hyde Park Road (Z-8533)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1347,7 +1347,7 @@ Unanimous (5-0)
 ### 9. Property located at
   1890 Hyde Park Road (Z-8533)
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1359,7 +1359,7 @@ Unanimous (5-0)
 ### 9. Property located at
   1890 Hyde Park Road (Z-8533)
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1371,7 +1371,7 @@ Unanimous (5-0)
 ### 10. 8th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1383,7 +1383,7 @@ Unanimous (6-0)
 ### 11. "Back to the
   River" Design Competition Winning Submission and Next Steps
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1395,7 +1395,7 @@ Unanimous (6-0)
 ### 12. Property located at
   89 York Street (Z-8525)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1407,7 +1407,7 @@ Unanimous (6-0)
 ### 12. Property located at
   89 York Street (Z-8525)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1419,7 +1419,7 @@ Unanimous (6-0)
 ### 12. Property located at
   89 York Street (Z-8525)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1431,7 +1431,7 @@ Unanimous (6-0)
 ### 13. Urban Growth Boundary
   Expansion for Future Industrial Growth (O-8014)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1450,7 +1450,7 @@ Unanimous (6-0)
 ### 13. Urban Growth Boundary
   Expansion for Future Industrial Growth (O-8014)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1462,7 +1462,7 @@ Unanimous (6-0)
 ### 13. Urban Growth Boundary
   Expansion for Future Industrial Growth (O-8014)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1474,7 +1474,7 @@ Unanimous (6-0)
 ### 14. Property located at
   50 King Street (Z-8372)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1486,7 +1486,7 @@ Unanimous (6-0)
 ### 14. Property located at
   50 King Street (Z-8372)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1498,7 +1498,7 @@ Unanimous (6-0)
 ### 14. Property located at
   50 King Street (Z-8372)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1510,7 +1510,7 @@ Unanimous (6-0)
 ### 15. 1st Report of the
   Advisory Committee on the Environment
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1522,7 +1522,7 @@ Unanimous (5-0)
 ### 16. Residential Infill
   Analysis
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1534,7 +1534,7 @@ Unanimous (5-0)
 ### 16. Residential Infill
   Analysis
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -1553,7 +1553,7 @@ Unanimous (5-0)
 ### 16. Residential Infill
   Analysis
 
-<a id="motion-16-2" class="motion-anchor"></a>
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1565,7 +1565,7 @@ Unanimous (5-0)
 ### 17. Planning Services
   2-Year Work Program - Updated
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1577,7 +1577,7 @@ Unanimous (5-0)
 ### 18. Review of
   Intensification Targets in the London Plan
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1596,7 +1596,7 @@ Unanimous (5-0)
 ### 18. Review of
   Intensification Targets in the London Plan
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1615,7 +1615,7 @@ Unanimous (5-0)
 ### 19. Planning and
   Environment Committee Deferred List
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1627,7 +1627,7 @@ Unanimous (6-0)
 ### 20. Old East Village
   Commercial Corridor Design Guidelines
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

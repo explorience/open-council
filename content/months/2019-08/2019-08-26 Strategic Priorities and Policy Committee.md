@@ -548,7 +548,7 @@ The meeting adjourned at 9:21 PM.
 
 ### 2.2. City of London Service Review: Review of Service Delivery for Housing
 
-<a id="motion-2-2-2" class="motion-anchor"></a>
+<div id="motion-2-2-2" class="motion-anchor"></div>
 
 > That, notwithstanding the staff report submitted to the Strategic Priorities and Policy Committee on March 4, 2019 in response to the request from the London & Middlesex Community Housing (LMCH) for changes to shareholder agreement and given the recent report from KPMG regarding LMCH, the Civic A...
 
@@ -565,7 +565,7 @@ The meeting adjourned at 9:21 PM.
 
 ### 2.2. City of London Service Review: Review of Service Delivery for Housing
 
-<a id="motion-2-2-3" class="motion-anchor"></a>
+<div id="motion-2-2-3" class="motion-anchor"></div>
 
 > That parts a), b) and e) BE APPROVED, as follows: That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer and the Managing Director, Housing, Social Services and Dearness Home, the following actions be taken: a)           Appendix “A”, ...
 
@@ -582,7 +582,7 @@ The meeting adjourned at 9:21 PM.
 
 ### 2.2. City of London Service Review: Review of Service Delivery for Housing
 
-<a id="motion-2-2-4" class="motion-anchor"></a>
+<div id="motion-2-2-4" class="motion-anchor"></div>
 
 > That part c) BE APPROVED, as follows: c) the Civic Administration BE DIRECTED to work with London Middlesex Community Housing (LMCH) to investigate, address and reduce the vacancy rate within their housing portfolio;
 
@@ -592,7 +592,7 @@ Unanimous (15-0)
 
 ### 2.2. City of London Service Review: Review of Service Delivery for Housing
 
-<a id="motion-2-2-5" class="motion-anchor"></a>
+<div id="motion-2-2-5" class="motion-anchor"></div>
 
 > That part d) BE APPROVED, as follows: d) the requested changes to the Shareholder Declaration and Articles of Incorporation for LMCH, NO ACTION be taken;
 
@@ -609,7 +609,7 @@ Unanimous (15-0)
 
 ### 4.1. London Medical Network
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That part d) be amended to read as follows: d)         the Civic Administration BE DIRECTED to report back with a strategy for investing the approximate $7.3m in developing permanent housing with supports for mental health and addictions, noting this will support all services dealing with the cri...
 
@@ -626,7 +626,7 @@ Unanimous (15-0)
 
 ### 4.1. London Medical Network
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > Approve parts a, b and c, as follows: That, on the recommendation of the City Manager, the following actions be taken with respect to the London Medical Network (LMN) grant: a)      the investments made to-date by the LMN BE ACCEPTED; b)      the LMN Governing Council BE REQUESTED to return the r...
 
@@ -636,7 +636,7 @@ Unanimous (15-0)
 
 ### 4.1. London Medical Network
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > Motion that part d), as amended, BE APPROVED.
 
@@ -653,7 +653,7 @@ Unanimous (15-0)
 
 ### 4.2. Delegation - V. Sharma, CEO, London Hydro Inc. - London Hydro Corporate Restructuring
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to provide a report to the Strategic Priorities and Policy Committee with respect to the corporate structure and applicable associated risk to the Corporation that would be associated with the proposed corporate restructuring, as outlined in the communica...
 
@@ -663,7 +663,7 @@ Unanimous (15-0)
 
 ### 4.2. Delegation - V. Sharma, CEO, London Hydro Inc. - London Hydro Corporate Restructuring
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Approve the Delegation request of London Hydro.
 
@@ -673,7 +673,7 @@ Unanimous (15-0)
 
 ### 4.3. 2019 Corporate Asset Management Plan
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, with the advice of the Manager III, Corporate Asset Management, the City of London (City) 2019 Corporate Asset Management Plan, as outlined in the staff report dated August 26, 20...
 
@@ -683,7 +683,7 @@ Unanimous (15-0)
 
 ### 5.1. Middlesex-London Food Policy Council (Requires 1 Council Member)
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to advertise for applications of interested persons to be appointed by London City Council, to the Middlesex-London Food Policy Council.
 

@@ -356,7 +356,7 @@ The meeting adjourned at 2:57 PM.
 ### 2. City of London's
   Credit Rating
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -369,7 +369,7 @@ Unanimous (5-0)
   Budget Mid-Year Monitoring Report - Property Tax, Water, Wastewater &
   Treatment Budgets
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -382,7 +382,7 @@ Unanimous (5-0)
   Budget Mid-Year Monitoring Report - Property Tax, Water, Wastewater &
   Treatment Budgets
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -395,7 +395,7 @@ Unanimous (5-0)
   Budget Mid-Year Monitoring Report - Property Tax, Water, Wastewater &
   Treatment Budgets
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -408,7 +408,7 @@ Unanimous (5-0)
   Budget Mid-Year Monitoring Report - Property Tax, Water, Wastewater &
   Treatment Budgets
 
-<a id="motion-3-3" class="motion-anchor"></a>
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -421,7 +421,7 @@ Unanimous (5-0)
   Council Policy By-law - Replacement of Schedule "E" - Public Notice
   Policy
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -433,7 +433,7 @@ Unanimous (5-0)
 ### 8. Update: Employee
   Absenteeism 2017 Mid-Year Review
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -444,7 +444,7 @@ Unanimous (5-0)
 
 ### 9. Pay Equity Update
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -456,7 +456,7 @@ Unanimous (5-0)
 ### 10. Annual Report of
   the Integrity Commissioner from May 17, 2016 to August 1, 2017
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

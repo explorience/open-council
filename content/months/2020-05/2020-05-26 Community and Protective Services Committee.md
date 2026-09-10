@@ -160,7 +160,7 @@ The meeting adjourned at 4:33 PM.
 
 ### 4.1. Food Security Pilot - Backyard Chickens - S. Eden
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That NO ACTION BE TAKEN with respect to the communication dated April 21, 2020, from S. Eden, with respect to a pilot program to allow citizens to raise chickens in order to secure a supply of eggs and hens for their own consumption. (2020-P14)
 

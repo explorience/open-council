@@ -1609,7 +1609,7 @@ Motion carries. Thank you folks. Thanks for giving me the good hints.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Item 5.1 in Stage 5, Deferred Matters/Additional Business, to be considered in Stage 2, Consent.
 
@@ -1619,7 +1619,7 @@ Unanimous (5-0)
 
 ### 2.1. The 2nd Report of the Ecological Community Advisory Committee
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 3rd Report of the Ecological Community Advisory Committee, from its meeting held on February 20th, 2025:     a)    the Working Group comments relating to the property located at 3680-3700 Colonel Road, as appended to the Ecological Community...
 
@@ -1629,7 +1629,7 @@ Unanimous (5-0)
 
 ### 2.2. Heritage Alteration Permit application by Z. Xiong and Y. Meng for 124 Wilson Ave, Blackfriars-Petersville Heritage Conservation District (HAP25-004-L)
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the exterior cladding and porch alterations on the heritage designated property at 124 Wilson Avenue, within the Blackfriars-...
 
@@ -1639,7 +1639,7 @@ Unanimous (5-0)
 
 ### 2.2. Heritage Alteration Permit application by Z. Xiong and Y. Meng for 124 Wilson Ave, Blackfriars-Petersville Heritage Conservation District (HAP25-004-L)
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > That the delegation request from J.M. Metrailler, L. Davies and J. Gard, as appended to the Added Agenda, BE APPROVED to be heard at this time.
 
@@ -1649,7 +1649,7 @@ Unanimous (5-0)
 
 ### 3.2. 2634 Barn Swallow Place (Z-25006)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property located at 2634 Barn Swallow Place: a)    the proposed by-law as appended to the staff report dated March 18,...
 
@@ -1666,7 +1666,7 @@ Unanimous (5-0)
 
 ### 3.3. 75-91 Southdale Road (Z-25008)
 
-<a id="motion-3-3-3" class="motion-anchor"></a>
+<div id="motion-3-3-3" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2271075 Ontario Ltd. relating to the property located at 75-91 Southdale Road East: a)    the proposed by-law as appended to the staff report dated March 18, 20...
 
@@ -1676,7 +1676,7 @@ Unanimous (5-0)
 
 ### 3.4. 415-421 Boler Road (Z-9536)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 822056 Ontario Limited (c/o Strik Baldinelli Moniz) relating to the property located at 415-421 Boler Road:    a)    the proposed by-law attached hereto ...
 
@@ -1693,7 +1693,7 @@ Unanimous (5-0)
 
 ### 3.4. 415-421 Boler Road (Z-9536)
 
-<a id="motion-3-4-3" class="motion-anchor"></a>
+<div id="motion-3-4-3" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor Lewis BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 
@@ -1703,7 +1703,7 @@ Unanimous (5-0)
 
 ### 3.5. Transit Oriented Development Community Improvement Plan
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by The Corporation of the City of London relating to the proposed Transit Oriented Development Community Improvement Plan: a)    the proposed by-law as appended to...
 
@@ -1713,7 +1713,7 @@ Unanimous (5-0)
 
 ### 4.1. Request from Municipality of Middlesex Centre: Arva Sanitary Servicing
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation request from S. Bergman and M. Di Lullo , as appended to the Added Agenda, BE APPROVED to be heard at this time.
 

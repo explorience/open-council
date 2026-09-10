@@ -283,7 +283,7 @@ Motion
 ### 4. Public
   Participation Meeting - Amendments to Consolidated Fees and Charges By-law
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -302,7 +302,7 @@ Motion
 ### 6. Cycling Advisory
   Committee
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

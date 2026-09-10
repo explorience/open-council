@@ -375,7 +375,7 @@ The meeting adjourned at 10:16 PM.
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > Motion to approve that part b) commence with the words "the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50 live table games, within the jurisdiction of The Corporation of the City of London, BE ENDORSED;"
 
@@ -392,7 +392,7 @@ The meeting adjourned at 10:16 PM.
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site
 
-<a id="motion-3-1-2" class="motion-anchor"></a>
+<div id="motion-3-1-2" class="motion-anchor"></div>
 
 > Motion to approve the addition of the words "it being noted that The Corporation of the City of London prefers an expanded location at the Western Fair District;" to the end of part b).
 
@@ -409,7 +409,7 @@ The meeting adjourned at 10:16 PM.
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > Motion to approve the following part c) c)         the Civic Administration BE DIRECTED to report back on how some or all of the incremental revenues from expanded gaming, paid to The Corporation of the City of London according to the contribution agreement with the Ontario Lottery and Gaming Cor...
 
@@ -426,7 +426,7 @@ The meeting adjourned at 10:16 PM.
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site
 
-<a id="motion-3-1-4" class="motion-anchor"></a>
+<div id="motion-3-1-4" class="motion-anchor"></div>
 
 > Motion to approve the following part d): d)                the Province of Ontario and the Alcohol and Gaming Commission of Ontario BE REQUESTED to flow the additional revenues from expanded gaming in London back into the community in a more significant way than the current funding arrangement; a...
 
@@ -436,7 +436,7 @@ Unanimous (12-0)
 
 ### 4.1. Bus Rapid Transit – Environmental Assessment Initiative
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Bus Rapid Transit Environmental Assessment Initiative: a)               the staff report dated April 23, 2018, entitled “Bus Rapid Transit – Environmental Assessment Initiative”, together with the associated presentation made by the Project ...
 
@@ -453,7 +453,7 @@ Unanimous (12-0)
 
 ### 4.1. Bus Rapid Transit – Environmental Assessment Initiative
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the order of business BE CHANGED in order to permit Item 4.1 to be dealt with prior to Item 3.1.
 

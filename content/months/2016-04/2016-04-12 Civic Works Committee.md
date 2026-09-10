@@ -399,7 +399,7 @@ The
 ### 2. Purchase of a
   Skalar Continuous Flow Analyser for the Greenway Laboratory
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -411,7 +411,7 @@ Unanimous (4-0)
 ### 3. Contract Award:
   Tender 16-27 - Replacement of Sidewalks, Curb and Gutter and Hot Mix Asphalt
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -424,7 +424,7 @@ Unanimous (4-0)
   Tender T16-13 - Growth Management Implementation Strategy (GMIS) Campbell
   Street Improvements - Southwest Area Trunk Sanitary Sewer - Phase 2
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -436,7 +436,7 @@ Unanimous (4-0)
 ### 5. Contract Award: Tender
   No. 16-32 - Arterial Road Rehabilitation Project - Contract No.1
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -449,7 +449,7 @@ Unanimous (4-0)
   Over Stoney Creek Bridge Rehabilitation - Construction Administration of
   Tender No. 16-36 - Appointment of Consulting Engineer
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -462,7 +462,7 @@ Unanimous (4-0)
   Tender No. 16-21- 2016 Infrastructure Renewal Program Contract 4 - McCormick
   Area Reconstruction
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -475,7 +475,7 @@ Unanimous (4-0)
   Tender No. 16-21- 2016 Infrastructure Renewal Program Contract 4 - McCormick
   Area Reconstruction
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -487,7 +487,7 @@ Unanimous (4-0)
 ### 8. Field Marshal
   Wolseley Bridge (Quebec Street) Pedestrian Safety
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -499,7 +499,7 @@ Unanimous (4-0)
 ### 9. Deferred Matters
   List
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

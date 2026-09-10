@@ -762,7 +762,7 @@ The
 ### 2. 7th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -774,7 +774,7 @@ Unanimous (5-0)
 ### 3. 5th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -786,7 +786,7 @@ Unanimous (5-0)
 ### 4. Portions of land
   located at Georgeherriot Lane, Lismer Way and Lismer Place (H-8506)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -798,7 +798,7 @@ Unanimous (5-0)
 ### 5. Property located at
   1653 Richmond Street (H-8487)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -810,7 +810,7 @@ Unanimous (5-0)
 ### 6. Properties located
   at 1631, 1635, 1639, 1643 and 1649 Richmond Street (H-8519)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -822,7 +822,7 @@ Unanimous (5-0)
 ### 7. Blakie Road and
   Breck Avenue Servicing Area (H-8448)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -834,7 +834,7 @@ Unanimous (5-0)
 ### 8. Hyde Park Road
   Industrial Subdivision (H-8449)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -846,7 +846,7 @@ Unanimous (5-0)
 ### 9. Property located at
   1602 Sunningdale Road West (H-8517)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -858,7 +858,7 @@ Unanimous (5-0)
 ### 10. Property located at
   1959 Wharncliffe Road South (H-8494)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -870,7 +870,7 @@ Unanimous (5-0)
 ### 11. Amendments to
   Various Planning Related By-laws
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -882,7 +882,7 @@ Unanimous (5-0)
 ### 12. Property located at
   356 Dundas Street (Z-8483)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -894,7 +894,7 @@ Unanimous (5-0)
 ### 12. Property located at
   356 Dundas Street (Z-8483)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -906,7 +906,7 @@ Unanimous (5-0)
 ### 12. Property located at
   356 Dundas Street (Z-8483)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -918,7 +918,7 @@ Unanimous (5-0)
 ### 13. Property located at
   2760 Sunningdale Road East (OZ-8488)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -930,7 +930,7 @@ Unanimous (5-0)
 ### 13. Property located at
   2760 Sunningdale Road East (OZ-8488)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -942,7 +942,7 @@ Unanimous (5-0)
 ### 13. Property located at
   2760 Sunningdale Road East (OZ-8488)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -954,7 +954,7 @@ Unanimous (5-0)
 ### 14. Residential
   Development
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -966,7 +966,7 @@ Unanimous (5-0)
 ### 15. Redevelopment in
   London's Downtown
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

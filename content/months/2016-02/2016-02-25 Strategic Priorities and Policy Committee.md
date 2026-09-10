@@ -512,7 +512,7 @@ Business Case #9 – Technology – Amanda 
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -532,7 +532,7 @@ Business Case #9 – Technology – Amanda 
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -552,7 +552,7 @@ Business Case #9 – Technology – Amanda 
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -572,7 +572,7 @@ Business Case #9 – Technology – Amanda 
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-3" class="motion-anchor"></a>
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -585,7 +585,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-4" class="motion-anchor"></a>
+<div id="motion-3-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -605,7 +605,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-5" class="motion-anchor"></a>
+<div id="motion-3-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -618,7 +618,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-6" class="motion-anchor"></a>
+<div id="motion-3-6" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -631,7 +631,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-7" class="motion-anchor"></a>
+<div id="motion-3-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -651,7 +651,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-8" class="motion-anchor"></a>
+<div id="motion-3-8" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -664,7 +664,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-9" class="motion-anchor"></a>
+<div id="motion-3-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -684,7 +684,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-10" class="motion-anchor"></a>
+<div id="motion-3-10" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -697,7 +697,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-11" class="motion-anchor"></a>
+<div id="motion-3-11" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -717,7 +717,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-12" class="motion-anchor"></a>
+<div id="motion-3-12" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -737,7 +737,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-13" class="motion-anchor"></a>
+<div id="motion-3-13" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -757,7 +757,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-14" class="motion-anchor"></a>
+<div id="motion-3-14" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -775,7 +775,7 @@ Unanimous (15-0)
 (all amounts rounded to the nearest
   $1,000s)
 
-<a id="motion-3-15" class="motion-anchor"></a>
+<div id="motion-3-15" class="motion-anchor"></div>
 
 > Motion Passed
 

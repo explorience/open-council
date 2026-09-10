@@ -468,7 +468,7 @@ The meeting adjourned at 2:58  PM.
 
 ### 4.7. Social and Health Services
 
-<a id="motion-4-7-2" class="motion-anchor"></a>
+<div id="motion-4-7-2" class="motion-anchor"></div>
 
 > That the motion related to the Land Ambulance Budget BE AMENDED by adding the following new part b): b)    a meeting of the City-County Liaison Committee BE CONVENED forthwith and prior to the finalization of the City budget, in order to provide the opportunity for further discussion with respect...
 
@@ -485,7 +485,7 @@ The meeting adjourned at 2:58  PM.
 
 ### 4.7. Social and Health Services
 
-<a id="motion-4-7-3" class="motion-anchor"></a>
+<div id="motion-4-7-3" class="motion-anchor"></div>
 
 > That part a) of the amended motion BE ADOPTED.  Part A) reads as follows: "That the net 2020-2023 Multi-Year Operating Budget for the following service within Social and Health Services BE ADOPTED: v.  Page 121 - Land Ambulance $91,2550,00"
 
@@ -502,7 +502,7 @@ The meeting adjourned at 2:58  PM.
 
 ### 4.7. Social and Health Services
 
-<a id="motion-4-7-4" class="motion-anchor"></a>
+<div id="motion-4-7-4" class="motion-anchor"></div>
 
 > Motion to approve part b) of the amended motion.
 
@@ -519,7 +519,7 @@ The meeting adjourned at 2:58  PM.
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-1" class="motion-anchor"></a>
+<div id="motion-4-12-1" class="motion-anchor"></div>
 
 > That Business Case 3A BE REFERRED to a future update of the 2020-2023 Multi-Year Budget; it being noted that the London Community Foundation provided the attached communication related to this matter.
 
@@ -536,7 +536,7 @@ The meeting adjourned at 2:58  PM.
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-2" class="motion-anchor"></a>
+<div id="motion-4-12-2" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: iv. Business Case 3B – Back to the River – One River Environmental Assessment Management Implementation – 2020-2023 Total: Investment $1,250,000; Net ...
 
@@ -546,7 +546,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-3" class="motion-anchor"></a>
+<div id="motion-4-12-3" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: x. Business Case 8 – Dearness Home Auditorium Expansion - 2020-2023 Total: Investment $2,456,000; Net Levy $518,000
 
@@ -556,7 +556,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-5" class="motion-anchor"></a>
+<div id="motion-4-12-5" class="motion-anchor"></div>
 
 > That the motion related to Business Case 9, Fanshawe College Innovation Village, BE AMENDED to reflect a funding amount of $2,500,000, with the funding to be paid over ten years ($250,000 annually from the reserve fund).
 
@@ -573,7 +573,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-6" class="motion-anchor"></a>
+<div id="motion-4-12-6" class="motion-anchor"></div>
 
 > Main motion, as amended, with respect to Business Case 9 in the amount of $2,500,000, over ten years.
 
@@ -590,7 +590,7 @@ Unanimous (14-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-0" class="motion-anchor"></a>
+<div id="motion-4-13-0" class="motion-anchor"></div>
 
 > That the following contributions BE APPROVED, with respect to Business Case 4B - City of London Infrastructure Gap: 2020      $750,000 2021    $1,500,000 2022     $2,250,000 2023     $3,000,000; it being noted that the Net Levy Investment for the 2020-2023 Multi-Year Budget will be $7,500,000.
 
@@ -607,7 +607,7 @@ Unanimous (14-0)
 
 ### 4.16. 2020-2023 Multi-Year Budget - Additional Recommendations
 
-<a id="motion-4-16-0" class="motion-anchor"></a>
+<div id="motion-4-16-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2020-2023 Multi-Year Budget: a)      the 2020-2023 corporate tax levy BE ADOPTED in the amount of $2,684,600,789, which represents an approximate average annual increase of 3.9% from rates; and 2020-2023 gross expenditures equal to $4,197,07...
 

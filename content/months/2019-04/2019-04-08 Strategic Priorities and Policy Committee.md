@@ -844,7 +844,7 @@ The meeting adjourned at 8:44 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, and 2.3 BE APPROVED.
 
@@ -854,7 +854,7 @@ Unanimous (15-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That the request for delegation status from the London Community Foundation BE GRANTED for 10 Minutes. Voting Record
 
@@ -864,7 +864,7 @@ Unanimous (15-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-2" class="motion-anchor"></a>
+<div id="motion-3-1-2" class="motion-anchor"></div>
 
 > That the request for delegation status from Robert Huber, President, Thames River Anglers Association, BE APPROVED to be heard at this time.
 
@@ -874,7 +874,7 @@ Unanimous (15-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That the Strategic Plan section, Building a Sustainable City, Outcome 2, BSC-20 BE AMENDED to read: “Bring Londoners Back to the River by revitalizing the Thames River", deleting “radiating from the Forks”; and by deleting metric #1, "% of inaugural project at the Forks completed".
 
@@ -891,7 +891,7 @@ Unanimous (15-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-4" class="motion-anchor"></a>
+<div id="motion-3-1-4" class="motion-anchor"></div>
 
 > That the request for delegation status from Dani Bartlett, Labour Programs & Services Coordinator, United Way Elgin Middlesex, BE APPROVED to be heard at this time.
 
@@ -901,7 +901,7 @@ Unanimous (15-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-5" class="motion-anchor"></a>
+<div id="motion-3-1-5" class="motion-anchor"></div>
 
 > That the attached strategic area of focus "Creating a Safe London for Women and Girls" BE INCLUDED in the Council Strategic Plan.
 
@@ -911,7 +911,7 @@ Unanimous (15-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-7" class="motion-anchor"></a>
+<div id="motion-3-1-7" class="motion-anchor"></div>
 
 > The motion to approve parts a) b) c) and e) of the above-noted proposed amendment is put.
 
@@ -921,7 +921,7 @@ Unanimous (15-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-8" class="motion-anchor"></a>
+<div id="motion-3-1-8" class="motion-anchor"></div>
 
 > The motion to approve part d) of the above-noted proposed amendment is put.
 
@@ -931,7 +931,7 @@ Unanimous (14-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-10" class="motion-anchor"></a>
+<div id="motion-3-1-10" class="motion-anchor"></div>
 
 > The motion to approve part c) of Item 3.1 is put. "c)    Strategies SOC-12 and SOC-13 BE APPROVED;"
 
@@ -941,7 +941,7 @@ Unanimous (13-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-11" class="motion-anchor"></a>
+<div id="motion-3-1-11" class="motion-anchor"></div>
 
 > The motion to approve part d) of Item 3.1 is put. "d)    Strategy GOE-21 BE APPROVED;"
 
@@ -951,7 +951,7 @@ Unanimous (14-0)
 
 ### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
 
-<a id="motion-3-1-12" class="motion-anchor"></a>
+<div id="motion-3-1-12" class="motion-anchor"></div>
 
 > The motion to approve part e) of Item 3.1 is put. "e)   the new Strategy under "Building a Sustainable City" for the "replacement of surface parking with efficient, convenient and cost-effective public parking resources to support business, personal and social activity in the Downtown (Downtown P...
 
@@ -961,7 +961,7 @@ Unanimous (14-0)
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That Items 4.2 through 4.7 BE APPROVED
 
@@ -971,7 +971,7 @@ Unanimous (15-0)
 
 ### 4.1. Request for Councillor J. Morgan to be Appointed as Council Lead for the 2020-2023 Multi-Year Budget
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That Councillor J. Morgan BE APPOINTED as the Council lead for the upcoming four-year Budget process (2020 to 2023 referred hereafter as the "Multi-Year Budget"), acting as Budget Chair with duties including coordination of Multi-Year Budget activities with the Civic Administration and the Chairi...
 

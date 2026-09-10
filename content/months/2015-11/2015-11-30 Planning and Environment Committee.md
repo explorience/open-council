@@ -883,7 +883,7 @@ The
 ### 2. 13th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -895,7 +895,7 @@ Unanimous (5-0)
 ### 3. 9th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -907,7 +907,7 @@ Unanimous (5-0)
 ### 4. Property located at
   585 Waterloo Street
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -919,7 +919,7 @@ Unanimous (5-0)
 ### 5. Property located at
   1895 Blue Heron Drive (Z-8532)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -931,7 +931,7 @@ Unanimous (4-0)
 ### 5. Property located at
   1895 Blue Heron Drive (Z-8532)
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -943,7 +943,7 @@ Unanimous (5-0)
 ### 5. Property located at
   1895 Blue Heron Drive (Z-8532)
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -955,7 +955,7 @@ Unanimous (4-0)
 ### 6. Properties located
   at 1155-1236 Gough Road and 1974-2119 Gough Avenue (Z-8509)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -974,7 +974,7 @@ Unanimous (4-0)
 ### 6. Properties located
   at 1155-1236 Gough Road and 1974-2119 Gough Avenue (Z-8509)
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -986,7 +986,7 @@ Unanimous (4-0)
 ### 6. Properties located
   at 1155-1236 Gough Road and 1974-2119 Gough Avenue (Z-8509)
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -999,7 +999,7 @@ Unanimous (4-0)
   1080 Westdel Bourne - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1012,7 +1012,7 @@ Unanimous (5-0)
   1080 Westdel Bourne - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410)
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1025,7 +1025,7 @@ Unanimous (4-0)
   1080 Westdel Bourne - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410)
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1038,7 +1038,7 @@ Unanimous (5-0)
   1080 Westdel Bourne - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410)
 
-<a id="motion-7-3" class="motion-anchor"></a>
+<div id="motion-7-3" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -1057,7 +1057,7 @@ Unanimous (5-0)
 ### 8. Property located at
   2300 Richmond Street (OZ-8501)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1069,7 +1069,7 @@ Unanimous (5-0)
 ### 8. Property located at
   2300 Richmond Street (OZ-8501)
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1081,7 +1081,7 @@ Unanimous (5-0)
 ### 8. Property located at
   2300 Richmond Street (OZ-8501)
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

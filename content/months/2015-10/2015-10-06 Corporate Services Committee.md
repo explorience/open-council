@@ -305,7 +305,7 @@ The Corporate Services Committee convened
 ### 2. Amendment to
   Council Policy 28(2) Council Members' Expense Account
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -317,7 +317,7 @@ Unanimous (5-0)
 ### 3. Review of Municipal
   Act, 2001 and Municipal Conflict of Interest Act
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -329,7 +329,7 @@ Unanimous (5-0)
 ### 4. Request for
   Proposal 15-21 - General Insurance Program
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -342,7 +342,7 @@ Unanimous (5-0)
   Federation of Canadian Municipalities Board of Directors Meeting -
   Fredericton, NB, September 9-12, 2015
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -354,7 +354,7 @@ Unanimous (5-0)
 ### 6. Consideration of
   Appointment to the Accessibility Advisory Committee
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -366,7 +366,7 @@ Unanimous (5-0)
 ### 7. Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -378,7 +378,7 @@ Unanimous (5-0)
 ### 8. Corporate Services
   Committee Deferred Matters List
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -390,7 +390,7 @@ Unanimous (5-0)
 ### 9. ADDED - 2015
   Federal Election Questionnaire
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

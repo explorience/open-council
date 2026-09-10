@@ -271,7 +271,7 @@ C-2      A matter pertaining to personal
 ### 2. Changes to
   Development Charges Act - Bill 73 and Regulations
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -282,7 +282,7 @@ Unanimous (13-0)
 ### 3. Update on Unfunded
   Liability
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -293,7 +293,7 @@ Unanimous (11-0)
 ### 4. London &
   Middlesex Housing Corporation Annual General Meeting (AGM) Request
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -304,7 +304,7 @@ Unanimous (13-0)
 ### 5. London Hydro Annual
   General Meeting (AGM) Request
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -315,7 +315,7 @@ Unanimous (13-0)
 ### 6. 9th Report of the
   Governance Working Group
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 

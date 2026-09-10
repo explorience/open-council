@@ -411,7 +411,7 @@ The meeting adjourned at 12:51 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.2 to 2.4 and 2.7 to 2.12 BE APPROVED.
 
@@ -421,7 +421,7 @@ Unanimous (6-0)
 
 ### 2.1. Kilally South, East Basin Municipal Class Environmental Assessment: Notice of Completion
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Kilally South, East Basin Municipal Class Environmental Assessment: a)       the Kilally South, East Basin Municipal Class Assessment E...
 
@@ -431,7 +431,7 @@ Unanimous (6-0)
 
 ### 2.5. Wellington Gateway Transit and Municipal Infrastructure Improvements - Appointment of Consulting Engineer
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the Wellington Gateway Transit and Infrastructure Improvements: a)       AECOM Consulting Ltd...
 
@@ -448,7 +448,7 @@ Unanimous (6-0)
 
 ### 2.6. East London Link Transit and Municipal Infrastructure Improvements Appointment of Consulting Engineer
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the East London Link Transit and Municipal Infrastructure Improvements: a)       DILLON Consu...
 

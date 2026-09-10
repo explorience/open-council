@@ -347,7 +347,7 @@ The meeting adjourned at 2:01 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 to 2.4 BE APPROVED.
 
@@ -357,7 +357,7 @@ Unanimous (5-0)
 
 ### 4.1. User-Pay Christmas Tree Pick Up - Councillor M. van Holst
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to investigate the possibility of collecting Christmas trees in January on a user-pay basis with a report back at a future meeting of the Civic Works Committee. (2020-E07)
 
@@ -376,7 +376,7 @@ Unanimous (5-0)
 
 ### 4.2. Deleting Curbside Organics Collection - Councillor M. van Holst
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That NO ACTION BE TAKEN regarding the proposed recommendation from Councillor M. van Holst, dated February 9, 2020, as appended to the agenda, with respect to curbside organics collection. (2020-E07)
 
@@ -395,7 +395,7 @@ Unanimous (5-0)
 
 ### 4.3. Removal of Trees on Runnymede Crescent - G. Martin
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from G. Martin.
 
@@ -405,7 +405,7 @@ Unanimous (4-0)
 
 ### 4.3. Removal of Trees on Runnymede Crescent - G. Martin
 
-<a id="motion-4-3-2" class="motion-anchor"></a>
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > Motion to approve the above-noted exemption with respect to the removal of trees on Runnymede Crescent.
 
@@ -415,7 +415,7 @@ Unanimous (4-0)
 
 ### 4.4. (ADDED) "Right to Approve" Landfill Developments - R. Cory, Council of Canadians
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from R. Cory.
 
@@ -425,7 +425,7 @@ Unanimous (4-0)
 
 ### 4.4. (ADDED) "Right to Approve" Landfill Developments - R. Cory, Council of Canadians
 
-<a id="motion-4-4-2" class="motion-anchor"></a>
+<div id="motion-4-4-2" class="motion-anchor"></div>
 
 > Motion to receive the verbal presentation from R. Cory and to take no action with respect to the proposed motion submitted by the Council of Canadians, London Chapter.
 
@@ -435,7 +435,7 @@ Unanimous (4-0)
 
 ### 5.1. Transportation Advisory Committee 2020 Work Plan - Feedback
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Transportation Advisory Committee (TAC) BE ADVISED that the Civic Works Committee and the Civic Administration concur with the TAC-identified priority items on its 2020 work plan.
 
@@ -445,7 +445,7 @@ Unanimous (4-0)
 
 ### 5.2. Cycling Advisory Committee 2020 Work Plan - Feedback
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the revised Cycling Advisory Committee work plan, as appended to the agenda, BE FORWARDED to Council for final consideration and approval.
 

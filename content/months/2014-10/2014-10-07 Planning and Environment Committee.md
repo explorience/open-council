@@ -1296,7 +1296,7 @@ Recommendation:  That, on the
 ### 2. 9th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1308,7 +1308,7 @@ Unanimous (5-0)
 ### 3. 4th Report of the
   Agricultural Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1320,7 +1320,7 @@ Unanimous (5-0)
 ### 4. 7th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1332,7 +1332,7 @@ Unanimous (5-0)
 ### 5. A Statistical
   Portrait of London - Community & Neighbourhood Profiles
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1344,7 +1344,7 @@ Unanimous (5-0)
 ### 6. Properties located
   at 51 and 99 Exeter Road (OZ-8324)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1363,7 +1363,7 @@ Unanimous (5-0)
 ### 7. Property located at
   1576 Richmond Street
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1375,7 +1375,7 @@ Unanimous (5-0)
 ### 8. Properties located
   at 3718, 3766 and 3812 Dingman Drive and 437 Exeter Road (39T-06504)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1387,7 +1387,7 @@ Unanimous (5-0)
 ### 9. Properties located
   at 55 and 60 Chalkstone Drive (39T-06508)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1400,7 +1400,7 @@ Unanimous (5-0)
   at 3854 Dingman Drive and 4112-4432 White Oak Road - Request for Extension of
   Draft Plan (39T-05513)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1412,7 +1412,7 @@ Unanimous (5-0)
 ### 11. Parking Section
   4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Voting   Record:   Motion   Passed
 
@@ -1424,7 +1424,7 @@ Unanimous (5-0)
 ### 11. Parking Section
   4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1436,7 +1436,7 @@ Unanimous (5-0)
 ### 11. Parking Section
   4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1448,7 +1448,7 @@ Unanimous (5-0)
 ### 12. Old Victoria
   Hospital Lands Zoning Study (Z-8344)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1460,7 +1460,7 @@ Unanimous (5-0)
 ### 12. Old Victoria
   Hospital Lands Zoning Study (Z-8344)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1472,7 +1472,7 @@ Unanimous (5-0)
 ### 12. Old Victoria
   Hospital Lands Zoning Study (Z-8344)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1484,7 +1484,7 @@ Unanimous (5-0)
 ### 13. Property located at
   946 Longworth Road (Z-8293)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Voting   Record:   Motion   Passed
 
@@ -1496,7 +1496,7 @@ Unanimous (5-0)
 ### 13. Property located at
   946 Longworth Road (Z-8293)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1508,7 +1508,7 @@ Unanimous (5-0)
 ### 13. Property located at
   946 Longworth Road (Z-8293)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1520,7 +1520,7 @@ Unanimous (5-0)
 ### 14. Properties located
   at 1643, 1649 and 1653 Richmond Street (OZ-8310)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1531,7 +1531,7 @@ Unanimous (4-0)
 ### 14. Properties located
   at 1643, 1649 and 1653 Richmond Street (OZ-8310)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion     Passed
 
@@ -1543,7 +1543,7 @@ Unanimous (6-0)
 ### 14. Properties located
   at 1643, 1649 and 1653 Richmond Street (OZ-8310)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion     Passed
 
@@ -1555,7 +1555,7 @@ Unanimous (6-0)
 ### 14. Properties located
   at 1643, 1649 and 1653 Richmond Street (OZ-8310)
 
-<a id="motion-14-3" class="motion-anchor"></a>
+<div id="motion-14-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1566,7 +1566,7 @@ Unanimous (4-0)
 ### 14. Properties located
   at 1643, 1649 and 1653 Richmond Street (OZ-8310)
 
-<a id="motion-14-4" class="motion-anchor"></a>
+<div id="motion-14-4" class="motion-anchor"></div>
 
 > Motion     Passed
 
@@ -1578,7 +1578,7 @@ Unanimous (6-0)
 ### 14. Properties located
   at 1643, 1649 and 1653 Richmond Street (OZ-8310)
 
-<a id="motion-14-5" class="motion-anchor"></a>
+<div id="motion-14-5" class="motion-anchor"></div>
 
 > Motion     Passed
 
@@ -1590,7 +1590,7 @@ Unanimous (6-0)
 ### 15. Property located at
   175 Fanshawe Park Road West (Z-8397)
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1602,7 +1602,7 @@ Unanimous (5-0)
 ### 15. Property located at
   175 Fanshawe Park Road West (Z-8397)
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1614,7 +1614,7 @@ Unanimous (6-0)
 ### 16. Property located at
   7 Annadale Drive (Z-8334)
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1626,7 +1626,7 @@ Unanimous (5-0)
 ### 16. Property located at
   7 Annadale Drive (Z-8334)
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1638,7 +1638,7 @@ Unanimous (5-0)
 ### 16. Property located at
   7 Annadale Drive (Z-8334)
 
-<a id="motion-16-2" class="motion-anchor"></a>
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1650,7 +1650,7 @@ Unanimous (5-0)
 ### 17. Property Located at
   50 King Street (Z-8372)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1661,7 +1661,7 @@ Unanimous (5-0)
 ### 17. Property Located at
   50 King Street (Z-8372)
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1679,7 +1679,7 @@ Unanimous (5-0)
 ### 18. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1690,7 +1690,7 @@ Unanimous (4-0)
 ### 18. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1701,7 +1701,7 @@ Unanimous (4-0)
 ### 18. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
 
-<a id="motion-18-2" class="motion-anchor"></a>
+<div id="motion-18-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1712,7 +1712,7 @@ Unanimous (4-0)
 ### 19. Bonusing
   Regulations
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

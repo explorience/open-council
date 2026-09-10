@@ -793,7 +793,7 @@ The
 ### 2. 8th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -805,7 +805,7 @@ Unanimous (5-0)
 ### 3. 3rd Report of the
   Agricultural Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -817,7 +817,7 @@ Unanimous (5-0)
 ### 4. 6th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -829,7 +829,7 @@ Unanimous (5-0)
 ### 5. Chelsea Green
   Meadows Subdivision (39T-02511)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -841,7 +841,7 @@ Unanimous (5-0)
 ### 6. Crestwood (Phase 3)
   Subdivision (39T-13503)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -853,7 +853,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 2525 and 2695 Dingman Drive (Z-8512)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -872,7 +872,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 2525 and 2695 Dingman Drive (Z-8512)
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -884,7 +884,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 2525 and 2695 Dingman Drive (Z-8512)
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -896,7 +896,7 @@ Unanimous (5-0)
 ### 8. Property located at
   2150 Oxford Street East (OZ-8510)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -908,7 +908,7 @@ Unanimous (5-0)
 ### 8. Property located at
   2150 Oxford Street East (OZ-8510)
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -920,7 +920,7 @@ Unanimous (5-0)
 ### 8. Property located at
   2150 Oxford Street East (OZ-8510)
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -933,7 +933,7 @@ Unanimous (5-0)
   at 3313-3450 Wonderland Road South and 1789 Wharncliffe Road South
   (SP15-009327)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -946,7 +946,7 @@ Unanimous (5-0)
   at 3313-3450 Wonderland Road South and 1789 Wharncliffe Road South
   (SP15-009327)
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -959,7 +959,7 @@ Unanimous (5-0)
   at 3313-3450 Wonderland Road South and 1789 Wharncliffe Road South
   (SP15-009327)
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -971,7 +971,7 @@ Unanimous (5-0)
 ### 10. Review of the
   Community Facility Zone (Z-8479)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -983,7 +983,7 @@ Unanimous (5-0)
 ### 10. Review of the
   Community Facility Zone (Z-8479)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -995,7 +995,7 @@ Unanimous (5-0)
 ### 10. Review of the
   Community Facility Zone (Z-8479)
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1007,7 +1007,7 @@ Unanimous (5-0)
 ### 11. Properties located
   at 598, 600, 604 and 608 Springbank Drive (Z-8374)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1019,7 +1019,7 @@ Unanimous (5-0)
 ### 11. Properties located
   at 598, 600, 604 and 608 Springbank Drive (Z-8374)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1031,7 +1031,7 @@ Unanimous (5-0)
 ### 11. Properties located
   at 598, 600, 604 and 608 Springbank Drive (Z-8374)
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1043,7 +1043,7 @@ Unanimous (5-0)
 ### 12. Planning Services
   Two Year Work Program
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -274,7 +274,7 @@ Motion Passed.
   Council Meeting of June 24, 2014 with respect to the declaration of a
   potential vacancy of a Ward seat.
 
-<a id="motion-1-0" class="motion-anchor"></a>
+<div id="motion-1-0" class="motion-anchor"></div>
 
 > Approve that:   WHEREAS by Bill No. 335, Joni Baechler,   Councillor Ward 5, was appointed to the office of Mayor pursuant to section   263(1) of the Municipal Act, 2001;   AND WHEREAS section 259(1)(e) of the   Municipal Act, 2001 provides that the office of a member of council of a   municipali...
 
@@ -286,7 +286,7 @@ Unanimous (11-0)
   Council Meeting of June 24, 2014 with respect to the declaration of a
   potential vacancy of a Ward seat.
 
-<a id="motion-1-1" class="motion-anchor"></a>
+<div id="motion-1-1" class="motion-anchor"></div>
 
 > Approve the deferral of   consideration of an appointment to the Ward 5 vacancy for a period of approximately   3 weeks, until the next regular meeting cycle of Council
 
@@ -305,7 +305,7 @@ Unanimous (11-0)
   Council Meeting of June 24, 2014 with respect to the declaration of a
   potential vacancy of a Ward seat.
 
-<a id="motion-1-2" class="motion-anchor"></a>
+<div id="motion-1-2" class="motion-anchor"></div>
 
 > Approve that the following actions be   taken with respect to the filling of the Ward 5 vacancy:   a)              Council   Members each BE INVITED to bring forward a nomination to fill the vacant Ward   5 Councillor position, to the special Council meeting scheduled for 1 PM,   June 25, 2014; i...
 
@@ -317,7 +317,7 @@ Unanimous (11-0)
   Council Meeting of June 24, 2014 with respect to the declaration of a
   potential vacancy of a Ward seat.
 
-<a id="motion-1-3" class="motion-anchor"></a>
+<div id="motion-1-3" class="motion-anchor"></div>
 
 > Approve that further to the invitation   for nominations, any potential nominees BE REQUESTED to attend the City   Clerk's office prior to 11 AM June 25th, 2014 for certification of   eligibility.
 

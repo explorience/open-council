@@ -410,7 +410,7 @@ The meeting adjourned at 5:30 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.3 to 2.7, inclusive, BE APPROVED.
 
@@ -420,7 +420,7 @@ Unanimous (6-0)
 
 ### 3.1. 6th Report of the Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 6th Report of the Environmental and Ecological Planning Advisory Committee (EEPAC), from its meeting held on August 19, 2021: a)  the following Climate Emergency Action Plan Working Group recommendations BE FORWARDED to the Civic Administrat...
 
@@ -430,7 +430,7 @@ Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Deputy City Manager, Planning and Economic Development, BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 

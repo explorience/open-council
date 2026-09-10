@@ -861,7 +861,7 @@ Thank you everyone for your time today in discussion and I wish you a wonderful 
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6 BE APPROVED.
 
@@ -871,7 +871,7 @@ Unanimous (6-0)
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That Items 4.1, 4.2, and 4.3 BE APPROVED.
 
@@ -881,7 +881,7 @@ Unanimous (6-0)
 
 ### 4.4. Metamora Stormwater Outfall Replacement - Contract Award Increase (RFT21-91)
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated March 29, 2022, related to the award of contract for the Metamora Stormwater Outfall Replacement and Slope Rehabilitation: a)    the contra...
 
@@ -891,7 +891,7 @@ Unanimous (6-0)
 
 ### 4.5. Contract Award: Tender RFT 21-97 Adelaide Street North CPR Underpass Project - Irregular Result
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated March 29, 2022, related to the Adelaide Street North CPR Underpass Project: a)    the bid submitted by McLean Taylor Construction Limited a...
 
@@ -901,7 +901,7 @@ Unanimous (6-0)
 
 ### 4.6. Contract Award: Tender RFT-2022-001 Southdale Road West Improvements Phase 1
 
-<a id="motion-4-6-0" class="motion-anchor"></a>
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated March 29, 2022, related to the Southdale Road West Improvements Phase 1 Project between Bostwick Road and Pine Valley Boulevard (Tender RFT...
 
@@ -911,7 +911,7 @@ Unanimous (6-0)
 
 ### 4.7. Report on Downtown Road Closures
 
-<a id="motion-4-7-0" class="motion-anchor"></a>
+<div id="motion-4-7-0" class="motion-anchor"></div>
 
 > That the communication from Councillor M. van Holst, with respect to a report on Downtown road closures BE RECEIVED and NO ACTION BE TAKEN. (2022-C09)
 

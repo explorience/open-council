@@ -227,7 +227,7 @@ Motion
 ### 2. PUBLIC
   PARTICIPATION MEETING - Ranked Ballot Model
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -239,7 +239,7 @@ Unanimous (6-0)
 ### 2. PUBLIC
   PARTICIPATION MEETING - Ranked Ballot Model
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -251,7 +251,7 @@ Unanimous (6-0)
 ### 2. PUBLIC
   PARTICIPATION MEETING - Ranked Ballot Model
 
-<a id="motion-2-2" class="motion-anchor"></a>
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -263,7 +263,7 @@ Unanimous (6-0)
 ### 2. PUBLIC
   PARTICIPATION MEETING - Ranked Ballot Model
 
-<a id="motion-2-3" class="motion-anchor"></a>
+<div id="motion-2-3" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -282,7 +282,7 @@ Unanimous (6-0)
 ### 2. PUBLIC
   PARTICIPATION MEETING - Ranked Ballot Model
 
-<a id="motion-2-4" class="motion-anchor"></a>
+<div id="motion-2-4" class="motion-anchor"></div>
 
 > Motion   Failed
 

@@ -350,7 +350,7 @@ The meeting adjourned at 5:52 PM.
 ### 2. Election of
   Vice-Chair for the Term Ending November 30, 2014
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -363,7 +363,7 @@ Unanimous (6-0)
   Clarke Road Intersection Improvements Construction Contract Amendment -
   Emergency Situation
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -375,7 +375,7 @@ Unanimous (6-0)
 ### 4. Amendments to the
   Traffic and Parking By-law
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -387,7 +387,7 @@ Unanimous (6-0)
 ### 5. Irregular Bid-Supply
   of High Performance Cold Mix Asphalt (Tender T13-104)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -399,7 +399,7 @@ Unanimous (6-0)
 ### 6. 2014 Infrastructure
   Renewal Projects - Trees
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -412,7 +412,7 @@ Unanimous (6-0)
   Environment Inspection Report for the City of London Water Distribution
   System - 2013
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -424,7 +424,7 @@ Unanimous (6-0)
 ### 8. Community Energy
   Action Plan - Final Draft for Community Engagement
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -436,7 +436,7 @@ Unanimous (5-0)
 ### 9. Intersection
   Improvements - Richmond Street and Fanshawe Park Road
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -448,7 +448,7 @@ Unanimous (6-0)
 ### 10. 1st Report of the
   Transportation Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

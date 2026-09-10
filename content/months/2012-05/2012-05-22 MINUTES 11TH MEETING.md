@@ -1470,7 +1470,7 @@ That,
   AND SIGNING OF THE MINUTES OF THE EIGHTH, NINTH AND TENTH MEETINGS HELD ON
   MAY 1 AND 2, 2012, MAY 8, 2012 AND MAY 17, 2012 RESPECTIVELY
 
-<a id="motion-ii-2" class="motion-anchor"></a>
+<div id="motion-ii-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1480,7 +1480,7 @@ Unanimous (11-0)
 
 ### XI. BY-LAWS
 
-<a id="motion-xi-1" class="motion-anchor"></a>
+<div id="motion-xi-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1490,7 +1490,7 @@ Unanimous (11-0)
 
 ### XI. BY-LAWS
 
-<a id="motion-xi-3" class="motion-anchor"></a>
+<div id="motion-xi-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1500,7 +1500,7 @@ Unanimous (11-0)
 
 ### XI. BY-LAWS
 
-<a id="motion-xi-5" class="motion-anchor"></a>
+<div id="motion-xi-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1510,7 +1510,7 @@ Unanimous (11-0)
 
 ### XI. BY-LAWS
 
-<a id="motion-xi-7" class="motion-anchor"></a>
+<div id="motion-xi-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1520,7 +1520,7 @@ Unanimous (13-0)
 
 ### XI. BY-LAWS
 
-<a id="motion-xi-9" class="motion-anchor"></a>
+<div id="motion-xi-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1531,7 +1531,7 @@ Unanimous (13-0)
 ### XII. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-xii-1" class="motion-anchor"></a>
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1542,7 +1542,7 @@ Unanimous (12-0)
 ### 3. 1st Report of the
   Town and Gown Committee
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1560,7 +1560,7 @@ Unanimous (12-0)
 ### 3. 1st Report of the
   Town and Gown Committee
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1578,7 +1578,7 @@ Unanimous (12-0)
 ### 3. 1st Report of the
   Town and Gown Committee
 
-<a id="motion-3-3" class="motion-anchor"></a>
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1589,7 +1589,7 @@ Unanimous (13-0)
 ### 6. Communications and
   Engagement Plan
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1600,7 +1600,7 @@ Unanimous (13-0)
 ### 6. Communications and
   Engagement Plan
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1611,7 +1611,7 @@ Unanimous (13-0)
 ### 11. Middlesex-London
   Health Unit
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > 
 
@@ -1622,7 +1622,7 @@ Unanimous (13-0)
 ### 11. Middlesex-London
   Health Unit
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1633,7 +1633,7 @@ Unanimous (13-0)
 ### 18. 3rd Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1644,7 +1644,7 @@ Unanimous (13-0)
 ### 18. 3rd Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-18-2" class="motion-anchor"></a>
+<div id="motion-18-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1655,7 +1655,7 @@ Unanimous (13-0)
 ### 18. 3rd Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-18-4" class="motion-anchor"></a>
+<div id="motion-18-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1666,7 +1666,7 @@ Unanimous (13-0)
 ### 24. Sidewalk Cafes
   Pilot Program
 
-<a id="motion-24-1" class="motion-anchor"></a>
+<div id="motion-24-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1684,7 +1684,7 @@ Unanimous (13-0)
 ### 24. Sidewalk Cafes
   Pilot Program
 
-<a id="motion-24-2" class="motion-anchor"></a>
+<div id="motion-24-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1695,7 +1695,7 @@ Unanimous (13-0)
 ### 24. Sidewalk Cafes
   Pilot Program
 
-<a id="motion-24-3" class="motion-anchor"></a>
+<div id="motion-24-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1713,7 +1713,7 @@ Unanimous (13-0)
 ### 24. Sidewalk Cafes
   Pilot Program
 
-<a id="motion-24-5" class="motion-anchor"></a>
+<div id="motion-24-5" class="motion-anchor"></div>
 
 > Motion Passed
 

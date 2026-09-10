@@ -423,7 +423,7 @@ Okay, we are adjourned.
 
 ### 4.1. Bill 23, More Homes Built Faster Act, 2022, Information Report
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the delegation request of M. Wallace, London Development Institute, BE APPROVED to be heard at this time.
 
@@ -433,7 +433,7 @@ Unanimous (15-0)
 
 ### 4.1. Bill 23, More Homes Built Faster Act, 2022, Information Report
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That the recommendation BE AMENDED by adding the following new part d): "d)    that the Province BE FURTHER ADVISED that the Municipal Council supports the submissions on Bill 23, More Homes Built Faster Act, 2022, from the Association of Municipalities of Ontario and the Ontario Big City Mayors;"
 

@@ -450,7 +450,7 @@ Motion Passed
 ### 2. 1st Report of the
   Outstanding London Ambassador Award Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -461,7 +461,7 @@ Unanimous (11-0)
 ### 3. Tabling of the 2016
   - 2019 Multi-Year Budget
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -472,7 +472,7 @@ Unanimous (15-0)
 ### 3. Tabling of the 2016
   - 2019 Multi-Year Budget
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -483,7 +483,7 @@ Unanimous (15-0)
 ### 4. London's Community
   Economic Road Map - Economic Partnership Advisory Panel
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -494,7 +494,7 @@ Unanimous (15-0)
 ### 5. Resignation from
   the Governance Working Group
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -512,7 +512,7 @@ Unanimous (15-0)
 ### 6. Boards and
   Commissions Orientation - Discussion
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -523,7 +523,7 @@ Unanimous (15-0)
 ### 7. ADDED - Council
   Compensation Review Task Force
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -534,7 +534,7 @@ Unanimous (15-0)
 ### 8. Confirmation of
   Revisions to the Budget Schedule
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -547,7 +547,7 @@ Unanimous (15-0)
   Meeting - Overview Report Pertaining to the Planning and Coordination of
   Various Projects within the Downtown Area
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -560,7 +560,7 @@ Unanimous (15-0)
   Meeting - Overview Report Pertaining to the Planning and Coordination of
   Various Projects within the Downtown Area
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion Passed
 

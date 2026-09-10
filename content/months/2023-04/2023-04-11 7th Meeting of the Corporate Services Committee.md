@@ -478,7 +478,7 @@ The meeting adjourned at 12:40 PM.
 
 ### 2.4. Delegation of Authority By-law: Environment and Infrastructure Approvals and Agreements
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That the staff report regarding Delegating of Authority By-law: Environment and Infrastructure Approvals and Agreements BE REFERRED to the May 1, 2023 Corporate Services Committee for consideration; it being noted that additional work on the proposed by-law is required.
 
@@ -488,7 +488,7 @@ Unanimous (6-0)
 
 ### 2.8. Members of Council Proof of COVID-19 Vaccination Policy
 
-<a id="motion-2-8-0" class="motion-anchor"></a>
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > That on the recommendation of the City Clerk, the by-law as appended to the staff report dated April 11, 2023 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on April 25, 2023 to repeal By-law No. CPOL.-407-321, and any amendments thereto, being “A by-law to adopt Member...
 
@@ -505,7 +505,7 @@ Unanimous (6-0)
 
 ### 2.9. Standing Committee Meetings and Annual Meeting Calendar
 
-<a id="motion-2-9-0" class="motion-anchor"></a>
+<div id="motion-2-9-0" class="motion-anchor"></div>
 
 > That the 2024 Standing Committee Meetings and Annual Meeting Calendar Report BE REFERRED to the Governance Working Group for consideration of moving standing committee meetings to regular City Hall business hours for all standing committees, effective December 1, 2023.
 
@@ -515,7 +515,7 @@ Unanimous (6-0)
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That Items 4.1 to 4.4 BE APPROVED, as submitted.
 
@@ -525,7 +525,7 @@ Unanimous (6-0)
 
 ### 4.5. Board of Directors - Federation of Canadian Municipalities (FCM)
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the communication dated March 29, 2023 from Councillor S. Franke regarding standing for election to the Federation of Canadian Municipalities' Board of Directors and her associated expenses:    WHEREAS the Federation of Canadian Municipalities (...
 

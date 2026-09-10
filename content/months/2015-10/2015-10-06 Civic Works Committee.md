@@ -561,7 +561,7 @@ The
 ### 2. 8th Report of the
   Cycling Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -573,7 +573,7 @@ Unanimous (5-0)
 ### 3. 4th Report of the
   Transportation Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -585,7 +585,7 @@ Unanimous (5-0)
 ### 4. Closing Part of
   Robin's Hill Road
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -597,7 +597,7 @@ Unanimous (5-0)
 ### 5. Thames River
   Experimental Stream Science Facility at Adelaide Pollution Control Plant
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -609,7 +609,7 @@ Unanimous (5-0)
 ### 6. Flooding Matters -
   Terms of Reference
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -629,7 +629,7 @@ Unanimous (5-0)
   Subwatershed - Stormwater Servicing Strategy – Schedule C - Municipal Class
   Environmental Assessment
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -641,7 +641,7 @@ Unanimous (5-0)
 ### 8. Western Road /
   Wharncliffe Road North Widening Environmental Study Report
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -653,7 +653,7 @@ Unanimous (5-0)
 ### 9. Veterans Memorial
   Parkway Pavement Rehabilitation Appointment of Survey Consultant
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -666,7 +666,7 @@ Unanimous (5-0)
   South Two-Lane Upgrade Highway 401 to Highway 402 Appointment of Consulting
   Engineer
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -678,7 +678,7 @@ Unanimous (5-0)
 ### 11. Downtown London
   Parking Utilization Study
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -690,7 +690,7 @@ Unanimous (5-0)
 ### 12. Left-Turn Ban onto
   Farnham Road from Southdale Road West
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -701,7 +701,7 @@ Unanimous (5-0)
 
 ### 13. Kindness Meters
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -712,7 +712,7 @@ Unanimous (5-0)
 
 ### 13. Kindness Meters
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -724,7 +724,7 @@ Unanimous (5-0)
 ### 14. Winter Maintenance
   for Un-assumed Subdivisions
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -737,7 +737,7 @@ Unanimous (5-0)
   Environmental Assessment - Long Term Solid Waste Resource Recovery and
   Disposal Plan
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -749,7 +749,7 @@ Unanimous (5-0)
 ### 16. Deferred Matters
   List
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

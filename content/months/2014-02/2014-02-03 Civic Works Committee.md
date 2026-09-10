@@ -369,7 +369,7 @@ Motion
   Dingman Creek Stormwater Management Erosion Control Wetland Facility (ES2682)
   (Tender No. T13-89)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -381,7 +381,7 @@ Unanimous (5-0)
 ### 3. Granular Materials
   - Area "A"  and Area "B" (Tender 13-113)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -393,7 +393,7 @@ Unanimous (5-0)
 ### 4. Pollution
   Prevention and Control Plan - Consultant Appointment Continuation (ES2464-11)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -407,7 +407,7 @@ Unanimous (6-0)
   Services Associated with the Construction of the Fox Hollow SWM Facility No.
   1 - South Cell and Woodlot Berm (ES3020 - FH1)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -421,7 +421,7 @@ Unanimous (5-0)
   Class Environmental Assessment for the Southland Wastewater Treatment Plant
   and Proposed Sanitary Servicing of the Southwest Area (ES5260)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -433,7 +433,7 @@ Unanimous (6-0)
 ### 7. Application by City
   of London - Street Renaming of Tennent Avenue (East Leg)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -445,7 +445,7 @@ Unanimous (5-0)
 ### 8. Proposed Waste
   Reduction Act and Related Matters for Financing the Blue Box Program
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -457,7 +457,7 @@ Unanimous (6-0)
 ### 8. Proposed Waste
   Reduction Act and Related Matters for Financing the Blue Box Program
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

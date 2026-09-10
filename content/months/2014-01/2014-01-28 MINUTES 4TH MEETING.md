@@ -1664,7 +1664,7 @@ Motion Passed
 ### III. ADDED
   REPORTS
 
-<a id="motion-iii-1" class="motion-anchor"></a>
+<div id="motion-iii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1675,7 +1675,7 @@ Unanimous (14-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-1" class="motion-anchor"></a>
+<div id="motion-iv-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1685,7 +1685,7 @@ Unanimous (11-0)
 
 ### IX. REPORTS
 
-<a id="motion-ix-1" class="motion-anchor"></a>
+<div id="motion-ix-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1696,7 +1696,7 @@ Unanimous (14-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 14, 2014
 
-<a id="motion-vi-1" class="motion-anchor"></a>
+<div id="motion-vi-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1706,7 +1706,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1716,7 +1716,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1726,7 +1726,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1736,7 +1736,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-7" class="motion-anchor"></a>
+<div id="motion-xiii-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1753,7 +1753,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-9" class="motion-anchor"></a>
+<div id="motion-xiii-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1770,7 +1770,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-11" class="motion-anchor"></a>
+<div id="motion-xiii-11" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1787,7 +1787,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-13" class="motion-anchor"></a>
+<div id="motion-xiii-13" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1797,7 +1797,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-15" class="motion-anchor"></a>
+<div id="motion-xiii-15" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1807,7 +1807,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-17" class="motion-anchor"></a>
+<div id="motion-xiii-17" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1818,7 +1818,7 @@ Unanimous (12-0)
 ### 4. Downtown London -
   2014 Budget
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1829,7 +1829,7 @@ Unanimous (13-0)
 ### 4. Downtown London -
   2014 Budget
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1847,7 +1847,7 @@ Unanimous (13-0)
 ### 4. Downtown London -
   2014 Budget
 
-<a id="motion-4-3" class="motion-anchor"></a>
+<div id="motion-4-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1858,7 +1858,7 @@ Unanimous (14-0)
 ### 4. Downtown London -
   2014 Budget
 
-<a id="motion-4-5" class="motion-anchor"></a>
+<div id="motion-4-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1869,7 +1869,7 @@ Unanimous (14-0)
 ### 4. Downtown London -
   2014 Budget
 
-<a id="motion-4-7" class="motion-anchor"></a>
+<div id="motion-4-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1882,7 +1882,7 @@ Unanimous (12-0)
   the Ministry of Economic Development, Trade and Employment for 2575 Boyd
   Court, Innovation Park - Phase IV
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1895,7 +1895,7 @@ Unanimous (14-0)
   the Ministry of Economic Development, Trade and Employment for 2575 Boyd
   Court, Innovation Park - Phase IV
 
-<a id="motion-9-3" class="motion-anchor"></a>
+<div id="motion-9-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1906,7 +1906,7 @@ Unanimous (14-0)
 ### 10. Property located at
   122 Wortley Road (Z-8183)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1918,7 +1918,7 @@ Unanimous (14-0)
   at 1607, 1609, 1611, 1615, 1619, 1623, 1627, 1631, 1635, 1639, 1643, 1649 and
   1653 Richmond Street (OZ-7965)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1929,7 +1929,7 @@ Unanimous (14-0)
 ### 12. 1st and 2nd Reports
   of the Advisory Committee on the Environment
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1939,7 +1939,7 @@ Unanimous (14-0)
 
 ### 15. Infill
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1949,7 +1949,7 @@ Unanimous (14-0)
 
 ### 15. Infill
 
-<a id="motion-15-3" class="motion-anchor"></a>
+<div id="motion-15-3" class="motion-anchor"></div>
 
 > Motion Passed
 

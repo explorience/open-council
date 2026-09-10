@@ -407,7 +407,7 @@ The meeting adjourned at 2:18 PM. .
 
 ### 2.5. Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land
 
-<a id="motion-2-5-2" class="motion-anchor"></a>
+<div id="motion-2-5-2" class="motion-anchor"></div>
 
 > That the staff recommendation BE AMENDED by adding following new part c): “c)     the Civic Administration BE DIRECTED to consider the inclusion of requirements that could be added to future updates to the Industrial Land Development Strategy policies that would assist to ensure that prime, servi...
 
@@ -417,7 +417,7 @@ Unanimous (5-0)
 
 ### 4.1. Association of Municipalities Ontario - Board of Directors, Large Urban Caucus
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Association of Municipalities of Ontario (AMO) Board of Directors: a)    Councillor A. Hopkins BE ENDORSED to stand for election to the Association of Municipalities of Ontario (AMO) Board of Directors, Large Urban Caucus, for the 2022/2024 ...
 
@@ -427,7 +427,7 @@ Unanimous (5-0)
 
 ### 4.2. Board of Directors - Federation of Canadian Municipalities
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the communication dated April 29, 2022 from Councillor J. Morgan regarding standing for re-election to the Federation of Canadian Municipalities’ Board of Directors and his associated expenses:    WHEREAS the Federation of Canadian Municipalitie...
 
@@ -437,7 +437,7 @@ Unanimous (5-0)
 
 ### 4.3. Application - Issuance of Proclamation - Never Give Up Day
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That consideration of the proclamation request from A. Horowitz, Director-Global, for “Never Give Up Day”, BE REFERRED to a future meeting of the Corporate Services Committee in order for additional information to be provided to the Committee for consideration; it being noted that Councillors J. ...
 
@@ -447,7 +447,7 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED) Application - Issuance of Proclamation - Day of Remembrance for Our London Family
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That based on the application dated May 3, 2022 from London and Middlesex Local Immigration Partnership, June 6, 2022 BE PROCLAIMED as Day of Remembrance of Our London Family.
 

@@ -668,7 +668,7 @@ The
 ### 2. Advisory Committee
   on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -680,7 +680,7 @@ Unanimous (5-0)
 ### 3. Property located at
   161 Windermere Road (39CD-14501/SP15-009524)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -692,7 +692,7 @@ Unanimous (5-0)
 ### 4. Boler Mountain
   Lands and 2426 Wickerson Road - Proposed Conveyance and Access Easements
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -704,7 +704,7 @@ Unanimous (5-0)
 ### 5. Candidate Approval
   for the Urban Design Peer Review Panel
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -716,7 +716,7 @@ Unanimous (5-0)
 ### 6. Property located at
   3493 Colonel Talbot Road (39T-14504/OZ-8417)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -728,7 +728,7 @@ Unanimous (5-0)
 ### 6. Property located at
   3493 Colonel Talbot Road (39T-14504/OZ-8417)
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -740,7 +740,7 @@ Unanimous (5-0)
 ### 6. Property located at
   3493 Colonel Talbot Road (39T-14504/OZ-8417)
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -752,7 +752,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 175-183 King Street (Z-8523)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -764,7 +764,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 175-183 King Street (Z-8523)
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -783,7 +783,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 175-183 King Street (Z-8523)
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -795,7 +795,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 175-183 King Street (Z-8523)
 
-<a id="motion-7-3" class="motion-anchor"></a>
+<div id="motion-7-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -807,7 +807,7 @@ Unanimous (5-0)
 ### 8. 1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -819,7 +819,7 @@ Unanimous (4-0)
 ### 8. 1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -831,7 +831,7 @@ Unanimous (4-0)
 ### 10. 1st Report of the
   Agricultural Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -842,7 +842,7 @@ Unanimous (4-0)
 
 ### 11. Environmental Impact Statements
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

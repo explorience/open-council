@@ -4015,7 +4015,7 @@ With violence complete, we need a motion to adjourn moved by Councilor Stevenson
 
 ### 7.1. Designate Rail Safety Week - September 18-24, 2023
 
-<a id="motion-7-1-0" class="motion-anchor"></a>
+<div id="motion-7-1-0" class="motion-anchor"></div>
 
 > That pursuant to section 11.3 of the Council Procedure By-law, leave be given for the introduction of a notice of motion to consider a time sensitive request for the Municipal Council to proclaim September 18 – 24, 2023 as Rail Safety Week.
 
@@ -4025,7 +4025,7 @@ Unanimous (15-0)
 
 ### 7.1. Designate Rail Safety Week - September 18-24, 2023
 
-<a id="motion-7-1-1" class="motion-anchor"></a>
+<div id="motion-7-1-1" class="motion-anchor"></div>
 
 > That in support of ongoing efforts to raise awareness, save lives and prevent injuries in our community, September 18 – 24, 2023 BE PROCLAIMED as Rail Safety Week in the City of London.
 
@@ -4035,7 +4035,7 @@ Unanimous (15-0)
 
 ### 7.2. Housing Accelerator Fund
 
-<a id="motion-7-2-0" class="motion-anchor"></a>
+<div id="motion-7-2-0" class="motion-anchor"></div>
 
 > That pursuant to section 11.3 of the Council Procedure By-law, leave BE GIVEN for the introduction of a notice of motion to consider a City-initiated zoning by-law amendment that would permit as of right, building permits for up to 4 residential units.
 
@@ -4045,7 +4045,7 @@ Unanimous (15-0)
 
 ### 7.2. Housing Accelerator Fund
 
-<a id="motion-7-2-2" class="motion-anchor"></a>
+<div id="motion-7-2-2" class="motion-anchor"></div>
 
 > Motion that part b) BE REFERRED to the Planning and Environment Committee for consideration: b)  the Civic Administration BE DIRECTED at their earliest opportunity, to review and prepare a strategic assessment for Council, of specific neighbourhoods where as of right building permits for 5 or mor...
 
@@ -4055,7 +4055,7 @@ Unanimous (15-0)
 
 ### 7.2. Housing Accelerator Fund
 
-<a id="motion-7-2-3" class="motion-anchor"></a>
+<div id="motion-7-2-3" class="motion-anchor"></div>
 
 > Motion that part a), BE APPROVED: That the following actions be taken with respect to the Housing Accelerator Fund application: a)  the Civic Administration BE DIRECTED to prepare a zoning by-law amendment that would permit as of right building permits for up to 4 residential units wherever a zon...
 
@@ -4065,7 +4065,7 @@ Unanimous (15-0)
 
 ### 8.1. 13th Report of the Planning and Environment Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 13th Report of the Planning and Environment Committee BE APPROVED.
 
@@ -4075,7 +4075,7 @@ Unanimous (14-0)
 
 ### 8.2. 15th Report of the Corporate Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 15th Report of the Corporate Services Committee BE APPROVED.
 
@@ -4085,7 +4085,7 @@ Unanimous (15-0)
 
 ### 8.3. 13th Report of the Community and Protective Services Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 13th Report of the Community Protective Services Committee BE APPROVED, excluding Item 4 (3.1)
 
@@ -4095,7 +4095,7 @@ Unanimous (15-0)
 
 ### 8.3. 13th Report of the Community and Protective Services Committee
 
-<a id="motion-8-3-1" class="motion-anchor"></a>
+<div id="motion-8-3-1" class="motion-anchor"></div>
 
 > That pursuant to section 9.6 of the Council Procedure By-law, Councillor S. Stevenson be permitted to speak an additional 5 minutes with respect to this matter.
 
@@ -4112,7 +4112,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (3.1) Fireworks By-law Options
 
-<a id="motion-8-3-4-1" class="motion-anchor"></a>
+<div id="motion-8-3-4-1" class="motion-anchor"></div>
 
 > That Item 8.3(4) of the 13th Report of the Community and Protective Services Committee, “Fireworks By-law options” (3.1) BE REFERRED to the Civic Administration for further consideration with a report back to a future meeting of the Community and Protective Services Committee in order to consider...
 
@@ -4129,7 +4129,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (3.1) Fireworks By-law Options
 
-<a id="motion-8-3-4-3" class="motion-anchor"></a>
+<div id="motion-8-3-4-3" class="motion-anchor"></div>
 
 > That pursuant to section 11.14 of the Council Procedure By-law, the question related to the proposed amendment to part a) BE CALLED.
 
@@ -4146,7 +4146,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (3.1) Fireworks By-law Options
 
-<a id="motion-8-3-4-4" class="motion-anchor"></a>
+<div id="motion-8-3-4-4" class="motion-anchor"></div>
 
 > That Item 4 (clause 3.1) of the 13th Report of the Community and Protective Services Committee BE AMENDED in part a) by adding the following, “and including an exception to permit consumer (backyard) fireworks to be discharged on Chinese New Year Day of the Lunar Calendar”; it being noted that th...
 
@@ -4163,7 +4163,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (3.1) Fireworks By-law Options
 
-<a id="motion-8-3-4-6" class="motion-anchor"></a>
+<div id="motion-8-3-4-6" class="motion-anchor"></div>
 
 > Motion that the amended part a) BE APPROVED.
 
@@ -4180,7 +4180,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (3.1) Fireworks By-law Options
 
-<a id="motion-8-3-4-7" class="motion-anchor"></a>
+<div id="motion-8-3-4-7" class="motion-anchor"></div>
 
 > Motion that part b) BE APPROVED.
 
@@ -4197,7 +4197,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (3.1) Fireworks By-law Options
 
-<a id="motion-8-3-4-8" class="motion-anchor"></a>
+<div id="motion-8-3-4-8" class="motion-anchor"></div>
 
 > That the enforcement of the current Fireworks By-law (PW-11) BE SUSPENDED for Diwali in 2023.
 
@@ -4214,7 +4214,7 @@ Unanimous (15-0)
 
 ### 8.4. 12th Report of the Civic Works Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 12th Report of the Civic Works Committee BE APPROVED, excluding Items 11 (4.2) and 13 (5.1).
 
@@ -4224,7 +4224,7 @@ Unanimous (15-0)
 
 ### 8.4.11. (4.2) Green Bin and Collection Program Changes
 
-<a id="motion-8-4-11-0" class="motion-anchor"></a>
+<div id="motion-8-4-11-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated August 15, 2023, related to the Green Bin and Collection Program Changes:    a)    the Civic Administration BE DIRECTED to implement a week...
 
@@ -4234,7 +4234,7 @@ Unanimous (15-0)
 
 ### 8.4.13. (5.1) Referred by Municipal Council on July 25, 2023 - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee
 
-<a id="motion-8-4-13-1" class="motion-anchor"></a>
+<div id="motion-8-4-13-1" class="motion-anchor"></div>
 
 > That clause 5.1 BE AMENDED to read as follows: That the Civic Administration BE DIRECTED to prepare information materials to assist Municipal Law Enforcement Officers to explain the Council Policy on Naturalized Areas and Wildflower Meadows in response to community complaints and complainants, an...
 
@@ -4244,7 +4244,7 @@ Unanimous (15-0)
 
 ### 8.4.13. (5.1) Referred by Municipal Council on July 25, 2023 - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee
 
-<a id="motion-8-4-13-3" class="motion-anchor"></a>
+<div id="motion-8-4-13-3" class="motion-anchor"></div>
 
 > That the clause BE FURTHER AMENDED by adding the following: b)    that the Civic Administration BE DIRECTED to undertake a comprehensive review of the Yard and Maintenance By-law that encompasses the by-law provisions, definitions and related policies concerning naturalization of yards, naturaliz...
 
@@ -4261,7 +4261,7 @@ Unanimous (15-0)
 
 ### 8.4.13. (5.1) Referred by Municipal Council on July 25, 2023 - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee
 
-<a id="motion-8-4-13-4" class="motion-anchor"></a>
+<div id="motion-8-4-13-4" class="motion-anchor"></div>
 
 > That the clause, as amended, BE APPROVED.
 
@@ -4278,7 +4278,7 @@ Unanimous (15-0)
 
 ### 8.5. 21st Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 21st Report of the Strategic Priorities and Policy Committee BE APPROVED.
 
@@ -4288,7 +4288,7 @@ Unanimous (15-0)
 
 ### 9.1. 12th Report of Council in Closed Session
 
-<a id="motion-9-1-0" class="motion-anchor"></a>
+<div id="motion-9-1-0" class="motion-anchor"></div>
 
 > 1. Property Acquisition – 16 Wellington Road – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the p...
 
@@ -4305,7 +4305,7 @@ Unanimous (15-0)
 
 ### 9.1. 12th Report of Council in Closed Session
 
-<a id="motion-9-1-1" class="motion-anchor"></a>
+<div id="motion-9-1-1" class="motion-anchor"></div>
 
 > 3. License Agreement – City and London Hydro Inc. – New Telecommunications Tower and Equipment Room – 869 Commissioners Road West (Reservoir Park) That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of Deputy City Manager, Enterprise Supports, and the co...
 
@@ -4315,7 +4315,7 @@ Unanimous (14-0)
 
 ### 9.1. 12th Report of Council in Closed Session
 
-<a id="motion-9-1-2" class="motion-anchor"></a>
+<div id="motion-9-1-2" class="motion-anchor"></div>
 
 > 4. Offer to Purchase Industrial Lands – Raven Windows Inc. – Huron Industrial Park That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned industrial land located in Huron Industrial Park C1, being co...
 
@@ -4325,7 +4325,7 @@ Unanimous (15-0)
 
 ### 10.1. Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members) (Relates to Bill No. 306)
 
-<a id="motion-10-1-3" class="motion-anchor"></a>
+<div id="motion-10-1-3" class="motion-anchor"></div>
 
 > That the matter of consideration of appointments to the London Hydro Board of Directors to a future SPPC meeting, including an invitation to the London Hydro Board Chair to address the Council with respect to this matter, including the process undertaken by the London Hydro Board and including th...
 

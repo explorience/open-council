@@ -538,7 +538,7 @@ Motion
 ### 11. Council Policy
   1(10) - Diversity, Race Relations and Inclusivity Award
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -550,7 +550,7 @@ Unanimous (3-0)
 ### 15. 2nd Report of the
   Childcare Advisory Committee
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -562,7 +562,7 @@ Unanimous (3-0)
 ### 16. 2nd Report of the
   Town and Gown Committee
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -574,7 +574,7 @@ Unanimous (3-0)
 ### 17. 6th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -587,7 +587,7 @@ Unanimous (3-0)
   Armstrong - Robarts Provincial School for the Deaf and Amethyst Provincial
   Demonstration School
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -600,7 +600,7 @@ Unanimous (3-0)
   Director of Culture & Entertainment Tourism, Tourism London - Country
   Music Week 2016
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -612,7 +612,7 @@ Unanimous (3-0)
 ### 20. Deferred Matters
   List
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

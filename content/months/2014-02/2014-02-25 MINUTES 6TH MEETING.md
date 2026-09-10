@@ -1782,7 +1782,7 @@ Passed
   and Environment Committee Stage for Consideration with Clause 3 of the 4th
   Report of the Planning and Environment Committee.)
 
-<a id="motion-1-3-0" class="motion-anchor"></a>
+<div id="motion-1-3-0" class="motion-anchor"></div>
 
 > Approve receipt and referral of the   above-noted communications as noted on the Added Agenda.
 
@@ -1794,7 +1794,7 @@ Unanimous (13-0)
   Development including a Performing Arts Centre:  Business Plan Proposed
   Conditions
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > Approve an amendment to part d) of clause   2, by adding the following words at the beginning, "concurrent with c),   above,:.
 
@@ -1813,7 +1813,7 @@ Unanimous (13-0)
   Development including a Performing Arts Centre:  Business Plan Proposed
   Conditions
 
-<a id="motion-2-6-1" class="motion-anchor"></a>
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > Approve an amendment to part d)   of clause 2, by removing the words "it being noted that if no alternate   sources are available or approved by Municipal Council, a tax increase will   be recommended to be added to the 2015 Budget to support this project".
 
@@ -1832,7 +1832,7 @@ Unanimous (13-0)
   Development including a Performing Arts Centre:  Business Plan Proposed
   Conditions
 
-<a id="motion-2-6-2" class="motion-anchor"></a>
+<div id="motion-2-6-2" class="motion-anchor"></div>
 
 > At 5:49 PM His Worship the Mayor places   Councillor P. Hubert in the Chair, and takes a seat at the Council Board.    At 6:08 PM His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -1851,7 +1851,7 @@ Unanimous (13-0)
   Development including a Performing Arts Centre:  Business Plan Proposed
   Conditions
 
-<a id="motion-2-6-3" class="motion-anchor"></a>
+<div id="motion-2-6-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1870,7 +1870,7 @@ Unanimous (13-0)
   Development including a Performing Arts Centre:  Business Plan Proposed
   Conditions
 
-<a id="motion-2-6-4" class="motion-anchor"></a>
+<div id="motion-2-6-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1889,7 +1889,7 @@ Unanimous (13-0)
   Development including a Performing Arts Centre:  Business Plan Proposed
   Conditions
 
-<a id="motion-2-6-5" class="motion-anchor"></a>
+<div id="motion-2-6-5" class="motion-anchor"></div>
 
 > The motion to Approve clause 1 and clause 2d),   as amended, is put.
 
@@ -1908,7 +1908,7 @@ Unanimous (13-0)
   Development including a Performing Arts Centre:  Business Plan Proposed
   Conditions
 
-<a id="motion-2-6-6" class="motion-anchor"></a>
+<div id="motion-2-6-6" class="motion-anchor"></div>
 
 > Approve progress on clause   C-1 of the Confidential Appendix to the 7th Report of the Strategic   Priorities and Policy Committee.
 
@@ -1926,7 +1926,7 @@ Unanimous (13-0)
 ### 3#2. Property located at
   350 Oxford Street East
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > Approve an amendment to clause 3 to   require, through the site plan process, to have a door situated at the corner   of Waterloo Street and Oxford Street East.
 
@@ -1944,7 +1944,7 @@ Unanimous (13-0)
 ### 3#2. Property located at
   350 Oxford Street East
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > The motion to Approve clause 3 is put.
 
@@ -1955,7 +1955,7 @@ Unanimous (13-0)
 ### 4#4. London Convention
   Centre Corporation Board Appointment
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That Crispin Colvin BE APPOINTED to the   London Convention Centre Board of Directors as the Agricultural Sector   Representative, effective immediately, for a term ending November 30, 2014.
 
@@ -1966,7 +1966,7 @@ Unanimous (15-0)
 ### 5#2. Property located at
   9345 Elviage Drive (OZ-8280)
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of Kaizen Homes Inc., relating to the property   located at 9345 Elviage Drive:   a)         the   request to amend the Official Plan BY ADDING a spe...
 
@@ -1977,7 +1977,7 @@ Unanimous (15-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTH MEETING HELD ON FEBRUARY 11, 2014
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 5th Meeting   held on February 11, 2014.
 
@@ -1988,7 +1988,7 @@ Unanimous (15-0)
 ### 6. Shared Service
   Opportunities
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED   to submit to a future meeting of the Audit Committee a chart providing   information regarding areas where shared services with internal and external   partners has occurred and areas where new shared services could be considered   to maximize and leve...
 

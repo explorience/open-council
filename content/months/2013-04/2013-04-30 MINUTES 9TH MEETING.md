@@ -3761,7 +3761,7 @@ Motion Passed.
 
 ### 1#8. Disclosures of Pecuniary Interest
 
-<a id="motion-1-8-1" class="motion-anchor"></a>
+<div id="motion-1-8-1" class="motion-anchor"></div>
 
 > Approve that, as a procedural matter pursuant to Section 239 (6) of the Municipal   Act, 2001, the following recommendations be forwarded to City Council for   deliberation and a vote in public session:    That, on the recommendation of the Manager   of Realty Services, with respect to the proper...
 
@@ -3771,7 +3771,7 @@ Unanimous (13-0)
 
 ### 1#8. Disclosures of Pecuniary Interest
 
-<a id="motion-1-8-2" class="motion-anchor"></a>
+<div id="motion-1-8-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3782,7 +3782,7 @@ Unanimous (13-0)
 ### 10#4. Nomination of
   Councillor H. L. Usher for Re-Election to the FCM Board of Directors
 
-<a id="motion-10-4-0" class="motion-anchor"></a>
+<div id="motion-10-4-0" class="motion-anchor"></div>
 
 > Amend clause 10 by deleting it in its   entirety and by replacing it with a new clause 10 as follows:   “That the following actions be taken with   respect to the communication dated April 2, 2013 from Councillor Usher   regarding standing for election to the Federation of Canadian Municipalities...
 
@@ -3793,7 +3793,7 @@ Unanimous (15-0)
 ### 10#4. Nomination of
   Councillor H. L. Usher for Re-Election to the FCM Board of Directors
 
-<a id="motion-10-4-1" class="motion-anchor"></a>
+<div id="motion-10-4-1" class="motion-anchor"></div>
 
 > Approve clause 10, as amended
 
@@ -3804,7 +3804,7 @@ Unanimous (15-0)
 ### 12#3. Property located at
   655 Tennent Avenue (39T-13501/Z-8139)
 
-<a id="motion-12-3-0" class="motion-anchor"></a>
+<div id="motion-12-3-0" class="motion-anchor"></div>
 
 > Amend clause 12 by deleting part c) in   its entirety and by replacing it with the following new part c):   c)         the   attached, revised, proposed by-law, BE INTRODUCED at the Municipal   Council meeting to be held on April 30, 2013, to amend Zoning By-law No.   Z.-1, (in conformity with th...
 
@@ -3815,7 +3815,7 @@ Unanimous (13-0)
 ### 12#3. Property located at
   655 Tennent Avenue (39T-13501/Z-8139)
 
-<a id="motion-12-3-1" class="motion-anchor"></a>
+<div id="motion-12-3-1" class="motion-anchor"></div>
 
 > further  Amend clause 12 as follows:   a)              in   part d) of clause 12 by deleting the word “Iiaise” and by replacing it with   the words “explore joint opportunities” and by adding the following words “or   if there are other joint use or ownership opportunities”, as the end of part   ...
 
@@ -3826,7 +3826,7 @@ Unanimous (13-0)
 ### 12#3. Property located at
   655 Tennent Avenue (39T-13501/Z-8139)
 
-<a id="motion-12-3-2" class="motion-anchor"></a>
+<div id="motion-12-3-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3837,7 +3837,7 @@ Unanimous (13-0)
 ### 13#2. Properties located
   at 275, 277 and 281 Thames Street
 
-<a id="motion-13-2-0" class="motion-anchor"></a>
+<div id="motion-13-2-0" class="motion-anchor"></div>
 
 > Amend clause 13, by replacing the first   paragraph of part e) with the following new paragraph:   “e)    the Civic Administration BE DIRECTED to assist with the historical   interpretation of the Thames Street Neighbourhood through interpretive   signage and a commemorative monument at 275 Thame...
 
@@ -3848,7 +3848,7 @@ Unanimous (13-0)
 ### 13#2. Properties located
   at 275, 277 and 281 Thames Street
 
-<a id="motion-13-2-1" class="motion-anchor"></a>
+<div id="motion-13-2-1" class="motion-anchor"></div>
 
 > Approve clause 13, as amended.
 
@@ -3859,7 +3859,7 @@ Unanimous (13-0)
 ### 15#2. Blackfriars
   Community Infill Projects
 
-<a id="motion-15-2-0" class="motion-anchor"></a>
+<div id="motion-15-2-0" class="motion-anchor"></div>
 
 > Amend clause 15 as follows:   a)              in   the first line of part a) to delete the words "a future" and   replace them with the words "the May 7, 2013 meeting";   b)              by   deleting part d) in its entirety and replacing it with the following new part   d): “d)    a public site ...
 
@@ -3870,7 +3870,7 @@ Unanimous (15-0)
 ### 15#2. Blackfriars
   Community Infill Projects
 
-<a id="motion-15-2-1" class="motion-anchor"></a>
+<div id="motion-15-2-1" class="motion-anchor"></div>
 
 > further Amend clause 15 by adding a   new part i) as follows:   “i)  that   the Civic Administration BE DIRECTED to include in the report noted in a),   above, information related to recent court decisions regarding “Lodging   House” uses.”
 
@@ -3881,7 +3881,7 @@ Unanimous (15-0)
 ### 15#2. Blackfriars
   Community Infill Projects
 
-<a id="motion-15-2-2" class="motion-anchor"></a>
+<div id="motion-15-2-2" class="motion-anchor"></div>
 
 > Approve clause 15, as amended.
 
@@ -3892,7 +3892,7 @@ Unanimous (15-0)
 ### 2#5. Property located at
   77 Tecumseh Avenue West (Z-8136)
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > Amend clause 2 by inserting a new part d)   as follows:   “d)      the Approval Authority BE REQUESTED to hold a public site plan meeting with   respect to the development of the entire site;”.
 
@@ -3903,7 +3903,7 @@ Unanimous (13-0)
 ### 2#5. Property located at
   77 Tecumseh Avenue West (Z-8136)
 
-<a id="motion-2-5-1" class="motion-anchor"></a>
+<div id="motion-2-5-1" class="motion-anchor"></div>
 
 > Approve clause 1 and clause 2, as amended.
 
@@ -3915,7 +3915,7 @@ Unanimous (13-0)
   By-law to Appoint Ms. Sandra Datars Bere to the Statutory Position of Ontario
   Works Administrator
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City   Manager, the following actions be taken with respect to the appointment of   Ms. Sandra Datars Bere to the statutory position of Ontario Works   Administrator:   a)         the   proposed by-law appended to the staff report dated April 23, 2013, BE   INTR...
 
@@ -3926,7 +3926,7 @@ Unanimous (13-0)
 ### 4#3. Property located at
   1103 Adelaide Street North (OZ-7972)
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > Amend clause 4 in line five, by   deleting the date “March 21, 2011” and by replacing it with the dates “April   10 and 11, 2012”.
 
@@ -3937,7 +3937,7 @@ Unanimous (15-0)
 ### 4#3. Property located at
   1103 Adelaide Street North (OZ-7972)
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Approve clause 4, as amended.
 
@@ -3955,7 +3955,7 @@ Unanimous (15-0)
 ### 5#4. Code of Conduct for
   Municipal Council and Lobbyist Registry Update
 
-<a id="motion-5-4-0" class="motion-anchor"></a>
+<div id="motion-5-4-0" class="motion-anchor"></div>
 
 > That the following   actions be taken with respect to proposed amendments to the Council Policy   5(30) – Code of Conduct for Members of Municipal Council and the   establishment of a Lobbyist Registry:   a)              pursuant   to section 13.7 of the Council Procedure By-law, the actions of t...
 
@@ -3973,7 +3973,7 @@ Unanimous (15-0)
 ### 5#4. Code of Conduct for
   Municipal Council and Lobbyist Registry Update
 
-<a id="motion-5-4-1" class="motion-anchor"></a>
+<div id="motion-5-4-1" class="motion-anchor"></div>
 
 > Amend part c) of clause 5 by inserting,   at the end of the first paragraph, the following words: “; it being noted   that those duties and functions would exclude the responsibilities of “Closed   Meeting Investigator” currently being provided by the Ombudsman”.
 
@@ -3991,7 +3991,7 @@ Unanimous (15-0)
 ### 5#4. Code of Conduct for
   Municipal Council and Lobbyist Registry Update
 
-<a id="motion-5-4-2" class="motion-anchor"></a>
+<div id="motion-5-4-2" class="motion-anchor"></div>
 
 > further Amend part g) of clause 5 by   deleting the word “incorporate” and by replacing it with the words “report   back with respect to the potential incorporation”.
 
@@ -4002,7 +4002,7 @@ Unanimous (15-0)
 ### 5#4. Code of Conduct for
   Municipal Council and Lobbyist Registry Update
 
-<a id="motion-5-4-3" class="motion-anchor"></a>
+<div id="motion-5-4-3" class="motion-anchor"></div>
 
 > Approve clause 5, as amended.
 
@@ -4020,7 +4020,7 @@ Unanimous (15-0)
 ### 6#3. 5th Report of the London Advisory Committee
   on Heritage
 
-<a id="motion-6-3-1" class="motion-anchor"></a>
+<div id="motion-6-3-1" class="motion-anchor"></div>
 
 > Approve clause 6, as amended.
 
@@ -4031,7 +4031,7 @@ Unanimous (13-0)
 ### 6#3. 5th Report of the London Advisory Committee
   on Heritage
 
-<a id="motion-6-3-0" class="motion-anchor"></a>
+<div id="motion-6-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the 5th Report of the London Advisory Committee on Heritage from   its meeting held on April 10, 2013:   a)         the   following actions be taken with respect to the Heritage Alteration   Application for 534 English Street:   i)            ...
 
@@ -4046,7 +4046,7 @@ Unanimous (13-0)
 
 ### 9#2. Veterans Memorial Parkway Noise Study
 
-<a id="motion-9-2-1" class="motion-anchor"></a>
+<div id="motion-9-2-1" class="motion-anchor"></div>
 
 > At 6:28 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -4064,7 +4064,7 @@ Unanimous (13-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTH MEETING HELD ON APRIL 16, 2013
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve minutes of the 8th Meeting held   on April 16, 2013.
 
@@ -4075,7 +4075,7 @@ Unanimous (15-0)
 ### VIII. MOTIONS
   OF WHICH NOTICE IS GIVEN
 
-<a id="motion-viii-0" class="motion-anchor"></a>
+<div id="motion-viii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of the 8th Report of the Community and Protective Services   Committee at this time.
 
@@ -4086,7 +4086,7 @@ Unanimous (15-0)
 ### VIII. MOTIONS
   OF WHICH NOTICE IS GIVEN
 
-<a id="motion-viii-1" class="motion-anchor"></a>
+<div id="motion-viii-1" class="motion-anchor"></div>
 
 > Approve that  pursuant to section to   section 7.4 of the Council Procedure By-law, the order of business be changed   to permit consideration of the clause 15 of the 9th Report of the Planning   and Environment Committee, having to do with Blackfriars community infill   projects, to be heard at ...
 
@@ -4096,7 +4096,7 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-0" class="motion-anchor"></a>
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Approve 1st reading of Bill Nos. 191 to   Bill No. 207 and Bill No. 209.
 
@@ -4106,7 +4106,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Approve 2nd reading of  Bill Nos. 191 to   Bill No. 207 and Bill No. 209.
 
@@ -4116,7 +4116,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-2" class="motion-anchor"></a>
+<div id="motion-xiii-2" class="motion-anchor"></div>
 
 > Approve 3rd reading of Bill Nos. 191 to   Bill No. 207 and Bill No. 109 be read a third time and enacted.
 
@@ -4126,7 +4126,7 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve 1st reading of Bill No.s 208 and   210.
 
@@ -4136,7 +4136,7 @@ Unanimous (10-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-4" class="motion-anchor"></a>
+<div id="motion-xiii-4" class="motion-anchor"></div>
 
 > Approve 2nd reading of Bill Nos. 208 and   210.
 
@@ -4146,7 +4146,7 @@ Unanimous (10-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve 3rd reading of Bill Nos. 208 and   210.
 
@@ -4157,7 +4157,7 @@ Unanimous (10-0)
 ### 5. Early Childhood
   Educators (ECE) Labour Market Partnership (LMP) Research Project
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director of Neighbourhood, Children & Fire Services, the following   actions be taken with respect to the Early Childhood Educators (ECE) Labour   Market Partnership (LMP) Research Project:   a)         the   proposed by-law, as appended to the staff ...
 
@@ -4168,7 +4168,7 @@ Unanimous (13-0)
 ### 16. Abandoned Shopping Cart
   By-law
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Amend clause 16 in line four, by inserting   after the words “including details regarding fees”, the words “,potential   revisions to the existing by-law to address the retrieval and collection of   carts, fines, reporting options on the City website”.
 
@@ -4186,7 +4186,7 @@ Unanimous (13-0)
 ### 16. Abandoned Shopping Cart
   By-law
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Approve clause 16, as amended.
 
@@ -4205,7 +4205,7 @@ Unanimous (13-0)
   Healthy Communities, Middlesex-London Health Unit - Request for Delegation
   Status
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > That the request of "Youth Create   Healthy Communities" for delegation status before the Community and   Protective Services Committee (CPSC) BE REFERRED to the next CPSC meeting for   consideration; it being noted that the Chair was unable to be in attendance   and was thought to have additiona...
 
@@ -4216,7 +4216,7 @@ Unanimous (15-0)
 ### 18. Resignation of M.
   Rabi from the London Diversity and Race Relations Advisory Committee
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > That the communication dated April 8, 2013   from Mark Rabi, resigning his appointment to the London Diversity and Race   Relations Advisory Committee, BE ACCEPTED and Mr. Rabi BE THANKED for   participating on the Committee.
 
@@ -4228,7 +4228,7 @@ Unanimous (15-0)
   Councillor J.L. Baechler's expenses to serve on Federation of Canadian
   Municipalities' Standing Committee(s)
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > That, subject to the approval of Councillor   J.L. Baechler’s application to serve on a Federation of Canadian Municipalities   (FCM) Standing Committee, Councillor Baechler BE AUTHORIZED to attend the FCM   meetings as noted below, and BE REIMBURSED for her associated expenses   outside of her a...
 

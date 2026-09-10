@@ -233,7 +233,7 @@ The meeting adjourned at 11:45 PM.
 
 ### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 11:00 PM.
 
@@ -243,7 +243,7 @@ Unanimous (14-0)
 
 ### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That the draft "Wellbeing and Safety" strategic focus BE AMENDED in Outcome 1, Expected Results, part e) by removing the words "noise reduction".
 
@@ -262,7 +262,7 @@ Unanimous (14-0)
 
 ### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results
 
-<a id="motion-4-1-4" class="motion-anchor"></a>
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > That the draft strategic area of focus, Wellbeing and Safety, including draft outcomes and expected results, BE CONSIDERED and BE SHARED with the community to seek feedback., excluding part e) of Expected Results. London has safe, vibrant, and healthy neighbourhoods and communities. Expected Resu...
 
@@ -272,7 +272,7 @@ Unanimous (14-0)
 
 ### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results
 
-<a id="motion-4-1-5" class="motion-anchor"></a>
+<div id="motion-4-1-5" class="motion-anchor"></div>
 
 > That the draft "Wellbeing and Safety" strategic focus Outcome 1, Expected Results, part e) of Outcome 1, BE APPROVED. e)  Improved traffic safety, traffic calming
 

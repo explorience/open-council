@@ -79,7 +79,7 @@ The Corporate Services Committee convened
 ### 2. COUNCIL MEMBER
   SUBMISSION - Recording of In Closed Session Meetings
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -91,7 +91,7 @@ Unanimous (3-0)
 ### 3. Corporate Services
   Committee Deferred Matters List
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

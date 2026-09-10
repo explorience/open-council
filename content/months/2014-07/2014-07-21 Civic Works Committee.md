@@ -800,7 +800,7 @@ The
 ### 2. 1st Report of the
   Cycling Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -812,7 +812,7 @@ Unanimous (3-0)
 ### 2. 1st Report of the
   Cycling Advisory Committee
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -824,7 +824,7 @@ Unanimous (3-0)
 ### 2. 1st Report of the
   Cycling Advisory Committee
 
-<a id="motion-2-2" class="motion-anchor"></a>
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -836,7 +836,7 @@ Unanimous (3-0)
 ### 5. 2014 Ridout Street
   Brick Sewer Rehabilitation RFP No. 14-23 - Irregular Result
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -849,7 +849,7 @@ Unanimous (3-0)
   Diameter Pipe Inspection Strategy and Single Source Procurement EW3717-13,
   EW3717-14
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -862,7 +862,7 @@ Unanimous (4-0)
   West Reconstruction: Contract 10 - 2014 Infrastructure Lifecycle Renewal
   Program (Tender No. T14-07)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -875,7 +875,7 @@ Unanimous (3-0)
   West Widening-Wonderland Road South to Viscount Road-Consulting Engineer
   Assignment Increase
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -888,7 +888,7 @@ Unanimous (3-0)
   Hydrogeotechnical Investigations for Old Victoria Hospital Lands Secondary
   Plan Study Area
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -900,7 +900,7 @@ Unanimous (3-0)
 ### 10. Large Diameter
   Watermain Inspection: Renewal of Monitoring Contract EW3538
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -912,7 +912,7 @@ Unanimous (4-0)
 ### 11. Custom Steel
   Fabrication-Joseph Adamou Steel Works Contract-Single Source Procurement
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -924,7 +924,7 @@ Unanimous (3-0)
 ### 12. PCP - Hauling of
   Biosolids - Irregular Bid  (Tender T14-55)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -936,7 +936,7 @@ Unanimous (3-0)
 ### 13. Rapid Transit
   Corridors Environmental Assessment Study-Appointment of Consulting Engineer
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion     Passed
 
@@ -948,7 +948,7 @@ Unanimous (3-0)
 ### 13. Rapid Transit
   Corridors Environmental Assessment Study-Appointment of Consulting Engineer
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion     Passed
 
@@ -961,7 +961,7 @@ Unanimous (3-0)
   Consulting Engineer for the Functional and Detailed Design of the Old
   Victoria No. 1 Stormwater Management Facility
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -973,7 +973,7 @@ Unanimous (3-0)
 ### 15. Blue Box Recycling
   Collection and Processing Contracts
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -985,7 +985,7 @@ Unanimous (4-0)
 ### 16. Community Energy
   Action Program
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -997,7 +997,7 @@ Unanimous (4-0)
 ### 17. Updates: Corporate
   Energy Management Program and Conservation and Demand Management (CDM) Plan
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1009,7 +1009,7 @@ Unanimous (4-0)
 ### 18. Interim Waste
   Diversion Plan 2014-2015
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion     Passed
 
@@ -1021,7 +1021,7 @@ Unanimous (4-0)
 ### 18. Interim Waste
   Diversion Plan 2014-2015
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Motion     Passed
 

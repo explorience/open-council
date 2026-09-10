@@ -1327,7 +1327,7 @@ Thank you for the remaining staff who are here. As always and for committee memb
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 and 2.2 BE APPROVED.
 
@@ -1337,7 +1337,7 @@ Unanimous (5-0)
 
 ### 3.5. 978 Gainsborough Road (Z-9247)
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highland Communities Ltd., relating to the property located at 978 Gainsborough Road: a) the request to amend the Official Plan, The London Plan, f...
 
@@ -1356,7 +1356,7 @@ Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > Motion to receive clauses 5.1 and 5.2
 
@@ -1366,7 +1366,7 @@ Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > That the Committee Clerk BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.  (2023-D09)
 

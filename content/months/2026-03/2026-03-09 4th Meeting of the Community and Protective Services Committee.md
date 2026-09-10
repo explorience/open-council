@@ -1924,7 +1924,7 @@ Councilor Hopkins and Councilor Pripple, thank you by hand, all in favor. Motion
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5 BE APPROVED.
 
@@ -1934,7 +1934,7 @@ Unanimous (5-0)
 
 ### 3.1. Short Term Accommodation Licensing and Penalties
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part that reads as follows: Notwithstanding the adoption of this motion, the Community and Protective Services Committee may at a future time request a staff report on the additional matter of imposing minimal distance requirements with respect to this matter
 
@@ -1951,7 +1951,7 @@ Unanimous (5-0)
 
 ### 3.1. Short Term Accommodation Licensing and Penalties
 
-<a id="motion-3-1-4" class="motion-anchor"></a>
+<div id="motion-3-1-4" class="motion-anchor"></div>
 
 > That part b) BE AMENDED to read as follows: the proposed by-law, as appended to the above-noted staff report, to be introduced at the Municipal Council meeting on March 31, 2026, to amend By.-law No. L.-131-16 BE AMENDED in section 8.12 to offer or provide Short-term Accommodation at a Dwelling U...
 
@@ -1968,7 +1968,7 @@ Unanimous (5-0)
 
 ### 3.1. Short Term Accommodation Licensing and Penalties
 
-<a id="motion-3-1-5" class="motion-anchor"></a>
+<div id="motion-3-1-5" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1978,7 +1978,7 @@ Unanimous (5-0)
 
 ### 4.1. Request to Expedite the Review of the Property Standards By-law CP-24 as it Pertains to Property Conditions that Enable Rat Infestations
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part d) to read as follows: The Civic Administration BE DIRECTED to consult with the Environmental Stewardship and Action Community Advisory Committee about the City's response to rodent infestations and opportunities for improving public information.
 
@@ -1995,7 +1995,7 @@ Unanimous (5-0)
 
 ### 4.1. Request to Expedite the Review of the Property Standards By-law CP-24 as it Pertains to Property Conditions that Enable Rat Infestations
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That part a) BE AMENDED to read as follows: the Civic Administration BE DIRECTED to expedite the review the Property Standards By-law- CP-24, as it pertains to property conditions that enable rat infestations, and report back to a future meeting of the Community and Protective Services Committee ...
 
@@ -2005,7 +2005,7 @@ Unanimous (6-0)
 
 ### 4.1. Request to Expedite the Review of the Property Standards By-law CP-24 as it Pertains to Property Conditions that Enable Rat Infestations
 
-<a id="motion-4-1-4" class="motion-anchor"></a>
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED
 
@@ -2015,7 +2015,7 @@ Unanimous (6-0)
 
 ### 4.1. Request to Expedite the Review of the Property Standards By-law CP-24 as it Pertains to Property Conditions that Enable Rat Infestations
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the requests for delegation status from R. Shields and A.M. Valastro, as appended to the Added Agenda, BE APPROVED.
 
@@ -2025,7 +2025,7 @@ Unanimous (5-0)
 
 ### 4.2. Restricting City Funded Organizations from Distributing "Safe-Use" Drug Smoking Supplies
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the request for delegation status from A.M. Valastro, as appended to the Added Agenda, BE APPROVED.
 
@@ -2035,7 +2035,7 @@ Unanimous (6-0)
 
 ### 4.2. Restricting City Funded Organizations from Distributing "Safe-Use" Drug Smoking Supplies
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 
@@ -2052,7 +2052,7 @@ Unanimous (6-0)
 
 ### 5. Deferred Matters/Additional Business
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Item 5.2 in Stage 5, Deferred Matters/Additional Business, to be considered before Item 5.1.
 
@@ -2062,7 +2062,7 @@ Unanimous (4-0)
 
 ### 5.1. (ADDED) Request to Update Municipal Compliance By-law - Amendment to Section 4.7 and Creation of a Public Rental Licence Lookup Tool
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the communication, dated March 5, 2026, from Councillor C. Rahman, related to a Request to Update the Municipal Compliance By-law and an Amendment to Section 4.7 and Creation of a Public Rental Licence Lookup Tool: a)    the Civic Administration...
 
@@ -2072,7 +2072,7 @@ Unanimous (4-0)
 
 ### 5.1. (ADDED) Request to Update Municipal Compliance By-law - Amendment to Section 4.7 and Creation of a Public Rental Licence Lookup Tool
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -2091,7 +2091,7 @@ Unanimous (4-0)
 
 ### 5.2. (ADDED) Community Housing Financial Challenges
 
-<a id="motion-5-2-2" class="motion-anchor"></a>
+<div id="motion-5-2-2" class="motion-anchor"></div>
 
 > That, pursuant to section 32.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
 
@@ -2110,7 +2110,7 @@ Unanimous (4-0)
 
 ### 5.2. (ADDED) Community Housing Financial Challenges
 
-<a id="motion-5-2-3" class="motion-anchor"></a>
+<div id="motion-5-2-3" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part that reads as follows: The committee is concerned that the current conditions constitute a threat to the health and safety to the residents of Tolpuddle and request that the mater of treating the deficiencies to be an emergency which would warrant imme...
 
@@ -2120,7 +2120,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) Community Housing Financial Challenges
 
-<a id="motion-5-2-4" class="motion-anchor"></a>
+<div id="motion-5-2-4" class="motion-anchor"></div>
 
 > The motion be further amended to add a new part that reads as follows: x)         the Civic Administration BE DIRECTED to provide the following details based on the 2024 data used in Appendix B of the staff report, dated February 17, 2026, entitled “Affordable and Community Housing Update”, to th...
 
@@ -2130,7 +2130,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) Community Housing Financial Challenges
 
-<a id="motion-5-2-5" class="motion-anchor"></a>
+<div id="motion-5-2-5" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 

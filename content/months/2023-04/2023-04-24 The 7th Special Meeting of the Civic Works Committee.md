@@ -70,7 +70,7 @@ The meeting adjourned at 1:20 PM.
 
 ### 2.1. Updates: Blue Box Transition
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated April 24, 2023, related to Updates on the Blue Box Transition: a)    the proposed by-law, as appended to the above noted staff report BE IN...
 

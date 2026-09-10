@@ -220,7 +220,7 @@ Passed
 ### 1. Accessibility for
   Ontarians with Disabilities Act (AODA) Compliance
 
-<a id="motion-1-0" class="motion-anchor"></a>
+<div id="motion-1-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -231,7 +231,7 @@ Unanimous (12-0)
 ### 1. Accessibility for
   Ontarians with Disabilities Act (AODA) Compliance
 
-<a id="motion-1-1" class="motion-anchor"></a>
+<div id="motion-1-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -242,7 +242,7 @@ Unanimous (12-0)
 ### 1. Accessibility for
   Ontarians with Disabilities Act (AODA) Compliance
 
-<a id="motion-1-2" class="motion-anchor"></a>
+<div id="motion-1-2" class="motion-anchor"></div>
 
 > Motion Passed
 

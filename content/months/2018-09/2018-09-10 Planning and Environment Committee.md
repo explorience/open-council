@@ -737,7 +737,7 @@ The meeting adjourned at 6:32 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.4, inclusive and 2.6 to 2.9, inclusive, BE APPROVED.
 
@@ -747,7 +747,7 @@ Unanimous (5-0)
 
 ### 2.5. Application - 89 York Street (H-8861)
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That, consideration of the application by Endri Poletti Architect Inc., relating to the request to remove the h-1 and h--3 holding provisions on the property located at 89 York Street, BE POSTPONED to a future Planning and Environment Committee meeting.   (2018-D09)
 
@@ -757,7 +757,7 @@ Unanimous (5-0)
 
 ### 4.2. The City of London Boulevard Tree Protection By-law - Amendments
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner and the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken in regards to The City of London Boulevard Tree Protection By-law: a)    the staff report dated Septemb...
 
@@ -776,7 +776,7 @@ Unanimous (5-0)
 
 ### 4.3. Reinstatement of Demolition Control By-law
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the communication dated August 21, 2018, from J. Grainger, President, London Region Branch, Architectural Conservancy of Ontario, with respect to their request to reinstate the Demolition Control By-law BE REFERRED to the Managing Director, Development and Compliance Services & Chief Buildin...
 
@@ -786,7 +786,7 @@ Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Managing Director, Development and Compliance Services & Chief Building Official and the Managing Director, Planning and City Planner, BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 

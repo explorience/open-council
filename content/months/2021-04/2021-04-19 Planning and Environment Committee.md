@@ -876,7 +876,7 @@ Not aware of any other matters unless anyone has something then I'll just need s
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.3 and 2.4 BE APPROVED.
 
@@ -886,7 +886,7 @@ Unanimous (5-0)
 
 ### 2.2. Recovery Grant Program
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and City Planner, the following actions be taken with respect to the Recovery Grant Program: a) the attached, revised, proposed by-law (Appendix “A”) being “A by-law to amend C.P.-1467-175, as amended, being “A by-law to establish financial in...
 
@@ -896,7 +896,7 @@ Unanimous (6-0)
 
 ### 2.2. Recovery Grant Program
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > Motion to add a new part h), which reads as follows: "the Civic Administration BE REQUESTED to accept retroactive applications commencing May 4, 2021 if immediate repairs to damage by vandalism are necessary for securing the premises; it being noted that noted that the revised by-laws noted in a)...
 
@@ -913,7 +913,7 @@ Unanimous (6-0)
 
 ### 3.3. Kilally South, East Basin Environmentally Significant Area - 1918 to 2304 and 2005 to 2331 Kilally Road (OZ-9275)
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, City Planning and City Planner, the following actions be taken with respect to the application of the City of London relating to the Kilally South, East Basin Environmentally Significant Area (1918 to 2304 and 2005 to 2331 Kilally Road, excluding 2065 ...
 
@@ -923,7 +923,7 @@ Unanimous (6-0)
 
 ### 4.3. (ADDED)  4th Report of the London Advisory Committee on Heritage
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 4th Report of the London Advisory Committee on Heritage from its meeting held on April 14, 2021: a)  a Working Group BE CREATED to review the Notice of Planning Application, dated March 10, 2021, from M. Corby, Senior Planner, with respect ...
 

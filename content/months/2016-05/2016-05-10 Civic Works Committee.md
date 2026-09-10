@@ -540,7 +540,7 @@ The
 ### 2. Closing of Part of
   Cedarpark Crescent and Kilcrest Way
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -552,7 +552,7 @@ Unanimous (4-0)
 ### 3. Proposed Alternate
   Locate Agreement
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -564,7 +564,7 @@ Unanimous (6-0)
 ### 4. Selling Blue Boxes
   at the Envirodepots
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -576,7 +576,7 @@ Unanimous (6-0)
 ### 5. Options for
   Collection and Diversions of Christmas Trees
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -588,7 +588,7 @@ Unanimous (6-0)
 ### 6. Garbage Container
   Limits (Waste Diversion)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -607,7 +607,7 @@ Unanimous (6-0)
 ### 7. "One
   River" - Master Plan Environmental Assessment
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -626,7 +626,7 @@ Unanimous (6-0)
 ### 8. Irregular Result -
   Rotary Mowers
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -638,7 +638,7 @@ Unanimous (6-0)
 ### 9. Pay by App for
   Parking
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -650,7 +650,7 @@ Unanimous (6-0)
 ### 10. 5th Report of the
   Cycling Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -662,7 +662,7 @@ Unanimous (6-0)
 ### 11. Aldersbrook Gate-
   Traffic Congestion and Safety Concerns
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -674,7 +674,7 @@ Unanimous (6-0)
 ### 12. Garbage Can, Needle
   Bins and Signage - Downtown London
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -685,7 +685,7 @@ Unanimous (6-0)
 ### 12. Garbage Can, Needle
   Bins and Signage - Downtown London
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -696,7 +696,7 @@ Unanimous (6-0)
 ### 13. Deferred Matters
   List
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

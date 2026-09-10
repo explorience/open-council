@@ -273,7 +273,7 @@ The meeting adjourned at 1:07 pm.
 
 ### 2.1. Capital Asset Renewal and Replacement Reserve Fund Rationalization Report
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken: a)      the Capital Asset Renewal and Replacement Reserve Funds by-law appended to the staff report dated September 8, 2020 as Appendix C, which in...
 
@@ -283,7 +283,7 @@ Unanimous (6-0)
 
 ### 2.2. 2020 Reserve Fund Housekeeping Report
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken: a)      the following proposed by-laws appended as Appendix A to the above-noted staff report BE INTRODUCED at the Municipal Council meeting to be h...
 
@@ -293,7 +293,7 @@ Unanimous (6-0)
 
 ### 4.1. Application - Issuance of Proclamation - Respiratory Therapy Week
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That based on the application dated August 25, 2020, from the Canadian Society of Respiratory Therapists, the week of October 25 - 31, 2020 BE PROCLAIMED as Respiratory Therapy Week.
 

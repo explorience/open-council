@@ -1778,7 +1778,7 @@ The meeting adjourned at 11:40 PM.
 ### 2. 6th Report of the
   Environmental Ecological and Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1790,7 +1790,7 @@ Unanimous (6-0)
 ### 3. STAFF REPORT - Property
   located at 8076 Longwoods Road (Z-8735)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1802,7 +1802,7 @@ Unanimous (6-0)
 ### 4. STAFF REPORT - Improved
   Planning Report Templates for the Planning and Environment Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1814,7 +1814,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Property located at 2150 Oxford Street East (H-8686)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1827,7 +1827,7 @@ Unanimous (6-0)
   Request for Designation of a Heritage Listed Property located at 93-95
   Dufferin Avenue
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1839,7 +1839,7 @@ Unanimous (6-0)
 ### 7. STAFF REPORT -
   Staff Resourcing to Support the New Tree Protection By-law
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1851,7 +1851,7 @@ Unanimous (5-0)
 ### 8. STAFF REPORT -
   Development Charges (DC) Claimable Work for Westbury Subdivision M-641
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1863,7 +1863,7 @@ Unanimous (6-0)
 ### 9. STAFF REPORT -
   Riverbend Golf Community Phase 9 (P-8762)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1875,7 +1875,7 @@ Unanimous (6-0)
 ### 10. STAFF REPORT -
   Proposed Amendment to the Tree Protection By-law C.P. - 1515-228
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1887,7 +1887,7 @@ Unanimous (6-0)
 ### 11. STAFF REPORT -
   Draft Urban Agriculture Strategy
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1900,7 +1900,7 @@ Unanimous (6-0)
   Dudek, Chair, London advisory Committee on Heritage – 7th and 8th Reports of
   the London Advisory Committee on Heritage
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1914,7 +1914,7 @@ Unanimous (6-0)
   Regard to Height, Parking Rate, Access to Loading Areas and Maneuvering on
   City Streets (Z-8744)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1928,7 +1928,7 @@ Unanimous (6-0)
   Regard to Height, Parking Rate, Access to Loading Areas and Maneuvering on
   City Streets (Z-8744)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1942,7 +1942,7 @@ Unanimous (6-0)
   Regard to Height, Parking Rate, Access to Loading Areas and Maneuvering on
   City Streets (Z-8744)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1955,7 +1955,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Request for Demolition of Heritage Listed property
   located at 660 Sunningdale Road East
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1975,7 +1975,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Request for Demolition of Heritage Listed property
   located at 660 Sunningdale Road East
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1988,7 +1988,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Request for Demolition of Heritage Listed property
   located at 660 Sunningdale Road East
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2001,7 +2001,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Request for Demolition of Heritage Listed property
   located at 660 Sunningdale Road East
 
-<a id="motion-14-3" class="motion-anchor"></a>
+<div id="motion-14-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2021,7 +2021,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - City Wide Official Plan and Zoning By-law Amendments
   - Secondary Dwelling Units (OZ-8053)
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2039,7 +2039,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - City Wide Official Plan and Zoning By-law Amendments
   - Secondary Dwelling Units (OZ-8053)
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2052,7 +2052,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - City Wide Official Plan and Zoning By-law Amendments
   - Secondary Dwelling Units (OZ-8053)
 
-<a id="motion-15-2" class="motion-anchor"></a>
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2065,7 +2065,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
   (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2078,7 +2078,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
   (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2091,7 +2091,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
   (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
 
-<a id="motion-16-2" class="motion-anchor"></a>
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2111,7 +2111,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
   (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
 
-<a id="motion-16-3" class="motion-anchor"></a>
+<div id="motion-16-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2131,7 +2131,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
   (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
 
-<a id="motion-16-4" class="motion-anchor"></a>
+<div id="motion-16-4" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -2151,7 +2151,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
   (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
 
-<a id="motion-16-5" class="motion-anchor"></a>
+<div id="motion-16-5" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2172,7 +2172,7 @@ Unanimous (5-0)
   located at 810, 1055 and 1079 Westdel Bourne and 1959 and 1997 Oxford Street
   West (39T-17501/Z-8725)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2186,7 +2186,7 @@ Unanimous (5-0)
   located at 810, 1055 and 1079 Westdel Bourne and 1959 and 1997 Oxford Street
   West (39T-17501/Z-8725)
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2200,7 +2200,7 @@ Unanimous (5-0)
   located at 810, 1055 and 1079 Westdel Bourne and 1959 and 1997 Oxford Street
   West (39T-17501/Z-8725)
 
-<a id="motion-17-2" class="motion-anchor"></a>
+<div id="motion-17-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2214,7 +2214,7 @@ Unanimous (5-0)
   located at 810, 1055 and 1079 Westdel Bourne and 1959 and 1997 Oxford Street
   West (39T-17501/Z-8725)
 
-<a id="motion-17-3" class="motion-anchor"></a>
+<div id="motion-17-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2226,7 +2226,7 @@ Unanimous (5-0)
 ### 18. 7th Report of Tress
   and Forests Advisory Committee
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2238,7 +2238,7 @@ Unanimous (5-0)
 ### 19. STAFF REPORT -
   Archaeological Management Plan (2017)
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2250,7 +2250,7 @@ Unanimous (5-0)
 ### 20. (ADDED) 6th Report
   of the Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -166,7 +166,7 @@ The meeting adjourns at 12:46 PM.
 
 ### 2.1. Demolition - City-Owned Properties - 74 Wellington Road and 78 Wellington Road
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director of Corporate Services and City Treasurer, Chief Financial Officer, with the concurrence of the Director, Rapid Transit, on the advice of the Manager of Realty Services, the following actions be taken with respect to the City-owned properties at...
 
@@ -176,7 +176,7 @@ Unanimous (6-0)
 
 ### 4.1. Issuance of Proclamations Policy
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the proposed by-law, as appended to the staff report dated January 6, 2020 BE INTRODUCED at the Municipal Council meeting to be held on January 14, 2020 to repeal Council Policy By-law No. CPOL.-115-367, as amended by By-law No. CPOL.115(a)-418, being "Issuance of Proclamations Policy" and r...
 

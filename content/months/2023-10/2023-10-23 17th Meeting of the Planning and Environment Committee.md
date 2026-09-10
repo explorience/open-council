@@ -2215,7 +2215,7 @@ Thank you.
 
 ### 2.2. Contract Renewal for Management of Environmentally Significant Areas
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Contract Renewal for the Management of Environmentally Significant Areas; a)  approval BE GIVEN under Section 14.3 (c) of the Procurement of Goods and Serv...
 
@@ -2225,7 +2225,7 @@ Unanimous (5-0)
 
 ### 2.2. Contract Renewal for Management of Environmentally Significant Areas
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > That a change in order BE APPROVED to allow consent item 2.3 to be heard before item 2.2.
 
@@ -2235,7 +2235,7 @@ Unanimous (5-0)
 
 ### 2.3. Conservation Authority Cost Apportioning Agreements
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Conservation Authority Cost Apportioning Agreements: a) the proposed by-law appended to the staff report dated October 23, 2023 as Appendix “A” BE INTRODUC...
 
@@ -2245,7 +2245,7 @@ Unanimous (5-0)
 
 ### 3.3. 1958 Duluth Crescent (OZ-9638 / 39T-23504)
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Monteith Brown Planning Consultants, relating to the property located at 1958 Duluth Crescent: a)    the proposed by-law appended to the staff report dated Octo...
 
@@ -2255,7 +2255,7 @@ Unanimous (5-0)
 
 ### 3.6. 1901 Jalna Boulevard (Z-9633)
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Kindred Works, (c/o Zelinka Priamo Ltd.), relating to the property located at 1901 Jalna Boulevard: a)    the proposed, revised, attached by-law as...
 
@@ -2265,7 +2265,7 @@ Unanimous (5-0)
 
 ### 3.6. 1901 Jalna Boulevard (Z-9633)
 
-<a id="motion-3-6-3" class="motion-anchor"></a>
+<div id="motion-3-6-3" class="motion-anchor"></div>
 
 > Motion to include part d), which reads as follows: “d)    that pursuant to Section 34(17) of the Planning Act, as determined by the Municipal Council, no further notice BE GIVEN in respect of the proposed by-law as the changes related to the calculation of parking requirements is minor in nature ...
 
@@ -2275,7 +2275,7 @@ Unanimous (6-0)
 
 ### 3.6. 1901 Jalna Boulevard (Z-9633)
 
-<a id="motion-3-6-4" class="motion-anchor"></a>
+<div id="motion-3-6-4" class="motion-anchor"></div>
 
 > That the motion BE APPROVED, as amended.
 
@@ -2285,7 +2285,7 @@ Unanimous (6-0)
 
 ### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
 
-<a id="motion-3-7-3" class="motion-anchor"></a>
+<div id="motion-3-7-3" class="motion-anchor"></div>
 
 > Motion to amend clause b) as follows: “the proposed by-law appended to the staff report as Appendix ‘B’, being a by-law to amendment Zoning Bylaw Z.-1, BE REVISED by DELETING part 2) a) v) Landscaped Open Space (minimum): 24%, it being noted the Landscaped Open Space (minimum) in the R8-4 Zone is...
 
@@ -2304,7 +2304,7 @@ Unanimous (6-0)
 
 ### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
 
-<a id="motion-3-7-4" class="motion-anchor"></a>
+<div id="motion-3-7-4" class="motion-anchor"></div>
 
 > Motion to amend clause c) by adding the following: “xvi)    additional tree plantings on the property or nearby properties will be required to compensate for loss of trees and exceed the minimum tree planting requirements; and,  xvii)    investigate a solar installation along top of the parking g...
 
@@ -2314,7 +2314,7 @@ Unanimous (5-0)
 
 ### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
 
-<a id="motion-3-7-5" class="motion-anchor"></a>
+<div id="motion-3-7-5" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -2324,7 +2324,7 @@ Unanimous (5-0)
 
 ### 3.8. 135 Villagewalk Boulevard (Z-9644)
 
-<a id="motion-3-8-0" class="motion-anchor"></a>
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2560334 Ontario Limited, (c/o York Developments), relating to the property located at 135 Villagewalk Boulevard: a)    the proposed, revised by-law, as appended...
 
@@ -2334,7 +2334,7 @@ Unanimous (5-0)
 
 ### 3.10. 1407 and 1427 Hyde Park Road (OZ-9438)
 
-<a id="motion-3-10-0" class="motion-anchor"></a>
+<div id="motion-3-10-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2134325 Ontario Inc., (York Developments), relating to the property located at 1407-1427 Hyde Park Road: a)    the proposed by-law appended to the staff report ...
 
@@ -2344,7 +2344,7 @@ Unanimous (5-0)
 
 ### 4.1. ReThink Zoning - Progress Update
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve delegation status to A. Johnson, Greenspace Alliance and M. Wallace, London Development Institute, with respect to ReThink Zoning.
 
@@ -2354,7 +2354,7 @@ Unanimous (5-0)
 
 ### 4.2. 11th Report of the Community Advisory Committee on Planning
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That clause a) of the 11th Report of the Community Advisory Committee on Planning BE RECEIVED; it being noted that clause a) reads as follows: “a)    the Planning and Environment Committee BE ADVISED that the Community Advisory Committee on Planning (CACP) made the following comments with respect...
 
@@ -2373,7 +2373,7 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED) Deferred Matters List
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Committee Clerk BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 

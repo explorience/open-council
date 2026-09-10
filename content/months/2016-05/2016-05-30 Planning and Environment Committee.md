@@ -1142,7 +1142,7 @@ The
 ### 2. 6th Report of the
   Advisory Committee on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1154,7 +1154,7 @@ Unanimous (5-0)
 ### 3. Property located on
   a portion of 120 Gideon Drive (H-8524)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1166,7 +1166,7 @@ Unanimous (5-0)
 ### 4. Property located at
   905 Sarnia Road (39T-14501)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1178,7 +1178,7 @@ Unanimous (5-0)
 ### 5. Property located at
   1602 Sunningdale Road West (39T-11503)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1190,7 +1190,7 @@ Unanimous (5-0)
 ### 6. Property located at
   1551 Blackwell Boulevard (H-8507)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1202,7 +1202,7 @@ Unanimous (5-0)
 ### 7. Building Division
   Monthly Report for March 2016
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1214,7 +1214,7 @@ Unanimous (5-0)
 ### 8. 6th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1226,7 +1226,7 @@ Unanimous (5-0)
 ### 9. 6th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1238,7 +1238,7 @@ Unanimous (5-0)
 ### 10. Property located at
   1931 Jubilee Crescent (39T-16501/Z-8589)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1250,7 +1250,7 @@ Unanimous (5-0)
 ### 10. Property located at
   1931 Jubilee Crescent (39T-16501/Z-8589)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1262,7 +1262,7 @@ Unanimous (5-0)
 ### 10. Property located at
   1931 Jubilee Crescent (39T-16501/Z-8589)
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1274,7 +1274,7 @@ Unanimous (5-0)
 ### 11. Property located at
   4402 Colonel Talbot Road
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1286,7 +1286,7 @@ Unanimous (5-0)
 ### 11. Property located at
   4402 Colonel Talbot Road
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1298,7 +1298,7 @@ Unanimous (5-0)
 ### 11. Property located at
   4402 Colonel Talbot Road
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1310,7 +1310,7 @@ Unanimous (5-0)
 ### 12. Property located at
   5067 Cook Road
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1322,7 +1322,7 @@ Unanimous (5-0)
 ### 12. Property located at
   5067 Cook Road
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1334,7 +1334,7 @@ Unanimous (5-0)
 ### 12. Property located at
   5067 Cook Road
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1346,7 +1346,7 @@ Unanimous (5-0)
 ### 13. London Psychiatric
   Hospital Lands & South West Area Secondary Plans (O-8364/O-8370)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1358,7 +1358,7 @@ Unanimous (5-0)
 ### 13. London Psychiatric
   Hospital Lands & South West Area Secondary Plans (O-8364/O-8370)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1370,7 +1370,7 @@ Unanimous (5-0)
 ### 13. London Psychiatric
   Hospital Lands & South West Area Secondary Plans (O-8364/O-8370)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1382,7 +1382,7 @@ Unanimous (5-0)
 ### 14. Property located at
   2397 Oxford Street West (Z-8608)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1394,7 +1394,7 @@ Unanimous (5-0)
 ### 14. Property located at
   2397 Oxford Street West (Z-8608)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1406,7 +1406,7 @@ Unanimous (5-0)
 ### 14. Property located at
   2397 Oxford Street West (Z-8608)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1418,7 +1418,7 @@ Unanimous (5-0)
 ### 15. Properties located
   at 551 and 555 Waterloo Street (Z-8599)
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1430,7 +1430,7 @@ Unanimous (5-0)
 ### 15. Properties located
   at 551 and 555 Waterloo Street (Z-8599)
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1442,7 +1442,7 @@ Unanimous (5-0)
 ### 15. Properties located
   at 551 and 555 Waterloo Street (Z-8599)
 
-<a id="motion-15-2" class="motion-anchor"></a>
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1454,7 +1454,7 @@ Unanimous (5-0)
 ### 16. Properties located
   at 1733 Hamilton Road and 2046 Commissioners Road East (39T-15505/OZ-8555)
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1473,7 +1473,7 @@ Unanimous (5-0)
 ### 16. Properties located
   at 1733 Hamilton Road and 2046 Commissioners Road East (39T-15505/OZ-8555)
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1485,7 +1485,7 @@ Unanimous (5-0)
 ### 16. Properties located
   at 1733 Hamilton Road and 2046 Commissioners Road East (39T-15505/OZ-8555)
 
-<a id="motion-16-2" class="motion-anchor"></a>
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1497,7 +1497,7 @@ Unanimous (5-0)
 ### 17. Zoning By-law
   Amendment - Amplified Music on Patios
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1508,7 +1508,7 @@ Unanimous (5-0)
 
 ### 18. Bill 140
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

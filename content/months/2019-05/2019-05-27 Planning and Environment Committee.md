@@ -631,7 +631,7 @@ The meeting adjourned at 9:44 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 and 2.2, inclusive, BE APPROVED.
 
@@ -641,7 +641,7 @@ Unanimous (5-0)
 
 ### 3.2. Public Participation Meeting - Application - 146 Exeter Road (OZ-9038)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by The Corporation of the City of London, relating to the property located at 146 Exeter Road: a)            the proposed by-law appended to the staff report dated May...
 
@@ -651,7 +651,7 @@ Unanimous (5-0)
 
 ### 3.5. Public Participation Meeting - Application - 126 Oxford Street West (Z-9007)
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, based on the application by Underhill Holdings London Inc., relating to the property located at 126 Oxford Street West, the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R2...
 
@@ -661,7 +661,7 @@ Unanimous (5-0)
 
 ### 3.6. Public Participation Meeting - Application - 307 Fanshawe Park Road East (Z-9006)
 
-<a id="motion-3-6-1" class="motion-anchor"></a>
+<div id="motion-3-6-1" class="motion-anchor"></div>
 
 > Motion to approve parts a) and b) which reads as follows: That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Royal Premier Homes, relating to the property located at 307 Fanshawe Park Road East: a)    the proposed b...
 
@@ -680,7 +680,7 @@ Unanimous (5-0)
 
 ### 4.1. Request for Delegation Status - S. Allen, MHBC Planning Urban Design and Landscape Architecture - 3080 Bostwick Road (Site 5)
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That S. Allen, MHBC, BE GRANTED delegation status at the June 17, 2019 Planning and Environment Committee meeting relating the application by 731675 Ontario Limited (c/o York Developments), with respect to the property located at 3080 Bostwick Road.  (2019-D09)
 

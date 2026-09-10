@@ -716,7 +716,7 @@ Thank you.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2 and 2.4 to 2.7 BE APPROVED.
 
@@ -726,7 +726,7 @@ Unanimous (5-0)
 
 ### 2.3. Housing Stability Services – Rent-Geared-to-Income (RGI) Waitlist Placement Ratio
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 5 minutes with respect to this matter.
 

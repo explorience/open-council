@@ -654,7 +654,7 @@ The Strategic Priorities and Policy
 ### 2. Municipal
   Implications of the Truth and Reconciliation Commission Report
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -665,7 +665,7 @@ Unanimous (14-0)
 ### 3. Surplus/Deficit
   Policy
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -683,7 +683,7 @@ Unanimous (14-0)
 ### 3. Surplus/Deficit
   Policy
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -701,7 +701,7 @@ Unanimous (14-0)
 ### 3. Surplus/Deficit
   Policy
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -719,7 +719,7 @@ Unanimous (14-0)
 ### 4. Strategic Plan for
   The City of London 2015-2019: Proposed Reporting Process and Year One Update
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -731,7 +731,7 @@ Unanimous (14-0)
   Community Grants Program: Proposed Evaluation Criteria and Revised Community
   Grants Policy and Grant Agreement
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -742,7 +742,7 @@ Unanimous (14-0)
 ### 6. London Medical
   Innovation and Commercialization Network
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -754,7 +754,7 @@ Unanimous (12-0)
   Innovation and Commercialization Network Update (Paul Paolatto and Peter
   White)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -765,7 +765,7 @@ Unanimous (13-0)
 ### 8. Public
   Participation Meeting - 2016 Water and Wastewater Rates
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -776,7 +776,7 @@ Unanimous (15-0)
 ### 8. Public
   Participation Meeting - 2016 Water and Wastewater Rates
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -787,7 +787,7 @@ Unanimous (15-0)
 ### 8. Public
   Participation Meeting - 2016 Water and Wastewater Rates
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -798,7 +798,7 @@ Unanimous (15-0)
 ### 9. Smart City Strategy
   Terms of Reference
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -809,7 +809,7 @@ Unanimous (14-0)
 ### 10. Consideration of
   Appointments to the County/City Liaison Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -820,7 +820,7 @@ Unanimous (14-0)
 ### 11. Confirmation of
   Appointment to the Outstanding London Ambassador Award Committee
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -831,7 +831,7 @@ Unanimous (14-0)
 ### 12. 8th Report of the
   Governance Working Group
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -842,7 +842,7 @@ Unanimous (14-0)
 ### 13. Request for Delegation
   Status - Expansion of London Optimist Sports Centre (BMO Centre)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion Passed
 

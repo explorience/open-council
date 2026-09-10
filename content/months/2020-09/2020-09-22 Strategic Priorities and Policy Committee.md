@@ -822,7 +822,7 @@ The meeting adjourns at 8:50 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.2, 2.3 and 2.5 BE APPROVED.
 
@@ -832,7 +832,7 @@ Unanimous (15-0)
 
 ### 4.1. Mandatory Face Coverings By-law Status Update
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the requested delegations, as identified on the public added agenda, BE APPROVED to be heard at this time.
 
@@ -842,7 +842,7 @@ Unanimous (14-0)
 
 ### 4.2. Community Diversity and Inclusion Strategy Update
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the motion be amended in parts b) and c) to add the words "in principle" following the words BE ENDORSED, with the amended parts to read as follows: b)       the recommendations of the CDIS outlined in Appendix A (page 251 of the Agenda), to end anti-Black and anti-indigenous racism in Londo...
 
@@ -859,7 +859,7 @@ Unanimous (14-0)
 
 ### 4.3. 1st Report of the Governance Working Group
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 1st Report of the Governance Working Group from its meeting held on August 24, 2020:    a)       the Civic Administration BE DIRECTED to report back to the Governance Working Group (GWG), with respect to the advisory committee review, as it ...
 
@@ -876,7 +876,7 @@ Unanimous (14-0)
 
 ### 4.3. 1st Report of the Governance Working Group
 
-<a id="motion-4-3-2" class="motion-anchor"></a>
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > The Civic Administration BE DIRECTED to post to the City Website the agendas and reports of the Working Groups as established by Council; it being noted that these would be included on the “Advisory and Other Committee Meetings” page;
 
@@ -886,7 +886,7 @@ Unanimous (15-0)
 
 ### 4.4. Request for Referral to the Governance Working Group
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > That the Governance Working Group BE DIRECTED to consider how London might be better served by changes to the structure and operations of the next council.
 
@@ -905,7 +905,7 @@ Unanimous (15-0)
 
 ### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That Chelsea Smith BE APPOINTED to the London Public Library Board for the term ending November 15, 2022;    it being noted that the Strategic Priorities and Policy Committee received the following written submissions with respect to this matter: - a communication dated July 3, 2020 from M. B. Mc...
 
@@ -915,7 +915,7 @@ Unanimous (14-0)
 
 ### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
 
-<a id="motion-4-5-1" class="motion-anchor"></a>
+<div id="motion-4-5-1" class="motion-anchor"></div>
 
 > Appointment to the London Public Library Board - Round 1
 
@@ -928,7 +928,7 @@ Unanimous (14-0)
 
 ### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
 
-<a id="motion-4-5-2" class="motion-anchor"></a>
+<div id="motion-4-5-2" class="motion-anchor"></div>
 
 > Appointment to the London Public Library Board - Round 2
 
@@ -941,7 +941,7 @@ Unanimous (14-0)
 
 ### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
 
-<a id="motion-4-5-3" class="motion-anchor"></a>
+<div id="motion-4-5-3" class="motion-anchor"></div>
 
 > Appointment to the London Public Library Board - Round 3
 
@@ -954,7 +954,7 @@ Unanimous (14-0)
 
 ### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
 
-<a id="motion-4-5-4" class="motion-anchor"></a>
+<div id="motion-4-5-4" class="motion-anchor"></div>
 
 > Test motion to confirm the voting capability of remote attendees.
 

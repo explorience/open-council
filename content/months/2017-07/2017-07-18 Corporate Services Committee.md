@@ -417,7 +417,7 @@ The Corporate Services Committee convened
 ### 2. STAFF REPORT -
   Mayors of Southwest Ontario (MOSO) Update
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -429,7 +429,7 @@ Unanimous (5-0)
 ### 3. STAFF REPORT - City
   of London Days at Budweiser Gardens - GoodLife Kids Foundation
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -441,7 +441,7 @@ Unanimous (5-0)
 ### 4. STAFF REPORT -
   Modernizing Ontario's Municipal Legislation Act, 2017 (Bill 68)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -454,7 +454,7 @@ Unanimous (5-0)
   Expropriation of Lands - Main Street and Colonel Talbot Road - Intersection
   Improvements Project - TS-144616
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -466,7 +466,7 @@ Unanimous (5-0)
 ### 6. STAFF REPORT -
   Strategic Plan Progress Variance
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -478,7 +478,7 @@ Unanimous (5-0)
 ### 7. Apportionment of
   Taxes
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -490,7 +490,7 @@ Unanimous (5-0)
 ### 7. Apportionment of
   Taxes
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -502,7 +502,7 @@ Unanimous (5-0)
 ### 7. Apportionment of
   Taxes
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -515,7 +515,7 @@ Unanimous (5-0)
   SUBMISSION - Request to Establish 126 Hamilton Road as a Location of a Social
   Enterprise
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -528,7 +528,7 @@ Unanimous (5-0)
   SUBMISSION - Thank You Letter regarding Communities in the
   Caribbean
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -540,7 +540,7 @@ Unanimous (5-0)
 ### 10. Confirmation of
   Appointment to the Accessibility Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -552,7 +552,7 @@ Unanimous (5-0)
 ### 11. Corporate Services
   Committee Deferred Matters List
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -565,7 +565,7 @@ Unanimous (5-0)
   SUBMISSION - Forest City Beer Fest 2017 - Request for Designation as a
   Municipally Significant Event
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -577,7 +577,7 @@ Unanimous (5-0)
 ### 13. ADDED - COUNCIL
   MEMBER SUBMISSION - North American Free Trade Agreement (NAFTA)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -589,7 +589,7 @@ Unanimous (5-0)
 ### 14. ADDED - STAFF
   REPORT - Pre-Authorized Property Tax Payment Error
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -391,7 +391,7 @@ The Strategic Priorities and Policy
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -401,7 +401,7 @@ Unanimous (15-0)
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -411,7 +411,7 @@ Unanimous (15-0)
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-2" class="motion-anchor"></a>
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -421,7 +421,7 @@ Unanimous (15-0)
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-3" class="motion-anchor"></a>
+<div id="motion-2-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -431,7 +431,7 @@ Unanimous (14-0)
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-4" class="motion-anchor"></a>
+<div id="motion-2-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -441,7 +441,7 @@ Unanimous (14-0)
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-5" class="motion-anchor"></a>
+<div id="motion-2-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -451,7 +451,7 @@ Unanimous (14-0)
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-6" class="motion-anchor"></a>
+<div id="motion-2-6" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -461,7 +461,7 @@ Unanimous (14-0)
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-7" class="motion-anchor"></a>
+<div id="motion-2-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -471,7 +471,7 @@ Unanimous (14-0)
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-8" class="motion-anchor"></a>
+<div id="motion-2-8" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -481,7 +481,7 @@ Unanimous (14-0)
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-9" class="motion-anchor"></a>
+<div id="motion-2-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -498,7 +498,7 @@ Unanimous (14-0)
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-10" class="motion-anchor"></a>
+<div id="motion-2-10" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -508,7 +508,7 @@ Unanimous (15-0)
 
 ### 2. 2015 – 2019 Strategic Plan
 
-<a id="motion-2-11" class="motion-anchor"></a>
+<div id="motion-2-11" class="motion-anchor"></div>
 
 > Motion Passed
 

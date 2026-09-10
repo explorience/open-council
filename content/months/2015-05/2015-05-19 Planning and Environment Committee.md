@@ -1170,7 +1170,7 @@ The
 ### 2. 5th Report of the
   Advisory Committee on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1183,7 +1183,7 @@ Unanimous (5-0)
   Grant Program for Downtown & Old East Village Community Improvement Plan
   Areas
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1195,7 +1195,7 @@ Unanimous (5-0)
 ### 4. Property located at
   1285 Western Road (H-8480)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1207,7 +1207,7 @@ Unanimous (5-0)
 ### 5. Property located at
   1166 Hamilton Road (H-8237)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1219,7 +1219,7 @@ Unanimous (5-0)
 ### 6. Vista Woods Estates
   Subdivision - Special Provisions (39T-03505)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1231,7 +1231,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 941, 943 and 945 Hamilton Road (Z-8457)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1243,7 +1243,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 941, 943 and 945 Hamilton Road (Z-8457)
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1255,7 +1255,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 941, 943 and 945 Hamilton Road (Z-8457)
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1267,7 +1267,7 @@ Unanimous (5-0)
 ### 8. Property located at
   3243 Manning Drive (Z-8473)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1279,7 +1279,7 @@ Unanimous (5-0)
 ### 8. Property located at
   3243 Manning Drive (Z-8473)
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1291,7 +1291,7 @@ Unanimous (5-0)
 ### 8. Property located at
   3243 Manning Drive (Z-8473)
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1304,7 +1304,7 @@ Unanimous (5-0)
   at 690, 696, 698, and 700 King Street, 372 Lyle Street and 701 and 729 Dundas
   Street (Z-8543)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1317,7 +1317,7 @@ Unanimous (5-0)
   at 690, 696, 698, and 700 King Street, 372 Lyle Street and 701 and 729 Dundas
   Street (Z-8543)
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1330,7 +1330,7 @@ Unanimous (5-0)
   at 690, 696, 698, and 700 King Street, 372 Lyle Street and 701 and 729 Dundas
   Street (Z-8543)
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1343,7 +1343,7 @@ Unanimous (5-0)
   on a portion of 3105 Bostwick Road and Block 172, 33M-562, Talbot Village
   Phases 5 and 6 (39T-14506/Z-8436)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1363,7 +1363,7 @@ Unanimous (5-0)
   on a portion of 3105 Bostwick Road and Block 172, 33M-562, Talbot Village
   Phases 5 and 6 (39T-14506/Z-8436)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1376,7 +1376,7 @@ Unanimous (5-0)
   on a portion of 3105 Bostwick Road and Block 172, 33M-562, Talbot Village
   Phases 5 and 6 (39T-14506/Z-8436)
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1388,7 +1388,7 @@ Unanimous (5-0)
 ### 11. Property located at
   165 Elmwood Avenue East (SP15-011783) (OZ-8464)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1400,7 +1400,7 @@ Unanimous (5-0)
 ### 11. Property located at
   165 Elmwood Avenue East (SP15-011783) (OZ-8464)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1412,7 +1412,7 @@ Unanimous (5-0)
 ### 11. Property located at
   165 Elmwood Avenue East (SP15-011783) (OZ-8464)
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1424,7 +1424,7 @@ Unanimous (5-0)
 ### 11. Property located at
   165 Elmwood Avenue East (SP15-011783) (OZ-8464)
 
-<a id="motion-11-3" class="motion-anchor"></a>
+<div id="motion-11-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1436,7 +1436,7 @@ Unanimous (5-0)
 ### 12. Property located at
   1653 Richmond Street - Site Plan (SP15-011783)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1448,7 +1448,7 @@ Unanimous (5-0)
 ### 12. Property located at
   1653 Richmond Street - Site Plan (SP15-011783)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1460,7 +1460,7 @@ Unanimous (5-0)
 ### 12. Property located at
   1653 Richmond Street - Site Plan (SP15-011783)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1472,7 +1472,7 @@ Unanimous (5-0)
 ### 13. Properties located
   at 1631, 1635, 1639, 1643 and 1649 Richmond Street - Site Plan (SP15-011562)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1484,7 +1484,7 @@ Unanimous (5-0)
 ### 13. Properties located
   at 1631, 1635, 1639, 1643 and 1649 Richmond Street - Site Plan (SP15-011562)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1496,7 +1496,7 @@ Unanimous (4-0)
 ### 13. Properties located
   at 1631, 1635, 1639, 1643 and 1649 Richmond Street - Site Plan (SP15-011562)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1508,7 +1508,7 @@ Unanimous (5-0)
 ### 14. Property located at
   164 Sherwood Forest Square - Site Plan (SP15-004713)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1527,7 +1527,7 @@ Unanimous (5-0)
 ### 14. Property located at
   164 Sherwood Forest Square - Site Plan (SP15-004713)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1539,7 +1539,7 @@ Unanimous (4-0)
 ### 14. Property located at
   164 Sherwood Forest Square - Site Plan (SP15-004713)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1551,7 +1551,7 @@ Unanimous (5-0)
 ### 15. Great Near Campus
   Neighbourhood Strategy Review - Terms of Reference
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1563,7 +1563,7 @@ Unanimous (5-0)
 ### 15. Great Near Campus
   Neighbourhood Strategy Review - Terms of Reference
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1575,7 +1575,7 @@ Unanimous (5-0)
 ### 15. Great Near Campus
   Neighbourhood Strategy Review - Terms of Reference
 
-<a id="motion-15-2" class="motion-anchor"></a>
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

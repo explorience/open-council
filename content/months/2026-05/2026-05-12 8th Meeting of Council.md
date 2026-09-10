@@ -2039,7 +2039,7 @@ All those in favor of adjournment? Motion carries. All right, thank you. We're a
 
 ### 8.1. 9th Report of the Infrastructure and Corporate Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 9th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 2 (2.1), 6 (2.5), and 8 (2.6).
 
@@ -2049,7 +2049,7 @@ Unanimous (15-0)
 
 ### 8.1.2. (2.1) Extension of Fanshawe College Agreement to Support Downtown Campus (Relates to Bill No. 190)
 
-<a id="motion-8-1-2-0" class="motion-anchor"></a>
+<div id="motion-8-1-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by‑law, as appended to the staff report dated May 6, 2026 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026: a)    to approve an amending agreement between The Corporatio...
 
@@ -2059,7 +2059,7 @@ Unanimous (14-0)
 
 ### 8.1.6. (2.5) Next Steps for the Provincial Cargo Power-Assisted Bicycle Pilot (Relates to Bill No. 195)
 
-<a id="motion-8-1-6-0" class="motion-anchor"></a>
+<div id="motion-8-1-6-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, with respect to the City’s participation in the Province of Ontario’s Cargo Power-assisted Bicycle (cargo e-bike) pilot program, the following actions be taken: a)    the report BE RECEIVED for information; b)   ...
 
@@ -2076,7 +2076,7 @@ Unanimous (14-0)
 
 ### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
 
-<a id="motion-8-1-8-1" class="motion-anchor"></a>
+<div id="motion-8-1-8-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part e): e) advocacy through AMO and OBCM TO REQUEST the Province to speed up the assessment of the pilot project and bring forward recommended legislative changes as soon as possible;
 
@@ -2086,7 +2086,7 @@ Unanimous (15-0)
 
 ### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
 
-<a id="motion-8-1-8-2" class="motion-anchor"></a>
+<div id="motion-8-1-8-2" class="motion-anchor"></div>
 
 > That part b) BE APPROVED: b)    the proposed by-law, as appended to the staff report dated May 6, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026 to establish a Pilot Project for Electric Kick Scooters, to come into force and effect on May 12, 2026 ...
 
@@ -2103,7 +2103,7 @@ Unanimous (15-0)
 
 ### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
 
-<a id="motion-8-1-8-3" class="motion-anchor"></a>
+<div id="motion-8-1-8-3" class="motion-anchor"></div>
 
 > That part d) BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to Committee and Council in May 2027 with an update report on the use of e-scooters in London;
 
@@ -2120,7 +2120,7 @@ Unanimous (15-0)
 
 ### 8.1.8. (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
 
-<a id="motion-8-1-8-4" class="motion-anchor"></a>
+<div id="motion-8-1-8-4" class="motion-anchor"></div>
 
 > That the balance of item 8, clause 2.6, as amended, BE APPROVED.
 
@@ -2130,7 +2130,7 @@ Unanimous (15-0)
 
 ### 8.2. 7th Report of the Planning and Environment Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 7th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 7 (3.3).
 
@@ -2140,7 +2140,7 @@ Unanimous (15-0)
 
 ### 8.2.7. (3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
 
-<a id="motion-8-2-7-0" class="motion-anchor"></a>
+<div id="motion-8-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (London) Inc. (c/o Zelinka Priamo Ltd.) relating to the property located at 945 Bluegrass Drive: a) ...
 
@@ -2157,7 +2157,7 @@ Unanimous (15-0)
 
 ### 8.3. 7th Report of the Community and Protective Services Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 7th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 3 (2.2) and 5 (2.4).
 
@@ -2167,7 +2167,7 @@ Unanimous (14-0)
 
 ### 8.3.3. (2.2) YMCA Centre Branch Program Services and Access Agreement (Relates to Bill No. 188)
 
-<a id="motion-8-3-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-3-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed by-law, as appended to the staff report dated May 4, 2026 with respect to the YMCA Centre Branch Program Services and Access Agreement, BE INTRODUCED at the Municipal Council meeting to ...
 
@@ -2177,7 +2177,7 @@ Unanimous (13-0)
 
 ### 8.3.5. (2.4) Housing Stability Action Plan (2026-2031) Update
 
-<a id="motion-8-3-5-0" class="motion-anchor"></a>
+<div id="motion-8-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development and the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated May 4, 2026 related to the Homeless Prevention and Housing Plan (2026-2031) Update...
 
@@ -2196,7 +2196,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 195 and 196 BE APPROVED.
 
@@ -2215,7 +2215,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 195 and 196 BE APPROVED.
 
@@ -2234,7 +2234,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 195 BE APPROVED.
 
@@ -2253,7 +2253,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-9" class="motion-anchor"></a>
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 196 BE APPROVED.
 

@@ -254,7 +254,7 @@ The meeting adjourned at 1:31 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.2, 2.3, 2.5 and 2.6 BE APPROVED.
 
@@ -264,7 +264,7 @@ Unanimous (5-0)
 
 ### 2.4. Elected Officials Remuneration - One-Third Non Taxable Allowance
 
-<a id="motion-2-4-1" class="motion-anchor"></a>
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > Part a) That the following actions be taken with respect to Elected Officials Remuneration: a)     the proposed by-law appended to the staff report dated October 9, 2018 as Appendix “A” BE INTRODUCED at the October 16, 2018 meeting of the Municipal Council to eliminate the “one-third tax free” al...
 
@@ -274,7 +274,7 @@ Unanimous (5-0)
 
 ### 2.4. Elected Officials Remuneration - One-Third Non Taxable Allowance
 
-<a id="motion-2-4-2" class="motion-anchor"></a>
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > Motion to approve part b) b)     the Mayor’s salary at January 1, 2019, BE INCREASED to $138,025 annually, in order to accommodate for the elimination of the allowance noted in part a), above and maintain the “take home” pay at the current level.
 

@@ -370,7 +370,7 @@ So.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, and 2.8 BE APPROVED.
 
@@ -380,7 +380,7 @@ Unanimous (5-0)
 
 ### 2.7. Participation in the South London Air Monitoring Network Pilot Project
 
-<a id="motion-2-7-0" class="motion-anchor"></a>
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That the staff report dated July 27, 2021 with respect to the South London Air Monitoring Network Pilot Project BE DEFERRED to the next Civic Works Committee meeting for consideration. (2021-E05)
 

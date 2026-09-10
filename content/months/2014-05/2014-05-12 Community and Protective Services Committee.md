@@ -202,7 +202,7 @@ Motion
 ### 2. 4th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -214,7 +214,7 @@ Unanimous (3-0)
 ### 3. Animal Welfare
   Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -226,7 +226,7 @@ Unanimous (4-0)
 ### 4. 2nd Report of the
   London Diversity and Race Relations Advisory Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -238,7 +238,7 @@ Unanimous (4-0)
 ### 5. Request to Have
   By-law PW-11 (Fireworks) Revised to Include the Weekend Before Canada Day
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

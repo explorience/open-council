@@ -273,7 +273,7 @@ The meeting adjourned at 12:47 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 to 2.7, and 2.9 BE APPROVED.
 
@@ -283,7 +283,7 @@ Unanimous (5-0)
 
 ### 2.8. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion
 
-<a id="motion-2-8-0" class="motion-anchor"></a>
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > That the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements and Environmental Study Report, Notice of Completion, BE REFERRED back to Civic Administration, in order to consider the concerns raised by the Civic Works Committee, including but not limited to pedes...
 
@@ -302,7 +302,7 @@ Unanimous (5-0)
 
 ### 2.8. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion
 
-<a id="motion-2-8-1" class="motion-anchor"></a>
+<div id="motion-2-8-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated April 12, 2023, related to the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Environmental Study R...
 

@@ -245,7 +245,7 @@ The Strategic Priorities and Policy
   Information Report on Civic Administration's Approach for Addressing
   Council's Recent Directions Regarding London's Downtown
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -256,7 +256,7 @@ Unanimous (12-0)
 ### 3. STAFF REPORT - 2017
   Assessment Growth Funding Allocation
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -267,7 +267,7 @@ Unanimous (12-0)
 ### 4. STAFF REPORT -
   Council Policy Manual Review
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -279,7 +279,7 @@ Unanimous (12-0)
   London Community Grants Program Outcomes and Sustainability Plans for all
   Funded Organizations
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -291,7 +291,7 @@ Unanimous (10-0)
   SUBMISSION - Request for Continuance of the Housing Development Corporation,
   London (HDC) Board Member V. Lui for a Second Term
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -302,7 +302,7 @@ Unanimous (12-0)
 ### 7. ADDED - COUNCIL
   MEMBER SUBMISSION - Absence from Meetings
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 

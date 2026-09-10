@@ -327,7 +327,7 @@ Motion
 ### 2. City of London Days
   at Budweiser Gardens - United Way London & Middlesex
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -339,7 +339,7 @@ Unanimous (5-0)
 ### 3. Authorization for
   Temporary Borrowing
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -351,7 +351,7 @@ Unanimous (5-0)
 ### 4. 2016 Debenture
   Issuance
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -363,7 +363,7 @@ Unanimous (5-0)
 ### 5. 2015 Annual Update
   on Budweiser Gardens
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -375,7 +375,7 @@ Unanimous (5-0)
 ### 6. Corporate Credit
   Cards for Council Members
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -387,7 +387,7 @@ Unanimous (5-0)
 ### 7. Appointed Citizen
   Members 2015 Remuneration
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -399,7 +399,7 @@ Unanimous (5-0)
 ### 8. Apportionment of
   Taxes
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -411,7 +411,7 @@ Unanimous (5-0)
 ### 8. Apportionment of
   Taxes
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -424,7 +424,7 @@ Unanimous (5-0)
   Delegation Status - Amir Farahi, Executive Director, London Institute for
   Public Policy
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -437,7 +437,7 @@ Unanimous (5-0)
   Designation of the 14th Annual Women's Lifestyle Show as a Municipally
   Significant Event
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -457,7 +457,7 @@ Unanimous (5-0)
   Designation of the 14th Annual Women's Lifestyle Show as a Municipally
   Significant Event
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -476,7 +476,7 @@ Unanimous (5-0)
 ### 11. ADDED - 2016
   Council Compensation Review Task Force
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

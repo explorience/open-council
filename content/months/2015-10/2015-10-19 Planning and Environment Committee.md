@@ -537,7 +537,7 @@ The
 ### 2. Property located at
   2055 Dundas Street (H-8499)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -549,7 +549,7 @@ Unanimous (5-0)
 ### 3. Property located at
   230 Villagewalk Boulevard (Block 1 in Plan 33M-664) (P-8531)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -561,7 +561,7 @@ Unanimous (5-0)
 ### 4. Property located at
   1647 Fanshawe Park Road East - O'Hanlan Subdivision (39T-10503)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -573,7 +573,7 @@ Unanimous (5-0)
 ### 5. Properties located
   at 860-874 Southdale Road West (H-8529)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -585,7 +585,7 @@ Unanimous (5-0)
 ### 6. Properties located
   at 3294  and a portion of 3260 Singleton Avenue (39CD-15509/SP15-013646)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -597,7 +597,7 @@ Unanimous (5-0)
 ### 6. Properties located
   at 3294  and a portion of 3260 Singleton Avenue (39CD-15509/SP15-013646)
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -609,7 +609,7 @@ Unanimous (5-0)
 ### 6. Properties located
   at 3294  and a portion of 3260 Singleton Avenue (39CD-15509/SP15-013646)
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -621,7 +621,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 2605-2651 Tokala Trail (OZ-8511)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -640,7 +640,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 2605-2651 Tokala Trail (OZ-8511)
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -659,7 +659,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 2605-2651 Tokala Trail (OZ-8511)
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -671,7 +671,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 2605-2651 Tokala Trail (OZ-8511)
 
-<a id="motion-7-3" class="motion-anchor"></a>
+<div id="motion-7-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -683,7 +683,7 @@ Unanimous (5-0)
 ### 7. Properties located
   at 2605-2651 Tokala Trail (OZ-8511)
 
-<a id="motion-7-4" class="motion-anchor"></a>
+<div id="motion-7-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -695,7 +695,7 @@ Unanimous (5-0)
 ### 8. 7th Report of the
   Advisory Committee on the Environment
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -707,7 +707,7 @@ Unanimous (5-0)
 ### 9. Archaeological
   Master Plan Review Project Terms of Reference
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

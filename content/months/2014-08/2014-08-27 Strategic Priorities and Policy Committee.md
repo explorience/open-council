@@ -294,7 +294,7 @@ The
 ### 2. London Hydro
   Promissory Note - Agreements
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -306,7 +306,7 @@ Unanimous (8-0)
 ### 3. Composition -
   London Public Library Board
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -318,7 +318,7 @@ Unanimous (8-0)
 ### 4. 2011 - 2014 Report
   to the Community - Verbal (City Manager)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -331,7 +331,7 @@ Unanimous (10-0)
   before 4:00 PM - Public Participation Meeting - Proposed Establishment of a
   Housing Development Corporation
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -344,7 +344,7 @@ Unanimous (11-0)
   before 4:00 PM - Public Participation Meeting - Proposed Establishment of a
   Housing Development Corporation
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -357,7 +357,7 @@ Unanimous (11-0)
   before 4:00 PM - Public Participation Meeting - Proposed Establishment of a
   Housing Development Corporation
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -1604,7 +1604,7 @@ chair michael tom is into here perhaps i'll start and maybe some of my colleague
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.6, inclusive, BE APPROVED.
 
@@ -1614,7 +1614,7 @@ Unanimous (5-0)
 
 ### 3.9. 1634 – 1656 Hyde Park Road, 1480 North Routledge Park and Part of 1069 Gainsborough Road – (Z-9301)
 
-<a id="motion-3-9-0" class="motion-anchor"></a>
+<div id="motion-3-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1630 HP Inc., relating to the property located at 1634 – 1656 Hyde Park Road, 1480 North Routledge Park and Part of 1069 Gainsborough Road: a) the proposed by-law a...
 
@@ -1624,7 +1624,7 @@ Unanimous (5-0)
 
 ### 3.10. Public Participation Meeting - Not to be heard before 5:30 PM – 435-451 Ridout Street North - (OZ-9157)
 
-<a id="motion-3-10-0" class="motion-anchor"></a>
+<div id="motion-3-10-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Farhi Holdings Corporation, relating to the property located at 435-451 Ridout Street North: a) consistent with Policy 19.1.1. of the Official Plan for the City of ...
 
@@ -1643,7 +1643,7 @@ Unanimous (5-0)
 
 ### 4.1. 5th Report of the London Advisory Committee on Heritage
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 5th Report of the London Advisory Committee on Heritage from its meeting held on May 12, 2021:    a) M. Corby, Senior Planner, BE ADVISED of the following comments from the London Advisory Committee on Heritage (LACH) with respect to the No...
 
@@ -1653,7 +1653,7 @@ Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Deputy City Manager, Planning and Economic Development BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 
@@ -1663,7 +1663,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) 4th Report of the Trees and Forests Advisory Committee
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 4th Report of the Trees and Forests Advisory Committee, from its meeting held on May 26, 2021:    a)        the Educational Initiatives and Outreach Sub-Committee recommendations, appended to the Trees and Forests Advisory Committee (TFAC) A...
 

@@ -434,7 +434,7 @@ The meeting adjourned at 6:39 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.2 and 2.4 BE APPROVED.
 
@@ -444,7 +444,7 @@ Unanimous (6-0)
 
 ### 2.1. Short Term Accommodations
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > Motion to approve part a).
 
@@ -454,7 +454,7 @@ Unanimous (6-0)
 
 ### 2.1. Short Term Accommodations
 
-<a id="motion-2-1-2" class="motion-anchor"></a>
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > Motion to approve parts b) and c).
 
@@ -471,7 +471,7 @@ Unanimous (6-0)
 
 ### 2.3. 4th Report of the Animal Welfare Advisory Committee
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 4th Report of the Animal Welfare Advisory Committee from its meeting held on April 5, 2018: a)            clause 2.1 of the Report BE REFERRED back to the Animal Welfare Advisory Committee for consultation with parties currently conducting a...
 
@@ -488,7 +488,7 @@ Unanimous (6-0)
 
 ### 3.3. Public Participation Meeting - Adult Live Entertainment Parlour - Location Substitution Request
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That NO AMENDMENT BE MADE to the Business Licensing By-law L.-131-16 with respect to the application made to substitute an existing licensed Adult Entertainment Parlour location at 2010 Dundas Street to a proposed location at 802 Exeter Road; it being noted that the attached presentation from O. ...
 
@@ -505,7 +505,7 @@ Unanimous (6-0)
 
 ### 5.2. (ADDED) Request for Delegation - T. Nault - Naloxone Kits
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the delegation request from T. Nault, Schulich School of Medicine & Dentistry, with respect to the a proposal to implement naloxone kits at city owned AED machines in London, BE APPROVED for the May 29, 2018 meeting of the Community and Protective Services Committee; it being noted that a co...
 

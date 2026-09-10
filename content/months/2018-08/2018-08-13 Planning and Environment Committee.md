@@ -894,7 +894,7 @@ The meeting adjourned at 7:51 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.3, inclusive and 2.5 to 2.8, inclusive and 2.10 to 2.15, inclusive, BE APPROVED.
 
@@ -904,7 +904,7 @@ Unanimous (5-0)
 
 ### 2.4. Application - 1631-1649 Richmond Street
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, the Civic Administration BE AUTHORIZED to accept and process Zoning By-law Amendment and Official Plan Amendment applications submitted by Zelinka Priamo Ltd., for the properties located at 1631 to 1649 Richmond Street; it being noted that the Planning and Environment Committee heard a verb...
 
@@ -914,7 +914,7 @@ Unanimous (5-0)
 
 ### 2.4. Application - 1631-1649 Richmond Street
 
-<a id="motion-2-4-1" class="motion-anchor"></a>
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > That H. Froussios, Zelinka Priamo Ltd., BE GRANTED delegation status with respect to this matter.
 
@@ -924,7 +924,7 @@ Unanimous (5-0)
 
 ### 2.9. Application - 2427 Daisy Bend and 3025 Doyle Drive - Removal of Holding Provisions (H-8907)
 
-<a id="motion-2-9-0" class="motion-anchor"></a>
+<div id="motion-2-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Senior Planner, Development Services, based on the application by Sifton Properties Limited, relating to lands located at 2427 Daisy Bend and 3025 Doyle Drive, the proposed by-law appended to the staff report dated August 13, 2018 as Appendix “A”BE INTRODUCED at...
 
@@ -934,7 +934,7 @@ Unanimous (5-0)
 
 ### 3.1. Delegation - L. Kirkness, Kirkness Consulting Inc. - Application - 2156 Highbury Avenue North
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, the Civic Administration BE AUTHORIZED to accept and process Zoning By-law Amendment and Official Plan Amendment applications by Chinmaya Mission (Canada), for the property located at 2156 Highbury Avenue North, to add a Neighbourhood Facility zone to the subject property in order to permit...
 
@@ -951,7 +951,7 @@ Unanimous (5-0)
 
 ### 3.2. Delegation - C. Linton, Developro - Capital Works Claim - Riverbend Meadows Phase 3 (33M-654)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the request for additional payment on the Capital Works Budget claim under 33M-654 Riverbend Meadows Phase 3 BE DISMISSED and no further action BE TAKEN as the original claim amount has been paid out in accordance with the Subdivi...
 
@@ -961,7 +961,7 @@ Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting - 391 South Street (Z-8803)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, with respect to the application by The Corporation of the City of London, relating to the property located at 391 South Street, the proposed by-law appended to the staff report dated August 13, 2018 as Appendix "A" B...
 
@@ -971,7 +971,7 @@ Unanimous (4-0)
 
 ### 3.5. Public Participation Meeting - 2427 Daisy Bend and 3025 Doyle (39CD-18509)
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of Sifton Properties Limited, relating to the lands located at 2427 Daisy Bend and 3025 Doyle Drive: a)            the Approval Authority BE ADVISED that the fol...
 
@@ -981,7 +981,7 @@ Unanimous (5-0)
 
 ### 3.6. Public Participation Meeting - 1146-1156 Byron Baseline Road (Z-8847)
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of 2186121 Ontario Inc., relating to the properties located at 1146-1156 Byron Baseline Road: a)            the Local Planning Appeal Tribunal BE ADVISED...
 
@@ -991,7 +991,7 @@ Unanimous (5-0)
 
 ### 4.1. 7th Report of the Trees and Forests Advisory Committee
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 7th Report of the Trees and Forests Advisory Committee from its meeting held on July 25, 2018: a)            the Civic Administration BE ADVISED of the following comments from the Trees and Forests Advisory Committee with respect to the Par...
 

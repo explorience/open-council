@@ -846,7 +846,7 @@ Passed
   1080 Westdel Bourne - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410)
 
-<a id="motion-1-4-0" class="motion-anchor"></a>
+<div id="motion-1-4-0" class="motion-anchor"></div>
 
 > Approve receipt of the communication   from R. Sifton, Sifton Properties Limited.
 
@@ -858,7 +858,7 @@ Unanimous (15-0)
   1080 Westdel Bourne - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410)
 
-<a id="motion-1-4-1" class="motion-anchor"></a>
+<div id="motion-1-4-1" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading   of Bill No. 52.
 
@@ -877,7 +877,7 @@ Unanimous (15-0)
   1080 Westdel Bourne - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410)
 
-<a id="motion-1-4-2" class="motion-anchor"></a>
+<div id="motion-1-4-2" class="motion-anchor"></div>
 
 > Approve an amendment to Bill 52 to   remove the h-5 zoning provision.
 
@@ -896,7 +896,7 @@ Unanimous (15-0)
   1080 Westdel Bourne - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410)
 
-<a id="motion-1-4-3" class="motion-anchor"></a>
+<div id="motion-1-4-3" class="motion-anchor"></div>
 
 > Approve Bill No. 52, as amended.
 
@@ -913,7 +913,7 @@ Unanimous (15-0)
   Stickling (Housing), Bonnie Quesnel (Persons with Disabilities) and Gary
   Brown (Environment).
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -931,7 +931,7 @@ Unanimous (15-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-v-0" class="motion-anchor"></a>
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -943,7 +943,7 @@ Unanimous (15-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SECOND MEETING HELD ON JANUARY 4, 2016
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Second Meeting   held on January 4, 2016.
 
@@ -955,7 +955,7 @@ Unanimous (15-0)
   Street/Canadian Pacific Railway Grade Separation Environmental Assessment
   Appointment of Consulting Engineer
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the Adelaide Street/Canadian   Pacific Railway (CPR) Grade Separation project:    a)         MMM   Group Limited BE APPOINTED Consulti...
 
@@ -966,7 +966,7 @@ Unanimous (15-0)
 ### 12. Request for
   Delegation
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > That consideration of the attached request   for delegation status BE DEFERRED to the next meeting of the Civic Works   Committee to allow staff sufficient time to attempt to resolve this matter in   the intervening period.
 

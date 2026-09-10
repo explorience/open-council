@@ -144,7 +144,7 @@ Motion Passed
 ### 3. City Budget 2015 -
   Recommendations (G. Macartney, CEO, London Chamber of Commerce)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -155,7 +155,7 @@ Unanimous (13-0)
 ### 4. City Budget 2015 -
   Capital Grant Funding (F. Coates, General Manager, Palace Theatre)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -166,7 +166,7 @@ Unanimous (11-0)
 ### 5. ADDED - 2015 Budget
   - Public Input
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 

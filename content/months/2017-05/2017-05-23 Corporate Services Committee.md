@@ -329,7 +329,7 @@ The Corporate Services Committee convened
 ### 2. STAFF REPORT -
   Declare Surplus - City-Owned Property - Abutting 3195 White Oak Road
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -341,7 +341,7 @@ Unanimous (5-0)
 ### 3. STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Hyde Park Road
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -353,7 +353,7 @@ Unanimous (5-0)
 ### 4. STAFF REPORT-
   Review of City of London Ward Boundaries
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -372,7 +372,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Asset Review: Class A - Vacant Land and Buildings
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -384,7 +384,7 @@ Unanimous (5-0)
 ### 6. STAFF REPORT -
   Canada 150 London - SesquiFest 2017 Update
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -396,7 +396,7 @@ Unanimous (5-0)
 ### 7. Appointments to the
   Accessibility Advisory Committee (Requires 2 Persons with a Disability)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -409,7 +409,7 @@ Unanimous (5-0)
   Craft Beer Garden - Request for Designation as a Municipally Significant
   Event
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

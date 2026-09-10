@@ -393,7 +393,7 @@ The meeting adjourned at 1:44 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.2 to 2.5, and 2.7 BE APPROVED.
 
@@ -403,7 +403,7 @@ Unanimous (5-0)
 
 ### 2.1. 2nd Report of the Cycling Advisory Committee
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That parts a) and b) BE APPROVED.
 
@@ -413,7 +413,7 @@ Unanimous (5-0)
 
 ### 2.1. 2nd Report of the Cycling Advisory Committee
 
-<a id="motion-2-1-2" class="motion-anchor"></a>
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > That parts c), d) and e) BE APPROVED.
 
@@ -423,7 +423,7 @@ Unanimous (5-0)
 
 ### 2.6. Dingman Creek Subwatershed: Stormwater Servicing Strategy for Stage 1 Lands - Municipal Class Environmental Assessment: Notice of Completion
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director of Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Dingman Creek Subwatershed: Stormwater Servicing Strategy Municipal Class Environmental Assessment: a)       the Dingman Creek Subwa...
 
@@ -433,7 +433,7 @@ Unanimous (5-0)
 
 ### 5.3. Tree Replacement Options
 
-<a id="motion-5-3-0" class="motion-anchor"></a>
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back to a future meeting of Civic Works Committee with respect to how options can be provided to residents in terms a choice of species on tree replacements following tree removals for the purpose of infrastructure renewal, which may include opt...
 

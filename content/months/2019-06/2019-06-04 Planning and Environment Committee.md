@@ -516,7 +516,7 @@ The meeting adjourned at 5:57 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 and 2.2, inclusive, BE APPROVED.
 
@@ -526,7 +526,7 @@ Unanimous (4-0)
 
 ### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 6th Report of the Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 6th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on May 16, 2019: a)            the Working Group comments appended to the 6th Report of the Environmental and Ecological Planning Advisory Com...
 
@@ -536,7 +536,7 @@ Unanimous (4-0)
 
 ### 3.4. Public Participation Meeting - Application - 3087 White Oak Road - 39T-18505 (Z-8980)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Whiterock Village Inc., relating to the property located at 3087 White Oak Road (legally described as Adams St PL 643 London; Reserve PL 643 London; PT LT 31 CON 2 ...
 
@@ -546,7 +546,7 @@ Unanimous (4-0)
 
 ### 4.1. M. Rivard, Stantec - Application - 123 Queens Avenue - Demolition Request Extension
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, the applicant BE ADVISED that pursuant to Section 42(4) of the Ontario Heritage Act, the Municipal Council approves the request for an extension until July 31, 2019, relating to the Demolition Permit application for the property located at 123 Queens Avenue to allow the Structural Engineeri...
 
@@ -556,7 +556,7 @@ Unanimous (3-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Managing Director, Planning and City Planner and the Managing Director, Development and Compliance Services & Chief Building Official BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 

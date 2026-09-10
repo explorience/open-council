@@ -331,7 +331,7 @@ The Strategic Priorities and Policy
   London Community Grants Program Innovation and Capital Funding Allocations
   (2017)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -342,7 +342,7 @@ Unanimous (11-0)
 ### 3. STAFF REPORT - 2017
   Budget Update Process and Format
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -353,7 +353,7 @@ Unanimous (13-0)
 ### 4. STAFF REPORT -
   Service Review Initiatives, Process and 2016 Update
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -364,7 +364,7 @@ Unanimous (13-0)
 ### 5. STAFF REPORT -
   London Health Sciences Centre South Street Campus Decommissioning
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -375,7 +375,7 @@ Unanimous (11-0)
 ### 6. STAFF REPORT -
   Information Report on Old Victoria Hospital Lands - Request for Proposal
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -386,7 +386,7 @@ Unanimous (11-0)
 ### 7. DELEGATION - Jen
   Pastorius, Manager, Old East Village Business Improvement Area
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -397,7 +397,7 @@ Unanimous (13-0)
 ### 8. COUNCIL MEMBER
   SUBMISSION - Middlesex-London Board of Health Vacancy
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -408,7 +408,7 @@ Unanimous (11-0)
 ### 9. ADDED - Temporary
   Appointment to Standing Committees
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -419,7 +419,7 @@ Unanimous (13-0)
 ### 9. ADDED - Temporary
   Appointment to Standing Committees
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion Passed
 

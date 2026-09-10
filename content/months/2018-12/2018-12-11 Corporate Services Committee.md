@@ -310,7 +310,7 @@ The meeting adjourned at 1:26 PM.
 
 ### 1.2. Election of Vice-Chair for the term ending November 30, 2019
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > That Councillor A. Kayabaga BE ELECTED Vice Chair of the Corporate Services Committee for the term ending November 30, 2019.
 
@@ -320,7 +320,7 @@ Unanimous (5-0)
 
 ### 2.2. Request for Proposal 18-41: Fiscal Agent Services
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to Request for Proposal, 18-41, Fiscal Agent Services:    a)      the proposals submitted by the following recommended proponents BE AC...
 
@@ -330,7 +330,7 @@ Unanimous (5-0)
 
 ### 2.3. Request for Funding - 2019 Juno Awards
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, $150,000 BE ALLOCATED from the Tourism Infrastructure Reserve Fund to partially fund the construction of temporary outdoor programming space surrounding Budweiser Gardens as outli...
 
@@ -340,7 +340,7 @@ Unanimous (5-0)
 
 ### 3.1. Not to be heard before 1:00 PM - Tax Adjustment Agenda
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the recommendations contained in the Tax Adjustment Agenda dated December 11, 2018 BE APPROVED; it being noted that J. Caranci made a verbal presentation to the Corporate Services Committee with respect to her application relating to the property at 7620 Longwoods Road, at the public hearing...
 
@@ -350,7 +350,7 @@ Unanimous (5-0)
 
 ### 3.1. Not to be heard before 1:00 PM - Tax Adjustment Agenda
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > Motion to open the meeting to the public for comment.
 
@@ -360,7 +360,7 @@ Unanimous (5-0)
 
 ### 3.1. Not to be heard before 1:00 PM - Tax Adjustment Agenda
 
-<a id="motion-3-1-2" class="motion-anchor"></a>
+<div id="motion-3-1-2" class="motion-anchor"></div>
 
 > Motion to close the meeting to public comment.
 
@@ -370,7 +370,7 @@ Unanimous (5-0)
 
 ### 4.1. Request for Items to be Referred to the Governance Working Group
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following matters BE REFERRED to the Governance Working Group for consideration, as contained in the submission dated November 30, 2018, from Councillor M. van Holst: a)      Council expense restrictions; and b)      Council policy for debate at standing committee meetings.
 

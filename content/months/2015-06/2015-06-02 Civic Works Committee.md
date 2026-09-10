@@ -411,7 +411,7 @@ That the Civic Administration BE DIRECTED
 ### 2. 2nd Report of the
   LTC Long Term Growth Report Working Group
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -422,7 +422,7 @@ Unanimous (4-0)
 ### 2. 2nd Report of the
   LTC Long Term Growth Report Working Group
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -433,7 +433,7 @@ Unanimous (4-0)
 ### 4. London ON Bikes
   Cycling Master Plan Status Report
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -444,7 +444,7 @@ Unanimous (4-0)
 ### 4. London ON Bikes
   Cycling Master Plan Status Report
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -455,7 +455,7 @@ Unanimous (4-0)
 ### 4. London ON Bikes
   Cycling Master Plan Status Report
 
-<a id="motion-4-2" class="motion-anchor"></a>
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -466,7 +466,7 @@ Unanimous (4-0)
 ### 4. London ON Bikes
   Cycling Master Plan Status Report
 
-<a id="motion-4-3" class="motion-anchor"></a>
+<div id="motion-4-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -477,7 +477,7 @@ Unanimous (4-0)
 ### 9. Local Improvement
   Initiation - Eastgate Crescent
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -488,7 +488,7 @@ Unanimous (4-0)
 ### 12. (ADDED) Deferred
   Matters List
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -499,7 +499,7 @@ Unanimous (4-0)
 ### 12. (ADDED) Deferred
   Matters List
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion Passed
 

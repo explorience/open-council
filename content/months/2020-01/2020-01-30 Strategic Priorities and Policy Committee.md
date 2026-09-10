@@ -854,7 +854,7 @@ The Strategic Priorities and Policy Committee recessed at 4:28 PM; it being note
 
 ### 3.1. Introductory Presentation
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That an extended recess from 10:45 AM to 1:00 PM, BE APPROVED for the January 30, 2020 meeting; it being noted that there is a funeral scheduled for a former Member of Council during that time.
 
@@ -871,7 +871,7 @@ The Strategic Priorities and Policy Committee recessed at 4:28 PM; it being note
 
 ### 4.1. Culture
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > a) the net 2020-2023 Multi-Year Operating Budget for the following services within Culture BE ADOPTED: i. Page 60 - Centennial Hall - $764,000  ii. Page 60 - Arts, Culture and Heritage Advisory and Funding - $9,869,000    v. Page 60 - Eldon House - $1,206,000  vi. Page 60 - Heritage - $844,000  v...
 
@@ -881,7 +881,7 @@ Unanimous (15-0)
 
 ### 4.1. Culture
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > a)  the net 2020-2023 Multi-Year Operating Budget for the following service within Culture BE ADOPTED: iii. Page 60 - Museum London excluding provincial impacts - $7,499,000
 
@@ -891,7 +891,7 @@ Unanimous (15-0)
 
 ### 4.1. Culture
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > a)  the net 2020-2023 Multi-Year Operating Budget for the following service within Culture BE ADOPTED: iv. Page 60 - Museum London provincial impacts for consideration - $54,000
 
@@ -908,7 +908,7 @@ Unanimous (15-0)
 
 ### 4.1. Culture
 
-<a id="motion-4-1-4" class="motion-anchor"></a>
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > b) the 2020-2023 Multi-Year Capital Budget for Culture BE ADOPTED:    i. Page 62 – Lifecycle Renewal Capital Budget - $7,984,000  ii. Page 62 – Growth Capital Budget - $6,186,000  iii. Page 62 – Service Improvement Capital Budget - $0
 
@@ -918,7 +918,7 @@ Unanimous (15-0)
 
 ### 4.1. Culture
 
-<a id="motion-4-1-5" class="motion-anchor"></a>
+<div id="motion-4-1-5" class="motion-anchor"></div>
 
 > c) the 2024-2029 Multi-Year Capital Forecast for Culture BE ADOPTED in principle:    i. Page 62 – Lifecycle Renewal Capital Forecast - $15,331,000  ii. Page 62 – Growth Capital Forecast - $0  iii. Page 62 – Service Improvement Capital Forecast - $0.
 
@@ -928,7 +928,7 @@ Unanimous (15-0)
 
 ### 4.1. Culture
 
-<a id="motion-4-1-6" class="motion-anchor"></a>
+<div id="motion-4-1-6" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year business cases for potential levy reductions BE CONSIDERED at this time: ii. Business Case 27 - London Public Library - Eliminate Planned Security Enhancements - 2020-2023 Total Investments ($107,000); Net Levy ($107,000) iii. Business Case 28 - London Publ...
 
@@ -945,7 +945,7 @@ Unanimous (15-0)
 
 ### 4.2. Economic Prosperity
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the annual base allocation to the Operating Budget of Tourism London, including in part 4.2 a)iv) BE REDUCED by $200,000.
 
@@ -964,7 +964,7 @@ Unanimous (15-0)
 
 ### 4.2. Economic Prosperity
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to Economic Prosperity:    a) the net 2020-2023 Multi-Year Operating Budget for the following services within Economic Prosperity BE ADOPTED:    i. Page 71 - Economic Development - $29,792,000  ii. Page 71 - Community Improvement/Business Improveme...
 
@@ -974,7 +974,7 @@ Unanimous (13-0)
 
 ### 4.2. Economic Prosperity
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > a)  the net 2020-2023 Multi-Year Operating Budget for the following service within Economic Prosperity BE ADOPTED: iv. Page 71 - Tourism & Sports Attraction - $8,254,000
 
@@ -993,7 +993,7 @@ Unanimous (13-0)
 
 ### 4.2. Economic Prosperity
 
-<a id="motion-4-2-4" class="motion-anchor"></a>
+<div id="motion-4-2-4" class="motion-anchor"></div>
 
 > b) the 2020-2023 Multi-Year Capital Budget for Economic Prosperity BE ADOPTED:    i. Page 72 – Lifecycle Renewal Capital Budget - $3,565,000  ii. Page 72 – Growth Capital Budget - $5,150,000  iii. Page 72 – Service Improvement Capital Budget - $23,467,000
 
@@ -1003,7 +1003,7 @@ Unanimous (14-0)
 
 ### 4.2. Economic Prosperity
 
-<a id="motion-4-2-5" class="motion-anchor"></a>
+<div id="motion-4-2-5" class="motion-anchor"></div>
 
 > c) the 2024-2029 Multi-Year Capital Forecast for Economic Prosperity BE ADOPTED in principle: i. Page 72 – Lifecycle Renewal Capital Forecast - $5,092,000  ii. Page 72 – Growth Capital Forecast - $0  iii. Page 72 – Service Improvement Capital Forecast - $32,995,000
 
@@ -1013,7 +1013,7 @@ Unanimous (14-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-1" class="motion-anchor"></a>
+<div id="motion-4-11-1" class="motion-anchor"></div>
 
 > That the following BE APPROVED: ii. Business Case 27 - London Public Library - Eliminate Planned Security Enhancements – 2020-2023 Total Investment ($107,000); Net Levy ($107,000)
 
@@ -1030,7 +1030,7 @@ Unanimous (14-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-2" class="motion-anchor"></a>
+<div id="motion-4-11-2" class="motion-anchor"></div>
 
 > That the following BE APPROVED: iii. Business Case 28 - London Public Library - Eliminate Planned Staffing Increase – 2020-2023 Total Investment ($42,000); Net Levy ($42,000)
 
@@ -1047,7 +1047,7 @@ Unanimous (14-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-3" class="motion-anchor"></a>
+<div id="motion-4-11-3" class="motion-anchor"></div>
 
 > That the following BE APPROVED: iv. Business Case 29 - London Public Library – Promissory Note Forgiveness - 2020- 2023 Total Investment ($912,000); Net Levy ($717,000)
 
@@ -1066,7 +1066,7 @@ Unanimous (14-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-4" class="motion-anchor"></a>
+<div id="motion-4-11-4" class="motion-anchor"></div>
 
 > That the following BE APPROVED: v. Business Case 30 - London Public Library - Wi-Fi Hotspot Lending Program – 2020-2023 Total Investment ($188,000); Net Levy ($188,000)
 
@@ -1083,7 +1083,7 @@ Unanimous (14-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-5" class="motion-anchor"></a>
+<div id="motion-4-11-5" class="motion-anchor"></div>
 
 > Pursuant to section 32.5 of the Council Procedural By-law, shall the ruling of the Chair BE SUSTAINED?
 
@@ -1100,7 +1100,7 @@ Unanimous (14-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-6" class="motion-anchor"></a>
+<div id="motion-4-11-6" class="motion-anchor"></div>
 
 > Reconsideration of the vote with respect to the upholding the decision of the Chair.
 
@@ -1117,7 +1117,7 @@ Unanimous (14-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-7" class="motion-anchor"></a>
+<div id="motion-4-11-7" class="motion-anchor"></div>
 
 > Pursuant to section 32.5 of the Council Procedural By-law, shall the ruling of the Chair BE SUSTAINED?
 
@@ -1134,7 +1134,7 @@ Unanimous (14-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-8" class="motion-anchor"></a>
+<div id="motion-4-11-8" class="motion-anchor"></div>
 
 > Pursuant to section 31.18 Disorderly conduct - member to be removed - "Shall the member be ordered to leave his/her seat for the duration of the meeting?"
 
@@ -1151,7 +1151,7 @@ Unanimous (14-0)
 
 ### 4.11. Business Cases for Potential Net Levy Reductions
 
-<a id="motion-4-11-9" class="motion-anchor"></a>
+<div id="motion-4-11-9" class="motion-anchor"></div>
 
 > That the following BE APPROVED: vii. Business Case 32 - Museum London - Exhibitions and Programs Reductions - 2020-2023 Total revised Investment ($182,000); Net Levy ($182,000)
 
@@ -1170,7 +1170,7 @@ Unanimous (14-0)
 
 ### 6. Confidential
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > That the Strategic Priorities and Policy Committee convene, In Closed Session, at this time in order to receive advice that is subject to solicit client privilege.
 

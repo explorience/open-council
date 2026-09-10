@@ -450,7 +450,7 @@ The meeting adjourned at 1:17 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.6 and 2.7, BE APPROVED.
 
@@ -460,7 +460,7 @@ Unanimous (4-0)
 
 ### 2.4. Vehicle for Hire By-law  - Industry Consultation
 
-<a id="motion-2-4-1" class="motion-anchor"></a>
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > Motion to approve a public participation meeting with respect to the Vehicle for Hire By-law.
 
@@ -479,7 +479,7 @@ Unanimous (4-0)
 
 ### 3.1. By-law Amendments to the Sound By-law, PW-12 and to the Public Nuisance By-law, PH-18, Public Messaging in the Community - Nuisances
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the following actions be taken to amend various City of London by-law: a)            the proposed by-law, appended to the staff report July 16, 2018, BE INTRODUCED at the Municip...
 
@@ -489,7 +489,7 @@ Unanimous (4-0)
 
 ### 4.1. Neighbourhood Equipment Access
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED to review the Neighbourhood Event Equipment Lending Program and report back to the Community and Protective Services Committee with respect to adding church groups to the list of organizations available to request use of City of London equipment to host ...
 
@@ -499,7 +499,7 @@ Unanimous (5-0)
 
 ### 5.1. Middlesex-London Health Unit Office Space Fit-up Funding Request - RESUBMITTED
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to negotiate terms of financing with the Middlesex-London Health Unit (MLHU) for the fit-up costs of MLHU’s new office space, and that an appropriate agreement outlining the terms of the financing be brought forward for Municipal Council’s consideration.
 
@@ -509,7 +509,7 @@ Unanimous (5-0)
 
 ### 5.2. Municipal Council Resolution regarding the 5th Report of Accessibility Advisory Committee
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to review the “Green Standards for Light Pollution and Bird-Friendly Development” document from the Environmental and Ecological Planning Advisory Committee and report back to a future meeting of the Accessibility Advisory Committee with respect to how th...
 
@@ -519,7 +519,7 @@ Unanimous (4-0)
 
 ### 5.4. (ADDED) Request from City of Toronto regarding Shelter Spaces for Refugee/Asylum Claimants
 
-<a id="motion-5-4-0" class="motion-anchor"></a>
+<div id="motion-5-4-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to share the communication, dated June 29, 2018, from G. Carbone, Interim City Manager, City of Toronto, with respect to a request regarding shelter spaces for refugee/asylum claimants, with other communities and community organizations in order to acquir...
 

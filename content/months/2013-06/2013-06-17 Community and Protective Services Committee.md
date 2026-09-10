@@ -724,7 +724,7 @@ Motion
   - The Optimist Club of Fanshawe, London Constitution Park - Children and
   Youth Facilities
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -736,7 +736,7 @@ Unanimous (6-0)
 ### 5. “in motiontm”-
   Community Challenge
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -749,7 +749,7 @@ Unanimous (6-0)
   Housing, Social Services and Dearness Home - Purchase of Service Agreement -
   Addiction Services of Thames Valley to Deliver Addiction Services
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -760,7 +760,7 @@ Unanimous (6-0)
 
 ### 13. Taxi Update
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -772,7 +772,7 @@ Unanimous (4-0)
 ### 14. Residential Rental
   Units Licensing Fees - Second Public Participation Meeting
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -791,7 +791,7 @@ Unanimous (4-0)
 ### 15. 4th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -803,7 +803,7 @@ Unanimous (5-0)
 ### 16. 5th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -815,7 +815,7 @@ Unanimous (5-0)
 ### 17. School Crossing
   Guard Program Implementation Single Source
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -834,7 +834,7 @@ Unanimous (5-0)
 ### 18. Parks and
   Recreation Area By-law PR-2 Amendments
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -846,7 +846,7 @@ Unanimous (5-0)
 ### 19. Changes to Existing By-laws for Fostering
   Animals
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -858,7 +858,7 @@ Unanimous (5-0)
 ### 20. 3rd Report of the
   Council Housing Leadership Committee
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

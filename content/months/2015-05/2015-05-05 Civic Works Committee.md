@@ -561,7 +561,7 @@ The
 ### 2. 5th Report of the
   Cycling Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -573,7 +573,7 @@ Unanimous (4-0)
 ### 3. South Street and
   Grey Street Two Way Conversion
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -585,7 +585,7 @@ Unanimous (4-0)
 ### 4. Supervisory Control
   and Data Acquisition (SCADA) System Integration Services
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -597,7 +597,7 @@ Unanimous (4-0)
 ### 5. Pilot Project to
   Resolve Surface Icing Resulting from Sump Pump Discharge
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -611,7 +611,7 @@ Unanimous (4-0)
   Services Associated with the Construction of 2015 Infrastructure Renewal
   Projects: Bruce and Brighton Reconstruction and Wellington Reconstruction
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -623,7 +623,7 @@ Unanimous (4-0)
 ### 7. Appointment of
   Consulting Engineer Horton Sanitary Sewer Upgrades
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -635,7 +635,7 @@ Unanimous (4-0)
 ### 8. Update Water
   Service Area Financial Plan
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -647,7 +647,7 @@ Unanimous (4-0)
 ### 9. Greenbrier Crescent
   Emergency Sanitary Sewer Repair
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -660,7 +660,7 @@ Unanimous (4-0)
   Servicing and Tributary Works for the North Lambeth P9 Stormwater Management
   Facility Municipal Class Environmental Study
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -673,7 +673,7 @@ Unanimous (4-0)
   B-4 Stormwater Management Facility and Tributary Channel
   Improvement/Modification Municipal Class Environmental Study
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -685,7 +685,7 @@ Unanimous (4-0)
 ### 12. Update on Results
   of Sherwood Forest Weeping Tile Disconnect Pilot Project
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -697,7 +697,7 @@ Unanimous (4-0)
 ### 13. Community Energy
   Action Program - Update and Status
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -709,7 +709,7 @@ Unanimous (4-0)
 ### 14. 2014 Community
   Energy and Greenhouse Gas Inventory: Challenges and Opportunities
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -721,7 +721,7 @@ Unanimous (4-0)
 ### 15. Active and Green
   Communities Engagement Strategy
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -734,7 +734,7 @@ Unanimous (4-0)
   Talbot Road/Highway 4 Interchange Reconstruction Ministry of Transportation
   Class Environmental Assessment Addendum
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

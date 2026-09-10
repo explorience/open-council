@@ -125,7 +125,7 @@ We'll take that under consideration.
 
 ### 4.1. 2024 Debenture Issuance Update
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:    a)    the issuance of serial debentures for a total of $30,000,000 BE APPROVED, noting the average all-in rate is 4.427% over a 10-year term and that all debt has been placed with investor...
 

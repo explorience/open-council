@@ -649,7 +649,7 @@ The meeting adjourned at 3:04 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.4 to 2.7, 2.9, 2.12 and 2.13 BE APPROVED.
 
@@ -659,7 +659,7 @@ Unanimous (5-0)
 
 ### 2.3. Wharncliffe Road South Improvements: 100 Stanley Street Update
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the staff report dated March 2, 2021, with respect to the Wharncliffe Road South Improvements project and the heritage dwelling located at 100 Stanley Street BE RECEIVED; it being noted...
 
@@ -678,7 +678,7 @@ Unanimous (5-0)
 
 ### 2.3. Wharncliffe Road South Improvements: 100 Stanley Street Update
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > Motion to approve that the Civic Administration take the necessary actions to submit an amendment to the Environmental Assessment for item 2.3 Wharncliffe Road South improvements: 100 Stanley Street Update, to permit the demolition of the residence at 100 Stanley Street and any other necessary ad...
 
@@ -697,7 +697,7 @@ Unanimous (5-0)
 
 ### 2.8. Dundas Place - Temporary Bicycle Lanes and Revised Parking Limits
 
-<a id="motion-2-8-1" class="motion-anchor"></a>
+<div id="motion-2-8-1" class="motion-anchor"></div>
 
 > Motion to approve parts a) and c) of the clause.
 
@@ -707,7 +707,7 @@ Unanimous (6-0)
 
 ### 2.8. Dundas Place - Temporary Bicycle Lanes and Revised Parking Limits
 
-<a id="motion-2-8-2" class="motion-anchor"></a>
+<div id="motion-2-8-2" class="motion-anchor"></div>
 
 > Motion to approve part b) of the clause.
 
@@ -724,7 +724,7 @@ Unanimous (6-0)
 
 ### 2.8. Dundas Place - Temporary Bicycle Lanes and Revised Parking Limits
 
-<a id="motion-2-8-3" class="motion-anchor"></a>
+<div id="motion-2-8-3" class="motion-anchor"></div>
 
 > Motion to approve part d) of the clause.
 
@@ -741,7 +741,7 @@ Unanimous (6-0)
 
 ### 2.10. Community Employment Benefits
 
-<a id="motion-2-10-1" class="motion-anchor"></a>
+<div id="motion-2-10-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation requests from S. Middleton and M. Courey, to be heard at this time.
 

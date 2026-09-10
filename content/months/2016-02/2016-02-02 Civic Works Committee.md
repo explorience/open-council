@@ -711,7 +711,7 @@ The
   Project, Braesyde and Dengate Infrastructure Replacement Repeal By-Law 3316
   and Removal of Easement
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -723,7 +723,7 @@ Unanimous (6-0)
 ### 3. Initiation Report:
   Core Area Servicing Studies
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -736,7 +736,7 @@ Unanimous (5-0)
   Agreement Amendment with London Hydro for Water Meter Reading and Water and
   Sewer Billing
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -749,7 +749,7 @@ Unanimous (5-0)
   Generation from Waste Heat at the Greenway Wastewater Treatment Plant -
   Update
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -761,7 +761,7 @@ Unanimous (6-0)
 ### 6. 2015 Drinking Water
   Annual Report and Summary Report for the City of London Distribution System
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -774,7 +774,7 @@ Unanimous (6-0)
   the Environment and Climate Change Inspection Report for the City of London
   Water Distribution System
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -785,7 +785,7 @@ Unanimous (6-0)
 
 ### 8. Locate Services
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -797,7 +797,7 @@ Unanimous (6-0)
 ### 9. West London Dyke
   Master Repair Plan Municipal Class Environmental Assessment Study
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -809,7 +809,7 @@ Unanimous (5-0)
 ### 10. Blackfriars Bridge
   Environmental Study Report
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -821,7 +821,7 @@ Unanimous (5-0)
 ### 11. London ON Bikes
   Cycling Master Plan Status Report
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -833,7 +833,7 @@ Unanimous (6-0)
 ### 12. Field Marshal
   Wolseley Bridge (Quebec Street) Pedestrian Safety
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -846,7 +846,7 @@ Unanimous (5-0)
   Tender No. 15-101, Sarnia Road Improvements, Wonderland Road North to
   Sleightholme Avenue
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -859,7 +859,7 @@ Unanimous (6-0)
   Environmental Bill of Rights Registry - Proposed Waste Free Ontario Act and
   Draft Strategy for a Waste Free Ontario: Building the Circular Economy
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -871,7 +871,7 @@ Unanimous (5-0)
 ### 15. Update - Interim
   Waste Diversion Plan (2014-2015) and Additions for 2016
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -883,7 +883,7 @@ Unanimous (5-0)
 ### 16. Free Parking in
   December Update
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -895,7 +895,7 @@ Unanimous (6-0)
 ### 17. 1st and 2nd Reports
   of the Cycling Advisory Committee
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -907,7 +907,7 @@ Unanimous (6-0)
 ### 18. Donation of Two
   Surplus Parking Meters for Fundraising Purposes
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -918,7 +918,7 @@ Unanimous (6-0)
 
 ### 19. Springbank Dam
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -936,7 +936,7 @@ Unanimous (6-0)
 
 ### 19. Springbank Dam
 
-<a id="motion-19-1" class="motion-anchor"></a>
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -948,7 +948,7 @@ Unanimous (5-0)
 ### 20. Deferred Matters
   List
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -1158,7 +1158,7 @@ The
 ### 2. 8th Report of the
   Advisory Committee in the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1170,7 +1170,7 @@ Unanimous (6-0)
 ### 3. Property located at
   1140 Southdale Road West (H-8220)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1182,7 +1182,7 @@ Unanimous (6-0)
 ### 4. Properties located
   at 3189, 3197 Jinnes Street and 3397 Jinnies Way (H-8214)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1194,7 +1194,7 @@ Unanimous (6-0)
 ### 5. Property located on
   the North Side of North Routledge Park West of Hyde Park Road (39T-78066)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1206,7 +1206,7 @@ Unanimous (6-0)
 ### 6. Properties located
   at 1311, 1363 and 1451 Wharncliffe Road South
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1219,7 +1219,7 @@ Unanimous (6-0)
   at 3313-3405 Wonderland Road South and 1789 Wharncliffe Road South
   (OZ-7072/OZ-7073)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1231,7 +1231,7 @@ Unanimous (6-0)
 ### 8. Environmental
   Review Lands Study
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1243,7 +1243,7 @@ Unanimous (6-0)
 ### 9. Properties located
   at 611-619 Oxford Street East (O-8213)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1262,7 +1262,7 @@ Unanimous (6-0)
 ### 10. Property located at
   699 Wonderland Road North (Z-8210)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1281,7 +1281,7 @@ Unanimous (6-0)
 ### 11. Property located at
   2290 Torrey Pines Way (39CD-13510)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1293,7 +1293,7 @@ Unanimous (5-0)
 ### 12. Property located at
   1103 Adelaide Street North
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1305,7 +1305,7 @@ Unanimous (6-0)
 ### 13. 9th Report of the
   London Advisory Committee on Heritage and property located at 275 Thames Street
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1317,7 +1317,7 @@ Unanimous (6-0)
 ### 14. Properties located
   at 2250 Blackwater Road and 660 and 670 Garibaldi Avenue (Z-8190)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1336,7 +1336,7 @@ Unanimous (6-0)
 ### 15. Stoney Creek Open
   Space System
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -1413,7 +1413,7 @@ The meeting adjourned at 8:25 PM.
 ### 2. Property located at
   510 Central Avenue (H-8460)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1430,7 +1430,7 @@ The meeting adjourned at 8:25 PM.
 ### 3. Property located at
   895 Fanshawe Park Road West (H-8842)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1447,7 +1447,7 @@ The meeting adjourned at 8:25 PM.
 ### 4. Property located at
   3040 Pomeroy Lane (H-8863)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1464,7 +1464,7 @@ The meeting adjourned at 8:25 PM.
 ### 5. Property located at
   1080 Westdel Bourne (H-8840)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1481,7 +1481,7 @@ The meeting adjourned at 8:25 PM.
 ### 6. Building Division
   Monthly Report for November 2017
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1498,7 +1498,7 @@ The meeting adjourned at 8:25 PM.
 ### 7. Proposed
   Regulations Promoting Affordable Housing Act 2016 (Inclusionary Zoning)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1515,7 +1515,7 @@ The meeting adjourned at 8:25 PM.
 ### 8. Property located at
   3 Glenroy Road (Z-8833)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1532,7 +1532,7 @@ The meeting adjourned at 8:25 PM.
 ### 8. Property located at
   3 Glenroy Road (Z-8833)
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1549,7 +1549,7 @@ The meeting adjourned at 8:25 PM.
 ### 8. Property located at
   3 Glenroy Road (Z-8833)
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1567,7 +1567,7 @@ The meeting adjourned at 8:25 PM.
   660 Sunningdale Road East - Applewood Subdivision 
   (39T-09501/Z-8818)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1585,7 +1585,7 @@ The meeting adjourned at 8:25 PM.
   660 Sunningdale Road East - Applewood Subdivision 
   (39T-09501/Z-8818)
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1603,7 +1603,7 @@ The meeting adjourned at 8:25 PM.
   660 Sunningdale Road East - Applewood Subdivision 
   (39T-09501/Z-8818)
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1620,7 +1620,7 @@ The meeting adjourned at 8:25 PM.
 ### 10. Properties located
   at 940 and 956 Wharncliffe Road South (Z-8813)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1637,7 +1637,7 @@ The meeting adjourned at 8:25 PM.
 ### 10. Properties located
   at 940 and 956 Wharncliffe Road South (Z-8813)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1654,7 +1654,7 @@ The meeting adjourned at 8:25 PM.
 ### 10. Properties located
   at 940 and 956 Wharncliffe Road South (Z-8813)
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1671,7 +1671,7 @@ The meeting adjourned at 8:25 PM.
 ### 11. Properties located
   at 1090, 1092 and 1096 Hamilton Road (Z-8827)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1688,7 +1688,7 @@ The meeting adjourned at 8:25 PM.
 ### 11. Properties located
   at 1090, 1092 and 1096 Hamilton Road (Z-8827)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1705,7 +1705,7 @@ The meeting adjourned at 8:25 PM.
 ### 11. Properties located
   at 1090, 1092 and 1096 Hamilton Road (Z-8827)
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1722,7 +1722,7 @@ The meeting adjourned at 8:25 PM.
 ### 12. 2nd Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1740,7 +1740,7 @@ The meeting adjourned at 8:25 PM.
   at 467-469 Dufferin Avenue, East Woodfield Heritage Conservation District -
   Request for Demolition
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1758,7 +1758,7 @@ The meeting adjourned at 8:25 PM.
   at 467-469 Dufferin Avenue, East Woodfield Heritage Conservation District -
   Request for Demolition
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1776,7 +1776,7 @@ The meeting adjourned at 8:25 PM.
   at 467-469 Dufferin Avenue, East Woodfield Heritage Conservation District -
   Request for Demolition
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1794,7 +1794,7 @@ The meeting adjourned at 8:25 PM.
   Supervised Consumption Facilities and Temporary Overdose Prevention Sites
   (OZ-8852)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1812,7 +1812,7 @@ The meeting adjourned at 8:25 PM.
   Supervised Consumption Facilities and Temporary Overdose Prevention Sites
   (OZ-8852)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1829,7 +1829,7 @@ The meeting adjourned at 8:25 PM.
 ### 15. 2nd Report of the
   Advisory Committee on the Environment
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1846,7 +1846,7 @@ The meeting adjourned at 8:25 PM.
 ### 16. Brownfield CIP
   Incentives – Properties located at 32, 36 and 40 York Street
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1863,7 +1863,7 @@ The meeting adjourned at 8:25 PM.
 ### 17. Deferred Matters
   List
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1880,7 +1880,7 @@ The meeting adjourned at 8:25 PM.
 ### 18. (ADDED) 1st Report
   of the Agricultural Advisory Committee
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

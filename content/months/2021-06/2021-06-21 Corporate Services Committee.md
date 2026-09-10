@@ -241,7 +241,7 @@ The meeting adjourned at 1:33 PM.
 
 ### 4.1. Application – Issuance of Proclamation – World Patient Safety Day
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That based on the application dated June 10, 2021 from Patient for Patient Safety Canada, September 17, 2021 BE PROCLAIMED as World Patient Safety Day.
 
@@ -251,7 +251,7 @@ Unanimous (5-0)
 
 ### 4.2. Standing Committee Membership – Federation of Canadian Municipalities
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Federation of Canadian Municipalities (FCM) Standing Committee(s):    a)      Councillor M. Cassidy BE ENDORSED to serve on FCM Standing Committees, for the 2021/2022 term; and,    b)      subject to Councillor M. Cassidy's successful applic...
 

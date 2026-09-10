@@ -312,7 +312,7 @@ The meeting adjourned at 6:02 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5, inclusive, BE APPROVED.
 
@@ -322,7 +322,7 @@ Unanimous (5-0)
 
 ### 3.2. Public Participation Meeting - Application - 1039, 1041, 1043, 1045 and 1047 Dundas Street (Z-8862)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of London Affordable Housing Foundation, relating to the property located at 1039, 1041, 1043, 1045, 1047 Dundas Street: a)            the proposed by-la...
 

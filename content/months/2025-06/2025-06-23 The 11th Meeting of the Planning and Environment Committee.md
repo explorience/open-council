@@ -610,7 +610,7 @@ So I'll move to her, Lewis seconded by Councillor Cutty and we'll have a hand vo
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 and 2.2 BE APPROVED.
 
@@ -620,7 +620,7 @@ Unanimous (6-0)
 
 ### 3.2. 2026 Growth Management Implementation Strategy (GMIS) Update
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth regarding the implementation of The London Plan growth management policies applicable to the financing of growth-related infrastructure works, the following actions be taken: a)    the 2026 Growth Management Impl...
 
@@ -630,7 +630,7 @@ Unanimous (6-0)
 
 ### 3.4. 3680 & 3700 Colonel Talbot Road (OZ-25013)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of MHBC Planning Ltd. relating to the property located at 3680 and 3700 Colonel Talbot Road: a)    the proposed by-law as appended to the staff report dated June 2...
 
@@ -640,7 +640,7 @@ Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the June Deferred Matters List, BE APPROVED.
 

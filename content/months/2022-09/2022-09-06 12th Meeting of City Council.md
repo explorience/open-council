@@ -2604,7 +2604,7 @@ Can I see who would like to depart from this meeting? I'm curious. This meeting 
 
 ### 8.1. 12th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding item 2.2.
 
@@ -2614,7 +2614,7 @@ Unanimous (15-0)
 
 ### 8.1.3. (2.2) Municipal Accommodation Tax - Amended By-law to Include Short-Term Accommodations (Relates to Bill No. 339)
 
-<a id="motion-8-1-3-0" class="motion-anchor"></a>
+<div id="motion-8-1-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated August 30, 2022 as Appendix ‘A’, BE INTRODUCED at the Municipal Council meeting on September 6, 2022, with respect to the by-law entitled “A By-law to Impose a Munic...
 
@@ -2624,7 +2624,7 @@ Unanimous (14-0)
 
 ### 8.2. 12th Report of the Corporate Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 12th Report of the Corporate Services Committee BE APPROVED.
 
@@ -2634,7 +2634,7 @@ Unanimous (15-0)
 
 ### 8.3. 11th Report of the Civic Works Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 11th Report of the Civic Works Committee BE APPROVED.
 
@@ -2644,7 +2644,7 @@ Unanimous (15-0)
 
 ### 8.4. 14th Report of the Planning and Environment Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Planning and Environment Committee BE APPROVED, excluding items 7, 13, 14, 16 and 17.
 
@@ -2654,7 +2654,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (3.2) 3700 Colonel Talbot Road and 3645 Bostwick Road (Z-9521) (Relates to Bill No. 347)
 
-<a id="motion-8-4-7-0" class="motion-anchor"></a>
+<div id="motion-8-4-7-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the application by MHBC Planning (Scott Allen, Partner), relating to lands located at 3700 Colonel Talbot Road and 3645 Bostwick Road: a)    the proposed revised, attached, by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to ...
 
@@ -2664,7 +2664,7 @@ Unanimous (15-0)
 
 ### 8.4.13. (3.8) 712 Baseline Road East (Z-9474) (Relates to Bill No. 351)
 
-<a id="motion-8-4-13-0" class="motion-anchor"></a>
+<div id="motion-8-4-13-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Wellington Gate Inc., c/o Westdell Development Corporation, relating to the property located at 712 Base Line Road East: a)    the proposed by-law appended to t...
 
@@ -2674,7 +2674,7 @@ Unanimous (15-0)
 
 ### 8.4.14. (3.9) 1737 Richmond Street (Z-9470) (Relates to Bill No. 352)
 
-<a id="motion-8-4-14-1" class="motion-anchor"></a>
+<div id="motion-8-4-14-1" class="motion-anchor"></div>
 
 > That clause 3.9 BE AMENDED to read as follows: "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Richmond Hyland Inc., c/o Westdell Development Corporation, relating to the property located at 1737 Richmond St...
 
@@ -2684,7 +2684,7 @@ Unanimous (15-0)
 
 ### 8.4.14. (3.9) 1737 Richmond Street (Z-9470) (Relates to Bill No. 352)
 
-<a id="motion-8-4-14-2" class="motion-anchor"></a>
+<div id="motion-8-4-14-2" class="motion-anchor"></div>
 
 > That Item 14, clause 3.9, as amended, BE APPROVED.
 
@@ -2694,7 +2694,7 @@ Unanimous (15-0)
 
 ### 8.4.16. (4.1) 183 and 197 Ann Street - Proposed Designation By-laws Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objections (Relates to Bill No.'s 344 and 345)
 
-<a id="motion-8-4-16-0" class="motion-anchor"></a>
+<div id="motion-8-4-16-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, with respect to the designation of built resources located at municipal addresses 183 Ann Street and 197 Ann Street, located on the consolidated parcel legally described as – LOTS 4, 5,...
 
@@ -2711,7 +2711,7 @@ Unanimous (15-0)
 
 ### 8.4.17. (4.2) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264) (Relates to Bill No's. 342 and 354)
 
-<a id="motion-8-4-17-0" class="motion-anchor"></a>
+<div id="motion-8-4-17-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the application by Century Centre Development Inc., relating to the properties located at 1067, 1069 and 1071 Wellington Road: a)    the proposed, attached, by-laws BE INTRODUCED at the Municipal Council meeting to be held on September 6, 2022; ...
 
@@ -2728,7 +2728,7 @@ Unanimous (15-0)
 
 ### 8.5. 10th Report of the Community and Protective Services Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 10th Report of the Community and Protective Services Committee BE APPROVED, excluding items 7 (3.2) and 8 (5.1).
 
@@ -2738,7 +2738,7 @@ Unanimous (15-0)
 
 ### 8.5.7. (3.2) Adult Entertainment Body-Rub Parlour - Relocation Request (from 802 Exeter Road to 232 Dundas Street)
 
-<a id="motion-8-5-7-0" class="motion-anchor"></a>
+<div id="motion-8-5-7-0" class="motion-anchor"></div>
 
 > The following actions be taken with respect to the staff report dated August 23, 2022, related to an application made under the Business Licensing By-law L.-131-16 to substitute an existing Adult Entertainment Body-rub Parlour location at 802 Exeter Road to a proposed new location at 232 Dundas S...
 
@@ -2755,7 +2755,7 @@ Unanimous (15-0)
 
 ### 8.5.8. (5.1) Deferred Matters List
 
-<a id="motion-8-5-8-1" class="motion-anchor"></a>
+<div id="motion-8-5-8-1" class="motion-anchor"></div>
 
 > That item #1 of the Deferred Matters List, BE APPROVED.
 
@@ -2765,7 +2765,7 @@ Unanimous (14-0)
 
 ### 8.5.8. (5.1) Deferred Matters List
 
-<a id="motion-8-5-8-2" class="motion-anchor"></a>
+<div id="motion-8-5-8-2" class="motion-anchor"></div>
 
 > That the balance of the Deferred Matters List BE APPROVED.
 
@@ -2775,7 +2775,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of the Bill No.’s 342 and 354, BE APPROVED.
 
@@ -2792,7 +2792,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of the Bill No.’s 342 and 354, BE APPROVED.
 
@@ -2809,7 +2809,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of the Bill No.’s 342 and 354, BE APPROVED.
 

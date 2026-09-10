@@ -1646,7 +1646,7 @@ Passed
   Environmental and Engineering Services - Expropriation of Lands - Veterans
   Memorial Parkway South Extension - TS1325
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of   the Managing Director and City Engineer, Environmental and Engineering   Services, with the review and concurrence of the Director, Roads and   Transportation, on the advice of the Manager of Realty Services, with respect   to the expropriation of lands fo...
 
@@ -1658,7 +1658,7 @@ Unanimous (15-0)
   and City Engineer, Environmental and Engineering Services - Expropriation of
   Lands - Veterans Memorial Parkway South Extension - TS1325
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of   the Managing Director and City Engineer, Environmental and Engineering   Services, with the concurrence of the Director, Roads and Transportation, on   the advice of the Manager of Realty Services, with respect to the   expropriation of lands for the proje...
 
@@ -1670,7 +1670,7 @@ Unanimous (15-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-SIXTH MEETING AND THE FIRST MEETING
   HELD ON NOVEMBER 25, 2014 AND DECEMBER 1, 2014, RESPECTIVELY
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 26th   Meeting held on November 25, 2014 and of the 1st Meeting held on December 1,   2014.
 
@@ -1681,7 +1681,7 @@ Unanimous (15-0)
 ### VII. COMMUNICATIONS
   AND PETITIONS
 
-<a id="motion-vii-0" class="motion-anchor"></a>
+<div id="motion-vii-0" class="motion-anchor"></div>
 
 > Approve that Council convene as the   Approval Authority pursuant to the provisions of the Expropriation Act,   R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication   No. 1 from the Managing Director, Environmental and Engineering Services and   City Engineer, dealing wit...
 
@@ -1692,7 +1692,7 @@ Unanimous (15-0)
 ### 3. Proposed Smudging
   Ceremony
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > That the City Clerk BE REQUESTED to make   the necessary arrangements to invite representatives of our First Nations   community to attend the December 9, 2014 meeting of Municipal Council, or a   future meeting of Municipal Council, in order to acknowledge the importance   of our First Nations c...
 
@@ -1704,7 +1704,7 @@ Unanimous (15-0)
 ### 10. Argyle Business
     Improvement Association
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1716,7 +1716,7 @@ Unanimous (13-0)
     Appointment to the City of London and London District Catholic School Board
     Liaison Committee
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1728,7 +1728,7 @@ Unanimous (13-0)
     Appointment to the City of London and Thames Valley District School Board
     Liaison Committee
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1740,7 +1740,7 @@ Unanimous (13-0)
     Appointment to the City of London and Thames Valley District School Board
     Liaison Committee
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > The motion to appoint Marci Allen-Easton to   the London and Middlesex Housing Corporation Board of Directors for the term   December 1, 2014 to November 30, 2018 is put.
 
@@ -1759,7 +1759,7 @@ Unanimous (13-0)
     Appointment to the City of London and Thames Valley District School Board
     Liaison Committee
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > The motion to appoint Michael Buzzelli to   the London and Middlesex Housing Corporation Board of Directors is put.
 
@@ -1778,7 +1778,7 @@ Unanimous (13-0)
     Appointment to the City of London and Thames Valley District School Board
     Liaison Committee
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > The motion to appoint Roberta Clifford to   the London and Middlesex Housing Corporation Board of Directors is put.
 
@@ -1797,7 +1797,7 @@ Unanimous (13-0)
     Appointment to the City of London and Thames Valley District School Board
     Liaison Committee
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > The motion to appoint Abe Oudshoorn to the   London and Middlesex Housing Corporation Board of Directors is put.
 
@@ -1816,7 +1816,7 @@ Unanimous (13-0)
     Appointment to the City of London and Thames Valley District School Board
     Liaison Committee
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > The motion to appoint Sean Quigley to the   London and Middlesex Housing Corporation Board of Directors is put.
 
@@ -1835,7 +1835,7 @@ Unanimous (13-0)
     Appointment to the City of London and Thames Valley District School Board
     Liaison Committee
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > refer consideration to the December 18th   Council meeting, in order to consult with the London Middlesex Housing   Corporation to determine how they would like M. Allen-Easton, M. Buzzelli, R.   Clifford, A. Oudshoorn and S. Quigley slotted into the various classes of Directors   and to obtain f...
 
@@ -1853,7 +1853,7 @@ Unanimous (13-0)
 ### 34. Consideration of Appointment to Western Fair
   Association Board of Governors
 
-<a id="motion-34-0" class="motion-anchor"></a>
+<div id="motion-34-0" class="motion-anchor"></div>
 
 > Approve that clause 34 be amended in the first line by deleting the word   “APPOINTED” and replacing it with the word “NOMINATED”.
 
@@ -1871,7 +1871,7 @@ Unanimous (13-0)
 ### 34. Consideration of Appointment to Western Fair
   Association Board of Governors
 
-<a id="motion-34-1" class="motion-anchor"></a>
+<div id="motion-34-1" class="motion-anchor"></div>
 
 > Approve clause 34, as amended.
 
@@ -1882,7 +1882,7 @@ Unanimous (15-0)
 ### 36. Consideration of
     Appointment to Western University Board of Governors
 
-<a id="motion-36-0" class="motion-anchor"></a>
+<div id="motion-36-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1893,7 +1893,7 @@ Unanimous (13-0)
 ### 45. Consideration of Appointment to the
   Plumbers' and Drain Layers' Examining Board
 
-<a id="motion-45-0" class="motion-anchor"></a>
+<div id="motion-45-0" class="motion-anchor"></div>
 
 > That the Mayor BE REQUESTED to direct   letters to the Members of the Striking Committee to extend the Municipal   Council’s appreciation for their efforts with respect to identifying citizen   nominees for the local boards and commissions, and for the Municipal   Council’s advisory committees.
 

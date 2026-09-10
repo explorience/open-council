@@ -426,7 +426,7 @@ The meeting adjourned at 5:55 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.4, inclusive and 5.1, BE APPROVED.
 
@@ -436,7 +436,7 @@ Unanimous (5-0)
 
 ### 4.1. Inclusionary Zoning
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to grant delegation status to M. Wallace, Executive Director, London Development Institute and J. Zaifman, CEO, London Home Builders' Association, with respect to this matter.
 

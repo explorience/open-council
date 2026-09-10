@@ -2249,7 +2249,7 @@ Passed
 ### 10#2. Appointment to the
   Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-10-2-0" class="motion-anchor"></a>
+<div id="motion-10-2-0" class="motion-anchor"></div>
 
 > That Kevin Labonte BE APPOINTED to the   Community Safety and Crime Prevention Advisory Committee as a Non-Voting   Member, representing London and Area Active and Safe Routes to School, for   the term ending February 28, 2015.
 
@@ -2261,7 +2261,7 @@ Unanimous (15-0)
 ### 11#2. Review of Planning
   Application Fees
 
-<a id="motion-11-2-0" class="motion-anchor"></a>
+<div id="motion-11-2-0" class="motion-anchor"></div>
 
 > That, the Managing Director, Planning and   City Planner’s report dated November 12, 2013, relating to planning   application fees, BE REFERRED back to the Civic Administration for further   consideration and to report back at the November 26, 2013 PEC meeting; it   being noted that, at the reque...
 
@@ -2279,7 +2279,7 @@ Unanimous (15-0)
 ### 2#4. Bicycles on
   Sidewalks
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That the staff report dated November 11,   2013, with respect to bicycles on sidewalks, BE REFERRED to the Civic   Administration for further investigation and report back at a future meeting   of the Civic Works Committee.  (2012-S04-00)
 
@@ -2290,7 +2290,7 @@ Unanimous (15-0)
 ### 3#2. Amendment of Flags
   at City Hall Policy
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > Approve an amendment to add   the word "morals", following the word "religious", in the   proposed by-law.
 
@@ -2308,7 +2308,7 @@ Unanimous (15-0)
 ### 3#2. Amendment of Flags
   at City Hall Policy
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2326,7 +2326,7 @@ Unanimous (15-0)
 ### 3#3. Irregular
   Bid-Talbot Street Subsurface Silva Cells Project (Tender T13-97)
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the Talbot Street Subsurface Silva Cells Project Tender T13-97:   a)         the   tender submitted by Ro-Buck Contracting, 2326 Fanshawe Park Road East,   London, O...
 
@@ -2337,7 +2337,7 @@ Unanimous (15-0)
 ### 4#3. Bruce Street and
   Elmwood Avenue-Feasibility of One-Way to Two-Way Conversion
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the   Director, Roads and Transportation, the following actions be taken with   respect to the Feasibility Study for the conversion of Bruce Street and   Elmwood Avenue from one-way to two-way operation:     a)         the Feasibility Study BE   RECEIVED;   b)      ...
 
@@ -2348,7 +2348,7 @@ Unanimous (15-0)
 ### 5#3. Request for
   Compassionate Compensation - Sump Pump Program 124 Blanchard Crescent
 
-<a id="motion-5-3-0" class="motion-anchor"></a>
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the communication dated November 3, 2013, from P. Machuk, 124   Blanchard Crescent, with respect to a request for compassionate compensation   regarding the Sump Pump Program Pilot Project on Blanchard Crescent:   a)         a   one-time $1,00...
 
@@ -2366,7 +2366,7 @@ Unanimous (15-0)
 ### 5#5. Appointment to the University of Western
   Ontario Board of Governors
 
-<a id="motion-5-5-0" class="motion-anchor"></a>
+<div id="motion-5-5-0" class="motion-anchor"></div>
 
 > That   Michael Lerner BE APPOINTED to the University of Western Ontario Board of   Governors for the term December 1, 2013 to November 30, 2017.
 
@@ -2377,7 +2377,7 @@ Unanimous (13-0)
 ### 5#5. Appointment to the University of Western
   Ontario Board of Governors
 
-<a id="motion-5-5-1" class="motion-anchor"></a>
+<div id="motion-5-5-1" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Managing Director, Corporate   Services and City Treasurer, Chief Financial Officer, on the advice of the   Manager of Realty Services, with respect to the acquisition of a portion of   property from the property municipally known as 393 Commissioners Ro...
 
@@ -2387,7 +2387,7 @@ Unanimous (15-0)
 
 ### 6#4. Standing Committee Appointments
 
-<a id="motion-6-4-0" class="motion-anchor"></a>
+<div id="motion-6-4-0" class="motion-anchor"></div>
 
 > That the membership of the Planning and   Environment Committee for the term December 1, 2013 to November 30, 2014 BE   ESTABLISHED as follows:   Councillor J.L. Baechler (Chair) Mayor J. Fontana (ex-officio) Councillor D.G. Henderson Councillor P. Hubert Councillor B. Polhill Councillor S.E. White
 
@@ -2399,7 +2399,7 @@ Unanimous (15-0)
   Municipal Council Support Resolution - Ground Mounted Solar Project Under the
   Feed-In Tariff (FIT) Program
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > Approve that part c) BE AMENDED by   deleting, at the end, the words “, noted in part b), above;” and by replacing   them with the words “in the form outlined in Appendix “C” to the associated   staff report dated November 12, 2013;”.
 
@@ -2411,7 +2411,7 @@ Unanimous (13-0)
   Municipal Council Support Resolution - Ground Mounted Solar Project Under the
   Feed-In Tariff (FIT) Program
 
-<a id="motion-8-3-1" class="motion-anchor"></a>
+<div id="motion-8-3-1" class="motion-anchor"></div>
 
 > Approve clause 8, as amended.
 
@@ -2422,7 +2422,7 @@ Unanimous (13-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that   Council rise and go into Committee of the Whole, in camera, for the purpose   of considering the following matters:
 
@@ -2433,7 +2433,7 @@ Unanimous (14-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTEENTH MEETING HELD ON NOVEMBER 5, 2013
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of 18th Meeting held   on November 5, 2013.
 
@@ -2443,7 +2443,7 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-0" class="motion-anchor"></a>
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Approve Introduction and First   Reading of Bill No.s 450 to 467.
 
@@ -2456,7 +2456,7 @@ Unanimous (15-0)
   Policy (Refer to the Corporate Services Committee Stage for Consideration
   with Clause 4 of the 28th Report of the Corporate Services Committee.)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2467,7 +2467,7 @@ Unanimous (15-0)
 ### 5. Ontario Works
   Employment Assistance Framework 2013-2016
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Manager   Employment and Strategic Initiatives, with the concurrence of the Managing   Director Housing, Social Services and Dearness Home, the Ontario Works   Employment Assistance Services Framework, approved by the Municipal Council   on March 20, 2012, BE AM...
 
@@ -2478,7 +2478,7 @@ Unanimous (13-0)
 ### 8. Fees for Fire
   Prevention Office Services
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Approve deferring consideration   of clause 8, and the accompanying by-law, for two weeks for the purpose of   dialogue with the London Property Management Association.
 
@@ -2496,7 +2496,7 @@ Unanimous (13-0)
 ### 8. Fees for Fire
   Prevention Office Services
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Amend clause 8, by adding the following,   at the end of the clause, "it being noted that in the event of a   suicide, no cost recovery will be pursued."
 
@@ -2514,7 +2514,7 @@ Unanimous (13-0)
 ### 8. Fees for Fire
   Prevention Office Services
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2532,7 +2532,7 @@ Unanimous (13-0)
 ### 9. S. Cordes,
   Executive Director, Youth Opportunities Unlimited - Update on the Cornerstone
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Amend clause 9 by adding the following at   the end of the clause, "and the Mayor BE REQUESTED to write a   congratulatory letter to Youth Opportunities Unlimited in recognition of   their successful efforts."
 
@@ -2543,7 +2543,7 @@ Unanimous (15-0)
 ### 9. S. Cordes,
   Executive Director, Youth Opportunities Unlimited - Update on the Cornerstone
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Approve clause 9 as amended.
 
@@ -2554,7 +2554,7 @@ Unanimous (15-0)
 ### 11. A. Oudshoorn,
   Chair, London Homeless Coalition - Request for Delegation Status
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > That the request of A. Oudshoorn, Chair,   London Homeless Coalition for delegation status before the Community and   Protective Services Committee, with respect to an Ontario Works rates   advocacy campaign, BE APPROVED.  (2013-S04)
 
@@ -2566,7 +2566,7 @@ Unanimous (15-0)
 ### 14. Property located at
   275 Thames Street - Fugitive Slave Chapel
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > That, the Civic Administration BE DIRECTED   to take the following actions with respect to the Fugitive Slave Chapel,   currently located at 275 Thames Street:   a)         prepare   a report for a heritage alteration permit to allow this heritage building to   be relocated to 432 Grey Street;   ...
 

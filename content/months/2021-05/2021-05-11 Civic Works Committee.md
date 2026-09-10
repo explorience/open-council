@@ -713,7 +713,7 @@ And just for committee members will be a couple of moments while we get the corr
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.3, 2.4, 2.5, 2.7, and 2.8, inclusive, BE APPROVED.
 
@@ -723,7 +723,7 @@ Unanimous (6-0)
 
 ### 2.2. Contract Award - Dingman Creek Pumping Station Construction Tender T21-19
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated May 11, 2021, related to the award of contract for the construction of the Dingman Creek Pumping Station facility: a)        the bid submit...
 
@@ -733,7 +733,7 @@ Unanimous (6-0)
 
 ### 2.6. Supply and Install 2022 to 2028 Infill Tree - RFT20-80 - Irregular Result
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated May 11, 2021, related to the supply and install of 2022 to 2028 infill trees: a)        the irregular bid submitted by Kamarah Tree Farms a...
 
@@ -743,7 +743,7 @@ Unanimous (6-0)
 
 ### 4.1. 3rd Report of the Cycling Advisory Committee
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 3rd Report of the Cycling Advisory Committee, from its meeting held on April 21, 2021: a)        the following actions be taken with respect to the Public Meeting Notice, dated March 10, 2021, from S. Wise, Senior Planner, related to an Offi...
 
@@ -753,7 +753,7 @@ Unanimous (6-0)
 
 ### 4.1. 3rd Report of the Cycling Advisory Committee
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > b)        the following actions be taken with respect to a City of London PumpTrack:  i)         the Civic Administration BE ADVISED that the Cycling Advisory Committee (CAC) supports the creation of a pumptrack facility; and,  ii)        the Civic Administration BE REQUESTED to report back on th...
 

@@ -298,7 +298,7 @@ The meeting adjourned at 1:30 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2 and 2.6 BE APPROVED, it being noted that there is an attached revised by-law for Item 2.2.
 
@@ -308,7 +308,7 @@ Unanimous (6-0)
 
 ### 2.3. Year 2020 Tax Policy
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to property taxation for 2020: a) the attached proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 21, 2020, reflective of Committee recommendations in accordance with Sub-sections 308(4) and 308.1(4) of the Municipal...
 
@@ -318,7 +318,7 @@ Unanimous (6-0)
 
 ### 2.4. Year 2020 Education Tax Rates
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken: a) the by-law to levy education tax rates for 2020 appended as Appendix “A” to the staff report dated April 14, 2020 BE INTRODUCED at the Municipal...
 
@@ -328,7 +328,7 @@ Unanimous (6-0)
 
 ### 2.5. Property Tax Deferral Options
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the Civic Administration BE DIRECTED to set final billings for the 2020 taxation year based on Option 1 as outlined in the staff report dated April 14, 2020,  with the following d...
 
@@ -338,7 +338,7 @@ Unanimous (6-0)
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That Items 4.1 (FCM) and 4.2 (AMO) BE APPROVED, as presented.
 

@@ -855,7 +855,7 @@ The meeting adjourned at 7:59 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1, 2.3 and 2.4 BE APPROVED.
 
@@ -865,7 +865,7 @@ Unanimous (13-0)
 
 ### 2.2. London Community Grants Program Allocations
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > That part a) BE APPROVED, as follows: That the following actions be taken with respect to the London Community Grants Program allocations:  a) the staff report dated November 25, 2019 entitled “London Community Grants Program Allocations” BE RECEIVED;
 
@@ -884,7 +884,7 @@ Unanimous (13-0)
 
 ### 2.2. London Community Grants Program Allocations
 
-<a id="motion-2-2-2" class="motion-anchor"></a>
+<div id="motion-2-2-2" class="motion-anchor"></div>
 
 > That part b) i) BE APPROVED, as follows:  b) the Civic Administration BE DIRECTED to review the London Community Grants Policy and report back on policy amendments that would:  i) identify if the municipality is the appropriate source of funding for requests, potentially limiting or removing elig...
 
@@ -903,7 +903,7 @@ Unanimous (13-0)
 
 ### 2.2. London Community Grants Program Allocations
 
-<a id="motion-2-2-3" class="motion-anchor"></a>
+<div id="motion-2-2-3" class="motion-anchor"></div>
 
 > That part b) ii) BE APPROVED, as follows:  ii) limit the eligibility for special events; including one day events, that could submit requests for consideration under the Neighbourhood Decision Making process; and
 
@@ -922,7 +922,7 @@ Unanimous (13-0)
 
 ### 2.2. London Community Grants Program Allocations
 
-<a id="motion-2-2-4" class="motion-anchor"></a>
+<div id="motion-2-2-4" class="motion-anchor"></div>
 
 > That part b) iii) BE APPROVED, as follows:  iii) tighten the current eligibility criteria for capital funding requests; and,
 
@@ -941,7 +941,7 @@ Unanimous (13-0)
 
 ### 2.2. London Community Grants Program Allocations
 
-<a id="motion-2-2-5" class="motion-anchor"></a>
+<div id="motion-2-2-5" class="motion-anchor"></div>
 
 > That part c) BE APPROVED, as follows:  c) the Civic Administration BE DIRECTED to develop Business Cases for consideration during the 2020-2023 Multi-Year Budget process that provide for potential reductions related to the “London Community Grants Program”.
 
@@ -960,7 +960,7 @@ Unanimous (13-0)
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - 2020 Water and Wastewater Rates
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That part a) BE APPROVED, as follows: That, on the recommendation of the Managing Director, Environmental and Engineering Services & City Engineer, and the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer the following actions be taken with respect to the 2020 Water...
 
@@ -979,7 +979,7 @@ Unanimous (13-0)
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - 2020 Water and Wastewater Rates
 
-<a id="motion-3-1-5" class="motion-anchor"></a>
+<div id="motion-3-1-5" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services & City Engineer, and the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer the following actions be taken with respect to the 2020 Water and Wastewater rates and charges: a) ...
 
@@ -998,7 +998,7 @@ Unanimous (13-0)
 
 ### 4.1. Climate Change Emergency Update
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the matter of Climate Change Emergency Update and the associated recommendations BE REFERRED back to the Civic Administration, in order to allow for the gathering of additional information specific to the London experience and related data with respect to this matter.
 
@@ -1017,7 +1017,7 @@ Unanimous (13-0)
 
 ### 4.1. Climate Change Emergency Update
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > The motion to approve parts a)vi), b)ii), b)iii), b)iv, b)v), c)i), c)ii), c)v) and d)i) is put.
 
@@ -1036,7 +1036,7 @@ Unanimous (13-0)
 
 ### 4.1. Climate Change Emergency Update
 
-<a id="motion-4-1-4" class="motion-anchor"></a>
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > Motion to approve the balance of the recommendation is put.
 
@@ -1055,7 +1055,7 @@ Unanimous (13-0)
 
 ### 4.2. Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Member of Council)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That Councillor A. Kayabaga BE APPOINTED to the Middlesex-London Health Unit Board of Directors for the term ending November 15, 2022.
 
@@ -1065,7 +1065,7 @@ Unanimous (11-0)
 
 ### 4.2. Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Member of Council)
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Appointment to Middlesex-London Health Unit Board of Directors
 
@@ -1080,7 +1080,7 @@ Unanimous (11-0)
 
 ### 4.3. Appointment to the County/City Liaison Committee (Requires the Mayor, 2 Members of Council and 1 Alternate Member of Council)
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the County/City Liaison Committee for the term ending November 15, 2022:  Mayor E. Holder  Councillor J. Morgan  Councillor S. Turner  Councillor J. Helmer (Alternate)
 
@@ -1090,7 +1090,7 @@ Unanimous (12-0)
 
 ### 4.4. Confirmation of Appointments to the Argyle BIA
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That Dale Irwin BE APPOINTED to the Argyle Business Improvement Area for the term ending November 15, 2022.
 
@@ -1100,7 +1100,7 @@ Unanimous (12-0)
 
 ### 4.5. Confirmation of Appointments to the London Downtown Business Association
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to London Downtown Business Association for the term ending November 15, 2022:    Andrew McClenaghan - Digital Echidna   Asaad Naeeli - Dos Tacos   Bonnie Wludyka - Citi Plaza/IF Propco Holdings   David E White - David E White Clothier   David Kirwin - Kirwin Fryda...
 
@@ -1110,7 +1110,7 @@ Unanimous (11-0)
 
 ### 4.6. West Transit Motion
 
-<a id="motion-4-6-0" class="motion-anchor"></a>
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED to review and report back with recommendations for providing higher order transit service and/or transit improvement projects to West London, including but not limited to potential modifications of the West Connection project that address:    a)      opt...
 

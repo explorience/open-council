@@ -232,7 +232,7 @@ Motion
 ### 2. Notice of
   Abandonment of the Crinklaw Drain in the Dingman Creek Subwatershed
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -244,7 +244,7 @@ Unanimous (5-0)
 ### 3. Veterans Memorial
   Parkway Noise Attenuation Wall
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -256,7 +256,7 @@ Unanimous (5-0)
 ### 4. Stormwater
   Infrastructure Improvements/Remediation Works Along Richmond Street Corridor
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -269,7 +269,7 @@ Unanimous (5-0)
   Road North Widening Environmental Assessment Study-Appointment of Consulting
   Engineer
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -281,7 +281,7 @@ Unanimous (5-0)
 ### 6. Snow-Packed Roads
   and Snow Dumping from Private Property
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -293,7 +293,7 @@ Unanimous (5-0)
 ### 7. Request for a Four-Way
   Stop to be Placed on Curry Street at the Corner of Piccadilly Street
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -304,7 +304,7 @@ Unanimous (5-0)
 
 ### 8. (ADDED) Southdale Road Widening
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

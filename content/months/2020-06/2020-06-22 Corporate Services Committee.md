@@ -241,7 +241,7 @@ The meeting adjourns at 12:56 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.2 and 2.3 BE APPROVED.
 
@@ -251,7 +251,7 @@ Unanimous (6-0)
 
 ### 2.1. Council Policy - General Policy for Advisory Committees
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Clerk, the proposed by-law attached as Appendix “A” to the staff report dated June 22, 2020, to amend the “General Policy for Advisory Committees” to provide for electronic meeting participation, BE INTRODUCED at the Municipal Council meeting to be held on ...
 
@@ -261,7 +261,7 @@ Unanimous (6-0)
 
 ### 4.1. Application - Issuance of Proclamation - Ontario FASD Action Network - London Branch
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That based on the application dated May 29, 2020, from the Ontario FASD Action Network - London Branch, the day of September 9, 2020 BE PROCLAIMED as FASD Awareness Day in London.
 
@@ -271,7 +271,7 @@ Unanimous (6-0)
 
 ### 4.2. Application - Issuance of Proclamation - The Institute for the Research of Genocide Canada
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That based on the application dated June 13, 2020, from the Institute for Research of Genocide Canada, the day July 11, 2020 BE PROCLAIMED 25. Commemoration of the Srebrenica Genocide in London.
 
@@ -288,7 +288,7 @@ Unanimous (6-0)
 
 ### 5.1. (ADDED) Standing Committee Meetings and Annual Meeting Calendar
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Clerk, the annual meeting calendar for the period December 1, 2020 to December 31, 2021, as appended to the staff report dated June 22, 2020 as Appendix “A”, BE APPROVED; it being understood that adjustments to the calendar may be required from time to time...
 

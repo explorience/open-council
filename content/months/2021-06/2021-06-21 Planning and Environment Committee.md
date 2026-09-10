@@ -1674,7 +1674,7 @@ Thank you very much. Great meeting everyone, take care. We will see you at SPPC 
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.3 to 2.13, inclusive, BE APPROVED.
 
@@ -1684,7 +1684,7 @@ Unanimous (5-0)
 
 ### 2.2. Memorandum of Understanding for Development and/or Planning Act Application Review Between the City of London and UTRCA
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to updating the Development Memorandum of Understanding between The Corporation of the City of London and the Upper Thames Conservation Authority with respect to ...
 
@@ -1701,7 +1701,7 @@ Unanimous (5-0)
 
 ### 2.2. Memorandum of Understanding for Development and/or Planning Act Application Review Between the City of London and UTRCA
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > That the staff report dated June 21, 2021 entitled "Memorandum of Understanding for Development and/or Planning Act Application Review between The Corporation of the City of London and Upper Thames River Conservation Authority" BE REFERRED back to the Civic Administration to obtain comments from ...
 
@@ -1718,7 +1718,7 @@ Unanimous (5-0)
 
 ### 3.2. 193 Queens Avenue (Z-9327)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, with respect to the application of Farhi Holdings Corporation, relating to the property located at 193 Queens Avenue, the proposed by-law appended to the staff report dated June 21, 2021 as Appendix "A" BE INTRODUCED at the Mu...
 
@@ -1735,7 +1735,7 @@ Unanimous (5-0)
 
 ### 4.1. 183 and 197 Ann Street - A-M. Valastro - REQUEST FOR DELEGATION STATUS
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the request for delegation status with respect to the heritage and planning applications relating to the properties located at 183 and 197 Anne Street BE REFERRED to the public participation meeting to be held at a future meeting of the Planning and Environment Committee regarding these matt...
 
@@ -1752,7 +1752,7 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED)  5th Report of the Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 5th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on June 17, 2021: a)  the following recommendations of the Environmental and Ecological Planning Advisory Committee, with respect to the Advis...
 

@@ -679,7 +679,7 @@ Motion Passed
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
-<a id="motion-iv-1" class="motion-anchor"></a>
+<div id="motion-iv-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -695,7 +695,7 @@ Motion Passed
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 30, 2018
 
-<a id="motion-v-1" class="motion-anchor"></a>
+<div id="motion-v-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -710,7 +710,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -725,7 +725,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -740,7 +740,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -756,7 +756,7 @@ Motion Passed
 ### 9. Observation Summary
   as at January 29, 2018
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -772,7 +772,7 @@ Motion Passed
 ### 9. Observation Summary
   as at January 29, 2018
 
-<a id="motion-9-3" class="motion-anchor"></a>
+<div id="motion-9-3" class="motion-anchor"></div>
 
 > Motion Passed
 

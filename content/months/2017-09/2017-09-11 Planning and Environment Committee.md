@@ -600,7 +600,7 @@ The meeting adjourned at 5:21 PM.
 ### 2. 9th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -612,7 +612,7 @@ Unanimous (5-0)
 ### 3. 8th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -624,7 +624,7 @@ Unanimous (5-0)
 ### 4. STAFF REPORT -
   Bierens (Westfield) Subdivision - Subdivision Special Provision  (39T-08502)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -636,7 +636,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT - Property
   located at a portion of 1284 and1388 Sunningdale Road West (H-8800)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -648,7 +648,7 @@ Unanimous (5-0)
 ### 6. STAFF REPORT - Property
   located at a portion of 995 Fanshawe Park Road West (H-8811)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -661,7 +661,7 @@ Unanimous (5-0)
   located at 1355 Commissioners Road West (Formerly 1349-1361 Commissioners
   Road West) (H-8782)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -673,7 +673,7 @@ Unanimous (5-0)
 ### 8. STAFF REPORT -
   Silverleaf Subdivision - Subdivision Special Provision (39T-14504)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -685,7 +685,7 @@ Unanimous (5-0)
 ### 9. STAFF REPORT -
   Building Division Monthly Report - June 2017
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -698,7 +698,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 1175, 1185, 1195, 1205, 1215
   Fanshawe Park Road West and 2151 Dalmagarry Road (Z-8776/0-8792)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -711,7 +711,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 1175, 1185, 1195, 1205, 1215
   Fanshawe Park Road West and 2151 Dalmagarry Road (Z-8776/0-8792)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -724,7 +724,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 1175, 1185, 1195, 1205, 1215
   Fanshawe Park Road West and 2151 Dalmagarry Road (Z-8776/0-8792)
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -737,7 +737,7 @@ Unanimous (5-0)
   Conservation Review Board Recommendation - Notice of Intent to Designate 4402
   Colonel Talbot Road
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -757,7 +757,7 @@ Unanimous (5-0)
   EMCO Corporation Building- 1108 Dundas Street - Inventory of Heritage
   Resources
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -770,7 +770,7 @@ Unanimous (4-0)
   – Benjamin Vasquez, Vice-Chair, London Advisory Committee on Heritage re 10th
   Report of the London Advisory Committee on Heritage
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -789,7 +789,7 @@ Unanimous (4-0)
 ### 14. (ADDED) 8th Report
   of the Advisory Committee on the Environment
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

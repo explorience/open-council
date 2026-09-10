@@ -1571,7 +1571,7 @@ Colleagues, we are, is a Christmas dinner for us this evening. It was scheduled 
 
 ### 2.1. Film London - LEDC Purchase of Service Agreement Amendment
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed amending by-law as appended to the staff report dated December 9, 2024 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on December 17, 2024 to amend By-law No. A.-8441...
 
@@ -1588,7 +1588,7 @@ Colleagues, we are, is a Christmas dinner for us this evening. It was scheduled 
 
 ### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That the motion be amended to read as follows: That Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between the proposed Ward 1 and proposed Ward 14 so that the area contained between Clarke Rd, Canadian National Railway, the Eastern City Limit, Hamilton Rd to the ...
 
@@ -1605,7 +1605,7 @@ Colleagues, we are, is a Christmas dinner for us this evening. It was scheduled 
 
 ### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
 
-<a id="motion-3-1-4" class="motion-anchor"></a>
+<div id="motion-3-1-4" class="motion-anchor"></div>
 
 > That the motion be amended by adding a new part to read as follows: the fifteen (15) homes on the north side of Springbank Dr — between The Coves, Greenside Ave, and the Canadian National Railway — BE RETAINED with proposed Ward 11 as a minor amendment to retain a community of interest.
 
@@ -1615,7 +1615,7 @@ Unanimous (14-0)
 
 ### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
 
-<a id="motion-3-1-5" class="motion-anchor"></a>
+<div id="motion-3-1-5" class="motion-anchor"></div>
 
 > That Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between proposed Ward 1 and proposed Ward 11 so that the area contained between Wellington Rd S and the Canadian National Railway adjacent to Adelaide St S (Rowntree Area) south to Commissioner Rd E be incorporat...
 
@@ -1634,7 +1634,7 @@ Unanimous (14-0)
 
 ### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
 
-<a id="motion-3-1-6" class="motion-anchor"></a>
+<div id="motion-3-1-6" class="motion-anchor"></div>
 
 > That Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between proposed Ward 1 and proposed Ward 4 so that the area contained within Oxford St E, to Highbury Ave N, to Canadian Pacific Railway, to Adelaide St N be incorporated into proposed Ward 4 to better reflect c...
 
@@ -1653,7 +1653,7 @@ Unanimous (14-0)
 
 ### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
 
-<a id="motion-3-1-7" class="motion-anchor"></a>
+<div id="motion-3-1-7" class="motion-anchor"></div>
 
 > That the motion be amended by adding a new part to read as follows: following the adoption of ward boundaries by by-law and the completion of the appeal period, or a decision by the Ontario Land Tribunal (OLT), Civic Administration BE DIRECTED to explore naming convention options for the final wa...
 
@@ -1672,7 +1672,7 @@ Unanimous (14-0)
 
 ### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
 
-<a id="motion-3-1-8" class="motion-anchor"></a>
+<div id="motion-3-1-8" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1691,7 +1691,7 @@ Unanimous (14-0)
 
 ### 4.2. Growth Management Implementation Strategy and Municipal Service and Financing Agreements Policy Amendments
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the delegation request from M. Wallace, Executive Director, London Development Institute BE APPROVED to be heard at this time.
 
@@ -1701,7 +1701,7 @@ Unanimous (12-0)
 
 ### 4.2. Growth Management Implementation Strategy and Municipal Service and Financing Agreements Policy Amendments
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > That the motion be amended to include a new part to read as follows: the correspondence from Zelinka Priamo regarding 3095 and 3105 Bostwick Road (Talbot Village) BE REFERRED for consideration during the 2026 Growth Management Implementation Strategy process.
 
@@ -1711,7 +1711,7 @@ Unanimous (13-0)
 
 ### 4.2. Growth Management Implementation Strategy and Municipal Service and Financing Agreements Policy Amendments
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1721,7 +1721,7 @@ Unanimous (13-0)
 
 ### 4.3. Housing Accelerator Fund - First Annual Update
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the report regarding the Housing Accelerator Fund - First Annual Update BE RECEIVED for information; it being noted that the Strategic Priorities and Policy Committee received a communication dated December...
 
@@ -1740,7 +1740,7 @@ Unanimous (13-0)
 
 ### 4.3. Housing Accelerator Fund - First Annual Update
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That the delegation request from M. Wallace, Executive Director, London Development Institute BE APPROVED to be heard at this time.
 

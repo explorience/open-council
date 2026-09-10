@@ -2963,7 +2963,7 @@ Passed
 ### 2#3. 2013 Service Change
   Business Cases
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > Approve part b) xii) of Clause 2, Business Case #12 – Reduced Investment in   Economic Prosperity:  Approve reduced investment in economic prosperity.
 
@@ -2974,7 +2974,7 @@ Unanimous (15-0)
 ### 2#3. 2013 Service Change
   Business Cases
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > Approve clause 4 i) that the Reserve Fund Overview and Analysis Schedules BE   APPROVED; it being noted that the projections are subject to annual review   and adjustment.
 
@@ -2992,7 +2992,7 @@ Unanimous (15-0)
 ### 2#3. 2013 Service Change
   Business Cases
 
-<a id="motion-2-3-2" class="motion-anchor"></a>
+<div id="motion-2-3-2" class="motion-anchor"></div>
 
 > Amend clause 4 part l) be amended   to read as follows:   i)          that the following actions be   taken with respect to the 2012 Corporate Surplus:   A)        $1.1   million of the 2012 Corporate Surplus BE ALLOCATED to Tax Levy reduction from   rates;
 
@@ -3003,7 +3003,7 @@ Unanimous (15-0)
 ### 2#3. 2013 Service Change
   Business Cases
 
-<a id="motion-2-3-3" class="motion-anchor"></a>
+<div id="motion-2-3-3" class="motion-anchor"></div>
 
 > Amend 4 l) i)   B)        subject   to the approval of part A), above, the 2013 tax levy increase be established   in the amount of 1.2% ; it being noted that the final 2012 Corporate year-end   position is subject to audit adjustments;
 
@@ -3021,7 +3021,7 @@ Unanimous (15-0)
 ### 2#3. 2013 Service Change
   Business Cases
 
-<a id="motion-2-3-4" class="motion-anchor"></a>
+<div id="motion-2-3-4" class="motion-anchor"></div>
 
 > Approve part i) C) as follows:   C)        the   Civic Administration BE DIRECTED to achieve permanent savings in the base   budget; it being noted that Civic Administration submitted a number of   Business Cases as part of the 2013 Budget process that were not supported by   Council; it being fu...
 
@@ -3032,7 +3032,7 @@ Unanimous (15-0)
 ### 2#3. 2013 Service Change
   Business Cases
 
-<a id="motion-2-3-5" class="motion-anchor"></a>
+<div id="motion-2-3-5" class="motion-anchor"></div>
 
 > Approve part ii) the 2013 Tax Levy BE   ADOPTED in the amount of $479,637,257; it being pointed out that the tax levy   represents an approximate 1.2% increase over the 2012 tax levy after   recognizing $6,683,139 on of increased taxation from assessment growth; and
 
@@ -3050,7 +3050,7 @@ Unanimous (15-0)
 ### 2#3. 2013 Service Change
   Business Cases
 
-<a id="motion-2-3-6" class="motion-anchor"></a>
+<div id="motion-2-3-6" class="motion-anchor"></div>
 
 > Approve part iii) the Managing Director,   Corporate Services & City Treasurer, Chief Financial Officer and the City   Clerk BE AUTHORIZED to prepare the 2013 Tax Levy By-law and to submit it to   the Municipal Council for enactment at the appropriate time.
 
@@ -3068,7 +3068,7 @@ Unanimous (15-0)
 ### 2#3. 2013 Service Change
   Business Cases
 
-<a id="motion-2-3-7" class="motion-anchor"></a>
+<div id="motion-2-3-7" class="motion-anchor"></div>
 
 > Approve 4 l) as amended
 
@@ -3086,7 +3086,7 @@ Unanimous (15-0)
 ### 2#3. 2013 Service Change
   Business Cases
 
-<a id="motion-2-3-8" class="motion-anchor"></a>
+<div id="motion-2-3-8" class="motion-anchor"></div>
 
 > Approve that the Civic Administration BE   DIRECTED to bring forward any necessary by-laws regarding the 2013 Operating   and Capital Budgets for introduction at a future meeting of Municipal   Council.
 
@@ -3104,7 +3104,7 @@ Unanimous (15-0)
 ### 2#3. 2013 Service Change
   Business Cases
 
-<a id="motion-2-3-9" class="motion-anchor"></a>
+<div id="motion-2-3-9" class="motion-anchor"></div>
 
 > Approve that the Civic Administration BE AUTHORIZED to accommodate the 2013   budget transfers that are considered "housekeeping" in nature, and   do not impact the Corporate Net Operating Budget.
 
@@ -3115,7 +3115,7 @@ Unanimous (15-0)
 ### 8#2. J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
-<a id="motion-8-2-1" class="motion-anchor"></a>
+<div id="motion-8-2-1" class="motion-anchor"></div>
 
 > Approve 3c) i) Page 63 - CENTENNIAL HALL - $100K.
 
@@ -3131,7 +3131,7 @@ Unanimous (15-0)
 ### 8#2. J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
-<a id="motion-8-2-4" class="motion-anchor"></a>
+<div id="motion-8-2-4" class="motion-anchor"></div>
 
 > Approve 3 i) xiii)  SOCIAL AND COMMUNITY SUPPORT SERVICES - Ontario Works -   $24,253K.
 
@@ -3142,7 +3142,7 @@ Unanimous (13-0)
 ### 8#2. J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
-<a id="motion-8-2-5" class="motion-anchor"></a>
+<div id="motion-8-2-5" class="motion-anchor"></div>
 
 > Approve 3 i) x)  SOCIAL AND COMMUNITY   SUPPORT SERVICES - Mental Health and Addictions - $0K
 
@@ -3153,7 +3153,7 @@ Unanimous (13-0)
 ### 8#2. J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
-<a id="motion-8-2-6" class="motion-anchor"></a>
+<div id="motion-8-2-6" class="motion-anchor"></div>
 
 > Approve 3 j) ii) LONDON TRANSIT COMMISSION - Conventional Transit Services -   $21,864K*.
 
@@ -3171,7 +3171,7 @@ Unanimous (13-0)
 ### 8#2. J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
-<a id="motion-8-2-7" class="motion-anchor"></a>
+<div id="motion-8-2-7" class="motion-anchor"></div>
 
 > Approve part k) xiii) CORPORATE SERVICES – Technology Services - $15,920K.
 
@@ -3189,7 +3189,7 @@ Unanimous (13-0)
 ### 8#2. J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
-<a id="motion-8-2-8" class="motion-anchor"></a>
+<div id="motion-8-2-8" class="motion-anchor"></div>
 
 > Approve the following parts of clause 3:  part c, except parts i and ii; part   d; part e; part f, except part iii; part g; part i, except parts x and xiii; part   j, except part ii; and part k, except part xiii.
 
@@ -3200,7 +3200,7 @@ Unanimous (15-0)
 ### 8#2. J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
-<a id="motion-8-2-10" class="motion-anchor"></a>
+<div id="motion-8-2-10" class="motion-anchor"></div>
 
 > Amend part l) of clause 3 c), by adding   the following to the end of the clause:   "it being noted that the assessment   growth be allocated to the Economic Development Reserve Fund in the 2014-2024   budgets, in accordance with the Municipal Council’s Assessment Growth Policy;   it being furthe...
 
@@ -3211,7 +3211,7 @@ Unanimous (15-0)
 ### 8#2. J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
-<a id="motion-8-2-11" class="motion-anchor"></a>
+<div id="motion-8-2-11" class="motion-anchor"></div>
 
 > Amend clause 3 l) in part C) to read as   follows:   "C)  $1.4 million to Tax Levy   Reduction from rates"   and by adding a new part D) as follows:   "D)  $1.1 million the Economic   Development Reserve Fund, on a permanent basis."
 
@@ -3229,7 +3229,7 @@ Unanimous (15-0)
 ### 8#2. J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
-<a id="motion-8-2-12" class="motion-anchor"></a>
+<div id="motion-8-2-12" class="motion-anchor"></div>
 
 > Approve clause 3 c) l), as amended
 
@@ -3247,7 +3247,7 @@ Unanimous (15-0)
 ### 8#2. J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
-<a id="motion-8-2-2" class="motion-anchor"></a>
+<div id="motion-8-2-2" class="motion-anchor"></div>
 
 > Approve 3c) ii)  ARTS, CULTURE & HERITAGE ADVISORY & FUNDING -   $2,058K   A)        Community   Arts Investment Program, Category 1  funding BE AWARDED to Orchestra London   in 2013 on a prorated monthly basis, conditional upon receipt of a   satisfactory business case by April 2013; and   B)   ...
 
@@ -3263,7 +3263,7 @@ Unanimous (15-0)
 ### 8#2. J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
-<a id="motion-8-2-3" class="motion-anchor"></a>
+<div id="motion-8-2-3" class="motion-anchor"></div>
 
 > Approve 3 f) iii) NEIGHBOURHOOD AND RECREATION SERVICES - Children's Services   - $6,586K.
 
@@ -3274,7 +3274,7 @@ Unanimous (13-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go   into Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -3284,7 +3284,7 @@ Unanimous (15-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-0" class="motion-anchor"></a>
+<div id="motion-xii-0" class="motion-anchor"></div>
 
 > Approve first reading of Bill Nos. 103 and   104.
 
@@ -3301,7 +3301,7 @@ Unanimous (15-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-1" class="motion-anchor"></a>
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Approve 2nd reading of Bill Nos. 103 and   104.
 
@@ -3318,7 +3318,7 @@ Unanimous (15-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-2" class="motion-anchor"></a>
+<div id="motion-xii-2" class="motion-anchor"></div>
 
 > Approve 3rd reading and enactment of of   Bill Nos. 103 and 104.
 
@@ -3338,7 +3338,7 @@ Unanimous (15-0)
   Consideration with Clause 3b) xxxiv) of the 5th Report of the Strategic
   Priorities and Policy Committee.)
 
-<a id="motion-1-0" class="motion-anchor"></a>
+<div id="motion-1-0" class="motion-anchor"></div>
 
 > Approve the following Communications BE   RECEIVED.
 
@@ -3349,7 +3349,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Approve 3 b) i) Business Case #1 – Fleet Management – Extending the Life   Cycle for Fleet Vehicles & Equipment: Reduce the 2013 Operating Budget by   $543K.
 
@@ -3360,7 +3360,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Approve   3 b) ii)        Business Case #2 – Corporate Management – Reduction in AODA   Program Funding: Reduce the 2013 Operating Budget by $561K.
 
@@ -3378,7 +3378,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-3" class="motion-anchor"></a>
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Approve 3 b) iii) Business Case #3 – Reduction in Capital Grant Program   Funding:  Take no action to include 2013 funding, and put $250K funding back   in for consideration as part of the 2014 Budget process.
 
@@ -3396,7 +3396,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-4" class="motion-anchor"></a>
+<div id="motion-3-4" class="motion-anchor"></div>
 
 > Approve 3 b) iv) Business Case #4 – Reduced Municipal Investment in   Affordable Housing Initiatives: Take no action to reduce the municipal   investment in affordable housing initiatives by $1,000K; it being noted that   an updated City of London Affordable Housing Strategy will be brought forwa...
 
@@ -3407,7 +3407,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-5" class="motion-anchor"></a>
+<div id="motion-3-5" class="motion-anchor"></div>
 
 > Approve 3 b) v) Business Case #5 – Neighbourhood and Recreation User Fee Rate   Increases:  No change to user fee increases previously approved by the   Municipal Council.
 
@@ -3425,7 +3425,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-6" class="motion-anchor"></a>
+<div id="motion-3-6" class="motion-anchor"></div>
 
 > Approve 3 b) vi) Business Case #6 – Building Approvals User Fee Rate   Increases:  No change to user fee increases previously approved by the   Municipal Council.
 
@@ -3436,7 +3436,7 @@ Unanimous (13-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-7" class="motion-anchor"></a>
+<div id="motion-3-7" class="motion-anchor"></div>
 
 > Approve 3 b) vii) Business Case #7 – Increase Swimming Pool Fence Inspection   and Letter Fee:  No change to user fee increases previously approved by the   Municipal Council.
 
@@ -3447,7 +3447,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-10" class="motion-anchor"></a>
+<div id="motion-3-10" class="motion-anchor"></div>
 
 > The motion to approve 3 b) viii) is put.   Motion Passed
 
@@ -3465,7 +3465,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-11" class="motion-anchor"></a>
+<div id="motion-3-11" class="motion-anchor"></div>
 
 > Approve 3 b) ix) Business Case #9 – Revise Revenue Split with PUC on Parking   Lot #2 from 88/12 to 75/25: Approve revised revenue split.
 
@@ -3476,7 +3476,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-12" class="motion-anchor"></a>
+<div id="motion-3-12" class="motion-anchor"></div>
 
 > Approve 3 b) x)      Business Case #10 – Increase in Returned Cheque Fee by   $5:  No change to increased returned cheque fee previously approved by the   Municipal Council.
 
@@ -3487,7 +3487,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-13" class="motion-anchor"></a>
+<div id="motion-3-13" class="motion-anchor"></div>
 
 > Approve 3 b) xi)       Business Case #11 – Across the Board User Fee Increase   for Taxation Services:  No change to across the board user fee increases for   taxation services as previously approved by the Municipal Council.
 
@@ -3498,7 +3498,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-14" class="motion-anchor"></a>
+<div id="motion-3-14" class="motion-anchor"></div>
 
 > Table the motion related to Business   Case #12 to later in the meeting, to be considered with item 4 l).
 
@@ -3516,7 +3516,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-15" class="motion-anchor"></a>
+<div id="motion-3-15" class="motion-anchor"></div>
 
 > Approve 3 b) xiii) Business Case #13 – Reduced Support to Downtown Business   Improvement Area (BIA):  Reduce the allocation by $53K.
 
@@ -3534,7 +3534,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-16" class="motion-anchor"></a>
+<div id="motion-3-16" class="motion-anchor"></div>
 
 > Approve 3 b) xiv) Business Case #14 – Reduction in Brownfield Incentive   Program:  Reduce allocation by $10K.
 
@@ -3552,7 +3552,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-17" class="motion-anchor"></a>
+<div id="motion-3-17" class="motion-anchor"></div>
 
 > Approve 3b) xv) Business Case #15 – Elimination of Double Decker Bus Tours:    Reduce budget by $11K to reflect elimination of Double Decker Bus Tours.
 
@@ -3570,7 +3570,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-18" class="motion-anchor"></a>
+<div id="motion-3-18" class="motion-anchor"></div>
 
 > Approve 3 b) xvi) Business Case #16 – End of Initial Funding for Green Bin   Pilot Program:  Reduce budget by $95K.
 
@@ -3588,7 +3588,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-19" class="motion-anchor"></a>
+<div id="motion-3-19" class="motion-anchor"></div>
 
 > Approve   3 b) xvii) Business Case #17 – Delay of Funding for Implementation of   Neighbourhood Hub Initiatives:  Reduce budget by $93K to reflect delay of   funding.
 
@@ -3606,7 +3606,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-20" class="motion-anchor"></a>
+<div id="motion-3-20" class="motion-anchor"></div>
 
 > Approve 3 b) xviii) Business Case #18 – Deferral of Support for “In-Motion”:    Reduce budget by $40K to reflect deferred support.
 
@@ -3624,7 +3624,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-21" class="motion-anchor"></a>
+<div id="motion-3-21" class="motion-anchor"></div>
 
 > Approve 3 b) xix) Business Case #19 – Reduction in Non-Direct Services for   Middlesex-London Health Unit:  Reduce budget by $271K.
 
@@ -3635,7 +3635,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-22" class="motion-anchor"></a>
+<div id="motion-3-22" class="motion-anchor"></div>
 
 > Approve 3 b) xx) Business Case #20 – Final Year of Five Year Strategy –   London CAReS: Reduce budget by $738K.
 
@@ -3653,7 +3653,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-23" class="motion-anchor"></a>
+<div id="motion-3-23" class="motion-anchor"></div>
 
 > Approve 3b) parts:   xxi)      Business Case #21 – Parking   Service Review:  Reduce budget by $62K; and,   xxii)     Business   Case #22 – Roadway Maintenance Service Review:  Reduce budget by $65K.
 
@@ -3664,7 +3664,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-24" class="motion-anchor"></a>
+<div id="motion-3-24" class="motion-anchor"></div>
 
 > Approve 3 b) xxiii) Business Case #23 – Downtown Maintenance Service Review:    Take no action to reduce budget by $40K.
 
@@ -3682,7 +3682,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-25" class="motion-anchor"></a>
+<div id="motion-3-25" class="motion-anchor"></div>
 
 > Approve 3b) xxiv) Business Case #24 – Road Patching Service Review:  Take no   action to reduce budget by $294K.
 
@@ -3693,7 +3693,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-26" class="motion-anchor"></a>
+<div id="motion-3-26" class="motion-anchor"></div>
 
 > Approve 3b) xxv) Business Case #25 – Road Sweeping Service Review:  Reduce   budget by $70K.
 
@@ -3711,7 +3711,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-27" class="motion-anchor"></a>
+<div id="motion-3-27" class="motion-anchor"></div>
 
 > Approve 3b) xxvi) Business Case #26 – Walkway Cleaning Service Review:  Take   no action to reduce budget by $80K.
 
@@ -3729,7 +3729,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-28" class="motion-anchor"></a>
+<div id="motion-3-28" class="motion-anchor"></div>
 
 > Approve 3 b) xxvii) Business Case #27 – Sidewalk Snow Removal Service   Review:  Take no action to reduce budget by $75K.
 
@@ -3747,7 +3747,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-29" class="motion-anchor"></a>
+<div id="motion-3-29" class="motion-anchor"></div>
 
 > Approve 3b) parts:   xxviii)   Business Case #28 – Review of   Service Delivery:  Reduce budget by $59K.   xxix)    Business   Case #29 – Fire Service Review:  Business Case #52 – Corporate Service   Review:     That the following   actions be taken with respect to the London Fire Service’s net b...
 
@@ -3758,7 +3758,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-30" class="motion-anchor"></a>
+<div id="motion-3-30" class="motion-anchor"></div>
 
 > Approve 3b) xxxi) Business Case #31 – Service Improvement Capital Project   (TS6217-13 Facility Energy Management) (Reduction in facility energy   management):  Reduce annual contribution by $250K.
 
@@ -3776,7 +3776,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-31" class="motion-anchor"></a>
+<div id="motion-3-31" class="motion-anchor"></div>
 
 > Approve 3 b) xxxii) Business Case #32 – Service Improvement Capital Project   (TS1739-13) for Roadway Planning & Design (Reduction in Bike Lane   Program):  Take no action to reduce 2013 capital program by $110K.
 
@@ -3794,7 +3794,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-32" class="motion-anchor"></a>
+<div id="motion-3-32" class="motion-anchor"></div>
 
 > Approve 3 b) parts:   xxxiii)    Business Case #32.1 – Service Improvement Capital Project (TS5012) for Street   Lighting and Traffic Signals (Reduction in Audible Pedestrian Signal   Program):   Civic Administration to fund the 2013 $50,000 annual capital   program for Audible Pedestrian Signals...
 
@@ -3805,7 +3805,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-33" class="motion-anchor"></a>
+<div id="motion-3-33" class="motion-anchor"></div>
 
 > Approve 3 b) xxxv) Business Case #34 –   Future Industrial Land:  Reduce contribution for purchasing future industrial   land by $800K in each of 2021 and 2022; Business Case #35 – Delay in Landfill   Site Property Acquisition:  Reduce the amount available from $12.3 million to   $4.5 million ove...
 
@@ -3823,7 +3823,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-34" class="motion-anchor"></a>
+<div id="motion-3-34" class="motion-anchor"></div>
 
 > Approve 3 b) xxxvi) Business Case #40 – Industrial Oversizing – TS2171 Road   Improvements for Industrial Parks:  Reduce Capital Plan by $400K.
 
@@ -3841,7 +3841,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-35" class="motion-anchor"></a>
+<div id="motion-3-35" class="motion-anchor"></div>
 
 > Approve 3 b) xxxvii) Business Case #41 – Non-Growth Contribution to the Urban   Works Reserve Fund:  No reduction to annual funding.
 
@@ -3859,7 +3859,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-36" class="motion-anchor"></a>
+<div id="motion-3-36" class="motion-anchor"></div>
 
 > Approve 3 b) xxxviii) Business Case #43 – Major Upgrades for Dearness Home:    Reduce annual contribution by $50K.
 
@@ -3870,7 +3870,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-37" class="motion-anchor"></a>
+<div id="motion-3-37" class="motion-anchor"></div>
 
 > Approve xxxix) Business Case #44 – Integrated Library   System:  Reduce annual contribution by $20K.
 
@@ -3888,7 +3888,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-38" class="motion-anchor"></a>
+<div id="motion-3-38" class="motion-anchor"></div>
 
 > Approve 3 b) xl) Business Case #45 – Reduction in Bus Purchase Replacements:    Reduce annual capital funding by $500K.
 
@@ -3906,7 +3906,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-39" class="motion-anchor"></a>
+<div id="motion-3-39" class="motion-anchor"></div>
 
 > Approve 3 b) xli) Business Case #46 – Review Library Service Hours; Business   Case #47 – Review Sunday Library Service;  Business Case #48 – Collection   budget reduction; and Business Case #49 – Library Service Review:   Notwithstanding the request of the Library   for an increase in net budget...
 
@@ -3924,7 +3924,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-40" class="motion-anchor"></a>
+<div id="motion-3-40" class="motion-anchor"></div>
 
 > Approve 3 b) xlii) Business Case #50 – Public Housing Service Review:   That the following actions be taken with   respect to Business Case #50 (Public Housing Service Review) related to the   London & Middlesex Housing Corporation (LMHC):   A)        a   net budget increase of $481,000 BE APPROV...
 
@@ -3942,7 +3942,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-41" class="motion-anchor"></a>
+<div id="motion-3-41" class="motion-anchor"></div>
 
 > Approve 3 b) xlii, Public Housing Service Review, parts B) and C)   B)        the   Civic Administration BE REQUESTED to work together with the LMHC on a review   of any shared services opportunities and cost centre savings and   efficiencies; it being noted that the Municipal Council has made av...
 
@@ -3953,7 +3953,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-42" class="motion-anchor"></a>
+<div id="motion-3-42" class="motion-anchor"></div>
 
 > Approve 3 b) xliii)     Business Case #51 – Reduction in conventional transit   services:  No reduction.
 
@@ -3971,7 +3971,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-43" class="motion-anchor"></a>
+<div id="motion-3-43" class="motion-anchor"></div>
 
 > Approve 3 b) parts:   xliv)     Business   Case #53 – Council Service London Team – Increase in Administrative Support:    Take no action with respect to hiring additional staff within the   Councillors' office related to the implementation of the approved Council   support model.   xlv)      Bus...
 
@@ -3989,7 +3989,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-44" class="motion-anchor"></a>
+<div id="motion-3-44" class="motion-anchor"></div>
 
 > Approve 3 h), excluding part vii,   That the 2013 Operating Budget BE APPROVED   for the following services within Protective Services:   i)          Page 284 - ANIMAL SERVICES -   Animal Services - $1,065K   ii)         Page   290 - BY-LAW ENFORCEMENT & PROPERTY STANDARDS - By-law Enforcement & ...
 
@@ -4000,7 +4000,7 @@ Unanimous (15-0)
 ### 3. Corporate Operating
   Budget
 
-<a id="motion-3-45" class="motion-anchor"></a>
+<div id="motion-3-45" class="motion-anchor"></div>
 
 > Approve 3 h) vii)  Page 317 - POLICE SERVICES - London Police Service -   $91,231K, Less: $1,164K for new tax supported base budget of $90,067K, Add:   $528K one-time funding from Corporate Financing for 2013.
 
@@ -4018,7 +4018,7 @@ Unanimous (15-0)
 ### 4. Corporate Capital
   Budget
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Approve that the London Police Services Board BE ASKED to report back with a   Business Case related to the possible placement of Automated External   Defibrillators (AEDs) in London Police Services vehicles; it being noted that   other means of funding are also to be explored.
 
@@ -4036,7 +4036,7 @@ Unanimous (15-0)
 ### 4. Corporate Capital
   Budget
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4047,7 +4047,7 @@ Unanimous (15-0)
 ### 4. Corporate Capital
   Budget
 
-<a id="motion-4-2" class="motion-anchor"></a>
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Amend part ag) of clause 2, by adding   the following words at the beginning of the clause, “That a placeholder for   the 2014 Budget BE ESTABLISHED in the amount of $250,000 for the Sherwood   Forest Public School repurposing for a seniors’ centre; it being noted that”.
 
@@ -4058,7 +4058,7 @@ Unanimous (13-0)
 ### 4. Corporate Capital
   Budget
 
-<a id="motion-4-4" class="motion-anchor"></a>
+<div id="motion-4-4" class="motion-anchor"></div>
 
 > Refer  the matter of a placeholder   in the amount of $25,000 related to the request of the London Multicultural   Community for an Immigrant Incubation Centre (clause 6) to the Investment and   Economic Prosperity Committee for a more fulsome discussion with respect to   the nature of the propos...
 
@@ -4076,7 +4076,7 @@ Unanimous (13-0)
 ### 5. Proposed Family
   Centre – Lorne Avenue Public School
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Approve that funding in the amount of $1   million for a proposed family centre at the Lorne Avenue Public School BE   INCLUDED for consideration in the 2014 Budget, subject to financing being   secured; it being noted that the Strategic Priorities and Policy Committee   received a communication ...
 
@@ -4087,7 +4087,7 @@ Unanimous (13-0)
 ### 7. Repurposing of
   London Hydro Loan
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Approve that the Civic Administration BE DIRECTED to continue discussions and   the necessary analysis with respect to the proposed repurposing of the London   Hydro loan on the open market, and report back to the Strategic Priorities   and Policy Committee with a recommended proposal well in adv...
 
@@ -4104,7 +4104,7 @@ Unanimous (13-0)
 
 ### 8. Normal School
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Amend clause 8 by adding the following words   at the end of the clause, “subject   to final business plan approval.”
 
@@ -4115,7 +4115,7 @@ Unanimous (15-0)
 ### 9. Overnight Parking
   Restrictions
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Approve that NO ACTION BE TAKEN with respect to the proposed elimination of   overnight parking restrictions.
 
@@ -4133,7 +4133,7 @@ Unanimous (15-0)
 ### 10. Fire Station No. 1
   – Interior Alterations
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Division Manager, Facilities and   the Fire Chief:   (a)       the   bid submitted by Allied Construction Corporation, 25 Stanley St., London, ON   N6C 1A9, at its tendered price of $409,780 (HST excluded) for No. 1 Fire   Station – Interior Alterations,...
 
@@ -4143,7 +4143,7 @@ Unanimous (15-0)
 
 ### 11. Development Charges
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Approve that the Civic Administration BE REQUESTED to report back to the   Strategic Priorities and Policy Committee with respect to additional revenue   opportunities including but not limited to development charges for industrial   (25%); industrial oversizing (25%) and the community improvemen...
 
@@ -4160,7 +4160,7 @@ Unanimous (15-0)
 
 ### 11. Development Charges
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Approve receipt of the 5th Report of the   Committee of the Whole, reporting progress on the following matters:
 

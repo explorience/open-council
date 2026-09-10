@@ -664,7 +664,7 @@ The meeting adjourned at 5:50 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.4 and 2.5 BE APPROVED.
 
@@ -674,7 +674,7 @@ Unanimous (5-0)
 
 ### 2.3. Proposed Winter Response for 2026-2027
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > That the delegation request from S. Campbell, Ark Aid Street Mission, with respect to this matter, BE APPROVED.
 
@@ -684,7 +684,7 @@ Unanimous (5-0)
 
 ### 2.3. Proposed Winter Response for 2026-2027
 
-<a id="motion-2-3-2" class="motion-anchor"></a>
+<div id="motion-2-3-2" class="motion-anchor"></div>
 
 > That part a) of the motion BE APPROVED.
 
@@ -694,7 +694,7 @@ Unanimous (5-0)
 
 ### 2.3. Proposed Winter Response for 2026-2027
 
-<a id="motion-2-3-3" class="motion-anchor"></a>
+<div id="motion-2-3-3" class="motion-anchor"></div>
 
 > That parts b), c) and d) of the motion BE APPROVED.
 
@@ -713,7 +713,7 @@ Unanimous (5-0)
 
 ### 4.1. 6th Report of the Environmental Stewardship and Action Community Advisory Committee
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 6th Report of the Environmental Stewardship and Action Community Advisory Committee, from the meeting held on June 25, 2026: a)    the following actions be taken with respect to the Environmental Stewardship and Action Community Advisory Com...
 
@@ -723,7 +723,7 @@ Unanimous (5-0)
 
 ### 4.2. Amendments to Business Licensing By-Law to Regulate Driving School Instruction
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee by Q2 2027 with options to amend the Business Licensing By-law to regulate driving school instruction within designated restricted areas, including: a)    proposed criteria for identifying ...
 
@@ -733,7 +733,7 @@ Unanimous (6-0)
 
 ### 4.3. Pilot Program for Air Conditioning Support for Low-Income Seniors
 
-<a id="motion-4-3-2" class="motion-anchor"></a>
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add new parts b) and c) to read as follows: b)    the Mayor BE REQUESTED to advocate to the Federation of Canadian Municipalities (FCM)  for funding opportunities to support a pilot program to provide free or subsidized air conditioning units to low-income seniors in...
 
@@ -743,7 +743,7 @@ Unanimous (6-0)
 
 ### 4.3. Pilot Program for Air Conditioning Support for Low-Income Seniors
 
-<a id="motion-4-3-3" class="motion-anchor"></a>
+<div id="motion-4-3-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED
 
@@ -753,7 +753,7 @@ Unanimous (6-0)
 
 ### 4.4. City of London Special Constable Program
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of establishing a City of London Special Constable Program, with the report to include: a)    the findings and recommendations of the Community Safety Knowledge Alliance ...
 
@@ -770,7 +770,7 @@ Unanimous (6-0)
 
 ### 4.4. City of London Special Constable Program
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED by replacing the words "establishing a City of London Special Constable Program" with "implementing a permanent City of London Special Constable Program"; and amending clauses c) and d) as follows: c)    legislative and regulatory requirements, including any required ap...
 
@@ -787,7 +787,7 @@ Unanimous (6-0)
 
 ### 4.5. By-law Enforcement Administrative Fees
 
-<a id="motion-4-5-2" class="motion-anchor"></a>
+<div id="motion-4-5-2" class="motion-anchor"></div>
 
 > That the delegation request from K. Morrison, Old East Village Business Improvement Area, with respect to this matter, BE APPROVED.
 
@@ -797,7 +797,7 @@ Unanimous (5-0)
 
 ### 4.5. By-law Enforcement Administrative Fees
 
-<a id="motion-4-5-3" class="motion-anchor"></a>
+<div id="motion-4-5-3" class="motion-anchor"></div>
 
 > That the motion be amended to add "and any cost recovery associated" after the words "administrative fee".
 
@@ -816,7 +816,7 @@ Unanimous (5-0)
 
 ### 4.5. By-law Enforcement Administrative Fees
 
-<a id="motion-4-5-4" class="motion-anchor"></a>
+<div id="motion-4-5-4" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 

@@ -351,7 +351,7 @@ Concludes our official agenda for today, recognizing it's also in Indigenous His
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, and 2.7, BE APPROVED.
 

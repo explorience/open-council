@@ -344,7 +344,7 @@ C-1.    (ADDED)
 ### 2. 1st Report of
   London Housing Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -356,7 +356,7 @@ Unanimous (4-0)
 ### 3. Municipal Golf -
   Agreement with London Golf Club
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -368,7 +368,7 @@ Unanimous (4-0)
 ### 4. Annual Review -
   2016 Special Events Policies and Procedures Manual
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -381,7 +381,7 @@ Unanimous (4-0)
   Record (IAR) Project Agreement - The Corporation of The City of London -
   Dearness Home
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -393,7 +393,7 @@ Unanimous (4-0)
 ### 7. 2nd Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -405,7 +405,7 @@ Unanimous (4-0)
 ### 9. Deferred Matters
   List
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -417,7 +417,7 @@ Unanimous (4-0)
 ### 10. 2nd Report of the
   London Housing Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -429,7 +429,7 @@ Unanimous (4-0)
 ### 11. Absence from
   Meeting - Councillor V. Ridley
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

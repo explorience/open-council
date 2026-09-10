@@ -1459,7 +1459,7 @@ The meeting adjourned at 3:17 PM.
 
 ### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > a)    Case #P-1 - Various Services - Budget Right Sizing - Operating Expenditure ($4,982,000); Tax Levy ($6,994,000) BE APPROVED;
 
@@ -1469,7 +1469,7 @@ Unanimous (15-0)
 
 ### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > b)    Case #P-2 - Middlesex London Health Unit - Inflationary Pressures - Operating Expenditure $1,280,000; Tax Levy  $1,280,000 BE APPROVED;
 
@@ -1486,7 +1486,7 @@ Unanimous (15-0)
 
 ### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > c)    Case #P-3 - RBC Place London - Funding Support - Operating Expenditure $850,000; Tax Levy $0 BE APPROVED
 
@@ -1496,7 +1496,7 @@ Unanimous (15-0)
 
 ### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-1-4" class="motion-anchor"></a>
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > d)    Case #P-4 - Private Parking Enforcement - Increased Fines -Operating Expenditure $0; Tax Levy ($200,000) BE APPROVED;
 
@@ -1506,7 +1506,7 @@ Unanimous (15-0)
 
 ### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-1-5" class="motion-anchor"></a>
+<div id="motion-4-1-5" class="motion-anchor"></div>
 
 > e. Case #P-5 - Child Care and Ontario Works - Reduction in Required Investment - Operating Expenditure Case #P-5a – Child Care - Operating Expenditure ($1,630,000); Tax Levy ($1,630,000)
 
@@ -1523,7 +1523,7 @@ Unanimous (15-0)
 
 ### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-1-6" class="motion-anchor"></a>
+<div id="motion-4-1-6" class="motion-anchor"></div>
 
 > e. Case #P-5 - Child Care and Ontario Works - Reduction in Required Investment Case #P-5b – Ontario Works - Operating Expenditure ($1,143,000); Tax Levy ($1,143,000)
 
@@ -1540,7 +1540,7 @@ Unanimous (15-0)
 
 ### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-1-7" class="motion-anchor"></a>
+<div id="motion-4-1-7" class="motion-anchor"></div>
 
 > f)    Case #P-6 - Infrastructure Gap and Community Building Projects - Reductions - Operating Expenditure ($1,300,000); Tax Levy ($1,300,000) BE APPROVED.
 
@@ -1557,7 +1557,7 @@ Unanimous (15-0)
 
 ### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That Case #P-7a BE APPROVED: Case #P-7 - Neighbourhood Strategic Initiatives and Funding and Sports Services - Reduction to Neighbourhood and Athletic Travel Grant Programs - Operating Expenditure ($470,000); Tax Levy ($470,000) i.    Case #P-7a – Neighbourhood Decision Making Program - Operating...
 
@@ -1574,7 +1574,7 @@ Unanimous (15-0)
 
 ### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-3-2" class="motion-anchor"></a>
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > That Case #P-7b BE APPROVED: ii.    Case #P-7b – Neighbourhood Small Events Fund - Operating Expenditure ($20,000); Tax Levy ($20,000)
 
@@ -1591,7 +1591,7 @@ Unanimous (15-0)
 
 ### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-3-3" class="motion-anchor"></a>
+<div id="motion-4-3-3" class="motion-anchor"></div>
 
 > That Case #P-7c BE APPROVED: iii.    Case #P-7c – Athletic Travel Grants - Operating Expenditure ($200,000); Tax Levy ($200,000)
 
@@ -1608,7 +1608,7 @@ Unanimous (15-0)
 
 ### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-3-4" class="motion-anchor"></a>
+<div id="motion-4-3-4" class="motion-anchor"></div>
 
 > That part b) BE APPROVED: b.    Case #P-8 - Parks Planning and Design, Parks and Horticulture and Urban Forestry - Naturalization and Reduction in Tree Trimming - Operating Expenditure ($516,000); Tax Levy ($516,000)
 
@@ -1625,7 +1625,7 @@ Unanimous (15-0)
 
 ### 4.4. Review of Recommended Property Tax Capital Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2022 Annual Budget Update: a)    Case #P-9 - Invasive Species Management - Capital - Capital Expenditure $750,000; Tax Levy $0 BE APPROVED;
 
@@ -1635,7 +1635,7 @@ Unanimous (15-0)
 
 ### 4.4. Review of Recommended Property Tax Capital Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-4-2" class="motion-anchor"></a>
+<div id="motion-4-4-2" class="motion-anchor"></div>
 
 > b)    Case #P-10 - Transportation - Capital Project Adjustments -Capital Expenditure $9,191,000; Tax Levy $0 BE APPROVED; i)    TS-1496 – Sunningdale Road Project - Capital Expenditure $4,791,000; Tax Levy $0  ii)    TS1629-1 – Southdale Road West - Capital Expenditure $1,400,000; Tax Levy $0
 
@@ -1645,7 +1645,7 @@ Unanimous (15-0)
 
 ### 4.4. Review of Recommended Property Tax Capital Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-4-3" class="motion-anchor"></a>
+<div id="motion-4-4-3" class="motion-anchor"></div>
 
 > b)    Case #P-10 - Transportation - Capital Project Adjustments -Capital Expenditure $9,191,000; Tax Levy $0 BE APPROVED; iii)    TS1355-1 – Wharncliffe Road Grade Separation Project - Capital Expenditure $3,000,000; Tax Levy $0
 
@@ -1662,7 +1662,7 @@ Unanimous (15-0)
 
 ### 4.4. Review of Recommended Property Tax Capital Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-4-4" class="motion-anchor"></a>
+<div id="motion-4-4-4" class="motion-anchor"></div>
 
 > c)    Case #P-11 - Long-term Disposal Capacity - Revised Costs -Capital Expenditure $1,720,000; Tax Levy $0 BE APPROVED; and, d)    Case #P-12 - LTC - Zero Emission Buses - Capital Expenditure$25,960,000; Tax Levy $0 BE APPROVED.
 
@@ -1672,7 +1672,7 @@ Unanimous (15-0)
 
 ### 4.8. Operating Budget
 
-<a id="motion-4-8-1" class="motion-anchor"></a>
+<div id="motion-4-8-1" class="motion-anchor"></div>
 
 > Motion to approve part a) i) That in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the operating budget (Appendix A):  a)  the amended 2022 operating budget BE READOPTED in the gross expenditure amounts as follows:   i.    ...
 
@@ -1689,7 +1689,7 @@ Unanimous (15-0)
 
 ### 4.8. Operating Budget
 
-<a id="motion-4-8-2" class="motion-anchor"></a>
+<div id="motion-4-8-2" class="motion-anchor"></div>
 
 > Motion to approve a) ii) ii.    the amended 2022 operating budget for Children’s Services BE APPROVED in the gross expenditure amount of $58,666,453 and the tax levy amount of $7,145,081;
 
@@ -1699,7 +1699,7 @@ Unanimous (14-0)
 
 ### 4.8. Operating Budget
 
-<a id="motion-4-8-3" class="motion-anchor"></a>
+<div id="motion-4-8-3" class="motion-anchor"></div>
 
 > Motion to approve a) iii) iii.    the amended 2022 operating budget for Golf BE APPROVED in the gross expenditure amount of $3,740,834 and the tax levy amount of $57,062;
 
@@ -1716,7 +1716,7 @@ Unanimous (14-0)
 
 ### 4.8. Operating Budget
 
-<a id="motion-4-8-4" class="motion-anchor"></a>
+<div id="motion-4-8-4" class="motion-anchor"></div>
 
 > Motion to approve a) iv): iv.    the amended 2022 operating budget, excluding London Public Library, Children’s Services, and Golf BE APPROVED in the gross expenditure amount of $989,370,443 and the tax levy amount of $672,905,283 after recognizing $9,430,132 of increased taxation from assessment...
 
@@ -1733,7 +1733,7 @@ Unanimous (14-0)
 
 ### 4.8. Operating Budget
 
-<a id="motion-4-8-5" class="motion-anchor"></a>
+<div id="motion-4-8-5" class="motion-anchor"></div>
 
 > Motion to approve b) i): b) the amended 2023 operating budget BE READOPTED as follows:  i.    the amended 2023 operating budget for London Public Library BE APPROVED in the gross expenditure amount of $22,128,694 and the tax levy amount of $22,128,694;
 
@@ -1750,7 +1750,7 @@ Unanimous (14-0)
 
 ### 4.8. Operating Budget
 
-<a id="motion-4-8-6" class="motion-anchor"></a>
+<div id="motion-4-8-6" class="motion-anchor"></div>
 
 > Motion to approve b) ii): ii.    the amended 2023 operating budget for Children’s Services BE APPROVED in the gross expenditure amount of $60,815,173 and the tax levy amount of $8,835,703;
 
@@ -1760,7 +1760,7 @@ Unanimous (14-0)
 
 ### 4.8. Operating Budget
 
-<a id="motion-4-8-7" class="motion-anchor"></a>
+<div id="motion-4-8-7" class="motion-anchor"></div>
 
 > Motion to approve b) iii): iii.    the amended 2023 operating budget for Golf BE APPROVED in the gross expenditure amount of $3,787,965 and the tax levy amount of $75,564;
 
@@ -1777,7 +1777,7 @@ Unanimous (14-0)
 
 ### 4.8. Operating Budget
 
-<a id="motion-4-8-8" class="motion-anchor"></a>
+<div id="motion-4-8-8" class="motion-anchor"></div>
 
 > Motion to approve b) iv): iv.    the amended 2023 operating budget, excluding London Public Library, Children’s Services, and Golf BE APPROVED in the gross expenditure amount of $1,012,085,786 and the tax levy amount of $698,023,097; it being noted that the amended total 2023 operating budget bei...
 
@@ -1794,7 +1794,7 @@ Unanimous (14-0)
 
 ### 4.9. Capital Budget
 
-<a id="motion-4-9-1" class="motion-anchor"></a>
+<div id="motion-4-9-1" class="motion-anchor"></div>
 
 > Motion to approve parts a), b) and c): That, in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the capital budget (Appendix B), excluding Library Services and Golf: a.    the amended 2022 capital budget BE READOPTED in the a...
 
@@ -1804,7 +1804,7 @@ Unanimous (15-0)
 
 ### 4.9. Capital Budget
 
-<a id="motion-4-9-2" class="motion-anchor"></a>
+<div id="motion-4-9-2" class="motion-anchor"></div>
 
 > Motion to approve part d): d.    That the following actions be taken with respect to the Library Services capital budget: i.    The amended 2022 capital budget BE READOPTED in the amount of $745,000.  ii.    The amended 2023 capital budget BE READOPTED in the amount of $745,000.  iii.    The amen...
 
@@ -1814,7 +1814,7 @@ Unanimous (14-0)
 
 ### 4.9. Capital Budget
 
-<a id="motion-4-9-3" class="motion-anchor"></a>
+<div id="motion-4-9-3" class="motion-anchor"></div>
 
 > Motion to approve part e): e.    That the following actions be taken with respect to the Golf capital budget: i.    The amended 2022 capital budget BE READOPTED in the amount of $150,000.  ii.    The amended 2023 capital budget BE READOPTED in the amount of $150,000.  iii.    The amended 2024-202...
 
@@ -1824,7 +1824,7 @@ Unanimous (14-0)
 
 ### 4.10. By-laws Regarding Tax Levy, Operating and Capital Budgets
 
-<a id="motion-4-10-0" class="motion-anchor"></a>
+<div id="motion-4-10-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to bring forward any necessary by-laws regarding the tax levy, the operating and capital budgets for introduction at Municipal Council.
 
@@ -1834,7 +1834,7 @@ Unanimous (15-0)
 
 ### 4.11. Review of Water Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-11-0" class="motion-anchor"></a>
+<div id="motion-4-11-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2022 Annual Water Budget Update: a)    Case #W-1 - Schedule Changes for Water Lifecycle Renewal Projects - Operating Expenditure $0; Operating Revenue $0; Capital Expenditure $0 BE APPROVED; and,     b)    Case #W-2 - Schedule Changes for Wa...
 
@@ -1844,7 +1844,7 @@ Unanimous (15-0)
 
 ### 4.14. Water Services
 
-<a id="motion-4-14-0" class="motion-anchor"></a>
+<div id="motion-4-14-0" class="motion-anchor"></div>
 
 > That, in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the 2022 to 2023 operating budgets and 2022 to 2023 capital budgets and associated forecasts for Water Services: a) the amended 2022 operating budget for Water Services...
 
@@ -1854,7 +1854,7 @@ Unanimous (15-0)
 
 ### 4.15. Review of Wastewater and Treatment Budget Amendments (2022-2023 totals rounded to the closest $1,000)
 
-<a id="motion-4-15-0" class="motion-anchor"></a>
+<div id="motion-4-15-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2022 Annual  Wastewater and Treatment Budget Update:    a)   Case #WWT-1 - Reduce Energy Budget at Greenway Wastewater Treatment Plant and Create Dedicated Program for Sewage By-pass and Overflow Elimination - Operating Expenditure $0; Opera...
 
@@ -1864,7 +1864,7 @@ Unanimous (15-0)
 
 ### 4.18. Wastewater and Treatment Services
 
-<a id="motion-4-18-0" class="motion-anchor"></a>
+<div id="motion-4-18-0" class="motion-anchor"></div>
 
 > That in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the 2022 to 2023 operating budgets and 2022 to 2023 capital budgets and associated forecasts for Wastewater and Treatment Services: a)  the amended 2022 operating budget...
 

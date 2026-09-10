@@ -327,7 +327,7 @@ The Corporate Services Committee convened
   Illumination of City of London Buildings and Amenities with Multi-Colour
   Capable LED Lighting Installations
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -339,7 +339,7 @@ Unanimous (5-0)
 ### 3. Council Policy -
   Amendment of Flags at City Hall Policy
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -352,7 +352,7 @@ Unanimous (5-0)
   Province of Ontario to Enhance the London and Middlesex Immigration Portal
   Labour Market Section
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -364,7 +364,7 @@ Unanimous (5-0)
 ### 6. Comprehensive
   Economic and Trade Agreement with the European Union
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -376,7 +376,7 @@ Unanimous (5-0)
 ### 7. FCM's National
   Housing Campaign - Fixing Canada's Housing Crunch
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -388,7 +388,7 @@ Unanimous (5-0)
 ### 8. Request by Councillor
   H.L. Usher  to Update the Councillor's Lounge
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -400,7 +400,7 @@ Unanimous (5-0)
 ### 9. Appointment 
   of Voting Member to the Animal Welfare Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -413,7 +413,7 @@ Unanimous (5-0)
   Non-Voting Member to the Community Safety and Crime Prevention Advisory
   Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

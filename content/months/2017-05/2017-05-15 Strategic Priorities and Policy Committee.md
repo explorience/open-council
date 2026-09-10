@@ -854,7 +854,7 @@ The Strategic Priorities and Policy Committee
 ### 2. 1st Report of the
   Governance Working Group
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -865,7 +865,7 @@ Unanimous (9-0)
 ### 3. STAFF REPORT -
   Council Policy Manual Review of Chapters 1, 2, 3, 4, 6 and 8
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -877,7 +877,7 @@ Unanimous (14-0)
   Update on Municipal Implications of the Truth and Reconciliation Commission
   Report
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -889,7 +889,7 @@ Unanimous (12-0)
   PARTICIPATION MEETING - Growth Management Implementation Strategy (GMIS):
   2018 Annual Review & Update
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -901,7 +901,7 @@ Unanimous (14-0)
   PARTICIPATION MEETING - Growth Management Implementation Strategy (GMIS):
   2018 Annual Review & Update
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -913,7 +913,7 @@ Unanimous (14-0)
   PARTICIPATION MEETING - Growth Management Implementation Strategy (GMIS):
   2018 Annual Review & Update
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -924,7 +924,7 @@ Unanimous (14-0)
 ### 6. PUBLIC SUBMISSION -
   London and Middlesex Housing Corporation (LMHC) - State of Infrastructure
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -936,7 +936,7 @@ Unanimous (14-0)
   SUBMISSION - Request for a Shareholder's Meeting for the London &
   Middlesex Housing Corporation
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -947,7 +947,7 @@ Unanimous (12-0)
 ### 8. PUBLIC SUBMISSION -
   Request for a Shareholder's Meeting for the Housing Development Corporation, London
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -958,7 +958,7 @@ Unanimous (12-0)
 ### 9. PUBLIC SUBMISSION -
   Request for a Shareholder's Meeting for London Hydro Inc.
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -969,7 +969,7 @@ Unanimous (12-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -987,7 +987,7 @@ Unanimous (12-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-4" class="motion-anchor"></a>
+<div id="motion-10-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1005,7 +1005,7 @@ Unanimous (12-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-6" class="motion-anchor"></a>
+<div id="motion-10-6" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1023,7 +1023,7 @@ Unanimous (12-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-7" class="motion-anchor"></a>
+<div id="motion-10-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1041,7 +1041,7 @@ Unanimous (12-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-8" class="motion-anchor"></a>
+<div id="motion-10-8" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1052,7 +1052,7 @@ Unanimous (15-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-9" class="motion-anchor"></a>
+<div id="motion-10-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1070,7 +1070,7 @@ Unanimous (15-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-10" class="motion-anchor"></a>
+<div id="motion-10-10" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1088,7 +1088,7 @@ Unanimous (15-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1106,7 +1106,7 @@ Unanimous (15-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1124,7 +1124,7 @@ Unanimous (15-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-3" class="motion-anchor"></a>
+<div id="motion-10-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1140,7 +1140,7 @@ Unanimous (15-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-5" class="motion-anchor"></a>
+<div id="motion-10-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1151,7 +1151,7 @@ Unanimous (13-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-11" class="motion-anchor"></a>
+<div id="motion-10-11" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1169,7 +1169,7 @@ Unanimous (13-0)
 ### 10. STAFF REPORT -
   Rapid Transit Corridors
 
-<a id="motion-10-12" class="motion-anchor"></a>
+<div id="motion-10-12" class="motion-anchor"></div>
 
 > Motion Passed
 

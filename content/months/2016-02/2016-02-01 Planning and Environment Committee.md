@@ -723,7 +723,7 @@ The
 ### 2. 2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -735,7 +735,7 @@ Unanimous (5-0)
 ### 3. Designation of the
   King Street Bridge Under the Ontario Heritage Act
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -747,7 +747,7 @@ Unanimous (5-0)
 ### 4. Property located at
   1192 Highbury Avenue North – Ontario Municipal Board (OZ-8463)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -760,7 +760,7 @@ Unanimous (5-0)
   275 Thames Street
   - Repeal of Designation
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -773,7 +773,7 @@ Unanimous (5-0)
   at 130, 136, 146 and 164 Pond Mills Road and 925 Deveron Crescent
   (39T-12501/Z-8007)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -786,7 +786,7 @@ Unanimous (5-0)
   at 130, 136, 146 and 164 Pond Mills Road and 925 Deveron Crescent
   (39T-12501/Z-8007)
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -799,7 +799,7 @@ Unanimous (5-0)
   at 130, 136, 146 and 164 Pond Mills Road and 925 Deveron Crescent
   (39T-12501/Z-8007)
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -811,7 +811,7 @@ Unanimous (5-0)
 ### 7. 2nd Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -823,7 +823,7 @@ Unanimous (5-0)
 ### 8. 2nd Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -835,7 +835,7 @@ Unanimous (5-0)
 ### 9. 2nd Report of the
   Agricultural Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -847,7 +847,7 @@ Unanimous (5-0)
 ### 10. Evaluation of
   Community Improvement Plan Incentives
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -859,7 +859,7 @@ Unanimous (5-0)
 ### 10. Evaluation of
   Community Improvement Plan Incentives
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -871,7 +871,7 @@ Unanimous (5-0)
 ### 10. Evaluation of
   Community Improvement Plan Incentives
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -883,7 +883,7 @@ Unanimous (5-0)
 ### 10. Evaluation of
   Community Improvement Plan Incentives
 
-<a id="motion-10-3" class="motion-anchor"></a>
+<div id="motion-10-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -895,7 +895,7 @@ Unanimous (5-0)
 ### 11. Public Engagement
   Process – Glanworth Neighbourhood
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -907,7 +907,7 @@ Unanimous (5-0)
 ### 12. Bonus Policies –
   Draft London Plan
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

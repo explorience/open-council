@@ -135,7 +135,7 @@ The Strategic Priorities and Policy
 
 ### 3. London Arts Council
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -153,7 +153,7 @@ The Strategic Priorities and Policy
 ### 4. 4th Report of the
   Governance Working Group
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 

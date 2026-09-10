@@ -2807,7 +2807,7 @@ Motion carries. Thanks, folks.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Item 2.7 in Stage 2, Consent, to be remain in Consent.
 
@@ -2817,7 +2817,7 @@ Unanimous (5-0)
 
 ### 2. Consent
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > That Items 2.1-2.6 and 2.8, BE APPROVED.
 
@@ -2827,7 +2827,7 @@ Unanimous (5-0)
 
 ### 2.7. Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
 
-<a id="motion-2-7-1" class="motion-anchor"></a>
+<div id="motion-2-7-1" class="motion-anchor"></div>
 
 > That the delegation requests from P. McLean, B. Vogel and P. Schmidt, as appended to the added agenda BE APPROVED, to be heard at this time.
 
@@ -2837,7 +2837,7 @@ Unanimous (5-0)
 
 ### 2.7. Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
 
-<a id="motion-2-7-2" class="motion-anchor"></a>
+<div id="motion-2-7-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to read as follows: That the Civic Administration BE DIRECTED to undertake a review of the CMP and update it to remove the trail section of Attawandaron Road Park and take no further action on the implementation and construction of this trail.
 
@@ -2847,7 +2847,7 @@ Unanimous (5-0)
 
 ### 2.7. Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
 
-<a id="motion-2-7-3" class="motion-anchor"></a>
+<div id="motion-2-7-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -2857,7 +2857,7 @@ Unanimous (5-0)
 
 ### 3.2. 430 First Street (Z-25086)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2741943 Ontario Inc. c/o Europa Foods relating to the property located at 430 First Street, the proposed by-law as appended to the staff report dated August 12,...
 
@@ -2867,7 +2867,7 @@ Unanimous (4-0)
 
 ### 3.9. 1736, 1796 & 1814 Commissioners Road East (Z-25057)
 
-<a id="motion-3-9-0" class="motion-anchor"></a>
+<div id="motion-3-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Auburn Developments Inc. relating to the property located at 1736, 1796 & 1814 Commissioners Road East: a)    the proposed by-law as appended to the staff repor...
 
@@ -2877,7 +2877,7 @@ Unanimous (5-0)
 
 ### 3.10. 1196 Sunningdale Road West (OZ-25052)
 
-<a id="motion-3-10-1" class="motion-anchor"></a>
+<div id="motion-3-10-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part e) to read as follows: e) the Subdivision Approval Authority BE REQUESTED to consider amending the draft plan of subdivision to require the subject lands to be reserved for 3 years for permitted uses within the Community Facility (CF2) zone until the d...
 
@@ -2894,7 +2894,7 @@ Unanimous (5-0)
 
 ### 3.10. 1196 Sunningdale Road West (OZ-25052)
 
-<a id="motion-3-10-2" class="motion-anchor"></a>
+<div id="motion-3-10-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -2904,7 +2904,7 @@ Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > That the Deferred Matters list BE AMENDED to remove item 1 from the list.
 
@@ -2914,7 +2914,7 @@ Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-2" class="motion-anchor"></a>
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > That the motion as amended be approved
 

@@ -1994,7 +1994,7 @@ Our motion first, Councillor Deputy Mayor Lewis, seconded by Councillor Cudi, a 
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Item 2.2 in Stage 2, Consent, to remain in Stage 2.
 
@@ -2004,7 +2004,7 @@ Unanimous (5-0)
 
 ### 2. Consent
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > That Items 2.1, 2.3 and 2.4, BE APPROVED.
 
@@ -2014,7 +2014,7 @@ Unanimous (5-0)
 
 ### 2.2. Heritage Designation of the Property at 1269 Hyde Park Road
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation from the Director, Planning and Development the heritage designation request related to the property at 1269 Hyde Park Road BE REFUSED.
 
@@ -2031,7 +2031,7 @@ Unanimous (5-0)
 
 ### 3.3. 1447-1449 Dundas Street & 684-690 Hale Street - OZ-25110
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1412651 Ontario Limited o/a Prospera Properties relating to the property located at 1447-1449 Dundas Street and 684-690 Hale Street: a)    the proposed a...
 
@@ -2041,7 +2041,7 @@ Unanimous (5-0)
 
 ### 3.4. 1269 Hyde Park Road - OZ-25105
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1269 Hyde Park Rd Inc. relating to the property located at 1269 Hyde Park Road:    a)    the proposed attached by-law BE INTRODUCED at the Municipal Coun...
 
@@ -2058,7 +2058,7 @@ Unanimous (5-0)
 
 ### 3.6. Amendments to Home Occupation - Z-25103
 
-<a id="motion-3-6-1" class="motion-anchor"></a>
+<div id="motion-3-6-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by the City of London relating to home occupation uses: a)    the proposed by-law as appended to the staff report dated November 12, 2025, as Appendix "A" BE INTRO...
 
@@ -2073,7 +2073,7 @@ Unanimous (5-0)
 
 ### 3.8. 3563 Bostwick Road - OZ-25078/ 39T-24502
 
-<a id="motion-3-8-0" class="motion-anchor"></a>
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of MHBC Planning Ltd. relating to the property located at 3563 Bostwick Road: a)    the proposed by-law as appended to the staff report dated November 12, 2025, as...
 

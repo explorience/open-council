@@ -609,7 +609,7 @@ The Corporate Services Committee convened
 
 ### 2. Mobile User Experience
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -622,7 +622,7 @@ Unanimous (5-0)
   By-Law for New Affordable Housing Program Project at 1166 Hamilton Road,
   London
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -635,7 +635,7 @@ Unanimous (5-0)
   By-Law for New Affordable Housing Program Project at 226, 228 and 230 Dundas
   Street, London
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -648,7 +648,7 @@ Unanimous (5-0)
   By-Law for New Affordable Housing Program Project at 339 Commissioners Road
   West, London
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -661,7 +661,7 @@ Unanimous (5-0)
   By-Law for New Affordable Housing Program Project at 380 Princess Avenue,
   London
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -673,7 +673,7 @@ Unanimous (5-0)
 ### 7. Residential Tax
   By-Law for New Affordable Housing Program Project at 193 Clarke Road, London
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -685,7 +685,7 @@ Unanimous (5-0)
 ### 8. Appointed Citizen
   Members 2016 Remuneration
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -697,7 +697,7 @@ Unanimous (5-0)
 ### 9. Green Municipal
   Fund – Combined Loan and Grant Agreement Update
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -709,7 +709,7 @@ Unanimous (5-0)
 ### 10. Grand Theatre Multi-Year
   Operating Agreement
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -721,7 +721,7 @@ Unanimous (5-0)
 ### 11. Expropriation of Lands
   – Wonderland Road South Improvements – Phase I - TS1487 PR-01
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -733,7 +733,7 @@ Unanimous (5-0)
 ### 12. Public Sector Salary
   Disclosure Act Report for Calendar Year 2015
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -746,7 +746,7 @@ Unanimous (5-0)
   Federation of Canadian Municipalities Board of Directors Meeting -
   Sherbrooke, Quebec - March 1-4, 2016
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -758,7 +758,7 @@ Unanimous (5-0)
 ### 14. 2015 London
   Convention Centre Operational Results
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -770,7 +770,7 @@ Unanimous (5-0)
 ### 15. Appointments to the
   Advisory Committee on the Environment
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -782,7 +782,7 @@ Unanimous (6-0)
 ### 16. Ontario Good Roads
   Association
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -794,7 +794,7 @@ Unanimous (6-0)
 ### 17. Board of Directors
   - Federation of Canadian Municipalities - Councillor H.L. Usher
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -806,7 +806,7 @@ Unanimous (6-0)
 ### 18. Board of Directors
   - Federation of Canadian Municipalities - Deputy Mayor M. Cassidy
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -818,7 +818,7 @@ Unanimous (6-0)
 ### 19. Request for
   Delegation Status - L. N. Garrison
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -830,7 +830,7 @@ Unanimous (6-0)
 ### 19. Request for
   Delegation Status - L. N. Garrison
 
-<a id="motion-19-1" class="motion-anchor"></a>
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -842,7 +842,7 @@ Unanimous (6-0)
 ### 19. Request for
   Delegation Status - L. N. Garrison
 
-<a id="motion-19-2" class="motion-anchor"></a>
+<div id="motion-19-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

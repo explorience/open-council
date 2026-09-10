@@ -941,7 +941,7 @@ Thank you, colleagues, staff meeting adjourned.
 
 ### 5.1. (ADDED) Delegation - London: A Place to Call Home - Mike Wallace, Executive Director, London Development Institute (LDI)
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the presentation, and associated report, from M. Wallace and J. Zaifman, of London Development Institute and London Home Builders Association, respectively, with respect to “London: A Place to Call Home”, BE FORWARDED to the Civic Administration for review, with a request to provide a report...
 

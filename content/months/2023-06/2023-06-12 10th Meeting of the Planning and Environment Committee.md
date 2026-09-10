@@ -532,7 +532,7 @@ The meeting adjourned at 7:33 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 and 2.2 BE APPROVED.
 
@@ -542,7 +542,7 @@ Unanimous (6-0)
 
 ### 3.2. Community Improvement Plans and Financial Incentive Programs (Final)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the evaluation of Community Improvement Plan and Financial Incentives Programs:     a)    the recommendations identified through the 5-Year Community Improveme...
 
@@ -552,7 +552,7 @@ Unanimous (6-0)
 
 ### 3.2. Community Improvement Plans and Financial Incentive Programs (Final)
 
-<a id="motion-3-2-3" class="motion-anchor"></a>
+<div id="motion-3-2-3" class="motion-anchor"></div>
 
 > Motion to amend clause a) ii) to read as follows: "a) ii) the Community Improvement Plan for Industrial Land Uses BE AMENDED to remove ‘businesses that develop computer software or hardware for license or sale to end users that are on land zoned for industrial uses’ and to remove ‘enhanced transp...
 
@@ -562,7 +562,7 @@ Unanimous (6-0)
 
 ### 3.2. Community Improvement Plans and Financial Incentive Programs (Final)
 
-<a id="motion-3-2-4" class="motion-anchor"></a>
+<div id="motion-3-2-4" class="motion-anchor"></div>
 
 > Motion to amend clause b) i) to read as follows: "b) i) the Industrial Land Corridor Enhancement Grant Program BE DELETED from the Community Improvement Plan for Industrial Land Uses;"
 
@@ -579,7 +579,7 @@ Unanimous (6-0)
 
 ### 3.2. Community Improvement Plans and Financial Incentive Programs (Final)
 
-<a id="motion-3-2-5" class="motion-anchor"></a>
+<div id="motion-3-2-5" class="motion-anchor"></div>
 
 > Motion to amend clause d) iii) to read as follows: "d) iii) that Civic Administration BE DIRECTED to investigate the feasibility of amending the Upgrade to Building Code Loan Program offered in the Downtown and Old East Village Community Improvement Project Plans to increase the amount of the for...
 
@@ -589,7 +589,7 @@ Unanimous (6-0)
 
 ### 3.2. Community Improvement Plans and Financial Incentive Programs (Final)
 
-<a id="motion-3-2-6" class="motion-anchor"></a>
+<div id="motion-3-2-6" class="motion-anchor"></div>
 
 > Motion to amend clause d) xi) to read as follows: "d) xi) that Civic Administration BE DIRECTED to amend the Downtown Residential Development Charges Grant Program to require that applicants accessing this CIP are required to include 10% affordable units (80% AMR or better) to access the Resident...
 

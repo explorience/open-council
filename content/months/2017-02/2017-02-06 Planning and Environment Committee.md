@@ -762,7 +762,7 @@ The meeting adjourned at 7:15 PM.
 ### 2. 2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -774,7 +774,7 @@ Unanimous (5-0)
 ### 3. 2nd Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -787,7 +787,7 @@ Unanimous (5-0)
   Phase l Conservation Master Plan (CMP) for the Medway Valley Heritage Forest
   (MVHF) Environmentally Significant Area (ESA) (south)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -800,7 +800,7 @@ Unanimous (5-0)
   Single Source Purchase for Complex Ecological Restoration Works in
   Westminster Ponds/Pond Mills Environmentally Significant Area
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -812,7 +812,7 @@ Unanimous (5-0)
 ### 6. STAFF REPORT -
   Properties located at 598, 600, 604 and 608 Springbank Drive (Z-8374)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -824,7 +824,7 @@ Unanimous (5-0)
 ### 7. STAFF REPORT - Properties
   located at 100 Fullarton Street and 93-95 Dufferin Avenue (Z-8617)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -837,7 +837,7 @@ Unanimous (5-0)
   Summerside Subdivision - Lands Located West of Meadowgate Boulevard and East
   of Highbury Avenue South  (39T-92020-D)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -849,7 +849,7 @@ Unanimous (5-0)
 ### 9. STAFF REPORT -
   Property located at 1300 Fanshawe Park Road East  (39T-04512)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -861,7 +861,7 @@ Unanimous (5-0)
 ### 10. STAFF REPORT -
   Strategic Plan Progress Variance
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -873,7 +873,7 @@ Unanimous (5-0)
 ### 11. STAFF REPORT -
   Ministers Modifications to the London Plan - Secondary Dwelling Units
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -892,7 +892,7 @@ Unanimous (5-0)
 ### 11. STAFF REPORT -
   Ministers Modifications to the London Plan - Secondary Dwelling Units
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -904,7 +904,7 @@ Unanimous (3-0)
 ### 12. STAFF REPORT - The
   London Plan - Appeals to the Ontario Municipal Board
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -916,7 +916,7 @@ Unanimous (5-0)
 ### 13. Building Division
   Monthly Report - December 2016
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -929,7 +929,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Minimum Distance Separation (MDS) Zoning Review
   (Z-8718)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -942,7 +942,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Minimum Distance Separation (MDS) Zoning Review
   (Z-8718)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -955,7 +955,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Minimum Distance Separation (MDS) Zoning Review
   (Z-8718)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -967,7 +967,7 @@ Unanimous (5-0)
 ### 15. STAFF REPORT -
   Property located at  1 Terrace Street – Brownfield Incentive
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -979,7 +979,7 @@ Unanimous (5-0)
 ### 16. PUBLIC SUBMISSIONS
   – Properties located at 946, 954 and 962 Longworth Road  (H8713)
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -991,7 +991,7 @@ Unanimous (4-0)
 ### 17. (ADDED) STAFF
   REPORT - Use of New Technology for Engagement
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1003,7 +1003,7 @@ Unanimous (4-0)
 ### 18. (ADDED) 1st Report
   of the Agricultural Advisory Committee
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1015,7 +1015,7 @@ Unanimous (4-0)
 ### 18. (ADDED) 1st Report
   of the Agricultural Advisory Committee
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

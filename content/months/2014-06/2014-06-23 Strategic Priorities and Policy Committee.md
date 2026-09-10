@@ -235,7 +235,7 @@ The Strategic
 ### 2. London Police
   Services Board Budget By-law
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -247,7 +247,7 @@ Unanimous (14-0)
 ### 2. London Police
   Services Board Budget By-law
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -259,7 +259,7 @@ Unanimous (14-0)
 ### 4. Growth Management
   Implementation Strategy (GMIS): 2015 Annual Review and Update
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -271,7 +271,7 @@ Unanimous (14-0)
 ### 5. Advanced
   Manufacturing Park
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -283,7 +283,7 @@ Unanimous (12-0)
 ### 7. Economic
   Development Review
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

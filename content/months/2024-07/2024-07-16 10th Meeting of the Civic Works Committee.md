@@ -646,7 +646,7 @@ Thank you, Councillor Ferreira. And with that, I adjourn the meeting.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.8 BE APPROVED.
 
@@ -656,7 +656,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) Service London Portal Request
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee on the feasibility of having a request button on the Service London Portal to report property standards violations and/or property naturalization violations.
 

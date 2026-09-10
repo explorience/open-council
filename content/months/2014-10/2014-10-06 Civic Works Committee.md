@@ -337,7 +337,7 @@ The
 ### 3. 4th Report of the
   Cycling Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -349,7 +349,7 @@ Unanimous (4-0)
 ### 4. London Wastewater
   Facility Update, Operating Agreement and Next Steps
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -362,7 +362,7 @@ Unanimous (4-0)
   Procurement Supply and Installation of Diesel Exhaust Fluid (DEF) Storage
   Kiosks and Dispensers
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -375,7 +375,7 @@ Unanimous (4-0)
   Highbury Avenue Intersection Improvements Environmental Assessment Study-Appointment
   of Consulting Engineer
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -387,7 +387,7 @@ Unanimous (4-0)
 ### 7. Wharncliffe Road
   South Environmental Assessment Study-Appointment of Consulting Engineer
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -399,7 +399,7 @@ Unanimous (4-0)
 ### 8. Greenway Wastewater
   Treatment Plant Rotating Drum Thickener Engineering Project ES5084-11
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -411,7 +411,7 @@ Unanimous (4-0)
 ### 9. Riverside Drive and
   Beaverbrook Avenue Intersection Improvement
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -423,7 +423,7 @@ Unanimous (4-0)
 ### 10. Minor Revisions to
   the W12A Landfill Site Community Enhancement and Mitigative Measures Program
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

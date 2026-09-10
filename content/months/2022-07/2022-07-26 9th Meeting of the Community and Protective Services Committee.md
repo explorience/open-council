@@ -1246,7 +1246,7 @@ We can do this one by a show of hands, right? All those in favor. We are adjourn
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5 BE APPROVED.
 
@@ -1256,7 +1256,7 @@ Unanimous (6-0)
 
 ### 2.6. Single Source Award Recommendation for Housing Identification Program Expansion and Portable Housing Benefits Program (SS-2022-061)
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated July 26, 2022, related to the Single Source Award Recommendation for Housing Identification Program Expansion and Portable Housing Benefits...
 
@@ -1266,7 +1266,7 @@ Unanimous (6-0)
 
 ### 4.1. Fireworks in the City of London
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation requests from B. Amendola and D. Ronson, with respect to Fireworks in the City of London, to be heard at this meeting.
 
@@ -1276,7 +1276,7 @@ Unanimous (6-0)
 
 ### 4.2. REQUEST FOR DELEGATION STATUS - D. Ronson - Signage Containing Graphic Images of Alleged Aborted Fetuses
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with respect to potential changes that could be made to the Sign By-law related to the prohibition of the display of graphic images in public; it being noted that the verbal ...
 
@@ -1286,7 +1286,7 @@ Unanimous (6-0)
 
 ### 4.2. REQUEST FOR DELEGATION STATUS - D. Ronson - Signage Containing Graphic Images of Alleged Aborted Fetuses
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from D. Ronson, with respect to Signage Containing Graphic Images of Alleged Aborted Fetuses, to be heard at this meeting.
 
@@ -1296,7 +1296,7 @@ Unanimous (6-0)
 
 ### 4.3. Water for Dogs at the Pottersburg Dog Park
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from R. Haslip, with respect to Water for Dogs at the Pottersburg Dog Park, to be heard at this meeting.
 
@@ -1306,7 +1306,7 @@ Unanimous (6-0)
 
 ### 4.4. Councillor M. van Holst - Homelessness vs. Camping and Transitional Housing
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from G. Turner, with respect to Homelessness vs Camping and Transitional Housing, to be heard at this meeting.
 
@@ -1316,7 +1316,7 @@ Unanimous (6-0)
 
 ### 4.6. Request for Additional Funding from Vision SoHo Alliance for the Housing Development Project at the Old Victoria Hospital Lands
 
-<a id="motion-4-6-0" class="motion-anchor"></a>
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated July 26, 2022, related to a Request for Additional Funding from Vision SoHo Alliance for the Housing Development Project at the Old Vic...
 
@@ -1326,7 +1326,7 @@ Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at July 18, 2022, with the exception of Item Number 1.
 
@@ -1336,7 +1336,7 @@ Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-2" class="motion-anchor"></a>
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > Motion to receive Item Number 1 on the Deferred Matters List for the Community and Protective Services Committee, as at July 18, 2022.
 

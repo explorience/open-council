@@ -722,7 +722,7 @@ The meeting adjourned at 7:23 PM.
 ### 2. 5th Report of the
   London Housing Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -734,7 +734,7 @@ Unanimous (4-0)
 ### 3. STAFF REPORT -
   Healthy Kids Community Challenge - Update
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -746,7 +746,7 @@ Unanimous (5-0)
 ### 4. STAFF REPORT -
   Council Policy for  Publicly  Releasing  Enforcement Information
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -765,7 +765,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT - 38
   Berkshire Court  -  Naturalized Area
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -779,7 +779,7 @@ Unanimous (4-0)
   Day Program and the South West Local Health Integration Network - Declaration
   of Compliance - April 1, 2016- March 31, 2017
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -791,7 +791,7 @@ Unanimous (5-0)
 ### 7. STAFF REPORT -
   Dearness Home: Dietary Software Upgrade -  Synergy on Demand
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -803,7 +803,7 @@ Unanimous (5-0)
 ### 8. London's Child and
   Youth Agenda: 2017-2021
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -815,7 +815,7 @@ Unanimous (5-0)
 ### 9. London
   Strengthening Neighbourhoods Strategy 2017-2020
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -827,7 +827,7 @@ Unanimous (5-0)
 ### 9. London
   Strengthening Neighbourhoods Strategy 2017-2020
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -847,7 +847,7 @@ Unanimous (5-0)
   By-law Review – Food Premises,  Refreshment Vehicles and Automotive Service
   Establishments
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -860,7 +860,7 @@ Unanimous (5-0)
   By-law Review – Food Premises,  Refreshment Vehicles and Automotive Service
   Establishments
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -873,7 +873,7 @@ Unanimous (5-0)
   By-law Review – Food Premises,  Refreshment Vehicles and Automotive Service
   Establishments
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -885,7 +885,7 @@ Unanimous (5-0)
 ### 11. COUNCILLOR
   SUBMISSION - Parking Enforcement - Privately-Owned Parking Lots
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -904,7 +904,7 @@ Unanimous (5-0)
 ### 12. 5th Report of the
   Diversity, Inclusion & Anti-Oppression Advisory Committee
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -915,7 +915,7 @@ Unanimous (5-0)
 ### 13. 2nd Report of the
   Childcare Advisory Committee
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -927,7 +927,7 @@ Unanimous (5-0)
 ### 14. 5th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -939,7 +939,7 @@ Unanimous (5-0)
 ### 15. 4th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -951,7 +951,7 @@ Unanimous (5-0)
 ### 16. 2nd Report of the
   Town and Gown Committee
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -963,7 +963,7 @@ Unanimous (5-0)
 ### 17. STAFF REPORT -
   Museum London Endowment Funds Transfer Request
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -975,7 +975,7 @@ Unanimous (5-0)
 ### 18. STAFF REPORT -
   Request for Renaming Carfrae Park West to Charles Hunt Park
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -987,7 +987,7 @@ Unanimous (4-0)
 ### 19. STAFF REPORT -
   London Optimist Sports Centre BMO Centre 295 Rectory Street - Grant Agreement
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -999,7 +999,7 @@ Unanimous (5-0)
 ### 20. Deferred Matters
   List
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

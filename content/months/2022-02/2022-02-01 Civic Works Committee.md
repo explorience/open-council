@@ -374,7 +374,7 @@ The meeting adjourned at 12:40 PM.
 
 ### 1. Disclosures of Pecuniary Interest
 
-<a id="motion-1-0" class="motion-anchor"></a>
+<div id="motion-1-0" class="motion-anchor"></div>
 
 > That pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Civic Works Committee Agenda BE APPROVED to provide for Stage 6, Confidential to be considered before Stage 2, Consent.
 
@@ -384,7 +384,7 @@ Unanimous (6-0)
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, and 2.8 BE APPROVED.
 
@@ -394,7 +394,7 @@ Unanimous (6-0)
 
 ### 5. Deferred Matters/Additional Business
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > That Items 5.1, 5.2, and 5.3 BE APPROVED.
 

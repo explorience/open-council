@@ -674,7 +674,7 @@ Motion Passed
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
-<a id="motion-iv-1" class="motion-anchor"></a>
+<div id="motion-iv-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -690,7 +690,7 @@ Motion Passed
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SECOND MEETING HELD ON JANUARY 16, 2018
 
-<a id="motion-v-1" class="motion-anchor"></a>
+<div id="motion-v-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -705,7 +705,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -720,7 +720,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -735,7 +735,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -750,7 +750,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-7" class="motion-anchor"></a>
+<div id="motion-xiii-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -765,7 +765,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-9" class="motion-anchor"></a>
+<div id="motion-xiii-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -780,7 +780,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-11" class="motion-anchor"></a>
+<div id="motion-xiii-11" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -795,7 +795,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-13" class="motion-anchor"></a>
+<div id="motion-xiii-13" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -810,7 +810,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-15" class="motion-anchor"></a>
+<div id="motion-xiii-15" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -825,7 +825,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-17" class="motion-anchor"></a>
+<div id="motion-xiii-17" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -841,7 +841,7 @@ Motion Passed
 ### 3. Property Disposition – Former Sherwood
   Forest Public School Located at 7 Annadale Drive
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -857,7 +857,7 @@ Motion Passed
 ### 4. 2019 Development Charges Study Policy
   Matters Update
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -875,7 +875,7 @@ Motion Passed
 ### 14. LGBTQ2 Community
   Apology
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -891,7 +891,7 @@ Motion Passed
 ### 14. LGBTQ2 Community
   Apology
 
-<a id="motion-14-3" class="motion-anchor"></a>
+<div id="motion-14-3" class="motion-anchor"></div>
 
 > Motion Passed
 

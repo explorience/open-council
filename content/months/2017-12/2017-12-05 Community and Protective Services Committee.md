@@ -579,7 +579,7 @@ The meeting adjourned at 8:00 PM.
 ### 2. Election of Vice
   Chair for the Term Ending November 30, 2018
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -591,7 +591,7 @@ Unanimous (5-0)
 ### 3. Museum London
   Operating Endowment Fund Transfer Request
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -603,7 +603,7 @@ Unanimous (6-0)
 ### 4. 2017 Annual
   Emergency Management Program Update
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -615,7 +615,7 @@ Unanimous (6-0)
 ### 5. Memorandums of
   Understanding with St. John Ambulance and London Intercommunity Health Centre
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -627,7 +627,7 @@ Unanimous (6-0)
 ### 6. Supply Chain Group
   Approval Purchasing and Revenue Share Agreements
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -639,7 +639,7 @@ Unanimous (6-0)
 ### 7. 4th Report of the
   Town and Gown Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -651,7 +651,7 @@ Unanimous (6-0)
 ### 8. 10th Report of the
   London Housing Advisory Committee
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -663,7 +663,7 @@ Unanimous (6-0)
 ### 9. Community Mental
   Health and Addiction Strategy for London: Moving Forward Together
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -675,7 +675,7 @@ Unanimous (6-0)
 ### 9. Community Mental
   Health and Addiction Strategy for London: Moving Forward Together
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -694,7 +694,7 @@ Unanimous (6-0)
 ### 9. Community Mental
   Health and Addiction Strategy for London: Moving Forward Together
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -706,7 +706,7 @@ Unanimous (6-0)
 ### 10. Taxi Operating
   Expenses
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -717,7 +717,7 @@ Unanimous (6-0)
 
 ### 11. Taxi Issues
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -729,7 +729,7 @@ Unanimous (6-0)
 ### 12. Business Licensing
   By-law Review - New and Revised Regulations
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -741,7 +741,7 @@ Unanimous (5-0)
 ### 13. 10th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -753,7 +753,7 @@ Unanimous (6-0)
 ### 14. 11th Report of the
   Diversity, Inclusion & Anti-Oppression Advisory Committee
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -772,7 +772,7 @@ Unanimous (6-0)
 ### 15. Deferred Matters
   List
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -783,7 +783,7 @@ Unanimous (5-0)
 
 ### 16. Council Chamber Doors
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

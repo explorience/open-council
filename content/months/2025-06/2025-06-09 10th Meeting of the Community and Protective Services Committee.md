@@ -1286,7 +1286,7 @@ All those opposed? That motion carries.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.8 BE APPROVED.
 
@@ -1296,7 +1296,7 @@ Unanimous (5-0)
 
 ### 2.9. Updated Highly Supportive Housing Plan Cost Breakdown Schedule
 
-<a id="motion-2-9-1" class="motion-anchor"></a>
+<div id="motion-2-9-1" class="motion-anchor"></div>
 
 > That the staff report dated June 9, 2025 with respect to the Updated Highly Supportive Housing Plan Cost Breakdown Schedule BE REFERRRED to the July 14, 2025 meeting of the Community and Protective Services Committee in order to provide cost breakdowns or draft operational budgets for the approve...
 
@@ -1313,7 +1313,7 @@ Unanimous (5-0)
 
 ### 4.1. Communication - City of London's Municipal Rent Assistance Program (MRAP) - Councillor D. Ferreira
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the communication, dated June 2, 2025, from Councillor D. Ferreira, related to the City of London’s Municipal Rent Assistance Program (MRAP): a)    the Civic Administration BE DIRECTED to allocate up to 30% of the 2025 municipal rent supplement ...
 
@@ -1330,7 +1330,7 @@ Unanimous (5-0)
 
 ### 4.1. Communication - City of London's Municipal Rent Assistance Program (MRAP) - Councillor D. Ferreira
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 1 minute with respect to this matter.
 
@@ -1340,7 +1340,7 @@ Unanimous (5-0)
 
 ### 4.2. Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the delegation request from C. Lazenby, Unity Project, as appended to the Added Agenda, BE APPROVED to be heard at this meeting. Additional Votes:
 
@@ -1350,7 +1350,7 @@ Unanimous (5-0)
 
 ### 4.2. Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to prepare an update for the August 11, 2025 meeting of the Community and Protective Services Committee regarding the status of the three 2021 Reaching Home capital projects, including the status of associated operational commitments and funding.
 

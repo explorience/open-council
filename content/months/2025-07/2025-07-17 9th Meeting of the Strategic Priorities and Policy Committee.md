@@ -624,7 +624,7 @@ shelters or another clerk um is there currently anything the procedural by-law t
 
 ### 2.1. 2nd Report of the Governance Working Group
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That part b) be approved to read as follows: b)    the Civic Administration BE REQUESTED to report back to a future meeting of the Governance Working Group with an environmental scan of comparable municipalities regarding the selection process and role description for the position of Deputy Mayor...
 
@@ -641,7 +641,7 @@ shelters or another clerk um is there currently anything the procedural by-law t
 
 ### 4.2. London Transit Commission Governance - Councillor S. Franke, Chair, London Transit
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That London Transit Commission Governance BE DEFERRED pending the outcome of the external governance review and report back to the Strategic Priorities and Policy Committee. it being noted that the Strategic Priorities and Policy Committee received a communication dated June 24, 2025 from Council...
 
@@ -658,7 +658,7 @@ shelters or another clerk um is there currently anything the procedural by-law t
 
 ### 4.3. Mobility Master Plan Notice of Completion
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That the motion be amended in part b) to add the following wording "statutory 30-day public review and comment period to assist in guiding implementation"
 
@@ -668,7 +668,7 @@ Unanimous (15-0)
 
 ### 4.3. Mobility Master Plan Notice of Completion
 
-<a id="motion-4-3-2" class="motion-anchor"></a>
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > That parts a) and b) of the motion, as amended, BE APPROVED.
 
@@ -685,7 +685,7 @@ Unanimous (15-0)
 
 ### 4.3. Mobility Master Plan Notice of Completion
 
-<a id="motion-4-3-3" class="motion-anchor"></a>
+<div id="motion-4-3-3" class="motion-anchor"></div>
 
 > That part c) of the motion, as amended, BE APPROVED.
 
@@ -695,7 +695,7 @@ Unanimous (15-0)
 
 ### 4.4. 2024 Climate Emergency Action Plan Progress Report
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken: a)    the presentation and staff report, providing a summary of progress and policy implications and opportunities pertaining to the Climate Emergency Action Plan (CEAP) as well...
 
@@ -712,7 +712,7 @@ Unanimous (15-0)
 
 ### 4.4. 2024 Climate Emergency Action Plan Progress Report
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > That the delegation request from M. Shannon and M. Sye, Enbridge Gas Ontario BE APPROVED to be heard at this time.
 

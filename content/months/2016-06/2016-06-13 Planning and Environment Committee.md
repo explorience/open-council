@@ -252,7 +252,7 @@ The meeting adjourned at 7:38 PM.
 
 ### 2. The London Plan
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -263,7 +263,7 @@ Unanimous (5-0)
 
 ### 2. The London Plan
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -274,7 +274,7 @@ Unanimous (4-0)
 
 ### 2. The London Plan
 
-<a id="motion-2-2" class="motion-anchor"></a>
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

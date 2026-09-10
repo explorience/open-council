@@ -2262,7 +2262,7 @@ That motion's carried. Okay, we're adjourned. Thank you for your time today.
 
 ### 4.1. London's Housing Pledge: A Path to 47,000 Units by 2031
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation request from Mr. M. Wallace, London Development Institute (LDI), BE APPROVED to be heard at this time.
 
@@ -2281,7 +2281,7 @@ That motion's carried. Okay, we're adjourned. Thank you for your time today.
 
 ### 4.1. London's Housing Pledge: A Path to 47,000 Units by 2031
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That part d) BE AMENDED to include the following: "it being noted that the Housing Supply Reference Group may expand to include additional members as may be appropriate, including but not limited to a member from the not-for-profit housing sector and a member involved in housing supply/housing re...
 
@@ -2291,7 +2291,7 @@ Unanimous (14-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Delegation request from J. Rodger, Executive Director, Anova and J. Dunn, Executive Director, London Abused Women's Centre BE APPROVED to be heard at this time.
 
@@ -2301,7 +2301,7 @@ Unanimous (14-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > Consideration of Vision Statement
 
@@ -2316,7 +2316,7 @@ Unanimous (14-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-4-2-4" class="motion-anchor"></a>
+<div id="motion-4-2-4" class="motion-anchor"></div>
 
 > That the Draft Vision Statement BE AMENDED to remove the words "and overcoming challenges" to read as follows: London is a sustainable city within a thriving region, committed to innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation.
 
@@ -2335,7 +2335,7 @@ Unanimous (14-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-4-2-5" class="motion-anchor"></a>
+<div id="motion-4-2-5" class="motion-anchor"></div>
 
 > Consideration of Mission Statement
 
@@ -2350,7 +2350,7 @@ Unanimous (14-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-4-2-6" class="motion-anchor"></a>
+<div id="motion-4-2-6" class="motion-anchor"></div>
 
 > That the Draft Mission Statement BE AMENDED to add "and build a strong and vibrant community through" and replacing the word "public" with "city" to read as follows: "Our mission is to improve the quality of life and build a strong and vibrant community through bold, proactive, and accountable ci...
 
@@ -2360,7 +2360,7 @@ Unanimous (13-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-4-2-7" class="motion-anchor"></a>
+<div id="motion-4-2-7" class="motion-anchor"></div>
 
 > Consideration of Draft Values
 
@@ -2375,7 +2375,7 @@ Unanimous (13-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-4-2-8" class="motion-anchor"></a>
+<div id="motion-4-2-8" class="motion-anchor"></div>
 
 > Consideration of Draft Values
 
@@ -2390,7 +2390,7 @@ Unanimous (13-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-4-2-9" class="motion-anchor"></a>
+<div id="motion-4-2-9" class="motion-anchor"></div>
 
 > That all three Draft Value sets BE REFERRED to the Municipal Council meeting of February 14, for consideration.
 
@@ -2400,7 +2400,7 @@ Unanimous (13-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-4-2-10" class="motion-anchor"></a>
+<div id="motion-4-2-10" class="motion-anchor"></div>
 
 > That the following Draft Vision and Mission BE ACCEPTED for additional consultation with the public: Vision London is a sustainable city within a thriving region, committed to innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation. Mission...
 
@@ -2410,7 +2410,7 @@ Unanimous (13-0)
 
 ### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
 
-<a id="motion-4-2-12" class="motion-anchor"></a>
+<div id="motion-4-2-12" class="motion-anchor"></div>
 
 > That the attached, revised draft Strategic Areas of Focus, Outcomes and Expected Results BE SHARED with the community to continue to seek feedback.
 
@@ -2420,7 +2420,7 @@ Unanimous (13-0)
 
 ### 4.6. Municipal Council resolution from its meeting held on January 24, 2023 with respect to the Ecological Community Advisory Committee
 
-<a id="motion-4-6-0" class="motion-anchor"></a>
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the resolution letter related to the 4th and 1st Reports of the Ecological Community Advisory Committee (ECAC): a)   the above noted resolution letter, BE RECEIVED; and, b)   Dr. E. Dusenge BE APPOINTED to the Ecological Community Advisory Commi...
 
@@ -2439,7 +2439,7 @@ Unanimous (13-0)
 
 ### 4.7. Municipal Council resolution from its meeting held on January 24, 2023 with respect to the Integrated Transportation Community Advisory Committee
 
-<a id="motion-4-7-0" class="motion-anchor"></a>
+<div id="motion-4-7-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Municipal Council resolution from its meeting held on January 24, 2023 regarding the Integrated Transportation Community Advisory Committee (ITCAC): a)  the Civic Administration BE DIRECTED to make necessary arrangements for hybrid meeting a...
 

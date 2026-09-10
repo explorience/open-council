@@ -651,7 +651,7 @@ The meeting adjourned at 6:40 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5, inclusive, BE APPROVED.
 
@@ -661,7 +661,7 @@ Unanimous (4-0)
 
 ### 3.4. 1674 Hyde Park Road and Part of 1712 Hyde Park Road (Z-9109)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1674 Hyde Park Inc., relating to the property located at 1674 Hyde Park Road and Part of 1712 Hyde Park Road: a) the proposed by-law appended to the staff report da...
 
@@ -671,7 +671,7 @@ Unanimous (4-0)
 
 ### 3.5. 84-86 St. George and 175-197 Ann Street (OZ-9127)
 
-<a id="motion-3-5-3" class="motion-anchor"></a>
+<div id="motion-3-5-3" class="motion-anchor"></div>
 
 > Motion to grant the delegation by Mr. A. Soufan, York Developments, an additional three minutes to speak to the application pertaining to the properties located at 84-86 St. George Street and 175-197 Ann Street.
 
@@ -681,7 +681,7 @@ Unanimous (4-0)
 
 ### 3.5. 84-86 St. George and 175-197 Ann Street (OZ-9127)
 
-<a id="motion-3-5-4" class="motion-anchor"></a>
+<div id="motion-3-5-4" class="motion-anchor"></div>
 
 > Motion to grant Ms. A-M. Valastro an additional minute to speak to the application pertaining to the properties located at 84-86 St. George Street and 175-197 Ann Street.
 
@@ -700,7 +700,7 @@ Unanimous (4-0)
 
 ### 6. Adjournment
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > The meeting adjourned at 6:40 PM.
 

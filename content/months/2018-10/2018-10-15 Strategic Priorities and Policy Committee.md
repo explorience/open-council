@@ -285,7 +285,7 @@ The meeting adjourned 6:54 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 to 2.4 BE APPROVED.
 
@@ -295,7 +295,7 @@ Unanimous (15-0)
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That Items 4.1 and 4.2 BE APPROVED.
 
@@ -305,7 +305,7 @@ Unanimous (15-0)
 
 ### 5.1. London Hydro – Request for BRT-related Information
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That London Hydro be requested to provide to the shareholder, London City Council, a breakdown of the estimated costs London Hydro will absorb for the work required to be undertaken for the bus rapid transit project; and further, if those costs will impact London Hydro ratepayers.
 

@@ -1444,7 +1444,7 @@ The
 ### 2. 7th Report of the
   Advisory Committee on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1456,7 +1456,7 @@ Unanimous (5-0)
 ### 3. By-law CP-2 -
   London Downtown Business Association Improvement Area
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1471,7 +1471,7 @@ Unanimous (3-0)
   652 Hale Street, 2536 and 2544 Colonel Talbot Road and 947 Longworth Road -
   Notice of Appeal to the Ontario Municipal Board (OZ-8271)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1483,7 +1483,7 @@ Unanimous (5-0)
 ### 5. Silverfox Crescent
   (Blocks 77, 79 and 81 in Plan 33M-622)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1495,7 +1495,7 @@ Unanimous (5-0)
 ### 6. Woodhull
   Subdivision - Request to Amend Special Provisions (39T-03511)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1507,7 +1507,7 @@ Unanimous (5-0)
 ### 7. Property located at
   2035 Pennyroyal Street (H-8349)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1519,7 +1519,7 @@ Unanimous (5-0)
 ### 8. Property located at
   3399 Castle Rock Place (H-8333)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1531,7 +1531,7 @@ Unanimous (5-0)
 ### 9. Property located at
   77 Tecumseh Avenue West (H-8328)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1543,7 +1543,7 @@ Unanimous (5-0)
 ### 10. Property located at
   1040 Wharncliffe Road South - White Oaks Subdivision - Phase 3C (H-8233)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1555,7 +1555,7 @@ Unanimous (5-0)
 ### 11. Property located at
   665 Wonderland Road North (H-8352)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1567,7 +1567,7 @@ Unanimous (5-0)
 ### 12. Properties located
   at 192-196 and 193-197 Central Avenue and 200 Albert Street (Z-8336)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1579,7 +1579,7 @@ Unanimous (5-0)
 ### 12. Properties located
   at 192-196 and 193-197 Central Avenue and 200 Albert Street (Z-8336)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1591,7 +1591,7 @@ Unanimous (5-0)
 ### 12. Properties located
   at 192-196 and 193-197 Central Avenue and 200 Albert Street (Z-8336)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1603,7 +1603,7 @@ Unanimous (5-0)
 ### 13. Residential
   Driveway Widths (Z-8316)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1615,7 +1615,7 @@ Unanimous (5-0)
 ### 13. Residential
   Driveway Widths (Z-8316)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1627,7 +1627,7 @@ Unanimous (5-0)
 ### 13. Residential
   Driveway Widths (Z-8316)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1639,7 +1639,7 @@ Unanimous (5-0)
 ### 14. Properties located
   at 83, 85 and 89 Ridout Street South (Z-8330)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1651,7 +1651,7 @@ Unanimous (5-0)
 ### 14. Properties located
   at 83, 85 and 89 Ridout Street South (Z-8330)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1663,7 +1663,7 @@ Unanimous (5-0)
 ### 14. Properties located
   at 83, 85 and 89 Ridout Street South (Z-8330)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1675,7 +1675,7 @@ Unanimous (5-0)
 ### 15. Property located at
   96 Ridout Street South (Z-8332)
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1687,7 +1687,7 @@ Unanimous (5-0)
 ### 15. Property located at
   96 Ridout Street South (Z-8332)
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1699,7 +1699,7 @@ Unanimous (5-0)
 ### 15. Property located at
   96 Ridout Street South (Z-8332)
 
-<a id="motion-15-2" class="motion-anchor"></a>
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1711,7 +1711,7 @@ Unanimous (5-0)
 ### 16. Properties located
   at 250, 268, 270 and 272 Springbank Drive (OZ-8279)
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1730,7 +1730,7 @@ Unanimous (5-0)
 ### 16. Properties located
   at 250, 268, 270 and 272 Springbank Drive (OZ-8279)
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1742,7 +1742,7 @@ Unanimous (5-0)
 ### 16. Properties located
   at 250, 268, 270 and 272 Springbank Drive (OZ-8279)
 
-<a id="motion-16-2" class="motion-anchor"></a>
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1754,7 +1754,7 @@ Unanimous (5-0)
 ### 17. Industrial Land
   Review: Urban Growth Boundary for Future Industrial Growth (O-8014)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1766,7 +1766,7 @@ Unanimous (5-0)
 ### 17. Industrial Land
   Review: Urban Growth Boundary for Future Industrial Growth (O-8014)
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1778,7 +1778,7 @@ Unanimous (5-0)
 ### 17. Industrial Land
   Review: Urban Growth Boundary for Future Industrial Growth (O-8014)
 
-<a id="motion-17-2" class="motion-anchor"></a>
+<div id="motion-17-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1791,7 +1791,7 @@ Unanimous (5-0)
   Hospital Lands Secondary Plan and Associated Official Plan Amendments - Old
   Victoria Hospital Lands Zoning Study (O-8158/Z-8344)
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1804,7 +1804,7 @@ Unanimous (5-0)
   Hospital Lands Secondary Plan and Associated Official Plan Amendments - Old
   Victoria Hospital Lands Zoning Study (O-8158/Z-8344)
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1817,7 +1817,7 @@ Unanimous (5-0)
   Hospital Lands Secondary Plan and Associated Official Plan Amendments - Old
   Victoria Hospital Lands Zoning Study (O-8158/Z-8344)
 
-<a id="motion-18-2" class="motion-anchor"></a>
+<div id="motion-18-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1829,7 +1829,7 @@ Unanimous (5-0)
 ### 19. 5th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1841,7 +1841,7 @@ Unanimous (5-0)
 ### 19. 5th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-19-1" class="motion-anchor"></a>
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

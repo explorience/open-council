@@ -709,7 +709,7 @@ The meeting adjourned at 9:42 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.3 to 2.9, inclusive, BE APPROVED.
 
@@ -719,7 +719,7 @@ Unanimous (5-0)
 
 ### 4.1. Standard Form Railway Overpass Sign Licence Agreement
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Development and Compliance Services & Chief Building Official, the proposed by-law appended to the staff report dated June 17, 2019 as Appendix ‘A’ BE INTRODUCED at the Municipal Council meeting to be held on June 25, 2019 to: a)  approve the ...
 
@@ -729,7 +729,7 @@ Unanimous (5-0)
 
 ### 4.2. M Clawson, Clawson Group Inc. - Request for Delegation Status - 660 Sunningdale Road East
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That M. Clawson, Clawson Group Inc., BE GRANTED delegation status at the July 22, 2019 Planning and Environment Committee meeting relating to the application by Extra Realty Limited, with respect to the property located at  660 Sunningdale Road East.   (2019-D13)
 

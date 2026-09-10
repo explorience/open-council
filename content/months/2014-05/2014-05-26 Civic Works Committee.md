@@ -724,7 +724,7 @@ The
 ### 2. 5th Report of the
   Transportation Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -736,7 +736,7 @@ Unanimous (4-0)
 ### 3. Fox Hollow SWM
   Facility No. 1 - Increase in Contract Value (ES3020-FH1)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -748,7 +748,7 @@ Unanimous (3-0)
   Agreement with Community Carshare for Utilizing Municipal Parking Lot
   Locations
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -760,7 +760,7 @@ Unanimous (4-0)
 ### 5. Contract Award:
   2014 Arterial Road Rehabilitation - Contract 2 (Tender No. 14-52)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -773,7 +773,7 @@ Unanimous (4-0)
   Purchase of Pre-Heater Heat Exchanger and Re-Heater Heat Exchanger at
   Greenway Wastewater Treatment Centre
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -785,7 +785,7 @@ Unanimous (4-0)
 ### 7. Emergency Repair -
   Incinerator Reheater
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -797,7 +797,7 @@ Unanimous (4-0)
 ### 8. Appointment of
   Consulting Engineers - Infrastructure Lifecycle Renewal Program 2015-2016
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -811,7 +811,7 @@ Unanimous (4-0)
   Services Associated with the Construction of 2014 Infrastructure Lifecycle
   Renewal Project: Contract #5 Second Street
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -824,7 +824,7 @@ Unanimous (4-0)
   2014 Infrastructure Lifecycle Renewal Program Contract 1: Simcoe Street and
   Henry Street Reconstruction Irregular Result (Tender No. 14-08)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -837,7 +837,7 @@ Unanimous (4-0)
   B-4 SWM Facility Class Environmental Assessment Study Appointment of
   Consulting Engineer
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -850,7 +850,7 @@ Unanimous (4-0)
   Lambeth No. P9 SWM Facility Class Environmental Assessment Study Appointment
   of Consulting Engineer
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -862,7 +862,7 @@ Unanimous (4-0)
 ### 14. Blackfriars Bridge
   Environmental Assessment Appointment of Consulting Engineer
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -875,7 +875,7 @@ Unanimous (4-0)
   of Contribution Amending Agreements with Each of the Government of Canada and
   the Government of Ontario for the HELP Clean Water Initiative
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

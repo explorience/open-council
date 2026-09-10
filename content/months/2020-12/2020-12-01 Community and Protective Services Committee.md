@@ -209,7 +209,7 @@ The meeting adjourned at 5:11 PM.
 
 ### 1.2. Election of Vice Chair for the term ending November 30, 2021
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > That Councillor S. Hillier BE ELECTED Vice-Chair of the Community and Protective Services Committee for the term ending November 30, 2021.
 
@@ -219,7 +219,7 @@ Unanimous (5-0)
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2 and 2.3, BE APPROVED.
 
@@ -229,7 +229,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) City of London 2020-2021 Winter Response Program for Unsheltered Individuals
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Acting Managing Director, Housing, Social Services and Dearness Home, the following actions be taken with respect to the City of London 2020-2021 Winter Response Program for unsheltered individuals: a)     the proposed City of London 2020-2021 Winter Response Pr...
 

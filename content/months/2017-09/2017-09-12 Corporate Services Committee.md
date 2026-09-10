@@ -172,7 +172,7 @@ The Corporate Services Committee convened
 ### 2. Proposed Election
   Sign By-law
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -184,7 +184,7 @@ Unanimous (3-0)
 ### 3. By-law to Establish
   Tax Ratio for New Multi-Residential Property Class
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -196,7 +196,7 @@ Unanimous (3-0)
 ### 4. 2016 Annual
   Reporting of Lease Financing Agreements
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -208,7 +208,7 @@ Unanimous (3-0)
 ### 5. Declare Surplus -
   39 Redwood Lane
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

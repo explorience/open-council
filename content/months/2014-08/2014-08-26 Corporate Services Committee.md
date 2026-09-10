@@ -1069,7 +1069,7 @@ The Corporate Services Committee convened
 ### 2. Offer to Purchase
   Industrial Lands - 2097800 Ontario Inc. - Innovation Park, Phase l
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1081,7 +1081,7 @@ Unanimous (5-0)
 ### 3. Huron Heights
   Public School - 1245 Michael Street
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1093,7 +1093,7 @@ Unanimous (5-0)
 ### 3. Huron Heights
   Public School - 1245 Michael Street
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1105,7 +1105,7 @@ Unanimous (5-0)
 ### 5. 2014 Operating
   Budget Status - Second Quarter Report
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1117,7 +1117,7 @@ Unanimous (5-0)
 ### 6. 2014 Capital Budget
   Status - Second Quarter Report
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1129,7 +1129,7 @@ Unanimous (5-0)
 ### 7. Corporate Asset Management
   Plan 2014
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1142,7 +1142,7 @@ Unanimous (5-0)
   Proposal No. 14-38 - Construction Manager/General Contractor for Renovations
   to the Normal School - Project #GG1558
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1154,7 +1154,7 @@ Unanimous (5-0)
 ### 9. Federal Gas Tax
   Allocation
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1166,7 +1166,7 @@ Unanimous (5-0)
 ### 10. Offer to Purchase
   Industrial Lands - IO Industries Inc. - Skyway Industrial Park, Phase ll
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1178,7 +1178,7 @@ Unanimous (5-0)
 ### 11. City of London Days
   - Budweiser Gardens
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1190,7 +1190,7 @@ Unanimous (5-0)
 ### 12. Reduced Hours of
   Voting at Certain Institutions and Retirement Homes
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1202,7 +1202,7 @@ Unanimous (5-0)
 ### 13. Diversecity Onboard
   Program
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1214,7 +1214,7 @@ Unanimous (5-0)
 ### 14. Integrity
   Commissioner
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1227,7 +1227,7 @@ Unanimous (5-0)
   Corporate Human Rights Program, Code of Conduct Program and Corporate
   Training Initiatives as of June 30, 2014
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1239,7 +1239,7 @@ Unanimous (5-0)
 ### 16. Old Victoria
   Hospital Lands: Request for Proposals Update
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1252,7 +1252,7 @@ Unanimous (5-0)
   Province of Ontario to Receive Funding for the Start Up Your Business
   Initiative
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1265,7 +1265,7 @@ Unanimous (5-0)
   Federation of Canadian Municipalities to Host the 2015 FCM Sustainable
   Communities Conference
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1277,7 +1277,7 @@ Unanimous (5-0)
 ### 19. Comprehensive
   Economic and Trade Agreement with the European Union
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1289,7 +1289,7 @@ Unanimous (5-0)
 ### 20. Annual Meeting
   Calendar
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1302,7 +1302,7 @@ Unanimous (5-0)
   Alcohol and Gaming Commission of Ontario - Jim Bob Ray's - 585 Richmond
   Street
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1314,7 +1314,7 @@ Unanimous (5-0)
 ### 22. Request for
   Amendment to the Council Expense Funds Guidelines
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1327,7 +1327,7 @@ Unanimous (4-0)
   London Diversity and Race Relations Advisory Committee (Requires 1
   Representative from the Aboriginal Community Groups/Agencies)
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1339,7 +1339,7 @@ Unanimous (5-0)
 ### 24. Consideration of
   Appointment to the Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-24-0" class="motion-anchor"></a>
+<div id="motion-24-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1358,7 +1358,7 @@ Unanimous (5-0)
 ### 25. Request for
   Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus
 
-<a id="motion-25-0" class="motion-anchor"></a>
+<div id="motion-25-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1377,7 +1377,7 @@ Unanimous (5-0)
 ### 25. Request for
   Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus
 
-<a id="motion-25-1" class="motion-anchor"></a>
+<div id="motion-25-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1389,7 +1389,7 @@ Unanimous (5-0)
 ### 25. Request for
   Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus
 
-<a id="motion-25-2" class="motion-anchor"></a>
+<div id="motion-25-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1401,7 +1401,7 @@ Unanimous (5-0)
 ### 26. ADDED - Election
   Campaign Sign By-law Update
 
-<a id="motion-26-0" class="motion-anchor"></a>
+<div id="motion-26-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1413,7 +1413,7 @@ Unanimous (5-0)
 ### 27. ADDED - RFP14-20
   Customer Relationship Management Software Implementation Partner
 
-<a id="motion-27-0" class="motion-anchor"></a>
+<div id="motion-27-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

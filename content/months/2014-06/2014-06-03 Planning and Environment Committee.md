@@ -677,7 +677,7 @@ The
 ### 2. Properties located
   at 2155 and 2253 Richmond Street (39T-04513)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -689,7 +689,7 @@ Unanimous (4-0)
 ### 3. Victoria on the
   River Subdivision (39T-09502)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -701,7 +701,7 @@ Unanimous (4-0)
 ### 4. Properties located
   at 218 Burnside Drive and 220-222 Burnside Drive (Z-8299)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -720,7 +720,7 @@ Unanimous (4-0)
 ### 4. Properties located
   at 218 Burnside Drive and 220-222 Burnside Drive (Z-8299)
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -732,7 +732,7 @@ Unanimous (5-0)
 ### 4. Properties located
   at 218 Burnside Drive and 220-222 Burnside Drive (Z-8299)
 
-<a id="motion-4-2" class="motion-anchor"></a>
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -744,7 +744,7 @@ Unanimous (5-0)
 ### 5. Urban Forest
   Strategy and Implementation Plan - Keeping the Forest in the Forest City
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -756,7 +756,7 @@ Unanimous (5-0)
 ### 5. Urban Forest
   Strategy and Implementation Plan - Keeping the Forest in the Forest City
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -768,7 +768,7 @@ Unanimous (5-0)
 ### 5. Urban Forest
   Strategy and Implementation Plan - Keeping the Forest in the Forest City
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -780,7 +780,7 @@ Unanimous (5-0)
 ### 6. Industrial Lands
   Community Improvement Plan and Official Plan Amendment (O-8318)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -792,7 +792,7 @@ Unanimous (5-0)
 ### 6. Industrial Lands
   Community Improvement Plan and Official Plan Amendment (O-8318)
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -804,7 +804,7 @@ Unanimous (5-0)
 ### 6. Industrial Lands
   Community Improvement Plan and Official Plan Amendment (O-8318)
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -816,7 +816,7 @@ Unanimous (5-0)
 ### 6. Industrial Lands
   Community Improvement Plan and Official Plan Amendment (O-8318)
 
-<a id="motion-6-3" class="motion-anchor"></a>
+<div id="motion-6-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -828,7 +828,7 @@ Unanimous (5-0)
 ### 7. Property located at
   313 Clarke Road (OZ-8300)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -840,7 +840,7 @@ Unanimous (4-0)
 ### 7. Property located at
   313 Clarke Road (OZ-8300)
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -852,7 +852,7 @@ Unanimous (5-0)
 ### 8. Chelsea Green
   Subdivision (formerly Terrace Street Subdivision) (39T-02511)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -864,7 +864,7 @@ Unanimous (4-0)
 ### 8. Chelsea Green
   Subdivision (formerly Terrace Street Subdivision) (39T-02511)
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -875,7 +875,7 @@ Unanimous (4-0)
 
 ### 9. Storage Units and Non-Permanent Structures
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -886,7 +886,7 @@ Unanimous (4-0)
 
 ### 9. Storage Units and Non-Permanent Structures
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

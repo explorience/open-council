@@ -358,7 +358,7 @@ The meeting adjourned at 4:59 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 and 2.4 to 2.7 BE APPROVED.
 
@@ -368,7 +368,7 @@ Unanimous (6-0)
 
 ### 2.3. Single Source Procurement of Resting Spaces (Single Source #SS20-29) and Programs (Single Source #SS20-37) for Indigenous Individuals Experiencing Homelessness
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Acting Managing Director, Housing, Social Services and Dearness Home, with the concurrence of the Director, Financial Services, the following actions be taken with respect to the staff report dated December 15, 2020, related to the Single Source Procurement of R...
 
@@ -378,7 +378,7 @@ Unanimous (6-0)
 
 ### 4.1. Core Area Free Parking - Request for Delegation Status - A. Valastro
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request.
 
@@ -388,7 +388,7 @@ Unanimous (6-0)
 
 ### 4.1. Core Area Free Parking - Request for Delegation Status - A. Valastro
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > Motion to receive the communication and delegation.
 
@@ -398,7 +398,7 @@ Unanimous (6-0)
 
 ### 4.2. Eldon House Board of Directors Membership - M. Donachie, Board Chair
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to bring forward to a future meeting of the Municipal Council a by-law to incorporate the proposed amendments to the Eldon House Corporation by-law, as requested by the Eldon House Corporation Board of Directors as outlined in the communication dated November 24, 2...
 

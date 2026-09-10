@@ -514,7 +514,7 @@ The
   Contract Award: Tender No. 17-20 - 2017 Infrastructure Renewal Program -
   Balmoral Avenue, Brant Street and Durham Street Reconstruction Project
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -526,7 +526,7 @@ Unanimous (5-0)
 ### 3. STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -545,7 +545,7 @@ Unanimous (5-0)
 ### 3. STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -558,7 +558,7 @@ Unanimous (5-0)
   Contract Price Increase: Tender No. T16-21 - Infrastructure Renewal Program
   Contract 4 - McCormick Area Reconstruction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -571,7 +571,7 @@ Unanimous (5-0)
   Contract Extension: Tender 14-116 -  Supply and Installation of Sewer Lines -
   Cured in Place Pipe (CIPP)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -584,7 +584,7 @@ Unanimous (5-0)
   Transportation Development Charge Background Study -  Appointment of
   Consulting Engineer
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -597,7 +597,7 @@ Unanimous (5-0)
   Annual and Summary Report for the Lake Huron and Elgin Area Primary Water
   Supply Systems, and Elgin-Middlesex Pumping Station
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -610,7 +610,7 @@ Unanimous (5-0)
   Execution of Contribution Amending Agreements with the Government of Ontario
   for the Help Clean Water Initiative
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -623,7 +623,7 @@ Unanimous (5-0)
   B. Nourse, Environmental Service Engineer - 2016 Renew London Infrastructure
   Post Construction Overview Report
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -642,7 +642,7 @@ Unanimous (5-0)
 ### 10. (ADDED) REQUEST FOR
   DELEGATION STATUS - M. Luce - Idling Control By-law
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -661,7 +661,7 @@ Unanimous (5-0)
 ### 10. (ADDED) REQUEST FOR
   DELEGATION STATUS - M. Luce - Idling Control By-law
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -680,7 +680,7 @@ Unanimous (5-0)
 ### 10. (ADDED) REQUEST FOR
   DELEGATION STATUS - M. Luce - Idling Control By-law
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -692,7 +692,7 @@ Unanimous (5-0)
 ### 11. Deferred Matters
   List
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -704,7 +704,7 @@ Unanimous (5-0)
 ### 12. (ADDED) DELEGATION
   - A. Stratton - 4th Report of the Transportation Advisory Committee
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -716,7 +716,7 @@ Unanimous (5-0)
 ### 14. (ADDED) - Potential Program to Downsize
   Water Meters
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

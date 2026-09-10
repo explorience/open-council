@@ -2544,7 +2544,7 @@ Motion Passed
   Planning and Environment Committee Stage for Consideration with Clause 13 of
   the 11th Report of the Planning and Environment Committee.)
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2556,7 +2556,7 @@ Unanimous (15-0)
   Neighbourhood Planning Options/6th Report of the London Advisory
   Committee on Heritage
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with   respect to the 6th Report of the London Advisory Committee on Heritage (LACH)   from its meeting held on May 8, 2013:   a)         on   the recommendation of the Managing Director, Planning and City Planner, with   the concurrence of the Heritage Planne...
 
@@ -2567,7 +2567,7 @@ Unanimous (14-0)
 ### 2#5. Western
   University's Strategic Plan
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That the Mayor and the City Manager BE   REQUESTED to advise Western University that, further to the letter dated   April 24, 2013 from the Mayor and the City Manager providing input on Western   University’s strategic plan, the City of London has an interest in connecting   international student...
 
@@ -2577,7 +2577,7 @@ Unanimous (12-0)
 
 ### 3#3. Heritage Conservation Districts
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, the Civic Administration BE DIRECTED   to report back at a future meeting of the Planning and Environment Committee   with respect to the potential of undertaking concurrent Heritage Conservation   Districts, on the list of potential Heritage Conservation Districts (Heritage   Places: A Des...
 
@@ -2588,7 +2588,7 @@ Unanimous (14-0)
 ### 5#3. Annual Meeting
   Calendar
 
-<a id="motion-5-3-0" class="motion-anchor"></a>
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > Amend the annual meeting calendar to move   the SPPC meeting of February 13 to February 10, 2014.
 
@@ -2599,7 +2599,7 @@ Unanimous (14-0)
 ### 5#3. Annual Meeting
   Calendar
 
-<a id="motion-5-3-1" class="motion-anchor"></a>
+<div id="motion-5-3-1" class="motion-anchor"></div>
 
 > Amend clause 5 by revising the annual   meeting calendar to include the following new meeting dates:   Dearness Committee of Management:   Thursday, January 23, 2014 at Noon Thursday, March 27, 2014 at Noon Wednesday, June 25, 2014 at Noon Thursday, September 18, 2014 at Noon   Audit Committee:  ...
 
@@ -2617,7 +2617,7 @@ Unanimous (14-0)
 ### 5#3. Annual Meeting
   Calendar
 
-<a id="motion-5-3-2" class="motion-anchor"></a>
+<div id="motion-5-3-2" class="motion-anchor"></div>
 
 > Approve clause 5, as amended.
 
@@ -2628,7 +2628,7 @@ Unanimous (14-0)
 ### 5#5. City of London's
   Various Programs and Projects
 
-<a id="motion-5-5-0" class="motion-anchor"></a>
+<div id="motion-5-5-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED   to look at the Community Improvement Program (CIP) within the framework of   the Industrial Land Strategy as an economic development instrument with a   view to attract businesses and resources for the City of London’s various   programs and projects, ...
 
@@ -2639,7 +2639,7 @@ Unanimous (14-0)
 ### 7#5. Development Charges
   Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
 
-<a id="motion-7-5-0" class="motion-anchor"></a>
+<div id="motion-7-5-0" class="motion-anchor"></div>
 
 > That the following recommendation BE   REFERRED back to staff for further dialogue and report back at the June 10,   2013 meeting of the Strategic Priorities and Policy Committee:   “That, on   the recommendation of the Managing Director, Corporate Services and City   Treasurer, Chief Financial O...
 
@@ -2650,7 +2650,7 @@ Unanimous (14-0)
 ### 7#5. Development Charges
   Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
 
-<a id="motion-7-5-1" class="motion-anchor"></a>
+<div id="motion-7-5-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2668,7 +2668,7 @@ Unanimous (14-0)
 ### 7#5. Development Charges
   Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
 
-<a id="motion-7-5-2" class="motion-anchor"></a>
+<div id="motion-7-5-2" class="motion-anchor"></div>
 
 > Approve progress on the in camera matters.
 
@@ -2679,7 +2679,7 @@ Unanimous (13-0)
 ### 8#2. Additional
   Information Regarding Training Expenditures for London Hydro Board Members
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the City Clerk BE REQUESTED to review   the appointment process for the City of London’s appointees to its local   boards and commissions, with a view to ensuring the process provides for   consideration of the qualifications of applicants and that any necessary   changes to the appointment ...
 
@@ -2690,7 +2690,7 @@ Unanimous (14-0)
 ### 9#2. Bruce Street and
   Elmwood Avenue
 
-<a id="motion-9-2-0" class="motion-anchor"></a>
+<div id="motion-9-2-0" class="motion-anchor"></div>
 
 > That the communication dated April 5, 2013,   from Councillor D. Brown, with respect to traffic flow on Bruce Street and   Elmwood Avenue, BE REFERRED to staff for a report back to the Civic Works   Committee.   (2013-T04)
 
@@ -2701,7 +2701,7 @@ Unanimous (14-0)
 ### 9#2. Bruce Street and
   Elmwood Avenue
 
-<a id="motion-9-2-1" class="motion-anchor"></a>
+<div id="motion-9-2-1" class="motion-anchor"></div>
 
 > Amend the criteria attached to part   6, "Criteria For the on-street Boulevard Cafe Program:" in part j)   by adding the words "along Dundas Street within", following the   words "York Street".
 
@@ -2719,7 +2719,7 @@ Unanimous (14-0)
 ### 9#2. Bruce Street and
   Elmwood Avenue
 
-<a id="motion-9-2-2" class="motion-anchor"></a>
+<div id="motion-9-2-2" class="motion-anchor"></div>
 
 > Approve clause 6, as amended.
 
@@ -2737,7 +2737,7 @@ Unanimous (14-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go   into Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -2748,7 +2748,7 @@ Unanimous (13-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON APRIL 30, 2013
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 9th Meeting   held on April 30, 2013.
 
@@ -2758,7 +2758,7 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-0" class="motion-anchor"></a>
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Approve Introduction and 1st Reading   of Bill Nos. 211 to 232.
 
@@ -2768,7 +2768,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Approve 2nd Reading of Bill Nos. 211 to   232.
 
@@ -2778,7 +2778,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-2" class="motion-anchor"></a>
+<div id="motion-xiii-2" class="motion-anchor"></div>
 
 > Approve 3rd Reading and Enactment of Bill   Nos. 211 to 232.
 
@@ -2788,7 +2788,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and 1st Reading of   Bill No. 233.
 
@@ -2798,7 +2798,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-4" class="motion-anchor"></a>
+<div id="motion-xiii-4" class="motion-anchor"></div>
 
 > Approve 2nd Reading of Bill No.    233, with the corrected typographical error.
 
@@ -2808,7 +2808,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve 3rd Reading and Enactment   of Bill No. 233, with the corrected typographical error.
 
@@ -2818,7 +2818,7 @@ Unanimous (13-0)
 
 ### XIV. ADJOURNMENT
 
-<a id="motion-xiv-0" class="motion-anchor"></a>
+<div id="motion-xiv-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2829,7 +2829,7 @@ Unanimous (13-0)
 ### 11. Property located at
   425 Wharncliffe Road South
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Approve that part b) of clause 11 be   amended to read as follows:   "b)       the   Approval Authority BE ADVISED that the north and south fences are to be   constructed of wrought iron, at a height of 1.8m, the existing interior chain   link fence is to be retained, the clear throat access is t...
 
@@ -2847,7 +2847,7 @@ Unanimous (13-0)
 ### 11. Property located at
   425 Wharncliffe Road South
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Approve clause 11, as amended,   excluding part b).
 
@@ -2858,7 +2858,7 @@ Unanimous (15-0)
 ### 11. Property located at
   425 Wharncliffe Road South
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Approve clause 11 b), as amended.
 
@@ -2876,7 +2876,7 @@ Unanimous (15-0)
 ### 12. Properties located
   at 3924 and 4128 Colonel Talbot Road (39T-12503/OZ-8052)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Manager   of Development Services and Planning Liaison, the following actions be taken   with respect to the appeals by Colonel Talbot Developments Inc., on the   neglect by the Municipal Council to make a decision on the Official Plan and   Zoning By-law amendm...
 
@@ -2886,7 +2886,7 @@ Unanimous (15-0)
 
 ### 15. Hazelden Park
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED   to review  the amount of parking in Hazelden Park and look for potential   opportunities to expand the existing parking lot; it being noted that cars are   parking along Hyde Park Road during ball games and soccer games.
 
@@ -2897,7 +2897,7 @@ Unanimous (14-0)
 ### 16. Properties located
   at 1057, 1059 and 1061 Richmond Street
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Approve the motion to refer be Amended in   part d) by deleting the words "compatible density suggestions" and by   replacing them with the words "a maximum density of 45 units per   hectare, that is compatible and reflective of the character of the existing   neighbourhood".
 
@@ -2915,7 +2915,7 @@ Unanimous (14-0)
 ### 16. Properties located
   at 1057, 1059 and 1061 Richmond Street
 
-<a id="motion-16-2" class="motion-anchor"></a>
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion Passed
 

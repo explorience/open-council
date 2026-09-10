@@ -1216,7 +1216,7 @@ We also require about 10 to 15 minutes for IT to shut down the law.
 
 ### 4.7. Service Depot Location Update Report
 
-<a id="motion-4-7-1" class="motion-anchor"></a>
+<div id="motion-4-7-1" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 4.7 in Stage 4, Items for Direction, to be considered after Stage 3, Scheduled Items.
 
@@ -1233,7 +1233,7 @@ We also require about 10 to 15 minutes for IT to shut down the law.
 
 ### 4.7. Service Depot Location Update Report
 
-<a id="motion-4-7-2" class="motion-anchor"></a>
+<div id="motion-4-7-2" class="motion-anchor"></div>
 
 > That the Service Depot Location Update Report dated November 19, 2024 BE RECEIVED and no further action be taken.
 
@@ -1250,7 +1250,7 @@ We also require about 10 to 15 minutes for IT to shut down the law.
 
 ### 4.7. Service Depot Location Update Report
 
-<a id="motion-4-7-3" class="motion-anchor"></a>
+<div id="motion-4-7-3" class="motion-anchor"></div>
 
 > That, pursuant to section 32.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
 
@@ -1267,7 +1267,7 @@ We also require about 10 to 15 minutes for IT to shut down the law.
 
 ### 4.7. Service Depot Location Update Report
 
-<a id="motion-4-7-4" class="motion-anchor"></a>
+<div id="motion-4-7-4" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor J. Pribil BE PERMITTED to speak an additional one (1) minute with respect to this matter.
 
@@ -1284,7 +1284,7 @@ We also require about 10 to 15 minutes for IT to shut down the law.
 
 ### 4.7. Service Depot Location Update Report
 
-<a id="motion-4-7-6" class="motion-anchor"></a>
+<div id="motion-4-7-6" class="motion-anchor"></div>
 
 > That the motion be further amended in part c) to include "until February 28, 2025" and delete "until further direction is provided by Municipal Council"
 
@@ -1301,7 +1301,7 @@ We also require about 10 to 15 minutes for IT to shut down the law.
 
 ### 4.7. Service Depot Location Update Report
 
-<a id="motion-4-7-7" class="motion-anchor"></a>
+<div id="motion-4-7-7" class="motion-anchor"></div>
 
 > That the motion be amended with parts b) and c) to read as follows: b)  Civic Administration BE DIRECTED to report back to Community and Protective Services Committee with respect to operationalizing mobile transactional outreach services and act responsively as encampments move around the city; ...
 
@@ -1318,7 +1318,7 @@ We also require about 10 to 15 minutes for IT to shut down the law.
 
 ### 4.7. Service Depot Location Update Report
 
-<a id="motion-4-7-8" class="motion-anchor"></a>
+<div id="motion-4-7-8" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1335,7 +1335,7 @@ We also require about 10 to 15 minutes for IT to shut down the law.
 
 ### 7. Adjournment
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > That the Strategic Priorities and Policy Committee BE RECESSED and reconvene November 20, 2024 at 9:30 AM.
 

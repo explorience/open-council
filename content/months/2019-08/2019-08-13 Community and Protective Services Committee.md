@@ -597,7 +597,7 @@ The meeting adjourned at 5:54 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.4, 2.7, 2.8, 2.9, 2.10, 2.11, 2.12, 2.13 and 2.14 BE APPROVED.
 
@@ -607,7 +607,7 @@ Unanimous (6-0)
 
 ### 2.6. Vimy Ridge Park - Permanent Park Site - Deferred Matter 1
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Parks and Recreation, the following actions be taken with respect to the selection of the permanent location for Vimy Ridge Park: a)            based on stakeholder consultations, the temporary Vimy Ridge Park site at the south-east corner of ...
 
@@ -617,7 +617,7 @@ Unanimous (6-0)
 
 ### 4.1. London’s Film and Multi-Media Industry Update
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the request for delegation, dated July 15, 2019, by K. Peckham, Forest City Film Festival, as appended to the agenda, with respect to London’s Film and Multi-Media Industry.
 

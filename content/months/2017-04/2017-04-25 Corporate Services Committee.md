@@ -246,7 +246,7 @@ Motion
 ### 2. STAFF REPORT - Year
   2017 Tax Policy
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -258,7 +258,7 @@ Unanimous (5-0)
 ### 3. STAFF REPORT - Year
   2017 Education Tax Rates
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -272,7 +272,7 @@ Unanimous (5-0)
   Council Procedure By-law - Change in Start Time - Corporate Services
   Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -286,7 +286,7 @@ Unanimous (5-0)
   Council Procedure By-law - Change in Start Time - Corporate Services
   Committee
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -300,7 +300,7 @@ Unanimous (5-0)
   Council Procedure By-law - Change in Start Time - Corporate Services
   Committee
 
-<a id="motion-4-2" class="motion-anchor"></a>
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

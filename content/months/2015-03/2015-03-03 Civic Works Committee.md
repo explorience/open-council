@@ -530,7 +530,7 @@ Motion
 ### 2. 1st Report of the
   Transportation Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -542,7 +542,7 @@ Unanimous (5-0)
 ### 3. Single Source
   Procurement - Service and Repairs, 2-Way Radio Communication Equipment
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -554,7 +554,7 @@ Unanimous (5-0)
 ### 4. Canada Post
   Community Mailbox Program Jurisdictional
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -566,7 +566,7 @@ Unanimous (4-0)
 ### 4. Canada Post
   Community Mailbox Program Jurisdictional
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -586,7 +586,7 @@ Unanimous (4-0)
   Prevention and Control Plan Infoworks Modelling Assignments Additional Flow
   Monitoring
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -598,7 +598,7 @@ Unanimous (5-0)
 ### 6. Hyde Park Road and
   South Carriage Road Intersection Assessment
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -610,7 +610,7 @@ Unanimous (5-0)
 ### 7. Closing the
   Baseline Road Allowance East of Hamilton Road
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -622,7 +622,7 @@ Unanimous (5-0)
 ### 8. Crinklaw Municipal
   Drain Improvements
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -634,7 +634,7 @@ Unanimous (5-0)
 ### 8. Crinklaw Municipal
   Drain Improvements
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -646,7 +646,7 @@ Unanimous (5-0)
 ### 8. Crinklaw Municipal
   Drain Improvements
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -658,7 +658,7 @@ Unanimous (5-0)
 ### 9. 2015 Renew London -
   Infrastructure Construction Program
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -670,7 +670,7 @@ Unanimous (5-0)
 ### 10. Winter Maintenance
   Program
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -689,7 +689,7 @@ Unanimous (5-0)
 ### 11. 3rd Report of the
   Cycling Advisory Committee
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

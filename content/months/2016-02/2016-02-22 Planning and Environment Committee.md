@@ -1076,7 +1076,7 @@ The
 ### 2. 3rd Report of the
   Advisory Committee on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1089,7 +1089,7 @@ Unanimous (4-0)
   1196 Sunningdale Road West - Request for Extension of Draft Approval
   (39T-05511)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1102,7 +1102,7 @@ Unanimous (4-0)
   995 Fanshawe Park Road West - Request for Extension of Draft Approval
   (39T-05512)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1114,7 +1114,7 @@ Unanimous (4-0)
 ### 5. Properties located
   at 895-905 Sarnia Road (H-8565)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1126,7 +1126,7 @@ Unanimous (4-0)
 ### 6. Property located at
   7 Annadale Drive
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1138,7 +1138,7 @@ Unanimous (4-0)
 ### 7. Properties located
   at 3313-3405 Wonderland Road South and 1789 Wharncliffe Road South (H-8527)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1150,7 +1150,7 @@ Unanimous (4-0)
 ### 8. Hyde Park Meadows
   Subdivision - Phase 2 - Drewlo Holdings Inc. (39T-02509)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1162,7 +1162,7 @@ Unanimous (4-0)
 ### 9. Claimable Works for
   3080 Bostwick Road Consent Agreement
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1174,7 +1174,7 @@ Unanimous (4-0)
 ### 10. Summerside
   Subdivision - Phase 12B (39T-07508)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1186,7 +1186,7 @@ Unanimous (4-0)
 ### 11. Fanshawe Ridge
   (Phase 3) Subdivision (39T-08504)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1198,7 +1198,7 @@ Unanimous (4-0)
 ### 12. Property located at
   1040 Wharncliffe Road South - Paulpeel Avenue Extension (Z-8553)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1210,7 +1210,7 @@ Unanimous (5-0)
 ### 12. Property located at
   1040 Wharncliffe Road South - Paulpeel Avenue Extension (Z-8553)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1222,7 +1222,7 @@ Unanimous (4-0)
 ### 12. Property located at
   1040 Wharncliffe Road South - Paulpeel Avenue Extension (Z-8553)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1234,7 +1234,7 @@ Unanimous (4-0)
 ### 13. Properties located
   at 3924 and 4138 Colonel Talbot Road (Z-8541/39T-12503)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1253,7 +1253,7 @@ Unanimous (4-0)
 ### 13. Properties located
   at 3924 and 4138 Colonel Talbot Road (Z-8541/39T-12503)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1265,7 +1265,7 @@ Unanimous (5-0)
 ### 13. Properties located
   at 3924 and 4138 Colonel Talbot Road (Z-8541/39T-12503)
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1277,7 +1277,7 @@ Unanimous (5-0)
 ### 14. Property located at
   7186 Isaac Drive (39CD-15508/SP15-018076)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1289,7 +1289,7 @@ Unanimous (5-0)
 ### 14. Property located at
   7186 Isaac Drive (39CD-15508/SP15-018076)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1301,7 +1301,7 @@ Unanimous (5-0)
 ### 14. Property located at
   7186 Isaac Drive (39CD-15508/SP15-018076)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1314,7 +1314,7 @@ Unanimous (5-0)
   a portion of 530 Sunningdale Road East (north of Superior Drive) - Powell
   Phase 3 (39T-15504/Z-8539)
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1327,7 +1327,7 @@ Unanimous (5-0)
   a portion of 530 Sunningdale Road East (north of Superior Drive) - Powell
   Phase 3 (39T-15504/Z-8539)
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1340,7 +1340,7 @@ Unanimous (5-0)
   a portion of 530 Sunningdale Road East (north of Superior Drive) - Powell
   Phase 3 (39T-15504/Z-8539)
 
-<a id="motion-15-2" class="motion-anchor"></a>
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1352,7 +1352,7 @@ Unanimous (5-0)
 ### 16. Property located at
   2946 Bateman Trail (Z-8537)
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1371,7 +1371,7 @@ Unanimous (5-0)
 ### 16. Property located at
   2946 Bateman Trail (Z-8537)
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1383,7 +1383,7 @@ Unanimous (4-0)
 ### 16. Property located at
   2946 Bateman Trail (Z-8537)
 
-<a id="motion-16-2" class="motion-anchor"></a>
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1395,7 +1395,7 @@ Unanimous (5-0)
 ### 17. 3rd Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

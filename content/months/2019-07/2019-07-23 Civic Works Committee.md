@@ -560,7 +560,7 @@ The meeting adjourned at 6:49 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 to 2.3 and 2.7 to 2.9 BE APPROVED.
 
@@ -570,7 +570,7 @@ Unanimous (5-0)
 
 ### 2.4. Wonderland Road Sanitary Sewer Extension - Appointment of Consulting Engineer
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a consulting engineer for the Wonderland Road Sanitary Sewer Project: a)            AECOM Canada Ltd BE APPOINTED Consu...
 
@@ -580,7 +580,7 @@ Unanimous (5-0)
 
 ### 2.5. Current and Proposed Actions for Reducing and Managing Plastics in the Residential Sector and the Role for the Hefty EnergyBag Pilot Project
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, with the support of the Director, Environment, Fleet and Solid Waste the following actions be taken with respect to the Current and Proposed Actions for Reducing and Managing Plastics i...
 
@@ -590,7 +590,7 @@ Unanimous (5-0)
 
 ### 2.6. Award of Tender 19-47 Contract 15: Oakridge Acres Phase lll, Pinetree, Dolway and Hickory - Irregular Result
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the award of tender for Contract 15: Oakridge Acres Phase III; Pinetree, Dolway and Hickory: a)            the irregular bid submitted by ...
 
@@ -600,7 +600,7 @@ Unanimous (5-0)
 
 ### 4.2. Request for Compassionate Compensation for Private Drain Connection - K. Ramsay, 55 1/2 Ada Street
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the communication from K. Ramsay, dated July 12, 2019, with respect to a request for compassionate compensation for a Private Drain Connection for the property address 55 1/2 Street, BE REFERRED to Risk Management for consideration. (2019-E09)
 
@@ -610,7 +610,7 @@ Unanimous (5-0)
 
 ### 4.3. Victoria Bridge Replacement - Detailed Design and Tendering - Appointment of Consulting Engineer
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That consideration of the Victoria Bridge replacement detailed design and tendering, appointment of consulting engineer BE REFERRED to the Managing Director, Environmental & Engineering Services to report back at a future meeting of the Civic Works Committee with more cost effective alternatives ...
 
@@ -629,7 +629,7 @@ Unanimous (5-0)
 
 ### 4.4. Winter Maintenance Program Support
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the report dated July 23, 2019 relating to winter maintenance program support BE REFERRED back to Civic Administration in order to prepare appropriate language for customer service enhancements for snow clearing at 8 cm for class 4 and 5 roads and 5 cm for sidewalks at the expiration of curr...
 
@@ -639,7 +639,7 @@ Unanimous (5-0)
 
 ### 5.2. New Sidewalks School Priority - Councillors S. Lewis and J. Morgan
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That staff BE DIRECTED to review the current assessment process for new sidewalks and add an additional assessment criteria for filling gaps in school zones, community safety zones, and identified Safe and Active Routes to School, to the evaluation process; it being noted that the communication f...
 

@@ -1741,7 +1741,7 @@ Thank you, we are adjourned. Too many mistakes. Thank you.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.4 and 2.5 BE APPROVED
 
@@ -1751,7 +1751,7 @@ Unanimous (5-0)
 
 ### 2.3. Request for Heritage Designation - 599-601 Richmond Street
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > Motion to approve the staff recommendation, which reads as follows: "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the designation of the property at 599-601 Richmond Street: a)    Notice BE GIVEN under the provisions of Sect...
 
@@ -1770,7 +1770,7 @@ Unanimous (5-0)
 
 ### 3.1. 568 Second Street Zoning By-law Amendment (Z-9522)
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Parkit Enterprises relating to the property located at 568 Second Street: a)    the revised, attached, proposed by-law as Appendix "A" BE INTRODUCE...
 
@@ -1780,7 +1780,7 @@ Unanimous (5-0)
 
 ### 3.2. 1176, 1180, 1182 and 1186 Huron Street and 294 Briarhill Avenue Official Plan and Zoning By-law Amendment (OZ-9596)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2864876 Ontario Inc., relating to the properties located at 1176, 1180, 1182 and 1186 Huron Street & 294 Briarhill Avenue: a)    the proposed by-law appended to...
 
@@ -1790,7 +1790,7 @@ Unanimous (5-0)
 
 ### 3.3. 954 Gainsborough Road - Draft Plan of Subdivision and Zoning By-law Amendment (OZ-9502)
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Royal Premier Homes, relating to the property located at 954 Gainsborough Road: a)    the request to amend Zoning By-law No. Z.-1 to change the zoning of the su...
 
@@ -1800,7 +1800,7 @@ Unanimous (5-0)
 
 ### 3.4. 755, 785 & 815 Wonderland Road South (OZ-9565)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 785 Wonderland Road Inc., relating to the property located at 755, 785 and 815 Wonderland Road South: a)    Municipal Council supports refusal of the request to...
 

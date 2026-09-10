@@ -1314,7 +1314,7 @@ Okay, thank you, we're adjourned.
 
 ### 4.1. September Progress Update - Health and Homelessness Whole of Community System Response
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > The delegation of Ryan O'Hagan BE APPROVED to be heard at this time.
 
@@ -1324,7 +1324,7 @@ Unanimous (15-0)
 
 ### 4.2. Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the award of the contracts for Request for Proposal (RFP) RFP-2023-199 Hubs Implementation Plan: Lead Agencies London’s Health & Homelessness Whole of Community Sy...
 
@@ -1341,7 +1341,7 @@ Unanimous (15-0)
 
 ### 4.2. Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results
 
-<a id="motion-4-2-4" class="motion-anchor"></a>
+<div id="motion-4-2-4" class="motion-anchor"></div>
 
 > With respect to the Chair's ruling that a Referral of this matter is in order, shall the ruling of the Chair BE SUSTAINED?
 
@@ -1358,7 +1358,7 @@ Unanimous (15-0)
 
 ### 4.2. Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results
 
-<a id="motion-4-2-5" class="motion-anchor"></a>
+<div id="motion-4-2-5" class="motion-anchor"></div>
 
 > That consideration of Item 4.2, Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results, BE REFERRED to the October 31st meeting of the Strategic Priorities and Policy Committee.
 
@@ -1375,7 +1375,7 @@ Unanimous (15-0)
 
 ### 6.1. Solicitor-client Privileged Advice
 
-<a id="motion-6-1-0" class="motion-anchor"></a>
+<div id="motion-6-1-0" class="motion-anchor"></div>
 
 > That the Strategic Priorities and Policy Committee convene, In Closed Session, in order to consider a matter related to advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to a legislative interpretation and for advice about legal lia...
 

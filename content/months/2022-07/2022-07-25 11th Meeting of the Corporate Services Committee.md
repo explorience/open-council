@@ -464,7 +464,7 @@ All those in favor, we can do this by hand. Motion's carried. Thank you, everyon
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That Items 4.1, 4.2, and 4.4 to 4.6, BE APPROVED.
 
@@ -474,7 +474,7 @@ Unanimous (6-0)
 
 ### 4.3. Application - Issuance of Proclamation - 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.
 

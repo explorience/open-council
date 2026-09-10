@@ -868,7 +868,7 @@ The meeting adjourned at 9:07 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.3, 2.5, 2.8 to 2.10, inclusive, BE APPROVED.
 
@@ -878,7 +878,7 @@ Unanimous (5-0)
 
 ### 2.2. 6th Report of the Trees and Forests Advisory Committee
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > Motion to approve "the Civic Administration BE DIRECTED to incorporate a shade policy into the Parks and Recreation Master Plan."
 
@@ -888,7 +888,7 @@ Unanimous (5-0)
 
 ### 2.4. Application -  6188 Colonel Talbot Road (B.047/17)
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, in response to the letter of appeal to the Land Planning Appeal Tribunal from Mainline Planning Services Inc. c/o Joseph Plutino, dated May 18, 2018 relating to the Provisional Decision of Consent Application B.047/17 concerning t...
 
@@ -898,7 +898,7 @@ Unanimous (5-0)
 
 ### 2.7. Capital Works Claim - 33M-654 Riverbend Meadows - Phase 3
 
-<a id="motion-2-7-0" class="motion-anchor"></a>
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the request for additional payment of the Capital Works Budget claim under 33M-654 Riverbend Meadows Phase 3: a)             the request for additional payment of the Capital Works Budget claim under 33M-654 Riverbend Meadows Phase 3 BE POSTPON...
 
@@ -908,7 +908,7 @@ Unanimous (5-0)
 
 ### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 7th Report of the Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 7th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on June 21, 2018: a)         the Working Group comments appended to the 7th Report of the Environmental and Ecological Planning Advisory Commi...
 
@@ -918,7 +918,7 @@ Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting - Application - Demolition Request for Heritage Listed Property located at 172 Central Avenue
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, with respect to the request for the demolition of the heritage listed property located at 172 Central Avenue, that notice BE GIVEN under the provisions of Section 29(3) of the...
 
@@ -928,7 +928,7 @@ Unanimous (5-0)
 
 ### 4.1. Medallion Realty Holdings - Application for Brownfield Incentives - 391 South Street
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Medallion Realty Holdings (“Medallion”), relating to the property located at 391 South Street: a)          a total expenditure of up to a maximum of $...
 
@@ -938,7 +938,7 @@ Unanimous (4-0)
 
 ### 4.1. Medallion Realty Holdings - Application for Brownfield Incentives - 391 South Street
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to grant delegation status to B. Blackwell, Senior Project Manager, Stantec, with respect to this matter.
 
@@ -948,7 +948,7 @@ Unanimous (4-0)
 
 ### 4.2. Request for Delegation Status - D. R. Taylor, Versa Bank - Airport Area Community Improvement Plan
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That delegation status BE GRANTED to D.R. Taylor, President & CEO, VersaBank, or his designate, at a future meeting of the Planning and Environment Committee when the Managing Director, Planning and City Planner, reports back on this matter; it being noted that the Planning and Environment Commit...
 
@@ -958,7 +958,7 @@ Unanimous (5-0)
 
 ### 4.3. L. Kirkness, Kirkness Consulting - Development Application Procedure - 2156 Highbury Avenue North
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That L. Kirkness, Kirkness Consulting, BE GRANTED delegation status with respect to the request to accept the application by Chinmaya Mission (Canada), relating to the property located at 2156 Highbury Avenue at the August 13, 2018 Planning and Environment Committee meeting.
 
@@ -968,7 +968,7 @@ Unanimous (5-0)
 
 ### 4.4. Bonusing and Affordable Housing
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the communication dated July 9, 2018, from Councillor S. Turner, relating to bonusing and affordable housing: a)            the Civic Administration BE REQUESTED to prepare a background report identifying the full suite of tools available to pr...
 
@@ -978,7 +978,7 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED) Delegation - D. Dudek, Chair, London Advisory Committee on Heritage - 8th Report of the London Advisory Committee on Heritage
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 8th Report of the London Advisory Committee on Heritage, from its meeting held on July 11, 2018: a)           on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, with respect t...
 
@@ -988,7 +988,7 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED) Delegation - D. Dudek, Chair, London Advisory Committee on Heritage - 8th Report of the London Advisory Committee on Heritage
 
-<a id="motion-5-1-1" class="motion-anchor"></a>
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > Motion to move Item 5.1 to after Item 3.1
 

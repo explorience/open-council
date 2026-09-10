@@ -670,7 +670,7 @@ Thank you, folks.
 
 ### 3.2. Request to Remove Property from Register of Cultural Heritage Resources - 176 Piccadilly Street
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > Motion to take no action with respect to the communication dated September 15, 2023, from A.M. Valastro relating to the property located at 176 Piccadilly Street.
 
@@ -689,7 +689,7 @@ Thank you, folks.
 
 ### 3.4. 1208 Fanshawe Park Road East (Z-9539)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Masar Development Inc. (c/o Abdul Zaro), relating to the property located at 1208 Fanshawe Park Road East: a) the proposed by-law appended to the staff report d...
 
@@ -699,7 +699,7 @@ Unanimous (5-0)
 
 ### 3.5. 3234-3274 Wonderland Road South (Z-9618)
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southside Construction Management Ltd., relating to a portion of the property located at 3234-3274 Wonderland Road South: a) consistent with Policy 43_1 of The ...
 

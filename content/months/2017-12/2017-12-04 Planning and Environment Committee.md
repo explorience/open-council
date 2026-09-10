@@ -2531,7 +2531,7 @@ The meeting adjourned at 11:04 PM.
 ### 2. Election of
   Vice-Chair for term ending November 30, 2018
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2543,7 +2543,7 @@ Unanimous (6-0)
 ### 3. 12th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2555,7 +2555,7 @@ Unanimous (6-0)
 ### 4. White Oak/Dingman
   Secondary Plan - Terms of Reference for Project  Initiation
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2568,7 +2568,7 @@ Unanimous (6-0)
   the north side of Bradley Avenue between Jackson Road and Meadowgate
   Boulevard (39T-07508)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2580,7 +2580,7 @@ Unanimous (6-0)
 ### 6. Michael Street
   Subdivision - Subdivision Special Provisions (39T-16506)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2592,7 +2592,7 @@ Unanimous (6-0)
 ### 7. Properties located
   at 2313 and 2373 Callingham Drive ( P-8830)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2604,7 +2604,7 @@ Unanimous (6-0)
 ### 8. Property located at
   1357 Hyde Park Road (P-8821)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2616,7 +2616,7 @@ Unanimous (6-0)
 ### 9. Hunt Lands
   Subdivision - Subdivision Special Provisions (39T-12503)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2628,7 +2628,7 @@ Unanimous (6-0)
 ### 10. Foxhollow North
   Kent Subdivision Phase 2 (39T-04510-2)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2640,7 +2640,7 @@ Unanimous (6-0)
 ### 11. Planning for
   Non-therapeutic Cannabis in Retail Stores
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2657,7 +2657,7 @@ Unanimous (6-0)
 ### 11. Planning for
   Non-therapeutic Cannabis in Retail Stores
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2674,7 +2674,7 @@ Unanimous (6-0)
 ### 11. Planning for
   Non-therapeutic Cannabis in Retail Stores
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2693,7 +2693,7 @@ Unanimous (6-0)
 ### 11. Planning for
   Non-therapeutic Cannabis in Retail Stores
 
-<a id="motion-11-3" class="motion-anchor"></a>
+<div id="motion-11-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2705,7 +2705,7 @@ Unanimous (4-0)
 ### 12. Property located at
   1880 Phillbrook Drive (H-8824)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2717,7 +2717,7 @@ Unanimous (6-0)
 ### 13. Passage of
   Designating By-law - property located at 329 Victoria Street
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2729,7 +2729,7 @@ Unanimous (6-0)
 ### 14. Passage of
   Designating By-law - properties located at 93-95 Dufferin Avenue
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2741,7 +2741,7 @@ Unanimous (6-0)
 ### 15. Passage of
   Designating By-law - property located at 391 South Street
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2753,7 +2753,7 @@ Unanimous (4-0)
 ### 16. Candidate Approval
   for the Urban Design Peer Review Panel
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2765,7 +2765,7 @@ Unanimous (6-0)
 ### 18. Updated Program
   Guidelines for Community Improvement Plan Financial Incentive Programs
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2777,7 +2777,7 @@ Unanimous (6-0)
 ### 19. Property located at
   1357 Hyde Park Road (Z-8816)
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2789,7 +2789,7 @@ Unanimous (6-0)
 ### 19. Property located at
   1357 Hyde Park Road (Z-8816)
 
-<a id="motion-19-1" class="motion-anchor"></a>
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2801,7 +2801,7 @@ Unanimous (6-0)
 ### 19. Property located at
   1357 Hyde Park Road (Z-8816)
 
-<a id="motion-19-2" class="motion-anchor"></a>
+<div id="motion-19-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2813,7 +2813,7 @@ Unanimous (6-0)
 ### 20. Properties located
   at 329-331 Richmond Street (Z-8812)
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2825,7 +2825,7 @@ Unanimous (5-0)
 ### 20. Properties located
   at 329-331 Richmond Street (Z-8812)
 
-<a id="motion-20-1" class="motion-anchor"></a>
+<div id="motion-20-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2837,7 +2837,7 @@ Unanimous (6-0)
 ### 20. Properties located
   at 329-331 Richmond Street (Z-8812)
 
-<a id="motion-20-2" class="motion-anchor"></a>
+<div id="motion-20-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2849,7 +2849,7 @@ Unanimous (6-0)
 ### 21. Brydges Street Area
   Review (O-8749)
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2861,7 +2861,7 @@ Unanimous (6-0)
 ### 21. Brydges Street Area
   Review (O-8749)
 
-<a id="motion-21-1" class="motion-anchor"></a>
+<div id="motion-21-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2873,7 +2873,7 @@ Unanimous (6-0)
 ### 21. Brydges Street Area
   Review (O-8749)
 
-<a id="motion-21-2" class="motion-anchor"></a>
+<div id="motion-21-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2885,7 +2885,7 @@ Unanimous (6-0)
 ### 22. Properties located
   at 770 Whetter Avenue/8 Fairview Court (SPA17-046)
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2897,7 +2897,7 @@ Unanimous (6-0)
 ### 22. Properties located
   at 770 Whetter Avenue/8 Fairview Court (SPA17-046)
 
-<a id="motion-22-1" class="motion-anchor"></a>
+<div id="motion-22-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2909,7 +2909,7 @@ Unanimous (6-0)
 ### 22. Properties located
   at 770 Whetter Avenue/8 Fairview Court (SPA17-046)
 
-<a id="motion-22-2" class="motion-anchor"></a>
+<div id="motion-22-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2921,7 +2921,7 @@ Unanimous (6-0)
 ### 23. Properties located
   at 467-469 Dufferin Avenue (OZ-8804)
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2933,7 +2933,7 @@ Unanimous (6-0)
 ### 23. Properties located
   at 467-469 Dufferin Avenue (OZ-8804)
 
-<a id="motion-23-1" class="motion-anchor"></a>
+<div id="motion-23-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2945,7 +2945,7 @@ Unanimous (6-0)
 ### 23. Properties located
   at 467-469 Dufferin Avenue (OZ-8804)
 
-<a id="motion-23-2" class="motion-anchor"></a>
+<div id="motion-23-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2957,7 +2957,7 @@ Unanimous (6-0)
 ### 24. Properties located
   at 790, 792 and 794 Quebec Street (Z-8819)
 
-<a id="motion-24-0" class="motion-anchor"></a>
+<div id="motion-24-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2969,7 +2969,7 @@ Unanimous (5-0)
 ### 24. Properties located
   at 790, 792 and 794 Quebec Street (Z-8819)
 
-<a id="motion-24-1" class="motion-anchor"></a>
+<div id="motion-24-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2981,7 +2981,7 @@ Unanimous (4-0)
 ### 24. Properties located
   at 790, 792 and 794 Quebec Street (Z-8819)
 
-<a id="motion-24-2" class="motion-anchor"></a>
+<div id="motion-24-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2993,7 +2993,7 @@ Unanimous (5-0)
 ### 25. Properties located
   at 940 and 956 Wharncliffe Road South ( Z-8813)
 
-<a id="motion-25-0" class="motion-anchor"></a>
+<div id="motion-25-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3012,7 +3012,7 @@ Unanimous (5-0)
 ### 25. Properties located
   at 940 and 956 Wharncliffe Road South ( Z-8813)
 
-<a id="motion-25-1" class="motion-anchor"></a>
+<div id="motion-25-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3024,7 +3024,7 @@ Unanimous (5-0)
 ### 25. Properties located
   at 940 and 956 Wharncliffe Road South ( Z-8813)
 
-<a id="motion-25-2" class="motion-anchor"></a>
+<div id="motion-25-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3036,7 +3036,7 @@ Unanimous (5-0)
 ### 26. Properties located
   at 1235-1295 Fanshawe Park Road West (O-8799/Z-8798)
 
-<a id="motion-26-0" class="motion-anchor"></a>
+<div id="motion-26-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3048,7 +3048,7 @@ Unanimous (5-0)
 ### 26. Properties located
   at 1235-1295 Fanshawe Park Road West (O-8799/Z-8798)
 
-<a id="motion-26-1" class="motion-anchor"></a>
+<div id="motion-26-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3060,7 +3060,7 @@ Unanimous (5-0)
 ### 26. Properties located
   at 1235-1295 Fanshawe Park Road West (O-8799/Z-8798)
 
-<a id="motion-26-2" class="motion-anchor"></a>
+<div id="motion-26-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3072,7 +3072,7 @@ Unanimous (5-0)
 ### 27. Parking Strategy
   for Downtown London
 
-<a id="motion-27-0" class="motion-anchor"></a>
+<div id="motion-27-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3084,7 +3084,7 @@ Unanimous (5-0)
 ### 28. Property located at
   324 York Street (TZ-8815)
 
-<a id="motion-28-0" class="motion-anchor"></a>
+<div id="motion-28-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3103,7 +3103,7 @@ Unanimous (5-0)
 ### 28. Property located at
   324 York Street (TZ-8815)
 
-<a id="motion-28-1" class="motion-anchor"></a>
+<div id="motion-28-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3115,7 +3115,7 @@ Unanimous (5-0)
 ### 28. Property located at
   324 York Street (TZ-8815)
 
-<a id="motion-28-2" class="motion-anchor"></a>
+<div id="motion-28-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3127,7 +3127,7 @@ Unanimous (5-0)
 ### 28. Property located at
   324 York Street (TZ-8815)
 
-<a id="motion-28-3" class="motion-anchor"></a>
+<div id="motion-28-3" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -3146,7 +3146,7 @@ Unanimous (5-0)
 ### 29. Downtown Temporary
   Commercial Parking Lots
 
-<a id="motion-29-0" class="motion-anchor"></a>
+<div id="motion-29-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3158,7 +3158,7 @@ Unanimous (4-0)
 ### 30. 11th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-30-0" class="motion-anchor"></a>
+<div id="motion-30-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3170,7 +3170,7 @@ Unanimous (4-0)
 ### 31. Draft Hamilton Road
   Area Community Improvement Plan
 
-<a id="motion-31-0" class="motion-anchor"></a>
+<div id="motion-31-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3182,7 +3182,7 @@ Unanimous (4-0)
 ### 31. Draft Hamilton Road
   Area Community Improvement Plan
 
-<a id="motion-31-1" class="motion-anchor"></a>
+<div id="motion-31-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

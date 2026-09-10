@@ -1208,7 +1208,7 @@ MOTION
 ### III. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON JUNE 12, 2012
 
-<a id="motion-iii-1" class="motion-anchor"></a>
+<div id="motion-iii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1219,7 +1219,7 @@ Unanimous (15-0)
 ### V. COMMUNICATIONS AND
   PETITIONS
 
-<a id="motion-v-1" class="motion-anchor"></a>
+<div id="motion-v-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1229,7 +1229,7 @@ Unanimous (15-0)
 
 ### VIII. REPORTS
 
-<a id="motion-viii-1" class="motion-anchor"></a>
+<div id="motion-viii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1239,7 +1239,7 @@ Unanimous (15-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-1" class="motion-anchor"></a>
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1249,7 +1249,7 @@ Unanimous (12-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-3" class="motion-anchor"></a>
+<div id="motion-xii-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1259,7 +1259,7 @@ Unanimous (12-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-5" class="motion-anchor"></a>
+<div id="motion-xii-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1269,7 +1269,7 @@ Unanimous (12-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-7" class="motion-anchor"></a>
+<div id="motion-xii-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1279,7 +1279,7 @@ Unanimous (12-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-9" class="motion-anchor"></a>
+<div id="motion-xii-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1289,7 +1289,7 @@ Unanimous (12-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-11" class="motion-anchor"></a>
+<div id="motion-xii-11" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1299,7 +1299,7 @@ Unanimous (12-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-13" class="motion-anchor"></a>
+<div id="motion-xii-13" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1309,7 +1309,7 @@ Unanimous (12-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-15" class="motion-anchor"></a>
+<div id="motion-xii-15" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1319,7 +1319,7 @@ Unanimous (12-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-17" class="motion-anchor"></a>
+<div id="motion-xii-17" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1329,7 +1329,7 @@ Unanimous (12-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-19" class="motion-anchor"></a>
+<div id="motion-xii-19" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1339,7 +1339,7 @@ Unanimous (14-0)
 
 ### XII. BY-LAWS
 
-<a id="motion-xii-21" class="motion-anchor"></a>
+<div id="motion-xii-21" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1350,7 +1350,7 @@ Unanimous (14-0)
 ### 9. Agreement for
   On-Line Training System
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1368,7 +1368,7 @@ Unanimous (14-0)
 ### 10. 2nd and 3rd Reports
   of the Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1379,7 +1379,7 @@ Unanimous (14-0)
 ### 10. 2nd and 3rd Reports
   of the Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1390,7 +1390,7 @@ Unanimous (14-0)
 ### 15. Removal of Buses
   from Dundas Street
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion Passed
 

@@ -325,7 +325,7 @@ The meeting adjourned at 6:51 PM.
 
 ### 5.1. (ADDED) Proposed Changes to the City Manager Search Committee Terms of Reference
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the “City Manager Search Committee Terms of Reference”:    a)      pursuant to section 13.3 of the Council Procedure By-law the Municipal Council decision of November 12, 2019 with respect to clause 5.1 of the 20th Report of the Strategic Priori...
 
@@ -335,7 +335,7 @@ Unanimous (14-0)
 
 ### 5.2. (ADDED) Resignation of Councillor M. Cassidy from the RBC Place London Board of Directors
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the resignation of Councillor M. Cassidy, dated January 20, 2020, from the RBC Place London Board of Directors BE ACCEPTED, and consideration of an appointment to the RBC Place London Board of Directors BE REFERRED to the Council meeting to be held on January 28, 2020.
 

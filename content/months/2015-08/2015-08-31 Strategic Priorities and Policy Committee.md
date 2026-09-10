@@ -280,7 +280,7 @@ The meeting adjourned at 6:15 PM.
 ### 2. 2015 Annual
   Community Survey
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -291,7 +291,7 @@ Unanimous (14-0)
 ### 4. 5th Report of the
   Governance Working Group
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -302,7 +302,7 @@ Unanimous (13-0)
 ### 5. Appointments to the
   Old East Village Business Improvement Area Board of Management
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -313,7 +313,7 @@ Unanimous (13-0)
 ### 6. Appointments to the
   Argyle Business Improvement Area Board of Management
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -324,7 +324,7 @@ Unanimous (13-0)
 ### 6. Appointments to the
   Argyle Business Improvement Area Board of Management
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 

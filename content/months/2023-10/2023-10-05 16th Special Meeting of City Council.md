@@ -1516,7 +1516,7 @@ We're adjourned. Thank you.
 
 ### 8.1. 23rd Special Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That items 1 and 2 BE APPROVED.
 
@@ -1526,7 +1526,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-1" class="motion-anchor"></a>
+<div id="motion-8-1-3-1" class="motion-anchor"></div>
 
 > That pursuant to section 9.7 of the Council Procedure By-law, the Members of Council BE PERMITTED to speak twice with respect to this matter.
 
@@ -1536,7 +1536,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-2" class="motion-anchor"></a>
+<div id="motion-8-1-3-2" class="motion-anchor"></div>
 
 > That the matter of the Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results BE REFERRED back to the Strategic Priorities and Policy Committee meeting to be held on November 21, 2023, in order to consider additional supporting information (includ...
 
@@ -1555,7 +1555,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-4" class="motion-anchor"></a>
+<div id="motion-8-1-3-4" class="motion-anchor"></div>
 
 > That part a) of the recommendation BE APPROVED: That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the award of the contracts for Request for Proposal (RFP) RFP-2023-199 Hubs Implementation Plan: Lead Agencies Lond...
 
@@ -1574,7 +1574,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-5" class="motion-anchor"></a>
+<div id="motion-8-1-3-5" class="motion-anchor"></div>
 
 > That part b) of the recommendation BE APPROVED: b)    a portion of the Request for Proposal 2023-199 BE AWARDED to Youth Opportunities Unlimited to provide a Hub for an initial two-year commitment at a total estimated operating cost of $1,317,500 for year 1 and $1,983,800 for year 2 and a one-tim...
 
@@ -1593,7 +1593,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-6" class="motion-anchor"></a>
+<div id="motion-8-1-3-6" class="motion-anchor"></div>
 
 > That part c) of the recommendation BE APPROVED: c)    a portion of the Request for Proposal 2023-199 BE AWARDED to Canadian Mental Health Association Thames Valley Addiction and Mental Health Services to provide a hub for an initial two-year commitment at a total estimated operating cost of $4,05...
 
@@ -1612,7 +1612,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-7" class="motion-anchor"></a>
+<div id="motion-8-1-3-7" class="motion-anchor"></div>
 
 > That part d) of the recommendation BE APPROVED: d)    a one-time funding allocation of up to $1,500,000 from the Social Services Reserve Fund BE APPROVED, if required, should ineligible costs under existing provincial funding sources be identified while finalizing the agency purchase of service c...
 
@@ -1631,7 +1631,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-8" class="motion-anchor"></a>
+<div id="motion-8-1-3-8" class="motion-anchor"></div>
 
 > That part e) of the recommendation BE APPROVED: e)    that Civic Administration BE AUTHORIZED to undertake all administrative acts, including review of sites and support for Planning Act applications to align current or future hub sites with criteria, and any activities associated with additional...
 
@@ -1650,7 +1650,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-9" class="motion-anchor"></a>
+<div id="motion-8-1-3-9" class="motion-anchor"></div>
 
 > That part f) i) of the recommendation BE APPROVED: f)    that the approval given herein BE CONDITIONAL upon the Corporation entering into a Purchase of Service Agreement with i.    Youth Opportunities Unlimited;
 
@@ -1669,7 +1669,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-10" class="motion-anchor"></a>
+<div id="motion-8-1-3-10" class="motion-anchor"></div>
 
 > That part f) ii) of the recommendation BE APPROVED: ii.    Atlohsa Family Healing Services Inc; and
 
@@ -1688,7 +1688,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-11" class="motion-anchor"></a>
+<div id="motion-8-1-3-11" class="motion-anchor"></div>
 
 > That part f) iii) of the recommendation BE APPROVED: iii.    Canadian Mental Health Association Thames Valley Addiction and Mental Health Services
 
@@ -1707,7 +1707,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-12" class="motion-anchor"></a>
+<div id="motion-8-1-3-12" class="motion-anchor"></div>
 
 > That part g) of the recommendation BE APPROVED: g)    that Civic Administration BE DIRECTED to continue to work with the community on the hubs implementation to establish additional opportunities for future procurement of additional spaces;
 
@@ -1726,7 +1726,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-13" class="motion-anchor"></a>
+<div id="motion-8-1-3-13" class="motion-anchor"></div>
 
 > That part h) of the recommendation BE APPROVED: h)    that the annual funding approval, noted in a), b) and c) above, is SUBJECT TO the availability of funding through the City of London, and/or other funding sources;
 
@@ -1745,7 +1745,7 @@ Unanimous (14-0)
 
 ### 8.1.3. (4.2) Health and Homelessness Whole of Community System Response RFP 2023-199 Hubs Implementation Plan Results (Relates to Bill No. 367)
 
-<a id="motion-8-1-3-14" class="motion-anchor"></a>
+<div id="motion-8-1-3-14" class="motion-anchor"></div>
 
 > That part i) and the "it being noted" portions of the recommendation, BE APPROVED: i)    the attached proposed bylaw (Schedule 2) BE INTRODUCED at the Municipal Council meeting to be held on October 5, 2023 to: i.    authorize the Deputy City Manager, Social and Health Development, or written des...
 
@@ -1764,7 +1764,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 366, BE APPROVED.
 
@@ -1783,7 +1783,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 367, BE APPROVED.
 
@@ -1802,7 +1802,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 367, BE APPROVED.
 
@@ -1821,7 +1821,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 367, BE APPROVED.
 

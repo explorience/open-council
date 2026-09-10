@@ -757,7 +757,7 @@ Thank you.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.9 BE APPROVED.
 
@@ -767,7 +767,7 @@ Unanimous (3-0)
 
 ### 2.10. Amendment to Fees and Charges By-Law - Honk Mobile
 
-<a id="motion-2-10-0" class="motion-anchor"></a>
+<div id="motion-2-10-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report, dated February 18, 2025, related to an Amendment to the Fees and Charges By-law for Honk Mobile: a)    the proposed by-law, as appended to the abov...
 
@@ -786,7 +786,7 @@ Unanimous (3-0)
 
 ### 2.11. Adult Entertainment Body-Rub Attendant Licensing - Information Report
 
-<a id="motion-2-11-3" class="motion-anchor"></a>
+<div id="motion-2-11-3" class="motion-anchor"></div>
 
 > That the motion be approved, as amended.
 

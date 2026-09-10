@@ -1773,7 +1773,7 @@ The
   at 3130 and 3260 Dingman Drive and 4397/4407 Wellington Road South – Ontario
   Municipal Board Decision
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1785,7 +1785,7 @@ Unanimous (4-0)
 ### 3. Property located at
   122 Wortley Road (H-8383)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1797,7 +1797,7 @@ Unanimous (4-0)
 ### 4. Property located at
   1800 Sumac Way (H-8356)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1809,7 +1809,7 @@ Unanimous (4-0)
 ### 5. Foxwood Subdivision
   (39T-11503)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1821,7 +1821,7 @@ Unanimous (4-0)
 ### 6. Corporate Campus
   Subdivision (39T-78066)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1833,7 +1833,7 @@ Unanimous (4-0)
 ### 6. Corporate Campus
   Subdivision (39T-78066)
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1845,7 +1845,7 @@ Unanimous (5-0)
 ### 8. Building Division
   Monthly Reports for June and July 2014
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1858,7 +1858,7 @@ Unanimous (4-0)
   450 Oxford Street West - Notice of Appeal to the Ontario Municipal Board
   (OZ-8003)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1870,7 +1870,7 @@ Unanimous (5-0)
 ### 10. Urban Forest
   Strategy and Implementation Plan Update
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1889,7 +1889,7 @@ Unanimous (5-0)
 ### 11. 2013 State of the
   Downtown Report
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1901,7 +1901,7 @@ Unanimous (4-0)
 ### 12. Stoney Creek Open
   Space Pathway Development East of Trossacks Avenue
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1914,7 +1914,7 @@ Unanimous (4-0)
   Incentive Programs at 121-123 Dundas Street, 471 Richmond Street, 242 Dundas
   Street and 192-194 Dundas Street
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1926,7 +1926,7 @@ Unanimous (4-0)
 ### 14. Heritage
   Conservation District Status Report
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1938,7 +1938,7 @@ Unanimous (4-0)
 ### 15. Environmental
   Impact Study - Performance Evaluation for the City of London
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1950,7 +1950,7 @@ Unanimous (5-0)
 ### 16. 9th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1962,7 +1962,7 @@ Unanimous (5-0)
 ### 17. 8th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1974,7 +1974,7 @@ Unanimous (5-0)
 ### 18. 8th Report of the
   Advisory Committee on the Environment
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1986,7 +1986,7 @@ Unanimous (4-0)
 ### 19. Proposed Amendments
   to the Site Plan By-law
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1998,7 +1998,7 @@ Unanimous (4-0)
 ### 19. Proposed Amendments
   to the Site Plan By-law
 
-<a id="motion-19-1" class="motion-anchor"></a>
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2010,7 +2010,7 @@ Unanimous (4-0)
 ### 19. Proposed Amendments
   to the Site Plan By-law
 
-<a id="motion-19-2" class="motion-anchor"></a>
+<div id="motion-19-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2022,7 +2022,7 @@ Unanimous (5-0)
 ### 19. Proposed Amendments
   to the Site Plan By-law
 
-<a id="motion-19-3" class="motion-anchor"></a>
+<div id="motion-19-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2034,7 +2034,7 @@ Unanimous (4-0)
 ### 20. Property located at
   877 Medway Park Drive (Z-8357)
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2046,7 +2046,7 @@ Unanimous (4-0)
 ### 20. Property located at
   877 Medway Park Drive (Z-8357)
 
-<a id="motion-20-1" class="motion-anchor"></a>
+<div id="motion-20-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2058,7 +2058,7 @@ Unanimous (4-0)
 ### 20. Property located at
   877 Medway Park Drive (Z-8357)
 
-<a id="motion-20-2" class="motion-anchor"></a>
+<div id="motion-20-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2071,7 +2071,7 @@ Unanimous (4-0)
   for the Continuation of the use of the Boulevard and Proposed Amendment to
   the Fees By-law
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2084,7 +2084,7 @@ Unanimous (4-0)
   for the Continuation of the use of the Boulevard and Proposed Amendment to
   the Fees By-law
 
-<a id="motion-21-1" class="motion-anchor"></a>
+<div id="motion-21-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2097,7 +2097,7 @@ Unanimous (4-0)
   for the Continuation of the use of the Boulevard and Proposed Amendment to
   the Fees By-law
 
-<a id="motion-21-2" class="motion-anchor"></a>
+<div id="motion-21-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2110,7 +2110,7 @@ Unanimous (4-0)
   at 1-34 Barberry Court, 35-48 Ivy Court, 49-81 Vinewood Court and 82-100
   Primrose Court (TZ-8353)
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2123,7 +2123,7 @@ Unanimous (4-0)
   at 1-34 Barberry Court, 35-48 Ivy Court, 49-81 Vinewood Court and 82-100
   Primrose Court (TZ-8353)
 
-<a id="motion-22-1" class="motion-anchor"></a>
+<div id="motion-22-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2136,7 +2136,7 @@ Unanimous (4-0)
   at 1-34 Barberry Court, 35-48 Ivy Court, 49-81 Vinewood Court and 82-100
   Primrose Court (TZ-8353)
 
-<a id="motion-22-2" class="motion-anchor"></a>
+<div id="motion-22-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2148,7 +2148,7 @@ Unanimous (4-0)
 ### 23. Properties located
   at 931-1127 Southdale Road East and 551-605 Millbank Drive (TZ-8354)
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2160,7 +2160,7 @@ Unanimous (4-0)
 ### 23. Properties located
   at 931-1127 Southdale Road East and 551-605 Millbank Drive (TZ-8354)
 
-<a id="motion-23-1" class="motion-anchor"></a>
+<div id="motion-23-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2172,7 +2172,7 @@ Unanimous (4-0)
 ### 23. Properties located
   at 931-1127 Southdale Road East and 551-605 Millbank Drive (TZ-8354)
 
-<a id="motion-23-2" class="motion-anchor"></a>
+<div id="motion-23-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2184,7 +2184,7 @@ Unanimous (4-0)
 ### 24. Properties located
   at 940 and 956 Wharncliffe Road South (OZ-8359)
 
-<a id="motion-24-0" class="motion-anchor"></a>
+<div id="motion-24-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2196,7 +2196,7 @@ Unanimous (4-0)
 ### 24. Properties located
   at 940 and 956 Wharncliffe Road South (OZ-8359)
 
-<a id="motion-24-1" class="motion-anchor"></a>
+<div id="motion-24-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2208,7 +2208,7 @@ Unanimous (4-0)
 ### 24. Properties located
   at 940 and 956 Wharncliffe Road South (OZ-8359)
 
-<a id="motion-24-2" class="motion-anchor"></a>
+<div id="motion-24-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2220,7 +2220,7 @@ Unanimous (4-0)
 ### 25. Properties located
   at 447 Old Wonderland Road (Z-8228)
 
-<a id="motion-25-0" class="motion-anchor"></a>
+<div id="motion-25-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2232,7 +2232,7 @@ Unanimous (4-0)
 ### 25. Properties located
   at 447 Old Wonderland Road (Z-8228)
 
-<a id="motion-25-1" class="motion-anchor"></a>
+<div id="motion-25-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2244,7 +2244,7 @@ Unanimous (4-0)
 ### 25. Properties located
   at 447 Old Wonderland Road (Z-8228)
 
-<a id="motion-25-2" class="motion-anchor"></a>
+<div id="motion-25-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2256,7 +2256,7 @@ Unanimous (4-0)
 ### 26. Property located at
   299 Tartan Drive (O-8381/Z-8311)
 
-<a id="motion-26-0" class="motion-anchor"></a>
+<div id="motion-26-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2268,7 +2268,7 @@ Unanimous (4-0)
 ### 26. Property located at
   299 Tartan Drive (O-8381/Z-8311)
 
-<a id="motion-26-1" class="motion-anchor"></a>
+<div id="motion-26-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2280,7 +2280,7 @@ Unanimous (4-0)
 ### 26. Property located at
   299 Tartan Drive (O-8381/Z-8311)
 
-<a id="motion-26-2" class="motion-anchor"></a>
+<div id="motion-26-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2292,7 +2292,7 @@ Unanimous (4-0)
 ### 27. Property located at
   164 Sherwood Forest Square (Z-8327)
 
-<a id="motion-27-0" class="motion-anchor"></a>
+<div id="motion-27-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2311,7 +2311,7 @@ Unanimous (4-0)
 ### 27. Property located at
   164 Sherwood Forest Square (Z-8327)
 
-<a id="motion-27-1" class="motion-anchor"></a>
+<div id="motion-27-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2323,7 +2323,7 @@ Unanimous (4-0)
 ### 27. Property located at
   164 Sherwood Forest Square (Z-8327)
 
-<a id="motion-27-2" class="motion-anchor"></a>
+<div id="motion-27-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2335,7 +2335,7 @@ Unanimous (4-0)
 ### 28. Development Charges
   and the Community Improvement Plan
 
-<a id="motion-28-0" class="motion-anchor"></a>
+<div id="motion-28-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2347,7 +2347,7 @@ Unanimous (4-0)
 ### 29. Properties located
   at 51 and 99 Exeter Road
 
-<a id="motion-29-0" class="motion-anchor"></a>
+<div id="motion-29-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2359,7 +2359,7 @@ Unanimous (4-0)
 ### 29. Properties located
   at 51 and 99 Exeter Road
 
-<a id="motion-29-1" class="motion-anchor"></a>
+<div id="motion-29-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

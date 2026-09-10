@@ -297,7 +297,7 @@ Thanks, everybody, and thanks for dealing with those technical problems to the c
 
 ### 1.2. Election of Vice-Chair for the term ending November 14, 2022
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > That Councillor J. Helmer BE ELECTED Vice-Chair of the Community and Protective Services Committee for the term ending November 14, 2022.
 
@@ -307,7 +307,7 @@ Unanimous (5-0)
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5 BE APPROVED.
 

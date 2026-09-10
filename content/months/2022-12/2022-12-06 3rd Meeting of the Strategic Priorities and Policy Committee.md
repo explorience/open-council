@@ -1200,7 +1200,7 @@ Thank you everyone. Thank you everyone.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 to 2.6 BE APPROVED.
 
@@ -1210,7 +1210,7 @@ Unanimous (15-0)
 
 ### 4.1. Request for Delegation Status - Valerie Terejko - Bill 5 - Stopping Harassment and Abuse by Local Leaders Act, 2022
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Mayor BE DIRECTED to write to local MPPs, Premier Doug Ford and the Minister of Municipal Affairs and Housing, on behalf of the municipal council, in support of the proposed Bill 5; it being noted that the Association of Municipalities of Ontario will also be copied on this letter.
 
@@ -1220,7 +1220,7 @@ Unanimous (15-0)
 
 ### 4.1. Request for Delegation Status - Valerie Terejko - Bill 5 - Stopping Harassment and Abuse by Local Leaders Act, 2022
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation request from Valerie Terejko BE APPROVED to be heard at this time.
 
@@ -1230,7 +1230,7 @@ Unanimous (15-0)
 
 ### 4.2. City of London Corporate Growth Projections 2021-2051
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the delegation requests BE APPROVED to be heard at this meeting.
 
@@ -1240,7 +1240,7 @@ Unanimous (15-0)
 
 ### 4.3. Application of Equity Lens for Citizen Appointment Process
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the application of the Equity Tool, under the Anti-Racism and Anti-Oppression Framework, as it relates to appointments to Advisory Committee, Boards and Commissions: a)  the Civic Administration BE DIRECTED to take the necessary steps to ensure ...
 

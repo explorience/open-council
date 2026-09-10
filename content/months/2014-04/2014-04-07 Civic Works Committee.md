@@ -667,7 +667,7 @@ The
   Procurement of Positive Displacement Cold Water Meters with
   Encoder-Receiver-Transmitter Attached
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -679,7 +679,7 @@ Unanimous (4-0)
 ### 3. Timeline for Major
   Environmental and Engineering Reports
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -691,7 +691,7 @@ Unanimous (4-0)
 ### 4. Community Carshare
   in London
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -704,7 +704,7 @@ Unanimous (4-0)
   of Diesel, Biodiesel and Gasoline (Elgin, Middlesex, Oxford Purchasing
   Co-operative) (Tender No. 14-53)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -716,7 +716,7 @@ Unanimous (4-0)
 ### 6. Contract Award:
   Replacement of Sidewalks, Curb and Gutter and Hot Mix Asphalt (Tender 14-22)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -728,7 +728,7 @@ Unanimous (4-0)
 ### 7. Contract Award:
   2014 Hyde Park Industrial Subdivision (Tender No. 14-34)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -741,7 +741,7 @@ Unanimous (4-0)
   Widening contract - 2013 Growth Management Implementation Strategy (GMIS)
   (Tender No. T13-32)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -755,7 +755,7 @@ Unanimous (4-0)
   Services Associated with the Construction of 2014 Infrastructure Lifecycle
   Renewal Projects: Contracts #4, #6, #9 and Victoria Street Area Storm Sewer
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -767,7 +767,7 @@ Unanimous (4-0)
 ### 10. Contract Award:
   2014 Arterial Road Rehabilitation (Tender No. 14-28)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -780,7 +780,7 @@ Unanimous (4-0)
   Consulting Engineer for Engineering Services for the Functional Design of the
   Tributary "C" Stormwater Management Servicing Works (ES3020-RVBTC)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -793,7 +793,7 @@ Unanimous (4-0)
   Consulting Engineer for Engineering Services for the Functional and Detailed
   Design of the Hyde Park No. 6 SWMF (ES3020-HP6)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -805,7 +805,7 @@ Unanimous (4-0)
 ### 13. Closing of Asima
   Drive
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -817,7 +817,7 @@ Unanimous (4-0)
 ### 14. Street Renaming of
   Tennent Avenue (East Leg)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -829,7 +829,7 @@ Unanimous (4-0)
 ### 14. Street Renaming of
   Tennent Avenue (East Leg)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -841,7 +841,7 @@ Unanimous (4-0)
 ### 14. Street Renaming of
   Tennent Avenue (East Leg)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

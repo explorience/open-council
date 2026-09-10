@@ -2408,7 +2408,7 @@ You guys, thanks.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.6 BE APPROVED.
 
@@ -2418,7 +2418,7 @@ Unanimous (5-0)
 
 ### 3.1. Incentivizing Office-to-Residential Conversions in Downtown
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to offering financial incentives to support office-to-residential conversions in downtown: a) the Civic Administration BE DIRECTED to amend the Downtown Community...
 
@@ -2428,7 +2428,7 @@ Unanimous (5-0)
 
 ### 3.1. Incentivizing Office-to-Residential Conversions in Downtown
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That M. Wallace, Executive Director, London Development Institute, BE GRANTED delegation status with respect to these matters.
 
@@ -2438,7 +2438,7 @@ Unanimous (5-0)
 
 ### 3.4. 3392 Wonderland Road South (OZ-9730)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Old Oak Properties Inc., (c/o Siv-ik Planning & Design), relating to the property located at 3392 Wonderland Road South: a)    the proposed by-law appended to t...
 
@@ -2448,7 +2448,7 @@ Unanimous (5-0)
 
 ### 3.6. 1105 Wellington Road (OZ-9725)
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the application by White Oaks Shopping Centre Inc., relating to the property located at 1105 Wellington Road: a) the proposed attached, revised by-law as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on July 23, 2024, to...
 
@@ -2458,7 +2458,7 @@ Unanimous (5-0)
 
 ### 3.8. 359 Wellington Road and 657 Base Line Road East (Z-9719)
 
-<a id="motion-3-8-0" class="motion-anchor"></a>
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by LJM Developments Ltd., (c/o A.J. Clarke & Associates Ltd.), relating to the property located at 359 Wellington Road and 657 Base Line Road East: a) the proposed...
 
@@ -2468,7 +2468,7 @@ Unanimous (5-0)
 
 ### 3.9. 1725-1737 Richmond Street (Z-9741)
 
-<a id="motion-3-9-0" class="motion-anchor"></a>
+<div id="motion-3-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Richmond Hyland Inc. c/o Paul Kitson, Westdell Development Corporation, relating to the property located at 1727-1737 Richmond Street: a) the proposed by-law ap...
 
@@ -2478,7 +2478,7 @@ Unanimous (5-0)
 
 ### 4.1. Requests for Delegation – Centennial Central Public School Sanitary Service Connection
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the request from the Municipality of Middlesex Centre and the Thames Valley District School Board regarding sanitary servicing for Centennial Central Public School: a)    authority BE DELEGATED to the Deputy City Manager, Environment and Infrast...
 
@@ -2488,7 +2488,7 @@ Unanimous (5-0)
 
 ### 4.1. Requests for Delegation – Centennial Central Public School Sanitary Service Connection
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That G. Vogt, Superintendent, Facility Services and Capital Planning, Thames Valley District School Board and R. Cascaden, Director of Public Works and Engineering, Municipality of Middlesex Centre, BE GRANTED delegation status with respect to the Centennial Central Public School sanitary service...
 
@@ -2498,7 +2498,7 @@ Unanimous (5-0)
 
 ### 4.2. Request for Delegation - Middlesex Centre Sanitary Servicing Agreement, 2000
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the Deputy City Manager, Environment and Infrastructure, BE REQUESTED to report back with an analysis of the Sanitary Servicing Agreement request made by the Municipality of Middlesex Centre, including planning, technical, and financial considerations; it being pointed out that the Planning ...
 
@@ -2508,7 +2508,7 @@ Unanimous (5-0)
 
 ### 4.2. Request for Delegation - Middlesex Centre Sanitary Servicing Agreement, 2000
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That S. Bergman  Middlesex Centre, BE GRANTED delegation status with respect to the Middlesex Centre Sanitary Servicing Agreement, 2000.
 
@@ -2518,7 +2518,7 @@ Unanimous (5-0)
 
 ### 4.3. Urban Forest Canopy - Councillor S. Franke and Councillor C. Rahman
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That, the following matters be included on the Planning and Environment Committee Deferred Matters List: a)  the Civic Administration BE DIRECTED to provide information and associated recommended actions on the following matters in Q4 of 2024: i) Urban Forestry Strategy Monitoring Report: A) a st...
 
@@ -2528,7 +2528,7 @@ Unanimous (5-0)
 
 ### 6. Adjournment
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > The meeting adjourned at 4:59 PM.
 

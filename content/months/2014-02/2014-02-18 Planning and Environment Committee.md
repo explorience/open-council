@@ -1148,7 +1148,7 @@ The
 ### 2. Property located at
   2263 Dundas Street (Z-8273)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1160,7 +1160,7 @@ Unanimous (5-0)
 ### 2. Property located at
   2263 Dundas Street (Z-8273)
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1172,7 +1172,7 @@ Unanimous (4-0)
 ### 2. Property located at
   2263 Dundas Street (Z-8273)
 
-<a id="motion-2-2" class="motion-anchor"></a>
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1184,7 +1184,7 @@ Unanimous (4-0)
 ### 3. Property located at
   350 Oxford Street East
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1196,7 +1196,7 @@ Unanimous (6-0)
 ### 3. Property located at
   350 Oxford Street East
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1208,7 +1208,7 @@ Unanimous (5-0)
 ### 3. Property located at
   350 Oxford Street East
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1220,7 +1220,7 @@ Unanimous (6-0)
 ### 4. Properties located
   at 100 Fullarton Street and 475 Talbot Street (Z-8285)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1232,7 +1232,7 @@ Unanimous (6-0)
 ### 4. Properties located
   at 100 Fullarton Street and 475 Talbot Street (Z-8285)
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1244,7 +1244,7 @@ Unanimous (6-0)
 ### 4. Properties located
   at 100 Fullarton Street and 475 Talbot Street (Z-8285)
 
-<a id="motion-4-2" class="motion-anchor"></a>
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1256,7 +1256,7 @@ Unanimous (6-0)
 ### 5. Property located at
   9345 Elviage Drive (OZ-8280)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1268,7 +1268,7 @@ Unanimous (6-0)
 ### 5. Property located at
   9345 Elviage Drive (OZ-8280)
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1280,7 +1280,7 @@ Unanimous (6-0)
 ### 5. Property located at
   9345 Elviage Drive (OZ-8280)
 
-<a id="motion-5-2" class="motion-anchor"></a>
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

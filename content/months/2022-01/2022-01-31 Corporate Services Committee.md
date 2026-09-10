@@ -357,7 +357,7 @@ The meeting adjourned at 2:23 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.3, and 2.4 BE APPROVED.
 
@@ -367,7 +367,7 @@ Unanimous (6-0)
 
 ### 2.2. Considerations and Viability to Implement a Vacant Home Tax in London
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > 
 
@@ -384,7 +384,7 @@ Unanimous (6-0)
 
 ### 2.2. Considerations and Viability to Implement a Vacant Home Tax in London
 
-<a id="motion-2-2-2" class="motion-anchor"></a>
+<div id="motion-2-2-2" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the consideration to implement a vacant home tax in London: a) The staff report dated January 31, 2022, “Considerations and Viability to Implement a Vacant Home Tax in London B...
 
@@ -401,7 +401,7 @@ Unanimous (6-0)
 
 ### 4.1. Application - Issuance of Proclamation - Parental Alienation Awareness Day
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That based on the application dated January 10, 2022 from Just Another Parent, April 25, 2022 BE RECEIVED and NO ACTION be taken.
 
@@ -420,7 +420,7 @@ Unanimous (6-0)
 
 ### 4.1. Application - Issuance of Proclamation - Parental Alienation Awareness Day
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That pursuant to section 35.8 of the Council Procedure By-law that item 4.1 BE RECONSIDERED.
 

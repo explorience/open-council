@@ -684,7 +684,7 @@ Moved by Councillor Travsau, seconded by Councillor Ferrera and a hand vote is i
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.4 and 2.6 BE APPROVED.
 
@@ -694,7 +694,7 @@ Unanimous (5-0)
 
 ### 2.5. Core Area Parking Incentives Extension
 
-<a id="motion-2-5-2" class="motion-anchor"></a>
+<div id="motion-2-5-2" class="motion-anchor"></div>
 
 > Motion to further amend by including a new part a) to read as follows: a)       the Civic Administration BE DIRECTED to implement a free weekday 1-hour on-street parking program for the Core Area until the end of 2024;
 
@@ -713,7 +713,7 @@ Unanimous (5-0)
 
 ### 2.5. Core Area Parking Incentives Extension
 
-<a id="motion-2-5-3" class="motion-anchor"></a>
+<div id="motion-2-5-3" class="motion-anchor"></div>
 
 > Motion to approve parts a) and b) of the clause.
 
@@ -732,7 +732,7 @@ Unanimous (5-0)
 
 ### 2.5. Core Area Parking Incentives Extension
 
-<a id="motion-2-5-4" class="motion-anchor"></a>
+<div id="motion-2-5-4" class="motion-anchor"></div>
 
 > Motion to approve parts c) and d) of the clause.
 
@@ -751,7 +751,7 @@ Unanimous (5-0)
 
 ### 2.5. Core Area Parking Incentives Extension
 
-<a id="motion-2-5-5" class="motion-anchor"></a>
+<div id="motion-2-5-5" class="motion-anchor"></div>
 
 > Motion to approve parts e) and f) of the clause.
 

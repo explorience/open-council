@@ -1071,7 +1071,7 @@ The meeting adjourned at 6:27 PM.
 ### 1. Election of
   Vice-Chair for term ending November 30, 2017
 
-<a id="motion-1-0" class="motion-anchor"></a>
+<div id="motion-1-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1083,7 +1083,7 @@ Unanimous (4-0)
 ### 3. STAFF REPORT - Property
   located at 751 Fanshawe Park Road West
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1095,7 +1095,7 @@ Unanimous (4-0)
 ### 4. STAFF REPORT -
   Urban Agriculture Strategy - Terms of Reference
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1107,7 +1107,7 @@ Unanimous (4-0)
 ### 5. STAFF REPORT -
   Improvements to Public Engagement in the Planning Process
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1119,7 +1119,7 @@ Unanimous (4-0)
 ### 6. STAFF REPORT -
   Candidate Approval for the Urban Design Peer Review Panel
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1132,7 +1132,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Property located at 1448 Adelaide Street North
   (OZ-8684)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1152,7 +1152,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Property located at 1448 Adelaide Street North
   (OZ-8684)
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1165,7 +1165,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Property located at 1448 Adelaide Street North
   (OZ-8684)
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1177,7 +1177,7 @@ Unanimous (4-0)
 ### 8. PUBLIC
   PARTICIPATION MEETING - Property located at 138 Thompson Road (Z-8687)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1189,7 +1189,7 @@ Unanimous (4-0)
 ### 8. PUBLIC
   PARTICIPATION MEETING - Property located at 138 Thompson Road (Z-8687)
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1201,7 +1201,7 @@ Unanimous (4-0)
 ### 8. PUBLIC
   PARTICIPATION MEETING - Property located at 138 Thompson Road (Z-8687)
 
-<a id="motion-8-2" class="motion-anchor"></a>
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1214,7 +1214,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Property located at 801 Sarnia Road  
   (39CD-15516/Z-8549 )
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1227,7 +1227,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Property located at 801 Sarnia Road  
   (39CD-15516/Z-8549 )
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1240,7 +1240,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Property located at 801 Sarnia Road  
   (39CD-15516/Z-8549 )
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1253,7 +1253,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING -  Property located at North Side of Bradley Avenue,
   East of Highbury Avenue (39T-92020/39T-92020-E)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1266,7 +1266,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING -  Property located at North Side of Bradley Avenue,
   East of Highbury Avenue (39T-92020/39T-92020-E)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1279,7 +1279,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING -  Property located at North Side of Bradley Avenue,
   East of Highbury Avenue (39T-92020/39T-92020-E)
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1291,7 +1291,7 @@ Unanimous (4-0)
 ### 11. DELEGATION - 11th
   Report of the Trees and Forest Advisory Committee
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1304,7 +1304,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Property located at 132, 146 and 184 Exeter Road 
   (39T-15501/Z-8470 )
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1317,7 +1317,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Property located at 132, 146 and 184 Exeter Road 
   (39T-15501/Z-8470 )
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1330,7 +1330,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Property located at 132, 146 and 184 Exeter Road 
   (39T-15501/Z-8470 )
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1342,7 +1342,7 @@ Unanimous (4-0)
 ### 13. Deferred Matters
   List
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1354,7 +1354,7 @@ Unanimous (4-0)
 ### 14. (ADDED) STAFF
   REPORT - 165 Elmwood Avenue Former Normal School Transportation Review
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1366,7 +1366,7 @@ Unanimous (4-0)
 ### 15. (ADDED) CPR Right-of-Way Between the
   Heritage Sarnia Road Bridge and the Sarnia Road Railway Underpass
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

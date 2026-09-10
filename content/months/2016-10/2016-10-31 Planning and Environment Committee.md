@@ -1083,7 +1083,7 @@ The
 ### 2. Properties located
   at 1235-1249 Hyde Park Road (H-8689)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1097,7 +1097,7 @@ Unanimous (5-0)
   Municipal Council Blanket Support Resolution Landfill Gas Projects on Active
   and Closed Landfill Sites Feed-In Tariff (FIT) 5.0 Prescribed Forms
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1109,7 +1109,7 @@ Unanimous (5-0)
 ### 4. Properties located
   at 110 and 120 Shamrock Road
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1121,7 +1121,7 @@ Unanimous (5-0)
 ### 5. Property located at
   2332 Wickerson Road (H-8345)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1133,7 +1133,7 @@ Unanimous (5-0)
 ### 6. Property located at
   3343 Morgan Avenue (H-8536)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1145,7 +1145,7 @@ Unanimous (5-0)
 ### 8. Building Division
   Monthly Report for August 2016
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1157,7 +1157,7 @@ Unanimous (5-0)
 ### 9. Property located at
   2028 Wickerson Road (39CD-16507/OZ-8645)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1169,7 +1169,7 @@ Unanimous (5-0)
 ### 9. Property located at
   2028 Wickerson Road (39CD-16507/OZ-8645)
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1181,7 +1181,7 @@ Unanimous (5-0)
 ### 9. Property located at
   2028 Wickerson Road (39CD-16507/OZ-8645)
 
-<a id="motion-9-2" class="motion-anchor"></a>
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1193,7 +1193,7 @@ Unanimous (5-0)
 ### 10. Property located on
   a portion of 3260 Singleton Avenue (39CD-16512/SPA16-031)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1205,7 +1205,7 @@ Unanimous (5-0)
 ### 10. Property located on
   a portion of 3260 Singleton Avenue (39CD-16512/SPA16-031)
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1217,7 +1217,7 @@ Unanimous (5-0)
 ### 10. Property located on
   a portion of 3260 Singleton Avenue (39CD-16512/SPA16-031)
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1229,7 +1229,7 @@ Unanimous (5-0)
 ### 11. Properties located
   at 2044, 2062, 2070 and 2100 Meadowgate Boulevard (OZ-8663)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1241,7 +1241,7 @@ Unanimous (5-0)
 ### 11. Properties located
   at 2044, 2062, 2070 and 2100 Meadowgate Boulevard (OZ-8663)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1253,7 +1253,7 @@ Unanimous (5-0)
 ### 11. Properties located
   at 2044, 2062, 2070 and 2100 Meadowgate Boulevard (OZ-8663)
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1265,7 +1265,7 @@ Unanimous (5-0)
 ### 12. Property located at
   255 South Carriage Road (39T-08502/Z-8614)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1277,7 +1277,7 @@ Unanimous (5-0)
 ### 12. Property located at
   255 South Carriage Road (39T-08502/Z-8614)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1289,7 +1289,7 @@ Unanimous (5-0)
 ### 12. Property located at
   255 South Carriage Road (39T-08502/Z-8614)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1301,7 +1301,7 @@ Unanimous (5-0)
 ### 12. Property located at
   255 South Carriage Road (39T-08502/Z-8614)
 
-<a id="motion-12-3" class="motion-anchor"></a>
+<div id="motion-12-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1313,7 +1313,7 @@ Unanimous (5-0)
 ### 13. 11th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1325,7 +1325,7 @@ Unanimous (5-0)
 ### 14. Property located at
   1877 Sandy Somerville Lane (Z-8661)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1337,7 +1337,7 @@ Unanimous (5-0)
 ### 14. Property located at
   1877 Sandy Somerville Lane (Z-8661)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1349,7 +1349,7 @@ Unanimous (5-0)
 ### 14. Property located at
   1877 Sandy Somerville Lane (Z-8661)
 
-<a id="motion-14-2" class="motion-anchor"></a>
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1361,7 +1361,7 @@ Unanimous (5-0)
 ### 14. Property located at
   1877 Sandy Somerville Lane (Z-8661)
 
-<a id="motion-14-3" class="motion-anchor"></a>
+<div id="motion-14-3" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -683,7 +683,7 @@ Thank you, colleagues meeting adjourned.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5, BE APPROVED.
 
@@ -693,7 +693,7 @@ Unanimous (12-0)
 
 ### 3.1. Public Participation Meeting - Amendments to the Various Fees and Charges By-law
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Clerk, with the concurrence of the Deputy City Manager, Finance Supports, the following actions be taken with respect to proposed amendments to the Various Fees and Charges By-law:    a)    the proposed by-law as appended to the staff report dated October 1...
 
@@ -703,7 +703,7 @@ Unanimous (12-0)
 
 ### 4.1. University of Western Ontario Board of Governors
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That Michael Lerner's term BE EXTENDED to June 30, 2022 and future appointments by the City of London to the University of Western Ontario be made effective as of July 1, rather than December 1.
 

@@ -80,7 +80,7 @@ Motion
 ### 2. Election of
   Vice-Chair for the term ending November 30, 2014
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -93,7 +93,7 @@ Unanimous (3-0)
   Adult Day Program Management Consulting and Administrator Services Contract
   Amendment
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

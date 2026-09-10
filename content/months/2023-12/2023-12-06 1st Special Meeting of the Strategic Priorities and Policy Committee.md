@@ -527,7 +527,7 @@ Moved by Councilor Cuddy, seconded by Councilor Stevenson. All those in favor, a
 
 ### 2.1. Recruitment, Retention and Accommodation of Planning & Development and Building Staff
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > Motion TO APPROVE the preamble and parts a) and parts b) to read as follows: "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the Deputy City Manager, Enterprise Supports, and the Deputy City Manager, Finance Supports, the following actions be taken: a) ...
 

@@ -132,7 +132,7 @@ The Strategic Priorities and Policy
 ### 2. Service London
   Update: 661-CITY and CRM Portal
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -145,7 +145,7 @@ Unanimous (9-0)
   Effects of Barriers and Low Flow on Species at Risk Along the Upper Thames
   River
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -156,7 +156,7 @@ Unanimous (10-0)
 ### 4. Potential Establishment of an Urban
   Indigenous People’s Advisory Committee
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 

@@ -1408,7 +1408,7 @@ We're adjourned.
 
 ### 2.1. Mayoral Direction 2024-001 – City-Owned Parking Lot Redevelopment 199 Ridout Street North and 84 Horton Street East
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 6.1 in Stage 6, Confidential, to be considered before Stage 2, Consent.
 
@@ -1418,7 +1418,7 @@ Unanimous (15-0)
 
 ### 2.1. Mayoral Direction 2024-001 – City-Owned Parking Lot Redevelopment 199 Ridout Street North and 84 Horton Street East
 
-<a id="motion-2-1-2" class="motion-anchor"></a>
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > b)    the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-density housing, encouraging modular construction techniques, and public parking at the following...
 
@@ -1435,7 +1435,7 @@ Unanimous (15-0)
 
 ### 2.1. Mayoral Direction 2024-001 – City-Owned Parking Lot Redevelopment 199 Ridout Street North and 84 Horton Street East
 
-<a id="motion-2-1-3" class="motion-anchor"></a>
+<div id="motion-2-1-3" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Mayoral Direction 2024-001, the City-owned Parking Lot Redevelopment update relating to 199 Ridout Street and 84 Horton Street: a)    on the recommendation of the Deputy City Manager, Housing and Community Growth, with respect to the Mayoral...
 
@@ -1452,7 +1452,7 @@ Unanimous (15-0)
 
 ### 4.1. Draft Economic Development Strategy Framework – Presentation
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation request from G. Henderson, CEO, London Chamber of Commerce BE APPROVED to be heard at this time.
 
@@ -1462,7 +1462,7 @@ Unanimous (14-0)
 
 ### 4.1. Draft Economic Development Strategy Framework – Presentation
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That the communication dated January 11, 2026 from Councillor D. Ferreira with the following considerations BE REFERRED to Civic Administration and Deloitte Canada to incorporate the following considerations into the next phase of the Draft Economic Development Strategy Framework: - to include do...
 
@@ -1479,7 +1479,7 @@ Unanimous (14-0)
 
 ### 4.1. Draft Economic Development Strategy Framework – Presentation
 
-<a id="motion-4-1-4" class="motion-anchor"></a>
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Manager, the report regarding the Draft Economic Development Strategy Framework, including the “City of London: Economic Development Strategy” presentation BE RECEIVED; it being noted that the Strategic Priorities and Policy Committee heard verbal presentat...
 
@@ -1496,7 +1496,7 @@ Unanimous (14-0)
 
 ### 4.1. Draft Economic Development Strategy Framework – Presentation
 
-<a id="motion-4-1-5" class="motion-anchor"></a>
+<div id="motion-4-1-5" class="motion-anchor"></div>
 
 > That the Strategic Priorities and Policy Committee recess at this time, for 10 minutes.
 
@@ -1506,7 +1506,7 @@ Unanimous (15-0)
 
 ### 4.2. Request for an Amendment to the London Transit Commission Board Member Composition
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the London Transit Commission: a) the communication dated November 16, 2025 from S. Franke, Chair, London Transit Commission BE RECEIVED; b) the resignation of E. Peloza, London Transit Commission BE ACCEPTED; and c) the Civic Administration BE ...
 
@@ -1523,7 +1523,7 @@ Unanimous (15-0)
 
 ### 4.2. Request for an Amendment to the London Transit Commission Board Member Composition
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the communication dated November 16, 2025 from S. Franke, Chair, London Transit Commission BE REFERRED to the Strategic Priorities and Policy Committee on February 24, 2026 to allow Council Members to consider serving on the London Transit Commission to fill the existing vacancy;
 

@@ -2087,7 +2087,7 @@ Any opposed? Got motion to turn. Okay, thank you, we're adjourned.
 
 ### 8.1. 12th Report of the Community and Protective Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 12th Report of the Community and Protective Services Committee BE APPROVED, with the exception of item 6 (5.1).
 
@@ -2097,7 +2097,7 @@ Unanimous (15-0)
 
 ### 8.1.6. (5.1) Award of RFP-2024-233 - Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block 5
 
-<a id="motion-8-1-6-1" class="motion-anchor"></a>
+<div id="motion-8-1-6-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED in part e) to remove “from the Housing Development Corporation, London”.
 
@@ -2107,7 +2107,7 @@ Unanimous (15-0)
 
 ### 8.1.6. (5.1) Award of RFP-2024-233 - Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block 5
 
-<a id="motion-8-1-6-2" class="motion-anchor"></a>
+<div id="motion-8-1-6-2" class="motion-anchor"></div>
 
 > That item 6, clause 5.1, as amended, BE APPROVED.
 
@@ -2117,7 +2117,7 @@ Unanimous (15-0)
 
 ### 8.2. 13th Report of the Civic Works Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 13th Report of the Civic Works Committee BE APPROVED, with the exception of item 10 (3.2).
 
@@ -2127,7 +2127,7 @@ Unanimous (15-0)
 
 ### 8.2.10. (3.2) Memorandum of Understanding with the London Chamber of Commerce for Action on Climate Change (Relates to Bill No. 341)
 
-<a id="motion-8-2-10-0" class="motion-anchor"></a>
+<div id="motion-8-2-10-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report dated October 2, 2024, BE INTRODUCED at the Municipal Council meeting to be held on October 15, 2024 to: a)    authorize and approve a Memorandum of Underst...
 
@@ -2144,7 +2144,7 @@ Unanimous (15-0)
 
 ### 8.3. 15th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 15th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of item 4 (3.1).
 
@@ -2154,7 +2154,7 @@ Unanimous (15-0)
 
 ### 8.3.4. (3.1) Kapil Lakhotia, President and Chief Executive Officer -London Economic Development Corporation
 
-<a id="motion-8-3-4-0" class="motion-anchor"></a>
+<div id="motion-8-3-4-0" class="motion-anchor"></div>
 
 > That it BE NOTED that the Strategic Priorities and Policy Committee received the Annual Update from K. Lakhotia, President and Chief Executive Officer, London Economic Development Corporation.
 
@@ -2171,7 +2171,7 @@ Unanimous (15-0)
 
 ### 8.4. 15th Report of the Planning and Environment Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 15th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 5 (3.1).
 
@@ -2181,7 +2181,7 @@ Unanimous (15-0)
 
 ### 8.4.5. (3.1) 9th Report of the Community Advisory Committee on Planning
 
-<a id="motion-8-4-5-0" class="motion-anchor"></a>
+<div id="motion-8-4-5-0" class="motion-anchor"></div>
 
 > That the 9th Report of the Community Advisory Committee on Planning, from its meeting held on September 11, 2024 BE RECEIVED and NO FURTHER ACTION BE TAKEN relating to the request to consider designating the City Hall building located at 300 Dufferin Avenue; it being noted that the Planning and E...
 
@@ -2198,7 +2198,7 @@ Unanimous (15-0)
 
 ### 8.5. 15th Report of the Corporate Services Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 15th Report of the Corporate Services Committee BE APPROVED.
 
@@ -2208,7 +2208,7 @@ Unanimous (15-0)
 
 ### 8.6. 3rd Report of the Audit Committee
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 3rd Report of the Audit Committee BE APPROVED.
 
@@ -2218,7 +2218,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Added Bill No. 353, BE APPROVED.
 
@@ -2235,7 +2235,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No. 353, BE APPROVED.
 
@@ -2252,7 +2252,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Added Bill No. 353, BE APPROVED.
 

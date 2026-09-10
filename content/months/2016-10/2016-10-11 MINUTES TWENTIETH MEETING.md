@@ -1766,7 +1766,7 @@ Passed
   Committee stage for consideration with clause 9 of the 17th Report of the
   Planning and Environment Committee.)
 
-<a id="motion-1-2-0" class="motion-anchor"></a>
+<div id="motion-1-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1777,7 +1777,7 @@ Unanimous (14-0)
 ### 1#9. (ADDED) Councillor
   J. Zaifman - Payment of Stipend During Period of Approved Medical Leave
 
-<a id="motion-1-9-0" class="motion-anchor"></a>
+<div id="motion-1-9-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 20.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to consider the communication dated October 6, 2016, from   Councillor J. Zaifman seeking support with respect to the discontinuance of   his stipend until such tim...
 
@@ -1788,7 +1788,7 @@ Unanimous (14-0)
 ### 1#9. (ADDED) Councillor
   J. Zaifman - Payment of Stipend During Period of Approved Medical Leave
 
-<a id="motion-1-9-1" class="motion-anchor"></a>
+<div id="motion-1-9-1" class="motion-anchor"></div>
 
 > Approve that the communication dated   October 6, 2016, from Councillor J. Zaifman, with respect to the   discontinuance of his stipend until such time as he is able to resume his   duties, BE SUPPORTED.
 
@@ -1798,7 +1798,7 @@ Unanimous (14-0)
 
 ### 13#2. PEC Deferred List
 
-<a id="motion-13-2-0" class="motion-anchor"></a>
+<div id="motion-13-2-0" class="motion-anchor"></div>
 
 > That the Deferred Matters List dated   September 6, 2016, BE UPDATED and items that have been addressed by the Civic   Administration BE REMOVED.
 
@@ -1809,7 +1809,7 @@ Unanimous (14-0)
 ### 2#3. Recording of In
   Closed Session Meetings
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > Approve referral of clause 2 back to the   Corporate Services Committee in order to receive further information from the   Civic Administration and to provide for additional discussion with respect to   this matter.
 
@@ -1827,7 +1827,7 @@ Unanimous (14-0)
 ### 2#3. Recording of In
   Closed Session Meetings
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1844,7 +1844,7 @@ Unanimous (14-0)
 
 ### 2#4. Meeting with Members of Parliament
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1855,7 +1855,7 @@ Unanimous (14-0)
 ### 3#4. Quarterly Report on
   Internal Audit Results
 
-<a id="motion-3-4-1" class="motion-anchor"></a>
+<div id="motion-3-4-1" class="motion-anchor"></div>
 
 > Approve clauses 1 and 2 as follows:   1.                     That, as a   procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the   following recommendation be forwarded to City Council for deliberation and a   vote in public session:   That, on the recommendation of the Man...
 
@@ -1866,7 +1866,7 @@ Unanimous (13-0)
 ### 7#2. Chelsea Green
   Meadows Delegation
 
-<a id="motion-7-2-0" class="motion-anchor"></a>
+<div id="motion-7-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the request for a Brownfield Incentive application for the Chelsea   Green subdivision (33M-686):   a)         the   Civic Administration BE REQUESTED to report back at a future meeting of the   Planning and Environment Committee with an analy...
 
@@ -1884,7 +1884,7 @@ Unanimous (13-0)
 ### 9#2. Properties located
   at 479-485, 487 and 489 Talbot Street
 
-<a id="motion-9-2-0" class="motion-anchor"></a>
+<div id="motion-9-2-0" class="motion-anchor"></div>
 
 > The Chair rules that a proposed amendment   to clause 10 would require the Municipal Council to approve a reconsideration   of the matter.  Councillor S. Turner challenges the ruling of the Chair.  Pursuant   to section 10.5 of the Council Procedure By-law the question “Shall the   ruling of the ...
 
@@ -1902,7 +1902,7 @@ Unanimous (13-0)
 ### 9#2. Properties located
   at 479-485, 487 and 489 Talbot Street
 
-<a id="motion-9-2-1" class="motion-anchor"></a>
+<div id="motion-9-2-1" class="motion-anchor"></div>
 
 > Part a) of clause 9 is put.
 
@@ -1920,7 +1920,7 @@ Unanimous (13-0)
 ### 9#2. Properties located
   at 479-485, 487 and 489 Talbot Street
 
-<a id="motion-9-2-2" class="motion-anchor"></a>
+<div id="motion-9-2-2" class="motion-anchor"></div>
 
 > Part b) of clause 9 is put.
 
@@ -1938,7 +1938,7 @@ Unanimous (13-0)
 ### 9#2. Properties located
   at 479-485, 487 and 489 Talbot Street
 
-<a id="motion-9-2-3" class="motion-anchor"></a>
+<div id="motion-9-2-3" class="motion-anchor"></div>
 
 > The balance of clause 9 is put.
 
@@ -1950,7 +1950,7 @@ Unanimous (14-0)
   AND SIGNING OF THE MINUTES OF THE NINETEENTH MEETING HELD ON SEPTEMBER 27,
   2016
 
-<a id="motion-v-0" class="motion-anchor"></a>
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Nineteenth   Meeting, held on September 27, 2016.
 
@@ -1960,7 +1960,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading of   revised Bill No. 369.
 
@@ -1977,7 +1977,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-4" class="motion-anchor"></a>
+<div id="motion-xiii-4" class="motion-anchor"></div>
 
 > Approve Second Reading of revised Bill   No. 369.
 
@@ -1994,7 +1994,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   revised Bill No. 369.
 
@@ -2012,7 +2012,7 @@ Unanimous (14-0)
 ### 7. Parking Between the
   Sidewalk and Roadway
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Approve that clause 7 BE REFERRED back   to the Civic Works Committee, for further discussion and public consultation.
 
@@ -2030,7 +2030,7 @@ Unanimous (14-0)
 ### 7. Parking Between the
   Sidewalk and Roadway
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2041,7 +2041,7 @@ Unanimous (14-0)
 ### 13. Infrastructure
   Canada - Phase One Investments - Public Transit Infrastructure Fund
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, with the   concurrence of the Managing Director, Corporate Services and City Treasurer,   Chief Financial Officer, the following actions be taken with respect to the   Public Transit ...
 

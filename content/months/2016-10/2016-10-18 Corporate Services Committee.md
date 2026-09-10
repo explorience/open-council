@@ -457,7 +457,7 @@ The
 ### 2. STAFF REPORT - City
   of London Days - Budweiser Gardens
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -469,7 +469,7 @@ Unanimous (6-0)
 ### 3. STAFF REPORT - City
   of London Days - Budweiser Gardens - Parkinson Society Southwestern Ontario
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -481,7 +481,7 @@ Unanimous (6-0)
 ### 4. STAFF REPORT -
   Email Access - Council Members' Temporary Contract Assistants
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -494,7 +494,7 @@ Unanimous (6-0)
   Tender 16-84 Irregular Bid for Stronach Arena Dehumidification Lifecycle
   Replacement
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -508,7 +508,7 @@ Unanimous (6-0)
   16-98 Supply, Delivery and Installation of Dirtt Wall Systems, Tender 16-99
   Supply, Delivery and Installation of Herman Miller Inc. Irregular Results
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -522,7 +522,7 @@ Unanimous (6-0)
   Environmental Education Centre Wellington Road Tourist Information Centre
   Location
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -534,7 +534,7 @@ Unanimous (6-0)
 ### 8. STAFF REPORT -
   2016-2019 Tax Calculator Web Tool
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -547,7 +547,7 @@ Unanimous (6-0)
   SUBMISSION - Report of the Federation of Canadian Municipalities Board of
   Directors Meeting - Oakville, ON, September 13-16, 2016
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -560,7 +560,7 @@ Unanimous (6-0)
   Woods, Chief Operating Officer and Kris Dinel, Chief Business
   Development Officer, Western Fair District
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -573,7 +573,7 @@ Unanimous (6-0)
   Request for Delegation Status - Jason Timlick, President, London Professional
   Fire Fighters’ Association
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -593,7 +593,7 @@ Unanimous (6-0)
   Request for Delegation Status - Jason Timlick, President, London Professional
   Fire Fighters’ Association
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -613,7 +613,7 @@ Unanimous (6-0)
   Request for Delegation Status - Jason Timlick, President, London Professional
   Fire Fighters’ Association
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Failed
 

@@ -838,7 +838,7 @@ Next is a German looking for a motion to adjourn moved by Council McAllister, se
 
 ### 4.1. Micro-Modular Shelter Site
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That part b) of the motion BE APPROVED.
 
@@ -855,7 +855,7 @@ Next is a German looking for a motion to adjourn moved by Council McAllister, se
 
 ### 4.1. Micro-Modular Shelter Site
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the remainder of the motion BE APPROVED.
 

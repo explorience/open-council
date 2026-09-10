@@ -2611,7 +2611,7 @@ Thank you, Moshe, or adjourned. Just before.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.3, BE APPROVED.
 
@@ -2621,7 +2621,7 @@ Unanimous (4-0)
 
 ### 3.1. 1st Report of the Community Advisory Committee on Planning
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the 1st Report of the Community Advisory Committee on Planning, from its meeting held on January 15, 2026, was received; it being noted that the verbal delegation from J. M. Metrailler, Chair, Community Advisory Committee on Planning, with respect to this matter, was received.
 
@@ -2631,7 +2631,7 @@ Unanimous (4-0)
 
 ### 3.4. 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Northbound Development Corporation relating to the property located at 767 Fanshawe Park Road East & 679 Dunboyne Crescent: a)    the proposed attached b...
 
@@ -2650,7 +2650,7 @@ Unanimous (4-0)
 
 ### 3.12. 3680 Wonderland Road - OZ-25128
 
-<a id="motion-3-12-0" class="motion-anchor"></a>
+<div id="motion-3-12-0" class="motion-anchor"></div>
 
 > That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -2660,7 +2660,7 @@ Unanimous (4-0)
 
 ### 3.12. 3680 Wonderland Road - OZ-25128
 
-<a id="motion-3-12-1" class="motion-anchor"></a>
+<div id="motion-3-12-1" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001320818 Ontario Inc. (c/o Miami Developments) relating to the property located at 3680 Wonderland Road South: a)    the proposed attached by-law BE AP...
 
@@ -2670,7 +2670,7 @@ Unanimous (4-0)
 
 ### 4.1. Councillor E. Peloza - Brownfield Community Improvement Plan Update Request
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee in Q2 2026 with a list of current Brownfield CIP approvals including the municipal funding allocation, project status updates for each site, and recommendations for any inactive ...
 

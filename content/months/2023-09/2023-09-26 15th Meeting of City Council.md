@@ -3089,7 +3089,7 @@ Motion carries. Thank you very much. We're adjourned.
 
 ### 8.1. 16th Report of the Corporate Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 16th Report of the Corporate Services Committee, BE APPROVED.
 
@@ -3099,7 +3099,7 @@ Unanimous (15-0)
 
 ### 8.2. 14th Report of the Community and Protective Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Community and Protective Services Committee, BE APPROVED, excluding Item 5 (4.1).
 
@@ -3109,7 +3109,7 @@ Unanimous (15-0)
 
 ### 8.2.5. (4.1) Community and Neighbourhood Safety and Security Concerns Options for Agencies, Staff, Volunteers and those Accessing Services
 
-<a id="motion-8-2-5-1" class="motion-anchor"></a>
+<div id="motion-8-2-5-1" class="motion-anchor"></div>
 
 > That part c) of the clause BE AMENDED to read as follows: "c)   the additional programs identified to support safety and security in hotspot service request areas, including additional Coordinated Informed Response programming and street cleaning to be accommodated within existing Housing Stabili...
 
@@ -3126,7 +3126,7 @@ Unanimous (15-0)
 
 ### 8.2.5. (4.1) Community and Neighbourhood Safety and Security Concerns Options for Agencies, Staff, Volunteers and those Accessing Services
 
-<a id="motion-8-2-5-2" class="motion-anchor"></a>
+<div id="motion-8-2-5-2" class="motion-anchor"></div>
 
 > That Item 5 (4.1), as amended, BE APPROVED.
 
@@ -3143,7 +3143,7 @@ Unanimous (15-0)
 
 ### 8.3. 13th Report of the Civic Works Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 13th Report of the Civic Works Committee, BE APPROVED.
 
@@ -3153,7 +3153,7 @@ Unanimous (15-0)
 
 ### 8.4. 22nd Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 22nd Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding Item 10 (5.1).
 
@@ -3163,7 +3163,7 @@ Unanimous (15-0)
 
 ### 8.4.10. (5.1) Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members) (Relates to Bill No. 343)
 
-<a id="motion-8-4-10-0" class="motion-anchor"></a>
+<div id="motion-8-4-10-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the London Hydro Board of Directors: a) Tim Watson and Tracy Gustafson BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held ...
 
@@ -3180,7 +3180,7 @@ Unanimous (15-0)
 
 ### 8.4.10. (5.1) Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members) (Relates to Bill No. 343)
 
-<a id="motion-8-4-10-1" class="motion-anchor"></a>
+<div id="motion-8-4-10-1" class="motion-anchor"></div>
 
 > That Item 10 (5.1), Consideration of Appointments to the London Hydro Board of Directors, BE REFERRED back to the Strategic Priorities and Policy Committee for consideration.
 
@@ -3197,7 +3197,7 @@ Unanimous (15-0)
 
 ### 8.4.10. (5.1) Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members) (Relates to Bill No. 343)
 
-<a id="motion-8-4-10-2" class="motion-anchor"></a>
+<div id="motion-8-4-10-2" class="motion-anchor"></div>
 
 > That the question now be put - with respect to the referral motion on the floor.
 
@@ -3214,7 +3214,7 @@ Unanimous (15-0)
 
 ### 8.4.10. (5.1) Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members) (Relates to Bill No. 343)
 
-<a id="motion-8-4-10-3" class="motion-anchor"></a>
+<div id="motion-8-4-10-3" class="motion-anchor"></div>
 
 > With respect to the Chair's decision that Councillor S. Stevenson cannot further speak to this mater, shall the ruling of the Chair BE SUSTAINED?
 
@@ -3231,7 +3231,7 @@ Unanimous (15-0)
 
 ### 8.5. 14th Report of the Planning and Environment Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 14th Report of the Planning and Environment Committee, BE APPROVED, excluding Item 8 (3.4).
 
@@ -3241,7 +3241,7 @@ Unanimous (15-0)
 
 ### 8.5.8. (3.4) 1515 Trossacks Avenue (Z-9632) (Relates to Bill No. 360)
 
-<a id="motion-8-5-8-0" class="motion-anchor"></a>
+<div id="motion-8-5-8-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application by Daniel Boyer c/o Polocorp Inc., relating to the property located at 1515 Trossacks Avenue: a)    the proposed by-law appended to the Planning and Environment Committee Added Agenda as Appendix "A" BE INTRODUCED at the Municip...
 
@@ -3258,7 +3258,7 @@ Unanimous (15-0)
 
 ### 8.5.8. (3.4) 1515 Trossacks Avenue (Z-9632) (Relates to Bill No. 360)
 
-<a id="motion-8-5-8-1" class="motion-anchor"></a>
+<div id="motion-8-5-8-1" class="motion-anchor"></div>
 
 > That part b) of clause 3.4 BE AMENDED by adding the following part ii): “ii)     increased capacity in the undergound parking;”
 
@@ -3275,7 +3275,7 @@ Unanimous (15-0)
 
 ### 8.6. 15th Report of the Planning and Environment Committee
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 15th Report of the Planning and Environment Committee, BE APPROVED, excluding Items 3 (3.2), 6 (3.5) and 7 (3.6).
 
@@ -3285,7 +3285,7 @@ Unanimous (15-0)
 
 ### 8.6.3. (3.2) 176 Piccadilly Street
 
-<a id="motion-8-6-3-0" class="motion-anchor"></a>
+<div id="motion-8-6-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the property located at 176 Piccadilly Street BE REMOVED from the Register of Cultural Heritage Resources; it being pointed out that no action be taken with respect to the communication dated September 15, 2023 from A.M. Valas...
 
@@ -3302,7 +3302,7 @@ Unanimous (15-0)
 
 ### 8.6.6. (3.5) 3234-3274 Wonderland Road South (Z-9618) (Relates to Bill No. 363)
 
-<a id="motion-8-6-6-1" class="motion-anchor"></a>
+<div id="motion-8-6-6-1" class="motion-anchor"></div>
 
 > That part c), BE AMENDED to read as follows: "c)     the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process: i) ensure all landscaping fronting Wonderland Road South is designed and installed to create a strong built edge with a minimum...
 
@@ -3319,7 +3319,7 @@ Unanimous (15-0)
 
 ### 8.6.6. (3.5) 3234-3274 Wonderland Road South (Z-9618) (Relates to Bill No. 363)
 
-<a id="motion-8-6-6-2" class="motion-anchor"></a>
+<div id="motion-8-6-6-2" class="motion-anchor"></div>
 
 > That part b) of Item 6 (clause 3.5) BE AMENDED to read as follows: "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southside Construction Management Ltd., relating to a portion of the property located at 323...
 
@@ -3329,7 +3329,7 @@ Unanimous (15-0)
 
 ### 8.6.6. (3.5) 3234-3274 Wonderland Road South (Z-9618) (Relates to Bill No. 363)
 
-<a id="motion-8-6-6-3" class="motion-anchor"></a>
+<div id="motion-8-6-6-3" class="motion-anchor"></div>
 
 > That item 6 (3.5), as amended, BE APPROVED.
 
@@ -3339,7 +3339,7 @@ Unanimous (15-0)
 
 ### 8.6.7. (3.6) 1364-1408 Hyde Park Road (OZ-9635) (Relates to Bill No.'s 344 and 364)
 
-<a id="motion-8-6-7-1" class="motion-anchor"></a>
+<div id="motion-8-6-7-1" class="motion-anchor"></div>
 
 > That Item 7 (3.6), BE AMENDED, by adding the following new part c) ii) as follows: "ii)   an increase to parking on-site in the development;"
 
@@ -3356,7 +3356,7 @@ Unanimous (15-0)
 
 ### 8.6.7. (3.6) 1364-1408 Hyde Park Road (OZ-9635) (Relates to Bill No.'s 344 and 364)
 
-<a id="motion-8-6-7-2" class="motion-anchor"></a>
+<div id="motion-8-6-7-2" class="motion-anchor"></div>
 
 > Item 7 (clause 3.6), as amended, BE APPROVED.
 
@@ -3373,7 +3373,7 @@ Unanimous (15-0)
 
 ### 9.1. 13th Report of Council in Closed Session
 
-<a id="motion-9-1-0" class="motion-anchor"></a>
+<div id="motion-9-1-0" class="motion-anchor"></div>
 
 > 1.    Property Acquisition – 1241 Wellington Road – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to ...
 
@@ -3383,7 +3383,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 343, BE APPROVED.
 
@@ -3400,7 +3400,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 343, BE APPROVED. At 4:50 PM, Councillor D. Ferreira leaves the meeting.
 
@@ -3419,7 +3419,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 343, BE APPROVED.
 
@@ -3438,7 +3438,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 360, BE APPROVED.
 
@@ -3457,7 +3457,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 360, BE APPROVED.
 
@@ -3476,7 +3476,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 360, BE APPROVED.
 
@@ -3495,7 +3495,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-9" class="motion-anchor"></a>
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Added Bill No. 365, BE APPROVED.
 
@@ -3514,7 +3514,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-10" class="motion-anchor"></a>
+<div id="motion-13-10" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No. 365, BE APPROVED.
 
@@ -3533,7 +3533,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-11" class="motion-anchor"></a>
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Added Bill No. 365, BE APPROVED.
 

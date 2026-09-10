@@ -562,7 +562,7 @@ The meeting adjourned at 6:44 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.11 and 2.12 BE APPROVED.
 
@@ -572,7 +572,7 @@ Unanimous (6-0)
 
 ### 2.10. Suppressing Crime Through Business Licensing Regulations - Theft of Gasoline and Scrap Metal
 
-<a id="motion-2-10-1" class="motion-anchor"></a>
+<div id="motion-2-10-1" class="motion-anchor"></div>
 
 > Motion to approve parts a), c) and d), above.
 
@@ -582,7 +582,7 @@ Unanimous (6-0)
 
 ### 2.10. Suppressing Crime Through Business Licensing Regulations - Theft of Gasoline and Scrap Metal
 
-<a id="motion-2-10-2" class="motion-anchor"></a>
+<div id="motion-2-10-2" class="motion-anchor"></div>
 
 > Motion to approve part b), above.
 
@@ -599,7 +599,7 @@ Unanimous (6-0)
 
 ### 2.10. Suppressing Crime Through Business Licensing Regulations - Theft of Gasoline and Scrap Metal
 
-<a id="motion-2-10-3" class="motion-anchor"></a>
+<div id="motion-2-10-3" class="motion-anchor"></div>
 
 > Motion to approve part e), above.
 
@@ -609,7 +609,7 @@ Unanimous (6-0)
 
 ### 4.1. Councillor E. Peloza - Cost Recovery for Fire Services - Third Party Cost Recovery - Fire Marque
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to investigate and report back to a future meeting of the Community and Protective Services Committee in Q2 2020 with respect to opportunities for, and the viability of, cost recovery for fire-related responses through property owners’ insurance; it being...
 
@@ -628,7 +628,7 @@ Unanimous (6-0)
 
 ### 4.2. Councillor M. van Holst - Conestoga Hut Pilot
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee, by April 28, 2020, with respect to a plan to pilot a small number of Conestoga Huts; it being noted that a communication, dated February 9, 2020, from Councillor M. van Holst, with respect...
 
@@ -638,7 +638,7 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) 3rd Report of the Animal Welfare Advisory Committee
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 3rd Report of the Animal Welfare Advisory Committee, from its meeting held on February 6, 2020: a)            the Civic Administration BE ENCOURAGED to meet with representatives from the rescue organizations operating in London in order to d...
 
@@ -648,7 +648,7 @@ Unanimous (5-0)
 
 ### 5.3. (ADDED) Agreement for London and Middlesex Local Immigration Partnership with Immigration, Refugees and Citizenship Canada
 
-<a id="motion-5-3-0" class="motion-anchor"></a>
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the proposed by-law, as appended to the staff report dated February 19, 2020, BE INTRODUCED at the Municipal Council meeting to be held on March 2, 2020, to: a)            authorize and approve the C...
 

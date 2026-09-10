@@ -723,7 +723,7 @@ Motion Failed
 ### 2. Service London
   Update Report
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -734,7 +734,7 @@ Unanimous (14-0)
 ### 3. Orientation and
   Update on Housing Development Corporation (HDC)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -745,7 +745,7 @@ Unanimous (14-0)
 ### 4. Development Charges
   Orientation
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -758,7 +758,7 @@ Unanimous (13-0)
   Fund and Reallocation of Community Arts Investment Program (CAIP) Arts
   Funding
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed    Voting Record:   Motion to Approve parts a), b), c) and d)   of the clause.
 
@@ -778,7 +778,7 @@ Unanimous (13-0)
   Fund and Reallocation of Community Arts Investment Program (CAIP) Arts
   Funding
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -796,7 +796,7 @@ Unanimous (13-0)
 ### 6. London &
   Middlesex Housing Corporation 2015 Shareholder's Meeting Request
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -807,7 +807,7 @@ Unanimous (13-0)
 ### 7. London Hydro's
   Annual General Meeting (AGM) Request
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -819,7 +819,7 @@ Unanimous (13-0)
   Individuals for Appointment to the London Downtown Business Association for
   the term ending November 30, 2018
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -830,7 +830,7 @@ Unanimous (11-0)
 ### 9. City Budget 2015
   Comments - London Chamber of Commerce
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -841,7 +841,7 @@ Unanimous (13-0)
 ### 10. 1st Report of the
   Governance Working Group
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -852,7 +852,7 @@ Unanimous (13-0)
 ### 10. 1st Report of the
   Governance Working Group
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -870,7 +870,7 @@ Unanimous (13-0)
 ### 10. 1st Report of the
   Governance Working Group
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -881,7 +881,7 @@ Unanimous (13-0)
 ### 10. 1st Report of the
   Governance Working Group
 
-<a id="motion-10-3" class="motion-anchor"></a>
+<div id="motion-10-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -892,7 +892,7 @@ Unanimous (13-0)
 ### 10. 1st Report of the
   Governance Working Group
 
-<a id="motion-10-4" class="motion-anchor"></a>
+<div id="motion-10-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -903,7 +903,7 @@ Unanimous (13-0)
 ### 10. 1st Report of the
   Governance Working Group
 
-<a id="motion-10-5" class="motion-anchor"></a>
+<div id="motion-10-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -914,7 +914,7 @@ Unanimous (13-0)
 ### 10. 1st Report of the
   Governance Working Group
 
-<a id="motion-10-6" class="motion-anchor"></a>
+<div id="motion-10-6" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -925,7 +925,7 @@ Unanimous (13-0)
 ### 10. 1st Report of the
   Governance Working Group
 
-<a id="motion-10-7" class="motion-anchor"></a>
+<div id="motion-10-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -936,7 +936,7 @@ Unanimous (13-0)
 ### 11. ADDED - Orientation
   - Tax Policy
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion Failed
 

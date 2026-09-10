@@ -401,7 +401,7 @@ The meeting adjourned at 6:50 PM.
 
 ### 2.1. TechAlliance 2019-2023 Grant
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Manager, the by-law appended to the staff report dated May 6, 2019 as Appendix A, BE INTRODUCED at the Municipal Council meeting of May 21, 2019 to:    a)            approve a grant Agreement with the TechAlliance of Southwestern Ontario from 2019 to 2023; ...
 
@@ -418,7 +418,7 @@ The meeting adjourned at 6:50 PM.
 
 ### 2.2. Small Business Centre 2019-2023 Grant
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Manager, the by-law appended to the staff report dated May 6, 2019 as Appendix A, BE INTRODUCED at the Municipal Council meeting of May 21, 2019 to:    a)            approve a grant Agreement with the London Community Small Business Centre from 2019 to 2023...
 
@@ -428,7 +428,7 @@ Unanimous (15-0)
 
 ### 2.3. Approval of the 2019 Development Charges By-law and Background Study
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Development & Compliance Services & Chief Building Official, with the concurrence of the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer, the following actions be taken:    a)            the 2019 Development Cha...
 
@@ -438,7 +438,7 @@ Unanimous (15-0)
 
 ### 2.3. Approval of the 2019 Development Charges By-law and Background Study
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > That the delegation request from London Development Institute BE APPROVED to be heard at this meeting.
 
@@ -448,7 +448,7 @@ Unanimous (15-0)
 
 ### 4.1. 2020-2023 Multi-Year Budget
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Add a new part f) to read as follows: “f)           that the matter of service reviews for specific service areas BE ADDED to a future agenda of the Strategic Priorities and Policy Committee (SPPC) in order for the SPPC to provide direction to the Civic Administration for additional reviews that ...
 
@@ -465,7 +465,7 @@ Unanimous (15-0)
 
 ### 4.1. 2020-2023 Multi-Year Budget
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That part b), BE APPROVED: “b)            a 2020-2023 total, average annual tax levy increase of approximately 2.7% BE ENDORSED for planning purposes; it being noted that this is intended to address costs of maintaining existing service levels (estimated to be 2.2% per year) and provide some addi...
 
@@ -482,7 +482,7 @@ Unanimous (15-0)
 
 ### 4.2. Appointments/Affirmations of London Hydro's Board of Directors
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to recruit for applicants for the vacancy on the London Hydro Board of Directors, created with the retirement of Mohan Mathur; it being noted that the Strategic Priorities and Policy Committee received a communication dated April 12, 2019 with respect to this matter.
 
@@ -492,7 +492,7 @@ Unanimous (15-0)
 
 ### 4.2. Appointments/Affirmations of London Hydro's Board of Directors
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > The Clerk BE DIRECTED to undertake the recruitment of applicants for the London Hydro Board vacancies.
 

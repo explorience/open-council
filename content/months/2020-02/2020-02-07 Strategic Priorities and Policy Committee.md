@@ -920,7 +920,7 @@ The Strategic Priorities and Policy Committee recessed at 5:06 PM; it being note
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-2" class="motion-anchor"></a>
+<div id="motion-4-12-2" class="motion-anchor"></div>
 
 > That consideration of item 4.12 k) Fanshawe College Innovation Village (Business Case 9) BE REFERRED to be the first item of the Thursday, February 13th session.
 
@@ -930,7 +930,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-4" class="motion-anchor"></a>
+<div id="motion-4-12-4" class="motion-anchor"></div>
 
 > That Initiative 23 of Business Case 7A (Operating), Expand case management approach for helping vulnerable populations, in the amount of $3,300,000 BE APPROVED.
 
@@ -949,7 +949,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-5" class="motion-anchor"></a>
+<div id="motion-4-12-5" class="motion-anchor"></div>
 
 > That Initiative 29 of Business Case 7A (Operating), proactive by-law enforcement, in the amount of $600,000 BE APPROVED.
 
@@ -959,7 +959,7 @@ Unanimous (13-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-6" class="motion-anchor"></a>
+<div id="motion-4-12-6" class="motion-anchor"></div>
 
 > That Initiative 42 of Business Case 7A (Operating), Fund four-year Core Area “construction dollars” pilot program, in the amount of $200,000 BE APPROVED.
 
@@ -978,7 +978,7 @@ Unanimous (13-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-7" class="motion-anchor"></a>
+<div id="motion-4-12-7" class="motion-anchor"></div>
 
 > That Initiative 45 of Business Case 7A (Operating), Activate spaces and places with bistro chairs and tables, in the amount of $200,000 BE APPROVED.
 
@@ -997,7 +997,7 @@ Unanimous (13-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-8" class="motion-anchor"></a>
+<div id="motion-4-12-8" class="motion-anchor"></div>
 
 > That “new” Initiative of Business Case 7A (Operating), Invest in Dundas Place, in the amount of $1,200,000 BE APPROVED.
 
@@ -1016,7 +1016,7 @@ Unanimous (13-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-9" class="motion-anchor"></a>
+<div id="motion-4-12-9" class="motion-anchor"></div>
 
 > That Initiative 22 of Business Case 7A (Capital), Create new housing units with supportive living arrangements, in the amount of $5,000,000 BE APPROVED.
 
@@ -1035,7 +1035,7 @@ Unanimous (13-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-10" class="motion-anchor"></a>
+<div id="motion-4-12-10" class="motion-anchor"></div>
 
 > That Initiative 29 of Business Case 7A (Capital), proactive by-law enforcement, in the amount of $50,000 BE APPROVED.
 
@@ -1054,7 +1054,7 @@ Unanimous (13-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-11" class="motion-anchor"></a>
+<div id="motion-4-12-11" class="motion-anchor"></div>
 
 > That “new” Initiative of Business Case 7A (Capital), Invest in Dundas Place, in the amount of $200,000 BE APPROVED.
 
@@ -1073,7 +1073,7 @@ Unanimous (13-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-12" class="motion-anchor"></a>
+<div id="motion-4-12-12" class="motion-anchor"></div>
 
 > That the Balance of Business Case 7A – Administratively Prioritized Balance of Full Core Action Plan in the amounts of $3,620,000 (Operating) and $2,015,000 (Capital) BE APPROVED.
 
@@ -1092,7 +1092,7 @@ Unanimous (13-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-13" class="motion-anchor"></a>
+<div id="motion-4-12-13" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized and Business Cases for additional investment for Council's consideration, be dealt with at this time: 4.12 (Administratively prioritized) xii. Business Case 10A – ...
 
@@ -1111,7 +1111,7 @@ Unanimous (13-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-14" class="motion-anchor"></a>
+<div id="motion-4-12-14" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: xv. Business Case 12 – LMCH Infrastructure Gap – 2020-2023 Total: Investment $15,518,000; Net Levy $5,000,000
 
@@ -1121,7 +1121,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-15" class="motion-anchor"></a>
+<div id="motion-4-12-15" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: xii. Business Case 10A – HDC Funding for Affordable Housing - 2020-2023 Total: Investment $850,000; Net Levy $850,000
 
@@ -1131,7 +1131,7 @@ Unanimous (14-0)
 
 ### 4.12. Business Cases for Additional Investment - Administratively Prioritized
 
-<a id="motion-4-12-16" class="motion-anchor"></a>
+<div id="motion-4-12-16" class="motion-anchor"></div>
 
 > That this session of the meeting continue until 5:00 PM, at which time the committee will recess.
 
@@ -1150,7 +1150,7 @@ Unanimous (14-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-1" class="motion-anchor"></a>
+<div id="motion-4-13-1" class="motion-anchor"></div>
 
 > That Initiative 25 (Operating), of Business Case 7B (Operating), four-year Core Area Ambassador pilot program, in the amount of $2.875 million, BE AMENDED to be funded from the 2019 operating budget surplus.
 
@@ -1169,7 +1169,7 @@ Unanimous (14-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-2" class="motion-anchor"></a>
+<div id="motion-4-13-2" class="motion-anchor"></div>
 
 > That Initiative 42 of Business Case 7B (Operating), Fund four-year Core Area “construction dollars” pilot program, in the amount of $200,000 BE AMENDED, to be funded from the Economic Development Reserve Fund.
 
@@ -1179,7 +1179,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-3" class="motion-anchor"></a>
+<div id="motion-4-13-3" class="motion-anchor"></div>
 
 > That Initiative 43 of Business Case 7B (Operating), Experiment with temporary free municipal parking, in the amount of $600,000 BE AMENDED to fund the four-year initiative from the 2019 Operating Budget Surplus.
 
@@ -1198,7 +1198,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-4" class="motion-anchor"></a>
+<div id="motion-4-13-4" class="motion-anchor"></div>
 
 > That Initiative 23 of Business Case 7B (Operating), Expand case management approach for helping vulnerable populations, in the amount of $700,000 BE APPROVED.
 
@@ -1217,7 +1217,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-6" class="motion-anchor"></a>
+<div id="motion-4-13-6" class="motion-anchor"></div>
 
 > That Initiative 25, of Business Case 7B (Operating), Core Area Ambassador Pilot Program, in the amount of $2,875,000, as amended (revised source of funding) BE APPROVED.
 
@@ -1236,7 +1236,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-8" class="motion-anchor"></a>
+<div id="motion-4-13-8" class="motion-anchor"></div>
 
 > That Initiative 42, as amended, be approved.
 
@@ -1246,7 +1246,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-10" class="motion-anchor"></a>
+<div id="motion-4-13-10" class="motion-anchor"></div>
 
 > That Initiative 43, as amended, BE APPROVED.
 
@@ -1265,7 +1265,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-11" class="motion-anchor"></a>
+<div id="motion-4-13-11" class="motion-anchor"></div>
 
 > That Initiative 50 of Business Case 7B (Operating), Establish new Core Area garbage and recycling collection program, in the amount of $100,000 BE APPROVED.
 
@@ -1284,7 +1284,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-13" class="motion-anchor"></a>
+<div id="motion-4-13-13" class="motion-anchor"></div>
 
 > That Initiative 54 of Business Case 7B (Operating), Provide grants to implement safety audit recommendations on privately-owned property through Core Area Community Improvement Plan, in the amount of $300,000 BE APPROVED.
 
@@ -1303,7 +1303,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-14" class="motion-anchor"></a>
+<div id="motion-4-13-14" class="motion-anchor"></div>
 
 > That Initiative 55 of Business Case 7B (Operating), Implement safety audit recommendations on public property, in the amount of $600,000 BE APPROVED.
 
@@ -1322,7 +1322,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-15" class="motion-anchor"></a>
+<div id="motion-4-13-15" class="motion-anchor"></div>
 
 > That the Balance of Business Case 7B – For Consideration Balance of Full Core Action Plan in the amounts of $2,900,000 (Operating) and $1,5000,000 (Capital) BE APPROVED.
 
@@ -1341,7 +1341,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-16" class="motion-anchor"></a>
+<div id="motion-4-13-16" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment for Council’s consideration BE APPROVED: iv. Business Case 10B – HDC Funding for Affordable Housing – 2020-2023 Total: Investment $2,800,000; Net Levy $2,800,000
 
@@ -1360,7 +1360,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-17" class="motion-anchor"></a>
+<div id="motion-4-13-17" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment for Council’s consideration BE APPROVED: vii. Business Case 18 – LMCH Co-Investment with CMHC – 2020-2023 Total: Investment $20,229,000; Net Levy $7,777,000
 
@@ -1379,7 +1379,7 @@ Unanimous (13-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-18" class="motion-anchor"></a>
+<div id="motion-4-13-18" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment for Council’s consideration BE APPROVED: viii. Business Case 19 – LMCH Operating Staffing & Security – 2020-2023 Total: Investment $6,941,000; Net Levy $5,675,000
 
@@ -1389,7 +1389,7 @@ Unanimous (14-0)
 
 ### 4.13. Business Cases for Additional Investment - For Consideration
 
-<a id="motion-4-13-19" class="motion-anchor"></a>
+<div id="motion-4-13-19" class="motion-anchor"></div>
 
 > That the following 2020-2023 Multi-Year Budget business cases for additional investment for Council’s consideration BE APPROVED x. Business Case 21 – Regeneration of Public Housing – 2020-2023 Total: Investment $5,250,000; Net Levy $5,250,000
 

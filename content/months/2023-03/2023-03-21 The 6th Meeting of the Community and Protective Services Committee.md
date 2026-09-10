@@ -878,7 +878,7 @@ Thank you, that moved us into deferred matters and additional business, I haven'
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3, 2.5 and 2.7 to 2.9 BE APPROVED.
 
@@ -888,7 +888,7 @@ Unanimous (6-0)
 
 ### 2.4. Unity Project Relocation Capital Support Contract Amendment
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect the staff report, dated March 21, 2023, related to the Unity Project Relocation Capital Support Contract Amendment: a)    a one-time contract amendment, as per The Co...
 
@@ -898,7 +898,7 @@ Unanimous (6-0)
 
 ### 2.4. Unity Project Relocation Capital Support Contract Amendment
 
-<a id="motion-2-4-1" class="motion-anchor"></a>
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request by C. Lazenby, Unity Project, to be heard at this meeting.
 
@@ -908,7 +908,7 @@ Unanimous (6-0)
 
 ### 2.6. Infrastructure Update - Thames Outdoor Pool
 
-<a id="motion-2-6-1" class="motion-anchor"></a>
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request by C. Smith to be heard at this meeting.
 
@@ -918,7 +918,7 @@ Unanimous (6-0)
 
 ### 4.1. REQUEST FOR DELEGATION STATUS - J. Salisbury - Subsidized Bus Pass Program
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the request for delegation by J. Salisbury to be heard at this meeting.
 
@@ -928,7 +928,7 @@ Unanimous (5-0)
 
 ### 4.2. Mayor J. Morgan, Councillors A. Hopkins and S. Franke - Support for Resolutions to End Homelessness from OBCM (Ontario's Big City Mayors) and AMO (Association of Municipalities Ontario)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the Mayor BE DIRECTED to call upon the Provincial Government to urgently: a)    acknowledge that homelessness in Ontario is a social, economic and health crisis; b)    commit to ending homelessness in Ontario; and, c)    work with the Association of Municipalities Ontario (AMO) and a broad r...
 

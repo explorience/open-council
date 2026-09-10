@@ -178,7 +178,7 @@ The Corporate Services Committee convened
 ### 2. Residential Tax By-law for Investment in
   Affordable Housing Program Project at 189 Dundas Street
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -192,7 +192,7 @@ Unanimous (5-0)
   Avenue
   West
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -204,7 +204,7 @@ Unanimous (5-0)
 ### 4. Single Source
   Procurement 15-35 Custodial Services - South London Community Centre
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -216,7 +216,7 @@ Unanimous (5-0)
 ### 5. City of London’s
   Credit Rating
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -228,7 +228,7 @@ Unanimous (5-0)
 ### 6. Change in Property
   Ownership Fees
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

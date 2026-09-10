@@ -645,7 +645,7 @@ The meeting adjourned at 6:40 PM.
 ### 2. 3rd Report of the
   Diversity Inclusion and Anti-Oppression Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -660,7 +660,7 @@ Unanimous (4-0)
   City of London (Dearness Home) and the South West Local Health Integration
   Network (LHIN)  Declaration of Compliance 2016
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -673,7 +673,7 @@ Unanimous (4-0)
   Ontario Works Employment Innovations - Bridges Out of Poverty and Circle
   Baseline Evaluation
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -686,7 +686,7 @@ Unanimous (4-0)
   Renewal of Ontario Works Employment Assistance Purchase of Services
   Agreements
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -699,7 +699,7 @@ Unanimous (5-0)
   Municipal Golf -  Agreement with Ultimate Golf Club Inc. (formerly London
   Golf Club)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -711,7 +711,7 @@ Unanimous (4-0)
 ### 7. STAFF REPORT -
   London Majors Baseball - Licence Agreement for use of Labatt Park
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -725,7 +725,7 @@ Unanimous (4-0)
   Homeless Individuals and Families Information System - Community Coordinator
   Funding Agreement
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -737,7 +737,7 @@ Unanimous (4-0)
 ### 9. 2nd and 3rd Reports
   of the Accessibility Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -749,7 +749,7 @@ Unanimous (5-0)
 ### 10. 2nd and 3rd Reports
   of Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -761,7 +761,7 @@ Unanimous (6-0)
 ### 11. Housing and ODSP
   Residents
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -772,7 +772,7 @@ Unanimous (6-0)
 
 ### 12. 100in1 Day London
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -784,7 +784,7 @@ Unanimous (6-0)
 ### 13. Community Diversity
   and Inclusion Strategy
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -796,7 +796,7 @@ Unanimous (6-0)
 ### 14. Open Air Burning
   By-law
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -808,7 +808,7 @@ Unanimous (4-0)
 ### 15. Deferred Matters
   List
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -820,7 +820,7 @@ Unanimous (4-0)
 ### 16. (ADDED) COUNCILLOR
   SUBMISSION - Youth Subsidized Bus Passes (13 to18 years of age)
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

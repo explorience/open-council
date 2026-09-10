@@ -312,7 +312,7 @@ The meeting adjourned at 6:03 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.3 BE APPROVED.
 
@@ -322,7 +322,7 @@ Unanimous (5-0)
 
 ### 4.1. Taxi Licensing Fees - Hasan Savehilaghi, Yellow London Taxi Inc. - Request for Delegation Status
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the request for delegation status by H. Savehilaghi, Yellow London Taxi Inc.
 
@@ -332,7 +332,7 @@ Unanimous (6-0)
 
 ### 4.1. Taxi Licensing Fees - Hasan Savehilaghi, Yellow London Taxi Inc. - Request for Delegation Status
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > Motion to approve the verbal delegation by H. Savehilaghi, Yellow London Taxi Inc.
 
@@ -342,7 +342,7 @@ Unanimous (6-0)
 
 ### 5.2. (ADDED) Backyard Fires on Private Property Objection - H. Kaplan
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That NO ACTION BE TAKEN with respect to the communication dated August 26, 2020, from H. Kaplan, related to an objection to backyard fires on private property; it being noted that a representative of the Fire Department previously responded to the concerns raised by the individual in the above-no...
 

@@ -292,7 +292,7 @@ The Corporate Services Committee convened
   Transfer to Abutting Property Owner Two Metre Strip of Road Allowance
   Abutting 2627 and 2633 Asima Drive and Reserve Block 116
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -304,7 +304,7 @@ Unanimous (3-0)
 ### 3. Declare Surplus -
   City-Owned Property - 1192 Highbury Avenue, Former Fire Station #7
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -316,7 +316,7 @@ Unanimous (3-0)
 ### 4. Properties Beyond
   Useful Economic Life
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -328,7 +328,7 @@ Unanimous (3-0)
 ### 5. 2013 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -340,7 +340,7 @@ Unanimous (3-0)
 ### 6. Residential Tax
   By-law for Affordable Housing Program - Project at 219 St. George Street
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -352,7 +352,7 @@ Unanimous (3-0)
 ### 7. Residential Tax
   By-law for Affordable Housing Program - Project at 392 Richmond Street
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -364,7 +364,7 @@ Unanimous (3-0)
 ### 8. Accessible Voting
   Machines, Vote Counting Equipment, Voting by Mail, Advance and Proxy Voting
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -376,7 +376,7 @@ Unanimous (3-0)
 ### 9. Sale of VQA Wine at
   Eligible Ontario Farmers' Markets
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

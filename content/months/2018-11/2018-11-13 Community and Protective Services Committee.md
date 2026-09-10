@@ -343,7 +343,7 @@ The meeting adjourned at 4:55 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.9 BE APPROVED.
 
@@ -353,7 +353,7 @@ Unanimous (4-0)
 
 ### 3.1. 9th Report of the Accessibility Advisory Committee
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 9th Report of the Accessibility Advisory Committee from its meeting held on October 25, 2018: a)            the request for A. Salton, Manager, Zoning and Public Property Compliance, to forward any zoning applications with accessibility impl...
 

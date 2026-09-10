@@ -497,7 +497,7 @@ The meeting adjourned at 4:30 PM.
 ### 2. Single Source
   Purchase of One Turbo Blower for the Greenway Wastewater Treatment Plant
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -514,7 +514,7 @@ The meeting adjourned at 4:30 PM.
 ### 3. Greenway Wastewater
   Treatment Plant Expansion Project Consulting Fee Increase
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -531,7 +531,7 @@ The meeting adjourned at 4:30 PM.
 ### 4. 2017 Drinking Water
   Annual Report and Summary Report for the City of London Distribution System
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -548,7 +548,7 @@ The meeting adjourned at 4:30 PM.
 ### 5. Colonel Talbot
   Pumping Station Consulting Fee Increase
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -565,7 +565,7 @@ The meeting adjourned at 4:30 PM.
 ### 6. Contract Award -
   Tender No. 17-128 - Dundas Place
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -582,7 +582,7 @@ The meeting adjourned at 4:30 PM.
 ### 7. Ontario Municipal
   Commuter Cycling (OMCC) Program -  Transfer Payment Agreement
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -599,7 +599,7 @@ The meeting adjourned at 4:30 PM.
 ### 8. 2nd Report of the
   Rapid Transit Implementation Working Group
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -617,7 +617,7 @@ The meeting adjourned at 4:30 PM.
   Environmental Bill of Rights (EBR) Registry-Ontario’s Guideline on Community
   Emissions Reduction Planning
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -635,7 +635,7 @@ The meeting adjourned at 4:30 PM.
   Understanding with the Canadian Plastics Industry Association as Part of the
   London Waste to Resources Innovation Centre
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -653,7 +653,7 @@ The meeting adjourned at 4:30 PM.
   Understanding with Resource Energy Development of Canada Ltd. as Part of the
   London Waste to Resources Innovation Centre
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -670,7 +670,7 @@ The meeting adjourned at 4:30 PM.
 ### 12. Municipal Class
   Environmental Assessment Reform
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -687,7 +687,7 @@ The meeting adjourned at 4:30 PM.
 ### 13. Deferred Matters
   List
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

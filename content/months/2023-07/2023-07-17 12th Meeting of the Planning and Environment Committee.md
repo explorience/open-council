@@ -1533,7 +1533,7 @@ Grigal Councillor Layman does that help you process that kind of not but i guess
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5, inclusive, BE APPROVED.
 
@@ -1543,7 +1543,7 @@ Unanimous (5-0)
 
 ### 3.5. 146 Exeter Road (39T-22502)
 
-<a id="motion-3-5-3" class="motion-anchor"></a>
+<div id="motion-3-5-3" class="motion-anchor"></div>
 
 > Motion to approve the Residential R1 Special Provision R1 (R1-13(7)) in part a)
 
@@ -1553,7 +1553,7 @@ Unanimous (5-0)
 
 ### 3.5. 146 Exeter Road (39T-22502)
 
-<a id="motion-3-5-4" class="motion-anchor"></a>
+<div id="motion-3-5-4" class="motion-anchor"></div>
 
 > That, pursuant to section 35.8 of the Council Procedure By-law, the reconsideration of the motion related to the approval of the R1 Special Provision BE APPROVED.
 
@@ -1563,7 +1563,7 @@ Unanimous (5-0)
 
 ### 3.5. 146 Exeter Road (39T-22502)
 
-<a id="motion-3-5-5" class="motion-anchor"></a>
+<div id="motion-3-5-5" class="motion-anchor"></div>
 
 > Motion to approve the Residential R1 Special Provision R1 (R1-13(7)) in part a)
 
@@ -1582,7 +1582,7 @@ Unanimous (5-0)
 
 ### 3.5. 146 Exeter Road (39T-22502)
 
-<a id="motion-3-5-6" class="motion-anchor"></a>
+<div id="motion-3-5-6" class="motion-anchor"></div>
 
 > Motion to approve the remainder of the clauses, parts b) and c).
 
@@ -1592,7 +1592,7 @@ Unanimous (5-0)
 
 ### 3.6. 725, 729, 735, 737 Dundas Street, 389, 391, 393 Hewitt Street, a portion of 700 King Street, 400 Lyle Street and Other Properties (SPA22-057)
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by East Village Holdings Limited, relating to the property located at 725-735 Dundas Street, 389-393 Hewitt Street, a portion of 700 King Street, 400 Lyle Street a...
 
@@ -1602,7 +1602,7 @@ Unanimous (5-0)
 
 ### 3.10. 599-601 Richmond Street (Z-9607)
 
-<a id="motion-3-10-0" class="motion-anchor"></a>
+<div id="motion-3-10-0" class="motion-anchor"></div>
 
 > That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Westdell Development Corporation, relating to the property located at 599-601 Richmond Street: a)    the proposed attached by-law BE INTRODUCED at ...
 
@@ -1621,7 +1621,7 @@ Unanimous (5-0)
 
 ### 4.1. Comprehensive Review of The London Plan Update (O-9595)
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the request for delegation status from M. Wallace with respect to the update on the Comprehensive Review of The London Plan.
 
@@ -1631,7 +1631,7 @@ Unanimous (5-0)
 
 ### 4.2. 221 Queens Avenue - Temporary Zoning By-law Amendment (TZ-9598)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, notwithstanding the recommendation of the Director, Planning and Development and on the direction of Planning and Environment Committee, based on the application by Sifton Properties Limited, relating to the property located at 221 Queens Avenue, the proposed by-law appended to the staff re...
 
@@ -1650,7 +1650,7 @@ Unanimous (5-0)
 
 ### 4.2. 221 Queens Avenue - Temporary Zoning By-law Amendment (TZ-9598)
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Motion to approve the request for delegation status from A. Haasen, Sifton Properties Limited, with respect to the application by Sifton Properties Limited, relating to 221 Queens Avenue.
 
@@ -1660,7 +1660,7 @@ Unanimous (5-0)
 
 ### 4.3. 39 Carfrae Street - Application Pursuant to Heritage Easement Agreement
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Motion to approve the request for delegation status from J. Gard, G. Hodder and H. Beck with respect to the application by J. Gard relating to the property located at 39 Carfrae Street.
 
@@ -1670,7 +1670,7 @@ Unanimous (5-0)
 
 ### 4.3. 39 Carfrae Street - Application Pursuant to Heritage Easement Agreement
 
-<a id="motion-4-3-2" class="motion-anchor"></a>
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include the following, as a new part b) b)  that the heritage alteration application to install asphalt shingles or an alternate composit material for the roof replacement of the property located at 39 Carfrae Street BE APPROVED.
 
@@ -1689,7 +1689,7 @@ Unanimous (5-0)
 
 ### 4.3. 39 Carfrae Street - Application Pursuant to Heritage Easement Agreement
 
-<a id="motion-4-3-3" class="motion-anchor"></a>
+<div id="motion-4-3-3" class="motion-anchor"></div>
 
 > Motion to approve part a) of the amended motion as follows: A)  Motion to direct staff to work with the applicant to resolve outstanding concerns with Schedule “C” and Schedule “D” of the Heritage Easement Agreement, and bring back an update within 6 months on the status. It being noted that staf...
 
@@ -1699,7 +1699,7 @@ Unanimous (5-0)
 
 ### 4.3. 39 Carfrae Street - Application Pursuant to Heritage Easement Agreement
 
-<a id="motion-4-3-4" class="motion-anchor"></a>
+<div id="motion-4-3-4" class="motion-anchor"></div>
 
 > Motion to approve part b) of the amended motion as follows: b)  that the heritage alteration application to install asphalt shingles or an alternate composit material for the roof replacement of the property located at 39 Carfrae Street BE APPROVED.
 

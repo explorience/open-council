@@ -370,7 +370,7 @@ The
 ### 2. Economic
   Development Review - Next Steps
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -390,7 +390,7 @@ The
   Striking Committee
   and Appointment Process
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -403,7 +403,7 @@ Unanimous (12-0)
   Striking Committee
   and Appointment Process
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -416,7 +416,7 @@ Unanimous (10-0)
   Striking Committee
   and Appointment Process
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -436,7 +436,7 @@ Unanimous (10-0)
   Striking Committee
   and Appointment Process
 
-<a id="motion-3-3" class="motion-anchor"></a>
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -456,7 +456,7 @@ Unanimous (10-0)
   Striking Committee
   and Appointment Process
 
-<a id="motion-3-4" class="motion-anchor"></a>
+<div id="motion-3-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -468,7 +468,7 @@ Unanimous (12-0)
 ### 4. 1st Report of the
   Governance Working Group
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -480,7 +480,7 @@ Unanimous (12-0)
 ### 4. 1st Report of the
   Governance Working Group
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -499,7 +499,7 @@ Unanimous (12-0)
 ### 5. Council Housing Leadership Committee and
   Creative City Committee
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

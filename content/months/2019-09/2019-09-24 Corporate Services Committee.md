@@ -205,7 +205,7 @@ The meeting adjourned at 1:20 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 to 2.5 BE APPROVED.
 
@@ -215,7 +215,7 @@ Unanimous (5-0)
 
 ### 3.1. Not to be heard before 12:45 PM - Tax Adjustment Agenda
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the recommendations contained in the Tax Adjustment Agenda dated September 24, 2019 BE APPROVED; it being noted that there were no members of the public in attendance to speak to the Corporate Services Committee at the public hearing associated with this matter.
 

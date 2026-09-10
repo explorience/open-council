@@ -184,7 +184,7 @@ The meeting adjourned at 2:15 PM.
 
 ### 2.1. Access and Privacy Policy
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Clerk the proposed by-law appended to the staff report dated September 11, 2018 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on September 18, 2018, to adopt a Council Policy with respect to Access and Privacy under the Municipal...
 
@@ -194,7 +194,7 @@ Unanimous (5-0)
 
 ### 3.1. Annual Meeting Calendar
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the draft meeting calendar for the period of January 1, 2019 to December 1, 2019, reflecting the current meeting schedule, attached as Appendix B to the staff report dated September 11, 2018, BE APPROVED. it being noted that a communication dated August 30, 2018, from S. Levin was received; ...
 
@@ -213,7 +213,7 @@ Unanimous (5-0)
 
 ### 4.1. Request of a Vehicle Donation to ReForest London
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the request of ReForest London for the donation of a used City of London truck BE REFERRED to the Civic Administration for a report back with respect to the necessary sources of financing for the costs associated with the request.
 

@@ -884,7 +884,7 @@ The meeting adjourned at 6:47 PM.
 ### 2. 9th Report of the
   Advisory Committee on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -896,7 +896,7 @@ Unanimous (6-0)
 ### 3. 12th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -909,7 +909,7 @@ Unanimous (6-0)
   Acquisition Terms - North Lambeth P9 Stormwater Management Facility
   (39T-12503)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -922,7 +922,7 @@ Unanimous (6-0)
   379 Sunningdale Road East - Appeals to the Ontario Municipal Board
   (39T-16504/OZ-8639)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -934,7 +934,7 @@ Unanimous (6-0)
 ### 6. Property located at
   420 Fanshawe Park Road East - Notice of Appeal to the Ontario Municipal Board
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -946,7 +946,7 @@ Unanimous (6-0)
 ### 7. Property located at
   1635 Brayford Avenue (H-8832)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -958,7 +958,7 @@ Unanimous (6-0)
 ### 8. Property located at
   a portion of 2350 Dundas Street (H-8823)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -970,7 +970,7 @@ Unanimous (6-0)
 ### 9. STAFF REPORT -
   Building Division Monthly Report for August 2017
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -983,7 +983,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Property located at 4100 Glanworth Drive - Request
   for Demolition
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1003,7 +1003,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Property located at 4100 Glanworth Drive - Request
   for Demolition
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1016,7 +1016,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Property located at 4100 Glanworth Drive - Request
   for Demolition
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1029,7 +1029,7 @@ Unanimous (6-0)
   MEETING - Properties located at 200 Albert Street, 192 to 196 Central Avenue
   and 193 to 197 Central Avenue (TZ-8802)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1049,7 +1049,7 @@ Unanimous (6-0)
   MEETING - Properties located at 200 Albert Street, 192 to 196 Central Avenue
   and 193 to 197 Central Avenue (TZ-8802)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1062,7 +1062,7 @@ Unanimous (6-0)
   MEETING - Properties located at 200 Albert Street, 192 to 196 Central Avenue
   and 193 to 197 Central Avenue (TZ-8802)
 
-<a id="motion-11-2" class="motion-anchor"></a>
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1075,7 +1075,7 @@ Unanimous (6-0)
   MEETING - Properties located at 200 Albert Street, 192 to 196 Central Avenue
   and 193 to 197 Central Avenue (TZ-8802)
 
-<a id="motion-11-3" class="motion-anchor"></a>
+<div id="motion-11-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1095,7 +1095,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING – Properties located at 661 and 667 Talbot Street
   (Z-8659)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1115,7 +1115,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING – Properties located at 661 and 667 Talbot Street
   (Z-8659)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1128,7 +1128,7 @@ Unanimous (6-0)
   PARTICIPATION MEETING – Properties located at 661 and 667 Talbot Street
   (Z-8659)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

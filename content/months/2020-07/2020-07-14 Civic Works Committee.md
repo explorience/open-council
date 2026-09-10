@@ -337,7 +337,7 @@ The meeting adjourned at 12:56 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 to 2.3, and 2.5 BE APPROVED.
 
@@ -347,7 +347,7 @@ Unanimous (5-0)
 
 ### 2.4. Dundas Place - Thames Valley Parkway Active Transportation Connection - Appointment of Consulting Engineer
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the construction administration of Dundas Place - Thames Valley Parkway Active Transportation...
 
@@ -366,7 +366,7 @@ Unanimous (5-0)
 
 ### 2.6. (ADDED) Contract Award: Tender No. 20-87 Dundas Street Cycle Track
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the award of Dundas Street Cycle Track construction contract: a)       the bid submitted by Dufferin Construction Company, A division of C...
 
@@ -385,7 +385,7 @@ Unanimous (5-0)
 
 ### 4.1. Contract Award: RFT 20-59 - 2020 Infrastructure Renewal Program Contract 12 - Highway Avenue and Lambeth Avenue
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the award of contracts for the 2020 Infrastructure Renewal Program, Contract 12 – Highway Avenue and Lambeth Avenue: a)       the bid subm...
 
@@ -395,7 +395,7 @@ Unanimous (5-0)
 
 ### 4.2. MADD Canada Memorial Sign Request
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the memorial sign request submitted by Shauna and David Andrews, dated June 1, 2020, and supported by Mothers Against Drunk Driving (MADD) Canada: a)       the Civic Administration BE DIRECTED to engage in discussions with MADD Canada regarding ...
 

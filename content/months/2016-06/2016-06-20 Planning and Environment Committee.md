@@ -773,7 +773,7 @@ Motion
 ### 5. Trail Planning in Environmentally
   Significant Areas – 2016 Update
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -785,7 +785,7 @@ Unanimous (5-0)
 ### 18. 7th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -797,7 +797,7 @@ Unanimous (5-0)
 ### 19. Property located at
   193 Clarke Road (SPA16-001)
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -809,7 +809,7 @@ Unanimous (5-0)
 ### 19. Property located at
   193 Clarke Road (SPA16-001)
 
-<a id="motion-19-1" class="motion-anchor"></a>
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -821,7 +821,7 @@ Unanimous (5-0)
 ### 20. Properties located
   at 1057, 1059 and 1061 Richmond Street (SP15-030856)
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -833,7 +833,7 @@ Unanimous (5-0)
 ### 20. Properties located
   at 1057, 1059 and 1061 Richmond Street (SP15-030856)
 
-<a id="motion-20-1" class="motion-anchor"></a>
+<div id="motion-20-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -845,7 +845,7 @@ Unanimous (5-0)
 ### 21. Blackfriars/Petersville
   Area (Z-8602)
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -857,7 +857,7 @@ Unanimous (5-0)
 ### 21. Blackfriars/Petersville
   Area (Z-8602)
 
-<a id="motion-21-1" class="motion-anchor"></a>
+<div id="motion-21-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -869,7 +869,7 @@ Unanimous (5-0)
 ### 22. Property located at
   4680 Wellington Road South (Z-8603)
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -881,7 +881,7 @@ Unanimous (5-0)
 ### 22. Property located at
   4680 Wellington Road South (Z-8603)
 
-<a id="motion-22-1" class="motion-anchor"></a>
+<div id="motion-22-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -893,7 +893,7 @@ Unanimous (5-0)
 ### 23. Property located at
   5221 Cook Road
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -905,7 +905,7 @@ Unanimous (5-0)
 ### 23. Property located at
   5221 Cook Road
 
-<a id="motion-23-1" class="motion-anchor"></a>
+<div id="motion-23-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -917,7 +917,7 @@ Unanimous (5-0)
 ### 24. Property located at
   455 Clarence Street (Z-8560)
 
-<a id="motion-24-0" class="motion-anchor"></a>
+<div id="motion-24-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -929,7 +929,7 @@ Unanimous (5-0)
 ### 24. Property located at
   455 Clarence Street (Z-8560)
 
-<a id="motion-24-1" class="motion-anchor"></a>
+<div id="motion-24-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -942,7 +942,7 @@ Unanimous (5-0)
   1691 Hamilton Road - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-13502/OZ-8147)
 
-<a id="motion-25-0" class="motion-anchor"></a>
+<div id="motion-25-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -955,7 +955,7 @@ Unanimous (5-0)
   1691 Hamilton Road - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-13502/OZ-8147)
 
-<a id="motion-25-1" class="motion-anchor"></a>
+<div id="motion-25-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -967,7 +967,7 @@ Unanimous (5-0)
 ### 26. Properties located
   at 175, 179 and 181 King Street
 
-<a id="motion-26-0" class="motion-anchor"></a>
+<div id="motion-26-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -979,7 +979,7 @@ Unanimous (5-0)
 ### 26. Properties located
   at 175, 179 and 181 King Street
 
-<a id="motion-26-1" class="motion-anchor"></a>
+<div id="motion-26-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -991,7 +991,7 @@ Unanimous (5-0)
 ### 27. Properties located
   at 1179 and 1185 Riverside Drive (39CD-16503/Z-8594)
 
-<a id="motion-27-0" class="motion-anchor"></a>
+<div id="motion-27-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1003,7 +1003,7 @@ Unanimous (5-0)
 ### 27. Properties located
   at 1179 and 1185 Riverside Drive (39CD-16503/Z-8594)
 
-<a id="motion-27-1" class="motion-anchor"></a>
+<div id="motion-27-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1015,7 +1015,7 @@ Unanimous (5-0)
 ### 28. Properties located
   at 704 and 706 Boler Road (39T-15503/Z-8505)
 
-<a id="motion-28-0" class="motion-anchor"></a>
+<div id="motion-28-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1027,7 +1027,7 @@ Unanimous (5-0)
 ### 28. Properties located
   at 704 and 706 Boler Road (39T-15503/Z-8505)
 
-<a id="motion-28-1" class="motion-anchor"></a>
+<div id="motion-28-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1039,7 +1039,7 @@ Unanimous (5-0)
 ### 29. Properties located
   at 240 Waterloo Street and 358 Horton Street East (OZ-8598)
 
-<a id="motion-29-0" class="motion-anchor"></a>
+<div id="motion-29-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1051,7 +1051,7 @@ Unanimous (5-0)
 ### 29. Properties located
   at 240 Waterloo Street and 358 Horton Street East (OZ-8598)
 
-<a id="motion-29-1" class="motion-anchor"></a>
+<div id="motion-29-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1063,7 +1063,7 @@ Unanimous (5-0)
 ### 30. Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
-<a id="motion-30-0" class="motion-anchor"></a>
+<div id="motion-30-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1075,7 +1075,7 @@ Unanimous (4-0)
 ### 30. Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
-<a id="motion-30-1" class="motion-anchor"></a>
+<div id="motion-30-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1086,7 +1086,7 @@ Unanimous (4-0)
 
 ### 31. PEC Deferred List
 
-<a id="motion-31-0" class="motion-anchor"></a>
+<div id="motion-31-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -293,7 +293,7 @@ The meeting adjourned at 2:43 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1, 2.2, 2.4, 2.6 and 2.8 BE APPROVED.
 
@@ -303,7 +303,7 @@ Unanimous (6-0)
 
 ### 2.3. Single Source 20-06 Ontario Works Royal Bank of Canada Right Pay Reloadable Payment Card Program Agreement
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to Royal Bank of Canada Right Pay™ Reloadable Payment Card Services for Ontario Works Clients: a)  approval hereby BE GIVEN to enter int...
 
@@ -313,7 +313,7 @@ Unanimous (6-0)
 
 ### 2.7. Old Victoria Hospital Lands Phase ll - Lands Disposition
 
-<a id="motion-2-7-0" class="motion-anchor"></a>
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, and the Director, Planning and City Planner, with the concurrence of the Manager, City Building and Design, on the advice of the Manager, Realty Services, with respect to the Old ...
 
@@ -323,7 +323,7 @@ Unanimous (6-0)
 
 ### 4.1. Voluntary Climate Change Contributions
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED to investigate the possibility of generating revenue from a program that allows concerned individuals to voluntarily purchase carbon offsets, crowdfund green initiatives and sponsor climate change projects; it being noted that the Corporate Services Comm...
 

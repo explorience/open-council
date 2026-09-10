@@ -852,7 +852,7 @@ Okay, thank you, we're adjourned.
 
 ### 8.3.8. (4.9) Amendment - Councillor D. Ferreira
 
-<a id="motion-8-3-8-0" class="motion-anchor"></a>
+<div id="motion-8-3-8-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village): 2026 Operating Expenditures: $784,000       202...
 
@@ -871,7 +871,7 @@ Okay, thank you, we're adjourned.
 
 ### 8.3.11. (4.3) Budget Case #P-2 - Councillor S. Stevenson
 
-<a id="motion-8-3-11-0" class="motion-anchor"></a>
+<div id="motion-8-3-11-0" class="motion-anchor"></div>
 
 > That it BE NOTED that the Budget Committee considered an amendment to the Mayor's 2026 Annual Budget Update to exclude Business Case #P-2 Middlesex-London Health Unit Debt Retirement from the Mayor’s Tabled 2026 Annual Budget Update; it further being noted that the Budget Committee received a com...
 
@@ -890,7 +890,7 @@ Okay, thank you, we're adjourned.
 
 ### 8.3.16. (4.13) Housing Stability Bank Program - Councillor H. McAlister
 
-<a id="motion-8-3-16-1" class="motion-anchor"></a>
+<div id="motion-8-3-16-1" class="motion-anchor"></div>
 
 > That the motion be amended to read as follows: That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED in order to fund the Housing Stability Bank Program $250,000 for 2026 from the Community Investment Reserve Fund: 2026 Operating Expenditures: $250,000             2026 Tax Levy: $0        ...
 
@@ -900,7 +900,7 @@ Unanimous (14-0)
 
 ### 8.3.16. (4.13) Housing Stability Bank Program - Councillor H. McAlister
 
-<a id="motion-8-3-16-2" class="motion-anchor"></a>
+<div id="motion-8-3-16-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 

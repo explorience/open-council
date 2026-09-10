@@ -3105,7 +3105,7 @@ I see Councillor Hopkins, I see second of bite. Councillor Hamou, let's do a big
 
 ### 8.1. 12th Report of the Planning and Environment Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 12th Report of the Planning and Environment Committee, BE APPROVED, excluding Items 13 (3.5) and 14 (3.6).
 
@@ -3115,7 +3115,7 @@ Unanimous (13-0)
 
 ### 8.1.13. (3.5) 84-86 St. George Street and 175-197 Ann Street (OZ-9127) (Relates to Bill No.'s 284 and 301)
 
-<a id="motion-8-1-13-1" class="motion-anchor"></a>
+<div id="motion-8-1-13-1" class="motion-anchor"></div>
 
 > That Item 13, clause 3.5, BE AMENDED to include the following at the end of the clause: "it being noted that the Municipal Council approves this application for the following reasons: - consistent with the Province Policy Statement promoting intensification and redevelopment in appropriate locati...
 
@@ -3134,7 +3134,7 @@ Unanimous (13-0)
 
 ### 8.1.13. (3.5) 84-86 St. George Street and 175-197 Ann Street (OZ-9127) (Relates to Bill No.'s 284 and 301)
 
-<a id="motion-8-1-13-2" class="motion-anchor"></a>
+<div id="motion-8-1-13-2" class="motion-anchor"></div>
 
 > That Item 13, clause 3.5, as amended, BE APPROVED.
 
@@ -3153,7 +3153,7 @@ Unanimous (13-0)
 
 ### 8.1.14. (3.6) 689 Oxford Street West (Z-9199 & O-9206)
 
-<a id="motion-8-1-14-0" class="motion-anchor"></a>
+<div id="motion-8-1-14-0" class="motion-anchor"></div>
 
 > That, the application by 2399731 Ontario Ltd, c/o Westdell Development Corporation BE REFERRED back to the Civic Administration to work with the developer to improve the proposed transition from high density towers to the existing low density abutting residential neighbourhoods with specific atte...
 
@@ -3172,7 +3172,7 @@ Unanimous (13-0)
 
 ### 8.1.14. (3.6) 689 Oxford Street West (Z-9199 & O-9206)
 
-<a id="motion-8-1-14-1" class="motion-anchor"></a>
+<div id="motion-8-1-14-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2399731 Ontario Ltd. c/o Westdell Development Corporation relating to the property located at 689 Oxford Street West:  a)    the request to amend Zoning No. Z.-...
 
@@ -3191,7 +3191,7 @@ Unanimous (13-0)
 
 ### 8.2. 8th Report of the Community and Protective Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 8th Report of the Community and Protective Services Committee, BE APPROVED, excluding Items 6 (2.4) and 8 (5.1).
 
@@ -3201,7 +3201,7 @@ Unanimous (13-0)
 
 ### 8.2.6. (2.4) "RentSafeTO" Program and Complaint Process Improvements
 
-<a id="motion-8-2-6-1" class="motion-anchor"></a>
+<div id="motion-8-2-6-1" class="motion-anchor"></div>
 
 > That clause 2.4, BE AMENDED, by adding the following new part b): “b) Civic Administration BE DIRECTED to develop and bring forward a business case for a RentSafe London program for consideration during deliberations on the next multi-year budget.  it being noted that: i) RentSafeTO employed 33 f...
 
@@ -3220,7 +3220,7 @@ Unanimous (13-0)
 
 ### 8.2.6. (2.4) "RentSafeTO" Program and Complaint Process Improvements
 
-<a id="motion-8-2-6-2" class="motion-anchor"></a>
+<div id="motion-8-2-6-2" class="motion-anchor"></div>
 
 > Motion to approve clause 2.4.
 
@@ -3239,7 +3239,7 @@ Unanimous (13-0)
 
 ### 8.2.8. (5.1) Deferred Matters List
 
-<a id="motion-8-2-8-1" class="motion-anchor"></a>
+<div id="motion-8-2-8-1" class="motion-anchor"></div>
 
 > Motion to approve item 1 of the Deferred Matters List.
 
@@ -3249,7 +3249,7 @@ Unanimous (12-0)
 
 ### 8.2.8. (5.1) Deferred Matters List
 
-<a id="motion-8-2-8-2" class="motion-anchor"></a>
+<div id="motion-8-2-8-2" class="motion-anchor"></div>
 
 > Motion that the remainder of the Deferred Matters List, BE APPROVED.
 
@@ -3259,7 +3259,7 @@ Unanimous (13-0)
 
 ### 8.3. 10th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 10th Report of the Strategic Priorities and Policy Committee, BE APPROVED.
 
@@ -3269,7 +3269,7 @@ Unanimous (13-0)
 
 ### 8.4. 10th Report of the Corporate Services Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 10th Report of the Corporate Services Committee BE APPROVED.
 
@@ -3279,7 +3279,7 @@ Unanimous (13-0)
 
 ### 8.5. 9th Report of the Civic Works Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 9th Report of the Civic Works Committee, BE APPROVED. At 7:03 PM, His Worship the Mayor places Deputy Mayor J. Morgan in the Chair. At 7:07 PM, His Worship the Mayor resumes the Chair.
 
@@ -3289,7 +3289,7 @@ Unanimous (13-0)
 
 ### 8.6. 3rd Report of the Audit Committee
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 3rd Report of the Audit Committee, BE APPROVED.
 
@@ -3299,7 +3299,7 @@ Unanimous (13-0)
 
 ### 9.1. 10th Report of Council in Closed Session
 
-<a id="motion-9-1-0" class="motion-anchor"></a>
+<div id="motion-9-1-0" class="motion-anchor"></div>
 
 > 1.    Tourism Relief Fund – Contribution Agreement That, on the recommendation of the Deputy City Manager, Finance Supports, the Civic Administration BE DIRECTED to take the following actions with respect to the staff report, dated June 21, 2022, related to the Tourism Relief Fund – Contribution ...
 
@@ -3309,7 +3309,7 @@ Unanimous (13-0)
 
 ### 9.1. 10th Report of Council in Closed Session
 
-<a id="motion-9-1-1" class="motion-anchor"></a>
+<div id="motion-9-1-1" class="motion-anchor"></div>
 
 > 2.    Property Acquisition – 19 Raywood Avenue – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the...
 
@@ -3328,7 +3328,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of the Bill No.’s 284 and 301 BE APPROVED.
 
@@ -3347,7 +3347,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of the Bill No.’s 284 and 301 BE APPROVED.
 
@@ -3366,7 +3366,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of the Bill No.’s 284 and 301 BE APPROVED.
 
@@ -3385,7 +3385,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-9" class="motion-anchor"></a>
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Added Bill No.’s 304 to 306, BE APPROVED.
 
@@ -3404,7 +3404,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-10" class="motion-anchor"></a>
+<div id="motion-13-10" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No.’s 304 to 306, BE APPROVED.
 
@@ -3423,7 +3423,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-11" class="motion-anchor"></a>
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Added Bill No.’s 304 to 306, BE APPROVED.
 
@@ -3442,7 +3442,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-12" class="motion-anchor"></a>
+<div id="motion-13-12" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Added Bill No. 310, BE APPROVED.
 
@@ -3461,7 +3461,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-13" class="motion-anchor"></a>
+<div id="motion-13-13" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No. 310, BE APPROVED.
 
@@ -3480,7 +3480,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-14" class="motion-anchor"></a>
+<div id="motion-13-14" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Added Bill No. 310, BE APPROVED.
 

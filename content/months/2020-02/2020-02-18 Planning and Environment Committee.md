@@ -393,7 +393,7 @@ The meeting adjourned at 5:08 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.3, inclusive, BE APPROVED.
 
@@ -403,7 +403,7 @@ Unanimous (5-0)
 
 ### 3.1. Request for Council Resolution, under section 45(1.4) of the Planning Act, 1990 - 1331 Hyde Park Road
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > Motion to grant delegation status to Mr. L. Kirkness, Kirkness Consulting.
 
@@ -413,7 +413,7 @@ Unanimous (5-0)
 
 ### 3.3. 3rd Report of the London Advisory Committee on Heritage
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 3rd Report of the London Advisory Committee on Heritage, from its meeting held on February 12, 2020: a) the Civic Administration BE ADVISED that the London Advisory Committee on Heritage (LACH) supports the proposed Property Standards Amend...
 
@@ -423,7 +423,7 @@ Unanimous (5-0)
 
 ### 4.1. 3rd Report of the Advisory Committee on the Environment
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to refer clause d) to the Advisory Committee review being undertaken; it being noted that clause 5.6 reads as follows: "the City Clerk BE REQUESTED to change the non-voting membership positions for the Institute of Catastrophic Research (Western University) and the Biodrome (Western Univer...
 
@@ -433,7 +433,7 @@ Unanimous (5-0)
 
 ### 6. Adjournment
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > The meeting adjourned at 5:08 PM.
 

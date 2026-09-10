@@ -1003,7 +1003,7 @@ Motion carries. Meetings adjourned.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.3 and 2.4, BE APPROVED.
 
@@ -1013,7 +1013,7 @@ Unanimous (5-0)
 
 ### 2.2. Update on Bill 17 and Green Development Guidelines (Framework)
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That the staff report dated October 21, 2025, related to Update on Bill 17 and Green Development Guidelines (Framework) BE REFERRED back to the Civic Administration to report back to a future meeting of the Planning and Environment on the following: i)          a terms of reference for consultati...
 
@@ -1030,7 +1030,7 @@ Unanimous (5-0)
 
 ### 2.2. Update on Bill 17 and Green Development Guidelines (Framework)
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > That the delegation request from M. Wallace, London Development Institute, as appended to the added agenda BE APPROVED, to be heard at this time.
 
@@ -1040,7 +1040,7 @@ Unanimous (5-0)
 
 ### 3.2. 4680 Wellington Road South - TZ-25097
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 761030 Ontario Ltd. (c/o Navdeep Jim Grewal) relating to the property located at 4680 Wellington Road South, the proposed by-law as appended to the staff report...
 
@@ -1050,7 +1050,7 @@ Unanimous (5-0)
 
 ### 4.1. Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED bring forward a city initiated Zoning By-law amendment to the current Zoning By-law No. Z-1 to: a)    establish a maximum of two (2) bedrooms for any Additional Residential Unit (ARU);  b)    provide that no more than three (3) bedrooms in total may be co...
 
@@ -1060,7 +1060,7 @@ Unanimous (5-0)
 
 ### 4.1. Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation requests from M. Wallace, London Development Institute, J. Gray and E. Granillo as appended to the added agenda BE APPROVED, to be heard at this time.
 

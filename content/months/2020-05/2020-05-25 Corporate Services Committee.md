@@ -186,7 +186,7 @@ The meeting adjourned at 1:05 PM.
 
 ### 3.1. 2020 Debenture Issuance Report #2
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken: a)      the issuance of serial debentures for a total of $36,000,000 BE APPROVED, noting the average all-in rate is 1.673% over a 10-year term; and...
 

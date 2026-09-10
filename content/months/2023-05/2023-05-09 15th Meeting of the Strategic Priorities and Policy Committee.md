@@ -1321,7 +1321,7 @@ Okay, we're adjourned, thank you very much.
 
 ### 2.1. 2023 Industrial Land Development Strategy
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That the motion be amended in part d) by removing, " which shall include the use of the Climate Emergency Screening Tool;"
 
@@ -1338,7 +1338,7 @@ Okay, we're adjourned, thank you very much.
 
 ### 2.1. 2023 Industrial Land Development Strategy
 
-<a id="motion-2-1-2" class="motion-anchor"></a>
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > Motion to approve, excluding part d):  That the following actions be taken with respect to the 2023 Industrial Land Development Strategy: a)    the 2023 Industrial Land Development Strategy, as appended to the staff report dated May 9, 2023 as Appendix "A", BE ADOPTED as City Council’s strategy f...
 
@@ -1348,7 +1348,7 @@ Unanimous (15-0)
 
 ### 2.1. 2023 Industrial Land Development Strategy
 
-<a id="motion-2-1-3" class="motion-anchor"></a>
+<div id="motion-2-1-3" class="motion-anchor"></div>
 
 > Motion to approve part d): d)    the Civic Administration BE DIRECTED to undertake an Industrial Land Needs Assessment, which shall include the use of the Climate Emergency Screening Tool; and,
 
@@ -1365,7 +1365,7 @@ Unanimous (15-0)
 
 ### 4.2. London Police Services Board Candidates Interview Process
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > That the interview questions BE PROVIDED to candidates, in advance of the scheduled interviews.
 
@@ -1382,7 +1382,7 @@ Unanimous (15-0)
 
 ### 4.2. London Police Services Board Candidates Interview Process
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > That interview questions BE PRESENTED to candidates by individual councillors, through a set rotation.
 
@@ -1399,7 +1399,7 @@ Unanimous (15-0)
 
 ### 4.4. (ADDED) Confirmation of Appointment to the Governance Working Group
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That Councillor S. Franke BE APPOINTED to the Governance Working Group for the term ending November 14, 2026.
 

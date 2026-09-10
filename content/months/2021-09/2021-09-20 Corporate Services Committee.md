@@ -383,7 +383,7 @@ The meeting adjourned at 12:48 PM.
 
 ### 4.1. Application - Issuance of Proclamation - Economic Abuse Awareness Day
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That based on the application dated August 23, 2021 from Canadian Centre for Women's Empowerment, November 26, 2021 BE PROCLAIMED as Economic Abuse Awareness Day.
 
@@ -393,7 +393,7 @@ Unanimous (4-0)
 
 ### 4.2. Application - Issuance of Proclamation - Light the Night Day for the Leukemia & Lymphoma Society of Canada
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That based on the application dated August 27, 2021 from the Leukemia & Lymphoma Society of Canada, October 23, 2021 BE PROCLAIMED as Light the Night Day for the Leukemia & Lymphoma Society of Canada.
 
@@ -403,7 +403,7 @@ Unanimous (4-0)
 
 ### 5.1. (ADDED) Members of Council Proof of COVID-19 Vaccination Policy
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That on the recommendation of the City Clerk, the proposed by-law as appended to the staff report dated September 20, 2021 as Appendix “A” being “A by-law to adopt “Members of Council Proof of COVID-19 Vaccination Policy”, BE INTRODUCED at the Municipal Council Meeting to be held on October 5, 20...
 
@@ -422,7 +422,7 @@ Unanimous (4-0)
 
 ### 6. Confidential (Enclosed for Members only.)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > 6.1    Land Disposition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations A matter pertaining to the disposition of land by the municipality, including communications necessary for that purpose; advice that is subject to so...
 

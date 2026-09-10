@@ -1739,7 +1739,7 @@ There's nothing more rewarding than participating in that, and this is, I know, 
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.5, inclusive, BE APPROVED.
 
@@ -1749,7 +1749,7 @@ Unanimous (5-0)
 
 ### 3.4. 489 Upper Queen Street (Z-9540)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, based on the application by 2863382 Ontario Inc. c/o Siv-ik Planning & Design Inc., relating to the property located at 489 Upper Queen Street, the proposed by-law appended to the staff report dated January 30, 2023 as Appendi...
 
@@ -1768,7 +1768,7 @@ Unanimous (5-0)
 
 ### 3.5. 608 Commissioners Road West (Z-9516)
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo on behalf of Copia Developments, relating to the property located at 608 Commissioners Road West: a) the proposed by-law appended to the staff re...
 

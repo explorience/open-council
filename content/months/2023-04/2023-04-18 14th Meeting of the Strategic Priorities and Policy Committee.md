@@ -1727,7 +1727,7 @@ That motion's passed. Thank you, we are adjourned.
 
 ### 4.1. 2024-2027 Multi-Year Budget
 
-<a id="motion-4-1-3" class="motion-anchor"></a>
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That part b) BE AMENDED to read as follows: b)  the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% – 3.9% as identified to maintain e...
 
@@ -1744,7 +1744,7 @@ That motion's passed. Thank you, we are adjourned.
 
 ### 4.1. 2024-2027 Multi-Year Budget
 
-<a id="motion-4-1-4" class="motion-anchor"></a>
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > The motion, as amended, BE APPROVED, as follows: That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2024-2027 Multi-Year Budget: a)    the Multi-Year Budget Policy, as appended to the staff report dated April 18, 2023 as Ap...
 
@@ -1761,7 +1761,7 @@ That motion's passed. Thank you, we are adjourned.
 
 ### 4.2. Request for a Shareholder's Meeting - London Hydro Inc.
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2022 Annual General Meeting of the Shareholder for London Hydro Inc.:    a)      the 2022 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on June 20, 2023,...
 
@@ -1771,7 +1771,7 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the appointment consideration to a member of the London Police Services Board: a)  interviews BE CONDUCTED with the following individuals: - Michele Anderson - Gita Canaran - Stephen D'Amelio - Ryan Gauss - Joseph Wabegijig b)   the above-noted ...
 
@@ -1781,7 +1781,7 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Consideration of appointment to the London Police Services Board
 
@@ -1794,7 +1794,7 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) Request to Update London Hydro Inc. Board of Director Recruitment, Interview and Nomination Process
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to take the following actions be taken with respect to the communications dated April 11, 2023, from the Chair of the London Hydro Board, related to Board recruitment and appointment process, and the impending Board vacancies: a)     the impending London ...
 
@@ -1811,7 +1811,7 @@ Unanimous (15-0)
 
 ### 5.2. (ADDED) Request a Governance Working Group Meeting
 
-<a id="motion-5-2-1" class="motion-anchor"></a>
+<div id="motion-5-2-1" class="motion-anchor"></div>
 
 > Motion to approve parts a) and b): That the Civic Administration BE DIRECTED to call the first meeting of the Governance Working Group no later than May 18, 2023 and the following matters BE REFERRED to the Governance Working Group for discussion and for potential recommendation(s) back to the St...
 
@@ -1821,7 +1821,7 @@ Unanimous (15-0)
 
 ### 5.2. (ADDED) Request a Governance Working Group Meeting
 
-<a id="motion-5-2-2" class="motion-anchor"></a>
+<div id="motion-5-2-2" class="motion-anchor"></div>
 
 > Motion to approve parts c), d) and e) That the Civic Administration BE DIRECTED to call the first meeting of the Governance Working Group no later than May 18, 2023 and the following matters BE REFERRED to the Governance Working Group for discussion and for potential recommendation(s) back to the...
 

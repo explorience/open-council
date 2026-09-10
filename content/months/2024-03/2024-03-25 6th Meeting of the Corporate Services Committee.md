@@ -370,7 +370,7 @@ Okay, thank you, everyone. Motion carries.
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That items 4.1 to 4.6 BE APPROVED.
 
@@ -380,7 +380,7 @@ Unanimous (5-0)
 
 ### 4.7. Consideration of Appointment to the Animal Welfare Community Advisory Committee (Requires up to 6 New Members)
 
-<a id="motion-4-7-0" class="motion-anchor"></a>
+<div id="motion-4-7-0" class="motion-anchor"></div>
 
 > That Michael Rist BE APPOINTED as a voting member to the Animal Welfare Community Advisory Committee for the term ending March 31, 2025.
 

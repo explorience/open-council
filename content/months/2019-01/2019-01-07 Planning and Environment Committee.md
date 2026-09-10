@@ -789,7 +789,7 @@ The meeting adjourned at 10:20 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.3 and 2.7 BE APPROVED.
 
@@ -799,7 +799,7 @@ Unanimous (5-0)
 
 ### 2.1. 1st Report of the London Advisory Committee on Heritage
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 1st Report of the London Advisory Committee on Heritage, from its meeting held on December 12, 2018: a)         the London Advisory Committee on Heritage 2019 Membership with Community Heritage Ontario BE APPROVED; it being noted that the C...
 
@@ -809,7 +809,7 @@ Unanimous (5-0)
 
 ### 2.3. Application - 852 Commissioners Road East
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Senior Planner, Development Planning, based on the application by Escalade Property Corporation, relating to the property located at 852 Commissioners Road East, the proposed by-law appended to the staff report dated January 7, 2019 BE INTRODUCED at the Municipa...
 
@@ -819,7 +819,7 @@ Unanimous (5-0)
 
 ### 2.5. Bill 66, "Restoring Ontario's Competitiveness Act 2018"
 
-<a id="motion-2-5-1" class="motion-anchor"></a>
+<div id="motion-2-5-1" class="motion-anchor"></div>
 
 > Motion to add a new part c) which reads: the Premier and the Ministers of Finance, and Municipal Affairs and Housing BE INFORMED that the City of London would request that any proposed legislation protect the public's right to community based land use planning, health and environmental protection...
 
@@ -838,7 +838,7 @@ Unanimous (5-0)
 
 ### 2.6. Cannabis Retail Stores
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, City Planning and City Planner, with the concurrence of the Managing Director, Development and Compliance Services and Chief Building Official, the following actions be taken with respect to the review of potential locations for Cannabis Retai...
 
@@ -848,7 +848,7 @@ Unanimous (4-0)
 
 ### 2.7. Candidate Approval for the Urban Design Peer Review Panel
 
-<a id="motion-2-7-0" class="motion-anchor"></a>
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following candidates BE APPROVED for the positions listed below on the Urban Design Peer Review Panel: a)         Andrew Bousfield – Position of Architect/Urban Designer; b)         Tim O’Brien – Position of Landscape Architec...
 
@@ -858,7 +858,7 @@ Unanimous (5-0)
 
 ### 3.2. Public Participation Meeting - Application - 470 Colborne Street (OZ-8948)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Peter and Janice Denomme, relating to the property located at 470 Colborne Street: a)          the proposed by-law appended to the staff report dated January 7, 201...
 
@@ -868,7 +868,7 @@ Unanimous (5-0)
 
 ### 3.6. Public Participation Meeting - Application - 536 and 542 Windermere Road (Z-8945)
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That the application of 2492222 Ontario Inc., relating to the properties located at 536 and 542 Windermere Road BE REFERRED to the Civic Administration for further review taking into consideration the concerns raised by the community and report back to a future public participation meeting before...
 

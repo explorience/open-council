@@ -1003,7 +1003,7 @@ We could do this one by hand, all those in favor of adjournment. Motion carries.
 
 ### 2.1. Investing in Canada Infrastructure Program Public Transit Stream Funding Reallocation
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Finance Supports, the following actions be taken regarding recent changes to the Investing in Canada Infrastructure Program (ICIP) Public Transit Stream (PTS) as communicated by the ...
 
@@ -1022,7 +1022,7 @@ We could do this one by hand, all those in favor of adjournment. Motion carries.
 
 ### 4.1. RBC Place London Board By-law Recommendations
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the changes to the London Convention Centre Corporation By-law as requested in the communication dated December 18, 2023 from L. Da Silva, CEO, RBC Place London, provided th...
 
@@ -1032,7 +1032,7 @@ Unanimous (14-0)
 
 ### 4.4. Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > Motion to amend part b) to read as follows: b)    a pay increase of 12.5% to the annual base Councillor salary for the position of Budget Chair effective January 2024; and,
 
@@ -1051,7 +1051,7 @@ Unanimous (14-0)
 
 ### 4.4. Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
 
-<a id="motion-4-4-3" class="motion-anchor"></a>
+<div id="motion-4-4-3" class="motion-anchor"></div>
 
 > That the motion BE REFERRED to a future meeting of the Governance Working Group.
 
@@ -1070,7 +1070,7 @@ Unanimous (14-0)
 
 ### 4.4. Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
 
-<a id="motion-4-4-4" class="motion-anchor"></a>
+<div id="motion-4-4-4" class="motion-anchor"></div>
 
 > That part a) be approved as follows: a)    a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024;
 
@@ -1089,7 +1089,7 @@ Unanimous (14-0)
 
 ### 4.4. Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
 
-<a id="motion-4-4-5" class="motion-anchor"></a>
+<div id="motion-4-4-5" class="motion-anchor"></div>
 
 > That part b) be approved as follows: b)    a pay increase of 12.5% to the annual base Councillor salary for the position of Budget Chair effective January 2024; and,
 
@@ -1108,7 +1108,7 @@ Unanimous (14-0)
 
 ### 4.4. Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
 
-<a id="motion-4-4-6" class="motion-anchor"></a>
+<div id="motion-4-4-6" class="motion-anchor"></div>
 
 > That part c) be approved as follows: c)    the Governance Working Group BE DIRECTED to review this as part of its larger review of Remuneration for Elected Officials and Appointed Citizen Members Policy on its Deferred Matters list, and provide any recommendations on further changes to the Strate...
 

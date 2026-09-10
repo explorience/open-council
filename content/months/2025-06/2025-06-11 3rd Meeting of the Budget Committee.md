@@ -1545,7 +1545,7 @@ Madam budget chair, do you want to ship some tacos out my way?
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Budget Committee Agenda BE APPROVED, to provide for Items 4.5 and 4.6 in Stage 4, Items for Direction, to be considered after Item 4.2 of the Budget Committee Agenda.
 
@@ -1555,7 +1555,7 @@ Unanimous (15-0)
 
 ### 4.1. Communication - Museum London - J. Bevan, Executive Director
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation request from J. Bevan, Executive Director, Museum London BE APPROVED to be heard at this time.
 
@@ -1565,7 +1565,7 @@ Unanimous (15-0)
 
 ### 4.2. Communication - Middlesex-London Health Unit - E. Williams, Chief Executive Officer
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the delegation request from E. Williams, Chief Executive Officer, Middlesex-London Health Unit BE APPROVED to be heard at this time.
 
@@ -1575,7 +1575,7 @@ Unanimous (15-0)
 
 ### 4.3. Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to prepare a Business Case for Council's consideration reducing the annual budget of the Heritage Department. This report will include the options available to Council and the related cost savings and staffing impacts; it being noted that the Budget Commi...
 
@@ -1592,7 +1592,7 @@ Unanimous (15-0)
 
 ### 4.3. Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
 
-<a id="motion-4-3-2" class="motion-anchor"></a>
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > That this matter BE REFERRED to Civic Administration to bring forward a report to a future meeting of the Planning and Environment Committee after the Community Advisory Committee on Planning has completed their review of the Heritage Property List.
 
@@ -1609,7 +1609,7 @@ Unanimous (15-0)
 
 ### 4.4. Communication - Cost Savings Opportunities within Advisory Committee Budget - Councillor S. Stevenson
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to prepare a Business Case for Council’s consideration that reduces the annual budget for the Advisory Committees. This report will include a detailed breakdown of the new recommended budget amount and any options available for cost savings; it being note...
 
@@ -1628,7 +1628,7 @@ Unanimous (15-0)
 
 ### 4.5. (ADDED) Communication and Presentation - Kettle Creek Conservation Authority - E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair
 
-<a id="motion-4-5-1" class="motion-anchor"></a>
+<div id="motion-4-5-1" class="motion-anchor"></div>
 
 > That the delegation request from E. VanHooren, General Manager/Secretary Treasurer, Kettle Creek Conservation Authority BE APPROVED to be heard at this time.
 
@@ -1638,7 +1638,7 @@ Unanimous (15-0)
 
 ### 4.6. (ADDED) Budget Updates Requested by the Mayor and the Budget Chair
 
-<a id="motion-4-6-1" class="motion-anchor"></a>
+<div id="motion-4-6-1" class="motion-anchor"></div>
 
 > That the delegation request from C. Finn, General Manager, Tourism London BE APPROVED to be heard at this time.
 
@@ -1648,7 +1648,7 @@ Unanimous (15-0)
 
 ### 4.6. (ADDED) Budget Updates Requested by the Mayor and the Budget Chair
 
-<a id="motion-4-6-2" class="motion-anchor"></a>
+<div id="motion-4-6-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part that reads as follows: That the London & Middlesex Housing Corporation BE REQUESTED to prepare a business case to consider pros, cons, costs, and available sources of funding for additional investment in London & Middlesex Housing Corporation properties.
 

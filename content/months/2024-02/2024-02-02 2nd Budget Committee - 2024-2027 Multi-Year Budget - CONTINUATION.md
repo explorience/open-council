@@ -2316,7 +2316,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.4. Amendment - Adj. #4
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi Year Budget BE AMENDED to remove Adj. #4 – Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget) as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Pr...
 
@@ -2333,7 +2333,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.5. Amendment - Reserve Fund
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to reduce the current Industrial Lands Reserve Fund contribution by $1 million for 2024 only, noting it would have a 0.1% reduction on the 2024 property tax levy.
 
@@ -2350,7 +2350,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.6. Amendment - Business Case #P-9
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case # P-9 – Giwetashkad Implementation.
 
@@ -2367,7 +2367,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.7. Amendment - Business Case #P-26
 
-<a id="motion-3-7-0" class="motion-anchor"></a>
+<div id="motion-3-7-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-26 – Community Gardens Program Expansion to Support Food Security as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, ...
 
@@ -2384,7 +2384,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.8. Amendment - Business Case #P-29
 
-<a id="motion-3-8-0" class="motion-anchor"></a>
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to reduce Business Case #P-29 – Police Vehicle and Equipment Requirements by $90,000 each year.
 
@@ -2401,7 +2401,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.8. Amendment - Business Case #P-29
 
-<a id="motion-3-8-1" class="motion-anchor"></a>
+<div id="motion-3-8-1" class="motion-anchor"></div>
 
 > That the Committee recess at this time, for 1 hour and 15 minutes.
 
@@ -2418,7 +2418,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.9. Amendment - Business Case #P-31
 
-<a id="motion-3-9-0" class="motion-anchor"></a>
+<div id="motion-3-9-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include funding for “Action #3: Extension of Parks Operations Services” of Business Case #P-31 – Parks Operations Service Delivery Enhancements as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strat...
 
@@ -2435,7 +2435,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.10. Amendment - Business Case #P-37
 
-<a id="motion-3-10-0" class="motion-anchor"></a>
+<div id="motion-3-10-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-37 – CMHA Holly’s House.
 
@@ -2452,7 +2452,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.11. Amendment - Business Case #P-38
 
-<a id="motion-3-11-0" class="motion-anchor"></a>
+<div id="motion-3-11-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include administration fees (15%) to Business Case #P-38 – City of London Community Arts Investment Program Expansion (Amended – Reduction in Funding from Original Case). 2024 Operating Expenditures: $15,000, Tax Levy: $15,000 2025 Operat...
 
@@ -2469,7 +2469,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.11. Amendment - Business Case #P-38
 
-<a id="motion-3-11-1" class="motion-anchor"></a>
+<div id="motion-3-11-1" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-38 – City of London Community Arts Investment Program Expansion (Amended – Reduction in Funding from Original Case).
 
@@ -2486,7 +2486,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.12. Amendment - Business Case #P-42
 
-<a id="motion-3-12-0" class="motion-anchor"></a>
+<div id="motion-3-12-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to fund 50% of Initiative 10 in Business Case #P-42 – 5-Year Community Improvement Plan (CIP) Review Implementation (Amended – Initiatives 12 & 14 only), starting in 2026. 2024 Operating Expenditures: 0, Tax Levy: 0 2025 Operating Expenditur...
 
@@ -2503,7 +2503,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.13. Amendment - Business Case #P-27
 
-<a id="motion-3-13-0" class="motion-anchor"></a>
+<div id="motion-3-13-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-27 – Neighbourhood Decision Making Program Expansion.
 
@@ -2520,7 +2520,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.14. Amendment - Business Case #P-34
 
-<a id="motion-3-14-0" class="motion-anchor"></a>
+<div id="motion-3-14-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-34 – City Hall Main Lobby Security Guard.
 
@@ -2539,7 +2539,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.15. Amendment - Business Case #P-39
 
-<a id="motion-3-15-0" class="motion-anchor"></a>
+<div id="motion-3-15-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include funding at $100,000 a year for Business Case #P-39 – The Grand Theatre: Increasing Community Access to & Participation in the Arts as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic ...
 
@@ -2556,7 +2556,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.15. Amendment - Business Case #P-39
 
-<a id="motion-3-15-1" class="motion-anchor"></a>
+<div id="motion-3-15-1" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include funding at $100,000 a year for Business Case #P-39 – The Grand Theatre: Increasing Community Access to & Participation in the Arts as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic ...
 
@@ -2575,7 +2575,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.16. Amendment - Business Case #P-48
 
-<a id="motion-3-16-0" class="motion-anchor"></a>
+<div id="motion-3-16-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-48 – Canadian Mental Health Transitional Case Worker – London Public Library as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on De...
 
@@ -2592,7 +2592,7 @@ So if you would like to recess for the day, this is the vote. Posing the vote, m
 
 ### 3.17. Amendment - Business Case #P-53
 
-<a id="motion-3-17-0" class="motion-anchor"></a>
+<div id="motion-3-17-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include only Road Safety Initiative #2 “Improvements to the On-Road Pavement Marking Maintenance Process” of Business Case #P-53 – Road Safety Enhancements as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received ...
 
@@ -2602,7 +2602,7 @@ Unanimous (15-0)
 
 ### 3.18. Amendment - Business Case #P-63
 
-<a id="motion-3-18-0" class="motion-anchor"></a>
+<div id="motion-3-18-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-63 – Silver Creek Ecological Enhancements as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023, and that the imple...
 
@@ -2619,7 +2619,7 @@ Unanimous (15-0)
 
 ### 3.19. Amendment - Business Case #P-2
 
-<a id="motion-3-19-0" class="motion-anchor"></a>
+<div id="motion-3-19-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing Business Case #P-2 – Vehicle and Equipment Replacement to spread the reserve fund repayments over 6 years instead of 5 years: 2024 Operating Expenditures: - $417,000, Tax Levy: - $417,000 2025 Operating Expenditures: - $417,000, ...
 
@@ -2636,7 +2636,7 @@ Unanimous (15-0)
 
 ### 3.20. Amendment - Business Case #P-56
 
-<a id="motion-3-20-0" class="motion-anchor"></a>
+<div id="motion-3-20-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by adjusting funding to Initiative 3.b of Business Case #P-56 – Climate Emergency Action Plan (CEAP) Implementation Support by reducing the contribution to the new Climate Change Investment Fund by $750,000 in 2024 and increasing the contrib...
 
@@ -2653,7 +2653,7 @@ Unanimous (15-0)
 
 ### 7. Adjournment
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > That the meeting BE RECESSED.
 

@@ -588,7 +588,7 @@ The
 ### 2. 4th Report of the
   Cycling Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -600,7 +600,7 @@ Unanimous (5-0)
 ### 3. Contract Award:
   2015 Arterial Road  Rehabilitation Project Contract #2 (Tender # 15-23)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -612,7 +612,7 @@ Unanimous (5-0)
 ### 4. Sanitary Forcemain
   Inspection, RFP #14-57 - Irregular Result
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -624,7 +624,7 @@ Unanimous (5-0)
 ### 5. Household Special
   Waste Program Update
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -638,7 +638,7 @@ Unanimous (5-0)
   Services Associated with the Construction of 2015 Infrastructure Renewal
   Projects, Briscoe Reconstruction and Tecumseh Reconstruction
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -650,7 +650,7 @@ Unanimous (5-0)
 ### 7. Water and
   Wastewater Customer Service Review - Customer Reward Program
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -662,7 +662,7 @@ Unanimous (5-0)
 ### 8. Contract Award:
   Replacement of Sidewalks, Curb and Gutter and Hot Mix Asphalt (Tender 15-38)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -674,7 +674,7 @@ Unanimous (5-0)
 ### 9. Contract Award:
   District Metering Area Chambers (Tender 15-18)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -687,7 +687,7 @@ Unanimous (5-0)
   2015 Infrastructure Renewal Program Colborne and South Street Reconstruction
   Project (Tender 15-03)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -699,7 +699,7 @@ Unanimous (3-0)
 ### 11. Water Efficiency
   Program Update  - Proposed Water By-law Revisions
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -711,7 +711,7 @@ Unanimous (5-0)
 ### 12. 2015 Annual
   Warranted Sidewalk Program
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -723,7 +723,7 @@ Unanimous (5-0)
 ### 13. London Clean and
   Green Updates
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -735,7 +735,7 @@ Unanimous (5-0)
 ### 14. Parking Sign at 35
   Stirrup Court
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

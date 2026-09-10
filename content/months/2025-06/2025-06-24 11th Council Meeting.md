@@ -2596,7 +2596,7 @@ Mathers uh through the chair so um as in any engagement it's not advisable to ac
 
 ### 8.1. 8th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 3 (2.2) and 6 (3.2).
 
@@ -2606,7 +2606,7 @@ Unanimous (15-0)
 
 ### 8.1.3. (2.2) Corporate Growth Projections Update
 
-<a id="motion-8-1-3-0" class="motion-anchor"></a>
+<div id="motion-8-1-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the Deputy City Manager, Finance Supports, and the Deputy City Manager, Environment and Infrastructure, the following report with respect to the City of London Corporate Growth Projections 2021-2051, BE RECEIVED...
 
@@ -2623,7 +2623,7 @@ Unanimous (15-0)
 
 ### 8.1.6. (3.2) Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 257)
 
-<a id="motion-8-1-6-0" class="motion-anchor"></a>
+<div id="motion-8-1-6-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the London & Middlesex Community Housing (LMCH): a)  on the recommendation of the City Manager, the proposed by-law as appended to the staff report dated June 17, 2025 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutio...
 
@@ -2640,7 +2640,7 @@ Unanimous (15-0)
 
 ### 8.2. 11th Report of the Infrastructure and Corporate Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 11th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 7 (2.6) and item 11 (2.10).
 
@@ -2650,7 +2650,7 @@ Unanimous (15-0)
 
 ### 8.2.7. (2.6) Procurement of Goods & Services Policy Update
 
-<a id="motion-8-2-7-1" class="motion-anchor"></a>
+<div id="motion-8-2-7-1" class="motion-anchor"></div>
 
 > That the staff report dated June 16, 2025, with respect to the Procurement of Goods & Services Policy Update, BE REFFERED to a future meeting of the Infrastructure and Corporate Services Committee for Civic Administration to report back on the inclusion of providing quarterly summary reporting on...
 
@@ -2667,7 +2667,7 @@ Unanimous (15-0)
 
 ### 8.2.7. (2.6) Procurement of Goods & Services Policy Update
 
-<a id="motion-8-2-7-2" class="motion-anchor"></a>
+<div id="motion-8-2-7-2" class="motion-anchor"></div>
 
 > That the motion be amended to include a direction to staff to provide a report back to the Infrastructure and Corporate Services Committee following the first summary report with respect to quarterly summary report on procurement activities, including the resourcing required. At 2:30 PM, Councill...
 
@@ -2684,7 +2684,7 @@ Unanimous (15-0)
 
 ### 8.2.7. (2.6) Procurement of Goods & Services Policy Update
 
-<a id="motion-8-2-7-3" class="motion-anchor"></a>
+<div id="motion-8-2-7-3" class="motion-anchor"></div>
 
 > That item 7, clause 2.6, as amended, BE APPROVED.
 
@@ -2701,7 +2701,7 @@ Unanimous (15-0)
 
 ### 8.2.11. (2.10) City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement (Relates to Bill No.'s 253, 254, 255 & 256)
 
-<a id="motion-8-2-11-0" class="motion-anchor"></a>
+<div id="motion-8-2-11-0" class="motion-anchor"></div>
 
 > Motion to approve parts a), b), c) to read as follows: That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “A” BE INTRODUCED at the Municipal Council me...
 
@@ -2711,7 +2711,7 @@ Unanimous (15-0)
 
 ### 8.2.11. (2.10) City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement (Relates to Bill No.'s 253, 254, 255 & 256)
 
-<a id="motion-8-2-11-1" class="motion-anchor"></a>
+<div id="motion-8-2-11-1" class="motion-anchor"></div>
 
 > Motion to approve part d) to read as follows: d)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “D” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Child Care Services Cost Apportionment a...
 
@@ -2721,7 +2721,7 @@ Unanimous (13-0)
 
 ### 8.3. 10th Report of the Community and Protective Services Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 10th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 3 (2.2), 7 (2.6), 9, (2.8), 10 (2.9), 11 (4.1), 12 (4.2).
 
@@ -2731,7 +2731,7 @@ Unanimous (15-0)
 
 ### 8.3.3. (2.2) City of London Community Grants Program Grassroots, Innovation, and Capital Funding Allocations (2025)
 
-<a id="motion-8-3-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the staff report dated June 9, 2025, with respect to the City of London Community Grants Program Grassroots, Innovation and Capital Funding Allocations (2025) BE RECEIVED. (2025-F11A)
 
@@ -2748,7 +2748,7 @@ Unanimous (15-0)
 
 ### 8.3.9. (2.8) Life Stabilization Purchase of Service Agreements - Single Source Procurement - SS-2025-112 (Relates to Bill No. 251)
 
-<a id="motion-8-3-9-0" class="motion-anchor"></a>
+<div id="motion-8-3-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated June 9, 2025, related to Life Stabilization Purchase of Service Agreements Single Source Procurement – SS-2025-112: a)    a Single Source P...
 
@@ -2767,7 +2767,7 @@ Unanimous (15-0)
 
 ### 8.3.10. (2.9) Updated Highly Supportive Housing Plan Cost Breakdown Schedule
 
-<a id="motion-8-3-10-0" class="motion-anchor"></a>
+<div id="motion-8-3-10-0" class="motion-anchor"></div>
 
 > That the staff report dated June 9, 2025 with respect to the Updated Highly Supportive Housing Plan Cost Breakdown Schedule BE REFERRED to the July 14, 2025 meeting of the Community and Protective Services Committee in order to provide cost breakdowns or draft operational budgets for the approved...
 
@@ -2784,7 +2784,7 @@ Unanimous (15-0)
 
 ### 8.3.10. (2.9) Updated Highly Supportive Housing Plan Cost Breakdown Schedule
 
-<a id="motion-8-3-10-1" class="motion-anchor"></a>
+<div id="motion-8-3-10-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated June 9, 2025 with respect to the Updated Highly Supportive Housing Plan Cost Breakdown Schedule, BE RECEIVED; it being noted that a communication from Councillor S. Stevenson, dated June ...
 
@@ -2801,7 +2801,7 @@ Unanimous (15-0)
 
 ### 8.3.11. (4.1) City of London's Municipal Rent Assistance Program (MRAP)
 
-<a id="motion-8-3-11-1" class="motion-anchor"></a>
+<div id="motion-8-3-11-1" class="motion-anchor"></div>
 
 > That the communication dated June 2, 2025, from Councillor D. Ferreira regarding the City of London’s Municipal Rent Assistance Program (MRAP) BE REFERRED to Civic Administration to collaborate with Atlohsa Family Healing Services and report back to the next meeting of the Community and Protectiv...
 
@@ -2811,7 +2811,7 @@ Unanimous (15-0)
 
 ### 8.3.12. (4.2) Request for Update on 2021 Reaching Home
 
-<a id="motion-8-3-12-0" class="motion-anchor"></a>
+<div id="motion-8-3-12-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to prepare an update for the August 11, 2025 meeting of the Community and Protective Services Committee regarding  the three 2021 Reaching Home capital projects, including the status of associated operational commitments and funding along with the followi...
 
@@ -2828,7 +2828,7 @@ Unanimous (15-0)
 
 ### 8.4. 9th Report of the Planning and Environment Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 9th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 2 (2.1), 6 (3.3) and 7 (3.4).
 
@@ -2838,7 +2838,7 @@ Unanimous (13-0)
 
 ### 8.4.2. (2.1) Intention to Expand the Hyde Park Business Improvement Area (BIA)
 
-<a id="motion-8-4-2-0" class="motion-anchor"></a>
+<div id="motion-8-4-2-0" class="motion-anchor"></div>
 
 > That the staff report dated June 10, 2025, related to the Hyde Park Business Improvement Area request for expansion BE REFERRED to a future meeting of the Planning and Environment Committee in order for Civic Administration to work with the Hyde Park BIA to undertake an additional round of engage...
 
@@ -2857,7 +2857,7 @@ Unanimous (13-0)
 
 ### 8.4.2. (2.1) Intention to Expand the Hyde Park Business Improvement Area (BIA)
 
-<a id="motion-8-4-2-1" class="motion-anchor"></a>
+<div id="motion-8-4-2-1" class="motion-anchor"></div>
 
 > That the staff report dated June 10, 2025, related to the Hyde Park Business Improvement Area request for expansion BE REFERRED to a future meeting of the Planning and Environment Committee in order for Civic Administration to work with the Hyde Park BIA to undertake an additional round of engage...
 
@@ -2867,7 +2867,7 @@ Unanimous (13-0)
 
 ### 8.4.6. (3.3) 928-934 Oxford Street West (Z-25044) (Relates to Bill No. 272)
 
-<a id="motion-8-4-6-0" class="motion-anchor"></a>
+<div id="motion-8-4-6-0" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2419361 Ontario Inc & Ali Youssef (c/o Siv-ik Planning & Design) relating to the property located at 928 & 934 Oxford Street West; a) the proposed by-law...
 
@@ -2886,7 +2886,7 @@ Unanimous (13-0)
 
 ### 8.4.7. (3.4) 743 Richmond Street (OZ-25048) (Relates to Bill No.'s 261 and 273)
 
-<a id="motion-8-4-7-0" class="motion-anchor"></a>
+<div id="motion-8-4-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 743 Richmond Inc. (c/o Fitzrovia) relating to the property located at 743 Richmond Street:    a) the proposed by-law as appended to the staff report dated June ...
 
@@ -2905,7 +2905,7 @@ Unanimous (13-0)
 
 ### 8.5. 3rd Report of the Budget Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 3rd Report of the Budget Committee BE APPROVED, with the exception of item 9 (4.7).
 
@@ -2915,7 +2915,7 @@ Unanimous (13-0)
 
 ### 8.5.9. (4.7) Development Charges Act - Mayor J. Morgan
 
-<a id="motion-8-5-9-0" class="motion-anchor"></a>
+<div id="motion-8-5-9-0" class="motion-anchor"></div>
 
 > That it BE NOTED that the Budget Committee received a communication and presentation from Mayor J. Morgan regarding the Development Charges Act.
 
@@ -2934,7 +2934,7 @@ Unanimous (13-0)
 
 ### 8.6. 3rd Report of the Audit Committee
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 3rd Report of the Audit Committee BE APPROVED, with the exception of item 5 (4.4).
 
@@ -2944,7 +2944,7 @@ Unanimous (13-0)
 
 ### 8.6.5. (4.4) Safe London for Women, Girls and Gender-Diverse and Trans People Compliance Audit - MNP
 
-<a id="motion-8-6-5-0" class="motion-anchor"></a>
+<div id="motion-8-6-5-0" class="motion-anchor"></div>
 
 > That the communication dated June 5, 2025 from MNP with respect to safe London for women, girls and gender-diverse and trans people compliance audit BE RECEIVED.
 
@@ -2963,7 +2963,7 @@ Unanimous (13-0)
 
 ### 8.7. 10th Special Planning and Environment Committee
 
-<a id="motion-8-7-0" class="motion-anchor"></a>
+<div id="motion-8-7-0" class="motion-anchor"></div>
 
 > That the 10th Special Report of the Planning and Environment Committee, BE APPROVED.
 
@@ -2973,7 +2973,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 251, BE APPROVED.
 
@@ -2992,7 +2992,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 251, BE APPROVED.
 
@@ -3011,7 +3011,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 251, BE APPROVED.
 
@@ -3030,7 +3030,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 258, BE APPROVED.
 
@@ -3049,7 +3049,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 258, BE APPROVED.
 
@@ -3068,7 +3068,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 258, BE APPROVED.
 
@@ -3087,7 +3087,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-9" class="motion-anchor"></a>
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.'s 261 and 273, BE APPROVED.
 
@@ -3106,7 +3106,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-10" class="motion-anchor"></a>
+<div id="motion-13-10" class="motion-anchor"></div>
 
 > That Second Reading of Bill No.'s 261 and 273, BE APPROVED.
 
@@ -3125,7 +3125,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-11" class="motion-anchor"></a>
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.'s 261 and 273, BE APPROVED.
 
@@ -3144,7 +3144,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-12" class="motion-anchor"></a>
+<div id="motion-13-12" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 272, BE APPROVED.
 
@@ -3163,7 +3163,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-13" class="motion-anchor"></a>
+<div id="motion-13-13" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 272, BE APPROVED.
 
@@ -3182,7 +3182,7 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
-<a id="motion-13-14" class="motion-anchor"></a>
+<div id="motion-13-14" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 272, BE APPROVED.
 

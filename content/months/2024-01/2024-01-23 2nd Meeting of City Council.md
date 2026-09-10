@@ -2601,7 +2601,7 @@ Okay. Thanks for adjourned.
 
 ### 8.1. 2nd Report of the Corporate Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 2nd Report of the Corporate Services Committee BE APPROVED, with the exception of items 13 (4.1) and item 14 (5.1).
 
@@ -2611,7 +2611,7 @@ Unanimous (15-0)
 
 ### 8.1.13. (4.1) Application - Issuance of Proclamation - World Thinking Day
 
-<a id="motion-8-1-13-0" class="motion-anchor"></a>
+<div id="motion-8-1-13-0" class="motion-anchor"></div>
 
 > That based on the application dated December 5, 2023 from Girl Guides of Canada, February 22, 2024 BE PROCLAIMED World Thinking Day.
 
@@ -2621,7 +2621,7 @@ Unanimous (15-0)
 
 ### 8.1.14. (5.1) Request for Indemnification for a Judicial Review - Councillor S. Stevenson
 
-<a id="motion-8-1-14-0" class="motion-anchor"></a>
+<div id="motion-8-1-14-0" class="motion-anchor"></div>
 
 > That the communication dated January 10, 2024 from Councillor S. Stevenson with respect to Indemnification for a Judicial Review BE RECEIVED and NO FURTHER ACTION BE TAKEN.
 
@@ -2638,7 +2638,7 @@ Unanimous (15-0)
 
 ### 8.2. 2nd Report of the Community and Protective Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 2nd Report of the Community and Protective Services Committee BE APPROVED.
 
@@ -2648,7 +2648,7 @@ Unanimous (15-0)
 
 ### 8.3. 2nd Report of the Civic Works Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 2nd Report of the Civic Works Committee BE APPROVED.
 
@@ -2658,7 +2658,7 @@ Unanimous (15-0)
 
 ### 8.4. 3rd Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 3rd Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 4 (2.1) and 8 (4.4).
 
@@ -2668,7 +2668,7 @@ Unanimous (15-0)
 
 ### 8.4.4. (2.1) Investing in Canada Infrastructure Program Public Transit Stream Funding Reallocation
 
-<a id="motion-8-4-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-4-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Finance Supports, the following actions be taken regarding recent changes to the Investing in Canada Infrastructure Program (ICIP) Public Transit Stream (PTS) as communicated by the ...
 
@@ -2685,7 +2685,7 @@ Unanimous (15-0)
 
 ### 8.4.8. (4.4) Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
 
-<a id="motion-8-4-8-0" class="motion-anchor"></a>
+<div id="motion-8-4-8-0" class="motion-anchor"></div>
 
 > That, with respect to the Deputy Mayor and Budget Chair positions, the Civic Administration BE DIRECTED to undertake the necessary actions to implement the following: a)    a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024; b)    a p...
 
@@ -2702,7 +2702,7 @@ Unanimous (15-0)
 
 ### 8.5. 2nd Report of the Planning and Environment Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 2nd Report of the Planning and Environment Committee BE APPROVED, excluding item 11 (5.2).
 
@@ -2712,7 +2712,7 @@ Unanimous (15-0)
 
 ### 8.5.11. (5.2) Green Development Standards
 
-<a id="motion-8-5-11-0" class="motion-anchor"></a>
+<div id="motion-8-5-11-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Site Plan Control By-law and/or Zoning By-law:    a)    the Civic Administration BE DIRECTED to update by Q3 2024 the Site Plan Control By-law and/or Zoning By-law to include the following requirements:    i)    5% of the required parking sp...
 
@@ -2731,7 +2731,7 @@ Unanimous (15-0)
 
 ### 9.1. 2nd Report of Council in Closed Session
 
-<a id="motion-9-1-1" class="motion-anchor"></a>
+<div id="motion-9-1-1" class="motion-anchor"></div>
 
 > That clauses 2, 3, and 4 of the 2nd Report of the Council, In Closed Session BE APPROVED.
 
@@ -2748,7 +2748,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.31 and Added Bill No's. 40 to Bill No. 42, BE APPROVED.
 
@@ -2765,7 +2765,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No.31 and Added Bill No.'s 40 to Bill No. 42, BE APPROVED.
 
@@ -2782,7 +2782,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.31 and Added Bill No.'s 40 to Bill No. 42, BE APPROVED.
 

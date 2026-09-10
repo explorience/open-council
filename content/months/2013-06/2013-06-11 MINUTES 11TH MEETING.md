@@ -3561,7 +3561,7 @@ Passed
   Services - Expropriation of Lands - Hyde Park Road Widening Project - Phase 1
   - TS1477-1
 
-<a id="motion-1-3-0" class="motion-anchor"></a>
+<div id="motion-1-3-0" class="motion-anchor"></div>
 
 > Approve That, the Council of The   Corporation of the City of London, as Approving Authority pursuant to the   Expropriations Act, R.S.O. 1990, c.E. 26, as amended, on the recommendation   of the Manager of Realty Services, with the concurrence of the Managing   Director Environmental and Enginee...
 
@@ -3572,7 +3572,7 @@ Unanimous (14-0)
 ### 10#2. Trowbridge Avenue
   Parking Passes/Residential Parking Pass Pilot Program
 
-<a id="motion-10-2-0" class="motion-anchor"></a>
+<div id="motion-10-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3584,7 +3584,7 @@ Unanimous (14-0)
 ### 15#2. Southwest
   Area Plan - Service Policies and Plans
 
-<a id="motion-15-2-0" class="motion-anchor"></a>
+<div id="motion-15-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED   to report back as soon as possible, to the appropriate committee, with   respect to servicing policies and plans related to the Southwest Area Plan.
 
@@ -3596,7 +3596,7 @@ Unanimous (14-0)
   Services - Expropriation of Lands - Hyde Park Road Widening Project - Phase 1
   - TS1477-1
 
-<a id="motion-2-3-0" class="motion-anchor"></a>
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > Approve that, the Council of The   Corporation of the City of London, as Expropriating Authority pursuant to the   Expropriations Act, R.S.O. 1990, c.E. 26, as amended, the following   actions be taken with respect to the approval by the Approving Authority June   11, 2013 of the proposed expropr...
 
@@ -3606,7 +3606,7 @@ Unanimous (14-0)
 
 ### 2#5. Food Truck Proposal
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > Amend clause 2 by adding the following at   the end of the clause, "it being noted that notwithstanding the referral   back related to this proposal, the Civic Administration will work with a   specific proponent to accommodate an immediate use of a proposed food truck,   within the current regul...
 
@@ -3624,7 +3624,7 @@ Unanimous (14-0)
 ### 3#5. Bradley Avenue
   Pedestrian Tunnel Illumination
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the   Director, Roads & Transportation, NO ACTION BE TAKEN with respect to   replacing the lighting in the vicinity of the Bradley Avenue pedestrian   tunnel. (2013-T01)
 
@@ -3636,7 +3636,7 @@ Unanimous (14-0)
   PricewaterhouseCoopers (PwC) for Operational Reviews at Boards and
   Commissions
 
-<a id="motion-3-8-0" class="motion-anchor"></a>
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3648,7 +3648,7 @@ Unanimous (13-0)
   PricewaterhouseCoopers (PwC) for Operational Reviews at Boards and
   Commissions
 
-<a id="motion-3-8-2" class="motion-anchor"></a>
+<div id="motion-3-8-2" class="motion-anchor"></div>
 
 > Approve C-1   C-1    That, as a procedural matter pursuant to Section 239(6)   of the Municipal Act, 2001, the following recommendation be forwarded   to City Council for deliberation and a vote in public session:   That, on the recommendation of the Manager   of Realty Services, with the concurr...
 
@@ -3660,7 +3660,7 @@ Unanimous (14-0)
   PricewaterhouseCoopers (PwC) for Operational Reviews at Boards and
   Commissions
 
-<a id="motion-3-8-4" class="motion-anchor"></a>
+<div id="motion-3-8-4" class="motion-anchor"></div>
 
 > C-8      That,   as a procedural matter pursuant to Section 239(6) of the Municipal Act,   2001, the following recommendation be forwarded to City Council for   deliberation and a vote in public session:   That in response to his communication dated   June 11, 2013 Councillor P. Van Meerbergen BE...
 
@@ -3679,7 +3679,7 @@ Unanimous (14-0)
   PricewaterhouseCoopers (PwC) for Operational Reviews at Boards and
   Commissions
 
-<a id="motion-3-8-5" class="motion-anchor"></a>
+<div id="motion-3-8-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3691,7 +3691,7 @@ Unanimous (14-0)
 ### 4#7. Engagement of KPMG
   for Procedure and Findings Report on the Downtown Camera Program
 
-<a id="motion-4-7-0" class="motion-anchor"></a>
+<div id="motion-4-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Corporate Services, City Treasurer and Chief Financial Officer, the   Civic Administration BE DIRECTED to engage KPMG LLP to perform the annual   Procedure and Findings Report of the Downtown Camera Program at a cost of   $3,250, exclusive o...
 
@@ -3703,7 +3703,7 @@ Unanimous (13-0)
 ### 5#4. W12A Landfill
   Community Mitigative Measures Fund - Glanworth Avenue
 
-<a id="motion-5-4-0" class="motion-anchor"></a>
+<div id="motion-5-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the   Director, Environment, Fleet, & Solid Waste, and the W12A Landfill Public   Liaison Committee, funding of $15,000 BE APPROVED from the W12A Landfill   Community Mitigative Measures Fund for the Glanworth Library Revitalization   Project, subject to the project...
 
@@ -3714,7 +3714,7 @@ Unanimous (14-0)
 ### 8#2. OLG Charitable
   Bingo and Gaming Revitalization Initiative (E-Bingo) - Municipality Agreement
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > The motion to Approve part a) of clause 8   is put.
 
@@ -3732,7 +3732,7 @@ Unanimous (14-0)
 ### 8#2. OLG Charitable
   Bingo and Gaming Revitalization Initiative (E-Bingo) - Municipality Agreement
 
-<a id="motion-8-2-1" class="motion-anchor"></a>
+<div id="motion-8-2-1" class="motion-anchor"></div>
 
 > The motion to Approve part b) of clause 8   is put.
 
@@ -3743,7 +3743,7 @@ Unanimous (14-0)
 ### 9#2. How Post-Secondary
   Students can become more involved in Municipal Government
 
-<a id="motion-9-2-0" class="motion-anchor"></a>
+<div id="motion-9-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED   to utilize the services of student interns to assist with implementing the   various recommendations pertaining to the increased engagement of   post-secondary students in local government by September 2013, as detailed in   the communication appended a...
 
@@ -3754,7 +3754,7 @@ Unanimous (14-0)
 ### 9#5. Western Fair
   District
 
-<a id="motion-9-5-0" class="motion-anchor"></a>
+<div id="motion-9-5-0" class="motion-anchor"></div>
 
 > Approve that the following actions be taken with respect to the Western Fair   District:    a)         the   communications dated April 26, 2013, from Councillor J. Swan and the Municipal   Council resolution adopted at its meeting held on April 16, 2013, with   respect to the Western Fair Distri...
 
@@ -3766,7 +3766,7 @@ Unanimous (12-0)
 ### 9#5. Western Fair
   District
 
-<a id="motion-9-5-1" class="motion-anchor"></a>
+<div id="motion-9-5-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3778,7 +3778,7 @@ Unanimous (14-0)
 ### 9#5. Western Fair
   District
 
-<a id="motion-9-5-2" class="motion-anchor"></a>
+<div id="motion-9-5-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3790,7 +3790,7 @@ Unanimous (14-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -3801,7 +3801,7 @@ Unanimous (13-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TENTH MEETING HELD ON MAY 14, 2013
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 10th Meeting   held on May 14, 2013.
 
@@ -3812,7 +3812,7 @@ Unanimous (14-0)
 ### 6. Licensing of
   Methadone Pharmacies and Clinics
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Approve that clause 6 BE AMENDED in line 2   by deleting the words "the proposed by-law appended to the staff report   dated May 27, 2013," and replacing them with the words "the attached   proposed revised by-law,".
 
@@ -3823,7 +3823,7 @@ Unanimous (14-0)
 ### 6. Licensing of
   Methadone Pharmacies and Clinics
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Approve clause 6, as amended.
 
@@ -3841,7 +3841,7 @@ Unanimous (14-0)
 ### 8. 5th Report of the
   London Diversity and Race Relations Advisory Committee
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the 5th Report of the London Diversity and Race Relations Advisory   Committee (LDRRAC), from its meeting held on May 16, 2013:    a)         on   the recommendation of the LDRRAC, the attached Media Relations   Protocol for the LDRRAC, BE ADO...
 
@@ -3853,7 +3853,7 @@ Unanimous (14-0)
 ### 9. Residential Rental
   Units Licensing Fees
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Development & Compliance Services and the Chief Building Official,   a public participation meeting BE HELD at a future meeting of the Community   and Protective Services Committee to consider:   a)         a   $55.00 fee for new application...
 
@@ -3871,7 +3871,7 @@ Unanimous (14-0)
 ### 10. Council Service
   London Team
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Approve that   clause 10 BE AMENDED in the first line of part a) by deleting the word   “approximately” and by replacing it with the words "up to", before   the figure $30,000 and by adding after the amount of “$30,000” the words “,   within the existing budget for the Councillors’ Office”.
 
@@ -3889,7 +3889,7 @@ Unanimous (14-0)
 ### 11. Sponsorship Request
   - Girl Power - Veterans Memorial Parkway Community Program
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > That the communication dated April 30, 2013   from Councillor S. E. White requesting approval of sponsorship funding for   Girl Power to undertake a tree planting project along the Veterans Memorial   Parkway, in partnership with Landscape Ontario, BE NOTED AND FILED.
 
@@ -3907,7 +3907,7 @@ Unanimous (14-0)
 ### 11. Sponsorship Request
   - Girl Power - Veterans Memorial Parkway Community Program
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3926,7 +3926,7 @@ Passed**
 ### 18. Resignation from
   the London Advisory Committee on Heritage
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Approve that clause 4 be amended in the fifth line by correcting the   amount to read “$50,000,000.”.
 
@@ -3937,7 +3937,7 @@ Unanimous (14-0)
 ### 18. Resignation from
   the London Advisory Committee on Heritage
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3949,7 +3949,7 @@ Unanimous (14-0)
 ### 22. Downtown Heritage
   Conservation District Plan - Ontario Heritage Act Appeal (O-8024)
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the Ontario Municipal Board BE ADVISED   that Municipal Council consents to an amendment of Section 2.2, Heritage   Character Statement, in the Downtown Heritage Conservation District Plan, by   adding the followin...
 
@@ -3961,7 +3961,7 @@ Unanimous (14-0)
 ### 22. Downtown Heritage
   Conservation District Plan - Ontario Heritage Act Appeal (O-8024)
 
-<a id="motion-22-1" class="motion-anchor"></a>
+<div id="motion-22-1" class="motion-anchor"></div>
 
 > Amend clause 6, to add a new part d), as   follows:   " d)      the   Civic Administration BE DIRECTED to report back to the appropriate Standing   Committee with respect to the potential use of First Quarter Corporate   surplus funds, if available, in order to facilitate a Fall planting of trees...
 
@@ -3972,7 +3972,7 @@ Unanimous (14-0)
 ### 22. Downtown Heritage
   Conservation District Plan - Ontario Heritage Act Appeal (O-8024)
 
-<a id="motion-22-2" class="motion-anchor"></a>
+<div id="motion-22-2" class="motion-anchor"></div>
 
 > Approve clause 6, as amended.
 

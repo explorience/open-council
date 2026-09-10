@@ -2671,7 +2671,7 @@ Okay, we're adjourned. Thank you for your time today.
 
 ### 6.1. Integrity Commissioner's Annual Report
 
-<a id="motion-6-1-1" class="motion-anchor"></a>
+<div id="motion-6-1-1" class="motion-anchor"></div>
 
 > that the motion be amended to include the cost of services as an Appendix to the agenda for the meeting
 
@@ -2681,7 +2681,7 @@ Unanimous (15-0)
 
 ### 6.1. Integrity Commissioner's Annual Report
 
-<a id="motion-6-1-2" class="motion-anchor"></a>
+<div id="motion-6-1-2" class="motion-anchor"></div>
 
 > That the motion, as amended, be approved
 
@@ -2691,7 +2691,7 @@ Unanimous (15-0)
 
 ### 8.1. 4th Report of the Planning and Environment Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 4th Report of the Planning and Environment Committee BE APPROVED with the exception of items 13 (3.6) and 15 (4.1)
 
@@ -2701,7 +2701,7 @@ Unanimous (15-0)
 
 ### 8.1.15. (4.1) Councillor S. Hillier - Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South
 
-<a id="motion-8-1-15-0" class="motion-anchor"></a>
+<div id="motion-8-1-15-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to a Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South: a) the request to the Minister of Municipal Affairs and Housing to issue a Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highb...
 
@@ -2718,7 +2718,7 @@ Unanimous (15-0)
 
 ### 8.2. 4th Report of the Infrastructure and Corporate Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 4th Report of the Infrastructure and Corporate Services Committee BE APPROVED.
 
@@ -2728,7 +2728,7 @@ Unanimous (15-0)
 
 ### 8.3. 3rd Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 3rd Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of items 3 (2.1) and 6 (4.2).
 
@@ -2738,7 +2738,7 @@ Unanimous (15-0)
 
 ### 8.3.3. (2.1) 2025 Assessment Growth Funding Allocation
 
-<a id="motion-8-3-3-1" class="motion-anchor"></a>
+<div id="motion-8-3-3-1" class="motion-anchor"></div>
 
 > That the motion be amended to include a new part that reads as follows: b) Civic Administration BE DIRECTED to report back to the April 30, 2025 meeting of the Infrastructure and Corporate Services Committee with respect to the City’s debt levels and debt servicing costs, including information on...
 
@@ -2755,7 +2755,7 @@ Unanimous (15-0)
 
 ### 8.3.3. (2.1) 2025 Assessment Growth Funding Allocation
 
-<a id="motion-8-3-3-2" class="motion-anchor"></a>
+<div id="motion-8-3-3-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -2772,7 +2772,7 @@ Unanimous (15-0)
 
 ### 8.3.6. (4.2) London Public Library Board of Directors Vacancy
 
-<a id="motion-8-3-6-2" class="motion-anchor"></a>
+<div id="motion-8-3-6-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the vacant position declared by the London Public Library Board of Directors: b)  Mayor J. Morgan BE APPOINTED to the London Public Library Board for the term ending November 14, 2026.
 
@@ -2789,7 +2789,7 @@ Unanimous (15-0)
 
 ### 8.4. 4th Report of the Community and Protective Services Committee
 
-<a id="motion-8-4-1" class="motion-anchor"></a>
+<div id="motion-8-4-1" class="motion-anchor"></div>
 
 > That the 4th Report of the Community and Protective Services Committee BE APPROVED with the exception of item 12 (2.11).
 
@@ -2799,7 +2799,7 @@ Unanimous (15-0)
 
 ### 8.4.12. (2.11) Adult Entertainment Body-Rub Attendant Licensing - Information Report
 
-<a id="motion-8-4-12-2" class="motion-anchor"></a>
+<div id="motion-8-4-12-2" class="motion-anchor"></div>
 
 > that the motion be amended to remove the reference to the Supreme Court’s ruling on Bill C-36 and its purpose for referral, and TO DIRECT Civic Administration to report back with legal advice on this matter. At 3:18 PM, Councillor J. Pribil leaves the meeting.  At 3:19 PM, Councillor J. Pribil en...
 
@@ -2816,7 +2816,7 @@ Unanimous (15-0)
 
 ### 8.4.12. (2.11) Adult Entertainment Body-Rub Attendant Licensing - Information Report
 
-<a id="motion-8-4-12-3" class="motion-anchor"></a>
+<div id="motion-8-4-12-3" class="motion-anchor"></div>
 
 > That the staff report, dated February 18, 2025, related to an Adult Entertainment Body-Rub Attendant Licensing Information Report BE REFERRED to Civic Administration to report back to a future meeting of the Community and Protective Services Committee with legal advice with respect to this matter.
 
@@ -2833,7 +2833,7 @@ Unanimous (15-0)
 
 ### 8.5. 1st Report of the Audit Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 1st Report of the Audit Committee BE APPROVED with the exception of item 5 (4.3).
 
@@ -2843,7 +2843,7 @@ Unanimous (15-0)
 
 ### 8.6. 5th Report of the Infrastructure and Corporate Services Committee
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 5th Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of item 3 (2.1)
 

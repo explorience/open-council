@@ -537,7 +537,7 @@ The
 ### 2. Changes to the
   Flood Deductible at Wastewater Facilities
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -549,7 +549,7 @@ Unanimous (4-0)
 ### 3. Gore Road Bridge
   Replacement (Tender No. 14-28)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -568,7 +568,7 @@ Unanimous (4-0)
 ### 4. Supply of Turbo
   Blower Systems for Vauxhall, Adelaide and Oxford Wastewater Treatment Plants
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -579,7 +579,7 @@ Unanimous (4-0)
 
 ### 5. Rail Safety Week
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -592,7 +592,7 @@ Unanimous (4-0)
   Consulting Engineer for Engineering Services for the Functional and Detailed
   Design of the Hyde Park No. 5 SWMF (ESSWM-HP5)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -604,7 +604,7 @@ Unanimous (4-0)
 ### 8. Transportation
   Energy Optimization Plan (TEOP)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -616,7 +616,7 @@ Unanimous (4-0)
 ### 9. Amendments to the
   Traffic and Parking By-law
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -628,7 +628,7 @@ Unanimous (3-0)
 ### 10. Amendments to the
   Streets By-law and the Various Fees and Charges By-law
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -640,7 +640,7 @@ Unanimous (4-0)
 ### 10. Amendments to the
   Streets By-law and the Various Fees and Charges By-law
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -652,7 +652,7 @@ Unanimous (4-0)
 ### 11. 4th Report of the
   Transportation Advisory Committee
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -664,7 +664,7 @@ Unanimous (4-0)
 ### 11. 4th Report of the
   Transportation Advisory Committee
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -677,7 +677,7 @@ Unanimous (4-0)
   for Green Energy London Co-operative Inc. (GEL) goal to conduct a
   Neighbourhood Energy Reduction Action Plan Field Test in the City of London
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -689,7 +689,7 @@ Unanimous (4-0)
 ### 14. Pedestrian Rail
   Safety
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -701,7 +701,7 @@ Unanimous (4-0)
 ### 15. (Added)  Additional Sidewalks in the
   Sherwood Fox Public School Area
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -1655,7 +1655,7 @@ Thank you everyone, have a good evening.
 
 ### 4.1. Draft Economic Development Strategy (2026-2030) and Implementation Plan
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Manager, the City of London Draft Economic Development Strategy (2026-2030) and Implementation Plan, as appended to the staff report dated March 24, 2026 as Appendix “A” and presentation BE RECEIVED; it being noted that the Strategic Priorities and Policy C...
 
@@ -1674,7 +1674,7 @@ Thank you everyone, have a good evening.
 
 ### 4.1. Draft Economic Development Strategy (2026-2030) and Implementation Plan
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation requests from J. Zaifman, CEO, London Home Builders' Association and G. Henderson, CEO, London Chamber of Commerce BE APPROVED to be heard at this time.
 
@@ -1684,7 +1684,7 @@ Unanimous (14-0)
 
 ### 4.2. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the delegation requests from J. Zaifman, CEO, London Home Builders' Association and M. Wallace, Executive Director, London Development Institute BE APPROVED to be heard at this time.
 
@@ -1694,7 +1694,7 @@ Unanimous (14-0)
 
 ### 4.2. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF timelines;
 
@@ -1713,7 +1713,7 @@ Unanimous (14-0)
 
 ### 4.2. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > That the balance of the motion BE APPROVED: That, the following actions be taken with respect to Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options: a) the Civic Administration BE DIRECTED to report back to Council with options ...
 
@@ -1732,7 +1732,7 @@ Unanimous (14-0)
 
 ### 4.2. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
 
-<a id="motion-4-2-4" class="motion-anchor"></a>
+<div id="motion-4-2-4" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to have the report back to the Strategic Priorities and Policy Committee.
 
@@ -1751,7 +1751,7 @@ Unanimous (14-0)
 
 ### 4.3. Request for a Special Intergovernmental Meeting - Councillor H. McAlister
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the communication dated March 9, 2026 from Councillor H. McAlister with respect to Special Intergovernmental Meetings BE REFERRED to a future meeting of the Governance Working Group for further discussion.
 
@@ -1761,7 +1761,7 @@ Unanimous (14-0)
 
 ### 5.1. (ADDED) Appointing Members of the Public to the City's Agencies, Boards and Commissions - Mayor J. Morgan, Councillor/Deputy Mayor S. Lewis and Councillor/Budget Chair E. Peloza
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointing members of the public to the City’s Agencies, Boards, and Commissions (ABCs): a) the Civic Administration BE DIRECTED to take the necessary actions to extend the terms of the current public member appointees to the City’s Agencies, Bo...
 

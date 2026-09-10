@@ -320,7 +320,7 @@ The
 ### 2. 7th Report of the
   Cycling Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -333,7 +333,7 @@ Unanimous (4-0)
   Waterworks, Supply and Delivery of Itron® Electronic Radio Transmitters,
   Single Source Procurement (SS15-18)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -346,7 +346,7 @@ Unanimous (4-0)
   Waterworks, Supply and Delivery of Itron® Electronic Radio Transmitters,
   Single Source Procurement (SS15-18)
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -358,7 +358,7 @@ Unanimous (4-0)
 ### 5. Amendments to the
   Traffic and Parking By-law
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -371,7 +371,7 @@ Unanimous (4-0)
   Amendments to Update Ontario Drinking Water Quality Standards and Testing and
   Reporting Requirements
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -383,7 +383,7 @@ Unanimous (4-0)
 ### 7. Kilally Road
   Improvements Phase 1, Appointment of Consulting Engineer
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -395,7 +395,7 @@ Unanimous (4-0)
 ### 8. Deferred Matters
   List
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -407,7 +407,7 @@ Unanimous (4-0)
 ### 9. Canadian Urban
   Transit Association (CUTA) Federal Election Initiative
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

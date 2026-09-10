@@ -2242,7 +2242,7 @@ Passed
   at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521) (Relates to Bill
   No. 121)
 
-<a id="motion-10-2-0" class="motion-anchor"></a>
+<div id="motion-10-2-0" class="motion-anchor"></div>
 
 > The motion to Approve final bullet point of   part b), of clause 10 is put.   -           FROM   an Open Space (OS5) Zone, that permits conservation lands and passive   recreation uses TO an Open Space (OS1) Zone, that permits conservation lands   and passive recreational uses and a neighbourhood...
 
@@ -2261,7 +2261,7 @@ Passed
   at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521) (Relates to Bill
   No. 121)
 
-<a id="motion-10-2-1" class="motion-anchor"></a>
+<div id="motion-10-2-1" class="motion-anchor"></div>
 
 > Approve the remainder of clause 10.
 
@@ -2272,7 +2272,7 @@ Unanimous (15-0)
 ### 10#3. Tax Adjustment
   Agenda
 
-<a id="motion-10-3-0" class="motion-anchor"></a>
+<div id="motion-10-3-0" class="motion-anchor"></div>
 
 > That the recommendations contained in the   Tax Adjustment Agenda dated March 8, 2016 BE APPROVED; it being noted that   Ms. B. Pierotti was present at the public hearing associated with this matter   in order to seek clarification as to what next steps, if any, were required   by her in order to...
 
@@ -2282,7 +2282,7 @@ Unanimous (13-0)
 
 ### 12#2. PEC Deferred List
 
-<a id="motion-12-2-0" class="motion-anchor"></a>
+<div id="motion-12-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the Planning and Environment Committee Deferred Matters List:     a)         the   attached, revised, Deferred Matters List BE UPDATED and items that   have been addressed by the Civic Administration BE REMOVED; it being noted   that the Plann...
 
@@ -2296,7 +2296,7 @@ Unanimous (15-0)
   Background Information (Refer to the Civic Works Committee stage for
   consideration with clause 12 of the 4th Report of the Civic Works Committee)
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2307,7 +2307,7 @@ Unanimous (15-0)
 ### 3#4. Repeal
   Financial Services Policies
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the   recommendation of the Managing Director, Corporate Services and City   Treasurer, Chief Financial Officer, the proposed by-law attached as Appendix   "A" to the staff report dated March 21, 2016 BE INTRODUCED at the   Municipal Council meeting of March 22, 2016 to repeal the follow...
 
@@ -2318,7 +2318,7 @@ Unanimous (13-0)
 ### 4#4. Creating
   a Vibrant and Competitive Downtown
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > Approve that clause 4 be amended to include   provision for the following:   a)         immediate   funding in the amount of $100,000, to be paid from the Economic Development   Reserve Fund, BE APPROVED in order for Downtown London to engage Live Work   Learn Play (LWLP) to commence their “Creat...
 
@@ -2336,7 +2336,7 @@ Unanimous (13-0)
 ### 4#4. Creating
   a Vibrant and Competitive Downtown
 
-<a id="motion-4-4-1" class="motion-anchor"></a>
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2347,7 +2347,7 @@ Unanimous (15-0)
 ### 4#4. Creating
   a Vibrant and Competitive Downtown
 
-<a id="motion-4-4-2" class="motion-anchor"></a>
+<div id="motion-4-4-2" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   the Committee of the Whole, in camera, for the purpose of considering the   following matters:
 
@@ -2358,7 +2358,7 @@ Unanimous (15-0)
 ### 4#4. Creating
   a Vibrant and Competitive Downtown
 
-<a id="motion-4-4-3" class="motion-anchor"></a>
+<div id="motion-4-4-3" class="motion-anchor"></div>
 
 > Approve:   1.                     That, on the   recommendation of the Managing Director, Corporate Services and City   Treasurer, Chief Financial Officer, with the concurrence of the Managing   Director, Environmental & Engineering Services & City Engineer, on   the advice of the Manager of Real...
 
@@ -2369,7 +2369,7 @@ Unanimous (13-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-v-0" class="motion-anchor"></a>
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   the Committee of the Whole, in camera, for the purpose of considering the   following matters:
 
@@ -2381,7 +2381,7 @@ Unanimous (15-0)
   AND SIGNING OF THE MINUTES OF THE SIXTH AND SEVENTH MEETINGS HELD ON MARCH 1,
   2016 AND MARCH 10, 2016, RESPECTIVELY
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Sixth and   Seventh Meetings held on March 1 and March 10, 2016, respectively.
 
@@ -2392,7 +2392,7 @@ Unanimous (15-0)
 ### 12. "One
   River" - Master Plan Environmental Assessment
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Approve referral of part a) of clause   12 to later in the meeting, in order to obtain additional legal information   in closed session, prior to consideration.
 
@@ -2410,7 +2410,7 @@ Unanimous (15-0)
 ### 12. "One
   River" - Master Plan Environmental Assessment
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Approve referral of part a) to a future   meeting of the Civic Works Committee, in order to obtain additional   information.
 
@@ -2421,7 +2421,7 @@ Unanimous (15-0)
 ### 12. "One
   River" - Master Plan Environmental Assessment
 
-<a id="motion-12-3" class="motion-anchor"></a>
+<div id="motion-12-3" class="motion-anchor"></div>
 
 > Approve parts c), e), f), g) and h) of clause 12.
 
@@ -2432,7 +2432,7 @@ Unanimous (15-0)
 ### 12. "One
   River" - Master Plan Environmental Assessment
 
-<a id="motion-12-4" class="motion-anchor"></a>
+<div id="motion-12-4" class="motion-anchor"></div>
 
 > Approve an amendment to part d) by   deleting the words, "through the EA Process".
 
@@ -2443,7 +2443,7 @@ Unanimous (15-0)
 ### 12. "One
   River" - Master Plan Environmental Assessment
 
-<a id="motion-12-5" class="motion-anchor"></a>
+<div id="motion-12-5" class="motion-anchor"></div>
 
 > Approve part d) of clause 12, as amended.
 

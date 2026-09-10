@@ -1205,7 +1205,7 @@ We're adjourned.
 
 ### 4.2. Consideration of Appointments to the London Transit Commission (Requires 2 Members)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the London Transit Commission for the term ending November 14, 2026: - Jacqueline Madden - David Little
 
@@ -1215,7 +1215,7 @@ Unanimous (13-0)
 
 ### 4.2. Consideration of Appointments to the London Transit Commission (Requires 2 Members)
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Consideration of Appointments to the London Transit Commission
 
@@ -1230,7 +1230,7 @@ Unanimous (13-0)
 
 ### 4.3. Lobbyist Registrar - Councillors D. Ferreira and S. Franke
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > Motion failed. Original motion read as follows: That the Civic Administration BE DIRECTED to conduct a review and present a report on the feasibility, purpose, and associated expenses of implementing a mandatory municipal lobbyist registry. The review should encompass the establishment of a publi...
 
@@ -1249,7 +1249,7 @@ Unanimous (13-0)
 
 ### 4.4. Establishing Homes Ontario - T. Kernaghan, MPP
 
-<a id="motion-4-4-2" class="motion-anchor"></a>
+<div id="motion-4-4-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include parts b) and c) as follows: b)   that the Government of Ontario BE ADVISED that the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: "That, in the opinion of this House, the Government of Ontario sh...
 
@@ -1268,7 +1268,7 @@ Unanimous (13-0)
 
 ### 4.4. Establishing Homes Ontario - T. Kernaghan, MPP
 
-<a id="motion-4-4-3" class="motion-anchor"></a>
+<div id="motion-4-4-3" class="motion-anchor"></div>
 
 > Part a), as amended, BE APPROVED.
 
@@ -1278,7 +1278,7 @@ Unanimous (13-0)
 
 ### 4.4. Establishing Homes Ontario - T. Kernaghan, MPP
 
-<a id="motion-4-4-4" class="motion-anchor"></a>
+<div id="motion-4-4-4" class="motion-anchor"></div>
 
 > Part b), as amended, BE APPROVED.
 
@@ -1297,7 +1297,7 @@ Unanimous (13-0)
 
 ### 4.4. Establishing Homes Ontario - T. Kernaghan, MPP
 
-<a id="motion-4-4-5" class="motion-anchor"></a>
+<div id="motion-4-4-5" class="motion-anchor"></div>
 
 > Part c), as amended, BE APPROVED.
 

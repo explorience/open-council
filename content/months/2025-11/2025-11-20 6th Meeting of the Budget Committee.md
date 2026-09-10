@@ -2639,7 +2639,7 @@ Motion carries.
 
 ### 4.1. Amendment - Budget Case #P-6
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures:  $114,000          2026 Tax Levy:  $114,000                 2026 Capital Expenditures:  $114,000 2027 Operating Expenditures:  $114,000        ...
 
@@ -2656,7 +2656,7 @@ Motion carries.
 
 ### 4.3. Amendment - Budget Case #P-2 - Councillor S. Stevenson
 
-<a id="motion-4-3-2" class="motion-anchor"></a>
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > That the following part BE APPROVED: the Middlesex London Health Unit BE REQUESTED to submit an additional funding request for 2026 onwards for permanent base funding for an additional 2.0 FTE.
 
@@ -2673,7 +2673,7 @@ Motion carries.
 
 ### 4.3. Amendment - Budget Case #P-2 - Councillor S. Stevenson
 
-<a id="motion-4-3-3" class="motion-anchor"></a>
+<div id="motion-4-3-3" class="motion-anchor"></div>
 
 > That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:     2026 Operating Expenditures: -$2,366,000          2026 Tax Levy: -$2,366,000           2026 Capital Expenditures: $0 2027 Operating Expenditures: $0           ...
 
@@ -2690,7 +2690,7 @@ Motion carries.
 
 ### 4.3. Amendment - Budget Case #P-2 - Councillor S. Stevenson
 
-<a id="motion-4-3-4" class="motion-anchor"></a>
+<div id="motion-4-3-4" class="motion-anchor"></div>
 
 > That pursuant to section 35.7 of the Council Procedure by-law, the Committee decision with respect excluding Business Case #P-2 Middlesex-London Health Unit Debt Retirement from the Mayor’s Tabled 2026 Annual Budget Update BE RECONSIDERED to provide for Councillor S. Trosow to correct his vote.
 
@@ -2700,7 +2700,7 @@ Unanimous (15-0)
 
 ### 4.3. Amendment - Budget Case #P-2 - Councillor S. Stevenson
 
-<a id="motion-4-3-5" class="motion-anchor"></a>
+<div id="motion-4-3-5" class="motion-anchor"></div>
 
 > That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:     2026 Operating Expenditures: -$2,366,000          2026 Tax Levy: -$2,366,000           2026 Capital Expenditures: $0 2027 Operating Expenditures: $0           ...
 
@@ -2717,7 +2717,7 @@ Unanimous (15-0)
 
 ### 4.4. (ADDED) Amendment - Councillors C. Rahman and S. Stevenson
 
-<a id="motion-4-4-3" class="motion-anchor"></a>
+<div id="motion-4-4-3" class="motion-anchor"></div>
 
 > That the amendment BE AMENDED to change three (3) years to two (2) years.
 
@@ -2734,7 +2734,7 @@ Unanimous (15-0)
 
 ### 4.4. (ADDED) Amendment - Councillors C. Rahman and S. Stevenson
 
-<a id="motion-4-4-4" class="motion-anchor"></a>
+<div id="motion-4-4-4" class="motion-anchor"></div>
 
 > That the amendment, as amended, BE APPROVED.
 
@@ -2751,7 +2751,7 @@ Unanimous (15-0)
 
 ### 4.4. (ADDED) Amendment - Councillors C. Rahman and S. Stevenson
 
-<a id="motion-4-4-5" class="motion-anchor"></a>
+<div id="motion-4-4-5" class="motion-anchor"></div>
 
 > That the main motion, as amended, BE APPROVED.
 
@@ -2761,7 +2761,7 @@ Unanimous (15-0)
 
 ### 4.6. (ADDED) Amendment - Budget Case #P-12 - Councillor S. Stevenson
 
-<a id="motion-4-6-0" class="motion-anchor"></a>
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget: 2026 Operating Expenditures: $0                         2026 Tax Levy: $0                           2026 Capital Expenditures: $0 2027 Operating Expenditures: $28,000         ...
 
@@ -2778,7 +2778,7 @@ Unanimous (15-0)
 
 ### 4.7. (ADDED) Amendment - Budget Case #P-20
 
-<a id="motion-4-7-1" class="motion-anchor"></a>
+<div id="motion-4-7-1" class="motion-anchor"></div>
 
 > That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED by re-directing a portion of Business Case #P-20 (2024 Surplus Allocation for Tax Mitigation) to increase funding for the Housing Stability Bank program for 2026 and 2027, it being noted this funding and expenditures are non-permanent: ...
 
@@ -2795,7 +2795,7 @@ Unanimous (15-0)
 
 ### 4.7. (ADDED) Amendment - Budget Case #P-20
 
-<a id="motion-4-7-2" class="motion-anchor"></a>
+<div id="motion-4-7-2" class="motion-anchor"></div>
 
 > That it BE NOTED that the Budget Committee considered an amendment to the Mayor's 2026 Annual Budget Update to redirect a portion of Business Case #P-20 (2024 Surplus Allocation for Tax Mitigation) to increase funding for the Housing Stability Bank program for 2026 and 2027.
 
@@ -2812,7 +2812,7 @@ Unanimous (15-0)
 
 ### 4.8. (ADDED) Amendment - Budget Case #P-13 - Councillor S. Stevenson
 
-<a id="motion-4-8-2" class="motion-anchor"></a>
+<div id="motion-4-8-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to read as follows: That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation.  It being noted that these funds were budgeted in 2025 a...
 
@@ -2829,7 +2829,7 @@ Unanimous (15-0)
 
 ### 4.8. (ADDED) Amendment - Budget Case #P-13 - Councillor S. Stevenson
 
-<a id="motion-4-8-3" class="motion-anchor"></a>
+<div id="motion-4-8-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -2846,7 +2846,7 @@ Unanimous (15-0)
 
 ### 4.9. (ADDED) Amendment - Councillor D. Ferreira
 
-<a id="motion-4-9-0" class="motion-anchor"></a>
+<div id="motion-4-9-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village):    2026 Operating Expenditures: $784,000       ...
 
@@ -2863,7 +2863,7 @@ Unanimous (15-0)
 
 ### 4.9. (ADDED) Amendment - Councillor D. Ferreira
 
-<a id="motion-4-9-1" class="motion-anchor"></a>
+<div id="motion-4-9-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include the following: the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village) BE FUNDED from the Economic Development Reserve Fund for 2026 and 2027.
 
@@ -2880,7 +2880,7 @@ Unanimous (15-0)
 
 ### 4.9. (ADDED) Amendment - Councillor D. Ferreira
 
-<a id="motion-4-9-2" class="motion-anchor"></a>
+<div id="motion-4-9-2" class="motion-anchor"></div>
 
 > That pursuant to section 33.15 of the Council Procedure By-law, the question be now put.
 
@@ -2897,7 +2897,7 @@ Unanimous (15-0)
 
 ### 4.9. (ADDED) Amendment - Councillor D. Ferreira
 
-<a id="motion-4-9-3" class="motion-anchor"></a>
+<div id="motion-4-9-3" class="motion-anchor"></div>
 
 > That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide a continuation of the free one-hour parking program through the Honk App, including one-hour free on-street parking in the Core Area, (Downtown, Midtown, and Old East Village):     2026 Operating Expenditure...
 
@@ -2914,7 +2914,7 @@ Unanimous (15-0)
 
 ### 4.11. (ADDED) Amendment - Budget Case #P25 - Mayor J. Morgan
 
-<a id="motion-4-11-0" class="motion-anchor"></a>
+<div id="motion-4-11-0" class="motion-anchor"></div>
 
 > That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: -$250,000     2026 Tax Levy: -$250,000     2026 Capital Expenditures: $0 2027 Operating Expenditures: -$250,000     2...
 
@@ -2931,7 +2931,7 @@ Unanimous (15-0)
 
 ### 4.12. (ADDED) Amendment - Budget Case #P-24 - Councillor S. Stevenson
 
-<a id="motion-4-12-0" class="motion-anchor"></a>
+<div id="motion-4-12-0" class="motion-anchor"></div>
 
 > That it BE NOTED that the Budget Committee considered an amendment to include Business Case #P-24 (Eliminate Climate Change Reserve Fund Contribution) in the Mayor's 2026 Annual Budget Update.
 
@@ -2948,7 +2948,7 @@ Unanimous (15-0)
 
 ### 4.12. (ADDED) Amendment - Budget Case #P-24 - Councillor S. Stevenson
 
-<a id="motion-4-12-1" class="motion-anchor"></a>
+<div id="motion-4-12-1" class="motion-anchor"></div>
 
 > That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000          2026 Tax Levy:  -$192,000     2026 Capital Expenditures: $0 2027 Operating Expenditures: -$192,000          ...
 
@@ -2965,7 +2965,7 @@ Unanimous (15-0)
 
 ### 4.13. (ADDED) Amendment – Councillor H. McAlister
 
-<a id="motion-4-13-1" class="motion-anchor"></a>
+<div id="motion-4-13-1" class="motion-anchor"></div>
 
 > That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED in order to fund the Housing Stability Bank Program $500,000 ($250,000 for 2026 and $250,000 for 2027) from the Community Investment Reserve Fund: 2026 Operating Expenditures: $250,000             2026 Tax Levy: $0                    20...
 

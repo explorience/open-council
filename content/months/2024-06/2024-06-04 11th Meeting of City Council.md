@@ -3195,7 +3195,7 @@ No motion carries. Okay we're adjourned thank you.
 
 ### 8.1. 7th Report of the Community and Protective Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 7th Report of the Community and Protective Services Committee BE APPROVED, with the exception of item 7 (2.7).
 
@@ -3205,7 +3205,7 @@ Unanimous (14-0)
 
 ### 8.2. 8th Report of the Civic Works Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 8th Report of the Civic Works Committee BE APPROVED, with the exception of items 15 (2.12) and 16 (4.1).
 
@@ -3215,7 +3215,7 @@ Unanimous (14-0)
 
 ### 8.2.15. (2.12) Update and Next Steps for Gasoline Powered Lawn and Garden Equipment
 
-<a id="motion-8-2-15-1" class="motion-anchor"></a>
+<div id="motion-8-2-15-1" class="motion-anchor"></div>
 
 > That, pursuant to section 10.5 of the Council Procedure By-law, with respect to the Chair's ruling on personal privilege, “shall the ruling of the Chair BE SUSTAINED?”
 
@@ -3234,7 +3234,7 @@ Unanimous (14-0)
 
 ### 8.2.15. (2.12) Update and Next Steps for Gasoline Powered Lawn and Garden Equipment
 
-<a id="motion-8-2-15-2" class="motion-anchor"></a>
+<div id="motion-8-2-15-2" class="motion-anchor"></div>
 
 > That part d) of the motion be approved as follows: d)    the Civic Administration BE DIRECTED to take the following actions with respect to the Sound By-law:  i)    report back to a future meeting of the Community and Protective Services Committee with proposed amendments to the Sound By-law to r...
 
@@ -3251,7 +3251,7 @@ Unanimous (14-0)
 
 ### 8.2.15. (2.12) Update and Next Steps for Gasoline Powered Lawn and Garden Equipment
 
-<a id="motion-8-2-15-3" class="motion-anchor"></a>
+<div id="motion-8-2-15-3" class="motion-anchor"></div>
 
 > That part a) of the motion and it being noted be approved as follows: That the following actions be taken with respect to the staff report dated May 22, 2024, related to an Update and Next Steps for Gasoline Powered Lawn and Garden Equipment: a)    the above-noted staff report BE RECEIVED; it bei...
 
@@ -3270,7 +3270,7 @@ Unanimous (14-0)
 
 ### 8.2.15. (2.12) Update and Next Steps for Gasoline Powered Lawn and Garden Equipment
 
-<a id="motion-8-2-15-4" class="motion-anchor"></a>
+<div id="motion-8-2-15-4" class="motion-anchor"></div>
 
 > That part b) of the motion be approved as follows: b)    the Civic Administration BE DIRECTED to design and implement an awareness campaign for households and lawncare service providers that focuses on better lawn and garden practices to help the environment and take climate action for implementa...
 
@@ -3289,7 +3289,7 @@ Unanimous (14-0)
 
 ### 8.2.15. (2.12) Update and Next Steps for Gasoline Powered Lawn and Garden Equipment
 
-<a id="motion-8-2-15-5" class="motion-anchor"></a>
+<div id="motion-8-2-15-5" class="motion-anchor"></div>
 
 > That part c) of the motion be approved as follows: c)    the Civic Administration BE APPROVED to pursue a multi-municipality project to complete the remaining work in London on emerging best practices, applicable legislation and jurisdiction, costs and benefits, potential incentive programs, and ...
 
@@ -3308,7 +3308,7 @@ Unanimous (14-0)
 
 ### 8.2.16. (4.1) Transit, Road Network and Active Transportation Planning for West London – Councillor S. Trosow
 
-<a id="motion-8-2-16-0" class="motion-anchor"></a>
+<div id="motion-8-2-16-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to Road Network and Active Transportation Planning in West London: a)    the Civic Administration BE DIRECTED to report back to the Civic Works Committee on transit, road network and active transportation planning for West London; b)    the Civic A...
 
@@ -3327,7 +3327,7 @@ Unanimous (14-0)
 
 ### 8.3. 10th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 10th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 7 (4.3) and 14 (4.9).
 
@@ -3337,7 +3337,7 @@ Unanimous (14-0)
 
 ### 8.3.7. (4.3) 10th Report of the Governance Working Group
 
-<a id="motion-8-3-7-1" class="motion-anchor"></a>
+<div id="motion-8-3-7-1" class="motion-anchor"></div>
 
 > That part a) iii) be amended to read as follows: iii)   that Councillors P. Cuddy, J. Pribil, A. Hopkins, and Councillor C. Rahman BE APPOINTED to the sub-committee; it being noted that Councillor C. Rahman will serve as Chair of the subcommittee;
 
@@ -3347,7 +3347,7 @@ Unanimous (14-0)
 
 ### 8.3.7. (4.3) 10th Report of the Governance Working Group
 
-<a id="motion-8-3-7-2" class="motion-anchor"></a>
+<div id="motion-8-3-7-2" class="motion-anchor"></div>
 
 > That item 7, clause 4.3, as amended BE APPROVED.
 
@@ -3357,7 +3357,7 @@ Unanimous (14-0)
 
 ### 8.3.14. (4.9) Consideration of Appointments to the London Community Advisory Committees
 
-<a id="motion-8-3-14-1" class="motion-anchor"></a>
+<div id="motion-8-3-14-1" class="motion-anchor"></div>
 
 > That part b) of the motion be amended to read as follows: b) the following individuals BE APPOINTED as Voting Members to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee for the term ending March 31, 2025: -    Stephen D Amelio  -    Devinder Luthra  -    Kayte Warmington...
 
@@ -3367,7 +3367,7 @@ Unanimous (14-0)
 
 ### 8.3.14. (4.9) Consideration of Appointments to the London Community Advisory Committees
 
-<a id="motion-8-3-14-2" class="motion-anchor"></a>
+<div id="motion-8-3-14-2" class="motion-anchor"></div>
 
 > That item 14, clause 4.9, as amended BE APPROVED.
 
@@ -3377,7 +3377,7 @@ Unanimous (14-0)
 
 ### 8.4. 8th Report of the Planning and Environment Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 8th Report of the Planning and Environment Committee BE APPROVED with the exception of items 8 (3.3), 9 (3.4) and 11 (3.6).
 
@@ -3387,7 +3387,7 @@ Unanimous (14-0)
 
 ### 8.4.8. (3.3) 743 Wellington Road (Z-9720)(Relates to Bill No. 205)
 
-<a id="motion-8-4-8-0" class="motion-anchor"></a>
+<div id="motion-8-4-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo on behalf of Olde School Professional Properties Inc., relating to the property located at 743 Wellington Road: a)    the proposed attached, revi...
 
@@ -3406,7 +3406,7 @@ Unanimous (14-0)
 
 ### 8.4.9. (3.4) 530 Oxford Street West (OZ-9712) (Relates to Bills No. 186 and 206)
 
-<a id="motion-8-4-9-0" class="motion-anchor"></a>
+<div id="motion-8-4-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Captain Generation Mall Limited (c/o MHBC), relating to the property located at 530 Oxford Street West: a)    the proposed by-law appended to the staff report d...
 
@@ -3425,7 +3425,7 @@ Unanimous (14-0)
 
 ### 8.4.11. (3.6) 193-199 College Avenue (OZ-8693)
 
-<a id="motion-8-4-11-0" class="motion-anchor"></a>
+<div id="motion-8-4-11-0" class="motion-anchor"></div>
 
 > That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of College Avenue Lofts Inc. (c/o York Developments) relating to the property located at 193-199 College Avenue: a)    the development, as proposed, B...
 
@@ -3444,7 +3444,7 @@ Unanimous (14-0)
 
 ### 8.5. 10th Report of the Corporate Services Committee
 
-<a id="motion-8-5-0" class="motion-anchor"></a>
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That items 1 to 7 (2.7) of the 10th Report of the Corporate Services Committee BE APPROVED.
 
@@ -3454,7 +3454,7 @@ Unanimous (13-0)
 
 ### 8.5.8. (2.3) Expropriation of Lands - Wellington Gateway Project - Clark's Bridge Civil Works (Relates to Bill No. 188)
 
-<a id="motion-8-5-8-0" class="motion-anchor"></a>
+<div id="motion-8-5-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
 
@@ -3473,7 +3473,7 @@ Unanimous (13-0)
 
 ### 8.5.9. (4.1) Request of Removal of Glass Barrier in Council Chambers
 
-<a id="motion-8-5-9-0" class="motion-anchor"></a>
+<div id="motion-8-5-9-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to take the necessary steps to remove the temporary barrier and all associated supports from the public gallery of the Council Chambers; it being noted that the Corporate Services Committee received a communication dated May 9, 2024 from Councillor E. Pel...
 
@@ -3492,7 +3492,7 @@ Unanimous (13-0)
 
 ### 8.5.10. (4.2) Application - Issuance of Proclamation - Shine the Light on Woman Abuse
 
-<a id="motion-8-5-10-1" class="motion-anchor"></a>
+<div id="motion-8-5-10-1" class="motion-anchor"></div>
 
 > That part a) of the motion be approved and reads as follows: That the following actions be taken with respect to the proclamation requests listed on the agenda for the May 27, 2024 Corporate Services Committee: a)    the issuance of proclamations BE REFERRED to a future meeting of the Corporate S...
 
@@ -3511,7 +3511,7 @@ Unanimous (13-0)
 
 ### 8.5.10. (4.2) Application - Issuance of Proclamation - Shine the Light on Woman Abuse
 
-<a id="motion-8-5-10-2" class="motion-anchor"></a>
+<div id="motion-8-5-10-2" class="motion-anchor"></div>
 
 > That part b) of the motion be approved and reads as follows: b)    the Civic Administration BE DIRECTED to review the current Issuance of Proclamations Policy, including clarifying that requests for proclamations can be made by individuals, and report back to a future meeting of the Corporate Ser...
 
@@ -3530,7 +3530,7 @@ Unanimous (13-0)
 
 ### 9.2. (ADDED) 9th Special Report of the Planning and Environment Committee
 
-<a id="motion-9-2-0" class="motion-anchor"></a>
+<div id="motion-9-2-0" class="motion-anchor"></div>
 
 > That the 9th Report of the Special Planning and Environment Committee BE APPROVED.
 
@@ -3540,7 +3540,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.'s 188, 202, and 203, BE APPROVED.
 
@@ -3559,7 +3559,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 170 to Bill No.'s 188, 202, and 203, BE APPROVED.
 
@@ -3578,7 +3578,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-5" class="motion-anchor"></a>
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.'s 188, 202, and 203, BE APPROVED
 
@@ -3597,7 +3597,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.'s 186 and 206, BE APPROVED.
 
@@ -3616,7 +3616,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No.'s 186 and 206, BE APPROVED.
 
@@ -3635,7 +3635,7 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.'s 186 and 206, BE APPROVED.
 

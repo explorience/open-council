@@ -215,7 +215,7 @@ The Corporate Services Committee convened
 ### 2. Municipal Funding
   Agreement Related to the Transfer of Federal Gas Tax Funds
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -227,7 +227,7 @@ Unanimous (3-0)
 ### 3. Request for Amendments
   - London Diversity and Race Relations Advisory Committee Terms of Reference
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -241,7 +241,7 @@ Unanimous (3-0)
   the Ministry of Economic Development, Trade and Employment for 2475 Bonder
   Road - Innovation Park, Phase IV
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -254,7 +254,7 @@ Unanimous (3-0)
   By-law for Investment in Affordable Housing Program Project at 129 Riverside
   Drive
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -267,7 +267,7 @@ Unanimous (3-0)
   Appointment to the Community Safety and Crime Prevention Advisory Committee
   (Requires 1 Member at Large)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -280,7 +280,7 @@ Unanimous (3-0)
   Appointment to the Cycling Advisory Committee (Requires 1 Appointment from
   the London Middlesex Road Safety Committee)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

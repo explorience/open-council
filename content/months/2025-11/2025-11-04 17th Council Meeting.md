@@ -3458,7 +3458,7 @@ As she opposed. Motion carries.
 
 ### 8.1. 16th Report of the Infrastructure and Corporate Services Committee
 
-<a id="motion-8-1-0" class="motion-anchor"></a>
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 16th Report of the Infrastructure and Corporate Services Committee BE APPROVED.
 
@@ -3468,7 +3468,7 @@ Unanimous (15-0)
 
 ### 8.2. 16th Report of the Community and Protective Services Committee
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 16th Report of the Community and Protective Services Committee BE APPROVED with the exception of items 4 (2.3), 6 (2.4), 7 (3.1) and 9 (5.2).
 
@@ -3478,7 +3478,7 @@ Unanimous (15-0)
 
 ### 8.2.4. (2.3) Information Report on Executed Purchase of Service Agreement for London Cares Homeless Response Services
 
-<a id="motion-8-2-4-0" class="motion-anchor"></a>
+<div id="motion-8-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated October 20, 2025, with respect to an Information Report on the Executed Purchase of Service Agreement for London Cares Homeless Response Services, BE RECEIVED.
 
@@ -3495,7 +3495,7 @@ Unanimous (15-0)
 
 ### 8.2.6. (2.4) 2025 Parkland Dedication By-law CP-25 Update (Relates to Bill No. 389)
 
-<a id="motion-8-2-6-1" class="motion-anchor"></a>
+<div id="motion-8-2-6-1" class="motion-anchor"></div>
 
 > That the motion be amended to read as follows: That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated October 20, 2025, related to the 2025 Parkland Dedication By-law CP-25 Update: a)    the rev...
 
@@ -3505,7 +3505,7 @@ Unanimous (15-0)
 
 ### 8.2.6. (2.4) 2025 Parkland Dedication By-law CP-25 Update (Relates to Bill No. 389)
 
-<a id="motion-8-2-6-2" class="motion-anchor"></a>
+<div id="motion-8-2-6-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -3515,7 +3515,7 @@ Unanimous (15-0)
 
 ### 8.2.7. (3.1) Proposed Changes to the W12A Landfill Community Enhancement and Mitigative Measures Program
 
-<a id="motion-8-2-7-1" class="motion-anchor"></a>
+<div id="motion-8-2-7-1" class="motion-anchor"></div>
 
 > That the following part c) BE APPROVED c)    the proposed change to impose a cap of one million dollars (Appendix “A” #6 “Community Mitigative Measures Fund”) BE REMOVED;
 
@@ -3532,7 +3532,7 @@ Unanimous (15-0)
 
 ### 8.2.7. (3.1) Proposed Changes to the W12A Landfill Community Enhancement and Mitigative Measures Program
 
-<a id="motion-8-2-7-2" class="motion-anchor"></a>
+<div id="motion-8-2-7-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add the following new part that reads as follows: c)    the Civic Administration BE DIRECTED to impose a cap of 1.5 million dollars on the Community Mitigative Measures Fund (Appendix “A” #6 “Community Mitigative Measures Fund”)
 
@@ -3542,7 +3542,7 @@ Unanimous (15-0)
 
 ### 8.2.7. (3.1) Proposed Changes to the W12A Landfill Community Enhancement and Mitigative Measures Program
 
-<a id="motion-8-2-7-3" class="motion-anchor"></a>
+<div id="motion-8-2-7-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED
 
@@ -3552,7 +3552,7 @@ Unanimous (15-0)
 
 ### 8.2.9. (5.2) Councillor D. Ferreira - Street Parking in the Core Area
 
-<a id="motion-8-2-9-0" class="motion-anchor"></a>
+<div id="motion-8-2-9-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to continue 1-hour free on street parking in the Core Area through the parking services HONK app funded using the existing approved funding from the Economic Development Reserve Fund until the end of 2025; it being noted that communications, as appended t...
 
@@ -3569,7 +3569,7 @@ Unanimous (15-0)
 
 ### 8.3. 16th Report of the Planning and Environment Committee
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 16th Report of the Planning and Environment Committee BE APPROVED with the exception of items 3 (2.2), 6 (3.1), and 8 (4.1)
 
@@ -3579,7 +3579,7 @@ Unanimous (15-0)
 
 ### 8.3.3. (2.2) Update on Bill 17 and Green Development Guidelines (Framework)
 
-<a id="motion-8-3-3-1" class="motion-anchor"></a>
+<div id="motion-8-3-3-1" class="motion-anchor"></div>
 
 > That the motion be amended to read as follows: That the staff report dated October 21, 2025, related to Update on Bill 17 and Green Development Guidelines (Framework) BE REFERRED back to the Civic Administration to report back to a future meeting, (by Q2 2026), of the Planning and Environment on ...
 
@@ -3589,7 +3589,7 @@ Unanimous (15-0)
 
 ### 8.3.3. (2.2) Update on Bill 17 and Green Development Guidelines (Framework)
 
-<a id="motion-8-3-3-2" class="motion-anchor"></a>
+<div id="motion-8-3-3-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED
 
@@ -3599,7 +3599,7 @@ Unanimous (15-0)
 
 ### 8.3.6. (3.1) 34 Adelaide Street South - Z-25100 (Relates to Bill No. 398)
 
-<a id="motion-8-3-6-0" class="motion-anchor"></a>
+<div id="motion-8-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Scott Wilson (c/o MHBC Planning) relating to the property located at 34 Adelaide Street South, the proposed by-law as appended to the staff report dated October...
 
@@ -3616,7 +3616,7 @@ Unanimous (15-0)
 
 ### 8.3.8. (4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units
 
-<a id="motion-8-3-8-1" class="motion-anchor"></a>
+<div id="motion-8-3-8-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add new parts that read as follows: e) the Civic Administration BE DIRECTED to undertake a land use study immediately and report recommendations to the Planning and Environment Committee within one year of the By-law coming into force and effect; f) the Civic Adminis...
 
@@ -3633,7 +3633,7 @@ Unanimous (15-0)
 
 ### 8.3.8. (4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units
 
-<a id="motion-8-3-8-2" class="motion-anchor"></a>
+<div id="motion-8-3-8-2" class="motion-anchor"></div>
 
 > That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
 
@@ -3650,7 +3650,7 @@ Unanimous (15-0)
 
 ### 8.3.8. (4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units
 
-<a id="motion-8-3-8-3" class="motion-anchor"></a>
+<div id="motion-8-3-8-3" class="motion-anchor"></div>
 
 > That the proposed Interim Control by-law BE AMENDED to increase the gross floor area (GFA) limit from eighty percent (80%) to ninety-five percent (95%) of the GFA of the primary dwelling unit.
 
@@ -3667,7 +3667,7 @@ Unanimous (15-0)
 
 ### 8.3.8. (4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units
 
-<a id="motion-8-3-8-4" class="motion-anchor"></a>
+<div id="motion-8-3-8-4" class="motion-anchor"></div>
 
 > That the motion, as amended, BE FURTHER AMENDED as follows: a) part (d) of the motion BE AMENDED to decrease the gross floor area (GFA) limit from eighty percent (80%) to seventy percent (70%) of the GFA of the primary dwelling unit. b) the Interim Control By-law BE AMENDED to decrease the gross ...
 
@@ -3684,7 +3684,7 @@ Unanimous (15-0)
 
 ### 8.3.8. (4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units
 
-<a id="motion-8-3-8-5" class="motion-anchor"></a>
+<div id="motion-8-3-8-5" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED
 
@@ -3701,7 +3701,7 @@ Unanimous (15-0)
 
 ### 8.4. 13th Report of the Strategic Priorities and Policy Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 13th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of items 6 (3.4) and 7 (4.1).
 
@@ -3711,7 +3711,7 @@ Unanimous (15-0)
 
 ### 8.4.6. (3.4) Kapil Lakhotia, President and Chief Executive Officer - London Economic Development Corporation
 
-<a id="motion-8-4-6-0" class="motion-anchor"></a>
+<div id="motion-8-4-6-0" class="motion-anchor"></div>
 
 > That it BE NOTED that the Strategic Priorities and Policy Committee received the Annual Update from K. Lakhotia, President and Chief Executive Officer, London Economic Development Corporation.
 
@@ -3728,7 +3728,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-1" class="motion-anchor"></a>
+<div id="motion-8-4-7-1" class="motion-anchor"></div>
 
 > That the Final Report of the 2025 Council Resourcing Review Task Force dated October 3, 2025 BE REFERRED to Civic Administration to report back to the December 9, 2025 meeting of the Strategic Priorities and Policy Committee with;   i)    indexing scenarios of 60th and 65th percentile of the 2020...
 
@@ -3745,7 +3745,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-2" class="motion-anchor"></a>
+<div id="motion-8-4-7-2" class="motion-anchor"></div>
 
 > That the referral BE AMENDED to add a new part iii) to read as follows: iii )   criteria and enforcement with respect to the public expectation of full time service At 3:08 PM, His Worship Mayor J. Morgan, places Councillor C. Rahman in the Chair.   At 3:10 PM, His Worship Mayor J. Morgan resumes...
 
@@ -3762,7 +3762,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-3" class="motion-anchor"></a>
+<div id="motion-8-4-7-3" class="motion-anchor"></div>
 
 > That the following parts BE APPROVED: e) the Mayor’s current compensation BE MAINTAINED, and the alignment between Council and Mayoral base compensation BE REVIEWED at the next Council Resourcing Review, scheduled to take place in four years; i) the expectation that a Councillor’s role constitute...
 
@@ -3772,7 +3772,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-4" class="motion-anchor"></a>
+<div id="motion-8-4-7-4" class="motion-anchor"></div>
 
 > That part a) of the motion BE APPROVED: a) recognizing London’s growth and the public expectation of full-time hours for this role, the annual compensation for Councillors BE INDEXED to the 70th percentile 2020 median full-time employment income for Londoners, as reported in the 2021 Census, it b...
 
@@ -3789,7 +3789,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-5" class="motion-anchor"></a>
+<div id="motion-8-4-7-5" class="motion-anchor"></div>
 
 > That part b) of the motion BE APPROVED: b) the current annual adjustment formula in the Remuneration for Elected Officials and Appointed Citizen Members Policy BE MAINTAINED;
 
@@ -3806,7 +3806,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-6" class="motion-anchor"></a>
+<div id="motion-8-4-7-6" class="motion-anchor"></div>
 
 > That part c) of the motion BE APPROVED: c) the annual adjustment in Councillor compensation BE AUTOMATIC and administered by the Civic Administration;
 
@@ -3823,7 +3823,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-7" class="motion-anchor"></a>
+<div id="motion-8-4-7-7" class="motion-anchor"></div>
 
 > That part d) of the motion BE APPROVED: d) the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 – 2026 census period, and that the new data be used to calculate Council compensation starting in 2028, such that 2028 base compensation will...
 
@@ -3840,7 +3840,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-8" class="motion-anchor"></a>
+<div id="motion-8-4-7-8" class="motion-anchor"></div>
 
 > That part f) of the motion BE APPROVED: f) the current practice of not providing additional compensation or stipends to the Mayor and Councillors for sitting on agencies, boards, and commissions BE CONTINUED;
 
@@ -3857,7 +3857,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-9" class="motion-anchor"></a>
+<div id="motion-8-4-7-9" class="motion-anchor"></div>
 
 > That part g) of the motion BE APPROVED: g) a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annual Councillor salary, limited to one application per Councillor at any given time, and not applica...
 
@@ -3874,7 +3874,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-10" class="motion-anchor"></a>
+<div id="motion-8-4-7-10" class="motion-anchor"></div>
 
 > That part h) of the motion BE APPROVED: h) Council undertake the following actions with respect to additional compensation and related matters for the Deputy Mayor and Budget Chair positions, and that they BE CODIFIED in Council Policy: i) a mechanism to compensate the Deputy Mayor and the Budget...
 
@@ -3891,7 +3891,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-11" class="motion-anchor"></a>
+<div id="motion-8-4-7-11" class="motion-anchor"></div>
 
 > That part n) of the motion BE APPROVED: n) the Civic Administration BE DIRECTED to take the necessary steps to establish a severance package for Members of Council who are unsuccessful in re-election, calculated at one (1) week of pay per year of service, to a maximum of four (4) weeks;
 
@@ -3908,7 +3908,7 @@ Unanimous (15-0)
 
 ### 8.4.7. (4.1) 2025 Council Resourcing Review Task Force Final Report
 
-<a id="motion-8-4-7-12" class="motion-anchor"></a>
+<div id="motion-8-4-7-12" class="motion-anchor"></div>
 
 > That part l) and m) of the motion BE APPROVED: l) and m) of the 2025 Council Resourcing Review Task Force recommendations, relating to the Councillor Office support staff complement, the reduction to Council Member general expense accounts, and the increase to the contract assistant expense allot...
 
@@ -3925,7 +3925,7 @@ Unanimous (15-0)
 
 ### 9. Added Reports
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > That clause 1 of the 17th Report of the Council, In Closed Session BE APPROVED. At 4:15 PM, Councillor P. Van Meerbergen leaves the meeting.
 
@@ -3944,7 +3944,7 @@ Unanimous (15-0)
 
 ### 9. Added Reports
 
-<a id="motion-9-1" class="motion-anchor"></a>
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > That clause 2 of the 17th Report of the Council, In Closed Session BE APPROVED.
 
@@ -3963,7 +3963,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-3" class="motion-anchor"></a>
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Added Bill No. 400 BE APPROVED.
 
@@ -3982,7 +3982,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-4" class="motion-anchor"></a>
+<div id="motion-13-4" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No. 400 BE APPROVED.
 
@@ -4001,7 +4001,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-6" class="motion-anchor"></a>
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No. 400 BE APPROVED.
 
@@ -4020,7 +4020,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-7" class="motion-anchor"></a>
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Added Bill No. 400 BE APPROVED.
 
@@ -4039,7 +4039,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-8" class="motion-anchor"></a>
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Added Bill No. 401 BE APPROVED.
 
@@ -4058,7 +4058,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-9" class="motion-anchor"></a>
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No. 401 BE APPROVED.
 
@@ -4077,7 +4077,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-10" class="motion-anchor"></a>
+<div id="motion-13-10" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Added Bill No. 401 BE APPROVED.
 
@@ -4096,7 +4096,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-11" class="motion-anchor"></a>
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Added Bill No. 402 BE APPROVED.
 
@@ -4115,7 +4115,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-12" class="motion-anchor"></a>
+<div id="motion-13-12" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No. 402 BE APPROVED.
 
@@ -4134,7 +4134,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-13" class="motion-anchor"></a>
+<div id="motion-13-13" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Added Bill No. 402 BE APPROVED.
 
@@ -4153,7 +4153,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-14" class="motion-anchor"></a>
+<div id="motion-13-14" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Revised Bill No. 398 BE APPROVED.
 
@@ -4172,7 +4172,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-15" class="motion-anchor"></a>
+<div id="motion-13-15" class="motion-anchor"></div>
 
 > That Second Reading of Revised Bill No. 398 BE APPROVED.
 
@@ -4191,7 +4191,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-16" class="motion-anchor"></a>
+<div id="motion-13-16" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Revised Bill No. 398 BE APPROVED.
 

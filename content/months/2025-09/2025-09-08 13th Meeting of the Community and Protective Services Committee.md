@@ -764,7 +764,7 @@ We're adjourned, thank you.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1, 2.2, 2.5 and 2.6 BE APPROVED.
 
@@ -774,7 +774,7 @@ Unanimous (5-0)
 
 ### 2.3. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Project Update
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > That the delegation request from S. Titiziani, University Students' Council BE APPROVED.
 
@@ -784,7 +784,7 @@ Unanimous (5-0)
 
 ### 2.3. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Project Update
 
-<a id="motion-2-3-4" class="motion-anchor"></a>
+<div id="motion-2-3-4" class="motion-anchor"></div>
 
 > b)    the Civic Administration BE DIRECTED to take such steps as necessary to implement the recommendations contained in the report including: the leading pedestrian intervals with lagging left-turn phases, no turns on red,  new dedicated in-boulevard cycling infrastructure on Sarnia Road (from S...
 
@@ -801,7 +801,7 @@ Unanimous (5-0)
 
 ### 2.3. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Project Update
 
-<a id="motion-2-3-5" class="motion-anchor"></a>
+<div id="motion-2-3-5" class="motion-anchor"></div>
 
 > c)    the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with respect to other improvements at the Western Rd, Sarnia Ave / Phillip Aziz Ave intersection including more detailed information about the feasibility of a pedestri...
 
@@ -818,7 +818,7 @@ Unanimous (5-0)
 
 ### 3.1. 5th Report of the Environmental Stewardship and Action Community Advisory Committee
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That the delegation request from B. Samuels BE APPROVED.
 

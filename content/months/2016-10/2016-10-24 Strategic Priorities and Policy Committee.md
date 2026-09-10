@@ -408,7 +408,7 @@ Motion Passed
 ### 2. Amendments to
   Consolidated Fees and Charges By-law
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -419,7 +419,7 @@ Unanimous (11-0)
 ### 2. Amendments to
   Consolidated Fees and Charges By-law
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -430,7 +430,7 @@ Unanimous (12-0)
 ### 3. Live Work Learn
   Play Update
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion to approve part a).   Motion Passed
 
@@ -441,7 +441,7 @@ Unanimous (12-0)
 ### 3. Live Work Learn
   Play Update
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion to Approve part b).   Motion Passed
 
@@ -452,7 +452,7 @@ Unanimous (12-0)
 ### 3. Live Work Learn
   Play Update
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion to Approve part c).   Motion Passed
 
@@ -470,7 +470,7 @@ Unanimous (12-0)
 ### 4. STAFF REPORT -
   Deputy Mayors
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -488,7 +488,7 @@ Unanimous (12-0)
 ### 5. 12th Report of the
   Governance Working Group
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -500,7 +500,7 @@ Unanimous (12-0)
   Delegation Status - 5th Report of the Outstanding London Ambassador Award
   Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -512,7 +512,7 @@ Unanimous (12-0)
   Delegation Status - 5th Report of the Outstanding London Ambassador Award
   Committee
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -531,7 +531,7 @@ Unanimous (12-0)
   Delegation Status - 5th Report of the Outstanding London Ambassador Award
   Committee
 
-<a id="motion-7-2" class="motion-anchor"></a>
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion Passed
 

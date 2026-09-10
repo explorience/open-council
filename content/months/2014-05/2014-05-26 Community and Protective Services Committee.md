@@ -532,7 +532,7 @@ Motion
 ### 2. School Crossing
   Guard Program
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -544,7 +544,7 @@ Unanimous (3-0)
 ### 7. By-law Amendments
   for Expanding Animal Welfare Initiatives
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -556,7 +556,7 @@ Unanimous (3-0)
 ### 7. By-law Amendments
   for Expanding Animal Welfare Initiatives
 
-<a id="motion-7-1" class="motion-anchor"></a>
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -568,7 +568,7 @@ Unanimous (3-0)
 ### 8. 2nd Report of the
   Council Housing Leadership Committee
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -580,7 +580,7 @@ Unanimous (3-0)
 ### 9. 3rd Report of the
   London Diversity and Race Relations Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -592,7 +592,7 @@ Unanimous (3-0)
 ### 10. Town and Gown
   Committee
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -604,7 +604,7 @@ Unanimous (3-0)
 ### 11. H. Hussein, Project
   Coordinator, London and Middlesex Local Immigration Partnership Project
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -1620,7 +1620,7 @@ Thanks, folks. We're adjourned. Thanks. Yeah, thank you.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.4, inclusive, BE APPROVED.
 
@@ -1630,7 +1630,7 @@ Unanimous (5-0)
 
 ### 3.1. Changes to the Conservation Act
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That T. Annett, General Manager and J. Allain, Manager, Environmental Planning and Regulations and Representatives, Upper Thames River Conservation Authority (UTRCA), BE GRANTED delegation status at the May 22, 2024 Planning and Environment Committee meeting to provide an update on recent legisla...
 
@@ -1640,7 +1640,7 @@ Unanimous (5-0)
 
 ### 3.3. 743 Wellington Road (Z-9720)
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo on behalf of Olde School Professional Properties Inc., relating to the property located at 743 Wellington Road: a)    the proposed attached, revi...
 
@@ -1657,7 +1657,7 @@ Unanimous (5-0)
 
 ### 3.4. 530 Oxford Street West (OZ-9712)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Captain Generation Mall Limited (c/o MHBC), relating to the property located at 530 Oxford Street West: a)    the proposed by-law appended to the staff report d...
 
@@ -1667,7 +1667,7 @@ Unanimous (5-0)
 
 ### 3.6. 193-199 College Avenue (OZ-8693)
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of College Avenue Lofts Inc. (c/o York Developments) relating to the property located at 193-199 College Avenue: a)    the development, as proposed, B...
 

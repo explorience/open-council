@@ -2272,7 +2272,7 @@ Motion Passed.
 ### 2#4. 10th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > The motion to Approve part a) of clause 2   is put.
 
@@ -2283,7 +2283,7 @@ Unanimous (14-0)
 ### 2#4. 10th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-2-4-1" class="motion-anchor"></a>
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > Approve that part b) be amended to read as   follows, and a new part c) be added as follows:   i)          “b)   the Civic Administration BE DIRECTED to submit the Human Wildlife Policy for   consideration prior to the conclusion of the current Council term that   incorporates a provision that le...
 
@@ -2294,7 +2294,7 @@ Unanimous (14-0)
 ### 2#4. 10th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-2-4-2" class="motion-anchor"></a>
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > Approve clause 2, as amended.
 
@@ -2305,7 +2305,7 @@ Unanimous (14-0)
 ### 6#2. Consideration of
   Appointment to the Accessibility Advisory Committee
 
-<a id="motion-6-2-0" class="motion-anchor"></a>
+<div id="motion-6-2-0" class="motion-anchor"></div>
 
 > That the following individuals be appointed   as Voting Members to the Accessibility Advisory Committee for the term ending   February 28, 2015:   -           Jill Bell (Parent of a Child   with a Disability)  -           Bill Birtch (Person with a   Disability)  -           J. Damon Whatmore (Pe...
 
@@ -2317,7 +2317,7 @@ Unanimous (14-0)
 ### 6#4. 10th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-6-4-0" class="motion-anchor"></a>
+<div id="motion-6-4-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with   respect to the 10th Report of the London Advisory Committee on Heritage from   its meeting held on September 10, 2014:   a)         on   the recommendation of the Managing Director, Planning and City Planner, with   the advice of the Heritage Planner, t...
 
@@ -2328,7 +2328,7 @@ Unanimous (14-0)
 ### 6#4. 10th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-6-4-1" class="motion-anchor"></a>
+<div id="motion-6-4-1" class="motion-anchor"></div>
 
 > The motion to Approve part d of clause 6 is   put.
 
@@ -2339,7 +2339,7 @@ Unanimous (12-0)
 ### 6#5. Review of Noise
   Exemption Permits
 
-<a id="motion-6-5-0" class="motion-anchor"></a>
+<div id="motion-6-5-0" class="motion-anchor"></div>
 
 > That the communication from Councillor D.   Brown, with respect to a request to review of the issuance of Noise Exemption   Permits on Sunday nights, BE REFERRED to the Civic Administration for a   report back in 2015.   (2014-M04A)
 
@@ -2351,7 +2351,7 @@ Unanimous (14-0)
 ### 7#3. By-law Amendments
   for Expanded Animal Welfare Initiatives
 
-<a id="motion-7-3-0" class="motion-anchor"></a>
+<div id="motion-7-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken to   amend various City of London by-laws in order to support enhanced animal care   strategies and implement the Municipal Council’s first principle of “no kill”   and its open shelter policy:   a)        the attached revised by-law, BE INTRODUCED at the Munic...
 
@@ -2369,7 +2369,7 @@ Unanimous (14-0)
 ### 7#3. By-law Amendments
   for Expanded Animal Welfare Initiatives
 
-<a id="motion-7-3-1" class="motion-anchor"></a>
+<div id="motion-7-3-1" class="motion-anchor"></div>
 
 > Approve that, on the recommendation   of the Managing Director, Development & Compliance Services and the Chief   Building Official, the following actions be taken to amend various City of   London by-laws in order to support enhanced animal care strategies and   implement City Council’s first pr...
 
@@ -2387,7 +2387,7 @@ Unanimous (14-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -2399,7 +2399,7 @@ Unanimous (12-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-SECOND MEETING HELD ON SEPTEMBER 16,
   2014
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 22nd Meeting   held on September 16, 2014.
 
@@ -2409,7 +2409,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-0" class="motion-anchor"></a>
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Approve Introduction and 1st Reading of   Bill No.s 456 to 470, excluding Bill No.s 462 and 463.
 
@@ -2419,7 +2419,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-1" class="motion-anchor"></a>
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Approve 2nd Reading of Bill No.s 456 to   470, excluding Bill No.s 462 and 463.
 
@@ -2429,7 +2429,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-2" class="motion-anchor"></a>
+<div id="motion-xiii-2" class="motion-anchor"></div>
 
 > Approve 3rd Reading and Enactment   of Bill No.s 456 to 470, excluding Bill No.s 462 and 463.
 
@@ -2443,7 +2443,7 @@ Unanimous (13-0)
   for consideration with clause 11 of the 17th Report of the Planning and
   Environment Committee.)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2457,7 +2457,7 @@ Unanimous (14-0)
   for consideration with clause 11 of the 17th Report of the Planning and
   Environment Committee.)
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Approve that Council convene as   the Approval Authority pursuant to the provisions of the Expropriation Act,   R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication   No. 1 from the Managing Director, Environmental and Engineering Services and   City Engineer, dealing wit...
 
@@ -2471,7 +2471,7 @@ Unanimous (14-0)
   for consideration with clause 11 of the 17th Report of the Planning and
   Environment Committee.)
 
-<a id="motion-6-4" class="motion-anchor"></a>
+<div id="motion-6-4" class="motion-anchor"></div>
 
 > Approve the staff recommendation as   contained Communication No. 2.   2.                          Managing   Director, Environmental and Engineering Services & City Engineer – Expropriation   of Lands – Hyde Park Road Widening Project – Phase II – TS1477-2   That, on the recommendation of the Ma...
 
@@ -2485,7 +2485,7 @@ Unanimous (14-0)
   for consideration with clause 11 of the 17th Report of the Planning and
   Environment Committee.)
 
-<a id="motion-6-5" class="motion-anchor"></a>
+<div id="motion-6-5" class="motion-anchor"></div>
 
 > Approve that pursuant to section 7.4   of the Council Procedure By-law, the order of business be changed to permit   consideration of clause 16 of the 17th Report of the Planning and Environment   Committee, having to do with the property located at 2118 Richmond Street, to   be dealt with at 5:3...
 
@@ -2499,7 +2499,7 @@ Unanimous (14-0)
   for consideration with clause 11 of the 17th Report of the Planning and
   Environment Committee.)
 
-<a id="motion-6-6" class="motion-anchor"></a>
+<div id="motion-6-6" class="motion-anchor"></div>
 
 > Approve that pursuant to section 7.4   of the Council Procedure By-law, the order of business be changed to permit   consideration of clause 14 of the 17th Report of the Planning and Environment   Committee, having to do with the Blackfriars/Petersville Official Plan/Zoning   Study, to be dealt w...
 
@@ -2510,7 +2510,7 @@ Unanimous (14-0)
 ### 11. Property located at
   1300 Fanshawe Park Road East (OZ-8358)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > That, the application of 1849259 Ontario   Inc., relating to the property located at 1300 Fanshawe Park Road East BE   REFUSED as the Municipal Council does not believe that a  special policy to   permit the auto sales use in the Community Commercial Node designation at   this location is appropr...
 
@@ -2528,7 +2528,7 @@ Unanimous (14-0)
 ### 11. Property located at
   1300 Fanshawe Park Road East (OZ-8358)
 
-<a id="motion-11-1" class="motion-anchor"></a>
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Approve that, on   the recommendation of the Managing Director, Planning and City Planner, the   following actions be taken with respect to the application of 1849259 Ontario   Inc., relating to the property located at 1300 Fanshawe Park Road East:   a)              the proposed by-law attached  ...
 
@@ -2546,7 +2546,7 @@ Unanimous (14-0)
 ### 16. Property located at
   2118 Richmond Street (OZ-7890)
 
-<a id="motion-16-2" class="motion-anchor"></a>
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > At 6:08 PM Her Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -2564,7 +2564,7 @@ Unanimous (14-0)
 ### 16. Property located at
   2118 Richmond Street (OZ-7890)
 
-<a id="motion-16-3" class="motion-anchor"></a>
+<div id="motion-16-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2582,7 +2582,7 @@ Unanimous (14-0)
 ### 16. Property located at
   2118 Richmond Street (OZ-7890)
 
-<a id="motion-16-5" class="motion-anchor"></a>
+<div id="motion-16-5" class="motion-anchor"></div>
 
 > The motion to Approve part a) of clause 3   is put.
 
@@ -2593,7 +2593,7 @@ Unanimous (11-0)
 ### 16. Property located at
   2118 Richmond Street (OZ-7890)
 
-<a id="motion-16-6" class="motion-anchor"></a>
+<div id="motion-16-6" class="motion-anchor"></div>
 
 > Approve that the Committee of the Whole met, in camera, for the purpose of   considering the following:   a)         A   matter pertaining to a personal matter about identifiable individuals,   including municipal or local board employees, relating to the 2015 Mayor's   New Year's Honour List. (C...
 
@@ -2604,7 +2604,7 @@ Unanimous (13-0)
 ### 18. Regulations
   Limiting Greenhouses
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > That, the Civic Administration BE REQUESTED   to look at all regulations, including zoning regulations that limit the lot   coverage of greenhouse uses to 10 percent of the lot area and to include this   request on the Planning Departments Work Plan.   (2014-F21)
 

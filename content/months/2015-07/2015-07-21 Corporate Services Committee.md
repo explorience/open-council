@@ -226,7 +226,7 @@ Motion
 ### 2. Interest Free Loan
   - London Community Players (Palace Theatre)
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -239,7 +239,7 @@ Unanimous (4-0)
   The City of London and Donald Jones Management Services Inc. - Management of
   Centennial Hall
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -251,7 +251,7 @@ Unanimous (4-0)
 ### 4. Response to
   Province of Ontario Public Consultation Municipal Elections Act
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -263,7 +263,7 @@ Unanimous (4-0)
 ### 5. City Recognition of
   Queen Elizabeth ll - Longest Reigning Monarch
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -276,7 +276,7 @@ Unanimous (4-0)
   Designation of the East Coast Celebration Festival as a Municipally
   Significant Event
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -289,7 +289,7 @@ Unanimous (4-0)
   Designation of the East Coast Celebration Festival as a Municipally
   Significant Event
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

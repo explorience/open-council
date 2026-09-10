@@ -402,7 +402,7 @@ Hand vote. The motion carries. Thanks, everyone. Yeah, compared to last time, th
 
 ### 5.1. Deferred Matters List
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Deputy City Manager, Planning and Economic Development BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.   (2022-D19)
 

@@ -554,7 +554,7 @@ The meeting adjourned at 5:58 PM.
 ### 2. 7th and 8th Reports
   of the Accessibility Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -568,7 +568,7 @@ Unanimous (5-0)
   Consulting Inc. - Homeless Management Information System Implementation
   Consultant
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -582,7 +582,7 @@ Unanimous (5-0)
   Homeless Individuals and Families Information System -  Data Provision
   Agreement
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -595,7 +595,7 @@ Unanimous (5-0)
   London’s Homeless Prevention System - Homelessness Partnering Strategy
   Funding Agreement - 2018 Coordinated Point-In-Time Count
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -607,7 +607,7 @@ Unanimous (5-0)
 ### 6. STAFF REPORT  - 
   Community Mental Health and Addictions Strategy
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -619,7 +619,7 @@ Unanimous (4-0)
 ### 7. STAFF REPORT -
   Overview of Ontario Works Basic Needs and Shelter Allowance Rates
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -631,7 +631,7 @@ Unanimous (5-0)
 ### 8. 7th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -642,7 +642,7 @@ Unanimous (5-0)
 
 ### 9. Ontario Works Rates
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -655,7 +655,7 @@ Unanimous (5-0)
   By-law Review – Adult Live Entertainment Parlour, Adult Entertainment
   Body-Rub Parlour, Unsolicited Motor Vehicle Towing and Storage
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -668,7 +668,7 @@ Unanimous (5-0)
   By-law Review – Adult Live Entertainment Parlour, Adult Entertainment
   Body-Rub Parlour, Unsolicited Motor Vehicle Towing and Storage
 
-<a id="motion-10-1" class="motion-anchor"></a>
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -681,7 +681,7 @@ Unanimous (5-0)
   By-law Review – Adult Live Entertainment Parlour, Adult Entertainment
   Body-Rub Parlour, Unsolicited Motor Vehicle Towing and Storage
 
-<a id="motion-10-2" class="motion-anchor"></a>
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -700,7 +700,7 @@ Unanimous (5-0)
 ### 11. COUNCIL MEMBER
   SUBMISSION - Shared Rail - Trail Link Along the CN Talbot Spur Line
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -712,7 +712,7 @@ Unanimous (5-0)
 ### 12. PUBLIC SUBMISSION -
   Pool Equipment Noise - REQUEST FOR DELEGATION STATUS
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -724,7 +724,7 @@ Unanimous (5-0)
 ### 13. Partnership to Establish
   London as a UN Women’s Safe City
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -736,7 +736,7 @@ Unanimous (5-0)
 ### 14. Deferred Matters
   List
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -749,7 +749,7 @@ Unanimous (5-0)
   MEMBER SUBMISSION - Request for Information - London Police Services - Cost -
   August 26, 2017 Protest
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

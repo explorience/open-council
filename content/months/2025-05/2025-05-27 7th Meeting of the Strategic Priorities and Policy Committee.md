@@ -945,7 +945,7 @@ Have a great rest of your day.
 
 ### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That pursuant to section 36.6 of the Council Procedure By-law, London Hydro Inc. BE PERMITTED to speak an additional five (5) minutes with respect to the London Hydro Inc. presentation and 2024 Annual Report.
 
@@ -955,7 +955,7 @@ Unanimous (12-0)
 
 ### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2024 Annual General Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That part h) of the motion be approved and read as follows: h)    that Paul M. Madden BE APPOINTED to the London Hydro Board of Directors, Second Class, for the term ending December 31, 2025.
 
@@ -974,7 +974,7 @@ Unanimous (12-0)
 
 ### 4.1. London Hydro Proposed Amendments to the Shareholder Declaration
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the communication dated May 15, 2025 from C. Graham, Chair, Board of Directors, London Hydro Inc. regarding the Proposed Amendments to the Shareholders Declaration BE REFERRED to Civic Administration and to report back at a future meeting of the Strategic Priorities and Policy Committee.
 
@@ -993,7 +993,7 @@ Unanimous (12-0)
 
 ### 4.2. 2025 London and Middlesex Community Housing Asset Management Plan
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 London and Middlesex Community Housing Asset Management Plan: a)    the report BE RECEIVED for information purposes; and b)    the “2025 London and Middlesex Community...
 
@@ -1012,7 +1012,7 @@ Unanimous (12-0)
 
 ### 4.2. 2025 London and Middlesex Community Housing Asset Management Plan
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2025 London and Middlesex Community Housing Asset Management Plan: a) the report dated May 27, 2025 BE RECEIVED for information purposes; b) the “2025 London and Middlesex Community Housing Asset Management Plan”, appended to the staff repor...
 

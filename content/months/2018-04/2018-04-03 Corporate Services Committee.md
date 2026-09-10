@@ -417,7 +417,7 @@ The Meeting adjourned at 2:18 PM.
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1, 2.2 and 2.6 BE APPROVED.
 
@@ -427,7 +427,7 @@ Unanimous (5-0)
 
 ### 2.4. Year 2018 Tax Policy
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That the matter of the 2018 Tax Policy BE REFERRED back to the Civic Administration to prepare a new Schedule "B" and accompanying proposed by-laws for consideration at a future meeting of the Corporate Services Committee, reflective of additional options between the commercial and industrial rat...
 
@@ -437,7 +437,7 @@ Unanimous (5-0)
 
 ### 2.5. 2018 Education Tax Rates
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to Education Tax Rates:    a)            the proposed by-law to levy education tax rates for 2018, as appended to the staff report date...
 
@@ -447,7 +447,7 @@ Unanimous (5-0)
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That items 4.2 and 4.3 BE APPROVED.
 
@@ -457,7 +457,7 @@ Unanimous (5-0)
 
 ### 4.1. 2017 London Convention Centre Operational Results
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the transfer of 100% of the 2017 London Convention Centre Operational surplus ($81,422 based upon the 2017 Draft Audit Financial Statements), to the London Convention Centre Capital Reserve held by the City of London, BE APPROVED.
 
@@ -467,7 +467,7 @@ Unanimous (5-0)
 
 ### 4.4. Board of Directors - Federation of Canadian Municipalities
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the communication dated March 23, 2018 from Councillor J. Morgan regarding standing for election to the Federation of Canadian Municipalities’ Board of Directors and his associated expenses:    a)         the following resolution BE ADOPTED:    ...
 
@@ -477,7 +477,7 @@ Unanimous (5-0)
 
 ### 5.2. ADDED - Request for Proposal - Host for AMO Annual Conference 2021, 2023
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the General Manager, Tourism London, the following actions be taken with respect to the Association of Municipalities Ontario’s (AMO) Annual Conferences for 2021 and 2023:    a)            Tourism London BE AUTHORIZED to submit a proposal for London to host the AMO ...
 

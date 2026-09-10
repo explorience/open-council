@@ -234,7 +234,7 @@ The meeting adjourned at 7:55 PM.
 ### 2. Not to be heard
   before 2:00 PM - Strategic Plan
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -252,7 +252,7 @@ The meeting adjourned at 7:55 PM.
 ### 2. Not to be heard
   before 2:00 PM - Strategic Plan
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -263,7 +263,7 @@ Unanimous (15-0)
 ### 3. ADDED - Orchestra
   London
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -274,7 +274,7 @@ Unanimous (15-0)
 ### 3. ADDED - Orchestra
   London
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -285,7 +285,7 @@ Unanimous (15-0)
 ### 3. ADDED - Orchestra
   London
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion Passed
 

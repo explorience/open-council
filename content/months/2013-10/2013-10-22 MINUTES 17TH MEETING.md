@@ -2996,7 +2996,7 @@ Motion Passed
 ### 11#2. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
-<a id="motion-11-2-0" class="motion-anchor"></a>
+<div id="motion-11-2-0" class="motion-anchor"></div>
 
 > Approve amending clause 11 in the first   line by removing the words “on the recommendation of the Managing Director,   Land Use Planning and City Planner,”; and by adding a new part g) as follows:   “g)       pursuant to Section 34(17) of the Planning Act, as determined by the   Municipal Counci...
 
@@ -3007,7 +3007,7 @@ Unanimous (15-0)
 ### 11#2. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
-<a id="motion-11-2-1" class="motion-anchor"></a>
+<div id="motion-11-2-1" class="motion-anchor"></div>
 
 > Approve clause 11, as amended, excluding   part e).
 
@@ -3025,7 +3025,7 @@ Unanimous (15-0)
 ### 11#2. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
-<a id="motion-11-2-2" class="motion-anchor"></a>
+<div id="motion-11-2-2" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of   the Managing Director, Land Use Planning and City Planner, the following   actions be taken with respect to the application of Romlex International Inc.   relating to the properties located at 1057, 1059 and 1061 Richmond Street:   (a)       the   Ontario ...
 
@@ -3044,7 +3044,7 @@ Unanimous (15-0)
   Ferreira as a Voting Representative of Neighbourhood Watch to the Community
   Safety and Crime Prevention Advisory Committee
 
-<a id="motion-11-3-0" class="motion-anchor"></a>
+<div id="motion-11-3-0" class="motion-anchor"></div>
 
 > That Jon Ferreira BE APPOINTED to the   Community Safety and Crime Prevention Advisory Committee as a Voting Member representing   Neighbourhood Watch, for the term ending February 28, 2015.
 
@@ -3056,7 +3056,7 @@ Unanimous (15-0)
 ### 13#2. Planning and
   Environment Committee Meeting - October 29, 2013
 
-<a id="motion-13-2-0" class="motion-anchor"></a>
+<div id="motion-13-2-0" class="motion-anchor"></div>
 
 > That, the start time of the October 29,   2013 Planning and Environment Committee meeting BE CHANGED to 4:30 PM.
 
@@ -3067,7 +3067,7 @@ Unanimous (15-0)
 ### 2#2. Traffic Calming
   Program - 10 Year Annual Plan
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > Approve clause 2, as amended.
 
@@ -3085,7 +3085,7 @@ Unanimous (15-0)
 ### 2#2. Traffic Calming
   Program - 10 Year Annual Plan
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > Amend clause 2 by adding a new part c)   as follows:   “c)       the Director, Roads and Transportation   BE DIRECTED to review and report back at a future meeting of the Civic Works   Committee on the potential for a two-tier Traffic Calming Program which would   provide an opportunity for addre...
 
@@ -3104,7 +3104,7 @@ Unanimous (15-0)
   Investigation into Whether Members of Council for the City of London Held an
   Improper Closed Meeting on February 23, 2013.
 
-<a id="motion-2-9-0" class="motion-anchor"></a>
+<div id="motion-2-9-0" class="motion-anchor"></div>
 
 > Approve that clause 2 BE AMENDED, to add   a new part f) as follows:   “f)        the   Ombudsman of Ontario respectfully BE REQUESTED to publicly disclose the cost   of his investigation into this matter.”
 
@@ -3123,7 +3123,7 @@ Unanimous (15-0)
   Investigation into Whether Members of Council for the City of London Held an
   Improper Closed Meeting on February 23, 2013.
 
-<a id="motion-2-9-1" class="motion-anchor"></a>
+<div id="motion-2-9-1" class="motion-anchor"></div>
 
 > The motion to Approve clause 1 and parts a,   b and c of clause 2 is put.
 
@@ -3135,7 +3135,7 @@ Unanimous (15-0)
   Investigation into Whether Members of Council for the City of London Held an
   Improper Closed Meeting on February 23, 2013.
 
-<a id="motion-2-9-2" class="motion-anchor"></a>
+<div id="motion-2-9-2" class="motion-anchor"></div>
 
 > The motion to Approve part d) of clause 2   is put.
 
@@ -3154,7 +3154,7 @@ Unanimous (15-0)
   Investigation into Whether Members of Council for the City of London Held an
   Improper Closed Meeting on February 23, 2013.
 
-<a id="motion-2-9-3" class="motion-anchor"></a>
+<div id="motion-2-9-3" class="motion-anchor"></div>
 
 > The motion to Approve part e) of clause 2   is put.
 
@@ -3166,7 +3166,7 @@ Unanimous (15-0)
   Investigation into Whether Members of Council for the City of London Held an
   Improper Closed Meeting on February 23, 2013.
 
-<a id="motion-2-9-4" class="motion-anchor"></a>
+<div id="motion-2-9-4" class="motion-anchor"></div>
 
 > Approve clause 2 as amended.
 
@@ -3177,7 +3177,7 @@ Unanimous (15-0)
 ### 3#2. Property located at
   613 Sovereign Road (H-8234)
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Senior   Planner, Development Services, based on the application of the City of   London, relating to the property located at 613 Sovereign Road, the proposed   by-law, as appended to the staff report dated October 8, 2013, BE INTRODUCED   at the Municipal Counc...
 
@@ -3188,7 +3188,7 @@ Unanimous (13-0)
 ### 4#5. Helping Social
   Enterprises Grow and Create Jobs
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That the News Release dated September 26,   2013, from the Ministry of Economic Development, Trade and Employment,   Province of Ontario, with respect to a new strategy that will help social   enterprise grow and create jobs and attract new investment, BE REFERRED to   the Managing Director, Corp...
 
@@ -3200,7 +3200,7 @@ Unanimous (15-0)
 ### 5#7. Proposed Public Education, Dialogue and
   Consultation Plan for Future of London Hydro Inc.
 
-<a id="motion-5-7-0" class="motion-anchor"></a>
+<div id="motion-5-7-0" class="motion-anchor"></div>
 
 > The motion to Approve part a) of clause 5   is put.
 
@@ -3218,7 +3218,7 @@ Unanimous (15-0)
 ### 5#7. Proposed Public Education, Dialogue and
   Consultation Plan for Future of London Hydro Inc.
 
-<a id="motion-5-7-1" class="motion-anchor"></a>
+<div id="motion-5-7-1" class="motion-anchor"></div>
 
 > The motion to Approve part b) of clause 5   is put.
 
@@ -3229,7 +3229,7 @@ Unanimous (15-0)
 ### 5#7. Proposed Public Education, Dialogue and
   Consultation Plan for Future of London Hydro Inc.
 
-<a id="motion-5-7-2" class="motion-anchor"></a>
+<div id="motion-5-7-2" class="motion-anchor"></div>
 
 > The motion to Approve part c) of clause 5   is put.
 
@@ -3247,7 +3247,7 @@ Unanimous (15-0)
 ### 6#4. Participation at
   Committee Meetings via Technology
 
-<a id="motion-6-4-0" class="motion-anchor"></a>
+<div id="motion-6-4-0" class="motion-anchor"></div>
 
 > That the communication dated September 26,   2013, from Councillor J.B. Swan, with respect to public participation at   committee meetings via technology BE REFERRED to the City Clerk for a report   back on the potential for allowing delegations via advanced technology, with   an emphasis on addr...
 
@@ -3258,7 +3258,7 @@ Unanimous (15-0)
 ### 6#5. London Shared Space
   for Social Innovation
 
-<a id="motion-6-5-0" class="motion-anchor"></a>
+<div id="motion-6-5-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the proposal for a London shared space for social innovation,   business and financial plan:   a)         the   communication and the attached presentation from M. Baldwin, Executive   Director, Pillar Nonprofit Network, with respect to a Lond...
 
@@ -3269,7 +3269,7 @@ Unanimous (15-0)
 ### 7#4. Allow Free Vote on
   Fluoride - 2014 Municipal Election Ballot (Plebiscite)
 
-<a id="motion-7-4-0" class="motion-anchor"></a>
+<div id="motion-7-4-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 11.14 of   the Council Procedure By-law, the question be now put.
 
@@ -3287,7 +3287,7 @@ Unanimous (15-0)
 ### 7#4. Allow Free Vote on
   Fluoride - 2014 Municipal Election Ballot (Plebiscite)
 
-<a id="motion-7-4-1" class="motion-anchor"></a>
+<div id="motion-7-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3305,7 +3305,7 @@ Unanimous (15-0)
 ### 7#5. London's Medical
   Innovation and Commercialization Network - Update #1
 
-<a id="motion-7-5-0" class="motion-anchor"></a>
+<div id="motion-7-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the   Director, Corporate Investments and Partnerships and the Managing Director,   Corporate Services, Chief Financial Officer and City Treasurer, the following   actions be taken with respect to the development of London’s Medical   Innovation and Commercializatio...
 
@@ -3316,7 +3316,7 @@ Unanimous (13-0)
 ### 8#3. Amethyst Award
   Nomination Letter of Support
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the Mayor BE REQUESTED to provide a   letter of recommendation for the London & Middlesex Local Immigration   Partnership Justice and Protection Services Sub-council for the Amethyst   Award, as outlined in the attached request, should the Mayor's Office   determine it is appropriate to do so.
 
@@ -3328,7 +3328,7 @@ Unanimous (15-0)
 ### 8#6. Resignation from the Covent Garden Market
   Corporation Board of Directors
 
-<a id="motion-8-6-0" class="motion-anchor"></a>
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3339,7 +3339,7 @@ Unanimous (15-0)
 ### 8#6. Resignation from the Covent Garden Market
   Corporation Board of Directors
 
-<a id="motion-8-6-1" class="motion-anchor"></a>
+<div id="motion-8-6-1" class="motion-anchor"></div>
 
 > Approve   that clause 3 be amended in line 4 of part e)i) by inserting the word   “generally” before the word “provided”.
 
@@ -3350,7 +3350,7 @@ Unanimous (15-0)
 ### 8#6. Resignation from the Covent Garden Market
   Corporation Board of Directors
 
-<a id="motion-8-6-2" class="motion-anchor"></a>
+<div id="motion-8-6-2" class="motion-anchor"></div>
 
 > Approve clause 3 parts, a) to f), as   amended.
 
@@ -3368,7 +3368,7 @@ Unanimous (15-0)
 ### 8#6. Resignation from the Covent Garden Market
   Corporation Board of Directors
 
-<a id="motion-8-6-3" class="motion-anchor"></a>
+<div id="motion-8-6-3" class="motion-anchor"></div>
 
 > Approve part g) of clause 3.
 
@@ -3379,7 +3379,7 @@ Unanimous (15-0)
 ### 9#4. Shine the Light Purple for the Month of
   November 2014
 
-<a id="motion-9-4-0" class="motion-anchor"></a>
+<div id="motion-9-4-0" class="motion-anchor"></div>
 
 > Approve that clause 9 BE AMENDED by adding   the following new part b):   “b)       the   Director, Roads and Transportation BE DIRECTED to install coloured LED spot   lights to illuminate the sidewalk along Angel Street, above and beyond the   light levels from the street lights, with the LED li...
 
@@ -3397,7 +3397,7 @@ Unanimous (15-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-iv-0" class="motion-anchor"></a>
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, at 4:16 PM for the purpose of considering   the following:
 
@@ -3409,7 +3409,7 @@ Unanimous (12-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SIXTEENTH MEETING HELD ON OCTOBER 1, 2013
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of 16th   meeting held on October 1, 2013.
 
@@ -3420,7 +3420,7 @@ Unanimous (15-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-2" class="motion-anchor"></a>
+<div id="motion-xii-2" class="motion-anchor"></div>
 
 > At 10:02 PM His Worship the Mayor resumes   the Chair and Councillor D.G. Henderson takes his seat at the Council Board.
 
@@ -3431,7 +3431,7 @@ Unanimous (11-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-3" class="motion-anchor"></a>
+<div id="motion-xii-3" class="motion-anchor"></div>
 
 > Approve leave to introduce motion   related to moving in camera.
 
@@ -3442,7 +3442,7 @@ Unanimous (9-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-4" class="motion-anchor"></a>
+<div id="motion-xii-4" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering a matter   pertaining to the purpose of instructions and directions to officers and   employees of the Corporation pertaining to a proposed acquisition and/or   disposition of land; advice th...
 
@@ -3453,7 +3453,7 @@ Unanimous (8-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-5" class="motion-anchor"></a>
+<div id="motion-xii-5" class="motion-anchor"></div>
 
 > Approve:   1.         That   the Committee of the Whole met, in camera, for the purpose of considering the   following:   a)         a   matter pertaining to advice that is subject to solicitor-client privilege,   including communications necessary for that purpose with respect to the   provincia...
 
@@ -3464,7 +3464,7 @@ Unanimous (8-0)
 ### 3. Sidewalk
   Maintenance Program
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Approve that clause 3 BE AMENDED by   adding the following to the end of the clause:   “it being noted that the Civic   Administration will bring forward the following as part of the 2014 budget   process:   a)         a business case for one time   funding to address the current maintenance gap;...
 
@@ -3482,7 +3482,7 @@ Unanimous (8-0)
 ### 3. Sidewalk
   Maintenance Program
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3493,7 +3493,7 @@ Unanimous (15-0)
 ### 9. Veterans Memorial
   Parkway Noise Study
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Approve   that clause 9 BE REFERRED back to the Director, Roads and Transportation to   take the following actions related to noise abatement along the Veterans   Memorial Parkway:   a)              investigate new materials that may be available for the   purpose of noise abatement on Veterans M...
 
@@ -3510,7 +3510,7 @@ Unanimous (15-0)
 
 ### 14. Meadowlily Bridge
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to a verbal request from Councillor White related to undesirable   activity at Meadowlily Bridge:    a)         additional lighting BE   INSTALLED;   b)         trees causing security issues BE   REMOVED; and,   c)         standard parking lot si...
 

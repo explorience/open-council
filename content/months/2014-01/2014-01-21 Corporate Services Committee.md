@@ -273,7 +273,7 @@ Motion
   for 2014, Changes in Taxable Phase-In Values and Shifts in Taxation as a
   Result of Reassessment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -285,7 +285,7 @@ Unanimous (4-0)
 ### 4. 2014 General
   Insurance Renewal
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -297,7 +297,7 @@ Unanimous (4-0)
 ### 5. Expenses - Ontario
   Ombudsman's Investigation
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -309,7 +309,7 @@ Unanimous (4-0)
 ### 6. New Initiatives -
   2014 Municipal Election
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -321,7 +321,7 @@ Unanimous (4-0)
 ### 7. Appointment to the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -333,7 +333,7 @@ Unanimous (4-0)
 ### 8. Fanshawe College
   and Western University Representation on City of London Advisory Committees
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -347,7 +347,7 @@ Unanimous (4-0)
   Program with the Ministry of Economic Development, Trade and Employment for
   2575 Boyd Court, Innovation Park - Phase IV
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -380,7 +380,7 @@ Motion
 ### 4. London's Homeless
   Prevention System Housing Stability Fund
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -393,7 +393,7 @@ Unanimous (3-0)
   Alterations to the South London Community Centre Project No. P126- RC2751
   Tender No. 14-58
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -405,7 +405,7 @@ Unanimous (3-0)
 ### 9. 5th Report of the
   Accessibility Advisory Committee
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -417,7 +417,7 @@ Unanimous (3-0)
 ### 10. Old East Village
   Neighbourhood Safety Plan
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -429,7 +429,7 @@ Unanimous (3-0)
 ### 11. 7th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -441,7 +441,7 @@ Unanimous (3-0)
 ### 12. Information Request
   - Ontario Fire Marshal
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -453,7 +453,7 @@ Unanimous (3-0)
 ### 13. S. Tucker, 3391
   Settlement Trail - Street Parking - École Marie-Curie
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

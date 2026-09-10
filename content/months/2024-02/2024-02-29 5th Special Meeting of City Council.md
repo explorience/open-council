@@ -3072,7 +3072,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 4. Council, In Closed Session
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > That Council rise and go into Council, In Closed Session, for the purpose of considering the following: 4.4    Solicitor-Client Privileged Advice  A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose and directions and in...
 
@@ -3089,7 +3089,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 6. Communications and Petitions
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > That, pursuant to section 6.4 of the Council Procedure By-law, a change in order of the Council Agenda BE APPROVED, to provide for Stage 12, Emergent Motions, to be considered after Stage 7, Motions of Which Notice is Given.
 
@@ -3106,7 +3106,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 7.1. Councillor A. Hopkins - Amendment - Business Cases: #P-L8, #P-L9, #P-28, #P-29, #P-57
 
-<a id="motion-7-1-0" class="motion-anchor"></a>
+<div id="motion-7-1-0" class="motion-anchor"></div>
 
 > That pursuant to section 11.3 of the Council Procedure By-law, leave BE GIVEN for the introduction of a notice of motion to consider amendments to the Mayor’s 2024-2027 Multi-Year Budget.
 
@@ -3123,7 +3123,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.4. (3.2) Amendment - Business Case #P-5
 
-<a id="motion-8-2-4-0" class="motion-anchor"></a>
+<div id="motion-8-2-4-0" class="motion-anchor"></div>
 
 > That items 4 (3.2) through 21 (3.37) of the 2nd Report of the Budget Committee, with the exception of items 14 (3.27) and 15 (3.28), BE RECEIVED. That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-5 – Fire Department Breathing Apparatus and Breathing Apparatus Deco...
 
@@ -3140,7 +3140,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.14. (3.27) Amendment - Capital Project PD1218
 
-<a id="motion-8-2-14-0" class="motion-anchor"></a>
+<div id="motion-8-2-14-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Capital Project PD1218 London’s Downtown Plan – Small Scale Projects as set out in the Base Capital Budget in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on D...
 
@@ -3157,7 +3157,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.15. (3.28) Amendment - Capital Project RC1036
 
-<a id="motion-8-2-15-0" class="motion-anchor"></a>
+<div id="motion-8-2-15-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Capital Project RC1036 Dundas Place Equipment as set out in the Base Capital Budget of the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023:    20...
 
@@ -3174,7 +3174,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.22. (3.38) Amendment - Business Case #P-46
 
-<a id="motion-8-2-22-0" class="motion-anchor"></a>
+<div id="motion-8-2-22-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by increasing Business Case #P-46 to include actions 3 and action 6: 2024 Operating Expenditures: $100,000, 2024 Tax Levy: $100,000    2025 Operating Expenditures:   $75,000, 2025 Tax Levy: $75,000    2026 Operating Expenditures:   $75,000, ...
 
@@ -3191,7 +3191,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.22. (3.38) Amendment - Business Case #P-46
 
-<a id="motion-8-2-22-1" class="motion-anchor"></a>
+<div id="motion-8-2-22-1" class="motion-anchor"></div>
 
 > That, pursuant to section 10.5 of the Council Procedure By-law, with respect to the Chair's ruling that the amendment to item 22 is in order, “shall the ruling of the Chair BE SUSTAINED?”
 
@@ -3208,7 +3208,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.22. (3.38) Amendment - Business Case #P-46
 
-<a id="motion-8-2-22-2" class="motion-anchor"></a>
+<div id="motion-8-2-22-2" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing Business Case #P-46 – Economic and Partnership Initiatives – Action Number 12 by $450,000 from 2025 to 2027:    2024 Operating Expenditures:             $0, 2024 Tax Levy: $0  2025 Operating Expenditures: -$450,000, 2025 Tax Levy...
 
@@ -3225,7 +3225,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.24. (3.4) Adj. #4
 
-<a id="motion-8-2-24-0" class="motion-anchor"></a>
+<div id="motion-8-2-24-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi Year Budget BE AMENDED to remove Adj. #4 – Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget) as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Pr...
 
@@ -3242,7 +3242,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.26. (3.8) Business Case #P-29
 
-<a id="motion-8-2-26-0" class="motion-anchor"></a>
+<div id="motion-8-2-26-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing Business Case #P-29 by 5%: 2024 Operating Expenditures: -$31,000     2024 Tax Levy: -$31,000  2025 Operating Expenditures: -$79,000     2025 Tax Levy: -$79,000  2026 Operating Expenditures: -$82,000     2026 Tax Levy: -$82,000  2...
 
@@ -3259,7 +3259,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.26. (3.8) Business Case #P-29
 
-<a id="motion-8-2-26-1" class="motion-anchor"></a>
+<div id="motion-8-2-26-1" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing Business Case #P-29 - Police Vehicle and Equipment Requirements by the following: 2024 Operating Expenditures: -$158,000, 2024 Tax Levy: -$158,000   2025 Operating Expenditures: -$307,000, 2025 Tax Levy: -$307,000    2026 Operati...
 
@@ -3276,7 +3276,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.26. (3.8) Business Case #P-29
 
-<a id="motion-8-2-26-2" class="motion-anchor"></a>
+<div id="motion-8-2-26-2" class="motion-anchor"></div>
 
 > That it BE NOTED that the Budget Committee considered an amendment to the Mayor’s Multi-Year 2024-2027 Budget related to Business Case #P-29.
 
@@ -3293,7 +3293,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.27. (3.9) Business Case #P-31
 
-<a id="motion-8-2-27-0" class="motion-anchor"></a>
+<div id="motion-8-2-27-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include funding for “Action #3: Extension of Parks Operations Services” of Business Case #P-31 – Parks Operations Service Delivery Enhancements as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strat...
 
@@ -3310,7 +3310,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.39. (3.30) BusinessCase #P-15
 
-<a id="motion-8-2-39-0" class="motion-anchor"></a>
+<div id="motion-8-2-39-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-15 – Hoarding/Extreme Clean Program; as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023: 2024 Operating Expendit...
 
@@ -3327,7 +3327,7 @@ Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.2.39. (3.30) BusinessCase #P-15
 
-<a id="motion-8-2-39-2" class="motion-anchor"></a>
+<div id="motion-8-2-39-2" class="motion-anchor"></div>
 
 > That pursuant to section 11.11 of the Council Procedure By-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -3337,7 +3337,7 @@ Unanimous (15-0)
 
 ### 8.2.40. (3.31) Business Case #P-16
 
-<a id="motion-8-2-40-0" class="motion-anchor"></a>
+<div id="motion-8-2-40-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-16 – Housing Stability Bank Expansion, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023: 2024 Operating Expend...
 
@@ -3354,7 +3354,7 @@ Unanimous (15-0)
 
 ### 12.1. (ADDED) Councillor S. Trosow - Amendment - Business Case #P-8
 
-<a id="motion-12-1-0" class="motion-anchor"></a>
+<div id="motion-12-1-0" class="motion-anchor"></div>
 
 > That pursuant to section 20 of the Council Procedure By-law, leave BE GIVEN for the introduction of an emergent motion to consider amendments to the Mayor’s 2024-2027 Multi-Year Budget.
 
@@ -3371,7 +3371,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 73, BE APPROVED.
 
@@ -3388,7 +3388,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 73, BE APPROVED.
 
@@ -3405,7 +3405,7 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
-<a id="motion-13-2" class="motion-anchor"></a>
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 73, BE APPROVED.
 

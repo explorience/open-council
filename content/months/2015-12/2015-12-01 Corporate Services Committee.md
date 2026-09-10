@@ -260,7 +260,7 @@ That the Corporate Services Committee
 ### 3. Corporate Asset
   Management Plan 2015 Review
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -272,7 +272,7 @@ Unanimous (5-0)
 ### 3. Corporate Asset
   Management Plan 2015 Review
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -284,7 +284,7 @@ Unanimous (5-0)
 ### 3. Corporate Asset
   Management Plan 2015 Review
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -296,7 +296,7 @@ Unanimous (3-0)
 ### 6. 2015 Operating
   Budget Status - Third Quarter Report
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -308,7 +308,7 @@ Unanimous (5-0)
 ### 8. Tax Adjustment
   Agenda
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -320,7 +320,7 @@ Unanimous (5-0)
 ### 8. Tax Adjustment
   Agenda
 
-<a id="motion-8-1" class="motion-anchor"></a>
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -332,7 +332,7 @@ Unanimous (5-0)
 ### 10. ADDED - Syrian
   Refugee Resettlement
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

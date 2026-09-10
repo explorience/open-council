@@ -1620,7 +1620,7 @@ That concludes the items on our agenda. I'm looking for a motion to adjourned. Y
 
 ### 2.1. London Community Grants Program Policy Update
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That the proposed Community Grants Policy update, BE AMENDED to revise the definition of "Unincorporated grassroots group" to read as follows: "refers to a group of five or more individuals joined by mutual consent for a common, non-profit purpose..."
 
@@ -1639,7 +1639,7 @@ That concludes the items on our agenda. I'm looking for a motion to adjourned. Y
 
 ### 4.1. Master Accommodation Plan - Alternate Work Strategies Update
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the consideration of the entire matter of Item 4.1 BE REFERRED to the Municipal Council meeting of July 25, 2023 for disposition.
 
@@ -1658,7 +1658,7 @@ That concludes the items on our agenda. I'm looking for a motion to adjourned. Y
 
 ### 4.1. Master Accommodation Plan - Alternate Work Strategies Update
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation requests of J. Zaifman, London Home Builders' Association and M. Wallace, London Development Institute BE APPROVED to be heard at this time; it being noted that a communication from C. Butler was also received.
 
@@ -1668,7 +1668,7 @@ Unanimous (14-0)
 
 ### 4.1. Master Accommodation Plan - Alternate Work Strategies Update
 
-<a id="motion-4-1-5" class="motion-anchor"></a>
+<div id="motion-4-1-5" class="motion-anchor"></div>
 
 > That the referral, as amended, BE APPROVED.
 
@@ -1678,7 +1678,7 @@ Unanimous (15-0)
 
 ### 4.2. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That Bryan McClure BE APPOINTED to the Eldon House Board of Directors for the term ending November 14, 2026.
 
@@ -1688,7 +1688,7 @@ Unanimous (15-0)
 
 ### 4.2. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Consideration of Appointment to the Eldon House Board of Directors.
 
@@ -1701,7 +1701,7 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members)
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the London Hydro Board of Directors: a)  Tim Watson and Cedric Gomes BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held in...
 
@@ -1718,7 +1718,7 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members)
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Consideration of appointment to the London Hydro Board of Directors.
 
@@ -1731,7 +1731,7 @@ Unanimous (15-0)
 
 ### 4.4. Request to Amend Current London Transit Commission By-law - C. Roy, Secretary, London Transit Commission
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to amending the current by-law A.-6377-206, a By-law to continue the London Transit Commission: a)    the Civic Administration BE DIRECTED to bring forward a by-law to amend By-law A.-6377-206, to add two more voting members to the London Transit C...
 
@@ -1741,7 +1741,7 @@ Unanimous (15-0)
 
 ### 4.6. Intimate Partner Violence and Femicide - Mayor J. Morgan
 
-<a id="motion-4-6-0" class="motion-anchor"></a>
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the communication from Mayor J. Morgan regarding Intimate Partner Violence and Femicide as an epidemic:    a)   the issues of violence against women and girls in London BE RECOGNIZED as serious to the health and wellness of local families; it be...
 

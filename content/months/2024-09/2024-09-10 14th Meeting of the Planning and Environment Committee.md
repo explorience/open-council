@@ -2606,7 +2606,7 @@ Deputy Mayor Lewis, seconded by Councilor Raman, the hand vote sufficient. Thank
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 and 2.2 BE APPROVED.
 
@@ -2616,7 +2616,7 @@ Unanimous (5-0)
 
 ### 3.1. 2-4 Audrey Avenue and 186-188 Huron Street (Z-9755)
 
-<a id="motion-3-1-0" class="motion-anchor"></a>
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by KAP Holdings Inc. (c/o Zelinka Priamo Ltd.), relating to the property located at 2-4 Audrey Avenue and 186-188 Huron Street: a)    the proposed by-law appended ...
 
@@ -2626,7 +2626,7 @@ Unanimous (5-0)
 
 ### 3.4. 80 and 82 Base Line Road West (Z-9750)
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application by 13759741 Canada Inc. (c/o Strik, Baldinelli, Moniz Ltd.), relating to the property located at 80-82 Base Line Road West: a) the proposed revised, attached by-law as Appendix “A” BE INTRODUCED at the Municipal Council meeting ...
 
@@ -2643,7 +2643,7 @@ Unanimous (5-0)
 
 ### 3.5. 1338-1388 Sunningdale Road E (Z-9740)
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application by Auburn Homes Inc. (c/o Steve Stapleton), relating to the property located at 1338-1388 Sunningdale Road East: a) the proposed revised by-law appended to the Planning and Environment Committee Added Agenda as Appendix "A" BE I...
 
@@ -2653,7 +2653,7 @@ Unanimous (5-0)
 
 ### 3.6. Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753)
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to Phase 2 of the Section 26 Official Plan Review of The London Plan: a) the proposed revised by-law to be provided at the Municipal Council meeting to be held on September 24, 2024 as Appendix "A" to adopt Phase 2 of the Section 26 Review of The ...
 
@@ -2663,7 +2663,7 @@ Unanimous (6-0)
 
 ### 3.6. Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753)
 
-<a id="motion-3-6-3" class="motion-anchor"></a>
+<div id="motion-3-6-3" class="motion-anchor"></div>
 
 > G) amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along primary transit routes;
 
@@ -2680,7 +2680,7 @@ Unanimous (6-0)
 
 ### 3.6. Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753)
 
-<a id="motion-3-6-4" class="motion-anchor"></a>
+<div id="motion-3-6-4" class="motion-anchor"></div>
 
 > Motion to grant the Mayor an extension of five minutes.
 
@@ -2690,7 +2690,7 @@ Unanimous (6-0)
 
 ### 3.7. Protected Major Transit Station Areas Zoning Review (OZ-9749)
 
-<a id="motion-3-7-3" class="motion-anchor"></a>
+<div id="motion-3-7-3" class="motion-anchor"></div>
 
 > Motion to add the following to the Zoning By-law by deleting Emergency Care Establishment from Section 52.2 - Permitted Uses: -    That the  zoning by-law amendment relating to Protected Major Transit Station Areas be changed by deleting Emergency Care Establishment from Section 52.2 – Permitted ...
 
@@ -2707,7 +2707,7 @@ Unanimous (6-0)
 
 ### 3.7. Protected Major Transit Station Areas Zoning Review (OZ-9749)
 
-<a id="motion-3-7-4" class="motion-anchor"></a>
+<div id="motion-3-7-4" class="motion-anchor"></div>
 
 > Motion to proceed past 6:00 PM.
 
@@ -2717,7 +2717,7 @@ Unanimous (5-0)
 
 ### 3.7. Protected Major Transit Station Areas Zoning Review (OZ-9749)
 
-<a id="motion-3-7-5" class="motion-anchor"></a>
+<div id="motion-3-7-5" class="motion-anchor"></div>
 
 > Motion as amended
 

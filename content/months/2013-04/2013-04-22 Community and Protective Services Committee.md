@@ -597,7 +597,7 @@ Recommendation:  That the request of
 ### 2. 3rd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > 
 
@@ -608,7 +608,7 @@ Unanimous (3-0)
 ### 3. Fence By-law
   Amendments
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > 
 
@@ -620,7 +620,7 @@ Unanimous (3-0)
   and Installation of Playgrounds, Pathways, Parking Lots and Site Amenities in
   City Parks
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > 
 
@@ -631,7 +631,7 @@ Unanimous (3-0)
 ### 5. Early Childhood
   Educators (ECE) Labour Market Partnership (LMP) Research Project
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > 
 
@@ -642,7 +642,7 @@ Unanimous (3-0)
 ### 6. Homeless
   Prevention  System for London Three-Year Implementation Plan
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > 
 
@@ -653,7 +653,7 @@ Unanimous (3-0)
 ### 7. Public Monument for
   Individuals Experiencing Homelessness
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > 
 
@@ -665,7 +665,7 @@ Unanimous (3-0)
   Responsibility in the City of London Recreation Program Locations, Facilities
   and Properties
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > 
 
@@ -676,7 +676,7 @@ Unanimous (3-0)
 ### 9. Fire Safety Plan
   Boxes
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > 
 
@@ -689,7 +689,7 @@ Unanimous (3-0)
   Interest for the Development of an Information System for Social Housing
   Administration
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > 
 
@@ -702,7 +702,7 @@ Unanimous (3-0)
   Reserve Fund for Columbus Non-Profit Housing of Strathroy Inc., 305 Oak
   Street, Strathroy
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > 
 
@@ -713,7 +713,7 @@ Unanimous (3-0)
 ### 12. S. McCutcheon,
   Access to Care Lead - Engagement of Council
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > 
 
@@ -724,7 +724,7 @@ Unanimous (3-0)
 ### 13. 5th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > 
 
@@ -735,7 +735,7 @@ Unanimous (3-0)
 ### 14. 2nd Report of the
   Council Housing Leadership Committee
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > 
 
@@ -746,7 +746,7 @@ Unanimous (3-0)
 ### 15. 1st Report of the
   Town and Gown Committee
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > 
 
@@ -757,7 +757,7 @@ Unanimous (3-0)
 ### 16. Abandoned Shopping
   Cart By-law
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > 
 
@@ -769,7 +769,7 @@ Unanimous (4-0)
   Healthy Communities, Middlesex-London Health Unit – Request for
   Delegation Status
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > 
 

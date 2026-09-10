@@ -3156,7 +3156,7 @@ Motion Passed
 ### 10#2. LAV lll Public Art
   Monument
 
-<a id="motion-10-2-0" class="motion-anchor"></a>
+<div id="motion-10-2-0" class="motion-anchor"></div>
 
 > Approve that clause 10 of the 5th   Report of the Community and Protective Services Committee be amended by   adding the following new part c):   “c)       the   Civic Administration BE DIRECTED to explore potential funding opportunities   through the Federal Government to assist with the impleme...
 
@@ -3167,7 +3167,7 @@ Unanimous (10-0)
 ### 10#2. LAV lll Public Art
   Monument
 
-<a id="motion-10-2-1" class="motion-anchor"></a>
+<div id="motion-10-2-1" class="motion-anchor"></div>
 
 > Approve clause 10, as amended.
 
@@ -3185,7 +3185,7 @@ Unanimous (10-0)
 ### 10#3. Grand Theatre
   London Multi-Year Operating Agreement (Relates to Bill No. 130)
 
-<a id="motion-10-3-0" class="motion-anchor"></a>
+<div id="motion-10-3-0" class="motion-anchor"></div>
 
 > Approve that clause 10 BE AMENDED to read   as follows:   That, on the recommendation of the   Director, Community and Economic Innovation, the attached revised   proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on   April 5, 2016 to:              a)         approve   a t...
 
@@ -3196,7 +3196,7 @@ Unanimous (10-0)
 ### 10#3. Grand Theatre
   London Multi-Year Operating Agreement (Relates to Bill No. 130)
 
-<a id="motion-10-3-1" class="motion-anchor"></a>
+<div id="motion-10-3-1" class="motion-anchor"></div>
 
 > Approve clause 10, as amended.
 
@@ -3207,7 +3207,7 @@ Unanimous (10-0)
 ### 12#2. Community Response
   to Situations of Potential Vulnerable Occupancy
 
-<a id="motion-12-2-0" class="motion-anchor"></a>
+<div id="motion-12-2-0" class="motion-anchor"></div>
 
 > Approve an amendment to clause 12 to add   the following:   "the Civic Administration BE DIRECTED   to report back to the Community and Protective Services Committee with   respect to actions being taken by the City of Hamilton, and in other   jurisdictions, with respect to this matter."
 
@@ -3218,7 +3218,7 @@ Unanimous (11-0)
 ### 12#2. Community Response
   to Situations of Potential Vulnerable Occupancy
 
-<a id="motion-12-2-1" class="motion-anchor"></a>
+<div id="motion-12-2-1" class="motion-anchor"></div>
 
 > Approve clause 12, as amended
 
@@ -3229,7 +3229,7 @@ Unanimous (11-0)
 ### 18#2. Board of Directors
   - Federation of Canadian Municipalities - Deputy Mayor Cassidy
 
-<a id="motion-18-2-0" class="motion-anchor"></a>
+<div id="motion-18-2-0" class="motion-anchor"></div>
 
 > Approve that clauses 17 and 18 BE   DEFERRED to the April 26, 2016 Corporate Services Committee meeting for   consideration.
 
@@ -3247,7 +3247,7 @@ Unanimous (11-0)
 ### 18#2. Board of Directors
   - Federation of Canadian Municipalities - Deputy Mayor Cassidy
 
-<a id="motion-18-2-1" class="motion-anchor"></a>
+<div id="motion-18-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3258,7 +3258,7 @@ Unanimous (10-0)
 ### 19#2. Request for
   Delegation Status - L. N. Garrison
 
-<a id="motion-19-2-0" class="motion-anchor"></a>
+<div id="motion-19-2-0" class="motion-anchor"></div>
 
 > That the delegation request by Ms. L.N.   Garrison to appear before the Corporate Services Committee (CSC), regarding   the application of a gender lens, BE APPROVED for the April 26, 2016 meeting   of the CSC.
 
@@ -3270,7 +3270,7 @@ Unanimous (10-0)
 ### 2#4. Mobile User
   Experience
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer the   staff report dated March 30, 2016 entitled “Mobile User Experience” BE   RECEIVED for information.
 
@@ -3281,7 +3281,7 @@ Unanimous (10-0)
 ### 22#2. Canada Post
   Community Mail Box Program
 
-<a id="motion-22-2-0" class="motion-anchor"></a>
+<div id="motion-22-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED   to include the costs associated with respect to the installation of “No   Parking” signs at Community Mail Boxes in the negotiations between the City   of London and Canada Post.
 
@@ -3292,7 +3292,7 @@ Unanimous (9-0)
 ### 22#2. Canada Post
   Community Mail Box Program
 
-<a id="motion-22-2-1" class="motion-anchor"></a>
+<div id="motion-22-2-1" class="motion-anchor"></div>
 
 > Approve that, as a procedural matter   pursuant to Section 239 (6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:   That, on the recommendation of the Managing   Director, Environmental and Engineering Servi...
 
@@ -3303,7 +3303,7 @@ Unanimous (10-0)
 ### 22#2. Canada Post
   Community Mail Box Program
 
-<a id="motion-22-2-2" class="motion-anchor"></a>
+<div id="motion-22-2-2" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the   Director, Financial Services, on the advice of the Manager of Realty   Services, the lease between The Corporation of the City of London and the   Western Fair Association, attached as Schedule “A”, BE APPROVED
 
@@ -3321,7 +3321,7 @@ Unanimous (10-0)
 ### 3#2. 4th Report of the
   London Advisory Committee on Heritage
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the 4th Report of the London Advisory Committee on Heritage from   its meeting held on March 9, 2016:   a)              on   the recommendation of the Managing Director, Planning and City Planner, with   the advice of the Heritage Planner, the...
 
@@ -3332,7 +3332,7 @@ Unanimous (9-0)
 ### 3#5. Amendments to the
   Traffic and Parking By-law
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > Approve that clause 3 be amended to read   as follows:   “That, on the recommendation of the   Managing Director, Environmental and Engineering Services and City Engineer,   the following actions be taken with respect to amendments to the Traffic and   Parking By-law (P.S. 111):   a)         the ...
 
@@ -3350,7 +3350,7 @@ Unanimous (9-0)
 ### 3#5. Amendments to the
   Traffic and Parking By-law
 
-<a id="motion-3-5-1" class="motion-anchor"></a>
+<div id="motion-3-5-1" class="motion-anchor"></div>
 
 > Approve clause 3, as amended.
 
@@ -3362,7 +3362,7 @@ Unanimous (10-0)
   Tender No. 16-02 - 2016 Infrastructure Renewal Program - South, Waterloo and
   Hill Streets Reconstruction Project (Relates to Bill no. 141)
 
-<a id="motion-5-4-0" class="motion-anchor"></a>
+<div id="motion-5-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the award of contracts for the   2016 Infrastructure Renewal Program, South, Waterloo and Hill Streets   Reconstruction Project:   a) ...
 
@@ -3373,7 +3373,7 @@ Unanimous (8-0)
 ### 8#2. Outdoor Tethering
   of Dogs
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > Approve that clause 8 of the 5th Report   of the Community and Protective Services Committee be amended by adding the   following new part c):   “c)       the   Civic Administration BE DIRECTED to prepare a report and a draft potential   amendment to the Dog Licensing & Control By-law, for consid...
 
@@ -3384,7 +3384,7 @@ Unanimous (11-0)
 ### 8#2. Outdoor Tethering
   of Dogs
 
-<a id="motion-8-2-1" class="motion-anchor"></a>
+<div id="motion-8-2-1" class="motion-anchor"></div>
 
 > Approve that clause 8 be amended by   adding the following new part d):   “the Civic Administration BE REQUESTED to   add any related, pertinent information, gleaned during a review of relevant   regulations to an educational initiative focusing on a variety of companion   animal matters,  includ...
 
@@ -3395,7 +3395,7 @@ Unanimous (11-0)
 ### 8#2. Outdoor Tethering
   of Dogs
 
-<a id="motion-8-2-2" class="motion-anchor"></a>
+<div id="motion-8-2-2" class="motion-anchor"></div>
 
 > Approve that clause 9 be amended in the   introduction, to read as follows:   “8.    That the following actions be taken   with respect to the Dog Licensing and Control By-law (By-law PH-4), and the   related matter of outdoor tethering of dogs:”
 
@@ -3413,7 +3413,7 @@ Unanimous (11-0)
 ### 8#2. Outdoor Tethering
   of Dogs
 
-<a id="motion-8-2-4" class="motion-anchor"></a>
+<div id="motion-8-2-4" class="motion-anchor"></div>
 
 > Approve clause 8, as amended.
 
@@ -3424,7 +3424,7 @@ Unanimous (11-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-<a id="motion-v-0" class="motion-anchor"></a>
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering following:
 
@@ -3436,7 +3436,7 @@ Unanimous (11-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTH MEETING HELD ON MARCH 22, 2016
 
-<a id="motion-vi-0" class="motion-anchor"></a>
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Eighth Meeting   held on March 22, 2016.
 
@@ -3446,7 +3446,7 @@ Unanimous (10-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading   of Bill No. 149.
 
@@ -3463,7 +3463,7 @@ Unanimous (10-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-4" class="motion-anchor"></a>
+<div id="motion-xiii-4" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No. 149
 
@@ -3480,7 +3480,7 @@ Unanimous (10-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 149.
 
@@ -3497,7 +3497,7 @@ Unanimous (10-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-6" class="motion-anchor"></a>
+<div id="motion-xiii-6" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading of   Bill No. 151.
 
@@ -3514,7 +3514,7 @@ Unanimous (10-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-7" class="motion-anchor"></a>
+<div id="motion-xiii-7" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No. 151.
 
@@ -3531,7 +3531,7 @@ Unanimous (10-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-8" class="motion-anchor"></a>
+<div id="motion-xiii-8" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 151.
 
@@ -3548,7 +3548,7 @@ Unanimous (10-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-10" class="motion-anchor"></a>
+<div id="motion-xiii-10" class="motion-anchor"></div>
 
 > Motion Passed    Bill     No. 126 By-law     No. A.-7372-98   A     By-law to exempt from taxation for municipal and school purposes a portion     of the multi-residential assessed value of the property at 226, 228, 230     Dundas Street, in the City of London. (4/9/CSC)       Bill     No. 127 By...
 
@@ -3559,7 +3559,7 @@ Unanimous (10-0)
 ### 4. Councillor V.
   Ridley - Absence from Meeting
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3571,7 +3571,7 @@ Unanimous (10-0)
 ### 13. Victoria on the
   River Subdivision (39T-09502/Z-8528) (Relates to Bill No. 149)
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Senior   Planner, Development Services, the following actions be taken with respect to   the application of Sifton Properties Limited, relating to the lands located   at 2404 to 2502 Seven Oaks Ridge, 2786 to 2824 Sheffield Place and 2342 to   2386 Leeds Crossin...
 
@@ -3589,7 +3589,7 @@ Unanimous (10-0)
 ### 13. Victoria on the
   River Subdivision (39T-09502/Z-8528) (Relates to Bill No. 149)
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3607,7 +3607,7 @@ Unanimous (10-0)
 ### 14. Climate Change Risk
   Disclosures on Gas Pumps
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > The motion to Approve part a) of the clause   is put.
 
@@ -3618,7 +3618,7 @@ Unanimous (11-0)
 ### 14. Climate Change Risk
   Disclosures on Gas Pumps
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > The motion to Approve parts b) and c) of   the clause is put.
 
@@ -3636,7 +3636,7 @@ Unanimous (11-0)
 ### 18. Transportation
   Network Companies - Options
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Approve an amendment to part b) to add the   following:   "and that these actions BE CONTINGENT   upon the withdrawal/suspension of all current services by all platforms of   TNC companies, until regulations are in place;"
 
@@ -3654,7 +3654,7 @@ Unanimous (11-0)
 ### 18. Transportation
   Network Companies - Options
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3672,7 +3672,7 @@ Unanimous (11-0)
 ### 23. Additional
   Community and Protective Services Committee
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to provide   dates on the annual meeting calendar for additional meetings, as-needed for   the Community and Protective Services Committee, in order to assist with the   facilitation of meeting/agenda management.
 

@@ -93,7 +93,7 @@ Motion
 ### 2. Director, Financial
   Planning and Policy - 2014 Budget - Public Input
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -104,7 +104,7 @@ Unanimous (13-0)
 ### 3. 2014 Budget -
   Public Participation Meeting
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -4641,7 +4641,7 @@ Motion Passed
 ### 1#3. Municipal Service
   Financing Agreements
 
-<a id="motion-1-3-1" class="motion-anchor"></a>
+<div id="motion-1-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4652,7 +4652,7 @@ Unanimous (14-0)
 ### 1#3. Municipal Service
   Financing Agreements
 
-<a id="motion-1-3-0" class="motion-anchor"></a>
+<div id="motion-1-3-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the City Treasurer, Chief Financial   Officer:    (a)       the   report and presentation from Watson and Associates Economists Ltd. BE   RECEIVED for information; (b)        recommendations (b)(ii) through   (b)(v) BE APPROVED, but implementation BE        ...
 
@@ -4670,7 +4670,7 @@ Unanimous (14-0)
 ### 1#4. Closed Circuit
   Television Surveillance Cameras Expansion
 
-<a id="motion-1-4-1" class="motion-anchor"></a>
+<div id="motion-1-4-1" class="motion-anchor"></div>
 
 > Amend clause 1 to read as follows:   That   the following actions be taken with respect to the installation of closed   circuit television surveillance cameras in the Old East Village area:   (a)     the installation of a wireless surveillance   system at the intersections of Dundas and Rectory S...
 
@@ -4688,7 +4688,7 @@ Unanimous (14-0)
 ### 1#5. Reflective Marking
   Material – Single Source
 
-<a id="motion-1-5-0" class="motion-anchor"></a>
+<div id="motion-1-5-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Executive Director, Planning,   Environmental & Engineering Services, the Civic Administration BE   DIRECTED to undertake the following actions with respect to the purchase of   reflective marking material:   (a)       the   Civic Administration BE AUTHO...
 
@@ -4699,7 +4699,7 @@ Unanimous (14-0)
 ### 1#8. Community
   Engagement Task Force Update
 
-<a id="motion-1-8-0" class="motion-anchor"></a>
+<div id="motion-1-8-0" class="motion-anchor"></div>
 
 > Approve that the following actions be taken with respect to the information   report and the attached presentation from Kevin Van Lierop and   Heather Hallett regarding an update on the work of the Community Engagement   Task Force:   (a)       the    Community Engagement Task Force BE THANKED fo...
 
@@ -4717,7 +4717,7 @@ Unanimous (14-0)
 ### 1#8. Community
   Engagement Task Force Update
 
-<a id="motion-1-8-1" class="motion-anchor"></a>
+<div id="motion-1-8-1" class="motion-anchor"></div>
 
 > Approve that the following actions be taken with respect to London’s   competitive position:   (a)       the   London Economic Development Corporation BE REQUESTED to undertake analysis   and weight data as it relates to London’s competitive position, in order to   assist the Municipal Council in...
 
@@ -4734,7 +4734,7 @@ Unanimous (14-0)
 
 ### 1#9. Bed Bugs
 
-<a id="motion-1-9-0" class="motion-anchor"></a>
+<div id="motion-1-9-0" class="motion-anchor"></div>
 
 > Approve that the Middlesex London Health Unit BE REQUESTED to provide a   report to the appropriate standing committee of Council with respect to its   action plan related to bed bugs, with said report to include, but not be   limited to, matters such as: eradication, improved enforcement, guidan...
 
@@ -4744,7 +4744,7 @@ Unanimous (14-0)
 
 ### 10#2. 697-701 Hale Street
 
-<a id="motion-10-2-1" class="motion-anchor"></a>
+<div id="motion-10-2-1" class="motion-anchor"></div>
 
 > Amend clause 10 by inserting the   following words “including suggestions to improve the Dundas/Hale   intersection area” following the words “above-noted property”.
 
@@ -4762,7 +4762,7 @@ Unanimous (14-0)
 ### 10#3. 2012 Wastewater and
   Treatment Budget
 
-<a id="motion-10-3-1" class="motion-anchor"></a>
+<div id="motion-10-3-1" class="motion-anchor"></div>
 
 > Amend Clause 10 in part (d) by deleting   the word “Water” and by replacing it with the words “Wastewater and   Treatment”
 
@@ -4780,7 +4780,7 @@ Unanimous (14-0)
 ### 10#3. 2012 Wastewater and
   Treatment Budget
 
-<a id="motion-10-3-3" class="motion-anchor"></a>
+<div id="motion-10-3-3" class="motion-anchor"></div>
 
 > Approve   parts (g) and (h) of clause 11.
 
@@ -4791,7 +4791,7 @@ Unanimous (14-0)
 ### 10#3. 2012 Wastewater and
   Treatment Budget
 
-<a id="motion-10-3-4" class="motion-anchor"></a>
+<div id="motion-10-3-4" class="motion-anchor"></div>
 
 > Motion made Councillor P. Hubert to Approve   clause 11, except parts (g) and (h).
 
@@ -4809,7 +4809,7 @@ Unanimous (14-0)
 ### 11#2. Taxi/Limousine
   By-law
 
-<a id="motion-11-2-0" class="motion-anchor"></a>
+<div id="motion-11-2-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 13 of the   Council Procedure By-law, the actions of the Municipal Council taken at its   meeting held on October 24, 2011, in having adopted clause 3(b) of the 17th Report   of the Community and Neighbourhoods Committee, with respect to removing part   3.1(w) of ...
 
@@ -4827,7 +4827,7 @@ Unanimous (14-0)
 ### 11#3. 2012 Curb and
   Gutter Local Improvement – Gretna Green
 
-<a id="motion-11-3-0" class="motion-anchor"></a>
+<div id="motion-11-3-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director, Wastewater and   Treatment, the following actions be taken with respect to the construction of   Curb and Gutter as part of the Local Improvement Program, on initiation, for   both sides of Gretna Green from Maldon Road to Middlewoods:   (a)   ...
 
@@ -4838,7 +4838,7 @@ Unanimous (14-0)
 ### 12#2. 2012 Budget
   Development for Advisory Committees
 
-<a id="motion-12-2-0" class="motion-anchor"></a>
+<div id="motion-12-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Environmental and Engineering   Planning Advisory Committee (EEPAC), the 2012 Budget allocation for the EEPAC   BE INCREASED by $1,000.00 for a total allocation of $2,005, to assist   interested members to attend the 2012 Canadian Urban Forest Conference...
 
@@ -4849,7 +4849,7 @@ Unanimous (14-0)
 ### 12#3. Youth Inquiry
   Development Program
 
-<a id="motion-12-3-0" class="motion-anchor"></a>
+<div id="motion-12-3-0" class="motion-anchor"></div>
 
 > Approve that the attached communication, dated November 9,   2011, from J. Hsi, Science Fair Liaison, Youth Science Ontario, with respect   to the expansion of the Youth Inquiry Development Program, BE REFERRED to the   Civic Administration to look into the above-noted Program, with a report back...
 
@@ -4860,7 +4860,7 @@ Unanimous (14-0)
 ### 12#4. 2012 Water Budget
   and 2012 Wastewater and Treatment Budget - Public Participation Meeting
 
-<a id="motion-12-4-0" class="motion-anchor"></a>
+<div id="motion-12-4-0" class="motion-anchor"></div>
 
 > Approve that at the public participation meeting associated with the 2012   Water Budget and the 2012 Wastewater and Treatment Budget, the following   individuals made an oral submission to the Committee of the Whole, in   connection therewith:   -           Bob   Large - Expressing concern that ...
 
@@ -4878,7 +4878,7 @@ Unanimous (14-0)
 ### 13#2. Riverbend South
   Area Plan - Appendix 4
 
-<a id="motion-13-2-1" class="motion-anchor"></a>
+<div id="motion-13-2-1" class="motion-anchor"></div>
 
 > Refer part   (a) of Clause 13 back to   Civic Administration to review and report back to the appropriate standing   committee with additional information as to the feasibility of discontinuing   the practice of conditions of an application being fulfilled through a second   application.
 
@@ -4889,7 +4889,7 @@ Unanimous (13-0)
 ### 13#2. Riverbend South
   Area Plan - Appendix 4
 
-<a id="motion-13-2-2" class="motion-anchor"></a>
+<div id="motion-13-2-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4900,7 +4900,7 @@ Unanimous (14-0)
 ### 13#3. Confidential
   Appendix - 10th Report of the Advisory Committee on the Environment
 
-<a id="motion-13-3-0" class="motion-anchor"></a>
+<div id="motion-13-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4912,7 +4912,7 @@ Unanimous (14-0)
   2012 Water Budget and 2012 Wastewater and Treatment Budget - Referral to
   Investment and Economic Prosperity Committee
 
-<a id="motion-13-4-1" class="motion-anchor"></a>
+<div id="motion-13-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4931,7 +4931,7 @@ Unanimous (14-0)
   2012 Water Budget and 2012 Wastewater and Treatment Budget - Referral to
   Investment and Economic Prosperity Committee
 
-<a id="motion-13-4-0" class="motion-anchor"></a>
+<div id="motion-13-4-0" class="motion-anchor"></div>
 
 > Receive   for Information that the Committee of the Whole held a recorded vote on the   motion to refer the 2012 Water Budget and 2012 Wastewater and Treatment   Budget to the November 18, 2011 meeting of the Investment and Economic   Prosperity Committee for consideration.  The motion LOST, the ...
 
@@ -4947,7 +4947,7 @@ Unanimous (14-0)
 ### 14#2. New Environmental
   and Ecological Planning Advisory Committee Term Orientation
 
-<a id="motion-14-2-0" class="motion-anchor"></a>
+<div id="motion-14-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Environmental and Ecological   Planning Advisory Committee, the Civic Administration and the Upper Thames   River Conservation Authority (UTRCA) BE REQUESTED to provide orientation information   to the newly appointed advisory committee, according to the...
 
@@ -4958,7 +4958,7 @@ Unanimous (14-0)
 ### 14#3. Dearness Home
   Community Newsletter - November 2011
 
-<a id="motion-14-3-0" class="motion-anchor"></a>
+<div id="motion-14-3-0" class="motion-anchor"></div>
 
 > Approve that the Community and Neighbourhoods Committee reviewed and received   the Dearness Home Community Newsletter for November, 2011. (2011-C11-00)
 
@@ -4970,7 +4970,7 @@ Unanimous (14-0)
   2012 Water Budget and 2012 Wastewater and Treatment Budget Recommendations -
   As Amended
 
-<a id="motion-14-4-1" class="motion-anchor"></a>
+<div id="motion-14-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4989,7 +4989,7 @@ Unanimous (14-0)
   2012 Water Budget and 2012 Wastewater and Treatment Budget Recommendations -
   As Amended
 
-<a id="motion-14-4-0" class="motion-anchor"></a>
+<div id="motion-14-4-0" class="motion-anchor"></div>
 
 > Receive   for Information that the Committee of the Whole held a recorded vote on the   motion to adopt the 2012 Water Budget and 2012 Wastewater and Treatment   Budget recommendations, as amended.  The motion CARRIED, the Members voting   as follows:
 
@@ -5007,7 +5007,7 @@ Unanimous (14-0)
 ### 15#2. Advisory Committee
   Review
 
-<a id="motion-15-2-1" class="motion-anchor"></a>
+<div id="motion-15-2-1" class="motion-anchor"></div>
 
 > Amend part (a) to read as follows:   “the outgoing Chairs or Vice Chairs of the   various advisory committees BE REQUESTED to act as a resource to the Striking   Committee, as required; and,”.
 
@@ -5018,7 +5018,7 @@ Unanimous (14-0)
 ### 15#3. 10th Report of the
   London Diversity and Race Relations Advisory Committee
 
-<a id="motion-15-3-0" class="motion-anchor"></a>
+<div id="motion-15-3-0" class="motion-anchor"></div>
 
 > Approve that the Community and Neighbourhoods Committee reviewed and received   the 10th Report of the London Diversity and Race Relations Advisory Committee   from its meeting held on October 26, 2011.  (See Report attached.)
 
@@ -5029,7 +5029,7 @@ Unanimous (14-0)
 ### 16#2. BFI Canada Inc. –
   441 Industrial Road (Z-7945)
 
-<a id="motion-16-2-0" class="motion-anchor"></a>
+<div id="motion-16-2-0" class="motion-anchor"></div>
 
 > Approve that, notwithstanding the recommendation of the Director of Land Use   Planning and City Planner, with respect to the application of BFI Canada   Inc., relating to the property located at 441 Industrial Road, that the   matter BE REFERRED back to the Civic Administration to provide a furt...
 
@@ -5040,7 +5040,7 @@ Unanimous (14-0)
 ### 16#3. Glanworth Library
   Branch
 
-<a id="motion-16-3-0" class="motion-anchor"></a>
+<div id="motion-16-3-0" class="motion-anchor"></div>
 
 > Approve that the Community and Neighbourhoods Committee received a   communication, dated October 11, 2011, from J. Morgan, Chair, London Public   Library, with respect to an update on the Glanworth Library Branch; it being   noted that the CNC expressed its appreciation for the update and asked ...
 
@@ -5050,7 +5050,7 @@ Unanimous (14-0)
 
 ### 16#4. Naming of London’s Newest Baseball Team
 
-<a id="motion-16-4-0" class="motion-anchor"></a>
+<div id="motion-16-4-0" class="motion-anchor"></div>
 
 > clause 16 of the 28th Report of   the Finance and Administration Committee BE REFERRED to the Civic Administration   for further review.   Motion Passed
 
@@ -5068,7 +5068,7 @@ Unanimous (14-0)
 ### 17#2. 2004145 Ontario
   Limited – 1021 Wonderland Road South (Z-7956)
 
-<a id="motion-17-2-0" class="motion-anchor"></a>
+<div id="motion-17-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director of Land Use Planning and   City Planner, based on the application of 2004145 Ontario Limited, relating   to the property located at 1021 Wonderland Road South, the attached   proposed by-law BE INTRODUCED at the Municipal Council meeting on Nove...
 
@@ -5079,7 +5079,7 @@ Unanimous (14-0)
 ### 17#3. 7th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
-<a id="motion-17-3-0" class="motion-anchor"></a>
+<div id="motion-17-3-0" class="motion-anchor"></div>
 
 > Approve that the Community and Neighbourhoods Committee reviewed and received   clauses 2 to 11, inclusive, of the 7th Report of the Community Safety and   Crime Prevention Advisory Committee from its meeting held on October 27,   2011.  (See Report attached.)
 
@@ -5090,7 +5090,7 @@ Unanimous (14-0)
 ### 19#2. 4th Report of the
   Council Housing Leasership Committee
 
-<a id="motion-19-2-0" class="motion-anchor"></a>
+<div id="motion-19-2-0" class="motion-anchor"></div>
 
 > Approve That the Community and Neighbourhoods Committee reviewed and received   clauses 4 to 5, inclusive, of the 4th Report of the Council Housing   Leadership Committee from its meeting held on October 28, 2011.  (See Report attached.)
 
@@ -5101,7 +5101,7 @@ Unanimous (14-0)
 ### 2#4. Cedar Hollow
   Development Limited – 1671 and 1755 Fanshawe Park Road East (H-7928)
 
-<a id="motion-2-4-0" class="motion-anchor"></a>
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director of Development Planning   and the Managing Director of Development Approvals, based on an application   by Cedar Hollow Development Limited relating to the property located at 1671   & 1755 Fanshawe Park Road East, the revised attached   propose...
 
@@ -5112,7 +5112,7 @@ Unanimous (14-0)
 ### 2#5. Execution of
   contracts related to Dearness Home Medical Director and attending Physicians
 
-<a id="motion-2-5-0" class="motion-anchor"></a>
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Interim Administrator of Dearness   Home, with the concurrence of the Executive Director of Community Services,   the attached revised proposed by-laws (Appendices A and B) BE   INTRODUCED at the Municipal Council meeting to be held on November 21, 2011,...
 
@@ -5130,7 +5130,7 @@ Unanimous (14-0)
 ### 2#6. Mental Health
   Funding
 
-<a id="motion-2-6-0" class="motion-anchor"></a>
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > Approve that the matter of the divestment of geriatric mental health beds by   the Regional Mental Health Centre BE PLACED on the agenda of the next FAC   meeting with Members of the Legislative Assembly of Ontario; it being noted   that specific City concerns as to the approach being taken in pl...
 
@@ -5141,7 +5141,7 @@ Unanimous (14-0)
 ### 20#2. 10th Report of the
   Advisory Committee on the Environment
 
-<a id="motion-20-2-0" class="motion-anchor"></a>
+<div id="motion-20-2-0" class="motion-anchor"></div>
 
 > Approve that the Community and Neighbourhoods Committee reviewed and received   the 10th Report of the Advisory Committee on the Environment from its meeting   held on November 10, 2011.  (See Report attached.)
 
@@ -5151,7 +5151,7 @@ Unanimous (14-0)
 
 ### 21#2. In Camera
 
-<a id="motion-21-2-0" class="motion-anchor"></a>
+<div id="motion-21-2-0" class="motion-anchor"></div>
 
 > Receive   for Information that the Community and Neighbourhoods Committee passed the   following resolution prior to moving in camera from 5:38 p.m. to 5:42 p.m.:   “That the Community and Neighbourhoods   Committee move in camera to discuss matters pertaining to personal matters   about identifi...
 
@@ -5162,7 +5162,7 @@ Unanimous (14-0)
 ### 3#2. Workplace Diversity
   Statement and Plan Update
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > Amend by adding a new part (c) as follows:   “(c)      the   City of London Workplace Diversity Statement BE REFERRED to the Chief Human   Resources Officer to review and report back with revised wording for the   Statement and Plan, that provides emphasis with respect to “diversity”, “inclusiven...
 
@@ -5180,7 +5180,7 @@ Unanimous (14-0)
 ### 3#2. Workplace Diversity
   Statement and Plan Update
 
-<a id="motion-3-2-2" class="motion-anchor"></a>
+<div id="motion-3-2-2" class="motion-anchor"></div>
 
 > Motion made to Approve clause 3, as   amended, is put.
 
@@ -5192,7 +5192,7 @@ Unanimous (14-0)
   on CSRF Funded SWM Works – Procedure for Reimbursement of Pre-Approved Owner
   Costs
 
-<a id="motion-3-3-0" class="motion-anchor"></a>
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director, Development Finance, the   following actions be taken with respect to the proposed implementation of   procedures relating to the financing of the construction of Storm Water   Management facilities:   (a)       procedures   for the reimburseme...
 
@@ -5203,7 +5203,7 @@ Unanimous (14-0)
 ### 3#4. Banana Toss and
   Transgendered Incident
 
-<a id="motion-3-4-0" class="motion-anchor"></a>
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > Approve that the City Clerk BE REQUESTED to follow-up with the London   Diversity and Race Relations Advisory Committee (LDRRAC) and the London Urban   Services Organization (LUSO), to request their responses to the Municipal   Council direction from its meeting held on October 3, 2011, relating ...
 
@@ -5221,7 +5221,7 @@ Unanimous (14-0)
 ### 3#5. Capital Assets and
   Revenue Alternatives
 
-<a id="motion-3-5-0" class="motion-anchor"></a>
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the City Treasurer, Chief Financial   Officer, the following actions be taken with respect to the discussion paper,   dated June 21, 2011, on capital assets and revenue alternatives from the City   Treasurer, Chief Financial Officer:    (a)       the   princ...
 
@@ -5239,7 +5239,7 @@ Unanimous (14-0)
 ### 3#6. Political Action
   List
 
-<a id="motion-3-6-0" class="motion-anchor"></a>
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > Approve that the Civic Administration BE REQUESTED to present to the Services   Review Committee information related to pending issues for discussion with   the local MPP’s and MP’s, as well as the impact of previous discussions with   the local MPP’s and MP’s.
 
@@ -5250,7 +5250,7 @@ Unanimous (14-0)
 ### 4#2. Hesham Abdelsayed –
   1472 Huron Street (Z-7887)
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Amend part (b) by removing the words   “and Director of Land Use Planning and City Planner” and the words “and   planning representation”.
 
@@ -5261,7 +5261,7 @@ Unanimous (14-0)
 ### 4#3. National Crime
   Prevention Strategy
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Community Safety and Crime   Prevention Advisory Committee (CSCP), the following actions be taken with   respect to the National Crime Prevention Strategy:   (a)       L.   Steel BE REGISTERED with Public Safety Canada to be notified of any potential   f...
 
@@ -5279,7 +5279,7 @@ Unanimous (14-0)
 ### 4#4. Civic Works
   Committee
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > Approve that the membership of the Civic Works Committee for the term   December 1, 2011 to November 30, 2012 BE ESTABLISHED as follows:                                       Councillor   H. L. Usher (Chair)                                     Mayor   J. Fontana (ex-officio)                      ...
 
@@ -5297,7 +5297,7 @@ Unanimous (14-0)
 ### 5#2. Closure of Southern
   170 meters of Crestwood Drive
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director of Land Use Planning and   City Planner, the Chief Surveyor BE DIRECTED to initiate the process of   legally closing the southern 107 meters of Crestwood Drive and the 0.305   metre reserve in accordance with the City's Street and Lane closing  ...
 
@@ -5307,7 +5307,7 @@ Unanimous (14-0)
 
 ### 5#3. UFORE Leaf Cover
 
-<a id="motion-5-3-0" class="motion-anchor"></a>
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Trees and Forests Advisory   Committee (TFAC), the following actions be taken with respect to the Urban   Forest Effects Model (UFORE):   (a)       the   Civic Administration BE REQUESTED to include the planning district and   sub-watershed leaf cover ma...
 
@@ -5325,7 +5325,7 @@ Unanimous (14-0)
 ### 5#4. Community Services
   Committee
 
-<a id="motion-5-4-0" class="motion-anchor"></a>
+<div id="motion-5-4-0" class="motion-anchor"></div>
 
 > Approve   that the membership of the Community Services Committee for the term December   1, 2011 to November 30, 2012 BE ESTABLISHED as follows:                                       Councillor   M. Brown (Chair)                                     Mayor   J. Fontana (ex-officio)                ...
 
@@ -5343,7 +5343,7 @@ Unanimous (14-0)
 ### 6#2. Thames Valley
   Parkway Boardwalk Construction – Tender 11-97
 
-<a id="motion-6-2-0" class="motion-anchor"></a>
+<div id="motion-6-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director of Land Use Planning and   City Planner, the following actions be taken with respect to the Thames   Valley Boardwalk Construction (Tender 11-97):   (a)       the   tender submitted by Royal Fence Ltd., P.O. Box 121, 2309 Westchester Bourne,   D...
 
@@ -5354,7 +5354,7 @@ Unanimous (14-0)
 ### 6#3. Investment in
   Affordable Housing for Ontario Approval of Program Delivery and Fiscal Plan
 
-<a id="motion-6-3-0" class="motion-anchor"></a>
+<div id="motion-6-3-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Council Housing Leadership   Committee (CHLC), the recommendation of the Director of Municipal Housing,   with the concurrence of the Executive Director of Community Services, the   proposed Investment in Affordable Housing (IAH) Program Delivery and Fis...
 
@@ -5372,7 +5372,7 @@ Unanimous (14-0)
 ### 6#4. Finance and
   Administrative Services Committee
 
-<a id="motion-6-4-0" class="motion-anchor"></a>
+<div id="motion-6-4-0" class="motion-anchor"></div>
 
 > Approve that   the membership of the Finance and Administrative Services Committee for the   term December 1, 2011 to November 30, 2012 BE ESTABLISHED as   follows:                                       Mayor   J. Fontana (Chair)                                     Councillor   J. L. Baechler    ...
 
@@ -5390,7 +5390,7 @@ Unanimous (14-0)
 ### 7#2. Decade Group Inc. –
   1311 Wharncliffe Road South – Westbury Subdivision (39T-05509) (H-7974)
 
-<a id="motion-7-2-0" class="motion-anchor"></a>
+<div id="motion-7-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director of Development Planning   and the Managing Director, Development Approvals Business Unit, based on the   application of Decade Group Inc., relating to the property located at 1311   Wharncliffe Road South, the attached proposed by-law BE   INTRO...
 
@@ -5402,7 +5402,7 @@ Unanimous (14-0)
   Affordable Housing Capital Reserve Fund Policy for Participation in the
   Investment in the Affordable Housing Program
 
-<a id="motion-7-3-0" class="motion-anchor"></a>
+<div id="motion-7-3-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Council Housing Leadership   Committee (CHLC), the recommendation of the Director of Municipal Housing,   with the concurrence of the Executive Director of Community Services, the   following actions be taken with respect to the Affordable Housing Capita...
 
@@ -5413,7 +5413,7 @@ Unanimous (14-0)
 ### 7#4. Planning and
   Environment Committee
 
-<a id="motion-7-4-0" class="motion-anchor"></a>
+<div id="motion-7-4-0" class="motion-anchor"></div>
 
 > Approve that the membership of the Planning & Environment Committee for   the term December 1, 2011 to November 30, 2012 BE ESTABLISHED as follows:                                       Councillor   W. J. Polhill (Chair)                                     Mayor   J. Fontana (ex-officio)         ...
 
@@ -5432,7 +5432,7 @@ Unanimous (14-0)
   Limited – 149, 153 and 187 Southdale Road West – Bierens Subdivision
   (39T-08508) (H-7975)
 
-<a id="motion-8-2-0" class="motion-anchor"></a>
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director of Development Planning   and the Managing Director, Development Approvals Business Unit, based on the   application of Sifton Properties Ltd., relating to the property located at   149, 153 and 187 Southdale Rd. West, the attached proposed   by...
 
@@ -5443,7 +5443,7 @@ Unanimous (14-0)
 ### 8#3. Revised Proposal
   Governance Structure
 
-<a id="motion-8-3-0" class="motion-anchor"></a>
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Council Housing Leadership   Committee (CHLC), the CHLC, as it currently exists, BE INCLUDED in any   revisions to the City of London governance structure; it being noted that the   CHLC reviewed and received a communication, dated June 10, 2011, from th...
 
@@ -5454,7 +5454,7 @@ Unanimous (14-0)
 ### 8#4. Public Safety
   Committee
 
-<a id="motion-8-4-0" class="motion-anchor"></a>
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > Approve that the membership of the Public Safety Committee for the term   December 1, 2011 to November 30, 2012 BE ESTABLISHED as follows:                                       Councillor   D. Brown (Chair)                                     Mayor   J. Fontana (ex-officio)                       ...
 
@@ -5472,7 +5472,7 @@ Unanimous (14-0)
 ### 9#2. Consideration to
   Ban Shark Fin Products within the City of London
 
-<a id="motion-9-2-0" class="motion-anchor"></a>
+<div id="motion-9-2-0" class="motion-anchor"></div>
 
 > Approve that the attached communication, dated November 4, 2011,   from Councillor S. White, with respect to a request to ban shark fin products   within the City of London, BE REFERRED to the Civic Administration to   correspond with the appropriate Ministry to receive further information on   t...
 
@@ -5490,7 +5490,7 @@ Unanimous (14-0)
 ### 9#2. Consideration to
   Ban Shark Fin Products within the City of London
 
-<a id="motion-9-2-1" class="motion-anchor"></a>
+<div id="motion-9-2-1" class="motion-anchor"></div>
 
 > Approve that the Civic Administration BE   DIRECTED to take the necessary steps to implement a ban on shark fin products   within the City of London and that the appropriate Federal and Provincial   Ministers, the Association of Municipalities of Ontario and the Federation of   Canadian Municipal...
 
@@ -5501,7 +5501,7 @@ Unanimous (14-0)
 ### 9#3. Foundation Drain
   Disconnection to Mitigate Basement Flooding
 
-<a id="motion-9-3-1" class="motion-anchor"></a>
+<div id="motion-9-3-1" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director of Wastewater and   Treatment, the following actions be taken with respect to the award of a   contract for the installation of Greenway Wastewater Treatment Plant Ash   Handling, Tender 11-90 (Project ES5165-11):   (a)       the   proposal subm...
 
@@ -5511,7 +5511,7 @@ Unanimous (14-0)
 
 ### 9#4. Striking Committee
 
-<a id="motion-9-4-0" class="motion-anchor"></a>
+<div id="motion-9-4-0" class="motion-anchor"></div>
 
 > Approve that the following BE APPOINTED to the Striking Committee for the   2010-2014 Council term:                           Kerry Hendricks   (Past Member of the LDRRAC)                         Michelle Baldwin   (Pillar Non-Profit Network)                         Greg Thompson   (Urban League ...
 
@@ -5522,7 +5522,7 @@ Unanimous (14-0)
 ### II. DISCLOSURES
   OF PECUNIARY INTEREST
 
-<a id="motion-ii-0" class="motion-anchor"></a>
+<div id="motion-ii-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Nineteenth   Meeting held on November 7, 2011.
 
@@ -5533,7 +5533,7 @@ Unanimous (14-0)
 ### VII. ADDED
   REPORTS
 
-<a id="motion-vii-0" class="motion-anchor"></a>
+<div id="motion-vii-0" class="motion-anchor"></div>
 
 > pursuant to section 7.3 of the Council   Procedure By-law, the order to business BE CHANGED to permit the   consideration of clause 9 of the 19th Report of the Community and   Neighbourhoods Committee, related to consideration to ban shark fin products   within the City of London, at 6:00 p.m.
 
@@ -5544,7 +5544,7 @@ Unanimous (14-0)
 ### 3. Director of Intergovernmental and Community
   Liaison – Status Report on Team London Trade Scoping Mission to China.
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Approve the information report, dated November 21,   2011 from the Director of Intergovernmental and Community Liaison with   respect to the Team London trade scoping mission to China.
 
@@ -5555,7 +5555,7 @@ Unanimous (14-0)
 ### 4. Banking Services
   Agreement
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion made Councillor J.P. Bryant to   Approve that, on the recommendation of the City Treasurer, Chief Financial   Officer, the attached proposed by-law (Appendix A) BE   INTRODUCED at the Municipal Council meeting of November 21, 2011 to:   (a)       approve   the Banking Services Agreement an...
 
@@ -5566,7 +5566,7 @@ Unanimous (14-0)
 ### 5. Orchestra London
   2010-2011 Financial Results
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Approve that on the recommendation of the Deputy City Treasurer, the November   16, 2011 report regarding Orchestra London’s 2010-2011 financial results BE   RECEIVED for information.
 
@@ -5578,7 +5578,7 @@ Unanimous (12-0)
   Machinery Inc. to Extend its Option on Parts 15 to 19, Plan 33R-17397 -
   Skyway Industrial Park
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Managing Director - Corporate   Assets, on the advice of the Manager Realty Services, the following actions   be taken with respect to the request from London Machinery Inc. to extend its   option on Parts 15 to 19, Plan 33R-17397 of Skyway Industrial Pa...
 
@@ -5589,7 +5589,7 @@ Unanimous (12-0)
 ### 7. Declare Property
   Surplus and Sale of Part of Barton Street Road Allowance
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Managing Director - Corporate   Assets, on the advice of the Manager Realty Services, with respect to the   City-owned Barton Street road allowance north of Central Avenue, described as   Parts 1, 2 and 3, Reference Plan 33R-18052, containing an area of ...
 
@@ -5600,7 +5600,7 @@ Unanimous (14-0)
 ### 8. Declare Land Surplus
   and Sale to Union Gas Limited
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Managing Director - Corporate   Assets, on the advice of the Manager Realty Services, with respect to the   City-owned land located on the north side of Bradley Avenue east of Veteran’s   Memorial Parkway, described as Blocks 1 and 15, Plan 33M-609 (Part...
 
@@ -5611,7 +5611,7 @@ Unanimous (14-0)
 ### 9. SensoDetect
   Aktiebolag Memorandum of Agreement
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director of Intergovernmental and   Community Liaison, the Mayor BE AUTHORIZED to sign the attached   Memorandum of Understanding (MOU) with SensoDetect Aktiebolag.
 
@@ -5622,7 +5622,7 @@ Unanimous (14-0)
 ### 10. Canada Ukraine
   Municipal Local Economic Development Program - Mission to Ukraine
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Director of Intergovernmental and   Community Liaison, the November 16, 2011 report on the City of London’s   participation in the Ukraine Municipal Local Economic Development Program BE   RECEIVED.
 
@@ -5633,7 +5633,7 @@ Unanimous (14-0)
 ### 11. Team London Trade
   Scoping Mission to China
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Approve that the Director of Intergovernmental and Community Liaison BE   DIRECTED to submit a report to the November 21, 2011 meeting of the Municipal   Council, providing additional details as to which individuals from The   Corporation of the City of London will be going on the Team London Tra...
 
@@ -5644,7 +5644,7 @@ Unanimous (14-0)
 ### 12. Revision to Code of
   Conduct for Members of Municipal Council
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Approve that, the proposed by-law to amend Council Policy 5(30) – Code of   Conduct for Members of Municipal Council, by referencing the Procurement of   Goods and Services Policy – Interference in the Procurement Process BE   REFERRED back to staff for inclusion of further clarification as to th...
 
@@ -5655,7 +5655,7 @@ Unanimous (14-0)
 ### 13. Annual Business
   Achievement Awards Sponsorship
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Approve that the City Manager BE AUTHORIZED to enter into an Event   Sponsorship Agreement with the London Chamber of Commerce for a “Silver   Sponsorship” of the 2012 Business Achievement Award Program; it being noted   that the associated cost of $6000 is to be accommodated within the approved ...
 
@@ -5666,7 +5666,7 @@ Unanimous (14-0)
 ### 15. Municipal Services
   Financing Agreements
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > receive   clause 15.   Clause 15 reads as follows:   The   Finance and Administration Committee reviewed and noted correspondence from   L. J. Townsend, Townsend and Associates; and S. Levin and G. McGinn- McTeer,   Urban League of London Submissions re Municipal Services Financing Agreements
 
@@ -5677,7 +5677,7 @@ Unanimous (14-0)
 ### 16. Naming of London’s
   Newest Baseball Team
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Refer consideration of clause 16 to after   closed session, in order to receive legal advice.
 
@@ -5695,7 +5695,7 @@ Unanimous (14-0)
 ### 17. Funding of Future
   Industrial Land Acquisitions
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Approve that $4.7 million BE APPROVED for funding future industrial land   acquisitions, with the source of financing to be as follows:   2011 Capital Levy                   $1,100,000* Debt                                        $2,900,000 Industrial Land Reserve          $     700,000          ...
 
@@ -5706,7 +5706,7 @@ Unanimous (14-0)
 ### 17. Funding of Future
   Industrial Land Acquisitions
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Approve that in the event a Member of   Council is involved in international travel representing the Municipal   Council, the appropriate Standing Committee BE ADVISED of the nature of the   trip and the source of financing for same, so that the Municipal Council can   provide its support for the...
 
@@ -5717,7 +5717,7 @@ Unanimous (14-0)
 ### 18. 9th Report of the
   Trees and Forests Advisory Committee
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Approve that the Community and Neighbourhoods Committee reviewed and received   clauses 2 to 6, inclusive, of the 9th Report of the Trees and Forests   Advisory Committee from its meeting held on October 26, 2011.  (See Report attached.)
 
@@ -5729,7 +5729,7 @@ Unanimous (14-0)
   Arrangements with Old Oak Properties Inc. for Sugar Creek Park and Adjacent
   Roads
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Approve   that, notwithstanding the recommendation of the Executive Director of   Planning, Environmental and Engineering Services,  the Executive Director of   Planning, Environmental and Engineering Services Report relating to several   partnership arrangements within Sugar Creek Park and the a...
 
@@ -5740,7 +5740,7 @@ Unanimous (14-0)
 ### 21. 756949 Ontario
   Limited – 1647 Fanshawe Park Road East (39CD-10503/Z-7785)
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Approve that the Built and Natural Environment Committee (BNEC) reviewed and   received an information report from the Managing Director of the Development   Approvals Business Unit and the Director of Development Planning, in response   to the letter of September 6, 2011 from C. M. Wiebe, MHBC P...
 
@@ -5751,7 +5751,7 @@ Unanimous (14-0)
 ### 22. 8th Report of the
   Transportation Advisory Committee
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Approve that the Built and Natural Environment Committee reviewed and   received the 8th Report of the Transportation Advisory Committee, from its   meeting held on November 1, 2011.
 
@@ -5762,7 +5762,7 @@ Unanimous (14-0)
 ### 23. 11th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Approve that the Built and Natural Environment Committee heard a verbal   presentation from D. Sheppard, Chair, Environmental and Ecological Planning   Advisory Committee (EEPAC) and reviewed and received clauses 4 through 18,   inclusive, of the 11th Report of the EEPAC, from its meeting held on...
 
@@ -5773,7 +5773,7 @@ Unanimous (14-0)
 ### 24. Request for
   Delegation Status – Veterans Memorial Parkway Noise and Vibration Studies
 
-<a id="motion-24-0" class="motion-anchor"></a>
+<div id="motion-24-0" class="motion-anchor"></div>
 
 > Approve that the Built and Natural Environment Committee (BNEC) received a   request for delegation status from C. Dodds, 248 Simpson Crescent, with   respect to Veterans Memorial Parkway noise and vibration studies.  The BNEC   did not grant delegation status to Mrs. C. Dodds.
 
@@ -5784,7 +5784,7 @@ Unanimous (14-0)
 ### 25. Confidential
   Matters
 
-<a id="motion-25-0" class="motion-anchor"></a>
+<div id="motion-25-0" class="motion-anchor"></div>
 
 > Receive   for Information that the Built and Natural Environment Committee convened in   camera from 7:15 p.m. to 7:26 p.m., after having passed a motion to do so,   with respect to the following matters:   C-1.     A   matter being considered pertaining to litigation or potential litigation with...
 

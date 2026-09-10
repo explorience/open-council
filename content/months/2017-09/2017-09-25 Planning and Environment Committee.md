@@ -857,7 +857,7 @@ The meeting adjourned at 7:10 PM.
 ### 2. STAFF REPORT - Property
   located at 391 South Street (Colborne Building) - Request for Designation
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -869,7 +869,7 @@ Unanimous (4-0)
 ### 3. STAFF REPORT -
   Subdivision Special Provisions - Hajjar Subdivision (39T-15505)
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -881,7 +881,7 @@ Unanimous (6-0)
 ### 4. STAFF REPORT -
   Subdivision Special Provisions -  Lawson Meadows Subdivision Phase 2  (39T-14501)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -893,7 +893,7 @@ Unanimous (6-0)
 ### 5. STAFF REPORT -
   Subdivision Special Provisions - Coronation Subdivision (39T-15502)
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -905,7 +905,7 @@ Unanimous (4-0)
 ### 6. STAFF REPORT - Property
   located at 1295 Riverbend Road (H-8784)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -918,7 +918,7 @@ Unanimous (6-0)
   Application by Speyside East Corporation re property located at 3105 Bostwick
   Road (Talbot Village Phase 5 - 39T-14506) (H-8781)
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -930,7 +930,7 @@ Unanimous (6-0)
 ### 8. STAFF REPORT -
   London Invasive Plant Management Strategy
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -942,7 +942,7 @@ Unanimous (6-0)
 ### 9. STAFF REPORT -
   Building Division Monthly Report for July 2017
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -955,7 +955,7 @@ Unanimous (6-0)
   Designation of an Improvement Area Under Section 204 of the Municipal Act,
   2001 – Hyde Park BIA
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -968,7 +968,7 @@ Unanimous (6-0)
   Dudek, Chair, London Advisory Committee on Heritage - 11th Report on the
   London Advisory Committee on Heritage
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -984,7 +984,7 @@ Unanimous (6-0)
   Commissioners Road East and 2652 Jackson Road - Official Plan Amendment
   (39T-06507/OZ-7176/0-7178)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1007,7 +1007,7 @@ Unanimous (6-0)
   Commissioners Road East and 2652 Jackson Road - Official Plan Amendment
   (39T-06507/OZ-7176/0-7178)
 
-<a id="motion-12-1" class="motion-anchor"></a>
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1023,7 +1023,7 @@ Unanimous (6-0)
   Commissioners Road East and 2652 Jackson Road - Official Plan Amendment
   (39T-06507/OZ-7176/0-7178)
 
-<a id="motion-12-2" class="motion-anchor"></a>
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1039,7 +1039,7 @@ Unanimous (6-0)
   Commissioners Road East and 2652 Jackson Road - Official Plan Amendment
   (39T-06507/OZ-7176/0-7178)
 
-<a id="motion-12-3" class="motion-anchor"></a>
+<div id="motion-12-3" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -1059,7 +1059,7 @@ Unanimous (6-0)
   Request from Municipality of Middlesex Centre: Arva Sanitary Servicing and
   Delaware Water Servicing
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1072,7 +1072,7 @@ Unanimous (6-0)
   Request from Municipality of Middlesex Centre: Arva Sanitary Servicing and
   Delaware Water Servicing
 
-<a id="motion-13-1" class="motion-anchor"></a>
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Failed
 

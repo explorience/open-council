@@ -567,7 +567,7 @@ Motion
 ### 2. 5th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -579,7 +579,7 @@ Unanimous (5-0)
 ### 3. 5th Report of the
   London Housing Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -591,7 +591,7 @@ Unanimous (5-0)
 ### 4. London's Homeless
   Prevention System - Progress Report and Update
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -603,7 +603,7 @@ Unanimous (5-0)
 ### 5. London's Homeless
   Prevention System - Housing Stability Bank
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -616,7 +616,7 @@ Unanimous (5-0)
   for Amendment to the 189 Dundas Developments Inc. Municipal Contribution
   Agreement
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -630,7 +630,7 @@ Unanimous (5-0)
   Housing for Ontario (2014 Extension) to the Housing Development Corporation,
   London
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -642,7 +642,7 @@ Unanimous (5-0)
 ### 8. 7th and 8th Reports
   of the London Diversity and Race Relations Advisory Committee
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Voting   Record:   Motion   Passed
 
@@ -654,7 +654,7 @@ Unanimous (4-0)
 ### 9. Vehicles for Hire -
   New Technologies
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Voting   Record:   Motion   Passed
 
@@ -671,7 +671,7 @@ Unanimous (4-0)
 ### 10. Status Report -
   Category 7 Refreshment Vehicles - Food Trucks
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -682,7 +682,7 @@ Unanimous (5-0)
 
 ### 11. E-bikes on Sidewalks
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -694,7 +694,7 @@ Unanimous (5-0)
 ### 12. Deferred Matters
   List
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -706,7 +706,7 @@ Unanimous (5-0)
 ### 13. Pay Day Loan and
   Cheque Cashing Services
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

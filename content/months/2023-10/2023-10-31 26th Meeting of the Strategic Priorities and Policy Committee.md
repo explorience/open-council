@@ -2333,7 +2333,7 @@ Motion carries. We are adjourned.
 
 ### 2.1. London's Housing Pledge: A Path to 47,000 Units by 2031 Update
 
-<a id="motion-2-1-1" class="motion-anchor"></a>
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That the delegation request for M. Wallace, LDI, BE APPROVED to be heard at this time.
 
@@ -2343,7 +2343,7 @@ Unanimous (14-0)
 
 ### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
 
-<a id="motion-2-2-1" class="motion-anchor"></a>
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > That the delegation request for Peter Gioiosa, BE APPROVED to be heard at this time.
 
@@ -2353,7 +2353,7 @@ Unanimous (14-0)
 
 ### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
 
-<a id="motion-2-2-2" class="motion-anchor"></a>
+<div id="motion-2-2-2" class="motion-anchor"></div>
 
 > That, with respect to the October Progress Update – Health & Homelessness Whole of Community System Response, the following actions be taken: a) that a new part c) be added to read “that, a one-time grant of $250,000 to the Argyle and Hamilton Road Business Improvement Associations be APPROVED, w...
 
@@ -2372,7 +2372,7 @@ Unanimous (14-0)
 
 ### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
 
-<a id="motion-2-2-3" class="motion-anchor"></a>
+<div id="motion-2-2-3" class="motion-anchor"></div>
 
 > That, the proposed amendment be amended to include: a) a new part be added to read “that, a one-time grant of $125,000 to the Hyde Park Business Improvement Association be APPROVED, with funding to be sourced from the Operating Budget Contingency Reserve funds; b) that the existing parts BE AMEND...
 
@@ -2391,7 +2391,7 @@ Unanimous (14-0)
 
 ### 2.2. October Progress Update - Health and Homelessness Whole of Community System Response
 
-<a id="motion-2-2-4" class="motion-anchor"></a>
+<div id="motion-2-2-4" class="motion-anchor"></div>
 
 > That with respect to the October Progress Update – Health & Homelessness Whole of Community System Response, the following actions be taken: Civic Administration BE DIRECTED to reach out to all Business Improvement Associations and invite a representative to participate in Business Reference Tabl...
 
@@ -2401,7 +2401,7 @@ Unanimous (12-0)
 
 ### 2.3. Community Cold Weather Response
 
-<a id="motion-2-3-1" class="motion-anchor"></a>
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, that the following actions be taken regarding the Community Cold Weather Response Report; c)    TO AUTHORIZE and APPROVE a one-time funding allocation of up to $157,224 from the Social Services Reserve Fund for...
 
@@ -2420,7 +2420,7 @@ Unanimous (12-0)
 
 ### 4.1. Confirmation of Appointments to RBC Place London
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the appointments to the RBC Place London Board of Directors:    a) Sara De Candido (Health Care Sector), Class 1, BE APPOINTED for the term ending November 14, 2024; and    b) Jennifer Diplock BE APPOINTED for the term ending November 14, 2024.
 
@@ -2430,7 +2430,7 @@ Unanimous (15-0)
 
 ### 4.3. City of London's Response to Housing and Homelessness - Councillors S. Stevenson and J. Pribil
 
-<a id="motion-4-3-1" class="motion-anchor"></a>
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the City of London’s response to Housing and Homelessness and report back to the November 21, 2023 Strategic Priorities and Policy Committee meeting:    a) the Civic Administration BE DIRECTED to report back on the recovery services currently be...
 
@@ -2449,7 +2449,7 @@ Unanimous (15-0)
 
 ### 6. Confidential (Enclosed for Members only.)
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > That the following items BE REFERRED to the Council Meeting to be held on November 7, 2023 for consideration; 6.1 Land Acquisition/Disposition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations A matter pertaining to the pro...
 

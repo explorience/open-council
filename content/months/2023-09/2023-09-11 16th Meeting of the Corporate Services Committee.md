@@ -391,7 +391,7 @@ Moved by Councilor Stevenson, seconded by Councilor Ferreira. Are you sure you w
 
 ### 4. Items for Direction
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That Items 4.1 to 4.3 BE APPROVED.
 
@@ -401,7 +401,7 @@ Unanimous (4-0)
 
 ### 4.4. Application - Issuance of Proclamation - National British Home Child Day
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That based on the application dated August 15, 2023 from Home Child Canada, September 28, 2023 BE PROCLAIMED National British Home Child Day.
 

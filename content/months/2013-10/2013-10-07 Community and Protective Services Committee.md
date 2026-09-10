@@ -191,7 +191,7 @@ Motion
 ### 5. 8th Report of the
   London Diversity and Race Relations Advisory Committee
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -203,7 +203,7 @@ Unanimous (4-0)
 ### 6. Dillon Consulting
   Contract
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -215,7 +215,7 @@ Unanimous (4-0)
 ### 7. Call for Board
   Nominations - Housing Services Corporation Board
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -227,7 +227,7 @@ Unanimous (4-0)
 ### 8. Amethyst Award
   Nomination Letter of Support
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

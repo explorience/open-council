@@ -491,7 +491,7 @@ Motion
   Your Service
   Video
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Voting   Record:   Motion   Passed
 
@@ -503,7 +503,7 @@ Unanimous (14-0)
 ### 3. London Hydro Inc. -
   2012 Annual Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-1" class="motion-anchor"></a>
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -515,7 +515,7 @@ Unanimous (14-0)
 ### 3. London Hydro Inc. -
   2012 Annual Meeting of the Shareholder Annual Resolutions
 
-<a id="motion-3-2" class="motion-anchor"></a>
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -528,7 +528,7 @@ Unanimous (14-0)
   Middlesex Housing Corporation - 2012 Annual Meeting of the Shareholder Annual
   Resolutions
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -540,7 +540,7 @@ Unanimous (14-0)
 ### 5. Development Charges
   Policy Review - Local Services Policy
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -560,7 +560,7 @@ Unanimous (14-0)
   Corporate Services and City Treasurer, Chief Financial Officer - Development
   Charge Policy - DC Area Specific Charges
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -580,7 +580,7 @@ Unanimous (14-0)
   Corporate Services and City Treasurer, Chief Financial Officer - Development
   Charge Policy - DC Area Specific Charges
 
-<a id="motion-6-3" class="motion-anchor"></a>
+<div id="motion-6-3" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -3077,7 +3077,7 @@ Thank you.
 
 ### 3.1. 3924, 4012, and 4050 Colonel Talbot Road - O-26047/Z-26046/39T-12503
 
-<a id="motion-3-1-2" class="motion-anchor"></a>
+<div id="motion-3-1-2" class="motion-anchor"></div>
 
 > That part d) of the motion BE AMENDED to read as follows: d)        with respect to the proposed red-line revisions to the draft plan of subdivision for Heathwoods Subdivision as submitted by Auburn Developments Inc., the Planning and Environment Committee REPORT TO the Approval Authority, on the...
 
@@ -3087,7 +3087,7 @@ Unanimous (5-0)
 
 ### 3.1. 3924, 4012, and 4050 Colonel Talbot Road - O-26047/Z-26046/39T-12503
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -3097,7 +3097,7 @@ Unanimous (5-0)
 
 ### 3.3. 1837 Churchill Avenue - Z-26048
 
-<a id="motion-3-3-1" class="motion-anchor"></a>
+<div id="motion-3-3-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Al-Taqwa Academy (c/o Strik Baldinelli Moniz Ltd.) relating to the property located at 1837 Churchill Avenue, the proposed by-law as appended to the staff repor...
 
@@ -3114,7 +3114,7 @@ Unanimous (5-0)
 
 ### 3.7. 36 Wethered Street - Z-26050
 
-<a id="motion-3-7-0" class="motion-anchor"></a>
+<div id="motion-3-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants Ltd. (c/o Jay McGuffin) relating to the property located at 36 Wethered Street, the proposed by-law as appended to the staff...
 
@@ -3133,7 +3133,7 @@ Unanimous (5-0)
 
 ### 3.8. 929 Cheapside Street - Z-26003
 
-<a id="motion-3-8-2" class="motion-anchor"></a>
+<div id="motion-3-8-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED in part c) to include a public site plan process.
 
@@ -3143,7 +3143,7 @@ Unanimous (5-0)
 
 ### 3.8. 929 Cheapside Street - Z-26003
 
-<a id="motion-3-8-3" class="motion-anchor"></a>
+<div id="motion-3-8-3" class="motion-anchor"></div>
 
 > That part c) of the motion, as amended, BE APPROVED.
 
@@ -3162,7 +3162,7 @@ Unanimous (5-0)
 
 ### 3.8. 929 Cheapside Street - Z-26003
 
-<a id="motion-3-8-4" class="motion-anchor"></a>
+<div id="motion-3-8-4" class="motion-anchor"></div>
 
 > Motion to approve part a)
 
@@ -3181,7 +3181,7 @@ Unanimous (5-0)
 
 ### 3.8. 929 Cheapside Street - Z-26003
 
-<a id="motion-3-8-5" class="motion-anchor"></a>
+<div id="motion-3-8-5" class="motion-anchor"></div>
 
 > Motion to approve part b)
 
@@ -3191,7 +3191,7 @@ Unanimous (5-0)
 
 ### 3.8. 929 Cheapside Street - Z-26003
 
-<a id="motion-3-8-8" class="motion-anchor"></a>
+<div id="motion-3-8-8" class="motion-anchor"></div>
 
 > That the Planning and Environment Committee recess at this time, for 10 minutes.
 
@@ -3201,7 +3201,7 @@ Unanimous (5-0)
 
 ### 3.10. 517-525 Fanshawe Park Road East and 1536 Geary Avenue - Z-26039
 
-<a id="motion-3-10-1" class="motion-anchor"></a>
+<div id="motion-3-10-1" class="motion-anchor"></div>
 
 > That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -3211,7 +3211,7 @@ Unanimous (6-0)
 
 ### 4.1. Councillor C. Rahman - Third-Party Appeal Mechanism
 
-<a id="motion-4-1-0" class="motion-anchor"></a>
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the submission dated June 9, 2026, from Councillor C. Rahman related to Third-Party Appeal Mechanism, BE RECEIVED;     it being noted that the Planning and Environment Committee received the following communications with respect to this matter: -    a communication dated June 8, 2026, from C...
 
@@ -3230,7 +3230,7 @@ Unanimous (6-0)
 
 ### 4.1. Councillor C. Rahman - Third-Party Appeal Mechanism
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation request as appended to the added agenda from M. Moussa, be heard at this time.
 
@@ -3240,7 +3240,7 @@ Unanimous (5-0)
 
 ### 6.1. Solicitor-Client Privilege
 
-<a id="motion-6-1-0" class="motion-anchor"></a>
+<div id="motion-6-1-0" class="motion-anchor"></div>
 
 > That the Planning and Environment Committee rise and go into Committee, In Closed Session, for the purpose of considering the following: a matter pertaining to advice that is subject to solicitor-client privilege related to 1057-1061 Richmond Street, including communications necessary for that pu...
 

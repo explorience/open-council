@@ -696,7 +696,7 @@ But that creates challenges as well as opportunities. So with that, Ms. Livingst
 
 ### 1. Disclosures of Pecuniary Interest
 
-<a id="motion-1-0" class="motion-anchor"></a>
+<div id="motion-1-0" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, the order of business be changed to allow for consideration of item 4.2 at this time.
 
@@ -706,7 +706,7 @@ Unanimous (14-0)
 
 ### 2. Consent
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 to 2.3 BE APPROVED.
 
@@ -716,7 +716,7 @@ Unanimous (14-0)
 
 ### 4.1. Request for Delegation Status - Roula Hawa, Mischa Mackie (Schlemmer) and Reeti Chopra - Housing and Homelessness Crisis
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the requested delegation status for Roula Hawa, Mischa Mackie (Schlemmer) and Reeti Chopra BE APPROVED to be heard at this time.
 
@@ -726,7 +726,7 @@ Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the London & Middlesex Community Housing Board (Requires 1 Council Member)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That Councillor J. Morgan BE APPOINTED to the London & Middlesex Community Housing Board for the term ending November 15, 2022.
 
@@ -745,7 +745,7 @@ Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the London & Middlesex Community Housing Board (Requires 1 Council Member)
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Appointment of a Council Member to the London and Middlesex Community Housing Board
 
@@ -760,7 +760,7 @@ Unanimous (14-0)
 
 ### 5.1. (ADDED) Consideration of Vaccine Mandates
 
-<a id="motion-5-1-0" class="motion-anchor"></a>
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the communication dated July 26, 2021 from Councillor M. van Holst BE RECEIVED and no further action BE TAKEN.
 
@@ -779,7 +779,7 @@ Unanimous (14-0)
 
 ### 5.2. (ADDED) Regional Transportation and Mobility Across Southwestern Ontario
 
-<a id="motion-5-2-0" class="motion-anchor"></a>
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the communication dated July 27, 2021 from Mayor E. Holder and Deputy Mayor J. Morgan regarding the Regional Transportation and Mobility across Southwestern Ontario :    a)    the Civic Administration BE DIRECTED to develop a conceptual framewo...
 

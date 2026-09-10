@@ -1668,7 +1668,7 @@ on a sunday night to help bridge this communication gap and some things that we 
 
 ### 2.2. Secondary School Transit Pass Pilot Program Update
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Secondary School Transit Pass Pilot Update: a)         the report dated March 25, 2025 BE RECEIVED; b)         Civic Administration BE DIRECTED to continue the conversation with the London Transit Commission and Thames Valley District School...
 
@@ -1685,7 +1685,7 @@ on a sunday night to help bridge this communication gap and some things that we 
 
 ### 3.1. Integrity Commissioner's Annual Report - Resubmitted
 
-<a id="motion-3-1-1" class="motion-anchor"></a>
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That part b) be approved: b) the City Clerk BE DIRECTED to provide Principles Integrity with 30 days’ notice in writing of termination of their services pursuant to the agreement between The Corporation of the City of London and Principles Integrity; it being noted that the Strategic Priorities a...
 
@@ -1702,7 +1702,7 @@ on a sunday night to help bridge this communication gap and some things that we 
 
 ### 3.1. Integrity Commissioner's Annual Report - Resubmitted
 
-<a id="motion-3-1-3" class="motion-anchor"></a>
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That parts c) and d) be approved: c) in accordance with the Procurement of Goods and Services Policy, the City Clerk BE DIRECTED to proceed with the recruitment of an Integrity Commissioner to provide the functions and responsibilities as prescribed in the Municipal Act, 2001 and report back to a...
 
@@ -1719,7 +1719,7 @@ on a sunday night to help bridge this communication gap and some things that we 
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-1" class="motion-anchor"></a>
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation requests BE APPROVED to be heard at this time.
 
@@ -1729,7 +1729,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-2" class="motion-anchor"></a>
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That with respect the Master Mobility Plan, the following part be added: e)  the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through l...
 
@@ -1746,7 +1746,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-4" class="motion-anchor"></a>
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > That with respect the Master Mobility Plan, the following part be added: f)  the Mayor and Civic Administration BE REQUESTED to engage in discussions with neighbouring municipalities and the Province to work collaboratively on a ring road and integrated transportation network that would help move...
 
@@ -1763,7 +1763,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-5" class="motion-anchor"></a>
+<div id="motion-4-1-5" class="motion-anchor"></div>
 
 > That part c) be amended with a new part i) and reads as follows: c)    the Cycling Network maps BE APPROVED, except: i) the following Proposed Network Additions BE REMOVED from the Network Cycling maps: A. Royal Crescent east of Clarke Road to Wexford Avenue to Admiral Drive;
 
@@ -1780,7 +1780,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-6" class="motion-anchor"></a>
+<div id="motion-4-1-6" class="motion-anchor"></div>
 
 > That part c) be amended with a new part i) and reads as follows: c)    the Cycling Network maps BE APPROVED, except: i) the following Proposed Network Additions BE REMOVED from the Network Cycling maps: B. Sovereign Road;
 
@@ -1797,7 +1797,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-7" class="motion-anchor"></a>
+<div id="motion-4-1-7" class="motion-anchor"></div>
 
 > That part c) be amended with a new part i) and reads as follows: c)    the Cycling Network maps BE APPROVED, except: i) the following Proposed Network Additions BE REMOVED from the Network Cycling maps: C. Vancouver Street from Trafalgar Street to Wavell Street;
 
@@ -1814,7 +1814,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-8" class="motion-anchor"></a>
+<div id="motion-4-1-8" class="motion-anchor"></div>
 
 > That part c) be amended with a new part ii) and reads as follows: c)    the Cycling Network maps BE APPROVED, except:               ii)        the following Proposed Network Additions: Huron Street, Taylor Street, McNay Street and Gammage Street to BE REMOVED from the Cycling Network maps;
 
@@ -1831,7 +1831,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-9" class="motion-anchor"></a>
+<div id="motion-4-1-9" class="motion-anchor"></div>
 
 > That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -1848,7 +1848,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-10" class="motion-anchor"></a>
+<div id="motion-4-1-10" class="motion-anchor"></div>
 
 > That part a) be amended with a new part i) and reads as follows: a)   the Roads Projects maps BE APPROVED, with the following amendment to the Roads Projects Timeline;  i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle.
 
@@ -1865,7 +1865,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-11" class="motion-anchor"></a>
+<div id="motion-4-1-11" class="motion-anchor"></div>
 
 > That part c) be amended with a new part iii) and reads as follows: c)   the Cycling Network maps BE APPROVED, except: iii) the Windermere Road to Gainsborough Road Active Transportation Connection BE REMOVED from the Cycling Network maps;
 
@@ -1882,7 +1882,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-12" class="motion-anchor"></a>
+<div id="motion-4-1-12" class="motion-anchor"></div>
 
 > That the motion be amended to add a new part g) to read as follows: g)    the communication from D. R. Schmidt, Development Manager, Corlon Properties Inc./Sunningdale Golf & Country Club Ltd. BE REFERRED to a future meeting of Planning and Environment Committee;
 
@@ -1899,7 +1899,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-13" class="motion-anchor"></a>
+<div id="motion-4-1-13" class="motion-anchor"></div>
 
 > Motion to approve part a), as amended.
 
@@ -1916,7 +1916,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-14" class="motion-anchor"></a>
+<div id="motion-4-1-14" class="motion-anchor"></div>
 
 > Motion to approved part b).
 
@@ -1933,7 +1933,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-15" class="motion-anchor"></a>
+<div id="motion-4-1-15" class="motion-anchor"></div>
 
 > Motion to approve part c), as amended.
 
@@ -1950,7 +1950,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-16" class="motion-anchor"></a>
+<div id="motion-4-1-16" class="motion-anchor"></div>
 
 > Motion to approve part d)
 
@@ -1960,7 +1960,7 @@ Unanimous (15-0)
 
 ### 4.1. Mobility Master Plan Mobility Networks Maps
 
-<a id="motion-4-1-17" class="motion-anchor"></a>
+<div id="motion-4-1-17" class="motion-anchor"></div>
 
 > Motion to approve the balance of motion, as amended.
 
@@ -1970,7 +1970,7 @@ Unanimous (15-0)
 
 ### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
 
-<a id="motion-4-2-0" class="motion-anchor"></a>
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following applicants BE APPOINTED to the Accessibility Community Advisory Committee for the term ending March 31, 2027: Carrie Briley  Mason Bruner Moore  Jordan Bragg  Megan Papadakos  Alicia McGaw  Terry Smith  Adam Lumley  Grace Sweetman  Zoe Beecham  Elysa Spetgang  Natalie Judges
 
@@ -1980,7 +1980,7 @@ Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
 
-<a id="motion-4-2-1" class="motion-anchor"></a>
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Consideration of appointment to the Accessibility Community Advisory Committee.
 
@@ -1993,7 +1993,7 @@ Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
 
-<a id="motion-4-2-2" class="motion-anchor"></a>
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > Consideration of appointment to the Accessibility Community Advisory Committee.
 
@@ -2006,22 +2006,7 @@ Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
 
-<a id="motion-4-2-3" class="motion-anchor"></a>
-
-> Consideration of appointment to the Accessibility Community Advisory Committee.
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
-
-<a id="motion-4-2-4" class="motion-anchor"></a>
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > Consideration of appointment to the Accessibility Community Advisory Committee.
 
@@ -2036,7 +2021,7 @@ Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
 
-<a id="motion-4-2-5" class="motion-anchor"></a>
+<div id="motion-4-2-4" class="motion-anchor"></div>
 
 > Consideration of appointment to the Accessibility Community Advisory Committee.
 
@@ -2051,7 +2036,7 @@ Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
 
-<a id="motion-4-2-6" class="motion-anchor"></a>
+<div id="motion-4-2-5" class="motion-anchor"></div>
 
 > Consideration of appointment to the Accessibility Community Advisory Committee.
 
@@ -2066,7 +2051,7 @@ Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
 
-<a id="motion-4-2-7" class="motion-anchor"></a>
+<div id="motion-4-2-6" class="motion-anchor"></div>
 
 > Consideration of appointment to the Accessibility Community Advisory Committee.
 
@@ -2081,7 +2066,22 @@ Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
 
-<a id="motion-4-2-8" class="motion-anchor"></a>
+<div id="motion-4-2-7" class="motion-anchor"></div>
+
+> Consideration of appointment to the Accessibility Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.2. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+
+<div id="motion-4-2-8" class="motion-anchor"></div>
 
 > Consideration of appointment to the Accessibility Community Advisory Committee.
 
@@ -2096,7 +2096,7 @@ Unanimous (14-0)
 
 ### 4.3. Consideration of Appointment to the Community Advisory Committee on Planning (Requires up to 11 Members)
 
-<a id="motion-4-3-0" class="motion-anchor"></a>
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That consideration of appointment to the Community Advisory Committee on Planning and the Environmental Stewardship and Action Community Advisory Committee BE REFERRED to the April 1, 2025 meeting of Council.
 
@@ -2106,7 +2106,7 @@ Unanimous (15-0)
 
 ### 4.4. Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (Requires up to 11 Members)
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That consideration of appointment to the Community Advisory Committee on Planning and the Environmental Stewardship and Action Community Advisory Committee BE REFERRED to the April 1, 2025 meeting of Council.
 
@@ -2116,7 +2116,7 @@ Unanimous (15-0)
 
 ### 4.5. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
 
-<a id="motion-4-5-0" class="motion-anchor"></a>
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That William Westgate BE APPOINTED to the Covent Garden Market Board of Directors for the term ending November 14, 2026.
 
@@ -2126,7 +2126,7 @@ Unanimous (15-0)
 
 ### 4.5. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
 
-<a id="motion-4-5-1" class="motion-anchor"></a>
+<div id="motion-4-5-1" class="motion-anchor"></div>
 
 > Consideration of Appointment to the Covent Garden Market Board of Directors.
 
@@ -2139,7 +2139,7 @@ Unanimous (15-0)
 
 ### 4.6. London Transit Commission Assessment Growth Business Case
 
-<a id="motion-4-6-1" class="motion-anchor"></a>
+<div id="motion-4-6-1" class="motion-anchor"></div>
 
 > Notwithstanding the Council Procedure By-law, the delegations from S. Marentette and J. Madden BE APPROVED to be heard at this time.
 
@@ -2149,7 +2149,7 @@ Unanimous (15-0)
 
 ### 4.6. London Transit Commission Assessment Growth Business Case
 
-<a id="motion-4-6-2" class="motion-anchor"></a>
+<div id="motion-4-6-2" class="motion-anchor"></div>
 
 > That the motion regarding the London Transit Commission BE REFERRED to the next meeting of the Strategic Priorities and Policy Committee.
 
@@ -2166,7 +2166,7 @@ Unanimous (15-0)
 
 ### 4.6. London Transit Commission Assessment Growth Business Case
 
-<a id="motion-4-6-4" class="motion-anchor"></a>
+<div id="motion-4-6-4" class="motion-anchor"></div>
 
 > Motion to approve part b): b)   the current London Transit Commission BE DISSOLVED, effective April 1, 2025;
 
@@ -2183,7 +2183,7 @@ Unanimous (15-0)
 
 ### 4.6. London Transit Commission Assessment Growth Business Case
 
-<a id="motion-4-6-5" class="motion-anchor"></a>
+<div id="motion-4-6-5" class="motion-anchor"></div>
 
 > Motion to amend part c) to read as follows: c)   the Civic Administration BE DIRECTED to bring forward to the Municipal Council meeting on April 1, 2025, a by-law with the necessary amendments to By-law No. A.-6377-206, as amended, to provide that the London Transit Commission shall consist of fi...
 
@@ -2193,7 +2193,7 @@ Unanimous (15-0)
 
 ### 4.6. London Transit Commission Assessment Growth Business Case
 
-<a id="motion-4-6-6" class="motion-anchor"></a>
+<div id="motion-4-6-6" class="motion-anchor"></div>
 
 > Motion that part d) of the motion referring to Council appointments to the London Transit Commission BE REFERRED to the April 1, 2025 Council meeting.
 
@@ -2210,7 +2210,7 @@ Unanimous (15-0)
 
 ### 4.6. London Transit Commission Assessment Growth Business Case
 
-<a id="motion-4-6-7" class="motion-anchor"></a>
+<div id="motion-4-6-7" class="motion-anchor"></div>
 
 > Motion to approve parts e) and f) to read as follows: e)    the Civic Administration BE DIRECTED bring back a report to Council at the earliest opportunity with recommendations for further interim supports while Council awaits the completion of the governance review; f)    the resignations from D...
 
@@ -2220,7 +2220,7 @@ Unanimous (15-0)
 
 ### 6. Confidential
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > That the Strategic Priorities and Policy Committee convenes In Closed session to consider the following: 6.1    Solicitor-Client Privilege A matter pertaining to advice that is subject to solicitor-client privilege, with respect to the contract for Integrity Commissioner Services, including commu...
 

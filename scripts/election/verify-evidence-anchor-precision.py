@@ -85,7 +85,10 @@ KNOWN_BROKEN_CROSS_REFS = {
     "243095-and-3105-bostwick-road---talbot-village-subdivision-phase-7---special-provisions-39t-215027",
 }
 
-ANCHOR_IN_MD = re.compile(r'<a id="(motion-[a-z0-9-]+)"')
+# Both tags are accepted: <div> is what is emitted today (a raw HTML
+# block, so no stray paragraph wrapper), <a> is what the first cut emitted.
+# Anchors are append-only, so a page carrying either must keep resolving.
+ANCHOR_IN_MD = re.compile(r'<(?:div|a) id="(motion-[a-z0-9-]+)"')
 HEADING_ID = re.compile(rb'<(h[1-6])\b[^>]*\bid="([^"]*)"', re.IGNORECASE)
 
 

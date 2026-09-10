@@ -305,7 +305,7 @@ The Corporate Services Committee convened
   Amendments to Council Policy Manual Review and Update of "Chapter 20 -
   Realty Services"
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -318,7 +318,7 @@ Unanimous (4-0)
   Declare Surplus - Closed Road Allowance - Part of Cedarpark Crescent and all
   of Kilcrest Way
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -330,7 +330,7 @@ Unanimous (4-0)
 ### 5. STAFF REPORT -
   Annual MP and MPP Meetings
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -343,7 +343,7 @@ Unanimous (4-0)
   Participation Meeting - Proposed Amendment to Council Procedure By-law -
   Acting Mayor
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -356,7 +356,7 @@ Unanimous (4-0)
   Participation Meeting - Proposed Amendment to Council Procedure By-law -
   Acting Mayor
 
-<a id="motion-6-1" class="motion-anchor"></a>
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -369,7 +369,7 @@ Unanimous (4-0)
   Participation Meeting - Proposed Amendment to Council Procedure By-law -
   Acting Mayor
 
-<a id="motion-6-2" class="motion-anchor"></a>
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -381,7 +381,7 @@ Unanimous (4-0)
 ### 7. PUBLIC SUBMISSION -
   London Brewing Co-operatives Liquor Sales Licence Application
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -393,7 +393,7 @@ Unanimous (4-0)
 ### 8. COUNCIL MEMBER
   SUBMISSION - Federation of the Canadian Municipalities
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -412,7 +412,7 @@ Unanimous (4-0)
 ### 9. ADDED - Appointment to the London Hydro
   Board of Directors
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

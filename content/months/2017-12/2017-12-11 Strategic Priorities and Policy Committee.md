@@ -265,7 +265,7 @@ The meeting adjourned at 9:43 PM.
 ### 2. Financial and Other
   Resources Required to Host International Plowing Match 2020
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -283,7 +283,7 @@ The meeting adjourned at 9:43 PM.
 ### 2. Financial and Other
   Resources Required to Host International Plowing Match 2020
 
-<a id="motion-2-1" class="motion-anchor"></a>
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -301,7 +301,7 @@ The meeting adjourned at 9:43 PM.
 ### 3. Proposed Casino
   Expansion
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -312,7 +312,7 @@ Unanimous (13-0)
 ### 4. 2019 Development
   Charges (DC) Study - Growth Projections
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -330,7 +330,7 @@ Unanimous (13-0)
 ### 4. 2019 Development
   Charges (DC) Study - Growth Projections
 
-<a id="motion-4-1" class="motion-anchor"></a>
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -341,7 +341,7 @@ Unanimous (13-0)
 ### 5. Appointment to the London
   Police Services Board
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -352,7 +352,7 @@ Unanimous (15-0)
 ### 6. London Convention
   Centre Corporation Board Appointment
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 

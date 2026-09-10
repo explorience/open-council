@@ -787,7 +787,7 @@ The
 ### 2. STAFF REPORT -
   Single Source for Pump Replacement at the Wonderland Pumping Station
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -799,7 +799,7 @@ Unanimous (4-0)
 ### 3. STAFF REPORT -
   Gordon Trunk Sewer Rehabilitation - Project No. ES2473 -  RFP NO. 17-02
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -812,7 +812,7 @@ Unanimous (4-0)
   Hollow SWM Facility No. 3 (ES3020-FH3) - Contract Amendment to Phase 1
   Grading Tender (T16-47)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -825,7 +825,7 @@ Unanimous (4-0)
   Changes to the Waste Discharge By-law WM-16 and the Wastewater and Storm
   water By-law WM-28
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -837,7 +837,7 @@ Unanimous (4-0)
 ### 6. STAFF REPORT -
   Basement Flooding Grant Program By-law Update
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -851,7 +851,7 @@ Unanimous (4-0)
   Associated with the Construction of 2017 Infrastructure Renewal Projects - 
   Waterloo Street, Trowbridge Avenue
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -863,7 +863,7 @@ Unanimous (4-0)
 ### 8. STAFF REPORT -
   Installation of Water Meters Contract Award
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -876,7 +876,7 @@ Unanimous (4-0)
   Clarke Road Widening Environmental Assessment - VMP North Extension to
   Fanshawe Park Road East - Appointment of Consulting Engineer
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -888,7 +888,7 @@ Unanimous (4-0)
 ### 10. STAFF REPORT -
   Single Source Procurements - Street Sweeper and Sidewalk Sweeper
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -900,7 +900,7 @@ Unanimous (4-0)
 ### 11. STAFF REPORT -
   Vision Zero - London Road Safety Strategy
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -912,7 +912,7 @@ Unanimous (4-0)
 ### 12. STAFF REPORT - Hyde
   Park Road Closing
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -924,7 +924,7 @@ Unanimous (4-0)
 ### 13. STAFF REPORT -
   Amendments to the Traffic And Parking By-law
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -936,7 +936,7 @@ Unanimous (4-0)
 ### 14. 5th Report of the Transportation
   Advisory Committee
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -948,7 +948,7 @@ Unanimous (4-0)
 ### 15. 5th Report of the Cycling
   Advisory Committee
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -960,7 +960,7 @@ Unanimous (4-0)
 ### 16. COUNCILLOR
   SUBMISSION - V. Ridley - Absence from Meeting
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -972,7 +972,7 @@ Unanimous (4-0)
 ### 17. Deferred Matters
   List
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -984,7 +984,7 @@ Unanimous (4-0)
 ### 18. (ADDED) Councillor M. van Holst – Highbury
   Avenue Bridge Drainage
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -996,7 +996,7 @@ Unanimous (4-0)
 ### 19. (ADDED) Councillor M. van Holst – Proposed
   Strategy – BRT Rollout
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

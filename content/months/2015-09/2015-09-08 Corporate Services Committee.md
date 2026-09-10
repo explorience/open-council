@@ -233,7 +233,7 @@ The
 ### 2. Architect to Act as Prime Consultant for
   the Southcrest Pool and Bath House Life Cycle Renewal Project
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -245,7 +245,7 @@ Unanimous (5-0)
 ### 3. County/City Liaison
   Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -257,7 +257,7 @@ Unanimous (5-0)
 ### 4. Request for Approval of an Expense on an
   Exemption Basis
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -276,7 +276,7 @@ Unanimous (5-0)
 ### 5. Consideration of Appointment to the
   Environmental and Ecological Planning Advisory Committee.
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -295,7 +295,7 @@ Unanimous (5-0)
 ### 5. Consideration of Appointment to the
   Environmental and Ecological Planning Advisory Committee.
 
-<a id="motion-5-1" class="motion-anchor"></a>
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -306,7 +306,7 @@ Unanimous (5-0)
 
 ### 6. Community Event Funding Mechanisms
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -318,7 +318,7 @@ Unanimous (5-0)
 ### 7. Rescheduling the November 17, 2015 Meeting
   of the Corporate Services Committee to November 16, 2015
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

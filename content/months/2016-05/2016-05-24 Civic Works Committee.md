@@ -452,7 +452,7 @@ The
 ### 2. 5th Report of the
   Transportation Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -465,7 +465,7 @@ Unanimous (4-0)
   Engineering Fees - Southeast Pumping Station and Reservoir - Project No.
   EW3614
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -477,7 +477,7 @@ Unanimous (5-0)
 ### 4. Amendments to the
   Traffic and Parking By-law
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -489,7 +489,7 @@ Unanimous (4-0)
 ### 5. Watermain Cleaning
   and Relining Renewal
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -501,7 +501,7 @@ Unanimous (4-0)
 ### 6. Kilally South
   Stormwater Management Study Municipal Class Environmental Study Addendum
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -514,7 +514,7 @@ Unanimous (4-0)
   Consulting Engineer - Hyde Park Community Stormwater Servicing Environmental
   Assessment Addendum Consultant Appointment
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -529,7 +529,7 @@ Unanimous (4-0)
   Wellington Street Reconstruction, Ashland Avenue Reconstruction and Iroquois
   Avenue Reconstruction
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -542,7 +542,7 @@ Unanimous (4-0)
   Pumping Station - Operation and Maintenance Services Agreement Review of
   Contract Term Extension
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -555,7 +555,7 @@ Unanimous (4-0)
   Consulting Engineer - Long Term Solid Waste Resource Recovery and Disposal
   Plans
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -567,7 +567,7 @@ Unanimous (4-0)
 ### 11. Deferred Matters
   List
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -578,7 +578,7 @@ Unanimous (5-0)
 
 ### 12. (ADDED)  Rainbow Crosswalks
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

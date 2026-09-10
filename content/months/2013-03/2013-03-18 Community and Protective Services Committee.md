@@ -280,7 +280,7 @@ The
 ### 2. 3rd Report of the
   London Housing Advisory Committee
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > 
 
@@ -291,7 +291,7 @@ Unanimous (4-0)
 ### 3. 2nd Report of the
   London Diversity and Race Relations Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > 
 
@@ -302,7 +302,7 @@ Unanimous (4-0)
 ### 4. 2nd Report of the
   Community Safety and Crime Prevention Advisory Committee.
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > 
 
@@ -313,7 +313,7 @@ Unanimous (4-0)
 ### 5. 2nd Report of the Accessibility
   Advisory Committee
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > 
 
@@ -324,7 +324,7 @@ Unanimous (4-0)
 ### 6. City of London and
   London District Catholic School Board Liaison Committee
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > 
 
@@ -335,7 +335,7 @@ Unanimous (4-0)
 ### 7. Automatic Aid
   Agreement with Central Elgin
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > 
 
@@ -347,7 +347,7 @@ Unanimous (4-0)
   the Use of Inflatable Amusement Devices During Rentals of City Parks or Other
   Facilities
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > 
 
@@ -359,7 +359,7 @@ Unanimous (4-0)
   Review Commission Report: "Brighter Prospects: Transforming Social
   Assistance in Ontario"
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > 
 
@@ -371,7 +371,7 @@ Unanimous (4-0)
   Owners' and Drivers' Group Inc. Application to the Ontario Superior Court of
   Justice
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > 
 
@@ -382,7 +382,7 @@ Unanimous (2-0)
 ### 11. 4th Report of the
   Animal Welfare Advisory Committee
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > 
 
@@ -394,7 +394,7 @@ Unanimous (4-0)
   Accountability Agreement between The Corporation of the City of London
   (Dearness Home) and the South West Local Health Integration Network (LHIN)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > 
 

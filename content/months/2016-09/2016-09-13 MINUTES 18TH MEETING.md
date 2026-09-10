@@ -2228,7 +2228,7 @@ Motion Passed
   consideration with clause 14 of the 15th Report of the Planning and
   Environment Committee.)
 
-<a id="motion-1-4-0" class="motion-anchor"></a>
+<div id="motion-1-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2239,7 +2239,7 @@ Unanimous (12-0)
 ### 2#2. Closing of Part of
   Cedarpark Crescent
 
-<a id="motion-2-2-0" class="motion-anchor"></a>
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to closing part of Cedarpark   Crescent:   a)        the   closing of the southerly projection or “hammerhead” portion of Cedarpark   Cre...
 
@@ -2250,7 +2250,7 @@ Unanimous (9-0)
 ### 3#2. London ON Bikes
   Cycling Master Plan
 
-<a id="motion-3-2-0" class="motion-anchor"></a>
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > Approve an amendment to clause 3, to add a   new part d), as follows:   “d)         the   Civic Administration BE DIRECTED to report back to the Civic Works Committee   on a potential extension of the planned cycle track on Queens Avenue, from   Colborne Street to Quebec Street;”
 
@@ -2261,7 +2261,7 @@ Unanimous (12-0)
 ### 3#2. London ON Bikes
   Cycling Master Plan
 
-<a id="motion-3-2-1" class="motion-anchor"></a>
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > Approve clause 3, as amended.
 
@@ -2272,7 +2272,7 @@ Unanimous (12-0)
 ### 4#4. Outlook Access – Councillors’ Contract
   Assistants
 
-<a id="motion-4-4-0" class="motion-anchor"></a>
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED   to take the necessary steps to amend the Use of Technology Policy, and any   other related policies, in order to permit Councillors’ contract assistants   to access Councillors’ Outlook accounts.
 
@@ -2284,7 +2284,7 @@ Unanimous (11-0)
   1030 Coronation Drive, Hyde Park, Block 8 Reconstruction - Update to DC
   Claimable Works
 
-<a id="motion-6-3-0" class="motion-anchor"></a>
+<div id="motion-6-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   following actions be taken with respect to the site plan agreement between   The Corporation of the City of London and Carvest Properties Ltd., for the   construction of w...
 
@@ -2295,7 +2295,7 @@ Unanimous (9-0)
 ### I. DISCLOSURES
   OF PECUNIARY INTEREST
 
-<a id="motion-i-0" class="motion-anchor"></a>
+<div id="motion-i-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of the Motions of Which Notice is Given to be dealt with at   this time.
 
@@ -2307,7 +2307,7 @@ Unanimous (13-0)
   AND SIGNING OF THE MINUTES OF THE SEVENTHEENTH MEETING HELD ON AUGUST 30,
   2016
 
-<a id="motion-v-0" class="motion-anchor"></a>
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Seventeenth   Meeting, held on August 30, 2016.
 
@@ -2317,7 +2317,7 @@ Unanimous (12-0)
 
 ### XI. ENQUIRIES
 
-<a id="motion-xi-0" class="motion-anchor"></a>
+<div id="motion-xi-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 11.4 of   the Council Procedure By-law, that leave be given to add a Council, In Closed   Session matter to receive information with respect to an enforcement matter.
 
@@ -2328,7 +2328,7 @@ Unanimous (13-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-0" class="motion-anchor"></a>
+<div id="motion-xii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 20.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to request the City Clerk to report back to the Strategic   Priorities and Policy Committee with respect to temporary standing committee   appointments during Counc...
 
@@ -2339,7 +2339,7 @@ Unanimous (11-0)
 ### XII. EMERGENT
   MOTIONS
 
-<a id="motion-xii-1" class="motion-anchor"></a>
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Approve that the City Clerk BE   DIRECTED to report back to the Strategic Priorities and Policy Committee with   respect to temporary standing committee appointments for the duration of   Councillor J. Zaifman’s absence.
 
@@ -2349,7 +2349,7 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-3" class="motion-anchor"></a>
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading   of Bill No. 356.
 
@@ -2366,7 +2366,7 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-4" class="motion-anchor"></a>
+<div id="motion-xiii-4" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No. 356.
 
@@ -2383,7 +2383,7 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-5" class="motion-anchor"></a>
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of Bill   No. 356.
 
@@ -2400,7 +2400,7 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-6" class="motion-anchor"></a>
+<div id="motion-xiii-6" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading of   Bill No. 357.
 
@@ -2417,7 +2417,7 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-7" class="motion-anchor"></a>
+<div id="motion-xiii-7" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No.   357.
 
@@ -2434,7 +2434,7 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
-<a id="motion-xiii-8" class="motion-anchor"></a>
+<div id="motion-xiii-8" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 357.
 
@@ -2452,7 +2452,7 @@ Unanimous (11-0)
 ### 8. London Township
   Treaty – Anniversary Recognition
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to bring   forward, at a future meeting of the Corporate Services Committee, an   amendment to Council Policy 16(21) Flags at City Hall to provide for the   flying of the First Nations flag on the Community Flag Pole on September 7th   of each year to recognize the...
 
@@ -2464,7 +2464,7 @@ Unanimous (12-0)
   W12A Landfill Public Liaison Committee Point of Source Water Treatment 
   Program (Relates to Bill No. 343)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the   Director, Environment, Fleet and Solid Waste, the following actions be taken   with respect to the W12A Landfill Public Liaison Committee Point of Source   Water Treatment Program:   a)        the   establishment of the W12A Landfill Public Liaison Committee P...
 
@@ -2483,7 +2483,7 @@ Unanimous (12-0)
   at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue
   (Z-8617)
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > That the application by Rygar Properties   Inc., relating to the properties located at 100 Fullarton Street, 475-501   Talbot Street and 93-95 Dufferin Avenue BE REFERRED back to the Civic   Administration for further consultation with the applicant to amend the   proposal to incorporate and reta...
 
@@ -2502,7 +2502,7 @@ Unanimous (12-0)
   at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue
   (Z-8617)
 
-<a id="motion-14-1" class="motion-anchor"></a>
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the   Managing Director, Planning and City Planner, the following actions be taken   with respect to the application of Rygar Properties Inc., relating to the   properties located at 100 Fullarton Street, 475-501 Talbot Street and 93-95   Dufferin Avenue:   ...
 
@@ -2520,7 +2520,7 @@ Unanimous (12-0)
 ### 15. Relocation of Bus
   Routes Off Dundas Street
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Approve An amendment to part a) of clause 15 by   deleting the word “Spring” and by replacing it with the word “September”.
 
@@ -2531,7 +2531,7 @@ Unanimous (11-0)
 ### 15. Relocation of Bus
   Routes Off Dundas Street
 
-<a id="motion-15-1" class="motion-anchor"></a>
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Approve clause 15, as amended.
 
@@ -2542,7 +2542,7 @@ Unanimous (11-0)
 ### 17. Brownfield Incentive
   Application - Chelsea Green Meadows (33M-686)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > That delegation status BE GRANTED to D. de   Jong, 2423662 Ontario Ltd., at a future meeting of the Planning and   Environment Committee with respect to the request for a Development Charge   Rebate Grant relating to the registered plan of subdivision 33M-656 by   2423652 Ontario Ltd.; it being n...
 
@@ -2553,7 +2553,7 @@ Unanimous (11-0)
 ### 18. Dundas Flex Street
   - Programming
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Approve an amendment to part c) to read   as follows:   c)        a   pilot project being undertaken during the study period to study Market Lane   to assist in establishing the “Dundas Flex Street Programming Authority” that   would have the authority to establish programming for the Dundas Flex...
 
@@ -2571,7 +2571,7 @@ Unanimous (11-0)
 ### 18. Dundas Flex Street
   - Programming
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Approve clause 18, as amended.
 

@@ -193,7 +193,7 @@ Closing the vote, the motion's passed 15 to zero. Clearly meeting adjourned. We'
 
 ### 2.1. Streamline Development Approval Fund – Transfer Payment Agreement
 
-<a id="motion-2-1-0" class="motion-anchor"></a>
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken:    a)    the proposed by-law as appended to the staff report dated February 15, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on February 15, 2022, to: ...
 

@@ -1910,7 +1910,7 @@ The
 ### 2. 8th Report of the
   Advisory Committee on the Environment
 
-<a id="motion-2-0" class="motion-anchor"></a>
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1922,7 +1922,7 @@ Unanimous (5-0)
 ### 3. 8th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-<a id="motion-3-0" class="motion-anchor"></a>
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1934,7 +1934,7 @@ Unanimous (5-0)
 ### 4. Changes to the Planning
   Act through the Smart Growth for our Communities Act (Bill 73)
 
-<a id="motion-4-0" class="motion-anchor"></a>
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1946,7 +1946,7 @@ Unanimous (5-0)
 ### 5. Inclusionary Zoning
   in Bill 204, The Promoting Affordable Housing Act, 2016
 
-<a id="motion-5-0" class="motion-anchor"></a>
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1958,7 +1958,7 @@ Unanimous (5-0)
 ### 6. Property located at
   1192 Highbury Avenue North (OZ-8463)
 
-<a id="motion-6-0" class="motion-anchor"></a>
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1970,7 +1970,7 @@ Unanimous (5-0)
 ### 7. Proposed New Sign
   By-law and Amendments to Current Sign and Canopy By-law
 
-<a id="motion-7-0" class="motion-anchor"></a>
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1982,7 +1982,7 @@ Unanimous (5-0)
 ### 8. Property located at
   1061 Richmond Street (H-8657)
 
-<a id="motion-8-0" class="motion-anchor"></a>
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1994,7 +1994,7 @@ Unanimous (5-0)
 ### 9. Lots on Cranbrook
   Road and Thornley Street (H-8634)
 
-<a id="motion-9-0" class="motion-anchor"></a>
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2006,7 +2006,7 @@ Unanimous (5-0)
 ### 10. Properties located
   at 1175 and 1205 Hyde Park Road (H-8646)
 
-<a id="motion-10-0" class="motion-anchor"></a>
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2018,7 +2018,7 @@ Unanimous (4-0)
 ### 11. Silverfox Crescent
   (Part of Blocks 77 and 81 in Plan 33M-622) (P-8349)
 
-<a id="motion-11-0" class="motion-anchor"></a>
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2030,7 +2030,7 @@ Unanimous (5-0)
 ### 12. Submission from the
   Chippewas of the Thames First Nation - The London Plan (O-7938)
 
-<a id="motion-12-0" class="motion-anchor"></a>
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2042,7 +2042,7 @@ Unanimous (5-0)
 ### 13. Ontario Municipal
   Board Review
 
-<a id="motion-13-0" class="motion-anchor"></a>
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2054,7 +2054,7 @@ Unanimous (5-0)
 ### 14. Building Division
   Monthly Report for May 2016
 
-<a id="motion-14-0" class="motion-anchor"></a>
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2067,7 +2067,7 @@ Unanimous (5-0)
   at 891 and 895 Riverside Drive - Appeal to the Ontario Municipal Board -
   Provisional Consent Decision (B.005/16)
 
-<a id="motion-15-0" class="motion-anchor"></a>
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2079,7 +2079,7 @@ Unanimous (5-0)
 ### 16. Property located at
   354 Boler Road (Z-8613)
 
-<a id="motion-16-0" class="motion-anchor"></a>
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2091,7 +2091,7 @@ Unanimous (5-0)
 ### 16. Property located at
   354 Boler Road (Z-8613)
 
-<a id="motion-16-1" class="motion-anchor"></a>
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2103,7 +2103,7 @@ Unanimous (5-0)
 ### 16. Property located at
   354 Boler Road (Z-8613)
 
-<a id="motion-16-2" class="motion-anchor"></a>
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2115,7 +2115,7 @@ Unanimous (5-0)
 ### 17. Property located at
   1740 Richmond Street (Z-8632)
 
-<a id="motion-17-0" class="motion-anchor"></a>
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2127,7 +2127,7 @@ Unanimous (5-0)
 ### 17. Property located at
   1740 Richmond Street (Z-8632)
 
-<a id="motion-17-1" class="motion-anchor"></a>
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2139,7 +2139,7 @@ Unanimous (4-0)
 ### 17. Property located at
   1740 Richmond Street (Z-8632)
 
-<a id="motion-17-2" class="motion-anchor"></a>
+<div id="motion-17-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2151,7 +2151,7 @@ Unanimous (5-0)
 ### 18. Property located at
   493 Springbank Drive (Z-8611)
 
-<a id="motion-18-0" class="motion-anchor"></a>
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2163,7 +2163,7 @@ Unanimous (5-0)
 ### 18. Property located at
   493 Springbank Drive (Z-8611)
 
-<a id="motion-18-1" class="motion-anchor"></a>
+<div id="motion-18-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2175,7 +2175,7 @@ Unanimous (5-0)
 ### 18. Property located at
   493 Springbank Drive (Z-8611)
 
-<a id="motion-18-2" class="motion-anchor"></a>
+<div id="motion-18-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2187,7 +2187,7 @@ Unanimous (5-0)
 ### 19. Property located at
   66 Byron Avenue East (Z-8616)
 
-<a id="motion-19-0" class="motion-anchor"></a>
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2199,7 +2199,7 @@ Unanimous (5-0)
 ### 19. Property located at
   66 Byron Avenue East (Z-8616)
 
-<a id="motion-19-1" class="motion-anchor"></a>
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2211,7 +2211,7 @@ Unanimous (5-0)
 ### 19. Property located at
   66 Byron Avenue East (Z-8616)
 
-<a id="motion-19-2" class="motion-anchor"></a>
+<div id="motion-19-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2223,7 +2223,7 @@ Unanimous (5-0)
 ### 19. Property located at
   66 Byron Avenue East (Z-8616)
 
-<a id="motion-19-3" class="motion-anchor"></a>
+<div id="motion-19-3" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -2242,7 +2242,7 @@ Unanimous (5-0)
 ### 20. Wonderland Road
   South (Z-8564)
 
-<a id="motion-20-0" class="motion-anchor"></a>
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2254,7 +2254,7 @@ Unanimous (4-0)
 ### 20. Wonderland Road
   South (Z-8564)
 
-<a id="motion-20-1" class="motion-anchor"></a>
+<div id="motion-20-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2266,7 +2266,7 @@ Unanimous (4-0)
 ### 20. Wonderland Road
   South (Z-8564)
 
-<a id="motion-20-2" class="motion-anchor"></a>
+<div id="motion-20-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2278,7 +2278,7 @@ Unanimous (4-0)
 ### 21. Property located at
   4425 Wellington Road South (Z-8573)
 
-<a id="motion-21-0" class="motion-anchor"></a>
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2290,7 +2290,7 @@ Unanimous (5-0)
 ### 21. Property located at
   4425 Wellington Road South (Z-8573)
 
-<a id="motion-21-1" class="motion-anchor"></a>
+<div id="motion-21-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2302,7 +2302,7 @@ Unanimous (4-0)
 ### 21. Property located at
   4425 Wellington Road South (Z-8573)
 
-<a id="motion-21-2" class="motion-anchor"></a>
+<div id="motion-21-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2314,7 +2314,7 @@ Unanimous (5-0)
 ### 22. City Wide Official
   Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
 
-<a id="motion-22-0" class="motion-anchor"></a>
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2333,7 +2333,7 @@ Unanimous (5-0)
 ### 22. City Wide Official
   Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
 
-<a id="motion-22-1" class="motion-anchor"></a>
+<div id="motion-22-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -2352,7 +2352,7 @@ Unanimous (5-0)
 ### 22. City Wide Official
   Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
 
-<a id="motion-22-2" class="motion-anchor"></a>
+<div id="motion-22-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2364,7 +2364,7 @@ Unanimous (4-0)
 ### 22. City Wide Official
   Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
 
-<a id="motion-22-3" class="motion-anchor"></a>
+<div id="motion-22-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2376,7 +2376,7 @@ Unanimous (5-0)
 ### 22. City Wide Official
   Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
 
-<a id="motion-22-4" class="motion-anchor"></a>
+<div id="motion-22-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2388,7 +2388,7 @@ Unanimous (5-0)
 ### 23. Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
-<a id="motion-23-0" class="motion-anchor"></a>
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2400,7 +2400,7 @@ Unanimous (5-0)
 ### 23. Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
-<a id="motion-23-1" class="motion-anchor"></a>
+<div id="motion-23-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2412,7 +2412,7 @@ Unanimous (4-0)
 ### 23. Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
-<a id="motion-23-2" class="motion-anchor"></a>
+<div id="motion-23-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2424,7 +2424,7 @@ Unanimous (5-0)
 ### 23. Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
-<a id="motion-23-3" class="motion-anchor"></a>
+<div id="motion-23-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2443,7 +2443,7 @@ Unanimous (5-0)
 ### 23. Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
-<a id="motion-23-4" class="motion-anchor"></a>
+<div id="motion-23-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2455,7 +2455,7 @@ Unanimous (4-0)
 ### 23. Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
-<a id="motion-23-5" class="motion-anchor"></a>
+<div id="motion-23-5" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2467,7 +2467,7 @@ Unanimous (4-0)
 ### 23. Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
-<a id="motion-23-6" class="motion-anchor"></a>
+<div id="motion-23-6" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2479,7 +2479,7 @@ Unanimous (4-0)
 ### 25. Hamilton Road Area
   Community Improvement Plan Proposed Study Area and Terms of Reference
 
-<a id="motion-25-0" class="motion-anchor"></a>
+<div id="motion-25-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2498,7 +2498,7 @@ Unanimous (4-0)
 ### 26. Lambeth Area
   Community Improvement Plan Proposed Study Area and Terms of Reference
 
-<a id="motion-26-0" class="motion-anchor"></a>
+<div id="motion-26-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2510,7 +2510,7 @@ Unanimous (4-0)
 ### 27. Public Engagement
   Process for the Evaluation of Community Improvement Plan Incentives
 
-<a id="motion-27-0" class="motion-anchor"></a>
+<div id="motion-27-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2522,7 +2522,7 @@ Unanimous (4-0)
 ### 28. Proposed Walkway on
   Clayton Walk
 
-<a id="motion-28-0" class="motion-anchor"></a>
+<div id="motion-28-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
