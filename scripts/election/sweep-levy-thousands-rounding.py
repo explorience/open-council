@@ -18,9 +18,11 @@ convention for items under this rounding note is to scale, not copy.
 
 DETECTION RULE (the whole rule, not a summary):
 
-  1. UNIVERSE: every verified-batch entry in batches 40-65 (this era) whose
-     `issue` is "budget" OR `axis` is "levy-size" (post corrections.json
-     merge), with a non-empty whatAYeaDid.
+  1. UNIVERSE: every verified-batch entry in batches 66-95 (this branch's
+     era, 2014-2018 -- same ERA_BATCH_RANGE convention as
+     sweep-substitution-vs-final.py) whose `issue` is "budget" OR `axis` is
+     "levy-size" (post corrections.json merge), with a non-empty
+     whatAYeaDid.
 
   2. Extract every dollar figure from whatAYeaDid via
      `\\$\\(?(\\d{1,3}(?:,\\d{3})*)\\)?` (parenthesized-negative tolerant).
@@ -58,7 +60,7 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 CLASSIFY_DIR = REPO_ROOT / "data" / "election" / "classify"
 ALL_MOTIONS_PATH = REPO_ROOT / "data" / "votes" / "_all-motions.json"
 
-ERA_BATCH_RANGE = range(40, 66)  # batches 40-65, this era
+ERA_BATCH_RANGE = range(66, 96)  # batches 66-95, the 2014-2018 term -- this branch's remit
 
 DOLLAR_RE = re.compile(r"\$\(?(\d{1,3}(?:,\d{3})*)\)?(?!,\d{3}|\d)")
 ROUNDED_TO_THOUSANDS_RE = re.compile(r"rounded to the (closest|nearest) \$1,000", re.IGNORECASE)
@@ -105,7 +107,7 @@ def run_sweep(corrections_override=None) -> tuple[int, list[str]]:
         for eid, e in cur.items()
         if (e.get("issue") == "budget" or e.get("axis") == "levy-size") and e.get("whatAYeaDid")
     ]
-    print(f"Era entries (batches 40-65): {len(entries)}")
+    print(f"Era entries (batches 66-95): {len(entries)}")
     print(f"budget/levy-size whatAYeaDid rows in scope: {len(in_scope)}\n")
 
     rounded_titles_seen: set[tuple[str, str, str]] = set()
@@ -144,11 +146,16 @@ def run_sweep(corrections_override=None) -> tuple[int, list[str]]:
     return 0, msgs
 
 
-# Round-9 gate item A: negative-test BOTH directions -- revert the round's
-# own fix (2d989f0d676e) to its genuine pre-fix bare-digit text and confirm
-# it's caught (exit 1), then confirm the restored (real) state is exit 0.
-_SELF_TEST_REVERT_KEY = ("2d989f0d676e", "whatAYeaDid")
-_SELF_TEST_REVERT_TEXT = "Approved Business Case #2, cancelling the planned 2019 minimum wage increase in the Operating Budget, a net decrease of $521 to the 2019 tax levy."
+# Fixer round 1 (era-range class fix): negative-test BOTH directions --
+# revert this branch's own fix (30823f9db4dc, batch 66-95 / 2014-2018 era)
+# to its genuine pre-fix bare-digit text and confirm it's caught (exit 1),
+# then confirm the restored (real) state is exit 0. The 2018-2022 era's own
+# seed fix (2d989f0d676e, batch 42) this self-test used to target is out of
+# this era's ERA_BATCH_RANGE universe entirely -- reverting it would never
+# surface as a hit here, the same vacuous-check shape the hard-coded range
+# produced corpus-wide (see the ERA_BATCH_RANGE fix above).
+_SELF_TEST_REVERT_KEY = ("30823f9db4dc", "whatAYeaDid")
+_SELF_TEST_REVERT_TEXT = "Adopted the portion of part 2e)i) of the Neighbourhood and Recreation Services 2016-2019 Multi-Year Operating Budget pertaining to municipal golf, in the net amount of $1 for 2016-2019."
 
 
 def self_test() -> int:
@@ -163,7 +170,7 @@ def self_test() -> int:
     mutated[last_idx] = dict(mutated[last_idx])
     mutated[last_idx]["now"] = _SELF_TEST_REVERT_TEXT
 
-    print("=== self-test: revert 2d989f0d676e to its pre-fix bare-digit text, expect exit 1 ===")
+    print(f"=== self-test: revert {_SELF_TEST_REVERT_KEY[0]} to its pre-fix bare-digit text, expect exit 1 ===")
     code, msgs = run_sweep(corrections_override=mutated)
     print("\n".join(msgs))
     if code != 1:

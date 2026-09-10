@@ -14,15 +14,16 @@ approved the substance unanimously minutes later.
 DETECTION RULE (the whole rule, not a summary):
 
   1. UNIVERSE: every id classified in this tranche's own verified batches
-     (batch-40-verified.json .. batch-65-verified.json, the 2018-2022 term
+     (batch-66-verified.json .. batch-95-verified.json, the 2014-2018 term
      -- same ERA_BATCH_RANGE convention as sweep-levy-thousands-
      rounding.py) whose data/votes/_all-motions.json row is DIVIDED
      (unanimous == False, nays non-empty) and PASSED (passed == True) -- a
      failed amendment isn't published as a positive stance and is out of
      scope for this defect. Run "corpus-wide" means every one of this
-     era's 1,135 motions, not other branches' eras (2015-2017 and
-     2023-onward belong to separately-gated tranches on other branches;
-     this branch's remit, per era-audit round 3, is 2018-2022 only, and a
+     era's motions, not other branches' eras (2018-2022 and 2023-onward
+     belong to separately-gated tranches on other branches; this branch's
+     remit, per era-audit round 1 (2014-2018 tranche), is 2014-2018 only,
+     and a
      sibling era's own amendment-vs-final shape is that era's own gate's
      business, not this sweep's).
 
@@ -168,7 +169,7 @@ CLASSIFY_DIR = REPO_ROOT / "data" / "election" / "classify"
 ALL_MOTIONS_PATH = REPO_ROOT / "data" / "votes" / "_all-motions.json"
 REVIEWED_PATH = CLASSIFY_DIR / "reviewed-substitution-pairs.json"
 
-ERA_BATCH_RANGE = range(40, 66)  # batches 40-65, the 2018-2022 term -- this branch's remit
+ERA_BATCH_RANGE = range(66, 96)  # batches 66-95, the 2014-2018 term -- this branch's remit
 
 AS_AMENDED_RE = re.compile(r"as\s+amended", re.IGNORECASE)
 # A bare statutory citation ("...section 291(4)(c) of the Municipal Act,
@@ -241,11 +242,17 @@ KNOWN_LEGIT_LEVY_IDS = {
     "9d5a329ad946",
 }
 
-# The 4 confirmed substitution BLOCKERS fixed so far (3 from round 3, plus
-# round 4's 61e2cd83874e) -- printed as a cross-check that the sweep still
-# finds them (not load-bearing for detection).
+# The substitution-klass ids confirmed resolved in THIS era (2014-2018,
+# batches 66-95) -- printed as a cross-check that the sweep still finds
+# them (not load-bearing for detection). Both already carry a native
+# axis=null/polarity=null in their batch-*-verified.json entry (no
+# corrections.json row needed for either). The 2018-2022 era's own
+# confirmed-fixed ids (95d5c6f299be, c4cfc1e826ec, d3f2b15062e0,
+# 61e2cd83874e) live in batches 40-65 and are out of this era's universe --
+# see the ERA_BATCH_RANGE fix above; a cross-check against them here would
+# always read 0/4 (vacuously) since load_era_ids() can never return them.
 KNOWN_FIXED_SUBSTITUTION_IDS = {
-    "95d5c6f299be", "c4cfc1e826ec", "d3f2b15062e0", "61e2cd83874e",
+    "0697bb76dbd8", "927ecebfb074",
 }
 
 
@@ -353,7 +360,7 @@ def classify(
     return "ambiguous"
 
 
-def run_sweep(corrections_override=None) -> tuple[int, list[str]]:
+def run_sweep(corrections_override=None, reviewed_override=None) -> tuple[int, list[str]]:
     all_motions = json.loads(ALL_MOTIONS_PATH.read_text())["motions"]
     by_item: dict[tuple[str, str], list[dict]] = defaultdict(list)
     for m in all_motions:
@@ -373,10 +380,10 @@ def run_sweep(corrections_override=None) -> tuple[int, list[str]]:
         if c["id"] in current and c["field"] in ("axis", "polarity"):
             current[c["id"]][c["field"]] = c["now"]
 
-    reviewed = load_reviewed()
+    reviewed = reviewed_override if reviewed_override is not None else load_reviewed()
 
     msgs = [
-        f"Era universe (batches 40-65, 2018-2022 term): {len(era_ids)} classified motions",
+        f"Era universe (batches 66-95, 2014-2018 term): {len(era_ids)} classified motions",
         f"Divided-motion candidates with a same-item 'as amended' final offsetting every nay-voter onto its own yeas: {len(pairs)}",
     ]
 
@@ -478,32 +485,45 @@ def run_sweep(corrections_override=None) -> tuple[int, list[str]]:
     return 0, msgs
 
 
-# Negative test, both directions: revert one of this round's own confirmed
-# fixes (95d5c6f299be's axis correction) to its pre-fix value and confirm
-# the sweep catches it (exit 1, id present in the FAIL list), then confirm
-# the real, unmutated corrections.json is exit 0.
-_SELF_TEST_REVERT_ID = "95d5c6f299be"
+# Negative test, both directions, era-appropriate for THIS branch's
+# universe (2014-2018, batches 66-95 -- see the ERA_BATCH_RANGE fix):
+# 0697bb76dbd8 is a real substitution-klass hit in this era, already
+# resolved with a NATIVE axis=null/polarity=null in its batch-verified
+# entry (no corrections.json row exists to revert, unlike the 2018-2022
+# era's seed ids this self-test used to target -- those ids are out of
+# this era's universe entirely and would never surface as a candidate
+# here, which is exactly the vacuous-check shape the ERA_BATCH_RANGE bug
+# produced). Simulate the pre-fix state instead: inject a synthetic
+# correction that puts a non-null axis back onto 0697bb76dbd8 and confirm
+# the sweep catches it.
+_SELF_TEST_REVERT_ID = "0697bb76dbd8"
 
 
 def self_test() -> int:
     base = lc.load_corrections()
-    idxs = [i for i, c in enumerate(base) if c["id"] == _SELF_TEST_REVERT_ID and c["field"] == "axis"]
-    if not idxs:
-        print(f"SELF-TEST FAILED: no axis correction found for {_SELF_TEST_REVERT_ID} -- proves nothing")
+    if any(c["id"] == _SELF_TEST_REVERT_ID and c["field"] == "axis" for c in base):
+        print(f"SELF-TEST FAILED: {_SELF_TEST_REVERT_ID} already carries an axis correction -- proves nothing")
         return 1
-    mutated = list(base)
-    del mutated[idxs[-1]]  # drop the axis->null correction; axis reverts to its verified-batch value
+    mutated = list(base) + [
+        {
+            "id": _SELF_TEST_REVERT_ID,
+            "field": "axis",
+            "was": None,
+            "now": "transit-service",
+            "reason": "self-test mutation only, never written to corrections.json",
+        }
+    ]
 
-    print(f"=== self-test direction 1: revert {_SELF_TEST_REVERT_ID}'s axis correction, expect exit 1 ===")
+    print(f"=== self-test direction 1: put a non-null axis back onto {_SELF_TEST_REVERT_ID}, expect exit 1 ===")
     code, msgs = run_sweep(corrections_override=mutated)
     print("\n".join(msgs))
     if code != 1:
-        print(f"SELF-TEST FAILED: reverting {_SELF_TEST_REVERT_ID}'s axis correction did not produce exit 1")
+        print(f"SELF-TEST FAILED: un-nulling {_SELF_TEST_REVERT_ID}'s axis did not produce exit 1")
         return 1
     if not any(_SELF_TEST_REVERT_ID in line for line in msgs):
         print(f"SELF-TEST FAILED: expected {_SELF_TEST_REVERT_ID} to appear in the unresolved list")
         return 1
-    print(f" - reverted axis correction -> exit 1 (confirmed flagged)\n")
+    print(f" - non-null axis on {_SELF_TEST_REVERT_ID} -> exit 1 (confirmed flagged)\n")
 
     print("=== self-test direction 2: restore (real corrections.json), expect exit 0 ===")
     code2, msgs2 = run_sweep()
@@ -512,6 +532,35 @@ def self_test() -> int:
         print("SELF-TEST FAILED: normal (unmutated) run did not exit 0")
         return 1
     print("\nSELF-TEST PASSED (both directions)")
+
+    # Direction 2b: the reviewed-substitution-pairs.json mechanism itself
+    # (2e7ac56e061a's "balance of clause 2 excludes part b" false-positive
+    # resolution) -- drop it from the loaded reviewed map and confirm the
+    # sweep re-flags 2e7ac56e061a; restore (the real file) and confirm pass.
+    _REVIEWED_TEST_ID = "2e7ac56e061a"
+    real_reviewed = load_reviewed()
+    if _REVIEWED_TEST_ID not in real_reviewed:
+        print(f"SELF-TEST FAILED: {_REVIEWED_TEST_ID} missing from reviewed-substitution-pairs.json -- proves nothing")
+        return 1
+    print(f"=== self-test direction 2b: drop {_REVIEWED_TEST_ID} from reviewed-substitution-pairs.json, expect exit 1 ===")
+    without_it = {k: v for k, v in real_reviewed.items() if k != _REVIEWED_TEST_ID}
+    code3, msgs3 = run_sweep(reviewed_override=without_it)
+    print("\n".join(msgs3))
+    if code3 != 1:
+        print(f"SELF-TEST FAILED: dropping {_REVIEWED_TEST_ID} from the reviewed map did not produce exit 1")
+        return 1
+    if not any(_REVIEWED_TEST_ID in line for line in msgs3):
+        print(f"SELF-TEST FAILED: expected {_REVIEWED_TEST_ID} to appear in the unresolved list")
+        return 1
+    print(f" - dropped {_REVIEWED_TEST_ID} from reviewed map -> exit 1 (confirmed flagged)\n")
+
+    print("=== self-test direction 2c: restore (real reviewed-substitution-pairs.json), expect exit 0 ===")
+    code4, msgs4 = run_sweep()
+    print("\n".join(msgs4))
+    if code4 != 0:
+        print("SELF-TEST FAILED: normal (unmutated) run did not exit 0")
+        return 1
+    print("\nSELF-TEST PASSED (reviewed-row mechanism, both directions)")
 
     print(
         "\n=== self-test direction 3: dollar-carrying substitution-shaped "
