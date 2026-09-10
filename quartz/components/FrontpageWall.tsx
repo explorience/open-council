@@ -113,6 +113,7 @@ export default ((userOpts?: Partial<FrontpageWallOptions>) => {
                 </button>
               ))}
             </div>
+            <div class="fp-assistant-rule" aria-hidden="true"></div>
             <div class="fp-assistant-inputrow">
               <label for="fp-assistant-input" class="sr-only">
                 Ask the record

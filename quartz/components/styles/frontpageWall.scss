@@ -39,7 +39,16 @@
   z-index: 0;
   font-weight: 900;
   font-variation-settings: "wdth" 78;
-  font-size: clamp(120px, 24vw, 290px);
+  // Verified design-gate finding: at the prototype's original clamp
+  // (120-290px) the numeral's rendered width (a 5-character "1,690" at
+  // ~0.48em/char and up to 290px tall runs ~650-700px) rivals the hero's
+  // own width, so on real (longer, 3-line-wrapping) headline copy its
+  // leading digit lands directly under opaque h1 ink instead of the
+  // clear negative space the prototype's one-line headline left it.
+  // Capped smaller here so the numeral's full footprint fits inside the
+  // column .fp-h1's own max-width (below) reserves for it, on any
+  // headline length/wrap count — not just the exact prototype copy.
+  font-size: clamp(90px, 15vw, 180px);
   line-height: 1;
   color: transparent;
   -webkit-text-stroke: 1.5px var(--ghost);
@@ -76,6 +85,17 @@
   text-transform: uppercase;
   max-width: 12ch;
   margin: 0 0 0.75rem;
+
+  // Verified design-gate finding: reserve a clear right-hand column for
+  // .fp-ghost so no wrapped line of headline ink can ever reach into the
+  // numeral's own footprint, independent of how many words/lines the
+  // actual copy needs (a raw ch cap alone doesn't bound rendered % width
+  // across the font's condensed/variable proportions). Mobile is
+  // untouched — .fp-ghost drops out of absolute position there (above),
+  // so there's nothing to reserve space from.
+  @media all and (min-width: 801px) {
+    max-width: min(12ch, 56%);
+  }
 }
 
 .fp-ox {
@@ -123,6 +143,31 @@
   border: 1px solid var(--line);
   border-radius: 10px;
   padding: 1.25rem;
+}
+
+// The assistant card's natural content height is shorter than the stats
+// column beside it (which grows with the committee list) — verified
+// design-gate finding: with align-items:start (stop-the-stretch fix)
+// that leaves a blank gap between the card and THE DIVISION WALL below
+// instead of the card visibly stretching. Rather than either, the card
+// grows to match its row (stretch) but composes its OWN height with a
+// flex-grown column rule — the same "rule fills the remainder" device
+// already used by .wall .yr::after — so the extra space reads as a
+// deliberate broadsheet column divider, not an accidental empty box.
+.fp-card.fp-assistant {
+  display: flex;
+  flex-direction: column;
+
+  @media all and (min-width: 801px) {
+    align-self: stretch;
+  }
+}
+
+.fp-assistant-rule {
+  flex: 1 1 auto;
+  min-height: 0.75rem;
+  margin: 0.5rem 0 0.75rem;
+  border-top: 1px dashed var(--line);
 }
 
 .fp-assistant-lead {
@@ -317,6 +362,22 @@
   grid-template-columns: repeat(auto-fill, minmax(11px, 1fr));
   gap: 3px;
   margin-bottom: 1.5rem;
+
+  // Verified design-gate BLOCKER: the real dataset (1,803 cells, vs. the
+  // prototype's 662) packs ~17/row at 390px under the 11px desktop
+  // floor — each cell lands at roughly 9x14px rendered, well under the
+  // WCAG 2.5.8 24x24px pointer target minimum, on the wall's own primary
+  // tap->tooltip interaction. minmax(24px, 1fr) guarantees every cell is
+  // at least a 24px-square target on phone widths; auto-fill just wraps
+  // to more rows at that floor (no JS layout math, no horizontal
+  // scroll needed — the grid never has to shrink below the floor since
+  // 1fr only ever distributes leftover space upward, never below the
+  // minimum). Desktop's dense 11px weave (the signature device) is
+  // untouched.
+  @media all and ($mobile) {
+    grid-template-columns: repeat(auto-fill, minmax(24px, 1fr));
+    gap: 4px;
+  }
 }
 
 .wall .yr {
