@@ -1,0 +1,568 @@
+[
+  {
+    "id": "8a1376de1b23",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the item on the Property Disposition of the former Sherwood Forest Public School lands at 7 Annadale Drive; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Content array has exactly one entry (the Motion itself, motion_texts='Motion Passed', no vote rows) — no separate recommendation paragraph precedes it anywhere in the source. no_text is genuine, not a recovery gap."
+  },
+  {
+    "id": "ebbd0a12fc37",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Ratified the 3rd Report of the Strategic Priorities and Policy Committee (clauses 1-3): endorsed three Development Charges Background Study policy matters (Urban Works Reserve Fund retirement, non-residential DC rate review, DC recovery for water supply) for further review; endorsed the Core Area Servicing Studies and a Local Servicing Policy funding approach to inform DC-funded infrastructure; and continued the policy distinguishing DC rates inside/outside the Urban Growth Boundary while directing further area-rating analysis.",
+    "confidence": "medium",
+    "quote": "Clause 1: the following additional policy matters BE ENDORSED for review as part of the 2019 Development Charges Background Study: a) Urban Works Reserve Fund Retirement; b) Non-residential Development Charges Rate Review; and, c) Development Charges Recovery for Water Supply. Clause 2: the Core Area Servicing Studies for water, wastewater, and stormwater services ... BE ENDORSED to inform the funding of growth-related infrastructure projects to support infill and intensification development. Clause 3: the current policy to distinguish Development Charges rates inside the Urban Growth Boundary from those outside the Urban Growth Boundary, BE CONTINUED; and ... the Civic Administration BE DIRECTED to continue its analysis to review services that are candidates for differential recovery areas.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "MISSED CLASSIFICATION, corrected via committee/Council twin (codified convention: 'committee and Council twins with identical text carry ONE verdict'). This Council motion's own text is genuinely just 'Approve clause 1 through 3:' with no clause detail — but manifest cross-reference confirms it ratifies the 2018-01-29 SPPC's 3rd Report, whose three underlying committee-stage motions (batch-89-verified.json ids 884b295e1641, 8d242925ddc8, f257dffa4c73 — SPP items 4/5/6) are already independently verified with full text, issue=budget, polarity=null. Quote/whatAYeaDid drawn from those confirmed twins. 11-1 (M. van Holst dissenting) — see original vote rows, dissent reason not stated in source, polarity stays null (no printed $ levy line)."
+  },
+  {
+    "id": "679d391eb518",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved Council into closed session to consider the matters listed on the agenda; the specific matters are not itemized in the recovered text.",
+    "confidence": "high",
+    "quote": "Approve that Council rise and go into Council, In Closed Session, for the purpose of considering the following matters:",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim-confirmed against source; genuine standalone procedural motion text, correctly flagged procedural, no issue."
+  },
+  {
+    "id": "89b0ca159199",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Minutes of the Second Meeting held on January 16, 2018.",
+    "confidence": "high",
+    "quote": "Approve the Minutes of the Second Meeting held on January 16, 2018.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim-confirmed against source; genuine standalone procedural motion text, correctly flagged procedural, no issue."
+  },
+  {
+    "id": "de3f9d7075f5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill Nos. 55 to 77 and the added Bill Nos. 79 to 82, excluding Bill Nos. 59, 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Introduction and First Reading of Bill No.’s 55 to 77, the Added Bill No’s. 79 to 82, excluding Bill No.’s 59, 61, 63 and 64.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim-confirmed against source (Bill Nos. 55-77 + 79-82 excl. 59/61/63/64). Reading-voice convention followed (lowercase stage phrase, no enactment wording at first reading). Issue correctly null — bundled bill-number-only reading, no substance given, matches corpus precedent."
+  },
+  {
+    "id": "5ddc29cd6689",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill Nos. 55 to 77 and the added Bill Nos. 79 to 82, excluding Bill Nos. 59, 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Second Reading of Bill No.’s 55 to 77, the Added Bill No’s. 79 to 82, excluding Bill No.’s 59, 61, 63 and 64.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim-confirmed. Second-reading voice correct, no enactment wording. Issue null per bundled-bill-numbers precedent."
+  },
+  {
+    "id": "5fda22eb51be",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Bill Nos. 55 to 77 and the added Bill Nos. 79 to 82, excluding Bill Nos. 59, 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Third Reading and Enactment of Bill No.’s 55 to 77, the Added Bill No’s. 79 to 82, excluding Bill No.’s 59, 61, 63 and 64.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim-confirmed. Third-reading+enactment voice correctly used only at this final stage. Issue null per bundled-bill-numbers precedent."
+  },
+  {
+    "id": "077b99accdee",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill No. 59.",
+    "confidence": "low",
+    "quote": "Approve Introduction and First Reading of Bill No. 59.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim-confirmed (Bill No. 59, split out for separate reading — recusal by P. Hubert on later stages, consistent with source). Issue null, no substance given."
+  },
+  {
+    "id": "b2765e10d031",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill No. 59.",
+    "confidence": "low",
+    "quote": "Approve Second Reading of Bill No. 59.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim-confirmed. Second-reading voice correct. Issue null."
+  },
+  {
+    "id": "d39b3a5d16d8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Bill No. 59.",
+    "confidence": "low",
+    "quote": "Approve Third Reading and Enactment of Bill No. 59.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim-confirmed. Third-reading+enactment voice correct. Issue null."
+  },
+  {
+    "id": "c16758abba66",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill Nos. 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Introduction and First Reading of Bill No.’s 61, 63 and 64.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim-confirmed (Bill Nos. 61, 63, 64, split out). Issue null, no substance given."
+  },
+  {
+    "id": "c1ad67f3d002",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill Nos. 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Second Reading of Bill No.’s 61, 63 and 64.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim-confirmed. Second-reading voice correct. Issue null."
+  },
+  {
+    "id": "0c15e2347fc5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Bill Nos. 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Third Reading and Enactment of Bill No.’s 61, 63 and 64.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim-confirmed. Third-reading+enactment voice correct. Issue null."
+  },
+  {
+    "id": "86e6308a9374",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved consenting, under s.52(4) of the Health Protection and Promotion Act, to the Middlesex-London Health Unit's proposal to lease real property to consolidate its London operations; received the related report.",
+    "confidence": "high",
+    "quote": "the Board of Health of the Middlesex-London Health Unit (MLHU) BE ADVISED that pursuant to subsection 52(4) of the Health Protection and Promotion Act, R.S.O. 1990, c.H.7 (the “Act”), the Municipal Council consents to the MLHU’s proposal to lease real property for the purposes of consolidating its London operations",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Classifier's 'no operative motion text was recovered' claim is false: full recommendation text precedes the Motion node as a separate Paragraph (content[0]), which the classifier's extraction evidently didn't read (it only saw the Motion's own motion_texts, 'Motion Passed'). Recovered text checked against all 8 issue keyword lists (issue-rules.ts) — no match (health-unit real-property leasing/consent isn't a tracked issue). issue:none/polarity:null was still the right final answer, but for the wrong reason (text absence) rather than the right one (no keyword match)."
+  },
+  {
+    "id": "f7ec4fc71a20",
+    "issue": "climate",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Awarded Tender T17-56 to J-AAR Excavating Limited ($4,724,216.75) to construct the North Lambeth P9 Stormwater Management Facility, engaged Stantec Consulting for construction administration, and approved the project's financing.",
+    "confidence": "high",
+    "quote": "the bid submitted by J-AAR Excavating Limited, at its tendered price of $4,724,216.75, excluding HST, BE ACCEPTED, it being noted that the bid submitted by J-AAR Excavating Limited was the lowest of six (6) bids received",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "MISSED CLASSIFICATION, corrected. 'no_text' was false — full text precedes the Motion node. 'Stormwater management' is an explicit issue-rules.ts climate keyword and this is a genuine capital-commitment tender award (not an appointment), matching the corpus's own procurement convention ('tender awards = expansive') and direct precedent (e.g. batch-55 Downtown Loop tender, batch-18 Rapid Transit construction contract — both issue+application-approval+expansive on identical fact patterns). Unanimous 3-0 (P. Hubert, T. Park, P. Squire) at Civic Works Committee."
+  },
+  {
+    "id": "0f455b260cb0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Endorsed a door-to-door canvassing campaign to promote weeping tile disconnection, run jointly with the Growing Naturally Program.",
+    "confidence": "high",
+    "quote": "the recommended action to promote weeping tile disconnection through door-to-door canvassing with the Growing Naturally Program BE ENDORSED.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered (precedes the Motion node); 'no operative motion text' claim was false. Checked against all 8 issue keyword lists — no match (weeping-tile disconnection promotion isn't tracked vocabulary). issue:none/null confirmed correct on the merits."
+  },
+  {
+    "id": "a7536a8e6351",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a staff report on the findings of the 2017 Ministry of the Environment and Climate Change inspection of the City's water distribution system.",
+    "confidence": "high",
+    "quote": "the report dated February 6, 2018 related to the findings of the 2017 Ministry of the Environment and Climate Change Inspection of the City of London Water Distribution System, BE RECEIVED.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. 'Climate' appears only inside the government ministry's proper name ('Ministry of the Environment and Climate Change') in a routine received-for-information inspection report — exactly the bare-keyword-in-unrelated-context trap issue-rules.ts's own calibration notes warn about (cf. the documented 'Transition into Practice' false positive). Correctly not tagged climate; issue:none confirmed."
+  },
+  {
+    "id": "5225ebad6191",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Increased the Byron Baseline Road Reconstruction contract (Tender T17-15, Bre-Ex Construction Inc.) by $650,000.00 to $6,499,025.30, and approved the project's financing.",
+    "confidence": "high",
+    "quote": "the 2017 Byron Baseline Reconstruction (Tender T17-15) contract value with Bre-Ex Construction Inc. BE INCREASED by $650,000.00 to $6,499,025.30 excluding HST",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. Checked against all 8 issue keyword lists — road-reconstruction contract price increase isn't a tracked issue (no transit-service/road-widening/traffic-calming keyword present). issue:none confirmed correct."
+  },
+  {
+    "id": "b0ea5c26366d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Strategic Plan Progress Variance staff report.",
+    "confidence": "high",
+    "quote": "the staff report dated February 6, 2018, related to Strategic Plan Progress Variance, BE RECEIVED.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; pure information-receipt, no operative decision, no issue keyword. issue:none confirmed."
+  },
+  {
+    "id": "9f1d8b3726f2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 1st Report of the Waste Management Working Group.",
+    "confidence": "high",
+    "quote": "That the 1st Report of the Waste Management Working Group, from its meeting held on January 18, 2018, BE RECEIVED.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; pure information-receipt, no issue keyword ('waste management' isn't tracked vocabulary). issue:none confirmed."
+  },
+  {
+    "id": "815ba915d34c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 1st Report of the Transportation Advisory Committee.",
+    "confidence": "high",
+    "quote": "That the 1st Report of the Transportation Advisory Committee, from its meeting held on January 23, 2018, BE RECEIVED.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; pure information-receipt, no issue keyword. issue:none confirmed."
+  },
+  {
+    "id": "88cb0d66c9e8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted the Wharncliffe Road South (Becher Street to Commissioners Road) Municipal Class Environmental Study Report, directed a Notice of Completion be filed, and placed the report on the public record for a 30-day review period.",
+    "confidence": "high",
+    "quote": "the Wharncliffe Road South from Becher Street to Commissioners Road Municipal Class Environmental Study report BE ACCEPTED; a Notice of Completion for the project BE FILED with the City Clerk; and, the Environmental Study Report BE PLACED on the public record for a 30-day review period",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. Checked against all 8 issue keyword lists — no match (a road-project Environmental Study Report acceptance isn't itself road-widening/transit-service/etc.). issue:none confirmed correct on the merits. 3-0 (P. Hubert, T. Park, P. Squire)."
+  },
+  {
+    "id": "d37e311d4647",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the delegation requests from N. Finlayson and T. Dupont-Martinez to speak to the Wharncliffe Road South Environmental Study Report item.",
+    "confidence": "high",
+    "quote": "Motion to approve the delegation requests from N. Finlayson and T. Dupont-Martinez.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered (listed under a separate 'Voting Record:' heading later in the same item, after the substantive ESR vote 88cb0d66c9e8) — a genuinely distinct, procedural delegation-approval vote, not a duplicate. 'no_text' replaced with 'procedural'; issue:none confirmed."
+  },
+  {
+    "id": "181afba0cdee",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the 2nd Report of the Cycling Advisory Committee: referred a proposed London Bicycle Friendly Award Policy to the City Clerk, noted CAC's support for a Victoria Bridge cycling solution, amended a proposed summer Sunday-morning street closure to consider Dundas Street instead of Oxford Street, and received the report's remaining clauses.",
+    "confidence": "high",
+    "quote": "the attached proposed London Bicycle Friendly Award Policy BE REFERRED to the City Clerk for review and consideration and a report back to the appropriate standing committee",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered (substantial — referral, advisement, an amendment on a street-closure trial, work-plan addition). Checked against the exact 'bikes' keyword list (bike lane(s), cycling infrastructure, cycle track, protected bike lane, bicycle facilit-, cycling network, bike network, cycling master plan, cycling map, network cycling) — none of those literal phrases appear; 'Cycling Advisory Committee' and 'cycling solution' don't match. issue:none confirmed correct on the merits, not on text-absence."
+  },
+  {
+    "id": "53807d8b8409",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a Council Member communication on the possibility of moving utility wires underground on Hamilton Road, and took no further action.",
+    "confidence": "high",
+    "quote": "the communications from Councillor M. van Holst related to the possibility of moving utility wires underground on Hamilton Road BE RECEIVED and no further action be taken with respect to this matter.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. No issue keyword match. issue:none confirmed."
+  },
+  {
+    "id": "9d7ddd3257cb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Noted a communication from Councillor V. Ridley regarding her absence from the meeting.",
+    "confidence": "high",
+    "quote": "That it BE NOTED that a communication dated February 6, 2018 from Councillor V. Ridley, related to her being absent from the meeting, was received.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no_text' replaced with 'procedural' alone (was previously procedural+no_text)."
+  },
+  {
+    "id": "e9ee11805ea3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested the Director of Water and Wastewater review the Wastewater and Stormwater By-law WM-28's fees for Private Drain Connection work and report back on a blended fee for mixed-use properties.",
+    "confidence": "high",
+    "quote": "That the Director of Water and Wastewater BE REQUESTED to review the Wastewater and Stormwater By-law WM-28 as it relates to fees and charges for Private Drain Connections (PDC) work undertaken as part of a City of London construction project and report back",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. A report-back/review request is informational (no approve/deny outcome), and 'Stormwater By-law' doesn't match the specific 'stormwater management' keyword. issue:none confirmed."
+  },
+  {
+    "id": "e45f7a562f1a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred a public request for a pedestrian crosswalk at Pack Road and Colonel Talbot Road to the Division Manager of Transportation Planning and Design for review and a report back.",
+    "confidence": "high",
+    "quote": "That the communication from J. Burns related to a request for a pedestrian crosswalk at the intersection of Pack Road and Colonel Talbot Road BE REFERRED to the Division Manager, Transportation Planning and Design for review and consultation",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; a referral is a non-decision. No issue keyword. issue:none confirmed."
+  },
+  {
+    "id": "72e427a2071f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Civic Works Committee's Deferred Matters List as of December 12, 2017.",
+    "confidence": "high",
+    "quote": "That the Civic Works Committee deferred list, as of December 12, 2017, BE RECEIVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no_text' replaced with 'procedural' alone (was previously procedural+no_text)."
+  },
+  {
+    "id": "1a97fa17f57e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Awarded Tender T17-130 to Bre-Ex Construction Inc. ($6,590,096.80) for the Wonderland Road South Two-Lane Upgrade from Highway 401 to Highway 402, engaged WSP Canada for contract administration, and approved the project's financing.",
+    "confidence": "high",
+    "quote": "the bid submitted by Bre-Ex Construction Inc. at its submitted tendered price of $6,590,096.80 (excluding HST), for the said project BE ACCEPTED; it being noted that the bid submitted by Bre-Ex Construction Inc. was the lowest of six bids received",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. Checked against the transit issue keyword list (transit, bus rapid transit/BRT, mobility master plan, london transit, rapid transit, transportation master plan, road widening, traffic calming, bus route, transit service) — 'Two-Lane Upgrade' doesn't match any of those literal phrases (it's a reconstruction/upgrade project, not described in the source as a widening). issue:none confirmed correct on the merits."
+  },
+  {
+    "id": "8333894ebc71",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law amending the Traffic and Parking By-law (PS-113) at the February 13, 2018 Council meeting; the by-law's substantive content is not given in this recommendation.",
+    "confidence": "high",
+    "quote": "the proposed by-law, as appended to the staff report dated February 6, 2018, BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2018 for the purpose of amending the Traffic and Parking by-law (PS-113).",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered but it's a bare bylaw-introduction recommendation with no detail on what the amendment actually changes — same 'substance never given' situation as the bundled bill-number readings elsewhere in this batch. issue:none confirmed."
+  },
+  {
+    "id": "26808da845ba",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a staff report on converting Hamilton Road (Chesley Avenue to Egerton Street) utilities from overhead to underground, and directed staff to tender the 2018 infrastructure renewal project as designed, keeping the existing aerial hydro and telecommunications arrangements.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to tender the project for implementation in 2018 as currently designed maintaining the aerial hydro and telecommunications utility arrangements.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. No issue keyword match (not a tracked category); this is the companion decision to 53807d8b8409's undergrounding request, both non-substantive to the 8 tracked issues. issue:none confirmed."
+  },
+  {
+    "id": "f5826825ca4b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Awarded Tender No. 17-129 to J-AAR Excavating Limited ($8,033,093.95) for the Western Road/Wharncliffe Road North Improvements Phase 2 project, engaged AECOM Canada for contract administration, approved financing, and approved a pedestrian signal at Western Road/Hollywood Crescent.",
+    "confidence": "high",
+    "quote": "the bid submitted by J-AAR Excavating Limited at its submitted tendered price of $8,033,093.95 (excluding HST), for the said project BE ACCEPTED; it being noted that the bid submitted by J-AAR Excavating Limited was the lowest of five bids received",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. No transit/issue keyword literal match (a general road-improvements tender, not described as widening). issue:none confirmed correct on the merits."
+  },
+  {
+    "id": "a5da8992280f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized AECOM Canada Limited, for $131,604.00, to carry out resident supervision and contract administration for the Southeast Pressure Zone Development water infrastructure project, and approved the project's financing.",
+    "confidence": "high",
+    "quote": "AECOM Canada Limited BE AUTHORIZED to carry out the resident supervision and contract administration for said project in the amount of $131,604.00 (excluding HST)",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. A consultant-services engagement (resident supervision/contract administration), not a construction tender — flagged appointment per the corpus's procurement convention. No issue keyword ('Southeast Pressure Zone' is water infrastructure, not the 'stormwater management' phrase). issue:none confirmed."
+  },
+  {
+    "id": "ccb5c84b32ec",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a sole-source contract with Pure Technologies Ltd., for $150,922.00, for continuous acoustic fiber optic monitoring of 15.86 km of the City's most critical watermains in 2018, and approved the project's financing.",
+    "confidence": "high",
+    "quote": "the contract value for Pure Technologies Ltd. ... BE APPROVED, in accordance with section 14.3(c) of the Corporation of the City of London’s Procurement of Goods and Services Policy, in the amount of $150,922.00 (excluding HST) for 2018 to continuously monitor 15.86 km of the City’s most critical watermains",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. A sole-source monitoring service contract (not new construction) — flagged appointment on the same reasoning as consultant engagements. No issue keyword. issue:none confirmed."
+  },
+  {
+    "id": "1be465447566",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Stantec Consulting Ltd. as consulting engineer, for $398,486.55, to carry out detailed design and contract administration for the Fox Hollow Stormwater Management Facility No. 1 - North Cell, and approved the project's financing.",
+    "confidence": "high",
+    "quote": "Stantec Consulting Ltd. BE APPOINTED as consulting engineer to carry out the detailed design and contract administration for the said project, in the total amount of $398,486.55 (including contingency), excluding HST",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "MISSED CLASSIFICATION, corrected. 'no_text' was false — full text precedes the Motion node. Same 'stormwater management' climate keyword as f7ec4fc71a20, but this is a consultant APPOINTMENT (design/contract-administration services), not a construction tender — per the corpus's procurement convention ('appointment = null') and direct precedent (batch-80 Dillon Consulting/Dundas Place: issue tagged, polarity null, flagged appointment), polarity stays null. Unanimous 3-0 at Civic Works Committee."
+  },
+  {
+    "id": "479e6aa84495",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law replacing the Flags at City Hall Policy with a new policy adding an annual observance of the anniversary of the London Township Treaty, plus minor numbering changes.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated February 6, 2018 BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2018 for the purpose of replacing the Flags at City Hall Policy with a new Flags at City Hall Policy to incorporate the provision of the annual observance of the anniversary of the London Township Treaty",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. No issue keyword match. issue:none confirmed."
+  },
+  {
+    "id": "5bfca5335346",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Apportioned existing taxes on described blocks of subdivided land per the attached schedules, under Section 356 of the Municipal Act, 2001.",
+    "confidence": "high",
+    "quote": "the taxes on the blocks of land described in the Schedules appended to the staff report dated February 6, 2018 BE APPORTIONED as indicated on those Schedules, pursuant to Section 356 of the Municipal Act, 2001",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. A technical reapportionment of already-assessed taxes across subdivided parcels — not a 'property tax' (rate/levy) decision in the budget-keyword sense; the literal two-word phrase doesn't appear either. issue:none confirmed."
+  },
+  {
+    "id": "5dfec2447065",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Tariq Khan and Storm Morgan to the Transportation Advisory Committee as Voting Members at Large for the term ending February 28, 2019, per the ranked-ballot result.",
+    "confidence": "high",
+    "quote": "That the following BE APPOINTED to the Transportation Advisory Committee as Voting Members at Large for the term ending February 28, 2019; Tariq Khan Storm Morgan",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Classifier's claim that 'no names recovered' was false — both appointees' names are in the source, in the leading Paragraph before the Motion node. 'no_text' dropped (real text recovered); 'appointment' flag kept. issue:none confirmed — this is exactly the appointment-to-committee pattern GLOBAL_EXCLUDE in issue-rules.ts is written to exclude."
+  },
+  {
+    "id": "9c528b4115aa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Designated the Forest City Beer Fest 2018 Winter Pop Up Bar (March 2-3, 2018, 211 King Street) as an event of municipal significance.",
+    "confidence": "high",
+    "quote": "That the Forest City Beer Fest 2018 Winter Pop Up Bar event, to be held on March 2 and 3, 2018, at 211 King Street from 7:00 p.m. to 2:00 a.m., BE DESIGNATED as an event of municipal significance in the City of London.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. No issue keyword. issue:none confirmed."
+  },
+  {
+    "id": "125bf8394229",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 2018 Assessment Growth Funding Allocation staff report for information.",
+    "confidence": "high",
+    "quote": "the 2018 Assessment Growth Funding Allocation report BE RECEIVED for information.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. Pure information-receipt; 'assessment growth funding' doesn't match any budget keyword (no 'development charges', 'tax levy', 'property tax', 'capital/operating budget', etc.). issue:none confirmed."
+  },
+  {
+    "id": "cd40f76dd2a4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Strategic Plan progress variance staff report for information.",
+    "confidence": "high",
+    "quote": "the staff report dated February 12, 2018, with respect to the Strategic Plan progress variance BE RECEIVED for information.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; pure information-receipt, no issue keyword. issue:none confirmed."
+  },
+  {
+    "id": "1d5a967740ff",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a Growth Projections Sensitivity Analysis and the Watson & Associates 2016-2044 population/housing/employment growth forecast update for information, and endorsed the updated forecast's growth scenarios for use in the 2019 Development Charges Study.",
+    "confidence": "medium",
+    "quote": "the housing and non-residential reference growth scenarios outlined in the updated final report prepared by Watson and Associates Economists entitled “City of London Population, Housing and Employment Growth Forecast Update, 2016 to 2044” BE ENDORSED for use in the 2019 Development Charges Study.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "MISSED CLASSIFICATION, corrected. 'Development charges' is a literal budget keyword and appears in the operative clause itself (not just the title), directly endorsing forecast scenarios for use in the named DC Study. Direct precedent: batch-89-verified.json (the immediately preceding DC-policy committee meeting, 2018-01-29 SPPC items 4/5/6 ratified as the very 'clauses 1-3' this batch's own ebbd0a12fc37 approves) classifies materially identical 'endorsed ... for the 2019 Development Charges ... Study' motions as issue=budget, polarity=null (no printed $ levy line to derive a direction from) — same pattern applied here. 13-0 unanimous."
+  },
+  {
+    "id": "dca0e3208f9a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a staff report on using the City's working capital as an interim financing source for growth infrastructure projects, noting future interest costs will be borne by the Development Charges Reserve Funds.",
+    "confidence": "medium",
+    "quote": "the staff report dated February 12, 2018 regarding the use of the City’s working capital as an interim source of financing for growth infrastructure projects BE RECEIVED for information; it being noted that future interest costs will be borne by the Development Charges Reserve Funds.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Real text recovered; 'no operative motion text' claim was false. Considered for budget reclassification (companion item 1d5a967740ff, same meeting, was reclassified) but declined: here 'Development Charges' appears only in a trailing accounting note (which reserve fund absorbs interest cost), not as the operative subject (the subject and sole decision is receiving a report about working-capital financing). Judgment call, kept issue:none; flagged for a second opinion if the corpus maintainers disagree."
+  },
+  {
+    "id": "35fab38f6c6e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on a blanket approval of clauses 1 through 5 of a closed-session-originated report forwarded to Council; the clauses' own operative text is not preserved for this vote (a separate, adjoining vote on the same item approved clauses 1 and 2 specifically — a 330 Thames Street property sale — with real text).",
+    "confidence": "low",
+    "quote": "Approve clauses 1 to 5, inclusive.",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against source: item 9 carries TWO separate recorded votes — this id is the first, blanket 'Approve clauses 1 to 5, inclusive' (14-0), which genuinely has no clause-level text of its own anywhere in the source. The second vote (clauses 1-2 specifically, with full 330 Thames St / 332 Wharncliffe Rd N text) is a distinct Motion node in the same item, correctly identified by the classifier as belonging to a different batch (manifest ordering places it in batch 91). No text to recover for THIS vote; issue/polarity null correct."
+  }
+]

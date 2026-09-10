@@ -1,0 +1,505 @@
+[
+ {
+  "id": "6dbf53cb6a71",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred part a) of the “One River” Master Plan Environmental Assessment clause to later in the meeting, in order to obtain additional legal information in closed session before consideration.",
+  "confidence": "high",
+  "quote": "Approve referral of part a) of clause 12 to later in the meeting, in order to obtain additional legal information in closed session, prior to consideration.",
+  "flags": [
+   "referral",
+   "procedural"
+  ]
+ },
+ {
+  "id": "9a2e9e35679e",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have amended the Creating a Vibrant and Competitive Downtown clause to approve $100,000 in immediate funding from the Economic Development Reserve Fund for Downtown London to engage Live Work Learn Play on its recruitment initiative, contingent on a matching $100,000 from Downtown London, and would have requested Downtown London report back to the Strategic Priorities and Policy Committee by December 2016 with progress and a revised business plan.",
+  "confidence": "high",
+  "quote": "immediate funding in the amount of $100,000, to be paid from the Economic Development Reserve Fund, BE APPROVED in order for Downtown London to engage Live Work Learn Play (LWLP) to commence their “Creating a Vibrant and Competitive Downtown” recruitment initiative, contingent on Downtown London contributing $100,000",
+  "flags": []
+ },
+ {
+  "id": "805c86b5ff88",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a motion on 'Amendments to the Traffic and Parking By-law'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "9476baec322f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have adopted a further motion on 'Amendments to the Traffic and Parking By-law'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "aab1d0fc1bdc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a motion on 'Victoria on the River Subdivision (39T-09502/Z-8528)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "9da63985bc96",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a motion on '2nd Report of the Community Safety and Crime Prevention Advisory Committee'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "32ba74890b39",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved clause 10 of the 5th Report of the Community and Protective Services Committee, as amended, authorizing the City, in partnership with The Royal Canadian Regiment Museum, to submit a joint application for a LAV III Public Art Monument at Wolseley Barracks; approving up to $100,000 in funding from the Public Art Acquisition Reserve Fund to implement the project; and directing the Civic Administration to explore potential federal funding opportunities to assist with implementation.",
+  "confidence": "high",
+  "quote": "funding of up to $100,000, to be drawn from the existing City of London Public Art Acquisition Reserve Fund, BE APPROVED, to implement the LAV III Public Art Monument project",
+  "flags": []
+ },
+ {
+  "id": "1d40691a851c",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved revisions to the draft-approved Victoria on the River plan of subdivision submitted by Sifton Properties Limited (lands north of Commissioners Road East, east and west of Sheffield Boulevard), showing 172 single-family lots and a mix of multi-family, commercial/office, park, and stormwater blocks, and introduced a by-law to rezone the subject property to Residential R1 Special Provision zones permitting single detached dwellings with specified lot coverage, frontage, and area standards.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property",
+  "flags": []
+ },
+ {
+  "id": "307acbe2abec",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved revisions to the draft-approved Victoria on the River plan of subdivision submitted by Sifton Properties Limited (lands north of Commissioners Road East, east and west of Sheffield Boulevard), and introduced a by-law to rezone the subject property to Residential R1 Special Provision zones permitting single detached dwellings with specified lot coverage, frontage, and area standards; a further, more divided vote on the same clause 13.",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property",
+  "flags": []
+ },
+ {
+  "id": "d537dc042224",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the matter of climate change risk disclosures on gas pumps to the Civic Administration to be considered in its review of the L-6 Business Licensing By-law, to be reported back to the Community and Protective Services Committee in June 2016, and requested the Mayor petition the provincial government for a province-wide initiative on this matter following that report back.",
+  "confidence": "medium",
+  "quote": "this matter BE REFERRED to the Civic Administration to be considered in its review of the L-6 Business Licensing By-law, which will be reported back to the Community and Protective Services Committee in June 2016; and, c) subsequent to the report back in part b), the Mayor BE REQUESTED to petition the provincial government with respect to a province-wide initiative, with respect to this matter.",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "a72b1a91dec6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended the Transportation Network Companies licensing-options clause to add a requirement that the recommended actions be contingent on all Transportation Network Company platforms withdrawing or suspending current services in London until vehicle-for-hire regulations are in place.",
+  "confidence": "high",
+  "quote": "Approve an amendment to part b) to add the following: \"and that these actions BE CONTINGENT upon the withdrawal/suspension of all current services by all platforms of TNC companies, until regulations are in place;\"",
+  "flags": []
+ },
+ {
+  "id": "fa4310080218",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received a staff report on licensing options for Transportation Network Companies, directed the Civic Administration to hold public consultation sessions on vehicle-for-hire regulation with a report back to the Community and Protective Services Committee, and directed the Civic Administration to request that electronic vehicle-sourcing platforms matching passengers with unlicensed vehicles for hire immediately stop operating in London until by-law amendments addressing vehicles for hire and brokers are in force.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to organize public consultation sessions to allow for public feedback on the form and regulation of the vehicle for hire industry, with a report back at a future meeting of the Community and Protective Services Committee; and... the Civic Administration BE DIRECTED to request that any electronic vehicle sourcing platforms used to match passengers with unlicensed vehicles for hire (as they are currently not permitted) immediately stop operating in London, until any future by-law amendments addressing vehicles for hire and brokers are in full force and effect",
+  "flags": []
+ },
+ {
+  "id": "bdfc70793f5d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have deferred clauses 17 and 18 of the 9th Report of the Corporate Services Committee, including Deputy Mayor M. Cassidy's request to stand for election to the Federation of Canadian Municipalities Board of Directors, to the April 26, 2016 Corporate Services Committee meeting for consideration.",
+  "confidence": "high",
+  "quote": "Approve that clauses 17 and 18 BE DEFERRED to the April 26, 2016 Corporate Services Committee meeting for consideration.",
+  "flags": [
+   "referral",
+   "procedural"
+  ]
+ },
+ {
+  "id": "c3646a62f0c5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a lease between The Corporation of the City of London and the Western Fair Association, attached as Schedule “A” to the report from the Director, Financial Services.",
+  "confidence": "high",
+  "quote": "the lease between The Corporation of the City of London and the Western Fair Association, attached as Schedule “A”, BE APPROVED",
+  "flags": []
+ },
+ {
+  "id": "0697bb76dbd8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 3 to introduce a revised Traffic and Parking By-law (P.S. 111) at the April 5, 2016 Council meeting, excluding the “No Parking in Posted Locations” provision for Canada Post community mail boxes, and referred a separate proposed by-law on “No Parking” within one metre of certain Canada Post community mail boxes back to staff to develop clearer wording.",
+  "confidence": "high",
+  "quote": "the attached revised proposed by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016... and b) the attached proposed by-law (Appendix “B”) BE REFERRED back to staff develop clearer wording to provide for “No Parking” within 1 metre of certain Canada Post community mail boxes",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "3c8b0641b5b8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the introduction to the Dog Licensing and Control By-law (By-law PH-4) clause to add reference to “the related matter of outdoor tethering of dogs” in its opening sentence.",
+  "confidence": "high",
+  "quote": "Approve that clause 9 be amended in the introduction, to read as follows: “8. That the following actions be taken with respect to the Dog Licensing and Control By-law (By-law PH-4), and the related matter of outdoor tethering of dogs:”",
+  "flags": [
+   "wrapper_preamble",
+   "procedural"
+  ]
+ },
+ {
+  "id": "63cc49a1e8e2",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave first reading to Bill No. 149, the by-law rezoning the Victoria on the River subdivision lands (39T-09502/Z-8528) submitted by Sifton Properties Limited.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 149.",
+  "flags": []
+ },
+ {
+  "id": "15c133163146",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave second reading to Bill No. 149, the by-law rezoning the Victoria on the River subdivision lands (39T-09502/Z-8528) submitted by Sifton Properties Limited.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 149",
+  "flags": []
+ },
+ {
+  "id": "f85eb0b8aa9c",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave third reading and enacted Bill No. 149, the by-law rezoning the Victoria on the River subdivision lands (39T-09502/Z-8528) submitted by Sifton Properties Limited.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 149.",
+  "flags": []
+ },
+ {
+  "id": "a340affea5b2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 151; the by-law's subject is not identified anywhere else in the meeting record.",
+  "confidence": "low",
+  "quote": "Approve Introduction and First Reading of Bill No. 151.",
+  "flags": []
+ },
+ {
+  "id": "75e9ddf2c1e1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 151; the by-law's subject is not identified anywhere else in the meeting record.",
+  "confidence": "low",
+  "quote": "Approve Second Reading of Bill No. 151.",
+  "flags": []
+ },
+ {
+  "id": "e9ae41bff02d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading and enacted Bill No. 151; the by-law's subject is not identified anywhere else in the meeting record.",
+  "confidence": "low",
+  "quote": "Approve Third Reading and Enactment of Bill No. 151.",
+  "flags": []
+ },
+ {
+  "id": "b1fb8e0b0b43",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a motion on 'Properties located on a portion of 1800 Cedarhollow Boulevard and 776-802 Killarney Road (Cedarhollow Subdivision) (Z-8596)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "b0e9db24ec4b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a motion on 'Greater London International Airport Authority Board of Directors – Nominations'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text",
+   "appointment"
+  ]
+ },
+ {
+  "id": "a1d9982f0ce6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a further motion on 'Greater London International Airport Authority Board of Directors – Nominations'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text",
+   "appointment"
+  ]
+ },
+ {
+  "id": "a8961edabab7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have received and endorsed in principle a staff report on the RFP process for internal and external audit services.",
+  "confidence": "high",
+  "quote": "on the recommendation of the Deputy City Treasurer, the staff report dated April 13, 2016 regarding the RFP process for internal and external audit services BE RECEIVED and endorsed in principle",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "d135d8f469bb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Scheduled a further additional meeting of the Audit Committee for a time in advance of the June 14, 2016 Municipal Council meeting.",
+  "confidence": "high",
+  "quote": "a further additional meeting of the Audit Committee BE SCHEDULED for a time in advance of the June 14, 2016 Municipal Council meeting.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "9f51805affed",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Introduced a by-law (Bill No. 157) rezoning the Cedarhollow Subdivision property at 1800 Cedarhollow Boulevard and 776-802 Killarney Road, submitted by the Thames Valley District School Board, from Holding Residential R1 zones to a Neighbourhood Facility Special Provision/Holding Residential R1 zone permitting single detached dwellings and a Neighbourhood Facility (places of worship, elementary schools, day care centres), and requested the Site Plan Approval Authority to consider specified urban design and pedestrian/traffic-safety measures through the site plan process.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 19, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Holding Residential R1 (h*R1-3) Zone, a Holding Residential R1 (h*R1-4) Zone and a Residential R1 Special Provision (R1-3(7)) Zone TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF( )/h*R1-3) Zone",
+  "flags": []
+ },
+ {
+  "id": "4159c6ad84be",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave first reading to Bill No. 157, the by-law rezoning the Cedarhollow Subdivision lands (Z-8596) at 1800 Cedarhollow Boulevard and 776-802 Killarney Road for the Thames Valley District School Board application.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 157.",
+  "flags": []
+ },
+ {
+  "id": "a341ceb3a161",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave second reading to Bill No. 157, the by-law rezoning the Cedarhollow Subdivision lands (Z-8596) at 1800 Cedarhollow Boulevard and 776-802 Killarney Road for the Thames Valley District School Board application.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 157.",
+  "flags": []
+ },
+ {
+  "id": "81e6a3def5fc",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave third reading and enacted Bill No. 157, the by-law rezoning the Cedarhollow Subdivision lands (Z-8596) at 1800 Cedarhollow Boulevard and 776-802 Killarney Road for the Thames Valley District School Board application.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 157.",
+  "flags": []
+ },
+ {
+  "id": "58c0af234722",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a motion on 'Mushroom Farm Zoning Review (Z-8513)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "78b0de947f0d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred L. N. Garrison's delegation presentation on the application of a gender lens to the Civic Administration and the Municipal Council's Advisory Committees for consideration, particularly the London Diversity and Race Relations Advisory Committee, for feedback.",
+  "confidence": "high",
+  "quote": "The motion to refer the presentation to the Civic Administration and the Municipal Council's Advisory Committees for consideration, and particularly to the London Diversity and Race Relations Advisory Committee for feedback, is put.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "58cf05d299be",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the matter of a proposed amendment to the Ontario Police Services Act Review — London Submission to the Civic Administration for a report back.",
+  "confidence": "medium",
+  "quote": "Approve that the matter of the amendment BE REFERRED to the Civic Administration for a report back with respect to the proposed amendment.",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "f89964c57462",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Accepted the proposal from LK Promotions and Advertising and Global Spectrum Facility Management L.P. to implement a Naming Rights, Sponsorship, and Advertising Program for City of London recreation facilities, introduced a by-law authorizing an agreement with LK Promotions and Advertising and delegated authority under that agreement, and authorized the Civic Administration to undertake the necessary administrative acts.",
+  "confidence": "high",
+  "quote": "the proposal submitted by LK Promotions and Advertising and Global Spectrum Facility Management L.P. (hereinafter collectively known as LK Promotions and Advertising), 99 Dundas Street, London, Ontario, to implement a Naming Rights, Sponsorship, and Advertising Program for City of London Recreation Facilities BE ACCEPTED",
+  "flags": []
+ },
+ {
+  "id": "68e3f458ef8c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Fireworks By-law amendments back to the Civic Administration to report back with two separate by-laws — one addressing sky lanterns alone, the other addressing the remaining amendments proposed in the original draft by-law.",
+  "confidence": "high",
+  "quote": "Approve that clause 7 BE REFERRED back to the Civic Administration to report back with two by-laws, one of which would deal solely with the matter of sky lanterns, the other of which would deal with all other amendments proposed in the original draft by-law submitted with the staff report dated April 26, 2016, entitled “Amend Fireworks By-law”.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "5da8c9a90720",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Granted leave, under section 17 of the Council Procedure By-law, for discussion, debate, and the making of a substantive motion on holding an additional Strategic Priorities and Policy Committee meeting to accommodate a public participation meeting on Shift Rapid Transit.",
+  "confidence": "high",
+  "quote": "Approve that pursuant to section 17 of the Council Procedure By-law, leave BE GIVEN for discussion and debate and the making of a substantive motion with respect to holding an additional Strategic Priorities and Policy Committee meeting in order to accommodate a public participation meeting with respect to Shift Rapid Transit.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "1d93d82d8820",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred consideration of an additional special Strategic Priorities and Policy Committee meeting in May 2016, for a Shift Rapid Transit public participation meeting, to the SPPC meeting scheduled for May 5, 2016, for discussion and debate.",
+  "confidence": "high",
+  "quote": "Approve referral of consideration of an additional special meeting of the Strategic Priorities and Policy Committee (SPPC) in the month of May for a public participation meeting related to Shift Rapid Transit, to the SPPC meeting scheduled for May 5, 2016 for discussion and debate.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "54171de74213",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have held an additional Strategic Priorities and Policy Committee meeting in May 2016, for a public participation meeting on Shift Rapid Transit, to be dealt with by Municipal Council no later than its May 31, 2016 meeting.",
+  "confidence": "medium",
+  "quote": "That an additional Strategic Priorities and Policy Committee meeting BE HELD in May for the purpose of holding a public participation meeting with respect to Shift Rapid Transit, in sufficient time for the matter to be dealt with by the Municipal Council by no later than its meeting scheduled for May 31, 2016; it being understood that the City Clerk will consult with the Chair and the Members in identifying a suitable meeting date.",
+  "flags": []
+ },
+ {
+  "id": "52e3769b1955",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 170, the by-law authorizing the Naming Rights, Sponsorship, and Advertising Program agreement between the City and LK Promotions and Advertising for City of London recreation facilities.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 170.",
+  "flags": []
+ },
+ {
+  "id": "670beb6fc20b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 170, the by-law authorizing the Naming Rights, Sponsorship, and Advertising Program agreement between the City and LK Promotions and Advertising for City of London recreation facilities.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 170.",
+  "flags": []
+ },
+ {
+  "id": "0c30c5d69633",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading and enacted Bill No. 170, the by-law authorizing the Naming Rights, Sponsorship, and Advertising Program agreement between the City and LK Promotions and Advertising for City of London recreation facilities.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 170.",
+  "flags": []
+ },
+ {
+  "id": "a42e3b94c6e6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a motion on 'Property located at 1602 Sunningdale Road West (Z-8587)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "f480de5c2bdd",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a motion on 'Property located at 195 Dundas Street (TZ-8592)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "bfc1d8597975",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a motion on 'Garbage Container Limits (Waste Diversion)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ }
+]

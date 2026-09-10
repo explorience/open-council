@@ -1,0 +1,523 @@
+[
+  {
+    "id": "5d331353e3d5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on a further appointment matter in the appointments to the London and Middlesex Housing Corporation Board of Directors, following a separate 15-0 vote approving the recommended slate (Councillor A. Hopkins, Marci Allen-Easton, Michael Buzzelli, Roberta Clifford, Abe Oudshoorn, Sean Quigley) for the term December 1, 2014 to November 30, 2018; no distinguishing text was captured for this specific vote.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "no_text"
+    ]
+  },
+  {
+    "id": "ddeb691354bf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the City Clerk to amend Council Policy 5(1) and the Council Procedure By-law to provide for the appointment of one Deputy Mayor, selected by the Mayor and appointed by Council, with the continuation of an Acting Mayor on a ward rotation basis when both the Mayor and Deputy Mayor are absent.",
+    "confidence": "high",
+    "quote": "the City Clerk BE DIRECTED to make the necessary changes to the draft Council Policy 5(1) \"Appointment of Deputy Mayors\" to reflect the provision for the appointment of one Deputy Mayor, as selected by the Mayor and appointed by Municipal Council and the continuation of an Acting Mayor, on a ward rotation basis, in those circumstances where both the Mayor and the Deputy Mayor are absent; and the City Clerk BE DIRECTED to make the necessary changes to the draft by-law to amend the Council Procedure By-law, By-law A-45, as amended, to reflect the provision for the appointment of one Deputy Mayor, as selected by the Mayor and appointed by Municipal Council and the continuation of an Acting Mayor, on a rotation basis, in those circumstances where both the Mayor and Deputy Mayor are absent.",
+    "flags": []
+  },
+  {
+    "id": "9589dd06a578",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that a revised by-law be introduced to repeal and replace Council Policy 5(1) with a new Deputy Mayor appointment policy requiring only a simple majority vote, established a Governance Working Group to review the policy before September 1, 2015, and directed the City Clerk to canvass Council Members' interest in serving on it, with proposed terms of reference covering the Standing Committee Chair/Vice-Chair appointment process.",
+    "confidence": "high",
+    "quote": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting on December 9, 2014 to repeal and replace Council Policy 5(1) entitled \"Process for the Appointment of an Acting Mayor\" with a new Council Policy 5(1) entitled \"Appointment of Deputy Mayors\" which only requires a simple majority vote for appointments; and a Governance Working Group (GWG) BE ESTABLISHED to undertake a review of Council Policy 5(1) \"Appointments of Deputy Mayors\" prior to September 1, 2015 to determine what changes, if any, should be made to the Policy in order to create opportunities for all Council Members to assume a leadership role during a Council term; and the City Clerk BE DIRECTED to canvass the Members of Council to determine their interest in serving on the GWG and report back with those names, as well as with proposed terms of reference for the GWG which would include responsibility for reviewing the appointment process of the Chairs and Vice-Chairs of Standing Committees in order to potentially provide for a multi-year appointment process that would see the Vice-Chair of a Standing Committee being automatically appointed as Chair of that Standing Committee at the beginning of the Council year following their term as Vice Chair.",
+    "flags": []
+  },
+  {
+    "id": "2a75ad97cfdb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillor M. van Holst to the London Hydro Inc. Board of Directors for the term December 1, 2014 to November 30, 2018.",
+    "confidence": "high",
+    "quote": "Councillor M. van Holst BE APPOINTED to the London Hydro Inc. Board of Directors for the term December 1, 2014 to November 30, 2018.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "603e5cd48d74",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Donna Vachon to the London Public Library Board at the conclusion of Gloria Leckie's one-year term appointment.",
+    "confidence": "high",
+    "quote": "Motion to appoint Donna Vachon at the conclusion of Gloria Leckie's one-year term appointment.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "e574e2c89855",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on a further appointment matter in the appointments to the London Public Library Board, distinct from the recommended-slate vote, the Donna Vachon appointment, and the Stuart Clark appointment decided in adjoining votes on the same item; no distinguishing text was captured for this specific vote.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "no_text"
+    ]
+  },
+  {
+    "id": "e204c3ef13d1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Stuart Clark to the London Public Library Board.",
+    "confidence": "high",
+    "quote": "Motion to appoint Stuart Clark:",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "83e7db74cd5d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Eric Southern to the London Transit Commission for the term December 1, 2014 to November 30, 2018.",
+    "confidence": "high",
+    "quote": "Motion to appoint Eric Southern:",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "ef1405168187",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Sheryl Rooth to the London Transit Commission for the term December 1, 2014 to November 30, 2018.",
+    "confidence": "high",
+    "quote": "Motion to appoint Sheryl Rooth:",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "2f46e144e122",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed R. Dean Sheppard to the London Transit Commission for the term December 1, 2014 to November 30, 2018.",
+    "confidence": "high",
+    "quote": "Motion to appoint R. Dean Sheppard:",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "39be0e3c695c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillors J. Helmer, M. van Holst, P. Hubert, M. Salih, and P. Squire to the London Transit Commission Long Term Growth Report Working Group for the term December 1, 2014 to November 30, 2018.",
+    "confidence": "high",
+    "quote": "the following BE APPOINTED to the London Transit Commission Long Term Growth Report Working Group for the term December 1, 2014 to November 30, 2018: Councillor J. Helmer, Councillor M. van Holst, Councillor P. Hubert, Councillor M. Salih, Councillor P. Squire",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "fac54de6840d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Changed the City of London's appointments to the Middlesex-London Health Unit Board of Health to two Council Members and one citizen appointment, and directed the City Clerk to advertise for citizen applications to fill the citizen vacancy.",
+    "confidence": "high",
+    "quote": "Motion to change the City of London's appointments to the Middlesex-London Health Unit Board of Health to two Council Members and one citizen appointment and for the City Clerk to advertise for citizen applications to fill the citizen vacancy.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "ce7cb3133ba4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillor J. Morgan to the Western Fair Association Board of Governors for the term December 1, 2014 to November 30, 2018, and requested the City Solicitor report back on the City's legal obligation to provide three nominees to the Western Fair Association for the Board's consideration.",
+    "confidence": "high",
+    "quote": "Motion to approve that Councillor J. Morgan BE APPOINTED to the Western Fair Association Board of Governors for the term December 1, 2014 to November 30, 2018; and the City Solicitor BE REQUESTED to report back at the Municipal Council meeting on December 9, 2014 with respect to the City of London's legal obligation to provide three nominees to the Western Fair Association, for the Board's consideration, for filling the City Board seat.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "8978b222994c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Gina Barber, John Fyfe-Millar, Shawn Lewis, Maria Mendes, and Jeffrey Preston to the Committee of Adjustment for the term December 1, 2014 to November 30, 2018.",
+    "confidence": "high",
+    "quote": "the following BE APPOINTED to the Committee of Adjustment for the term December 1, 2014 to November 30, 2018: Gina Barber, John Fyfe-Millar, Shawn Lewis, Maria Mendes, Jeffrey Preston",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "50bda259eb92",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took no action at that time to appoint Council Members to the Investment and Economic Prosperity Committee pending a report back on its overall governance model, directed the City Clerk to amend the Council Procedure By-law so the Strategic Priorities and Policy Committee could handle IEPC matters in the interim, provided for the SPPC Chair or designate to serve on the London Medical Innovation and Commercialization Network Governing Council, and received a communication from J. Swan requesting to continue as the City's representative on that Governing Council.",
+    "confidence": "high",
+    "quote": "NO ACTION BE TAKEN at this time to appoint Council Members to the Investment and Economic Prosperity Committee (IEPC), pending the report back from the City Clerk with respect to the overall governance model, as directed by the Municipal Council from its meeting held on September 30, 2014; pending a Council decision arising from the report noted in a), above, the City Clerk BE DIRECTED to make the necessary amendments to the Council Procedure By-law to permit the Strategic Priorities and Policy Committee to deal with those matters that currently fall within the mandate of the IEPC, in order to provide continuity during the interim period; subject to the approval of a) and b), above, the Chair or designate, of the Strategic Priorities and Policy Committee BE APPOINTED to serve on the London Medical Innovation and Commercialization Network Governing Council; it being noted that the Chair of the Investment and Economic Prosperity Committee previously served on the Governing Council; and the communication dated November 25, 2014 from J. Swan requesting that he continue to be the City of London's representative on the Governing Council BE RECEIVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "9d2c2d8b1f5e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Marci Allen-Easton to the London and Middlesex Housing Corporation Board of Directors for the term December 1, 2014 to November 30, 2018.",
+    "confidence": "high",
+    "quote": "The motion to appoint Marci Allen-Easton to the London and Middlesex Housing Corporation Board of Directors for the term December 1, 2014 to November 30, 2018 is put.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "e5b98f2055a4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Michael Buzzelli to the London and Middlesex Housing Corporation Board of Directors.",
+    "confidence": "high",
+    "quote": "The motion to appoint Michael Buzzelli to the London and Middlesex Housing Corporation Board of Directors is put.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "36c6202a16b9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Roberta Clifford to the London and Middlesex Housing Corporation Board of Directors.",
+    "confidence": "high",
+    "quote": "The motion to appoint Roberta Clifford to the London and Middlesex Housing Corporation Board of Directors is put.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "4784bf53d973",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Abe Oudshoorn to the London and Middlesex Housing Corporation Board of Directors.",
+    "confidence": "high",
+    "quote": "The motion to appoint Abe Oudshoorn to the London and Middlesex Housing Corporation Board of Directors is put.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "ace656deca5d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Sean Quigley to the London and Middlesex Housing Corporation Board of Directors.",
+    "confidence": "high",
+    "quote": "The motion to appoint Sean Quigley to the London and Middlesex Housing Corporation Board of Directors is put.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "70131bfa0cec",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred consideration of how the five newly-appointed directors (M. Allen-Easton, M. Buzzelli, R. Clifford, A. Oudshoorn, S. Quigley) should be slotted into the various classes of Directors of the London and Middlesex Housing Corporation to the December 18th Council meeting, to allow consultation with the Corporation and obtain further clarity on the relevance of each class.",
+    "confidence": "high",
+    "quote": "refer consideration to the December 18th Council meeting, in order to consult with the London Middlesex Housing Corporation to determine how they would like M. Allen-Easton, M. Buzzelli, R. Clifford, A. Oudshoorn and S. Quigley slotted into the various classes of Directors and to obtain further clarity as to the relevance of each class.",
+    "flags": [
+      "appointment",
+      "referral"
+    ]
+  },
+  {
+    "id": "47ba1894c7a2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended clause 34 of the committee report by replacing the word 'APPOINTED' with 'NOMINATED' in its first line, regarding the Western Fair Association Board of Governors.",
+    "confidence": "high",
+    "quote": "Approve that clause 34 be amended in the first line by deleting the word \"APPOINTED\" and replacing it with the word \"NOMINATED\".",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "bafd35a093b9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended clause 14 by deleting from part b) the words 'with a view to streamlining the process; it being noted that accountability and openness is accomplished through the regular posting of expenditures', regarding the City Clerk's directed review of the Council Members' Expense Policy following Councillor B. Armstrong's reimbursement request.",
+    "confidence": "high",
+    "quote": "Approve that clause 14 be amended in part b), by deleting the following words \"with a view to streamlining the process; it being noted that accountability and openness is accomplished through the regular posting of expenditures\".",
+    "flags": []
+  },
+  {
+    "id": "a1a43a627f41",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested Councillor B. Armstrong provide details of the expenditures for which he sought reimbursement for a carolling quartet and a Santa Claus Parade float in Ward 2, and directed the City Clerk to review the Council Members' Expense Policy and report back on possible changes, noting that accountability and openness is accomplished through the regular posting of expenditures.",
+    "confidence": "high",
+    "quote": "Councillor B. Armstrong BE REQUESTED to provide details regarding the amount of the expenditures for which he is seeking reimbursement in order for the Committee to have sufficient information to properly consider the matter; and the City Clerk BE DIRECTED to review the Council Members' Expense Policy and report back on what changes might be in order in keeping with best practices, with a view to streamlining the process; it being noted that accountability and openness is accomplished through the regular posting of expenditures.",
+    "flags": []
+  },
+  {
+    "id": "efb2612f7a9c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred two communications from J. Kogelheide regarding the policy for Council Members' expenses to the City Clerk's directed review of the Council Members' Expense Policy.",
+    "confidence": "high",
+    "quote": "That the two communications from J. Kogelheide regarding the policy for Council Members' expenses BE REFERRED to the review of the Council Members' Expense Policy that the City Clerk is being directed to undertake, in accordance with clause 14b) of the 1st Report of the Corporate Services Committee which states: \"the City Clerk BE DIRECTED to review the Council Members' Expense Policy and report back on what changes might be in order in keeping with best practices, with a view to streamlining the process; it being noted that accountability and openness is accomplished through the regular posting of expenditures\".",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "66909cc2e42b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the vision statement 'Inspired. Innovative. Diverse. Connected.' and approved four strategic areas of focus (Strengthening our Community; Building a Sustainable City; Growing Our Economy; Leading in Public Service) for Council's 2015-2019 Strategic Plan, subject to revision through the Strategic Plan development process, with the Civic Administration to report back with supporting strategies.",
+    "confidence": "high",
+    "quote": "the vision statement of \"Inspired. Innovative. Diverse. Connected.\" BE ADOPTED for Council's 2015-2019 Strategic Plan, subject to any revisions desired as a result of the Strategic Plan development process; that the following strategic areas of focus of BE APPROVED for Council's 2015-2019 Strategic Plan, subject to any revisions desired as a result of the Strategic Plan development process: i) Strengthening our Community; ii) Building a Sustainable City; iii) Growing Our Economy; and, iv) Leading in Public Service.",
+    "flags": []
+  },
+  {
+    "id": "8eea6a552066",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested the Civic Administration review and report back on the potential for submitting PowerPoint presentations related to Standing Committee agenda matters to the City Clerk's Office in time to be posted with the agendas, to give the public and Council Members advance access to the information.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE REQUESTED to review and report back on the potential for submitting PowerPoint presentations related to matters on Standing Committee agendas to the City Clerk's Office in sufficient time for the presentations to be posted with the Standing Committee agendas unless it is not possible to do so due to exceptional circumstances, in order to permit the public with an opportunity to have access to the information prior to and at the Standing Committee meetings and to permit the Council Members to prepare their questions for the meeting.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "876a88d3e44c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted leave, pursuant to section 19.2 of the Council Procedure By-law, for the introduction of an emergent motion regarding a change in the date of adoption of the Water and Wastewater Treatment Budgets to January 27, 2015.",
+    "confidence": "high",
+    "quote": "Approve that pursuant to section 19.2 of the Council Procedure By-law, leave be given for the introduction of an emergent motion with respect to a change in date of the adoption of the Water and Wastewater Treatment Budgets to January 27, 2015.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ec7a0b14a265",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Annual Meeting Calendar to move Municipal Council's consideration of the adoption of the 2015 Water and Wastewater Treatment Budgets from the February 9, 2015 meeting to the January 27, 2015 meeting, and directed the City Clerk to provide notice of the change.",
+    "confidence": "high",
+    "quote": "the Annual Meeting Calendar BE AMENDED to reflect that Municipal Council will consider the adoption of the 2015 Water and Wastewater Treatment Budgets at the January 27, 2015 meeting of Municipal Council, instead of the Municipal Council meeting to be held on February 9, 2015; and, the City Clerk BE DIRECTED to make the necessary arrangements to provide notice of the change in date noted in a) above.",
+    "flags": []
+  },
+  {
+    "id": "28bddb8e41d5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested the Civic Administration meet with Mr. Kaplansky to review and clarify his concerns about amendments to the agreement between the City of London and Fanshawe College of Applied Arts and Technology, and directed that he be arranged to appear as a delegation at a future Corporate Services Committee meeting if his concerns remained unresolved.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE REQUESTED to meet with Mr. Kaplansky to review and provide clarification with respect to his concerns regarding amendments to the agreement between The Corporation of the City of London and Fanshawe College of Applied Arts and Technology, as outlined in his communication dated October 24, 2014; and, should Mr. Kaplansky's concerns not be resolved to his satisfaction, the Committee Secretary BE DIRECTED to make arrangements with Mr. Kaplansky to appear as a delegation at a future meeting of the Corporate Services Committee.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "5c01040d9f0b",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deferred a decision on the application to rezone 3680 Wonderland Road South from an Urban Reserve zone to an Associated Shopping Area Commercial Special Provision zone (Z-8431), until the appeal of a separate by-law, Z.-1-142352, is resolved by the Ontario Municipal Board.",
+    "confidence": "high",
+    "quote": "a decision on the application to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM an Urban Reserve (UR4) Zone TO an Associated Shopping Area Commercial Special Provision (ASA8(_)) Zone, BE DEFERRED until such time as the appeal of Zoning By-law Z.-1-142352 has been resolved by the Ontario Municipal Board.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "7be7913483d6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Conditionally approved a Heritage Alteration Permit for the removal of the greenhouse at 1576 Richmond Street, subject to amending an Ontario Municipal Board decision to confirm exclusion of the conservatory/greenhouse from the heritage building's protected form and location.",
+    "confidence": "high",
+    "quote": "the Heritage Alteration Permit Application for the removal of the greenhouse on the property located at 1576 Richmond Street BE CONDITIONALLY APPROVED subject to the amendment of the Ontario Municipal Board decision PL140510 to confirm exclusion of the conservatory/greenhouse from the building form and location of the heritage building.",
+    "flags": []
+  },
+  {
+    "id": "df8d9175c4a4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Special Provisions of the Bournewood Subdivision (39T-03511) agreement between the City and Farhi Holdings Corporation to allow a claim of $38,194 under the City Services Reserve Fund for oversizing the Oxford Street watermain, and approved the associated financing sources and related costs and revenues.",
+    "confidence": "high",
+    "quote": "the Special Provisions to be contained in a Subdivision Agreement between The Corporation of the City of London and Farhi Holdings Corporation for the Bournewood Subdivision (39T-03511) BE AMENDED to include a clause to allow for an anticipated claim under the City Services Reserve Fund (CSRF) of $38,194 associated with the oversizing of the watermain on Oxford Street (within the Urban Growth Boundary); the financing for this project BE APPROVED in accordance with the \"Sources of Financing\" appended to the staff report, dated January 19, 2015 as Appendix \"A\"; and, the financing for this project BE APPROVED in accordance with the \"Related Costs and Revenues\" appended to the staff report, dated January 19, 2015 as Schedule \"B\".",
+    "flags": []
+  },
+  {
+    "id": "e8685559811e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested the Civic Administration advise Middlesex County that Council reiterates its concerns about the amount of land re-designated for future industrial development next to the Donnybrook Industrial Area, recommending a 20-year land supply rather than a potential 70-year land supply.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE REQUESTED to advise Middlesex County that Municipal Council reiterates the concerns previously expressed by the Civic Administration with respect to the amount of land that has been re-designated for future industrial development adjacent to the existing Donnybrook Industrial Area north of Highway 401, and recommending that a 20 year land supply is more appropriate than a potential 70 year land supply.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "db16fb1b57ff",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have included the London Convention Centre in the mandate of the Corporate Services Committee, as part of reallocating the Investment and Economic Prosperity Committee's mandate upon its discontinuation.",
+    "confidence": "high",
+    "quote": "Motion to include the London Convention Centre in the mandate of the Corporate Services Committee.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "0fa5c6b469c8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Murray M. Blackie to the Upper Thames River Conservation Authority for the term ending November 30, 2017.",
+    "confidence": "high",
+    "quote": "Murray M. Blackie BE APPOINTED to the Upper Thames River Conservation Authority for the term ending November 30, 2017.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "9ad83d9374ae",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City Clerk to arrange for all Boards and Commissions, including the Western Fair, to carry out an orientation exercise at future Strategic Priorities and Policy Committee meetings, after completion of the 2015 Budget process.",
+    "confidence": "high",
+    "quote": "the City Clerk BE DIRECTED to make the necessary arrangements to invite all Boards and Commissions, including the Western Fair, to carry out an orientation exercise at future meetings of the Strategic Priorities and Policy Committee, after the completion of the 2015 Budget process.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "b350be330c95",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Set debt financing at $2,020,000 for Additional Investment Request #3 (the Central Library Revitalization Plan), with the expectation that grant applications and other financing sources would be sought to offset the additional funding required, and with the Library to report back on actual amounts utilized.",
+    "confidence": "medium",
+    "quote": "Motion to amend debt financing to $2,020,000 to fund Additional Investment Request #3 (Page 6), Central Library Revitalization Plan with the expectation that grant applications and other sources of financing would be sought to offset the requirement for additional funding; it being noted the Library will report back at the end of the first year, and second year if applicable, with respect to the actual amounts utilized in the aforementioned total amount.",
+    "flags": []
+  },
+  {
+    "id": "d5fee0d27c9d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a further, separately-recorded vote within the Central Library Revitalization Plan debt-financing item of the 2015 Corporate Operating Budget; no distinguishing text was captured for this specific vote apart from the $2,020,000 debt-financing amendment decided in the adjoining vote on the same item.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "22adc2458a42",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved debt financing of $1,965,000 to fund Additional Investment Request #4 (the London Convention Centre's reconfiguration of the Main Level), noting future debt servicing costs may be offset by increased revenues from the reconfiguration.",
+    "confidence": "high",
+    "quote": "debt financing of $1,965,000 BE APPROVED to fund Additional Investment Request #4 (Page 6), London Convention Centre – Reconfiguration of the Main Level; it being noted that future debt servicing costs may be offset by increased revenues generated by the reconfiguration of the London Convention Centre.",
+    "flags": []
+  },
+  {
+    "id": "511ad4e57c85",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a further, separately-recorded vote within the London Convention Centre debt-financing item of the 2015 Corporate Operating Budget; no distinguishing text was captured for this specific vote apart from the $1,965,000 debt-financing approval decided in the adjoining vote on the same item.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "7801f8dd992f",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred consideration of the municipal community grants program (totalling $1,700,000) to later in the budget process, when the budget position would be better known.",
+    "confidence": "high",
+    "quote": "Motion to refer consideration of the municipal community grants (totalling $1,700,000), to the end of the budget process, when the budget position is better known.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "dc9a8983a9aa",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took no action on the funding requests of the CNIB, Community Services Coordination Network, London Block Parent Program, and Neighbourhood Watch London.",
+    "confidence": "medium",
+    "quote": "Motion to take no action with respect to the funding requests of the CNIB, Community Services Coordination Network, London Block Parent Program and Neighbourhood Watch London.",
+    "flags": []
+  },
+  {
+    "id": "b389050d4acb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a further, separately-recorded vote within the community/social-agency funding portion of the 2015 Corporate Operating Budget deliberations; no distinguishing text was captured for this specific vote.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "a08e9e3eec5e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a further, separately-recorded vote within the community/social-agency funding portion of the 2015 Corporate Operating Budget deliberations; no distinguishing text was captured for this specific vote.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  }
+]
