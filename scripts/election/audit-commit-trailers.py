@@ -59,6 +59,18 @@ excluded (upstream) commit and every branch-authored commit's verdict.
 --self-test exercises ends_with_exactly_one_trailer_block directly (no git
 calls): both clean accepted forms must pass, and a message ending in a
 duplicated trailer (single-line or historical two-line) must fail.
+
+ATTRIBUTION UPDATE (append-only, model-version bump): the authoring session
+account moved from "Claude Fable 5" to "Claude Fable 5.1". Every form above
+that names "Claude Fable 5" stays valid forever (its commits are permanent
+history, never rewritten). This update ONLY ADDS the equivalent forms named
+"Claude Fable 5.1" -- the same two historical two-line blocks (one per
+known session) plus the current single-line form -- so a branch-authored
+commit's Co-Authored-By line may now name EITHER "Claude Fable 5" OR
+"Claude Fable 5.1", in every accepted form, and nothing else. A trailer
+naming any other string in that slot (e.g. "Claude Fable 4") is not an
+accepted form and fails the audit like any other malformed trailer;
+--self-test includes a negative case for exactly this.
 """
 import re
 import subprocess
@@ -83,6 +95,24 @@ ACCEPTED_TRAILER_BLOCKS = tuple(
     # nothing after it. Added for the new authoring account; the two-line
     # blocks above stay valid forever for pre-existing commits.
     CO_AUTHORED_BY_LINE,
+)
+
+# --- APPEND ONLY: model-version bump, "Claude Fable 5" -> "Claude Fable
+# 5.1" -------------------------------------------------------------------
+# Nothing above this point is edited. This block only ADDS the 5.1-named
+# equivalent of every accepted form already defined above (both historical
+# two-line blocks, one per known session, and the current single-line
+# form), so ACCEPTED_TRAILER_BLOCKS now accepts the Co-Authored-By line
+# naming EITHER "Claude Fable 5" OR "Claude Fable 5.1" -- nothing else
+# (e.g. "Claude Fable 4" remains unrecognized and fails the audit).
+CO_AUTHORED_BY_LINE_5_1 = "Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"
+ACCEPTED_TRAILER_BLOCKS = (
+    ACCEPTED_TRAILER_BLOCKS
+    + tuple(
+        f"{CO_AUTHORED_BY_LINE_5_1}\nClaude-Session: {session}"
+        for session in KNOWN_SESSIONS
+    )
+    + (CO_AUTHORED_BY_LINE_5_1,)
 )
 
 PR_SUBJECT_RE = re.compile(r"\(#\d+\)\s*$")
@@ -153,6 +183,7 @@ def main():
             reason = (
                 "missing a recognized trailer block entirely"
                 if CO_AUTHORED_BY_LINE not in body
+                and CO_AUTHORED_BY_LINE_5_1 not in body
                 else "trailer present but followed by extra content (leaked heredoc/paren/etc.), "
                 "or duplicated, or otherwise malformed"
             )
@@ -219,6 +250,35 @@ def self_test() -> int:
         ok = False
     else:
         print(" - duplicate historical two-line trailer -> rejected (correct)")
+
+    # --- APPEND ONLY: model-version bump coverage --------------------------
+    clean_single_5_1 = "Some commit body.\n\n" + CO_AUTHORED_BY_LINE_5_1
+    if ends_with_exactly_one_trailer_block(clean_single_5_1.rstrip("\n")):
+        print(" - clean single-line trailer (Claude Fable 5.1) -> accepted (correct)")
+    else:
+        print("SELF-TEST FAILED: a clean single-line Claude Fable 5.1 trailer was rejected")
+        ok = False
+
+    clean_historical_5_1 = (
+        "Some commit body.\n\n"
+        + CO_AUTHORED_BY_LINE_5_1
+        + "\nClaude-Session: "
+        + KNOWN_SESSIONS[0]
+    )
+    if ends_with_exactly_one_trailer_block(clean_historical_5_1.rstrip("\n")):
+        print(" - clean historical two-line trailer (Claude Fable 5.1) -> accepted (correct)")
+    else:
+        print("SELF-TEST FAILED: a clean historical two-line Claude Fable 5.1 trailer was rejected")
+        ok = False
+
+    # Negative test: an unrecognized model-version string in the same slot
+    # (e.g. "Claude Fable 4") must never be accepted -- only "5" or "5.1".
+    bogus_version = "Some commit body.\n\nCo-Authored-By: Claude Fable 4 <noreply@anthropic.com>"
+    if ends_with_exactly_one_trailer_block(bogus_version.rstrip("\n")):
+        print("SELF-TEST FAILED: a 'Claude Fable 4' trailer was wrongly accepted")
+        ok = False
+    else:
+        print(" - 'Claude Fable 4' trailer -> rejected (correct)")
 
     if not ok:
         return 1
