@@ -3,13 +3,15 @@ import style from "./styles/unifiedHeader.scss"
 // @ts-ignore
 import script from "./scripts/unifiedHeader.inline"
 
-const UnifiedHeader: QuartzComponent = (_props: QuartzComponentProps) => {
+const UnifiedHeader: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+  const isHomepage = fileData.slug === "index"
   return (
     <>
       {/* Skip links for keyboard navigation */}
       <div class="skip-links" role="navigation" aria-label="Skip links">
         <a href="#main-content">Skip to main content</a>
         <a href="#hero-chat-input">Skip to chat</a>
+        {isHomepage && <a href="#fpWallEnd">Skip the division wall</a>}
       </div>
       <header class="unified-header">
       <div class="header-left">
