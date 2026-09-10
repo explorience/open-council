@@ -408,77 +408,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:52 PM.
 
 ****
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.7 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.6. Housing Stability Services Procurement Framework
-
-> That the delegation request from S. Campbell BE APPROVED to be heard at this meeting.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.6. Housing Stability Services Procurement Framework
-
-> That the motion BE AMENDED in part b) to remove the word “outdoor” before the words “basic needs”.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.6. Housing Stability Services Procurement Framework
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Enhancing Municipal Options to Prevent the Unnecessary Loss of Affordable Housing
-
-> That the delegation requests from G. Harrison, M. Davies, B. Grossman, D. Barnes and J. Smith BE APPROVED to be heard at this meeting.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Enhancing Municipal Options to Prevent the Unnecessary Loss of Affordable Housing
-
-> That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee (CPSC) with recommendations on a spectrum of municipal options to limit or prevent “bad-faith” tenancy evictions for reasons of demolitions and conversion to use for a purpose other than a ...
-
-**❌ Motion Failed (2 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 5.1. (ADDED) Endorsement of the One Voice Memorandum of Understanding - MOU Between The Corporation of the City of London and the London Police Service Board
-
-> That, on the recommendation of the Deputy City Manager, Enterprise Supports, the following actions be taken with respect to the staff report dated December 1, 2025 related to the Endorsement of the One Voice Memorandum of Understanding – MOU Between The Corporation of the City of London and the L...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -1315,3 +1244,75 @@ A hand vote of all in favor of adjournment. Okay, Sam, you would need to sit dow
 Motion carries four to zero. Thank you, we're adjourned to December 16th at council for final decision. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.7 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. Housing Stability Services Procurement Framework
+
+> That the delegation request from S. Campbell BE APPROVED to be heard at this meeting.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. Housing Stability Services Procurement Framework
+
+> That the motion BE AMENDED in part b) to remove the word “outdoor” before the words “basic needs”.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. Housing Stability Services Procurement Framework
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Enhancing Municipal Options to Prevent the Unnecessary Loss of Affordable Housing
+
+> That the delegation requests from G. Harrison, M. Davies, B. Grossman, D. Barnes and J. Smith BE APPROVED to be heard at this meeting.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Enhancing Municipal Options to Prevent the Unnecessary Loss of Affordable Housing
+
+> That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee (CPSC) with recommendations on a spectrum of municipal options to limit or prevent “bad-faith” tenancy evictions for reasons of demolitions and conversion to use for a purpose other than a ...
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 5.1. (ADDED) Endorsement of the One Voice Memorandum of Understanding - MOU Between The Corporation of the City of London and the London Police Service Board
+
+> That, on the recommendation of the Deputy City Manager, Enterprise Supports, the following actions be taken with respect to the staff report dated December 1, 2025 related to the Endorsement of the One Voice Memorandum of Understanding – MOU Between The Corporation of the City of London and the L...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

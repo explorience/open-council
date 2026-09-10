@@ -218,36 +218,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:39 PM.
 
 ****
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.3 to 2.6 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Dog Licensing and Control By-law PH-4
-
-> That the communication dated January 6, 2025 from Councillor H. McAlister with respect to the Dog Licensing and Control By-law BE REFERRED to the Civic Administration for review; it being noted that a communication, as appended to the agenda, and a verbal delegation from S. Karchut, with respect ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Dog Licensing and Control By-law PH-4
-
-> Motion to approve the request for delegation status from S. Karchut to be heard at this meeting.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -484,3 +454,34 @@ Let's call the question. Actually, all in favor, hand vote for German. All those
 We're adjourned. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.3 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Dog Licensing and Control By-law PH-4
+
+> That the communication dated January 6, 2025 from Councillor H. McAlister with respect to the Dog Licensing and Control By-law BE REFERRED to the Civic Administration for review; it being noted that a communication, as appended to the agenda, and a verbal delegation from S. Karchut, with respect ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Dog Licensing and Control By-law PH-4
+
+> Motion to approve the request for delegation status from S. Karchut to be heard at this meeting.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
