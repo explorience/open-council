@@ -1,0 +1,210 @@
+/**
+ * Front Page v3 — division wall data generator
+ *
+ * Reads data/votes/_all-motions.json (every motion the site has scraped)
+ * and data/election/issues.json (the Election Hub's per-issue vote
+ * clusters), and writes data/frontpage/division-wall.json: one compact
+ * record per "divided" vote (not procedural, not unanimous) since the
+ * site's established election-coverage cutoff, sorted chronologically
+ * ascending.
+ *
+ * Cutoff: 2023-01-01, the same CUTOFF_DATE constant generate-stances.ts
+ * uses (and issues.json's own `cutoffDate` field) — not the full 2011+
+ * scrape range. Two independent reasons this is the right "coverage
+ * start" for this feature, not just a convenience match to an existing
+ * constant: (1) it's the boundary the rest of the election-coverage
+ * surface (Election Hub, issue pages, councillor stance pages) already
+ * uses, so "divided vote" means the same thing everywhere on the site;
+ * (2) it yields 1,803 records, which lands inside the wall's stated
+ * 600–2,000 cell performance envelope — the full-history count (5,170
+ * divided votes back to 2011) does not.
+ *
+ * Output shape: { generatedAt, cutoffDate, recordCount, records }, where
+ * each record is a 7-tuple (matches the approved prototype's compact
+ * tuple contract — see design/frontpage-v3-spec.md's "Data contract" —
+ * extended by one field, `url`, because this is a real site: every cell
+ * and every closest-20 row must link through to the real evidence, per
+ * standing review-pages-link-the-evidence practice; the prototype's fake
+ * data had nothing to link to):
+ *
+ *   [dateYYYYMMDD, yea, nay, passed(0|1), title(<=80 chars), issueSlug, url]
+ *
+ * `passed` is always recomputed as (yea > nay) — a tie always fails — and
+ * is never taken from the source motion's own `passed`/`result` field if
+ * that disagrees, per the spec's explicit derivation rule.
+ *
+ * `issueSlug` is looked up by motion id in issues.json's eight known
+ * clusters (housing/budget/encampments/transit/climate/downtown/
+ * policing/bikes); a motion issues.json didn't classify (most of them —
+ * issues.json only tags directionBearing votes on its own axes, not
+ * every divided vote) gets "other" rather than being dropped or guessed
+ * at classified.
+ *
+ * `url` is the real evidence link: scripts/election/anchors.ts's
+ * motionAnchor() resolves to the specific heading on the real meeting
+ * page when one can be identified, falling back to the bare meeting page
+ * (never a dead link, never a guess at an ambiguous heading — same
+ * behavior the Election Hub's own evidence links already rely on).
+ *
+ * Does NOT store wallCount, the "N decided by two votes or fewer" count,
+ * or the closest-20 rows — those are trivially derivable from `records`
+ * at template-render time (see quartz/components/util/divisionWall.ts),
+ * and a second stored copy of a derivable count is exactly the kind of
+ * drift risk the spec calls out by name.
+ *
+ * Deterministic and idempotent: same input files in, byte-identical
+ * output out (motions are read in their existing source order and sorted
+ * by date string, JSON.stringify has no non-determinism here).
+ *
+ * Usage: npx tsx scripts/generate-frontpage-data.ts
+ */
+
+import fs from "fs/promises";
+import path from "path";
+import { motionAnchor } from "./election/anchors.js";
+import { slugifyFilePath } from "../quartz/util/path.js";
+import type { FilePath } from "../quartz/util/path.js";
+
+const REPO_ROOT = process.cwd();
+const MOTIONS_PATH = path.join(REPO_ROOT, "data/votes/_all-motions.json");
+const ISSUES_PATH = path.join(REPO_ROOT, "data/election/issues.json");
+const OUT_PATH = path.join(REPO_ROOT, "data/frontpage/division-wall.json");
+
+// Same convention as generate-stances.ts's CUTOFF_DATE and issues.json's
+// own cutoffDate field — see module doc above for why this, not the full
+// scrape range, is "the site's coverage start" for this feature.
+const CUTOFF_DATE = "2023-01-01";
+
+const KNOWN_ISSUES = [
+  "housing",
+  "budget",
+  "encampments",
+  "transit",
+  "climate",
+  "downtown",
+  "policing",
+  "bikes",
+] as const;
+type KnownIssueSlug = (typeof KNOWN_ISSUES)[number];
+type IssueSlug = KnownIssueSlug | "other";
+
+interface Motion {
+  id: string;
+  date: string;
+  meetingSlug: string;
+  itemNumber: string;
+  itemTitle: string;
+  result: string;
+  procedural?: boolean;
+  unanimous?: boolean;
+  yeas: string[];
+  nays: string[];
+}
+
+interface MotionsFile {
+  motions: Motion[];
+}
+
+interface IssuesFile {
+  issues: Record<KnownIssueSlug, { votes: { id: string }[] }>;
+}
+
+// 6-tuple-plus-url record — see module doc for the shape and why it's a
+// tuple, not an object (payload size, matches the prototype's contract).
+export type DivisionWallRecord = [
+  date: string,
+  yea: number,
+  nay: number,
+  passed: 0 | 1,
+  title: string,
+  issue: IssueSlug,
+  url: string,
+];
+
+/**
+ * motionAnchor()/generate-hub-pages.ts produce evidence URLs built from the
+ * RAW meetingSlug (spaces and all) — the convention every markdown-embedded
+ * evidence link on this site follows, because Quartz's CrawlLinks
+ * transformer slugifies those paths automatically while processing
+ * markdown. A TSX component's raw `href` never passes through that
+ * transformer, so the division-wall data (consumed directly by a TSX
+ * component and its client script, not by markdown) must carry the
+ * already-slugified path. Uses Quartz's own slugifyFilePath — the same
+ * function that produces the real output paths — rather than
+ * reimplementing the transform a second time.
+ */
+function slugifyEvidenceUrl(rawUrl: string): string {
+  const [rawPath, fragment] = rawUrl.split("#");
+  const slug = slugifyFilePath(rawPath.replace(/^\//, "") as FilePath);
+  return fragment ? `/${slug}#${fragment}` : `/${slug}`;
+}
+
+function truncateTitle(raw: string): string {
+  const t = (raw ?? "").trim();
+  // Hard cut, no ellipsis — per spec.
+  return t.length <= 80 ? t : t.slice(0, 80);
+}
+
+async function main() {
+  const [motionsRaw, issuesRaw] = await Promise.all([
+    fs.readFile(MOTIONS_PATH, "utf-8"),
+    fs.readFile(ISSUES_PATH, "utf-8"),
+  ]);
+  const motionsFile: MotionsFile = JSON.parse(motionsRaw);
+  const issuesFile: IssuesFile = JSON.parse(issuesRaw);
+
+  // motion id -> issue slug, first cluster that claims a given id wins
+  // (in practice each divided-vote id appears in at most one cluster).
+  const issueByMotionId = new Map<string, KnownIssueSlug>();
+  for (const slug of KNOWN_ISSUES) {
+    const bucket = issuesFile.issues[slug];
+    if (!bucket) continue;
+    for (const v of bucket.votes) {
+      if (!issueByMotionId.has(v.id)) issueByMotionId.set(v.id, slug);
+    }
+  }
+
+  const divided = motionsFile.motions.filter(
+    (m) => !m.procedural && !m.unanimous && m.date >= CUTOFF_DATE,
+  );
+
+  const withSortKey = divided.map((m) => {
+    const yea = m.yeas.length;
+    const nay = m.nays.length;
+    const passed: 0 | 1 = yea > nay ? 1 : 0;
+    const anchor = motionAnchor(m.meetingSlug, m.itemNumber, m.result);
+    const rawUrl = anchor?.url ?? `/${m.meetingSlug}`;
+    const url = slugifyEvidenceUrl(rawUrl);
+    const record: DivisionWallRecord = [
+      m.date.replace(/-/g, ""),
+      yea,
+      nay,
+      passed,
+      truncateTitle(m.itemTitle),
+      issueByMotionId.get(m.id) ?? "other",
+      url,
+    ];
+    return { sortDate: m.date, record };
+  });
+
+  withSortKey.sort((a, b) => a.sortDate.localeCompare(b.sortDate));
+  const records = withSortKey.map((r) => r.record);
+
+  const output = {
+    generatedAt: new Date().toISOString(),
+    cutoffDate: CUTOFF_DATE,
+    recordCount: records.length,
+    records,
+  };
+
+  await fs.mkdir(path.dirname(OUT_PATH), { recursive: true });
+  await fs.writeFile(OUT_PATH, JSON.stringify(output));
+  console.log(
+    `Wrote ${records.length} division-wall records (since ${CUTOFF_DATE}) -> ${path.relative(REPO_ROOT, OUT_PATH)}`,
+  );
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
