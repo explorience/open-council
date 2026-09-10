@@ -1,14 +1,34 @@
+// Verified design-gate finding ("two visual languages stacked" —
+// footer named as one of the still-default-Quartz surfaces). The
+// masthead is deliberately graphite on every page regardless of theme
+// (frontpage.scss); this gives the footer the same bookend treatment —
+// colors/typography only, every link/column/href is untouched — so a
+// page opens and closes in the same system instead of Front Page on top
+// and default Quartz at the bottom. Site-wide (footer.scss loads on
+// every page, same as the masthead), which matches how the masthead
+// re-skin was already scoped.
 footer {
   text-align: center;
-  margin-bottom: 4rem;
-  opacity: 0.7;
-  border-top: 1px solid var(--lightgray);
-  padding-top: 1.5rem;
+  margin-bottom: 0;
+  opacity: 1;
+  border-top: none;
+  padding: 2rem 1.5rem 2.25rem;
   margin-top: 3rem;
+  background: var(--graphite);
+  color: var(--graphite-muted);
 
   & > p {
     margin-bottom: 1rem;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+
+    a {
+      color: var(--graphite-ink);
+
+      &:hover {
+        color: var(--accent-fill);
+      }
+    }
   }
 
   .footer-links {
@@ -27,17 +47,21 @@ footer {
     align-items: center;
 
     strong {
-      font-size: 0.85rem;
+      font-family: "IBM Plex Mono", ui-monospace, monospace;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--graphite-muted);
       margin-bottom: 0.2rem;
     }
 
     a {
       font-size: 0.85rem;
-      color: var(--darkgray);
+      color: var(--graphite-ink);
       text-decoration: none;
 
       &:hover {
-        color: var(--secondary);
+        color: var(--accent-fill);
       }
     }
   }

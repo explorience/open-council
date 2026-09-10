@@ -1,3 +1,12 @@
+// Verified design-gate finding ("two visual languages stacked"): this
+// component (homepage-only — quartz.layout.ts only renders it for
+// slug==="index") was still in default-Quartz rounded-grey-card styling
+// below the broadsheet wall above it. Retokenized to the same
+// paper/ink/line/accent/mono system as frontpage.scss and
+// frontpageWall.scss (both light/dark, since those custom properties
+// already carry both) — structure, links and content are unchanged, so
+// every existing browse/committee/meeting/councillor feature still
+// works exactly as before.
 .dashboard-view {
   width: 100%;
   max-width: 1000px;
@@ -5,6 +14,7 @@
   padding: 1rem;
   overflow-x: hidden;
   box-sizing: border-box;
+  font-family: "Archivo Variable", Archivo, system-ui, sans-serif;
 }
 
 // Stats Row with Actions
@@ -39,16 +49,16 @@
   flex-direction: column;
   align-items: center;
   padding: 0.75rem 1.25rem;
-  background: var(--light);
-  border: 1px solid var(--lightgray);
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 8px;
   text-decoration: none;
   transition: all 0.15s ease;
   flex-shrink: 0;
 
   &:hover {
-    background: var(--lightgray);
-    border-color: var(--secondary);
+    background: var(--line);
+    border-color: var(--accent);
   }
 
   @media (max-width: 600px) {
@@ -57,9 +67,11 @@
 }
 
 .stat-number {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
   font-size: 1.5rem;
   font-weight: 700;
-  color: var(--secondary);
+  color: var(--ink);
   white-space: nowrap;
 
   @media (max-width: 600px) {
@@ -68,8 +80,9 @@
 }
 
 .stat-label {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
   font-size: 0.7rem;
-  color: var(--gray);
+  color: var(--muted);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   white-space: nowrap;
@@ -94,19 +107,26 @@
 }
 
 .dashboard-panel {
-  background: var(--light);
-  border: 1px solid var(--lightgray);
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 8px;
   padding: 1rem;
 }
 
+// Broadsheet section labels — same mono/uppercase/tracked treatment as
+// .fp-kicker and .wall-head, with the wall-head's heavier ink rule
+// instead of the plain grey hairline, so these panels read as part of
+// the same system as the wall above rather than a different component.
 .panel-title {
-  font-size: 0.875rem;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.7rem;
   font-weight: 600;
-  color: var(--darkgray);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
   margin: 0 0 0.75rem 0;
   padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--lightgray);
+  border-bottom: 2px solid var(--ink);
 }
 
 .panel-list {
@@ -124,14 +144,14 @@
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 0.25rem;
-  color: var(--darkgray);
+  color: var(--ink);
   text-decoration: none;
   font-size: 0.875rem;
   border-radius: 4px;
   transition: background-color 0.1s ease;
 
   &:hover {
-    background: var(--lightgray);
+    background: var(--line);
   }
 }
 
@@ -140,9 +160,11 @@
 }
 
 .link-count {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
   font-size: 0.75rem;
-  color: var(--gray);
-  background: var(--lightgray);
+  color: var(--muted);
+  background: var(--line);
   padding: 0.125rem 0.375rem;
   border-radius: 4px;
 }
@@ -160,8 +182,10 @@
 }
 
 .meeting-date {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
   font-size: 0.7rem;
-  color: var(--gray);
+  color: var(--muted);
 }
 
 .meeting-title {
@@ -178,16 +202,16 @@
 
 .year-link {
   padding: 0.375rem 0.75rem;
-  background: var(--lightgray);
+  background: var(--line);
   border-radius: 4px;
   font-size: 0.8rem;
-  color: var(--darkgray);
+  color: var(--ink);
   text-decoration: none;
   transition: all 0.15s ease;
 
   &:hover {
-    background: var(--secondary);
-    color: white;
+    background: var(--accent-fill);
+    color: var(--accent-ink);
   }
 }
 
@@ -205,7 +229,7 @@
 
 .councillor-role {
   font-size: 0.7rem;
-  color: var(--tertiary);
+  color: var(--accent);
   font-style: italic;
 }
 
@@ -214,9 +238,10 @@
   display: block;
   margin-top: 0.75rem;
   padding-top: 0.5rem;
-  border-top: 1px solid var(--lightgray);
+  border-top: 1px solid var(--line);
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
   font-size: 0.8rem;
-  color: var(--secondary);
+  color: var(--accent);
   text-decoration: none;
 
   &:hover {
@@ -230,12 +255,12 @@
   align-items: center;
   gap: 0.5rem;
   padding: 0.625rem 1rem;
-  background: var(--light);
-  border: 1px solid var(--lightgray);
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 8px;
   font-size: 0.875rem;
   font-family: var(--bodyFont);
-  color: var(--darkgray);
+  color: var(--ink);
   cursor: pointer;
   transition: all 0.15s ease;
   white-space: nowrap;
@@ -247,9 +272,9 @@
   }
 
   &:hover {
-    background: var(--lightgray);
-    border-color: var(--secondary);
-    color: var(--secondary);
+    background: var(--line);
+    border-color: var(--accent);
+    color: var(--accent);
   }
 
   @media (max-width: 600px) {
