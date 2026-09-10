@@ -338,6 +338,15 @@ function link(text: string, destPath: string): string {
  * notice. The fallback is kept deliberately, not as a stopgap: a link that
  * silently points at a DIFFERENT motion would be far worse than one that
  * admits it can only place the reader on the right page. */
+/** The exact per-row note the fallback emits. Shared so the standing
+ * disclaimer's explanation of the fallback can be keyed on whether the page
+ * actually contains one, rather than describing a case the reader will never
+ * meet: since per-motion anchors are emitted at the source, this note now
+ * fires zero times corpus-wide, but the path stays for records a Votes
+ * section never covered. */
+export const FALLBACK_LINK_NOTE =
+  "*(links to the meeting page — this meeting's record carries no per-motion anchor for this vote, and its agenda item number appears under more than one heading, so no single-motion anchor exists)*";
+
 function motionLink(
   text: string,
   anchor: string | null,
@@ -346,9 +355,7 @@ function motionLink(
 ): string {
   const dest = anchor ?? `/${meetingSlug}`;
   const base = link(text, dest);
-  return anchorAmbiguous
-    ? `${base} *(links to the meeting page — this meeting's record carries no per-motion anchor for this vote, and its agenda item number appears under more than one heading, so no single-motion anchor exists)*`
-    : base;
+  return anchorAmbiguous ? `${base} ${FALLBACK_LINK_NOTE}` : base;
 }
 
 /** Round-2 gate item 8: a committee (any meetingType other than "Council")
@@ -482,7 +489,18 @@ const VOTE_LABEL: Record<string, string> = {
 //     motions render in their own grouped, clearly labeled section on every
 //     issue a councillor has one for (see renderUnclearSection below); they
 //     used to be filtered out entirely despite this exact promise.
-const STANDING_DISCLAIMER = `> **This is a descriptive record, not an endorsement.** Every pattern below is built from real recorded votes since 2023, translated from raw yea/nay into what the vote actually did (see [What Council Actually Controls](/election/what-council-controls) for how much of this any of them controls). It says nothing about a councillor's reasons, character, or fitness for office — only how they voted. Votes with no clear direction ("unclear") are excluded from the pattern counts but listed in their own section below for transparency. Every row links to its source: to that specific motion's own anchor in the meeting record's vote list, so several motions under one agenda item each land on their own roll call rather than on a shared heading. Where a meeting record carries no per-motion anchor and its item number appears under more than one heading, the row links to the meeting page as a whole instead and says so.`;
+const STANDING_DISCLAIMER = `> **This is a descriptive record, not an endorsement.** Every pattern below is built from real recorded votes since 2023, translated from raw yea/nay into what the vote actually did (see [What Council Actually Controls](/election/what-council-controls) for how much of this any of them controls). It says nothing about a councillor's reasons, character, or fitness for office — only how they voted. Votes with no clear direction ("unclear") are excluded from the pattern counts but listed in their own section below for transparency. Every row links to its source: to that specific motion's own anchor in the meeting record's vote list, so several motions under one agenda item each land on their own roll call rather than on a shared heading.`;
+
+/** Appended only when a page actually contains a fallback row. The sentence
+ * is true either way, but stating it on a page where it never happens
+ * describes a case no reader will meet. */
+const FALLBACK_DISCLAIMER_SENTENCE =
+  " Where a meeting record carries no per-motion anchor and its item number appears under more than one heading, the row links to the meeting page as a whole instead and says so.";
+
+const standingDisclaimer = (pageBody: string): string =>
+  pageBody.includes(FALLBACK_LINK_NOTE)
+    ? `${STANDING_DISCLAIMER}${FALLBACK_DISCLAIMER_SENTENCE}`
+    : STANDING_DISCLAIMER;
 
 // ---------------------------------------------------------------------------
 // Load data
@@ -1156,7 +1174,7 @@ prefillQuestions: []
 
 ${roleLine} · [Full voting record on Open Council →](/councillors/current/${slug})
 ${candidacyNote}
-${STANDING_DISCLAIMER}
+${standingDisclaimer(sections)}
 ${noPatternNote}
 ${sections}
 
