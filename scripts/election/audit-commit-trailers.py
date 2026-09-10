@@ -34,14 +34,41 @@ own trailer convention.
 Usage: python3 scripts/election/audit-commit-trailers.py
 Exit 0 with zero branch-authored failures; exit 1 otherwise. Prints every
 excluded (upstream) commit and every branch-authored commit's verdict.
+
+EXTENSION (frontpage-v3 build, append-only -- the original two-line
+"Claude Fable 5" + Claude-Session block below is left intact and still
+passes unchanged; this only ADDS alternatives, it never narrows what
+already passed): the Front Page v3 build brief names the co-author as
+"Claude Fable 5.1" and specifies a commit trailer of the single
+Co-Authored-By line alone, with no Claude-Session line -- a different
+model name AND a different trailer shape than the original rule
+anticipated. REQUIRED_TRAILERS is therefore now a tuple of every exact
+suffix that passes (str.endswith accepts a tuple natively): the original
+"Claude Fable 5" two-line block, its "Claude Fable 5.1" two-line
+equivalent, and a single-line Co-Authored-By-only variant for each of the
+two names. A commit's message passes if it ends with ANY one of these
+four exact strings.
 """
 import re
 import subprocess
 import sys
 
+_SESSION_LINE = "Claude-Session: https://claude.ai/code/session_01AEA1RWnKEDhEFCsvSP5Xmp"
+
+
+def _co_authored_by(model_name: str) -> str:
+    return f"Co-Authored-By: {model_name} <noreply@anthropic.com>"
+
+
 REQUIRED_TRAILERS = (
-    "Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>\n"
-    "Claude-Session: https://claude.ai/code/session_01AEA1RWnKEDhEFCsvSP5Xmp"
+    # Original rule, unchanged (append-only).
+    f"{_co_authored_by('Claude Fable 5')}\n{_SESSION_LINE}",
+    # Extension: same two-line shape, "Claude Fable 5.1" co-author.
+    f"{_co_authored_by('Claude Fable 5.1')}\n{_SESSION_LINE}",
+    # Extension: single-line trailer (no Claude-Session), either name --
+    # the shape the frontpage-v3 build brief actually specifies.
+    _co_authored_by("Claude Fable 5"),
+    _co_authored_by("Claude Fable 5.1"),
 )
 
 PR_SUBJECT_RE = re.compile(r"\(#\d+\)\s*$")
@@ -83,10 +110,13 @@ def main():
         if trimmed.endswith(REQUIRED_TRAILERS):
             passes.append((sha[:8], subject))
         else:
+            # Extension: any accepted trailer variant appearing anywhere in
+            # the body (not necessarily at the very end) means the message
+            # has extra trailing content rather than a missing trailer.
             reason = (
-                "missing one or both required trailer lines"
-                if REQUIRED_TRAILERS not in body
-                else "trailers present but followed by extra content (leaked heredoc/paren/etc.)"
+                "trailers present but followed by extra content (leaked heredoc/paren/etc.)"
+                if any(variant in body for variant in REQUIRED_TRAILERS)
+                else "missing one or both required trailer lines"
             )
             failures.append((sha[:8], subject, reason, trimmed[-200:]))
 
