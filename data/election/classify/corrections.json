@@ -6770,5 +6770,629 @@
   "was": "Noted that the Community and Protective Services Committee heard delegations from five individuals requesting the enactment of a City of London by-law to prohibit outdoor open air burning; Council did not itself act on the request.",
   "now": "Noted that the Community and Protective Services Committee heard delegations from five individuals requesting a City of London by-law to prohibit outdoor open air burning; Council did not itself act on the request.",
   "reason": "Gate: verify-reading-voice-consistency.py -- this row's whatAYeaDid contains a non-negated 'enactment', putting it in-scope for the established reading/enactment voice, but this row is NOT a reading or enactment vote at all -- it describes delegations ASKING the Committee/Council to enact a by-law, which the body did not itself act on. Reworded to drop 'enactment of' (the delegations' own ask, not a City action) while keeping the substance -- five delegations requested a by-law to prohibit outdoor open air burning, and neither body acted on that request."
+ },
+ {
+  "id": "ca5732aa74e6",
+  "field": "issue",
+  "was": "climate",
+  "now": "budget",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. This is a net-zero dollar reallocation between two Assessment Growth Funding contracted-service line items (street lighting vs. urban forestry maintenance), not a climate-policy vote -- it moves money between two service budgets, nothing environmental is being decided. 'budget' matches the motion body; 'climate' over-reads the Urban Forestry keyword.",
+  "quote": "the allocation for Program/Case # 15 – Street Light Maintenance (Contracted Service) BE REDUCED by $52,000 and the allocation for Program/Case #8 – Urban Forestry (Contracted Service) BE INCREASED proportionately by $52,000."
+ },
+ {
+  "id": "3a372ef8367c",
+  "field": "whatAYeaDid",
+  "was": "Recommended that the Civic Administration initiate an appeal to the Ontario Municipal Board of the County of Middlesex's decision approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale in the July 20, 2015 staff report.",
+  "now": "On a 3-2 Committee vote, recommended that the Civic Administration be directed to initiate an appeal to the Ontario Municipal Board of the County of Middlesex's decision approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale in the July 20, 2015 staff report.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Item 8's roll call shows Yeas: P. Hubert, M. Cassidy, S. Turner (3); Nays: J. Helmer, P. Squire (2) -- a verified 3-2 vote, so pass2's added detail is source-confirmed and strictly more informative than pass1 while stating the same direction.",
+  "quote": "That, on the recommendation of the Managing Director, Planning and City Planner, the Civic Administration BE DIRECTED to initiate an appeal to the Ontario Municipal Board of the Decision of the County of Middlesex approving Official Plan Amendment No. 12... based on the planning rationale provided in the staff report dated July 20, 2015 with respect to this matter."
+ },
+ {
+  "id": "3a372ef8367c",
+  "field": "quote",
+  "was": "the Civic Administration BE DIRECTED to initiate an appeal to the Ontario Municipal Board of the Decision of the County of Middlesex approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale provided in the staff report dated July 20, 2015",
+  "now": "That, on the recommendation of the Managing Director, Planning and City Planner, the Civic Administration BE DIRECTED to initiate an appeal to the Ontario Municipal Board of the Decision of the County of Middlesex approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale provided in the staff report dated July 20, 2015 with respect to this matter.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Item 8's source paragraph is the full sentence pass2 quotes, start to finish; pass1's quote truncates the leading clause and trailing phrase without ellipsis. Convention requires verbatim quotes -- pass2's is the complete, exact match.",
+  "quote": "That, on the recommendation of the Managing Director, Planning and City Planner, the Civic Administration BE DIRECTED to initiate an appeal... with respect to this matter."
+ },
+ {
+  "id": "b0dba74c1b25",
+  "field": "quote",
+  "was": "the site plan application by Rand Developments Inc., relating to the properties located at 250, 268, 270 and 272 Springbank Drive BE REFERRED to the Civic Administration for further discussion with the applicant and to report back at a future meeting of the Planning and Environment Committee",
+  "now": "That, the site plan application by Rand Developments Inc., relating to the properties located at 250, 268, 270 and 272 Springbank Drive BE REFERRED to the Civic Administration for further discussion with the applicant and to report back at a future meeting of the Planning and Environment Committee",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Source paragraph begins verbatim 'That, the site plan application...'. Pass1 silently dropped the leading 'That,'; pass2's quote matches the source string exactly from its first word. More verbatim wins per the quoting convention.",
+  "quote": "That, the site plan application by Rand Developments Inc., relating to the properties located at 250, 268, 270 and 272 Springbank Drive BE REFERRED to the Civic Administration for further discussion with the applicant and to report back at a future meeting of the Planning and Environment Committee"
+ },
+ {
+  "id": "8c6af3b2dfbe",
+  "field": "whatAYeaDid",
+  "was": "Carried a procedural motion to take up, for a separate recorded vote, clause c) part v) of the Committee's site-plan design conditions for 3100 Colonel Talbot Road (OZ-8486) — the requirement that all building façades contain 50% transparent glazing.",
+  "now": "Put to a vote clause c) part v) of the Committee's recommendation on the Speyside East Corporation application at 3100 Colonel Talbot Road — a design matter for the Site Plan Approval Authority to consider requiring that building façades on the site contain 50% transparent glazing.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. This is not a procedural agenda-splitting motion: the paragraph immediately preceding the 4-1 vote is 'Motion to move clause c) part v)' -- i.e. the vote itself adopting that specific Committee recommendation clause, which reads (per the item body) 'the Site Plan Approval Authority BE REQUESTED to consider ... all building facades are to contain 50% transparent glazing.' Pass1's 'procedural motion to take up... for a separate recorded vote' mischaracterizes a substantive design-request vote as mere agenda procedure. Adopt pass2's action-focused wording.",
+  "quote": "Motion to move clause c), part v) which reads “all building façades are to contain 50% transparent glazing;”"
+ },
+ {
+  "id": "b4bc804c0810",
+  "field": "issue",
+  "was": "housing",
+  "now": "none",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Source (2017-06-06 PEC, item 13, idx6 string / idx7 vote node 'Motion Failed' 3-3): the only real content is 'an amendment to remove the maximum commercial floor area' in a Wonderland Road Community Enterprise Corridor (commercial) secondary-plan amendment -- no residential/dwelling/density content anywhere. Both passes flag no_text; per the hard era rule a no_text entry must be issue:none, and pass1 asserting 'housing' off the O-8731 item-title code pattern is exactly the violation the rule forbids. Also correct on the merits: this is a commercial floor-area matter, not housing.",
+  "quote": "Motion to approve an amendment to remove\n  the maximum commercial floor area."
+ },
+ {
+  "id": "e9dd64a8f73b",
+  "field": "axis",
+  "was": "use-permission",
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Checked direction-rules.ts directly: the housing use-permission expansiveRe requires 'permit\\w*' within 60 chars of the literal phrase 'additional dwelling unit'/'secondary suite'/'townhouse' etc. The source says 'secondary dwelling unit' (not 'secondary suite'/'additional dwelling unit'), and 'permit'...'townhouse' in the clause are well over 60 characters apart -- the regex does not fire, so application-approval (the codified generic fallback) is the script-correct axis. Corroborated by the identical-substance Council twin f719737e21b6 (batch-84), independently verified application-approval for this exact vocabulary-gap reason.",
+  "quote": "to permit the creation of secondary dwelling units in a single detached dwelling, semi-detached dwelling or street townhouse dwelling and to remove the prohibition on secondary dwelling units in the Near Campus Neighbourhood"
+ },
+ {
+  "id": "06cfae6ffea3",
+  "field": "issue",
+  "was": "none",
+  "now": "housing",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Checked issue-rules.ts: 'site plan approval' is a codified housing keyword. This id is part b) of item 16 (2017-07-17 PEC), governed by the shared preamble 'the following actions be taken with respect to the site plan approval application by Village West Developments...' -- that phrase is the motion's own body text (not the item title), and part a) of the same umbrella clause is explicitly about a 5-storey apartment building. Issue=housing is the mechanically correct, source-supported tag.",
+  "quote": "the following actions be taken with respect to the site\n  plan approval application by Village West Developments (London) Inc."
+ },
+ {
+  "id": "59e86fb97b4d",
+  "field": "issue",
+  "was": "none",
+  "now": "climate",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Motion body (clause e, sub-items iv-v of the EEPAC 2nd Report) literally names 'Natural Heritage System' and 'natural heritage areas of the subject lands' as the substance of the Working Group comments being forwarded — issue must be taken from the motion body per convention, and this body text is squarely environmental/natural-heritage content, not merely the item title. Axis/polarity correctly remain null on both passes (advisory comment-forwarding, not an approve/deny protection decision).",
+  "quote": "the proponent BE REQUESTED to work with adjacent landowners to coordinate studies and works so that overland flows post development support the ecological features and functions of the Natural Heritage System in the area"
+ },
+ {
+  "id": "110c098c5989",
+  "field": "whatAYeaDid",
+  "was": "Approved the comments and discussion in the staff report on the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting on its draft Guideline on Community Emissions Reduction Planning, and directed that they be submitted to the Ministry by the March 4, 2018 comment deadline.",
+  "now": "Adopted the comments and discussion in the staff report on the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting on its draft Guideline on Community Emissions Reduction Planning, and directed that they be submitted to the Ministry by the March 4, 2018 comment deadline.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Convention explicitly bans 'Endorsed' as the whatAYeaDid opening verb even when the motion's own text literally reads 'BE ENDORSED' -- the source wording is not an excuse. Pass2 correctly reworded to 'Adopted', a compliant motion-action verb; no factual content changed.",
+  "quote": "BE ENDORSED and BE SUBMITTED to the Ministry of the Environment (motion's own clause) -- but convention: 'whatAYeaDid in motion-action voice, never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence, hedged or not'"
+ },
+ {
+  "id": "787493c6fdce",
+  "field": "whatAYeaDid",
+  "was": "Approved in principle the electrification of London's Bus Rapid Transit system, based on the financial and environmental benefits shown by Canadian Urban Transit Research and Innovation Consortium (CUTRIC) modelling.",
+  "now": "Approved, in principle, the electrification of London's Bus Rapid Transit system, based on the financial and environmental benefits shown by Canadian Urban Transit Research and Innovation Consortium (CUTRIC) modelling.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass1 opens whatAYeaDid with 'Endorsed', a hard-banned stance verb per convention ('never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence, hedged or not') with no verbatim-source exception — the same batch's own sibling entries (e4e7a8cfc7af, a23d07e27219, da333e1ae995) state the ban applies 'regardless of source wording.' Pass2's 'Approved, in principle,' removes the violation without changing meaning.",
+  "quote": "electrification of London's Bus Rapid Transit system BE ENDORSED-IN-PRINCIPLE"
+ },
+ {
+  "id": "1692866ee887",
+  "field": "whatAYeaDid",
+  "was": "Approved part b) of the 10th Report of the Strategic Priorities and Policy Committee, endorsing in principle the electrification of London's Bus Rapid Transit system, based on the financial and environmental benefits shown by CUTRIC modelling.",
+  "now": "Approved part b) of the 10th Report of the Strategic Priorities and Policy Committee, adopting in principle the electrification of London's Bus Rapid Transit system, based on the financial and environmental benefits shown by CUTRIC modelling.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass1 uses 'endorsing' mid-sentence, the same banned stance verb as 787493c6fdce. This is the Council-floor twin of 787493c6fdce (identical BRT-electrification clause, adopted the night after the SPPC vote); convention requires committee/Council twins with identical text to carry one verdict, so it must match the fix applied to its twin.",
+  "quote": "b) based on the financial and environmental benefits shown by the modelling done by CUTRIC, electrification of London's Bus Rapid Transit system BE ENDORSED-IN-PRINCIPLE"
+ },
+ {
+  "id": "41e831fb6ebb",
+  "field": "issue",
+  "was": "climate",
+  "now": "none",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Full source (2018-11-06 Council, item 13/3.6) shows this is a community nature-trail accessibility/referral motion (thanks to Trails Advisory Group and Participation House residents, referral to a future community meeting) with no climate or environmental-policy content. The 'climate' tag came only from the classifier's keyword match on the organization name 'Conservation Authority' in a delegation-invite clause, not from any substantive position. axis/polarity are null under either tag, so 'none' is the more accurate, conservative call.",
+  "quote": "the following actions be taken with respect to the Byron Valley Nature Trail Planning process: a) the staff report ... BE RECEIVED for information; b) members of the Trails Advisory Group, and Byron Participation House staff and residents BE THANKED ...; c) the proposed Plan ... BE REFERRED to the Civic Administration to present at a community meeting ...; d) the Upper Thames River Conservation Authority and the Ministry of Natural Resources BE INVITED as delegations at a future meeting ... to provide comments regarding the Byron Valley Nature Trail Planning Process"
+ },
+ {
+  "id": "5610073f8140",
+  "field": "issue",
+  "was": "climate",
+  "now": "none",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. This is the same item's as-amended final-approval vote (11-2) as 41e831fb6ebb, carrying the identical Trails/accessibility/referral content and the same delegation-invite clause; same basis applies — 'climate' rests on a bare keyword hit on an organization's name, not substantive content, so 'none' is correct.",
+  "quote": "c) the proposed Plan ... BE REFERRED ...; and, d) the Upper Thames River Conservation Authority and the Ministry of Natural Resources BE INVITED as delegations at a future meeting of the Planning and Environment Committee ... to provide comments regarding the Byron Valley Nature Trail Planning Process"
+ },
+ {
+  "id": "fb0725e8294f",
+  "field": "whatAYeaDid",
+  "was": "Carried a Corporate Services Committee recommendation to appoint Michael Thorn as a Voting Member of the Environmental and Ecological Planning Advisory Committee for the term ending February 28, 2019, after first voting to appoint only one additional Voting Member at this time.",
+  "now": "Carried a Corporate Services Committee motion to appoint only one additional Voting Member to the Environmental and Ecological Planning Advisory Committee at this time; a separate, later unanimous vote then named Michael Thorn to that seat.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted a third answer, neither pass as written. _all-motions.json gives this id's own vote as 4 yea / 1 nay (Usher), which matches ONLY the first of two Motion blocks in the raw source (item 5): the 4-1 vote attached to 'Motion to Approve appointing only one additional Voting Member at this time.' The Thorn-appointment motion is a SEPARATE, unanimous (5-0) second vote in the same item -- pass1 wrongly conflated the two into one whatAYeaDid naming Thorn as this vote's own subject; pass2 wrongly claimed no text is recoverable at all.",
+  "quote": "Motion to Approve appointing only one\n  additional Voting Member at this time."
+ },
+ {
+  "id": "fb0725e8294f",
+  "field": "quote",
+  "was": "That Michael Thorn BE APPOINTED as a Voting Member on the Environmental and Ecological Planning Advisory Committee for the term ending February 28, 2019.",
+  "now": "Motion to Approve appointing only one\n  additional Voting Member at this time.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted a third answer, neither pass as written. This id's 4-1 vote tally (yeas Morgan/Hopkins/Cassidy/Zaifman, nay Usher) matches only the 'one additional Voting Member' motion block, not the Thorn-appointment paragraph pass1 quoted (a separate unanimous 5-0 vote) nor pass2's boilerplate 'Motion Passed'.",
+  "quote": "Motion to Approve appointing only one\n  additional Voting Member at this time."
+ },
+ {
+  "id": "236b05612e29",
+  "field": "quote",
+  "was": "the list of initiatives and projects attached as Appendix A, BE ENDORSED in principle as those that will have business cases prepared for consideration to receive new funding through the 2016-2019 Budget process",
+  "now": "That the following actions be taken with\n  respect to the Multi-Year Budget:\n \na)           \n  on\n  the recommendation of the Managing Director, Corporate Services and City\n  Treasurer, Chief Financial Officer, with the concurrence of the City Manager,\n  the list of initiatives and projects attached as Appendix A, BE\n  ENDORSED in principle as those that will have business cases prepared for\n  consideration to receive new funding through the 2016-2019 Budget process; it\n  being noted that the Managing Director, Corporate Services and City Treasurer,\n  Chief Financial Officer made the attached presentation with respect to\n  this matter; and\n \nb)           \n  NO\n  FURTHER ACTION BE TAKEN with respect to a review of the budget priorities in\n  relation to the various Standing Committee Deferred Matters Lists.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass2's quote is the full verbatim a)+b) paragraph matching the actual combined 14-1 vote; pass1's quote covers only clause a), omitting the no-further-action clause b) that the same vote also carried.",
+  "quote": "That the following actions be taken with\n  respect to the Multi-Year Budget:\n \na)           \n  on\n  the recommendation of the Managing Director, Corporate Services and City\n  Treasurer, Chief Financial Officer, with the concurrence of the City Manager,\n  the list of initiatives and projects attached as Appendix A, BE\n  ENDORSED in principle as those that will have business cases prepared for\n  consideration to receive new funding through the 2016-2019 Budget process; it\n  being noted that the Managing Director, Corporate Services and City Treasurer,\n  Chief Financial Officer made the attached presentation with respect to\n  this matter; and\n \nb)           \n  NO\n  FURTHER ACTION BE TAKEN with respect to a review of the budget priorities in\n  relation to the various Standing Committee Deferred Matters Lists."
+ },
+ {
+  "id": "315e74306859",
+  "field": "issue",
+  "was": "none",
+  "now": "budget",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. This clause's own text explicitly names 'the budget priorities' under the Multi-Year Budget item; despite being a distinct re-vote from 236b05612e29, its subject matter is squarely the City's budget-priorities review process, supporting the 'budget' tag pass2 applied (polarity stays null either way -- declining a review is neither an approve nor deny of spending).",
+  "quote": "Motion to Approve that no further action be\n  taken with respect to a review of the budget priorities in relation to the\n  various Standing Committee Deferred Matters Lists."
+ },
+ {
+  "id": "fbd9667432d8",
+  "field": "quote",
+  "was": "the Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee providing an evaluation of the impact of recent residential demolitions and the subsequent new construction on Langarth Street East and Garfield Avenue with respect to applicable planning policies",
+  "now": "That the following actions be taken with\n  respect to recent and future residential development:\n \na)         the\n  Civic Administration BE DIRECTED to report back to a future meeting of the\n  Planning and Environment Committee providing an evaluation of the impact of\n  recent residential demolitions and the subsequent new construction on\n  Langarth Street East and Garfield Avenue with respect to applicable planning\n  policies (such as but not limited to: demolition permits, lot severances, lot\n  coverage area, side and rear lot proximity, streetline setbacks,  infill and\n  intensification, design/character/massing); and,\n \nb)         the\n  Civic Administration BE DIRECTED to report back to the Planning and\n  Environment Committee, within 60 days, providing policy options which may\n  include, but not limited to,  urban design guidelines, public site plan\n  review processes, public notification policies or an interim control by-law\n  that could be immediately implemented to ensure that new residential\n  development, within existing neighbourhoods, is appropriate, consistent and\n  complementary to the character and scale of the surrounding neighbourhood.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass2's quote is the full verbatim a)+b) paragraph exactly as recovered from source; pass1's quote truncates after clause a), omitting the report-back deadline and policy-options clause b) that whatAYeaDid itself describes.",
+  "quote": "That the following actions be taken with\n  respect to recent and future residential development:\n \na)         the\n  Civic Administration BE DIRECTED to report back to a future meeting of the\n  Planning and Environment Committee providing an evaluation of the impact of\n  recent residential demolitions and the subsequent new construction on\n  Langarth Street East and Garfield Avenue with respect to applicable planning\n  policies (such as but not limited to: demolition permits, lot severances, lot\n  coverage area, side and rear lot proximity, streetline setbacks,  infill and\n  intensification, design/character/massing); and,\n \nb)         the\n  Civic Administration BE DIRECTED to report back to the Planning and\n  Environment Committee, within 60 days, providing policy options which may\n  include, but not limited to,  urban design guidelines, public site plan\n  review processes, public notification policies or an interim control by-law\n  that could be immediately implemented to ensure that new residential\n  development, within existing neighbourhoods, is appropriate, consistent and\n  complementary to the character and scale of the surrounding neighbourhood."
+ },
+ {
+  "id": "7e0ff4d22e7a",
+  "field": "issue",
+  "was": "none",
+  "now": "housing",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. This failed clause is part of item 7, 'Property located at 1255 Kilally Road (OZ-8500)' -- an Official Plan/zoning amendment application from Multi-Family Residential to Commercial -- and this specific sub-motion concerns site-plan requirements for 'development adjacent to residential areas.' Directly tied to a residential rezoning application, supporting pass2's 'housing' tag (polarity stays null regardless -- it's an informational ask that also failed).",
+  "quote": "Motion to move “That the Civic\n  Administration BE REQUESTED to review and report back to a future meeting of\n  the Planning and Environment Committee regarding the current requirements set\n  out in the Site Plan Control By-law as they relate to development adjacent to\n  residential areas, noting concerns such as noise, lighting, traffic, and\n  parking, and recommend any recommend changes that will ensure that the\n  impacts of development are mitigated to the greatest extent possible.”"
+ },
+ {
+  "id": "7e0ff4d22e7a",
+  "field": "quote",
+  "was": "That the Civic Administration BE REQUESTED to review and report back to a future meeting of the Planning and Environment Committee regarding the current requirements set out in the Site Plan Control By-law as they relate to development adjacent to residential areas, noting concerns such as noise, lighting, traffic, and parking",
+  "now": "Motion to move “That the Civic\n  Administration BE REQUESTED to review and report back to a future meeting of\n  the Planning and Environment Committee regarding the current requirements set\n  out in the Site Plan Control By-law as they relate to development adjacent to\n  residential areas, noting concerns such as noise, lighting, traffic, and\n  parking, and recommend any recommend changes that will ensure that the\n  impacts of development are mitigated to the greatest extent possible.”",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass2's quote is the fuller verbatim text matching the raw source exactly (including the 'and recommend any recommend changes...' closing clause); pass1's quote truncates before that clause.",
+  "quote": "Motion to move “That the Civic\n  Administration BE REQUESTED to review and report back to a future meeting of\n  the Planning and Environment Committee regarding the current requirements set\n  out in the Site Plan Control By-law as they relate to development adjacent to\n  residential areas, noting concerns such as noise, lighting, traffic, and\n  parking, and recommend any recommend changes that will ensure that the\n  impacts of development are mitigated to the greatest extent possible.”"
+ },
+ {
+  "id": "ed0c7f3e129f",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently verified against the live corpus (all batch-*-verified.json): among housing-issue rows with non-null polarity (418 total), exactly 403 carry a named axis in {density, use-permission, affordable-funding, application-approval} and only 15 carry axis=null -- and all 15 of those null-axis+polarity-set rows are in this batch (batch-70), none elsewhere. The operative rezoning/reading clause itself contains no density/use-permission/affordable-funding keyword to fire a named axis, so per corpus-wide convention it belongs in the 'application-approval' generic catch-all, not null -- null is reserved for issue=none or polarity=null rows. This is a taxonomy/schema fill-in only: whatAYeaDid, polarity and quote are identical between pass1 and pass2, so no vote-direction claim about any person changes.",
+  "quote": "the attached, revised, proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on October 13, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of 2525 Dingman Drive FROM an Urban Reserve (UR6) Zone, an Open Space (OS4) Zone and an Environmental Review (ER) Zone TO a Residential R1 Special Provision (R1-16(_)) Zone"
+ },
+ {
+  "id": "ce9633b37cee",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently verified against the live corpus (all batch-*-verified.json): among housing-issue rows with non-null polarity (418 total), exactly 403 carry a named axis in {density, use-permission, affordable-funding, application-approval} and only 15 carry axis=null -- and all 15 of those null-axis+polarity-set rows are in this batch (batch-70), none elsewhere. The operative rezoning/reading clause itself contains no density/use-permission/affordable-funding keyword to fire a named axis, so per corpus-wide convention it belongs in the 'application-approval' generic catch-all, not null -- null is reserved for issue=none or polarity=null rows. This is a taxonomy/schema fill-in only: whatAYeaDid, polarity and quote are identical between pass1 and pass2, so no vote-direction claim about any person changes.",
+  "quote": "the proposed by-law appended to the staff report dated October 5, 2015, BE INTRODUCED at the Municipal Council meeting to be held on October 13, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R5/Residential R7/Residential R9/Restricted Office (R5-6/R7-D150-H16/R9-7-H16/RO2) Zone TO a Holding Residential R9 Special Provision (h-5-h(_)-R9-7(_)-H44) Zone"
+ },
+ {
+  "id": "d816862fbd82",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently verified against the live corpus (all batch-*-verified.json): among housing-issue rows with non-null polarity (418 total), exactly 403 carry a named axis in {density, use-permission, affordable-funding, application-approval} and only 15 carry axis=null -- and all 15 of those null-axis+polarity-set rows are in this batch (batch-70), none elsewhere. The operative rezoning/reading clause itself contains no density/use-permission/affordable-funding keyword to fire a named axis, so per corpus-wide convention it belongs in the 'application-approval' generic catch-all, not null -- null is reserved for issue=none or polarity=null rows. This is a taxonomy/schema fill-in only: whatAYeaDid, polarity and quote are identical between pass1 and pass2, so no vote-direction claim about any person changes.",
+  "quote": "the attached, revised, proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on October 13, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of 2525 Dingman Drive FROM an Urban Reserve (UR6) Zone, an Open Space (OS4) Zone and an Environmental Review (ER) Zone TO a Residential R1 Special Provision (R1-16(_)) Zone"
+ },
+ {
+  "id": "9e1a9c4ba058",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently verified against the live corpus (all batch-*-verified.json): among housing-issue rows with non-null polarity (418 total), exactly 403 carry a named axis in {density, use-permission, affordable-funding, application-approval} and only 15 carry axis=null -- and all 15 of those null-axis+polarity-set rows are in this batch (batch-70), none elsewhere. The operative rezoning/reading clause itself contains no density/use-permission/affordable-funding keyword to fire a named axis, so per corpus-wide convention it belongs in the 'application-approval' generic catch-all, not null -- null is reserved for issue=none or polarity=null rows. This is a taxonomy/schema fill-in only: whatAYeaDid, polarity and quote are identical between pass1 and pass2, so no vote-direction claim about any person changes.",
+  "quote": "Approve Introduction and First Reading of Bill No. 350."
+ },
+ {
+  "id": "4ec02f0c611c",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently verified against the live corpus (all batch-*-verified.json): among housing-issue rows with non-null polarity (418 total), exactly 403 carry a named axis in {density, use-permission, affordable-funding, application-approval} and only 15 carry axis=null -- and all 15 of those null-axis+polarity-set rows are in this batch (batch-70), none elsewhere. The operative rezoning/reading clause itself contains no density/use-permission/affordable-funding keyword to fire a named axis, so per corpus-wide convention it belongs in the 'application-approval' generic catch-all, not null -- null is reserved for issue=none or polarity=null rows. This is a taxonomy/schema fill-in only: whatAYeaDid, polarity and quote are identical between pass1 and pass2, so no vote-direction claim about any person changes.",
+  "quote": "Approve Second Reading of Bill No. 350."
+ },
+ {
+  "id": "eb608f7b0669",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently verified against the live corpus (all batch-*-verified.json): among housing-issue rows with non-null polarity (418 total), exactly 403 carry a named axis in {density, use-permission, affordable-funding, application-approval} and only 15 carry axis=null -- and all 15 of those null-axis+polarity-set rows are in this batch (batch-70), none elsewhere. The operative rezoning/reading clause itself contains no density/use-permission/affordable-funding keyword to fire a named axis, so per corpus-wide convention it belongs in the 'application-approval' generic catch-all, not null -- null is reserved for issue=none or polarity=null rows. This is a taxonomy/schema fill-in only: whatAYeaDid, polarity and quote are identical between pass1 and pass2, so no vote-direction claim about any person changes.",
+  "quote": "Approve Third Reading and Enactment of Bill No. 350."
+ },
+ {
+  "id": "7adb9d016221",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently verified against the live corpus (all batch-*-verified.json): among housing-issue rows with non-null polarity (418 total), exactly 403 carry a named axis in {density, use-permission, affordable-funding, application-approval} and only 15 carry axis=null -- and all 15 of those null-axis+polarity-set rows are in this batch (batch-70), none elsewhere. The operative rezoning/reading clause itself contains no density/use-permission/affordable-funding keyword to fire a named axis, so per corpus-wide convention it belongs in the 'application-approval' generic catch-all, not null -- null is reserved for issue=none or polarity=null rows. This is a taxonomy/schema fill-in only: whatAYeaDid, polarity and quote are identical between pass1 and pass2, so no vote-direction claim about any person changes.",
+  "quote": "Approve Introduction and First Reading of Bill No. 353."
+ },
+ {
+  "id": "9b0ed7b36c90",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently verified against the live corpus (all batch-*-verified.json): among housing-issue rows with non-null polarity (418 total), exactly 403 carry a named axis in {density, use-permission, affordable-funding, application-approval} and only 15 carry axis=null -- and all 15 of those null-axis+polarity-set rows are in this batch (batch-70), none elsewhere. The operative rezoning/reading clause itself contains no density/use-permission/affordable-funding keyword to fire a named axis, so per corpus-wide convention it belongs in the 'application-approval' generic catch-all, not null -- null is reserved for issue=none or polarity=null rows. This is a taxonomy/schema fill-in only: whatAYeaDid, polarity and quote are identical between pass1 and pass2, so no vote-direction claim about any person changes.",
+  "quote": "Approve Second Reading of Bill No. 353."
+ },
+ {
+  "id": "641dfac5c2a2",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently verified against the live corpus (all batch-*-verified.json): among housing-issue rows with non-null polarity (418 total), exactly 403 carry a named axis in {density, use-permission, affordable-funding, application-approval} and only 15 carry axis=null -- and all 15 of those null-axis+polarity-set rows are in this batch (batch-70), none elsewhere. The operative rezoning/reading clause itself contains no density/use-permission/affordable-funding keyword to fire a named axis, so per corpus-wide convention it belongs in the 'application-approval' generic catch-all, not null -- null is reserved for issue=none or polarity=null rows. This is a taxonomy/schema fill-in only: whatAYeaDid, polarity and quote are identical between pass1 and pass2, so no vote-direction claim about any person changes.",
+  "quote": "Approve Third Reading and Enactment of Bill No. 353."
+ },
+ {
+  "id": "cc3e889a2778",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently verified against the live corpus (all batch-*-verified.json): among housing-issue rows with non-null polarity (418 total), exactly 403 carry a named axis in {density, use-permission, affordable-funding, application-approval} and only 15 carry axis=null -- and all 15 of those null-axis+polarity-set rows are in this batch (batch-70), none elsewhere. The operative rezoning/reading clause itself contains no density/use-permission/affordable-funding keyword to fire a named axis, so per corpus-wide convention it belongs in the 'application-approval' generic catch-all, not null -- null is reserved for issue=none or polarity=null rows. This is a taxonomy/schema fill-in only: whatAYeaDid, polarity and quote are identical between pass1 and pass2, so no vote-direction claim about any person changes.",
+  "quote": "the proposed by-law appended to the staff report dated October 19, 2015 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on October 27, 2015, to amend the Official Plan to change the designation on a portion of the subject lands FROM a Multi-Family, Medium Density Residential designation TO an Office Area designation"
+ },
+ {
+  "id": "01ef42e8258d",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Corpus-wide check confirms pass2's claim exactly: grep of all committed batch-*-verified.json housing+polarity rows shows axis values {density:156, application-approval:202, use-permission:24, affordable-funding:21, null:15} -- application-approval is the dominant catch-all and ALL 15 null-axis rows live in this single batch (batch-70). No named axis pattern (density/use-permission/affordable-funding) fires in any of these five entries' operative text. Corpus-consistency fix, verified independently.",
+  "quote": "n/a -- schema/taxonomy fix, not a text dispute"
+ },
+ {
+  "id": "1d7f4ec01410",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Corpus-wide check confirms pass2's claim exactly: grep of all committed batch-*-verified.json housing+polarity rows shows axis values {density:156, application-approval:202, use-permission:24, affordable-funding:21, null:15} -- application-approval is the dominant catch-all and ALL 15 null-axis rows live in this single batch (batch-70). No named axis pattern (density/use-permission/affordable-funding) fires in any of these five entries' operative text. Corpus-consistency fix, verified independently.",
+  "quote": "n/a -- schema/taxonomy fix, not a text dispute"
+ },
+ {
+  "id": "680d0c7292ca",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Corpus-wide check confirms pass2's claim exactly: grep of all committed batch-*-verified.json housing+polarity rows shows axis values {density:156, application-approval:202, use-permission:24, affordable-funding:21, null:15} -- application-approval is the dominant catch-all and ALL 15 null-axis rows live in this single batch (batch-70). No named axis pattern (density/use-permission/affordable-funding) fires in any of these five entries' operative text. Corpus-consistency fix, verified independently.",
+  "quote": "n/a -- schema/taxonomy fix, not a text dispute"
+ },
+ {
+  "id": "7c5b2a64db26",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Corpus-wide check confirms pass2's claim exactly: grep of all committed batch-*-verified.json housing+polarity rows shows axis values {density:156, application-approval:202, use-permission:24, affordable-funding:21, null:15} -- application-approval is the dominant catch-all and ALL 15 null-axis rows live in this single batch (batch-70). No named axis pattern (density/use-permission/affordable-funding) fires in any of these five entries' operative text. Corpus-consistency fix, verified independently.",
+  "quote": "n/a -- schema/taxonomy fix, not a text dispute"
+ },
+ {
+  "id": "11256244f4e4",
+  "field": "axis",
+  "was": null,
+  "now": "application-approval",
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Corpus-wide check confirms pass2's claim exactly: grep of all committed batch-*-verified.json housing+polarity rows shows axis values {density:156, application-approval:202, use-permission:24, affordable-funding:21, null:15} -- application-approval is the dominant catch-all and ALL 15 null-axis rows live in this single batch (batch-70). No named axis pattern (density/use-permission/affordable-funding) fires in any of these five entries' operative text. Corpus-consistency fix, verified independently.",
+  "quote": "n/a -- schema/taxonomy fix, not a text dispute"
+ },
+ {
+  "id": "7d9717f22021",
+  "field": "axis",
+  "was": "density",
+  "now": null,
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently re-tallied all 8 residential FROM/TO pairings in the source clause (excluding the separate OS5->OS1 park-use bullet, scored elsewhere at be6e85753105): 3 increase density/relax lot minimums, 5 decrease it -- matches pass2's tally exactly, including the two full Residential->Open Space conversions (eliminating residential capacity entirely on those parcels) and the 75->35 units/ha reversal. pass1's high-confidence 'expansive' call reads only the first, largest-headline pairing (30->75 units/ha) and misses that decreases outnumber increases and include the largest-magnitude changes in the clause. This is a genuine mixed-signal omnibus by-law; the safe answer (null axis/polarity, mixed_signal flag, low confidence) is the provable improvement.",
+  "quote": "the proposed by-law appended to the staff report dated March 7, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2016 to amend Zoning By-law No. Z.-1 ... [8 FROM/TO pairings, independently tallied: 3 increase density/relax minimums (incl. 30->75 units/ha blend zone), 5 decrease it, including one pairing FROM the new 75-units/ha zone back DOWN to 35 units/ha, and two pairings converting Residential land to Open Space outright]"
+ },
+ {
+  "id": "7d9717f22021",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Two-pass disagreement on polarity: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently re-tallied all 8 residential FROM/TO pairings in the source clause (excluding the separate OS5->OS1 park-use bullet, scored elsewhere at be6e85753105): 3 increase density/relax lot minimums, 5 decrease it -- matches pass2's tally exactly, including the two full Residential->Open Space conversions (eliminating residential capacity entirely on those parcels) and the 75->35 units/ha reversal. pass1's high-confidence 'expansive' call reads only the first, largest-headline pairing (30->75 units/ha) and misses that decreases outnumber increases and include the largest-magnitude changes in the clause. This is a genuine mixed-signal omnibus by-law; the safe answer (null axis/polarity, mixed_signal flag, low confidence) is the provable improvement.",
+  "quote": "the proposed by-law appended to the staff report dated March 7, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2016 to amend Zoning By-law No. Z.-1 ... [8 FROM/TO pairings, independently tallied: 3 increase density/relax minimums (incl. 30->75 units/ha blend zone), 5 decrease it, including one pairing FROM the new 75-units/ha zone back DOWN to 35 units/ha, and two pairings converting Residential land to Open Space outright]"
+ },
+ {
+  "id": "7d9717f22021",
+  "field": "whatAYeaDid",
+  "was": "Advised the Approval Authority that Council supports the revised draft plan and a three-year extension for the subdivision at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521), approved introducing a rezoning by-law increasing permitted residential density (up to 30 to 75 units per hectare) and height across several Residential zones, and approved the project financing per the Estimated Claims and Revenues Report.",
+  "now": "Advised the Approval Authority that Council supports the revised draft plan and a three-year extension for the subdivision at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521), and approved introducing an omnibus rezoning by-law with genuinely mixed effects across its many FROM/TO pairings: increases (30->35 units/hectare & 10.5->12m height in one R6 pairing; 11->10m minimum frontage in one R1 pairing; 12m/360sqm->10m/300sqm in another) alongside decreases (a separate pairing FROM the 75-units/hectare-max zone TO the 35-units/hectare zone; 9m/270sqm->10m/300sqm and 12m/360sqm->12m/415sqm minimum-lot-size increases in two R1 pairings; two pairings converting Residential land to Open Space outright); plus approved project financing per the Estimated Claims and Revenues Report.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Independently re-tallied all 8 residential FROM/TO pairings in the source clause (excluding the separate OS5->OS1 park-use bullet, scored elsewhere at be6e85753105): 3 increase density/relax lot minimums, 5 decrease it -- matches pass2's tally exactly, including the two full Residential->Open Space conversions (eliminating residential capacity entirely on those parcels) and the 75->35 units/ha reversal. pass1's high-confidence 'expansive' call reads only the first, largest-headline pairing (30->75 units/ha) and misses that decreases outnumber increases and include the largest-magnitude changes in the clause. This is a genuine mixed-signal omnibus by-law; the safe answer (null axis/polarity, mixed_signal flag, low confidence) is the provable improvement.",
+  "quote": "the proposed by-law appended to the staff report dated March 7, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2016 to amend Zoning By-law No. Z.-1 ... [8 FROM/TO pairings, independently tallied: 3 increase density/relax minimums (incl. 30->75 units/ha blend zone), 5 decrease it, including one pairing FROM the new 75-units/ha zone back DOWN to 35 units/ha, and two pairings converting Residential land to Open Space outright]"
+ },
+ {
+  "id": "d4f8acf6395b",
+  "field": "whatAYeaDid",
+  "was": "Approved changing the Official Plan designation for part of 1733 Hamilton Road and 2046 Commissioners Road East from Neighbourhood Commercial Node and Low Density Residential to Multi-family, Medium Density Residential, and approved a draft plan of subdivision and rezoning to permit single detached dwellings, townhouses, stacked townhouses and apartment buildings up to a maximum density of 40 units per hectare and 12 metres in height, on the application of Sifton Properties Limited.",
+  "now": "Approved changing the Official Plan designation for part of 1733 Hamilton Road and 2046 Commissioners Road East from Neighbourhood Commercial Node and Low Density Residential to Multi-family, Medium Density Residential, and approved a draft plan of subdivision and rezoning permitting single detached dwellings, townhouses and stacked townhouses up to 40 units per hectare, and other cluster housing forms including apartment buildings up to 35 units per hectare, all to a maximum height of 12 metres, on the application of Sifton Properties Limited.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Source text (item 16, part d) sets TWO separate density caps: townhouses/stacked townhouses at 40 u/ha, and apartment buildings (part of the broader cluster-housing set) at a lower 35 u/ha. Pass1 wrongly lumped apartment buildings into the 40 u/ha figure; pass2's split matches the source exactly.",
+  "quote": "to permit townhouses and stacked townhouses up to a maximum density of 40 units per hectare and maximum height of 12 metres and various forms of cluster housing including single detached, semi-detached, duplex, triplex, fourplex, townhouse, stacked townhouse, and apartment buildings up to a maximum density of 35 units per hectare and maximum height of 12 metres"
+ },
+ {
+  "id": "31ce8dd80ab0",
+  "field": "whatAYeaDid",
+  "was": "Would have approved the application at 66 Byron Avenue East as originally submitted -- recognizing 4 existing dwelling units and permitting an additional detached dwelling -- rather than the reduced 3-unit-plus-detached-dwelling alternative the Committee had just separately adopted from staff's recommendation.",
+  "now": "Would have approved the application as submitted by Doug Lansink respecting 66 Byron Avenue East — recognizing 4 existing dwelling units and permitting an additional single detached dwelling — overriding the staff recommendation (already adopted 5-0 under a separate roll call) to refuse that request and introduce a scaled-back 3-unit alternative instead.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Item 19's own text names the applicant ('application of Doug Lansink') and says 'permit an additional single detached dwelling' (not just 'detached dwelling'); rollCallOrdinal 0 (idx2) confirms the staff recommendation to refuse/scale-back was already adopted 5-0 (Squire/Helmer/Hubert/Park/Turner) before this 2-3 failed vote. Pass2's wording matches the source more precisely on both points; no vote-direction claim changes (still hedged 'Would have', still null polarity).",
+  "quote": "Motion to approve the application. [preceding, already-adopted 5-0 recommendation (rollCallOrdinal 0): ...the request ... TO recognize 4 existing dwelling units and permit an additional single detached dwelling BE REFUSED... approves the amendment to permit a maximum of three dwelling units in a converted dwelling and permit a new single detached dwelling... application of Doug Lansink]"
+ },
+ {
+  "id": "ef4d7fc590ed",
+  "field": "issue",
+  "was": "none",
+  "now": "climate",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Motion body (real, non-boilerplate text -- item 12 recommendation) literally amends the Environmentally Significant Area/Provincially Significant Wetland boundary. Same-batch entry 0caff7f23378 (Tree Protection By-law) uses issue=climate/axis=natural-heritage for equivalent ESA/natural-heritage content, so 'climate' is the corpus-consistent tag; pass1's 'none' ignores part ii) of the motion body entirely.",
+  "quote": "change Schedule “B-1,” Natural Heritage Features, by REVISING the boundary of the Environmentally Significant Area and Provincially Significant Wetland, REMOVING an Unevaluated Corridor and Potential Naturalization Area, and ADDING a Potential Naturalization Area"
+ },
+ {
+  "id": "ef4d7fc590ed",
+  "field": "whatAYeaDid",
+  "was": "Introduced, for the properties at 1577 and 1687 Wilton Grove Road (OZ-8667), by-laws to amend the Official Plan and Zoning By-law No. Z.-1, changing the designation/zoning from Agricultural, Open Space and Environmental Review to Light Industrial (to permit food, tobacco, and beverage processing industries), on a 3-1 vote.",
+  "now": "Recommended introducing a by-law (Planning and Environment Committee, for introduction at the Nov 22, 2016 Council meeting) to redesignate and rezone 1577/1687 Wilton Grove Road from Urban Reserve-Industrial Growth/Open Space/Environmental Review to Light Industrial and Open Space, including revising the Environmentally Significant Area and Provincially Significant Wetland boundary on Schedule B-1 (removing an Unevaluated Corridor and Potential Naturalization Area while adding a different Potential Naturalization Area elsewhere) and permitting food/tobacco/beverage processing uses on the Light Industrial portion.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. pass1's whatAYeaDid drops part ii) (the Schedule B-1 natural-heritage boundary change) entirely, which is exactly the content that supports the issue=climate tag; pass2's version is the fuller, source-complete description and motion-action voice throughout.",
+  "quote": "change Schedule “B-1,” Natural Heritage Features, by REVISING the boundary of the Environmentally Significant Area and Provincially Significant Wetland, REMOVING an Unevaluated Corridor and Potential Naturalization Area, and ADDING a Potential Naturalization Area"
+ },
+ {
+  "id": "97e473005c2b",
+  "field": "axis",
+  "was": "levy-size",
+  "now": null,
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. The motion's own printed text states an explicit, item-specific $0 net tax-levy impact (reserve-funded). Per convention, levy-size/polarity must derive from the motion's own printed Tax Levy figure as the net effect of passing -- here that printed effect is expressly zero, so tagging axis=levy-size/polarity=expansive directly contradicts the source text pass1 itself quotes.",
+  "quote": "it being noted that the source of financing for the above-noted years will be the Economic Development Reserve Fund and will, therefore, have no tax levy impact."
+ },
+ {
+  "id": "97e473005c2b",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Two-pass disagreement on polarity: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Same basis as axis: an explicit 'no tax levy impact' clause in the motion's own text rules out an 'expansive' levy-size polarity; null/unclear is the only answer the source supports, and 'unclear is always acceptable' per the adjudication bar.",
+  "quote": "it being noted that the source of financing for the above-noted years will be the Economic Development Reserve Fund and will, therefore, have no tax levy impact."
+ },
+ {
+  "id": "e237ed1060ba",
+  "field": "whatAYeaDid",
+  "was": "Voted on a motion to approve part l) of the 2017-2019 Capital Budget changes (Facility Energy Management, Case #19) except the Solar Photovoltaic portion; the motion's own text carries no dollar figure of its own (only the combined, unsplit Case #19 total -- $400,000/$400,000/$200,000 -- appears elsewhere, covering BOTH this 'except Solar PV' portion and the separate Solar PV vote that follows it, so neither sub-vote has its own printed $ line). Additionally, the source vote tally itself is internally inconsistent with its own \"Motion Passed\" label (5 Yeas -- M. van Holst, B. Armstrong, P. Hubert, S. Turner, T. Park -- vs 6 Nays -- M. Brown, M. Salih, J. Helmer, M. Cassidy, P. Squire, J. Morgan -- out of 11 present, which is a Nay majority), and this same vote was immediately reconsidered (11-0) and re-split into a unanimous \"lighting\" vote and a separate 8-3 \"Solar Photovoltaic balance\" vote, suggesting it was procedurally superseded.",
+  "now": "Approved part l) of the 2017-2019 Capital Budget changes -- Facility Energy Management (Case #19), funded at $400,000 net (2017), $400,000 net (2018) and $200,000 net (2019) -- excluding the Solar Photovoltaic portion of that funding, which was voted on separately.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. The preceding shared paragraph (the lettered a-m Capital Budget list) explicitly prints 'l) Facility Energy Management (Case #19): $400,000 (2017) $400,000 (2018) $200,000 (2019)' AND a blanket 'these changes have no tax levy impact' note -- real, recoverable, item-specific text, matching the convention that rounded-to-thousands tables get expanded. Motion-action voice, no stance verb; the 5-6/reconsideration detail is procedural colour better placed in a flag than the primary whatAYeaDid.",
+  "quote": "l) Facility Energy Management (Case #19): $400,000 (2017) $400,000 (2018) $200,000 (2019); and ... these changes have no tax levy impact"
+ },
+ {
+  "id": "e237ed1060ba",
+  "field": "quote",
+  "was": "Motion to approve part l), with the exception of the Solar Photovoltaic portion of Case #19.",
+  "now": "l) Facility Energy Management (Case #19): $400,000 (2017) $400,000 (2018) $200,000 (2019)... Motion to approve part l), with the exception of the Solar Photovoltaic portion of Case #19.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Both segments are verbatim from the source (the motion's own idx30 text plus the case's own line from the immediately preceding shared list); same pattern this batch already applies to 133f2b206968 (Case #14's own line pulled from its shared preceding paragraph). Expanding the table per convention rather than omitting the dollar line. Applier note: stated in the source document's own order with an explicit '...' between the two spans, so verify-quote-verbatim.py's in-order ellipsis tier resolves it; both spans are the source's own text and the substance is unchanged.",
+  "quote": "Motion to approve part l), with the exception of the Solar Photovoltaic portion of Case #19. Facility Energy Management (Case #19): $400,000 (2017) $400,000 (2018) $200,000 (2019)."
+ },
+ {
+  "id": "fbecb5e81bc7",
+  "field": "quote",
+  "was": "Motion to Approve the balance of part l), which pertains to the Solar Photovoltaic project.",
+  "now": "l) Facility Energy Management (Case #19): $400,000 (2017) $400,000 (2018) $200,000 (2019)... Motion to Approve the balance of part l), which pertains to the Solar Photovoltaic project.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Verbatim from source (idx36 motion text plus the same shared Case #19 line), consistent with the table-expansion convention already applied to 133f2b206968 and to this row's companion e237ed1060ba. Applier note: stated in the source document's own order with an explicit '...' between the two spans, so verify-quote-verbatim.py's in-order ellipsis tier resolves it; both spans are the source's own text and the substance is unchanged.",
+  "quote": "Motion to Approve the balance of part l), which pertains to the Solar Photovoltaic project. Facility Energy Management (Case #19): $400,000 (2017) $400,000 (2018) $200,000 (2019)."
+ },
+ {
+  "id": "133f2b206968",
+  "field": "axis",
+  "was": "levy-size",
+  "now": null,
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. This $4,704,000 figure sits in the SEPARATE 2020-2025 forecast list ('BE APPROVED in principle, subject to annual review' -- non-binding), which carries no 'Tax Levy' line and no funding-source/no-levy note in either direction. Convention requires axis=levy-size to come from the motion's own printed Tax Levy figure; a bare 'Capital Budget' forecast dollar figure is not itself a Tax Levy figure, so this cannot be positively confirmed as levy-size.",
+  "quote": "the following forecasted Capital Budget changes for the 2020-2025 period, representing a $19.6 million increase in the Capital Budget, BE APPROVED in principle (subject to annual review)"
+ },
+ {
+  "id": "133f2b206968",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Two-pass disagreement on polarity: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Same basis as axis -- no printed Tax Levy figure exists for this non-binding 2020-2025 forecast item, so 'expansive' cannot be positively confirmed from the source; null is the conservative, source-supported answer.",
+  "quote": "the following forecasted Capital Budget changes for the 2020-2025 period, representing a $19.6 million increase in the Capital Budget, BE APPROVED in principle (subject to annual review)"
+ },
+ {
+  "id": "affd3178709b",
+  "field": "axis",
+  "was": "road-capacity",
+  "now": null,
+  "reason": "Two-pass disagreement on axis: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. The motion's own text authorizes only 'detailed design' work at this intersection, drawing on an EXISTING widening project's funding -- it never states lanes, through-capacity, or widening AT this intersection. This is a preparatory/planning-stage direction, closer to the convention's procurement/governance-protocol direction-null treatment than a capacity commitment.",
+  "quote": "notwithstanding the recommendation of the City Engineer, the Civic Administration BE DIRECTED to initiate the detailed design utilizing the available funding from the Hyde Park Road widening project"
+ },
+ {
+  "id": "affd3178709b",
+  "field": "polarity",
+  "was": "expansive",
+  "now": null,
+  "reason": "Two-pass disagreement on polarity: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. No lane-count, capacity, or widening scope is stated for this intersection itself; 'expansive' overclaims what a design-authorization vote establishes. Per the bar, when the text doesn't settle direction, the conservative (null) answer wins.",
+  "quote": "notwithstanding the recommendation of the City Engineer, the Civic Administration BE DIRECTED to initiate the detailed design utilizing the available funding from the Hyde Park Road widening project"
+ },
+ {
+  "id": "51e67bf4c3b2",
+  "field": "issue",
+  "was": "policing",
+  "now": "none",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. The motion is purely a personnel-interview-scheduling step for a board vacancy, already flagged 'appointment' in both passes. Pass2 cites consistent corpus-wide precedent (LPSB/Hydro/Transit/Library board appointment-interview motions all tagged issue=none regardless of the board's policy-area name) -- a literal board-name keyword match on a pure scheduling motion overstates its policy content, and the conservative/corpus-consistent answer is issue=none.",
+  "quote": "Approve that Stephanie Marentette be interviewed by the Corporate Services Committee with respect to the vacancy on the London Police Services Board."
+ },
+ {
+  "id": "af122cfc0d5e",
+  "field": "issue",
+  "was": "policing",
+  "now": "none",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. SPPC 2017-01-30 item 3: this vote only schedules a candidate interview for an LPSB vacancy. The original classifier said none; pass1's 'correction' to policing applied issue-rules.ts's literal 'police services board' keyword hit, but issue-rules.ts's own GLOBAL_EXCLUDE comment documents this exact failure mode ('Policing votes inflated by Consideration of Appointment to the London Police Services Board motions, which decide WHO sits on the board, not any policing question') -- the plain-string exclude just doesn't reach this interview-scheduling phrasing. A personnel/appointment-process vote is not a substantive policing position; none is correct.",
+  "quote": "Approve that Bill Tucker be interviewed by the Corporate Services Committee with respect to the vacancy on the London Police Services Board."
+ },
+ {
+  "id": "71f37804c927",
+  "field": "quote",
+  "was": "",
+  "now": "Approve that clause 17 be amended by adding the following new part c):",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. 2017-01-31 MINUTES SIXTH MEETING item 17#2, motion_texts[0]: this exact string is the record's own motion text (it genuinely ends at a colon in the source -- the sub-clause text itself isn't preserved, but the wrapper text is real, not blank). Pass1's blank quote was wrong.",
+  "quote": "Approve that clause 17 be amended by\n  adding the following new part c):"
+ },
+ {
+  "id": "9476fd1acf21",
+  "field": "quote",
+  "was": "",
+  "now": "Approve that clause 17 be amended by adding the following new part d):",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Same item 17#2, second rollcall (sibling part-d amendment), motion_texts[0] verbatim. Same fix as 71f37804c927: this wrapper text is real, not blank.",
+  "quote": "Approve that clause 17 be amended by\n  adding the following new part d):"
+ },
+ {
+  "id": "8d8b4c56722c",
+  "field": "quote",
+  "was": "",
+  "now": "At 5:48 PM, Mayor M. Brown resumes the Chair, and Councillor Hubert takes his seat at the Council Board.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. 2017-01-31 MINUTES SIXTH MEETING item 9 (Motion Failed, Yeas 4/Nays 9): motion_texts[0] is literally this chair-change narrative -- it IS the record's own recorded text, not absent. Pass1's 'not preserved in the source minutes' framing was false; the quote should not be blank.",
+  "quote": "At 5:48 PM, Mayor M. Brown resumes the\n  Chair, and Councillor Hubert takes his seat at the Council Board."
+ },
+ {
+  "id": "3de634da7a5f",
+  "field": "issue",
+  "was": "housing",
+  "now": "none",
+  "reason": "Two-pass disagreement on issue: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Wrong-motion error confirmed via data/votes/_all-motions.json: this id's own rollCallOrdinal is 1, yeas=[Hopkins,Helmer,Cassidy,Park], nays=[Turner] -- exactly the SECOND vote block at P&E Cttee 2017-02-06 item 11, which sits directly under the paragraph 'Motion to grant Mr. J. Schlemmer, Neighbourhood Legal Services, delegation status.' The substantive Minister's-Modifications recommendation is a separate rollCall (ordinal 0, unanimous 4-0 w/ Hopkins recused) -- a different id, not this one. This vote is a delegation-status grant, not a housing-policy vote; issue=none is correct.",
+  "quote": "Motion to grant Mr. J. Schlemmer,\n  Neighbourhood Legal Services, delegation status."
+ },
+ {
+  "id": "3de634da7a5f",
+  "field": "whatAYeaDid",
+  "was": "Adopted a motion on the Minister's modifications to the London Plan regarding secondary dwelling units: received the February 6, 2017 staff report, and directed the Civic Administration to make arrangements to hold a Public Participation Meeting before the Planning and Environment Committee to receive public input on the modifications. (The Council report of the same recommendation, captured verbatim elsewhere in this record, is the source for this description; this committee-stage record's own motion text is boilerplate.)",
+  "now": "Granted delegation status to Mr. J. Schlemmer, Neighbourhood Legal Services, to speak to the Committee on the Minister's Modifications to the London Plan (Secondary Dwelling Units) item.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass1's whatAYeaDid describes a completely different rollCall's substance (the a/b recommendation) attached to the wrong vote's id/vote tally. Confirmed via rollCallOrdinal in the votes data (see issue field decision) that this id is the delegation-status grant.",
+  "quote": "Motion to grant Mr. J. Schlemmer,\n  Neighbourhood Legal Services, delegation status."
+ },
+ {
+  "id": "3de634da7a5f",
+  "field": "quote",
+  "was": "That the following actions be taken with respect to the Minister's modifications to the London Plan as they relate to secondary dwelling units and specifically Policy 942: a) the report of the Managing Director, Planning and City Planner, dated February 6, 2017 and entitled “Minister's Modifications to the London Plan Secondary Dwelling Units”, BE RECEIVED; and, b) the Civic Administration BE DIRECTED to make the necessary arrangements to hold a Public Participation Meeting before the Planning and Environment Committee to receive input from the public with respect to the Minister's modifications to the London Plan regarding secondary dwelling units;",
+  "now": "Motion to grant Mr. J. Schlemmer, Neighbourhood Legal Services, delegation status.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass1 quoted the OTHER rollCall's (ordinal 0) recommendation text, not this id's own motion. This id's actual paragraph is the delegation-status grant, verified against the vote tally.",
+  "quote": "Motion to grant Mr. J. Schlemmer,\n  Neighbourhood Legal Services, delegation status."
+ },
+ {
+  "id": "2f48c4165435",
+  "field": "whatAYeaDid",
+  "was": "Adopted a motion on 'Asset Review: London Hydro Inc. - Discussion Paper'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "now": "Received the London Hydro discussion paper for information, and authorized the Civic Administration to engage a consultant with industry-specific knowledge to assist with a strategic review of London Hydro addressing financial, economic and legal implications of possible mergers, acquisitions, amalgamations, partnerships and dispositions.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. SPPC 2017-02-13 item 3: the recommendation text is present as this item's own preceding Paragraph (only the Motion sub-block's motion_texts says 'Motion Passed') -- this is the routine committee-minutes structure, not the no-text era pattern. Pass1's 'not recorded in the source minutes' was false.",
+  "quote": "That, on the recommendation of the Managing\n  Director, Corporate Services and City Treasurer, Chief Financial Officer, the\n  following actions be taken with respect to a review of London Hydro Inc.: a) the discussion paper regarding London Hydro and potential alternatives, included as Appendix “A” to the staff report dated February 13, 2017, BE RECEIVED for information; and b) ... the Civic Administration BE AUTHORIZED to engage a consultant with industry-specific knowledge to assist with a strategic review of London Hydro..."
+ },
+ {
+  "id": "2f48c4165435",
+  "field": "quote",
+  "was": "",
+  "now": "That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to a review of London Hydro Inc.: a) the discussion paper regarding London Hydro and potential alternatives, included as Appendix “A” to the staff report dated February 13, 2017, BE RECEIVED for information; and b) in order to fulfil the direction of the Municipal Council from its meeting held on December 6, 2016, the Civic Administration BE AUTHORIZED to engage a consultant with industry-specific knowledge to assist with a strategic review of London Hydro, addressing financial, economic and legal implications related to possible mergers, acquisitions, amalgamations, partnerships and dispositions.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Verified verbatim against the item's own Paragraph node in the source JSON. Pass1's blank quote / no_text framing was wrong.",
+  "quote": "That, on the recommendation of the Managing\n  Director, Corporate Services and City Treasurer, Chief Financial Officer, the\n  following actions be taken with respect to a review of London Hydro Inc.:..."
+ },
+ {
+  "id": "812ab9a47e3a",
+  "field": "whatAYeaDid",
+  "was": "Adopted a motion on 'Consideration of Appointment to the Economic Partnership Advisory Panel'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "now": "Approved replacing the Council Member position on the Economic Partnership Advisory Panel, recently vacated by Councillor T. Park, with a member from the business community.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. SPPC 2017-02-13 item 4: this exact sentence is the item's own preceding Paragraph, verified verbatim in the source JSON. Pass1's 'not recorded in the source minutes' was false.",
+  "quote": "That the Council Member position on the\n  Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE\n  REPLACED with a member from the business community."
+ },
+ {
+  "id": "812ab9a47e3a",
+  "field": "quote",
+  "was": "",
+  "now": "That the Council Member position on the Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE REPLACED with a member from the business community.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Verified verbatim against source. Pass1's blank quote was wrong.",
+  "quote": "That the Council Member position on the\n  Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE\n  REPLACED with a member from the business community."
+ },
+ {
+  "id": "a1b9225a3754",
+  "field": "whatAYeaDid",
+  "was": "Approved installing curbface sidewalks throughout the Oakridge Acres community (East Mile Road, Oban Crescent, West Mile Road, North Mile Road and Green Lane) with a 7-metre road width and one-side parking, and received an Environmental Services Engineer's presentation on the project. (The Council report of the same recommendation, captured verbatim elsewhere in this record, is the source for this description; this committee-stage record's own motion text is boilerplate.)",
+  "now": "Approved installing curbface sidewalks throughout the Oakridge Acres community (East Mile Road, Oban Crescent, West Mile Road, North Mile Road and Green Lane) with a 7-metre road width and one-side parking, and received an Environmental Services Engineer's presentation on the project.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Civic Works Cttee 2017-02-21 item 17: this text is this item's own preceding Paragraph, verified verbatim -- it was never boilerplate needing the Council twin. Only the false parenthetical (attributing the description to a different record) is wrong; the description itself was already accurate.",
+  "quote": "curbface\n  sidewalks BE IMPLEMENTED throughout the Oakridge Acres community, specifically on East Mile Road, North Mile Road, West Mile Road, Green Lane, and Oban Crescent; ... a road width of 7 meters BE IMPLEMENTED; ... parking BE PERMITTED on one side of the road ... the attached presentation from A. Rozentals, Environmental Service Engineer, BE RECEIVED"
+ },
+ {
+  "id": "984bae24d9a0",
+  "field": "whatAYeaDid",
+  "was": "Approved part b) of the 2017 Annual Warranted Sidewalk Program recommendation: pulled Wayne Road, Regis Avenue and Regis Place from the 2017 Warranted Sidewalk List, and referred consideration of those projects to a future date for a broader conversation with the community about parking concerns related to school accessibility and the need for further sidewalks in the area. (The Council report of the same clause, captured verbatim elsewhere in this record, is the source for this description; this committee-stage record's own motion text is boilerplate.)",
+  "now": "Approved part b) of the 2017 Annual Warranted Sidewalk Program recommendation: pulled Wayne Road, Regis Avenue and Regis Place from the 2017 Warranted Sidewalk List, and referred consideration of those projects to a future date for a broader conversation with the community about parking concerns related to school accessibility and the need for further sidewalks in the area.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Civic Works Cttee 2017-02-21 item 6, clause b) rollcall: this text is this item's own preceding Paragraph clause b), verified verbatim, with a separate 'Motion to Approve clause b).' rollcall directly below it. Never boilerplate needing the Council twin -- only the false parenthetical is wrong.",
+  "quote": "Wayne\n  Road, Regis Avenue and Regis Place BE PULLED from the 2017 Warranted Sidewalk\n  List and consideration of these projects BE REFERRED to a future date so that\n  a broader conversation can take place with the community with respect to parking\n  concerns related to school accessibility and the need for further sidewalks\n  in the area"
+ },
+ {
+  "id": "aaea98937625",
+  "field": "quote",
+  "was": "",
+  "now": "Motion to Approve that the following actions be taken with respect to the Lorne Avenue Public School Request for Proposals process: a) the staff report dated February 21, 2017 BE RECEIVED; b) the Civic Administration BE DIRECTED to return with a plan for demolition of the Lorne Avenue Public School building; it being noted that a source of financing for the demolition costs will need to be identified; c) the Civic Administration BE DIRECTED to hold a community meeting to re-engage the local Old East Village community to update them on the process to date and articulate the community's vision for parkland and residential infill on a cleared site; and",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Corporate Services Cttee 2017-02-21 item 8: this rollCall's own 'Motion to Approve...' paragraph, verified verbatim in the source JSON, directly preceding the vote. Pass1's blank quote was wrong; it is not an adjacent clerk's summary, it is this rollCall's own motion text.",
+  "quote": "Motion to Approve that the following\n  actions be taken with respect to the Lorne Avenue Public School Request for\n  Proposals process:\n a) the\n  staff report dated February 21, 2017 BE RECEIVED; b)..."
+ },
+ {
+  "id": "48017eef0e5d",
+  "field": "quote",
+  "was": "",
+  "now": "Motion to Approve a new part be added to the staff recommendation as follows: “in the event that staff feel that there is a viable opportunity for retention of the building that comes forward prior to its demolition, the Civic Administration BE DIRECTED to bring that opportunity forward for the consideration of the Municipal Council;”",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass1 left quote blank and flagged no_text despite the operative amendment text being verbatim present in the source paragraph directly preceding the vote. Pass2 populated it correctly; confidence high is justified by the exact match.",
+  "quote": "Source 2017-02-21 Corporate Services Committee item 8, content block 4: 'Motion to Approve a new part be added to the staff recommendation as follows: “in the event that staff feel that there is a viable opportunity for retention of the building that comes forward prior to its demolition, the Civic Administration BE DIRECTED to bring that opportunity forward for the consideration of the Municipal Council;”' -- exact match to pass2's quote, immediately preceding this motion's 4-1 Passed vote block."
+ },
+ {
+  "id": "99378ff56eaf",
+  "field": "quote",
+  "was": "",
+  "now": "Motion to Approve that the following actions be taken with respect to the Lorne Avenue Public School Request for Proposals process: a) the staff report dated February 21, 2017 BE RECEIVED; b) the Civic Administration BE DIRECTED to return with a plan for demolition of the Lorne Avenue Public School building; it being noted that a source of financing for the demolition costs will need to be identified; c) the Civic Administration BE DIRECTED to hold a community meeting to re-engage the local Old East Village community to update them on the process to date and articulate the community's vision for parkland and residential infill on a cleared site; and",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass1 left quote blank/no_text despite the text being present verbatim in the paragraph preceding the Failed vote. Pass2's quote is an exact match; whatAYeaDid's 'not clear what distinguished this vote' hedge is unchanged and remains correct (voting bloc genuinely reverses with no stated reason) so only quote/verdict move.",
+  "quote": "Source item 8, content block 6, paragraph directly preceding the 2-3 Failed vote: identical text found verbatim."
+ },
+ {
+  "id": "68f05230f0fe",
+  "field": "quote",
+  "was": "",
+  "now": "At 6:34 PM, Mayor M. Brown places Councillor A. Hopkins in the Chair and takes a seat at the Council Board. At 6:39 PM, Mayor M. Brown resumes the Chair, and Councillor A. Hopkins takes her seat at the Council Board.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. This chair-change narrative IS the motion object's own motion_texts field (not an inferred/adjacent paragraph) -- pass1 left it blank despite being literally present. Pass2 correctly populated it verbatim.",
+  "quote": "Source 2017-03-02 MINUTES NINTH MEETING item 10, motion_texts field (the vote's own recorded text) reads exactly: 'At 6:34 PM, Mayor M. Brown places Councillor A. Hopkins in the Chair and takes a seat at the Council Board.  At 6:39 PM, Mayor M. Brown resumes the Chair, and Councillor A. Hopkins takes her seat at the Council Board.'"
+ },
+ {
+  "id": "6b521bacda9d",
+  "field": "quote",
+  "was": "",
+  "now": "At 5:41 PM Mayor M. Brown resumes the Chair, and Councillor P. Hubert takes his seat at the Council Board.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Same pattern as 68f05230f0fe: this is the vote's own recorded motion_texts, not an inference. Pass1 blanked it; pass2 correctly populated verbatim.",
+  "quote": "Source item 17 (Request for Naming of Vimy Ridge Park), motion_texts field of the relevant vote block reads exactly: 'At 5:41 PM Mayor M. Brown resumes the Chair, and Councillor P. Hubert takes his seat at the Council Board.'"
+ },
+ {
+  "id": "c4714998b2aa",
+  "field": "quote",
+  "was": "",
+  "now": "That the request to rename Mildred Barons Park, located at 444 Kathleen Avenue, to “Vimy Ridge Park” BE REFERRED to a future meeting of the Community and Protective Services Committee when additional information is available related to this matter.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. The item's own motion_texts field is bare 'Motion Passed', but the printed recommendation clause it enacts is present verbatim immediately above the vote and is what whatAYeaDid already paraphrased -- same accepted pattern as the other adjacent-paragraph quotes in this batch. Pass2 correctly populated it.",
+  "quote": "Source item 18, content block 1 (the printed recommendation clause immediately preceding the specific 11-2 roll call on this item): 'That the request to rename Mildred Barons Park, located at 444 Kathleen Avenue, to “Vimy Ridge Park” BE REFERRED to a future meeting of the Community and Protective Services Committee when additional information is available related to this matter.'"
+ },
+ {
+  "id": "041fa583b320",
+  "field": "whatAYeaDid",
+  "was": "Would have adopted a motion on 'Audio Recording of Municipal Council and Standing Committee In Closed Session Meetings'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "now": "Would have requested that the Ontario Ombudsman advocate for increased protections, similar to those in other jurisdictions, for municipalities that wish to audio-record their in camera/closed session meetings.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass1's 'not recorded' claim is false -- the recommendation text is directly present and unambiguous. Pass2's rewrite correctly keeps the FAILED-motion 'Would have' hedge per convention while stating the real content.",
+  "quote": "Source 2017-03-07 Corporate Services Committee item 14, content block 1 (recommendation clause immediately preceding the 2-2 Failed vote): 'That the Ontario Ombudsman BE REQUESTED to advocate for increased protections for municipalities, similar to those provided in other jurisdictions, for municipalities who wish to record their in camera/closed session meetings...'"
+ },
+ {
+  "id": "041fa583b320",
+  "field": "quote",
+  "was": "",
+  "now": "That the Ontario Ombudsman BE REQUESTED to advocate for increased protections for municipalities, similar to those provided in other jurisdictions, for municipalities who wish to record their in camera/closed session meetings; it being noted that the Corporate Services Committee received a report entitled “Audio Recording of Municipal Council and Standing Committees In Closed Session Meetings”.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Same as whatAYeaDid above.",
+  "quote": "Same source item 14 recommendation clause, exact match confirmed against raw minutes."
+ },
+ {
+  "id": "8c25afccefc8",
+  "field": "whatAYeaDid",
+  "was": "Adopted a motion on the 2017 Rock the Park One-Time Exemption Request; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+  "now": "Approved introducing a by-law granting a one-time exemption to amend the 2017 Special Events Policies and Procedures Manual, adding a fifth day (Sunday, July 16, 2017) to the Rock the Park festival, with sound checks not to occur before 12:00 Noon that day.",
+  "reason": "Two-pass disagreement on whatAYeaDid: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass1's 'not recorded' claim is false -- the recommendation text is directly present and unambiguous. Pass2's rewrite matches it verbatim.",
+  "quote": "Source 2017-03-20 Strategic Priorities and Policy Committee item 2, content block 1 (recommendation clause immediately preceding the 8-4 Passed vote): 'That the by-law included as Appendix A to the staff report dated March 20, 2017 BE INTRODUCED at the Municipal Council meeting of March 21, 2017 to approve a one-time exemption and amend the 2017 Special Events Policies and Procedures Manual to add a fifth day to the Rock the Park 14 event in July, 2017; it being understood that sound checks would not occur prior to 12:00 Noon on Sunday, July 16, 2017.'"
+ },
+ {
+  "id": "8c25afccefc8",
+  "field": "quote",
+  "was": "",
+  "now": "That the by-law included as Appendix A to the staff report dated March 20, 2017 BE INTRODUCED at the Municipal Council meeting of March 21, 2017 to approve a one-time exemption and amend the 2017 Special Events Policies and Procedures Manual to add a fifth day to the Rock the Park 14 event in July, 2017; it being understood that sound checks would not occur prior to 12:00 Noon on Sunday, July 16, 2017.",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Same as whatAYeaDid above.",
+  "quote": "Same source item 2 recommendation clause, exact match confirmed against raw minutes."
+ },
+ {
+  "id": "7d0da833aef5",
+  "field": "quote",
+  "was": "",
+  "now": "Motion to Open the Public Participation Meeting",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass1's whatAYeaDid already correctly named this text as its source but left the quote field blank and flagged no_text. Pass2 correctly populated it.",
+  "quote": "Source 2017-03-20 Strategic Priorities and Policy Committee item 4, content block 2, paragraph immediately preceding the 12-1 Passed vote: 'Motion to Open the Public Participation Meeting' -- exact match."
+ },
+ {
+  "id": "e93ff2d8259a",
+  "field": "quote",
+  "was": "",
+  "now": "Motion to exclude the following matters from the approval of the proposed Strategy (Pages 63 to 65 of the Feasibility Study): i) Operating Hours of Festivals and Events ii) Volume of Noise",
+  "reason": "Two-pass disagreement on quote: the committed first pass and the re-run second verification pass differed on this field; adjudicated against the motion's own source text and adopted the second independent verification pass over the committed first pass. Pass1's whatAYeaDid already correctly described this content but left quote blank/no_text. Pass2 correctly populated the exact adjacent paragraph; pass2 also explicitly checked for and correctly rejected importing a 'downtown' issue tag from a different, later motion in the same item -- consistent with the issue-from-motion-body-only rule.",
+  "quote": "Source item 4 (same meeting as 7d0da833aef5), content block later in the same item, paragraph immediately preceding the 11-2 Passed vote: exact match, including the roman-numeral sub-items."
  }
 ]
