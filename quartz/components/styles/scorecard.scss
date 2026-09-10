@@ -13,15 +13,24 @@
 
 .scorecard-metrics {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  // minmax(0, 1fr), not bare 1fr: a bare `1fr` track's implicit minimum
+  // is its content's min-content size, so an unbreakable label (e.g.
+  // "Vote Participation" uppercased) can force the track — and with it
+  // this grid, its ancestors, and the whole page — wider than the
+  // viewport. Because body{overflow-x:hidden} never turns that into a
+  // scrollbar, the excess silently clips every line of content after
+  // it, not just this grid. Same fix applied everywhere else this
+  // pattern shows up (votingRecord.scss, dashboardView.scss,
+  // councillorRankings.scss).
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 0.75rem;
 
   @media (max-width: 768px) {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   @media (max-width: 480px) {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 }
 
@@ -68,8 +77,12 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   }
 
+  // Validated Front Page v3 palette (design/frontpage-v3-spec.md), not
+  // the old bright stoplight greens/reds — this card sits one scroll
+  // below the division wall's own yea/nay colors and was clashing with
+  // them.
   &.excellent {
-    border-top-color: #22c55e;
+    border-top-color: var(--yea-m);
   }
 
   &.good {
@@ -81,7 +94,7 @@
   }
 
   &.poor {
-    border-top-color: #ef4444;
+    border-top-color: var(--nay-m);
   }
 
   &.neutral {

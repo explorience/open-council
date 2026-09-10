@@ -14,6 +14,8 @@
 // including the light->dark teal/terracotta shift on --yea-m/--nay-m for
 // deuteranopia contrast on dark backgrounds).
 
+@use "./variables.scss" as *;
+
 :root {
   --paper: #f4f3ef;
   --ink: #26251f;
@@ -180,6 +182,82 @@
   &:hover {
     color: var(--graphite-ink) !important;
     opacity: 0.85;
+  }
+}
+
+// ---------------------------------------------------------------------
+// Homepage sidebars: renderPage.tsx always emits `<div class="left
+// sidebar">`/`<div class="right sidebar">` (quartz.layout.ts's
+// ConditionalRender only empties what's *inside* them for slug==="index"
+// — the wrapper itself isn't conditional), and the shared #quartz-body
+// grid (quartz/styles/base.scss) reserves fixed 320px tracks for them at
+// tablet/desktop regardless of content. Two compounding bugs from that,
+// both homepage-only since every other page has real sidebar content:
+// 1. .center was squeezed into a much narrower column than the viewport
+//    (e.g. ~600px inside a 1240px viewport) — broke the v3 stats column
+//    (committee names word-wrapped letter-by-letter, no room) and the
+//    `vw`-sized ghost numeral (drawn assuming the full viewport width,
+//    so it visually overlapped the h1 in its squeezed container).
+// 2. base.scss's `.sidebar` is `position:sticky; height:calc(100vh -
+//    50px)` — an EMPTY sticky column at that height, in the grid areas
+//    the center/footer rows also occupy, is a very plausible source of
+//    the "~4000px of dead space before the footer" finding.
+// display:none removes each empty sidebar from grid sizing entirely
+// (no track, no row-height contribution) rather than just zeroing its
+// width, which closes off both bugs at once; grid-template-areas is
+// left untouched (an area with no items in it is fine — nothing needs
+// re-placing), and non-homepage pages, which still pass real sidebar
+// content, are completely unaffected by this selector.
+//
+// 3. (Found verifying the above in a real headless render — `.center`
+//    collapsed to ~32px, not just "narrower".) base.scss never gives
+//    `.center` an explicit `grid-area`/`grid-column` — on every other
+//    page it still lands in the center track only because CSS Grid's
+//    auto-placement cursor is forced there by `.sidebar.left` (a real,
+//    rendered box) occupying column 1 first. `display:none` on
+//    `.sidebar.left` above removes it from placement entirely, not just
+//    from view, so the auto-placement cursor now lands `.center` itself
+//    in column 1 — which this same rule has just set to a 0-width
+//    track. `.center`'s own `min-width:100%` then resolves against that
+//    0px cell, and it collapses to whatever its content's absolute
+//    floor is (~32px). Explicit `grid-column: 2` below removes `.center`
+//    from auto-placement altogether so it can't be reassigned by
+//    changing what else does or doesn't occupy column 1 — the fix that
+//    should have shipped instead of relying on placement order.
+// ---------------------------------------------------------------------
+body[data-slug="index"] .page > #quartz-body {
+  // Scoped to the exact same $tablet/$desktop media conditions
+  // base.scss uses for its own grid-template-columns, so this only
+  // overrides those two rules — mobile is untouched (already a single
+  // "auto" column with no reserved sidebars, which is why 390/768
+  // already rendered clean; this selector deliberately has no
+  // unconditional/bare rule that could out-specificity base.scss's
+  // @media($mobile) override there).
+  @media all and ($tablet) {
+    grid-template-columns: 0 1fr;
+
+    & > .sidebar.left {
+      display: none;
+    }
+    // Column 2 in this 2-column ("0 1fr") template — see finding 3
+    // above. Must match the tablet grid's own column count, not
+    // desktop's (grid-column indices aren't shared across differently
+    // shaped grid-template-columns declarations).
+    & > .center {
+      grid-column: 2;
+    }
+  }
+  @media all and ($desktop) {
+    grid-template-columns: 0 1fr 0;
+
+    & > .sidebar.left,
+    & > .sidebar.right {
+      display: none;
+    }
+    // Column 2 of 3 ("0 1fr 0") — see finding 3 above.
+    & > .center {
+      grid-column: 2;
+    }
   }
 }
 

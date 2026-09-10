@@ -60,14 +60,18 @@
 
 .ranking-bar {
   display: grid;
-  grid-template-columns: 30px 120px 1fr 50px;
+  // minmax(0, 1fr) — a bare 1fr track's implicit minimum is its
+  // content's min-content size, which can force this grid (and every
+  // ancestor up to <body>) wider than the viewport at narrow widths;
+  // see dashboardView.scss's .dashboard-grid comment for the mechanism.
+  grid-template-columns: 30px 120px minmax(0, 1fr) 50px;
   gap: 0.75rem;
   align-items: center;
   padding: 0.5rem 0;
   border-bottom: 1px solid var(--lightgray);
 
   @media (max-width: 600px) {
-    grid-template-columns: 25px 100px 1fr 45px;
+    grid-template-columns: 25px 100px minmax(0, 1fr) 45px;
     gap: 0.5rem;
   }
 

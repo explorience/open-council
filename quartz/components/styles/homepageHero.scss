@@ -7,6 +7,21 @@
 // 1. Hero state (default): Welcome message + input
 // 2. Chat state (.chat-active): Full viewport conversation
 
+// Front Page v3: the idle "Hero state" above duplicated the wall
+// section's own .fp-assistant card ("Ask the record anything" vs "Ask
+// anything about council meetings...", two near-identical boxes
+// stacked back to back) — a verified design-gate finding ("pick one").
+// fp-assistant's chips/input already forward every question into THIS
+// component's real #hero-chat-input/.chat-send-btn
+// (frontpageWall.inline.ts's wireAssistant()), so the component and its
+// chat mode both stay fully live; only the redundant idle prompt is
+// hidden on the homepage. `sendMessage()` calling `enterChatMode()`
+// removes `:not(.chat-active)` from the match, so the real full-viewport
+// chat still appears exactly as before the instant a question is asked.
+body[data-slug="index"] .homepage-hero:not(.chat-active) {
+  display: none;
+}
+
 .homepage-hero {
   display: flex;
   flex-direction: column;

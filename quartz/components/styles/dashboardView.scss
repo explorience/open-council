@@ -78,7 +78,14 @@
 // Main Grid
 .dashboard-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  // minmax(0, 1fr), not bare 1fr — a bare fr track's implicit minimum is
+  // its content's min-content size, so an unbreakable panel-link label
+  // (e.g. a long committee name) can force this grid, and every ancestor
+  // up to <body>, wider than the viewport; body{overflow-x:hidden}
+  // (base.scss) then silently clips the excess instead of scrolling to
+  // it, cutting off content anywhere later in the page's flow (this is
+  // what produced the 390px-wide clipping across the whole homepage).
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.5rem;
 
   @media (max-width: 768px) {
@@ -187,7 +194,8 @@
 // Councillors
 .councillors-list {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  // minmax(0, 1fr) — see .dashboard-grid above.
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0 0.5rem;
 
   @media (max-width: 480px) {
