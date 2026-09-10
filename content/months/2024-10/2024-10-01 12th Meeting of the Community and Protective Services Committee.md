@@ -377,6 +377,8 @@ Okay, the hand vote, all those in favor for adjournment? All those opposed? That
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.4 BE APPROVED.
 
 **✅ Motion Passed (3 to 0)**
@@ -384,6 +386,8 @@ Okay, the hand vote, all those in favor for adjournment? All those opposed? That
 Unanimous (3-0)
 
 ### 5.1. (ADDED) Award of RFP-2024-233 - Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block 5
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated October 1, 2024, related to the Award of RFP-2024-233 Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block ...
 

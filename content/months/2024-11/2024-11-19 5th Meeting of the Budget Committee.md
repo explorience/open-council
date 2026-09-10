@@ -1346,6 +1346,8 @@ Thank you, we're adjourned and I will see you Thursday morning at first thing.
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Budget
 
+<div id="motion-3-1-3" class="motion-anchor"></div>
+
 > That pursuant to section 33.8 of the Council Procedure By-law, the Budget Committee BE PERMITTED to proceed beyond 6:00 PM.
 
 **✅ Motion Passed (15 to 0)**

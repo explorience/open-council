@@ -110,6 +110,8 @@ The meeting adjourned at 7:48 PM.
 
 ### 5.1. Consideration of Appointment to the London Police Services Board
 
+<div id="motion-5-1-0" class="motion-anchor"></div>
+
 > That the London Police Services Board appointment BE CONSIDERED at the Strategic Priorities and Policy Committee on June 20, 2023.
 
 **❌ Motion Failed (5 to 7) 🔥**

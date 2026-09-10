@@ -566,6 +566,8 @@ Motion
 ### 2. Eldon House
   Municipal Service Board By-law Amendment to the Board Composition
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -576,15 +578,7 @@ Unanimous (11-0)
 ### 3. Board Structure
   Resolution for London and Middlesex Housing Corporation
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (11-0)
-
-### 4. Public
-  Participation Meeting - Amendments to Consolidated Fees and Charges By-law
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -596,6 +590,20 @@ Unanimous (11-0)
 ### 4. Public
   Participation Meeting - Amendments to Consolidated Fees and Charges By-law
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (11-0)
+
+### 4. Public
+  Participation Meeting - Amendments to Consolidated Fees and Charges By-law
+
+<div id="motion-4-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -606,15 +614,7 @@ Unanimous (12-0)
 ### 4. Public
   Participation Meeting - Amendments to Consolidated Fees and Charges By-law
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (12-0)
-
-### 5. Public
-  Participation Meeting - 2015 Water and Wastewater Rates
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -626,6 +626,8 @@ Unanimous (12-0)
 ### 5. Public
   Participation Meeting - 2015 Water and Wastewater Rates
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -635,6 +637,20 @@ Unanimous (12-0)
 
 ### 5. Public
   Participation Meeting - 2015 Water and Wastewater Rates
+
+<div id="motion-5-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (12-0)
+
+### 5. Public
+  Participation Meeting - 2015 Water and Wastewater Rates
+
+<div id="motion-5-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -646,6 +662,8 @@ Unanimous (12-0)
 ### 6. Review of Acting
   Mayor Policy
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -655,6 +673,8 @@ Unanimous (12-0)
 
 ### 6. Review of Acting
   Mayor Policy
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -673,6 +693,8 @@ Unanimous (12-0)
 ### 6. Review of Acting
   Mayor Policy
 
+<div id="motion-6-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -683,6 +705,8 @@ Unanimous (12-0)
 ### 7. Office Reallocation
   - 2014 - 2018 Council Term
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -691,6 +715,8 @@ Unanimous (12-0)
 Unanimous (13-0)
 
 ### 8. Council Benefits
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -708,6 +734,8 @@ Unanimous (13-0)
 
 ### 8. Council Benefits
 
+<div id="motion-8-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -718,6 +746,8 @@ Unanimous (11-0)
 ### 9. ADDED -
   Confirmation of London Hydro Borrowing Requirements
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -727,6 +757,8 @@ Unanimous (13-0)
 
 ### 9. ADDED -
   Confirmation of London Hydro Borrowing Requirements
+
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

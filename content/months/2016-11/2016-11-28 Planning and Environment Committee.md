@@ -1194,6 +1194,8 @@ The meeting adjourned at 6:57 PM.
 ### 2. 12th Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1203,6 +1205,8 @@ Unanimous (5-0)
 
 ### 3. 6th Report of the
   Agricultural Advisory Committee
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1215,6 +1219,8 @@ Unanimous (3-0)
   Bend South Subdivision (Phase 1) and River Bend Trib C Facilities SWM Land
   (Facilities F and G) (39T-14505 and 39T-14503)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1226,6 +1232,8 @@ Unanimous (5-0)
   located at 2211, 2217, 2221, 2225, 2229, 2244, 2252 and 2258 Wateroak Drive
   (H-8337)
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1235,6 +1243,8 @@ Unanimous (5-0)
 
 ### 6. STAFF REPORT - Property
   located at 1960 Dalmagarry Road (H-8707)
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1246,6 +1256,8 @@ Unanimous (5-0)
 ### 7. STAFF REPORT -
   Victoria on the River Subdivision - Phase 3 (H-8622)
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1255,6 +1267,8 @@ Unanimous (5-0)
 
 ### 8. STAFF REPORT - Property
   located at 2506 Bonder Road (H-8708)
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1266,6 +1280,8 @@ Unanimous (5-0)
 ### 9. STAFF REPORT -
   Ontario Municipal Board Review 2016
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1276,16 +1292,7 @@ Unanimous (5-0)
 ### 10. STAFF REPORT -
   Building Division Monthly Report for September 2016
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. PUBLIC
-  PARTICIPATION MEETING - Property located at 545 Fanshawe Park Road West
-  (Z-8633)
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1298,6 +1305,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 545 Fanshawe Park Road West
   (Z-8633)
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1309,6 +1318,21 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 545 Fanshawe Park Road West
   (Z-8633)
 
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. PUBLIC
+  PARTICIPATION MEETING - Property located at 545 Fanshawe Park Road West
+  (Z-8633)
+
+<div id="motion-11-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1320,16 +1344,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 2156 Highbury Avenue North
   (Z-8688)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. PUBLIC
-  PARTICIPATION MEETING - Property located at 2156 Highbury Avenue North
-  (Z-8688)
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1341,6 +1356,21 @@ Unanimous (5-0)
 ### 12. PUBLIC
   PARTICIPATION MEETING - Property located at 2156 Highbury Avenue North
   (Z-8688)
+
+<div id="motion-12-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. PUBLIC
+  PARTICIPATION MEETING - Property located at 2156 Highbury Avenue North
+  (Z-8688)
+
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1352,6 +1382,8 @@ Unanimous (5-0)
 ### 13. PUBLIC
   PARTICIPATION MEETING - Property located at 551 Knights Hill Road (Z-8675)
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1361,6 +1393,8 @@ Unanimous (5-0)
 
 ### 13. PUBLIC
   PARTICIPATION MEETING - Property located at 551 Knights Hill Road (Z-8675)
+
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1372,15 +1406,7 @@ Unanimous (4-0)
 ### 13. PUBLIC
   PARTICIPATION MEETING - Property located at 551 Knights Hill Road (Z-8675)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 14. PUBLIC
-  PARTICIPATION MEETING - Southwest Area Secondary Plan (O-8680)
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1392,6 +1418,8 @@ Unanimous (5-0)
 ### 14. PUBLIC
   PARTICIPATION MEETING - Southwest Area Secondary Plan (O-8680)
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1401,6 +1429,20 @@ Unanimous (5-0)
 
 ### 14. PUBLIC
   PARTICIPATION MEETING - Southwest Area Secondary Plan (O-8680)
+
+<div id="motion-14-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. PUBLIC
+  PARTICIPATION MEETING - Southwest Area Secondary Plan (O-8680)
+
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1413,16 +1455,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 2619 Sheffield Boulevard -
   Application for Vacant Land Condominium (39CD-16513)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 15. PUBLIC
-  PARTICIPATION MEETING - Property located at 2619 Sheffield Boulevard -
-  Application for Vacant Land Condominium (39CD-16513)
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1435,6 +1468,21 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 2619 Sheffield Boulevard -
   Application for Vacant Land Condominium (39CD-16513)
 
+<div id="motion-15-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 15. PUBLIC
+  PARTICIPATION MEETING - Property located at 2619 Sheffield Boulevard -
+  Application for Vacant Land Condominium (39CD-16513)
+
+<div id="motion-15-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1445,15 +1493,7 @@ Unanimous (5-0)
 ### 16. PUBLIC
   PARTICIPATION MEETING - Property located at 4166 Scotland Drive (Z-8669)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 16. PUBLIC
-  PARTICIPATION MEETING - Property located at 4166 Scotland Drive (Z-8669)
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1464,6 +1504,20 @@ Unanimous (5-0)
 
 ### 16. PUBLIC
   PARTICIPATION MEETING - Property located at 4166 Scotland Drive (Z-8669)
+
+<div id="motion-16-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 16. PUBLIC
+  PARTICIPATION MEETING - Property located at 4166 Scotland Drive (Z-8669)
+
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1474,6 +1528,8 @@ Unanimous (5-0)
 
 ### 17. COUNCIL MEMBER
   SUBMISSION - Industrial Operations Shaver-Brockley Area
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

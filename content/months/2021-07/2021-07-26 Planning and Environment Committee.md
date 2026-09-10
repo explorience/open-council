@@ -3049,6 +3049,8 @@ Good night, thank you, Chair. Thanks folks, good night.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.2 to 2.5, inclusive, 2.7 to 2.9, inclusive, 2.11 and 2.12 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -3056,6 +3058,8 @@ Good night, thank you, Chair. Thanks folks, good night.
 Unanimous (5-0)
 
 ### 2.1. Oxford Wonderland Secondary Plan - Terms of Reference
+
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the Terms of Reference for the Oxford Wonderland Secondary Plan, appended to the staff report dated July 26, 2021 as Appendix "A", BE ENDORSED. (2021-D08)
 
@@ -3072,6 +3076,8 @@ Unanimous (5-0)
 
 ### 2.1. Oxford Wonderland Secondary Plan - Terms of Reference
 
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
 > Motion to move 2.6 and 2.13 together
 
 **✅ Motion Passed (6 to 0)**
@@ -3080,6 +3086,8 @@ Unanimous (6-0)
 
 ### 2.13. 704, 706 and 720 Boler Road - Removal of Holding Provision "h"
 
+<div id="motion-2-13-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, based on the application by Southside Construction Management Ltd., relating to the properties located at 704, 706 and 720 Boler Road, the proposed by-law appended to the staff report dated July 26, 2021 as Appendix "A" BE INT...
 
 **✅ Motion Passed (6 to 0)**
@@ -3087,6 +3095,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.5. 414-418 Old Wonderland Road (Z-9293)
+
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application of Four Fourteen Inc. relating to the property located at 414-418 Old Wonderland Road: a)        the proposed, revised, attached by-law (Appendix "A") BE INTRODUCED ...
 
@@ -3103,6 +3113,8 @@ Unanimous (6-0)
 
 ### 3.6. 400 Southdale Road East (OZ-9261)
 
+<div id="motion-3-6-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Acting Manager, Planning Implementation, the following actions be taken with respect to the application by LJM Developments, relating to the property located at 400 Southdale Road East: a)        the proposed by-law appended to the staff report dated July 26, 20...
 
 **✅ Motion Passed (6 to 0)**
@@ -3111,6 +3123,8 @@ Unanimous (6-0)
 
 ### 3.7. 180-186 Commissioners Road West
 
+<div id="motion-3-7-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application by 180 Commissioners Road Inc., relating to the property located at 180 – 186 Commissioners Road West: a)        the proposed by-law appended to the staff report dat...
 
 **✅ Motion Passed (6 to 0)**
@@ -3118,6 +3132,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.8. 1047-1055 Dearness Drive
+
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the application of Leo, Maria and Christine Viglianti relating to the property located at 1047 – 1055 Dearness Drive: a)        the City Solicitor BE REQUESTED to provide a briefing to the Municipal Council at their meeting to be held on August ...
 
@@ -3134,6 +3150,8 @@ Unanimous (6-0)
 
 ### 3.9. Medway Valley Heritage Forest Environmentally Significant Area (OZ-9367)
 
+<div id="motion-3-9-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan: a)        the proposed by-law appended to the staff report dated July 26, 2021 as ...
 
 **✅ Motion Passed (6 to 0)**
@@ -3141,6 +3159,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.9. Medway Valley Heritage Forest Environmentally Significant Area (OZ-9367)
+
+<div id="motion-3-9-3" class="motion-anchor"></div>
 
 > Motion to approve a new part b), which reads as follows: b)       that NO ACTION BE TAKEN with respect to implementing the Green Acres Drive connection to the Medway Valley trail and pathway system at this time;
 

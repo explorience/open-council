@@ -1641,6 +1641,8 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 
 ### 2.2. Revised Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination)
 
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Enterprise Supports, and with the concurrence of the City Manager, the following actions be taken with respect to the Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination): a)    the proposed by-law, being the “Respectful Workpla...
 
 **✅ Motion Passed (5 to 1)**
@@ -1655,6 +1657,8 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 </details>
 
 ### 2.9. Final Program Design for BetterHomes London
+
+<div id="motion-2-9-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken; a)    the proposed by-law, as appended to the staff report dated March 23, 2026 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on March 31, 2026, to: i)...
 
@@ -1671,6 +1675,8 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 
 ### 2.11. Meadowlily Environmental Assessment – Notice of Completion
 
+<div id="motion-2-11-1" class="motion-anchor"></div>
+
 > That the delegation request from J. Ross, Director, Project Manager, Development Engineering (London) Limited BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (5 to 1)**
@@ -1685,6 +1691,8 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 </details>
 
 ### 4.1. Pollution Prevention and Control Plan Update Study - Notice of Completion
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the following part BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee with a proposed implementation plan for a ‘Point of Purchase’ weeping tile disconnection program;
 
@@ -1701,6 +1709,8 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 
 ### 4.2. Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension
 
+<div id="motion-4-2-1" class="motion-anchor"></div>
+
 > That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding (MOU) Amendment and Extension Agreement and any future Smart Commute Association MOUs ; and
 
 **❌ Motion Failed (3 to 3) 🔥**
@@ -1715,6 +1725,8 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 </details>
 
 ### 4.2. Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension
+
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > That the following part BE APPROVED b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding (MOU) Amendment and Extension Agreement and any future Smart Commute Association MOUs; and
 
@@ -1731,6 +1743,8 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 
 ### 4.3. Local and Regional Food Producers and Processors in City Managed Facilities - Councillors S. Franke and H. McAlister
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee on policy compliant actions that could be taken to support increased participation of local and regional food producers and processors in food sourcing for City mana...
 
 **✅ Motion Passed (4 to 2) 🔥**
@@ -1745,6 +1759,8 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 </details>
 
 ### 4.4. Enhanced Reporting for Procurement Disqualifications and Bids and Tender Issues - Councillor S. Stevenson
+
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the communication dated March 16, 2026, from Councillor S. Stevenson, with respect to Enhanced Reporting for Procurement Disqualifications and Bids & Tender Issues, BE RECEIVED.
 
@@ -1763,6 +1779,8 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 
 ### 4.5. Request for Update on Potential Funding Gaps - Councillor S. Stevenson
 
+<div id="motion-4-5-0" class="motion-anchor"></div>
+
 > That the communication dated March 16, 2026 from Councillor S. Stevenson with respect to a Request for an Update on Potential Funding Gaps, BE RECEIVED.
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -1779,6 +1797,8 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 </details>
 
 ### 4.6. (ADDED) Contracts for Enwave Steam Service Transitions
+
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to providing alternative heating, domestic hot water and humidification for City Hall; Centennial Hall; Central Library and Museum London: a)    in accordance with Section 20 (Coo...
 

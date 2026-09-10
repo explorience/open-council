@@ -332,15 +332,7 @@ Motion
 ### 2. Normal School
   Renovations - Capital Budget Update Project #GG1558
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 2. Normal School
-  Renovations - Capital Budget Update Project #GG1558
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -351,6 +343,20 @@ Unanimous (5-0)
 
 ### 2. Normal School
   Renovations - Capital Budget Update Project #GG1558
+
+<div id="motion-2-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 2. Normal School
+  Renovations - Capital Budget Update Project #GG1558
+
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -363,6 +369,8 @@ Unanimous (5-0)
   Proposal 15-02 Telecommunications Fibre and Cable Installation and Repair
   Vendor of Record
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -372,6 +380,8 @@ Unanimous (5-0)
 
 ### 5. SS15-40 Single
   Source for the Computer Equipment Leasing Services
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -384,6 +394,8 @@ Unanimous (5-0)
   Demolish - City-Owned Property - 6 Oxford Street East, 51 Wharncliffe Road
   South, 5067 Cook Road and 3290 Manning Drive
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -394,6 +406,8 @@ Unanimous (5-0)
 ### 7. ADDED - Provincial
   Review of the Municipal Act, 2001 and the Municipal Conflict of Interest Act,
   2009
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

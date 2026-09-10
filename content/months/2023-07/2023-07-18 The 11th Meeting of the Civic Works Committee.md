@@ -1519,6 +1519,8 @@ Thank you to staff for the very long meeting.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.1 to 2.6 and 2.8 to 2.11 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1526,6 +1528,8 @@ Thank you to staff for the very long meeting.
 Unanimous (6-0)
 
 ### 2.7. Adelaide Street North Improvements Environmental Study Report, Notice of Completion
+
+<div id="motion-2-7-1" class="motion-anchor"></div>
 
 > Motion to approve that the Adelaide Street North Improvements Environmental Study Report BE REFERRED back to the Civic Administration to include a no widening option as well as a discussion for a downstream mitigation option.
 
@@ -1542,6 +1546,8 @@ Unanimous (6-0)
 
 ### 2.7. Adelaide Street North Improvements Environmental Study Report, Notice of Completion
 
+<div id="motion-2-7-2" class="motion-anchor"></div>
+
 > Motion to approve parts a), b) and c) of the clause.
 
 **✅ Motion Passed (6 to 0)**
@@ -1549,6 +1555,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.7. Adelaide Street North Improvements Environmental Study Report, Notice of Completion
+
+<div id="motion-2-7-3" class="motion-anchor"></div>
 
 > Motion to add the following to the end of the clause: it being noted that a corridor widening of Adelaide Street North be subject to the recommendation of the Master Mobility Plan and future Development Charges By-laws.
 
@@ -1565,6 +1573,8 @@ Unanimous (6-0)
 
 ### 4.1. 8th Report of the Environmental Stewardship and Action Community Advisory Committee
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > Motion to approve that the Civic Works Committee convene, In Closed Session, for the purpose of considering a matter related to advice that is subject to solicitor-client privilege, as it related to the Yard and Lot Maintenance By-law.
 
 **❌ Motion Failed (3 to 3) 🔥**
@@ -1580,6 +1590,8 @@ Unanimous (6-0)
 
 ### 4.2. London Transit 2022 Annual Report
 
+<div id="motion-4-2-1" class="motion-anchor"></div>
+
 > Motion to approve part a) of the clause.
 
 **✅ Motion Passed (6 to 0)**
@@ -1587,6 +1599,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.2. London Transit 2022 Annual Report
+
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > Motion to approve part b) of the clause.
 
@@ -1596,6 +1610,8 @@ Unanimous (6-0)
 
 ### 4.2. London Transit 2022 Annual Report
 
+<div id="motion-4-2-3" class="motion-anchor"></div>
+
 > Motion to approve the addition of the following to the clause: "it being noted that the communication, as appended to the Added Agenda, from J. Preston, with respect to the matter, was received."
 
 **✅ Motion Passed (6 to 0)**
@@ -1603,6 +1619,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
+
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Motion to approve the request for delegation, from M. Wallace, London development Institute, with respect to this matter, to be heard at this meeting.
 
@@ -1619,6 +1637,8 @@ Unanimous (6-0)
 
 ### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
 
+<div id="motion-4-3-2" class="motion-anchor"></div>
+
 > Motion to approve part b) of the clause.
 
 **✅ Motion Passed (5 to 1)**
@@ -1633,6 +1653,8 @@ Unanimous (6-0)
 </details>
 
 ### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
+
+<div id="motion-4-3-3" class="motion-anchor"></div>
 
 > Motion to approve part a) of the clause.
 
@@ -1649,6 +1671,8 @@ Unanimous (6-0)
 
 ### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
 
+<div id="motion-4-3-4" class="motion-anchor"></div>
+
 > Motion to approve part c) of the clause.
 
 **✅ Motion Passed (6 to 0)**
@@ -1656,6 +1680,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.4. (ADDED) Councillor S. Franke - Climate Emergency Action Plan - Phase Out Gas
+
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the communications included on the Added Agenda from Councillor S. Franke, related to Climate Emergency Action Plan - Phase Out Gas, BE REFERRED to the Civic Administration for review.
 

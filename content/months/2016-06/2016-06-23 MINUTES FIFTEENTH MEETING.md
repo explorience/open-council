@@ -3384,6 +3384,8 @@ Passed
 ### 1#3. Councillor M. Salih
   and Councillor P. Squire - Notice of Motion - Rapid Transit
 
+<div id="motion-1-3-0" class="motion-anchor"></div>
+
 > Approve that pursuant to section 11.3 of   the Council Procedure By-law, leave be given for the introduction of the   Motion of Which Notice is Given to consider the designation of a Member(s) of   the Municipal Council to serve as representative(s) regarding the Rapid   Transit Network initiative.
 
 **✅ Motion Passed**
@@ -3392,6 +3394,8 @@ Unanimous (13-0)
 
 ### 1#3. Councillor M. Salih
   and Councillor P. Squire - Notice of Motion - Rapid Transit
+
+<div id="motion-1-3-2" class="motion-anchor"></div>
 
 > Approve referral of consideration of the   Motion of Which Notice is Given to the next meeting of the appropriate Standing   Committee for discussion.
 
@@ -3409,6 +3413,8 @@ Unanimous (13-0)
 ### 1#3. Councillor M. Salih
   and Councillor P. Squire - Notice of Motion - Rapid Transit
 
+<div id="motion-1-3-3" class="motion-anchor"></div>
+
 > At 6:17 PM His Worship the Mayor resumes   the Chair and Councillor P. Hubert takes his seat at the Council Board.
 
 **✅ Motion Passed**
@@ -3425,6 +3431,8 @@ Unanimous (13-0)
 ### 1#3. Councillor M. Salih
   and Councillor P. Squire - Notice of Motion - Rapid Transit
 
+<div id="motion-1-3-4" class="motion-anchor"></div>
+
 > Approve that Councillors J. Helmer, P.   Squire, J. Morgan, P. Hubert, A. Hopkins, H. L. Usher, and T. Park and Mayor   M. Brown BE DESIGNATED as the Municipal Council’s elected representatives   with respect to the Rapid Transit Network initiative; it being noted that   additional members of the...
 
 **✅ Motion Passed**
@@ -3433,6 +3441,8 @@ Unanimous (13-0)
 
 ### 16#2. Existing
   Vehicles-for-Hire Industry
+
+<div id="motion-16-2-0" class="motion-anchor"></div>
 
 > Approve that consideration of part c) of   clause 16 be deferred to a time in the meeting, following a further in camera   session.
 
@@ -3450,6 +3460,8 @@ Unanimous (13-0)
 ### 16#2. Existing
   Vehicles-for-Hire Industry
 
+<div id="motion-16-2-1" class="motion-anchor"></div>
+
 > The motion to Approve part e) of clause 16   is put.
 
 **✅ Motion Passed**
@@ -3465,6 +3477,8 @@ Unanimous (13-0)
 
 ### 16#2. Existing
   Vehicles-for-Hire Industry
+
+<div id="motion-16-2-2" class="motion-anchor"></div>
 
 > The motion to Approve the remainder of   clause 16, excluding part c) is put.
 
@@ -3482,6 +3496,8 @@ Unanimous (13-0)
 ### 17#2. Business Licensing
   By-law - New Categories and Proposed Regulations
 
+<div id="motion-17-2-0" class="motion-anchor"></div>
+
 > Approve An amendment to clause 17, to add   a new part c) as follows:   “c)         the Civic Administration BE DIRECTED to report back to the July 19, 2016   CPSC meeting with a draft by-law related to unlicensed residential care   facilities, and further that a public participation meeting be s...
 
 **❌ Motion Failed 🔥**
@@ -3498,6 +3514,8 @@ Unanimous (13-0)
 ### 17#2. Business Licensing
   By-law - New Categories and Proposed Regulations
 
+<div id="motion-17-2-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3506,6 +3524,8 @@ Unanimous (12-0)
 
 ### 2#3. The London Plan
   (Relates to Bill No. 233)
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning & City Planner, the following actions be taken with   respect to the application by the City of London to adopt The London Plan,   the new Official Plan for the City of London:   a)              the attached,   revised, by-law BE IN...
 
@@ -3516,6 +3536,8 @@ Unanimous (13-0)
 ### 2#5. Greater London International Airport
   Authority Board of Directors
 
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
 > That the names and applications of the   following nominees BE FORWARDED to the Greater London International Airport   Authority Board of Directors for consideration for appointment to the Greater   London International Airport Authority (GLIAA) Board of Directors, for the   term August 1, 2016 t...
 
 **✅ Motion Passed**
@@ -3524,6 +3546,8 @@ Unanimous (13-0)
 
 ### 5#4. Quarterly Report on
   Internal Audit Results - Status of Past Project Action Plans
+
+<div id="motion-5-4-1" class="motion-anchor"></div>
 
 > Approve that Council return to closed   session for reasons previously noted in the meeting.
 
@@ -3534,6 +3558,8 @@ Unanimous (13-0)
 ### 5#4. Quarterly Report on
   Internal Audit Results - Status of Past Project Action Plans
 
+<div id="motion-5-4-2" class="motion-anchor"></div>
+
 > Section 239 (6) of the Municipal Act,   2001, the following recommendation be forwarded to City Council for   deliberation and a vote in public session:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer,   with the concurrence...
 
 **✅ Motion Passed**
@@ -3542,6 +3568,8 @@ Unanimous (13-0)
 
 ### 5#4. Quarterly Report on
   Internal Audit Results - Status of Past Project Action Plans
+
+<div id="motion-5-4-3" class="motion-anchor"></div>
 
 > Approve part c) of clause 16, as follows:   (c)       for   the purposes of uncertainty of compliance with public safety regulations   including commercial insurance, driver capabilities of performing commercial   transportation services and vehicle safety, the Civic Administration BE   DIRECTED ...
 
@@ -3553,6 +3581,8 @@ Unanimous (13-0)
   Stewart, Integrity Commissioner, City of London - Report to City Council -
   Code of Conduct: Mayor Matt Brown and Deputy Mayor Maureen Cassidy
 
+<div id="motion-5-5-1" class="motion-anchor"></div>
+
 > At 10:35 Councillor P. Hubert places   Councillor J. Morgan in the Chair and takes a seat at the Council board.    At 10:41 PM Councillor P. Hubert resumes   the Chair and Councillor J. Morgan takes his seat at the Council board.
 
 **✅ Motion Passed**
@@ -3561,6 +3591,8 @@ Unanimous (12-0)
 
 ### 6#3. Request for Inquiry
   by the Integrity Commissioner
+
+<div id="motion-6-3-0" class="motion-anchor"></div>
 
 > That the communication dated June 16, 2016,   from Councillor J. Morgan, regarding a potential request for the Integrity   Commissioner to consider conducting an inquiry related to a matter made   public by Mayor M. Brown and Councillor M. Cassidy on June 14, 2016, BE   RECEIVED.
 
@@ -3578,6 +3610,8 @@ Unanimous (12-0)
 ### 8#2. Property located at
   335 Thames Street, King Street Bridge (Relates to Bill No. 242)
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the proposed by-law appended to the   staff report dated June 20, 2016, to designate 335 Thames Street, (King   Street Bridge), to be of cultural heritage value or interest BE INTRODUCED at   the Municipal Council ...
 
 **✅ Motion Passed**
@@ -3586,6 +3620,8 @@ Unanimous (13-0)
 
 ### IV. COUNCIL, IN
   CLOSED SESSION
+
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve an amendment to in camera matter   part f) so that it now reads as follows:   f)          A matter pertaining to personal matters about identifiable individuals and   labour relations and advice subject to solicitor-client privilege, including   advice from officers and employees of the C...
 
@@ -3596,6 +3632,8 @@ Unanimous (11-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FOURTEENTH MEETING HELD ON JUNE 14, 2016
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the Fourteenth   Meeting, held on June 14, 2016.
 
 **✅ Motion Passed**
@@ -3604,6 +3642,8 @@ Unanimous (13-0)
 
 ### VII. MOTIONS OF
   WHICH NOTICE IS GIVEN
+
+<div id="motion-vii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit the   consideration of Motions of Which Notice is Given, following the presentation   of the Report of the Council, in camera.
 
@@ -3621,6 +3661,8 @@ Unanimous (13-0)
 ### XII. EMERGENT
   MOTIONS
 
+<div id="motion-xii-0" class="motion-anchor"></div>
+
 > Approve that pursuant to section 20.2   of the Council Procedure By-law, leave be given for the introduction of an   emergent motion regarding the Deputy Mayor position, selected by the   Council.
 
 **✅ Motion Passed**
@@ -3629,6 +3671,8 @@ Unanimous (13-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Approve that the matter of the   appointment of a Deputy Mayor, selected by the Council, be considered at the   next meeting of the Strategic Priorities and Policy Committee.
 
@@ -3639,6 +3683,8 @@ Unanimous (13-0)
 ### XII. EMERGENT
   MOTIONS
 
+<div id="motion-xii-2" class="motion-anchor"></div>
+
 > Approve that pursuant to section 20.2   of the Council Procedure By-law, leave be given for the introduction of an   emergent motion with respect to the approval of the London Psychiatric   Hospital Lands & South West Area Secondary Plans.
 
 **✅ Motion Passed**
@@ -3648,6 +3694,8 @@ Unanimous (13-0)
 ### XII. EMERGENT
   MOTIONS
 
+<div id="motion-xii-3" class="motion-anchor"></div>
+
 > Approve that pursuant to section 13.3 of   the Council Procedure By-law reconsideration of clause 13 of the 10th Report   of the Planning and Environment Committee regarding the London Psychiatric   Hospital Lands & South West Area Secondary Plans (O-8364/O-8370), as   approved at the May 31, 201...
 
 **✅ Motion Passed**
@@ -3656,6 +3704,8 @@ Unanimous (13-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<div id="motion-xii-4" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of   the Managing Director, Planning and City Planner, the following actions be   taken with respect to the application of the City of London relating to the   London Psychiatric Hospital Lands and the Southwest Area Secondary Plans:    a)       the attached, r...
 
@@ -3669,6 +3719,8 @@ Unanimous (12-0)
   consideration with clause 11 of the 8th Report of the Community and
   Protective Services Committee.)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3680,6 +3732,8 @@ Unanimous (11-0)
   Week (Refer to the Community and Protective Services Committee stage for
   consideration with clause 11 of the 8th Report of the Community and
   Protective Services Committee.)
+
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Approve deferral of Communication No. 5,   for consideration following the related in camera report.
 
@@ -3693,6 +3747,8 @@ Unanimous (13-0)
   consideration with clause 11 of the 8th Report of the Community and
   Protective Services Committee.)
 
+<div id="motion-4-2" class="motion-anchor"></div>
+
 > Approve reconsideration of the vote   related to the deferral of Communication No. 5.
 
 **✅ Motion Passed**
@@ -3705,6 +3761,8 @@ Unanimous (13-0)
   consideration with clause 11 of the 8th Report of the Community and
   Protective Services Committee.)
 
+<div id="motion-4-3" class="motion-anchor"></div>
+
 > Approve deferral of Communication No. 5,   to be considered following the related in camera report.
 
 **✅ Motion Passed**
@@ -3713,6 +3771,8 @@ Unanimous (11-0)
 
 ### 8. Annual Meeting
   Calendar
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > That the staff report dated June 20, 2016,   with respect to the 2017 Annual Meeting Calendar, BE REFERRED to a future   meeting of the Strategic Priorities and Policy Committee so that all Members   can be present to provide their comments and participate in the debate with   respect to this mat...
 
@@ -3723,6 +3783,8 @@ Unanimous (13-0)
 ### 8. Annual Meeting
   Calendar
 
+<div id="motion-8-1" class="motion-anchor"></div>
+
 > Approve that consideration of clause 6   be deferred until later in the meeting, following the completion of the in   camera session.
 
 **✅ Motion Passed**
@@ -3731,6 +3793,8 @@ Unanimous (11-0)
 
 ### 21. Blackfriars/Petersville
   Area (Z-8602) (Relates to Bill No. 250)
+
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application by the City of London, with respect to the   Blackfriars/Petersville Area:   a)         the   proposed by-law appended to the staff report dated June...
 
@@ -3748,6 +3812,8 @@ Unanimous (11-0)
 ### 24. Property located at
   455 Clarence Street (Z-8560) (Relates to Bill No. 252)
 
+<div id="motion-24-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of 1016790 Ontario Ltd., relating to the property   located at 455 Clarence Street:   a)              the proposed   by-law appended to the staff rep...
 
 **✅ Motion Passed**
@@ -3755,6 +3821,8 @@ Unanimous (11-0)
 Unanimous (12-0)
 
 ### 31. PEC Deferred List
+
+<div id="motion-31-0" class="motion-anchor"></div>
 
 > The Planning and Environment Committee   reviewed and received the PEC Deferred List as of March 22, 2016.
 

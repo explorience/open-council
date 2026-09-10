@@ -449,6 +449,8 @@ And for those at Planning and Environment Committee, we will see you at 4 p.m. f
 
 ### 4.1. Application - Issuance of Proclamation - Make Canada Gold
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That based on the application dated May 20, 2022 from Childhood Cancer Canada, September 1, 2022 BE PROCLAIMED as Make Canada Gold.
 
 **✅ Motion Passed (6 to 0)**
@@ -456,6 +458,8 @@ And for those at Planning and Environment Committee, we will see you at 4 p.m. f
 Unanimous (6-0)
 
 ### 4.2. Application - Issuance of Proclamation - Srebrenica Genocide Remember Day
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That based on the application dated June 6, 2022 from Institute for Research of Genocide Canada Bosnian Canadian Islamic Centre London, July 11, 2022 BE PROCLAIMED as Srebrenica Genocide Remember Day.
 
@@ -465,6 +469,8 @@ Unanimous (6-0)
 
 ### 5.1. (ADDED) Restricted Acts of Council after Nomination Day and Voting Day
 
+<div id="motion-5-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Legal Services, the  proposed by-law as appended to the staff report dated June 20, 2022 BE INTRODUCED at the Municipal Council meeting of July 5, 2022, to delegate certain authority, should the Municipal Council’s actions be restricted afte...
 
 **✅ Motion Passed (6 to 0)**
@@ -472,6 +478,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.2. (ADDED) Mayor's New Year's Honour List Policy
+
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That, the attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on July 5, 2022 to amend By-law No. CPOL.-18-214, as amended, being “Mayor’s New Year’s Honour List Policy”, to update the nominating bodies for each category and increase the number of Distinguished Londo...
 

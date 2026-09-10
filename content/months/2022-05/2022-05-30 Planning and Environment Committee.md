@@ -1355,6 +1355,8 @@ Good night.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.6, inclusive, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1362,6 +1364,8 @@ Good night.
 Unanimous (5-0)
 
 ### 3.5. 850 Highbury Avenue North - Request for Demolition
+
+<div id="motion-3-5-1" class="motion-anchor"></div>
 
 > Motion to add a new part d), which reads as follows: "d)  the applicant BE REQUESTED to photographically document and chronical, to the degree possible, the north and south pavilion and the connecting building."
 

@@ -1340,6 +1340,8 @@ The
 ### 2. 2nd Report of the
   Agricultural Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1349,6 +1351,8 @@ Unanimous (5-0)
 
 ### 3. Blackfriars/Petersville
   Official Plan/Zoning Study (OZ-8295)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1360,6 +1364,8 @@ Unanimous (5-0)
 ### 4. 4th Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1370,16 +1376,7 @@ Unanimous (6-0)
 ### 5. 3rd Report of the
   Trees and Forests Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 6. Amendments to Fees
-  and Charges By-law A-47 - Planning Fees - Extension of a Draft Plan of
-  Subdivision
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1392,6 +1389,8 @@ Unanimous (6-0)
   and Charges By-law A-47 - Planning Fees - Extension of a Draft Plan of
   Subdivision
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1403,6 +1402,21 @@ Unanimous (6-0)
   and Charges By-law A-47 - Planning Fees - Extension of a Draft Plan of
   Subdivision
 
+<div id="motion-6-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 6. Amendments to Fees
+  and Charges By-law A-47 - Planning Fees - Extension of a Draft Plan of
+  Subdivision
+
+<div id="motion-6-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1413,15 +1427,7 @@ Unanimous (6-0)
 ### 7. City-Wide Changes
   to Vacant Land Condominium Policies (OZ-8288)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 7. City-Wide Changes
-  to Vacant Land Condominium Policies (OZ-8288)
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1432,6 +1438,20 @@ Unanimous (6-0)
 
 ### 7. City-Wide Changes
   to Vacant Land Condominium Policies (OZ-8288)
+
+<div id="motion-7-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 7. City-Wide Changes
+  to Vacant Land Condominium Policies (OZ-8288)
+
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1443,15 +1463,7 @@ Unanimous (6-0)
 ### 8. Property located on
   a portion of 240 Waterloo Street (Z-8317)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 8. Property located on
-  a portion of 240 Waterloo Street (Z-8317)
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1463,6 +1475,20 @@ Unanimous (6-0)
 ### 8. Property located on
   a portion of 240 Waterloo Street (Z-8317)
 
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 8. Property located on
+  a portion of 240 Waterloo Street (Z-8317)
+
+<div id="motion-8-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1473,15 +1499,7 @@ Unanimous (6-0)
 ### 9. Properties located
   at 221-225 Queens Avenue (Z-8312)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 9. Properties located
-  at 221-225 Queens Avenue (Z-8312)
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1493,6 +1511,8 @@ Unanimous (6-0)
 ### 9. Properties located
   at 221-225 Queens Avenue (Z-8312)
 
+<div id="motion-9-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1502,6 +1522,20 @@ Unanimous (6-0)
 
 ### 9. Properties located
   at 221-225 Queens Avenue (Z-8312)
+
+<div id="motion-9-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 9. Properties located
+  at 221-225 Queens Avenue (Z-8312)
+
+<div id="motion-9-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1513,15 +1547,7 @@ Unanimous (6-0)
 ### 10. Properties located
   at 486, 486B and 500 Clarke Road (Z-8309)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 10. Properties located
-  at 486, 486B and 500 Clarke Road (Z-8309)
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1533,6 +1559,20 @@ Unanimous (6-0)
 ### 10. Properties located
   at 486, 486B and 500 Clarke Road (Z-8309)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 10. Properties located
+  at 486, 486B and 500 Clarke Road (Z-8309)
+
+<div id="motion-10-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1543,15 +1583,7 @@ Unanimous (6-0)
 ### 11. Property located at
   2825 Tokala Trail (Z-8326)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 11. Property located at
-  2825 Tokala Trail (Z-8326)
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1562,6 +1594,20 @@ Unanimous (6-0)
 
 ### 11. Property located at
   2825 Tokala Trail (Z-8326)
+
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Property located at
+  2825 Tokala Trail (Z-8326)
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1573,15 +1619,7 @@ Unanimous (6-0)
 ### 12. Property located at
   1550 Sunningdale Road West (Z-8079)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 12. Property located at
-  1550 Sunningdale Road West (Z-8079)
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1592,6 +1630,20 @@ Unanimous (6-0)
 
 ### 12. Property located at
   1550 Sunningdale Road West (Z-8079)
+
+<div id="motion-12-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 12. Property located at
+  1550 Sunningdale Road West (Z-8079)
+
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1602,6 +1654,8 @@ Unanimous (6-0)
 
 ### 13. Property located at
   313 Clarke Road (OZ-8300)
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1620,6 +1674,8 @@ Unanimous (6-0)
 ### 13. Property located at
   313 Clarke Road (OZ-8300)
 
+<div id="motion-13-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1629,6 +1685,8 @@ Unanimous (6-0)
 
 ### 13. Property located at
   313 Clarke Road (OZ-8300)
+
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1640,15 +1698,7 @@ Unanimous (5-0)
 ### 14. Property located at
   1836 Richmond Street (Z-8229)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 14. Property located at
-  1836 Richmond Street (Z-8229)
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1659,6 +1709,20 @@ Unanimous (6-0)
 
 ### 14. Property located at
   1836 Richmond Street (Z-8229)
+
+<div id="motion-14-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 14. Property located at
+  1836 Richmond Street (Z-8229)
+
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1670,6 +1734,8 @@ Unanimous (6-0)
 ### 15. Strategies for
   Reducing Bird Deaths as a Result of High-Rise Developments
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1679,6 +1745,8 @@ Unanimous (6-0)
 
 ### 16. Request to start
   the April 29, 2014 Planning and Environment Committee meeting at 5:30 PM
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

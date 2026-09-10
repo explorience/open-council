@@ -989,6 +989,8 @@ We are adjourned. Have a great rest of your day and go Leafs go.
 
 ### 2.1. Request for a Shareholder's Meeting - London Hydro Inc.
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 2024 Annual General Meeting of the Shareholder for London Hydro Inc.: a)      the 2024 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on May 27, 2025, for...
 
 **✅ Motion Passed (14 to 0)**
@@ -997,6 +999,8 @@ Unanimous (14-0)
 
 ### 2.2. Request for a Shareholder's Meeting - London & Middlesex Community Housing
 
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 2024 Annual General Meeting of the Shareholder for London & Middlesex Community Housing: a)      the 2024 Annual General Meeting of the Shareholder for London & Middlesex Community Housing BE HELD at a meeting of the Strategic Priorities and...
 
 **✅ Motion Passed (14 to 0)**
@@ -1004,6 +1008,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.1. London & Middlesex Community Housing Board of Directors Request for Extension of Terms
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED in part a) and part b) to extend the terms to September 30, 2027 and add a new part c) to read as follows: c)  the term for Kathleen Savoy, Tenant, London & Middlesex Community Housing Board of Directors BE EXTENDED from December 31, 2026 to September 30, 2027;
 
@@ -1022,6 +1028,8 @@ Unanimous (14-0)
 
 ### 4.1. London & Middlesex Community Housing Board of Directors Request for Extension of Terms
 
+<div id="motion-4-1-3" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (13 to 1)**
@@ -1039,6 +1047,8 @@ Unanimous (14-0)
 
 ### 4.2. Canada Disability Benefit - Councillors H. McAlister, P. Cuddy and S. Lewis
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the Canada Disability Benefit: a)  the Mayor BE REQUESTED to communicate to Premier Ford and Minister Parsa, that the Municipal Council calls on the Government of Ontario to follow Newfoundland, Nova Scotia, Quebec, Manitoba, Saskatchewan, Briti...
 
 **✅ Motion Passed (14 to 0)**
@@ -1046,6 +1056,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.2. Canada Disability Benefit - Councillors H. McAlister, P. Cuddy and S. Lewis
+
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the delegation requests from J. Salisbury and A. Roberts BE APPROVED to be heard at this time.
 

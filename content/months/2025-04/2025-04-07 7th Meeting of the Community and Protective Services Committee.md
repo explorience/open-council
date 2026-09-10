@@ -804,6 +804,8 @@ Meeting adjourned.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.6 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -812,6 +814,8 @@ Unanimous (5-0)
 
 ### 2.7. Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement (Reducing Substance Use Harms Through Basic Needs and Healthcare at 602 Queens "The Commons")
 
+<div id="motion-2-7-1" class="motion-anchor"></div>
+
 > That the delegation request from M. McMahon and M. Ritchie BE APPROVED to be heard at this meeting.
 
 **✅ Motion Passed (5 to 0)**
@@ -819,6 +823,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.7. Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement (Reducing Substance Use Harms Through Basic Needs and Healthcare at 602 Queens "The Commons")
+
+<div id="motion-2-7-2" class="motion-anchor"></div>
 
 > That the motion be amended by adding a new part which reads as follows: the Civic Administration BE DIRECTED to present a report at a future meeting of the Community and Protective Services Committee, providing the above noted executed contracts for information.
 
@@ -835,6 +841,8 @@ Unanimous (5-0)
 
 ### 2.7. Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement (Reducing Substance Use Harms Through Basic Needs and Healthcare at 602 Queens "The Commons")
 
+<div id="motion-2-7-3" class="motion-anchor"></div>
+
 > That the main motion, as amended, be approved.
 
 **✅ Motion Passed (5 to 0)**
@@ -842,6 +850,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.1. (ADDED) Watson Park
+
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > That part a) of the motion be amended to read as follows: the Civic Administration BE DIRECTED to assist with the relocation of those living unhoused in Watson Park, and connect them with appropriate service supports, including possible shelter options;
 
@@ -851,6 +861,8 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED) Watson Park
 
+<div id="motion-5-1-3" class="motion-anchor"></div>
+
 > That part a) of the motion, as amended, be approved.
 
 **✅ Motion Passed (5 to 0)**
@@ -858,6 +870,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.1. (ADDED) Watson Park
+
+<div id="motion-5-1-4" class="motion-anchor"></div>
 
 > That part b) of the motion be approved.
 
@@ -873,6 +887,8 @@ Unanimous (5-0)
 </details>
 
 ### 5.1. (ADDED) Watson Park
+
+<div id="motion-5-1-5" class="motion-anchor"></div>
 
 > That part c) of the motion be approved.
 

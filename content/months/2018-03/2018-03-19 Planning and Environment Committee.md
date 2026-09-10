@@ -1042,6 +1042,8 @@ The meeting adjourned at 9:34 PM.
 
 ### 3.4. Public Participation Meeting - Not to be heard before 5:00 PM - Wonderland Road Community Enterprise Corridor
 
+<div id="motion-3-4-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by The Corporation of the City of London, relating to the Wonderland Road Community Enterprise Corridor land use designation within the Southwest Area Secondary Plan, the proposed by-law appe...
 
 **✅ Motion Passed (4 to 2) 🔥**
@@ -1057,6 +1059,8 @@ The meeting adjourned at 9:34 PM.
 
 ### 3.5. Public Participation Meeting - Not to be heard before 5:30 PM - Planning Application - Hamilton Road Area Community Improvement Plan (O-8866)
 
+<div id="motion-3-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application by The Corporation of the City of London, relating to a Community Improvement Plan for the Hamilton Road Area: Adoption of the Community Improvement Plan...
 
 **✅ Motion Passed (5 to 0)**
@@ -1064,6 +1068,8 @@ The meeting adjourned at 9:34 PM.
 Unanimous (5-0)
 
 ### 3.5. Public Participation Meeting - Not to be heard before 5:30 PM - Planning Application - Hamilton Road Area Community Improvement Plan (O-8866)
+
+<div id="motion-3-5-3" class="motion-anchor"></div>
 
 > f) that forgivable loans similar to those provided in downtown and Old East Village BE APPROVED IN PRINCIPLE for the Hamilton Road Community Improvement Area, it being noted that the balance of the Community Investment Reserve Fund is sufficient to cover the estimated budget of $118,000 for 2018 ...
 
@@ -1080,6 +1086,8 @@ Unanimous (5-0)
 
 ### 4.2. Planning Application - 499 Sophia Crescent (H-8791)
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Senior Planner, Development Planning, based on the application of West Coronation Developments Limited, relating to the property located at 499 Sophia Crescent the following actions be taken: a)            the proposed by-law appended to the staff report dated M...
 
 **✅ Motion Passed (5 to 0)**
@@ -1087,6 +1095,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.2. Planning Application - 499 Sophia Crescent (H-8791)
+
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That M. Palumbo BE GRANTED delegation status.
 
@@ -1096,6 +1106,8 @@ Unanimous (5-0)
 
 ### 4.3. Old East Village Business Improvement Area (BIA) Request for Boundary Expansion
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Planning and City Planner, the Civic Administration BE DIRECTED to take the necessary steps in 2018 to expand the boundary of the Old East Village Business Improvement Area in response to the communication dated December 19, 2016 from Jennifer...
 
 **✅ Motion Passed (4 to 0)**
@@ -1104,6 +1116,8 @@ Unanimous (4-0)
 
 ### 5.1. PEC Deferred List
 
+<div id="motion-5-1-0" class="motion-anchor"></div>
+
 > That the Managing Director, Planning and City Planner and the Managing Director, Development and Compliance Services & Chief Building Official BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 
 **✅ Motion Passed (4 to 0)**
@@ -1111,6 +1125,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 5.2. (ADDED) Not to be heard before 6:00 PM - D. Dudek, Chair of the London Advisory Committee on Heritage - 4th Report of the London Advisory Committee on Heritage
+
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 4th Report of the London Advisory Committee on Heritage from its meeting held on March 14, 2018: a)            on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the applicatio...
 

@@ -883,6 +883,8 @@ Vocal for Councilor Vameerbergen. I vote yes. Thank you, everyone. Have a great 
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.1 to 2.8 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -890,6 +892,8 @@ Vocal for Councilor Vameerbergen. I vote yes. Thank you, everyone. Have a great 
 Unanimous (4-0)
 
 ### 4.1. REQUEST FOR DELEGATION STATUS - M. Judson, Springbank Park Recreational Dam
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve Delegation Request from M. Judson to be heard at this meeting. (2023-R04)
 
@@ -899,6 +903,8 @@ Unanimous (4-0)
 
 ### 4.2. Green Bin and Collection Program Changes
 
+<div id="motion-4-2-1" class="motion-anchor"></div>
+
 > That the following motion BE APPROVED: That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated August 15, 2023, related to the Green Bin and Collection Program Changes: a)    the Civic Administra...
 
 **✅ Motion Passed (5 to 0)**
@@ -906,6 +912,8 @@ Unanimous (4-0)
 Unanimous (5-0)
 
 ### 4.2. Green Bin and Collection Program Changes
+
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > Motion to add the following to the clause as part d): the Garbage Tag fee for use at the curb for extra bags or containers of garbage or for Bagged Residential Garbage brought to the EnviroDepots be increased from $1.50 to $2.00 as part of the upcoming Fees and Charges By-law review as part of th...
 
@@ -924,6 +932,8 @@ Unanimous (5-0)
 
 ### 4.2. Green Bin and Collection Program Changes
 
+<div id="motion-4-2-3" class="motion-anchor"></div>
+
 > Motion to amend part d) to include an it being noted clause that will delay the increase by 6 months.
 
 **❌ Motion Failed (2 to 3) 🔥**
@@ -941,6 +951,8 @@ Unanimous (5-0)
 
 ### 5.1. Referred by Municipal Council on July 25th - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee
 
+<div id="motion-5-1-1" class="motion-anchor"></div>
+
 > That the following motion BE APPROVED:     That the Civic Administration BE DIRECTED to prepare an information brochure to assist Municipal Law Enforcement Officers to explain the Council Policy on Naturalized Areas and Wildflower Meadows in response to community complaints and with respect to th...
 
 **✅ Motion Passed (5 to 0)**
@@ -948,6 +960,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.1. Referred by Municipal Council on July 25th - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > That the following actions be taken in regards to the Yard and Lot Maintenance By-law: a)    the staff report BE RECEIVED; b)    that the Civic Administration BE DIRECTED to undertake a comprehensive review of the Yard and Maintenance By-law that encompasses the by-law provisions, definitions and...
 
@@ -965,6 +979,8 @@ Unanimous (5-0)
 </details>
 
 ### 5.1. Referred by Municipal Council on July 25th - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+<div id="motion-5-1-3" class="motion-anchor"></div>
 
 > Motion to approve the addition of the following clauses:    "that a verbal delegation from B. Samuels, and the staff report dated August 15, 2023, with respect to this matter, were received" "it being noted that the communication, as appended to the Added Agenda from L. Johnson, with respect to t...
 

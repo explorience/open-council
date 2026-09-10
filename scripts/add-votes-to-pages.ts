@@ -24,6 +24,7 @@ import {
   getSlug,
   isCurrentCouncillor,
 } from "../lib/councillors/index.js"
+import { motionAnchorId, motionAnchorHtml } from "./motion-anchor.js"
 
 interface AggregatedMotion {
   id: string
@@ -43,6 +44,20 @@ interface AggregatedMotion {
   nays: string[]
   absent: string[]
   margin: number
+  /** Position of this roll call among the meeting's recorded votes — part
+   * of the natural key that per-motion anchors are built from. See
+   * scripts/motion-anchor.ts. */
+  rollCallOrdinal: number
+}
+
+/** One emitted per-motion anchor, collected for the manifest. */
+interface EmittedAnchor {
+  meetingSlug: string
+  anchorId: string
+  motionId: string
+  itemNumber: string
+  rollCallOrdinal: number
+  result: string
 }
 
 interface AllMotionsFile {
@@ -93,7 +108,11 @@ function linkCouncillor(name: string, links: Map<string, string>): string {
  */
 function generateVotesMarkdown(
   motions: AggregatedMotion[],
-  councillorLinks: Map<string, string>
+  councillorLinks: Map<string, string>,
+  /** Every anchor this call emits is pushed here, so main() can write the
+   * manifest and so a duplicate id is caught at generation time rather
+   * than discovered by a reader. */
+  emitted?: EmittedAnchor[]
 ): string {
   // Filter to substantive votes only
   const substantive = motions.filter(m => !m.procedural)
@@ -125,6 +144,12 @@ function generateVotesMarkdown(
     return 0
   })
 
+  // Per-page duplicate guard: two motions must never land on one anchor id
+  // (that would silently point an evidence link at the wrong roll call).
+  // The natural key is unique corpus-wide, so this can only fire on a real
+  // data defect — fail loudly instead of emitting an ambiguous page.
+  const seenAnchorIds = new Map<string, string>()
+
   for (const motion of sorted) {
     const icon = motion.passed ? "✅" : "❌"
     const closeVote = !motion.unanimous && motion.margin <= 3 ? " 🔥" : ""
@@ -132,6 +157,33 @@ function generateVotesMarkdown(
     // Item title as heading
     const itemLabel = motion.itemNumber ? `${motion.itemNumber}. ` : ""
     lines.push(`### ${itemLabel}${motion.itemTitle.trim()}`)
+    lines.push("")
+
+    // Per-motion anchor, immediately AFTER the heading (see
+    // scripts/motion-anchor.ts for why after and not on/before it). This is
+    // what every hub evidence row links to: it identifies THIS roll call,
+    // not just the agenda item, so several motions under one shared heading
+    // are no longer indistinguishable.
+    const anchorId = motionAnchorId(motion.itemNumber, motion.rollCallOrdinal)
+    const clash = seenAnchorIds.get(anchorId)
+    if (clash && clash !== motion.id) {
+      throw new Error(
+        `Duplicate motion anchor "${anchorId}" on ${motion.meetingSlug}: ` +
+          `motions ${clash} and ${motion.id} share item "${motion.itemNumber}" ` +
+          `and rollCallOrdinal ${motion.rollCallOrdinal}. Refusing to emit an ` +
+          `anchor that would point at two different roll calls.`
+      )
+    }
+    seenAnchorIds.set(anchorId, motion.id)
+    emitted?.push({
+      meetingSlug: motion.meetingSlug,
+      anchorId,
+      motionId: motion.id,
+      itemNumber: motion.itemNumber,
+      rollCallOrdinal: motion.rollCallOrdinal,
+      result: motion.result,
+    })
+    lines.push(motionAnchorHtml(anchorId))
     lines.push("")
 
     // Motion text (truncated)
@@ -278,6 +330,78 @@ async function allMeetingSlugs(dataDir: string): Promise<string[]> {
   return slugs
 }
 
+/**
+ * Write data/votes/_motion-anchors.json — the committed record of every
+ * per-motion anchor this repo has ever published.
+ *
+ * Two jobs:
+ *  1. It is the input to scripts/election/verify-evidence-anchor-precision.py's
+ *     manifest diff, so a nightly regeneration FAILS LOUDLY if an anchor
+ *     changed target or vanished, instead of a reader discovering a dead
+ *     bookmark. (Fragments cannot be redirected — Quartz's AliasRedirects
+ *     is page-level only.)
+ *  2. It is append-only. An anchor that stops being emitted (its roll call
+ *     was withdrawn, or the meeting was re-scraped with fewer motions) is
+ *     moved to `retired` rather than dropped, so the diff can tell a
+ *     disclosed retirement apart from a silent disappearance.
+ */
+async function writeAnchorManifest(
+  dataDir: string,
+  emitted: EmittedAnchor[]
+): Promise<void> {
+  const manifestPath = path.join(dataDir, "votes", "_motion-anchors.json")
+
+  const live = [...emitted].sort((a, b) =>
+    a.meetingSlug === b.meetingSlug
+      ? a.anchorId.localeCompare(b.anchorId)
+      : a.meetingSlug.localeCompare(b.meetingSlug)
+  )
+  const liveKeys = new Set(live.map(a => `${a.meetingSlug}#${a.anchorId}`))
+
+  // Carry forward anything previously published that this run no longer
+  // emits, plus anything already retired.
+  const retired = new Map<string, EmittedAnchor & { retiredAt: string }>()
+  try {
+    const prev = JSON.parse(await fs.readFile(manifestPath, "utf-8"))
+    for (const a of prev.retired ?? []) {
+      retired.set(`${a.meetingSlug}#${a.anchorId}`, a)
+    }
+    const today = new Date().toISOString().slice(0, 10)
+    for (const a of prev.anchors ?? []) {
+      const key = `${a.meetingSlug}#${a.anchorId}`
+      if (!liveKeys.has(key) && !retired.has(key)) {
+        retired.set(key, { ...a, retiredAt: today })
+      }
+    }
+  } catch {
+    // First run — no previous manifest.
+  }
+
+  await fs.writeFile(
+    manifestPath,
+    JSON.stringify(
+      {
+        note:
+          "Per-motion evidence anchors emitted into the Votes section of each meeting page. " +
+          "Key: motion-<normalized itemNumber>-<rollCallOrdinal>. Append-only: see writeAnchorManifest in scripts/add-votes-to-pages.ts.",
+        totalAnchors: live.length,
+        meetings: new Set(live.map(a => a.meetingSlug)).size,
+        anchors: live,
+        retired: [...retired.values()].sort((a, b) =>
+          `${a.meetingSlug}#${a.anchorId}`.localeCompare(
+            `${b.meetingSlug}#${b.anchorId}`
+          )
+        ),
+      },
+      null,
+      2
+    ) + "\n"
+  )
+  console.log(
+    `   Anchor manifest: ${live.length} anchors across ${new Set(live.map(a => a.meetingSlug)).size} meetings (${retired.size} retired)`
+  )
+}
+
 async function main() {
   console.log("🗳️ Adding vote sections to meeting pages\n")
 
@@ -317,6 +441,7 @@ async function main() {
   let skipped = 0
   let notFound = 0
   let orphansStripped = 0
+  const emitted: EmittedAnchor[] = []
 
   for (const meetingSlug of allSlugs) {
     const motions = motionsByMeeting.get(meetingSlug) ?? []
@@ -333,7 +458,7 @@ async function main() {
 
     // Generate votes markdown (may be "" if this meeting no longer has
     // any substantive votes, e.g. everything reclassified as procedural)
-    const votesSection = generateVotesMarkdown(motions, councillorLinks)
+    const votesSection = generateVotesMarkdown(motions, councillorLinks, emitted)
 
     const votesHeadingIdx = content.indexOf("\n## Votes\n")
 
@@ -380,6 +505,8 @@ async function main() {
     await fs.writeFile(mdPath, newContent)
     updated++
   }
+
+  await writeAnchorManifest(dataDir, emitted)
 
   console.log(`\n✅ Vote sections added!`)
   console.log(`   Updated: ${updated} meeting pages`)

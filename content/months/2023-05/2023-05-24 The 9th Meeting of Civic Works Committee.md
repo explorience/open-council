@@ -555,6 +555,8 @@ Have a great rest of your day, everyone.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1, 2.2, 2.3, 2.4 and 2.5 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -562,6 +564,8 @@ Have a great rest of your day, everyone.
 Unanimous (4-0)
 
 ### 4.1. Downtown Bike Locker Pilot Project Results
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated May 24, 2023, related to the Downtown Bike Locker Pilot Project Results: a)    the Civic Administration BE DIRECTED to end the curre...
 
@@ -571,6 +575,8 @@ Unanimous (4-0)
 
 ### 4.2. Final Connected and Automated Vehicle Plan
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated May 24, 2023, related to the Final Connected and Automated Vehicle Plan: a)    the final Connected and Automated Vehicle Plan, as summarize...
 
 **✅ Motion Passed (4 to 0)**
@@ -578,6 +584,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.3. Automated Enforcement Program Expansion Single Source 2023-142
+
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > That, the clause be amended to add a part g) as follows: g)    that Civic Administration BE DIRECTED to investigate and implement additional Red Light Camera locations as may be feasible.
 

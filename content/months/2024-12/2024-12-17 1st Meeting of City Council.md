@@ -4349,6 +4349,8 @@ Okay, a motion to adjourn moved by Deputy Mayor Lewis, seconded by Councillor Ca
 
 ### 6.1. Integrity Commissioner's Recommendation Report Regarding Councillor Susan Stevenson
 
+<div id="motion-6-1-1" class="motion-anchor"></div>
+
 > That the motion be amended in part b) to read as follows: b)    that in consideration of the Integrity Commissioner’s Findings regarding the breach of Council’s Code of Conduct in the above noted report, the remuneration paid to Councillor S. Stevenson BE SUSPENDED for a period of 5 days;
 
 **❌ Motion Failed (5 to 9)**
@@ -4363,6 +4365,8 @@ Okay, a motion to adjourn moved by Deputy Mayor Lewis, seconded by Councillor Ca
 </details>
 
 ### 6.1. Integrity Commissioner's Recommendation Report Regarding Councillor Susan Stevenson
+
+<div id="motion-6-1-4" class="motion-anchor"></div>
 
 > b)    that in consideration of the Integrity Commissioner’s Findings regarding the breach of Council’s Code of Conduct in the above noted report, the remuneration paid to Councillor S. Stevenson BE SUSPENDED for a period of 30 days;
 
@@ -4379,6 +4383,8 @@ Okay, a motion to adjourn moved by Deputy Mayor Lewis, seconded by Councillor Ca
 
 ### 8.1. 1st Report of the Planning and Environment Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 1st Report of the Planning and Environment Committee BE APPROVED, , with the exception of items 14 (3.6), 17 (3.9), 18 (3.10), 20 (3.12) and 22 (3.14).
 
 **✅ Motion Passed (15 to 0)**
@@ -4386,6 +4392,8 @@ Okay, a motion to adjourn moved by Deputy Mayor Lewis, seconded by Councillor Ca
 Unanimous (15-0)
 
 ### 8.1.14. (3.6) Request to remove the Heritage Listed Property at 1927 Richmond Street from the Register of Cultural Heritage Resources
+
+<div id="motion-8-1-14-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the property located at 1927 Richmond Street BE REMOVED from the Register of Cultural Heritage Resources; it being noted that the Planning and Environment Committee received the following communications with respect to these m...
 
@@ -4402,6 +4410,8 @@ Unanimous (15-0)
 
 ### 8.1.17. (3.9) 1922 Highland Heights and 205 Commissioners Road East (Relates to Bill No. 36)
 
+<div id="motion-8-1-17-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Highland Golf & Country Club, c/o Zelinka Priamo Ltd., relating to the property located at 1922 Highland Heights and 205 Commissioners Road East: a)    the prop...
 
 **✅ Motion Passed (9 to 5)**
@@ -4416,6 +4426,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.1.18. (3.10) 21-41 Meadowlily Road North and 20 Norlan Avenue (Relates to Bill No. 37)
+
+<div id="motion-8-1-18-1" class="motion-anchor"></div>
 
 > That the motion be amended to delete part b) ii) "constructing a sewer line, at their cost, to the Urban Roots property at 21 Norlan Avenue, subject to future approvals by the Board of Urban Roots;" and replace it with a new part b) ii) to read as follows: b) ii)   a donation to Urban Roots by Ro...
 
@@ -4432,6 +4444,8 @@ Unanimous (15-0)
 
 ### 8.1.18. (3.10) 21-41 Meadowlily Road North and 20 Norlan Avenue (Relates to Bill No. 37)
 
+<div id="motion-8-1-18-2" class="motion-anchor"></div>
+
 > That item 18, clause 3.10, as amended, BE APPROVED in part as follows: That, the following actions be taken with respect to the application of 2812347 Ontario Inc., c/o Zelinka Priamo Ltd., relating to the property located at 21-41 Meadowlily Road North and 20 Norlan Avenue: a)    the proposed re...
 
 **✅ Motion Passed (11 to 4)**
@@ -4446,6 +4460,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.1.18. (3.10) 21-41 Meadowlily Road North and 20 Norlan Avenue (Relates to Bill No. 37)
+
+<div id="motion-8-1-18-3" class="motion-anchor"></div>
 
 > That item 18, clause 3.10, as amended, BE APPROVED in part as follows: it being noted that the applicant has committed to the following: i)    providing new playgrounds for Ealing and Trafalgar Elementary Public Schools; and,   ii)   a donation to Urban Roots by Royal Premier Homes, the amount an...
 
@@ -4462,6 +4478,8 @@ Unanimous (15-0)
 
 ### 8.1.20. (3.12) 415 Oxford Street West (OZ-9789)
 
+<div id="motion-8-1-20-2" class="motion-anchor"></div>
+
 > That item 20, clause 3.12, as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -4469,6 +4487,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.1.22. (3.14) Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
+
+<div id="motion-8-1-22-1" class="motion-anchor"></div>
 
 > That the motion be amended to include new part g) to read as follows: g)         the Civic Administration BE DIRECTED to develop an alternate scenario of approximately 1,130 hectares of developable land to accommodation planned growth;
 
@@ -4485,6 +4505,8 @@ Unanimous (15-0)
 
 ### 8.1.22. (3.14) Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
 
+<div id="motion-8-1-22-2" class="motion-anchor"></div>
+
 > That the motion be amended to include new part h) to read as follows: h)         the Civic Administration BE DIRECTED to demonstrably utilize the climate emergency screening tool as part of the Urban Growth Boundary Review;
 
 **❌ Motion Failed (6 to 9) 🔥**
@@ -4499,6 +4521,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.1.22. (3.14) Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
+
+<div id="motion-8-1-22-3" class="motion-anchor"></div>
 
 > That the motion be amended to include new part i) to read as follows: i)          that the Mayor, BE REQUESTED to engage in a discussion with local Southwestern Ontario Mayors and Wardens regarding regional growth; and
 
@@ -4515,6 +4539,8 @@ Unanimous (15-0)
 
 ### 8.1.22. (3.14) Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
 
+<div id="motion-8-1-22-4" class="motion-anchor"></div>
+
 > That item 20, clause 3.14, as amended, BE APPROVED, with the exception of parts b), d) and e).
 
 **✅ Motion Passed (14 to 1)**
@@ -4529,6 +4555,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.1.22. (3.14) Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
+
+<div id="motion-8-1-22-5" class="motion-anchor"></div>
 
 > That part b) of Item 22, clause 3.14, as amended, BE APPROVED.
 
@@ -4545,6 +4573,8 @@ Unanimous (15-0)
 
 ### 8.1.22. (3.14) Land Needs Assessment - Official Plan Review of The London Plan (O-9595)
 
+<div id="motion-8-1-22-6" class="motion-anchor"></div>
+
 > That parts d) and e) of item 22, clause 3.14, as amended, BE APPROVED.
 
 **✅ Motion Passed (8 to 7) 🔥**
@@ -4560,6 +4590,8 @@ Unanimous (15-0)
 
 ### 8.2. 1st Report of the Infrastructure and Corporate Services Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That the 1st Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of item 11 (2.7).
 
 **✅ Motion Passed (15 to 0)**
@@ -4567,6 +4599,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.2.11. (2.7) Expropriation of Lands - Wellington Gateway Project - Civil Works - Phase 2 (Relates to Bill No. 22)
+
+<div id="motion-8-2-11-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
 
@@ -4583,6 +4617,8 @@ Unanimous (15-0)
 
 ### 8.3. 1st Report of the Community and Protective Services Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 1st Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 14 (2.10) and 15 (2.14).
 
 **✅ Motion Passed (15 to 0)**
@@ -4590,6 +4626,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.14. (2.10) Property Standards By-law CP-24 - Amendments Related to Minimum Headroom and Information Regarding the Tenant-Landlord Forum (Relates to Bill No. 18)
+
+<div id="motion-8-3-14-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated December 2, 2024, related to Property Standards By-law CP-24 Amendments Related to Minimum Headroom and Information Regarding the Tenan...
 
@@ -4606,6 +4644,8 @@ Unanimous (15-0)
 
 ### 8.3.15. (2.14) Special Events Policy Update (Relates to Bill No. 19)
 
+<div id="motion-8-3-15-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated December 2, 2024, related to the Special Events Policy: a)    the proposed by-law, as appended to the above-noted staff report,...
 
 **✅ Motion Passed (13 to 2)**
@@ -4621,6 +4661,8 @@ Unanimous (15-0)
 
 ### 8.4. 1st Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 1st Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 4 (2.1) and 5 (3.1).
 
 **✅ Motion Passed (15 to 0)**
@@ -4628,6 +4670,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.4.4. (2.1) Film London - LEDC Purchase of Service Agreement Amendment (Relates to Bill No. 8)
+
+<div id="motion-8-4-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed amending by-law as appended to the staff report dated December 9, 2024 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on December 17, 2024 to amend By-law No. A.-8441...
 
@@ -4644,6 +4688,8 @@ Unanimous (15-0)
 
 ### 8.4.5. (3.1) Final Report - 2024 Ward Boundary Review
 
+<div id="motion-8-4-5-0" class="motion-anchor"></div>
+
 > That with respect to the 2024 Ward Boundary Review, the following actions be taken: a)    the boundaries for the fourteen (14) electoral wards detailed in Final Option 1, with the following amendments, BE APPROVED for the City of London, effective November 15, 2026:   i. the fifteen (15) homes on...
 
 **✅ Motion Passed (14 to 1)**
@@ -4658,6 +4704,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 8 BE APPROVED.
 
@@ -4674,6 +4722,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-4" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 8 BE APPROVED.
 
 **✅ Motion Passed (13 to 1)**
@@ -4688,6 +4738,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 8 BE APPROVED.
 
@@ -4704,6 +4756,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-6" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No. 18 BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -4718,6 +4772,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 18 BE APPROVED.
 
@@ -4734,6 +4790,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-8" class="motion-anchor"></div>
+
 > That Third Reading and Enactment of Bill No. 18 BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -4748,6 +4806,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 19 BE APPROVED.
 
@@ -4764,6 +4824,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-10" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 19 BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -4778,6 +4840,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 19 BE APPROVED.
 
@@ -4794,6 +4858,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-12" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No. 22 BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -4808,6 +4874,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-13" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 22 BE APPROVED.
 
@@ -4824,6 +4892,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-14" class="motion-anchor"></div>
+
 > That Third Reading and Enactment of Bill No. 22 BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -4838,6 +4908,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-15" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 36 BE APPROVED.
 
@@ -4854,6 +4926,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-16" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 36 BE APPROVED.
 
 **✅ Motion Passed (8 to 6) 🔥**
@@ -4868,6 +4942,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-17" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 36 BE APPROVED.
 
@@ -4884,6 +4960,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-18" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No. 37 BE APPROVED.
 
 **✅ Motion Passed (11 to 4)**
@@ -4898,6 +4976,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-19" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 37 BE APPROVED.
 
@@ -4914,6 +4994,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-20" class="motion-anchor"></div>
+
 > That Third Reading and Enactment of Bill No. 37 BE APPROVED.
 
 **✅ Motion Passed (11 to 4)**
@@ -4928,6 +5010,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-21" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 42 BE APPROVED.
 
@@ -4944,6 +5028,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-22" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 42 BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -4958,6 +5044,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-23" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 42 BE APPROVED.
 

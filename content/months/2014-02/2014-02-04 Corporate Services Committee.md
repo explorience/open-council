@@ -424,6 +424,8 @@ The Corporate Services Committee convened
   Municipal Act Reporting Requirements Due to Implementation of Tangible
   Capital Assets
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -433,6 +435,8 @@ Unanimous (5-0)
 
 ### 3. Licence Agreement
   Renewal - Management of Grosvenor Lodge - 1017 Western Road
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -444,6 +448,8 @@ Unanimous (5-0)
 ### 4. Licence Agreement
   Renewal - Management of the Elsie Perrin Williams Estate
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -453,6 +459,8 @@ Unanimous (5-0)
 
 ### 5. Hours of Voting at
   Certain Institutions and Retirement Homes
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -464,15 +472,7 @@ Unanimous (4-0)
 ### 6. Municipal Election
   Compliance Audit Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Tax Adjustment
-  Agenda
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -483,6 +483,20 @@ Unanimous (5-0)
 
 ### 7. Tax Adjustment
   Agenda
+
+<div id="motion-7-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Tax Adjustment
+  Agenda
+
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -494,6 +508,8 @@ Unanimous (5-0)
 ### 8. Labatt Breweries -
   Tourism Exemption
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -503,6 +519,8 @@ Unanimous (5-0)
 
 ### 9. Consideration for
   Appointment to the Agricultural Advisory Committee
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -515,6 +533,8 @@ Unanimous (5-0)
   Consideration of Appointment to the London Diversity and Race Relations
   Advisory Committee (Requires 1 Post-Secondary Student)
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -525,6 +545,8 @@ Unanimous (5-0)
 ### 11. ADDED
   – City-Owned Heritage Facilities
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -534,6 +556,8 @@ Unanimous (5-0)
 
 ### 12. ADDED – Disposition of City-Owned Lands
   Adjacent to 25 to 57 Stoneycreek Crescent
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

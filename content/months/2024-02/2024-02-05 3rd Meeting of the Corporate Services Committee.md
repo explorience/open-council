@@ -233,6 +233,8 @@ Motion passes.
 
 ### 5. Deferred Matters/Additional Business
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > That items 5.1 and 5.2 BE APPROVED
 
 **✅ Motion Passed (4 to 0)**

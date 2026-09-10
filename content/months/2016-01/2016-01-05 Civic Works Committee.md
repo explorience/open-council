@@ -496,6 +496,8 @@ The
 ### 2. Red Light Camera
   Program Implementation
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -513,6 +515,8 @@ The
 ### 3. Update: Local
   Improvement Charges for Energy and Water Efficiency Improvements
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -522,6 +526,8 @@ Unanimous (3-0)
 
 ### 4. Response Plan for
   Frozen Water Services
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -534,6 +540,8 @@ Unanimous (5-0)
   Street/Canadian Pacific Railway Grade Separation Environmental Assessment - Appointment
   of Consulting Engineer
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -543,6 +551,8 @@ Unanimous (5-0)
 
 ### 6. Western
   Road/Wharncliffe Road North Widening Appointment of Consulting Engineer
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -554,6 +564,8 @@ Unanimous (5-0)
 ### 7. Appeal of Certain
   Amendments to the Greenway WWTP Environmental Compliance Approval
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -564,15 +576,7 @@ Unanimous (5-0)
 ### 8. Overnight Parking
   Update
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. Proposed Street
-  Encroachment Policy
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -584,6 +588,8 @@ Unanimous (5-0)
 ### 9. Proposed Street
   Encroachment Policy
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -593,6 +599,20 @@ Unanimous (5-0)
 
 ### 9. Proposed Street
   Encroachment Policy
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Proposed Street
+  Encroachment Policy
+
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -604,6 +624,8 @@ Unanimous (5-0)
 ### 10. 1st Report of the
   Transportation Advisory Committee
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -614,6 +636,8 @@ Unanimous (5-0)
 ### 11. Deferred Matters
   List
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -622,6 +646,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 12. (Added) Request for Delegation
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

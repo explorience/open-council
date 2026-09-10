@@ -3075,6 +3075,8 @@ Hope to see you at the vigil tonight.
 
 ### 8.1. 9th Report of the Community and Protective Services Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 9th Report of the Community and Protective Services Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -3082,6 +3084,8 @@ Hope to see you at the vigil tonight.
 Unanimous (14-0)
 
 ### 8.2. 9th Report of the Civic Works Committee
+
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 9th Report of the Civic Works Committee BE APPROVED, excluding Item 9 (clause 4.3).
 
@@ -3091,6 +3095,8 @@ Unanimous (13-0)
 
 ### 8.2.9. (4.3) Automated Enforcement Program Expansion Single Source 2023-142
 
+<div id="motion-8-2-9-1" class="motion-anchor"></div>
+
 > Motion to amend by adding a part g) as follows: "g)   the Civic Administration BE DIRECTED to investigate and implement additional Red Light Camera locations as may be feasible."
 
 **✅ Motion Passed (13 to 0)**
@@ -3098,6 +3104,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8.2.9. (4.3) Automated Enforcement Program Expansion Single Source 2023-142
+
+<div id="motion-8-2-9-2" class="motion-anchor"></div>
 
 > That Item 9, clause 4.3, as amended, BE APPROVED.
 
@@ -3107,6 +3115,8 @@ Unanimous (13-0)
 
 ### 8.3. 16th Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 16th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding Item 4 (clause 4.1) and Item 9 (clause 2.4).
 
 **✅ Motion Passed (13 to 0)**
@@ -3115,6 +3125,8 @@ Unanimous (13-0)
 
 ### 8.3.4. (4.1) 2022 Climate Emergency Action Plan Progress Report
 
+<div id="motion-8-3-4-1" class="motion-anchor"></div>
+
 > Motion to approve Item 4, clause 4.1, part a).
 
 **✅ Motion Passed (13 to 0)**
@@ -3122,6 +3134,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8.3.4. (4.1) 2022 Climate Emergency Action Plan Progress Report
+
+<div id="motion-8-3-4-2" class="motion-anchor"></div>
 
 > Motion to approve Item 4, clause 4.1, part b).
 
@@ -3140,6 +3154,8 @@ Unanimous (13-0)
 
 ### 8.3.9. (2.4) 1st Report of the Governance Working Group
 
+<div id="motion-8-3-9-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 1st Report of the Governance Working Group from its meeting held on May 17, 2023: a)  the following actions be taken with respect to the 2024 Standing Committee and Council Calendar: i)   the Civic Administration BE DIRECTED to draft a 2024 ...
 
 **✅ Motion Passed (12 to 1)**
@@ -3157,6 +3173,8 @@ Unanimous (13-0)
 
 ### 8.4. 9th Report of the Planning and Environment Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 9th Report of the Planning and Environment Committee BE APPROVED, excluding Item 7 (clause 2.6), Item 10 (clause 3.1), Item 13 (clause 3.4), and Item 15 (clause 3.6). it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the...
 
 **✅ Motion Passed (13 to 0)**
@@ -3164,6 +3182,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8.4.7. (2.6) Heritage Alteration Permit - 27 Bruce Street - Wortley Village-Old South Conservation District (HAP23-015-L)
+
+<div id="motion-8-4-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the replacement of the front porch on the heritage designated property at 27 Bruce Street, within the Wortley Village-Old South Heri...
 
@@ -3182,6 +3202,8 @@ Unanimous (13-0)
 
 ### 8.4.7. (2.6) Heritage Alteration Permit - 27 Bruce Street - Wortley Village-Old South Conservation District (HAP23-015-L)
 
+<div id="motion-8-4-7-1" class="motion-anchor"></div>
+
 > That, notwithstanding the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the replacement of the front porch on the heritage designated property at 27 Bruce Street, within the Wortley Village-O...
 
 **✅ Motion Passed (9 to 5)**
@@ -3199,6 +3221,8 @@ Unanimous (13-0)
 
 ### 8.4.10. (3.1) 340-390 Saskatoon Street (Z-9599 / O-9600) (Relates to Bill No. 177)
 
+<div id="motion-8-4-10-2" class="motion-anchor"></div>
+
 > That Item 10, clause 3.1 as amended, BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -3206,6 +3230,8 @@ Unanimous (13-0)
 Unanimous (14-0)
 
 ### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
+
+<div id="motion-8-4-13-2" class="motion-anchor"></div>
 
 > That Item 13, clause 3.4, part c), BE REFERRED to a future Planning and Environment Committee for further discussion.
 
@@ -3224,6 +3250,8 @@ Unanimous (14-0)
 
 ### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
 
+<div id="motion-8-4-13-3" class="motion-anchor"></div>
+
 > That Item 13, clause 3.4, part c), BE AMENDED to read as follows: "c)    the Civic Administration BE DIRECTED to undertake a review of the current five-bedroom limit, with the review to include consideration of the Residential Licensing By-law and the Business Licensing By-law as it pertains to L...
 
 **✅ Motion Passed (13 to 1)**
@@ -3241,6 +3269,8 @@ Unanimous (14-0)
 
 ### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
 
+<div id="motion-8-4-13-4" class="motion-anchor"></div>
+
 > That Item 13, clause 3.4, part c), as amended BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -3248,6 +3278,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
+
+<div id="motion-8-4-13-5" class="motion-anchor"></div>
 
 > That Item 13, clause 3.4, as amended, excluding part c), BE APPROVED.
 
@@ -3257,6 +3289,8 @@ Unanimous (14-0)
 
 ### 8.4.15. (3.6) 644-646 Huron Street (OZ-9580) (Relates to Bill No.'s 167 and 181)
 
+<div id="motion-8-4-15-1" class="motion-anchor"></div>
+
 > That Item 15, clause 3.6, BE AMENDED to read as follows: "That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2614442 Ontario Inc., relating to the property located at 644-646 Huron Street: a)    the...
 
 **✅ Motion Passed (14 to 0)**
@@ -3264,6 +3298,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.4.15. (3.6) 644-646 Huron Street (OZ-9580) (Relates to Bill No.'s 167 and 181)
+
+<div id="motion-8-4-15-2" class="motion-anchor"></div>
 
 > That Item 15, clause 3.6, as amended BE APPROVED.
 
@@ -3273,6 +3309,8 @@ Unanimous (14-0)
 
 ### 8.5. 10th Report of the Corporate Services Committee
 
+<div id="motion-8-5-0" class="motion-anchor"></div>
+
 > That the 10th Report of the Corporate Services Committee BE APPROVED, with the exception of Item 7 (clause 2.5), Item 8 (clause 2.6), Item 9 (clause 4.1), Item 11 (clause 4.3), Item 12 (clause 4.4).
 
 **✅ Motion Passed (14 to 0)**
@@ -3280,6 +3318,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.5.7. (2.5) Expropriation of Lands - East London Link Project Phase 3 (Relates to Bill No. 170)
+
+<div id="motion-8-5-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Eas...
 
@@ -3298,6 +3338,8 @@ Unanimous (14-0)
 
 ### 8.5.8. (2.6) Expropriation of Lands - Wellington Gateway Project Phase 3 and 4 (Relates to Bill No. 171)
 
+<div id="motion-8-5-8-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
 
 **✅ Motion Passed (13 to 1)**
@@ -3315,6 +3357,8 @@ Unanimous (14-0)
 
 ### 8.5.9. (4.1) Budweiser Gardens Expansion and Renovation Proposal
 
+<div id="motion-8-5-9-1" class="motion-anchor"></div>
+
 > That the recommendation BE AMENDED by adding a new part e), as follows: "e)  in support of our Climate Emergency Action Plan and net zero goal, Civic Administration BE DIRECTED to work with OVG360 to bring forward existing and contemplated plans for energy efficiency retrofits to Budweiser Garden...
 
 **✅ Motion Passed (14 to 0)**
@@ -3323,6 +3367,8 @@ Unanimous (14-0)
 
 ### 8.5.9. (4.1) Budweiser Gardens Expansion and Renovation Proposal
 
+<div id="motion-8-5-9-2" class="motion-anchor"></div>
+
 > That Item 9, clause 4.1 as amended, BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -3330,6 +3376,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### 8.5.11. (4.3) Application - Issuance of Proclamation - Action Anxiety Day
+
+<div id="motion-8-5-11-0" class="motion-anchor"></div>
 
 > That based on the application dated April 7, 2023 from Anxiety Canada, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.
 
@@ -3345,6 +3393,8 @@ Unanimous (13-0)
 </details>
 
 ### 8.5.12. (4.4) Application - Issuance of Proclamation - World Sickle Cell Day 2023
+
+<div id="motion-8-5-12-0" class="motion-anchor"></div>
 
 > That based on the application dated May 10, 2023 from Sickle Cell Awareness Group of Ontario, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.
 
@@ -3363,6 +3413,8 @@ Unanimous (13-0)
 
 ### 8.6. 11th Report of the Corporate Services Committee
 
+<div id="motion-8-6-0" class="motion-anchor"></div>
+
 > That the 11th Report of the Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -3371,6 +3423,8 @@ Unanimous (13-0)
 
 ### 9.1. 9th Report of Council in Closed Session
 
+<div id="motion-9-1-0" class="motion-anchor"></div>
+
 > 1.    Lease Agreement – Upper Thames River Conservation Authority Fanshawe Golf Course That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of Deputy City Manager, Neighbourhood and Community-Wide Service, on the advice of the Director, Realty Services, w...
 
 **✅ Motion Passed (13 to 0)**
@@ -3378,6 +3432,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 13. By-laws
+
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.’s 170 and 171 BE APPROVED.
 
@@ -3396,6 +3452,8 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
+<div id="motion-13-4" class="motion-anchor"></div>
+
 > That Second Reading of Bill No.'s 170 and 171 BE APPROVED.
 
 **✅ Motion Passed (12 to 1)**
@@ -3412,6 +3470,8 @@ Unanimous (13-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.'s 170 and 171 BE APPROVED.
 

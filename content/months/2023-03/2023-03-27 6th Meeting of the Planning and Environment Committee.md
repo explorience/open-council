@@ -1353,6 +1353,8 @@ Thanks, folks. Thank you.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Item 2.1 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1360,6 +1362,8 @@ Thanks, folks. Thank you.
 Unanimous (5-0)
 
 ### 3.7. 614 Westmount Crescent (Z-9553)
+
+<div id="motion-3-7-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application by LA-Rosa Community Ltd., relating to the property located at 614 Westmount Crescent: a)   the proposed, revised, attached, by-law (Appendix "A") BE INTRODUCED at the Municipal Council meeting to be held on April 4, 2023 to ame...
 

@@ -437,6 +437,8 @@ The meeting adjourned at 5:51 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.9 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -444,6 +446,8 @@ The meeting adjourned at 5:51 PM.
 Unanimous (6-0)
 
 ### 3.1. Request for Support for UN Safe Cities Initiative - ANOVA
+
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That the communication dated March 20, 2018, from ANOVA, with respect to a request for support related to the UN Safe Cities Initiative BE REFERRED to the City Manager for further refinement regarding the proposal , including resource sourcing.
 

@@ -484,6 +484,8 @@ Good afternoon, everyone. Have a great one, see you later. Thank you, Chair.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.3, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -491,6 +493,8 @@ Good afternoon, everyone. Have a great one, see you later. Thank you, Chair.
 Unanimous (5-0)
 
 ### 4.1. Application - Issuance of Proclamation - International Day for the Elimination of Violence Against Women
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That based on the application dated October 4, 2021 from Anova: A Future Without Violence, November 25, 2021 BE PROCLAIMED as International Day for the Elimination of Violence Against Women.
 
@@ -500,6 +504,8 @@ Unanimous (5-0)
 
 ### 4.2. Application - Issuance of Proclamation - Salvation Army Week
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That based on the application dated October 19, 2021 from The Governing Council of The Salvation Army, December 17, 2021 BE PROCLAIMED as Salvation Army Week.
 
 **✅ Motion Passed (5 to 0)**
@@ -508,6 +514,8 @@ Unanimous (5-0)
 
 ### 4.3. Deferred Council Directions Concerning Indigenous Relations
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > That the City Council directions as mentioned below BE REFERRED to the Indigenous Community Liaison Advisor for a report back with respect to these matters: December 6, 2016 “That clause 6 [concerning a land acknowledgement at meetings of City Council] BE REFERRED back for further consultation wi...
 
 **✅ Motion Passed (5 to 0)**
@@ -515,6 +523,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.4. Standing and Council Meeting Procedures
+
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to bring forward to a future meeting of the Corporate Services Committee for consideration, a draft policy with respect to the participation in hybrid electronic meetings by Council Members, staff and the public.
 

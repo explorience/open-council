@@ -1684,6 +1684,8 @@ The
 ### 2. 3rd Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1693,6 +1695,8 @@ Unanimous (3-0)
 
 ### 3. 3rd Report of the
   Advisory Committee on the Environment
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1704,6 +1708,8 @@ Unanimous (3-0)
 ### 4. Property located at
   1570 Highbury Avenue North (H-8242)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1713,6 +1719,8 @@ Unanimous (3-0)
 
 ### 5. Property located at
   312 Sunningdale Road West (H-8292)
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1724,6 +1732,8 @@ Unanimous (3-0)
 ### 6. Property located at
   350 Oxford Street East (H-8296)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1733,6 +1743,8 @@ Unanimous (3-0)
 
 ### 7. Property located at
   1103 Adelaide Street North (H-8240)
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1744,6 +1756,8 @@ Unanimous (3-0)
 ### 8. Building Division Monthly
   Report for January 2014
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1754,6 +1768,8 @@ Unanimous (3-0)
 ### 9. Property located at
   103 Elmwood Avenue East - Appeal to Provisional Consent Decision
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1764,15 +1780,7 @@ Unanimous (3-0)
 ### 10. Property located at
   1040 Coronation Drive (Z-8201)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 10. Property located at
-  1040 Coronation Drive (Z-8201)
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1784,6 +1792,8 @@ Unanimous (4-0)
 ### 10. Property located at
   1040 Coronation Drive (Z-8201)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1793,6 +1803,20 @@ Unanimous (4-0)
 
 ### 10. Property located at
   1040 Coronation Drive (Z-8201)
+
+<div id="motion-10-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 10. Property located at
+  1040 Coronation Drive (Z-8201)
+
+<div id="motion-10-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1804,6 +1828,8 @@ Unanimous (5-0)
 ### 10. Property located at
   1040 Coronation Drive (Z-8201)
 
+<div id="motion-10-4" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1813,6 +1839,8 @@ Unanimous (4-0)
 
 ### 10. Property located at
   1040 Coronation Drive (Z-8201)
+
+<div id="motion-10-5" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1824,15 +1852,7 @@ Unanimous (5-0)
 ### 12. Property located at
   1992 Fanshawe Park Road West (TZ-8307)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. Property located at
-  1992 Fanshawe Park Road West (TZ-8307)
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1844,6 +1864,20 @@ Unanimous (5-0)
 ### 12. Property located at
   1992 Fanshawe Park Road West (TZ-8307)
 
+<div id="motion-12-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Property located at
+  1992 Fanshawe Park Road West (TZ-8307)
+
+<div id="motion-12-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1854,15 +1888,7 @@ Unanimous (5-0)
 ### 13. Property located at
   2090 Hyde Park Road (Z-8290)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. Property located at
-  2090 Hyde Park Road (Z-8290)
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1873,6 +1899,20 @@ Unanimous (5-0)
 
 ### 13. Property located at
   2090 Hyde Park Road (Z-8290)
+
+<div id="motion-13-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Property located at
+  2090 Hyde Park Road (Z-8290)
+
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1884,15 +1924,7 @@ Unanimous (5-0)
 ### 14. Unevaluated
   Vegetation Patches (OZ-8271)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 14. Unevaluated
-  Vegetation Patches (OZ-8271)
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1904,6 +1936,20 @@ Unanimous (5-0)
 ### 14. Unevaluated
   Vegetation Patches (OZ-8271)
 
+<div id="motion-14-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. Unevaluated
+  Vegetation Patches (OZ-8271)
+
+<div id="motion-14-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1914,15 +1960,7 @@ Unanimous (5-0)
 ### 15. Property located on
   a portion of 290 Hale Street (OZ-8271)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 15. Property located on
-  a portion of 290 Hale Street (OZ-8271)
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1933,6 +1971,20 @@ Unanimous (5-0)
 
 ### 15. Property located on
   a portion of 290 Hale Street (OZ-8271)
+
+<div id="motion-15-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 15. Property located on
+  a portion of 290 Hale Street (OZ-8271)
+
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1944,15 +1996,7 @@ Unanimous (5-0)
 ### 16. Property located on
   a portion of 2339 Dundas Street and 2347 Dundas Street (OZ-8271)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 16. Property located on
-  a portion of 2339 Dundas Street and 2347 Dundas Street (OZ-8271)
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1963,6 +2007,20 @@ Unanimous (5-0)
 
 ### 16. Property located on
   a portion of 2339 Dundas Street and 2347 Dundas Street (OZ-8271)
+
+<div id="motion-16-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 16. Property located on
+  a portion of 2339 Dundas Street and 2347 Dundas Street (OZ-8271)
+
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1975,16 +2033,7 @@ Unanimous (5-0)
   a portion of 1424 Clarke Road, 2120 Huron Street, 2204 Huron Street and 16090
   Robins Hill Road (OZ-8271)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 17. Properties located on
-  a portion of 1424 Clarke Road, 2120 Huron Street, 2204 Huron Street and 16090
-  Robins Hill Road (OZ-8271)
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1997,6 +2046,21 @@ Unanimous (5-0)
   a portion of 1424 Clarke Road, 2120 Huron Street, 2204 Huron Street and 16090
   Robins Hill Road (OZ-8271)
 
+<div id="motion-17-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 17. Properties located on
+  a portion of 1424 Clarke Road, 2120 Huron Street, 2204 Huron Street and 16090
+  Robins Hill Road (OZ-8271)
+
+<div id="motion-17-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2008,16 +2072,7 @@ Unanimous (5-0)
   on a portion of 2470 Colonel Talbot Road, 2536 Colonel Talbot Road, 2544
   Colonel Talbot Road and 947 Longworth Road (OZ-8271)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 18. Properties located
-  on a portion of 2470 Colonel Talbot Road, 2536 Colonel Talbot Road, 2544
-  Colonel Talbot Road and 947 Longworth Road (OZ-8271)
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2029,6 +2084,21 @@ Unanimous (5-0)
 ### 18. Properties located
   on a portion of 2470 Colonel Talbot Road, 2536 Colonel Talbot Road, 2544
   Colonel Talbot Road and 947 Longworth Road (OZ-8271)
+
+<div id="motion-18-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 18. Properties located
+  on a portion of 2470 Colonel Talbot Road, 2536 Colonel Talbot Road, 2544
+  Colonel Talbot Road and 947 Longworth Road (OZ-8271)
+
+<div id="motion-18-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2040,6 +2110,8 @@ Unanimous (5-0)
 ### 19. 3rd Report of the
   London Advisory Committee on Heritage
 
+<div id="motion-19-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2050,6 +2122,8 @@ Unanimous (5-0)
 ### 20. 2nd Report of the
   Trees and Forests Advisory Committee
 
+<div id="motion-20-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2059,6 +2133,8 @@ Unanimous (5-0)
 
 ### 21. Medway Valley Heritage Forest
   Environmentally Significant Area, Phase One, Conservation Master Plan
+
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

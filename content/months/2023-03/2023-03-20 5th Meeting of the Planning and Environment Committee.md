@@ -683,6 +683,8 @@ All in favor, hand vote, meeting is adjourned, thank you everyone.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.5, inclusive, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -691,6 +693,8 @@ Unanimous (5-0)
 
 ### 2.6. 864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L)
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > That, notwithstanding the previous recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the application under Section 42 of the Ontario Heritage Act seeking approval to pave a portion of the front yard for parking on the heritage designated property a...
 
 **✅ Motion Passed (5 to 0)**
@@ -698,6 +702,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.6. 864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L)
+
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > Motion to approve the staff recommendation with a revised part a): "a) the applicant be required to use a permeable option, such as gravel or permeable pavers, for the paving material to reduce the environmental and heritage landscape impact of the new driveway; and,"
 

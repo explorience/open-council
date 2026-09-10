@@ -1471,6 +1471,8 @@ Thank you, we are adjourned.
 
 ### 2.1. Intention to Expand the Hyde Park Business Improvement Area (BIA)
 
+<div id="motion-2-1-2" class="motion-anchor"></div>
+
 > That the referral motion BE AMENDED to read as follows:    That the staff report dated June 10, 2025, related to the Hyde Park Business Improvement Area request for expansion BE REFERRED to a future meeting of the Planning and Environment Committee in order for Civic Administration to work with t...
 
 **✅ Motion Passed (5 to 0)**
@@ -1478,6 +1480,8 @@ Thank you, we are adjourned.
 Unanimous (5-0)
 
 ### 2.1. Intention to Expand the Hyde Park Business Improvement Area (BIA)
+
+<div id="motion-2-1-3" class="motion-anchor"></div>
 
 > That the referral, as amended, BE APPROVED
 
@@ -1487,6 +1491,8 @@ Unanimous (5-0)
 
 ### 2.2. Downtown London: Momentum Report 2025
 
+<div id="motion-2-2-1" class="motion-anchor"></div>
+
 > That the delegation request from K. Nielsen, as appended to the agenda BE APPROVED, to be heard at this time.
 
 **✅ Motion Passed (5 to 0)**
@@ -1495,6 +1501,8 @@ Unanimous (5-0)
 
 ### 3.1. 35 Jim Ashton Street (OZ-25042)
 
+<div id="motion-3-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of The Islamic Educational Foundation of Canada Inc. – Neil Elhayek (c/o Monteith Brown Planning Consultants) relating to the properties located at 35 Jim Ashton S...
 
 **✅ Motion Passed (5 to 0)**
@@ -1502,6 +1510,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.3. 928-934 Oxford Street West (Z-25044)
+
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2419361 Ontario Inc & Ali Youssef (c/o Siv-ik Planning & Design) relating to the property located at 928 & 934 Oxford Street West; a)    The proposed by-...
 
@@ -1517,6 +1527,8 @@ Unanimous (5-0)
 </details>
 
 ### 3.4. 743 Richmond Street (OZ-25048)
+
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 743 Richmond Inc. (c/o Fitzrovia) relating to the property located at 743 Richmond Street: a)    the proposed by-law as appended to the staff report dated June ...
 

@@ -1207,6 +1207,8 @@ Motion Passed
 ### 2. London Children's
   Museum Capital Funding Request
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1216,6 +1218,8 @@ Unanimous (13-0)
 ### 3. 2018 Annual Budget
   Update - Public Engagement
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1224,6 +1228,8 @@ Unanimous (13-0)
 
 ### 4. Strategic
   Investment Update and Other Options to Reduce Budget Pressures
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1234,6 +1240,8 @@ Unanimous (12-0)
 ### 4. Strategic
   Investment Update and Other Options to Reduce Budget Pressures
 
+<div id="motion-4-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1242,6 +1250,8 @@ Unanimous (13-0)
 
 ### 4. Strategic
   Investment Update and Other Options to Reduce Budget Pressures
+
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1258,15 +1268,7 @@ Unanimous (13-0)
 
 ### 5. Budget Overview
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 6. CORPORATE OPERATING
-  AND CAPITAL BUDGETS
-  (rounded to the closest $1,000)
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1277,6 +1279,20 @@ Unanimous (13-0)
 ### 6. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-6-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6. CORPORATE OPERATING
+  AND CAPITAL BUDGETS
+  (rounded to the closest $1,000)
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1295,6 +1311,8 @@ Unanimous (13-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-6-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1304,6 +1322,8 @@ Unanimous (13-0)
 ### 6. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-6-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1322,6 +1342,8 @@ Unanimous (13-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-6-4" class="motion-anchor"></div>
+
 > Motion Failed
 
 **❌ Motion Failed**
@@ -1338,6 +1360,8 @@ Unanimous (13-0)
 ### 6. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-6-5" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1356,6 +1380,8 @@ Unanimous (13-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-6-6" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1365,6 +1391,8 @@ Unanimous (12-0)
 ### 6. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-6-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1376,6 +1404,8 @@ Unanimous (10-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-6-8" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1385,6 +1415,8 @@ Unanimous (11-0)
 ### 6. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-6-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1396,25 +1428,7 @@ Unanimous (9-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 6. CORPORATE OPERATING
-  AND CAPITAL BUDGETS
-  (rounded to the closest $1,000)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### 6. CORPORATE OPERATING
-  AND CAPITAL BUDGETS
-  (rounded to the closest $1,000)
+<div id="motion-6-10" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1426,6 +1440,8 @@ Unanimous (13-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-6-11" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1435,6 +1451,32 @@ Unanimous (11-0)
 ### 6. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-6-12" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6. CORPORATE OPERATING
+  AND CAPITAL BUDGETS
+  (rounded to the closest $1,000)
+
+<div id="motion-6-13" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 6. CORPORATE OPERATING
+  AND CAPITAL BUDGETS
+  (rounded to the closest $1,000)
+
+<div id="motion-6-14" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1452,6 +1494,8 @@ Unanimous (11-0)
 ### 6. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-6-15" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1471,6 +1515,8 @@ Unanimous (11-0)
 (rounded to the
   closest $1,000)
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1479,6 +1525,8 @@ Unanimous (11-0)
 
 ### 8. 2019 Budget – Identification of Potential
   Adjustments to Achieve Targets
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1495,6 +1543,8 @@ Unanimous (11-0)
 
 ### 8. 2019 Budget – Identification of Potential
   Adjustments to Achieve Targets
+
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion Passed
 

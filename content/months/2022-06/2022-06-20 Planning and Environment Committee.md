@@ -1018,6 +1018,8 @@ The meeting adjourned at 9:15 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.7, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1025,6 +1027,8 @@ The meeting adjourned at 9:15 PM.
 Unanimous (6-0)
 
 ### 3.5. 84-86 St. George Street and 175-197 Ann Street (OZ-9127)
+
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application by St. George and Ann Block Limited, relating to the property located at 84-86 St. George Street and 175-197 Ann Street: a)    the proposed, attached, by-law (Appendix A) BE INTRODUCED at the Municipal Council meeting to be held...
 
@@ -1041,6 +1045,8 @@ Unanimous (6-0)
 
 ### 3.5. 84-86 St. George Street and 175-197 Ann Street (OZ-9127)
 
+<div id="motion-3-5-1" class="motion-anchor"></div>
+
 > Motion to amend the motion to replace the by-law reference in part b) to introduce the draft by-law appended as Appendix B to the staff report, the alternative by-law from Planning and Development
 
 **❌ Motion Failed (2 to 4) 🔥**
@@ -1055,6 +1061,8 @@ Unanimous (6-0)
 </details>
 
 ### 3.6. 689 Oxford Street West (Z-9199 & O-9206)
+
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, the application by 2399731 Ontario Ltd, c/o Westdell Development Corporation BE REFERRED back to the Civic Administration to work with the developer to improve the proposed transition from high density towers to the existing low density abutting residential neighbourhoods with specific atte...
 
@@ -1071,6 +1079,8 @@ Unanimous (6-0)
 
 ### 3.6. 689 Oxford Street West (Z-9199 & O-9206)
 
+<div id="motion-3-6-3" class="motion-anchor"></div>
+
 > That Mr. L. Kirkness's delegation BE EXTENDED beyond five minutes.
 
 **✅ Motion Passed (5 to 1)**
@@ -1085,6 +1095,8 @@ Unanimous (6-0)
 </details>
 
 ### 3.6. 689 Oxford Street West (Z-9199 & O-9206)
+
+<div id="motion-3-6-4" class="motion-anchor"></div>
 
 > Shall the ruling of the Chair BE SUSTAINED.
 
@@ -1101,6 +1113,8 @@ Unanimous (6-0)
 
 ### 3.7. 599-601 Richmond Street (Z-9367)
 
+<div id="motion-3-7-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Westell Development Corp., relating to the property located at 599-601 Richmond Street: a)    the proposed by-law appended to the staff report dated June 20, 20...
 
 **✅ Motion Passed (5 to 0)**
@@ -1108,6 +1122,8 @@ Unanimous (6-0)
 Unanimous (5-0)
 
 ### 3.8. 801 Sarnia Road (O-9475 & Z-9476)
+
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2425293 Ontario Inc., relating to the property located at 801 Sarnia Road: a)    the proposed, attached, revised by-law (Appendix "A") BE INTRODUCED at the Muni...
 

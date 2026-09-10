@@ -435,6 +435,8 @@ The meeting adjourned at 1:57 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.1, 2.5 and 2.7 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -442,6 +444,8 @@ The meeting adjourned at 1:57 PM.
 Unanimous (6-0)
 
 ### 2.2. 2021 Council Compensation Review Task Force
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2021 Council Compensation Review Task Force:    a)      the City Clerk BE DIRECTED to commence the 2021 Council Compensation Review Task Force review based on the Terms of Reference as appended to the staff report as Appendix “A”; and,    b)...
 
@@ -451,6 +455,8 @@ Unanimous (6-0)
 
 ### 2.3. Court Security and Prisoner Transportation Program Transfer Payment Agreement
 
+<div id="motion-2-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports the proposed by-law as appended to the staff report dated May 10, 2021 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on May 25, 2021 to:    a)      approve the Ontario Transfer Payment Agreement between Her ...
 
 **✅ Motion Passed (6 to 0)**
@@ -458,6 +464,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.6. Elected Officials and Appointed Citizen Members 2021 Remuneration
+
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > That, notwithstanding the provisions of the Council Policy "Remuneration for Elected Officials and Appointed Citizen Members", the remuneration for elected officials and appointed citizens, NO INCREASE to remuneration for elected officials for appointed citizens be made for 2021; it being noted t...
 
@@ -473,6 +481,8 @@ Unanimous (6-0)
 </details>
 
 ### 5.1. (ADDED) Application - Issuance of Proclamation - June is Deafblind Awareness Month
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That based on the application dated May 6, 2021 from Sensity Deafblind and Sensory Support Network of Canada, the month of June, 2021 BE PROCLAIMED June is Deafblind Awareness Month.
 

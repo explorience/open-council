@@ -6449,6 +6449,8 @@ We'll do this by hand, all those in favour of adjournment. That motion carries. 
 
 ### 6.1. Expropriation of Lands - East London Link Project - Phase 3 (As the "Approving Authority")
 
+<div id="motion-6-1-0" class="motion-anchor"></div>
+
 > That Council convene as the Approving Authority pursuant to the provisions of the Expropriation Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure, with respect to the expropriation of the lands as ...
 
 **✅ Motion Passed (13 to 2)**
@@ -6464,6 +6466,8 @@ We'll do this by hand, all those in favour of adjournment. That motion carries. 
 
 ### 6.1. Expropriation of Lands - East London Link Project - Phase 3 (As the "Approving Authority")
 
+<div id="motion-6-1-1" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
 
 **✅ Motion Passed (13 to 2)**
@@ -6478,6 +6482,8 @@ We'll do this by hand, all those in favour of adjournment. That motion carries. 
 </details>
 
 ### 6.1. Expropriation of Lands - East London Link Project - Phase 3 (As the "Approving Authority")
+
+<div id="motion-6-1-2" class="motion-anchor"></div>
 
 > That the meeting of the Approving Authority be adjourned and that the Municipal Council reconvene in regular session.
 
@@ -6494,6 +6500,8 @@ We'll do this by hand, all those in favour of adjournment. That motion carries. 
 
 ### 6.2. Expropriation of Lands - East London Link Project - Phase 3 (As the "Expropriating Authority")
 
+<div id="motion-6-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
 
 **✅ Motion Passed (13 to 2)**
@@ -6508,6 +6516,8 @@ We'll do this by hand, all those in favour of adjournment. That motion carries. 
 </details>
 
 ### 6.3. Expropriation of Lands - Wellington Gateway Project - Phase 3 and 4 (As the "Approving Authority")
+
+<div id="motion-6-3-0" class="motion-anchor"></div>
 
 > That Council convene as the Approving Authority pursuant to the provisions of the Expropriation Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure, with respect to the expropriation of the lands as ...
 
@@ -6524,6 +6534,8 @@ We'll do this by hand, all those in favour of adjournment. That motion carries. 
 
 ### 6.3. Expropriation of Lands - Wellington Gateway Project - Phase 3 and 4 (As the "Approving Authority")
 
+<div id="motion-6-3-1" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
 
 **✅ Motion Passed (14 to 1)**
@@ -6538,6 +6550,8 @@ We'll do this by hand, all those in favour of adjournment. That motion carries. 
 </details>
 
 ### 6.4. Expropriation of Lands - Wellington Gateway Project - Phase 3 and 4 (As the "Expropriating Authority")
+
+<div id="motion-6-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
 
@@ -6554,6 +6568,8 @@ We'll do this by hand, all those in favour of adjournment. That motion carries. 
 
 ### 8.1. 19th Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 19th Report of the Strategic Priorities and Policy Committee  BE APPROVED, excluding Items 3 (4.1) and 5 (4.3).
 
 **✅ Motion Passed (15 to 0)**
@@ -6561,6 +6577,8 @@ We'll do this by hand, all those in favour of adjournment. That motion carries. 
 Unanimous (15-0)
 
 ### 8.1.3. (4.1) Master Accommodation Plan - Alternate Work Strategies Update
+
+<div id="motion-8-1-3-1" class="motion-anchor"></div>
 
 > That pursuant to section 2.3 of the Council Procedure By-law the rules of the said by-law BE SUSPENDED for the purpose of allowing members to speak more than once, and potentially in excess of five minutes, with respect to this matter.
 
@@ -6577,6 +6595,8 @@ Unanimous (15-0)
 
 ### 8.1.3. (4.1) Master Accommodation Plan - Alternate Work Strategies Update
 
+<div id="motion-8-1-3-2" class="motion-anchor"></div>
+
 > That the motion BE AMENDED by adding the following new part c): "c)     the Civic Administration return to a future meeting of the appropriate standing committee regarding possible recommendations for recruitment and retention of Planning and Development and Building staff."
 
 **✅ Motion Passed (15 to 0)**
@@ -6584,6 +6604,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.1.3. (4.1) Master Accommodation Plan - Alternate Work Strategies Update
+
+<div id="motion-8-1-3-3" class="motion-anchor"></div>
 
 > That parts a) and b) of the motion, as amended, BE APPROVED: That the following actions be taken with respect to the Master Accommodation Plan and Alternative Work Strategies: a)   the Civic Administration BE DIRECTED to amend the current Alternative Work Strategies in the Planning and Developmen...
 
@@ -6600,6 +6622,8 @@ Unanimous (15-0)
 
 ### 8.1.3. (4.1) Master Accommodation Plan - Alternate Work Strategies Update
 
+<div id="motion-8-1-3-4" class="motion-anchor"></div>
+
 > That part c) of the motion as amended, BE APPROVED: c)     the Civic Administration return to a future meeting of the appropriate standing committee regarding possible recommendations for recruitment and retention of Planning and Development, and Building staff.
 
 **✅ Motion Passed (15 to 0)**
@@ -6607,6 +6631,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.1.5. (4.3) Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members) (Relates to Bill No. 225)
+
+<div id="motion-8-1-5-0" class="motion-anchor"></div>
 
 > That consideration of the appointments by the Municipal Council to the London Hydro Board of Directors BE DEFERRED to the August 29, 2023 meeting of the municipal council, at the request of London Hydro.
 
@@ -6623,6 +6649,8 @@ Unanimous (15-0)
 
 ### 8.2. 12th Report of the Planning and Environment Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That the 12th Report of the Planning and Environment Committee  BE APPROVED, excluding Item 16 (3.10) and 19 (4.3).
 
 **✅ Motion Passed (15 to 0)**
@@ -6630,6 +6658,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.2.16. (3.10) 599-601 Richmond Street (Z-9607) (Relates to Bill No. 251)
+
+<div id="motion-8-2-16-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED by adding the following new part c): c)     the Civic Administration BE DIRECTED to report back with a status update on the affordable housing agreement for 599-601 Richmond Street when discussions between the Applicant and Municipal Housing Development begin, and when ...
 
@@ -6646,6 +6676,8 @@ Unanimous (15-0)
 
 ### 8.2.16. (3.10) 599-601 Richmond Street (Z-9607) (Relates to Bill No. 251)
 
+<div id="motion-8-2-16-2" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (12 to 3)**
@@ -6661,6 +6693,8 @@ Unanimous (15-0)
 
 ### 8.2.19. (4.3) 39 Carfrae Street - Application Pursuant to Heritage Easement Agreement
 
+<div id="motion-8-2-19-1" class="motion-anchor"></div>
+
 > That the motion, excluding part b), of the clause BE APPROVED: That the following actions be taken with respect to the application pursuant to the Heritage Easement Agreement under Section 37, Ontario Heritage Act, for the property located at 39 Carfrae Street: a)    the Civic Administration BE D...
 
 **✅ Motion Passed (15 to 0)**
@@ -6668,6 +6702,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.2.19. (4.3) 39 Carfrae Street - Application Pursuant to Heritage Easement Agreement
+
+<div id="motion-8-2-19-2" class="motion-anchor"></div>
 
 > That part b) of the motion, BE APPROVED: b)    the heritage alteration application to install asphalt shingles or an alternate composite material for the roof replacement of the property located at 39 Carfrae Street BE APPROVED;
 
@@ -6684,6 +6720,8 @@ Unanimous (15-0)
 
 ### 8.3. 14th Report of the Corporate Services Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 14th Report of the Corporate Services Committee BE APPROVED, excluding Items 9 (4.1) and 14 (2.5).
 
 **✅ Motion Passed (15 to 0)**
@@ -6691,6 +6729,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.9. (4.1) Consideration of Appointments to the London Community Advisory Committees
+
+<div id="motion-8-3-9-1" class="motion-anchor"></div>
 
 > Appointment to the Community Advisory Committee on Planning
 
@@ -6703,6 +6743,8 @@ Unanimous (15-0)
 
 ### 8.3.9. (4.1) Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-8-3-9-2" class="motion-anchor"></div>
+
 > Appointment to the Integrated Transportation Community Advisory Committee
 
 **❌ Majority Winner: Emily Poirier; Amanda Pfeffer; Anuar Issa 🔥**
@@ -6714,6 +6756,8 @@ Unanimous (15-0)
 
 ### 8.3.9. (4.1) Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-8-3-9-3" class="motion-anchor"></div>
+
 > That parts a), c) and d) of the clause BE APPROVED: That the following actions be taken with respect to the Community Advisory Committees: a)  that the following actions be taken with respect to appointments to the Animal Welfare Community Advisory Committee:       i)     the following individual...
 
 **✅ Motion Passed (15 to 0)**
@@ -6721,6 +6765,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.9. (4.1) Consideration of Appointments to the London Community Advisory Committees
+
+<div id="motion-8-3-9-4" class="motion-anchor"></div>
 
 > b)  the following individuals BE APPOINTED as Voting Members to the Community Advisory Committee on Planning for the term ending February 2024: Mark C. Ambrogio Sarvarinder Singh Dohil Jeff Gard
 
@@ -6737,6 +6783,8 @@ Unanimous (15-0)
 
 ### 8.3.9. (4.1) Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-8-3-9-5" class="motion-anchor"></div>
+
 > e)   the following individuals BE APPOINTED as Voting Members to the Integrated Transportation Community Advisory Committee for the term ending February 2024: Emily Poirier Anuar Issa Amanda Pfeffer
 
 **✅ Motion Passed (15 to 0)**
@@ -6745,6 +6793,8 @@ Unanimous (15-0)
 
 ### 8.3.14. (2.5) Council Policy Manual Review 2023 (Relates to Bill No.'s 216 to 224, 232 and 233)
 
+<div id="motion-8-3-14-1" class="motion-anchor"></div>
+
 > That parts a) and c) of the motion BE APPROVED: That, on the recommendation of the City Clerk, the following actions be taken with respect to the “Policy for the Establishment and Maintenance of Council Polices”: a)    the proposed by-laws as appended to the staff report dated July 17, 2023 as Ap...
 
 **✅ Motion Passed (15 to 0)**
@@ -6752,6 +6802,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.14. (2.5) Council Policy Manual Review 2023 (Relates to Bill No.'s 216 to 224, 232 and 233)
+
+<div id="motion-8-3-14-2" class="motion-anchor"></div>
 
 > That part b) of the motion BE APPROVED: b)    the following items, related to the Council Policy Manual Review 2023, BE REFERRED to the Governance Working Group for consideration: the proposed by-laws as appended to the staff report dated July 17, 2023 as Appendices C1 to C49, to make the specifi...
 
@@ -6770,6 +6822,8 @@ Unanimous (15-0)
 
 ### 8.3.14. (2.5) Council Policy Manual Review 2023 (Relates to Bill No.'s 216 to 224, 232 and 233)
 
+<div id="motion-8-3-14-3" class="motion-anchor"></div>
+
 > b) the attached proposed by-laws (Appendices C1 to C49) BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to make the specified amendments to the following Council Policies: 1. Accountability & Transparency to Public Policy 2. Assessment Growth Policy 3. Assumption of Wo...
 
 **✅ Motion Passed (12 to 1)**
@@ -6787,6 +6841,8 @@ Unanimous (15-0)
 
 ### 8.4. 12th Report of the Community and Protective Services Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 12th Report of the Community and Protective Services Committee BE APPROVED, excluding Items 5 (2.3), 6 (2.4) and 8 (4.2).
 
 **✅ Motion Passed (14 to 0)**
@@ -6794,6 +6850,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 8.4.5. (2.3)  Housing Stability Services 2023-24 Contract Amendments
+
+<div id="motion-8-4-5-1" class="motion-anchor"></div>
 
 > That the recommendation BE AMENDED by adding the following new part e): e)     the Civic Administration BE DIRECTED to provide a report to a future Community and Protective Services Committee (CPSC) to identify options and the associated costs to address the safety and security concerns identifie...
 
@@ -6810,6 +6868,8 @@ Unanimous (14-0)
 
 ### 8.4.5. (2.3)  Housing Stability Services 2023-24 Contract Amendments
 
+<div id="motion-8-4-5-3" class="motion-anchor"></div>
+
 > 
 
 **✅ Motion Passed (8 to 7) 🔥**
@@ -6824,6 +6884,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.4.5. (2.3)  Housing Stability Services 2023-24 Contract Amendments
+
+<div id="motion-8-4-5-4" class="motion-anchor"></div>
 
 > That the amendment, as amended, BE APPROVED as follows: That the motion BE FURTHER AMENDED by adding the following new part f) f)    a one-time funding allocation of up to $200,000 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 6...
 
@@ -6840,6 +6902,8 @@ Unanimous (14-0)
 
 ### 8.4.5. (2.3)  Housing Stability Services 2023-24 Contract Amendments
 
+<div id="motion-8-4-5-5" class="motion-anchor"></div>
+
 > The main motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -6847,6 +6911,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 8.4.6. (2.4)  Primary Care Recruitment, Transition into Practice and Retention Program Funding Request
+
+<div id="motion-8-4-6-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED by adding the following new parts c) and d): c) the City’s financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $80,000 per year for 1 year; it being noted that the program will be re-evaluated after the one-year contribution; a...
 
@@ -6865,6 +6931,8 @@ Unanimous (15-0)
 
 ### 8.4.6. (2.4)  Primary Care Recruitment, Transition into Practice and Retention Program Funding Request
 
+<div id="motion-8-4-6-2" class="motion-anchor"></div>
+
 > That the new part c) BE AMENDED by replacing the contribution amount of $80,000 with the amount of $28,500.
 
 **❌ Motion Failed (7 to 7) 🔥**
@@ -6881,6 +6949,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.4.6. (2.4)  Primary Care Recruitment, Transition into Practice and Retention Program Funding Request
+
+<div id="motion-8-4-6-3" class="motion-anchor"></div>
 
 > That the new part c) BE AMENDED by replacing the contribution amount of $80,000 with the amount of $50,000.
 
@@ -6899,6 +6969,8 @@ Unanimous (15-0)
 
 ### 8.4.6. (2.4)  Primary Care Recruitment, Transition into Practice and Retention Program Funding Request
 
+<div id="motion-8-4-6-4" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (10 to 4)**
@@ -6916,6 +6988,8 @@ Unanimous (15-0)
 
 ### 8.4.8. (4.2)  Thames Pool Condition Update and Repair Options
 
+<div id="motion-8-4-8-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED to take the following actions with respect to the Thames Pool:  a)    proceed with the process to decommission Thames Pool;  b)    undertake a community consultation with respect to implementing potential new amenities in Thames Park, including but not li...
 
 **✅ Motion Passed (8 to 7) 🔥**
@@ -6931,6 +7005,8 @@ Unanimous (15-0)
 
 ### 8.5. 11th Report of the Civic Works Committee
 
+<div id="motion-8-5-0" class="motion-anchor"></div>
+
 > That clauses 1 to 14,  the 11th Report of the Civic Works Committee BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -6938,6 +7014,8 @@ Unanimous (15-0)
 Unanimous (13-0)
 
 ### 8.5.15. (4.3)  Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
+
+<div id="motion-8-5-15-1" class="motion-anchor"></div>
 
 > That part b) of the motion BE APPROVED: b)    the Civic Administration BE REQUESTED to remove item 2.4.1 Mode Target Share Option 1 from the above-noted staff report;
 
@@ -6956,6 +7034,8 @@ Unanimous (13-0)
 
 ### 8.5.16. (4.4)  Councillor S. Franke - Climate Emergency Action Plan - Phase Out Gas
 
+<div id="motion-8-5-16-0" class="motion-anchor"></div>
+
 > That the communications included on the Added Agenda from Councillor S. Franke, related to Climate Emergency Action Plan - Phase Out Gas, BE REFERRED to the Civic Administration for review.
 
 **❌ Motion Failed (5 to 8) 🔥**
@@ -6972,6 +7052,8 @@ Unanimous (13-0)
 </details>
 
 ### 8.5.16. (4.4)  Councillor S. Franke - Climate Emergency Action Plan - Phase Out Gas
+
+<div id="motion-8-5-16-1" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Climate Emergency Action Plan: a)    the Mayor of the City of London, Councillor C. Rahman and Councillor A. Hopkins BE DIRECTED to submit a letter to AMO to develop a position and advocate on behalf of Ontario municipalities to request the ...
 
@@ -6990,6 +7072,8 @@ Unanimous (13-0)
 
 ### 9.1. 11th Report of Council in Closed Session
 
+<div id="motion-9-1-0" class="motion-anchor"></div>
+
 > 1.    CUPE 101 – Tentative Agreement That, on the recommendation of the City Manager and the Director, People Services, with the concurrence of the Deputy City Manager, Finance Supports, the attached Memorandum of Agreement dated June 28, 2023, and Agreed to Items dated February 6 and 28, 2023 co...
 
 **✅ Motion Passed (13 to 0)**
@@ -6997,6 +7081,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 9.2.2. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+<div id="motion-9-2-2-1" class="motion-anchor"></div>
 
 > That part a) of the motion BE APPROVED: That the following actions be taken with respect to the London’s Health & Homelessness Whole of Community System Response Proposed Hubs Implementation Plan report dated July 24, 2023: a)    the London’s Health & Homelessness Whole of Community System Respon...
 
@@ -7015,6 +7101,8 @@ Unanimous (13-0)
 
 ### 9.2.2. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
 
+<div id="motion-9-2-2-2" class="motion-anchor"></div>
+
 > That part b) of the motion BE APPROVED b)    the Civic Administration BE DIRECTED to undertake a competitive procurement process to select the Lead Agencies and their corresponding locations for the implementation of the first five Hubs and report back with the results and sources of financing fo...
 
 **✅ Motion Passed (10 to 4)**
@@ -7031,6 +7119,8 @@ Unanimous (13-0)
 </details>
 
 ### 9.2.2. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+<div id="motion-9-2-2-3" class="motion-anchor"></div>
 
 > That parts c) through h) BE APPROVED c)    the Civic Administration BE DIRECTED to secure sources of financing to support the implementation of the first five Hubs including a request through the London Community Foundation for access to the Health and Homelessness Fund for Change; d)    the staf...
 
@@ -7049,6 +7139,8 @@ Unanimous (13-0)
 
 ### 9.2.3. July Progress Update - Health and Homelessness Whole of Community
 
+<div id="motion-9-2-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken:    a)    the July Progress Update – Health & Homelessness Whole of Community System Response Report BE RECEIVED for information;    b)    the Request for Proposal (RFP-2023-174) ...
 
 **✅ Motion Passed (11 to 1)**
@@ -7065,6 +7157,8 @@ Unanimous (13-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 251, BE APPROVED.
 
@@ -7083,6 +7177,8 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
+<div id="motion-13-4" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 251, BE APPROVED.
 
 **✅ Motion Passed (9 to 3)**
@@ -7099,6 +7195,8 @@ Unanimous (13-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 251, BE APPROVED.
 
@@ -7117,6 +7215,8 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
+<div id="motion-13-6" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No.’s 255 to 303, BE APPROVED.
 
 **✅ Motion Passed (11 to 1)**
@@ -7134,6 +7234,8 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
+<div id="motion-13-7" class="motion-anchor"></div>
+
 > That Second Reading of Bill No.’s 255 to 303, BE APPROVED.
 
 **✅ Motion Passed (11 to 1)**
@@ -7150,6 +7252,8 @@ Unanimous (13-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.’s 255 to 303, BE APPROVED.
 

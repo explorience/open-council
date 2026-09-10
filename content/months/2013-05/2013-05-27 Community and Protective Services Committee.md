@@ -272,6 +272,8 @@ Motion
 ### 5. 6th Report of the
   Animal Welfare Advisory Committee
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -281,6 +283,8 @@ Unanimous (5-0)
 
 ### 6. Licensing of
   Methadone Pharmacies and Clinics
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -298,6 +302,8 @@ Unanimous (5-0)
 
 ### 7. Food Truck Proposal
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -308,6 +314,8 @@ Unanimous (5-0)
 ### 8. 5th Report of the
   London Diversity and Race Relations Advisory Committee
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -317,6 +325,8 @@ Unanimous (5-0)
 
 ### 9. Residential Rental
   Units Licensing Fees
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

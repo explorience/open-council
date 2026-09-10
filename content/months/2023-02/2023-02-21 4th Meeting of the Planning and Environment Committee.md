@@ -910,6 +910,8 @@ Thank you, we have no deferred matters or additional business, and I'll look for
 
 ### 2.8. 864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L)
 
+<div id="motion-2-8-0" class="motion-anchor"></div>
+
 > That the application under Section 42 of the Ontario Heritage Act seeking approval to pave a portion of the front yard for parking on the heritage designated property at 864 Hellmuth Avenue, within the Bishop Hellmuth Heritage Conservation District, BE REFERRED back to the Civic Administration to...
 
 **✅ Motion Passed (5 to 0)**
@@ -917,6 +919,8 @@ Thank you, we have no deferred matters or additional business, and I'll look for
 Unanimous (5-0)
 
 ### 2.8. 864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L)
+
+<div id="motion-2-8-1" class="motion-anchor"></div>
 
 > That P. McCulloch-Squires BE GRANTED delegation status with respect to the property located at 864 Hellmuth Avenue.
 
@@ -926,6 +930,8 @@ Unanimous (5-0)
 
 ### 4.2. Hyde Park Business Improvement Association - Community Improvement Plans
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That the communication dated January 31, 2023 from the Hyde Park Business Improvement Association, BE REFERRED to the Community Improvement Plan (CIP) And Financial Incentives Program 5-Year Review being undertaken by Civic Administration, to assess the feasibility of the Hyde Park Hamlet as a ca...
 
 **✅ Motion Passed (5 to 0)**
@@ -933,6 +939,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.2. Hyde Park Business Improvement Association - Community Improvement Plans
+
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > The request for delegation status by D. Szpakowski, Hyde Park Business Improvement Association, BE GRANTED.
 

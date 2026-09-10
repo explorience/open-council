@@ -834,6 +834,8 @@ The meeting adjourned at 5:24 PM.
 ### 2. 3rd Report of the
   Town and Gown Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -843,6 +845,8 @@ Unanimous (5-0)
 
 ### 3. 8th Report of the
   London Housing Advisory Committee
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -854,6 +858,8 @@ Unanimous (5-0)
 ### 4. RFP 17-06 - Cold
   Beverage Vending
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -862,6 +868,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5. Veterinary Services
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -872,6 +880,8 @@ Unanimous (5-0)
 
 ### 6. East Community
   Centre - Tender 17-67 - Project #P015-RC2756
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -884,6 +894,8 @@ Unanimous (5-0)
   Income-Related Subsidized  Public Transit Program Council By-Law, Agreement
   and Administration Process
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -893,6 +905,8 @@ Unanimous (5-0)
 
 ### 8. Automatic Aid
   Agreement with Central Elgin
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -905,6 +919,8 @@ Unanimous (5-0)
   Prevention System - Contract Award Request For Proposal 17-39 - London
   Homeless Prevention Allowance Program
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -914,6 +930,8 @@ Unanimous (5-0)
 
 ### 10. 9th Report of the
   Accessibility Advisory Committee
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -925,6 +943,8 @@ Unanimous (5-0)
 ### 11. By-Law Amendments
   to Dog Licensing & Control By-law, Animal Control By-law, Pit Bull Dog
   Licensing By-law, and Public Pound By-law
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -936,6 +956,8 @@ Unanimous (3-0)
 ### 11. By-Law Amendments
   to Dog Licensing & Control By-law, Animal Control By-law, Pit Bull Dog
   Licensing By-law, and Public Pound By-law
+
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -948,6 +970,8 @@ Unanimous (4-0)
   to Dog Licensing & Control By-law, Animal Control By-law, Pit Bull Dog
   Licensing By-law, and Public Pound By-law
 
+<div id="motion-11-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -959,6 +983,8 @@ Unanimous (3-0)
   Information – London Police Services Cost - August 26, 2017 and September 23,
   2017 Protests
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -968,6 +994,8 @@ Unanimous (5-0)
 
 ### 13. 8th and 9th Reports
   of the Animal Welfare Advisory Committee
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -979,6 +1007,8 @@ Unanimous (5-0)
 ### 14. 9th Report of the
   Diversity, Inclusion and Anti-Oppression Advisory Committee
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -988,6 +1018,8 @@ Unanimous (5-0)
 
 ### 15. 5th Report of the
   Community Safety & Crime Prevention Advisory Committee
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -999,6 +1031,8 @@ Unanimous (5-0)
 ### 16. Deferred Matters
   List
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1008,6 +1042,8 @@ Unanimous (5-0)
 
 ### 17. (ADDED) Youth and
   Low Income Bus Passes
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

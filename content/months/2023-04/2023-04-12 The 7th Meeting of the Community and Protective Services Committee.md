@@ -593,6 +593,8 @@ A hand vote of all in favor of adjournment. That passes. Thank you. Have a wonde
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 and 2.3 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -600,6 +602,8 @@ A hand vote of all in favor of adjournment. That passes. Thank you. Have a wonde
 Unanimous (5-0)
 
 ### 2.2. Property Standards Related Demolitions
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-law, as appended to the staff report dated April 12, 2023, BE INTRODUCED at the Municipal Council meeting to be held on April 25, 2023, to approve the potential demolition of vacant building...
 
@@ -609,6 +613,8 @@ Unanimous (5-0)
 
 ### 2.2. Property Standards Related Demolitions
 
+<div id="motion-2-2-1" class="motion-anchor"></div>
+
 > Motion to approve the delegation request by H. Froussios, Zelinka Priamo Ltd., to be heard at this meeting.
 
 **✅ Motion Passed (5 to 0)**
@@ -616,6 +622,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.4. 2022-2023 Winter Response and Community Accountability Working Group Funding Reallocation Request
+
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated April 12, 2023, related to the 2022-2023 Winter Response and Community Accountability Working Group Funding Reallocation Request: a)    a o...
 

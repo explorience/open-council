@@ -312,6 +312,8 @@ Motion
   Treasurer - Corporate Asset Management System Assessment and Program Pilot
   Trials
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -322,6 +324,8 @@ Unanimous (5-0)
 ### 3. Director of
   Intergovernmental and Community Liaison - Ministerial Delegations, AMO Annual
   General Meeting, Conference and Trade Show 2013
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -334,6 +338,8 @@ Unanimous (5-0)
   Usher and Councillor J.L. Baechler - Federation of Canadian Municipalities
   Board of Directors Meeting - St. John's, Newfoundland - September 4-7, 2013
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -343,6 +349,8 @@ Unanimous (5-0)
 
 ### 5. Councillor J.B.
   Swan - Councillor Expense Reports
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -354,6 +362,8 @@ Unanimous (5-0)
 ### 6. Councillor J.B.
   Swan - Participation at Committee Meetings via Technology
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -364,6 +374,8 @@ Unanimous (5-0)
 ### 7. Councillor S. Orser
   - Allow Free Vote on Fluoride - 2014 Municipal Election Ballot (Plebiscite)
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -373,6 +385,8 @@ Unanimous (5-0)
 
 ### 8. G. Macartney, CEO,
   London Chamber of Commerce - Bill 73 - Fair and Open Tendering Act
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -386,6 +400,8 @@ Unanimous (5-0)
   Representative of an Animal Rescue Group to the Animal Welfare Advisory
   Committee (Requires 1 Member of an Animal Rescue Group)
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -398,6 +414,8 @@ Unanimous (5-0)
   Rifat Hussain as a Non-Voting Representative of the Cross Cultural Learner
   Centre to the London Diversity and Race Relations Advisory Committee
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -409,6 +427,8 @@ Unanimous (5-0)
   Executive Director, Neighbourhood Watch London - Appointment of Jon Ferreira
   as a Voting Representative of Neighbourhood Watch to the Community Safety and
   Crime Prevention Advisory Committee
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

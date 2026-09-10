@@ -834,6 +834,8 @@ The meeting adjourned at 8:00 PM.
 
 ### 1.2. Election of Vice Chair for the term ending November 30, 2020
 
+<div id="motion-1-2-0" class="motion-anchor"></div>
+
 > That Councillor S. Turner BE ELECTED Vice Chair of the Planning and Environment Committee for the term ending November 30, 2020.
 
 **✅ Motion Passed (6 to 0)**
@@ -841,6 +843,8 @@ The meeting adjourned at 8:00 PM.
 Unanimous (6-0)
 
 ### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That Items 2.1 to 2.3, 2.5 to  2.12, inclusive, BE APPROVED.
 
@@ -850,6 +854,8 @@ Unanimous (6-0)
 
 ### 2.4. Delegated Authority for Consent
 
+<div id="motion-2-4-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Development Services, the proposed by-law appended to the staff report dated December 2, 2019, being “A by-law to provide for the Committee of Adjustment and Consent Authority and to repeal By-law CP-7, as amended” BE INTRODUCED at the Municipal Counci...
 
 **✅ Motion Passed (6 to 0)**
@@ -858,6 +864,8 @@ Unanimous (6-0)
 
 ### 3.6. 1018 and 1028 Gainsborough Road (Z-9079)
 
+<div id="motion-3-6-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Copia Developments relating to the lands located at 1018 and 1028 Gainsborough Road: a) the proposed by-law appended to the staff report dated December 2, 2019 as A...
 
 **✅ Motion Passed (6 to 0)**
@@ -865,6 +873,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Managing Director, Development and Compliance Services & Chief Building Official and the Managing Director, Planning and City Planner, BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 

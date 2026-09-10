@@ -1413,6 +1413,8 @@ The meeting adjourned at 8:25 PM.
 ### 2. Property located at
   510 Central Avenue (H-8460)
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1427,6 +1429,8 @@ The meeting adjourned at 8:25 PM.
 
 ### 3. Property located at
   895 Fanshawe Park Road West (H-8842)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1443,6 +1447,8 @@ The meeting adjourned at 8:25 PM.
 ### 4. Property located at
   3040 Pomeroy Lane (H-8863)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1457,6 +1463,8 @@ The meeting adjourned at 8:25 PM.
 
 ### 5. Property located at
   1080 Westdel Bourne (H-8840)
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1473,6 +1481,8 @@ The meeting adjourned at 8:25 PM.
 ### 6. Building Division
   Monthly Report for November 2017
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1488,20 +1498,7 @@ The meeting adjourned at 8:25 PM.
 ### 7. Proposed
   Regulations Promoting Affordable Housing Act 2016 (Inclusionary Zoning)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
-
-</details>
-
-### 8. Property located at
-  3 Glenroy Road (Z-8833)
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1518,6 +1515,8 @@ The meeting adjourned at 8:25 PM.
 ### 8. Property located at
   3 Glenroy Road (Z-8833)
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1532,6 +1531,25 @@ The meeting adjourned at 8:25 PM.
 
 ### 8. Property located at
   3 Glenroy Road (Z-8833)
+
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
+
+</details>
+
+### 8. Property located at
+  3 Glenroy Road (Z-8833)
+
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1549,21 +1567,7 @@ The meeting adjourned at 8:25 PM.
   660 Sunningdale Road East - Applewood Subdivision 
   (39T-09501/Z-8818)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
-
-</details>
-
-### 9. Property located at
-  660 Sunningdale Road East - Applewood Subdivision 
-  (39T-09501/Z-8818)
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1581,6 +1585,26 @@ The meeting adjourned at 8:25 PM.
   660 Sunningdale Road East - Applewood Subdivision 
   (39T-09501/Z-8818)
 
+<div id="motion-9-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
+
+</details>
+
+### 9. Property located at
+  660 Sunningdale Road East - Applewood Subdivision 
+  (39T-09501/Z-8818)
+
+<div id="motion-9-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1596,20 +1620,7 @@ The meeting adjourned at 8:25 PM.
 ### 10. Properties located
   at 940 and 956 Wharncliffe Road South (Z-8813)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
-
-</details>
-
-### 10. Properties located
-  at 940 and 956 Wharncliffe Road South (Z-8813)
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1625,6 +1636,25 @@ The meeting adjourned at 8:25 PM.
 
 ### 10. Properties located
   at 940 and 956 Wharncliffe Road South (Z-8813)
+
+<div id="motion-10-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
+
+</details>
+
+### 10. Properties located
+  at 940 and 956 Wharncliffe Road South (Z-8813)
+
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1641,20 +1671,7 @@ The meeting adjourned at 8:25 PM.
 ### 11. Properties located
   at 1090, 1092 and 1096 Hamilton Road (Z-8827)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
-
-</details>
-
-### 11. Properties located
-  at 1090, 1092 and 1096 Hamilton Road (Z-8827)
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1670,6 +1687,25 @@ The meeting adjourned at 8:25 PM.
 
 ### 11. Properties located
   at 1090, 1092 and 1096 Hamilton Road (Z-8827)
+
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
+
+</details>
+
+### 11. Properties located
+  at 1090, 1092 and 1096 Hamilton Road (Z-8827)
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1686,21 +1722,7 @@ The meeting adjourned at 8:25 PM.
 ### 12. 2nd Report of the
   London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
-
-</details>
-
-### 13. Properties located
-  at 467-469 Dufferin Avenue, East Woodfield Heritage Conservation District -
-  Request for Demolition
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1718,6 +1740,8 @@ The meeting adjourned at 8:25 PM.
   at 467-469 Dufferin Avenue, East Woodfield Heritage Conservation District -
   Request for Demolition
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1733,6 +1757,26 @@ The meeting adjourned at 8:25 PM.
 ### 13. Properties located
   at 467-469 Dufferin Avenue, East Woodfield Heritage Conservation District -
   Request for Demolition
+
+<div id="motion-13-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Tanya Park](/councillors/former/t-park)
+
+</details>
+
+### 13. Properties located
+  at 467-469 Dufferin Avenue, East Woodfield Heritage Conservation District -
+  Request for Demolition
+
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1749,6 +1793,8 @@ The meeting adjourned at 8:25 PM.
 ### 14. Planning for
   Supervised Consumption Facilities and Temporary Overdose Prevention Sites
   (OZ-8852)
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1765,6 +1811,8 @@ The meeting adjourned at 8:25 PM.
 ### 14. Planning for
   Supervised Consumption Facilities and Temporary Overdose Prevention Sites
   (OZ-8852)
+
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1781,6 +1829,8 @@ The meeting adjourned at 8:25 PM.
 ### 15. 2nd Report of the
   Advisory Committee on the Environment
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1795,6 +1845,8 @@ The meeting adjourned at 8:25 PM.
 
 ### 16. Brownfield CIP
   Incentives – Properties located at 32, 36 and 40 York Street
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1811,6 +1863,8 @@ The meeting adjourned at 8:25 PM.
 ### 17. Deferred Matters
   List
 
+<div id="motion-17-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1825,6 +1879,8 @@ The meeting adjourned at 8:25 PM.
 
 ### 18. (ADDED) 1st Report
   of the Agricultural Advisory Committee
+
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

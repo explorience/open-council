@@ -368,6 +368,8 @@ The meeting adjourned at 2:42 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.4 and 2.8 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -375,6 +377,8 @@ The meeting adjourned at 2:42 PM.
 Unanimous (5-0)
 
 ### 2.7. Making Nasal Naloxone Kits Available for Public Use in Some City of London Facilities
+
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That the staff report dated February 20, 2019 with respect to making nasal Naloxone kits available for public use in some City of London facilities BE RECEIVED and no further action be taken with respect to this matter. (2019-S08)
 

@@ -674,6 +674,8 @@ Motion Passed
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
+<div id="motion-iv-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -688,6 +690,8 @@ Motion Passed
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SECOND MEETING HELD ON JANUARY 16, 2018
 
+<div id="motion-v-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -701,18 +705,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
-
-</details>
-
-### XIII. BY-LAWS
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -727,6 +720,8 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-3" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -740,6 +735,23 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-5" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
+
+</details>
+
+### XIII. BY-LAWS
+
+<div id="motion-xiii-7" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -753,18 +765,7 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong)
-
-</details>
-
-### XIII. BY-LAWS
+<div id="motion-xiii-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -778,6 +779,23 @@ Motion Passed
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-11" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong)
+
+</details>
+
+### XIII. BY-LAWS
+
+<div id="motion-xiii-13" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -792,6 +810,8 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-15" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -804,6 +824,8 @@ Motion Passed
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-17" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -819,6 +841,8 @@ Motion Passed
 ### 3. Property Disposition – Former Sherwood
   Forest Public School Located at 7 Annadale Drive
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -832,6 +856,8 @@ Motion Passed
 
 ### 4. 2019 Development Charges Study Policy
   Matters Update
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -849,6 +875,8 @@ Motion Passed
 ### 14. LGBTQ2 Community
   Apology
 
+<div id="motion-14-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -862,6 +890,8 @@ Motion Passed
 
 ### 14. LGBTQ2 Community
   Apology
+
+<div id="motion-14-3" class="motion-anchor"></div>
 
 > Motion Passed
 

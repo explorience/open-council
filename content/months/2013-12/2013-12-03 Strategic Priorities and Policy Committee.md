@@ -66,6 +66,8 @@ The
 ### 2. Tabling of the 2014
   Draft Budget
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion

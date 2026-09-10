@@ -728,6 +728,8 @@ Thank you and pleased to report that progress was made on the matters of which w
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Consent Item 2.2 BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -735,6 +737,8 @@ Thank you and pleased to report that progress was made on the matters of which w
 Unanimous (14-0)
 
 ### 2.3. Eldon House Board of Directors – By-law Update
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to Eldon House Corporation By-law Update: a)    the proposed by-law appended as Appendix ‘B’ to the staff report dated February 25, 2025, being A by-law to amend By-law A.-6825-162, as amended, respecting the Eldon House operation and management BE...
 
@@ -753,6 +757,8 @@ Unanimous (14-0)
 
 ### 4.1. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That Robert Fraser BE APPOINTED to the Eldon House Board of Directors for the term ending November 14, 2026.
 
 **✅ Motion Passed (14 to 0)**
@@ -760,6 +766,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.1. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Appointment to the Eldon House Board of Directors (Requires 1 Member)
 
@@ -773,6 +781,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.1. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > Appointment to the Eldon House Board of Directors (Requires 1 Member)
 
@@ -786,6 +796,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.2. London Public Library Board of Directors Vacancy
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the vacant position declared by the London Public Library Board of Directors: a)  the communication dated January 24, 2025 from B. Gibson, London Public Library Board Chair BE RECEIVED; and b) Mayor J. Morgan BE APPOINTED to the London Public Li...
 
@@ -804,6 +816,8 @@ Unanimous (14-0)
 
 ### 4.2. London Public Library Board of Directors Vacancy
 
+<div id="motion-4-2-1" class="motion-anchor"></div>
+
 > Appointment to the London Public Library Board of Directors (Requires 1 Member of Council)
 
 **❌ Majority Winner: Josh Morgan 🔥**
@@ -816,6 +830,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.3. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the consideration of Appointments to the Accessibility Community Advisory Committee, Community Advisory Committee on Planning, Environmental Stewardship and Action Community Advisory Committee BE REFERRED to a future meeting of Strategic Priorities and Policy Committee to allow for Civic Adm...
 

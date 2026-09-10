@@ -275,6 +275,8 @@ The meeting adjourned at 1:46 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1, 2.2, 2.5, 2.6, 2.7, 2.8, 2.9 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -282,6 +284,8 @@ The meeting adjourned at 1:46 PM.
 Unanimous (4-0)
 
 ### 2.3. Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated February 22, 2023, related to the Electric Kick-Scooter and Cargo Power-assisted Bicycle pilot projects: a)   the proposed by-law, as appen...
 
@@ -300,6 +304,8 @@ Unanimous (4-0)
 
 ### 2.3. Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > Motion to approve the Delegation Request from A. Petre and M. Miksa to be heard at this meeting.
 
 **✅ Motion Passed (4 to 0)**
@@ -307,6 +313,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 3.1. Delegation - J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
+
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the following recommendations related to paratransit BE FORWARDED to the London Transit Commission, with a request for an update back to the Civic Works Committee with respect to proposed implementation: a)    same-day booking options, smart card access in all busses and sensitivity training...
 

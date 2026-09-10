@@ -512,6 +512,8 @@ We're all open for voting. Motion carries, 3 to 0. Okay, and we'll do the rest o
 
 ### 2.6. Findings and Next Steps for Provincial Electric Kick-Scooter Pilot
 
+<div id="motion-2-6-1" class="motion-anchor"></div>
+
 > That part a) BE APPROVED.
 
 **✅ Motion Passed (3 to 0)**
@@ -519,6 +521,8 @@ We're all open for voting. Motion carries, 3 to 0. Okay, and we'll do the rest o
 Unanimous (3-0)
 
 ### 2.6. Findings and Next Steps for Provincial Electric Kick-Scooter Pilot
+
+<div id="motion-2-6-2" class="motion-anchor"></div>
 
 > That parts b), c), and d) BE APPROVED.
 
@@ -536,6 +540,8 @@ Unanimous (3-0)
 </details>
 
 ### 4.1. Association of Municipalities Ontario - Board of Directors, Large Urban Caucus
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Association of Municipalities of Ontario (AMO) Board of Directors: a)    Councillor A. Hopkins BE ENDORSED to stand for election to the Association of Municipalities of Ontario (AMO) Board of Directors, Large Urban Caucus, for the 2026/2028 ...
 

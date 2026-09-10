@@ -100,6 +100,8 @@ The meeting adjourned at 12:15 PM.
 
 ### 2.1. Kiwanis Park Natural Playground RFP 20-25
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That on the recommendation of the Managing Director, Parks and Recreation, the following actions be taken with respect to the Kiwanis Park Natural Playground RFP 20-25: a)     the bid submitted by Earthscape, 7215 Wellington Rd 86, Wallenstein, Ontario, N0B 2S0, to construct the Kiwanis Park Natu...
 
 **✅ Motion Passed (6 to 0)**

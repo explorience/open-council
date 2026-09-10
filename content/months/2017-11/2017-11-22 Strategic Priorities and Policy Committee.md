@@ -432,6 +432,8 @@ The meeting adjourned at 5:04 PM.
 ### 2. 1st Report of the
   Outstanding London Ambassador Award Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -441,14 +443,7 @@ Unanimous (13-0)
 ### 3. Strategic Plan:
   Semi-Annual Progress Report and 2017 Report to the Community
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 4. 2018 PUBLIC
-  PARTICIPATION MEETING - 2016-2019 Multi-Year Budget
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -458,6 +453,19 @@ Unanimous (13-0)
 
 ### 4. 2018 PUBLIC
   PARTICIPATION MEETING - 2016-2019 Multi-Year Budget
+
+<div id="motion-4-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4. 2018 PUBLIC
+  PARTICIPATION MEETING - 2016-2019 Multi-Year Budget
+
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -468,14 +476,7 @@ Unanimous (12-0)
 ### 4. 2018 PUBLIC
   PARTICIPATION MEETING - 2016-2019 Multi-Year Budget
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 4. 2018 PUBLIC
-  PARTICIPATION MEETING - 2016-2019 Multi-Year Budget
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -485,6 +486,19 @@ Unanimous (13-0)
 
 ### 4. 2018 PUBLIC
   PARTICIPATION MEETING - 2016-2019 Multi-Year Budget
+
+<div id="motion-4-3" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4. 2018 PUBLIC
+  PARTICIPATION MEETING - 2016-2019 Multi-Year Budget
+
+<div id="motion-4-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -496,6 +510,8 @@ Unanimous (13-0)
   Middlesex Housing Corporation (LMHC) Board Members' Service Term Request
   for Extension
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -504,6 +520,8 @@ Unanimous (13-0)
 
 ### 6. 6th Report of the
   Governance Working Group
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -514,6 +532,8 @@ Unanimous (13-0)
 ### 7. Hyde Park
   Business Improvement Area Board of Director Appointments
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -522,6 +542,8 @@ Unanimous (13-0)
 
 ### 8. Resignation from
   the London Police Services Board
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 

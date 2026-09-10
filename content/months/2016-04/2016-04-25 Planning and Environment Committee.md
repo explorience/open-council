@@ -902,6 +902,8 @@ The
 ### 2. 5th Report of the
   Advisory Committee on the Environment
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -911,6 +913,8 @@ Unanimous (4-0)
 
 ### 3. Property located at
   27 Centre Street
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -922,6 +926,8 @@ Unanimous (4-0)
 ### 4. Property located at
   68 Bruce Street
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -931,6 +937,8 @@ Unanimous (4-0)
 
 ### 5. Properties located
   at 75, 77, 81 and 91 Southdale Road East and 3021 White Oak Road (H-8586)
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -943,6 +951,8 @@ Unanimous (4-0)
   2280 Wickerson Road - Wickerson Woods Subdivision - Extension to Draft Plan
   of Subdivision Approval (39T-00519)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -954,6 +964,8 @@ Unanimous (4-0)
   2332 Wickerson Road - Wickerson Hills Subdivision - Extension to Draft Plan
   of Subdivision Approval (39T-08507)
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -963,6 +975,8 @@ Unanimous (4-0)
 
 ### 8. Property located at
   7 Annadale Drive
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -974,6 +988,8 @@ Unanimous (4-0)
 ### 9. 5th Report of the
   London Advisory Committee on Heritage
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -983,6 +999,8 @@ Unanimous (4-0)
 
 ### 10. Mushroom Farm
   Zoning Review (Z-8513)
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1001,6 +1019,8 @@ Unanimous (4-0)
 ### 10. Mushroom Farm
   Zoning Review (Z-8513)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1011,16 +1031,7 @@ Unanimous (4-0)
 ### 10. Mushroom Farm
   Zoning Review (Z-8513)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. Properties located
-  at 276 Highbury Avenue North, 281 and 285 Short Avenue and 1325 Trafalgar
-  Street (OZ-8579)
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1033,6 +1044,8 @@ Unanimous (5-0)
   at 276 Highbury Avenue North, 281 and 285 Short Avenue and 1325 Trafalgar
   Street (OZ-8579)
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1043,6 +1056,21 @@ Unanimous (5-0)
 ### 11. Properties located
   at 276 Highbury Avenue North, 281 and 285 Short Avenue and 1325 Trafalgar
   Street (OZ-8579)
+
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Properties located
+  at 276 Highbury Avenue North, 281 and 285 Short Avenue and 1325 Trafalgar
+  Street (OZ-8579)
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1054,6 +1082,8 @@ Unanimous (5-0)
 ### 12. Property located at
   80 Oxford Street West
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1063,6 +1093,8 @@ Unanimous (5-0)
 
 ### 12. Property located at
   80 Oxford Street West
+
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1074,15 +1106,7 @@ Unanimous (4-0)
 ### 12. Property located at
   80 Oxford Street West
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. Property located at
-  1656 Hyde Park Road
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1094,6 +1118,8 @@ Unanimous (5-0)
 ### 13. Property located at
   1656 Hyde Park Road
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1103,6 +1129,20 @@ Unanimous (5-0)
 
 ### 13. Property located at
   1656 Hyde Park Road
+
+<div id="motion-13-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Property located at
+  1656 Hyde Park Road
+
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -272,6 +272,8 @@ The meeting adjourned at 2:40 PM.
 
 ### 2.2. Canada Public Transit Fund - Baseline Funding – Contribution Agreement
 
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the proposed by-law, as appended to the staff report dated July 15, 2026 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to: i)    approve t...
 
 **✅ Motion Passed (4 to 1) 🔥**

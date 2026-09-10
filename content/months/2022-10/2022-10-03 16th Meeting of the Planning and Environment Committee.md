@@ -891,6 +891,8 @@ Thanks, everyone.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.5, inclusive, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -898,6 +900,8 @@ Thanks, everyone.
 Unanimous (5-0)
 
 ### 4.2. Zoning By-law Amendment - Seasonal Outdoor Patios
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to zoning regulations related to seasonal outdoor patios: a) the proposed revised by-law as appended to the Planning and Environment Committee Added Agenda BE INTRODUCED at the Municipal Council meeting to be held on October 17, 2022, to amend Sec...
 

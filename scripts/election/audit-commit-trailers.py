@@ -124,6 +124,32 @@ CO_AUTHORED_BY_RE = re.compile(
 
 PR_SUBJECT_RE = re.compile(r"\(#\d+\)\s*$")
 
+# The CURRENT two-line form: a pattern-matched Co-Authored-By line followed
+# by a Claude-Session line for ANY well-formed session URL. Hardcoding the
+# session list (KNOWN_SESSIONS, above) was correct while sessions were rare,
+# but it has now failed twice: a legitimate commit from a new session is
+# rejected purely because nobody widened a literal. The historical blocks
+# stay frozen for the old account name; new sessions match by shape.
+CLAUDE_SESSION_RE = re.compile(
+    r"^Claude-Session: https://claude\.ai/code/session_[A-Za-z0-9_-]+$"
+)
+
+
+def _is_accepted_two_line(first: str, second: str) -> bool:
+    """True for the current two-line form: an accepted Co-Authored-By line
+    followed by a well-formed Claude-Session line."""
+    return CO_AUTHORED_BY_RE.match(first) is not None and (
+        CLAUDE_SESSION_RE.match(second) is not None
+    )
+
+
+def _split_last_two(text: str):
+    """The final two lines of `text` (first may be '' when text is one line)."""
+    lines = text.rsplit("\n", 2)
+    if len(lines) >= 2:
+        return lines[-2], lines[-1]
+    return "", lines[-1]
+
 
 def _is_accepted_single_line(line: str) -> bool:
     return CO_AUTHORED_BY_RE.match(line) is not None
@@ -137,7 +163,9 @@ def _remainder_ends_with_accepted_block(remainder: str) -> bool:
     for block in ACCEPTED_HISTORICAL_BLOCKS:
         if remainder.endswith(block):
             return True
-    last_line = remainder.rsplit("\n", 1)[-1]
+    prev_line, last_line = _split_last_two(remainder)
+    if _is_accepted_two_line(prev_line, last_line):
+        return True
     return _is_accepted_single_line(last_line)
 
 
@@ -155,7 +183,14 @@ def ends_with_exactly_one_trailer_block(trimmed: str) -> bool:
                 return False  # duplicate trailer immediately before this one
             return True
 
-    last_line = trimmed.rsplit("\n", 1)[-1]
+    prev_line, last_line = _split_last_two(trimmed)
+    if _is_accepted_two_line(prev_line, last_line):
+        block = f"{prev_line}\n{last_line}"
+        remainder = trimmed[: -len(block)].rstrip("\n")
+        if _remainder_ends_with_accepted_block(remainder):
+            return False  # duplicate trailer immediately before this one
+        return True
+
     if _is_accepted_single_line(last_line):
         remainder = trimmed[: -len(last_line)].rstrip("\n")
         if _remainder_ends_with_accepted_block(remainder):
@@ -253,6 +288,57 @@ def self_test() -> int:
                 f"expected {'accepted' if expect_pass else 'rejected'}"
             )
             ok = False
+
+    # --- current two-line form (pattern Co-Authored-By + any session URL) ---
+    _CB = "Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>"
+    _SESS = "Claude-Session: https://claude.ai/code/session_01Ug4UM3Kz5hEKugUCSGFYut"
+    check(
+        "current two-line form (pattern model + new session URL)",
+        f"Some commit body.\n\n{_CB}\n{_SESS}",
+        True,
+    )
+    check(
+        "current two-line form (different family, session not in KNOWN_SESSIONS)",
+        "Some commit body.\n\nCo-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>\n"
+        "Claude-Session: https://claude.ai/code/session_0ZZnewSessionId123",
+        True,
+    )
+    check(
+        "duplicate current two-line trailers",
+        f"Some commit body.\n\n{_CB}\n{_SESS}\n{_CB}\n{_SESS}",
+        False,
+    )
+    check(
+        "historical two-line block followed by a current one (mixed duplicate)",
+        f"Some commit body.\n\n{ACCEPTED_HISTORICAL_BLOCKS[0]}\n{_CB}\n{_SESS}",
+        False,
+    )
+    check(
+        "garbage after a current two-line trailer",
+        f"Some commit body.\n\n{_CB}\n{_SESS}\nEOF)",
+        False,
+    )
+    check(
+        "NEGATIVE: Claude-Session pointing at a non-claude.ai host",
+        f"Some commit body.\n\n{_CB}\nClaude-Session: https://evil.example/session_01x",
+        False,
+    )
+    check(
+        "NEGATIVE: non-Anthropic family with a valid session line",
+        "Some commit body.\n\nCo-Authored-By: Claude Gemini 5 <noreply@anthropic.com>\n"
+        f"{_SESS}",
+        False,
+    )
+    check(
+        "NEGATIVE: model name with no version, valid session line",
+        f"Some commit body.\n\nCo-Authored-By: Claude Opus <noreply@anthropic.com>\n{_SESS}",
+        False,
+    )
+    check(
+        "NEGATIVE: a bare Claude-Session line with no Co-Authored-By above it",
+        f"Some commit body.\n\n{_SESS}",
+        False,
+    )
 
     check(
         "clean single-line trailer (Fable 5, bare)",

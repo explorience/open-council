@@ -895,6 +895,8 @@ Thank you, Mr. Chair.
 
 ### 2.3. Homeless Prevention COVID-19 Response April to June Extension - Single Source Procurement (#SS21-15)
 
+<div id="motion-2-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Acting Managing Director of Housing, Social Services and Dearness Home, with the concurrence of the Director, Financial Services, that the following actions be taken with respect to the staff report dated March 30, 2021 related to the Homeless Prevention COVID-1...
 
 **✅ Motion Passed (5 to 0)**
@@ -902,6 +904,8 @@ Thank you, Mr. Chair.
 Unanimous (5-0)
 
 ### 2.4. Proposed Implementation of the Giwetashkad Indigenous Homelessness Strategic Plan
+
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Acting Managing Director, Housing, Social Services and Dearness Home, the following actions be taken with respect to the staff report dated March 30, 2021, related to the Proposed Implementation of the Giwetashkad Indigenous Homelessness Strategic Plan: a)     t...
 
@@ -911,6 +915,8 @@ Unanimous (5-0)
 
 ### 2.5. Single Source SS21-12 - Architect to act as Prime Consultant for Dearness Home Auditorium Expansion
 
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Acting Managing Director, Housing, Social Services and Dearness Home, and the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the staff report dated March 30, 2021 related to Singl...
 
 **✅ Motion Passed (6 to 0)**
@@ -918,6 +924,8 @@ Unanimous (5-0)
 Unanimous (6-0)
 
 ### 2.6. Application to UNESCO for London to be Designated a "UNESCO City of Music"
+
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Parks and Recreation, the following actions be taken with respect to the staff report dated March 30, 2021 related to an Application to UNESCO for London to be designated a “UNESCO City of Music”: a)     the above-noted initiative BE APPROVED;...
 
@@ -927,6 +935,8 @@ Unanimous (6-0)
 
 ### 2.7. Film Update - Moving Forward
 
+<div id="motion-2-7-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Parks and Recreation, the proposed by-law, as appended to the staff report dated March 30, 2021, BE INTRODUCED at the Municipal Council meeting to be held on April 13, 2021 to: a)     authorize and approve the Amending Agreement to the 2020 Pu...
 
 **✅ Motion Passed (6 to 0)**
@@ -934,6 +944,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. Update on Housing Issues from Mission Services of London - P. Rozeluk, Mission Services of London - REQUEST FOR DELEGATION STATUS
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from P. Rozeluk, Mission Services of London.
 
@@ -943,6 +955,8 @@ Unanimous (6-0)
 
 ### 4.1. Update on Housing Issues from Mission Services of London - P. Rozeluk, Mission Services of London - REQUEST FOR DELEGATION STATUS
 
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
 > Motion to approve the remainder of the clause.
 
 **✅ Motion Passed (6 to 0)**
@@ -950,6 +964,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.4. Mayor E. Holder - Affordable Housing Units in London
+
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the creation of affordable housing units in London: a)     the Civic Administration BE DIRECTED to expedite the development of needed 3,000 affordable housing units as set out in “Housing Stability Action Plan” (HSAP) to be in place in five year...
 

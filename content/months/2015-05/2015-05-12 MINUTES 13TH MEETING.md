@@ -1531,6 +1531,8 @@ Passed
 
 ### 2#6. London Arts Council Agreement Renewal
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > Amend clause 2 to read as follows:
 
 **✅ Motion Passed**
@@ -1546,6 +1548,8 @@ Passed
 
 ### 2#6. London Arts Council Agreement Renewal
 
+<div id="motion-2-6-1" class="motion-anchor"></div>
+
 > Amend clause 2 by adding the following   new part c):   “c)          the London Arts Council (LAC) BE INVITED to make a presentation to a future   meeting of the Strategic Priorities and Policy Committee to provide   information regarding the work of the LAC.”
 
 **✅ Motion Passed**
@@ -1553,6 +1557,8 @@ Passed
 Unanimous (13-0)
 
 ### 2#6. London Arts Council Agreement Renewal
+
+<div id="motion-2-6-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1571,6 +1577,8 @@ Unanimous (13-0)
   Audit Results - Engineering and Environmental Services: Roads &
   Transportation - Capital Budget Development and Project Costing
 
+<div id="motion-5-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of   PricewaterhouseCoopers (PwC), the action plans identified in the Report on   Internal Audit Results – Engineering and Environmental Services - Roads and   Transportation – Capital Budget Development and Project Costing dated April   29, 2015 BE IMPLEMENTED.
 
 **✅ Motion Passed**
@@ -1579,6 +1587,8 @@ Unanimous (13-0)
 
 ### 6#2. Building Division
   Monthly Report for March 2015
+
+<div id="motion-6-2-1" class="motion-anchor"></div>
 
 > Approve clause 6 as amended.
 
@@ -1589,6 +1599,8 @@ Unanimous (13-0)
 ### 7#3. 2016 Growth Management Implementation
   Strategy (GMIS) Update
 
+<div id="motion-7-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer with   respect to the implementation of the Official Plan growth management policies   applicable to the financing of growth-related infrastructure works, the   following actions...
 
 **✅ Motion Passed**
@@ -1597,6 +1609,8 @@ Unanimous (11-0)
 
 ### 7#3. 2016 Growth Management Implementation
   Strategy (GMIS) Update
+
+<div id="motion-7-3-1" class="motion-anchor"></div>
 
 > 10th Report of the Committee   of the Whole
 
@@ -1607,6 +1621,8 @@ Unanimous (13-0)
 ### 8#3. Consideration of
   Appointment to the London Public Library Board
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That Councillor P. Squire BE APPOINTED to   the London Public Library Board for the term ending November 30, 2018.
 
 **✅ Motion Passed**
@@ -1615,6 +1631,8 @@ Unanimous (13-0)
 
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > MOTION FOR IN CAMERA SESSION
 
@@ -1625,6 +1643,8 @@ Unanimous (13-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON APRIL 28, 2015
 
+<div id="motion-vi-0" class="motion-anchor"></div>
+
 > Approve The Minutes of the 12th Meeting   held on April 28, 2015.
 
 **✅ Motion Passed**
@@ -1633,6 +1653,8 @@ Unanimous (13-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<div id="motion-xii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to amend the annual meeting calendar for the month of June   2015 to add an additional Planning and Environment Committee meeting and   change the June 24, 2015 Mun...
 
@@ -1643,6 +1665,8 @@ Unanimous (13-0)
 ### XII. EMERGENT
   MOTIONS
 
+<div id="motion-xii-1" class="motion-anchor"></div>
+
 > Approve that the attached amended   meeting schedule for June 2015 (Appendix “A”) BE APPROVED.
 
 **✅ Motion Passed**
@@ -1651,6 +1675,8 @@ Unanimous (13-0)
 
 ### 3. South Street and
   Grey Street Two Way Conversion
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the Civic   Administration BE DIRECTED to host a public meeting with respect to converting   South Street between Wellington Street and Adelaide Street North and Grey   Street between...
 
@@ -1668,6 +1694,8 @@ Unanimous (13-0)
 ### 16. Highway 401/Colonel
   Talbot Road/Highway 4 Interchange Reconstruction Ministry of Transportation
   Class Environmental Assessment Addendum
+
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Approve clause 16, as amended.
 

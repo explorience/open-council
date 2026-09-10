@@ -834,6 +834,8 @@ The meeting adjourned at 5:09 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.9, inclusive, and 2.11 to 2.14, inclusive and 2.16 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -841,6 +843,8 @@ The meeting adjourned at 5:09 PM.
 Unanimous (5-0)
 
 ### 2.10. Application - 2890 and 2898 Woodhull Road (H-9116)
+
+<div id="motion-2-10-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Peter and Louise McConnell, relating to lands located at 2890 and 2898 Woodhull Road: a)         the proposed by-law appended to the staff report dated November 4, ...
 
@@ -850,6 +854,8 @@ Unanimous (5-0)
 
 ### 2.15. By-law Amendment Request - Downtown London Business Association Improvement Area
 
+<div id="motion-2-15-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the City Clerk, the proposed by-law appended to the staff report dated November 4, 2019, being a by-law to amend By-law CP-2, as amended, being “A by-law to provide for the Improvement Area to be known as the London Downtown Business Association Improvement Area and...
 
 **✅ Motion Passed (5 to 0)**
@@ -858,6 +864,8 @@ Unanimous (5-0)
 
 ### 3.2. Delegation - R. Sidhu, Executive Director, Argyle Business Improvement Area (BIA) - Comprehensive Community Regeneration Study Request - Argyle BIA and Surrounding Area
 
+<div id="motion-3-2-0" class="motion-anchor"></div>
+
 > That the Managing Director, Planning and City Planner, BE DIRECTED to report back at  a future meeting of the Planning and Environment Committee with respect to the results of a Comprehensive Community Regeneration Study of the Argyle Business Improvement Area and surrounding areas; it being note...
 
 **✅ Motion Passed (5 to 0)**
@@ -865,6 +873,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.1. Environmental Considerations Relating to Studies and Reports
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to environmental considerations relating to studies and reports: a)         the Civic Administration BE REQUESTED to review and report back at a future Planning and Environment Committee meeting on best practices and legal limitations for performi...
 

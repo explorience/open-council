@@ -505,6 +505,8 @@ The Corporate Services Committee convened
 ### 2. Restricted Acts of
   Council After Nomination Day and Voting Day - "Lame Duck" Council
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -514,6 +516,8 @@ Unanimous (4-0)
 
 ### 3. Expropriation of
   Lands - Hyde Park Road Widening Project - Phase ll - TS1477-2
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -525,6 +529,8 @@ Unanimous (4-0)
 ### 4. Statement of
   Remuneration and Expenses - Elected and Appointed Officials
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -534,6 +540,8 @@ Unanimous (4-0)
 
 ### 5. Delegated Signing
   Authority - Energy Conservation Incentive Applications
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -546,6 +554,8 @@ Unanimous (4-0)
   Supply and Install Stonedeck Floor Coating to the Controlled Basement Parking
   Area in City Hall
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -555,6 +565,8 @@ Unanimous (4-0)
 
 ### 7. Declare Surplus -
   City-Owned Land - Untraveled Section of Hill Street Road Allowance
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -567,6 +579,8 @@ Unanimous (4-0)
   Offer for Sale - One Foot Strip of City-Owned Land Between 167 and 169
   Elworthy Avenue
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -578,6 +592,8 @@ Unanimous (4-0)
   Offer for Sale - Five Metre Strip of City-Owned Land Abutting 6 Empress
   Avenue
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -588,6 +604,8 @@ Unanimous (4-0)
 ### 10. Declare Surplus
   City-Owned Land - Colborne Street Diversion
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -597,6 +615,8 @@ Unanimous (4-0)
 
 ### 11. Council Members'
   Expense Account Policy 28(2)
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -615,6 +635,8 @@ Unanimous (4-0)
 ### 12. City of London's
   Declaration of Office
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -624,6 +646,8 @@ Unanimous (4-0)
 
 ### 13. Request for
   Designation of the London Rib Fest as a Municipally Significant Event
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -636,6 +660,8 @@ Unanimous (4-0)
   Designation of the International Food Festival as a Municipally Significant
   Event
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -645,6 +671,8 @@ Unanimous (4-0)
 
 ### 15. Consideration of
   Appointment to the London Advisory Committee on Heritage
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -656,6 +684,8 @@ Unanimous (4-0)
 ### 16. Consideration of
   Appointment to the Trees and Forests Advisory Committee
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -665,6 +695,8 @@ Unanimous (4-0)
 
 ### 17. Consideration of
   Appointment to the Child Care Advisory Committee
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

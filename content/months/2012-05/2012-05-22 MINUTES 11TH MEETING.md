@@ -1470,13 +1470,7 @@ That,
   AND SIGNING OF THE MINUTES OF THE EIGHTH, NINTH AND TENTH MEETINGS HELD ON
   MAY 1 AND 2, 2012, MAY 8, 2012 AND MAY 17, 2012 RESPECTIVELY
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### XI. BY-LAWS
+<div id="motion-ii-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1486,13 +1480,7 @@ Unanimous (11-0)
 
 ### XI. BY-LAWS
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### XI. BY-LAWS
+<div id="motion-xi-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1501,6 +1489,28 @@ Unanimous (11-0)
 Unanimous (11-0)
 
 ### XI. BY-LAWS
+
+<div id="motion-xi-3" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XI. BY-LAWS
+
+<div id="motion-xi-5" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XI. BY-LAWS
+
+<div id="motion-xi-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1509,6 +1519,8 @@ Unanimous (11-0)
 Unanimous (13-0)
 
 ### XI. BY-LAWS
+
+<div id="motion-xi-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1519,6 +1531,8 @@ Unanimous (13-0)
 ### XII. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<div id="motion-xii-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1528,21 +1542,7 @@ Unanimous (12-0)
 ### 3. 1st Report of the
   Town and Gown Committee
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
-
-**Nay (2):** [Joni Baechler](/councillors/former/j-l-baechler), [Dale Henderson](/councillors/former/d-g-henderson)
-
-</details>
-
-### 3. 1st Report of the
-  Town and Gown Committee
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1560,6 +1560,26 @@ Unanimous (12-0)
 ### 3. 1st Report of the
   Town and Gown Committee
 
+<div id="motion-3-2" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (2):** [Joni Baechler](/councillors/former/j-l-baechler), [Dale Henderson](/councillors/former/d-g-henderson)
+
+</details>
+
+### 3. 1st Report of the
+  Town and Gown Committee
+
+<div id="motion-3-3" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1569,6 +1589,8 @@ Unanimous (13-0)
 ### 6. Communications and
   Engagement Plan
 
+<div id="motion-6-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1577,6 +1599,8 @@ Unanimous (13-0)
 
 ### 6. Communications and
   Engagement Plan
+
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1586,6 +1610,8 @@ Unanimous (13-0)
 
 ### 11. Middlesex-London
   Health Unit
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > 
 
@@ -1596,14 +1622,7 @@ Unanimous (13-0)
 ### 11. Middlesex-London
   Health Unit
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 18. 3rd Report of the
-  Trees and Forests Advisory Committee
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1614,6 +1633,8 @@ Unanimous (13-0)
 ### 18. 3rd Report of the
   Trees and Forests Advisory Committee
 
+<div id="motion-18-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1622,6 +1643,19 @@ Unanimous (13-0)
 
 ### 18. 3rd Report of the
   Trees and Forests Advisory Committee
+
+<div id="motion-18-2" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 18. 3rd Report of the
+  Trees and Forests Advisory Committee
+
+<div id="motion-18-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1631,6 +1665,8 @@ Unanimous (13-0)
 
 ### 24. Sidewalk Cafes
   Pilot Program
+
+<div id="motion-24-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1648,6 +1684,8 @@ Unanimous (13-0)
 ### 24. Sidewalk Cafes
   Pilot Program
 
+<div id="motion-24-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1656,6 +1694,8 @@ Unanimous (13-0)
 
 ### 24. Sidewalk Cafes
   Pilot Program
+
+<div id="motion-24-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1672,6 +1712,8 @@ Unanimous (13-0)
 
 ### 24. Sidewalk Cafes
   Pilot Program
+
+<div id="motion-24-5" class="motion-anchor"></div>
 
 > Motion Passed
 

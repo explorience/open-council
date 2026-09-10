@@ -2370,6 +2370,8 @@ All right, we're adjourned. Thank you very much.
 
 ### 8.1. 3rd Report of the Community and Protective Services Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 3rd Report of the Community and Protective Services Committee BE APPROVED with the exception of item 7 (2.6)
 
 **✅ Motion Passed (15 to 0)**
@@ -2377,6 +2379,8 @@ All right, we're adjourned. Thank you very much.
 Unanimous (15-0)
 
 ### 8.1.7. (2.6) Operational Transition Plan for 446 King Street Housing Project
+
+<div id="motion-8-1-7-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the staff report, dated January 29, 2024, related to Operational Transition Plan for the 446 King Street Housing Project: a)    the above-noted staff report BE RECEIVED; b)    the Civic Administration BE AUTHORIZED to disburse up to an additiona...
 
@@ -2393,6 +2397,8 @@ Unanimous (15-0)
 
 ### 8.2. 3rd Report of the Civic Works Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That the 3rd Report of the Civic Works Committee BE APPROVED with the exception of items 5 (2.5), 6(2.6) and 8 (2.4)
 
 **✅ Motion Passed (15 to 0)**
@@ -2400,6 +2406,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.2.5. (2.5) Contract Award - Tender No. RFT-2023-241 - East London Link and Municipal Infrastructure Improvements Phase 3C - Highbury Avenue
+
+<div id="motion-8-2-5-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-241 for the East London Link and Municipal Infrastructure Improvement...
 
@@ -2416,6 +2424,8 @@ Unanimous (15-0)
 
 ### 8.2.6. (2.6) Contract Award - Tender No. RFT-2022-314 - Rapid Transit Implementation - Clarks Bridge and Wellington Road from Thames River to Watson Street
 
+<div id="motion-8-2-6-0" class="motion-anchor"></div>
+
 > That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2022-314 for Rapid Transit Implementation at Clarks Bridge and Wellington ...
 
 **✅ Motion Passed (13 to 2)**
@@ -2430,6 +2440,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.2.8. (2.4) Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street
+
+<div id="motion-8-2-8-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-264 for the East London Link Phase 3A West Dundas Street: a)    the b...
 
@@ -2446,6 +2458,8 @@ Unanimous (15-0)
 
 ### 8.3. 5th Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 4 (2.2).
 
 **✅ Motion Passed (15 to 0)**
@@ -2453,6 +2467,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.4. (2.2) SS-2024-042: Housing Stability Services Single Source
+
+<div id="motion-8-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, that this SS-2024-042: Housing Stability Services Single Source report be received, and the following actions be taken regarding Housing Stability Services Municipal Purchase of Service agreements:    a)    sin...
 
@@ -2469,6 +2485,8 @@ Unanimous (15-0)
 
 ### 8.3.4. (2.2) SS-2024-042: Housing Stability Services Single Source
 
+<div id="motion-8-3-4-1" class="motion-anchor"></div>
+
 > That the Housing Stability Services Municipal Purchase of Service Agreements BE REFERRED back to Civic Administration to meet with the service providers and review the proposed budgets to identify savings based on the two-year rather than one-year renewal agreements and report back to a future me...
 
 **❌ Motion Failed (3 to 12)**
@@ -2484,6 +2502,8 @@ Unanimous (15-0)
 
 ### 8.4. 3rd Report of the Planning and Environment Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 3rd Report of the Planning and Environment Committee BE APPROVED with the exception of items 13 (3.8); and 14 (3.9).
 
 **✅ Motion Passed (15 to 0)**
@@ -2492,6 +2512,8 @@ Unanimous (15-0)
 
 ### 8.4.13. (3.8) City-Wide 5-Bedroom Limits and Increased Permissions for Additional Residential Units (OZ-9661) (Relates to Bills No. 57, 69, and 70)
 
+<div id="motion-8-4-13-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Official Plan and Zoning By-law requirements for 5-bedroom limits and additional residential units: a)     the proposed by-law appended to the staff report dated January 30, 2...
 
 **✅ Motion Passed (14 to 0)**
@@ -2499,6 +2521,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 8.4.14. (3.9) 1310 Adelaide Street North and 795 Windermere Road (OZ-8709) (Relates to Bill No. 58 and Bill No. 71)
+
+<div id="motion-8-4-14-1" class="motion-anchor"></div>
 
 > That the following amendment BE APPROVED to the associated by-law (Bill No. 71) as it relates to an area of land located at 1310 Adelaide Street North and 795 Windermere Road: amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on t...
 
@@ -2515,6 +2539,8 @@ Unanimous (14-0)
 
 ### 8.4.14. (3.9) 1310 Adelaide Street North and 795 Windermere Road (OZ-8709) (Relates to Bill No. 58 and Bill No. 71)
 
+<div id="motion-8-4-14-2" class="motion-anchor"></div>
+
 > Pursuant to Section 34(17) of the Planning Act, as determined by the Municipal Council, that further notice BE GIVEN in respect of the proposed by-law.
 
 **❌ Motion Failed (4 to 11)**
@@ -2529,6 +2555,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.4.14. (3.9) 1310 Adelaide Street North and 795 Windermere Road (OZ-8709) (Relates to Bill No. 58 and Bill No. 71)
+
+<div id="motion-8-4-14-3" class="motion-anchor"></div>
 
 > That item 14, clause 3.9, as amended, BE APPROVED.
 
@@ -2545,6 +2573,8 @@ Unanimous (14-0)
 
 ### 8.5. 3rd Report of the Corporate Services Committee
 
+<div id="motion-8-5-0" class="motion-anchor"></div>
+
 > That the 3rd Report of the Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -2552,6 +2582,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 13. By-laws
+
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No 71, as amended, BE APPROVED.
 
@@ -2568,6 +2600,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-7" class="motion-anchor"></div>
+
 > That Second Reading of Bill No 71, as amended, BE APPROVED.
 
 **✅ Motion Passed (10 to 5)**
@@ -2582,6 +2616,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No 71, as amended, BE APPROVED.
 

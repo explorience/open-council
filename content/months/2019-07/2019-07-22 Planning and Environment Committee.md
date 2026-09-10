@@ -1391,6 +1391,8 @@ The meeting adjourned at 10:49 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to. 213, 2.15, 2.17 to 2.19, inclusive, BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1398,6 +1400,8 @@ The meeting adjourned at 10:49 PM.
 Unanimous (4-0)
 
 ### 2.14. Decision - Local Planning Appeal Tribunal - 3234, 3263 and 3274 Wonderland Road South (OZ-8590)
+
+<div id="motion-2-14-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the Local Planning Appeal Tribunal decision relating to the properties located at 3234, 3263, and 3274 Wonderland Road South: a)            the staff report dated July 22, 2019 entitl...
 
@@ -1416,6 +1420,8 @@ Unanimous (4-0)
 
 ### 3.1. Delegation - M. Clawson, Clawson Group Inc. - 660 Sunningdale Road East
 
+<div id="motion-3-1-0" class="motion-anchor"></div>
+
 > That, the following actions be taken with respect to the property located at 660 Sunningdale Road East: a)   on the recommendation of the City Clerk, the report dated July 22, 2019 and entitled “Request for Council Resolution, under section 45(1.4) of the Planning Act, 1990 – 660 Sunningdale Road...
 
 **✅ Motion Passed (3 to 1) 🔥**
@@ -1433,6 +1439,8 @@ Unanimous (4-0)
 
 ### 3.5. Public Participation Meeting - Application - Part of 124 St. James Street (OZ-9012)
 
+<div id="motion-3-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Grosvenor Development Corporation, relating to the property located at 124 St. James Street: a)          the proposed by-law appended to the staff report dated July...
 
 **✅ Motion Passed (4 to 0)**
@@ -1440,6 +1448,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 3.6. Public Participation Meeting - Application - Residential Plan of Subdivision and Zoning By-law Amendment - 600 Sunningdale Road West 39T-18501 (Z-8888)
+
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Sunningdale Golf and Country Club, relating to the property located at 600 Sunningdale Road West (legally described as RCP 1028 PT Lot 16 RP 33R13891, PT Part 1  RP...
 
@@ -1449,6 +1459,8 @@ Unanimous (4-0)
 
 ### 3.7. Public Participation Meeting - Application - 3080 Bostwick Road (O-9025)
 
+<div id="motion-3-7-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 731675 Ontario Ltd., relating to the property located at 3080 Bostwick Road: a)         The Urban Design Guidelines for 3080 Bostwick Road appended to the staff rep...
 
 **✅ Motion Passed (4 to 0)**
@@ -1457,6 +1469,8 @@ Unanimous (4-0)
 
 ### 3.10. Public Participation Meeting - Not to be heard before 5:30 PM - Lambeth Area Community Improvement Plan (O-9044)
 
+<div id="motion-3-10-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the Lambeth Area Community Improvement Plan: a)         the proposed by-law appended to the staff report dated July 22, 2019 as Appendix "A" BE INTRODUCED at the Municip...
 
 **✅ Motion Passed (4 to 0)**
@@ -1464,6 +1478,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 3.11. Public Participation Meeting - 3334 and 3354 Wonderland Road South (OZ-9043)
+
+<div id="motion-3-11-1" class="motion-anchor"></div>
 
 > The application by Gateway Casinos and Entertainment Ltd., relating to the property located at 3334 and 3354 Wonderland Road South BE DEFERRED to the August 12, 2019 Planning and Environment Committee, to allow for comment to be provided by First Nations communities.
 
@@ -1482,6 +1498,8 @@ Unanimous (4-0)
 
 ### 3.11. Public Participation Meeting - 3334 and 3354 Wonderland Road South (OZ-9043)
 
+<div id="motion-3-11-2" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Gateway Casinos and Entertainment Ltd., relating to the property located at 3334 and 3354 Wonderland Road South: a)         the proposed by-law appended to the staf...
 
 **❌ Motion Failed (2 to 2) 🔥**
@@ -1498,6 +1516,8 @@ Unanimous (4-0)
 </details>
 
 ### 3.11. Public Participation Meeting - 3334 and 3354 Wonderland Road South (OZ-9043)
+
+<div id="motion-3-11-5" class="motion-anchor"></div>
 
 > Motion to grant Mr. S. Allen, MHBC, an extension beyond five minutes for his delegation.
 
@@ -1516,6 +1536,8 @@ Unanimous (4-0)
 
 ### 4.1. Demolition Request for Heritage Designated Property at 123 Queens Avenue
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the demolition request for the heritage designated property at 123 Queens Avenue, located in the Downtown Heritage Conservation District, BE PERMITTED pursuant to Section 42(1) of the Ontario Heritage Act subject to the following terms and conditions: a)    prior to any demolition, the prope...
 
 **✅ Motion Passed (3 to 0)**
@@ -1523,6 +1545,8 @@ Unanimous (4-0)
 Unanimous (3-0)
 
 ### 4.2. Request for Delegation Status - P. Derakhshan, Thames Valley Joint Venture - Lot 66 - 1738-1754 Hamilton Road
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That P. Derakhshan, Planner, Thames Village Joint Venture, BE GRANTED delegation status at the August 12, 2019 Planning and Environment Committee meeting relating to the application by Thames Village Joint Venture, with respect to the property located at Lott 66, 1738 Hamilton Road, in the Old Vi...
 

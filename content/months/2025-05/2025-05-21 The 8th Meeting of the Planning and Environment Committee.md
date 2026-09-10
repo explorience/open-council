@@ -1452,6 +1452,8 @@ Frigious and i were talking and again he said he's keeping his word and his clie
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.5 and 2.7 to 2.12 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1459,6 +1461,8 @@ Frigious and i were talking and again he said he's keeping his word and his clie
 Unanimous (5-0)
 
 ### 2. Consent
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Items 2.6 and 2.13 in Stage 2, Consent, remain in Stage 2.
 
@@ -1468,6 +1472,8 @@ Unanimous (5-0)
 
 ### 2.6. Heritage Alteration Permit application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, related to the application under Section 42 of the Ontario Heritage Act seeking approval for window replacement on the heritage designated pro...
 
 **✅ Motion Passed (5 to 0)**
@@ -1475,6 +1481,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.6. Heritage Alteration Permit application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
+
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > That the delegation requests from D. Lecuyer and E. van der Maarel, as appended to the Added Agenda BE APPROVED, to be heard at this time.
 
@@ -1484,6 +1492,8 @@ Unanimous (5-0)
 
 ### 2.13. (ADDED) 2nd Report of the Community Advisory Committee on Planning
 
+<div id="motion-2-13-1" class="motion-anchor"></div>
+
 > That the delegation requests from J.M. Metrailler and M. Wallace, as appended to the Added Agenda BE APPROVED, to be heard at this time.
 
 **✅ Motion Passed (5 to 0)**
@@ -1491,6 +1501,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.1. 20 Clarke Road (Z-25038)
+
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > That the motion be amended to include new subclauses iv) and v) to part b) to read as follows: iv)    a road access to Clarke Road from the western limit of the draft plan and that the road access arrangements be reviewed by the Applicant to determine if a full access or restricted access is perm...
 
@@ -1509,6 +1521,8 @@ Unanimous (5-0)
 
 ### 3.1. 20 Clarke Road (Z-25038)
 
+<div id="motion-3-1-2" class="motion-anchor"></div>
+
 > That the motion, as amended, be approved.
 
 **✅ Motion Passed (5 to 0)**
@@ -1516,6 +1530,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.3. 1890 & 1900 Kilgorman Way (Z-25045)
+
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Farhi Holdings Corporation relating to the property located at 1890 & 1900 Kilgorman Way, the proposed by-law as appended to the staff report dated May 21, 2025...
 
@@ -1534,6 +1550,8 @@ Unanimous (5-0)
 
 ### 3.4. 168 Meadowlily Road South (OZ-9763)
 
+<div id="motion-3-4-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Forever Homes Meadowlily Limited Partnership, relating to the property located at 168 Meadowlily Road South: a)    the proposed by-law as appended to the staff ...
 
 **✅ Motion Passed (3 to 2) 🔥**
@@ -1551,6 +1569,8 @@ Unanimous (5-0)
 
 ### 3.5. 1206 Oxford Street East & 17-19 Wistow Street (Z-25036)
 
+<div id="motion-3-5-1" class="motion-anchor"></div>
+
 > That the motion be amended to include a new subclause vi) in part c), and a new part d) to read as follows: vi)    Explore opportunities for fencing, including the retention or repair of existing fencing, along mutual property lines and designated snow storage areas. d)    The applicant BE REQUES...
 
 **✅ Motion Passed (4 to 0)**
@@ -1559,6 +1579,8 @@ Unanimous (4-0)
 
 ### 3.5. 1206 Oxford Street East & 17-19 Wistow Street (Z-25036)
 
+<div id="motion-3-5-2" class="motion-anchor"></div>
+
 > That the motion, as amended, be approved.
 
 **✅ Motion Passed (4 to 0)**
@@ -1566,6 +1588,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 3.6. Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block
+
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, regarding the application under Section 34(1)(2) of the Ontario Heritage Act seeking to demolish the buildings known as the Kent Brewery (197 ...
 
@@ -1584,6 +1608,8 @@ Unanimous (4-0)
 
 ### 3.8. 3334-3354 Wonderland Road South (OZ-25034)
 
+<div id="motion-3-8-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 111473 Ontario Limited (c/o MHBC) relating to the property located at 3334 & 3354 Wonderland South: a)    that the Civic Administration BE DIRECTRED to work wit...
 
 **✅ Motion Passed (4 to 0)**
@@ -1591,6 +1617,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 5.1. Deferred Matters List
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Deferred Matters List BE REVEIVED.
 

@@ -377,6 +377,8 @@ The meeting adjourned at 1:08 PM.
 ### 2. Election of
   Vice-Chair for the term ending November 30, 2017
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -387,6 +389,8 @@ Unanimous (4-0)
 ### 3. STAFF REPORT -
   Flooding Matters Phase ll - Progress Report
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -396,6 +400,8 @@ Unanimous (6-0)
 
 ### 4. STAFF REPORT -
   Traffic and Parking By-law Consolidation
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -408,6 +414,8 @@ Unanimous (6-0)
   Adelaide Street/Canadian Pacific Railway Grade Separation Environmental Assessment
   Update
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -417,6 +425,8 @@ Unanimous (6-0)
 
 ### 6. STAFF REPORT -
   Options for Increased Recycling in the Downtown Core
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -428,6 +438,8 @@ Unanimous (6-0)
 ### 7. STAFF REPORT -
   Comments on the Ministry of Energy's Discussion Paper on Ontario's Long-Term
   Energy Plan for Submission to the Environmental Bill of Rights (EBR) Registry
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -441,6 +453,8 @@ Unanimous (4-0)
   for Chemicals and Fuels from Alternative Resources) as Part of the London
   Waste to Resources Innovation Centre
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -452,6 +466,8 @@ Unanimous (6-0)
   Matthews, P. Eng., Dillon Consulting  -  Dundas Place - Environmental Study
   Report
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -462,6 +478,8 @@ Unanimous (6-0)
 ### 10. Deferred Matters
   List
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -471,6 +489,8 @@ Unanimous (6-0)
 
 ### 11. (ADDED) COUNCILLOR
   SUBMISSION - Rapid Transit Corridor Traffic Flow
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

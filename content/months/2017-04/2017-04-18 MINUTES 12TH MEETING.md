@@ -1556,6 +1556,8 @@ Passed
   and Councillor M. Cassidy - Emergent Motion – Change in Meeting Location- May
   23, 2017 Planning and Environment Committee Meeting
 
+<div id="motion-1-5-0" class="motion-anchor"></div>
+
 > Approve that pursuant to section 20.1 of   the Council Procedure By-law, leave BE GIVEN for the introduction of an   emergent motion to permit the May 23, 2017 Planning and Environment Committee   meeting to be held at the Wolf Performance Hall (251 Dundas Street) in order   to accommodate the hi...
 
 **✅ Motion Passed**
@@ -1573,6 +1575,8 @@ Passed
   and Councillor M. Cassidy - Emergent Motion – Change in Meeting Location- May
   23, 2017 Planning and Environment Committee Meeting
 
+<div id="motion-1-5-1" class="motion-anchor"></div>
+
 > Approve that pursuant to Section 2.6 of   the Council Procedure By-law, the Civic Administration BE DIRECTED to make   the necessary arrangements for the May 23, 2017 meeting of the Planning and   Environment Committee to be held at the Wolf Performance Hall (251 Dundas   Street) in order to ensu...
 
 **✅ Motion Passed**
@@ -1582,6 +1586,8 @@ Unanimous (10-0)
 ### 1#5. Councillor T. Park
   and Councillor M. Cassidy - Emergent Motion – Change in Meeting Location- May
   23, 2017 Planning and Environment Committee Meeting
+
+<div id="motion-1-5-2" class="motion-anchor"></div>
 
 > Approve that pursuant to section 20.1 of   the Council Procedure By-law, leave BE GIVEN for the introduction of an   emergent motion to permit further direction to be given to the Civic   Administration to report back on specific mitigation measures that could be   put in place to address the pot...
 
@@ -1593,6 +1599,8 @@ Unanimous (10-0)
   and Councillor M. Cassidy - Emergent Motion – Change in Meeting Location- May
   23, 2017 Planning and Environment Committee Meeting
 
+<div id="motion-1-5-3" class="motion-anchor"></div>
+
 > Approve that the Civic Administration BE   DIRECTED to include, as part of its report back on the Rapid Transit   Implementation Project, requested by the Municipal Council at its meeting on   April 4, 2017, the following additional information:   a)         options   to mitigate potential impact...
 
 **✅ Motion Passed**
@@ -1603,6 +1611,8 @@ Unanimous (10-0)
   Community Infrastructure Program Intake Two Contribution Agreement (Relates
   to Bill No. 173)
 
+<div id="motion-10-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer and   City Manager, the following actions be taken with respect to the execution of   the Canada 150 Community Infrastructure Program Contribution Agreement Intake   Two:   a)   ...
 
 **✅ Motion Passed**
@@ -1611,6 +1621,8 @@ Unanimous (12-0)
 
 ### 11#3. Vacancy - London
   Hydro Inc. Board of Directors
+
+<div id="motion-11-3-0" class="motion-anchor"></div>
 
 > The motion to Approve part a) of clause 11   is put.
 
@@ -1628,6 +1640,8 @@ Unanimous (12-0)
 ### 11#3. Vacancy - London
   Hydro Inc. Board of Directors
 
+<div id="motion-11-3-1" class="motion-anchor"></div>
+
 > The motion to Approve balance of clause 11   is put.
 
 **✅ Motion Passed**
@@ -1637,6 +1651,8 @@ Unanimous (12-0)
 ### 2#3. 2016 Operating
   Budget Year-End Monitoring Report – Property Tax, Water, Wastewater &
   Treatment Budgets
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > The motion Approve parts d) and f), of   clause 2 is put.    d)         one-time   funding of $1.6 million for the Housing Development Corporation (HDC) for   additional investment in affordable housing development  BE APPROVED;   f)         the   Civic Administration and the Housing Development ...
 
@@ -1655,6 +1671,8 @@ Unanimous (12-0)
   Budget Year-End Monitoring Report – Property Tax, Water, Wastewater &
   Treatment Budgets
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > The motion to Approve balance of clause 2   is put.
 
 **✅ Motion Passed**
@@ -1664,6 +1682,8 @@ Unanimous (12-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON APRIL 4, 2017
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve Minutes of the Eleventh Meeting   held on April 4, 2017.
 
 **✅ Motion Passed**
@@ -1672,6 +1692,8 @@ Unanimous (13-0)
 
 ### 3. Amendments to the
   Traffic and Parking By-law (Relates to Bill No's. 161 and 162)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > The motion to Approve part a) of clause 3   is put.
 
@@ -1689,6 +1711,8 @@ Unanimous (13-0)
 ### 3. Amendments to the
   Traffic and Parking By-law (Relates to Bill No's. 161 and 162)
 
+<div id="motion-3-1" class="motion-anchor"></div>
+
 > Approve the following new part a), for   clause 3:   “a)       the   attached revised by-law BE INTRODUCED at the Municipal Council meeting   to be held on April 18, 2017 for the purpose of amending the Traffic and   Parking By-law P.S.-113; it being noted that the proposed revised by-law   inclu...
 
 **✅ Motion Passed**
@@ -1705,6 +1729,8 @@ Unanimous (13-0)
 ### 3. Amendments to the
   Traffic and Parking By-law (Relates to Bill No's. 161 and 162)
 
+<div id="motion-3-2" class="motion-anchor"></div>
+
 > The motion Approve the remainder of clause   3 is put.
 
 **✅ Motion Passed**
@@ -1713,6 +1739,8 @@ Unanimous (12-0)
 
 ### 3. Amendments to the
   Traffic and Parking By-law (Relates to Bill No's. 161 and 162)
+
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Approve clause 3, as amended.
 

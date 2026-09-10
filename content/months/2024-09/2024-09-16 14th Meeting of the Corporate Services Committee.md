@@ -525,6 +525,8 @@ Okay, Councillor Stevenson, Councillor Cudi, all those in favor, hand vote, any 
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Corporate Services Committee Agenda BE APPROVED, to provide for Item 6.1 in Stage 6, Confidential, to be considered after Stage 3, Scheduled Items.
 
 **✅ Motion Passed (5 to 0)**
@@ -533,6 +535,8 @@ Unanimous (5-0)
 
 ### 2.3. Downtown London Entertainment and Sports Centre Naming Rights
 
+<div id="motion-2-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the name change for the Downtown London Entertainment and Sports Centre BE APPROVED from Budweiser Gardens to Canada Life Place.
 
 **✅ Motion Passed (4 to 0)**
@@ -540,6 +544,8 @@ Unanimous (5-0)
 Unanimous (4-0)
 
 ### 2.6. Standing Committees and Forums - Federation of Canadian Municipalities - Councillor S. Trosow
+
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > That the communication from Councillor S. Trosow dated September 4, 2024 in relation to Standing Committees and Forums - Federation of Canadian Municipalities BE RECEIVED and NO FURTHER ACTION BE TAKEN
 
@@ -554,6 +560,8 @@ Unanimous (4-0)
 
 ### 2.6. Standing Committees and Forums - Federation of Canadian Municipalities - Councillor S. Trosow
 
+<div id="motion-2-6-2" class="motion-anchor"></div>
+
 > That part b) of the motion BE AMENDED to read as follows: all associated costs to attend the Board of Directors meetings and AGM for the 2024/2025 BE INCURRED as part of the Councillor's annual expense allocation; it being noted that the meeting dates include:
 
 **✅ Motion Passed (5 to 0)**
@@ -561,6 +569,8 @@ Unanimous (4-0)
 Unanimous (5-0)
 
 ### 2.6. Standing Committees and Forums - Federation of Canadian Municipalities - Councillor S. Trosow
+
+<div id="motion-2-6-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED
 

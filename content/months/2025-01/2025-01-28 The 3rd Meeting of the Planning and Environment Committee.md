@@ -457,6 +457,8 @@ All in favor. The committee meeting is closed.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.5 BE APPREOVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -464,6 +466,8 @@ All in favor. The committee meeting is closed.
 Unanimous (4-0)
 
 ### 3.1. Demolition Request and Heritage Alteration Permit Application at 66 Blackfriars Street
+
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Housing and Community Growth, the application under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a proposed building, as described, herein, and appended in Appendix “E”, on the pro...
 

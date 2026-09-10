@@ -1180,6 +1180,8 @@ The meeting adjourned at 10:44 PM.
 
 ### 2.2. Municipal Accommodation Tax - Required Agreements and By-laws
 
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to implementing the new Municipal Accommodation Tax:    a)            the proposed by-law appended to the staff report dated June 25, 2...
 
 **✅ Motion Passed (14 to 1)**
@@ -1195,6 +1197,8 @@ The meeting adjourned at 10:44 PM.
 
 ### 2.3. Free of Fear Services for All Policy
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > Motion to approve parts a), b) and c).
 
 **✅ Motion Passed (14 to 0)**
@@ -1202,6 +1206,8 @@ The meeting adjourned at 10:44 PM.
 Unanimous (14-0)
 
 ### 2.3. Free of Fear Services for All Policy
+
+<div id="motion-2-3-2" class="motion-anchor"></div>
 
 > Motion to approve part d).
 
@@ -1220,6 +1226,8 @@ Unanimous (14-0)
 
 ### 2.3. Free of Fear Services for All Policy
 
+<div id="motion-2-3-3" class="motion-anchor"></div>
+
 > Motion to approve part e).
 
 **✅ Motion Passed (9 to 5)**
@@ -1237,6 +1245,8 @@ Unanimous (14-0)
 
 ### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-3-1" class="motion-anchor"></div>
+
 > Motion to approve part b).
 
 **✅ Motion Passed (15 to 0)**
@@ -1244,6 +1254,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
+
+<div id="motion-3-3-2" class="motion-anchor"></div>
 
 > Motion to approve part c).
 
@@ -1253,6 +1265,8 @@ Unanimous (14-0)
 
 ### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-3-3" class="motion-anchor"></div>
+
 > Motion to approve part d).
 
 **✅ Motion Passed (15 to 0)**
@@ -1260,6 +1274,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
+
+<div id="motion-3-3-4" class="motion-anchor"></div>
 
 > Motion to approve part e).
 
@@ -1276,6 +1292,8 @@ Unanimous (15-0)
 
 ### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-3-5" class="motion-anchor"></div>
+
 > Motion to approve part a).
 
 **✅ Motion Passed (15 to 0)**
@@ -1283,6 +1301,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. 9th Report of the Governance Working Group
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the 9th Report of the Governance Working Group  excluding items 3. a) 10. (Child Care Policies) and 5 (Annual Meeting Calendar).
 
@@ -1292,6 +1312,8 @@ Unanimous (13-0)
 
 ### 4.1. 9th Report of the Governance Working Group
 
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
 > Motion to approve item 3. a) 10. Child Care Policies.
 
 **✅ Motion Passed (12 to 0)**
@@ -1299,6 +1321,8 @@ Unanimous (13-0)
 Unanimous (12-0)
 
 ### 4.1. 9th Report of the Governance Working Group
+
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > Motion to refer part c), having to do with a revised Annual Meeting Calendar, BE REFERRED to the 2018-2022 Council for consideration; it being noted that the City Clerk will be required to bring forward a report prior to September 2018, based on the current meeting schedule format for the coming ...
 
@@ -1317,6 +1341,8 @@ Unanimous (12-0)
 
 ### 4.1. 9th Report of the Governance Working Group
 
+<div id="motion-4-1-4" class="motion-anchor"></div>
+
 > Motion to approve part c), with the addition to direct the City Clerk to consult with the Civic Administration on the draft calendars.
 
 **✅ Motion Passed (8 to 5) 🔥**
@@ -1334,6 +1360,8 @@ Unanimous (12-0)
 
 ### 4.2. 10th Report of the Governance Working Group
 
+<div id="motion-4-2-1" class="motion-anchor"></div>
+
 > Motion to approve the 10th Report of the Governance Working Group, excluding a) parts 37 (Parkland Accounts), 44 (Siting of Cannabis Retail Stores in London) and 45 (Siting of Safe Consumption Facilities and Temporary Overdose Prevention Sites in London).
 
 **✅ Motion Passed (13 to 0)**
@@ -1341,6 +1369,8 @@ Unanimous (12-0)
 Unanimous (13-0)
 
 ### 4.2. 10th Report of the Governance Working Group
+
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > Motion to refer item 37 - Parkland Accounts policy back to staff for additional work, and a report back to the GWG.
 
@@ -1350,6 +1380,8 @@ Unanimous (13-0)
 
 ### 4.2. 10th Report of the Governance Working Group
 
+<div id="motion-4-2-3" class="motion-anchor"></div>
+
 > Motion to approve parts 44 (Siting of Cannabis Retail Stores in London) and 45 (Siting of Safe Consumption Facilities and Temporary Overdose Prevention Sites in London.
 
 **✅ Motion Passed (12 to 0)**
@@ -1357,6 +1389,8 @@ Unanimous (13-0)
 Unanimous (12-0)
 
 ### 4.3. Review of the Function of the Public Utility Commission of the City of London
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the Civic Administration BE DIRECTED to undertake all the administrative acts that are necessary to dissolve the corporate entity known as The Public Utility Commission of the City of Lo...
 

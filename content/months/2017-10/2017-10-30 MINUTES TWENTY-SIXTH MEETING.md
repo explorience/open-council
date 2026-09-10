@@ -2797,6 +2797,8 @@ Approve Third Reading and Enactment of
 ### 1#3. Expanded London
   Police Services Board – Additional City Council Appointment
 
+<div id="motion-1-3-0" class="motion-anchor"></div>
+
 > Approve that pursuant to section 11.3 of   the Council Procedure By-law, leave be given to bring forward a motion having   to do with an appointment to the expanded London Police Services Board.
 
 **✅ Motion Passed**
@@ -2805,6 +2807,8 @@ Unanimous (13-0)
 
 ### 1#3. Expanded London
   Police Services Board – Additional City Council Appointment
+
+<div id="motion-1-3-1" class="motion-anchor"></div>
 
 > Approve that Councillor Mo Salih BE   APPOINTED to serve as the Municipal Council’s representative on the London   Police Services Board for a term commencing concurrent with the appointment   of the yet-to-be-named provincial appointee, and ending on November 30, 2018.
 
@@ -2816,6 +2820,8 @@ Unanimous (13-0)
   6188 Colonel Talbot Road (Z-8795)
 Deferred from Council October 17, 2017
 
+<div id="motion-1-7-0" class="motion-anchor"></div>
+
 > Approve that, the application of Mainline   Planning Services Inc., relating to the property located at 6188 Colonel   Talbot Road, BE REFERRED back to the Managing Director, Planning and City   Planner, to report back to the November 6, 2017 Planning and Environment Committee   with the appropri...
 
 **✅ Motion Passed**
@@ -2825,6 +2831,8 @@ Unanimous (11-0)
 ### 1#8. (ADDED) Emergent
   Motion – Expense Request – National Zero Waste Council – November 1, 2017 and
   Annual General Meeting November 2, 2017
+
+<div id="motion-1-8-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 20.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to consider the request from Councillor H.L. Usher for   approval of reimbursement of costs related to travel and hotel expenses to   attend the National Zero Waste...
 
@@ -2836,6 +2844,8 @@ Unanimous (11-0)
   Motion – Expense Request – National Zero Waste Council – November 1, 2017 and
   Annual General Meeting November 2, 2017
 
+<div id="motion-1-8-1" class="motion-anchor"></div>
+
 > Approve that the request from Councillor   H.L. Usher for the reimbursement of costs in the amount of approximately   $2,200.00, for travel and hotel expenses related to attendance at the   National Zero Waste Council Conference and Annual General Meeting to be held   on November 1, 2017 and Nove...
 
 **✅ Motion Passed**
@@ -2844,6 +2854,8 @@ Unanimous (11-0)
 
 ### 10#2. Property located at
   4100 Glanworth Drive - Request for Demolition
+
+<div id="motion-10-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, with the advice of the Heritage Planner,   with respect to the request for the demolition of a heritage listed property   located at 4100 Glanworth Drive, the following actions be taken:   a)         4100   Glanwor...
 
@@ -2861,6 +2873,8 @@ Unanimous (11-0)
 ### 12#2. Properties located
   at 661-667 Talbot Street (Z-8659) (Relates to Bill No. 638)
 
+<div id="motion-12-2-0" class="motion-anchor"></div>
+
 > Approve clause 12 a) be amended to read   as follows:   “a)       the   proposed attached revised by-law  BE INTRODUCED at the Municipal   Council meeting to be held on October 30, 2017, to amend Zoning By-law No.   Z.-1, (in conformity with the Official Plan), to change the zoning of the   subje...
 
 **✅ Motion Passed**
@@ -2874,6 +2888,8 @@ Unanimous (11-0)
 
 ### 12#2. Properties located
   at 661-667 Talbot Street (Z-8659) (Relates to Bill No. 638)
+
+<div id="motion-12-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2891,6 +2907,8 @@ Unanimous (11-0)
 ### 2#5. Proposed Election
   Sign By-law (Relates to Bill No.632)
 
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
 > Approve Clause 2, related to the   Election Campaign Sign By-law, BE REFERRED back to the Corporate Services   Committee for additional consideration.
 
 **✅ Motion Passed 🔥**
@@ -2907,6 +2925,8 @@ Unanimous (11-0)
 ### 3#4. Tax Adjustment
   Agenda
 
+<div id="motion-3-4-0" class="motion-anchor"></div>
+
 > The motion to Approve all applications   except Application No. 2016-123 is put.
 
 **✅ Motion Passed**
@@ -2915,6 +2935,8 @@ Unanimous (10-0)
 
 ### 3#4. Tax Adjustment
   Agenda
+
+<div id="motion-3-4-1" class="motion-anchor"></div>
 
 > The motion to Approve Application No.   2016-123 is put.
 
@@ -2925,6 +2947,8 @@ Unanimous (9-0)
 ### 5#3. Council Policy -
   Use of Corporate Resources During a Municipal Election Year (Relates to Bill
   No.631)
+
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City   Clerk, the revised by-law appended to the memorandum dated September 27,   2017, from the City Clerk, BE INTRODUCED at the Municipal Council meeting to   be held on October 30, 2017 to implement a Council Policy regarding the use   of City of London resou...
 
@@ -2942,6 +2966,8 @@ Unanimous (9-0)
 ### 6#2. Property located at
   420 Fanshawe Park Road East - Notice of Appeal to the Ontario Municipal Board
 
+<div id="motion-6-2-1" class="motion-anchor"></div>
+
 > Approve clause 6, as amended.
 
 **✅ Motion Passed**
@@ -2950,6 +2976,8 @@ Unanimous (13-0)
 
 ### 7#2. Property located at
   1635 Brayford Avenue (H-8832)  (Relates to Bill No. 636)
+
+<div id="motion-7-2-0" class="motion-anchor"></div>
 
 > Approve that clause 7 be amended to read   as follows:   “That, on the recommendation of the Senior   Planner, Development Services, with respect to the application by Nicola   Vecchio, relating to lands located at 1635 Brayford Avenue, comprising Lot   18, Plan No. 33M-714, the proposed by-law a...
 
@@ -2960,6 +2988,8 @@ Unanimous (13-0)
 ### 7#2. Property located at
   1635 Brayford Avenue (H-8832)  (Relates to Bill No. 636)
 
+<div id="motion-7-2-1" class="motion-anchor"></div>
+
 > Approve clause 7, as amended
 
 **✅ Motion Passed**
@@ -2968,6 +2998,8 @@ Unanimous (13-0)
 
 ### III. REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
+
+<div id="motion-iii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 11 of the 20th Report of the Planning and Environment   Committee at this time.
 
@@ -2978,6 +3010,8 @@ Unanimous (14-0)
 ### IX. ADDED
   REPORTS
 
+<div id="motion-ix-1" class="motion-anchor"></div>
+
 > Approve clauses 2 and 3.                           2.         Offer   to Purchase Industrial Lands – 10401471 Canada Inc. – Part of Lots 8 and 9,   Concession 3, London/Westminster and being a Portion of Pin 08200-0079(LT)   and Part of Lot 8, Concession 3, London/Westminster and being a Portion ...
 
 **✅ Motion Passed**
@@ -2986,6 +3020,8 @@ Unanimous (11-0)
 
 ### IX. ADDED
   REPORTS
+
+<div id="motion-ix-2" class="motion-anchor"></div>
 
 > Approve clause 1.                             1.         Property   Acquisition – 28 Wellington Road South –  Shift Rapid Transit Project   That, as a procedural matter pursuant to   Section 239(6) of the Municipal Act, 2001, the following recommendation be   forwarded to Council for deliberation...
 
@@ -2997,6 +3033,8 @@ Unanimous (9-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-FIFTH MEETING HELD ON OCTOBER 17,
   2017
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the Twenty-Fifth   meeting held on October 17, 2017.
 
 **✅ Motion Passed**
@@ -3004,6 +3042,8 @@ Unanimous (9-0)
 Unanimous (12-0)
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading of   Bill No. 631.
 
@@ -3020,6 +3060,8 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-4" class="motion-anchor"></div>
+
 > Approve Second Reading of Bill No. 631.
 
 **✅ Motion Passed**
@@ -3034,6 +3076,8 @@ Unanimous (12-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 631.
 
@@ -3050,6 +3094,8 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-6" class="motion-anchor"></div>
+
 > Approve Introduction and First Reading   of the revised Bill No. 638.
 
 **✅ Motion Passed**
@@ -3065,6 +3111,8 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-7" class="motion-anchor"></div>
+
 > Approve Second Reading of the revised   Bill No. 638.
 
 **✅ Motion Passed**
@@ -3079,6 +3127,8 @@ Unanimous (12-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-8" class="motion-anchor"></div>
 
 > Amend Third Reading and Enactment of the   revised Bill No. 638.
 
@@ -3100,6 +3150,8 @@ Unanimous (12-0)
   Committee Stage for Consideration with Clause 10 of the 20th Report of the
   Planning and Environment Committee )
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3108,6 +3160,8 @@ Unanimous (12-0)
 
 ### 6. Amendments to the
   Traffic and Parking By-law (Relates to Bill No. 633)
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   proposed by-law appended to the staff report dated October 24, 2017 as   Appendix 'A' BE INTRODUCED at the Municipal Council meeting to be held on   October 30, 2017, for the pu...
 
@@ -3118,6 +3172,8 @@ Unanimous (13-0)
 ### 9. Intelligent
   Transportation System - Appointment of Consulting Engineer
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the Intelligent Transportation   System project:   a)         LEA   Consulting Limited, BE APPOINTED consulting engineers to complete ...
 
 **✅ Motion Passed**
@@ -3127,6 +3183,8 @@ Unanimous (13-0)
 ### 11. Properties located
   at 200 Albert Street, 192-196 Central Avenue and 193-197 Central Avenue
   (TZ-8802)
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the   Managing Director, Planning and City Planner, with respect to the application   of Farhi Holdings relating to the properties located at 200 Albert Street,   192 – 196 Central Avenue and 193 – 197 Central Avenue, the proposed by-law as   appended to the...
 
@@ -3144,6 +3202,8 @@ Unanimous (13-0)
 ### 15. Municipal
   Greenhouse Gas (GHG) Challenge Fund Proposed Applications
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, and the   Managing Director, Corporate Services and City Treasurer, Chief Financial   Officer, the following actions be taken with respect to the Municipal   Greenhouse Gas (GHG) Chal...
 
 **✅ Motion Passed**
@@ -3152,6 +3212,8 @@ Unanimous (13-0)
 
 ### 15. Municipal
   Greenhouse Gas (GHG) Challenge Fund Proposed Applications
+
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion Passed
 

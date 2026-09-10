@@ -1020,6 +1020,8 @@ The meeting adjourned at 7:53 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.5, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1027,6 +1029,8 @@ The meeting adjourned at 7:53 PM.
 Unanimous (6-0)
 
 ### 3.2. Application - 6019 Hamlyn Street
+
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services the following actions be taken with respect to the application of Sifton Properties Limited relating to the property located at 6019 Hamlyn Street: a)       the proposed by-law appended as Appendix “A” to the staff report dated Mar...
 
@@ -1036,6 +1040,8 @@ Unanimous (6-0)
 
 ### 3.3. 1389 Commissioners Road East - Summerside Subdivision
 
+<div id="motion-3-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Drewlo Holding Inc. relating to the lands located at 1389 Commissioners Road East within the Summerside Subdivision: a)      the proposed by-law appended as Appendi...
 
 **✅ Motion Passed (6 to 0)**
@@ -1043,6 +1049,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.6. Application - 3924 Colonel Talbot Road
+
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Auburn Developments Ltd. pertaining to portions of the lands located at 3924 Colonel Talbot Road: a)      the proposed by-law appended as Appendix “A” to the staff ...
 
@@ -1052,6 +1060,8 @@ Unanimous (6-0)
 
 ### 3.7. Application - 403 Thompson Road - File OZ-9290
 
+<div id="motion-3-7-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Housing Development Corporation, London (HDC) relating to the property located at 403 Thompson Road: a)      the proposed by-law appended as Appendix “A” to the sta...
 
 **✅ Motion Passed (6 to 0)**
@@ -1059,6 +1069,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.8. Application - 345 Sylvan Street - File OZ-9297
+
+<div id="motion-3-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application Housing Development Corporation, London (HDC) relating to the property located at 345 Sylvan Street: a)      the proposed by-law appended as Appendix "A" to the staff ...
 
@@ -1068,6 +1080,8 @@ Unanimous (6-0)
 
 ### 3.9. Core Area Community Improvement Plan (O-9257) - Core Area Community Improvement Plan Financial Incentive Program Guidelines
 
+<div id="motion-3-9-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, City Planning and City Planner, the following actions be taken with respect to the application by The Corporation of the City of London relating to the Core Area Community Improvement Plan: a)      the proposed by-law appended as Appendix “A” to the st...
 
 **✅ Motion Passed (6 to 0)**
@@ -1075,6 +1089,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. 2nd Report of the London Advisory Committee on Heritage
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following action be taken with respect to the 2nd Report of the London Advisory Committee on Heritage for its meeting held on February 10, 2021: a)      the London Advisory Committee on Heritage recommends that the Planning and Environment Committee support the recommendation of the Dire...
 

@@ -423,6 +423,8 @@ This is normally the point in the meeting where I say if you're looking for anot
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.1 and 2.2 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -430,6 +432,8 @@ This is normally the point in the meeting where I say if you're looking for anot
 Unanimous (5-0)
 
 ### 3.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal - 2050 Linkway Boulevard
+
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, after convening as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act 1997, S.O. 1997, c. 27, by Derek Satnik, Vice President of Technology of EVE Park London LP, of the property located at 2050 Linkway Boulevard, regardin...
 
@@ -439,6 +443,8 @@ Unanimous (5-0)
 
 ### 3.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal - 2050 Linkway Boulevard
 
+<div id="motion-3-1-1" class="motion-anchor"></div>
+
 > That the Corporate Services Committee now convene as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act, 1997 and provide the complainant an opportunity to make representations.
 
 **✅ Motion Passed (5 to 0)**
@@ -446,6 +452,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal - 2050 Linkway Boulevard
+
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That the complaint under section 20 of the Development Charges Act 1997, S.O. 1997, c. 27, by Derek Satnik, Vice President of Technology of EVE Park London LP, of the property located at 2050 Linkway Boulevard, regarding the development charges being appealed, for the incorrect DC rates used for ...
 

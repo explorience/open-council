@@ -3519,6 +3519,8 @@ Motion Passed
 ### 17#2. Industrial
   Operations Shaver-Brockley Area
 
+<div id="motion-17-2-0" class="motion-anchor"></div>
+
 > Approve that cause 17 be amended by   adding the following words at the end of the clause, ", and all other   areas that may be similarly affected within the City," after the words,   "surrounding area".
 
 **✅ Motion Passed**
@@ -3528,6 +3530,8 @@ Unanimous (13-0)
 ### 17#2. Industrial
   Operations Shaver-Brockley Area
 
+<div id="motion-17-2-1" class="motion-anchor"></div>
+
 > Approve clause 17, as amended.
 
 **✅ Motion Passed**
@@ -3536,6 +3540,8 @@ Unanimous (13-0)
 
 ### 2#5. CORPORATE OPERATING AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-2-5-0" class="motion-anchor"></div>
 
 > Approve that cause 2 b) f) be amended by   adding the following words to the end of the clause:   “and further that the Civic Administration   BE REQUESTED to bring forward the applicable business cases with respect to   this allocation, in order to provide Council with additional oversight   rel...
 
@@ -3553,6 +3559,8 @@ Unanimous (13-0)
 ### 2#5. CORPORATE OPERATING AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-2-5-2" class="motion-anchor"></div>
+
 > Approve that clause 2 c) ii) d) a) be amended   to read as follows:   “a)        That,   in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended,   the following actions be taken with respect to the Operating Budget (Appendix   A, Page 26):   i)                the   revised 20...
 
 **✅ Motion Passed**
@@ -3561,6 +3569,8 @@ Unanimous (13-0)
 
 ### 2#7. Request for
   Proposal for Internal Audit Services
+
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the appointment of an outsourced internal auditor for the City of   London:   a)         based   on the completed evaluation, which included such criteria as audit   methodology, fees, audit approach, etc. (as included in the public Request   ...
 
@@ -3571,6 +3581,8 @@ Unanimous (13-0)
 
 ### 4#3. Association of
   Municipalities of Ontario - Health Task Force
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the request of Councillor J. Helmer to   be reimbursed for his expenses associated with attending the 2016-2017   Association of Municipalities of Ontario -  Health Task Force meetings for   2016-2017, outside of his annual expense allocation, BE APPROVED subject to   the annual budget appro...
 
@@ -3588,6 +3600,8 @@ Unanimous (13-0)
 ### 5#3. Amending Agreement
   - London Community Players Loan Agreement (Relates to Bill No. 2)
 
+<div id="motion-5-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   proposed by-law included as Appendix ‘A’ to the staff report dated November   29, 2016 BE INTRODUCED at the Municipal Council meeting on December 6, 2016   to:   a)       ...
 
 **✅ Motion
@@ -3598,6 +3612,8 @@ Unanimous (13-0)
 ### 6#2. Property located at
   1960 Dalmagarry Road (H-8707) (Relates to Bill No. 12)
 
+<div id="motion-6-2-0" class="motion-anchor"></div>
+
 > Approve that clause 6 be amended to read as   follows:   That, on the recommendation of the Senior   Planner, Development Services, based on the application of Ironstone Building   Company Limited, relating to the property located at 1960 Dalmagarry Road,   the proposed by-law appended to the sta...
 
 **✅ Motion Passed**
@@ -3606,6 +3622,8 @@ Unanimous (13-0)
 
 ### 6#2. Property located at
   1960 Dalmagarry Road (H-8707) (Relates to Bill No. 12)
+
+<div id="motion-6-2-1" class="motion-anchor"></div>
 
 > Approve clause 6, as amended.
 
@@ -3616,6 +3634,8 @@ Unanimous (13-0)
 ### 6#3. Acknowledgement of
   Traditional Territory at Meetings of Council
 
+<div id="motion-6-3-0" class="motion-anchor"></div>
+
 > Approve that clause 6 BE REFERRED back for   further consultation with the indigenous community with respect to the   proposed statement.
 
 **✅ Motion Passed**
@@ -3624,6 +3644,8 @@ Unanimous (13-0)
 
 ### 7#3. Council Policy
   18(17)
+
+<div id="motion-7-3-1" class="motion-anchor"></div>
 
 > Approve clause 7, as amended.
 
@@ -3634,6 +3656,8 @@ Unanimous (13-0)
 ### 9#2. Ontario Municipal
   Board Review 2016
 
+<div id="motion-9-2-1" class="motion-anchor"></div>
+
 > Approve clause 9, as amended.
 
 **✅ Motion Passed**
@@ -3643,6 +3667,8 @@ Unanimous (13-0)
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
+<div id="motion-iv-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3651,6 +3677,8 @@ Unanimous (13-0)
 
 ### IV#2. COUNCIL, IN CLOSED SESSION
   (CONTINUED)
+
+<div id="motion-iv-2-2" class="motion-anchor"></div>
 
 > Approve the following:   That, as a   procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001,   the following recommendations be forwarded to City Council for deliberation   and a vote in public session:   1.        That, on the recommendation of the Managing Director, Environme...
 
@@ -3662,6 +3690,8 @@ Unanimous (13-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY -THIRD AND THE TWENTY-FOURTH
   MEETINGS HELD ON NOVEMBER 18, 2016 AND NOVEMBER 22, 2016
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the   Twenty-third and Twenty-fourth meetings held on November 18 and November 22,   2016, respectively.
 
 **✅ Motion Passed**
@@ -3669,6 +3699,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XI. ENQUIRIES
+
+<div id="motion-xi-1" class="motion-anchor"></div>
 
 > Approve that pursuant to section 11.4 of   the Council Procedure By-law, leave be given to add a Council, In Closed   Session matter to receive information with respect to a matter pertaining to   personal matters, including information regarding an identifiable individual,   including a municipa...
 
@@ -3678,6 +3710,8 @@ Unanimous (13-0)
 
 ### 4. Riverside Drive and
   Beaverbrook Avenue Intersection
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the staff   report dated November 29, 2016, with respect to the Riverside Drive and   Beaverbrook Avenue intersection, BE RECEIVED for information.  (2016-T07)
 
@@ -3695,6 +3729,8 @@ Unanimous (13-0)
 ### 5. South Carriage Road
   and Hyde Park Road Intersection
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the staff   report dated November 29, 2016, with respect to the South Carriage Road and   Hyde Park Road intersection, BE RECEIVED for information; it being noted that   the Civic Wor...
 
 **✅ Motion Passed 🔥**
@@ -3710,6 +3746,8 @@ Unanimous (13-0)
 
 ### 13. Shift Rapid Transit
   Implementation Office
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the staff   report dated November 29, 2016 with respect to the Shift Rapid Transit   Implementation Office BE RECEIVED for information.  (2016-T03)
 
@@ -3728,6 +3766,8 @@ Unanimous (13-0)
   Cedar Hollow Developments Limited - Street Renaming - Cedarpark Crescent
   (East of Cedarhollow Boulevard) (Relates to Bill No. 5)
 
+<div id="motion-19-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Senior   Planner, the proposed by-law appended to the staff report dated November 29,   2016 as Appendix 'A' BE INTRODUCED at the Municipal Council meeting to be   held on December 6, 2016 to change the portion of “Cedarpark Crescent”, east   of Cedarhollow Boul...
 
 **✅ Motion Passed**
@@ -3737,6 +3777,8 @@ Unanimous (12-0)
 ### 25. Terms of Reference
   and Public Consultation Process - Environmental Assessment
 
+<div id="motion-25-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED   to:   a)         report   back at a future meeting of the Civic Works Committee with a Council Policy   regarding potential procedures to require the draft Terms of Reference   related to an Environmental Assessment (EA) process to be posted on the City...
 
 **✅ Motion
@@ -3745,6 +3787,8 @@ Passed**
 Unanimous (13-0)
 
 ### 26. Traffic Calming
+
+<div id="motion-26-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED   to investigate and report back on a potential educational campaign for the   purpose of influencing specific driving behaviours in London, including the   costs associated with such a campaign with the aim of reducing the demand for   expensive traffic ...
 

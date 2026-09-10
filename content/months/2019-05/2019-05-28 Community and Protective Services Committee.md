@@ -619,6 +619,8 @@ The meeting adjourned at 6:21 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1, 2.3, 2.5, 2.6, 2.7 and 2.8 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -627,6 +629,8 @@ Unanimous (5-0)
 
 ### 2.2. 4th and 5th Reports of the London Housing Advisory Committee
 
+<div id="motion-2-2-1" class="motion-anchor"></div>
+
 > Motion to approve part a) i).
 
 **✅ Motion Passed (5 to 0)**
@@ -634,6 +638,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.2. 4th and 5th Reports of the London Housing Advisory Committee
+
+<div id="motion-2-2-2" class="motion-anchor"></div>
 
 > Motion to approve that it BE NOTED that the Municipal Council, although respectful of the concerns raised in the presentation, the accusatory language contained in the presentation is not appropriate.
 
@@ -652,6 +658,8 @@ Unanimous (5-0)
 
 ### 2.2. 4th and 5th Reports of the London Housing Advisory Committee
 
+<div id="motion-2-2-3" class="motion-anchor"></div>
+
 > Motion to receive the remainder of the 4th Report of the London Housing Advisory Committee.
 
 **✅ Motion Passed (5 to 0)**
@@ -660,6 +668,8 @@ Unanimous (5-0)
 
 ### 2.2. 4th and 5th Reports of the London Housing Advisory Committee
 
+<div id="motion-2-2-4" class="motion-anchor"></div>
+
 > Motion to receive the 5th Report of the London Housing Advisory Committee.
 
 **✅ Motion Passed (5 to 0)**
@@ -667,6 +677,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.4. London Strengthening Neighbourhoods Strategy: Neighbourhood Decision Making Program
+
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > Motion to approve part a).
 
@@ -685,6 +697,8 @@ Unanimous (5-0)
 
 ### 2.4. London Strengthening Neighbourhoods Strategy: Neighbourhood Decision Making Program
 
+<div id="motion-2-4-2" class="motion-anchor"></div>
+
 > Motion to approve part b).
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -702,6 +716,8 @@ Unanimous (5-0)
 
 ### 2.4. London Strengthening Neighbourhoods Strategy: Neighbourhood Decision Making Program
 
+<div id="motion-2-4-3" class="motion-anchor"></div>
+
 > Motion to approve part c).
 
 **✅ Motion Passed (5 to 0)**
@@ -709,6 +725,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.4. London Strengthening Neighbourhoods Strategy: Neighbourhood Decision Making Program
+
+<div id="motion-2-4-4" class="motion-anchor"></div>
 
 > Motion to receive the staff report dated May 28, 2019.
 
@@ -718,6 +736,8 @@ Unanimous (5-0)
 
 ### 4.3. 3rd and 4th Reports of the Community Safety and Crime Prevention Advisory Committee
 
+<div id="motion-4-3-1" class="motion-anchor"></div>
+
 > Motion to approve part a) and part b) ii).
 
 **✅ Motion Passed (5 to 0)**
@@ -725,6 +745,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.3. 3rd and 4th Reports of the Community Safety and Crime Prevention Advisory Committee
+
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > Motion to approve part b) i).
 
@@ -743,6 +765,8 @@ Unanimous (5-0)
 
 ### 4.4. Councillor E. Peloza - Garbage Collection in City of London Parks
 
+<div id="motion-4-4-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED to report back at the August 13, 2019 meeting of the Community and Protective Services Committee with the costing related to resuming year round garbage collection in city parks; it being noted that a communication, dated April 4, 2019, from Councillor E....
 
 **✅ Motion Passed (5 to 0)**
@@ -750,6 +774,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.5. Unsanctioned and Unsafe Street Parties Policy Amendments - Public Nuisance By-law: Cost Recovery
+
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to prepare a further revised draft amending by-law to the Public Nuisance By-law regarding Nuisance Party cost recovery and fees and report back to the Community and Protective Services Committee meeting to be held on August 13, 2019. (2019-P01)
 
@@ -759,6 +785,8 @@ Unanimous (5-0)
 
 ### 4.6. Homelessness Crisis - M. Wills - REQUEST FOR DELEGATION STATUS
 
+<div id="motion-4-6-0" class="motion-anchor"></div>
+
 > That the delegation request from M. Wills, with respect to a homelessness crisis, BE APPROVED for the June 17, 2019 meeting of the Community and Protective Services Committee. (2019-S14)
 
 **✅ Motion Passed (5 to 0)**
@@ -766,6 +794,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.2. (ADDED) Councillor S. Lewis – Neighbourhood Event Equipment Lending Policy
+
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED to consider and report back, before the beginning of the 2019-2020 school year, with respect to the viability of extending the definition of eligible groups in the current equipment lending policy (defined as groups of neighbours working to build communi...
 

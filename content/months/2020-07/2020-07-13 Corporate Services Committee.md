@@ -333,6 +333,8 @@ The meeting adjourned at 1:19 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.1 to 2.7, excluding items 2.3 and 2.6, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -341,6 +343,8 @@ Unanimous (6-0)
 
 ### 5.1. (ADDED) Remuneration for Elected Officials and Appointed Citizens
 
+<div id="motion-5-1-0" class="motion-anchor"></div>
+
 > That, notwithstanding the provisions of the Council Policy "Remuneration for Elected Officials and Appointed Citizen Members", the remuneration for elected officials and appointed citizens, NO INCREASE to remuneration for elected officials for appointed citizens be made for 2020.
 
 **✅ Motion Passed (6 to 0)**
@@ -348,6 +352,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.2. (ADDED) Declaration of Mutual Commitment and Friendship with Ontario Federation of Indigenous Friendship Centres
+
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > WHEREAS London is working with the N’Amerind Friendship Centre;     WHEREAS the N’Amerind Friendship Centre has been an active contributor to the well being of residents in the community;    WHEREAS London has a good and ongoing relationship with the N’Amerind Friendship Centre and wants to set a...
 

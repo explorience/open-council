@@ -862,6 +862,8 @@ Thank you.
 
 ### 2.8. 2025 Year-End Operating Budget Monitoring Report
 
+<div id="motion-2-8-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Year-End Operating Budget Monitoring Report: a)   the 2025 Operating Budget Year-End Monitoring Report for the Property Tax Supported Budget, Water Budget, and Wastewa...
 
 **✅ Motion Passed (5 to 1)**

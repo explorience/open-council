@@ -425,14 +425,7 @@ The Corporate Services Committee convened
 ### 2. Industrial Land
   Development Strategy - Annual Monitoring and Pricing Report - City of London
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 3. Allocation of 2015
-  Assessment Growth Funding
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -442,6 +435,19 @@ Unanimous (15-0)
 
 ### 3. Allocation of 2015
   Assessment Growth Funding
+
+<div id="motion-3-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. Allocation of 2015
+  Assessment Growth Funding
+
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -459,6 +465,8 @@ Unanimous (15-0)
 ### 4. Performing Arts
   Centre
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -468,6 +476,8 @@ Unanimous (14-0)
 ### 5. The London Plan -
   Overview and Status Update
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -476,6 +486,8 @@ Unanimous (15-0)
 
 ### 6. Industrial Land
   Development Strategy Update
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -487,6 +499,8 @@ Unanimous (14-0)
   Appointment  to the Middlesex-London Health Unit Board of Health
   (Requires 1 Member)
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -495,6 +509,8 @@ Unanimous (15-0)
 
 ### 8. Music and
   Entertainment District for London, Ontario
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -511,6 +527,8 @@ Unanimous (15-0)
 
 ### 9. Delegation by the African Canadian
   Federation of London and Area
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 

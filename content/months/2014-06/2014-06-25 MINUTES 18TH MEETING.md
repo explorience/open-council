@@ -383,6 +383,8 @@ Approve adjournment.
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SEVENTEENTH MEETING HELD ON JUNE 24, 2014
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the 17th Meeting   held on June 24, 2014.
 
 **✅ Motion Passed**
@@ -390,6 +392,8 @@ Approve adjournment.
 Unanimous (13-0)
 
 ### VIII. REPORTS
+
+<div id="motion-viii-0" class="motion-anchor"></div>
 
 > Approve that the following   actions be taken with respect to filling the vacancy in the office of Ward 5   Councillor:    a)              the   attached procedure for filling the vacancy in the office of Ward 5   Councillor, which    reflects the direction of the Municipal Council from its   spe...
 
@@ -399,6 +403,8 @@ Unanimous (13-0)
 
 ### VIII. REPORTS
 
+<div id="motion-viii-1" class="motion-anchor"></div>
+
 > Approve that the slate of nominees   for appointment to the office of Councillor for Ward 5, BE COMPRISED of the   following nominees:   Hamou, Mariam Monteith, Russell Williams, Garth
 
 **✅ Motion Passed**
@@ -407,6 +413,8 @@ Unanimous (13-0)
 
 ### VIII. REPORTS
 
+<div id="motion-viii-2" class="motion-anchor"></div>
+
 > Approve that Russell Monteith, having   received a majority of votes, BE APPOINTED to the office of Councillor for   Ward 5  for the City of London for a term commencing on June 25, 2014 and   ending on November 30, 2014, pursuant to section 260(1) of the Municipal Act,   2001; it being noted tha...
 
 **✅ Motion Passed**
@@ -414,6 +422,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XIII. ADJOURNMENT
+
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Approve adjournment.
 
@@ -424,6 +434,8 @@ Unanimous (13-0)
 ### 1. Resolution from the
   Special Council Meeting of June 24, 2014 with respect to the filling of the
   vacancy of a Ward seat.
+
+<div id="motion-1-0" class="motion-anchor"></div>
 
 > Approve the receipt of the communication   from the City Clerk, dated June 25, 2014, outlining the following with   respect to the filling of the Ward 5 seat vacancy:   a)        Council Members each BE INVITED to bring forward a nomination to fill the   vacant Ward 5 Councillor position, to the ...
 

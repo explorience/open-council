@@ -531,6 +531,8 @@ Motion is carried for adjournment. We're adjourned.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 and 2.3 to 2.7 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -538,6 +540,8 @@ Motion is carried for adjournment. We're adjourned.
 Unanimous (5-0)
 
 ### 2.2. Neighbourhood Decision Making: 2024 Update
+
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > Motion to approve the request for delegation from B. Samuels, to be heard at this meeting.
 

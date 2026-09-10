@@ -2128,6 +2128,8 @@ Thank you, colleagues. There is dinner for you in the Councillor's lounge.
 
 ### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2023 Annual General Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-1-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to London Hydro Inc.: a)  the proposed by-law as appended to the staff report dated May 28, 2024 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London Hydro Inc.” BE INTRODUCED at the Municipal...
 
 **✅ Motion Passed (14 to 1)**
@@ -2143,6 +2145,8 @@ Thank you, colleagues. There is dinner for you in the Councillor's lounge.
 
 ### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2023 Annual General Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-1-1" class="motion-anchor"></div>
+
 > That pursuant to section 36.3 of the Council Procedure By-law, London Hydro Inc. BE PERMITTED to speak an additional 5 minutes with respect to the London Hydro Inc. presentation and 2023 Annual Report.
 
 **✅ Motion Passed (15 to 0)**
@@ -2150,6 +2154,8 @@ Thank you, colleagues. There is dinner for you in the Councillor's lounge.
 Unanimous (15-0)
 
 ### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2023 Annual General Meeting of the Shareholder Annual Resolutions
+
+<div id="motion-3-1-2" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 5 minutes with respect to this matter.
 
@@ -2166,6 +2172,8 @@ Unanimous (15-0)
 
 ### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2023 Annual General Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-1-3" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to London Hydro Inc. 2023 General Meeting of the Shareholder Annual Resolutions: a)       the proposed by-law BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for consideration; and b)       Civic Administration BE D...
 
 **❌ Motion Failed (3 to 12)**
@@ -2181,6 +2189,8 @@ Unanimous (15-0)
 
 ### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2023 Annual General Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-1-4" class="motion-anchor"></div>
+
 > That pursuant to section 35.10 of the Council Procedure By-law, the Committee decision with respect to London Hydro Inc. BE RECONSIDERED.
 
 **✅ Motion Passed (15 to 0)**
@@ -2188,6 +2198,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 3.1. Not to be heard before 1:05 PM - London Hydro Inc. - 2023 Annual General Meeting of the Shareholder Annual Resolutions
+
+<div id="motion-3-1-5" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to London Hydro Inc. 2023 General Meeting of the Shareholder Annual Resolutions: a)       the proposed by-law BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for consideration; and b)       Civic Administration BE D...
 
@@ -2204,6 +2216,8 @@ Unanimous (15-0)
 
 ### 4.1. Request for Delegation Status - Kendra Frye, Associate, Trinity Centres Foundation - Creative Sector Incubation Hub Business Plan
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > The delegation request from K. Frye, Associate, Trinity Centres Foundation be heard at this time.
 
 **✅ Motion Passed (15 to 0)**
@@ -2211,6 +2225,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. Request for Delegation Status - Kendra Frye, Associate, Trinity Centres Foundation - Creative Sector Incubation Hub Business Plan
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the presentation dated May 28, 2024, Creative Sector Incubation Hub - Trinity Centres Foundation Business Plan: a)    the presentation from the Trinity Centres Foundation on behalf of St. Paul Cathedral, Creative Sector Incubation Hub Business P...
 
@@ -2220,6 +2236,8 @@ Unanimous (15-0)
 
 ### 4.7. Resignation of Councillor D. Ferreira from RBC Place London Board of Directors
 
+<div id="motion-4-7-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to appointments to the RBC Place London Board: a) the resignation of Councillor D. Ferreira, from RBC Place London Board BE ACCEPTED; and b) the selection of a Councillor Member to fill the current vacancy on RBC Place London Board BE REFERRED to t...
 
 **✅ Motion Passed (15 to 0)**
@@ -2227,6 +2245,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.8. Strategic Opportunities Review Working Group Selection (Requires 5 Council Members)
+
+<div id="motion-4-8-0" class="motion-anchor"></div>
 
 > That the following Council Members BE APPOINTED to the Strategic Opportunities Review Working Group Selection for the term ending November 14, 2026: Deputy Mayor S. Lewis  Councillor P. Cuddy  Councillor S. Stevenson  Councillor C. Rahman  Councillor S. Lehman it being noted that Councillor E. Pe...
 
@@ -2236,6 +2256,8 @@ Unanimous (15-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-4-9-1" class="motion-anchor"></div>
+
 > That the following individuals BE APPOINTED as Voting Members to the Animal Welfare Community Advisory Committee for the term ending March 31, 2025: Linda Armstrong  Ann Hayes  Miriam Love
 
 **✅ Motion Passed (15 to 0)**
@@ -2243,6 +2265,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+<div id="motion-4-9-2" class="motion-anchor"></div>
 
 > Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (1).
 
@@ -2257,6 +2281,8 @@ Unanimous (15-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-4-9-3" class="motion-anchor"></div>
+
 > Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (2).
 
 **❌ Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi 🔥**
@@ -2269,6 +2295,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+<div id="motion-4-9-4" class="motion-anchor"></div>
 
 > Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (3).
 
@@ -2283,6 +2311,8 @@ Unanimous (15-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-4-9-5" class="motion-anchor"></div>
+
 > Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (4).
 
 **❌ Majority Winner: Devinder Luthra; Stephen D Amelio; Chantal Kamgne Tagatzi; Leah Thomas Gray 🔥**
@@ -2296,6 +2326,8 @@ Unanimous (15-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-4-9-6" class="motion-anchor"></div>
+
 > That the following individuals BE APPOINTED as Voting Members to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee for the term ending March 31, 2025: Stephen D Amelio      Devinder Luthra          Leah Thomas Gray      Chantal Kamgne Tagatzi
 
 **✅ Motion Passed (14 to 0)**
@@ -2304,6 +2336,8 @@ Unanimous (14-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-4-9-7" class="motion-anchor"></div>
+
 > That the following individuals BE APPOINTED as Voting Members to the Ecological Community Advisory Committee for the term ending March 31, 2025: Nicholas Allen  Lela Burt  Susan Howard  Manuel Spiller
 
 **✅ Motion Passed (14 to 0)**
@@ -2311,6 +2345,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+<div id="motion-4-9-8" class="motion-anchor"></div>
 
 > Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (1).
 
@@ -2325,6 +2361,8 @@ Unanimous (14-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-4-9-9" class="motion-anchor"></div>
+
 > Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (2).
 
 **❌ Majority Winner: Andrea Butnari; Lauralee Bushan Jazey; Nicole Karsch 🔥**
@@ -2337,6 +2375,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+<div id="motion-4-9-10" class="motion-anchor"></div>
 
 > Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (3).
 
@@ -2351,6 +2391,8 @@ Unanimous (14-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-4-9-11" class="motion-anchor"></div>
+
 > Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (4).
 
 **❌ Majority Winner: Andrea Butnari; Nicole Karsch; Lauralee Bushan Jazey 🔥**
@@ -2364,6 +2406,8 @@ Unanimous (14-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-4-9-12" class="motion-anchor"></div>
+
 > That the following individuals BE APPOINTED as Voting Members to the Environmental Stewardship and Action Community Advisory Committee for the term ending March 31, 2025; Andrea Butnari     Nicole Karsch      Lauralee Bushan Jazey
 
 **✅ Motion Passed (14 to 0)**
@@ -2371,6 +2415,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
+
+<div id="motion-4-9-13" class="motion-anchor"></div>
 
 > Consideration of appointment to the Integrated Transportation Community Advisory Committee.
 
@@ -2385,6 +2431,8 @@ Unanimous (14-0)
 
 ### 4.9. Consideration of Appointments to the London Community Advisory Committees
 
+<div id="motion-4-9-14" class="motion-anchor"></div>
+
 > Integrated Transportation Community Advisory Committee That the following individual BE APPOINTED as a Voting Member to the Integrated Transportation Community Advisory Committee for the term ending March 31, 2025: Leah Thomas Gray
 
 **✅ Motion Passed (14 to 0)**
@@ -2393,6 +2441,8 @@ Unanimous (14-0)
 
 ### 5.1. (ADDED) RBC Place London General Manager and CEO Appointment
 
+<div id="motion-5-1-0" class="motion-anchor"></div>
+
 > That Darrin Pollard BE APPOINTED as the General Manager and CEO to the London Convention Centre Corporation, operating as RBC Place London as of July 1, 2024; it being noted that Strategic Priorities Policy Committee received a communication dated May 16, 2024 from S. Judd, Chair, RBC Place Londo...
 
 **✅ Motion Passed (14 to 0)**
@@ -2400,6 +2450,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 6. Confidential
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > The Strategic Priorities and Policy Committee convenes in Closed Session to consider the following: 6.1   Solicitor-Client Privilege A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose with respect to the motion to refer...
 

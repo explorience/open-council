@@ -528,6 +528,8 @@ The meeting adjourned at 4:51 PM.
 
 ### 1.2. Election of Vice Chair for the term ending November 30, 2021
 
+<div id="motion-1-2-0" class="motion-anchor"></div>
+
 > That Councillor Hopkins BE ELECTED as Vice Chair of the Planning and Environment Committee for the term ending November 30, 2021.
 
 **✅ Motion Passed (6 to 0)**
@@ -536,6 +538,8 @@ Unanimous (6-0)
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.6, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -543,6 +547,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Director, City Planning and City Planner and the Managing Director, Development and Compliance Services & Chief Building Official BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 

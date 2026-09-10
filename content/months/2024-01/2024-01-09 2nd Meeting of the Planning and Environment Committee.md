@@ -1913,6 +1913,8 @@ Thank you, everyone, and thank you for your patience as I chaired us through a r
 
 ### 3.5. 3810-3814 Colonel Talbot Road (Z-9671)
 
+<div id="motion-3-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Towns of Magnolia London Inc., relating to the properties located at 3810-3814 Colonel Talbot Road: a)    the proposed by-law appended to the staff report dated...
 
 **✅ Motion Passed (4 to 0)**
@@ -1920,6 +1922,8 @@ Thank you, everyone, and thank you for your patience as I chaired us through a r
 Unanimous (4-0)
 
 ### 3.6. 3055 Dingman Drive/Roxburgh Road and 4313 Wellington Road (OZ-9665)
+
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Goal Ventures Inc. and Goal Ventures Southwest Inc., c/o KWA Site Development Consulting Inc., relating to the property located at 3055 Dingman Drive/Roxburgh R...
 
@@ -1929,6 +1933,8 @@ Unanimous (4-0)
 
 ### 3.6. 3055 Dingman Drive/Roxburgh Road and 4313 Wellington Road (OZ-9665)
 
+<div id="motion-3-6-3" class="motion-anchor"></div>
+
 > Motion to add the following to part c): iii) investigate EV charger spaces for required parking spaces (roughed in or complete Level 1 or 2); iv) Ensure 50% native plants, and no non-native species planted;  v) Provide enhanced tree planting;  vi) Investigate solar installation on industrial buil...
 
 **✅ Motion Passed (4 to 0)**
@@ -1937,6 +1943,8 @@ Unanimous (4-0)
 
 ### 3.6. 3055 Dingman Drive/Roxburgh Road and 4313 Wellington Road (OZ-9665)
 
+<div id="motion-3-6-4" class="motion-anchor"></div>
+
 > That pursuant to Section 34(17) of the Planning Act, as determined by the Municipal Council, no further notice BE GIVEN in respect of the proposed by-law.
 
 **✅ Motion Passed (4 to 0)**
@@ -1944,6 +1952,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 3.7. 3637 Colonel Talbot Road (Z-9664)
+
+<div id="motion-3-7-3" class="motion-anchor"></div>
 
 > Motion to approve part b) b)    The requested Special Provisions to facilitate the construction of a new detached garage in the front yard in the R1-14 zone, including i) permitting accessory buildings in the form of detached garages in the front yard, ii) permitting a front yard depth for garage...
 
@@ -1962,6 +1972,8 @@ Unanimous (4-0)
 
 ### 3.7. 3637 Colonel Talbot Road (Z-9664)
 
+<div id="motion-3-7-4" class="motion-anchor"></div>
+
 > That pursuant to Section 34(17) of the Planning Act, as determined by the Municipal Council, no further notice BE GIVEN in respect of the proposed by-law
 
 **✅ Motion Passed (4 to 0)**
@@ -1969,6 +1981,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 5.2. (ADDED) Green Development Standards
+
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Site Plan Control By-law and/or Zoning By-law: a) the Civic Administration BE DIRECTED to update by Q3 2024 the Site Plan Control Bylaw and/or Zoning Bylaw to include the following requirements; i) 5% of the required parking spaces for build...
 
@@ -1978,6 +1992,8 @@ Unanimous (4-0)
 
 ### 5.2. (ADDED) Green Development Standards
 
+<div id="motion-5-2-1" class="motion-anchor"></div>
+
 > That notwithstanding Section 36.1 of the Council Procedure By-law, M. Wallace, LDI BE GRANTED delegation status to discuss the Green Development Standards.
 
 **✅ Motion Passed (4 to 0)**
@@ -1985,6 +2001,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 5.2. (ADDED) Green Development Standards
+
+<div id="motion-5-2-2" class="motion-anchor"></div>
 
 > That M.A. Hodge and L. Blumer BE GRANTED delegation status relating to the Green Development Standards.
 

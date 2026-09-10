@@ -1035,6 +1035,8 @@ Okay, you're recessed, have a good afternoon.
 
 ### 3.2. Amendment - Business Case #P-5
 
+<div id="motion-3-2-0" class="motion-anchor"></div>
+
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-5 – Fire Department Breathing Apparatus and Breathing Apparatus Decontamination (Amended – funding deferred from 2024 to 2026), and that this Business Case BE REFERRED to the 2028-2031 MYB noting that the equipment...
 
 **✅ Motion Passed (12 to 3)**
@@ -1050,6 +1052,8 @@ Okay, you're recessed, have a good afternoon.
 
 ### 3.3. Amendment - Business Case #P-7
 
+<div id="motion-3-3-0" class="motion-anchor"></div>
+
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-7 – Implementation of a New Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting.
 
 **❌ Motion Failed (2 to 13)**
@@ -1064,6 +1068,8 @@ Okay, you're recessed, have a good afternoon.
 </details>
 
 ### 7. Adjournment
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > That the meeting BE RECESSED.
 

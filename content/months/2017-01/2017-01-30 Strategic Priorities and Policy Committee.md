@@ -523,6 +523,8 @@ The Strategic Priorities and Policy
   Request for Delegation Status - Richard Robson, Executive Director, London
   Police Association
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -532,6 +534,8 @@ Unanimous (11-0)
 ### 2. PUBLIC SUBMISSION -
   Request for Delegation Status - Richard Robson, Executive Director, London
   Police Association
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -550,6 +554,8 @@ Unanimous (11-0)
   Request for Delegation Status - Richard Robson, Executive Director, London
   Police Association
 
+<div id="motion-2-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -564,14 +570,7 @@ Unanimous (11-0)
 ### 3. London Police
   Services Board
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 3. London Police
-  Services Board
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -581,6 +580,19 @@ Unanimous (13-0)
 
 ### 3. London Police
   Services Board
+
+<div id="motion-3-1" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3. London Police
+  Services Board
+
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -598,6 +610,8 @@ Unanimous (13-0)
 ### 3. London Police
   Services Board
 
+<div id="motion-3-3" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -614,13 +628,7 @@ Unanimous (13-0)
 ### 3. London Police
   Services Board
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 4. Eldon House
+<div id="motion-3-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -629,6 +637,18 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4. Eldon House
+
+<div id="motion-4-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4. Eldon House
+
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -639,6 +659,8 @@ Unanimous (12-0)
 ### 5. 1st Report of the
   Outstanding London Ambassador Award Committee
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -647,6 +669,8 @@ Unanimous (13-0)
 
 ### 5. 1st Report of the
   Outstanding London Ambassador Award Committee
+
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -665,6 +689,8 @@ Unanimous (13-0)
   MEMBER SUBMISSION - Request for London Police Services/City of London Liaison
   Committee
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -674,6 +700,8 @@ Unanimous (13-0)
 ### 7. ADDED - COUNCIL
   MEMBER SUBMISSION - Rapid Transit Implementation Working Group
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -682,6 +710,8 @@ Unanimous (13-0)
 
 ### 8. ADDED - COUNCIL MEMBER SUBMISSION –
   Sanctuary City
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 

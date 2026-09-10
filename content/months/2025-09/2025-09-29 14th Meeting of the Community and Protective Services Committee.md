@@ -1769,6 +1769,8 @@ Motion carries, we're adjourned. Thank you.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1, 2.4, 2.5 and 2.7 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1776,6 +1778,8 @@ Motion carries, we're adjourned. Thank you.
 Unanimous (6-0)
 
 ### 2.2. Single Source Procurement - Integrated Employment Services Digital Service Delivery Platform - SS-2025-208
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Single Source Procurement for an Integrated Employment Services Digital Service Delivery Platform SS-202...
 
@@ -1785,6 +1789,8 @@ Unanimous (5-0)
 
 ### 2.3. Proposed Temporary Warming Centre Framework
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > That the delegation request from S. Campbell, Ark Aid, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1792,6 +1798,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.6. Winter Overnight Parking Policy Change
+
+<div id="motion-2-6-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part, to read as follows: That the Civic Administration BE DIRECTED to include in the 2026 Fees and Charges By-law update a reduction in the overnight on street parking permit fee from $15.00 to $5.00.
 
@@ -1801,6 +1809,8 @@ Unanimous (5-0)
 
 ### 2.6. Winter Overnight Parking Policy Change
 
+<div id="motion-2-6-3" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1808,6 +1818,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
+
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54): a)...
 
@@ -1824,6 +1836,8 @@ Unanimous (5-0)
 
 ### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
 
+<div id="motion-3-2-4" class="motion-anchor"></div>
+
 > That part a) of the amendment BE APPROVED.
 
 **❌ Motion Failed (3 to 3) 🔥**
@@ -1838,6 +1852,8 @@ Unanimous (5-0)
 </details>
 
 ### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
+
+<div id="motion-3-2-5" class="motion-anchor"></div>
 
 > That part b) of the amendment BE APPROVED.
 
@@ -1854,6 +1870,8 @@ Unanimous (5-0)
 
 ### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
 
+<div id="motion-3-2-6" class="motion-anchor"></div>
+
 > That part c) of the amendment BE APPROVED.
 
 **❌ Motion Failed (2 to 4) 🔥**
@@ -1868,6 +1886,8 @@ Unanimous (5-0)
 </details>
 
 ### 3.2. Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
+
+<div id="motion-3-2-7" class="motion-anchor"></div>
 
 > That part d) of the amendment BE APPROVED.
 

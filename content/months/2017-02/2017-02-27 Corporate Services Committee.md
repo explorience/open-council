@@ -100,16 +100,7 @@ Motion
   PARTICIPATION MEETING - Proposed By-law to Amend City of London Ward
   Boundaries
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 2. PUBLIC
-  PARTICIPATION MEETING - Proposed By-law to Amend City of London Ward
-  Boundaries
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -121,6 +112,21 @@ Unanimous (4-0)
 ### 2. PUBLIC
   PARTICIPATION MEETING - Proposed By-law to Amend City of London Ward
   Boundaries
+
+<div id="motion-2-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 2. PUBLIC
+  PARTICIPATION MEETING - Proposed By-law to Amend City of London Ward
+  Boundaries
+
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -810,6 +810,8 @@ Thank you.
 
 ### 2.2. Property Standards Related Demolition
 
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-law, as appended to the staff report dated November 11, 2024, BE INTRODUCED at the Municipal Council meeting to be held on November 26, 2024 to approve the potential demolition of the vacant...
 
 **✅ Motion Passed (5 to 0)**
@@ -817,6 +819,8 @@ Thank you.
 Unanimous (5-0)
 
 ### 2.3. Parks and Recreation Master Plan Update
+
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > That part ix) of the motion be amended to read as follows:  ix)       the confirmation of provision targets and service standards for pickleball, cricket, community gardens, dog parks, community gathering spaces, public washrooms, and the provision of potable water;
 
@@ -826,6 +830,8 @@ Unanimous (5-0)
 
 ### 2.3. Parks and Recreation Master Plan Update
 
+<div id="motion-2-3-2" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -833,6 +839,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.1. Special Events Policy Review Public Participation Meeting Report
+
+<div id="motion-3-1-3" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to prohibit amplified sound after 11:00 PM in the Special Event Policy being brought forward for consideration at the December 2, 2024, meeting of the Community and Protective Services Committee and that in the event of exceptional circumstances, the Depu...
 

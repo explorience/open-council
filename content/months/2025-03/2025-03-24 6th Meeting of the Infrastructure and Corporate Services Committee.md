@@ -1105,6 +1105,8 @@ Councillor Frank and Councillor Hopkins, Remember in seconder and by hand. All i
 
 ### 2.10. Declare Surplus - City-Owned Property - Part of Belvedere Park
 
+<div id="motion-2-10-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with concurrence of the Director, Parks and Forestry, with respect to City-owned property, the following actions be taken: a)    the subject property outlined on Location Map ...
 
 **✅ Motion Passed (5 to 0)**
@@ -1112,6 +1114,8 @@ Councillor Frank and Councillor Hopkins, Remember in seconder and by hand. All i
 Unanimous (5-0)
 
 ### 2.10. Declare Surplus - City-Owned Property - Part of Belvedere Park
+
+<div id="motion-2-10-1" class="motion-anchor"></div>
 
 > That the delegation requests from L. Patterson, T. Young, B. Deleeuw, A. Deleeuw, and J. Matsui, BE APPROVED to be heard at this time.
 
@@ -1121,6 +1125,8 @@ Unanimous (5-0)
 
 ### 2.12. Consideration for an Updated Low-Income Seniors and Low-Income Persons with Disabilities Tax Deferral Program
 
+<div id="motion-2-12-1" class="motion-anchor"></div>
+
 > That the delegation request from D. Pollock, President, Navigating Retirement BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (5 to 0)**
@@ -1128,6 +1134,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.12. Consideration for an Updated Low-Income Seniors and Low-Income Persons with Disabilities Tax Deferral Program
+
+<div id="motion-2-12-3" class="motion-anchor"></div>
 
 > That the staff report dated March 24, 2025, “Consideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program” BE REFERRED to a future meeting of the Infrastructure and Corporate Services Committee, pending the Province's announcement regarding its tax...
 
@@ -1144,6 +1152,8 @@ Unanimous (5-0)
 
 ### 2.12. Consideration for an Updated Low-Income Seniors and Low-Income Persons with Disabilities Tax Deferral Program
 
+<div id="motion-2-12-5" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to an expanded Property Tax Deferral Program for low-income seniors and low-income persons with disabilities in London: b)    the Civic Administration BE DIRECTED to take no furth...
 
 **❌ Motion Failed (2 to 3) 🔥**
@@ -1159,6 +1169,8 @@ Unanimous (5-0)
 
 ### 2.12. Consideration for an Updated Low-Income Seniors and Low-Income Persons with Disabilities Tax Deferral Program
 
+<div id="motion-2-12-6" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the staff report dated March 24, 2025, “Consideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program”: the Civic Administration BE DIRECTED to prepare a Business Case for the implementation of an ...
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -1173,6 +1185,8 @@ Unanimous (5-0)
 </details>
 
 ### 4.1. Municipal Autonomy and Revenue Generation - Councillor S. Franke, Councillor A. Hopkins and Mayor J. Morgan
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That Councillor Anna Hopkins BE REQUESTED to bring forward the issue of municipal right-of-way fees for natural gas utilities to the Association of Municipalities of Ontario (AMO), requesting that AMO: a)    advocate for provincial regulatory changes to allow municipalities to charge utilities fo...
 

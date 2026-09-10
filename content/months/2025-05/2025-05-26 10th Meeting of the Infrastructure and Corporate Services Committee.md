@@ -1273,6 +1273,8 @@ Have a great day.
 
 ### 2.8. Appointment of Consulting Engineers for the Infrastructure Renewal Program: Round 5
 
+<div id="motion-2-8-0" class="motion-anchor"></div>
+
 > That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of consulting engineers for the Infrastructure Renewal Program to carry out consulting services for the identified projects, at the upset amounts i...
 
 **✅ Motion Passed (5 to 0)**
@@ -1281,6 +1283,8 @@ Unanimous (5-0)
 
 ### 4.1. 2025 Council Policy Review
 
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
 > That By-law No. CPOL.-273-251, being the “Public Access During Council and Standing Committee Meetings Policy” BE AMENDED in section 4.2.5 to replace the word "Protest" with "Intentional Disruption".
 
 **✅ Motion Passed (5 to 0)**
@@ -1288,6 +1292,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. 2025 Council Policy Review
+
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include a new part to read as follows: The Civic Administration BE DIRECTED to amend By-law No. CPOL.-231-555, being the “Policy for the Establishment and Maintenance of Council Policies” for the next Council Policy review cycle to include a requirement to review Cou...
 
@@ -1304,6 +1310,8 @@ Unanimous (5-0)
 
 ### 4.1. 2025 Council Policy Review
 
+<div id="motion-4-1-4" class="motion-anchor"></div>
+
 > That By-law No. CPOL.-54-286, being the “Appointment of Deputy Mayor Policy” BE REFERRED to the Governance Working Group for review.
 
 **✅ Motion Passed (3 to 2) 🔥**
@@ -1319,6 +1327,8 @@ Unanimous (5-0)
 
 ### 4.1. 2025 Council Policy Review
 
+<div id="motion-4-1-5" class="motion-anchor"></div>
+
 > That the motion BE AMENDED to include a new part to read as follows: The Civic Administration BE DIRECTED to:  i)       continue to work with London Transit Commission and London Public Library to determine appropriate metrics for which these agencies may apply for assessment growth funding;  ii)...
 
 **✅ Motion Passed (5 to 0)**
@@ -1326,6 +1336,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. 2025 Council Policy Review
+
+<div id="motion-4-1-6" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include a new part to read as follows: That Civic Administration BE DIRECTED to consult with the school boards with respect to the applicability of By-law No. CPOL.-17-213, being the “Queen Elizabeth Scholarship Policy”, extending to Conseil scolaire catholique Provi...
 
@@ -1335,6 +1347,8 @@ Unanimous (5-0)
 
 ### 4.1. 2025 Council Policy Review
 
+<div id="motion-4-1-7" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED
 
 **✅ Motion Passed (5 to 0)**
@@ -1342,6 +1356,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.2. Bad Debts - Aspire Food Group - Councillor S. Stevenson
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to prepare an information report summarizing the amounts owed by Aspire Food Group, the process to collect, expected outcomes and a brief summary of property taxes, fines and other accounts receivable that are deemed uncollectible. That it BE NOTED that t...
 
@@ -1358,6 +1374,8 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED) Proposed Road Rehabilitation Project - Gainsborough and Hyde Park - Councillor C. Rahman
 
+<div id="motion-5-1-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the rehabilitation project on Gainsborough Road: a)  the Civic Administration BE DIRECTED to consult with the community regarding the proposed changes to the stretch of Gainsborough Road; and b)  the Civic Administration BE REQUESTED to prepare ...
 
 **✅ Motion Passed (5 to 0)**
@@ -1365,6 +1383,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.2. (ADDED) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
+
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Eleanor Street Infrastructure Renewal Project: a)    Civic Administration BE DIRECTED to consult with the community, including local businesses, regarding the changes to this part of Eleanor Street; b)    Civic Administration BE REQUESTED to...
 

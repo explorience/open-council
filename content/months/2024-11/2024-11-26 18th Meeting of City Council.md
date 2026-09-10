@@ -2277,6 +2277,8 @@ All right, thank you, we're adjourned.
 
 ### 8.1. 17th Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 17th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of items 12 (4.5) and 13 (4.6)
 
 **✅ Motion Passed (14 to 0)**
@@ -2284,6 +2286,8 @@ All right, thank you, we're adjourned.
 Unanimous (14-0)
 
 ### 8.1.12. (4.5) Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+<div id="motion-8-1-12-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to undertake the following actions regarding the Community Advisory Committees (CACs): a)     the Accessibility Community Advisory Committee’s Terms of Reference BE AMENDED to align with the Accessibility, Inclusion, and Anti-Racism and Anti-Oppression (A...
 
@@ -2302,6 +2306,8 @@ Unanimous (14-0)
 
 ### 8.1.13. (4.6) Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
 
+<div id="motion-8-1-13-1" class="motion-anchor"></div>
+
 > That part v) of the motion be approved and reads as follows:  v)     Efficient Meeting Management: Provide for the option to “Put the Question” at committees where all of Council constitutes the membership;
 
 **✅ Motion Passed (8 to 6) 🔥**
@@ -2319,6 +2325,8 @@ Unanimous (14-0)
 
 ### 8.2. 17th Report of the Planning and Environment Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That the 17th Report of the Planning and Environment Committee BE APPROVED with the exception of items 6 (3.4) and 9 (3.7).
 
 **✅ Motion Passed (14 to 0)**
@@ -2326,6 +2334,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.2.6. (3.4) 145 Base Line Road West (Z-9783) (Relates to Bill No. 394)
+
+<div id="motion-8-2-6-2" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -2344,6 +2354,8 @@ Unanimous (14-0)
 
 ### 8.2.9. (3.7) 1408 and 1412 Commissioners Road West (Z-9780) (Relates to Bill No. 396)
 
+<div id="motion-8-2-9-1" class="motion-anchor"></div>
+
 > That the motion be amended to read as follows: That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Domday Developments, (c/o Zelinka Priamo Ltd.), relating to the property located at 1408 and 1412 Commissioners R...
 
 **✅ Motion Passed (13 to 1)**
@@ -2360,6 +2372,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.2.9. (3.7) 1408 and 1412 Commissioners Road West (Z-9780) (Relates to Bill No. 396)
+
+<div id="motion-8-2-9-2" class="motion-anchor"></div>
 
 > That the motion, as amended, be approved.
 
@@ -2378,6 +2392,8 @@ Unanimous (14-0)
 
 ### 8.3. 17th Report of the Corporate Services Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 17th Report of the Corporate Services Committee BE APPROVED
 
 **✅ Motion Passed (13 to 1)**
@@ -2394,6 +2410,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.3. 17th Report of the Corporate Services Committee
+
+<div id="motion-8-3-1" class="motion-anchor"></div>
 
 > That pursuant to section 13.6 of the Council Procedure by-law, the Council decision with respect to the approval of the 17th Report of the Corporate Services Committee BE RECONSIDERED
 
@@ -2412,6 +2430,8 @@ Unanimous (14-0)
 
 ### 8.3. 17th Report of the Corporate Services Committee
 
+<div id="motion-8-3-2" class="motion-anchor"></div>
+
 > That the 17th Report of the Corporate Services Committee BE APPROVED
 
 **✅ Motion Passed (14 to 0)**
@@ -2420,6 +2440,8 @@ Unanimous (14-0)
 
 ### 8.4. 14th Report of the Community and Protective Services Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 14th Report of the Community and Protective Services Committee BE APPROVED with the exception of item 5 (3.1).
 
 **✅ Motion Passed (14 to 0)**
@@ -2427,6 +2449,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.4.5. (3.1) Special Events Policy Review Public Participation Meeting Report
+
+<div id="motion-8-4-5-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services the staff report dated November 11, 2024 related to the Special Events Policy Review Public Participation Meeting Report BE RECEIVED; it being noted that the Civic Administration will bring forward a...
 
@@ -2445,6 +2469,8 @@ Unanimous (14-0)
 
 ### 8.5. 15th Report of the Civic Works Committee
 
+<div id="motion-8-5-0" class="motion-anchor"></div>
+
 > That the 15th Report of the Civic Works Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -2452,6 +2478,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.6. 4th Report of the Audit Committee
+
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 4th Report of the Audit Committee BE APPROVED.
 
@@ -2470,6 +2498,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<div id="motion-13-3" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No. 394 and revised Bill No. 396 BE APPROVED
 
 **✅ Motion Passed (12 to 2)**
@@ -2487,6 +2517,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<div id="motion-13-4" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 394 and revised Bill No. 396 BE APPROVED
 
 **✅ Motion Passed (12 to 2)**
@@ -2503,6 +2535,8 @@ Unanimous (14-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 394 and Revised Bill No. 396 BE APPROVED
 

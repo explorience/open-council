@@ -491,6 +491,8 @@ Motion
   Your Service
   Video
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Voting   Record:   Motion   Passed
 
 **✅ Motion
@@ -501,6 +503,8 @@ Unanimous (14-0)
 ### 3. London Hydro Inc. -
   2012 Annual Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -510,6 +514,8 @@ Unanimous (14-0)
 
 ### 3. London Hydro Inc. -
   2012 Annual Meeting of the Shareholder Annual Resolutions
+
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -522,6 +528,8 @@ Unanimous (14-0)
   Middlesex Housing Corporation - 2012 Annual Meeting of the Shareholder Annual
   Resolutions
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -532,23 +540,7 @@ Unanimous (14-0)
 ### 5. Development Charges
   Policy Review - Local Services Policy
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/former/b-armstrong), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
-
-**Nay (5):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant)
-
-</details>
-
-### 6. Managing Director,
-  Corporate Services and City Treasurer, Chief Financial Officer - Development
-  Charge Policy - DC Area Specific Charges
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -567,6 +559,28 @@ Unanimous (14-0)
 ### 6. Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - Development
   Charge Policy - DC Area Specific Charges
+
+<div id="motion-6-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/former/b-armstrong), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (5):** [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant)
+
+</details>
+
+### 6. Managing Director,
+  Corporate Services and City Treasurer, Chief Financial Officer - Development
+  Charge Policy - DC Area Specific Charges
+
+<div id="motion-6-3" class="motion-anchor"></div>
 
 > Motion   Passed
 

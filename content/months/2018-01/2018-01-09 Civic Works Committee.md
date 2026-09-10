@@ -573,6 +573,8 @@ The meeting adjourned at 7:42 PM.
 ### 2. 1st Report of the
   Rapid Transit Implementation Working Group
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -588,6 +590,8 @@ The meeting adjourned at 7:42 PM.
 ### 3. Exercise Renewal
   Options Curbside Collection and Material Recovery Facility Operations
   Contracts
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -605,6 +609,8 @@ The meeting adjourned at 7:42 PM.
   Environmental Bill Of Rights Registry – Ontario’s Approach to Climate Change
   Adaption
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -619,6 +625,8 @@ The meeting adjourned at 7:42 PM.
 
 ### 5. Dundas Place
   Utility Construction Coordination
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -636,6 +644,8 @@ The meeting adjourned at 7:42 PM.
   Consulting Engineer Mud Creek Flood Reduction and Rehabilitation Phase 1
   Detailed Design
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -651,6 +661,8 @@ The meeting adjourned at 7:42 PM.
 ### 7. Kilally Road
   Improvements Phase 1 Contract Administration - Appointment of Consulting
   Engineer
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -668,6 +680,8 @@ The meeting adjourned at 7:42 PM.
   Environmental Bill of Rights Registry – Proposed Food and Organic Waste
   Framework
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -683,20 +697,7 @@ The meeting adjourned at 7:42 PM.
 ### 9. Comments on the
   Amended Blue Box Program Plan (Prepared by Stewardship Ontario)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
-
-</details>
-
-### 10. One River
-  Environmental Assessment Update: Phase II Stage I Report
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -713,6 +714,8 @@ The meeting adjourned at 7:42 PM.
 ### 10. One River
   Environmental Assessment Update: Phase II Stage I Report
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -727,6 +730,25 @@ The meeting adjourned at 7:42 PM.
 
 ### 10. One River
   Environmental Assessment Update: Phase II Stage I Report
+
+<div id="motion-10-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
+
+</details>
+
+### 10. One River
+  Environmental Assessment Update: Phase II Stage I Report
+
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -743,6 +765,8 @@ The meeting adjourned at 7:42 PM.
 ### 11. Deferred Matters
   List
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -757,6 +781,8 @@ The meeting adjourned at 7:42 PM.
 
 ### 12. (ADDED) 1st Report
   of the Cycling Advisory Committee
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

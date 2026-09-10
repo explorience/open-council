@@ -722,6 +722,8 @@ Councillor Hill here, seconded by Councillor Turner. And with that, can we have 
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.9, inclusive and Item 3.4, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -729,6 +731,8 @@ Councillor Hill here, seconded by Councillor Turner. And with that, can we have 
 Unanimous (5-0)
 
 ### 3.2. 2631 Hyde Park Road / 1521 Sunningdale Road West - Request to Remove Property from the Register of Cultural Heritage Resources
+
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, that the property located at 2361 Hyde Park Road/1521 Sunningdale Road West BE REMOVED from the Register of Cultural Heritage Resources; it being noted that the Planning and Environment...
 
@@ -746,6 +750,8 @@ Unanimous (5-0)
 </details>
 
 ### 4.1. 2nd Report of the London Advisory Committee on Heritage
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 2nd Report of the London Advisory Committee on Heritage, from its meeting held on February 9, 2022: a)  on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the application under Section ...
 

@@ -540,6 +540,8 @@ The
 ### 2. Closing of Part of
   Cedarpark Crescent and Kilcrest Way
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -549,6 +551,8 @@ Unanimous (4-0)
 
 ### 3. Proposed Alternate
   Locate Agreement
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -560,6 +564,8 @@ Unanimous (6-0)
 ### 4. Selling Blue Boxes
   at the Envirodepots
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -570,6 +576,8 @@ Unanimous (6-0)
 ### 5. Options for
   Collection and Diversions of Christmas Trees
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -579,6 +587,8 @@ Unanimous (6-0)
 
 ### 6. Garbage Container
   Limits (Waste Diversion)
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -597,6 +607,8 @@ Unanimous (6-0)
 ### 7. "One
   River" - Master Plan Environmental Assessment
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -614,6 +626,8 @@ Unanimous (6-0)
 ### 8. Irregular Result -
   Rotary Mowers
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -623,6 +637,8 @@ Unanimous (6-0)
 
 ### 9. Pay by App for
   Parking
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -634,6 +650,8 @@ Unanimous (6-0)
 ### 10. 5th Report of the
   Cycling Advisory Committee
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -644,6 +662,8 @@ Unanimous (6-0)
 ### 11. Aldersbrook Gate-
   Traffic Congestion and Safety Concerns
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -654,6 +674,8 @@ Unanimous (6-0)
 ### 12. Garbage Can, Needle
   Bins and Signage - Downtown London
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -663,6 +685,8 @@ Unanimous (6-0)
 ### 12. Garbage Can, Needle
   Bins and Signage - Downtown London
 
+<div id="motion-12-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -671,6 +695,8 @@ Unanimous (6-0)
 
 ### 13. Deferred Matters
   List
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -1011,6 +1011,8 @@ tonight as we started this meeting uh the local media posted a new story about h
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 and 2.2 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1018,6 +1020,8 @@ tonight as we started this meeting uh the local media posted a new story about h
 Unanimous (4-0)
 
 ### 3.1. Fireworks By-law Options
+
+<div id="motion-3-1-4" class="motion-anchor"></div>
 
 > That the motion BE AMENDED by adding the following: That the Civic Administration BE DIRECTED to review the Business Licensing By-law with respect to the sale of fireworks and report back on the following: licensing all retailers of fireworks, required communications to retailers and clients, fee...
 
@@ -1036,6 +1040,8 @@ Unanimous (4-0)
 
 ### 3.1. Fireworks By-law Options
 
+<div id="motion-3-1-5" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -1052,6 +1058,8 @@ Unanimous (4-0)
 </details>
 
 ### 4.1. Inter Faith Homes (London) Transition Strategy: Appointment of London-Middlesex Community Housing
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated August 15, 2023, related to the Inter Faith Homes (London) Transition Strategy and the Appointment of London-Middlesex Community Housin...
 

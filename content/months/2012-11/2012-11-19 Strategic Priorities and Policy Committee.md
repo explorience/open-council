@@ -258,6 +258,8 @@ Motion
 ### 3. 2013 Water
   and Wastewater Budgets
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -274,6 +276,8 @@ Motion
 
 ### 4. The Board of Health
   of the Middlesex-London Health Unit
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -292,6 +296,8 @@ Motion
 ### 4. The Board of Health
   of the Middlesex-London Health Unit
 
+<div id="motion-4-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -308,6 +314,8 @@ Motion
 
 ### 5. Consideration of
   Appointments to the Council Compensation Review Task Force
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -1092,6 +1092,8 @@ And with that, are we good with the hand vote? So if you're really are anxious b
 
 ### 6.2. (ADDED) Harris Park Erosion Control Structure Replacement (RFP22-097)
 
+<div id="motion-6-2-0" class="motion-anchor"></div>
+
 > That no action BE TAKEN with respect to the communication from AM. Valastro, with respect to Item #5 (2.5) of the 12th Report of the Civic Works Committee.
 
 **✅ Motion Passed (11 to 3)**
@@ -1109,6 +1111,8 @@ And with that, are we good with the hand vote? So if you're really are anxious b
 
 ### 8.1. 15th  Report of the Planning and Environment Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 15th Report of the Planning and Environment Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -1116,6 +1120,8 @@ And with that, are we good with the hand vote? So if you're really are anxious b
 Unanimous (14-0)
 
 ### 8.2. 13th Report of the Strategic Priorities and Policy Committee
+
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 13th Report of the Strategic Priorities and Policy Committee, BE APPROVED.
 
@@ -1125,6 +1131,8 @@ Unanimous (14-0)
 
 ### 8.3. 12th Report of the Civic Works Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 12th Report of the Civic Works Committee, BE APPROVED, excluding Item 8 (2.3).
 
 **✅ Motion Passed (14 to 0)**
@@ -1133,6 +1141,8 @@ Unanimous (14-0)
 
 ### 8.3.8. (2.3) Windermere Road Improvements - Environmental Study Report
 
+<div id="motion-8-3-8-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 13, 2022, related to the Windermere Road Improvements Municipal Class Schedule C Environmental Assessment: a)    the Windermere ...
 
 **✅ Motion Passed (14 to 0)**
@@ -1140,6 +1150,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.4. 4th Report of the Audit Committee
+
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 4th Report of the Audit Committee BE APPROVED.
 

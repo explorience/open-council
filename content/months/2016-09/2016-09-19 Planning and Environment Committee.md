@@ -1008,6 +1008,8 @@ The meeting adjourned at 7:47 PM.
 ### 2. 9th Report of the
   Advisory Committee on the Environment
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1019,6 +1021,8 @@ Unanimous (4-0)
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
   Marr Drain - Official Plan Amendment No. 606 and 607 (O-8362)
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1029,15 +1033,7 @@ Unanimous (4-0)
 ### 4. 9th Report of the
   London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 5. Property located at
-  2825 Tokala Trail (Z-8638)
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1049,6 +1045,8 @@ Unanimous (4-0)
 ### 5. Property located at
   2825 Tokala Trail (Z-8638)
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1059,6 +1057,20 @@ Unanimous (4-0)
 ### 5. Property located at
   2825 Tokala Trail (Z-8638)
 
+<div id="motion-5-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 5. Property located at
+  2825 Tokala Trail (Z-8638)
+
+<div id="motion-5-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1069,15 +1081,7 @@ Unanimous (4-0)
 ### 6. Properties located
   at 2870 and 2900 Tokala Trail (39CD-16509/Z-8644)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 6. Properties located
-  at 2870 and 2900 Tokala Trail (39CD-16509/Z-8644)
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1088,6 +1092,20 @@ Unanimous (4-0)
 
 ### 6. Properties located
   at 2870 and 2900 Tokala Trail (39CD-16509/Z-8644)
+
+<div id="motion-6-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 6. Properties located
+  at 2870 and 2900 Tokala Trail (39CD-16509/Z-8644)
+
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1099,15 +1117,7 @@ Unanimous (4-0)
 ### 7. Property located at
   200 Villagewalk Boulevard (SP14-039271)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 7. Property located at
-  200 Villagewalk Boulevard (SP14-039271)
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1118,6 +1128,20 @@ Unanimous (4-0)
 
 ### 7. Property located at
   200 Villagewalk Boulevard (SP14-039271)
+
+<div id="motion-7-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 7. Property located at
+  200 Villagewalk Boulevard (SP14-039271)
+
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1130,16 +1154,7 @@ Unanimous (4-0)
   By-law Z.-1, Section 1.3 - Deemed Conformity of Uses and Compliance with
   Regulations (Z-8595)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 8. Amendment to Zoning
-  By-law Z.-1, Section 1.3 - Deemed Conformity of Uses and Compliance with
-  Regulations (Z-8595)
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1152,6 +1167,21 @@ Unanimous (4-0)
   By-law Z.-1, Section 1.3 - Deemed Conformity of Uses and Compliance with
   Regulations (Z-8595)
 
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 8. Amendment to Zoning
+  By-law Z.-1, Section 1.3 - Deemed Conformity of Uses and Compliance with
+  Regulations (Z-8595)
+
+<div id="motion-8-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1162,15 +1192,7 @@ Unanimous (4-0)
 ### 9. Property located at
   191 Commissioners Road East
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 9. Property located at
-  191 Commissioners Road East
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1181,6 +1203,20 @@ Unanimous (4-0)
 
 ### 9. Property located at
   191 Commissioners Road East
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 9. Property located at
+  191 Commissioners Road East
+
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1191,6 +1227,8 @@ Unanimous (4-0)
 
 ### 10. Properties located
   at 1234-1246 Richmond Street (OZ-8552)
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1209,6 +1247,8 @@ Unanimous (4-0)
 ### 10. Properties located
   at 1234-1246 Richmond Street (OZ-8552)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1219,6 +1259,8 @@ Unanimous (4-0)
 ### 10. Properties located
   at 1234-1246 Richmond Street (OZ-8552)
 
+<div id="motion-10-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1228,6 +1270,8 @@ Unanimous (3-0)
 
 ### 10. Properties located
   at 1234-1246 Richmond Street (OZ-8552)
+
+<div id="motion-10-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1239,6 +1283,8 @@ Unanimous (3-0)
 ### 11. Conservation
   Authorities
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1249,6 +1295,8 @@ Unanimous (3-0)
 ### 12. Funding Request for
   the Hyde Park Business Association/Business Improvement Area (BIA)
   Designation
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

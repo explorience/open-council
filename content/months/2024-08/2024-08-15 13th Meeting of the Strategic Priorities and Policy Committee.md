@@ -788,6 +788,8 @@ And now we'll look for a motion to adjourn, and Councilor Cuddy was quick on tha
 
 ### 2.2. Secondary School Student Transit Pass Pilot Program
 
+<div id="motion-2-2-2" class="motion-anchor"></div>
+
 > That part b) be approved as follows: b)   the secondary school pilot project BE DEFERRED to school years beginning September 2025 and September 2026 to provide for the Civic Administration together with London Transit Commission (LTC) to develop a Memorandum of Understanding (MOU) with the Thames...
 
 **✅ Motion Passed (9 to 3)**
@@ -804,6 +806,8 @@ And now we'll look for a motion to adjourn, and Councilor Cuddy was quick on tha
 </details>
 
 ### 5.1. (ADDED) Request for London Police Services Delegation - Councillor E. Peloza
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken: a)    the Civic Administration BE DIRECTED to invite London Police Chief T. Truong to appear before the Strategic Priorities and Policy Committee as a delegation at the  September 17, 2024 meeting, along with any staff he deems appropriate to accompany him; an...
 

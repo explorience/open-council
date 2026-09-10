@@ -791,6 +791,8 @@ The
 ### 2. 7th Report of the
   Trees and Forests Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -800,6 +802,8 @@ Unanimous (4-0)
 
 ### 3. 9th Report of the
   Advisory Committee on the Environment
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -811,6 +815,8 @@ Unanimous (4-0)
 ### 4. 10th Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -820,6 +826,8 @@ Unanimous (4-0)
 
 ### 5. Local Renewable
   Electricity Generation Projects Seeking Ontario Feed-In Tariff Contracts
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -831,6 +839,8 @@ Unanimous (4-0)
 ### 6. Woodhull Subdivision
   (39T-03511)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -841,6 +851,8 @@ Unanimous (4-0)
 ### 7. Properties located
   at 404-408 Pall Mall Street and 660 Colborne Street    (Z-8152)
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -851,6 +863,8 @@ Unanimous (4-0)
 ### 8. Emerald Ash Borer
   Business Plan
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -860,6 +874,8 @@ Unanimous (5-0)
 
 ### 8. Emerald Ash Borer
   Business Plan
+
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -871,6 +887,8 @@ Unanimous (5-0)
 ### 9. 10th Report of the
   London Advisory Committee on Heritage
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -881,6 +899,8 @@ Unanimous (4-0)
 ### 10. Extension of
   Enhanced Financial Incentive Programs for Downtown and Old East Village
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -891,15 +911,7 @@ Unanimous (5-0)
 ### 10. Extension of
   Enhanced Financial Incentive Programs for Downtown and Old East Village
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. Property located at
-  797 York Street (Z-8208)
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -911,6 +923,8 @@ Unanimous (5-0)
 ### 11. Property located at
   797 York Street (Z-8208)
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -921,6 +935,20 @@ Unanimous (5-0)
 ### 11. Property located at
   797 York Street (Z-8208)
 
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Property located at
+  797 York Street (Z-8208)
+
+<div id="motion-11-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -931,15 +959,7 @@ Unanimous (5-0)
 ### 12. Review of Holding
   Provision Requirements in Zoning By-law Z-1 (Z-8172)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 12. Review of Holding
-  Provision Requirements in Zoning By-law Z-1 (Z-8172)
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -951,6 +971,8 @@ Unanimous (4-0)
 ### 12. Review of Holding
   Provision Requirements in Zoning By-law Z-1 (Z-8172)
 
+<div id="motion-12-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -960,6 +982,20 @@ Unanimous (4-0)
 
 ### 12. Review of Holding
   Provision Requirements in Zoning By-law Z-1 (Z-8172)
+
+<div id="motion-12-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 12. Review of Holding
+  Provision Requirements in Zoning By-law Z-1 (Z-8172)
+
+<div id="motion-12-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -971,15 +1007,7 @@ Unanimous (4-0)
 ### 13. Proposed Wortley
   Village - Old South Heritage Conservation District (O-8118)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. Proposed Wortley
-  Village - Old South Heritage Conservation District (O-8118)
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -990,6 +1018,20 @@ Unanimous (5-0)
 
 ### 13. Proposed Wortley
   Village - Old South Heritage Conservation District (O-8118)
+
+<div id="motion-13-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Proposed Wortley
+  Village - Old South Heritage Conservation District (O-8118)
+
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -1469,6 +1469,8 @@ Thank you, everybody. Check it out.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.5 with the exception of items 2.2 and 2.4 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1477,6 +1479,8 @@ Unanimous (5-0)
 
 ### 3.3. 6555 and 6595 Royal Magonlia Avenue (OZ-9702)
 
+<div id="motion-3-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by W3 Lambeth Farms Inc. (c/o Strik Baldinelli Moniz (SMB) Ltd.), relating to the property located at 6555 and 6595 Royal Magnolia Avenue: a) the following actions...
 
 **✅ Motion Passed (5 to 0)**
@@ -1484,6 +1488,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.5. 379-390 Hewitt Street and 748 King Street (Z-9718)
+
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application of East Village Holdings Limited relating to the property located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street: a) the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council ...
 
@@ -1500,6 +1506,8 @@ Unanimous (5-0)
 
 ### 3.6. 2331 Kilally Road and 1588 Clarke Road (39T-20502/OZ-9244)
 
+<div id="motion-3-6-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the properties located at 2331 Kilally Road and 1588 Clarke Road: a)    the proposed by-law appended to the staff report ...
 
 **✅ Motion Passed (5 to 0)**
@@ -1507,6 +1515,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. Upper Thames River Conservation Authority Service Level Review
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the following individuals BE GRANTED delegation status with respect to the UTRCA Service Level review: - M. Wallace, London Development Institute; - T. Annett, General Manager Upper Thames River Conservation Authority (UTRCA); - B. Petrie, Chair, UTRCA Board of Directors; and, - J. Allain, M...
 

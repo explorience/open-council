@@ -315,6 +315,8 @@ The Strategic Priorities and Policy
 ### 2. STAFF REPORT -
   Service London: The Costs and Considerations Associated with a 311 Number
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -324,6 +326,8 @@ Unanimous (13-0)
 ### 3. STAFF REPORT -
   Strategic Plan Progress Variance
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -332,6 +336,8 @@ Unanimous (13-0)
 
 ### 4. STAFF REPORT -
   Shift Rapid Transit – Master Plan and Business Case
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -349,6 +355,8 @@ Unanimous (13-0)
 ### 4. STAFF REPORT -
   Shift Rapid Transit – Master Plan and Business Case
 
+<div id="motion-4-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -365,6 +373,8 @@ Unanimous (13-0)
 ### 4. STAFF REPORT -
   Shift Rapid Transit – Master Plan and Business Case
 
+<div id="motion-4-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -380,6 +390,8 @@ Unanimous (13-0)
   Request that the Governance Working Group Create and Identify More
   Accountability on How Councillors Carry Out Their Role
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -390,6 +402,8 @@ Unanimous (12-0)
   SUBMISSION - Request for Appointment and to Amend the Terms and
   Reference of the Governance Working Group
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -398,6 +412,8 @@ Unanimous (12-0)
 
 ### 8. (ADDED) 
   Appointment of Acting Mayors
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 

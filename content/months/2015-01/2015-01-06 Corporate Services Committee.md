@@ -165,6 +165,8 @@ Motion
 ### 2. Letter of Agreement
   - Provincial Dedicated Gas Tax Funds for Public Transportation Program
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -176,6 +178,8 @@ Unanimous (4-0)
   Submission to the Provincial Standing Committee on Finance and Economic
   Affairs
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -185,6 +189,8 @@ Unanimous (4-0)
 
 ### 4. Orientation
   Planning - Verbal (City Manager)
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -197,6 +203,8 @@ Unanimous (4-0)
   Delegation Status - Agreement between The Corporation of the City of London
   and Fanshawe College of Applied Arts and Technology
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -207,6 +215,8 @@ Unanimous (4-0)
 ### 6. Access to
   Refreshments for Members of the Public Attending Council and Standing
   Committee Meetings
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

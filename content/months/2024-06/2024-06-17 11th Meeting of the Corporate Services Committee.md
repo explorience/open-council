@@ -447,6 +447,8 @@ Any opposed? Motion carries. Thank you, everyone. Have a good afternoon.
 
 ### 2.1. Declare Surplus - City-Owned Property - Part of Pine Street
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to City-owned property, the following actions be taken: a)    the subject property being a portion of Pine Street, in the City of London, legally described as par...
 
 **✅ Motion Passed (5 to 0)**
@@ -455,6 +457,8 @@ Unanimous (5-0)
 
 ### 2.3. Standing Committee Meetings and Annual Meeting Calendar
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > That the 2025 Standing Committee Meetings and Annual Meeting Calendar BE AMENDED to provide for Corporate Services Committee meetings to be held on Mondays at 1:00 PM and Planning and Environment Committee to be held on Tuesdays at 1:00 PM;
 
 **✅ Motion Passed (6 to 0)**
@@ -462,6 +466,8 @@ Unanimous (5-0)
 Unanimous (6-0)
 
 ### 2.3. Standing Committee Meetings and Annual Meeting Calendar
+
+<div id="motion-2-3-2" class="motion-anchor"></div>
 
 > That the annual meeting calendar for the period January 1, 2025 to December 31, 2025, as amended, BE APPROVED; it being understood that adjustments to the calendar may be required from time to time in order to accommodate special/additional meetings or changes to governing legislation; it being n...
 

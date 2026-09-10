@@ -2936,6 +2936,8 @@ No, motion carries. All right, we're adjourned. Thank you.
 
 ### 8.1. 6th Report of the Planning and Environment Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 6th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 4 (3.2), 5 (3.3), and 6 (3.4).
 
 **✅ Motion Passed (14 to 0)**
@@ -2943,6 +2945,8 @@ No, motion carries. All right, we're adjourned. Thank you.
 Unanimous (14-0)
 
 ### 8.1.4. (3.2) 634 Commissioners Road West - (Z-9708) (Relates to Bill No. 151)
+
+<div id="motion-8-1-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Royal Premier Homes (c/o Sivik Planning and Design), relating to the property located at 634 Commissioners Road West: a)    the proposed by-law appended to the ...
 
@@ -2961,6 +2965,8 @@ Unanimous (14-0)
 
 ### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
 
+<div id="motion-8-1-5-1" class="motion-anchor"></div>
+
 > That the motion be amended to include new part c) iii) to read as follows: iii)   to consult with Middlesex-London Paramedic Service regarding traffic mitigation measures in the vicinity as part of site plan approval;
 
 **✅ Motion Passed (14 to 0)**
@@ -2968,6 +2974,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
+
+<div id="motion-8-1-5-2" class="motion-anchor"></div>
 
 > That the motion be amended to include new part c) iv) to read as follows: iv)   to study the issue of “filtered-permeability” with respect to mitigating the effects of cut-through traffic resulting from the opening of Beaverbrook Avenue and Westfield Drive and that this item be placed on a future...
 
@@ -2986,6 +2994,8 @@ Unanimous (14-0)
 
 ### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
 
+<div id="motion-8-1-5-3" class="motion-anchor"></div>
+
 > That the motion be amended to include the following: That it BE FURTHER NOTED that through this application residents, businesses owners and community members raised concerns about ongoing traffic issues, movement of ambulances and the need for traffic planning in this area to address increased d...
 
 **❌ Motion Failed (6 to 8) 🔥**
@@ -3002,6 +3012,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.1.5. (3.3) 735 Wonderland Road North - (Z-9704) (Relates to Bill No.'s 132 & 152)
+
+<div id="motion-8-1-5-4" class="motion-anchor"></div>
 
 > That item 5, clause 3.3, as amended, BE APPROVED. At 2:12 PM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair. At 2:15 PM, His Worship Mayor J. Morgan resumes the Chair.
 
@@ -3020,6 +3032,8 @@ Unanimous (14-0)
 
 ### 8.1.6. (3.4) Byron Gravel Pit Secondary Plan (Relates to Bill No. 133)
 
+<div id="motion-8-1-6-1" class="motion-anchor"></div>
+
 > That the motion be amended to include a new part c) to read as follows: c)    the Civic Administration BE DIRECTED to ensure that future background studies supporting the development of a Park Master Plan for the Byron gravel pit investigate the creation and inclusion of artificial habitat or an ...
 
 **✅ Motion Passed (14 to 0)**
@@ -3027,6 +3041,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.1.6. (3.4) Byron Gravel Pit Secondary Plan (Relates to Bill No. 133)
+
+<div id="motion-8-1-6-2" class="motion-anchor"></div>
 
 > That parts a) ix) and x) BE APPROVED: ix) AMEND Schedule 1 from 18 storeys with an upper maximum of 22 storeys; and,  x) AMEND Schedule 1 from 25% affordable housing to 10% to 15% affordable housing;
 
@@ -3045,6 +3061,8 @@ Unanimous (14-0)
 
 ### 8.1.6. (3.4) Byron Gravel Pit Secondary Plan (Relates to Bill No. 133)
 
+<div id="motion-8-1-6-3" class="motion-anchor"></div>
+
 > That the balance of item 6, clause 3.4, as amended, BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -3053,6 +3071,8 @@ Unanimous (14-0)
 
 ### 8.2. 7th Report of the Corporate Services Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That the 7th Report of the Corporate Services Committee BE APPROVED, with the exception of items 6 (2.1) and 7 (2.2).
 
 **✅ Motion Passed (14 to 0)**
@@ -3060,6 +3080,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.2.6. (2.1) Expropriation of Lands - East London Link Project Phase 4 (Relates to Bill No. 134)
+
+<div id="motion-8-2-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Eas...
 
@@ -3078,6 +3100,8 @@ Unanimous (14-0)
 
 ### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
 
+<div id="motion-8-2-7-1" class="motion-anchor"></div>
+
 > That the motion be amended to include the following: it being noted that the Mayor be requested to use a one time draw of $3.5M from the Community Investment Reserve Fund to offset the 2025 increased tax rate. At 3:26 PM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair.   At...
 
 **❌ Motion Failed (5 to 9)**
@@ -3094,6 +3118,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
+
+<div id="motion-8-2-7-2" class="motion-anchor"></div>
 
 > That, notwithstanding the Council Procedure By-law, the motion BE REFERRED to a future meeting of Strategic Priorities and Policy Committee for consideration; it being noted that the communication as appended to the Added Council Agenda, from the Board of Directions, London Convention Centre Corp...
 
@@ -3112,6 +3138,8 @@ Unanimous (14-0)
 
 ### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
 
+<div id="motion-8-2-7-3" class="motion-anchor"></div>
+
 > That the motion be amended to include a new part d) to read as follows: d)    the allocation of RBC Place London’s 2023 year-end surplus to the RBC London Place Renewal Reserve Fund ($250,000) and RBC Place London Operational Reserve ($158,769) BE APPROVED; it being noted that the communication a...
 
 **✅ Motion Passed (14 to 0)**
@@ -3119,6 +3147,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
+
+<div id="motion-8-2-7-4" class="motion-anchor"></div>
 
 > That the motion, without part d), as amended, BE APPROVED.
 
@@ -3137,6 +3167,8 @@ Unanimous (14-0)
 
 ### 8.2.7. (2.2) 2023 Year-End Operating Budget Monitoring Report
 
+<div id="motion-8-2-7-5" class="motion-anchor"></div>
+
 > That part d) of the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -3144,6 +3176,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.3. 6th Report of the Civic Works Committee
+
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 6th Report of the Civic Works Committee, BE APPROVED.
 
@@ -3153,6 +3187,8 @@ Unanimous (14-0)
 
 ### 8.4. 8th Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 3 (2.1) and 5 (5.1).
 
 **✅ Motion Passed (14 to 0)**
@@ -3160,6 +3196,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.4.3. (2.1) Whole of Community System Response - Quarterly Update April
+
+<div id="motion-8-4-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the report dated April 16, 2024, regarding Whole of Community System Response – Quarterly Report, BE RECEIVED for information.
 
@@ -3178,6 +3216,8 @@ Unanimous (14-0)
 
 ### 8.4.5. (5.1) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
 
+<div id="motion-8-4-5-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to establishing a secondary school student transit pass pilot project:  a)  the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames ...
 
 **✅ Motion Passed (8 to 6) 🔥**
@@ -3195,6 +3235,8 @@ Unanimous (14-0)
 
 ### 9.1. 8th Special Report of the Corporate Services Committee
 
+<div id="motion-9-1-0" class="motion-anchor"></div>
+
 > That the 8th Special Report of the Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -3202,6 +3244,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### 13. By-laws
+
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 132 and Bill No.152, BE APPROVED.
 
@@ -3220,6 +3264,8 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
+<div id="motion-13-4" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 132 and Bill No.152, BE APPROVED.
 
 **✅ Motion Passed (11 to 2)**
@@ -3236,6 +3282,8 @@ Unanimous (13-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 132 and Bill No.152, BE APPROVED.
 
@@ -3254,6 +3302,8 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
+<div id="motion-13-6" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No. 134, BE APPROVED.
 
 **✅ Motion Passed (10 to 2)**
@@ -3271,6 +3321,8 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
+<div id="motion-13-7" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 134, BE APPROVED.
 
 **✅ Motion Passed (10 to 2)**
@@ -3287,6 +3339,8 @@ Unanimous (13-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 134, BE APPROVED.
 

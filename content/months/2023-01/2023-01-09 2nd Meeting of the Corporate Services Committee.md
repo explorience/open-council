@@ -388,6 +388,8 @@ The meeting adjourned at 12:28 PM.
 
 ### 4. Items for Direction
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > That items 4.2 to 4.6, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**

@@ -1478,6 +1478,8 @@ And I see that from Councillor Hillier, seconded by Councillor Cuddy and by hand
 
 ### 3.1. 1484 Gore Road (Z-25002)
 
+<div id="motion-3-1-3" class="motion-anchor"></div>
+
 > That the motion be amended to read as follows: the Site Plan Authority BE REQUESTED to consider limiting western-facing windows to the ground floor only;
 
 **✅ Motion Passed (3 to 1) 🔥**
@@ -1495,6 +1497,8 @@ And I see that from Councillor Hillier, seconded by Councillor Cuddy and by hand
 
 ### 3.1. 1484 Gore Road (Z-25002)
 
+<div id="motion-3-1-4" class="motion-anchor"></div>
+
 > That the motion be approved, as amended.
 
 **✅ Motion Passed (4 to 0)**
@@ -1502,6 +1506,8 @@ And I see that from Councillor Hillier, seconded by Councillor Cuddy and by hand
 Unanimous (4-0)
 
 ### 3.4. Holding Provision Symbol Review - Property Update (Z-25011)
+
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the based on the application for the City of London relating to the Holding Provision Symbol Review Property Update the proposed by-law appended to the staff report dated February 19, 2025, as Appendix “A” BE INTRODUCED at the...
 
@@ -1511,6 +1517,8 @@ Unanimous (4-0)
 
 ### 3.5. 1782 Kilally Road (OZ-9811)
 
+<div id="motion-3-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Drewlo Holdings Inc. relating to the property located at 1782 Kilally Road: a)    the proposed by-law appended to the staff report dated February 19, 2025, as A...
 
 **✅ Motion Passed (4 to 0)**
@@ -1518,6 +1526,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.1. Councillor S. Hillier - Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to a Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South: a)    the request to the Minister of Municipal Affairs and Housing to issue a Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Hi...
 
@@ -1527,6 +1537,8 @@ Unanimous (4-0)
 
 ### 4.1. Councillor S. Hillier - Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > That the delegation request from M. Cory, as appended to the Added Agenda, BE APPROVED to be heard at this meeting.
 
 **✅ Motion Passed (4 to 0)**
@@ -1535,6 +1547,8 @@ Unanimous (4-0)
 
 ### 4.2. Councillors E. Peloza and A. Hopkins - Motion to update Business Improvement Area by-laws
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED to review and update the Business Improvement Area By-Laws, including the addition of a mechanism to encourage Business Improvement Areas to submit their annual reports on a more timely basis, and report back to a future meeting of the Planning and Enviro...
 
 **✅ Motion Passed (4 to 0)**
@@ -1542,6 +1556,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 5.1. (ADDED) Deputy Mayor S. Lewis - Motion for immediate need for road rehabilitation of Dundas Street between Burdick Place and Beatrice Street
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to suspend any further considerations of the “Dundas Streetscape Master Plan for the Argyle Core Area” with regard to the immediate need for road rehabilitation in 2025 of Dundas Street between Burdick Place and Beatrice St. due to extremely poor pavement...
 

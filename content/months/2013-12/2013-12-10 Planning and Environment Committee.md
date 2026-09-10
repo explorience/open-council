@@ -1429,6 +1429,8 @@ The
 ### 2. Election of
   Vice-Chair for the term ending November 30, 2014
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1438,6 +1440,8 @@ Unanimous (5-0)
 
 ### 3. 10th Report of the
   Advisory Committee on the Environment
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1449,6 +1453,8 @@ Unanimous (5-0)
 ### 4. 11th Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1459,15 +1465,7 @@ Unanimous (5-0)
 ### 5. Woodhull
   Subdivision (39T-03511)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 6. Property located at
-  1103 Adelaide Street North (Z-8284)
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1479,6 +1477,8 @@ Unanimous (5-0)
 ### 6. Property located at
   1103 Adelaide Street North (Z-8284)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1489,6 +1489,20 @@ Unanimous (5-0)
 ### 6. Property located at
   1103 Adelaide Street North (Z-8284)
 
+<div id="motion-6-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. Property located at
+  1103 Adelaide Street North (Z-8284)
+
+<div id="motion-6-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1499,15 +1513,7 @@ Unanimous (5-0)
 ### 7. Non-Industrial Uses
   in Industrial Areas (OZ-8219)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Non-Industrial Uses
-  in Industrial Areas (OZ-8219)
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1519,6 +1525,8 @@ Unanimous (5-0)
 ### 7. Non-Industrial Uses
   in Industrial Areas (OZ-8219)
 
+<div id="motion-7-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1528,6 +1536,20 @@ Unanimous (5-0)
 
 ### 7. Non-Industrial Uses
   in Industrial Areas (OZ-8219)
+
+<div id="motion-7-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Non-Industrial Uses
+  in Industrial Areas (OZ-8219)
+
+<div id="motion-7-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1539,15 +1561,7 @@ Unanimous (5-0)
 ### 8. Property Located at
   2320 Auto Mall Avenue (OZ-8276)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 8. Property Located at
-  2320 Auto Mall Avenue (OZ-8276)
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1559,6 +1573,20 @@ Unanimous (5-0)
 ### 8. Property Located at
   2320 Auto Mall Avenue (OZ-8276)
 
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. Property Located at
+  2320 Auto Mall Avenue (OZ-8276)
+
+<div id="motion-8-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1569,15 +1597,7 @@ Unanimous (5-0)
 ### 9. Properties located
   at 860-874 Southdale Road West (39T-13503/OZ-8223)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. Properties located
-  at 860-874 Southdale Road West (39T-13503/OZ-8223)
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1588,6 +1608,20 @@ Unanimous (5-0)
 
 ### 9. Properties located
   at 860-874 Southdale Road West (39T-13503/OZ-8223)
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Properties located
+  at 860-874 Southdale Road West (39T-13503/OZ-8223)
+
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1598,6 +1632,8 @@ Unanimous (5-0)
 
 ### 10. Blackfriars/Petersville
   Heritage Conservation District Background Study
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1616,6 +1652,8 @@ Unanimous (5-0)
 ### 10. Blackfriars/Petersville
   Heritage Conservation District Background Study
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1626,6 +1664,8 @@ Unanimous (5-0)
 ### 10. Blackfriars/Petersville
   Heritage Conservation District Background Study
 
+<div id="motion-10-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1635,6 +1675,8 @@ Unanimous (5-0)
 
 ### 11. Urban Growth
   Boundary Inclusion Requests (O-7938)
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1653,6 +1695,8 @@ Unanimous (5-0)
 ### 11. Urban Growth
   Boundary Inclusion Requests (O-7938)
 
+<div id="motion-11-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1662,6 +1706,8 @@ Unanimous (5-0)
 
 ### 11. Urban Growth
   Boundary Inclusion Requests (O-7938)
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1673,6 +1719,8 @@ Unanimous (4-0)
 ### 12. 9th Report of the
   Trees and Forests Advisory Committee
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1683,6 +1731,8 @@ Unanimous (5-0)
 ### 13. (ADDED)   Candidate
   Approval for the Urban Design Peer Review Panel
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1691,6 +1741,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 14. Property located at 275 Thames Street
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

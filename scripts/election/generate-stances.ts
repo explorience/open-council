@@ -49,7 +49,7 @@ import {
   axisLabelsFor,
   type Direction,
 } from "./direction-rules.js";
-import { motionAnchor } from "./anchors.js";
+import { motionEvidenceAnchor } from "./anchors.js";
 import { normalizeCouncillorName } from "../../lib/councillors/normalize.js";
 import { buildMethodology } from "./methodology.js";
 
@@ -88,6 +88,10 @@ interface RawMotion {
   abstain: string[];
   other: string[];
   margin: number;
+  /** Position of this roll call among the meeting's recorded votes. Half of
+   * the natural key per-motion evidence anchors are built from — see
+   * scripts/motion-anchor.ts. */
+  rollCallOrdinal: number;
 }
 
 interface AllMotionsFile {
@@ -840,6 +844,10 @@ interface ClassifiedMotion {
   positions: Record<string, VoteKind>;
   anchor: string | null;
   anchorAmbiguous: boolean;
+  /** True when `anchor` is the per-motion anchor emitted for this exact
+   * roll call (see scripts/motion-anchor.ts), rather than a heading slug
+   * inferred from the page's text. */
+  anchorPrecise: boolean;
   /** Set only for a legitimate supermajority failure (see
    * isSupermajorityFailure) — carried through to each per-row evidence
    * entry so the reader sees why a "Failed" result sits alongside a yea
@@ -1055,11 +1063,16 @@ function main() {
     }
 
     const direction = directionFromVerified(entry);
-    const anchorResult = motionAnchor(
-      motion.meetingSlug,
-      motion.itemNumber,
-      motion.result,
-    );
+    // Per-motion anchor first (emitted at source into the meeting page's
+    // Votes section, keyed on this exact roll call), heading-slug
+    // resolution only where no such anchor exists on the page. See
+    // scripts/motion-anchor.ts and anchors.ts:motionEvidenceAnchor.
+    const anchorResult = motionEvidenceAnchor({
+      meetingSlug: motion.meetingSlug,
+      itemNumber: motion.itemNumber,
+      rollCallOrdinal: motion.rollCallOrdinal,
+      result: motion.result,
+    });
 
     classified.push({
       motion,
@@ -1070,6 +1083,7 @@ function main() {
       positions: positionsOf(motion, lookup),
       anchor: anchorResult?.url ?? null,
       anchorAmbiguous: anchorResult?.ambiguous ?? false,
+      anchorPrecise: anchorResult?.precise ?? false,
       resultNote: isSupermajorityFailure(motion)
         ? "failed — required a supermajority"
         : null,
@@ -1332,9 +1346,13 @@ function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
     meetingUrl: m.meetingUrl,
     itemNumber: m.itemNumber,
     itemTitle: m.itemTitle,
+    // Carried so a verifier can recompute this row's expected per-motion
+    // anchor from the natural key alone, without trusting the generator.
+    rollCallOrdinal: m.rollCallOrdinal,
     motionSnippet: motionSnippet(m.motionText),
     anchor: c.anchor,
     anchorAmbiguous: c.anchorAmbiguous,
+    anchorPrecise: c.anchorPrecise,
     result: m.result,
     tally: `${c.tally.yea}-${c.tally.nay}`,
     // Honest per-row disclosure for a legitimate supermajority failure
@@ -1412,6 +1430,9 @@ function writeIssuesFile(
             meetingUrl: m.meetingUrl,
             itemNumber: m.itemNumber,
             itemTitle: m.itemTitle,
+            // See evidenceEntry: lets a verifier recompute the expected
+            // per-motion anchor from the natural key alone.
+            rollCallOrdinal: m.rollCallOrdinal,
             motionText,
             result: m.result,
             passed: m.passed,
@@ -1419,6 +1440,7 @@ function writeIssuesFile(
             tally: c.tally,
             anchor: c.anchor,
             anchorAmbiguous: c.anchorAmbiguous,
+            anchorPrecise: c.anchorPrecise,
             matchedKeywords: c.matchedKeywords,
             direction:
               c.direction.axis === null

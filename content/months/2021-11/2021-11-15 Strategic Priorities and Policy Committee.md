@@ -174,6 +174,8 @@ The meeting adjourned at 4:33 PM.
 
 ### 4.1. Consideration of Filling of Ward 6 Vacancy
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to filling the vacancy of the Office of Ward 6:    a)   Mariam Hamou BE APPOINTED to the Office of Ward 6 for the term commencing November 16, 2021 and ending November 15, 2022, pursuant to section 263(1)(a) of the Municipal Act, 2001;    b)    the...
 
 **✅ Motion Passed (10 to 3)**
@@ -191,16 +193,7 @@ The meeting adjourned at 4:33 PM.
 
 ### 4.1. Consideration of Filling of Ward 6 Vacancy
 
-> Appointment to Ward 6
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-</details>
-
-### 4.1. Consideration of Filling of Ward 6 Vacancy
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Appointment to Ward 6
 
@@ -212,6 +205,21 @@ The meeting adjourned at 4:33 PM.
 </details>
 
 ### 4.1. Consideration of Filling of Ward 6 Vacancy
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
+> Appointment to Ward 6
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.1. Consideration of Filling of Ward 6 Vacancy
+
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > Appointment to the office of Ward 6 Councillor
 

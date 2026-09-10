@@ -2463,6 +2463,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 
 ### 3.29. Amendment - Business Case #P-15, #P-16, #P-17, #P-18
 
+<div id="motion-3-29-0" class="motion-anchor"></div>
+
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-15 – Hoarding/Extreme Clean Program; Business Case #P-16 – Housing Stability Bank Expansion; Business Case #P-17 – Housing Stability Table; and Business Case #P-18 – Housing Support Programs Case Management Enhanc...
 
 **❌ Motion Failed (3 to 12)**
@@ -2477,6 +2479,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 </details>
 
 ### 3.29. Amendment - Business Case #P-15, #P-16, #P-17, #P-18
+
+<div id="motion-3-29-1" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor C. Rahman BE PERMITTED to speak an additional 5 minutes with respect to this matter.
 
@@ -2493,6 +2497,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 
 ### 3.30. Amendment - Business Case #P-15
 
+<div id="motion-3-30-0" class="motion-anchor"></div>
+
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-15 – Hoarding/Extreme Clean Program; as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023: 2024 Operating Expendit...
 
 **❌ Motion Failed (7 to 8) 🔥**
@@ -2507,6 +2513,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 </details>
 
 ### 3.31. Amendment - Business Case #P-16
+
+<div id="motion-3-31-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-16 – Housing Stability Bank Expansion, as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023: 2024 Operating Expend...
 
@@ -2523,6 +2531,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 
 ### 3.32. Amendment - Business Case #P-36
 
+<div id="motion-3-32-0" class="motion-anchor"></div>
+
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing funding for Business Case #P-36 – Safe London and Anti Racism/Anti Oppression Action Plan to $125,000 annually: 2024 Operating Expenditures: -$58,000     2024 Tax Levy:  -$58,000 2025 Operating Expenditures: -$58,000     2025 Tax...
 
 **✅ Motion Passed (11 to 4)**
@@ -2537,6 +2547,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 </details>
 
 ### 3.33. Amendment - Business Case #P-51
+
+<div id="motion-3-33-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include the revised conventional service hours for Business Case #P-51 – Transit Service Conventional Growth Hours, as approved by the London Transit Commission on January 31st, 2024 to provide for 18,000 hours of growth in each year, by ...
 
@@ -2553,6 +2565,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 
 ### 3.34. Amendment - London Public Library Base Budget
 
+<div id="motion-3-34-2" class="motion-anchor"></div>
+
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 5 minutes with respect to this matter.
 
 **✅ Motion Passed (10 to 5)**
@@ -2567,6 +2581,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 </details>
 
 ### 3.34. Amendment - London Public Library Base Budget
+
+<div id="motion-3-34-3" class="motion-anchor"></div>
 
 > Motion to approve part a), related to 2024: That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to increase London Public Library’s Base Budget in support of maintaining the essential infrastructure the Library offers Londoners: a) 2024:  7%      (Mayor’s Budget: 5.4%)  2024 Operating Expendi...
 
@@ -2583,6 +2599,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 
 ### 3.34. Amendment - London Public Library Base Budget
 
+<div id="motion-3-34-4" class="motion-anchor"></div>
+
 > Motion to approve part b), related to 2025: b) 2025:  8%      (Mayor’s Budget: 6.0%)  2025 Operating Expenditure:  $833,824         2025 Tax Levy:  $833,824
 
 **❌ Motion Failed (6 to 9) 🔥**
@@ -2597,6 +2615,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 </details>
 
 ### 3.34. Amendment - London Public Library Base Budget
+
+<div id="motion-3-34-5" class="motion-anchor"></div>
 
 > Motion to approve part c), related to 2026: c) 2026:  9%      (Mayor’s Budget: 5.1%)  2026 Operating Expenditure:  $1,876,707      2026 Tax Levy:  $1,876,707
 
@@ -2613,6 +2633,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 
 ### 3.34. Amendment - London Public Library Base Budget
 
+<div id="motion-3-34-6" class="motion-anchor"></div>
+
 > Motion to approve part d), related to 2027: d) 2027:  9%      (Mayor’s Budget: 5.2%)  2027 Operating Expenditure:  $3,039,325       2027 Tax Levy:  $3,039,325
 
 **❌ Motion Failed (5 to 10)**
@@ -2627,6 +2649,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 </details>
 
 ### 3.35. Amendment - Business Case #P-30
+
+<div id="motion-3-35-2" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-30 – Enhancing Digital Divide Support Services – London Public Library, to be funded from the Community Investment Reserve Fund as follows: a) to support investment of $31,000 for expansion of the services deliver...
 
@@ -2643,6 +2667,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 
 ### 3.35. Amendment - Business Case #P-30
 
+<div id="motion-3-35-3" class="motion-anchor"></div>
+
 > b) an investment of $100,000 to expand the suite of children’s digital literacy discovery programs 2024 Capital Expenditures: $0                            2024 Tax Levy: $0  2025 Capital Expenditures: $50,000                   2025 Tax Levy: $0  2026 Capital Expenditures: $50,000                ...
 
 **✅ Motion Passed (10 to 5)**
@@ -2657,6 +2683,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 </details>
 
 ### 3.36. Amendment - Business Case #P-69
+
+<div id="motion-3-36-2" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to include Business Case #P-69 – Expanded Support for Library Collections, in the revised total 2024-2027: a)    annual funding totaling $134,000 (2024: $30,000; 2025: $32,000; 2026: $35,000; 2027: $37,000) to ensure that London Public Libra...
 
@@ -2673,6 +2701,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 
 ### 3.36. Amendment - Business Case #P-69
 
+<div id="motion-3-36-3" class="motion-anchor"></div>
+
 > Motion to approve part b): b)    one-time funding of $100,000 in 2024, to be funded from the Community Investment Reserve Fund, to ensure that the London Public Library can replace high-demand children’s and teen print materials to keep pace with increasing use of these collections post-COVID: 20...
 
 **✅ Motion Passed (8 to 7) 🔥**
@@ -2687,6 +2717,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 </details>
 
 ### 3.37. Amendment - Business Case #P-56
+
+<div id="motion-3-37-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b – Climate Change Invest (CCI) Fund of Business Case # P-56 – Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million; it being noted that this reduction of...
 
@@ -2703,6 +2735,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 
 ### 3.38. Amendment - Business Case #P-46
 
+<div id="motion-3-38-0" class="motion-anchor"></div>
+
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing Business Case #P-46 – Economic and Partnership Initiatives – Action Number 12 by $450,000 from 2025 to 2027: 2024 Operating Expenditures:  $0                       2024 Tax Levy: $0 2025 Operating Expenditures: -$450,000         ...
 
 **✅ Motion Passed (15 to 0)**
@@ -2710,6 +2744,8 @@ Building the vote, motion carries 11 to four. Thank you, the meeting is conclude
 Unanimous (15-0)
 
 ### 3.39. Amendment - Business Case #P-L3
+
+<div id="motion-3-39-0" class="motion-anchor"></div>
 
 > That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding for Business Case #P-L3 – More Homes Built Faster Act, Bill 23 – Statutory Exemptions: 2024 Operating Expenditures: -$1,800,000     2024 Tax Levy:  -$1,800,000 2025 Operating Expenditures: -$1,800,000     2025 Tax Lev...
 
@@ -2725,6 +2761,8 @@ Unanimous (15-0)
 </details>
 
 ### 7. Adjournment
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > That the meeting BE ADJOURNED.
 

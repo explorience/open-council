@@ -480,6 +480,8 @@ Thanks everyone.
 
 ### 1. Disclosures of Pecuniary Interest
 
+<div id="motion-1-0" class="motion-anchor"></div>
+
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Civic Works Committee Agenda BE APPROVED, to provide for Item 6.1 in Stage 6, Confidential, to be considered after Stage 1, Disclosures of Pecuniary Interest.
 
 **✅ Motion Passed (5 to 0)**
@@ -488,6 +490,8 @@ Unanimous (5-0)
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.5 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -495,6 +499,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.1. 9th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 10th Report of the Environmental Stewardship and Action Community Advisory Committee (ESACAC), from the meeting held on October 2, 2024: a)     the Design Specifications and Requirements Manual Working Group additional comments as appended t...
 

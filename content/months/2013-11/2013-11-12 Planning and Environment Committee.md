@@ -849,15 +849,7 @@ The
 ### 2. 8th Report of the
   Trees and Forests Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 2. 8th Report of the
-  Trees and Forests Advisory Committee
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -869,6 +861,8 @@ Unanimous (6-0)
 ### 2. 8th Report of the
   Trees and Forests Advisory Committee
 
+<div id="motion-2-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -878,6 +872,20 @@ Unanimous (6-0)
 
 ### 2. 8th Report of the
   Trees and Forests Advisory Committee
+
+<div id="motion-2-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 2. 8th Report of the
+  Trees and Forests Advisory Committee
+
+<div id="motion-2-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -890,6 +898,8 @@ Unanimous (6-0)
   at 56 to 82 Wellington Street, 283 to 323 South Street and 69 to 77 Waterloo
   Street (OZ-8114)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -900,6 +910,8 @@ Unanimous (6-0)
 ### 4. Properties located
   at 56 to 82 Wellington Street, 283 to 323 South Street and 69 to 77 Waterloo
   Street (OZ-8114)
+
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -912,6 +924,8 @@ Unanimous (6-0)
   at 1100 and 1140 North Wenige Drive - Forest Hill Phase 5 - Extension to
   Draft Plan of Subdivision Approval (39T-10501)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -921,6 +935,8 @@ Unanimous (6-0)
 
 ### 7. Property located at
   1270 Sunningdale Road East (Phase 2) (33M-632/H-8227)
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -933,6 +949,8 @@ Unanimous (6-0)
   Municipal Council Support Resolution - Ground Mounted Solar Project Under the
   Feed-In Tariff (FIT) Program
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -942,6 +960,8 @@ Unanimous (4-0)
 ### 9. Building Division
   Monthly Report for September 2013
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -951,15 +971,7 @@ Unanimous (6-0)
 ### 10. Property located at
   1990 Commissioners Road East and 1697 Hamilton Road (Z-8239)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 10. Property located at
-  1990 Commissioners Road East and 1697 Hamilton Road (Z-8239)
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -971,6 +983,20 @@ Unanimous (6-0)
 ### 10. Property located at
   1990 Commissioners Road East and 1697 Hamilton Road (Z-8239)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 10. Property located at
+  1990 Commissioners Road East and 1697 Hamilton Road (Z-8239)
+
+<div id="motion-10-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -981,15 +1007,7 @@ Unanimous (6-0)
 ### 11. Review of Planning
   Application Fees
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 11. Review of Planning
-  Application Fees
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1001,6 +1019,8 @@ Unanimous (6-0)
 ### 11. Review of Planning
   Application Fees
 
+<div id="motion-11-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1010,6 +1030,20 @@ Unanimous (6-0)
 
 ### 11. Review of Planning
   Application Fees
+
+<div id="motion-11-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Review of Planning
+  Application Fees
+
+<div id="motion-11-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1021,6 +1055,8 @@ Unanimous (5-0)
 ### 11. Review of Planning
   Application Fees
 
+<div id="motion-11-4" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1030,6 +1066,8 @@ Unanimous (6-0)
 
 ### 11. Review of Planning
   Application Fees
+
+<div id="motion-11-5" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1041,6 +1079,8 @@ Unanimous (6-0)
 ### 13. Properties located
   at 3924 and 4138 Colonel Talbot Road (39T-12503/OZ-8052)
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1050,6 +1090,8 @@ Unanimous (5-0)
 
 ### 14. Property located at
   275 Thames Street - Fugitive Slave Chapel
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

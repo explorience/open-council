@@ -1184,6 +1184,8 @@ The meeting adjourned at 8:18 PM.
 ### 2. 5th Report of the
   Advisory Committee on the Environment
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1193,6 +1195,8 @@ Unanimous (5-0)
 
 ### 3. STAFF REPORT - Property
   located at 807 Colborne Street (Fire Hall No. 4)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1205,6 +1209,8 @@ Unanimous (5-0)
   Review of Impacts from Industrial Sources (Focus on Odour) and Potential
   Municipal Actions (South of Highway 401)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1215,15 +1221,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT - Property
   located at 530 Sunningdale Road East (Powell Subdivision Phase 4) (H-8758)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 6. STAFF REPORT - Property
-  located at 801 Sarnia Road (H-8736)
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1234,6 +1232,20 @@ Unanimous (5-0)
 
 ### 6. STAFF REPORT - Property
   located at 801 Sarnia Road (H-8736)
+
+<div id="motion-6-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. STAFF REPORT - Property
+  located at 801 Sarnia Road (H-8736)
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1245,15 +1257,7 @@ Unanimous (5-0)
 ### 8. STAFF REPORT - Property
   located at 4166 Scotland Drive
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. PUBLIC
-  PARTICIPATION MEETING - Property located at 10 Hawthorne Road (Z-8723)
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1265,6 +1269,8 @@ Unanimous (5-0)
 ### 9. PUBLIC
   PARTICIPATION MEETING - Property located at 10 Hawthorne Road (Z-8723)
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1274,6 +1280,20 @@ Unanimous (5-0)
 
 ### 9. PUBLIC
   PARTICIPATION MEETING - Property located at 10 Hawthorne Road (Z-8723)
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. PUBLIC
+  PARTICIPATION MEETING - Property located at 10 Hawthorne Road (Z-8723)
+
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1285,16 +1305,7 @@ Unanimous (5-0)
 ### 10. 4th Report of the
   Trees and Forests Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. PUBLIC
-  PARTICIPATION MEETING - Properties located at  555-557 Ridout Street North
-  (TZ-8673)
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1307,6 +1318,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at  555-557 Ridout Street North
   (TZ-8673)
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1318,6 +1331,21 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at  555-557 Ridout Street North
   (TZ-8673)
 
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. PUBLIC
+  PARTICIPATION MEETING - Properties located at  555-557 Ridout Street North
+  (TZ-8673)
+
+<div id="motion-11-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1329,16 +1357,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Low-rise Residential Development in Existing
   Neighbourhoods (Infill Study) (Z-8701)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. PUBLIC
-  PARTICIPATION MEETING - Low-rise Residential Development in Existing
-  Neighbourhoods (Infill Study) (Z-8701)
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1350,6 +1369,21 @@ Unanimous (5-0)
 ### 12. PUBLIC
   PARTICIPATION MEETING - Low-rise Residential Development in Existing
   Neighbourhoods (Infill Study) (Z-8701)
+
+<div id="motion-12-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. PUBLIC
+  PARTICIPATION MEETING - Low-rise Residential Development in Existing
+  Neighbourhoods (Infill Study) (Z-8701)
+
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1362,16 +1396,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Public Engagement Process for the Evaluation of
   Community Improvement Plan Incentives
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. PUBLIC
-  PARTICIPATION MEETING - Public Engagement Process for the Evaluation of
-  Community Improvement Plan Incentives
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1383,6 +1408,21 @@ Unanimous (5-0)
 ### 13. PUBLIC
   PARTICIPATION MEETING - Public Engagement Process for the Evaluation of
   Community Improvement Plan Incentives
+
+<div id="motion-13-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. PUBLIC
+  PARTICIPATION MEETING - Public Engagement Process for the Evaluation of
+  Community Improvement Plan Incentives
+
+<div id="motion-13-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1395,6 +1435,8 @@ Unanimous (5-0)
   located at 1156 Dundas Street - Community Improvement Plan for
   Brownfield Incentives
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1405,6 +1447,8 @@ Unanimous (5-0)
 ### 14. STAFF REPORT - Property
   located at 1156 Dundas Street - Community Improvement Plan for
   Brownfield Incentives
+
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1416,6 +1460,8 @@ Unanimous (5-0)
 ### 15. STAFF REPORT - Properties
   located at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Ave
   -  Brownfield Incentives
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1435,6 +1481,8 @@ Unanimous (5-0)
   located at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Ave
   -  Brownfield Incentives
 
+<div id="motion-15-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1445,6 +1493,8 @@ Unanimous (4-0)
 ### 15. STAFF REPORT - Properties
   located at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Ave
   -  Brownfield Incentives
+
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Failed
 

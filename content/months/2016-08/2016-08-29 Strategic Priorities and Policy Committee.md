@@ -204,14 +204,7 @@ The Strategic Priorities and Policy
 ### 2. STAFF REPORT - Debt
   Management Policy
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (10-0)
-
-### 2. STAFF REPORT - Debt
-  Management Policy
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -222,6 +215,19 @@ Unanimous (10-0)
 ### 2. STAFF REPORT - Debt
   Management Policy
 
+<div id="motion-2-1" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 2. STAFF REPORT - Debt
+  Management Policy
+
+<div id="motion-2-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -231,6 +237,8 @@ Unanimous (10-0)
 ### 6. DELEGATION - Heidi
   Currie, Manager, Argyle Business Improvement Area
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -239,6 +247,8 @@ Unanimous (10-0)
 
 ### 6. DELEGATION - Heidi
   Currie, Manager, Argyle Business Improvement Area
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -249,6 +259,8 @@ Unanimous (11-0)
 ### 6. DELEGATION - Heidi
   Currie, Manager, Argyle Business Improvement Area
 
+<div id="motion-6-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -257,6 +269,8 @@ Unanimous (11-0)
 
 ### 6. DELEGATION - Heidi
   Currie, Manager, Argyle Business Improvement Area
+
+<div id="motion-6-3" class="motion-anchor"></div>
 
 > Motion Passed
 

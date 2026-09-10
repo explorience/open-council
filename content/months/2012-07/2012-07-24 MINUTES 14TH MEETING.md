@@ -898,6 +898,8 @@ MOTION
   AND SIGNING OF THE MINUTES OF THE THIRTEENTH MEETING HELD ON JUNE 26 and 27,
   2012
 
+<div id="motion-iii-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -907,21 +909,7 @@ Unanimous (15-0)
 ### VII. ADDED
   REPORTS
 
-> Motion Passed
-
-**✅ Motion Passed 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
-
-**Nay (7):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant)
-
-</details>
-
-### VII. ADDED
-  REPORTS
+<div id="motion-vii-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -938,6 +926,26 @@ Unanimous (15-0)
 
 ### VII. ADDED
   REPORTS
+
+<div id="motion-vii-3" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (7):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Judy Bryant](/councillors/former/j-p-bryant)
+
+</details>
+
+### VII. ADDED
+  REPORTS
+
+<div id="motion-vii-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -955,13 +963,7 @@ Unanimous (15-0)
 ### VII. ADDED
   REPORTS
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### XII. BY-LAWS
+<div id="motion-vii-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -971,13 +973,7 @@ Unanimous (15-0)
 
 ### XII. BY-LAWS
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### XII. BY-LAWS
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -986,6 +982,28 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### XII. BY-LAWS
+
+<div id="motion-xii-3" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### XII. BY-LAWS
+
+<div id="motion-xii-5" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### XII. BY-LAWS
+
+<div id="motion-xii-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1001,6 +1019,8 @@ Unanimous (15-0)
 </details>
 
 ### XII. BY-LAWS
+
+<div id="motion-xii-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1018,6 +1038,8 @@ Unanimous (15-0)
 ### 5. Engagement of PricewaterhouseCoopers for
     Operational Review
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1026,6 +1048,8 @@ Unanimous (15-0)
 
 ### 19. Review of Policies and Practices for Major
   City Projects
+
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1036,6 +1060,8 @@ Unanimous (14-0)
 ### 19. Review of Policies and Practices for Major
   City Projects
 
+<div id="motion-19-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1044,6 +1070,8 @@ Unanimous (13-0)
 
 ### 19. Review of Policies and Practices for Major
   City Projects
+
+<div id="motion-19-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1061,6 +1089,8 @@ Unanimous (13-0)
 ### 19. Review of Policies and Practices for Major
   City Projects
 
+<div id="motion-19-4" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1070,13 +1100,7 @@ Unanimous (15-0)
 ### 19. Review of Policies and Practices for Major
   City Projects
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 24. London Gateway – 401 Corridor
+<div id="motion-19-6" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1086,6 +1110,8 @@ Unanimous (15-0)
 
 ### 24. London Gateway – 401 Corridor
 
+<div id="motion-24-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1093,6 +1119,18 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 24. London Gateway – 401 Corridor
+
+<div id="motion-24-3" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 24. London Gateway – 401 Corridor
+
+<div id="motion-24-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1102,6 +1140,8 @@ Unanimous (13-0)
 
 ### 24. London Gateway – 401 Corridor
 
+<div id="motion-24-5" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1109,6 +1149,8 @@ Unanimous (13-0)
 Unanimous (15-0)
 
 ### 24. London Gateway – 401 Corridor
+
+<div id="motion-24-7" class="motion-anchor"></div>
 
 > Motion Passed
 

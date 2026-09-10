@@ -668,6 +668,8 @@ Thank you, we are adjourned.
 
 ### 2.6. Contract Award: Tender No. RFT-2024-315 - East London Link and Municipal Infrastructure Improvements - Phase 4 - Oxford Street East
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the East London Link and Municipal Infrastructure Improvements Phase 4 project; a)    the following actions BE TAKEN with respect to the award of the contract for th...
 
 **✅ Motion Passed (3 to 1) 🔥**
@@ -684,6 +686,8 @@ Thank you, we are adjourned.
 </details>
 
 ### 2.9. Assessment Growth for 2025, Changes in Taxable Phase-In Values and Shifts in Taxation as a Result of Reassessments
+
+<div id="motion-2-9-1" class="motion-anchor"></div>
 
 > That the delegation request by C. Butler BE APPROVED to be heard at this time.
 

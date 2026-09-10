@@ -357,6 +357,8 @@ Thank you. vote those in favor any opposed now we're good thank you thank you
 
 ### 4. Items for Direction
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > That Items for Direction 4.1 and 4.2 BE APPROVED
 
 **✅ Motion Passed (4 to 0)**

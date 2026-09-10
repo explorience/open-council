@@ -723,6 +723,8 @@ The meeting adjourned at 6:45 PM.
 ### 2. 5th Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -732,6 +734,8 @@ Unanimous (4-0)
 
 ### 3. Fibre Optic
   Connection Grant Pilot Program for Downtown London
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -743,6 +747,8 @@ Unanimous (4-0)
 ### 4. Shipping Containers
   and Trailers
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -752,6 +758,8 @@ Unanimous (5-0)
 
 ### 5. Properties located
   at 776-802 Killarney Road
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -763,6 +771,8 @@ Unanimous (4-0)
 ### 6. Property located at
   255 South Carriage Way (H-8577)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -773,6 +783,8 @@ Unanimous (4-0)
 ### 7. Property located at
   3300 Castle Rock Place (H-8559)
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -782,6 +794,8 @@ Unanimous (4-0)
 
 ### 8. Property located at
   1602 Sunningdale Road West (Z-8587)
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -800,6 +814,8 @@ Unanimous (4-0)
 ### 8. Property located at
   1602 Sunningdale Road West (Z-8587)
 
+<div id="motion-8-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -810,6 +826,8 @@ Unanimous (5-0)
 ### 8. Property located at
   1602 Sunningdale Road West (Z-8587)
 
+<div id="motion-8-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -819,6 +837,8 @@ Unanimous (5-0)
 
 ### 9. Property located at
   195 Dundas Street (TZ-8592)
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -837,6 +857,8 @@ Unanimous (5-0)
 ### 9. Property located at
   195 Dundas Street (TZ-8592)
 
+<div id="motion-9-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -847,6 +869,8 @@ Unanimous (5-0)
 ### 9. Property located at
   195 Dundas Street (TZ-8592)
 
+<div id="motion-9-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -856,6 +880,8 @@ Unanimous (5-0)
 
 ### 10. Property located at
   259 Sunningdale Road West (OZ-8094)
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -867,6 +893,8 @@ Unanimous (4-0)
 ### 10. Property located at
   259 Sunningdale Road West (OZ-8094)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -877,6 +905,8 @@ Unanimous (4-0)
 ### 10. Property located at
   259 Sunningdale Road West (OZ-8094)
 
+<div id="motion-10-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -887,15 +917,7 @@ Unanimous (4-0)
 ### 11. Property located at
   1880 Phillbrook Drive (OZ-8584)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. Property located at
-  1880 Phillbrook Drive (OZ-8584)
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -906,6 +928,20 @@ Unanimous (5-0)
 
 ### 11. Property located at
   1880 Phillbrook Drive (OZ-8584)
+
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Property located at
+  1880 Phillbrook Drive (OZ-8584)
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -917,6 +953,8 @@ Unanimous (5-0)
 ### 12. 5th Report of the
   Trees and Forests Advisory Committee
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -925,6 +963,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 13. Green Roofs
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

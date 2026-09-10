@@ -1015,6 +1015,8 @@ The meeting adjourned at 3:47 PM.
 
 ### 4.1. 1st Report of the Striking Committee
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 1st Report of the Striking Committee from its meeting held on May 9, 2019:    a)         B. Mackinnon BE ELECTED Chair and J. Hodge BE ELECTED Vice Chair of the Striking Committee;    b)         the following actions be taken with respect to...
 
 **✅ Motion Passed (13 to 0)**
@@ -1022,6 +1024,8 @@ The meeting adjourned at 3:47 PM.
 Unanimous (13-0)
 
 ### 4.1. 1st Report of the Striking Committee
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the following individuals BE APPOINTED to the Community Safety and Crime Prevention Advisory Committee for the term ending June 30, 2021: Izabela Bielaska  James A. Campbell  Luthra Devinder  Lorraine Fay  Bessie Fragis  Brian Gibson  Zygmunt M. Gorski  Montanna Hackett  Tariq Khan  Lauren K...
 
@@ -1040,6 +1044,8 @@ Unanimous (13-0)
 
 ### 4.1. 1st Report of the Striking Committee
 
+<div id="motion-4-1-3" class="motion-anchor"></div>
+
 > That Jamieson Roberts be included on the slate of nominees for consideration for appointment to the Cycling Advisory Committee.
 
 **✅ Motion Passed (8 to 5) 🔥**
@@ -1057,6 +1063,8 @@ Unanimous (13-0)
 
 ### 4.1. 1st Report of the Striking Committee
 
+<div id="motion-4-1-4" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the appointments to the Diversity, Inclusion and Anti-Oppression Advisory Committee for the term ending June 30, 2021: i)          the following individuals BE APPOINTED: Janice Braithwaite  Michael Buzzelli  Florence Cassar  Cori DuHasky  Zeba ...
 
 **✅ Motion Passed (11 to 0)**
@@ -1064,6 +1072,8 @@ Unanimous (13-0)
 Unanimous (11-0)
 
 ### 4.1. 1st Report of the Striking Committee
+
+<div id="motion-4-1-5" class="motion-anchor"></div>
 
 > That only ballots for the Cycling Advisory Committee nominees, that are complete with full rankings of all nominees BE COUNTED on the preferred ballot for consideration of appointments.
 
@@ -1081,6 +1091,8 @@ Unanimous (11-0)
 </details>
 
 ### 4.1. 1st Report of the Striking Committee
+
+<div id="motion-4-1-6" class="motion-anchor"></div>
 
 > That the following individuals BE APPOINTED to the Cycling Advisory Committee for the term ending June 30, 2021: Kate Brawn  Ben Cowie  Christopher DeGroot  Rebecca Henderson  Benjamin Hill  Jason Jordan  Craig Linton  Chris Pollett  Ernie L. Raftis  Jamieson Roberts  Olivia Toth it being noted t...
 

@@ -2743,6 +2743,8 @@ Can we do a hand vote? All those in favor? Thank you and enjoy your evening, goo
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.7, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -2750,6 +2752,8 @@ Can we do a hand vote? All those in favor? Thank you and enjoy your evening, goo
 Unanimous (6-0)
 
 ### 3.6. Parking Standards Review (OZ-9520)
+
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Parking Standards Review: a)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix B, BE INTRODUCED at the Municipal Council meeting to be held o...
 
@@ -2768,6 +2772,8 @@ Unanimous (6-0)
 
 ### 3.7. 2009 Wharncliffe Road South (OZ-9348)
 
+<div id="motion-3-7-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2425293 Ontario Inc., relating to the property located at 2009 Wharncliffe Road South: a)    the proposed by-law appended to the staff report dated July 25, 202...
 
 **✅ Motion Passed (5 to 0)**
@@ -2775,6 +2781,8 @@ Unanimous (6-0)
 Unanimous (5-0)
 
 ### 3.10. 1067, 1069, and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+<div id="motion-3-10-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 10...
 
@@ -2791,6 +2799,8 @@ Unanimous (5-0)
 
 ### 3.10. 1067, 1069, and 1071 Wellington Road (OZ-9263 / Z-9264)
 
+<div id="motion-3-10-3" class="motion-anchor"></div>
+
 > That M. Campbell's delegation BE EXTENDED beyond five minutes.
 
 **✅ Motion Passed (5 to 0)**
@@ -2798,6 +2808,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.11. 574 Southdale Road East (Z-9481)
+
+<div id="motion-3-11-3" class="motion-anchor"></div>
 
 > Motion to consider Item 3.11 to after Item 3.5.
 

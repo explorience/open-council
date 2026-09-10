@@ -3233,6 +3233,8 @@ Motion carries. Thank you, everyone. We are adjourned.
 
 ### 2.1. Asset Management Plans for Agencies, Boards and Commissions
 
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
 > That the motion BE AMENDED to include the following: it being noted that the London & Middlesex Community Housing Asset Management Plan dated November 2020 will be revised and be brought forward to Municipal Council for review and approval in 2025.
 
 **✅ Motion Passed (10 to 5)**
@@ -3248,6 +3250,8 @@ Motion carries. Thank you, everyone. We are adjourned.
 
 ### 2.1. Asset Management Plans for Agencies, Boards and Commissions
 
+<div id="motion-2-1-2" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -3255,6 +3259,8 @@ Motion carries. Thank you, everyone. We are adjourned.
 Unanimous (15-0)
 
 ### 2.2. Master Accommodation Plan - Redevelopment of City Hall Campus
+
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > That the Master Accommodation Plan - Redevelopment of City Hall Campus BE REFERRED to the next Strategic Priorities and Policy Committee on July 18, 2024 to allow Municipal Council to engage with the public and allow for input. it being noted that the Strategic Priorities and Policy Committee rec...
 
@@ -3271,6 +3277,8 @@ Unanimous (15-0)
 
 ### 2.2. Master Accommodation Plan - Redevelopment of City Hall Campus
 
+<div id="motion-2-2-2" class="motion-anchor"></div>
+
 > That the motion BE AMENDED to include a new part c) to read as follows: c)    the Civic Administration BE DIRECTED to consult with the relevant Agencies, Boards and Commissions with respect to participating in the range of uses in the redevelopment of the City Hall Campus.
 
 **✅ Motion Passed (15 to 0)**
@@ -3278,6 +3286,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 2.2. Master Accommodation Plan - Redevelopment of City Hall Campus
+
+<div id="motion-2-2-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Finance Supports with the concurrence of the City Manager, the following actions be taken with respect to the Master Accommodation Plan: a)    the report dated June 18, 2024, tit...
 
@@ -3294,6 +3304,8 @@ Unanimous (15-0)
 
 ### 3.1. Not to be heard before 1:05 PM - London & Middlesex Community Housing - 2023 Annual General Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-1-1" class="motion-anchor"></div>
+
 > That pursuant to section 36.3 of the Council Procedure By-law, P. Squire, Board Chair and P. Chisholm, CEO, London & Middlesex Community Housing BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
 
 **✅ Motion Passed (15 to 0)**
@@ -3302,6 +3314,8 @@ Unanimous (15-0)
 
 ### 4.1. London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
 
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
 > That pursuant to section 36.3 of the Council Procedure By-law, C. McDonald, Director of Service, London Cares and G. Nash, Director, Complex Urban Health, London InterCommunity Health Centre BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
 
 **✅ Motion Passed (15 to 0)**
@@ -3309,6 +3323,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
+
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > That part a) BE FURTHER AMENDED as follows: -    On or within 150 metres of an elementary school or children daycare centre;   -    Within 100 metres of any private residential property line with a habitable dwelling as per the Building Code;
 
@@ -3325,6 +3341,8 @@ Unanimous (15-0)
 
 ### 4.1. London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
 
+<div id="motion-4-1-5" class="motion-anchor"></div>
+
 > That, the following actions be taken with respect to the London’s Health & Homelessness Whole of Community System Response Proposed Community Encampment Response Plan report: a)    “The Saving Lives, Alleviating Suffering, & Building a Healthy, Strong, & Safe Community for All” - London’s Health ...
 
 **❌ Motion Failed (4 to 11)**
@@ -3339,6 +3357,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
+
+<div id="motion-4-1-6" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the London’s Health & Homelessness Whole of Community System Response Proposed Community Encampment Response Plan report: a)    “The Saving Lives, Alleviating Suffering, & Building a Healthy, Strong, & Safe Community for All” - London’s Health ...
 
@@ -3355,6 +3375,8 @@ Unanimous (15-0)
 
 ### 4.1. London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
 
+<div id="motion-4-1-7" class="motion-anchor"></div>
+
 > That part a) BE FURTHER AMENDED to read as follows: That, “The Saving Lives, Alleviating Suffering, & Building a Healthy, Strong, & Safe Community for All” - London’s Health & Homelessness Response: Community Encampment Response Plan as attached as Schedule 1 BE ENDORSED, with the following amend...
 
 **✅ Motion Passed (9 to 6) 🔥**
@@ -3369,6 +3391,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
+
+<div id="motion-4-1-8" class="motion-anchor"></div>
 
 > That part a) BE APPROVED and reads as follows: -    On or within 150 metres of an elementary school or children daycare centre;
 
@@ -3385,6 +3409,8 @@ Unanimous (15-0)
 
 ### 4.1. London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
 
+<div id="motion-4-1-9" class="motion-anchor"></div>
+
 > That part a) BE APPROVED and reads as follows: That, “The Saving Lives, Alleviating Suffering, & Building a Healthy, Strong, & Safe Community for All” - London’s Health & Homelessness Response: Community Encampment Response Plan as attached as Schedule 1 BE ENDORSED, with the following amended gu...
 
 **✅ Motion Passed (9 to 6) 🔥**
@@ -3399,6 +3425,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
+
+<div id="motion-4-1-10" class="motion-anchor"></div>
 
 > That part a), second, third and fourth bullets, as amended, BE APPROVED and reads as follows: -    On or within 100 metres of a playground, pool, waterpark, or any spray pad;   -    Within 100 metres of any private residential property line with a habitable dwelling as per the Building Code;   - ...
 
@@ -3415,6 +3443,8 @@ Unanimous (15-0)
 
 ### 4.1. London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
 
+<div id="motion-4-1-11" class="motion-anchor"></div>
+
 > That part a), first bullet, as amended, BE APPROVED and reads as follows: a)   That, “The Saving Lives, Alleviating Suffering, & Building a Healthy, Strong, & Safe Community for All” - London’s Health & Homelessness Response: Community Encampment Response Plan as attached as Schedule 1 BE ENDORSE...
 
 **✅ Motion Passed (11 to 4)**
@@ -3429,6 +3459,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
+
+<div id="motion-4-1-13" class="motion-anchor"></div>
 
 > That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -3445,6 +3477,8 @@ Unanimous (15-0)
 
 ### 4.1. London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
 
+<div id="motion-4-1-14" class="motion-anchor"></div>
+
 > That the Strategic Priorities and Policy Committee recess at this time, for 15 minutes.
 
 **✅ Motion Passed (13 to 2)**
@@ -3459,6 +3493,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.2. Basic Needs Response Plan
+
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include a new part g) to read as follows: g)    that Civic Administration BE DIRECTED to report back to a future meeting of the Strategic Priorities and Policy Committee on the existing public washroom facilities across the city, their hours of operation, their locat...
 
@@ -3475,6 +3511,8 @@ Unanimous (15-0)
 
 ### 4.2. Basic Needs Response Plan
 
+<div id="motion-4-2-4" class="motion-anchor"></div>
+
 > That the referral BE AMENDED to include a new part to read as follows: that Civic Administration BE DIRECTED to continue the depot meal program until the time of which the Basic Needs Response Plan is approved by Council and to find a source of funding including any unspent previously approved so...
 
 **✅ Motion Passed (14 to 1)**
@@ -3489,6 +3527,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.2. Basic Needs Response Plan
+
+<div id="motion-4-2-5" class="motion-anchor"></div>
 
 > That the referral, as amended, BE APPROVED.
 
@@ -3505,6 +3545,8 @@ Unanimous (15-0)
 
 ### 4.2. Basic Needs Response Plan
 
+<div id="motion-4-2-6" class="motion-anchor"></div>
+
 > That the balance of the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -3512,6 +3554,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.3. SS-2024-205 Single Source: Supportive Housing Model at 46 Elmwood Place
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to a SS-2024-205 Single Source: Supportive Housing Model at 46 Elmwood Place: a)    pursuant to the pre-qualification of Indwell Community Homes under RFPQ-2023-810 –...
 
@@ -3521,6 +3565,8 @@ Unanimous (15-0)
 
 ### 4.4. Consideration of Appointment to RBC Place London Board of Directors (Requires 1 Council Member)
 
+<div id="motion-4-4-0" class="motion-anchor"></div>
+
 > That Councillor J. Pribil BE APPOINTED to RBC Place London Board of Directors for the term ending November 14, 2026.
 
 **✅ Motion Passed (15 to 0)**
@@ -3528,6 +3574,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 5.1. (ADDED) Appointment of Consultant for RFP 2024-113 Community Improvement Plan to Encourage Residential Development Near Transit
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the appointment of a consultant for a Community Improvement Plan to Encourage Residential Development Near Transit: a)    N. Barry Lyon Consulting, BE APPOINTE...
 

@@ -180,6 +180,8 @@ The meeting adjourned at 12:51 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.1 and 2.2 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -187,6 +189,8 @@ The meeting adjourned at 12:51 PM.
 Unanimous (5-0)
 
 ### 4.1. Federation of Canadian Municipalities - Standing Committees
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That Councillor V. Ridley BE REIMBURSED for her associated expenses, outside of her annual expense allocation, subject to the annual budget approval process, and in accordance with Council's Travel & Business Expenses Policy for her attendance as an appointed Federation of Canadian Municipalities...
 

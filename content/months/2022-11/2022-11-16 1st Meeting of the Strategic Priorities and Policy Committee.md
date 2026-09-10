@@ -3543,6 +3543,8 @@ That motion's carried. Thank you, we're adjourned.
 
 ### 4.1. Consideration of Appointment to the Civic Works Committee
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Civic Works Committee for the term ending November 14, 2023:    Councillor H. McAlister  Councillor P. Van Meerbergen   Councillor S. Trosow  Councillor P. Cuddy  Councillor C. Rahman
 
 **✅ Motion Passed (15 to 0)**
@@ -3551,6 +3553,8 @@ Unanimous (15-0)
 
 ### 4.1. Consideration of Appointment to the Civic Works Committee
 
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
 > That Councillor C. Rahman BE APPOINTED Chair of the Civic Works Committee.
 
 **✅ Motion Passed (15 to 0)**
@@ -3558,6 +3562,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.2. Consideration of Appointment to the Community and Protective Services Committee
+
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Appointments to the Community and Protective Services Committee (Requires 5 Council Members)
 
@@ -3570,6 +3576,8 @@ Unanimous (15-0)
 
 ### 4.2. Consideration of Appointment to the Community and Protective Services Committee
 
+<div id="motion-4-2-2" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Community and Protective Services Committee for the term ending November 14, 2023:    Councillor E. Peloza  Councillor D. Ferreira  Councillor J. Pribil  Councillor S. Stevenson  Councillor C. Rahman
 
 **✅ Motion Passed (15 to 0)**
@@ -3577,6 +3585,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.2. Consideration of Appointment to the Community and Protective Services Committee
+
+<div id="motion-4-2-3" class="motion-anchor"></div>
 
 > That Councillor E. Peloza BE APPOINTED Chair of the Community and Protective Services Committee.
 
@@ -3586,6 +3596,8 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the Corporate Services Committee
 
+<div id="motion-4-3-1" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Corporate Services Committee for the term ending November 30, 2023:    Councillor Ferreira  Councillor Lewis  Councillor Trosow  Councillor Stevenson  Councillor McAlister
 
 **✅ Motion Passed (15 to 0)**
@@ -3594,6 +3606,8 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the Corporate Services Committee
 
+<div id="motion-4-3-3" class="motion-anchor"></div>
+
 > That Councillor S. Lewis BE APPOINTED Chair of the Corporate Services Committee
 
 **✅ Motion Passed (15 to 0)**
@@ -3601,6 +3615,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.4. Consideration of Appointment to the Planning and Environment Committee
+
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > Appointments to the Planning and Environment Committee (Requires 5 Council Members)
 
@@ -3613,6 +3629,8 @@ Unanimous (15-0)
 
 ### 4.4. Consideration of Appointment to the Planning and Environment Committee
 
+<div id="motion-4-4-2" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Planning and Environment Committee for the term ending November 14, 2023: Councillor S. Lehman   Councillor S. Lewis  Councillor S. Hillier  Councillor A. Hopkins  Councillor S. Franke
 
 **✅ Motion Passed (15 to 0)**
@@ -3620,6 +3638,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.4. Consideration of Appointment to the Planning and Environment Committee
+
+<div id="motion-4-4-3" class="motion-anchor"></div>
 
 > That Councillor S. Lehman BE APPOINTED Chair of the Planning and Environment Committee.
 
@@ -3629,6 +3649,8 @@ Unanimous (15-0)
 
 ### 4.5. Consideration of Appointment to the Audit Committee
 
+<div id="motion-4-5-1" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Audit Committee for the term ending November 14, 2026:    Councillor S. Lewis  Councillor S. Stevenson  Councillor J. Pribil  Councillor P. Cuddy
 
 **✅ Motion Passed (15 to 0)**
@@ -3636,6 +3658,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.5. Consideration of Appointment to the Audit Committee
+
+<div id="motion-4-5-2" class="motion-anchor"></div>
 
 > That Councillor S. Lewis BE APPOINTED Chair of the Audit Committee.
 
@@ -3645,6 +3669,8 @@ Unanimous (15-0)
 
 ### 4.6. Consideration of Appointment to the Covent Garden Market
 
+<div id="motion-4-6-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Covent Garden Market Board for the term ending November 14, 2026:    Councillor S. Hillier  Councillor D. Ferreira
 
 **✅ Motion Passed (15 to 0)**
@@ -3652,6 +3678,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.7. Consideration of Appointment to the County/City Liaison Committee
+
+<div id="motion-4-7-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the County/City Liaison Committee for the term ending November 14, 2026:    Mayor J. Morgan  Councillor J. Pribil  Councillor H. McAlister  Councillor D. Ferreira (Alternate)
 
@@ -3661,6 +3689,8 @@ Unanimous (15-0)
 
 ### 4.8. Consideration of Appointment to the Dearness Home Committee of Management
 
+<div id="motion-4-8-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Dearness Home Committee of Management for the term ending November 14, 2026:    Councillor S. Hillier  Councillor E. Peloza  Councillor D. Ferreira  Councillor S. Lehman  Councillor H. McAlister    it being noted that the Fixing Long-term Care Act (FLTCA) st...
 
 **✅ Motion Passed (15 to 0)**
@@ -3669,6 +3699,8 @@ Unanimous (15-0)
 
 ### 4.9. Consideration of Appointment to the Governance Working Group
 
+<div id="motion-4-9-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Governance Working Group for the term ending November 14, 2026:    Councillor S. Lewis  Councillor S. Trosow  Councillor A. Hopkins  Councillor D. Ferreira  Councillor S. Stevenson  Councillor C. Rahman  Councillor H. McAlister  Councillor S. Hillier  Counci...
 
 **✅ Motion Passed (15 to 0)**
@@ -3676,6 +3708,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.10. Consideration of Appointment to the London & Middlesex Community Housing
+
+<div id="motion-4-10-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the London & Middlesex Community Housing for the term ending November 14, 2026:    Councillor S. Lewis  Councillor H. McAlister
 
@@ -3692,6 +3726,8 @@ Unanimous (15-0)
 
 ### 4.10. Consideration of Appointment to the London & Middlesex Community Housing
 
+<div id="motion-4-10-1" class="motion-anchor"></div>
+
 > Appointment to the London & Middlesex Community Housing (Requires 2 Council Members)
 
 **❌ Majority Winner: No majority 🔥**
@@ -3703,6 +3739,8 @@ Unanimous (15-0)
 
 ### 4.11. Consideration of Appointment to the London Hydro Inc.
 
+<div id="motion-4-11-0" class="motion-anchor"></div>
+
 > That Councillor C. Rahman BE APPOINTED to London Hydro Inc. for the term ending November 14, 2026.
 
 **✅ Motion Passed (15 to 0)**
@@ -3710,6 +3748,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.11. Consideration of Appointment to the London Hydro Inc.
+
+<div id="motion-4-11-1" class="motion-anchor"></div>
 
 > Appointment to London Hydro Inc. (Requires 1 Council Member)
 
@@ -3721,6 +3761,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.12. Consideration of Appointment to the London Police Services Board
+
+<div id="motion-4-12-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the London Police Services Board for the term ending November 14, 2026:    Mayor J. Morgan  Councillor S. Lehman  Councillor S. Stevenson
 
@@ -3737,6 +3779,8 @@ Unanimous (15-0)
 
 ### 4.12. Consideration of Appointment to the London Police Services Board
 
+<div id="motion-4-12-1" class="motion-anchor"></div>
+
 > Appointment to the London Police Services Board (Requires 2 Council Members)
 
 **❌ Majority Winner: Councillor Stevenson; Councillor Lehman 🔥**
@@ -3748,6 +3792,8 @@ Unanimous (15-0)
 
 ### 4.13. Consideration of Appointment to the London Public Library Board
 
+<div id="motion-4-13-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2026:    Councillor S. Trosow  Councillor P. Cuddy
 
 **✅ Motion Passed (15 to 0)**
@@ -3755,6 +3801,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.14. Consideration of Appointment to the London Transit Commission
+
+<div id="motion-4-14-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the London Transit Commission for the term ending November 14, 2026:    Councillor J. Pribil  Councillor D. Ferreira
 
@@ -3764,6 +3812,8 @@ Unanimous (15-0)
 
 ### 4.15. Consideration of Appointment to the Middlesex-London Emergency Medical Services Authority Board
 
+<div id="motion-4-15-0" class="motion-anchor"></div>
+
 > That Councillor S. Stevenson BE APPOINTED to the Middlesex-London Emergency Medical Services Authority Board for the term ending November 14, 2026.
 
 **✅ Motion Passed (15 to 0)**
@@ -3771,6 +3821,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.16. Consideration of Appointment to the Middlesex-London Food Policy Council
+
+<div id="motion-4-16-0" class="motion-anchor"></div>
 
 > That Councillor H. McAlister BE APPOINTED to the Middlesex-London Food Policy Council for the term ending November 14, 2024.
 
@@ -3780,6 +3832,8 @@ Unanimous (15-0)
 
 ### 4.17. Consideration of Appointment to the Middlesex-London Health Unit
 
+<div id="motion-4-17-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Middlesex-London Health Unit Board for the term ending November 14, 2026:    Councillor P. Cuddy   Councillor S. Franke
 
 **✅ Motion Passed (15 to 0)**
@@ -3787,6 +3841,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.18. Consideration of Appointment to the Museum London
+
+<div id="motion-4-18-0" class="motion-anchor"></div>
 
 > That the appointment to the Museum London Board BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee.
 
@@ -3796,6 +3852,8 @@ Unanimous (15-0)
 
 ### 4.19. Consideration of Appointment to the RBC Place London
 
+<div id="motion-4-19-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to RBC Place London Board for the term ending November 14, 2026:    Mayor J. Morgan  Councillor D. Ferreira  Councillor S. Stevenson
 
 **✅ Motion Passed (15 to 0)**
@@ -3803,6 +3861,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.19. Consideration of Appointment to the RBC Place London
+
+<div id="motion-4-19-1" class="motion-anchor"></div>
 
 > Appointment to RBC Place London (Requires 2 Council Members)
 
@@ -3815,6 +3875,8 @@ Unanimous (15-0)
 
 ### 4.20. Consideration of Appointment to the Tourism London
 
+<div id="motion-4-20-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to Tourism London Board for the term ending November 14, 2026:    Councillor S. Lewis   Councillor E. Peloza
 
 **✅ Motion Passed (15 to 0)**
@@ -3822,6 +3884,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.20. Consideration of Appointment to the Tourism London
+
+<div id="motion-4-20-1" class="motion-anchor"></div>
 
 > Appointment to Tourism London (Requires 2 Council Members)
 
@@ -3834,6 +3898,8 @@ Unanimous (15-0)
 
 ### 4.21. Consideration of Appointment to the University of Western Ontario Board of Governors
 
+<div id="motion-4-21-0" class="motion-anchor"></div>
+
 > That Mayor J. Morgan BE APPOINTED to the University of Western Ontario Board of Governors for the term commencing December 1, 2022 to November 14, 2026.
 
 **✅ Motion Passed (13 to 0)**
@@ -3841,6 +3907,8 @@ Unanimous (15-0)
 Unanimous (13-0)
 
 ### 4.22. Consideration of Appointment to the Western Fair Board of Governors
+
+<div id="motion-4-22-0" class="motion-anchor"></div>
 
 > That Councillor S. Stevenson BE APPOINTED to the Western Fair Board of Governors for the term ending November 14, 2026.
 
@@ -3850,6 +3918,8 @@ Unanimous (15-0)
 
 ### 4.23. Consideration of Appointment to the Western Fair Programming Council
 
+<div id="motion-4-23-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Western Fair Programming Council for the term ending November 14, 2026:    Councillor E. Peloza  Councillor S. Franke
 
 **✅ Motion Passed (15 to 0)**
@@ -3857,6 +3927,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.24. Consideration of Appointment to the Argyle Business Improvement Area
+
+<div id="motion-4-24-0" class="motion-anchor"></div>
 
 > That Councillor S. Lewis BE APPOINTED to the Argyle Business Improvement Area for the term ending November 14, 2026.
 
@@ -3866,6 +3938,8 @@ Unanimous (15-0)
 
 ### 4.25. Consideration of Appointment to the Hamilton Road Business Improvement Area
 
+<div id="motion-4-25-0" class="motion-anchor"></div>
+
 > That Councillor H. McAlister BE APPOINTED to the Hamilton Road Business Improvement Area for the term ending November 14, 2026.
 
 **✅ Motion Passed (15 to 0)**
@@ -3873,6 +3947,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.26. Consideration of Appointment to the Hyde Park BIA
+
+<div id="motion-4-26-0" class="motion-anchor"></div>
 
 > That Councillor C. Rahman BE APPOINTED to the Hyde Park BIA for the term ending November 14, 2026.
 
@@ -3882,6 +3958,8 @@ Unanimous (15-0)
 
 ### 4.27. Consideration of Appointment to the London Downtown Business Association Board of Management
 
+<div id="motion-4-27-0" class="motion-anchor"></div>
+
 > That Councillor D. Ferreira BE APPOINTED to the London Downtown Business Association Board of Management for the term ending November 14, 2026.
 
 **✅ Motion Passed (15 to 0)**
@@ -3889,6 +3967,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.28. Consideration of Appointment to the Old East Village Business Improvement Area Board of Management
+
+<div id="motion-4-28-0" class="motion-anchor"></div>
 
 > That Councillor S. Stevenson BE APPOINTED to the Old East Village Business Improvement Area Board of Management for the term ending November 14, 2026.
 
@@ -3898,6 +3978,8 @@ Unanimous (15-0)
 
 ### 4.29. Consideration of Appointment to the Elgin Area Primary Water Supply System Joint Board of Management
 
+<div id="motion-4-29-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Elgin Area Primary Water Supply System Joint Board of Management for the term ending November 14, 2026:    Councillor E. Peloza  Councillor S. Stevenson  Councillor S. Hillier  Councillor P. Van Meerbergen (Alternate)  Councillor H. McAlister (Alternate)
 
 **✅ Motion Passed (15 to 0)**
@@ -3905,6 +3987,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.30. Consideration of Appointment to the Lake Huron Primary Water Supply System Joint Board of Management
+
+<div id="motion-4-30-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Lake Huron Primary Water Supply System Joint Board of Management for the term ending November 14, 2026:    Councillor S. Hillier  Councillor P. Van Meerbergen  Councillor S. Lehman  Councillor S. Franke  Councillor A. Hopkins (Alternate)  Councillor H. McAli...
 
@@ -3914,6 +3998,8 @@ Unanimous (15-0)
 
 ### 4.31. Consideration of Appointment to the Kettle Creek Conservation Authority
 
+<div id="motion-4-31-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to appointments to the Kettle Creek Conservation Authority and the Lower Thames Valley Conservation Authority: a)    pursuant to subsection 14 (1.2) of the Conservation Authorities Act, the Civic Administration BE DIRECTED to make application to th...
 
 **✅ Motion Passed (15 to 0)**
@@ -3922,6 +4008,8 @@ Unanimous (15-0)
 
 ### 4.33. Consideration of Appointment to the Upper Thames River Conservation Authority
 
+<div id="motion-4-33-1" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Upper Thames River Conservation Authority for the term ending November 14, 2026:    Councillor Hopkins  Councillor Franke  Councillor Cuddy
 
 **✅ Motion Passed (15 to 0)**
@@ -3929,6 +4017,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.33. Consideration of Appointment to the Upper Thames River Conservation Authority
+
+<div id="motion-4-33-2" class="motion-anchor"></div>
 
 > Appointment to the Upper Thames River Conservation Authority (Requires 4 Council Members)
 
@@ -3941,6 +4031,8 @@ Unanimous (15-0)
 
 ### 4.33. Consideration of Appointment to the Upper Thames River Conservation Authority
 
+<div id="motion-4-33-3" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED to take the following actions with respect to appointments to the Upper Thames River Conservation Authority (UTRCA): a)        advertise in the usual manner, including the City's social media channels, for applications from members of the public for one a...
 
 **✅ Motion Passed (15 to 0)**
@@ -3949,6 +4041,8 @@ Unanimous (15-0)
 
 ### 4.35. Consideration of Appointment to the Audit Committee (Requires 1 Member with a designation of Chartered Accountant)
 
+<div id="motion-4-35-0" class="motion-anchor"></div>
+
 > That Ibad Cheema BE APPOINTED to the Audit Committee, for the term ending November 14, 2026.
 
 **✅ Motion Passed (15 to 0)**
@@ -3956,6 +4050,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.36. Consideration of Appointment to the Committee of Adjustment (Requires 5 Members)
+
+<div id="motion-4-36-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026:    Mohamed Mohamed El Hadary      Cheryl Miller          Steve Polhill      Daniela Schmidt         John Fyfe-Millar
 
@@ -3972,6 +4068,8 @@ Unanimous (15-0)
 
 ### 4.36. Consideration of Appointment to the Committee of Adjustment (Requires 5 Members)
 
+<div id="motion-4-36-1" class="motion-anchor"></div>
+
 > Appointment to the Committee of Adjustment (Requires 5 Members)
 
 **❌ Majority Winner: John Fyfe Millar; Daniela Schmidt; Steve Polhill; Mohamed Mohamed El Hadary; Cheryl Miller 🔥**
@@ -3983,6 +4081,8 @@ Unanimous (15-0)
 
 ### 4.37. Consideration of Appointment to the Committee of Revision/Court of Revision (Requires 3 Members)
 
+<div id="motion-4-37-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Committee of Revision/Court of Revision for the term ending November 14, 2026:    Tariq Khan  Avdija Ramic  Donald Millar
 
 **✅ Motion Passed (15 to 0)**
@@ -3990,6 +4090,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.38. Consideration of Appointment to the Covent Garden Market Corporation Board of Directors (Requires 7 Members)
+
+<div id="motion-4-38-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Covent Garden Market Corporation Board of Directors for the term ending November 14, 2026:    Tyrrell de Langley         Claudio De Vincenzo  Justin Dias        Zeba Hashmi         Mike Marsman          Donna Szpakowski  John Fyfe-Millar
 
@@ -4006,6 +4108,8 @@ Unanimous (15-0)
 
 ### 4.38. Consideration of Appointment to the Covent Garden Market Corporation Board of Directors (Requires 7 Members)
 
+<div id="motion-4-38-1" class="motion-anchor"></div>
+
 > Appointment to the Covent Garden Market (Requires 7 Members)
 
 **❌ Majority Winner: Mike Marsman; Claudio De Vincenzo; Justin Dias; Donna Szpakowski; John Fyfe Millar; Zeba Hashmi; Tyrrel de Langley 🔥**
@@ -4017,6 +4121,8 @@ Unanimous (15-0)
 
 ### 4.39. Consideration of Appointment to Eldon House (Requires 9 Members)
 
+<div id="motion-4-39-1" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to Eldon House for the term ending November 14, 2026:    Mike Donachie         Doug Fleming          Rebecca Griesmayer         Megan Halliday         Louanne Henderson          Joseph O'Neil  Donald Millar  Devinder Luthra it being noted that the Strategic Priorit...
 
 **✅ Motion Passed (15 to 0)**
@@ -4025,6 +4131,8 @@ Unanimous (15-0)
 
 ### 4.39. Consideration of Appointment to Eldon House (Requires 9 Members)
 
+<div id="motion-4-39-2" class="motion-anchor"></div>
+
 > That the City Clerk BE DIRECTED to contact Bruce Duncan and invite Mr. Duncan to submit an application for consideration of appointment to the Eldon House Board of Directors; it being noted that Mr. Duncan had contacted the City Clerks office after the submission deadline for the SPPC agenda.
 
 **✅ Motion Passed (15 to 0)**
@@ -4032,6 +4140,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.40. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
+
+<div id="motion-4-40-0" class="motion-anchor"></div>
 
 > That Susan Toth BE APPOINTED to the London Police Services Board for the term ending November 14, 2026.
 
@@ -4048,6 +4158,8 @@ Unanimous (15-0)
 
 ### 4.40. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
 
+<div id="motion-4-40-1" class="motion-anchor"></div>
+
 > Appointment to the London Police Services Board (Requires 1 Member)
 
 **❌ Majority Winner: Susan Toth 🔥**
@@ -4058,6 +4170,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
+
+<div id="motion-4-41-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2026: Brian Gibson       Zeba Hashmi          Heather Jack  Beth Allison     Scott Andrew Collyer        Jeremy McCall  Sharon Desserud it being noted that the Strategic Priorities and Policy Commi...
 
@@ -4074,6 +4188,8 @@ Unanimous (15-0)
 
 ### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
 
+<div id="motion-4-41-1" class="motion-anchor"></div>
+
 > Appointment to the London Public Library (Requires 7 Members)
 
 **❌ Majority Winner: Brian Gibson; Jeremy McCall; Ryan O'Hagan; Scott Andrew Collyer; Ken Baldwin; Zak Rahim; Zeba Hashmi 🔥**
@@ -4084,6 +4200,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
+
+<div id="motion-4-41-3" class="motion-anchor"></div>
 
 > That the candidates to be appointed to the London Public Library Board BE AMENDED to remove Ken Baldwin and add Heather Jack.
 
@@ -4100,6 +4218,8 @@ Unanimous (15-0)
 
 ### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
 
+<div id="motion-4-41-4" class="motion-anchor"></div>
+
 > As Amended: That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2026: Brian Gibson       Zeba Hashmi                  Scott Andrew Collyer        Jeremy McCall Ryan O'Hagan Zak Rahim Heather Jack    it being noted that the Strategic Priorities and P...
 
 **❌ Motion Failed (7 to 8) 🔥**
@@ -4114,6 +4234,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
+
+<div id="motion-4-41-5" class="motion-anchor"></div>
 
 > That, notwithstanding the Council Policy, an additional selection process BE UNDERTAKEN whereby each candidate from the previous selection process who received five votes or more, be included on a new selection ballot for consideration of appointment to the London Public Library Board.
 
@@ -4130,16 +4252,7 @@ Unanimous (15-0)
 
 ### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
 
-> Selection #2 - London Public Library Board
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-</details>
-
-### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
+<div id="motion-4-41-6" class="motion-anchor"></div>
 
 > Selection #2 - London Public Library Board
 
@@ -4151,6 +4264,21 @@ Unanimous (15-0)
 </details>
 
 ### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
+
+<div id="motion-4-41-7" class="motion-anchor"></div>
+
+> Selection #2 - London Public Library Board
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.41. Consideration of Appointment to the London Public Library (Requires 7 Members)
+
+<div id="motion-4-41-8" class="motion-anchor"></div>
 
 > Selection #2 - London Public Library Board
 
@@ -4163,6 +4291,8 @@ Unanimous (15-0)
 
 ### 4.42. Consideration of Appointment to the London Transit Commission (Requires 3 Members)
 
+<div id="motion-4-42-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the London Transit Commission for the term ending November 14, 2026: Sheryl Rooth  Scott Andrew Collyer Stephanie Marentette
 
 **✅ Motion Passed (15 to 0)**
@@ -4170,6 +4300,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.42. Consideration of Appointment to the London Transit Commission (Requires 3 Members)
+
+<div id="motion-4-42-1" class="motion-anchor"></div>
 
 > Appointment to London Transit Commission (Requires 3 Members)
 
@@ -4182,6 +4314,8 @@ Unanimous (15-0)
 
 ### 4.43. Consideration of Appointment to the Middlesex-London Health Unit Board (Requires 1 Member)
 
+<div id="motion-4-43-0" class="motion-anchor"></div>
+
 > That Matthew Reid BE APPOINTED to the Middlesex-London Health Unit Board for the term ending November 14, 2026; it being noted that the Strategic Priorities and Policy Committee received a communication dated November 14, 2022 from K. Elliot, Vice Chair and E. Williams, Secretary, Middlesex-Londo...
 
 **✅ Motion Passed (15 to 0)**
@@ -4189,6 +4323,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.43. Consideration of Appointment to the Middlesex-London Health Unit Board (Requires 1 Member)
+
+<div id="motion-4-43-1" class="motion-anchor"></div>
 
 > Appointment to the Middlesex-London Health Unit Board (Requires 1 Member)
 
@@ -4201,6 +4337,8 @@ Unanimous (15-0)
 
 ### 4.44. Consideration of Appointment to the Plumbers' and Drain Layers' Examining Board (Requires 3 Members)
 
+<div id="motion-4-44-0" class="motion-anchor"></div>
+
 > That Scott Atchison BE APPOINTED to the Plumbers' and Drain Layers' Examining Board for the term ending November 14, 2026.
 
 **✅ Motion Passed (15 to 0)**
@@ -4208,6 +4346,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.45. RBC Place London Board Appointment Recommendations
+
+<div id="motion-4-45-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the appointments to the RBC Place London Board of Directors:    a)  Jenny Diplock and David Smith - Class 1 - term ending November 14, 2023;    b)  Jeffrey Floyd - Class 2 - term ending November 14, 2024; and,    c) Susan Judd, Garrett Vanderwys...
 
@@ -4223,6 +4363,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.46. London & Middlesex Community Housing Tenant Resignation
+
+<div id="motion-4-46-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to bring forward applications to be considered to fill the tenant vacancy at a future meeting of the Strategic Priorities and Policy Committee; it being noted that the Strategic Priorities and Policy Committee received a communication dated October 20, 2022 from P....
 

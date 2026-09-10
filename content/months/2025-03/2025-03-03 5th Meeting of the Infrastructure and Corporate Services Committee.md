@@ -321,6 +321,8 @@ Motion carries. Thanks everyone, have a great day.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Consent Item 2.2 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -329,6 +331,8 @@ Unanimous (5-0)
 
 ### 2.1. 2024 Statement of Remuneration and Expenses for Elected and Appointed Officials
 
+<div id="motion-2-1-2" class="motion-anchor"></div>
+
 > That the motion be amended to include a new part a) i) to read as follows: i) Civic Administration BE DIRECTED to change the format of all future reports to show remuneration, benefits and expense amounts separately (without totaling these distinct items) and that Civic Administration report bene...
 
 **✅ Motion Passed (5 to 0)**
@@ -336,6 +340,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.1. 2024 Statement of Remuneration and Expenses for Elected and Appointed Officials
+
+<div id="motion-2-1-3" class="motion-anchor"></div>
 
 > That the motion, as amended, BE APPROVED
 

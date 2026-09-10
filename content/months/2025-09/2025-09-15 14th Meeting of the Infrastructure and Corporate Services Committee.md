@@ -363,6 +363,8 @@ Councillor Hopkins yeah i appreciate this feedback uh so we're definitely not th
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Consent Item 2.4 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -370,6 +372,8 @@ Councillor Hopkins yeah i appreciate this feedback uh so we're definitely not th
 Unanimous (6-0)
 
 ### 2.1. Design Contract Price Increase: Wellington Gateway Transit and Municipal Infrastructure Improvements RFP20-29
+
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the Wellington Gateway Transit and Municipal Infrastructure Improvements project: a)    the contract with AECOM Canada ULC for detailed design for RFP20-29 – Consult...
 

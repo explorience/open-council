@@ -3568,6 +3568,8 @@ Passed
   Environmental & Engineering Services and City Engineer - Expropriation of
   Lands - Western Road Widening and Improvements Project - TS1489-1
 
+<div id="motion-1-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, on the   advice of the Manager of Realty Services, with the review and concurrence of   the Director, Roads and Transportation, with respect to the expropriation of   lands for the a ...
 
 **✅ Motion Passed**
@@ -3577,6 +3579,8 @@ Unanimous (11-0)
 ### 1#6. Municipal Council
   resolution from its session held on November 8, 2016 with respect to the
   Network of Canada 150 Community Leaders (6/26/CSC) (AS AMENDED)
+
+<div id="motion-1-6-0" class="motion-anchor"></div>
 
 > Approve that Floranda Ahmed Agroam BE   APPOINTED to the Network of Canada 150 Community Leaders, as well as Lia   Karidas, from the Civic Administration and Councillor J. Morgan from the   Municipal Council.
 
@@ -3588,6 +3592,8 @@ Unanimous (11-0)
   at 1420 Westdel Bourne, 1826 and 1854 Oxford Street West (39T-16502/Z-8621)
   (Relates to Bill No. 429)
 
+<div id="motion-10-2-0" class="motion-anchor"></div>
+
 > Approve that part b) of clause 10 be   amended to read as follows:   “b)       the   Approval Authority BE ADVISED that Municipal Council supports issuing draft   approval of the proposed plan of subdivision as submitted by Sifton   Properties Limited,  prepared by Stantec Consulting Ltd. and cer...
 
 **✅ Motion Passed**
@@ -3597,6 +3603,8 @@ Unanimous (11-0)
 ### 10#2. Properties located
   at 1420 Westdel Bourne, 1826 and 1854 Oxford Street West (39T-16502/Z-8621)
   (Relates to Bill No. 429)
+
+<div id="motion-10-2-1" class="motion-anchor"></div>
 
 > Approve that clause 8 be amended so that the   last paragraph of the clause reads as follows:   “it being noted that the Municipal Council   approves these amended applications to change the setbacks from eight metres   to ten metres  as suggested by the applicant after significant discussion by ...
 
@@ -3608,6 +3616,8 @@ Unanimous (11-0)
   at 1420 Westdel Bourne, 1826 and 1854 Oxford Street West (39T-16502/Z-8621)
   (Relates to Bill No. 429)
 
+<div id="motion-10-2-2" class="motion-anchor"></div>
+
 > Approve clauses 8 and 10, as amended.
 
 **✅ Motion Passed**
@@ -3616,6 +3626,8 @@ Unanimous (11-0)
 
 ### 10#5. London Convention
   Centre Corporation Board Appointments
+
+<div id="motion-10-5-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to appointments to the London Convention Centre (LCC) Board of   Directors:   a)        N.   Fisher, T. Soares and C. Schlachta BE APPOINTED to the LCC Board of Directors   for a 2-year term starting December 1, 2016 and ending November 30, 2018;...
 
@@ -3628,6 +3640,8 @@ Unanimous (11-0)
   at 1349, 1351, 1357 and 1361 Commissioners Road West (Z-8635) (Relates to
   Bill No. 430)
 
+<div id="motion-11-2-0" class="motion-anchor"></div>
+
 > Approve that clause 11 of the 20th   Report of the Planning and Environment Committee be amended by adding the   following new part d):   “d)       the   Civic Administration BE DIRECTED to consult with the Upper Thames River   Conservation Authority and other applicable agencies with respect the...
 
 **✅ Motion Passed**
@@ -3638,6 +3652,8 @@ Unanimous (11-0)
   at 1349, 1351, 1357 and 1361 Commissioners Road West (Z-8635) (Relates to
   Bill No. 430)
 
+<div id="motion-11-2-1" class="motion-anchor"></div>
+
 > Approve clause 11, as amended.
 
 **✅ Motion Passed**
@@ -3647,6 +3663,8 @@ Unanimous (11-0)
 ### 11#2. Properties located
   at 1349, 1351, 1357 and 1361 Commissioners Road West (Z-8635) (Relates to
   Bill No. 430)
+
+<div id="motion-11-2-3" class="motion-anchor"></div>
 
 > At 8:00 PM, His Worship the Mayor places   Councillor A. Hopkins in the Chair, and takes a seat at the Council board.    At 8:05 PM, His Worship the Mayor resumes   the Chair, and Councillor A. Hopkins takes her seat at the Council board.
 
@@ -3665,6 +3683,8 @@ Unanimous (11-0)
   at 1349, 1351, 1357 and 1361 Commissioners Road West (Z-8635) (Relates to
   Bill No. 430)
 
+<div id="motion-11-2-4" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3682,6 +3702,8 @@ Unanimous (11-0)
   Environmental & Engineering Services and City Engineer - Expropriation of
   Lands - Western Road Widening and Improvements Project - TS1489-1
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, on the   advice of the Manager of Realty Services, with the review and concurrence of   the Director, Roads and Transportation, with respect to the expropriation of   lands for the a ...
 
 **✅ Motion Passed**
@@ -3691,6 +3713,8 @@ Unanimous (11-0)
 ### I. DISCLOSURES
   OF PECUNIARY INTEREST
 
+<div id="motion-i-1" class="motion-anchor"></div>
+
 > Approve that pursuant to section 11.4   of the Council Procedure By-law, leave be given to add a Council, In Closed   Session matter to receive information with respect to a matter pertaining to   personal matters, including information regarding an identifiable individual,   including a municipa...
 
 **✅ Motion Passed**
@@ -3699,6 +3723,8 @@ Unanimous (11-0)
 
 ### IV#2. COUNCIL, IN CLOSED SESSION
   (continued)
+
+<div id="motion-iv-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3710,6 +3736,8 @@ Unanimous (11-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-SECOND MEETING HELD ON NOVEMBER 8,
   2016
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the Twenty-Second Meeting   held on November 8, 2016.
 
 **✅ Motion Passed**
@@ -3720,6 +3748,8 @@ Unanimous (11-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-SECOND MEETING HELD ON NOVEMBER 8,
   2016
 
+<div id="motion-v-1" class="motion-anchor"></div>
+
 > Approve that pursuant to section 6.4   of the Council Procedure By-law, the order of business be changed as follows:   a)         to   permit consideration of clause 11 of the 16th Report of the Community and   Protective Services Committee and related communications and petitions #4,   having to...
 
 **✅ Motion Passed**
@@ -3728,6 +3758,8 @@ Unanimous (11-0)
 
 ### VI. COMMUNICATIONS
   AND PETITIONS
+
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 6.4   of the Council Procedure By-law, the order of business be changed to permit   consideration of Communication No.1 and Communication No. 2 prior to Stage IX   – Added Reports.
 
@@ -3738,6 +3770,8 @@ Unanimous (10-0)
 ### VI#2. COMMUNICATIONS AND PETITIONS
   (cONTINUED)
 
+<div id="motion-vi-2-0" class="motion-anchor"></div>
+
 > Approve that Council convene as the   Approving Authority pursuant to the provisions of the Expropriation Act,   R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication   No. 1 from the Managing Director, Environmental and Engineering Services and   City Engineer, with respe...
 
 **✅ Motion Passed**
@@ -3746,6 +3780,8 @@ Unanimous (11-0)
 
 ### 2. Proposed Vehicle
   for Hire By-law (2/15/CPSC) (AS AMENDED)
+
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Approve the above-noted clause, with the   exception of the following parts:   a)              part   2a)vi): "allow for third party record checks with a grading of:  Pass,   Fail or Concern, along with regulations for licensing where a Pass is not   achieved;"; and   b)              part   2b)i)...
 
@@ -3763,6 +3799,8 @@ Unanimous (11-0)
 ### 2. Proposed Vehicle
   for Hire By-law (2/15/CPSC) (AS AMENDED)
 
+<div id="motion-2-1" class="motion-anchor"></div>
+
 > Approve part 2a)vi).
 
 **✅ Motion Passed 🔥**
@@ -3779,6 +3817,8 @@ Unanimous (11-0)
 ### 2. Proposed Vehicle
   for Hire By-law (2/15/CPSC) (AS AMENDED)
 
+<div id="motion-2-2" class="motion-anchor"></div>
+
 > Refer part 2b) i) back in order that   the Civic Administration can report back to the CPSC with respect to uniform   “cloud-based” camera system options for all vehicles for hire in January   2017.
 
 **✅ Motion Passed**
@@ -3790,6 +3830,8 @@ Unanimous (11-0)
   Project TS1489-1 (Refer to the Corporate Services Committee stage for
   consideration with clause 6 of the 27th Report of the Corporate Services
   Committee.)
+
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Approve that speakers be limited to 3   minutes.
 
@@ -3810,6 +3852,8 @@ Unanimous (11-0)
   consideration with clause 6 of the 27th Report of the Corporate Services
   Committee.)
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3821,6 +3865,8 @@ Unanimous (9-0)
   Advisory Committee (Refer to the Community and Protective Services Committee
   stage for consideration with clause 11 of the 16th Report of the Community
   and Protective Services Committee.)
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Approve that part c) of clause 11 of the   16th Report of the CPSC be amended to read as follows:   “c)       the   following actions be taken, with respect to Carding: i)          the   Municipal Council calls upon the London Police Service Board to establish a   policy that prohibits the use of...
 
@@ -3834,6 +3880,8 @@ Unanimous (11-0)
   stage for consideration with clause 11 of the 16th Report of the Community
   and Protective Services Committee.)
 
+<div id="motion-4-1" class="motion-anchor"></div>
+
 > Approve clause 11, as amended, and the   receipt and referral of Communication No. 4, as noted.
 
 **✅ Motion Passed**
@@ -3842,6 +3890,8 @@ Unanimous (11-0)
 
 ### 6. (ADDED) Councillor
   H. Usher - Absence from Council Meeting
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3852,6 +3902,8 @@ Unanimous (10-0)
 ### 9. Bill 46 - Municipal
   Statute Law Amendment Act (Councillor Pregnancy and Parental Leave) 2016
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > That the request for Municipal Council to   send a letter, signed by Members of Council, to the Provincial Government, in   support of Bill 46 - Municipal Statute Law Amendment Act (Councillor   Pregnancy and Parental Leave) 2016, BE APPROVED.
 
 **✅ Motion Passed**
@@ -3860,6 +3912,8 @@ Unanimous (11-0)
 
 ### 10. Community Investment
   Reserve Fund
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED   to solicit input from Council Members and report back to the Corporate   Services Committee with proposed Terms of Reference for the allocation of   funds included in the Community Investment Reserve Fund, with a view to   ensuring that any allocation o...
 
@@ -3877,6 +3931,8 @@ Unanimous (11-0)
 ### 14. Property located at
   58 Sunningdale Road West (39T-16503/OZ-8637)
 
+<div id="motion-14-1" class="motion-anchor"></div>
+
 > Approve clause 14, as amended.
 
 **✅ Motion Passed**
@@ -3886,6 +3942,8 @@ Unanimous (11-0)
 ### 16. Intensification/Primary
   Transit Area
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3894,6 +3952,8 @@ Unanimous (11-0)
 
 ### 19. Community Diversity
   and Inclusion Strategy Update
+
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED   to proceed with developing a Community Diversity and Inclusion Strategy in   accordance with the approach outlined in the staff report dated November 15,   2016, and an accelerated timeline BE PROVIDED to Council at the meeting of   November 22, 2016 fo...
 

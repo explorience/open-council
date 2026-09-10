@@ -811,6 +811,8 @@ Motion Passed
 ### 2. Potential Culture
   District in the City of London - Study Terms of Reference
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -821,6 +823,8 @@ Unanimous (15-0)
   Members of Council - Budgetary Implications of Opting Out of the One-Third
   Tax Exemption
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -829,6 +833,8 @@ Unanimous (15-0)
 
 ### 4. Governance Working
   Group Review of Council Compensation Matters
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -846,6 +852,8 @@ Unanimous (15-0)
 ### 4. Governance Working
   Group Review of Council Compensation Matters
 
+<div id="motion-4-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed 🔥**
@@ -862,6 +870,8 @@ Unanimous (15-0)
 ### 5. City of London
   Community Arts Investment Program (CAIP) Policy and Funding Amendment
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -870,6 +880,8 @@ Unanimous (15-0)
 
 ### 5. City of London
   Community Arts Investment Program (CAIP) Policy and Funding Amendment
+
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -888,6 +900,8 @@ Unanimous (15-0)
   Request to the London Arts Council to Amend its Membership to Include a
   Council Member
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -903,6 +917,8 @@ Unanimous (15-0)
 
 ### 7. Modernizing the
   Municipal Granting Process for Non-Profit Organizations
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -920,6 +936,8 @@ Unanimous (15-0)
 ### 7. Modernizing the
   Municipal Granting Process for Non-Profit Organizations
 
+<div id="motion-7-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -928,6 +946,8 @@ Unanimous (15-0)
 
 ### 7. Modernizing the
   Municipal Granting Process for Non-Profit Organizations
+
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -945,6 +965,8 @@ Unanimous (15-0)
 ### 8. Housing Development
   Corporation, London Incorporation and Initial Corporate Organization
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -954,14 +976,7 @@ Unanimous (15-0)
 ### 9. 6th Report of the
   Governance Working Group
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 10. Appointment to the
-  Outstanding London Ambassador Award Committee
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -971,6 +986,19 @@ Unanimous (15-0)
 
 ### 10. Appointment to the
   Outstanding London Ambassador Award Committee
+
+<div id="motion-10-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 10. Appointment to the
+  Outstanding London Ambassador Award Committee
+
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -981,6 +1009,8 @@ Unanimous (15-0)
 ### 11. London Convention
   Centre Board Appointments
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -990,6 +1020,8 @@ Unanimous (15-0)
 ### 12. Creating a Vibrant
   and Competitive Downtown – Downtown London – Request for Funding
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -998,6 +1030,8 @@ Unanimous (14-0)
 
 ### 12. Creating a Vibrant
   and Competitive Downtown – Downtown London – Request for Funding
+
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion Passed
 

@@ -1640,6 +1640,8 @@ Good day.
 
 ### 3.1. Delegation - Kapil Lakhotia, President and Chief Executive Officer - London Economic Development Corporation
 
+<div id="motion-3-1-0" class="motion-anchor"></div>
+
 > That it BE NOTED that the Strategic Priorities and Policy Committee received the Annual Update from K. Lakhotia, President and Chief Executive Officer, London Economic Development Corporation.
 
 **✅ Motion Passed (14 to 1)**
@@ -1655,6 +1657,8 @@ Good day.
 
 ### 3.7. Delegation - Chief T. Truong, Chief of Police
 
+<div id="motion-3-7-1" class="motion-anchor"></div>
+
 > That pursuant to section 36.3 of the Council Procedure By-law, Chief T. Truong, Chief of Police, London Police Services BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
 
 **✅ Motion Passed (15 to 0)**
@@ -1662,6 +1666,8 @@ Good day.
 Unanimous (15-0)
 
 ### 3.7. Delegation - Chief T. Truong, Chief of Police
+
+<div id="motion-3-7-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include "attached community policing statistics".
 
@@ -1671,6 +1677,8 @@ Unanimous (15-0)
 
 ### 3.7. Delegation - Chief T. Truong, Chief of Police
 
+<div id="motion-3-7-3" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -1678,6 +1686,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 3.7. Delegation - Chief T. Truong, Chief of Police
+
+<div id="motion-3-7-5" class="motion-anchor"></div>
 
 > That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -1687,6 +1697,8 @@ Unanimous (13-0)
 
 ### 4.2. Consideration of Appointment to the Greater London International Airport Authority Board
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That Larry Weir BE APPOINTED to the Greater London International Airport Authority Board of Directors for the term ending July 31, 2027; it being noted that the Strategic Priorities and Policy Committee received a communication dated September 10, 2024 from G. Kotsiomitis, Chair and M. Campbell, ...
 
 **✅ Motion Passed (13 to 0)**
@@ -1695,6 +1707,8 @@ Unanimous (13-0)
 
 ### 4.3. RBC Place London Board Appointment Recommendations
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > That the request from the Board of Directors RBC Place London BE REFERRED to Civic Administration to draft a revised London Convention Centre Corporation by-law and report back to the November 19, 2024 meeting of Strategic Priorities and Policy Committee. it being noted that the Strategic Priorit...
 
 **✅ Motion Passed (13 to 0)**
@@ -1702,6 +1716,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4.4. Consideration of Appointment to the Animal Welfare Community Advisory Committee (Requires up to 5 New Members)
+
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That N. Lippay and L. Heffernan BE APPOINTED to the Animal Welfare Community Advisory Committee for the term ending March 31, 2025.
 

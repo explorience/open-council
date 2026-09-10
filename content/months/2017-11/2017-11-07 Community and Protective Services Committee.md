@@ -578,6 +578,8 @@ The
 ### 2. Proposed Municipal
   Housing Facilities By-law
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -587,6 +589,8 @@ Unanimous (4-0)
 
 ### 3. Award Request for
   Proposal 17-11 Group Purchasing Organization Services
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -599,6 +603,8 @@ Unanimous (4-0)
   By-law to Appoint Kevin Dickins to the Statutory Position of Ontario Works
   Administrator
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -608,6 +614,8 @@ Unanimous (4-0)
 
 ### 5. Response to the
   Report of the Minister’s Expert Panel on Public Health
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -620,6 +628,8 @@ Unanimous (6-0)
   Child and Family Centres  Ontario Transfer Payment Agreement and Ontario
   Early Years Child and Family Centres Funding Agreement Template
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -631,6 +641,8 @@ Unanimous (4-0)
   Proposal 17-47 - "Early Years Programming - Parent and Family Literacy
   Centres and Lambeth Early Years Playgroup"
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -639,6 +651,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 8. Taxi Plate Issuing
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -650,6 +664,8 @@ Unanimous (4-0)
 ### 9. 10th Report of the
   Diversity Inclusion and Anti-Oppression Advisory Committee
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -659,6 +675,8 @@ Unanimous (6-0)
 
 ### 10. 6th Report of the
   Community Safety and Crime Prevention Advisory Committee
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -670,6 +688,8 @@ Unanimous (6-0)
 ### 11. 9th Report of
   London Housing Advisory Committee
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -679,6 +699,8 @@ Unanimous (6-0)
 
 ### 12. Deferred Matters
   List
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -690,6 +712,8 @@ Unanimous (6-0)
 ### 13. (ADDED) Invitation
   to the London Police Services Board to Utilize City of London Meeting
   Supports
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -1095,6 +1095,8 @@ Motion carries. Good afternoon.
 
 ### 1. Disclosures of Pecuniary Interest
 
+<div id="motion-1-0" class="motion-anchor"></div>
+
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Infrastructure and Corporate Services Committee Agenda BE APPROVED, to provide for Stage 6, Confidential, to be considered before Stage 2, Consent.
 
 **✅ Motion Passed (5 to 0)**
@@ -1102,6 +1104,8 @@ Motion carries. Good afternoon.
 Unanimous (5-0)
 
 ### 2.1. 2026 Reserve and Reserve Fund Monitoring and Housekeeping Report
+
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:    a)    the 2026 Reserve and Reserve Fund Monitoring and Housekeeping Report BE RECEIVED for information;     b)    the proposed by-law, as appended to the staff report dated May 27, 2026 as...
 
@@ -1120,6 +1124,8 @@ Unanimous (5-0)
 
 ### 2.1. 2026 Reserve and Reserve Fund Monitoring and Housekeeping Report
 
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Infrastructure and Corporate Services Committee Agenda BE APPROVED, to provide for Item 2.7 in Stage 2, Consent, to be considered before item 2.1 in Stage 2, Consent.
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -1136,6 +1142,8 @@ Unanimous (5-0)
 </details>
 
 ### 2.4. Bi-Annual Procurement Report and Update
+
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the first Bi-Annual Procurement Report, prepared in accordance with Section 35 – Reporting Requirements of the Procurement of Goods and Services Policy, BE RECEIVED for information.
 
@@ -1154,6 +1162,8 @@ Unanimous (5-0)
 
 ### 2.7. Standing Committee Meetings and Annual Meeting Calendar
 
+<div id="motion-2-7-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the City Clerk, the annual meeting calendar for the period January 1, 2027 to December 31, 2027, as appended to the staff report dated May 27, 2026 as Appendix “A”, BE APPROVED; it being understood that adjustments to the calendar may be required from time to time i...
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -1170,6 +1180,8 @@ Unanimous (5-0)
 </details>
 
 ### 2.7. Standing Committee Meetings and Annual Meeting Calendar
+
+<div id="motion-2-7-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to add a new part that reads as follows: The Civic Administration BE DIRECTED to bring forward a by-law amendment to By-law No. A.-61, being the Council Procedure By-law, to delete the following provisions in section 3.1: a) one week without meetings to be set aside in ...
 
@@ -1188,6 +1200,8 @@ Unanimous (5-0)
 
 ### 2.9. Contract Award: Tender RFT-2026-021 and Appointment of Consulting Engineer - Boler Road Watermain and Cycling Improvements Project
 
+<div id="motion-2-9-0" class="motion-anchor"></div>
+
 > That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the award of contract for the Boler Road Watermain and Cycling Improvements project (RFT-2026-021):    a)    the bid submitted by PV-EX Construction Ltd., at its t...
 
 **✅ Motion Passed (5 to 0)**
@@ -1195,6 +1209,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.12. Appointment of Consulting Engineer - Sunningdale Road West Improvements from Hyde Park Road to Jordan Boulevard
+
+<div id="motion-2-12-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of consulting engineer for the Sunningdale Road West Improvements from Hyde Park Road to Jordan Boulevard:    a)     MTE Consultants Inc., BE AUTHO...
 

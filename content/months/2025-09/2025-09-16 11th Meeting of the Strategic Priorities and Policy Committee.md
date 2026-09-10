@@ -420,6 +420,8 @@ And we can do that one by hand. That motion carries. Thank you colleagues. We ar
 
 ### 4. Items for Direction
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > That Items for Direction 4.1 and 4.2 BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**

@@ -264,6 +264,8 @@ Motion
 ### 2. 10th Report of the
   Animal Welfare Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -273,6 +275,8 @@ Unanimous (4-0)
 
 ### 3. Single Source
   Supply and Delivery of Motorized Riding Golf Carts
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -285,6 +289,8 @@ Unanimous (4-0)
   Affordable Housing for Ontario (2014 Extension) - Approval of Administration
   Agreement
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -294,6 +300,8 @@ Unanimous (4-0)
 
 ### 5. 8th Report of the
   London Housing Advisory Committee
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -305,15 +313,7 @@ Unanimous (4-0)
 ### 6. Review of Noise
   Exemption Permits
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 7. By-law Amendments
-  for Expanded Animal Welfare Initiatives
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -324,6 +324,20 @@ Unanimous (4-0)
 
 ### 7. By-law Amendments
   for Expanded Animal Welfare Initiatives
+
+<div id="motion-7-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 7. By-law Amendments
+  for Expanded Animal Welfare Initiatives
+
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

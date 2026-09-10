@@ -320,16 +320,7 @@ The
 ### 2. 7th Report of the
   Cycling Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 3. EMCO Corporation
-  Waterworks, Supply and Delivery of Itron® Electronic Radio Transmitters,
-  Single Source Procurement (SS15-18)
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -341,6 +332,21 @@ Unanimous (4-0)
 ### 3. EMCO Corporation
   Waterworks, Supply and Delivery of Itron® Electronic Radio Transmitters,
   Single Source Procurement (SS15-18)
+
+<div id="motion-3-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 3. EMCO Corporation
+  Waterworks, Supply and Delivery of Itron® Electronic Radio Transmitters,
+  Single Source Procurement (SS15-18)
+
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -351,6 +357,8 @@ Unanimous (4-0)
 
 ### 5. Amendments to the
   Traffic and Parking By-law
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -363,6 +371,8 @@ Unanimous (4-0)
   Amendments to Update Ontario Drinking Water Quality Standards and Testing and
   Reporting Requirements
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -372,6 +382,8 @@ Unanimous (4-0)
 
 ### 7. Kilally Road
   Improvements Phase 1, Appointment of Consulting Engineer
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -383,6 +395,8 @@ Unanimous (4-0)
 ### 8. Deferred Matters
   List
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -392,6 +406,8 @@ Unanimous (4-0)
 
 ### 9. Canadian Urban
   Transit Association (CUTA) Federal Election Initiative
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -4110,6 +4110,8 @@ Okay, all right, we're adjourned. Thank you.
 
 ### 6. Communications and Petitions
 
+<div id="motion-6-2" class="motion-anchor"></div>
+
 > That, pursuant to section 10.5 of the Council Procedure By-law, with respect to the Chair's ruling regarding personal point of privilege, “shall the ruling of the Chair BE SUSTAINED?”
 
 **✅ Motion Passed (10 to 4)**
@@ -4127,6 +4129,8 @@ Okay, all right, we're adjourned. Thank you.
 
 ### 6. Communications and Petitions
 
+<div id="motion-6-3" class="motion-anchor"></div>
+
 > That, pursuant to section 6.4 of the Council Procedure By-law, a change in order of the Council Agenda BE APPROVED, to provide for Item 8.4 in Stage 8, Reports, to be considered before Item 8.1 in Stage 8, Reports.
 
 **✅ Motion Passed (14 to 0)**
@@ -4135,6 +4139,8 @@ Unanimous (14-0)
 
 ### 8.1. 7th Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 7th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of item 7 (4.4).
 
 **✅ Motion Passed (13 to 0)**
@@ -4142,6 +4148,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### 8.1.7. (4.4) Mobility Master Plan 2050 Mode Share Target
+
+<div id="motion-8-1-7-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Mobility Master Plan;    a)   the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling; and...
 
@@ -4160,6 +4168,8 @@ Unanimous (13-0)
 
 ### 8.2. 5th Report of the Planning and Environment Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That the 5th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 4 (3.1), 6 (3.3), and 11 (3.8).
 
 **✅ Motion Passed (13 to 0)**
@@ -4167,6 +4177,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8.2.4. (3.1) Amendment to the Industrial Lands Community Improvement Plan (O-9647) (Relates to Bill No. 104)
+
+<div id="motion-8-2-4-2" class="motion-anchor"></div>
 
 > That item 4, clause 3.1, as amended, BE APPROVED.
 
@@ -4176,6 +4188,8 @@ Unanimous (13-0)
 
 ### 8.2.6. (3.3) 192-196 Central Avenue (Z-9695) (Relates to Bill No. 114)
 
+<div id="motion-8-2-6-1" class="motion-anchor"></div>
+
 > That the motion BE AMENDED with the following new parts: "Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Farhi Holding Corporation relating to the property located at 192-196 Central Avenue: (a)    th...
 
 **✅ Motion Passed (13 to 0)**
@@ -4184,6 +4198,8 @@ Unanimous (13-0)
 
 ### 8.2.6. (3.3) 192-196 Central Avenue (Z-9695) (Relates to Bill No. 114)
 
+<div id="motion-8-2-6-2" class="motion-anchor"></div>
+
 > That item 6, clause 3.3, as amended, BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -4191,6 +4207,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8.2.11. (3.8) Official Plan Review of The London Plan and Land Needs Assessment Update (O-9595)
+
+<div id="motion-8-2-11-2" class="motion-anchor"></div>
 
 > Motion TO AMEND by adding part i) as follows: "i)    the Civic Administration BE DIRECTED to undertake a future growth management implementation strategy for the built-area including a higher intensification target to align with the 32.5% mode share target;"
 
@@ -4209,6 +4227,8 @@ Unanimous (13-0)
 
 ### 8.2.11. (3.8) Official Plan Review of The London Plan and Land Needs Assessment Update (O-9595)
 
+<div id="motion-8-2-11-3" class="motion-anchor"></div>
+
 > Motion TO AMEND by adding parts i )and j) as follows: "j)    the Civic Administration BE DIRECTED to undertake a review of Sewer and Water Servicing capacity within the Built Area Boundary to meet the 2028 DC Bylaw deadlines; and" "k)    the Civic Administration BE DIRECTED to undertake review of...
 
 **❌ Motion Failed (6 to 7) 🔥**
@@ -4225,6 +4245,8 @@ Unanimous (13-0)
 </details>
 
 ### 8.2.11. (3.8) Official Plan Review of The London Plan and Land Needs Assessment Update (O-9595)
+
+<div id="motion-8-2-11-4" class="motion-anchor"></div>
 
 > That item 11, clause 3.8, as amended, BE APPROVED.
 
@@ -4243,6 +4265,8 @@ Unanimous (13-0)
 
 ### 8.3. 6th Report of the Corporate Services Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 6th Report of the Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (12 to 0)**
@@ -4250,6 +4274,8 @@ Unanimous (13-0)
 Unanimous (12-0)
 
 ### 8.4. 5th Report of the Community and Protective Services Committee
+
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the 5th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 4 (2.3), 10 (2.6), 12 (4.1), and 13 (5.1).
 
@@ -4259,6 +4285,8 @@ Unanimous (14-0)
 
 ### 8.4.4. (2.3) Approval of Odell-Jalna End of Mortgage Exit Agreement (Relates to Bill No. 98)
 
+<div id="motion-8-4-4-1" class="motion-anchor"></div>
+
 > Motion to add a new part b) iv) to read as follows: “iv)    that Civic Administration BE DIRECTED to apply the 2022 AMR to establish the subsidy amounts in the agreement, allow rental increases to the most current AMR on future vacancies and report back on a standard approach for future agreement...
 
 **✅ Motion Passed (14 to 0)**
@@ -4267,6 +4295,8 @@ Unanimous (14-0)
 
 ### 8.4.4. (2.3) Approval of Odell-Jalna End of Mortgage Exit Agreement (Relates to Bill No. 98)
 
+<div id="motion-8-4-4-2" class="motion-anchor"></div>
+
 > That item 4, clause 2.3, as amended, BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -4274,6 +4304,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.4.10. (2.6) Business Licensing By-law and Fireworks By-law – Amendments (Relates to Bills No. 102, 103 and 107)
+
+<div id="motion-8-4-10-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED by adding a new part d) to read as follows: “d)       that the proposed by-law, as appended to the staff report dated March 18, 2024, BE INTRODUCED at the Municipal Council Meeting to be held on April 2, 2024 to amend the Fireworks By-law PW-11 by allowing for consumer ...
 
@@ -4292,6 +4324,8 @@ Unanimous (14-0)
 
 ### 8.4.10. (2.6) Business Licensing By-law and Fireworks By-law – Amendments (Relates to Bills No. 102, 103 and 107)
 
+<div id="motion-8-4-10-2" class="motion-anchor"></div>
+
 > That the motion BE AMENDED by adding a new part e) to read as follows: "e)     that Civic Administration BE DIRECTED to consult with the Toronto Fire Department with respect to their “Proposed Ontario Fire Code Amendments Regarding Fireworks” and report back to the Community and Protective Servic...
 
 **❌ Motion Failed (4 to 10)**
@@ -4308,6 +4342,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.4.10. (2.6) Business Licensing By-law and Fireworks By-law – Amendments (Relates to Bills No. 102, 103 and 107)
+
+<div id="motion-8-4-10-3" class="motion-anchor"></div>
 
 > That item 10, clause 2.6, as amended, BE APPROVED.
 
@@ -4326,6 +4362,8 @@ Unanimous (14-0)
 
 ### 8.4.12. (4.1) 2024 Rock the Park One-Time Policy Exemption Request (Relates to Bill No. 106)
 
+<div id="motion-8-4-12-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager of Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated March 18, 2024, related to a 2024 Rock the Park One-Time Policy Exemption Request: a)    the report above-noted staff report ...
 
 **✅ Motion Passed (12 to 2)**
@@ -4342,6 +4380,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
+
+<div id="motion-8-4-13-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED by adding a new part to read as follows: "that Civic Administration BE DIRECTED to report back to the next Community and Protective Services Committee meeting with a source of funding for issuing free 1-hour on-street parking and the ability to suspend free 1-hour on-st...
 
@@ -4360,6 +4400,8 @@ Unanimous (14-0)
 
 ### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
 
+<div id="motion-8-4-13-3" class="motion-anchor"></div>
+
 > That pursuant to section 11.11 of the Council Procedure By-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
 
 **✅ Motion Passed (12 to 2)**
@@ -4376,6 +4418,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
+
+<div id="motion-8-4-13-4" class="motion-anchor"></div>
 
 > That the motion BE FURTHER AMENDED as follows: "That Civic Administration BE DIRECTED to report back to a future meeting of Community and Protective Services Committee regarding a source of financing for the parking incentive in Municipal Lots 1 & 2."
 
@@ -4394,6 +4438,8 @@ Unanimous (14-0)
 
 ### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
 
+<div id="motion-8-4-13-5" class="motion-anchor"></div>
+
 > That the amendment, as amended, BE APPROVED.
 
 **✅ Motion Passed (10 to 4)**
@@ -4410,6 +4456,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.4.13. (5.1) Reduced Parking Incentive Pilot Project
+
+<div id="motion-8-4-13-6" class="motion-anchor"></div>
 
 > That item 13, clause 5.1, as amended, BE APPROVED.
 
@@ -4428,6 +4476,8 @@ Unanimous (14-0)
 
 ### 8.5. 5th Report of the Civic Works Committee
 
+<div id="motion-8-5-0" class="motion-anchor"></div>
+
 > That the 5th Report of the Civic Works Committee BE APPROVED, with the exception of item 12 (2.12)
 
 **✅ Motion Passed (12 to 0)**
@@ -4436,6 +4486,8 @@ Unanimous (12-0)
 
 ### 8.5.12. (2.12) Vendor of Record Contract Award - Rapid Transit Shelters Amenities - Request for Proposal Submissions - RFP-2023-271 Station Lighting, RFP-2023-272 Obelisks and RFP-2023-273 Station Furniture
 
+<div id="motion-8-5-12-0" class="motion-anchor"></div>
+
 > That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated March 19, 2024, related to Vendor of Record Contract Award for Rapid Transit Shelters Amenities and Request for Proposal Submissions – RFP-...
 
 **✅ Motion Passed (12 to 0)**
@@ -4443,6 +4495,8 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### 13. By-laws
+
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No’s. 102, 103, 107, BE APPROVED.
 
@@ -4461,6 +4515,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<div id="motion-13-4" class="motion-anchor"></div>
+
 > That Second Reading of Bill No’s. 102, 103, 107, BE APPROVED
 
 **✅ Motion Passed (10 to 2)**
@@ -4477,6 +4533,8 @@ Unanimous (12-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No’s. 102, 103, 107, BE APPROVED.
 
@@ -4495,6 +4553,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<div id="motion-13-6" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Added Bill No. 122, BE APPROVED.
 
 **✅ Motion Passed (9 to 3)**
@@ -4511,6 +4571,8 @@ Unanimous (12-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Added Bill No. 122, BE APPROVED.
 
@@ -4529,6 +4591,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<div id="motion-13-8" class="motion-anchor"></div>
+
 > That Third Reading and Enactment of Added Bill No. 122, BE APPROVED.
 
 **✅ Motion Passed (9 to 3)**
@@ -4545,6 +4609,8 @@ Unanimous (12-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 106, BE APPROVED.
 
@@ -4563,6 +4629,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<div id="motion-13-10" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 106, BE APPROVED.
 
 **✅ Motion Passed (11 to 1)**
@@ -4579,6 +4647,8 @@ Unanimous (12-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 106, BE APPROVED.
 

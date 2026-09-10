@@ -2582,6 +2582,8 @@ Motion carries. All right, thank you very much. We're adjourned.
 
 ### 8.1. 15th Report of the Civic Works Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 15th Report of the Civic Works Committee BE APPROVED, with the exception of item 9 (2.5).
 
 **✅ Motion Passed (14 to 0)**
@@ -2590,6 +2592,8 @@ Unanimous (14-0)
 
 ### 8.1.9. (2.5) Mobility Master Plan 2050 Mode Share Target
 
+<div id="motion-8-1-9-1" class="motion-anchor"></div>
+
 > Motion to approve part a)
 
 **✅ Motion Passed (14 to 0)**
@@ -2597,6 +2601,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.1.9. (2.5) Mobility Master Plan 2050 Mode Share Target
+
+<div id="motion-8-1-9-2" class="motion-anchor"></div>
 
 > Motion to approve parts b) and c)
 
@@ -2615,6 +2621,8 @@ Unanimous (14-0)
 
 ### 8.2. 26th Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That the 26th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 4 (2.1), 5 (2.2), 6 (2.3), and 11 (4.3).
 
 **✅ Motion Passed (15 to 0)**
@@ -2622,6 +2630,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 8.2.6. (2.3) Community Cold Weather Response
+
+<div id="motion-8-2-6-2" class="motion-anchor"></div>
 
 > Motion to approve item 6 (2.3) parts c), d), e), g), h), j), as amended.
 
@@ -2638,6 +2648,8 @@ Unanimous (15-0)
 
 ### 8.2.6. (2.3) Community Cold Weather Response
 
+<div id="motion-8-2-6-3" class="motion-anchor"></div>
+
 > Motion to approve item 6 (2.3) parts a), b), f), i), k), l), as amended.
 
 **✅ Motion Passed (15 to 0)**
@@ -2645,6 +2657,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3. 17th Report of the Planning and Environment Committee
+
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 17th Report of the Planning and Environment Committee BE APPROVED.
 
@@ -2654,6 +2668,8 @@ Unanimous (14-0)
 
 ### 8.4. 18th Report of the Corporate Services Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 18th Report of the Corporate Services Committee BE APPROVED, with exception of item 7 (4.1).
 
 **✅ Motion Passed (14 to 0)**
@@ -2661,6 +2677,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.4.7. (4.1) Request for Redirection of 2022 Surplus Funds - Middlesex-London Health Unit
+
+<div id="motion-8-4-7-0" class="motion-anchor"></div>
 
 > That the application of the City of London’s share of Middlesex-London Health Unit's (MLHU) 2022 surplus in the amount of $423,548 to reduce the outstanding amount of MLHU’s variable bank loan for the fit-out of the Citi Plaza office space BE APPROVED; it being noted that the Corporate Services C...
 
@@ -2679,6 +2697,8 @@ Unanimous (14-0)
 
 ### 8.5. 19th Report of the Special Corporate Services Committee
 
+<div id="motion-8-5-0" class="motion-anchor"></div>
+
 > That the 19th Report of the Special Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -2686,6 +2706,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.6. 16th Report of the Community and Protective Services Committee
+
+<div id="motion-8-6-0" class="motion-anchor"></div>
 
 > That the 16th Report of the Community and Protective Services Committee BE APPROVED.
 
@@ -2695,6 +2717,8 @@ Unanimous (14-0)
 
 ### 9. Added Reports
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > 1.  Office Lease Extension and Amending Agreement – 220 Dundas Street That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the Lease Extension and Amending Agreement for the lease of office space at 220 Dundas St...
 
 **✅ Motion Passed (14 to 0)**
@@ -2702,6 +2726,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 13. By-laws
+
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 412, BE APPROVED.
 
@@ -2720,6 +2746,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<div id="motion-13-4" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 412, BE APPROVED.
 
 **✅ Motion Passed (13 to 1)**
@@ -2736,6 +2764,8 @@ Unanimous (14-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 412, BE APPROVED.
 

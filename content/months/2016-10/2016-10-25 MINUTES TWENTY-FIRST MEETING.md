@@ -2005,6 +2005,8 @@ Passed
   Delegation Status - Jason Timlick, President, London Professional Fire
   Fighters Association
 
+<div id="motion-11-2-1" class="motion-anchor"></div>
+
 > At 6:08 PM Mayor M. Brown places Councillor   P. Hubert in the Chair and takes a seat at the Council Board.    At 6:11 PM Mayor M. Brown resumes the   Chair, and Councillor P. Hubert resumes his seat at the Council Board.
 
 **❌ Motion Failed**
@@ -2022,6 +2024,8 @@ Passed
   Delegation Status - Jason Timlick, President, London Professional Fire
   Fighters Association
 
+<div id="motion-11-2-2" class="motion-anchor"></div>
+
 > Approve that the letter from Jason   Timlick, President, London Professional Fire Fighters Association, dated   September 21, 2016 BE RECEIVED.
 
 **✅ Motion Passed**
@@ -2037,6 +2041,8 @@ Passed
 
 ### 2#5. Amendment to Consolidated Fees and Charges
 
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
 > Approve that clause 2 be amended by adding   the following new part:   b)         the   Civic Administration BE DIRECTED to find means by which the public can be   better informed and engaged with respect to any proposed changes to the Fees   and Charges By-law.
 
 **✅ Motion Passed**
@@ -2044,6 +2050,8 @@ Passed
 Unanimous (12-0)
 
 ### 2#5. Amendment to Consolidated Fees and Charges
+
+<div id="motion-2-5-1" class="motion-anchor"></div>
 
 > Approve clause 2 as amended.
 
@@ -2060,6 +2068,8 @@ Unanimous (12-0)
 
 ### 3#4. Live Work Learn Play Update
 
+<div id="motion-3-4-0" class="motion-anchor"></div>
+
 > Approve part a) of clause 3.
 
 **✅ Motion Passed**
@@ -2068,6 +2078,8 @@ Unanimous (12-0)
 
 ### 3#4. Live Work Learn Play Update
 
+<div id="motion-3-4-1" class="motion-anchor"></div>
+
 > Approve part b) of clause 3.
 
 **✅ Motion Passed**
@@ -2075,6 +2087,8 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### 3#4. Live Work Learn Play Update
+
+<div id="motion-3-4-2" class="motion-anchor"></div>
 
 > Approve that part c) of clause 3 be amended   to read as follows:   “c)      the Civic Administration BE DIRECTED to move forward with the coordination of   addressing  issues in downtown London, including the necessary supports with   regard to care (health, mental health and the pertinent forms...
 
@@ -2091,6 +2105,8 @@ Unanimous (12-0)
 
 ### 3#4. Live Work Learn Play Update
 
+<div id="motion-3-4-3" class="motion-anchor"></div>
+
 > Approve clause 3, as amended.
 
 **✅ Motion Passed**
@@ -2106,6 +2122,8 @@ Unanimous (12-0)
 
 ### 4#4. Deputy Mayors
 
+<div id="motion-4-4-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2120,6 +2138,8 @@ Unanimous (12-0)
 </details>
 
 ### 4#4. Deputy Mayors
+
+<div id="motion-4-4-1" class="motion-anchor"></div>
 
 > Approve that pursuant to section 11.11   of the Council Procedure By-law the Council Meeting be permitted to proceed   beyond 11:00 PM.
 
@@ -2139,6 +2159,8 @@ Unanimous (12-0)
   Centre Wellington Road Tourist Information Centre Location (Relates to Bill
   No. 377)
 
+<div id="motion-7-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2147,6 +2169,8 @@ Unanimous (10-0)
 
 ### 7#4. Request for Delegation Status – 5th Report
   of the Outstanding London Ambassador Award Committee
+
+<div id="motion-7-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2157,6 +2181,8 @@ Unanimous (12-0)
 ### 8#2. London's
   Homelessness Prevention System Enumeration Results and London's Emergency
   Shelters Progress Report - 2011-2015
+
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > Approve that clause 8 be amended by adding   the following new part b):   “b)        the Civic Administration BE   REQUESTED to consider increasing the value of the momentary compensation   provided to interviewees for participating in the enumerations.”
 
@@ -2168,6 +2194,8 @@ Unanimous (12-0)
   Homelessness Prevention System Enumeration Results and London's Emergency
   Shelters Progress Report - 2011-2015
 
+<div id="motion-8-2-1" class="motion-anchor"></div>
+
 > Approve clause 8, as amended.
 
 **✅ Motion Passed**
@@ -2177,6 +2205,8 @@ Unanimous (12-0)
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
+<div id="motion-iv-0" class="motion-anchor"></div>
+
 > MOTION FOR IN CAMERA SESSION
 
 **✅ Motion Passed**
@@ -2185,6 +2215,8 @@ Unanimous (12-0)
 
 ### IV. COUNCIL, IN
   CLOSED SESSION
+
+<div id="motion-iv-1" class="motion-anchor"></div>
 
 > Approve the Minutes of the Twentieth   Meeting, held on October 11, 2016.
 
@@ -2195,6 +2227,8 @@ Unanimous (12-0)
 ### IV#2. COUNCIL, IN CLOSED SESSION
   (Continued)
 
+<div id="motion-iv-2-0" class="motion-anchor"></div>
+
 > MOTION FOR IN CAMERA SESSION
 
 **✅ Motion Passed**
@@ -2202,6 +2236,8 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### IX#2. ADDED REPORTS (CONTINUED)
+
+<div id="motion-ix-2-0" class="motion-anchor"></div>
 
 > Approve clause 1 as follows:   1.                 That, as a procedural   matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation   be forwarded to City Council for deliberation and a vote in public session: That, on the recommendation of the Managing   Directo...
 
@@ -2215,6 +2251,8 @@ Unanimous (12-0)
 </details>
 
 ### IX#2. ADDED REPORTS (CONTINUED)
+
+<div id="motion-ix-2-1" class="motion-anchor"></div>
 
 > Approve clause 2 as follows:     2.                 That, as a procedural   matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:   That, on the recommendation of the Managing   D...
 
@@ -2231,6 +2269,8 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-7" class="motion-anchor"></div>
+
 > Approve Second Reading of Added Bill No.   390.
 
 **✅ Motion Passed**
@@ -2245,6 +2285,8 @@ Unanimous (12-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-8" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of Added   Bill No. 390.
 
@@ -2264,6 +2306,8 @@ Unanimous (12-0)
   Planning and Environment Committee stage for consideration with clause 7 of
   the 18th Report of the Planning and Environment Committee.)
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2272,6 +2316,8 @@ Unanimous (12-0)
 
 ### 5. 10th Report of the
   London Advisory Committee on Heritage
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Approve part c) i) of clause 5.
 
@@ -2289,6 +2335,8 @@ Unanimous (12-0)
 ### 5. 10th Report of the
   London Advisory Committee on Heritage
 
+<div id="motion-5-1" class="motion-anchor"></div>
+
 > Approve the balance of clause 5.
 
 **✅ Motion Passed**
@@ -2298,6 +2346,8 @@ Unanimous (12-0)
 ### 7. Property located at
   169 Foster Avenue (Z-8651) (Relates to Bill No. 386)
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Approve that the Zoning By-law amendment   and Site Plan applications submitted by Nathan and Valon McInnis relating to   the property located at 169 Foster Avenue BE REFERRED back to a future   meeting of the Planning and Environment Committee, at the request of the   applicants, to provide for ...
 
 **✅ Motion Passed**
@@ -2306,6 +2356,8 @@ Unanimous (10-0)
 
 ### 10. City of London Cat
   Adoption Centre
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Development and Compliance Services and the Chief Building   Official, the following actions be taken with respect to the City of London   Cat Adoption Centre:   a)         the   Civic Administration BE DIRECTED to proceed with the renovatio...
 
@@ -2321,6 +2373,8 @@ Unanimous (10-0)
 </details>
 
 ### 15. Workplace Diversity
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion Passed
 

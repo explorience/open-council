@@ -881,6 +881,8 @@ Motion Passed
 ### 2. Initiation Report -
   2014 Development Charges Background Study and DC By-law Update
 
+<div id="motion-2-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -891,6 +893,8 @@ Unanimous (15-0)
 ### 2. Initiation Report -
   2014 Development Charges Background Study and DC By-law Update
 
+<div id="motion-2-3" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -900,6 +904,8 @@ Unanimous (15-0)
 
 ### 3. Assessment Growth
   Policy
+
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -918,6 +924,8 @@ Unanimous (15-0)
 ### 4. 2013-2017 Operating
   Budget Targets
 
+<div id="motion-4-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -926,6 +934,8 @@ Unanimous (13-0)
 
 ### 4. 2013-2017 Operating
   Budget Targets
+
+<div id="motion-4-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -943,6 +953,8 @@ Unanimous (13-0)
 ### 4. 2013-2017 Operating
   Budget Targets
 
+<div id="motion-4-5" class="motion-anchor"></div>
+
 > Motion Failed
 
 **❌ Motion Failed 🔥**
@@ -959,14 +971,7 @@ Unanimous (13-0)
 ### 4. 2013-2017 Operating
   Budget Targets
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 4. 2013-2017 Operating
-  Budget Targets
+<div id="motion-4-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -977,14 +982,7 @@ Unanimous (13-0)
 ### 4. 2013-2017 Operating
   Budget Targets
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 4. 2013-2017 Operating
-  Budget Targets
+<div id="motion-4-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -994,6 +992,30 @@ Unanimous (13-0)
 
 ### 4. 2013-2017 Operating
   Budget Targets
+
+<div id="motion-4-11" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4. 2013-2017 Operating
+  Budget Targets
+
+<div id="motion-4-13" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4. 2013-2017 Operating
+  Budget Targets
+
+<div id="motion-4-15" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1011,6 +1033,8 @@ Unanimous (13-0)
 ### 4. 2013-2017 Operating
   Budget Targets
 
+<div id="motion-4-17" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1026,6 +1050,8 @@ Unanimous (13-0)
 
 ### 4. 2013-2017 Operating
   Budget Targets
+
+<div id="motion-4-19" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1043,6 +1069,8 @@ Unanimous (13-0)
 ### 10. London Public
   Library
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Recommendation:   a)         That   the resignation of Jan Lubell from the London Public Library Board of             Trustees   BE RECEIVED and that Ms. Lubell BE THANKED for her   contributions    to the work of the London Public Library Board; and   b)                     That   German Gutierr...
 
 **✅ Motion
@@ -1059,6 +1087,8 @@ Unanimous (13-0)
 
 ### 11. Middlesex-London
   Health Unit
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Voting Record:   Motion Passed
 

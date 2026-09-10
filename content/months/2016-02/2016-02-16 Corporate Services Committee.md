@@ -160,6 +160,8 @@ Motion
   Municipal Act Reporting Requirements Due to Implementation of Tangible
   Capital Assets
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -169,6 +171,8 @@ Unanimous (4-0)
 
 ### 3. Workplace and
   Community Diversity and Inclusion Update
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -180,6 +184,8 @@ Unanimous (5-0)
 ### 4. Outstanding London
   Ambassador Award
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -189,6 +195,8 @@ Unanimous (5-0)
 
 ### 5. ADDED - Anderson
   Craft Ales Ltd. Manufacturer's Limited Liquor Sales Licence Application
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

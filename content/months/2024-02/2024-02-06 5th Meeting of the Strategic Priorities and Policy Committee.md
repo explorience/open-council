@@ -834,6 +834,8 @@ Thank you, everyone. Have a great rest of your day.
 
 ### 2.2. SS-2024-042: Housing Stability Services Single Source
 
+<div id="motion-2-2-2" class="motion-anchor"></div>
+
 > Motion TO AMEND parts b) and c) to remove the costs related "compensation and diversity recruitment consultant" at $14,970,  "fundraising supports" at $5,717, and "security needs consultant" at $3,000.  Parts b) and c) to read as follows: b)    one-time funding requests of up to $273,204 (with co...
 
 **✅ Motion Passed (15 to 0)**
@@ -841,6 +843,8 @@ Thank you, everyone. Have a great rest of your day.
 Unanimous (15-0)
 
 ### 2.2. SS-2024-042: Housing Stability Services Single Source
+
+<div id="motion-2-2-3" class="motion-anchor"></div>
 
 > That item 2.2, as amended, BE APPROVED.
 
@@ -856,6 +860,8 @@ Unanimous (15-0)
 </details>
 
 ### 2.3. Community Advisory Committee on Planning (CACP) - Terms of Reference
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That the report entitled Community Advisory Committee on Planning (CACP) Terms of Reference BE REFERRED to the Community Advisory Committee on Planning for consultation on the amended Terms of Reference. it being noted that the Strategic Priorities and Policy received a communication from S. Berg...
 

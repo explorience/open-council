@@ -1382,6 +1382,8 @@ Chairman. Okay, but I wanna...
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.9 BE APPROVED with the exception of Item 2.7.
 
 **✅ Motion Passed (5 to 0)**
@@ -1389,6 +1391,8 @@ Chairman. Okay, but I wanna...
 Unanimous (5-0)
 
 ### 2.7. Thames Pool Update
+
+<div id="motion-2-7-1" class="motion-anchor"></div>
 
 > That part a) of the motion BE APPROVED.
 
@@ -1398,6 +1402,8 @@ Unanimous (4-0)
 
 ### 2.7. Thames Pool Update
 
+<div id="motion-2-7-2" class="motion-anchor"></div>
+
 > That part b) of the motion BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1405,6 +1411,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.2. Seasonal Time Period of Overnight Parking Bans in Comparable Municipalities
+
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include a new part that reads as follows: The Civic Administration BE DIRECTED to bring forward the option to eliminate the 15 day limit on overnight parking passes as part of the report back with respect to this matter; it being noted that individuals would continue...
 
@@ -1414,6 +1422,8 @@ Unanimous (5-0)
 
 ### 4.2. Seasonal Time Period of Overnight Parking Bans in Comparable Municipalities
 
+<div id="motion-4-2-2" class="motion-anchor"></div>
+
 > The motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1421,6 +1431,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.3. Business Licensing By-law as it relates to Short Term Rental Accommodations
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the communication, dated July 31, 2025, from Councillor J. Pribil, related to the Business Licensing By-law as it relates to Short Term Rental Accommodations: a)    the Civic Administration BE DIRECTED to review Schedule 21 of the Business Licen...
 
@@ -1430,6 +1442,8 @@ Unanimous (4-0)
 
 ### 4.3. Business Licensing By-law as it relates to Short Term Rental Accommodations
 
+<div id="motion-4-3-1" class="motion-anchor"></div>
+
 > That the delegation request from D. Lanteigne-Mignault, as appended to the Added Agenda, BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1438,6 +1452,8 @@ Unanimous (4-0)
 
 ### 4.4. Protection of Animals Left Unattended in Motor Vehicles
 
+<div id="motion-4-4-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED to report back by end of Q2 2026 to the Community and Protective Services Committee with recommendations on the protection of animals left unattended in a motor vehicle, including but not limited to amendments to existing or a new municipal by-law; it bei...
 
 **✅ Motion Passed (4 to 0)**
@@ -1445,6 +1461,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.5. Enhancements to Dog Licensing and Control By‑law – Focus on Public Safety Risk Dogs
+
+<div id="motion-4-5-1" class="motion-anchor"></div>
 
 > The motion BE AMENDED to add a new part to read as follows: The Mayor BE REQUESTED to write a letter to the solicitor general, with respect to this matter, to suggest changes to provincial legislation related to dangerous dogs and public safety.
 
@@ -1463,6 +1481,8 @@ Unanimous (4-0)
 
 ### 4.5. Enhancements to Dog Licensing and Control By‑law – Focus on Public Safety Risk Dogs
 
+<div id="motion-4-5-2" class="motion-anchor"></div>
+
 > That part a) of the motion BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1470,6 +1490,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.5. Enhancements to Dog Licensing and Control By‑law – Focus on Public Safety Risk Dogs
+
+<div id="motion-4-5-3" class="motion-anchor"></div>
 
 > That part b) of the motion BE APPROVED.
 
@@ -1488,6 +1510,8 @@ Unanimous (4-0)
 
 ### 4.6. Residential Rental Unit Licensing By-law
 
+<div id="motion-4-6-2" class="motion-anchor"></div>
+
 > That the motion BE AMENDED to include a new part to read as follows: The Civic Administration BE DIRECTED to report back with the potential of including signage which could include information about whether or not the property and the units in the property are in compliance with municipal standards.
 
 **✅ Motion Passed (3 to 1) 🔥**
@@ -1505,6 +1529,8 @@ Unanimous (4-0)
 
 ### 4.6. Residential Rental Unit Licensing By-law
 
+<div id="motion-4-6-3" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1512,6 +1538,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 6. (ADDED) Confidential
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > That the Community and Protective Services Committee convene In Closed Session for the purpose of considering the following: 6.1    Solicitor-Client Privilege A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose, with res...
 

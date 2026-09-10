@@ -487,6 +487,8 @@ The meeting adjourned at 7:00 PM.
 
 ### 3.2. 4452 Wellington Road South (OZ-9497)
 
+<div id="motion-3-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by MHBC Planning, on behalf of 2858637 Ontario Inc., relating to the property located at 4452 Wellington Road South: a) the proposed by-law appended to the staff r...
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -504,6 +506,8 @@ The meeting adjourned at 7:00 PM.
 
 ### 3.2. 4452 Wellington Road South (OZ-9497)
 
+<div id="motion-3-2-3" class="motion-anchor"></div>
+
 > Motion to refer consideration of the application to a future Planning and Environment Committee public participation meeting, to allow the residents of Brockley-Shaver to be notified of the proposed application.
 
 **❌ Motion Failed (2 to 3) 🔥**
@@ -520,6 +524,8 @@ The meeting adjourned at 7:00 PM.
 </details>
 
 ### 3.5. 1156 Dundas Street (39T-21508 / Z-9524 / O-9545)
+
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the application by McCormick Villages Inc., relating to lands located at 1156 Dundas Street: a) the proposed by-law appended to the staff report dated October 5, 2022 as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on O...
 

@@ -1876,6 +1876,8 @@ I know a special gallery. and it was a long afternoon waiting to get through thi
 
 ### 2.1. London Transit Commission Governance Review: Appointment of Consultant for RFP 2025-035
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the appointment of a consultant to complete the London Transit Commission Governance Review: a)    KPMG LLP BE APPOINTED as the Consultant to conduct the London T...
 
 **✅ Motion Passed (14 to 0)**
@@ -1883,6 +1885,8 @@ I know a special gallery. and it was a long afternoon waiting to get through thi
 Unanimous (14-0)
 
 ### 2.2. Corporate Growth Projections Update
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the Deputy City Manager, Finance Supports, and the Deputy City Manager, Environment and Infrastructure, the following report with respect to the City of London Corporate Growth Projections 2021-2051, BE RECEIVED...
 
@@ -1901,6 +1905,8 @@ Unanimous (14-0)
 
 ### 2.3. Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > That the delegation requests for K. Morrison, General Manager, Old East Village BIA, J. Herb and M. Legault BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (13 to 0)**
@@ -1908,6 +1914,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### 2.3. Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
+
+<div id="motion-2-3-4" class="motion-anchor"></div>
 
 > That part c) be amended to read as follows: c)    that the potential redevelopment of the city-owned parking lot located at 641 Queens Ave BE REFERRED for Civic Administration to prepare procurement documents and solicit a Request for Expressions of Interest from potential partners to construct n...
 
@@ -1926,6 +1934,8 @@ Unanimous (13-0)
 
 ### 2.3. Mayoral Direction 2024-001, City-owned Parking Lot Redevelopment
 
+<div id="motion-2-3-5" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -1933,6 +1943,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 3.2. Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
+
+<div id="motion-3-2-1" class="motion-anchor"></div>
 
 > Motion to add a new part f) to read as follows: f)  the Civic Administration and the London & Middlesex Community Housing Inc. BE REQUESTED to work together to arrange a series of property inspections of selected London & Middlesex Community Housing properties to be held on selected Saturdays on ...
 
@@ -1951,6 +1963,8 @@ Unanimous (13-0)
 
 ### 3.2. Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-2-2" class="motion-anchor"></div>
+
 > Motion to approve part d) to read as follows: d)  the 2024 Financial Statements BE RECEIVED; and
 
 **✅ Motion Passed (13 to 1)**
@@ -1968,6 +1982,8 @@ Unanimous (13-0)
 
 ### 3.2. Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-2-3" class="motion-anchor"></div>
+
 > Motion to approve parts a) and c): a)  on the recommendation of the City Manager, the proposed by-law as appended to the staff report dated June 17, 2025 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London & Middlesex Community Housing”, BE...
 
 **✅ Motion Passed (13 to 1)**
@@ -1984,6 +2000,8 @@ Unanimous (13-0)
 </details>
 
 ### 3.2. Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions
+
+<div id="motion-3-2-4" class="motion-anchor"></div>
 
 > Motion to approve the balance of the motion.
 

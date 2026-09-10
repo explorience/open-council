@@ -862,6 +862,8 @@ Motion
 ### 2. 2nd Report of the
   Transportation Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -872,6 +874,8 @@ Unanimous (5-0)
 ### 3. 4th Report of the
   Rapid Transit Implementation Working Group
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -881,6 +885,8 @@ Unanimous (5-0)
 
 ### 4. STAFF REPORT - Sole
   Source Award - Acoustic Fiber Optic Monitoring Contract -  Project No. EW3538
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -893,15 +899,7 @@ Unanimous (5-0)
   Contract Award: Tender No.17-06 - 2017 Infrastructure Renewal Program -
   Dundas Street Reconstruction Project
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 6. STAFF REPORT - 2017
-  Annual Warranted Sidewalk Program
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -912,6 +910,20 @@ Unanimous (5-0)
 
 ### 6. STAFF REPORT - 2017
   Annual Warranted Sidewalk Program
+
+<div id="motion-6-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. STAFF REPORT - 2017
+  Annual Warranted Sidewalk Program
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -930,6 +942,8 @@ Unanimous (5-0)
 ### 6. STAFF REPORT - 2017
   Annual Warranted Sidewalk Program
 
+<div id="motion-6-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -940,6 +954,8 @@ Unanimous (5-0)
 ### 7. STAFF REPORT -
   Wonderland Road Environmental Assessment - Southdale Road to Sarnia Road -
   Appointment of Consulting Engineer
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -952,6 +968,8 @@ Unanimous (5-0)
   Contract Award: Tender No. T16-117 Fox Hollow Stormwater Management Facility
   #3 (ES3020-FH3) and Trunk Sanitary Sewer (ES5236-16) Construction Phase 2
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -963,6 +981,8 @@ Unanimous (5-0)
   River Master Plan Environmental Assessment - Appointment of Engineering
   Consultants
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -972,6 +992,8 @@ Unanimous (5-0)
 
 ### 10. STAFF REPORT -
   Forest City Road Race - Finish Line Request
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -984,6 +1006,8 @@ Unanimous (5-0)
   Contract Price Increase: Tender No. T09-50 - Southeast Pumping Station and
   Reservoir Project No. EW3614
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -995,6 +1019,8 @@ Unanimous (5-0)
   Update: Local Improvements Charges (LIC's) for Energy Efficiency
   (Conservation) Improvements
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1005,6 +1031,8 @@ Unanimous (5-0)
 ### 13. STAFF REPORT -
   Strategic Plan Process Variance
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1014,6 +1042,8 @@ Unanimous (5-0)
 
 ### 14. STAFF REPORT -
   Transportation Energy Optimization Plan (TEOP) - Phase 2 Contract Award
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1026,6 +1056,8 @@ Unanimous (5-0)
   Cedar Hollow Developments Limited - Application for Street Renaming -
   Cedarpark Crescent - East of Cedarhollow Boulevard
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1037,6 +1069,8 @@ Unanimous (5-0)
   Nantais, Ministry of Transportation and T. Cross, Dillon Consulting - Highway
   401 Improvements at Pond Mills Road and Veterans Memorial Parkway
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1047,6 +1081,8 @@ Unanimous (4-0)
 ### 17. STAFF DELEGATION-
   Oakridge Area New Sidewalks in 2017 and 2018 - East Mile Road, Oban Crescent,
   West Mile Road, North Mile Road and Green Lane
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1066,6 +1102,8 @@ Unanimous (4-0)
   Oakridge Area New Sidewalks in 2017 and 2018 - East Mile Road, Oban Crescent,
   West Mile Road, North Mile Road and Green Lane
 
+<div id="motion-17-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1074,6 +1112,8 @@ Unanimous (4-0)
 Unanimous (5-0)
 
 ### 18. Deferred Matters List
+
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1084,6 +1124,8 @@ Unanimous (4-0)
 
 ### 19. (ADDED) Basement Flooding Grant Program
   By-law
+
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

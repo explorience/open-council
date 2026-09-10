@@ -219,6 +219,8 @@ The meeting adjourned at 1:10 PM.
 
 ### 2.1. Contract Award Recommendation for Housing Stability Services - Request for Proposal 20-07
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, with the concurrence of the Director, Financial Services, the following actions be taken with respect to the award of the contract for Request for Proposal (RFP) 20-07 Housing Stability Services for ...
 
 **✅ Motion Passed (6 to 0)**
@@ -226,6 +228,8 @@ The meeting adjourned at 1:10 PM.
 Unanimous (6-0)
 
 ### 2.2. Single Source 20-04 - Agreement for London and Middlesex Local Immigration Partnership with WIL Counselling and Training for Employment
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the proposed by-law, as appended to the staff report dated March 31, 2020, BE INTRODUCED at the Municipal Council meeting to be held on April 7, 2020, to: a)     authorize and approve the Purchase of...
 
@@ -235,6 +239,8 @@ Unanimous (5-0)
 
 ### 2.3. Canada-Ontario Housing Benefit (COHB) - Approval of Ontario Transfer Payment Agreement
 
+<div id="motion-2-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home the proposed by-law, as appended to the staff report dated March 31, 2020, BE INTRODUCED at the Municipal Council meeting to be held on April 7, 2020, to: a)     approve a Transfer Payment Agreement, ...
 
 **✅ Motion Passed (6 to 0)**
@@ -242,6 +248,8 @@ Unanimous (5-0)
 Unanimous (6-0)
 
 ### 2.4. Homeless Prevention Standard Form Occupancy Agreement for Head Lease Units
+
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director of Housing, Social Services and Dearness Home, the proposed by-law, as appended to the staff report dated March 31, 2020, BE INTRODUCED at the Municipal Council meeting to be held on April 7, 2020, to: a)     authorize and approve a standard fo...
 
@@ -251,6 +259,8 @@ Unanimous (6-0)
 
 ### 5.1. (ADDED) Councillor M. Salih - New Licensing and Licensing Renewal Requirements
 
+<div id="motion-5-1-1" class="motion-anchor"></div>
+
 > Motion to approve part a), above.
 
 **✅ Motion Passed (5 to 0)**
@@ -258,6 +268,8 @@ Unanimous (6-0)
 Unanimous (5-0)
 
 ### 5.1. (ADDED) Councillor M. Salih - New Licensing and Licensing Renewal Requirements
+
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > Motion to approve parts b), c) and d), above.
 

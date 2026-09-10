@@ -510,6 +510,8 @@ Recording stopped.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.7 BE APPROVED.
 
 **✅ Motion Passed (3 to 0)**
@@ -517,6 +519,8 @@ Recording stopped.
 Unanimous (3-0)
 
 ### 4.2. London's Opioid Crisis
+
+<div id="motion-4-2-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from C. Ryan and J. Scott to be heard at this meeting.
 

@@ -3004,6 +3004,8 @@ Motion Passed
 
 ### 10#5. Ombudsman Investigation
 
+<div id="motion-10-5-0" class="motion-anchor"></div>
+
 > Amend clause 3 by adding the following   new part c):   c)       the   Managing Director, Corporate Services and City Solicitor BE DIRECTED to   report back at the May 22, 2014 special meeting of the Strategic Priorities   and Policy Committee with respect to the process and legislation under whi...
 
 **✅ Motion Passed**
@@ -3011,6 +3013,8 @@ Motion Passed
 Unanimous (14-0)
 
 ### 10#5. Ombudsman Investigation
+
+<div id="motion-10-5-1" class="motion-anchor"></div>
 
 > Amend the end of clause 3 as follows:  by   deleting the words “Section 17 of” and further by deleting the words   “provisions of that Section” and by replacing them with the word “Act”.
 
@@ -3020,6 +3024,8 @@ Unanimous (14-0)
 
 ### 10#5. Ombudsman Investigation
 
+<div id="motion-10-5-2" class="motion-anchor"></div>
+
 > Approve clause 3, as amended.
 
 **✅ Motion Passed**
@@ -3027,6 +3033,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 10#5. Ombudsman Investigation
+
+<div id="motion-10-5-3" class="motion-anchor"></div>
 
 > Amend clause 5 in the first line of   part d), by deleting the words “BE APPROVED effective August 4, 2014;” and by   replacing them with the words “BE INTRODUCED at a future meeting of the   Municipal Council, to come into effect on August 4, 2014;”
 
@@ -3036,6 +3044,8 @@ Unanimous (14-0)
 
 ### 10#5. Ombudsman Investigation
 
+<div id="motion-10-5-4" class="motion-anchor"></div>
+
 > Approve clause 5, as amended.
 
 **✅ Motion Passed**
@@ -3043,6 +3053,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 10#5. Ombudsman Investigation
+
+<div id="motion-10-5-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3052,6 +3064,8 @@ Unanimous (14-0)
 
 ### 10#5. Ombudsman Investigation
 
+<div id="motion-10-5-6" class="motion-anchor"></div>
+
 > 1.                    That, as a procedural matter pursuant to Section 239 (6) of the Municipal   Act, 2001, the following recommendation be forwarded to City Council for   deliberation and a vote in public session:   That,   on the recommendation of the Managing Director, Corporate Services and ...
 
 **✅ Motion Passed**
@@ -3060,6 +3074,8 @@ Unanimous (14-0)
 
 ### 10#5. Ombudsman Investigation
 
+<div id="motion-10-5-7" class="motion-anchor"></div>
+
 > Approve clause 2.   2.                      That, as a procedural matter pursuant to Section 239 (6) of the Municipal   Act, 2001, the following recommendation be forwarded to City Council for   deliberation and a vote in public session:   That, on the recommendation of the Managing Director, Cor...
 
 **✅ Motion Passed**
@@ -3067,6 +3083,8 @@ Unanimous (14-0)
 Unanimous (12-0)
 
 ### 10#5. Ombudsman Investigation
+
+<div id="motion-10-5-8" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, at 8:27 PM regarding a matter pertaining   to instructions and directions to officers and employees of the Corporation   pertaining to a proposed acquisition and/or disposition of land; advice that   is subject to solicito...
 
@@ -3083,6 +3101,8 @@ Unanimous (12-0)
 
 ### 10#5. Ombudsman Investigation
 
+<div id="motion-10-5-9" class="motion-anchor"></div>
+
 > Amend clause 3 in line 8 of part a),   by removing the words “for future use to be determined by the City of London”   and by replacing it with the words “for future multiple uses including Open   Space, future access road and other future municipal uses”.
 
 **✅ Motion Passed**
@@ -3097,6 +3117,8 @@ Unanimous (12-0)
 </details>
 
 ### 10#5. Ombudsman Investigation
+
+<div id="motion-10-5-10" class="motion-anchor"></div>
 
 > Approve clause 3, as amended.
 
@@ -3114,6 +3136,8 @@ Unanimous (12-0)
 ### 12#3. Public Submission -
   Business License - Late Payment Fee
 
+<div id="motion-12-3-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect   to the Business Licence Late Payment Fee:   a)         the   communication dated March 31, 2014, from Mark Watson, Phoenix Car Wash, BE   RECEIVED and BE REFERRED to the Civic Administration to follow up directly   with the individual;   b)      ...
 
 **✅ Motion Passed**
@@ -3122,6 +3146,8 @@ Unanimous (14-0)
 
 ### 14#2. Property located at
   1836 Richmond Street (Z-8229)
+
+<div id="motion-14-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of Western University relating to the property   located at1836 Richmond Street:   a)         the   proposed by-law, as appended to the staff report ...
 
@@ -3132,6 +3158,8 @@ Unanimous (12-0)
 ### 2#6. Key Cultural Prosperity Plan Initiatives to
   be Funded by the Culture Office in 2014
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3140,6 +3168,8 @@ Unanimous (12-0)
 
 ### 3#6. London’s Music Industry Strategy – Terms of
   Reference
+
+<div id="motion-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director,   Corporate Investments and Partnerships, the attached revised   Terms of Reference for the proposed London’s Music Industry Development Task   Force BE ENDORSED; it being noted that the above-noted Terms of   Reference were amended to reflect a minimu...
 
@@ -3150,6 +3180,8 @@ Unanimous (14-0)
 ### 4#3. 4th Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > Amend part a) i) of clause 4, by adding   the following words after the word “Committee:   "and until such time as the Sifton Bog   Monitoring Committee is re-implemented, the Environmental and Ecological   Planning Advisory Committee, or a sub-committee thereof, fulfill the role of   the Sifton ...
 
 **✅ Motion Passed**
@@ -3158,6 +3190,8 @@ Unanimous (14-0)
 
 ### 4#3. 4th Report of the
   Environmental and Ecological Planning Advisory Committee
+
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Approve clause 4, as amended.
 
@@ -3168,6 +3202,8 @@ Unanimous (14-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<div id="motion-iv-0" class="motion-anchor"></div>
+
 > Approve that Council rise and go in   Committee of the Whole, in camera, for the following reasons:
 
 **✅ Motion Passed**
@@ -3176,6 +3212,8 @@ Unanimous (14-0)
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<div id="motion-iv-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3186,6 +3224,8 @@ Unanimous (13-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TENTH MEETING HELD ON APRIL 1, 2014
 
+<div id="motion-vi-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the 10th Meeting   held on April 1, 2014.
 
 **✅ Motion Passed**
@@ -3193,6 +3233,8 @@ Unanimous (13-0)
 Unanimous (14-0)
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve First Reading and Introduction of   Bill No. 210.
 
@@ -3209,6 +3251,8 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-4" class="motion-anchor"></div>
+
 > Approve Second Reading of Bill No. 210.
 
 **✅ Motion Passed**
@@ -3223,6 +3267,8 @@ Unanimous (14-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 210.
 
@@ -3239,6 +3285,8 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-9" class="motion-anchor"></div>
+
 > Approve reconsideration of Bill No. 233.
 
 **✅ Motion Passed**
@@ -3246,6 +3294,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-10" class="motion-anchor"></div>
 
 > Approve First Reading and Introduction of   Bill No. 233.
 
@@ -3262,6 +3312,8 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-11" class="motion-anchor"></div>
+
 > Approve Second Reading of Bill No. 233.
 
 **✅ Motion Passed**
@@ -3276,6 +3328,8 @@ Unanimous (14-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-12" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment   of Bill No. 233.
 
@@ -3292,6 +3346,8 @@ Unanimous (14-0)
 
 ### 10. Wood Burning Stoves
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
 > Approve clause 10, as amended.
 
 **✅ Motion Passed**
@@ -3301,6 +3357,8 @@ Unanimous (14-0)
 ### 14. Street Renaming of
   Tennent Avenue (East Leg)
 
+<div id="motion-14-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3310,6 +3368,8 @@ Unanimous (14-0)
 ### 14. Street Renaming of
   Tennent Avenue (East Leg)
 
+<div id="motion-14-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3318,6 +3378,8 @@ Unanimous (14-0)
 
 ### 16. Request to start
   the April 29, 2014 Planning and Environment Committee meeting at 5:30 PM
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > That, notwithstanding Section 24.11 of the   Council Procedure By-law, the April 29, 2014 meeting of the Planning and Environment   Committee commence at 5:30 PM.
 

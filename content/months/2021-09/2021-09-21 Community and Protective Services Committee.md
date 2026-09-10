@@ -749,6 +749,8 @@ We are adjourned. Thanks, everyone. Thank you.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.3 and 2.5 to 2.10 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -756,6 +758,8 @@ We are adjourned. Thanks, everyone. Thank you.
 Unanimous (5-0)
 
 ### 2.4. Property Standards Matters (March 2021 Council Resolution)
+
+<div id="motion-2-4-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation requests from S. Lawrence, D. Devine, J. Phoenix and N. Chiles, as appended to the Added Agenda to be heard at this meeting.
 
@@ -765,6 +769,8 @@ Unanimous (5-0)
 
 ### 2.4. Property Standards Matters (March 2021 Council Resolution)
 
+<div id="motion-2-4-2" class="motion-anchor"></div>
+
 > Motion to receive the verbal delegations from S. Lawrence, D. Devine, J. Phoenix and N. Chiles as well as the communications listed on the Added Agenda.
 
 **✅ Motion Passed (5 to 0)**
@@ -773,6 +779,8 @@ Unanimous (5-0)
 
 ### 2.4. Property Standards Matters (March 2021 Council Resolution)
 
+<div id="motion-2-4-3" class="motion-anchor"></div>
+
 > Motion to approve part a) of the clause and to receive the staff report.
 
 **✅ Motion Passed (5 to 0)**
@@ -780,6 +788,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. Flyer Deliveries to Residential Properties
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the staff report dated September 21, 2021, with respect to Flyer Deliveries to Residential Properties: a)    the matter of flyer deliveries to residential properties BE REFERRED to a future meeting of the Community and Protective Services Commit...
 

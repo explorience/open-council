@@ -323,14 +323,30 @@ function link(text: string, destPath: string): string {
   return `[${tcell(text)}](<${destPath}>)`;
 }
 
-/** Best-effort link to the underlying motion: prefer the precomputed
- * heading anchor; fall back to the bare meeting page if the anchor is
- * missing (per the stance-engine's guidance — never treat a null anchor as
- * an error). When `anchorAmbiguous` is true (hub-recheck verdict finding
- * 14), this item number collided with another, different heading on the
- * same page and anchors.ts couldn't tell them apart — the link already
- * goes to the bare meeting page (no fragment), and that's disclosed here
- * rather than left for a reader to notice on their own. */
+/** Link to the underlying motion.
+ *
+ * Normally this is the per-motion anchor emitted into the meeting page's
+ * own Votes section for this exact roll call (see scripts/motion-anchor.ts)
+ * — the reader lands on the motion itself, not merely on the agenda item
+ * it belongs to. Where the meeting record carries no such anchor (an older
+ * minutes page with no generated Votes section, or a motion that isn't
+ * rendered there), anchors.ts falls back to identifying the item's heading
+ * by text; where even that can't pick a single heading, `anchorAmbiguous`
+ * is true and the link degrades to the bare meeting page.
+ *
+ * That last case is disclosed in the row rather than left for a reader to
+ * notice. The fallback is kept deliberately, not as a stopgap: a link that
+ * silently points at a DIFFERENT motion would be far worse than one that
+ * admits it can only place the reader on the right page. */
+/** The exact per-row note the fallback emits. Shared so the standing
+ * disclaimer's explanation of the fallback can be keyed on whether the page
+ * actually contains one, rather than describing a case the reader will never
+ * meet: since per-motion anchors are emitted at the source, this note now
+ * fires zero times corpus-wide, but the path stays for records a Votes
+ * section never covered. */
+export const FALLBACK_LINK_NOTE =
+  "*(links to the meeting page — this meeting's record carries no per-motion anchor for this vote, and its agenda item number appears under more than one heading, so no single-motion anchor exists)*";
+
 function motionLink(
   text: string,
   anchor: string | null,
@@ -339,9 +355,7 @@ function motionLink(
 ): string {
   const dest = anchor ?? `/${meetingSlug}`;
   const base = link(text, dest);
-  return anchorAmbiguous
-    ? `${base} *(links to the meeting page — this item shares its heading with another motion, so no single-motion anchor is possible)*`
-    : base;
+  return anchorAmbiguous ? `${base} ${FALLBACK_LINK_NOTE}` : base;
 }
 
 /** Round-2 gate item 8: a committee (any meetingType other than "Council")
@@ -475,7 +489,18 @@ const VOTE_LABEL: Record<string, string> = {
 //     motions render in their own grouped, clearly labeled section on every
 //     issue a councillor has one for (see renderUnclearSection below); they
 //     used to be filtered out entirely despite this exact promise.
-const STANDING_DISCLAIMER = `> **This is a descriptive record, not an endorsement.** Every pattern below is built from real recorded votes since 2023, translated from raw yea/nay into what the vote actually did (see [What Council Actually Controls](/election/what-council-controls) for how much of this any of them controls). It says nothing about a councillor's reasons, character, or fitness for office — only how they voted. Votes with no clear direction ("unclear") are excluded from the pattern counts but listed in their own section below for transparency. Every row links to its source: to the heading for the specific agenda item the motion belongs to (several motion parts under one item normally share that one heading — that's how the source pages are laid out, not an error), or, where an item number is reused for two genuinely different, unrelated motions with no way to tell them apart, to the meeting page as a whole instead (the row says so when that happens).`;
+const STANDING_DISCLAIMER = `> **This is a descriptive record, not an endorsement.** Every pattern below is built from real recorded votes since 2023, translated from raw yea/nay into what the vote actually did (see [What Council Actually Controls](/election/what-council-controls) for how much of this any of them controls). It says nothing about a councillor's reasons, character, or fitness for office — only how they voted. Votes with no clear direction ("unclear") are excluded from the pattern counts but listed in their own section below for transparency. Every row links to its source: to that specific motion's own anchor in the meeting record's vote list, so several motions under one agenda item each land on their own roll call rather than on a shared heading.`;
+
+/** Appended only when a page actually contains a fallback row. The sentence
+ * is true either way, but stating it on a page where it never happens
+ * describes a case no reader will meet. */
+const FALLBACK_DISCLAIMER_SENTENCE =
+  " Where a meeting record carries no per-motion anchor and its item number appears under more than one heading, the row links to the meeting page as a whole instead and says so.";
+
+const standingDisclaimer = (pageBody: string): string =>
+  pageBody.includes(FALLBACK_LINK_NOTE)
+    ? `${STANDING_DISCLAIMER}${FALLBACK_DISCLAIMER_SENTENCE}`
+    : STANDING_DISCLAIMER;
 
 // ---------------------------------------------------------------------------
 // Load data
@@ -1149,7 +1174,7 @@ prefillQuestions: []
 
 ${roleLine} · [Full voting record on Open Council →](/councillors/current/${slug})
 ${candidacyNote}
-${STANDING_DISCLAIMER}
+${standingDisclaimer(sections)}
 ${noPatternNote}
 ${sections}
 

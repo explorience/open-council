@@ -1312,6 +1312,8 @@ Motion carries. Thanks very much, median adjourned. Thank you all.
 
 ### 2.1. Comprehensive Report on Core Area Initiatives
 
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
 > That part d) be amended to read as follows: d)         the Civic Administration BE DIRECTED to report back to a Strategic Priorities and Policy Committee meeting to be held in the 2nd Quarter of 2022 on the status of the geographic distribution of parking demand, parking revenue and any recommend...
 
 **✅ Motion Passed (15 to 0)**
@@ -1319,6 +1321,8 @@ Motion carries. Thanks very much, median adjourned. Thank you all.
 Unanimous (15-0)
 
 ### 2.1. Comprehensive Report on Core Area Initiatives
+
+<div id="motion-2-1-2" class="motion-anchor"></div>
 
 > Motion to approve part e), as follows: e)      the Core Area Ambassador Pilot Program BE APPROVED as described in the above-noted report;
 
@@ -1335,6 +1339,8 @@ Unanimous (15-0)
 
 ### 2.1. Comprehensive Report on Core Area Initiatives
 
+<div id="motion-2-1-3" class="motion-anchor"></div>
+
 > Motion to approve part h) as follows: h)      the Civic Administration BE AUTHORIZED to reallocate the remaining $100,000 in one-time funding that cannot be spent in 2021 due to COVID-19 impacts to other emergent opportunities aligned with the Core Area Action Plan in 2021;
 
 **✅ Motion Passed (10 to 5)**
@@ -1350,6 +1356,8 @@ Unanimous (15-0)
 
 ### 2.2. 2025 Development Charge Study Initiation Report
 
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Development Charge Study: a)      the draft Committee / Council Timetable as appended as Appendix "A" to the staff report dated May 18, 2021 BE ENDORSED; b)      the f...
 
 **✅ Motion Passed (15 to 0)**
@@ -1357,6 +1365,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.2. Request for a Shareholder's Meeting - Housing Development Corporation, London
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2020 Annual General Meeting of the Shareholder for the Housing Development Corporation, London: a)      the 2020 Annual General Meeting of the Shareholder for the Housing Development Corporation, London BE HELD at a meeting of the Strategic ...
 
@@ -1366,6 +1376,8 @@ Unanimous (15-0)
 
 ### 4.3. Request for a Shareholder's Meeting - London Hydro Inc.
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 2020 Annual General Meeting of the Shareholder for London Hydro Inc.:    a)      the 2020 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on June 23, 2021,...
 
 **✅ Motion Passed (15 to 0)**
@@ -1373,6 +1385,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.4. Request for a Shareholder's Meeting - London & Middlesex Community Housing
+
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2020 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing:    a)      the 2020 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing BE HELD at a meeting of the Strategic Pri...
 

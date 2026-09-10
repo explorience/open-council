@@ -2606,6 +2606,8 @@ And again, I wish you all a happy holiday season and a look for a motion to adjo
 
 ### 6.1. Principles Integrity, City of London Integrity Commissioner - Recommendations Report to City Council: Complaints Against Councillor Stevenson
 
+<div id="motion-6-1-1" class="motion-anchor"></div>
+
 > Motion to amend by adding a part b) to read as follows: b)         that in consideration of the Integrity Commissioner’s Findings regarding the breach of Council’s Code of Conduct in the above noted report, that Councillor S. Stevenson formally BE REPRIMANDED.
 
 **✅ Motion Passed (9 to 6) 🔥**
@@ -2620,6 +2622,8 @@ And again, I wish you all a happy holiday season and a look for a motion to adjo
 </details>
 
 ### 6.1. Principles Integrity, City of London Integrity Commissioner - Recommendations Report to City Council: Complaints Against Councillor Stevenson
+
+<div id="motion-6-1-4" class="motion-anchor"></div>
 
 > That part b) and preamble BE APPROVED as follows: That, with respect to the Integrity Commissioner’s Recommendation Report regarding Complaints against Councillor S. Stevenson, the following actions be taken: b)         that in consideration of the Integrity Commissioner’s Findings regarding the ...
 
@@ -2636,6 +2640,8 @@ And again, I wish you all a happy holiday season and a look for a motion to adjo
 
 ### 8.1. 1st Report of the Planning and Environment Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 1st Report of the Planning and Environment Committee BE APPROVED, excluding item 11 (3.3).
 
 **✅ Motion Passed (14 to 0)**
@@ -2643,6 +2649,8 @@ And again, I wish you all a happy holiday season and a look for a motion to adjo
 Unanimous (14-0)
 
 ### 8.1.11. (3.3) 130 Southdale Road West (Z-9663) (Relates to Bill No. 15)
+
+<div id="motion-8-1-11-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, based on the application by Alora Homes, relating to the property located at 130 Southdale Road West, the proposed by-law appended to the Planning and Environment Committee Added Agenda as Appendix "A" BE INTRODUCED at the Mun...
 
@@ -2661,6 +2669,8 @@ Unanimous (14-0)
 
 ### 8.2. 1st Report of the Corporate Services Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That the 1st Report of the Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -2668,6 +2678,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.3. 1st Report of the Community and Protective Services Committee
+
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the 1st Report of the Community and Protective Services Committee BE APPROVED, excluding items 3 (2.1) and 6 (5.1).
 
@@ -2677,6 +2689,8 @@ Unanimous (15-0)
 
 ### 8.3.3. (2.1) Farquharson Arena Amending Agreement (Relates to Bill No. 3)
 
+<div id="motion-8-3-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed by-law, as appended to the staff report, dated December 5, 2023, BE INTRODUCED at the Municipal Council meeting to be held on December 19, 2023, to: a)    approve the Farquharson Arena ...
 
 **✅ Motion Passed (14 to 0)**
@@ -2684,6 +2698,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 8.3.6. (5.1) Councillor Trosow – Amendment to the Streets By-law (S-1) to Regulate the Display of Graphic Images on the Streets in the City of London
+
+<div id="motion-8-3-6-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to prepare a by-law amending the Streets By-law (S-1) to regulate the display of graphic images in the City of London with a report back at a future meeting of the Community and Protective Services Committee and a public participation meeting on the propo...
 
@@ -2700,6 +2716,8 @@ Unanimous (14-0)
 
 ### 8.4. 1st Report of the Civic Works Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 1st Report of the Civic Works Committee BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -2707,6 +2725,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 8.5. 1st Special Report of the Strategic Priorities and Policy Committee
+
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 1st Report of the Strategic Priorities and Policy Committee BE APPROVED.
 
@@ -2716,6 +2736,8 @@ Unanimous (15-0)
 
 ### 8.6. 2nd Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-6-0" class="motion-anchor"></div>
+
 > That the 2nd Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding items 6 (2.4), 7 (2.5), 8 (2.6), and 11 (4.1).
 
 **✅ Motion Passed (15 to 0)**
@@ -2723,6 +2745,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.6.6. (2.4) London Economic Development Corporation Purchase of Services Agreement 2024-2027 (Relates to Bill No. 5)
+
+<div id="motion-8-6-6-0" class="motion-anchor"></div>
 
 > That items 6 (2.4), 7 (2.5), and 8 (2.6) BE APPROVED.
 
@@ -2739,6 +2763,8 @@ Unanimous (15-0)
 
 ### 8.6.11. (4.1) Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
 
+<div id="motion-8-6-11-0" class="motion-anchor"></div>
+
 > That pursuant to section 13.3 of the Council Procedure By-law reconsideration of clause 4.1 of the 10th Report of the Strategic Priorities and Policy Committee regarding Health and Homelessness Summits - Proposed Whole of Community System Response, as approved at the March 7, 2023 meeting of the ...
 
 **✅ Motion Passed (14 to 1)**
@@ -2753,6 +2779,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.6.11. (4.1) Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
+
+<div id="motion-8-6-11-1" class="motion-anchor"></div>
 
 > That Civic Administration BE DIRECTED to adjust the frequency of the overall comprehensive “Progress Update - Health & Homelessness Whole of Community System Response” to quarterly; it being noted that Council, via the Strategic Priorities and Policy Committee, will continue to receive reports on...
 
@@ -2769,6 +2797,8 @@ Unanimous (15-0)
 
 ### 9. Added Reports
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > 1.    Lease of Office Space – Renewal Agreement – 1275 Highbury Avenue North – Northland Mall That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with the concurrence of the Deputy City Manager, Social and Health Development, w...
 
 **✅ Motion Passed (15 to 0)**
@@ -2776,6 +2806,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 13. By-laws
+
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.'s 5 to Bill No. 7, BE APPROVED.
 
@@ -2792,6 +2824,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-7" class="motion-anchor"></div>
+
 > That Second Reading of Bill No.'s 5 to Bill No. 7, BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -2806,6 +2840,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.'s 5 to Bill No. 7, BE APPROVED.
 
@@ -2822,6 +2858,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-9" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No. 15, BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -2837,6 +2875,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-10" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 15, BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -2851,6 +2891,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 15, BE APPROVED.
 

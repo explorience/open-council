@@ -1722,6 +1722,8 @@ The
 ### 2. 4th Report of the
   Agricultural Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1731,6 +1733,8 @@ Unanimous (5-0)
 
 ### 3. West Five
   Subdivision (39T-14503)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1742,6 +1746,8 @@ Unanimous (5-0)
 ### 4. Property located at
   905 Sarnia Road (H-8642)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1752,6 +1758,8 @@ Unanimous (5-0)
 ### 5. Property located at
   930 Gainsborough Road (H-8627)
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1761,6 +1769,8 @@ Unanimous (5-0)
 
 ### 6. Property located at
   193 Clarke Road (H-8625)
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1773,6 +1783,8 @@ Unanimous (5-0)
   Electricity Generation Projects Seeking Ontario Feed-In Tariff Contracts -
   Municipal Council Resolutions for Feed-In Tariff (FIT) 5.0 Prescribed Forms
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1784,6 +1796,8 @@ Unanimous (5-0)
   1345 Whetherfield Street - Disposition of School Site (39T-06501 - 33M-600,
   39T-03501 - 33M-566)
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1793,6 +1807,8 @@ Unanimous (5-0)
 
 ### 9. Portion of 1300
   Fanshawe Park Road East (H-8600)
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1804,6 +1820,8 @@ Unanimous (5-0)
 ### 10. Property located at
   1656 Hyde Park Road
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1813,6 +1831,8 @@ Unanimous (5-0)
 
 ### 11. Property located at
   68 Bruce Street
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1824,6 +1844,8 @@ Unanimous (5-0)
 ### 12. Property located at
   3967 Savoy Street (H-8647)
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1834,15 +1856,7 @@ Unanimous (5-0)
 ### 13. 8th Report of the
   London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 14. Property located at
-  2449 Dundas Street (Z-8609)
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1854,6 +1868,8 @@ Unanimous (5-0)
 ### 14. Property located at
   2449 Dundas Street (Z-8609)
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1863,6 +1879,20 @@ Unanimous (5-0)
 
 ### 14. Property located at
   2449 Dundas Street (Z-8609)
+
+<div id="motion-14-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. Property located at
+  2449 Dundas Street (Z-8609)
+
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1873,6 +1903,8 @@ Unanimous (5-0)
 
 ### 15. Zoning Amendment
   for Private Home Day Cares (Z-8607)
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1884,6 +1916,8 @@ Unanimous (4-0)
 ### 15. Zoning Amendment
   for Private Home Day Cares (Z-8607)
 
+<div id="motion-15-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1894,6 +1928,8 @@ Unanimous (5-0)
 ### 15. Zoning Amendment
   for Private Home Day Cares (Z-8607)
 
+<div id="motion-15-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1903,6 +1939,8 @@ Unanimous (5-0)
 
 ### 16. Property located at
   129 Langarth Street East
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1921,6 +1959,8 @@ Unanimous (5-0)
 ### 16. Property located at
   129 Langarth Street East
 
+<div id="motion-16-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1930,6 +1970,8 @@ Unanimous (5-0)
 
 ### 16. Property located at
   129 Langarth Street East
+
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1941,15 +1983,7 @@ Unanimous (4-0)
 ### 17. Property located at
   269 Thames Street
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 17. Property located at
-  269 Thames Street
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1961,6 +1995,20 @@ Unanimous (5-0)
 ### 17. Property located at
   269 Thames Street
 
+<div id="motion-17-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 17. Property located at
+  269 Thames Street
+
+<div id="motion-17-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1972,16 +2020,7 @@ Unanimous (5-0)
   102 Wharncliffe Road North - Blackfriars/Petersville Heritage Conservation
   District
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 18. Property located at
-  102 Wharncliffe Road North - Blackfriars/Petersville Heritage Conservation
-  District
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1993,6 +2032,21 @@ Unanimous (5-0)
 ### 18. Property located at
   102 Wharncliffe Road North - Blackfriars/Petersville Heritage Conservation
   District
+
+<div id="motion-18-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 18. Property located at
+  102 Wharncliffe Road North - Blackfriars/Petersville Heritage Conservation
+  District
+
+<div id="motion-18-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2003,6 +2057,8 @@ Unanimous (5-0)
 
 ### 19. Downtown Business
   Improvement Area and Old East Village Community Improvement Area (Z-8625)
+
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2021,6 +2077,8 @@ Unanimous (5-0)
 ### 19. Downtown Business
   Improvement Area and Old East Village Community Improvement Area (Z-8625)
 
+<div id="motion-19-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2031,6 +2089,8 @@ Unanimous (5-0)
 ### 19. Downtown Business
   Improvement Area and Old East Village Community Improvement Area (Z-8625)
 
+<div id="motion-19-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2041,15 +2101,7 @@ Unanimous (5-0)
 ### 20. Property located at
   3260 Singleton Avenue (OZ-8606)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 20. Property located at
-  3260 Singleton Avenue (OZ-8606)
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2060,6 +2112,20 @@ Unanimous (4-0)
 
 ### 20. Property located at
   3260 Singleton Avenue (OZ-8606)
+
+<div id="motion-20-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 20. Property located at
+  3260 Singleton Avenue (OZ-8606)
+
+<div id="motion-20-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2070,6 +2136,8 @@ Unanimous (4-0)
 
 ### 21. Great Near-Campus
   Neighbourhoods Strategy Review (OZ-8610)
+
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2088,15 +2156,7 @@ Unanimous (4-0)
 ### 21. Great Near-Campus
   Neighbourhoods Strategy Review (OZ-8610)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 21. Great Near-Campus
-  Neighbourhoods Strategy Review (OZ-8610)
+<div id="motion-21-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2107,6 +2167,20 @@ Unanimous (4-0)
 
 ### 21. Great Near-Campus
   Neighbourhoods Strategy Review (OZ-8610)
+
+<div id="motion-21-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 21. Great Near-Campus
+  Neighbourhoods Strategy Review (OZ-8610)
+
+<div id="motion-21-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2118,6 +2192,8 @@ Unanimous (4-0)
 ### 22. Byron Gravel Pits
   Secondary Plan
 
+<div id="motion-22-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2128,6 +2204,8 @@ Unanimous (4-0)
 ### 23. 6th Report of the
   Trees and Forests Advisory Committee
 
+<div id="motion-23-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2136,6 +2214,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 24. Sign and Canopy By-law
+
+<div id="motion-24-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -2544,6 +2544,8 @@ All those in favor? By motion carries. He had his hand up so, okay.
 
 ### 2.3. 2024 Assessment Growth Funding Allocation
 
+<div id="motion-2-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the 2024 Assessment Growth Funding Allocation report BE RECEIVED for information.
 
 **✅ Motion Passed (11 to 2)**
@@ -2561,6 +2563,8 @@ All those in favor? By motion carries. He had his hand up so, okay.
 
 ### 4.1. Consideration of Appointment to the London & Middlesex Community Housing (Requires 1 Member)
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the appointment to the London and Middlesex Community Housing Board of Directors:    a)  Gregory Thompson BE APPOINTED to the London and Middlesex Community Housing Board of Directors as a Second Class Tenant Member for the term ending December ...
 
 **✅ Motion Passed (13 to 2)**
@@ -2576,6 +2580,8 @@ All those in favor? By motion carries. He had his hand up so, okay.
 
 ### 4.2. Evaluation Framework - Health & Homelessness Whole of Community System Response
 
+<div id="motion-4-2-1" class="motion-anchor"></div>
+
 > That the motion BE AMENDED to direct Civic Administration to report back on the metrics and the report format for the annual data sharing by the end of Q3 2024.
 
 **✅ Motion Passed (15 to 0)**
@@ -2583,6 +2589,8 @@ All those in favor? By motion carries. He had his hand up so, okay.
 Unanimous (15-0)
 
 ### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
+
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to London’s Health & Homelessness Whole of Community System Response Proposed, Highly Supportive Housing Plan report; a)    the Saving Lives, Alleviating Suffering, &...
 
@@ -2599,6 +2607,8 @@ Unanimous (15-0)
 
 ### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
 
+<div id="motion-4-3-4" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: a)    the rationale for the switch from 15 temporary resting space beds at 448 Horton Street to 24 furnished highly supportive housing units at 3...
 
 **❌ Motion Failed (2 to 13)**
@@ -2613,6 +2623,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
+
+<div id="motion-4-3-5" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: b)    the cost breakdowns for this new program (to update Schedule 1, as appended to the staff report dated March 26, 2024) and/or a Draft Operat...
 
@@ -2629,6 +2641,8 @@ Unanimous (15-0)
 
 ### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
 
+<div id="motion-4-3-6" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: c)    recommendations to ensure that “Council-approved” funding arrangements are clear and accountable to specific outcomes; and
 
 **❌ Motion Failed (3 to 12)**
@@ -2643,6 +2657,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.3. London's Health & Homelessness Whole of Community System Response Proposed Highly Supportive Housing Plan
+
+<div id="motion-4-3-7" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with the following items: d)    expectations for sources of funding for future Highly Supportive Housing units and a list other “conversions” being considered.
 
@@ -2659,6 +2675,8 @@ Unanimous (15-0)
 
 ### 4.4. Mobility Master Plan 2050 Mode Share Target
 
+<div id="motion-4-4-1" class="motion-anchor"></div>
+
 > That the delegation requests from M. Wallace, London Development Institute, Ralph Buchal, Chair, Mobility Master Plan Subcommittee, Integrated Transportation Community Advisory Committee and Mary Ann Hodge BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (14 to 0)**
@@ -2666,6 +2684,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 4.4. Mobility Master Plan 2050 Mode Share Target
+
+<div id="motion-4-4-2" class="motion-anchor"></div>
 
 > That the Mobility Master Plan 2050 Mode Share Target report BE RECEIVED and REFERRED to a future meeting of the Strategic Priorities and Policy Committee at the time the Land Needs Assessment Study is complete and report back on the following: a)    a review of Sewer and Water Servicing capacity ...
 
@@ -2682,6 +2702,8 @@ Unanimous (14-0)
 
 ### 4.4. Mobility Master Plan 2050 Mode Share Target
 
+<div id="motion-4-4-3" class="motion-anchor"></div>
+
 > That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan
 
 **✅ Motion Passed (8 to 7) 🔥**
@@ -2696,6 +2718,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.4. Mobility Master Plan 2050 Mode Share Target
+
+<div id="motion-4-4-4" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to change Option 2 to represent 32.5% Mode Share split
 
@@ -2712,6 +2736,8 @@ Unanimous (14-0)
 
 ### 4.4. Mobility Master Plan 2050 Mode Share Target
 
+<div id="motion-4-4-5" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the Mobility Master Plan; a) the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and
 
 **✅ Motion Passed (11 to 4)**
@@ -2727,6 +2753,8 @@ Unanimous (14-0)
 
 ### 4.4. Mobility Master Plan 2050 Mode Share Target
 
+<div id="motion-4-4-6" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the Mobility Master Plan; b) the mode share targets for the Mobility Master Plan BE REVIEWED at least every four years and adjusted appropriately.
 
 **✅ Motion Passed (15 to 0)**
@@ -2734,6 +2762,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 4.4. Mobility Master Plan 2050 Mode Share Target
+
+<div id="motion-4-4-7" class="motion-anchor"></div>
 
 > That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -2750,6 +2780,8 @@ Unanimous (15-0)
 
 ### 4.5. Request for Proposals for External Auditor of the London Transit Commission - Deputy Mayor S. Lewis and Budget Chair E. Peloza
 
+<div id="motion-4-5-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the London Transit Commission:    a) the Civic Administration BE DIRECTED to undertake a Request for Proposals for an external auditor to initiate a comprehensive operations and performance audit of the London Transit Commission, with the follow...
 
 **✅ Motion Passed (14 to 0)**
@@ -2757,6 +2789,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 4.6. Request for Accountability from the London Police Services Board - Mayor J. Morgan and Councillors S. Franke and C. Rahman
+
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to request a letter as an agenda item to the London Police Service Board (LPSB) to discuss and report back to Council on the planned accountability activities including:    Potential Metrics:    Metrics as proposed by LPSB in the police budget business ca...
 
@@ -2766,6 +2800,8 @@ Unanimous (14-0)
 
 ### 4.7. 2nd Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee
 
+<div id="motion-4-7-1" class="motion-anchor"></div>
+
 > That the request to reconfigure the Terms of Reference for the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) specifically in order to better utilize the talents, efforts and viewpoints of racialized communities within the City of London BE REFERRED to the Governan...
 
 **✅ Motion Passed (14 to 0)**
@@ -2774,6 +2810,8 @@ Unanimous (14-0)
 
 ### 4.8. Request for an Off-Site Meeting - Mayor J. Morgan
 
+<div id="motion-4-8-0" class="motion-anchor"></div>
+
 > That, the following actions be taken with respect to a change of location for a meeting of Municipal Council of the City of London on April 17, 2023, starting at 5:00 PM: a)    pursuant to s.236(2) of the Municipal Act, 2001, a change in meeting location from Council Chambers to the Oneida Nation...
 
 **✅ Motion Passed (14 to 0)**
@@ -2781,6 +2819,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 5.1. (ADDED) Request for Support for the Thames Valley District School Board - Councillors C. Rahman and A. Hopkins
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Mayor BE REQUESTED to send a further communication on behalf of London City Council with particular focus on the pressing needs for approval on the West London and Southwest London schools in order to option school blocks set to expire in the near term.
 

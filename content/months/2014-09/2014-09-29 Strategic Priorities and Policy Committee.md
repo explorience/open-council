@@ -370,6 +370,8 @@ The
 ### 2. Economic
   Development Review - Next Steps
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -388,6 +390,8 @@ The
   Striking Committee
   and Appointment Process
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -398,6 +402,8 @@ Unanimous (12-0)
 ### 3. Appointments to the
   Striking Committee
   and Appointment Process
+
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -410,23 +416,7 @@ Unanimous (10-0)
   Striking Committee
   and Appointment Process
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Russell Monteith](/councillors/former/w-r-monteith), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant)
-
-**Nay (1):** [Sandy White](/councillors/former/s-white)
-
-</details>
-
-### 3. Appointments to the
-  Striking Committee
-  and Appointment Process
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -446,6 +436,28 @@ Unanimous (10-0)
   Striking Committee
   and Appointment Process
 
+<div id="motion-3-3" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Russell Monteith](/councillors/former/w-r-monteith), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Judy Bryant](/councillors/former/j-p-bryant)
+
+**Nay (1):** [Sandy White](/councillors/former/s-white)
+
+</details>
+
+### 3. Appointments to the
+  Striking Committee
+  and Appointment Process
+
+<div id="motion-3-4" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -456,6 +468,8 @@ Unanimous (12-0)
 ### 4. 1st Report of the
   Governance Working Group
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -465,6 +479,8 @@ Unanimous (12-0)
 
 ### 4. 1st Report of the
   Governance Working Group
+
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -482,6 +498,8 @@ Unanimous (12-0)
 
 ### 5. Council Housing Leadership Committee and
   Creative City Committee
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

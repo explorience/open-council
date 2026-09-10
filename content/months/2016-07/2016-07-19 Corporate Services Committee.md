@@ -455,6 +455,8 @@ The Corporate Services Committee convened
 ### 2. STAFF REPORT -
   Promissory Note Between The City of London and London Convention Centre.
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -464,6 +466,8 @@ Unanimous (3-0)
 
 ### 3. STAFF REPORT -
   Council Remuneration Reporting Process
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -475,6 +479,8 @@ Unanimous (3-0)
 ### 4. STAFF REPORT - Standardization
   of Office Furniture and Moveable Wall Systems
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -484,6 +490,8 @@ Unanimous (3-0)
 
 ### 5. STAFF REPORT - RFP
   16-03 Security Information and Event Management System Replacement
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -496,15 +504,7 @@ Unanimous (3-0)
   Offer to Purchase Industrial Lands - Bruder Realty Ltd. - Lot 7- River Road
   Industrial Park
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (3-0)
-
-### 7. STAFF REPORT - Amendments
-  to Municipal Elections Act
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -515,6 +515,20 @@ Unanimous (3-0)
 
 ### 7. STAFF REPORT - Amendments
   to Municipal Elections Act
+
+<div id="motion-7-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (3-0)
+
+### 7. STAFF REPORT - Amendments
+  to Municipal Elections Act
+
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -533,15 +547,7 @@ Unanimous (3-0)
 ### 8. STAFF REPORT -
   Apportionment of Taxes
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (3-0)
-
-### 8. STAFF REPORT -
-  Apportionment of Taxes
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -552,6 +558,20 @@ Unanimous (3-0)
 
 ### 8. STAFF REPORT -
   Apportionment of Taxes
+
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (3-0)
+
+### 8. STAFF REPORT -
+  Apportionment of Taxes
+
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -563,15 +583,7 @@ Unanimous (3-0)
 ### 9. PUBLIC SUBMISSION -
   2015 Reserve/Reserve Fund Balances
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (3-0)
-
-### 10. Advisory Committee
-  on the Environment
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -582,6 +594,20 @@ Unanimous (3-0)
 
 ### 10. Advisory Committee
   on the Environment
+
+<div id="motion-10-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (3-0)
+
+### 10. Advisory Committee
+  on the Environment
+
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -592,6 +618,8 @@ Unanimous (3-0)
 
 ### 11. Corporate Services
   Committee Deferred Matters List
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

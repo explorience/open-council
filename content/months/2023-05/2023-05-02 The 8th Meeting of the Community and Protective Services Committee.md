@@ -215,6 +215,8 @@ Thank you.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.4 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**

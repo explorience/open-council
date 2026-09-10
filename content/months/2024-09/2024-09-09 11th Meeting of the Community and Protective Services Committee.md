@@ -1314,6 +1314,8 @@ Councillor Trusso was that a Councillor Ferri you can move your you can move it 
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 and 2.5 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1321,6 +1323,8 @@ Councillor Trusso was that a Councillor Ferri you can move your you can move it 
 Unanimous (6-0)
 
 ### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
+
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > Motion to approve the requests for delegation, as listed on the Added Agenda, from K. Andrews, C. Wittnebel, J.M. Smith, M. Jollymore, T. Jollymore, D. Millette and R. Slade, to be heard at this meeting.
 
@@ -1337,6 +1341,8 @@ Unanimous (6-0)
 
 ### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
 
+<div id="motion-2-2-2" class="motion-anchor"></div>
+
 > That the matter of renovictions and amendments to the business licensing by-law BE REFERRED back to the Civic Administration to report back to a future meeting of the Community and Protective Services Committee to include rent top ups and alternate accommodations as part of the by-law.
 
 **❌ Motion Failed (2 to 4) 🔥**
@@ -1351,6 +1357,8 @@ Unanimous (6-0)
 </details>
 
 ### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
+
+<div id="motion-2-2-3" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to amend By-law No. L.-131-16, being “A by-law to provide for the Licensing and Regulation of Various Businesses”, attached to the CPSC report, to include temporary alternative accommodation for displaced tenants and short-term rental top ups as provided ...
 
@@ -1367,6 +1375,8 @@ Unanimous (6-0)
 
 ### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
 
+<div id="motion-2-2-4" class="motion-anchor"></div>
+
 > Motion to approve parts a) to d) of the main motion.
 
 **✅ Motion Passed (5 to 0)**
@@ -1374,6 +1384,8 @@ Unanimous (6-0)
 Unanimous (5-0)
 
 ### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
+
+<div id="motion-2-2-5" class="motion-anchor"></div>
 
 > Motion to approve part e) of the main motion: e)    that NO ACTION BE TAKEN to amend By-law No. CP-19, the Residential Rental Unit Licensing By-law to expand the program to licence all multi-unit residential dwellings up to and including four (4) storeys in height or less, including those units c...
 
@@ -1392,6 +1404,8 @@ Unanimous (5-0)
 
 ### 2.3. Regulating Maximum Temperature in Rental Units
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > Motion to approve the delegation requests, as appended to the Agenda and the Added Agenda, from K. Pagniello and A.M. Valastro, to be heard at this meeting
 
 **✅ Motion Passed (5 to 0)**
@@ -1400,6 +1414,8 @@ Unanimous (5-0)
 
 ### 2.3. Regulating Maximum Temperature in Rental Units
 
+<div id="motion-2-3-2" class="motion-anchor"></div>
+
 > Motion to approve part a) of the motion.
 
 **✅ Motion Passed (5 to 0)**
@@ -1407,6 +1423,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.3. Regulating Maximum Temperature in Rental Units
+
+<div id="motion-2-3-3" class="motion-anchor"></div>
 
 > Motion to approve part b) of the motion.
 
@@ -1425,6 +1443,8 @@ Unanimous (5-0)
 
 ### 2.4. Special Events Policy Update
 
+<div id="motion-2-4-1" class="motion-anchor"></div>
+
 > Motion to approve the request for delegation, as appended to the Added Agenda, from A.M. Valastro, to be heard at this meeting.
 
 **✅ Motion Passed (5 to 0)**
@@ -1432,6 +1452,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.4. Special Events Policy Update
+
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > Motion to approve a new part d): the Civic Administration BE DIRECTED to hold a hybrid community meeting with residents and neighborhood associations near Victoria Park, Harris Park, and Dundas Place to address the impact of changes to the Special Events Policy on their neighborhoods.
 
@@ -1450,6 +1472,8 @@ Unanimous (5-0)
 
 ### 2.4. Special Events Policy Update
 
+<div id="motion-2-4-3" class="motion-anchor"></div>
+
 > Motion to approve the motion, as amended.
 
 **✅ Motion Passed (5 to 0)**
@@ -1458,6 +1482,8 @@ Unanimous (5-0)
 
 ### 4.1. Life*Spin - Property Standards and Tenant Support - REQUEST FOR DELEGATION STATUS
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the request for delegation status from Life*Spin, as appended to the agenda, with respect to Property Standards and Tenant Support, BE APPROVED to be heard at a future meeting of the Community and Protective Services Committee. (2024-A20)
 
 **✅ Motion Passed (6 to 0)**
@@ -1465,6 +1491,8 @@ Unanimous (5-0)
 Unanimous (6-0)
 
 ### 6. Confidential
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Items 6.1 in Stage 6, Confidential, to be considered in Stage 4, Items for Direction
 

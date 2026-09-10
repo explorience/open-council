@@ -2065,6 +2065,8 @@ No, motion carries. We are adjourned.
 
 ### 8.1. 2nd Report of the Corporate Services Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 2nd Report of the Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -2072,6 +2074,8 @@ No, motion carries. We are adjourned.
 Unanimous (15-0)
 
 ### 8.2. 2nd Report of the Community and Protective Services Committee
+
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 2nd Report of the Community and Protective Services Committee BE APPROVED.
 
@@ -2081,6 +2085,8 @@ Unanimous (15-0)
 
 ### 8.3. 2nd Report of the Civic Works Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 2nd Report of the Civic Works Committee BE APPROVED, excluding item 7 (clause 5.2).
 
 **✅ Motion Passed (15 to 0)**
@@ -2088,6 +2094,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.7. (5.2) 1st Report of the Integrated Transportation Advisory Committee
+
+<div id="motion-8-3-7-1" class="motion-anchor"></div>
 
 > That item 7 (clause 5.2) of the 2nd Report of Civic Works Committee with respect to actions on the report from Integrated Transportation Community Advisory Committees BE REFERRED to the next regular meeting of Strategic Priorities and Policy Committee for consideration.
 
@@ -2097,6 +2105,8 @@ Unanimous (15-0)
 
 ### 8.4. 4th Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -2104,6 +2114,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.5. 5th Report of the Strategic Priorities and Policy Committee
+
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the 5th Report of the Strategic Priorities and Policy Committee BE APPROVED.
 
@@ -2113,6 +2125,8 @@ Unanimous (15-0)
 
 ### 8.6. 6th Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-6-0" class="motion-anchor"></div>
+
 > That the 6th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding item 8 (clause 4.3).
 
 **✅ Motion Passed (15 to 0)**
@@ -2120,6 +2134,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.6.8. (4.3) Consideration of Appointment to the Lower Thames Valley Conservation Authority
+
+<div id="motion-8-6-8-0" class="motion-anchor"></div>
 
 > That Marie Blosh BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 14, 2026; it being noted that approval from the Minister of Environment Conservation and Parks (MECP) is required.
 
@@ -2129,6 +2145,8 @@ Unanimous (14-0)
 
 ### 8.7. 2nd Report of the Planning and Environment Committee
 
+<div id="motion-8-7-0" class="motion-anchor"></div>
+
 > That the 2nd Report of the Planning and Environment Committee BE APPROVED, excluding item 16 (clause 3.7); it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal Council, as ...
 
 **✅ Motion Passed (15 to 0)**
@@ -2137,6 +2155,8 @@ Unanimous (15-0)
 
 ### 8.7.16. (3.7) 942 Westminster Drive (Relates to Bill No. 44)
 
+<div id="motion-8-7-16-1" class="motion-anchor"></div>
+
 > That item 16, clause 3.7, as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -2144,6 +2164,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 9.1. 3rd Report of Council in Closed Session
+
+<div id="motion-9-1-0" class="motion-anchor"></div>
 
 > 1.    Integrated Employment Services – Ontario Transfer Payment Agreement That, on the recommendation of the Deputy City Manager, Social and Health Development, the Civic Administration BE DIRECTED to take all necessary actions with respect to delegation of authority to negotiate with His Majesty...
 

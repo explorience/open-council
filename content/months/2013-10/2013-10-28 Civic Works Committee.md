@@ -425,6 +425,8 @@ The meeting adjourned at 6:35 PM.
 ### 2. 1st Report of the
   LTC Long-Term Growth Report Working Group
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -435,6 +437,8 @@ Unanimous (5-0)
 ### 3. 7th Report of the
   Transportation Advisory Committee
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -445,6 +449,8 @@ Unanimous (5-0)
 ### 4. Greenway Wastewater
   Treatment Plant Expansion and Upgrade Update
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -454,6 +460,8 @@ Unanimous (4-0)
 
 ### 4. Greenway Wastewater
   Treatment Plant Expansion and Upgrade Update
+
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -465,6 +473,8 @@ Unanimous (4-0)
 ### 5. Selling Greenhouse
   Gas Emission Offsets from W12A Landfill Gas Flaring System
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -474,6 +484,8 @@ Unanimous (5-0)
 
 ### 6. Wellington Street
   Parking Meters
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -485,6 +497,8 @@ Unanimous (5-0)
 ### 7. Adelaide
   Street/Canadian Pacific Railway Grade Separation
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -495,15 +509,7 @@ Unanimous (6-0)
 ### 8. 2012 Community
   Energy and Greenhouse Gas Inventory: Challenges and Opportunities
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 9. Waste Diversion and
-  Garbage Collection Updates
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -514,6 +520,20 @@ Unanimous (6-0)
 
 ### 9. Waste Diversion and
   Garbage Collection Updates
+
+<div id="motion-9-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 9. Waste Diversion and
+  Garbage Collection Updates
+
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -532,6 +552,8 @@ Unanimous (6-0)
 ### 10. Sanitary Service
   Agreement between the City of London and Middlesex Centre
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -542,6 +564,8 @@ Unanimous (5-0)
 ### 11. Water Bill
   Investigation
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -551,6 +575,8 @@ Unanimous (3-0)
 
 ### 12. Water Power Imports
   from Quebec
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

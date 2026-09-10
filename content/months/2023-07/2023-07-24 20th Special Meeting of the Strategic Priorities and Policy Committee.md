@@ -1495,6 +1495,8 @@ Lazenby have any thoughts in terms of the staffing capacities in the system beyo
 
 ### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > That the following delegations BE APPROVED to be heard at this time: - M. Wallace, London Development Institute; - J. Herb
 
 **✅ Motion Passed (14 to 1)**
@@ -1509,6 +1511,8 @@ Lazenby have any thoughts in terms of the staffing capacities in the system beyo
 </details>
 
 ### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > That consideration of the matter of London's Health and Homelessness Whole of Community System Response BE REFERRED to a future special meeting of the Strategic Priorities and Policy Committee which would include a public participation meeting.
 
@@ -1525,6 +1529,8 @@ Lazenby have any thoughts in terms of the staffing capacities in the system beyo
 
 ### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
 
+<div id="motion-4-1-6" class="motion-anchor"></div>
+
 > That part g) BE AMENDED to read as follows: “g)     the Mayor and the Budget Chair BE APPOINTED to represent the Municipal Council at the Strategy and Accountability table, for the Whole of Community System response, with the Deputy Mayor to serve as an alternate for either, if required; and”
 
 **✅ Motion Passed (15 to 0)**
@@ -1532,6 +1538,8 @@ Lazenby have any thoughts in terms of the staffing capacities in the system beyo
 Unanimous (15-0)
 
 ### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+<div id="motion-4-1-7" class="motion-anchor"></div>
 
 > Motion to approve part a): That the following actions be taken with respect to the London’s Health & Homelessness Whole of Community System Response Proposed Hubs Implementation Plan report dated July 24, 2023: a)    the London’s Health & Homelessness Whole of Community System Response Proposed H...
 
@@ -1548,6 +1556,8 @@ Unanimous (15-0)
 
 ### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
 
+<div id="motion-4-1-8" class="motion-anchor"></div>
+
 > Motion to approve part b): b)    the Civic Administration BE DIRECTED to undertake a competitive procurement process to select the Lead Agencies and their corresponding locations for the implementation of the first five Hubs and report back with the results and sources of financing for approval;
 
 **✅ Motion Passed (12 to 3)**
@@ -1563,6 +1573,8 @@ Unanimous (15-0)
 
 ### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
 
+<div id="motion-4-1-9" class="motion-anchor"></div>
+
 > Motion to approve the balance of the motion, including the amended part g), c)    the Civic Administration BE DIRECTED to secure sources of financing to support the implementation of the first five Hubs including a request through the London Community Foundation for access to the Health and Homel...
 
 **✅ Motion Passed (14 to 1)**
@@ -1577,6 +1589,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.2. July Progress Update - Health and Homelessness Whole of Community System Response
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken: a)    the July Progress Update – Health & Homelessness Whole of Community System Response Report BE RECEIVED for information; b)    the Request for Proposal (RFP-2023-174) submit...
 

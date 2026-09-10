@@ -2767,15 +2767,7 @@ The Corporate Services Committee convened
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (14-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2786,6 +2778,20 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (14-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2796,6 +2802,8 @@ Unanimous (15-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2814,6 +2822,8 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-4" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2830,6 +2840,8 @@ Unanimous (15-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-5" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -2848,6 +2860,8 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-6" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2857,6 +2871,8 @@ Unanimous (13-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-7" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2875,6 +2891,8 @@ Unanimous (13-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-8" class="motion-anchor"></div>
+
 > Motion   Lost
 
 **❌  🔥**
@@ -2890,6 +2908,8 @@ Unanimous (13-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-9" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2908,6 +2928,8 @@ Unanimous (13-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-10" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2918,6 +2940,8 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-11" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2927,6 +2951,8 @@ Unanimous (15-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-12" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2945,6 +2971,8 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-13" class="motion-anchor"></div>
+
 > Motion   to Approve clauses 2e)i) to 2e)iv) (Business Cases #14 to #17):   Motion    Passed
 
 **✅ Motion 
@@ -2962,6 +2990,8 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-14" class="motion-anchor"></div>
+
 > Motion to Approve clause   2e)v) (Business Case #18):    MOTION LOST
 
 **❌  🔥**
@@ -2977,6 +3007,8 @@ Unanimous (15-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-15" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2995,6 +3027,8 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-16" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3011,6 +3045,8 @@ Unanimous (15-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-17" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3029,6 +3065,8 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-18" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3046,6 +3084,8 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-19" class="motion-anchor"></div>
+
 > Motion   Lost
 
 **❌  🔥**
@@ -3062,6 +3102,8 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-20" class="motion-anchor"></div>
+
 > Motion   Lost
 
 **❌ **
@@ -3077,6 +3119,8 @@ Unanimous (15-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-21" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3095,6 +3139,8 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-22" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3105,20 +3151,7 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
-
-</details>
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-23" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3134,6 +3167,25 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-24" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
+
+</details>
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-25" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3152,6 +3204,8 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-26" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3168,6 +3222,8 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-27" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3186,15 +3242,7 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (14-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-28" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3205,6 +3253,20 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-29" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (14-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-30" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3215,6 +3277,8 @@ Unanimous (15-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-31" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3233,6 +3297,8 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-32" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3250,15 +3316,7 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (14-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-33" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3269,6 +3327,20 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-34" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (14-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-35" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3287,15 +3359,7 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (14-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-36" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3306,6 +3370,20 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-37" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (14-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-38" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3324,6 +3402,8 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-39" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3341,15 +3421,7 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (14-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-40" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3361,6 +3433,8 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-41" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3370,6 +3444,20 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-42" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (14-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-43" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -3388,6 +3476,8 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-44" class="motion-anchor"></div>
+
 > Motion   Failed
 
 **❌ Motion
@@ -3405,22 +3495,7 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Failed
-
-**❌ Motion
-  Failed 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill)
-
-**Nay (7):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Stephen Orser](/councillors/former/s-orser), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
-
-</details>
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-45" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -3438,6 +3513,27 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-46" class="motion-anchor"></div>
+
+> Motion   Failed
+
+**❌ Motion
+  Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Bud Polhill](/councillors/former/b-polhill)
+
+**Nay (7):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Stephen Orser](/councillors/former/s-orser), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
+
+</details>
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-47" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -3456,6 +3552,8 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-48" class="motion-anchor"></div>
+
 > Motion   Failed
 
 **❌ Motion
@@ -3472,6 +3570,8 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-49" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3490,6 +3590,8 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-50" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3506,6 +3608,8 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-51" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3524,6 +3628,8 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-52" class="motion-anchor"></div>
+
 > Motion   Failed
 
 **❌ Motion
@@ -3541,22 +3647,7 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Passed
-
-**✅ Motion
-  Passed 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
-
-**Nay (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill)
-
-</details>
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-53" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3574,6 +3665,27 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-54" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill)
+
+</details>
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-55" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3585,15 +3697,7 @@ Unanimous (13-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (14-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-58" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3604,6 +3708,20 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-59" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (14-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-60" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -3622,6 +3740,8 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-61" class="motion-anchor"></div>
+
 > Motion   Failed
 
 **❌ Motion
@@ -3638,6 +3758,8 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-62" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3656,6 +3778,8 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-63" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3665,6 +3789,8 @@ Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-64" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3676,15 +3802,7 @@ Unanimous (12-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (14-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-65" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3696,35 +3814,19 @@ Unanimous (14-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (13-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-66" class="motion-anchor"></div>
 
 > Motion   Passed
 
 **✅ Motion
   Passed**
 
-Unanimous (15-0)
+Unanimous (14-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (15-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
+<div id="motion-2-67" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3736,6 +3838,8 @@ Unanimous (13-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-68" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3746,6 +3850,20 @@ Unanimous (15-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-69" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (15-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-70" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3755,6 +3873,32 @@ Unanimous (13-0)
 
 ### 2. CORPORATE OPERATING
   BUDGET
+
+<div id="motion-2-71" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (15-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-72" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (13-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+
+<div id="motion-2-56" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -3773,6 +3917,8 @@ Unanimous (13-0)
 ### 2. CORPORATE OPERATING
   BUDGET
 
+<div id="motion-2-57" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3785,6 +3931,8 @@ Unanimous (13-0)
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3804,6 +3952,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3824,18 +3974,7 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (14-0)
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-Thursday,
-  February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
-  required)
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3849,6 +3988,23 @@ Unanimous (14-0)
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-3" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (14-0)
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+Thursday,
+  February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
+  required)
+
+<div id="motion-3-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3870,18 +4026,7 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (14-0)
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-Thursday,
-  February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
-  required)
+<div id="motion-3-5" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3896,6 +4041,23 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-6" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (14-0)
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+Thursday,
+  February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
+  required)
+
+<div id="motion-3-7" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3909,18 +4071,7 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (15-0)
-
-### 3. CORPORATE CAPITAL
-  BUDGET
-Thursday,
-  February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
-  required)
+<div id="motion-3-8" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3935,6 +4086,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-9" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3947,6 +4100,23 @@ Unanimous (15-0)
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-10" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (15-0)
+
+### 3. CORPORATE CAPITAL
+  BUDGET
+Thursday,
+  February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
+  required)
+
+<div id="motion-3-11" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -3968,6 +4138,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-12" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3980,6 +4152,8 @@ Unanimous (12-0)
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-14" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -4001,6 +4175,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-15" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -4021,6 +4197,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-16" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -4040,6 +4218,8 @@ Thursday,
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-17" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -4054,6 +4234,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-18" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -4073,6 +4255,8 @@ Thursday,
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-19" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -4094,6 +4278,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-20" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -4113,6 +4299,8 @@ Thursday,
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-21" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -4134,6 +4322,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-22" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -4153,6 +4343,8 @@ Thursday,
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-23" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -4174,6 +4366,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-24" class="motion-anchor"></div>
+
 > 
 
 **❌  🔥**
@@ -4192,6 +4386,8 @@ Thursday,
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-25" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -4213,6 +4409,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-26" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -4232,6 +4430,8 @@ Thursday,
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-27" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -4253,6 +4453,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-28" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -4272,6 +4474,8 @@ Thursday,
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-29" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -4293,6 +4497,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-30" class="motion-anchor"></div>
+
 > Motion   Failed
 
 **❌ Motion
@@ -4312,6 +4518,8 @@ Thursday,
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-31" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -4333,6 +4541,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-32" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -4352,6 +4562,8 @@ Thursday,
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
+
+<div id="motion-3-33" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -4373,6 +4585,8 @@ Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
 
+<div id="motion-3-13" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -4391,6 +4605,8 @@ Thursday,
   That the additional Business Case for the Municipal Tree Planting Fund -
   "Tree Bank" in the amount of $50,000 BE APPROVED for inclusion in
   the 2014 Budget and the 2014 Budget BE ADJUSTED accordingly.
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -4411,6 +4627,8 @@ Thursday,
   Urban Regeneration, in the amount of $85K BE APPROVED for inclusion in the
   2014 Budget and the 2014 Budget BE ADJUSTED accordingly.
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -4422,6 +4640,8 @@ Unanimous (15-0)
   Recommendation: That the additional Business Case for  Community Planning -
   Urban Regeneration, in the amount of $85K BE APPROVED for inclusion in the
   2014 Budget and the 2014 Budget BE ADJUSTED accordingly.
+
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -4447,6 +4667,8 @@ a)            unallocated
 b)            $1.2
   Million in unallocated capital levy BE USED for tax mitigation purposes.
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -4463,6 +4685,8 @@ a)            unallocated
  
 b)            $1.2
   Million in unallocated capital levy BE USED for tax mitigation purposes.
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -4487,6 +4711,8 @@ a)            unallocated
  
 b)            $1.2
   Million in unallocated capital levy BE USED for tax mitigation purposes.
+
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

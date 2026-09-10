@@ -551,6 +551,8 @@ The meeting adjourned at 6:41 PM.
 
 ### 2. Consent
 
+<div id="motion-2-1" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.3, 2.5 and 2.7 to 2.13, BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -558,6 +560,8 @@ The meeting adjourned at 6:41 PM.
 Unanimous (4-0)
 
 ### 2.4. Landfill Gas (LFG) Utilization – Next Steps in the Development of a Renewable Natural Gas (RNG) Facility
+
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, and on the advice of the Director, Environment, Fleet and Solid Waste, the following actions be taken with respect to potentially supplying FortisBC Energy Inc. with Renewable Natural G...
 
@@ -567,6 +571,8 @@ Unanimous (4-0)
 
 ### 2.6. Automated Speed Enforcement Contract Award
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Automated Speed Enforcement Program: a)            Redflex Traffic Systems (Canada) Limited, BE AWARDED the contract for the provision...
 
 **✅ Motion Passed (4 to 0)**
@@ -574,6 +580,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 3.2. Area Speed Limit Program
+
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That the staff report dated September 24, 2019, with respect to an Area Speed Limit Program, BE REFERRED back to the Civic Administration in order to consult with the London Transit Commission and report back at a future meeting of the Civic Works Committee regarding the effect a change to speed ...
 
@@ -592,6 +600,8 @@ Unanimous (4-0)
 
 ### 4.1. Parking Changes – Councillor S. Lewis
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED to bring forward a report to a future meeting of the Civic Works Committee with details on potential impacts and recommendations on implementing the following changes to parking restrictions: a)            the overnight parking ban program be amended to b...
 
 **✅ Motion Passed (4 to 0)**
@@ -599,6 +609,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.1. Parking Changes – Councillor S. Lewis
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve that the Civic Administration report back with respect to the potential to repeal the by-law prohibiting homeowners from parking a vehicle in their driveway parallel to the road way.
 

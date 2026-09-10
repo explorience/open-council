@@ -494,6 +494,8 @@ The meeting adjourns at 7:54 PM.
 
 ### 2.3. COVID-19 Financial Impacts - Update
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > The Civic Administration BE AUTHORIZED to further extend the deferral period, on Community Improvement Plan loan repayments, on an interest-free basis for a further period of 90 days, being June, July and August 2020, where the applicant has requested a further deferral in writing; it being noted...
 
 **✅ Motion Passed (14 to 0)**
@@ -502,6 +504,8 @@ Unanimous (14-0)
 
 ### 2.3. COVID-19 Financial Impacts - Update
 
+<div id="motion-2-3-2" class="motion-anchor"></div>
+
 > The Civic Administration BE AUTHORIZED to further extend the deferral period for the loan payments on the interest-free loan to the London Community Players until January 2021; it being noted that the January loan repayments will be cashed as planned.
 
 **✅ Motion Passed (14 to 0)**
@@ -509,6 +513,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 2.3. COVID-19 Financial Impacts - Update
+
+<div id="motion-2-3-3" class="motion-anchor"></div>
 
 > The Civic Administration BE DIRECTED to remove Item 10 “Golf” from Table 3 (as included in the staff report dated June 23, 2020) – Additional Proposed Service Adjustments – related to the closure of River Road Golf for the 2020 season, and the Civic Administration BE DIRECTED to open the River Ro...
 
@@ -525,6 +531,8 @@ Unanimous (14-0)
 
 ### 2.3. COVID-19 Financial Impacts - Update
 
+<div id="motion-2-3-4" class="motion-anchor"></div>
+
 > Item 10 - Golf operating service adjustments identified in the above-noted Table 3 BE APPROVED, noting the anticipated service impacts associated with these actions;
 
 **✅ Motion Passed (10 to 4)**
@@ -539,6 +547,8 @@ Unanimous (14-0)
 </details>
 
 ### 2.4. 2020 Assessment Growth Funding Allocation
+
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > Motion to approve part b)i): b)      notwithstanding Council’s Assessment Growth Policy, for 2020, the following actions be taken:       i) recognizing that the London Police Services Board has voted to defer three police positions provided for in its original 2020 Assessment Growth Business Case...
 
@@ -555,6 +565,8 @@ Unanimous (14-0)
 
 ### 2.4. 2020 Assessment Growth Funding Allocation
 
+<div id="motion-2-4-3" class="motion-anchor"></div>
+
 > Motion to approve part b)ii) ii) subject to the approval of part b)i) above, the proposed 2020 funding for the three positions BE REALLOCATED to support the 2020 Assessment Growth Business Case #13 Homeless Prevention - Homeless Prevention Allowances.
 
 **✅ Motion Passed (15 to 0)**
@@ -562,6 +574,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 5.1. (ADDED) Community Recovery Plan
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to develop and report back as soon as possible with a proposed model to bring together community partners in the development of a community recovery plan in response to the COVID-19 crisis, included therein the ability for such a model to capture short te...
 

@@ -293,14 +293,7 @@ Passed
 ### 2. Setting Priorities
   - Council's 2016 - 2019 Multi-Year Budget
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 2. Setting Priorities
-  - Council's 2016 - 2019 Multi-Year Budget
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -310,6 +303,19 @@ Unanimous (14-0)
 
 ### 2. Setting Priorities
   - Council's 2016 - 2019 Multi-Year Budget
+
+<div id="motion-2-1" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2. Setting Priorities
+  - Council's 2016 - 2019 Multi-Year Budget
+
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -320,6 +326,8 @@ Unanimous (14-0)
 
 ### 2. Setting Priorities
   - Council's 2016 - 2019 Multi-Year Budget
+
+<div id="motion-2-3" class="motion-anchor"></div>
 
 > Motion Passed
 

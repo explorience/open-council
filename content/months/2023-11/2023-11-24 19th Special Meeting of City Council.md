@@ -488,6 +488,8 @@ And if you celebrate going Black Friday shopping, I hope you have a good time do
 
 ### 8.1. 20th Report of the Corporate Services Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 20th Report of the Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (12 to 0)**
@@ -495,6 +497,8 @@ And if you celebrate going Black Friday shopping, I hope you have a good time do
 Unanimous (12-0)
 
 ### 9. Added Reports
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > 1.    Property Acquisition – 1462 Westminster Drive That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Deputy City Manager, Planning and Economic Development, on the advice of the Director, Realty Services, with respect to the property located at...
 
@@ -513,6 +517,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<div id="motion-13-3" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Added Bill No. 416, BE APPROVED.
 
 **✅ Motion Passed (10 to 2)**
@@ -530,6 +536,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<div id="motion-13-4" class="motion-anchor"></div>
+
 > That Second Reading of Added Bill No. 416, BE APPROVED.
 
 **✅ Motion Passed (10 to 2)**
@@ -546,6 +554,8 @@ Unanimous (12-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Added Bill No. 416, BE APPROVED.
 

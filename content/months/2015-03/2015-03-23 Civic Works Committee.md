@@ -712,6 +712,8 @@ Motion
 ### 2. 1st Report of the
   LTC Long Term Growth Report Working Group
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -722,6 +724,8 @@ Unanimous (5-0)
 ### 3. 2015 Dig Safe
   Campaign
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -731,6 +735,8 @@ Unanimous (5-0)
 
 ### 4. Amendments to the
   Traffic and Parking By-law
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -743,6 +749,8 @@ Unanimous (5-0)
   15-10, Supply and Delivery of Glass Beads and Traffic Paint (EMOP - County of
   Middlesex)
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -754,6 +762,8 @@ Unanimous (5-0)
   Tender T15-04, 2015 Growth Management Implementation Strategy (GMIS)
   Southwest Area Trunk Sanitary Sewer- Phase 1
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -763,6 +773,8 @@ Unanimous (5-0)
 
 ### 7. Replacement of Rear
   Loading Garbage Packers, Tender 15-32 and T15-33
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -775,6 +787,8 @@ Unanimous (5-0)
   Consulting Engineer for Detailed Design and Contract Administration for the
   Construction of Fox Hollow SWM Facility No. 3 (ES3020-FH3)
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -786,6 +800,8 @@ Unanimous (5-0)
   Environmental Bill of Rights Registry - Ontario's Climate Change Discussion
   Paper 2015
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -796,6 +812,8 @@ Unanimous (5-0)
 ### 10. Contract Award:
   Tender No. 15-06 Highbury Avenue Over CN Rail Bridge Rehabilitation
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -805,6 +823,8 @@ Unanimous (5-0)
 
 ### 11. Contract Award:
   Tender No. 15-10 Hyde Park Road Widening Phase 2 CPR to Fanshawe Park Road
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -817,6 +837,8 @@ Unanimous (5-0)
   and Richmond Street Intersection Improvements- Environmental Assessment Study-Appointment
   of Consulting Engineer
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -826,6 +848,8 @@ Unanimous (5-0)
 
 ### 13. Single Source 15-11
   Pay and Display Parking Meters
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -837,6 +861,8 @@ Unanimous (5-0)
 ### 14. Tender 14-116
   Supply and Installation of Sewer Liners - Cured In Place Pipe (CIPP)
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -846,6 +872,8 @@ Unanimous (5-0)
 
 ### 15. Canada Post
   Community Mailboxes
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -864,6 +892,8 @@ Unanimous (5-0)
 ### 15. Canada Post
   Community Mailboxes
 
+<div id="motion-15-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -874,6 +904,8 @@ Unanimous (4-0)
 ### 16. Winter Maintenance
   Program - Unassumed Subdivisions
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -883,6 +915,8 @@ Unanimous (5-0)
 
 ### 17. Review of Delegation Request Process
 
+<div id="motion-17-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -891,6 +925,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 18. Speed Limits in School Zones
+
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

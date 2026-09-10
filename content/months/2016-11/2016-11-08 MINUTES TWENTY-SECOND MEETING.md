@@ -1970,6 +1970,8 @@ Motion Passed
 
 ### 1#3. Disclosures of Pecuniary Interest
 
+<div id="motion-1-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1979,6 +1981,8 @@ Unanimous (13-0)
 ### 12#2. One River-Master
   Plan Environmental Assessment Terms of Reference
 
+<div id="motion-12-2-0" class="motion-anchor"></div>
+
 > Approve that clause 12 be amended to include   wording in the statement of objectives that requires that there be an understanding   of the impacts that critical infrastructure projects may have on species at   risk, and/or endangered species.
 
 **✅ Motion Passed**
@@ -1987,6 +1991,8 @@ Unanimous (13-0)
 
 ### 12#2. One River-Master
   Plan Environmental Assessment Terms of Reference
+
+<div id="motion-12-2-1" class="motion-anchor"></div>
 
 > Approve clause 12, as amended.
 
@@ -2004,6 +2010,8 @@ Unanimous (13-0)
 ### 14#2. Downtown Parking
   Study
 
+<div id="motion-14-2-0" class="motion-anchor"></div>
+
 > That the Downtown Parking Study BE EXPANDED   to include a review of commercial downtown boulevard parking fees.
 
 **✅ Motion Passed**
@@ -2012,6 +2020,8 @@ Unanimous (13-0)
 
 ### 2#2. Vehicle for Hire
   By-law (Relates to Bill No. 398)
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the licensing of vehicles for hire:   a)         the   attached by-law to amend By-law No. L.-129-51 being “A by-law   to provide for the licensing, regulation and governing of vehicles for hire,   including cab, accessible cab, limousine and ...
 
@@ -2029,6 +2039,8 @@ Unanimous (13-0)
 ### 2#3. Vehicle for Hire By-law – Action from
   Public Participation Meeting
 
+<div id="motion-2-3-0" class="motion-anchor"></div>
+
 > Approve that clause 2 be amended by   deleting part b) iii) in its entirety and by replacing it with the following   new part b) iii):   "b)   iii) regulations that would encourage the use of low-emission and/or   environmentally friendly vehicles as vehicles for hire;"
 
 **✅ Motion Passed**
@@ -2037,6 +2049,8 @@ Unanimous (13-0)
 
 ### 2#3. Vehicle for Hire By-law – Action from
   Public Participation Meeting
+
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > Approve that clause 2, as amended, be   referred to the Municipal Council meeting to be held on November 22, 2016 for   further consideration.
 
@@ -2053,6 +2067,8 @@ Unanimous (13-0)
 
 ### 6#4. Standing Committee Appointments
 
+<div id="motion-6-4-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2060,6 +2076,8 @@ Unanimous (13-0)
 Unanimous (12-0)
 
 ### 8#3. Appointment By-laws
+
+<div id="motion-8-3-0" class="motion-anchor"></div>
 
 > That the communication dated October 24,   2016, from Councillor J. Morgan, with respect to the utilization of by-laws   to appoint members of the Senior Leadership Team and any other statutory officers   of The Corporation of the City of London, BE REFERRED to a future meeting of   the Corporate...
 
@@ -2077,6 +2095,8 @@ Unanimous (12-0)
 ### 9#3. Consideration of
   Appointment to the Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-9-3-0" class="motion-anchor"></div>
+
 > Approve that   clause 9 be amended to read as follows:    “That the following   individuals BE APPOINTED to the Environmental and Ecological Planning   Advisory Committee as Voting Members-at-Large for the term ending February   28, 2019:   Chris   Evans Alison   Regehr Ian   Whiteside”
 
 **✅ Motion Passed**
@@ -2093,6 +2113,8 @@ Unanimous (12-0)
 ### 9#3. Consideration of
   Appointment to the Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-9-3-1" class="motion-anchor"></div>
+
 > Approve clause 9, as amended.
 
 **✅ Motion Passed**
@@ -2100,6 +2122,8 @@ Unanimous (12-0)
 Unanimous (11-0)
 
 ### IX. ADDED REPORTS
+
+<div id="motion-ix-0" class="motion-anchor"></div>
 
 > Approve that, as a procedural matter   pursuant to Section 239(6) of the Municipal Act, 2001, the following   recommendation be forwarded to Council for deliberation and a vote in public   session:    That the following actions be taken with   respect to the matter of a budget appeal to the Ontar...
 
@@ -2110,6 +2134,8 @@ Unanimous (13-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-FIRST MEETING HELD ON OCTOBER 25,
   2016
+
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Twenty-First   Meeting, held on October 25, 2016.
 
@@ -2123,6 +2149,8 @@ Unanimous (13-0)
   consideration with clause 12 of the 15th Report of the Civic Works
   Committee.)
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2131,6 +2159,8 @@ Unanimous (13-0)
 
 ### 6. Canada 150 Community
   Leader
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Approve   that clause 6 be amended to read as follows:   “That   consideration of the designation of a City of London representative(s) to the   newly-created Network of Canada 150 Community Leaders, including the matter   of financing related travel expenses for that individual(s), if any, BE   ...
 
@@ -2148,6 +2178,8 @@ Unanimous (13-0)
 ### 18. Terms of Reference
   – Advisory Committee on the Environment and Diversity, Inclusion and
   Anti-Oppression Advisory Committee
+
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to report   back with the necessary proposed amendments to the Terms of Reference for the   Advisory Committee on the Environment and the Diversity, Inclusion and   Anti-Oppression Advisory Committee in order to permit two non-voting student   representatives, one ...
 

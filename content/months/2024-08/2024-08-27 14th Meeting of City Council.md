@@ -2949,6 +2949,8 @@ All those in favor of adjournment. And motion carries. All right, thank you. We'
 
 ### 6.1. Expropriation of Lands - East London Link Project - Phase 4 (As the "Approving Authority")
 
+<div id="motion-6-1-0" class="motion-anchor"></div>
+
 > That Council convene as the Approving Authority pursuant to the provisions of the Expropriations Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure with respect to the expropriation of the lands as ...
 
 **✅ Motion Passed (14 to 1)**
@@ -2963,6 +2965,8 @@ All those in favor of adjournment. And motion carries. All right, thank you. We'
 </details>
 
 ### 6.1. Expropriation of Lands - East London Link Project - Phase 4 (As the "Approving Authority")
+
+<div id="motion-6-1-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
 
@@ -2979,6 +2983,8 @@ All those in favor of adjournment. And motion carries. All right, thank you. We'
 
 ### 6.2. Expropriation of Lands - East London Link Project – Phase 4 (As the "Expropriating Authority")
 
+<div id="motion-6-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the expropriation of lands as may be required for the project kno...
 
 **✅ Motion Passed (13 to 2)**
@@ -2993,6 +2999,8 @@ All those in favor of adjournment. And motion carries. All right, thank you. We'
 </details>
 
 ### 6.3. Expropriation of Lands - Wellington Gateway Project Clark’s Bridge Civil Works (As the "Approving Authority")
+
+<div id="motion-6-3-0" class="motion-anchor"></div>
 
 > That Council convene as the Approving Authority pursuant to the provisions of the Expropriations Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 3 from the Deputy City Manager, Environment and Infrastructure with respect to the expropriation of the lands as ...
 
@@ -3009,6 +3017,8 @@ All those in favor of adjournment. And motion carries. All right, thank you. We'
 
 ### 6.3. Expropriation of Lands - Wellington Gateway Project Clark’s Bridge Civil Works (As the "Approving Authority")
 
+<div id="motion-6-3-1" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, the following actions be taken with respect to the expropriation of lands as may ...
 
 **✅ Motion Passed (13 to 2)**
@@ -3023,6 +3033,8 @@ All those in favor of adjournment. And motion carries. All right, thank you. We'
 </details>
 
 ### 6.3. Expropriation of Lands - Wellington Gateway Project Clark’s Bridge Civil Works (As the "Approving Authority")
+
+<div id="motion-6-3-2" class="motion-anchor"></div>
 
 > That the meeting of the Approving Authority BE ADJOURNED and that Council reconvene in regular session.
 
@@ -3039,6 +3051,8 @@ All those in favor of adjournment. And motion carries. All right, thank you. We'
 
 ### 6.4. Expropriation of Lands - Wellington Gateway Project Clark’s Bridge Civil Works (As the "Expropriating Authority")
 
+<div id="motion-6-4-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, the following actions be taken with respect to the expropriation of lands as may ...
 
 **✅ Motion Passed (13 to 2)**
@@ -3054,6 +3068,8 @@ All those in favor of adjournment. And motion carries. All right, thank you. We'
 
 ### 6.8. Court of Revision Vacancy Memo - S. Chambers, Division Manager, Stormwater Engineering
 
+<div id="motion-6-8-0" class="motion-anchor"></div>
+
 > That Councillor S. Franke BE APPOINTED to the Court of Revision on a temporary basis until a member of the public is appointed by the Municipal Council; it being noted that the City Clerk’s Office will continue to advertise for the vacancy.
 
 **✅ Motion Passed (15 to 0)**
@@ -3062,6 +3078,8 @@ Unanimous (15-0)
 
 ### 8.1. 12th Report of the Planning and Environment Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 12th Report of the Planning and Environment Committee with the exception of items 4 (3.2), 5 (3.3), and 11 (3.9), BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -3069,6 +3087,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.1.4. (3.2) 553-557 Upper Queens Street (Z-9747) (Relates to Bill No. 288)
+
+<div id="motion-8-1-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by John MacArthur and Derek Sloan, (c/o Zelinka Priamo Ltd.), relating to the properties located at 553 and 557 Upper Queen Street: a)    the proposed by-law appen...
 
@@ -3085,6 +3105,8 @@ Unanimous (15-0)
 
 ### 8.1.5. (3.3) 455 Highbury Avenue North - (OZ-9739)
 
+<div id="motion-8-1-5-1" class="motion-anchor"></div>
+
 > That the application by Highbury Self Storage Equities Limited, (c/o Zelinka Priamo Ltd.), relating to the property located at 455 Highbury Avenue North BE REFERRED to Civic Administration to work with the applicant to develop a plan for a reduction in expansion to facilitate an adequate tree rep...
 
 **✅ Motion Passed (8 to 7) 🔥**
@@ -3099,6 +3121,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.1.11. (3.9) 2060 Dundas Street (Z-9547) (Relates to Bill No. 294)
+
+<div id="motion-8-1-11-3" class="motion-anchor"></div>
 
 > That item 11, clause 3.9, as amended, BE APPROVED.
 
@@ -3115,6 +3139,8 @@ Unanimous (15-0)
 
 ### 8.1.11. (3.9) 2060 Dundas Street (Z-9547) (Relates to Bill No. 294)
 
+<div id="motion-8-1-11-4" class="motion-anchor"></div>
+
 > That pursuant to subsection 34(17) of the Planning Act, no further notice BE GIVEN.
 
 **✅ Motion Passed (15 to 0)**
@@ -3123,6 +3149,8 @@ Unanimous (15-0)
 
 ### 8.2. 13th Report of the Corporate Services Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That the 13th Report of the Corporate Services Committee, with the exception of item 4 (4.2), BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -3130,6 +3158,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.2.4. (4.2) Tax-Levy Reduction
+
+<div id="motion-8-2-4-0" class="motion-anchor"></div>
 
 > That notwithstanding the Council approved Surplus/Deficit Policy, the following actions be taken: a)    the Civic Administration BE DIRECTED to transfer $3,000,000 from the Community Investment Reserve Fund to the Operating Budget Contingency Reserve (OBCR) to support a $1,000,000 tax-levy reduct...
 
@@ -3146,6 +3176,8 @@ Unanimous (15-0)
 
 ### 8.3. 10th Report of the Community and Protective Services Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 10th Report of the Community and Protective Services Committee, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -3154,6 +3186,8 @@ Unanimous (15-0)
 
 ### 8.4. 11th Report of the Civic Works Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 11th Report of the Civic Works Committee with the exception of item 9 (4.2), BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -3161,6 +3195,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.4.9. (4.2) Councillor H. McAlister - Update to the Hamilton Road Streetscape Master Plan
+
+<div id="motion-8-4-9-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the communication dated August 1, 2024, from Councillor H. McAlister, related to an Update to the Hamilton Road Streetscape Master Plan: a) the Civic Administration BE DIRECTED to include, as part of the Mobility Master Plan, identification of a...
 
@@ -3177,6 +3213,8 @@ Unanimous (15-0)
 
 ### 8.5. 13th Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-5-0" class="motion-anchor"></div>
+
 > That the 13th Report of the Strategic Priorities and Policy Committee with the exception of items 3 (2.2) and 5 (5.1), BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -3184,6 +3222,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.5.3. (2.2) Secondary School Student Transit Pass Pilot Program
+
+<div id="motion-8-5-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken: a)    the report dated August 15, 2024, with respect to the Secondary School Student Transit Pass Pilot Program BE RECEIVED; and b)    the secondary school pilot proj...
 
@@ -3200,6 +3240,8 @@ Unanimous (15-0)
 
 ### 8.5.3. (2.2) Secondary School Student Transit Pass Pilot Program
 
+<div id="motion-8-5-3-2" class="motion-anchor"></div>
+
 > That, pursuant to section 10.5 of the Council Procedure By-law with respect to the Chair's ruling that the amendment to remove reference to Clarke Road Secondary School is not in order, shall the ruling of the Chair BE SUSTAINED?
 
 **✅ Motion Passed (9 to 6) 🔥**
@@ -3214,6 +3256,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.5.3. (2.2) Secondary School Student Transit Pass Pilot Program
+
+<div id="motion-8-5-3-3" class="motion-anchor"></div>
 
 > That the Secondary School Student Transit Pass Pilot Program BE REFERRED back to the Strategic Priorities and Policy Committee to explore options that serve other school routes.
 
@@ -3230,6 +3274,8 @@ Unanimous (15-0)
 
 ### 8.5.5. (5.1) Request for London Police Services Delegation
 
+<div id="motion-8-5-5-1" class="motion-anchor"></div>
+
 > That the motion BE AMENDED to read as follows: That the following actions be taken with respect to the London Police Services delegation invite: a) the Civic Administration BE DIRECTED to invite London Police Chief T. Truong to appear before the Strategic Priorities and Policy Committee as a dele...
 
 **✅ Motion Passed (15 to 0)**
@@ -3238,6 +3284,8 @@ Unanimous (15-0)
 
 ### 8.5.5. (5.1) Request for London Police Services Delegation
 
+<div id="motion-8-5-5-2" class="motion-anchor"></div>
+
 > That item 5, clause 5.1, as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -3245,6 +3293,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 13. By-laws
+
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.'s 286, 295, and 296, BE APPROVED.
 
@@ -3261,6 +3311,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-7" class="motion-anchor"></div>
+
 > That Second Reading of Bill No.'s 286, 295, and 296, BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -3275,6 +3327,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.'s 286, 295, and 296, BE APPROVED.
 

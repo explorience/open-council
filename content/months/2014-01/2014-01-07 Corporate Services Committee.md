@@ -527,6 +527,8 @@ The Corporate Services Committee convened
   City-Owned Property - 2532 Main Street, former London Police Service
   Substation in Lambeth
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -536,6 +538,8 @@ Unanimous (5-0)
 
 ### 3. Letter of Agreement
   - Provincial Dedicated Gas Tax Funds for Public Transportation Program
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -547,16 +551,7 @@ Unanimous (5-0)
 ### 4. Enterprise License
   Agreement with ESRI Canada Inc.
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 5. Public
-  Participation Meeting – Introduction of Electronic Bingos in the City of
-  London
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -568,6 +563,21 @@ Unanimous (5-0)
 ### 5. Public
   Participation Meeting – Introduction of Electronic Bingos in the City of
   London
+
+<div id="motion-5-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 5. Public
+  Participation Meeting – Introduction of Electronic Bingos in the City of
+  London
+
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -584,6 +594,8 @@ Unanimous (5-0)
   in the City Clerk's Office and are electronically attached on the City of
   London's website.)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -593,6 +605,8 @@ Unanimous (4-0)
 
 ### 7. Funding of
   Performing Arts Centre - 2014 Municipal Election Ballot
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -605,6 +619,8 @@ Unanimous (3-0)
   Canadian Municipalities Board of Directors Meeting - Ottawa, ON - November 26
   - 29, 2013
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -614,6 +630,8 @@ Unanimous (4-0)
 
 ### 9. Consideration of
   Appointments to the Accessibility Advisory Committee
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -625,6 +643,8 @@ Unanimous (4-0)
 ### 10. Consideration of
   Appointments to the Advisory Committee on the Environment
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -634,6 +654,8 @@ Unanimous (4-0)
 
 ### 11. Consideration of
   Appointments to the London Housing Advisory Committee
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -645,6 +667,8 @@ Unanimous (4-0)
 ### 12. ADDED - B. Hall,
   Chief Commissioner, Ontario Human Rights Commission - Municipal Regulation of
   Methadone Health Services in the City of London
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

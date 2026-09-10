@@ -626,6 +626,8 @@ That's carried, thank you. Have a good afternoon. We are adjourned.
 
 ### 3.1. Housekeeping Amendments - Yard and Lot Maintenance By-law - Administrative Monetary Penalty System By-law
 
+<div id="motion-3-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated February 20, 2024, related to the Yard and Lot Maintenance By-law and Administrative Monetary Penalty System By-law: a)    the revised ...
 
 **✅ Motion Passed (5 to 0)**
@@ -633,6 +635,8 @@ That's carried, thank you. Have a good afternoon. We are adjourned.
 Unanimous (5-0)
 
 ### 4.1. Regulation of the Display of Graphic Images
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve: "That the staff report, dated February 20, 2024, BE REFERRED back to the Civic Administration and the Civic Administration BE DIRECTED to bring forward a draft by-law with respect to the Regulation of the Display of Graphic Images to a future meeting of the Community and Protec...
 
@@ -649,6 +653,8 @@ Unanimous (5-0)
 
 ### 4.1. Regulation of the Display of Graphic Images
 
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
 > Motion to approve: "it being noted that the communications, as appended to the Added Agenda, from J. Gunnarson, A. Polizogopoulos, A. Honner, M. McCann and J. Jeffs, with respect to this matter, were received."
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -663,6 +669,8 @@ Unanimous (5-0)
 </details>
 
 ### 5.1. (ADDED) Councillor E. Peloza - Rescheduling of Community and Protective Services Committee Meeting - April 8, 2024
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Community and Protective Services Committee meeting scheduled for April 8, 2024 at 1:00 PM BE RESCHEDULED to commence at 10:00 AM on April 8, 2024. (2024-C04)
 

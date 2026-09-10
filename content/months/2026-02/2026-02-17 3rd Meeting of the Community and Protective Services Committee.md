@@ -1069,6 +1069,8 @@ Council Hopkins, all in favor? Thank you, have a great day, everyone. Motion car
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1, 2.2, 2.5, 2.6 and 2.7 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1077,6 +1079,8 @@ Unanimous (6-0)
 
 ### 2.4. Residential Rental Unit Licensing (RRUL) License Display
 
+<div id="motion-2-4-1" class="motion-anchor"></div>
+
 > That the delegation request from S. Mcfarlane, as appended to the Added Agenda, BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1084,6 +1088,8 @@ Unanimous (6-0)
 Unanimous (4-0)
 
 ### 2.4. Residential Rental Unit Licensing (RRUL) License Display
+
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to review and report back to a future meeting of the Community and Protective Services Committee the feasibility of posting on the City of London website the professional or business contact information of rental property owners; it being noted that commu...
 
@@ -1102,6 +1108,8 @@ Unanimous (4-0)
 
 ### 2.4. Residential Rental Unit Licensing (RRUL) License Display
 
+<div id="motion-2-4-3" class="motion-anchor"></div>
+
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 
 **✅ Motion Passed (4 to 0)**
@@ -1109,6 +1117,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 2.4. Residential Rental Unit Licensing (RRUL) License Display
+
+<div id="motion-2-4-4" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the findings of Civic Administration regarding the advisability of amending the Residential Rental Unit Licensing By-law CP-19, as requested by Council on August 26, 2025, BE RECEIVED for information, and that n...
 
@@ -1126,6 +1136,8 @@ Unanimous (4-0)
 </details>
 
 ### 4.1. Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the communication dated February 5, 2026, from K. Morrison, Old East Village Business Improvement Area, with respect to a Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services BE REFERRED to the next Infrastructure and Corporate Services Committee meeting for ...
 

@@ -1555,6 +1555,8 @@ Motion carries. Thank you everyone, we are adjourned.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Consent item 2.3 BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -1562,6 +1564,8 @@ Motion carries. Thank you everyone, we are adjourned.
 Unanimous (15-0)
 
 ### 2.1. Whole of Community System Response - Quarterly Update April
+
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the report dated April 16, 2024, regarding Whole of Community System Response – Quarterly Report, BE RECEIVED for information.
 
@@ -1578,6 +1582,8 @@ Unanimous (15-0)
 
 ### 2.1. Whole of Community System Response - Quarterly Update April
 
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 3 minutes with respect to this matter.
 
 **✅ Motion Passed (9 to 6) 🔥**
@@ -1592,6 +1598,8 @@ Unanimous (15-0)
 </details>
 
 ### 2.2. 9th Report of the Governance Working Group
+
+<div id="motion-2-2-1" class="motion-anchor"></div>
 
 > That part a) i) BE APPROVED.
 
@@ -1608,6 +1616,8 @@ Unanimous (15-0)
 
 ### 2.2. 9th Report of the Governance Working Group
 
+<div id="motion-2-2-2" class="motion-anchor"></div>
+
 > That the balance of the motion BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -1615,6 +1625,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 3. Scheduled Items
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the SPPC Committee Agenda BE APPROVED, to provide for Item 5.1 in Stage 5, Deferred Matters/Additional Business to be considered after Stage 3, Scheduled Items.
 
@@ -1624,6 +1636,8 @@ Unanimous (15-0)
 
 ### 4.1. Targeted Actions to Increase London’s Housing Supply: Supporting Council’s Pledge for 47,000 Units by 2031
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > That the delegation requests for M. Wallace, London Development Institute and J. Zaifman, London Home Builders' Association BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (15 to 0)**
@@ -1631,6 +1645,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. Targeted Actions to Increase London’s Housing Supply: Supporting Council’s Pledge for 47,000 Units by 2031
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > That the motion be amended to include a new part c) to read as follows: c)    the Civic Administration BE REQUESTED to invite the Upper Thames River Conservation Authority to participate in the work of the Customer Service and Process Improvement Reference Group.
 
@@ -1647,6 +1663,8 @@ Unanimous (15-0)
 
 ### 4.1. Targeted Actions to Increase London’s Housing Supply: Supporting Council’s Pledge for 47,000 Units by 2031
 
+<div id="motion-4-1-3" class="motion-anchor"></div>
+
 > That item 4.1, as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -1655,6 +1673,8 @@ Unanimous (15-0)
 
 ### 4.3. Request for a Shareholder's Meeting - London Hydro Inc.
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 2023 Annual General Meeting of the Shareholder for London Hydro Inc.: a)      the 2023 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on May 28, 2024, for...
 
 **✅ Motion Passed (15 to 0)**
@@ -1662,6 +1682,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 5.1. (ADDED) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to establishing a secondary school student transit pass pilot project: a) the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Va...
 
@@ -1678,6 +1700,8 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
 
+<div id="motion-5-1-1" class="motion-anchor"></div>
+
 > That the delegation requests from L. Pizzolato, C. Lynd and D. Hendry BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (15 to 0)**
@@ -1685,6 +1709,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 5.1. (ADDED) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
+
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to a secondary school student transit pass pilot project: a) that the motion from Deputy Mayor S. Lewis and Councillor P. Cuddy BE REFERRED to the next meeting of Strategic Priorities and Policy Committee on May 7, 2024; and b) that Civic Administr...
 

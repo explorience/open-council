@@ -236,6 +236,8 @@ The
 ### 2. 7th Report of the
   Transportation Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -246,6 +248,8 @@ Unanimous (3-0)
 ### 3. Appointment of
   Consulting Engineer for the Detailed Design of Wickerson No. S-B SWM Facility
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -255,6 +259,8 @@ Unanimous (3-0)
 
 ### 4. UV Disinfection
   Equipment Parts and Service Single Source
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -267,6 +273,8 @@ Unanimous (3-0)
   (AT) and Transportation Demand Management (TDM) - Status Report and the Next
   Steps
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -276,6 +284,8 @@ Unanimous (3-0)
 
 ### 7. Optimization of
   London Wastewater Treatment Plants – A Strategy and Road Map
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -287,6 +297,8 @@ Unanimous (4-0)
 ### 8. 3rd Report of the
   Cycling Advisory Committee
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -296,6 +308,8 @@ Unanimous (4-0)
 
 ### 9. Update on Rainfall
   Event on September 10, 2014
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

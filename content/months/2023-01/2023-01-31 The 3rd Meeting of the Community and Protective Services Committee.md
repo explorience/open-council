@@ -782,6 +782,8 @@ Seeing none, we've already dealt with confidential section 6.1 that moves us to 
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.9 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -789,6 +791,8 @@ Seeing none, we've already dealt with confidential section 6.1 that moves us to 
 Unanimous (5-0)
 
 ### 4.1. Exotic Animal Establishments
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the staff report, dated January 31, 2023, related to Exotic Animal Establishments: a)    the revised attached proposed by-laws, BE REFERRED to a future meeting of the Community and Protective Services Committee for a public participation meeting...
 
@@ -807,6 +811,8 @@ Unanimous (5-0)
 
 ### 4.1. Exotic Animal Establishments
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > Motion to approve a proposed amendment to By-law PH-3, part a) to read, “a)  up to 35,000 square feet indoors of the property located at 785 Wonderland Road South.
 
 **✅ Motion Passed (3 to 2) 🔥**
@@ -824,6 +830,8 @@ Unanimous (5-0)
 
 ### 4.1. Exotic Animal Establishments
 
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
 > Motion to approve a proposed amendment to By-law L.-131-16, under “Regulations” to add, “or the Zoological Association of America.”
 
 **✅ Motion Passed (3 to 2) 🔥**
@@ -840,6 +848,8 @@ Unanimous (5-0)
 </details>
 
 ### 4.1. Exotic Animal Establishments
+
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > Motion to hear the delegation from W. Brown, Chair, Animal Welfare Community Advisory Committee, to be heard at this meeting.
 

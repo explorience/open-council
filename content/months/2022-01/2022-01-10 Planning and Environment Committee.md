@@ -688,6 +688,8 @@ The meeting adjourned at 7:02 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.7 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -695,6 +697,8 @@ The meeting adjourned at 7:02 PM.
 Unanimous (4-0)
 
 ### 3.4. 1140 Sunningdale Road East (Z-9405)
+
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2839069 Ontario Inc. c/o Royal Premier Homes, relating to the property located at 1140 Sunningdale Road East: a)    the proposed by-law appended to the staff re...
 

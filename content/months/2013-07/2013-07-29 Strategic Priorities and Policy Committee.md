@@ -180,6 +180,8 @@ Recommendation:  That a Special Meeting of
   Corporate Services and City Treasurer, Chief Financial Officer - Development
   Charges Policy Review - Major Policies Covering Report
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > 
 
 **❌ **
@@ -189,6 +191,8 @@ Unanimous (12-0)
 ### 3. City Clerk - 1st
   Report of the 2013 Council Compensation Review Task Force
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > 
 
 **❌ **
@@ -197,6 +201,8 @@ Unanimous (12-0)
 
 ### 4. Special Strategic Priorities and Policy
   Committee Meeting – Council Member Training and Education Session
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > 
 

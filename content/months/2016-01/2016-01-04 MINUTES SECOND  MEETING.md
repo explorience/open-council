@@ -878,13 +878,7 @@ Approve Third Reading and Enactment of
 
 ### XIII. BY-LAWS
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (12-0)
-
-### XIII. BY-LAWS
+<div id="motion-xiii-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -894,6 +888,8 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-3" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -901,6 +897,18 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-5" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+<div id="motion-xiii-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -910,6 +918,8 @@ Unanimous (12-0)
 
 ### 16. Residential Infill
   Analysis
+
+<div id="motion-16-1" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -927,14 +937,7 @@ Unanimous (12-0)
 ### 16. Residential Infill
   Analysis
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 18. Review of
-  Intensification Targets in the London Plan
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -944,6 +947,19 @@ Unanimous (14-0)
 
 ### 18. Review of
   Intensification Targets in the London Plan
+
+<div id="motion-18-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 18. Review of
+  Intensification Targets in the London Plan
+
+<div id="motion-18-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -953,6 +969,8 @@ Unanimous (14-0)
 
 ### 21. Change of Date –
   February 23, 2016 CPSC Meeting
+
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > 
 

@@ -454,6 +454,8 @@ The
 ### 2. 5th Report of the
   Advisory Committee on the Environment
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -463,6 +465,8 @@ Unanimous (4-0)
 
 ### 3. Property located at
   193 Clarke Road - Notice of Appeal to the Ontario Municipal Board (Z-8143)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -476,6 +480,8 @@ Unanimous (4-0)
   1653 Richmond Street - Notice of Appeal to the Ontario Municipal Board
   (OZ-7965)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -485,6 +491,8 @@ Unanimous (4-0)
 
 ### 5. Property located at
   29 Dunkirk Place
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -496,6 +504,8 @@ Unanimous (4-0)
 ### 6. Residential
   Driveway Widths (Z-8316)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -505,6 +515,8 @@ Unanimous (4-0)
 
 ### 7. Annual Report on
   Building Permit Fees
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -516,6 +528,8 @@ Unanimous (4-0)
 ### 8. Building Division
   Monthly Report for March 2014
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -526,16 +540,7 @@ Unanimous (4-0)
 ### 9. 5th Report of the
   London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 10. Blackfriars/Petersville
-  Heritage Conservation District Plan and Conservation Guidelines and Official
-  Plan Amendments to Implement District (OZ-8295)
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -548,6 +553,21 @@ Unanimous (4-0)
   Heritage Conservation District Plan and Conservation Guidelines and Official
   Plan Amendments to Implement District (OZ-8295)
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 10. Blackfriars/Petersville
+  Heritage Conservation District Plan and Conservation Guidelines and Official
+  Plan Amendments to Implement District (OZ-8295)
+
+<div id="motion-10-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -559,6 +579,8 @@ Unanimous (3-0)
   Heritage Conservation District Plan and Conservation Guidelines and Official
   Plan Amendments to Implement District (OZ-8295)
 
+<div id="motion-10-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -569,6 +591,8 @@ Unanimous (3-0)
 ### 10. Blackfriars/Petersville
   Heritage Conservation District Plan and Conservation Guidelines and Official
   Plan Amendments to Implement District (OZ-8295)
+
+<div id="motion-10-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -580,6 +604,8 @@ Unanimous (3-0)
 ### 11. Request to start
   the May 13, 2014 Planning and Environment Committee meeting at 4:30 PM
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -589,6 +615,8 @@ Unanimous (4-0)
 
 ### 11. Request to start
   the May 13, 2014 Planning and Environment Committee meeting at 4:30 PM
+
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

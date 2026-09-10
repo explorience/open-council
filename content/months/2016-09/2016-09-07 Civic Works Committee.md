@@ -549,6 +549,8 @@ The
 ### 2. Closing of Part of
   Cedarpark Crescent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -559,6 +561,8 @@ Unanimous (3-0)
 ### 3. London ON Bikes
   Cycling Master Plan
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -568,6 +572,8 @@ Unanimous (5-0)
 
 ### 4. Unmanned Air
   Vehicles (UAV) Use in the Municipal Government Environment
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -580,6 +586,8 @@ Unanimous (5-0)
   Options Curbside Collection and Material Recovery Facility Operations
   Contracts - Miller Waste Systems
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -590,6 +598,8 @@ Unanimous (5-0)
 ### 6. Municipal Waste and
   Resource Materials Collection By-law Amendment
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion     Passed
 
 **✅ Motion
@@ -599,6 +609,8 @@ Unanimous (5-0)
 
 ### 6. Municipal Waste and
   Resource Materials Collection By-law Amendment
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion     Passed
 
@@ -610,6 +622,8 @@ Unanimous (5-0)
 ### 7. Supply and Delivery
   of Water Meters and Electronic Radio Transmitters Single Source Procurement
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -619,6 +633,8 @@ Unanimous (5-0)
 
 ### 8. Water Meter
   Location Options for Residential Customers
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -630,6 +646,8 @@ Unanimous (5-0)
 ### 9. Establishment of
   W12A Landfill Public Liaison Committee Point of Source Water Treatment 
   Program
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -648,6 +666,8 @@ Unanimous (5-0)
 ### 10. London Transit
   Commission's 2015 Annual Report
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -658,15 +678,7 @@ Unanimous (6-0)
 ### 11. Lake Huron and
   Elgin Area Water Supply Systems
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. Bannister Municipal
-  Drain Improvements
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -677,6 +689,20 @@ Unanimous (5-0)
 
 ### 12. Bannister Municipal
   Drain Improvements
+
+<div id="motion-12-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Bannister Municipal
+  Drain Improvements
+
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -688,6 +714,8 @@ Unanimous (5-0)
 ### 13. Curbside Snowplow
   Damage
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -698,6 +726,8 @@ Unanimous (5-0)
 ### 14. Deferred Matters
   List
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -707,6 +737,8 @@ Unanimous (5-0)
 
 ### 15. Relocation of Bus
   Routes Off Dundas Street
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

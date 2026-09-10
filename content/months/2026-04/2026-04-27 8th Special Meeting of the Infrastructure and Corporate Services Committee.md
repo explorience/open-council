@@ -47,6 +47,8 @@ All those in favor, any opposed? Motion carries. Okay, thanks everyone, have a g
 
 ### 2.1. 2026 Debenture Issuance Update
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law, as appended to the staff report dated April 27, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on April 28, 2026 to execute the borrowing upon serial debentures in the a...
 
 **✅ Motion Passed (4 to 0)**

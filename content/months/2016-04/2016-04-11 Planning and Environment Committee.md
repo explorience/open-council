@@ -491,6 +491,8 @@ The
 ### 2. Richmond North
   (Phase 2) Subdivision (39T-04513)
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -500,6 +502,8 @@ Unanimous (3-0)
 
 ### 3. West Coronation
   Subdivision (39T-13505)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -512,6 +516,8 @@ Unanimous (3-0)
   at 181 and 199 Commissioners Road East - Extension to Draft Plan of
   Subdivision Approval (39T-08501)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -522,6 +528,8 @@ Unanimous (3-0)
 ### 5. Building Division
   Monthly Report for February 2016
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -531,6 +539,8 @@ Unanimous (3-0)
 
 ### 6. Properties located
   at 232 to 240 Oakland Avenue (Z-8578)
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -542,6 +552,8 @@ Unanimous (5-0)
 ### 6. Properties located
   at 232 to 240 Oakland Avenue (Z-8578)
 
+<div id="motion-6-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -551,6 +563,8 @@ Unanimous (3-0)
 
 ### 6. Properties located
   at 232 to 240 Oakland Avenue (Z-8578)
+
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -562,6 +576,8 @@ Unanimous (4-0)
 ### 7. 4th Report of the
   Trees and Forests Advisory Committee
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -572,6 +588,8 @@ Unanimous (5-0)
 ### 8. Properties located
   on a portion of 1800 Cedarhollow Boulevard and 776-802 Killarney Road
   (Cedarhollow Subdivision) (Z-8596)
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -591,6 +609,8 @@ Unanimous (5-0)
   on a portion of 1800 Cedarhollow Boulevard and 776-802 Killarney Road
   (Cedarhollow Subdivision) (Z-8596)
 
+<div id="motion-8-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -602,6 +622,8 @@ Unanimous (5-0)
   on a portion of 1800 Cedarhollow Boulevard and 776-802 Killarney Road
   (Cedarhollow Subdivision) (Z-8596)
 
+<div id="motion-8-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -611,6 +633,8 @@ Unanimous (5-0)
 
 ### 9. Community Urban
   Agriculture Opportunities
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

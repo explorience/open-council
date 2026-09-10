@@ -457,6 +457,8 @@ The
 ### 2. 4th Report of the
   Rapid Transit Implementation Working Group
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -466,6 +468,8 @@ Unanimous (5-0)
 
 ### 3. STAFF REPORT -
   Draft Coloured Crosswalk Policy Update
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -479,6 +483,8 @@ Unanimous (5-0)
   Baseline Road East, Sylvan Street, Balderstone Avenue and Percy Street
   Reconstruction Project
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -488,6 +494,8 @@ Unanimous (5-0)
 
 ### 5. STAFF REPORT -
   Highway 401 Emergency Detour Routes
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -500,6 +508,8 @@ Unanimous (5-0)
   Results of Pilot Project-Curbside Collection of Christmas Trees for Composting
   and Recommended Next Steps
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -509,6 +519,8 @@ Unanimous (5-0)
 
 ### 7. STAFF REPORT -
   Contract Award: 2017 Watermain Cleaning and Structural Lining Tender 16-105
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -520,15 +532,7 @@ Unanimous (5-0)
 ### 8. STAFF REPORT - 2017
   Infrastructure Renewal Program - Trees
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. Queens Avenue and
-  Colborne Street Cycle Tracks
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -540,6 +544,8 @@ Unanimous (5-0)
 ### 9. Queens Avenue and
   Colborne Street Cycle Tracks
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -549,6 +555,20 @@ Unanimous (5-0)
 
 ### 9. Queens Avenue and
   Colborne Street Cycle Tracks
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Queens Avenue and
+  Colborne Street Cycle Tracks
+
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -560,6 +580,8 @@ Unanimous (5-0)
 ### 10. Deferred Matters
   List
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -569,6 +591,8 @@ Unanimous (5-0)
 
 ### 11. (ADDED) COUNCILLOR
   SUBMISSION - Zipper Merging Policy Proposal
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -678,6 +678,8 @@ And that concludes our agenda today. So I just need a motion to adjourn. Moved b
 
 ### 4.1. Budweiser Gardens Proposed Expansion - Additional Information and Proposed Amending Agreement
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the report providing additional information on the proposed Budweiser Gardens Expansion BE RECEIVED for information; b)    the proposed by-law as appended to the staff report dated Octo...
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -694,6 +696,8 @@ And that concludes our agenda today. So I just need a motion to adjourn. Moved b
 </details>
 
 ### 4.3. (ADDED) Application - Issuance of Proclamation - Turkish Republic Day
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That based on the application dated September 29, 2023 from the Federation of Canadian Turkish Associations, October 29, 2023 BE PROCLAIMED Turkish Republic Day.
 

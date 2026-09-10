@@ -1075,6 +1075,8 @@ So with that, all those in favor? Show of hands, please. Motion's carried. Meeti
 
 ### 3.1. Not to be heard before 4:05 PM - Public Participation Meeting - Amendments to Consolidated Fees and Charges By-law
 
+<div id="motion-3-1-3" class="motion-anchor"></div>
+
 > That the proposed fee of $1.85/hour, associated with Electric Vehicle Charging, as included in Schedule 1, BE REMOVED.
 
 **❌ Motion Failed (5 to 9)**
@@ -1091,6 +1093,8 @@ So with that, all those in favor? Show of hands, please. Motion's carried. Meeti
 </details>
 
 ### 4.1. Consideration of Appointments to the Striking Committee
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following individuals BE APPOINTED to the Striking Committee:    Paul Seale - Pillar Non-Profit Network  Morena Hernandez - Urban League of London  Patti Dalton - London and District Labour Council  Graham Henderson - London Chamber of Commerce  Zeba Hashmi - Former Diversity, Inclusion ...
 

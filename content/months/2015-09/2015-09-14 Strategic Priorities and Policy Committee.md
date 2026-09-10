@@ -355,6 +355,8 @@ That it BE NOTED that Councillor J. Helmer
   Development Industry Stakeholder Consultation Regarding Proposed Amendments
   to the Development Charges Act, 1997
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -364,6 +366,8 @@ Unanimous (15-0)
 ### 3. Community Mailbox
   Installation Agreement
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -373,6 +377,8 @@ Unanimous (14-0)
 ### 3. Community Mailbox
   Installation Agreement
 
+<div id="motion-3-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -380,6 +386,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4. Multi-Year Budget
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -396,6 +404,8 @@ Unanimous (14-0)
 
 ### 4. Multi-Year Budget
 
+<div id="motion-4-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -403,6 +413,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 4. Multi-Year Budget
+
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -420,6 +432,8 @@ Unanimous (15-0)
 ### 5. Consideration of
   Appointment to the Town and Gown Committee
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -427,6 +441,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 6. Provincial Transportation Modes
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -442,6 +458,8 @@ Unanimous (15-0)
 </details>
 
 ### 6. Provincial Transportation Modes
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 

@@ -529,6 +529,8 @@ Thanks everyone.
 
 ### 2.5. City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Program
 
+<div id="motion-2-5-1" class="motion-anchor"></div>
+
 > That parts a), b), c), and e) of the motion BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -536,6 +538,8 @@ Thanks everyone.
 Unanimous (6-0)
 
 ### 2.5. City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Program
+
+<div id="motion-2-5-2" class="motion-anchor"></div>
 
 > That part d) of the motion BE APPROVED.
 

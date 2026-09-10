@@ -520,6 +520,8 @@ The meeting adjourned at 4:45 PM.
   Environmental Bill of Rights Registry - Making Choices: Reviewing Ontario's
   Long-Term Energy Plan
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -530,6 +532,8 @@ Unanimous (5-0)
 ### 3. Comments on
   Environmental Bill of Rights Registry - Conservation First: A Renewed Vision
   for  Energy Conservation in Ontario
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -542,6 +546,8 @@ Unanimous (5-0)
   Environmental Bill of Rights Registry - Waste Reduction Act and Waste
   Reduction Strategy
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -553,6 +559,8 @@ Unanimous (5-0)
   Realignment Around Westminster Road Bridge-Agreement with Ministry of
   Transportation for Cost Sharing
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -563,6 +571,8 @@ Unanimous (5-0)
 ### 6. Trunk Sewer
   Inspection Irregular Result (Tender 13-69)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -572,6 +582,8 @@ Unanimous (5-0)
 
 ### 7. Ridout Street Brick
   Sewer Rehabilitation Project No. ES2693 RFP No. 13-22 - Irregular Result
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -584,6 +596,8 @@ Unanimous (5-0)
   York Street/Richmond Street and York Street/Talbot Street Traffic Signal
   Rebuilds Single Source and Irregular Bid (Tender No. T13-71)
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -594,6 +608,8 @@ Unanimous (5-0)
 ### 9. Greenway Wastewater
   Treatment Plant Rotating Drum Thickener Engineering Project No. ES5084-11
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -603,6 +619,8 @@ Unanimous (5-0)
 
 ### 10. Gore Road Bridge
   Replacement Detailed Design and Tendering Appointment of Consulting Engineer
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -615,6 +633,8 @@ Unanimous (5-0)
   Over CN Rail Bridge Rehabilitation Detailed Design and Tendering-Appointment
   of Consulting Engineer
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -625,6 +645,8 @@ Unanimous (5-0)
 ### 12. Amendments to the
   Traffic and Parking By-law
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -633,6 +655,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 13. The Great Lakes Sewage Report Card 2013
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

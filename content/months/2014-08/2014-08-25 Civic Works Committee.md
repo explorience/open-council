@@ -877,6 +877,8 @@ The
 ### 2. 2nd Report of the
   Cycling Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -886,6 +888,8 @@ Unanimous (4-0)
 
 ### 3. Water Quality
   Evaluation of Waterways - Appointment of Consultant - Irregular Result
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -897,6 +901,8 @@ Unanimous (5-0)
 ### 3. Water Quality
   Evaluation of Waterways - Appointment of Consultant - Irregular Result
 
+<div id="motion-3-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -906,6 +912,8 @@ Unanimous (4-0)
 
 ### 5. Sifton Bog Surface
   Water Monitoring Program - Appointment of Consultant - Irregular Result
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -918,6 +926,8 @@ Unanimous (5-0)
   Park Stormwater Management Servicing Environmental Assessment - Consulting
   Engineer Assignment Increase
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -928,6 +938,8 @@ Unanimous (4-0)
 ### 7. Fanshawe Park Road
   East Widening - Adelaide Street to McLean Drive Detailed Design and Tendering
   Appointment of Consulting Engineer
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -940,6 +952,8 @@ Unanimous (4-0)
   Boler Road Intersection Improvements Environmental Assessment Study - Appointment
   of Consulting Engineer
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -951,6 +965,8 @@ Unanimous (4-0)
   - Wonderland Road North to Sleightholme Avenue - Detailed Design and
   Tendering Appointment of Consulting Engineer
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -960,6 +976,8 @@ Unanimous (4-0)
 
 ### 10. Dundas Flexible
   Street Scoping Study - Consulting Engineer Assignment Increase
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -971,6 +989,8 @@ Unanimous (4-0)
 ### 11. Amendments to the
   Traffic and Parking By-law
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -980,6 +1000,8 @@ Unanimous (4-0)
 
 ### 12. Amendments to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -991,6 +1013,8 @@ Unanimous (4-0)
 ### 13. Pollution
   Prevention and Control Plan - Infoworks Modelling Consultant Appointment
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1000,6 +1024,8 @@ Unanimous (5-0)
 
 ### 14. Truck Mounted, High
   Pressure Sewer Jetters - RFP 14-43
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1011,6 +1037,8 @@ Unanimous (4-0)
 ### 15. Boom Flail Mowers,
   Single Source Procurement
 
+<div id="motion-15-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1020,6 +1048,8 @@ Unanimous (5-0)
 
 ### 15. Boom Flail Mowers,
   Single Source Procurement
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1031,6 +1061,8 @@ Unanimous (4-0)
 ### 17. Single Source Cured
   in Place Pipe - Lining Supplies
 
+<div id="motion-17-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1040,6 +1072,8 @@ Unanimous (4-0)
 
 ### 18. Thames Sydenham
   Region Source Water Protection Plan Risk Management Services Agreement
+
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1052,6 +1086,8 @@ Unanimous (5-0)
   Consultant - Design and Contract Administration Services for the New
   Southland Pumping Station and Forcemain
 
+<div id="motion-19-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1061,6 +1097,8 @@ Unanimous (4-0)
 
 ### 20. Landfill Gas
   Utilization - Request for Qualifications
+
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1072,6 +1110,8 @@ Unanimous (4-0)
 ### 21. London Transit
   Commission 2013 Annual Report
 
+<div id="motion-21-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1082,6 +1122,8 @@ Unanimous (5-0)
 ### 22. Installation of
   Sidewalks
   on Shavian Boulevard
+
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

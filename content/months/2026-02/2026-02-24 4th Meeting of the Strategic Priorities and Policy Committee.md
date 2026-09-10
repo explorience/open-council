@@ -591,6 +591,8 @@ Thank you everyone.
 
 ### 1. Disclosures of Pecuniary Interest
 
+<div id="motion-1-0" class="motion-anchor"></div>
+
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 6.1 in Stage 6, Confidential, to be considered before Stage 2, Consent.
 
 **✅ Motion Passed (12 to 0)**
@@ -599,6 +601,8 @@ Unanimous (12-0)
 
 ### 2.3. 2026 Assessment Growth Funding Allocation
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > That the delegation request from C. Butler BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (14 to 0)**
@@ -606,6 +610,8 @@ Unanimous (12-0)
 Unanimous (14-0)
 
 ### 4.1. London UNESCO City of Music Action Plan 2021-2025 Update
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 

@@ -2841,6 +2841,8 @@ All right, thank you. We are adjourned.
 
 ### 8.1. 4th Report of the Civic Works Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 4th Report of the Civic Works Committee BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -2849,6 +2851,8 @@ Unanimous (15-0)
 
 ### 8.2. 4th Report of the Planning and Environment Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That the 4th Report of the Planning and Environment Committee BE APPROVED with the exception of item 8 (3.3).
 
 **✅ Motion Passed (15 to 0)**
@@ -2856,6 +2860,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.2.8. (3.3) 1494 Commissioners Road West (Z-9689)
+
+<div id="motion-8-2-8-0" class="motion-anchor"></div>
 
 > That, based on the application by David Moubarak (c/o Strik Baldinelli Moniz Ltd.), relating to the property located at 1494 Commissioners Road West, the request to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subje...
 
@@ -2872,6 +2878,8 @@ Unanimous (15-0)
 
 ### 8.3. 4th Report of the Corporate Services Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 4th Report of the Corporate Services Committee BE APPROVED with the exception of item 4 (2.3).
 
 **✅ Motion Passed (15 to 0)**
@@ -2879,6 +2887,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.4. (2.3) 2024 Tax Policy Expectations
+
+<div id="motion-8-3-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2024 Tax Policy Expectations: a) the Civic Administration BE DIRECTED to include an individual line item on the 2024 City of London final property tax billing and their accompanying property tax pamphlet identifying the impact of legislative...
 
@@ -2895,6 +2905,8 @@ Unanimous (15-0)
 
 ### 8.3.4. (2.3) 2024 Tax Policy Expectations
 
+<div id="motion-8-3-4-1" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 2024 Tax Policy Expectations: a) that the direction to Civic Administration to include an individual line item on the 2024 City of London final property tax billing and their accompanying property tax pamphlet identifying the impact of legis...
 
 **❌ Motion Failed (3 to 12)**
@@ -2910,6 +2922,8 @@ Unanimous (15-0)
 
 ### 8.4. 4th Report of the Community and Protectives Services Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 4th Report of the Community and Protectives Services Committee BE APPROVED with the exception of item 4 (4.1)
 
 **✅ Motion Passed (15 to 0)**
@@ -2917,6 +2931,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.4.4. (4.1) Regulation of the Display of Graphic Images
+
+<div id="motion-8-4-4-0" class="motion-anchor"></div>
 
 > That the staff report, dated February 20, 2024, BE REFERRED back to the Civic Administration and the Civic Administration BE DIRECTED to bring forward a draft by-law with respect to the Regulation of the Display of Graphic Images to a future meeting of the Community and Protective Services Commit...
 
@@ -2933,6 +2949,8 @@ Unanimous (15-0)
 
 ### 8.5. 1st Report of the Audit Committee
 
+<div id="motion-8-5-0" class="motion-anchor"></div>
+
 > That the 1st Report of the Audit Committee BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -2941,6 +2959,8 @@ Unanimous (15-0)
 
 ### 8.6. 5th Special Report of the Corporate Services Committee
 
+<div id="motion-8-6-0" class="motion-anchor"></div>
+
 > That the 5th Report of the Corporate Services Committee BE APPROVED with the exception of item 4 (2.3)
 
 **✅ Motion Passed (15 to 0)**
@@ -2948,6 +2968,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.6.4. (2.3) Government Relations Consulting Assignment
+
+<div id="motion-8-6-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the City Manager, in accordance with section 15.1 (c) of the Procurement of Goods and Services Policy, that Coriano Capital BE APPROVED to continue to provide consulting services for government relations, strategic advisory services, and advocacy in addressing local...
 
@@ -2964,6 +2986,8 @@ Unanimous (15-0)
 
 ### 8.7. 6th Special Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-7-0" class="motion-anchor"></div>
+
 > That the 6th Report of the Special Strategic Priorities and Policy Committee BE APPROVED with the exception of item 2 (2.1).
 
 **✅ Motion Passed (15 to 0)**
@@ -2971,6 +2995,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.7.2. (2.1) Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
+
+<div id="motion-8-7-2-1" class="motion-anchor"></div>
 
 > Motion to approve part a) to read as follows: a)    an extension to the existing Municipal Purchase of Service Agreement with London Cares at a total estimated increase of up to $139,600 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary drop-in sp...
 
@@ -2987,6 +3013,8 @@ Unanimous (15-0)
 
 ### 8.7.2. (2.1) Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
 
+<div id="motion-8-7-2-2" class="motion-anchor"></div>
+
 > Motion to approve part b) to read as follows: b)    an extension to the existing Municipal Purchase of Service Agreement with Safe Space London at a total estimated increase of up to $129,000 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary day a...
 
 **✅ Motion Passed (14 to 1)**
@@ -3002,6 +3030,8 @@ Unanimous (15-0)
 
 ### 8.7.2. (2.1) Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
 
+<div id="motion-8-7-2-3" class="motion-anchor"></div>
+
 > Motion to approve parts c) and d): c)    the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in connection with the contracts noted in a) and b); and d)    approval given herein BE CONDITIONAL upon the Corporation of the City of London amending existing...
 
 **✅ Motion Passed (15 to 0)**
@@ -3009,6 +3039,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 9.1. 6th Report of Council in Closed Session
+
+<div id="motion-9-1-1" class="motion-anchor"></div>
 
 > That clause 2 of the 6th Report of the Council, In Closed Session, read as follows: 2. Settlement Agreement – 850 – 870 Wellington Road – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respe...
 
@@ -3025,6 +3057,8 @@ Unanimous (15-0)
 
 ### 12. Emergent Motions
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > That pursuant to section 13.2 of the Council Procedure by-law, the Council decision with respect to item 4 (2.3) of the 4th Report of the Corporate Services Committee with respect to 2024 Tax Policy Expectations BE RECONSIDERED to provide an alternate direction for Civic Administration.
 
 **✅ Motion Passed (11 to 4)**
@@ -3039,6 +3073,8 @@ Unanimous (15-0)
 </details>
 
 ### 12. Emergent Motions
+
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2024 Tax Policy Expectations: a) the Civic Administration BE DIRECTED to include an individual line item on the 2024 City of London final property tax billing and their accompanying property tax pamphlet identifying the impact of legislative...
 
@@ -3055,6 +3091,8 @@ Unanimous (15-0)
 
 ### 12. Emergent Motions
 
+<div id="motion-12-2" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 2024 Tax Policy Expectations: b) on the recommendation of the Deputy City Manager, Finance Supports, the staff report dated February 26, 2024 BE RECEIVED for information.
 
 **✅ Motion Passed (14 to 1)**
@@ -3069,6 +3107,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.’s 89, 90, and Added Bill No. 95, BE APPROVED.
 
@@ -3085,6 +3125,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-4" class="motion-anchor"></div>
+
 > That Second Reading of Bill No.’s 89, 90, and Added Bill No. 95, BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -3099,6 +3141,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.’s 89, 90, and Added Bill No. 95 BE APPROVED.
 
@@ -3115,6 +3159,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-6" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No. 96 BE APPROVED.
 
 **✅ Motion Passed (13 to 1)**
@@ -3129,6 +3175,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 96 BE APPROVED
 

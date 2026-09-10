@@ -679,6 +679,8 @@ Motion Passed
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
+<div id="motion-iv-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -693,18 +695,7 @@ Motion Passed
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 30, 2018
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park), [Jared Zaifman](/councillors/former/j-zaifman)
-
-</details>
-
-### XIII. BY-LAWS
+<div id="motion-v-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -719,6 +710,8 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -731,6 +724,23 @@ Motion Passed
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-3" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park), [Jared Zaifman](/councillors/former/j-zaifman)
+
+</details>
+
+### XIII. BY-LAWS
+
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -746,6 +756,8 @@ Motion Passed
 ### 9. Observation Summary
   as at January 29, 2018
 
+<div id="motion-9-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -759,6 +771,8 @@ Motion Passed
 
 ### 9. Observation Summary
   as at January 29, 2018
+
+<div id="motion-9-3" class="motion-anchor"></div>
 
 > Motion Passed
 

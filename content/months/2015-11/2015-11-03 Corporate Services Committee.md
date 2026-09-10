@@ -294,6 +294,8 @@ Motion
 ### 2. Joining the Compact
   of Mayors
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -303,6 +305,8 @@ Unanimous (5-0)
 
 ### 3. Customer
   Relationship Management (CRM) Software Implementation Partner - Phase Two
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -314,6 +318,8 @@ Unanimous (5-0)
 ### 4. Pre-authorized Tax
   Payment Plan By-law and Collection of Property Taxes By-law
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -324,6 +330,8 @@ Unanimous (5-0)
 ### 5. Amendment to
   Council Policy 5(16) - General Policy for Advisory Committees
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -333,6 +341,8 @@ Unanimous (5-0)
 
 ### 6. Request for
   Approval of an Expense on an Exception Basis
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -351,6 +361,8 @@ Unanimous (5-0)
 ### 7. Revisions to Tax
   Bill
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -361,6 +373,8 @@ Unanimous (5-0)
 ### 8. Advisory Committee
   Review
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -369,6 +383,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 9. Asset Management
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -379,6 +395,8 @@ Unanimous (5-0)
 
 ### 10. (ADDED) FCM – Women in Local Government  -
   Diverse Voices for Change Initiative
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

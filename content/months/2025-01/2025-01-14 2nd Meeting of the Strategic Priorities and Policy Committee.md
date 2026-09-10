@@ -788,6 +788,8 @@ Motion carries. Have a good evening.
 
 ### 4.1. 1st Report of the Integrated Transportation Community Advisory Committee
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the 1st Report of the Integrated Transportation Communication Advisory Committee from its meeting held on December 18, 2024 BE RECEIVED and NO FURTHER ACTION BE TAKEN; it being noted that the Strategic Priorities and Policy Committee heard a verbal delegation from R. Buchal, Member, Integrat...
 
 **✅ Motion Passed (11 to 3)**
@@ -805,6 +807,8 @@ Motion carries. Have a good evening.
 
 ### 4.1. 1st Report of the Integrated Transportation Community Advisory Committee
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > That the delegation request from R. Buchal, Member, Integrated Transportation Community Advisory Committee and Chair of the Mobility Master Plan Subcommittee, BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (14 to 0)**
@@ -813,6 +817,8 @@ Unanimous (14-0)
 
 ### 4.3. Eldon House Board of Directors Change of Governance Structure Request
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > That the request from the Board of Directors Eldon House BE REFERRED to the Civic Administration to draft a revised Eldon House by-law and report back to the February 4, 2025 meeting of Strategic Priorities and Policy Committee; it being noted that the Strategic Priorities and Policy Committee re...
 
 **✅ Motion Passed (14 to 0)**
@@ -820,6 +826,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.4. Confirmation of Appointment to the Hamilton Road BIA
+
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That Jim Dean, of Jim Dean Law BE APPOINTED to the Hamilton Road BIA for the term ending November 14, 2026; it being noted that the Strategic Priorities and Policy Committee received a communication dated December 18, 2024 from C. Luistro, Executive Director, Hamilton Road BIA with respect to thi...
 

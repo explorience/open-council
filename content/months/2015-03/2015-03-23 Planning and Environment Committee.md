@@ -1616,6 +1616,8 @@ The
 ### 2. 2nd Report of the
   Trees and Forests Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1625,6 +1627,8 @@ Unanimous (5-0)
 
 ### 3. Million Tree
   Challenge Status Update
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1636,6 +1640,8 @@ Unanimous (5-0)
 ### 4. Extension of Draft
   Plan of Subdivision Approval (39T-02502)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1645,6 +1651,8 @@ Unanimous (5-0)
 
 ### 5. Annual Report on
   Building Permit Fees
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1656,15 +1664,7 @@ Unanimous (5-0)
 ### 6. Building Division
   Monthly Report for January 2015
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Fibre-Optic
-  Connection Grant Pilot Program for Downtown London
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1676,6 +1676,8 @@ Unanimous (5-0)
 ### 7. Fibre-Optic
   Connection Grant Pilot Program for Downtown London
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1686,6 +1688,20 @@ Unanimous (5-0)
 ### 7. Fibre-Optic
   Connection Grant Pilot Program for Downtown London
 
+<div id="motion-7-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Fibre-Optic
+  Connection Grant Pilot Program for Downtown London
+
+<div id="motion-7-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1696,15 +1712,7 @@ Unanimous (5-0)
 ### 8. Properties located
   1925 Culver Drive and 585, 587 and 589 Clarke Road (Z-8437)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 8. Properties located
-  1925 Culver Drive and 585, 587 and 589 Clarke Road (Z-8437)
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1716,6 +1724,20 @@ Unanimous (5-0)
 ### 8. Properties located
   1925 Culver Drive and 585, 587 and 589 Clarke Road (Z-8437)
 
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. Properties located
+  1925 Culver Drive and 585, 587 and 589 Clarke Road (Z-8437)
+
+<div id="motion-8-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1726,15 +1748,7 @@ Unanimous (5-0)
 ### 9. Property located at
   2081 Wallingford Avenue (SP14-038425)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. Property located at
-  2081 Wallingford Avenue (SP14-038425)
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1746,6 +1760,8 @@ Unanimous (5-0)
 ### 9. Property located at
   2081 Wallingford Avenue (SP14-038425)
 
+<div id="motion-9-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1755,6 +1771,20 @@ Unanimous (5-0)
 
 ### 9. Property located at
   2081 Wallingford Avenue (SP14-038425)
+
+<div id="motion-9-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Property located at
+  2081 Wallingford Avenue (SP14-038425)
+
+<div id="motion-9-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1766,15 +1796,7 @@ Unanimous (5-0)
 ### 10. Properties located
   at 895 and 905 Sarnia Road North Portion (39T-14501/Z-8395)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 10. Properties located
-  at 895 and 905 Sarnia Road North Portion (39T-14501/Z-8395)
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1785,6 +1807,20 @@ Unanimous (5-0)
 
 ### 10. Properties located
   at 895 and 905 Sarnia Road North Portion (39T-14501/Z-8395)
+
+<div id="motion-10-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 10. Properties located
+  at 895 and 905 Sarnia Road North Portion (39T-14501/Z-8395)
+
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1798,6 +1834,8 @@ Unanimous (5-0)
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth  (O-8014/O-8362)
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1809,6 +1847,8 @@ Unanimous (5-0)
   Exeter Road, North of Dingman Drive, east of White Oak Road and west of the
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth  (O-8014/O-8362)
+
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1829,17 +1869,7 @@ Unanimous (5-0)
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth  (O-8014/O-8362)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. Lands south of
-  Exeter Road, North of Dingman Drive, east of White Oak Road and west of the
-  Marr Drain - Recommended Urban Growth Boundary Expansion for Future
-  Industrial Growth  (O-8014/O-8362)
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1853,17 +1883,7 @@ Unanimous (5-0)
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth  (O-8014/O-8362)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. Lands south of
-  Exeter Road, North of Dingman Drive, east of White Oak Road and west of the
-  Marr Drain - Recommended Urban Growth Boundary Expansion for Future
-  Industrial Growth  (O-8014/O-8362)
+<div id="motion-11-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1877,6 +1897,8 @@ Unanimous (5-0)
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth  (O-8014/O-8362)
 
+<div id="motion-11-4" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1888,6 +1910,36 @@ Unanimous (5-0)
   Exeter Road, North of Dingman Drive, east of White Oak Road and west of the
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth  (O-8014/O-8362)
+
+<div id="motion-11-5" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Lands south of
+  Exeter Road, North of Dingman Drive, east of White Oak Road and west of the
+  Marr Drain - Recommended Urban Growth Boundary Expansion for Future
+  Industrial Growth  (O-8014/O-8362)
+
+<div id="motion-11-6" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Lands south of
+  Exeter Road, North of Dingman Drive, east of White Oak Road and west of the
+  Marr Drain - Recommended Urban Growth Boundary Expansion for Future
+  Industrial Growth  (O-8014/O-8362)
+
+<div id="motion-11-7" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1899,15 +1951,7 @@ Unanimous (5-0)
 ### 12. Improvements to
   Public Engagement in the Planning Process
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. Improvements to
-  Public Engagement in the Planning Process
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1918,6 +1962,20 @@ Unanimous (5-0)
 
 ### 12. Improvements to
   Public Engagement in the Planning Process
+
+<div id="motion-12-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Improvements to
+  Public Engagement in the Planning Process
+
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1928,6 +1986,8 @@ Unanimous (5-0)
 
 ### 13. Property located at
   1576 Richmond Street (SP14-025702)
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1946,15 +2006,7 @@ Unanimous (5-0)
 ### 13. Property located at
   1576 Richmond Street (SP14-025702)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. Property located at
-  1576 Richmond Street (SP14-025702)
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1966,6 +2018,20 @@ Unanimous (5-0)
 ### 13. Property located at
   1576 Richmond Street (SP14-025702)
 
+<div id="motion-13-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Property located at
+  1576 Richmond Street (SP14-025702)
+
+<div id="motion-13-3" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1976,15 +2042,7 @@ Unanimous (5-0)
 ### 14. Delegated Authority
   for Heritage Alteration Permits
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 14. Delegated Authority
-  for Heritage Alteration Permits
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1995,6 +2053,20 @@ Unanimous (5-0)
 
 ### 14. Delegated Authority
   for Heritage Alteration Permits
+
+<div id="motion-14-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. Delegated Authority
+  for Heritage Alteration Permits
+
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2007,16 +2079,7 @@ Unanimous (5-0)
   Secondary Plan - Application for Approval of Draft Plan of Subdivision -
   Official Plan and Zoning By-law Amendments (39T-14505/OZ-8426)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 15. Riverbend South
-  Secondary Plan - Application for Approval of Draft Plan of Subdivision -
-  Official Plan and Zoning By-law Amendments (39T-14505/OZ-8426)
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2028,6 +2091,21 @@ Unanimous (5-0)
 ### 15. Riverbend South
   Secondary Plan - Application for Approval of Draft Plan of Subdivision -
   Official Plan and Zoning By-law Amendments (39T-14505/OZ-8426)
+
+<div id="motion-15-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 15. Riverbend South
+  Secondary Plan - Application for Approval of Draft Plan of Subdivision -
+  Official Plan and Zoning By-law Amendments (39T-14505/OZ-8426)
+
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -2038,6 +2116,8 @@ Unanimous (5-0)
 
 ### 16. 5th Report of the
   London Advisory Committee on Heritage
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

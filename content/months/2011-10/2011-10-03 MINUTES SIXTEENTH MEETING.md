@@ -4489,6 +4489,8 @@ Motion Passed
   – Cedarhollow Developments Limited and Auburn Homes Inc. – Cedarhollow
   Subdivision – Phase 2 (39T-03518)
 
+<div id="motion-18-2-3" class="motion-anchor"></div>
+
 > The motion to adopt clause 19 is put.    Motion Passed on a recorded vote, the   Members voting as follows:
 
 **✅ Motion Passed**
@@ -4505,6 +4507,8 @@ Motion Passed
 ### 5#3. Summit Professional
   Baseball LLC (Frontier League Professional Baseball) Licence Agreement for
   use of Labatt Park
+
+<div id="motion-5-3-2" class="motion-anchor"></div>
 
 > Refer clause 5 back to staff for a more   fulsome report on the potential impacts to the community and to London   baseball, in general.      Motion Failed on a recorded vote, the   Members voting as follows:
 
@@ -4523,6 +4527,8 @@ Motion Passed
   Baseball LLC (Frontier League Professional Baseball) Licence Agreement for
   use of Labatt Park
 
+<div id="motion-5-3-3" class="motion-anchor"></div>
+
 > Motion Passed on a recorded vote, the   Members voting as follows:
 
 **✅ Motion Passed**
@@ -4538,6 +4544,8 @@ Motion Passed
 
 ### 9#4. Recorded Vote -
   Investment and Economic Prosperity Committee
+
+<div id="motion-9-4-0" class="motion-anchor"></div>
 
 > The Committee of the Whole (CW) held a   recorded vote on the appointments to the Investment and Economic Prosperity   Committee.  The motion carried, the Members voting as follows:
 
@@ -4555,6 +4563,8 @@ Motion Passed
 ### 5. Chief
   Administrative Officer - Service London
 
+<div id="motion-5-3" class="motion-anchor"></div>
+
 > Motion Passed on a recorded vote, the   Members voting as follows:
 
 **❌ **
@@ -4571,6 +4581,8 @@ Motion Passed
 ### 27. KAP Holdings Inc. –
   186-188 Huron Street and 2 Audrey Avenue (OZ-7912)
 
+<div id="motion-27-1" class="motion-anchor"></div>
+
 > Motion Failed on a recorded vote, the   Members voting as follows:
 
 **❌ Motion Failed**
@@ -4586,6 +4598,8 @@ Motion Passed
 
 ### 27. KAP Holdings Inc. –
   186-188 Huron Street and 2 Audrey Avenue (OZ-7912)
+
+<div id="motion-27-3" class="motion-anchor"></div>
 
 > Motion Passed on a recorded vote, the   Members voting as follows:
 

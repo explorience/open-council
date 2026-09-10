@@ -319,6 +319,8 @@ The meeting adjourned at 1:47 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.1 to 2.3 and 2.5 to 2.8 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -327,6 +329,8 @@ Unanimous (6-0)
 
 ### 2.4. Contract Award: RFT20-31 2020 Infrastructure Renewal Program Contract 7 - Devonshire Phase 2
 
+<div id="motion-2-4-1" class="motion-anchor"></div>
+
 > That part a) above BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -334,6 +338,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.4. Contract Award: RFT20-31 2020 Infrastructure Renewal Program Contract 7 - Devonshire Phase 2
+
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > That part b) above BE APPROVED.
 

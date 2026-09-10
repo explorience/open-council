@@ -214,6 +214,8 @@ Motion
 ### 2. Amendments to the
   Traffic and Parking By-law
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -223,6 +225,8 @@ Unanimous (3-0)
 
 ### 3. Supply and
   Installation of Sewer Liners - Cured In Place Pipe (CIPP) (Tender 13-30)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -234,6 +238,8 @@ Unanimous (3-0)
 ### 4. Natural Resources
   Gas Franchise Agreement
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -243,6 +249,8 @@ Unanimous (3-0)
 
 ### 5. Closing of Colborne
   Street Diversion
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -254,15 +262,7 @@ Unanimous (3-0)
 ### 6. Closing of Hill
   Street Boulevard
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (3-0)
-
-### 7. Ban on Unsafe Rail
-  Tank Cars Carrying Hazardous Materials
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -273,6 +273,20 @@ Unanimous (3-0)
 
 ### 7. Ban on Unsafe Rail
   Tank Cars Carrying Hazardous Materials
+
+<div id="motion-7-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (3-0)
+
+### 7. Ban on Unsafe Rail
+  Tank Cars Carrying Hazardous Materials
+
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

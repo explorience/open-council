@@ -656,6 +656,8 @@ The meeting adjourned at 2:26 PM.
 
 ### 1.2. Election of Vice Chair for the Term Ending November 30, 2019
 
+<div id="motion-1-2-0" class="motion-anchor"></div>
+
 > That Councillor S. Lewis BE ELECTED Vice-Chair of the Community and Protective Services Committee for the term ending November 30, 2019.
 
 **✅ Motion Passed (5 to 0)**
@@ -664,6 +666,8 @@ Unanimous (5-0)
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1, 2.2, 2.3, 2.4, 2.6, 2.7, 2.8 and 2.10 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -671,6 +675,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.5. Zoos and Mobile Zoos
+
+<div id="motion-2-5-1" class="motion-anchor"></div>
 
 > That this matter BE REFERRED back to the Civic Administration for further review and legal advice on this matter and a report back at a future meeting of the Community and Protective Services Committee, particularly regarding alignment with provincial legislation and impacts to working animals.
 
@@ -689,6 +695,8 @@ Unanimous (5-0)
 
 ### 2.5. Zoos and Mobile Zoos
 
+<div id="motion-2-5-2" class="motion-anchor"></div>
+
 > Motion to reconsider the referral.
 
 **✅ Motion Passed (5 to 0)**
@@ -696,6 +704,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.5. Zoos and Mobile Zoos
+
+<div id="motion-2-5-3" class="motion-anchor"></div>
 
 > That this matter BE REFERRED back to the Civic Administration for further review and legal advice on this matter and a report back at a future meeting of the Community and Protective Services Committee, particularly regarding alignment with provincial legislation and impacts to working animals.
 
@@ -714,6 +724,8 @@ Unanimous (5-0)
 
 ### 2.5. Zoos and Mobile Zoos
 
+<div id="motion-2-5-4" class="motion-anchor"></div>
+
 > Motion to approve part a) of the staff recommendation.
 
 **✅ Motion Passed (6 to 0)**
@@ -721,6 +733,8 @@ Unanimous (5-0)
 Unanimous (6-0)
 
 ### 2.5. Zoos and Mobile Zoos
+
+<div id="motion-2-5-5" class="motion-anchor"></div>
 
 > Motion to approve part b) of the staff recommendation.
 
@@ -739,6 +753,8 @@ Unanimous (6-0)
 
 ### 3.2. 8th Report of the Community Safety and Crime Prevention Advisory Committee
 
+<div id="motion-3-2-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 8th Report of the Community Safety and Crime Prevention Advisory Committee, from its meeting held on November 22, 2018: a)            the Civic Administration BE ASKED to report back at a future Community Safety and Crime Prevention Advisory...
 
 **✅ Motion Passed (6 to 0)**
@@ -746,6 +762,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. 580 Talbot Street - Sign By-law S.-5868-183
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That Civic Administration BE DIRECTED not to enforce the Sign By-law with respect to the sign affixed to the roof of the property located at 580 Talbot Street, subject to any safety concerns and that the sign meets the illumination standards within the By-law; it being noted that the communicatio...
 

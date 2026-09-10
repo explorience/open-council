@@ -241,6 +241,8 @@ The meeting adjourned at 6:43 PM.
 
 ### 4.1. City of London Housing Service Review: Proposed Action Plan
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > That on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer and Managing Director, Housing, Social Services and Dearness Home, the following actions be taken with respect to the City of London Housing Service Review: a)         the staff rep...
 
 **✅ Motion Passed (7 to 6) 🔥**
@@ -258,6 +260,8 @@ The meeting adjourned at 6:43 PM.
 
 ### 4.1. City of London Housing Service Review: Proposed Action Plan
 
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
 > That Civic Administration BE DIRECTED to report back to Corporate Services Committee on the feasibility of using the same approach taken for affordable housing to reduce the effective tax rate for London Middlesex Community Housing (LMCH) buildings to be equivalent to the residential tax rate, in...
 
 **✅ Motion Passed (13 to 0)**
@@ -265,6 +269,8 @@ The meeting adjourned at 6:43 PM.
 Unanimous (13-0)
 
 ### 6. Adjournment
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion to adjourn.
 

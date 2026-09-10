@@ -1289,6 +1289,8 @@ Thank you very much, everyone.
 
 ### 1. Disclosures of Pecuniary Interest
 
+<div id="motion-1-0" class="motion-anchor"></div>
+
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 5.1 in Stage 5, Appointment to the London Hydro Board of Directors, to be considered after Stage 6, Confidential.
 
 **✅ Motion Passed (13 to 0)**
@@ -1296,6 +1298,8 @@ Thank you very much, everyone.
 Unanimous (13-0)
 
 ### 2.1. Development Charge Exemptions and Discounts
+
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > Motion to add a new part c) that the Mayor and Councillor Hopkins will continue advocacy on this matter through both AMO and OBCM. ADDITIONAL VOTES:
 
@@ -1305,6 +1309,8 @@ Unanimous (15-0)
 
 ### 2.1. Development Charge Exemptions and Discounts
 
+<div id="motion-2-1-2" class="motion-anchor"></div>
+
 > The recommendation as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -1312,6 +1318,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. City Manager, Recruitment and Selection Process
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, in consultation with the Mayor, and on the recommendation of the Deputy City Manager, Enterprise Supports and Director, People Services, the following actions be taken with respect to the City Manager recruitment and selection process: a)    the staff reported dated September 19, 2023, rela...
 
@@ -1328,6 +1336,8 @@ Unanimous (15-0)
 
 ### 4.1. City Manager, Recruitment and Selection Process
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > Appointment to the Recruitment and Selection Committee
 
 **❌ Majority Winner: Shawn Lewis; Corrine Rahman; Steve Lehman; Jerry Pribil; Susan Stevenson 🔥**
@@ -1339,6 +1349,8 @@ Unanimous (15-0)
 
 ### 4.2. Consideration of Appointment to the London and Middlesex Community Housing Board of Directors (Requires 1 Member)
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the appointment to the London and Middlesex Community Housing Board of Directors: a)  Kathleen Savoy BE APPOINTED to the London and Middlesex Community Housing Board of Directors as a Second Class Tenant Member for the term ending December 31, 2...
 
 **✅ Motion Passed (15 to 0)**
@@ -1346,6 +1358,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 5.1. Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members)
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to appointments to the London Hydro Board of Directors: a)  Tim Watson and Tracy Gustafson BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held...
 
@@ -1362,6 +1376,8 @@ Unanimous (15-0)
 
 ### 5.1. Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members)
 
+<div id="motion-5-1-1" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to appointments to the London Hydro Board of Directors: a)  Tim Watson and Cedric Gomes BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held in...
 
 **❌ Motion Failed (4 to 11)**
@@ -1376,6 +1392,8 @@ Unanimous (15-0)
 </details>
 
 ### 5.1. Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members)
+
+<div id="motion-5-1-2" class="motion-anchor"></div>
 
 > That the appointments to the London Hydro Board of Directors BE REFERRED to a future meeting of Strategic Priorities and Policy Committee to conduct interviews for the seven candidates as noted on the agenda.
 
@@ -1392,6 +1410,8 @@ Unanimous (15-0)
 
 ### 5.3. (ADDED) 5th Report of the Governance Working Group
 
+<div id="motion-5-3-1" class="motion-anchor"></div>
+
 > Motion TO APPROVE Governance Working Group recommendation, except part a ii) and iii). ADDITIONAL VOTES:
 
 **✅ Motion Passed (14 to 0)**
@@ -1399,6 +1419,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 5.3. (ADDED) 5th Report of the Governance Working Group
+
+<div id="motion-5-3-2" class="motion-anchor"></div>
 
 > Motion TO APPROVE Governance Working Group recommendation parts a ii) and iii).
 

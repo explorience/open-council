@@ -1337,6 +1337,8 @@ Closing the vote, the motion carries five to zero. We're adjourned, thank you, f
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.6 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1344,6 +1346,8 @@ Closing the vote, the motion carries five to zero. We're adjourned, thank you, f
 Unanimous (5-0)
 
 ### 3.4. 625 Mornington Avenue (1299 Oxford Street East) (Z-9589)
+
+<div id="motion-3-4-3" class="motion-anchor"></div>
 
 > That the motion be amended to include a new part b) iv to read as follows: iv)        Bird friendly design
 
@@ -1353,6 +1357,8 @@ Unanimous (5-0)
 
 ### 3.4. 625 Mornington Avenue (1299 Oxford Street East) (Z-9589)
 
+<div id="motion-3-4-4" class="motion-anchor"></div>
+
 > Motion to approve the main motion, as amended
 
 **✅ Motion Passed (5 to 0)**
@@ -1361,6 +1367,8 @@ Unanimous (5-0)
 
 ### 3.5. 488-492 Pond Mills Road (Z-9625)
 
+<div id="motion-3-5-4" class="motion-anchor"></div>
+
 > Motion to approve the motion, as amended.
 
 **✅ Motion Passed (5 to 0)**
@@ -1368,6 +1376,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.5. 488-492 Pond Mills Road (Z-9625)
+
+<div id="motion-3-5-5" class="motion-anchor"></div>
 
 > Motion to remove clause b) i);
 
@@ -1383,6 +1393,8 @@ Unanimous (5-0)
 </details>
 
 ### 3.5. 488-492 Pond Mills Road (Z-9625)
+
+<div id="motion-3-5-6" class="motion-anchor"></div>
 
 > motion to amend clause b) ii) to install a privacy fence around the parking area bordering the property;
 

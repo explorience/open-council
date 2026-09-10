@@ -2397,6 +2397,8 @@ Motion Passed
 ### 1#3. Disclosures of
   Pecuniary Interest
 
+<div id="motion-1-3-1" class="motion-anchor"></div>
+
 > Approve clause 1, as amended.
 
 **✅ Motion Passed**
@@ -2405,6 +2407,8 @@ Unanimous (13-0)
 
 ### 1#6. Disclosures of
   Pecuniary Interest
+
+<div id="motion-1-6-0" class="motion-anchor"></div>
 
 > Approve that part a) of clause 1 be amended    to read as follows:
 
@@ -2415,6 +2419,8 @@ Unanimous (13-0)
 ### 1#6. Disclosures of
   Pecuniary Interest
 
+<div id="motion-1-6-1" class="motion-anchor"></div>
+
 > Approve clause 1, as amended.
 
 **✅ Motion Passed**
@@ -2423,6 +2429,8 @@ Unanimous (13-0)
 
 ### 10#3. Mushroom Farm
   Zoning Review (Z-8513) (Relates to Bill No. 85)
+
+<div id="motion-10-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2433,6 +2441,8 @@ Unanimous (13-0)
 ### 17#2. Alternative Formats for Council and
   Standing Committee Agendas to Support Greater Participation in Local
   Government (continued)
+
+<div id="motion-17-2-0" class="motion-anchor"></div>
 
 > Approve that clause 17 be amended by   adding the following new part c):
 
@@ -2451,6 +2461,8 @@ Unanimous (13-0)
   Standing Committee Agendas to Support Greater Participation in Local
   Government (continued)
 
+<div id="motion-17-2-1" class="motion-anchor"></div>
+
 > Approve that clause 17 be amended by   adding the following new part d):
 
 **✅ Motion Passed**
@@ -2468,6 +2480,8 @@ Unanimous (13-0)
   Standing Committee Agendas to Support Greater Participation in Local
   Government (continued)
 
+<div id="motion-17-2-2" class="motion-anchor"></div>
+
 > Approve that clause 17 be amended by   adding the following new part e):
 
 **✅ Motion Passed**
@@ -2477,6 +2491,8 @@ Unanimous (13-0)
 ### 17#2. Alternative Formats for Council and
   Standing Committee Agendas to Support Greater Participation in Local
   Government (continued)
+
+<div id="motion-17-2-3" class="motion-anchor"></div>
 
 > Approve clause 17, as amended.
 
@@ -2495,6 +2511,8 @@ Unanimous (13-0)
   Standing Committee Agendas to Support Greater Participation in Local
   Government (continued)
 
+<div id="motion-17-2-4" class="motion-anchor"></div>
+
 > Approve that the meeting proceed  beyond   the hour of 11:00 PM.
 
 **✅ Motion Passed**
@@ -2511,6 +2529,8 @@ Unanimous (13-0)
 ### 17#3. “No-cut” Employment
   Agreements
 
+<div id="motion-17-3-0" class="motion-anchor"></div>
+
 > That it BE NOTED that Councillor P. Hubert   requested the Managing Director, Corporate Services and Chief Human Resources   Officer to advise what is stated in Council Policy 18(24) – “No-cut”   Employment Agreements and enquired about what constituted a “no-cut” contract   and if the City offer...
 
 **✅ Motion Passed**
@@ -2526,6 +2546,8 @@ Unanimous (13-0)
 
 ### 2#2. Ranked Ballot
   Election Model
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to begin   the public consultation process for a ranked ballot election which would   include additional research and provision of a draft by-law for consideration   at a public participation meeting that would be held in sufficient time to   meet the legislative r...
 
@@ -2544,6 +2566,8 @@ Unanimous (13-0)
   Delegation Status - Richard Robson, Executive Director, London Police
   Association
 
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
 > Approve that the voting record on clause   2 be amended to reflect that Councillor H.L. Usher voted “NAY” and Councillor   M. van Holst voted “YEA”, with respect to receiving the delegation from the   London Police Association.
 
 **✅ Motion Passed**
@@ -2553,6 +2577,8 @@ Unanimous (10-0)
 ### 2#5. Request for
   Delegation Status - Richard Robson, Executive Director, London Police
   Association
+
+<div id="motion-2-5-1" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Council, In Closed Session for the purpose of considering a matter pertaining   to information and advice subject to solicitor-client privilege, including   communications necessary for that purpose, with respect to clause 2 of the   4th Report of the Strat...
 
@@ -2570,6 +2596,8 @@ Unanimous (10-0)
 ### 2#6. Request for Delegation Status - Richard
   Robson, Executive Director, London Police Association (continued)
 
+<div id="motion-2-6-1" class="motion-anchor"></div>
+
 > Approve that part b) of clause 2 be referred back in order for the Civic   Administration to report back with additional legal advice regarding   requesting the Ontario Civilian Police Commission to proceed with the   investigation as outlined in the January 5, 2017 letter from David Gilmore,   P...
 
 **✅ Motion Passed**
@@ -2586,6 +2614,8 @@ Unanimous (10-0)
 ### 3#5. London Police
   Services Board
 
+<div id="motion-3-5-0" class="motion-anchor"></div>
+
 > That the resignation of Paul Paolatto from   the London Police Services Board, effective March 31, 2017, BE ACCEPTED, and   the following individuals BE INVITED for an interview at a future meeting of   the Corporate Services Committee:   a)              Susan   Toth b)              Kate   Wiggin...
 
 **✅ Motion Passed**
@@ -2594,6 +2624,8 @@ Unanimous (11-0)
 
 ### 4#2. Declare Surplus -
   Closed Road Allowance - Part of Cedarpark Crescent
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, on   the advice of the Manager of Realty Services, the following actions be taken   with respect to the closed road allowance on Cedarpark Crescent, described as   Part of Cedar...
 
@@ -2608,6 +2640,8 @@ Unanimous (11-0)
   Services Committee Stage for Consideration with Clause 11 of the 2nd Report
   of the Community and Protective Services Committee)
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2617,6 +2651,8 @@ Unanimous (12-0)
 ### 7#4. Rapid Transit
   Implementation Working Group
 
+<div id="motion-7-4-0" class="motion-anchor"></div>
+
 > That the resignation of Councillor J.   Morgan from the Rapid Transit Implementation Working Group BE ACCEPTED; it   being noted that the Strategic Priorities and Policy Committee received the attached   communication dated January 27, 2017, from Councillor J. Morgan, with respect   to this matter.
 
 **✅ Motion Passed**
@@ -2624,6 +2660,8 @@ Unanimous (12-0)
 Unanimous (11-0)
 
 ### 8#4. Sanctuary City
+
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken in   response to the President of the United States of America’s executive order   to ban individuals and families from Syria, Iran, Sudan, Iraq, Yemen, Libya   and Somalia from entering the United States of America:   a)         the   Civic Administration BE D...
 
@@ -2633,6 +2671,8 @@ Unanimous (9-0)
 
 ### 8#4. Sanctuary City
 
+<div id="motion-8-4-1" class="motion-anchor"></div>
+
 > Approve that, as a procedural matter   pursuant to Section 239(6) of the Municipal Act, 2001, the following   recommendation be forwarded to Council for deliberation and a vote in public   session:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Ch...
 
 **✅ Motion Passed**
@@ -2640,6 +2680,8 @@ Unanimous (9-0)
 Unanimous (11-0)
 
 ### 8#4. Sanctuary City
+
+<div id="motion-8-4-2" class="motion-anchor"></div>
 
 > Approve the following matters BE   REFERRED to the February 14, 2017 meeting of Municipal Council for   consideration and disposition.
 
@@ -2649,6 +2691,8 @@ Unanimous (11-0)
 
 ### 9#3. Property Located at
   1245 Michael Street (39T-1506/Z-8664) (Relates to Bill No. 84)
+
+<div id="motion-9-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2666,6 +2710,8 @@ Unanimous (11-0)
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
+<div id="motion-iv-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2674,6 +2720,8 @@ Unanimous (13-0)
 
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTH MEETING HELD JANUARY 17, 2017
+
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Fifth meeting   held on January 17, 2017.
 
@@ -2684,6 +2732,8 @@ Unanimous (12-0)
 ### 3. Update on Mental
   Health and Addictions Strategy
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Housing, Social Services and Dearness Home, the report dated January   24, 2017, with respect to the Mental Health and Addictions Strategy BE   RECEIVED.  (2017-S08)
 
 **✅ Motion Passed**
@@ -2692,6 +2742,8 @@ Unanimous (13-0)
 
 ### 9. Cold Beverage
   Vending Machines in City of London Recreation Facilities and City Hall
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > At 5:48 PM, Mayor M. Brown resumes the   Chair, and Councillor Hubert takes his seat at the Council Board.
 
@@ -2709,6 +2761,8 @@ Unanimous (13-0)
 ### 9. Cold Beverage
   Vending Machines in City of London Recreation Facilities and City Hall
 
+<div id="motion-9-2" class="motion-anchor"></div>
+
 > Approve the following part b):   b)        the Civic Administration’s plan to arrange the removal of cold beverage   vending  machines from recreation facilities and City Hall BE ENDORSED,   including the development and implementation of a comprehensive communication   and education strategy;
 
 **❌ Motion Failed 🔥**
@@ -2724,6 +2778,8 @@ Unanimous (13-0)
 
 ### 9. Cold Beverage
   Vending Machines in City of London Recreation Facilities and City Hall
+
+<div id="motion-9-3" class="motion-anchor"></div>
 
 > Approve the following part c):   c)     the Middlesex London Health Unit BE ASKED to develop and implement the   communication and education strategy;
 
@@ -2741,6 +2797,8 @@ Unanimous (13-0)
 ### 9. Cold Beverage
   Vending Machines in City of London Recreation Facilities and City Hall
 
+<div id="motion-9-4" class="motion-anchor"></div>
+
 > Approve the following part d):   d)   the   Civic Administration’s plan to arrange for the removal of candy vending from   recreational facilities at the end of the existing contract in 2017 BE   ENDORSED.
 
 **✅ Motion Passed 🔥**
@@ -2756,6 +2814,8 @@ Unanimous (13-0)
 
 ### 11. Vehicle for Hire
   By-law
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > The question “Shall the ruling of the Chair   be sustained?” is put.
 
@@ -2773,6 +2833,8 @@ Unanimous (13-0)
 ### 11. Vehicle for Hire
   By-law
 
+<div id="motion-11-1" class="motion-anchor"></div>
+
 > Approve the following new parts c) and d):
 
 **✅ Motion Passed**
@@ -2781,6 +2843,8 @@ Unanimous (13-0)
 
 ### 11. Vehicle for Hire
   By-law
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Approve part b), as follows:
 
@@ -2798,6 +2862,8 @@ Unanimous (13-0)
 ### 11. Vehicle for Hire
   By-law
 
+<div id="motion-11-3" class="motion-anchor"></div>
+
 > Approve that the Civic Administration BE   DIRECTED to bring forward a revised Vehicle for Hire By-law to the February   14, 2017 Municipal Council meeting for consideration that contains:
 
 **✅ Motion Passed**
@@ -2806,6 +2872,8 @@ Unanimous (13-0)
 
 ### 11. Vehicle for Hire
   By-law
+
+<div id="motion-11-5" class="motion-anchor"></div>
 
 > Approve an amendment to the proposed   amendment to Schedule 5 - Fees, as follows:   “it being understood that the Civic   Administration will report back to the Community and Protective Services   Committee with an analysis and evaluation of whether or not the Fees are   covering all associated ...
 
@@ -2823,6 +2891,8 @@ Unanimous (13-0)
 ### 11. Vehicle for Hire
   By-law
 
+<div id="motion-11-6" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed 🔥**
@@ -2838,6 +2908,8 @@ Unanimous (13-0)
 
 ### 11. Vehicle for Hire
   By-law
+
+<div id="motion-11-7" class="motion-anchor"></div>
 
 > Approve clause 11, as amended; it being   noted that the by-law will have a force and effect date of April 4, 2017.
 
@@ -2855,6 +2927,8 @@ Unanimous (13-0)
 ### 16. Deferred Matters
   List
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > That the January 2017 Deferred Matters List   for the Community and Protective Services Committee BE UPDATED and BE   RECEIVED.
 
 **✅ Motion Passed**
@@ -2864,6 +2938,8 @@ Unanimous (13-0)
 ### 17. Alternative Formats
   for Council and Standing Committee Agendas to Support Greater Participation
   in Local Government
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Approve that Council rise and go into   Council, In Closed Session, for the purpose of considering a matter   pertaining to advice subject to solicitor-client privilege, including communications   necessary for that purpose, with respect to City of London compliance with   the Accessibility for O...
 

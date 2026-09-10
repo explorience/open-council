@@ -871,6 +871,8 @@ Councillor Cuddy, Councillor Trozzo, hand vote. Thank you, that is carried. Than
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.4 and 2.6 to 2.8 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -879,6 +881,8 @@ Unanimous (5-0)
 
 ### 2.5. Mobility Master Plan 2050 Mode Share Target
 
+<div id="motion-2-5-1" class="motion-anchor"></div>
+
 > Motion to refer the Mobility Master Plan 2050 Mode Share Target staff report to a future meeting of the Strategic Priorities and Policy Committee.
 
 **✅ Motion Passed (6 to 0)**
@@ -886,6 +890,8 @@ Unanimous (5-0)
 Unanimous (6-0)
 
 ### 2.5. Mobility Master Plan 2050 Mode Share Target
+
+<div id="motion-2-5-2" class="motion-anchor"></div>
 
 > Motion to amend the referral by adding the following: b)    the Mobility Master Plan project team BE DIRECTED to consult with the Integrated Transportation Community Advisory Committee with respect to this matter; and, c)    the Civic Administration BE DIRECTED to clearly indicate how any options...
 
@@ -904,6 +910,8 @@ Unanimous (6-0)
 
 ### 2.5. Mobility Master Plan 2050 Mode Share Target
 
+<div id="motion-2-5-3" class="motion-anchor"></div>
+
 > Motion to approve parts b) and c) of the clause.
 
 **✅ Motion Passed (5 to 1)**
@@ -919,6 +927,8 @@ Unanimous (6-0)
 
 ### 3.1. London Transit’s 2022 Annual Report
 
+<div id="motion-3-1-0" class="motion-anchor"></div>
+
 > The London Transit Commission BE REQUESTED to review and refine the grading criteria for the 2023 annual report, with particular focus being given to service delivery standards, and alignment with the City of London’s Strategic Plan, as it relates to public transit, and report back at a future me...
 
 **✅ Motion Passed (5 to 0)**
@@ -926,6 +936,8 @@ Unanimous (6-0)
 Unanimous (5-0)
 
 ### 3.1. London Transit’s 2022 Annual Report
+
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation requests from J. Preston, W. Lau and M. Sheehan, to be heard at this meeting.
 

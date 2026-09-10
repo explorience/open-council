@@ -1673,6 +1673,8 @@ My motion carries. We're adjourned.
 
 ### 8.1. 1st Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 1st Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding Items 22 (4.21), 32 (4.31), 37 (4.36), 40 (4.39), 41 (4.40) and 42 (4.41).
 
 **✅ Motion Passed (15 to 0)**
@@ -1680,6 +1682,8 @@ My motion carries. We're adjourned.
 Unanimous (15-0)
 
 ### 8.1.22. (4.21) Consideration of Appointment to the University of Western Ontario Board of Governors
+
+<div id="motion-8-1-22-0" class="motion-anchor"></div>
 
 > That Mayor Morgan BE APPOINTED to the University of Western Ontario Board of Governors for the term commencing December 1, 2022 to November 14, 2026.
 
@@ -1689,6 +1693,8 @@ Unanimous (13-0)
 
 ### 8.1.32. (4.31) Consideration of Appointment to the Kettle Creek Conservation Authority
 
+<div id="motion-8-1-32-1" class="motion-anchor"></div>
+
 > That the motion BE AMENDED by adding the following to the clause: d)   that Councillor S. Trosow BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
 
 **✅ Motion Passed (15 to 0)**
@@ -1697,6 +1703,8 @@ Unanimous (15-0)
 
 ### 8.1.32. (4.31) Consideration of Appointment to the Kettle Creek Conservation Authority
 
+<div id="motion-8-1-32-2" class="motion-anchor"></div>
+
 > That item 32 (4.31), as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -1704,6 +1712,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.1.37. (4.36) Consideration of Appointment to the Committee of Adjustment
+
+<div id="motion-8-1-37-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026: Mohamed Mohamed El Hadary Steve Polhill      Daniela Schmidt         John Fyfe-Millar
 
@@ -1720,6 +1730,8 @@ Unanimous (15-0)
 
 ### 8.1.37. (4.36) Consideration of Appointment to the Committee of Adjustment
 
+<div id="motion-8-1-37-1" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026: Cheryl Miller
 
 **✅ Motion Passed (10 to 5)**
@@ -1735,6 +1747,8 @@ Unanimous (15-0)
 
 ### 8.1.40. (4.39) Consideration of Appointment to Eldon House
 
+<div id="motion-8-1-40-1" class="motion-anchor"></div>
+
 > That Item 40 (4.39) BE AMENDED to add the following individual for appointment to the Eldon House Board – Bruce Duncan; it being noted that part b) of the original recommendation be deleted.
 
 **✅ Motion Passed (15 to 0)**
@@ -1743,6 +1757,8 @@ Unanimous (15-0)
 
 ### 8.1.40. (4.39) Consideration of Appointment to Eldon House
 
+<div id="motion-8-1-40-2" class="motion-anchor"></div>
+
 > That Item 40 (4.39), as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -1750,6 +1766,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.1.41. (4.40) Consideration of Appointment to the London Police Services Board
+
+<div id="motion-8-1-41-0" class="motion-anchor"></div>
 
 > That Susan Toth BE APPOINTED to the London Police Services Board for the term ending November 14, 2026.
 
@@ -1766,6 +1784,8 @@ Unanimous (15-0)
 
 ### 8.1.42. (4.41) Consideration of Appointment to the London Public Library
 
+<div id="motion-8-1-42-0" class="motion-anchor"></div>
+
 > That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2026: Brian Gibson       Zeba Hashmi          Heather Jack  Beth Allison     Scott Andrew Collyer        Jeremy McCall  Sharon Desserud it being noted that the Strategic Priorities and Policy Commi...
 
 **✅ Motion Passed (9 to 6) 🔥**
@@ -1780,6 +1800,8 @@ Unanimous (15-0)
 </details>
 
 ### 9.1. 2nd Report of the Special Strategic Priorities and Policy Committee
+
+<div id="motion-9-1-0" class="motion-anchor"></div>
 
 > That the 2nd Report of the Strategic Priorities and Policy Committee, BE APPROVED.
 

@@ -2320,6 +2320,8 @@ Field goal, no miss right. (laughs) Second by Deputy Mayor Lewis, a hand vote. (
 
 ### 2.1. HL General Partner Inc. - Application of Brownfield Community Improvement Plan Incentives
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated January 6, 2026, related to the application of HL General Partner Inc. relating to the property located at 320 King Street: a)    a total exp...
 
 **✅ Motion Passed (5 to 0)**
@@ -2327,6 +2329,8 @@ Field goal, no miss right. (laughs) Second by Deputy Mayor Lewis, a hand vote. (
 Unanimous (5-0)
 
 ### 3.4. 465 Callaway Road - OZ-25120
+
+<div id="motion-3-4-2" class="motion-anchor"></div>
 
 > that the motion BE AMENDED to remove clause 2(a)(6) of the special provisions from the ZBA and move the provision to the site plan authority for consideration.
 
@@ -2336,6 +2340,8 @@ Unanimous (5-0)
 
 ### 3.4. 465 Callaway Road - OZ-25120
 
+<div id="motion-3-4-3" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -2343,6 +2349,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.8. 10 Marley Place - OZ-25129
+
+<div id="motion-3-8-2" class="motion-anchor"></div>
 
 > That the motion BE AMENDED to include a new part d) iv) that reads as follows:     iv) ensure parking and garbage pick-up is designed to reduce impact on adjacent properties
 
@@ -2352,6 +2360,8 @@ Unanimous (5-0)
 
 ### 3.8. 10 Marley Place - OZ-25129
 
+<div id="motion-3-8-4" class="motion-anchor"></div>
+
 > That the motion, as amended, BE APPROVED
 
 **✅ Motion Passed (5 to 0)**
@@ -2360,6 +2370,8 @@ Unanimous (5-0)
 
 ### 3.10. 1040 Hamilton Road and 1050 and 1070 Hamilton Road - OZ-25132
 
+<div id="motion-3-10-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants (c/o City of London) relating to the properties located at 1040 Hamilton Road, and 1050 &1070 Hamilton Road: a)    the propo...
 
 **✅ Motion Passed (5 to 0)**
@@ -2367,6 +2379,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. School Block Status Update Report.
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation request from B. Puzanov, Thames Valley District School Board and M. Wallace, London Development Institute, as appended to the Added Agenda, BE APPROVED.
 

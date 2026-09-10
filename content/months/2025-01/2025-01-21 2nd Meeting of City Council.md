@@ -1883,6 +1883,8 @@ All right, thank you, we are adjourned. Appreciate your time today.
 
 ### 6. Communications and Petitions
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > That the following communication BE RECEIVED, and BE REFERRED as noted on the Added Agenda: 6.2   430 First Street (Z-9809)   1.     A. Johnson At 2:07 PM, Councillor S. Trosow enters the meeting.
 
 **✅ Motion Passed (12 to 1)**
@@ -1900,6 +1902,8 @@ All right, thank you, we are adjourned. Appreciate your time today.
 
 ### 6.1. Council Resourcing Review Task Force Memo - City Clerk
 
+<div id="motion-6-1-0" class="motion-anchor"></div>
+
 > That on the recommendation of the City Clerk, the following actions be taken with respect to the 2025 Council Resourcing Review Task Force; a) the following individuals BE APPOINTED to the Council Resourcing Review Task Force: i)   Dane Ferry;  ii)  Mariam Hamou;  iii) Martin Horak;  iv) Jennifer...
 
 **✅ Motion Passed (13 to 0)**
@@ -1907,6 +1911,8 @@ All right, thank you, we are adjourned. Appreciate your time today.
 Unanimous (13-0)
 
 ### 8.1. 2nd Report of the Infrastructure and Corporate Services Committee
+
+<div id="motion-8-1-0" class="motion-anchor"></div>
 
 > That the 2nd Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of item 11 (2.6)
 
@@ -1916,6 +1922,8 @@ Unanimous (13-0)
 
 ### 8.1.11. (2.6) Contract Award: Tender No. RFT-2024-315 - East London Link and Municipal Infrastructure Improvements - Phase 4 - Oxford Street East (Relates to Bill No. 52)
 
+<div id="motion-8-1-11-0" class="motion-anchor"></div>
+
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the East London Link and Municipal Infrastructure Improvements Phase 4 project;    a)    the following actions BE TAKEN with respect to the award of the contract for...
 
 **✅ Motion Passed (12 to 0)**
@@ -1923,6 +1931,8 @@ Unanimous (13-0)
 Unanimous (12-0)
 
 ### 8.2. 2nd Report of the Community and Protective Services Committee
+
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That the 2nd Report of the Community and Protective Services Committee BE APPROVED
 
@@ -1932,6 +1942,8 @@ Unanimous (13-0)
 
 ### 8.3. 2nd Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 2nd Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 5 (4.1)
 
 **✅ Motion Passed (13 to 0)**
@@ -1939,6 +1951,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8.3.5. (4.1) 1st Report of the Integrated Transportation Community Advisory Committee
+
+<div id="motion-8-3-5-0" class="motion-anchor"></div>
 
 > That the 1st Report of the Integrated Transportation Communication Advisory Committee from its meeting held on December 18, 2024 BE RECEIVED and NO FURTHER ACTION BE TAKEN; it being noted that the Strategic Priorities and Policy Committee heard a verbal delegation from R. Buchal, Member, Integrat...
 
@@ -1957,6 +1971,8 @@ Unanimous (13-0)
 
 ### 8.4. 2nd Report of the Planning and Environment Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 2nd Report of the Planning and Environment Committee BE APPROVED
 
 **✅ Motion Passed (13 to 0)**
@@ -1964,6 +1980,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 9.1. 2nd Report of Council in Closed Session
+
+<div id="motion-9-1-0" class="motion-anchor"></div>
 
 > That the 2nd Report of the Council, In Closed Session BE APPROVED. At 2:28 PM, Councillor S. Franke enters the meeting.
 
@@ -1982,6 +2000,8 @@ Unanimous (13-0)
 
 ### 11. Enquiries
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > That pursuant to section 18.4 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Trosow to move a motion related to the City of London's warming centres.
 
 **❌ Motion Failed (7 to 7) 🔥**
@@ -1998,6 +2018,8 @@ Unanimous (13-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-6" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.
 
@@ -2016,6 +2038,8 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
+<div id="motion-13-7" class="motion-anchor"></div>
+
 > That Second Reading of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.
 
 **✅ Motion Passed (13 to 1)**
@@ -2032,6 +2056,8 @@ Unanimous (13-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-8" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.
 

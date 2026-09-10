@@ -172,6 +172,8 @@ The meeting adjourned at 4:36 PM.
 ### 2. STAFF REPORT - Property
   located at 3105 Bostwick Road (H-8781)
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -182,15 +184,7 @@ Unanimous (4-0)
 ### 3. 4:00 PM - PUBLIC
   PARTICIPATION MEETING - Proposed Changes to the London Plan (O-7938)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 3. 4:00 PM - PUBLIC
-  PARTICIPATION MEETING - Proposed Changes to the London Plan (O-7938)
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -202,6 +196,8 @@ Unanimous (5-0)
 ### 3. 4:00 PM - PUBLIC
   PARTICIPATION MEETING - Proposed Changes to the London Plan (O-7938)
 
+<div id="motion-3-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -211,6 +207,20 @@ Unanimous (5-0)
 
 ### 3. 4:00 PM - PUBLIC
   PARTICIPATION MEETING - Proposed Changes to the London Plan (O-7938)
+
+<div id="motion-3-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 3. 4:00 PM - PUBLIC
+  PARTICIPATION MEETING - Proposed Changes to the London Plan (O-7938)
+
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Motion   Passed
 

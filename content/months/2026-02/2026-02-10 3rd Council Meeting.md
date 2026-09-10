@@ -5821,6 +5821,8 @@ Yes, motion carries. We are adjourned. All right, thank you very much.
 
 ### 8.1. 3rd Report of the Infrastructure and Corporate Services Committee
 
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
 > That the 3rd Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of item 6 (2.3).
 
 **✅ Motion Passed (15 to 0)**
@@ -5828,6 +5830,8 @@ Yes, motion carries. We are adjourned. All right, thank you very much.
 Unanimous (15-0)
 
 ### 8.1.6. (2.3) Sunningdale Road West Improvements – Pipeline Decommissioning and New Pipeline Agreement (Relates to Bill No. 63)
+
+<div id="motion-8-1-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to an oil pipeline relocation agreement with Imperial Oil for the Sunningdale Road Improvements from Wonderland Road to Blackwater Road: a) the financing for this Ag...
 
@@ -5844,6 +5848,8 @@ Unanimous (15-0)
 
 ### 8.2. 2nd Report of the Community and Protective Services Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > That the 2nd Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 5 (2.2), 6 (2.3), 8 (4.1), and 9 (4.2).
 
 **✅ Motion Passed (15 to 0)**
@@ -5852,6 +5858,8 @@ Unanimous (15-0)
 
 ### 8.2.5. (2.2) Good Neighbour Agreements
 
+<div id="motion-8-2-5-2" class="motion-anchor"></div>
+
 > That the request for quarterly reports submitted by all service providers to the Community and Protective Services Committee on a quarterly basis BE REFERRED to a future meeting of the Community and Protective Services Committee for clarification of the service providers included in the quarterly...
 
 **✅ Motion Passed (14 to 0)**
@@ -5859,6 +5867,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 8.2.5. (2.2) Good Neighbour Agreements
+
+<div id="motion-8-2-5-3" class="motion-anchor"></div>
 
 > That part a) of the motion BE AMENDED as follows: i) the Civic Administration BE DIRECTED to provide a one-year contract renewal for the procurement framework with an option to renew for one-year; At 2:27 PM, Councillor S. Lehman leaves the meeting. At 2:29 PM, Councillor S. Lehman enters the mee...
 
@@ -5875,6 +5885,8 @@ Unanimous (14-0)
 
 ### 8.2.5. (2.2) Good Neighbour Agreements
 
+<div id="motion-8-2-5-4" class="motion-anchor"></div>
+
 > ii) that Civic Administration BE DIRECTED to review existing housing stability contracts to assess alignment with current operational needs, including transitions from emergency and highly supportive environments, and to report back to Council on any recommended amendments or procurement actions ...
 
 **❌ Motion Failed (7 to 8) 🔥**
@@ -5889,6 +5901,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.2.5. (2.2) Good Neighbour Agreements
+
+<div id="motion-8-2-5-5" class="motion-anchor"></div>
 
 > a) the proposed system transformation approach and multi-year Housing Stability Services procurement framework as outlined in the December 1, 2025 staff report, BE ENDORSED; At 3:37 PM, Councillor S. Stevenson leaves the meeting. At 3:38 PM, Councillor S. Stevenson enters the meeting.
 
@@ -5905,6 +5919,8 @@ Unanimous (14-0)
 
 ### 8.2.5. (2.2) Good Neighbour Agreements
 
+<div id="motion-8-2-5-6" class="motion-anchor"></div>
+
 > i) the Civic Administration BE DIRECTED to provide a one-year contract renewal for the procurement framework with an option to renew for one-year;
 
 **❌ Motion Failed (7 to 8) 🔥**
@@ -5920,6 +5936,8 @@ Unanimous (14-0)
 
 ### 8.2.5. (2.2) Good Neighbour Agreements
 
+<div id="motion-8-2-5-7" class="motion-anchor"></div>
+
 > That the balance of item 5, clause 2.2, as amended, BE APPROVED. At 3:47 PM, Councillor P. Cuddy leaves the meeting.
 
 **✅ Motion Passed (14 to 0)**
@@ -5927,6 +5945,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.2.6. (2.3) System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options
+
+<div id="motion-8-2-6-1" class="motion-anchor"></div>
 
 > That, the staff report dated January 26, 2026 with respect to the System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options, BE REFERRED to a future meeting of the Community and Protective Services Committee for Civic Administration to provide a report back on the...
 
@@ -5943,6 +5963,8 @@ Unanimous (14-0)
 
 ### 8.2.8. (4.1) Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
 
+<div id="motion-8-2-8-1" class="motion-anchor"></div>
+
 > That the motion BE AMENDED to read as follows: That the attached by-law being a by-law to amend By-law No. CPOL.-38-234, as amended, to limit the City of London Community Grants Annual Program to the capital funding category, as defined in the City of London Community Grants Policy for 2026 and 2...
 
 **✅ Motion Passed (10 to 5)**
@@ -5957,6 +5979,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.2.8. (4.1) Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
+
+<div id="motion-8-2-8-2" class="motion-anchor"></div>
 
 > That item 8, clause 4.1, as amended, BE APPROVED.
 
@@ -5973,6 +5997,8 @@ Unanimous (14-0)
 
 ### 8.2.9. (4.2) Temporary Warming Centres
 
+<div id="motion-8-2-9-1" class="motion-anchor"></div>
+
 > That part b) BE AMENDED to read as follows: b) ACTIVATE the Tier 3 Surge Response with the funding to be pulled from the Social Services Reserve Fund up to a maximum of $290,000 whenever it is -15 OR -20 with windchill; That part e) BE AMENDED to add a new part vi) to read as follows: e) INVESTIG...
 
 **✅ Motion Passed (14 to 1)**
@@ -5987,6 +6013,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.2.9. (4.2) Temporary Warming Centres
+
+<div id="motion-8-2-9-2" class="motion-anchor"></div>
 
 > That part b) BE FURTHER AMENDED: or when Environment Canada issues an extreme weather alert (yellow, orange, red) with respect to ice.
 
@@ -6003,6 +6031,8 @@ Unanimous (14-0)
 
 ### 8.2.9. (4.2) Temporary Warming Centres
 
+<div id="motion-8-2-9-3" class="motion-anchor"></div>
+
 > That item 9, clause 4.2, as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -6010,6 +6040,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 8.2.9. (4.2) Temporary Warming Centres
+
+<div id="motion-8-2-9-4" class="motion-anchor"></div>
 
 > That pursuant to section 11.10 of the Council Procedure By-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -6026,6 +6058,8 @@ Unanimous (15-0)
 
 ### 8.2.9. (4.2) Temporary Warming Centres
 
+<div id="motion-8-2-9-5" class="motion-anchor"></div>
+
 > That the Council recess at this time, for 60 minutes.
 
 **✅ Motion Passed (15 to 0)**
@@ -6034,6 +6068,8 @@ Unanimous (15-0)
 
 ### 8.3. 3rd Report of the Planning and Environment Committee
 
+<div id="motion-8-3-0" class="motion-anchor"></div>
+
 > That the 3rd Report of the Planning and Environment Committee BE APPROVED, with the exception of items 6 (3.2), 7 (3.3), 8 (3.3), 9 (3.5), 11 (3.7), 12 (3.8), 14 (3.10), 15 (3.11), and 16 (3.12).
 
 **✅ Motion Passed (15 to 0)**
@@ -6041,6 +6077,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.6. (3.2) 233 Cambridge Street - Z-25155 (Relates to Bill No. 80)
+
+<div id="motion-8-3-6-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Distinctive Homes London Ltd. (c/o Zelinka Priamo Ltd.) relating to the property located at 233 Cambridge Street, the proposed by-law as appended to the staff r...
 
@@ -6057,6 +6095,8 @@ Unanimous (15-0)
 
 ### 8.3.7. (3.3) 644 - 664 Southdale Road East and 821 Nadine Avenue - Z-25153 (Relates to Bill No. 81)
 
+<div id="motion-8-3-7-1" class="motion-anchor"></div>
+
 > That part c) of the motion BE AMENDED to add the following new part iv): iv) implement London Plan Policy 399_ in regard to tree replacement at a rate of 1 tree per 10 cm DBH of tree removals, as much as practical.
 
 **✅ Motion Passed (15 to 0)**
@@ -6065,6 +6105,8 @@ Unanimous (15-0)
 
 ### 8.3.7. (3.3) 644 - 664 Southdale Road East and 821 Nadine Avenue - Z-25153 (Relates to Bill No. 81)
 
+<div id="motion-8-3-7-2" class="motion-anchor"></div>
+
 > That the motion BE AMENDED in part c) to request the Site Plan Approval Authority to consider the following design issues through the site plan process: v) provide enhanced all-season landscaping, fencing up to 2.1 metres, and setbacks to surface parking beyond that required by the Site Plan Cont...
 
 **✅ Motion Passed (15 to 0)**
@@ -6072,6 +6114,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.7. (3.3) 644 - 664 Southdale Road East and 821 Nadine Avenue - Z-25153 (Relates to Bill No. 81)
+
+<div id="motion-8-3-7-3" class="motion-anchor"></div>
 
 > That item 7, clause 3.3, as amended, BE APPROVED.
 
@@ -6088,6 +6132,8 @@ Unanimous (15-0)
 
 ### 8.3.8. (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
 
+<div id="motion-8-3-8-2" class="motion-anchor"></div>
+
 > iii. Building Height (maximum): 24.5 metres;
 
 **❌ Motion Failed (2 to 13)**
@@ -6102,6 +6148,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.3.8. (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
+
+<div id="motion-8-3-8-3" class="motion-anchor"></div>
 
 > vi. Rooftop amenity shall be prohibited; and
 
@@ -6118,6 +6166,8 @@ Unanimous (15-0)
 
 ### 8.3.8. (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
 
+<div id="motion-8-3-8-4" class="motion-anchor"></div>
+
 > vi) the sidewalk and/or access on/through 679 Dunboyne Crescent from the apartment complex development at 767 Fanshawe Park Road East to Dunboyne Crescent shall be prohibited.
 
 **✅ Motion Passed (10 to 5)**
@@ -6132,6 +6182,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.3.8. (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
+
+<div id="motion-8-3-8-5" class="motion-anchor"></div>
 
 > vii) the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.
 
@@ -6148,6 +6200,8 @@ Unanimous (15-0)
 
 ### 8.3.8. (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
 
+<div id="motion-8-3-8-6" class="motion-anchor"></div>
+
 > that part b) of the motion BE AMENDED to include the following wording: Incorporate transom-style window treatments for all habitable units on the west side yard of the apartment building, designed with a narrow vertical dimension, to allow daylighting while minimizing potential privacy impacts o...
 
 **✅ Motion Passed (13 to 2)**
@@ -6162,6 +6216,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.3.8. (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
+
+<div id="motion-8-3-8-7" class="motion-anchor"></div>
 
 > AND BE IT FURTHER RESOLVED that pursuant to subsection 34(17) of the Planning Act, no further notice be given; That item 8, clause 3.4, as amended, BE APPROVED;
 
@@ -6178,6 +6234,8 @@ Unanimous (15-0)
 
 ### 8.3.9. (3.5) 3334-3354 Wonderland Road South - OZ-25140 (Relates to Bill No. 66 and No. 83)
 
+<div id="motion-8-3-9-0" class="motion-anchor"></div>
+
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 111473 Ontario Limited (c/o MHBC Planning) relating to the property located at 3334 & 3354 Wonderland Road South: a) the proposed attached by-law BE INTR...
 
 **✅ Motion Passed (11 to 4)**
@@ -6193,6 +6251,8 @@ Unanimous (15-0)
 
 ### 8.3.11. (3.7) 68-76 Commissioners Road East - 25147 (Relates to Bill No. 85)
 
+<div id="motion-8-3-11-1" class="motion-anchor"></div>
+
 > That part b) of the motion BE AMENDED to add the following new part iv): iv) implement London Plan Policy 399_ in regard to tree replacement at a rate of 1 tree per 10 cm DBH of tree removals, as much as practical.
 
 **✅ Motion Passed (15 to 0)**
@@ -6200,6 +6260,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.11. (3.7) 68-76 Commissioners Road East - 25147 (Relates to Bill No. 85)
+
+<div id="motion-8-3-11-2" class="motion-anchor"></div>
 
 > That Item 11, clause 3.7, as amended, BE APPROVED.
 
@@ -6209,6 +6271,8 @@ Unanimous (15-0)
 
 ### 8.3.12. (3.8) 80 Commissioners Rd East - Z-25146 (Relates to Bill No. 86)
 
+<div id="motion-8-3-12-1" class="motion-anchor"></div>
+
 > That part b) of the motion BE AMENDED to add the following new part v): v) implement London Plan Policy 399_ in regard to tree replacement at a rate of 1 tree per 10 cm DBH of tree removals, as much as practical.
 
 **✅ Motion Passed (15 to 0)**
@@ -6217,6 +6281,8 @@ Unanimous (15-0)
 
 ### 8.3.12. (3.8) 80 Commissioners Rd East - Z-25146 (Relates to Bill No. 86)
 
+<div id="motion-8-3-12-2" class="motion-anchor"></div>
+
 > That item 12, clause 3.8, as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -6224,6 +6290,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.14. (3.10) 732 Wellington Street and 282 Piccadilly Street - Z-25148 (Relates to Bill No. 88)
+
+<div id="motion-8-3-14-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 732 Wellington Street Inc. & London Bridge Childcare Services relating to the properties located at 732 Wellington Street and 282 Piccadilly Street, the propose...
 
@@ -6240,6 +6308,8 @@ Unanimous (15-0)
 
 ### 8.3.15. (3.11) 5150 Wellington Road South - OZ-25135 (Relates to Bill No. 67 and No. 89)
 
+<div id="motion-8-3-15-0" class="motion-anchor"></div>
+
 > Notwithstanding the staff recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Roman Catholic Episcopal Corporation of the Diocese of London in Ontario relating to the property located at 5150 Wellington Road South: a) the pro...
 
 **✅ Motion Passed (11 to 4)**
@@ -6254,6 +6324,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.3.16. (3.12) 3680 Wonderland Road - OZ-25128 (Relates to Bill No. 68 and No. 90)
+
+<div id="motion-8-3-16-0" class="motion-anchor"></div>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001320818 Ontario Inc. (c/o Miami Developments) relating to the property located at 3680 Wonderland Road South: a) the proposed attached by-law BE APPRO...
 
@@ -6270,6 +6342,8 @@ Unanimous (15-0)
 
 ### 8.4. 3rd Report of the Strategic Priorities and Policy Committee
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That the 3rd Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 5 (2.4) and 6 (2.4).
 
 **✅ Motion Passed (15 to 0)**
@@ -6278,6 +6352,8 @@ Unanimous (15-0)
 
 ### 8.4.5. (2.3) Secondary School Transit Pass Pilot Program Update (Relates to Bill No. 64)
 
+<div id="motion-8-4-5-1" class="motion-anchor"></div>
+
 > That part c) BE AMENDED to read as follows: c) the Civic Administration BE DIRECTED to apply the required financing to a limit of $880,000 from the Community Investment Reserve Fund for the costs of the Secondary School Transit Pass Pilot Program for September 2026 to June 2028, as required; and
 
 **✅ Motion Passed (14 to 0)**
@@ -6285,6 +6361,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 8.4.5. (2.3) Secondary School Transit Pass Pilot Program Update (Relates to Bill No. 64)
+
+<div id="motion-8-4-5-2" class="motion-anchor"></div>
 
 > That item 5, clause 2.3, as amended, BE APPROVED.
 
@@ -6301,6 +6379,8 @@ Unanimous (14-0)
 
 ### 8.4.6. (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
 
+<div id="motion-8-4-6-1" class="motion-anchor"></div>
+
 > That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it being noted the attached proposed by-law, as further revised, will be brought forward in Stage XII...
 
 **❌ Motion Failed (7 to 8) 🔥**
@@ -6316,6 +6396,8 @@ Unanimous (14-0)
 
 ### 8.4.6. (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
 
+<div id="motion-8-4-6-3" class="motion-anchor"></div>
+
 > That the referral be amended to read as follows: That the Creation of an Affordable Home Ownership Incentive Program BE REFERRED to Civic Administration to report back to a future meeting of the Strategic Priorities and Policy Committee, in consultation with private sector partners, options for t...
 
 **✅ Motion Passed (15 to 0)**
@@ -6323,6 +6405,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 8.4.6. (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
+
+<div id="motion-8-4-6-4" class="motion-anchor"></div>
 
 > That the referral, as amended, BE APPROVED. At 8:42 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.   At 8:45 PM, His Worship Mayor J. Morgan resumes the Chair.
 
@@ -6339,6 +6423,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No. 63, BE APPROVED.
 
 **✅ Motion Passed (10 to 5)**
@@ -6353,6 +6439,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 63, BE APPROVED.
 
@@ -6369,6 +6457,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-2" class="motion-anchor"></div>
+
 > That Third Reading and Enactment of Bill No. 63, BE APPROVED.
 
 **✅ Motion Passed (10 to 5)**
@@ -6383,6 +6473,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 64, BE APPROVED.
 
@@ -6399,6 +6491,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-4" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 64, BE APPROVED.
 
 **✅ Motion Passed (9 to 5)**
@@ -6413,6 +6507,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-5" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 64, BE APPROVED.
 
@@ -6429,6 +6525,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-6" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No. 80, BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -6443,6 +6541,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-7" class="motion-anchor"></div>
 
 > That Second Reading of Bill No. 80, BE APPROVED.
 
@@ -6459,6 +6559,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-8" class="motion-anchor"></div>
+
 > That Third Reading and Enactment of Bill No. 80, BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -6473,6 +6575,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-9" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 81, BE APPROVED.
 
@@ -6489,6 +6593,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-10" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 81, BE APPROVED.
 
 **✅ Motion Passed (12 to 3)**
@@ -6503,6 +6609,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-11" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 81, BE APPROVED.
 
@@ -6519,6 +6627,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-12" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Revised Bill No. 82, BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -6533,6 +6643,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-13" class="motion-anchor"></div>
 
 > That Second Reading of Revised Bill No. 82, BE APPROVED.
 
@@ -6549,6 +6661,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-14" class="motion-anchor"></div>
+
 > That Third Reading and Enactment of Revised Bill No. 82, BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -6563,6 +6677,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-15" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 88, BE APPROVED.
 
@@ -6579,6 +6695,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-16" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 88, BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -6593,6 +6711,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-17" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 88, BE APPROVED.
 
@@ -6609,6 +6729,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-18" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No.'s 66 and 83, BE APPROVED.
 
 **✅ Motion Passed (12 to 3)**
@@ -6623,6 +6745,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-19" class="motion-anchor"></div>
 
 > That Second Reading of Bill No.'s 66 and 83, BE APPROVED.
 
@@ -6639,6 +6763,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-20" class="motion-anchor"></div>
+
 > That Third Reading and Enactment of Bill No.'s 66 and 83, BE APPROVED.
 
 **✅ Motion Passed (12 to 3)**
@@ -6653,6 +6779,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-21" class="motion-anchor"></div>
 
 > That Introduction and First Reading of Bill No. 89, BE APPROVED.
 
@@ -6669,6 +6797,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-22" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 89, BE APPROVED.
 
 **✅ Motion Passed (12 to 3)**
@@ -6683,6 +6813,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-23" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 89, BE APPROVED.
 
@@ -6699,6 +6831,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-24" class="motion-anchor"></div>
+
 > That Introduction and First Reading of Bill No. 90, BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -6714,6 +6848,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<div id="motion-13-25" class="motion-anchor"></div>
+
 > That Second Reading of Bill No. 90, BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -6728,6 +6864,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<div id="motion-13-26" class="motion-anchor"></div>
 
 > That Third Reading and Enactment of Bill No. 90, BE APPROVED.
 

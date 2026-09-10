@@ -3335,6 +3335,8 @@ Motion carries. We are adjourned and I appreciate the media voting to adjourn as
 
 ### 2.1. Film London Review and Next Steps
 
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 2.1 in Stage 2, Consent, to be considered before Items for Direction and for Item 4.2 g) to be heard first in delegate order.
 
 **✅ Motion Passed (12 to 0)**
@@ -3342,6 +3344,8 @@ Motion carries. We are adjourned and I appreciate the media voting to adjourn as
 Unanimous (12-0)
 
 ### 2.1. Film London Review and Next Steps
+
+<div id="motion-2-1-3" class="motion-anchor"></div>
 
 > That part b) be amended to read as follows: b) the Civic Administration BE DIRECTED to prepare a budget amendment for funding for Film London starting in 2025 until 2027 for consideration as part of the 2025 Budget Update process; That a new part c) be added to read as follows: c) the Civic Admin...
 
@@ -3351,6 +3355,8 @@ Unanimous (13-0)
 
 ### 2.1. Film London Review and Next Steps
 
+<div id="motion-2-1-4" class="motion-anchor"></div>
+
 > That the motion be approved, as amended.
 
 **✅ Motion Passed (13 to 0)**
@@ -3358,6 +3364,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 2.2. Whole of Community System Response -  Q2 Quarterly Report
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Social and Health Development, the Whole of Community System Response - Q2 Quarterly Report BE RECEIVED for information.
 
@@ -3376,6 +3384,8 @@ Unanimous (13-0)
 
 ### 2.3. 11th Report of the Governance Working Group
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > That part d) be approved and reads as follows: d)  the Civic Administration BE DIRECTED to bring forward a by-law to a future meeting of Municipal Council to amend CPOL.-228-480, as amended, to amend the Council Members’ Expense Policy to reduce the annual budget allocation in section 4.1 from $1...
 
 **❌ Motion Failed (5 to 6) 🔥**
@@ -3393,6 +3403,8 @@ Unanimous (13-0)
 
 ### 2.3. 11th Report of the Governance Working Group
 
+<div id="motion-2-3-2" class="motion-anchor"></div>
+
 > That the balance of the motion be approved.
 
 **✅ Motion Passed (11 to 0)**
@@ -3400,6 +3412,8 @@ Unanimous (13-0)
 Unanimous (11-0)
 
 ### 4.1. Delegation - Kelly Paleczny, General Manager and Scott Collyer, Vice Chair - London Transit Commission (LTC) 2023 Annual Report
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That pursuant to section 36.3 of the Council Procedure By-law, K. Paleczny, General Manager and Scott Collyer, Vice Chair - London Transit Commission (LTC) BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
 
@@ -3409,6 +3423,8 @@ Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
 
+<div id="motion-4-2-1" class="motion-anchor"></div>
+
 > That the delegation requests for M. Cassidy, R. Bloomfield, B. Samuels, N. Karsch, L. Bowden, L. Derikx, A. Fleet, K. Creighton and A. Robinson BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (14 to 0)**
@@ -3416,6 +3432,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+<div id="motion-4-2-2" class="motion-anchor"></div>
 
 > That part a) i) A) be approved and reads as follows: a) the following actions be taken with respect to the Community Grants - Neighbourhood Decision Making communication received from Deputy Mayor S. Lewis and Councillor S. Lehman dated June 14, 2024, as amended: i) the Civic Administration BE DI...
 
@@ -3434,6 +3452,8 @@ Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
 
+<div id="motion-4-2-3" class="motion-anchor"></div>
+
 > That part B) be approved and reads as follows: B) in lieu of the current Neighbourhood Decision Making Program, the Civic Administration BE DIRECTED to explore options to fund parks improvements through a participatory decision-making model through the Get Involved program while a parks improveme...
 
 **❌ Motion Failed (7 to 7) 🔥**
@@ -3450,6 +3470,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+<div id="motion-4-2-4" class="motion-anchor"></div>
 
 > That part A) be amended by adding a new part B) and existing B) be changed to C).  The new part B) to read as follows: that Civic Administration BE DIRECTED to offset the costs of the Capital and Innovation Grants for $250,000 a year by a reduced contribution to the Economic Development Reserve F...
 
@@ -3468,6 +3490,8 @@ Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
 
+<div id="motion-4-2-5" class="motion-anchor"></div>
+
 > That pursuant to section 31.6 of the Council Procedure By-law, Mayor J. Morgan BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
 
 **✅ Motion Passed (14 to 0)**
@@ -3475,6 +3499,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+<div id="motion-4-2-6" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Deputy Mayor S. Lewis BE PERMITTED to speak an additional two (2) minutes with respect to this matter.
 
@@ -3484,6 +3510,8 @@ Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
 
+<div id="motion-4-2-7" class="motion-anchor"></div>
+
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional two (2) minutes with respect to this matter.
 
 **✅ Motion Passed (14 to 0)**
@@ -3491,6 +3519,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+<div id="motion-4-2-8" class="motion-anchor"></div>
 
 > Motion to approve part ii), iii) and part b) and reads as follows: ii) the Civic Administration BE DIRECTED to undertake a comprehensive review of the London Community Grants Program, including the multi-year stream and the Neighbourhood Decision Making Program and bring forward a report prior to...
 
@@ -3509,6 +3539,8 @@ Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
 
+<div id="motion-4-2-9" class="motion-anchor"></div>
+
 > That part c) i) be approved and reads as follows: c) the following actions be taken with respect to the Strategic Opportunities Review Working Group's Annual Work Plan, as amended: i) the Civic Administration BE DIRECTED to report back to the September meeting of the Strategic Opportunities Revie...
 
 **✅ Motion Passed (14 to 0)**
@@ -3516,6 +3548,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+<div id="motion-4-2-10" class="motion-anchor"></div>
 
 > That part ii) be approved and reads as follows: ii) the Civic Administration BE DIRECTED to report back to the September meeting of the Strategic Opportunities Review Working Group about the potential for partnerships in municipal golf;
 
@@ -3534,6 +3568,8 @@ Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
 
+<div id="motion-4-2-11" class="motion-anchor"></div>
+
 > That part iii) be approved and reads as follows: iii) the Civic Administration BE REQUESTED to attend the July 15, 2024 meeting of the Strategic Opportunities Review Working Group to discuss the City's policy and general information related to venue naming rights with respect to any potential for...
 
 **✅ Motion Passed (13 to 1)**
@@ -3550,6 +3586,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+<div id="motion-4-2-12" class="motion-anchor"></div>
 
 > That part iv) be approved and reads as follows: iv) the Civic Administration BE DIRECTED to report back on the potential to license City facilities for the sale of alcohol as a revenue stream, including a list of potential facilities;
 
@@ -3568,6 +3606,8 @@ Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
 
+<div id="motion-4-2-13" class="motion-anchor"></div>
+
 > That part v) be approved and reads as follow: v) the Civic Administration BE DIRECTED to report back on the potential to eliminate snow plowing of sidewalks on residential class streets by passing a by-law requiring property owners to clear the sidewalk along their property; and
 
 **❌ Motion Failed (6 to 8) 🔥**
@@ -3584,6 +3624,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+<div id="motion-4-2-14" class="motion-anchor"></div>
 
 > That part vi) be approved and reads as follows: vi) the Civic Administration BE DIRECTED to report back in the first quarter of 2025 with potential options for Council's consideration with respect to the Surplus Deficit Policy;
 
@@ -3602,6 +3644,8 @@ Unanimous (14-0)
 
 ### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
 
+<div id="motion-4-2-16" class="motion-anchor"></div>
+
 > That the Strategic Priorities and Policy Committee recess at this time, for 15 minutes.
 
 **✅ Motion Passed (14 to 0)**
@@ -3610,6 +3654,8 @@ Unanimous (14-0)
 
 ### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
 
+<div id="motion-4-4-1" class="motion-anchor"></div>
+
 > That the delegation requests for S. Campbell, Executive Director, Ark Aid Street Mission Inc. and K. Morrison, General Manager, Old East Village BIA BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (13 to 0)**
@@ -3617,6 +3663,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+<div id="motion-4-4-2" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to extend one-time funding in the amount of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days until September 30, 2024 to be funded through the Community Investment Reserve Fund and that Civic Administration engage with the Old East Villag...
 
@@ -3635,6 +3683,8 @@ Unanimous (13-0)
 
 ### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
 
+<div id="motion-4-4-3" class="motion-anchor"></div>
+
 > That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
 
 **✅ Motion Passed (13 to 0)**
@@ -3642,6 +3692,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+<div id="motion-4-4-4" class="motion-anchor"></div>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional two (2) minutes with respect to this matter.
 
@@ -3651,6 +3703,8 @@ Unanimous (13-0)
 
 ### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
 
+<div id="motion-4-4-5" class="motion-anchor"></div>
+
 > That the motion be amended to include new part f) to read as follows: f) the Mayor BE REQUESTED to advocate the Provincial and Federal governments to offset the costs that could be incurred related to the award to the Ark Aid Street Mission Inc. Year-Round Stable Responsive Services strategy in t...
 
 **✅ Motion Passed (13 to 0)**
@@ -3658,6 +3712,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+<div id="motion-4-4-6" class="motion-anchor"></div>
 
 > That the motion be amended to include a new part g) to read as follows: g) Civic Administration BE DIRECTED to engage with the Old East Village BIA, local residents and Ark Aid Street Mission Inc. to review the Year-Round Stable Responsive Services strategy.
 
@@ -3676,6 +3732,8 @@ Unanimous (13-0)
 
 ### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
 
+<div id="motion-4-4-7" class="motion-anchor"></div>
+
 > The part b) be amended to read as follows: i)    that Ark Aid Street Mission Inc.'s budget for the $1.8M single source award be distributed to Council and attached to the Council agenda;
 
 **✅ Motion Passed (12 to 0)**
@@ -3683,6 +3741,8 @@ Unanimous (13-0)
 Unanimous (12-0)
 
 ### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+<div id="motion-4-4-8" class="motion-anchor"></div>
 
 > That part c) be amended with a new part i) to read as follows: i)    Civic Administration BE DIRECTED to engage with Ark Aid Street Mission Inc. to relocate the front door services off Dundas Street as part of the budget amendment preparation for the 2025 Budget Update process for funding in 2025...
 
@@ -3701,6 +3761,8 @@ Unanimous (12-0)
 
 ### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
 
+<div id="motion-4-4-9" class="motion-anchor"></div>
+
 > That the motion be approved, as amended and reads as follows: That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the July 18, 2024, SS-2024-237 Single Source Award for Year-Round Ark Aid Street Mission Inc. Strateg...
 
 **✅ Motion Passed (10 to 2)**
@@ -3717,6 +3779,8 @@ Unanimous (12-0)
 </details>
 
 ### 4.5. Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins
+
+<div id="motion-4-5-2" class="motion-anchor"></div>
 
 > That the motion be amended to read as follows: That the City Clerk BE DIRECTED to record and post publicly the meetings of the Governance Working Group and the Strategic Opportunities Review Working Group using the ZOOM application, it being noted that the Strategic Priorities and Policy Committe...
 
@@ -3735,6 +3799,8 @@ Unanimous (12-0)
 
 ### 4.5. Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins
 
+<div id="motion-4-5-3" class="motion-anchor"></div>
+
 > That the motion to the request for recording and livestreaming of working group meetings BE REFERRED to Civic Administration to report back to a future meeting of the Strategic Priorities and Policy Committee for consideration of alternate technology options.
 
 **❌ Motion Failed (3 to 8)**
@@ -3751,6 +3817,8 @@ Unanimous (12-0)
 </details>
 
 ### 4.5. Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins
+
+<div id="motion-4-5-4" class="motion-anchor"></div>
 
 > That the motion be approved, as amended.
 

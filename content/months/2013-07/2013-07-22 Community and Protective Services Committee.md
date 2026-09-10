@@ -835,6 +835,8 @@ The Community and Protective Services
 ### 5. Physiotherapy
   Services - Dearness Home
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -844,6 +846,8 @@ Unanimous (5-0)
 
 ### 6. Convert-to-Rent/Rehabilitation
   Program Proposal at 1048 Dundas Street East
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -855,6 +859,8 @@ Unanimous (5-0)
 ### 7. Convert-to-Rent/Rehabilitation
   Program at 343 Richmond Street (Phase 2)
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -864,6 +870,8 @@ Unanimous (5-0)
 
 ### 8. Local Standards
   Under the Housing Services Act
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -875,6 +883,8 @@ Unanimous (5-0)
 ### 13. Fire Safety
   Inspections
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -884,6 +894,8 @@ Unanimous (5-0)
 
 ### 14. 6th Report of the
   London Diversity and Race Relations Advisory Committee
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -902,6 +914,8 @@ Unanimous (5-0)
 ### 15. 7th and 8th Reports
   of the Animal Welfare Advisory Committee
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -919,6 +933,8 @@ Unanimous (5-0)
 ### 16. Distracted Driving
   Law: Municipal By-law to Allow Police to Issue Fine and Seize Cell Phone
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -928,6 +944,8 @@ Unanimous (6-0)
 
 ### 17. 2nd Report of the
   Town and Gown Committee
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -939,6 +957,8 @@ Unanimous (6-0)
 ### 18. Proposed Dingman
   Dog Off-Leash Area
 
+<div id="motion-18-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -948,6 +968,8 @@ Unanimous (6-0)
 
 ### 19. Automated External
   Defibrillators (AEDS) in City-Owned Facilities
+
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -959,6 +981,8 @@ Unanimous (6-0)
 ### 20. Neighbourhood Watch
   London
 
+<div id="motion-20-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -969,6 +993,8 @@ Unanimous (6-0)
 ### 21. Public Notification
   System and Communication Plan for Emergencies
 
+<div id="motion-21-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -978,6 +1004,8 @@ Unanimous (5-0)
 
 ### 22. Ten-Year Review – Monitored
   Surveillance Camera Program
+
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -996,6 +1024,8 @@ Unanimous (5-0)
 ### 23. A. Balfe, Youth
   Create Healthy Communities – Request for Delegation Status
 
+<div id="motion-23-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1012,6 +1042,8 @@ Unanimous (5-0)
 
 ### 24. Request for
   consideration of lifecycle extension for limousines
+
+<div id="motion-24-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -449,6 +449,8 @@ And can we do a hand vote? Hand vote, with that, we adjourn. Thanks, everyone.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.3 and 2.5 to 2.7 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -456,6 +458,8 @@ And can we do a hand vote? Hand vote, with that, we adjourn. Thanks, everyone.
 Unanimous (5-0)
 
 ### 2.4. Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street
+
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-264 for the East London Link Phase 3A West Dundas Street: a)    the b...
 

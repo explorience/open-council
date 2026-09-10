@@ -280,6 +280,8 @@ The
 ### 2. 3rd Report of the
   London Housing Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > 
 
 **❌ **
@@ -288,6 +290,8 @@ Unanimous (4-0)
 
 ### 3. 2nd Report of the
   London Diversity and Race Relations Advisory Committee
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > 
 
@@ -298,6 +302,8 @@ Unanimous (4-0)
 ### 4. 2nd Report of the
   Community Safety and Crime Prevention Advisory Committee.
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > 
 
 **❌ **
@@ -306,6 +312,8 @@ Unanimous (4-0)
 
 ### 5. 2nd Report of the Accessibility
   Advisory Committee
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > 
 
@@ -316,6 +324,8 @@ Unanimous (4-0)
 ### 6. City of London and
   London District Catholic School Board Liaison Committee
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > 
 
 **❌ **
@@ -324,6 +334,8 @@ Unanimous (4-0)
 
 ### 7. Automatic Aid
   Agreement with Central Elgin
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > 
 
@@ -335,6 +347,8 @@ Unanimous (4-0)
   the Use of Inflatable Amusement Devices During Rentals of City Parks or Other
   Facilities
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > 
 
 **❌ **
@@ -344,6 +358,8 @@ Unanimous (4-0)
 ### 9. Social Assistance
   Review Commission Report: "Brighter Prospects: Transforming Social
   Assistance in Ontario"
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > 
 
@@ -355,6 +371,8 @@ Unanimous (4-0)
   Owners' and Drivers' Group Inc. Application to the Ontario Superior Court of
   Justice
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > 
 
 **❌ **
@@ -363,6 +381,8 @@ Unanimous (2-0)
 
 ### 11. 4th Report of the
   Animal Welfare Advisory Committee
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > 
 
@@ -373,6 +393,8 @@ Unanimous (4-0)
 ### 12. 2013-2016 Service
   Accountability Agreement between The Corporation of the City of London
   (Dearness Home) and the South West Local Health Integration Network (LHIN)
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > 
 

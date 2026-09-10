@@ -170,6 +170,8 @@ The meeting adjourned at 12:52 PM.
 ### 2. STAFF REPORT -
   Adult Entertainment Body Rub Parlour - 2190 Dundas Street
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -179,6 +181,8 @@ Unanimous (6-0)
 
 ### 2. STAFF REPORT -
   Adult Entertainment Body Rub Parlour - 2190 Dundas Street
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -197,6 +201,8 @@ Unanimous (6-0)
 ### 3. STAFF REPORT - LAV
   III Monument Agreements
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -206,6 +212,8 @@ Unanimous (4-0)
 
 ### 4. Deferred Matters
   List
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

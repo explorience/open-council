@@ -2428,6 +2428,8 @@ Thank you, I'll see you here at 9.30 to continue with item 3.11.
 
 ### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
 
+<div id="motion-3-2-1" class="motion-anchor"></div>
+
 > That the motion be amended by adding another part to read as follows: That the budget impact to this Business Case P-31 - Parks Operations Service Delivery Enhancements BE OFFSET by a reduction in the annual contribution to the Climate Change Reserve Fund.
 
 **✅ Motion Passed (9 to 6) 🔥**
@@ -2442,6 +2444,8 @@ Thank you, I'll see you here at 9.30 to continue with item 3.11.
 </details>
 
 ### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
+
+<div id="motion-3-2-2" class="motion-anchor"></div>
 
 > That, pursuant to section 32.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
 
@@ -2458,6 +2462,8 @@ Thank you, I'll see you here at 9.30 to continue with item 3.11.
 
 ### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
 
+<div id="motion-3-2-3" class="motion-anchor"></div>
+
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (5 permanent staff, $613,000): 2025 Operating Expenditures:  $...
 
 **✅ Motion Passed (11 to 4)**
@@ -2472,6 +2478,8 @@ Thank you, I'll see you here at 9.30 to continue with item 3.11.
 </details>
 
 ### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
+
+<div id="motion-3-2-4" class="motion-anchor"></div>
 
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (2 permanent staff, $214,000): 2025 Operating Expenditures:  $...
 
@@ -2488,6 +2496,8 @@ Thank you, I'll see you here at 9.30 to continue with item 3.11.
 
 ### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
 
+<div id="motion-3-2-5" class="motion-anchor"></div>
+
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (4 temporary staff, $149,000): 2025 Operating Expenditures:  $...
 
 **❌ Motion Failed (5 to 10)**
@@ -2502,6 +2512,8 @@ Thank you, I'll see you here at 9.30 to continue with item 3.11.
 </details>
 
 ### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
+
+<div id="motion-3-2-6" class="motion-anchor"></div>
 
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (6 temporary staff, $276,000): 2025 Operating Expenditures:  $...
 
@@ -2518,6 +2530,8 @@ Thank you, I'll see you here at 9.30 to continue with item 3.11.
 
 ### 3.3. Amendment - Budget Case #P-13 - Councillor C. Rahman
 
+<div id="motion-3-3-0" class="motion-anchor"></div>
+
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to include one-time funding of up to $947,000 to support Ark Aid’s Cronyn-Warner location from one-time 2024 surplus in the Housing Stability Services operating budget and that Civic Administration BE DIRECTED to contribute $947,000 from the H...
 
 **✅ Motion Passed (15 to 0)**
@@ -2526,6 +2540,8 @@ Unanimous (15-0)
 
 ### 3.3. Amendment - Budget Case #P-13 - Councillor C. Rahman
 
+<div id="motion-3-3-2" class="motion-anchor"></div>
+
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to include one-time funding of up to $205,000 to support Ark Aid from previously approved one-time funding from the Operating Budget Contingency Reserve (approved by Council on February 13, 2024):                2025 Operating Expenditures:  $...
 
 **✅ Motion Passed (15 to 0)**
@@ -2533,6 +2549,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 3.4. (ADDED) Amendment - Budget Case #P-2 - Councillor S. Franke
+
+<div id="motion-3-4-1" class="motion-anchor"></div>
 
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove Budget Amendment #P-2 – “Pause Current City of London Annual Community Grants Program and Implement Reduced Program based on Availability of Funding” ($496,000) and the annual contribution to the Economic Development Reserve Fund be ...
 
@@ -2549,6 +2567,8 @@ Unanimous (15-0)
 
 ### 3.5. (ADDED) Amendment - Budget Case #P-3 - Councillor A. Hopkins
 
+<div id="motion-3-5-1" class="motion-anchor"></div>
+
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove Budget Amendment #P-3 – “Pause Neighbourhood Decision Making Program”: 2025 Operating Expenditures:  $250,000        2025 Tax Levy:  $250,000          2025 Capital Expenditures:  $0  2026 Operating Expenditures:  $250,000        2026...
 
 **❌ Motion Failed (6 to 9) 🔥**
@@ -2564,6 +2584,8 @@ Unanimous (15-0)
 
 ### 3.6. (ADDED) Amendment - Budget Case #P-15 - Councillor S. Trosow and Councillor D. Ferreira
 
+<div id="motion-3-6-0" class="motion-anchor"></div>
+
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to include funding for the London Extreme Clean and Hoarding program based on 2024-2027 Multi-Year Budget Business Case #P-15 – “Hoarding/Extreme Clean Program” to be funded from the Life Stabilization Operating Budget: 2025 Operating Expendit...
 
 **✅ Motion Passed (15 to 0)**
@@ -2571,6 +2593,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 3.7. (ADDED) Amendment - Budget Case #P-16 - Councillor S. Trosow
+
+<div id="motion-3-7-1" class="motion-anchor"></div>
 
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to include funding for the Housing Stability Bank Expansion based on 2024-2027 Multi-Year Budget Business Case #P-16 – “Housing Stability Bank Expansion”: 2025 Operating Expenditures:  $700,000           2025 Tax Levy:  $700,000            202...
 
@@ -2587,6 +2611,8 @@ Unanimous (15-0)
 
 ### 3.8. (ADDED) Amendment - Budget Case #P-51 - Councillor C. Rahman
 
+<div id="motion-3-8-1" class="motion-anchor"></div>
+
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing the London Transit Commission budget for the 2026 Budget Update. To reinstate this funding, LTC must submit an amendment for the 2026 Budget Update, the online booking system be operational and that a plan for implementing the 10,0...
 
 **❌ Motion Failed (5 to 10)**
@@ -2602,6 +2628,8 @@ Unanimous (15-0)
 
 ### 3.9. (ADDED) Amendment - Budget Case #WWT-1 - Mayor J. Morgan and Budget Chair E. Peloza
 
+<div id="motion-3-9-0" class="motion-anchor"></div>
+
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove Budget Amendment #WWT-1 (Budget Increase for Stormwater Management Facility (SWM) Land Acquisition): 2025 Operating Expenditures:  $0          2025 Rate Impact:  $0          2025 Capital Expenditures: -$1,964,000  2026 Operating Expe...
 
 **✅ Motion Passed (15 to 0)**
@@ -2609,6 +2637,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 3.10. (ADDED) Amendment - London Police Services Operating Budget - Councillor S. Franke
+
+<div id="motion-3-10-1" class="motion-anchor"></div>
 
 > That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing the London Police Service operating budget: 2025 Operating Expenditures:  -$1,616,600                     2025 Tax Levy:  -$1,616,600                   2025 Capital Expenditures:  $0 2026 Operating Expenditures:  -$1,616,600       ...
 
@@ -2624,6 +2654,8 @@ Unanimous (15-0)
 </details>
 
 ### 7. Adjournment
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > That the meeting BE RECESSED
 

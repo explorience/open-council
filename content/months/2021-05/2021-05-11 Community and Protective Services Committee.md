@@ -527,6 +527,8 @@ Chair. Thank you, Chair.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.9 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -535,6 +537,8 @@ Unanimous (6-0)
 
 ### 4.1. Cosmetic Lawn Care - J. Morton
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > Motion to approve the delegation request from J. Morton with respect to Cosmetic Lawn Care to be heard at this meeting.
 
 **✅ Motion Passed (6 to 0)**
@@ -542,6 +546,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. Cosmetic Lawn Care - J. Morton
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > Motion to approve part b) of the clause.
 

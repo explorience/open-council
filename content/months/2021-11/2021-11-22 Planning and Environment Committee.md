@@ -1927,6 +1927,8 @@ And I will call the vote. Closing the vote, the motion carries six to zero.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.13 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1934,6 +1936,8 @@ And I will call the vote. Closing the vote, the motion carries six to zero.
 Unanimous (5-0)
 
 ### 3.3. 99 Southdale Road West (Z-9162)
+
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southdale West Holdings Inc., relating to the property located at 99 Southdale Road West: a)    the proposed by-law appended to the staff report dated November ...
 
@@ -1943,6 +1947,8 @@ Unanimous (6-0)
 
 ### 3.4. 370 South Street and 124 Colborne Street (OZ-9418)
 
+<div id="motion-3-4-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Vision SoHo Alliance, relating to the properties located at 370 South Street and 124 Colborne Street: a)    the proposed by-law appended to the staff report dat...
 
 **✅ Motion Passed (6 to 0)**
@@ -1951,6 +1957,8 @@ Unanimous (6-0)
 
 ### 3.7. 1453-1459 Oxford Street East and 648-656 Ayreswood Avenue
 
+<div id="motion-3-7-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Red Maple Properties, relating to the property located at 1453-1459 Oxford Street East and 648-656 Ayreswood Avenue: a)    the request to amend The London Plan ...
 
 **✅ Motion Passed (6 to 0)**
@@ -1958,6 +1966,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.7. 1453-1459 Oxford Street East and 648-656 Ayreswood Avenue
+
+<div id="motion-3-7-1" class="motion-anchor"></div>
 
 > That the application by Red Maple Properties, relating to the properties located at 1453 to 1459 Oxford Street East and 648 to 656 Ayerswood Avenue BE REFERRED to the Civic Administration to undertake the following actions and to report back to a future meeting of the Planning and Environment Com...
 
@@ -1974,6 +1984,8 @@ Unanimous (6-0)
 
 ### 4.1. 11th Report of the London Advisory Committee on Heritage
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That, the following actions be taken with respect to the 11th Report of the London Advisory Committee on Heritage, from its meeting held on November 10, 2021: a)    the London Advisory Committee on Heritage (LACH) 2022 membership with the Community Heritage Ontario BE APPROVED; it being noted tha...
 
 **✅ Motion Passed (6 to 0)**
@@ -1981,6 +1993,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.1. (ADDED) 8th Report of the Environmental and Ecological Planning Advisory Committee
+
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > Motion to change the order of business to hear the delegation by S. Levin, Chair, Environmental and Ecological Planning Advisory Committee.
 

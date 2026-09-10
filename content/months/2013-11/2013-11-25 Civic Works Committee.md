@@ -327,6 +327,8 @@ The meeting adjourned at 6:38 PM.
 ### 2. 8th Report of the
   Transportation Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -336,6 +338,8 @@ Unanimous (5-0)
 
 ### 3. Hyde Park Nos. 5 and
   6 Stormwater Management Facilities
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -347,6 +351,8 @@ Unanimous (5-0)
 ### 4. Non-Disclosure
   Agreement with London Hydro for Utilizing Electricity Use Data
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -356,6 +362,8 @@ Unanimous (5-0)
 
 ### 5. Endorsement of New
   Operational Plan for the Elgin-Middlesex Pumping Station (London Portion)
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -368,15 +376,7 @@ Unanimous (5-0)
   of London's Drinking Water Quality Management System and 2013 Management
   Review
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Waste Diversion and
-  Garbage Collection Updates
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -387,6 +387,20 @@ Unanimous (5-0)
 
 ### 7. Waste Diversion and
   Garbage Collection Updates
+
+<div id="motion-7-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Waste Diversion and
+  Garbage Collection Updates
+
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
