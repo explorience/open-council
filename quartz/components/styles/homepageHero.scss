@@ -65,6 +65,17 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   }
 
   // Chat active state - full viewport (below unified header)
+  //
+  // Verified design-gate finding ("reskin the legacy chat block or
+  // render the answer in place"): this overlay is where FrontpageWall's
+  // .fp-assistant card actually forwards every question to (see
+  // frontpageWall.inline.ts's wireAssistant()) — it was still in
+  // default-Quartz --light/--secondary colors, so asking a question
+  // handed the reader from the broadsheet ask box straight into an
+  // unrelated visual system. Restyled to the same paper/ink/accent
+  // tokens as the rest of Front Page (both themes, since those tokens
+  // already carry light/dark values) rather than rebuilding a second
+  // chat surface.
   &.chat-active {
     position: fixed;
     top: 56px; // Below unified header
@@ -73,7 +84,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
     bottom: 0;
     max-width: none;
     padding: 0;
-    background: var(--light);
+    background: var(--paper);
     z-index: 998; // Below header (1000)
     // Use dynamic viewport height minus header
     height: calc(100dvh - 56px);
@@ -93,8 +104,8 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
     .chat-input-area {
       width: 100%;
       max-width: none;
-      border-top: 1px solid var(--lightgray);
-      background: var(--light);
+      border-top: 1px solid var(--line);
+      background: var(--card);
       // Ensure input stays above keyboard on iOS
       padding-bottom: env(safe-area-inset-bottom, 0);
     }
@@ -115,7 +126,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
 .hero-tagline {
   font-size: 1.8rem;
   font-weight: 600;
-  color: var(--darkgray);
+  color: var(--ink);
   margin: 0;
   line-height: 1.4;
   text-align: center;
@@ -136,8 +147,8 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
 .chat-action-bar {
   display: none;
   width: 100%;
-  background: var(--light);
-  border-bottom: 1px solid var(--lightgray);
+  background: var(--card);
+  border-bottom: 1px solid var(--line);
   flex-shrink: 0;
 }
 
@@ -161,10 +172,10 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   gap: 0.5rem;
   padding: 0.5rem 0.75rem;
   background: transparent;
-  border: 1px solid var(--lightgray);
+  border: 1px solid var(--line);
   border-radius: 8px;
   cursor: pointer;
-  color: var(--darkgray);
+  color: var(--ink);
   font-size: 0.9rem;
   font-family: var(--bodyFont);
   transition: all 0.2s ease;
@@ -175,12 +186,12 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   }
 
   &:hover {
-    background: var(--lightgray);
-    border-color: var(--gray);
+    background: var(--line);
+    border-color: var(--muted);
   }
 
   &:focus-visible {
-    outline: 2px solid var(--secondary);
+    outline: 2px solid var(--accent);
     outline-offset: 2px;
   }
 
@@ -211,7 +222,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   border: 1px solid transparent;
   border-radius: 8px;
   cursor: pointer;
-  color: var(--gray);
+  color: var(--muted);
   transition: all 0.2s ease;
 
   svg {
@@ -220,19 +231,19 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   }
 
   &:hover {
-    background: var(--lightgray);
-    color: var(--darkgray);
-    border-color: var(--lightgray);
+    background: var(--line);
+    color: var(--ink);
+    border-color: var(--line);
   }
 
   &:focus-visible {
-    outline: 2px solid var(--secondary);
+    outline: 2px solid var(--accent);
     outline-offset: 2px;
   }
 
   &.copied {
-    color: var(--secondary);
-    background: rgba(40, 75, 99, 0.1);
+    color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 12%, transparent);
   }
 }
 
@@ -264,11 +275,11 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   }
 
   &::-webkit-scrollbar-thumb {
-    background: var(--lightgray);
+    background: var(--line);
     border-radius: 4px;
 
     &:hover {
-      background: var(--gray);
+      background: var(--muted);
     }
   }
 
@@ -288,8 +299,8 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
     .message-content {
       // Transparent with border for readability (both light and dark mode)
       background: transparent;
-      border: 1px solid var(--darkgray);
-      color: var(--dark);
+      border: 1px solid var(--ink);
+      color: var(--ink);
       border-radius: 18px 18px 4px 18px;
       max-width: 100%;
     }
@@ -305,7 +316,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
     .message-content {
       // ChatGPT-style: no bubble, just inline text
       background: transparent;
-      color: var(--darkgray);
+      color: var(--ink);
       border-radius: 0;
       max-width: 100%;
       padding-left: 0;
@@ -366,7 +377,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   blockquote {
     margin: 0.5rem 0;
     padding: 0.5rem 0.75rem;
-    border-left: 3px solid var(--secondary);
+    border-left: 3px solid var(--accent);
     background: rgba(0, 0, 0, 0.03);
     border-radius: 0 4px 4px 0;
 
@@ -405,7 +416,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
     font-size: 0.9em;
 
     th, td {
-      border: 1px solid var(--lightgray);
+      border: 1px solid var(--line);
       padding: 0.4rem 0.6rem;
       text-align: left;
     }
@@ -417,11 +428,11 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   }
 
   a {
-    color: var(--secondary);
+    color: var(--accent);
     text-decoration: underline;
 
     &:hover {
-      color: var(--tertiary);
+      color: var(--accent-fill);
     }
   }
 }
@@ -435,7 +446,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   .dot {
     width: 8px;
     height: 8px;
-    background: var(--gray);
+    background: var(--muted);
     border-radius: 50%;
     animation: bounce 1.4s infinite;
 
@@ -477,16 +488,16 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   align-items: flex-end;
   gap: 0.75rem;
   padding: 0.75rem 1rem;
-  background: var(--light);
-  border: 2px solid var(--lightgray);
+  background: var(--card);
+  border: 2px solid var(--line);
   border-radius: 12px;
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
   max-width: 800px;
   margin: 0 auto;
 
   &:focus-within {
-    border-color: var(--secondary);
-    box-shadow: 0 0 0 3px rgba(40, 75, 99, 0.1);
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 15%, transparent);
   }
 
   @media (max-width: 600px) {
@@ -498,7 +509,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
 .chat-input-icon {
   width: 20px;
   height: 20px;
-  color: var(--gray);
+  color: var(--muted);
   flex-shrink: 0;
   margin-bottom: 0.25rem;
 
@@ -514,7 +525,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   background: transparent;
   font-size: 1rem;
   font-family: var(--bodyFont);
-  color: var(--darkgray);
+  color: var(--ink);
   outline: none;
   resize: none;
   min-height: 24px;
@@ -522,7 +533,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   line-height: 1.5;
 
   &::placeholder {
-    color: var(--gray);
+    color: var(--muted);
   }
 
   &:disabled {
@@ -538,7 +549,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   height: 36px;
   min-width: 36px;
   padding: 0;
-  background: var(--secondary);
+  background: var(--accent-fill);
   border: none;
   border-radius: 8px;
   cursor: pointer;
@@ -548,11 +559,11 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   svg {
     width: 18px;
     height: 18px;
-    color: white;
+    color: var(--accent-ink);
   }
 
   &:hover:not(:disabled) {
-    background: var(--tertiary);
+    background: var(--accent);
   }
 
   &:active:not(:disabled) {
@@ -565,7 +576,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   }
 
   &:focus-visible {
-    outline: 2px solid var(--secondary);
+    outline: 2px solid var(--accent);
     outline-offset: 2px;
   }
 }
@@ -573,7 +584,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
 .chat-disclaimer {
   margin: 0.5rem auto 0;
   font-size: 0.75rem;
-  color: var(--gray);
+  color: var(--muted);
   max-width: 800px;
   padding: 0 0.25rem;
 
@@ -591,8 +602,10 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   top: 100%;
   left: 50%;
   transform: translateX(-50%);
-  background: var(--darkgray);
-  color: var(--light);
+  // Same dark-chip treatment as the wall's own #wallTip
+  // (frontpageWall.scss) — one tooltip language across the page.
+  background: var(--graphite);
+  color: var(--graphite-ink);
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
   font-size: 0.75rem;
@@ -665,7 +678,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   }
 
   .response-sources {
-    border-color: var(--lightgray);
+    border-color: var(--line);
     background: rgba(255, 255, 255, 0.03);
   }
 }
@@ -676,7 +689,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
 
 .response-sources {
   margin-top: 1rem;
-  border: 1px solid var(--lightgray);
+  border: 1px solid var(--line);
   border-radius: 8px;
   overflow: hidden;
   background: rgba(0, 0, 0, 0.02);
@@ -693,7 +706,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
   cursor: pointer;
   font-family: var(--bodyFont);
   font-size: 0.85rem;
-  color: var(--gray);
+  color: var(--muted);
   transition: background-color 0.15s ease;
 
   &:hover {
@@ -718,7 +731,7 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
 .sources-list {
   display: none;
   padding: 0.5rem;
-  border-top: 1px solid var(--lightgray);
+  border-top: 1px solid var(--line);
 
   .response-sources.expanded & {
     display: block;
@@ -740,12 +753,12 @@ body[data-slug="index"] .homepage-hero:not(.chat-active) {
 
 .source-date {
   font-size: 0.7rem;
-  color: var(--gray);
+  color: var(--muted);
   margin-bottom: 0.125rem;
 }
 
 .source-title {
   font-size: 0.8rem;
-  color: var(--secondary);
+  color: var(--accent);
   line-height: 1.4;
 }
