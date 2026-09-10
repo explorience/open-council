@@ -1,0 +1,634 @@
+[
+  {
+    "id": "b6ffa4d12c89",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law rezoning 34 Adelaide Street South from a Residential R2 zone to a Residential R2 zone with a site-specific special provision.",
+    "confidence": "low",
+    "quote": "That Second Reading of Revised Bill No. 398 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble",
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear. Traced to PEC 2025-10-21 clause for 34 Adelaide Street South: rezones R2(R2-2) to R2 Special Provision (R2-2(_)) but the scraped committee text never states what the special provision itself changes (no storeys/units/setback figures anywhere in the record) — genuinely unknowable from available text. Null correctly left in place."
+  },
+  {
+    "id": "f67d5c91fd5f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law rezoning 34 Adelaide Street South from a Residential R2 zone to a Residential R2 zone with a site-specific special provision.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Revised Bill No. 398 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble",
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear, same reasoning/source as b6ffa4d12c89 (3rd reading)."
+  },
+  {
+    "id": "11a6f4c845f6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Strategic Plan Implementation Update report for information.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the City Manager, the report regarding the Strategic Plan Implementation Update BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none/unclear. Verbatim quote matches source; a pure receive-for-information motion, no tracked issue substance."
+  },
+  {
+    "id": "ba4b292b0f6a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported directing Civic Administration to run an open recruitment process for the Western University Board of Governors community-member seats rather than appointing the two proposed candidates directly.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to proceed with a recruitment for community members and to bring forward the applications of Lori McGrath and Marlene McGrath to be considered at a future meeting",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none/unclear. A personnel/appointment-process motion (open recruitment vs direct appointment to a university board) — correctly excluded as a governance/appointment matter, not a policy position."
+  },
+  {
+    "id": "35201adfaee7",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update.",
+    "confidence": "high",
+    "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Source (2025-11-20 Budget Committee, item 4.3, 4th motion in the sequence): 'That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$2,366,000 ... 2026 Tax Levy: -$2,366,000'. Cross-checked the include/exclude-verb×levy-sign convention against 4 other same-meeting cases (P-6, P-12, P-24, P-25): the shown levy figure always reflects the impact if the motion AS WORDED (with its own verb) passes. Here EXCLUDE + negative levy = levy decreases if passed → restrictive is correct, not a sign-flip trap. Failed 5-10 (this is the pre-reconsideration vote)."
+  },
+  {
+    "id": "4a5dca856513",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Supported excluding Business Case #P-2 (Middlesex-London Health Unit Debt Retirement) from the 2026 budget update.",
+    "confidence": "high",
+    "quote": "That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Same underlying clause as 35201adfaee7 (item 4.3), the post-reconsideration re-vote after Councillor Trosow's vote correction: 'That Business Case #P-2 ... BE EXCLUDED ... 2026 Tax Levy: -$2,366,000', Failed 5-10 with a different yea/nay lineup (Trosow flipped to nay, McAlister flipped to yea). Same levy-sign verification as above applies; restrictive confirmed."
+  },
+  {
+    "id": "2cdb9df51eb2",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported noting that the Budget Committee had considered redirecting part of Business Case #P-20 toward the Housing Stability Bank program.",
+    "confidence": "high",
+    "quote": "That it BE NOTED that the Budget Committee considered an amendment to the Mayor's 2026 Annual Budget Update to redirect a portion of Business Case #P-20 (2024 Surplus Allocation for Tax Mitigation) to increase funding for the Housing Stability Bank program for 2026 and 2027.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear. 'BE NOTED that the Budget Committee considered...' is a record of discussion, not an operative decision; no vote result on the underlying redirection itself is what's being recorded here."
+  },
+  {
+    "id": "8deae6ce6cd1",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported noting that the Budget Committee had considered including Business Case #P-24 (eliminating the Climate Change Reserve Fund contribution) in the budget.",
+    "confidence": "high",
+    "quote": "That it BE NOTED that the Budget Committee considered an amendment to include Business Case #P-24 (Eliminate Climate Change Reserve Fund Contribution) in the Mayor's 2026 Annual Budget Update.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear, same BE-NOTED reasoning as 2cdb9df51eb2 (P-24 climate reserve)."
+  },
+  {
+    "id": "06f4237e89a3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Strategic Plan Implementation Update report for information.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the City Manager, the report regarding the Strategic Plan Implementation Update BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none/unclear. Duplicate Strategic Plan Implementation Update receive motion (different meeting occurrence); same reasoning as 11a6f4c845f6."
+  },
+  {
+    "id": "57e12d3cdcee",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law amending the pilot project rules for electric kick-scooters and cargo power-assisted bicycles on highways and bicycle lanes.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of revised Bill No. 405 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none. E-scooter/cargo-bike pilot rules amendment; verified this does not hit any 'bikes' keyword (those require bike lane/cycling infrastructure language, not scooter pilot rules) — correctly none."
+  },
+  {
+    "id": "8fb87748540d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law amending the pilot project rules for electric kick-scooters and cargo power-assisted bicycles on highways and bicycle lanes.",
+    "confidence": "medium",
+    "quote": "That Second Reading of revised Bill No. 405 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none, same e-scooter bylaw (2nd reading)."
+  },
+  {
+    "id": "fcdccf916473",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law amending the pilot project rules for electric kick-scooters and cargo power-assisted bicycles on highways and bicycle lanes.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment Reading of revised Bill No. 405 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none, same e-scooter bylaw (3rd reading)."
+  },
+  {
+    "id": "44023c67f80a",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 408 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble",
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear. Traced to CPSC 2025-11-10 clause: approves a Service Agreement with Gilzean's Creek Housing Co-operative Inc., but the record gives no funding amount, unit count, or programmatic detail — cannot determine expansive/restrictive without guessing. Null correctly left in place."
+  },
+  {
+    "id": "dcfacb8103cc",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 408 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble",
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear, same Gilzean's Creek source (2nd reading)."
+  },
+  {
+    "id": "444159fc0220",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law approving a service agreement between Gilzean's Creek Housing Co-operative Inc. and the City of London.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment Reading of Bill No. 408 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble",
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear, same Gilzean's Creek source (3rd reading)."
+  },
+  {
+    "id": "112a41ddc412",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No.'s 412 and 426 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble",
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear. Traced to PEC 2025-11-12 clause for 1269 Hyde Park Road: a commercial rezoning (Holding Restricted Service Commercial → Holding Business District Commercial Special Provision, 'D450*H50') tied to heritage-building commemoration in a Shopping Area Place Type — no residential dwelling-unit or housing-density language anywhere in the record; the D/H codes are commercial density/height parameters, not a residential axis this pipeline tracks. Null correctly left in place."
+  },
+  {
+    "id": "b9b3dd047303",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No.'s 412 and 426 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble",
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear, same Hyde Park Road source (2nd reading)."
+  },
+  {
+    "id": "92862cab40bd",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 1269 Hyde Park Road from a Holding Restricted Service Commercial zone to a Holding Business District Commercial special-provision zone.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment Reading of Bill No.'s 412 and 426 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble",
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear, same Hyde Park Road source (3rd reading)."
+  },
+  {
+    "id": "c53e853071d0",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No.'s 415 and 428 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Bill 415/428 traced to PEC 2025-11-12 clause (item recommending the 3563 Bostwick Road Official Plan/zoning amendment): 'ADD a new Specific Policy ... to permit a maximum building height of sixteen (16) storeys on the northern portions of Blocks 1 and 2 ... nine (9) storeys ... six (6) storeys'. Clear density/height increase via new subdivision-specific policy; expansive confirmed. Council vote 12-2 matches manifest."
+  },
+  {
+    "id": "8f813a32a083",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No.'s 415 and 428 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Same Bostwick Road clause as c53e853071d0 (2nd reading, 12-2). Expansive/density confirmed on the same evidence."
+  },
+  {
+    "id": "a27293e0332d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to by-laws amending the Official Plan and rezoning 3563 Bostwick Road to permit buildings of up to sixteen storeys as part of a draft plan of subdivision.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment Reading of Bill No.'s 415 and 428 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Same Bostwick Road clause (3rd reading/enactment, 12-2). Expansive/density confirmed."
+  },
+  {
+    "id": "760381bbe317",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported noting that the Budget Committee had considered excluding Business Case #P-2 from the 2026 budget update.",
+    "confidence": "high",
+    "quote": "That it BE NOTED that the Budget Committee considered an amendment to the Mayor's 2026 Annual Budget Update to exclude Business Case #P-2 Middlesex-London Health Unit Debt Retirement from the Mayor’s Tabled 2026 Annual Budget Update",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear. Another 'BE NOTED that the Budget Committee considered...' record-of-discussion motion (P-2 exclusion), not an operative decision — same reasoning as 2cdb9df51eb2."
+  },
+  {
+    "id": "a6f75cad4ed7",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Micro-Modular Shelter Site Update report for information.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the City Manager, the report on the Micro-Modular Shelter Site Update BE RECEIVED for information",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear. Pure receive-for-information motion on the Micro-Modular Shelter Site Update; no operative decision."
+  },
+  {
+    "id": "0211b7c25375",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the report on the Mayoral Direction 2024-001 parking lot redevelopment update for 199 Ridout Street and 84 Horton Street.",
+    "confidence": "high",
+    "quote": "on the recommendation of the Deputy City Manager, Housing and Community Growth, with respect to the Mayoral Direction 2024-001, the City-owned Parking Lot Redevelopment update relating to 199 Ridout Street and 84 Horton Street provided in the report BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none/unclear. Receive-for-information motion on a parking-lot redevelopment update."
+  },
+  {
+    "id": "fa2086148ce8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Draft Economic Development Strategy Framework report and presentation for information.",
+    "confidence": "high",
+    "quote": "the report regarding the Draft Economic Development Strategy Framework, including the “City of London: Economic Development Strategy” presentation BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none/unclear. Receive-for-information motion on the Economic Development Strategy Framework."
+  },
+  {
+    "id": "eea1999bf37d",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported accepting a London Transit Commission member's resignation and directing a by-law to reduce the Commission's Council-member composition to five seats.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to bring forward to the Municipal Council meeting on January 20, 2026, a by-law with the necessary amendments to By-law No. A.-6377-206, as amended, to provide that the London Transit Commission shall consist of five (5) members of Council",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear. This is a board-composition/governance motion (reducing London Transit Commission's Council-member seats from six to five following a resignation), not a transit-service-level decision — correctly treated like the appointment/governance exclusions even though itemTitle keyword-matched 'transit'."
+  },
+  {
+    "id": "30b79437c3cf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving a councillor communication about limiting the Community Grants Annual Stream to capital projects for information.",
+    "confidence": "high",
+    "quote": "That the communication, as appended to the Agenda, from Councillor Rahman, Deputy Mayor S. Lewis and Councillor E. Peloza, with respect to Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none/unclear. Receive-for-information motion on a councillor communication; no operative decision on the underlying grants-stream proposal."
+  },
+  {
+    "id": "ae2babaca44e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported directing Civic Administration to implement Option 1 of the DIACAC report.",
+    "confidence": "high",
+    "quote": "that Civic Administration BE DIRECTED to carry out all necessary actions to implement Option 1 as outlined in the above-noted report",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none. Directs implementation of 'Option 1' of a DIACAC report with no visible tie to any of the eight tracked issues in the available text."
+  },
+  {
+    "id": "f607a6acd258",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported convening a closed session to receive solicitor-client privileged advice on the Affordable Housing Community Improvement Plan Financial Incentive Program Guidelines.",
+    "confidence": "high",
+    "quote": "That the Strategic Priorities and Policy Committee convenes In Closed session to consider the following: 6.1 Solicitor-Client Privilege",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none/unclear. Procedural motion to convene closed session for solicitor-client privileged advice; no substantive content disclosed."
+  },
+  {
+    "id": "38d39aff5ac0",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported directing Civic Administration to hold a further public participation meeting on the site plan process for the 767 Fanshawe Park Road East / 679 Dunboyne Crescent rezoning.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED unclear. Directs a further public-participation meeting on the site-plan process for the (already-rezoned) 767 Fanshawe Park Road East site — a procedural/consultation step, not a decision on the rezoning's substance."
+  },
+  {
+    "id": "66f014130472",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law for the Sunningdale Road West pipeline decommissioning and new pipeline agreement.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 63, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none. Sunningdale Road West pipeline decommissioning/agreement bylaw; no tracked-issue substance."
+  },
+  {
+    "id": "ae5439252e95",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law for the Sunningdale Road West pipeline decommissioning and new pipeline agreement.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 63, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none, same pipeline bylaw (2nd reading)."
+  },
+  {
+    "id": "938ebdef5b25",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave a reading to a by-law for the Sunningdale Road West pipeline decommissioning and new pipeline agreement.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment Reading of Bill No. 63, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED none, same pipeline bylaw (3rd reading)."
+  },
+  {
+    "id": "db64703634b8",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 64, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Bill 64 traced to SPPC 2026-02-03 clause: authorizes the MOU/Agreement between the City, Thames Valley DSB and London Transit Commission for the 'Secondary School Student Transit Pass Pilot Project', financed via the Community Investment Reserve Fund. A new subsidized transit pass program is a clear transit-service expansion; expansive confirmed. Vote 9-5 matches manifest."
+  },
+  {
+    "id": "e64c35d4457d",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 64, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Same transit-pass-pilot clause as db64703634b8 (2nd reading, 9-5). Expansive/transit-service confirmed."
+  },
+  {
+    "id": "a2820440e78b",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law authorizing the Secondary School Transit Pass Pilot Program agreement, providing subsidized London Transit passes to secondary students.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment Reading of Bill No. 64, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Same clause (3rd reading/enactment, 10-4 — note the vote count itself differs slightly from the first two readings per manifest, consistent with a floor vote change between readings, not a different clause). Expansive/transit-service confirmed."
+  },
+  {
+    "id": "f14bfb03eecf",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law rezoning 233 Cambridge Street from a Residential R1 zone to a Holding Residential R2 special-provision zone, permitting additional housing units.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 80, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Bill 80 traced to PEC 2026-01-27 clause for 233 Cambridge Street: rezones FROM Residential R1 (R1-7) TO Holding Residential R2 Special Provision (h-9*R2-1), i.e. permits an additional housing type/unit on the lot. Expansive/density confirmed. Vote 13-2 matches manifest."
+  },
+  {
+    "id": "de06bee73456",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law rezoning 233 Cambridge Street from a Residential R1 zone to a Holding Residential R2 special-provision zone, permitting additional housing units.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 80, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Same Cambridge Street clause (2nd reading, 13-2). Expansive/density confirmed."
+  },
+  {
+    "id": "d0d40d76aa7a",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law rezoning 233 Cambridge Street from a Residential R1 zone to a Holding Residential R2 special-provision zone, permitting additional housing units.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment Reading of Bill No. 80, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Same Cambridge Street clause (3rd reading/enactment, 13-2). Expansive/density confirmed."
+  },
+  {
+    "id": "eca3027452a1",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law rezoning 644-664 Southdale Road East and 821 Nadine Avenue to a Residential R3/Transit Station Area special-provision zone as part of a transit-corridor intensification project.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 81, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Bill 81 traced to PEC 2026-01-27 clause for 644-664 Southdale Road East & 821 Nadine Avenue: rezones FROM Residential R3(R3-2)/Office Conversion-Holding Transit Station Area/mixed TO Residential R3/Transit Station Area Special Provision, explicitly interpreting the site within the Rapid Transit Corridor Place Type — a transit-corridor intensification. Expansive/density confirmed. Vote 12-3 matches manifest."
+  },
+  {
+    "id": "cc3f10abbbb4",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law rezoning 644-664 Southdale Road East and 821 Nadine Avenue to a Residential R3/Transit Station Area special-provision zone as part of a transit-corridor intensification project.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 81, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Same Southdale/Nadine clause (2nd reading, 12-3). Expansive/density confirmed."
+  },
+  {
+    "id": "c75df9adc395",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law rezoning 644-664 Southdale Road East and 821 Nadine Avenue to a Residential R3/Transit Station Area special-provision zone as part of a transit-corridor intensification project.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment Reading of Bill No. 81, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Same Southdale/Nadine clause (3rd reading/enactment, 13-2 per manifest — vote shifted between readings, same clause). Expansive/density confirmed."
+  },
+  {
+    "id": "4d40e1886a94",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law rezoning 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R5/R1 zones to a Holding Residential R8 special-provision zone, permitting an apartment building.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Revised Bill No. 82, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Bill 82 traced to PEC 2026-01-27 clause for 767 Fanshawe Park Road East & 679 Dunboyne Crescent: rezones FROM Residential R5 Special Provision(R5-7(25))/R1(R1-7) TO Holding Residential R8 Special Provision (h-8*R8-4), i.e. a high-density apartment zone. Expansive/density confirmed. Vote 13-2 matches manifest."
+  },
+  {
+    "id": "c3ffe26f3197",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law rezoning 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R5/R1 zones to a Holding Residential R8 special-provision zone, permitting an apartment building.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Revised Bill No. 82, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Same Fanshawe/Dunboyne clause (2nd reading, 13-2). Expansive/density confirmed."
+  },
+  {
+    "id": "d74277dbff4d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave a reading to a by-law rezoning 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R5/R1 zones to a Holding Residential R8 special-provision zone, permitting an apartment building.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment Reading of Revised Bill No. 82, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CONFIRMED. Same Fanshawe/Dunboyne clause (3rd reading/enactment, 13-2). Expansive/density confirmed."
+  }
+]

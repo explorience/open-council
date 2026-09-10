@@ -1,0 +1,50 @@
+[
+ {
+  "anchor_id": "cfbddceb0790",
+  "candidate_id": "d2252ba8e65f",
+  "token": "Z-25151",
+  "reason": "cfbddceb0790 was downgraded to unclear for a narrow, clause-specific defect only: its own operative text is the bare fragment 'iii. Building Height (maximum): 24.5 metres;' with no stated base height, so no restrictive/expansive claim can be derived from THAT clause alone. d2252ba8e65f is a DIFFERENT clause of the same 767 Fanshawe Park Road East/679 Dunboyne Crescent application (Z-25151/Bill 82) -- the base rezoning itself, which does carry a clean comparison baseline in its own text and is unaffected by the height-amendment's missing-baseline defect.",
+  "anchor_quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+  "candidate_quote": "change the zoning of the subject property FROM a Residential R5 Special Provision (R5-7(25)) and a Residential R1 (R1-7) Zone TO a Holding Residential R8 Special Provision (h-8*R8-4(_)) Zone"
+ },
+ {
+  "anchor_id": "cfbddceb0790",
+  "candidate_id": "b49d23322893",
+  "token": "Z-25151",
+  "reason": "Same defect-class distinction as d2252ba8e65f above: b49d23322893 is the PEC-level base rezoning motion for the same 767 Fanshawe Park Road East/679 Dunboyne Crescent application (Z-25151/Bill 82), independently sign-derivable (R5/R1 low-density to Holding R8 higher-density) from its own text -- unrelated to cfbddceb0790's narrow no-baseline height-amendment defect.",
+  "anchor_quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+  "candidate_quote": "to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, The London Plan, to change the zoning of the subject property FROM a Residential R5 Special Provision (R5-7(25)) and a Residential R1 (R1-7) Zone TO a Holding Residential R8 Special Provision (h-8*R8-4(_)) Zone"
+ },
+ {
+  "anchor_id": "cfbddceb0790",
+  "candidate_id": "4d40e1886a94",
+  "token": "BILL NO. 82",
+  "reason": "4d40e1886a94 is Bill 82's own first reading, enacting the SAME base R5/R1-to-Holding-R8 rezoning as b49d23322893/d2252ba8e65f above -- a reading-stage motion of the underlying application, not the height-amendment clause cfbddceb0790 covers. Its own text and verifierNote independently re-derive expansive/density from the R5/R1-to-R8 zone change, unaffected by the height clause's missing baseline.",
+  "anchor_quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+  "candidate_quote": "That Introduction and First Reading of Revised Bill No. 82, BE APPROVED."
+ },
+ {
+  "anchor_id": "cfbddceb0790",
+  "candidate_id": "c3ffe26f3197",
+  "token": "BILL NO. 82",
+  "reason": "Same as 4d40e1886a94 above -- Bill 82's second reading, same base rezoning, unaffected by cfbddceb0790's narrow height-amendment defect.",
+  "anchor_quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+  "candidate_quote": "That Second Reading of Revised Bill No. 82, BE APPROVED."
+ },
+ {
+  "anchor_id": "cfbddceb0790",
+  "candidate_id": "d74277dbff4d",
+  "token": "BILL NO. 82",
+  "reason": "Same as 4d40e1886a94 above -- Bill 82's third reading and enactment, same base rezoning, unaffected by cfbddceb0790's narrow height-amendment defect.",
+  "anchor_quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+  "candidate_quote": "That Third Reading and Enactment of Revised Bill No. 82, BE APPROVED."
+ },
+ {
+  "anchor_id": "c77f2ff22429",
+  "candidate_id": "85e437b965cd",
+  "token": "CASE #P-13",
+  "reason": "Gate round 4 item B: c77f2ff22429 was downgraded to unclear for a narrow, procedural-step reason only -- it is the INTERMEDIATE 'the motion BE AMENDED to read as follows' step in this item's amendment chain (2025-11-20 Budget Cttee item 4.8, statutory DC-exemption tax-levy mitigation), and per the amendment-to-pending convention its own direction has to be judged against what was actually PENDING at that moment (S. Stevenson's floor motion, which put the full $4,800,000 into 2026 only) -- against that pending alternative this amendment is a same-total, different-year-split reallocation with no single clean net direction, hence unclear. 85e437b965cd is the SEPARATE, FINAL wrapper vote ('the motion, as amended, BE APPROVED', 12-3) ratifying that same amended text -- but its own natural comparison baseline is the true TABLED budget (nothing pending after it; this is the up-or-down adoption vote), against which the adopted text nets an unambiguous $2,400,000/yr tax-levy reduction in both 2026 and 2027. Different roll calls, different natural baselines, independently derived -- 85e437b965cd's restrictive direction is not inherited from or contingent on c77f2ff22429's own (now-unclear) intermediate step.",
+  "anchor_quote": "That the motion BE AMENDED to read as follows: That the Mayor's Tabled 2026 Annual Budget Update BE AMENDED to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation",
+  "candidate_quote": "to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation"
+ }
+]

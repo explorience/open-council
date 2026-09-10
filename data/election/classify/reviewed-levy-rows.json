@@ -1,0 +1,282 @@
+[
+ {
+  "id": "0499ef880a69",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "BE AMENDED to include Business Case #P-48 \u2013 Canadian Mental Health Transitional Case Worker \u2013 London Public Library",
+  "reason": "One-time $65,000 NEW addition (Business Case #P-48, Canadian Mental Health Transitional Case Worker) funded from a reserve -- no 'Tax Levy:' table exists in the source (plain-prose funding clause), but this is new spending being added, not a swap or removal: expansive."
+ },
+ {
+  "id": "0947f5f92e12",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "the Civic Administration BE DIRECTED to fund the City of London\u2019s increased share of $226,954 for 2025 from the Operating Budget Contingency Reserve.",
+  "reason": "Directs paying the City's increased $226,954 Middlesex-London Health Unit share from the Operating Budget Contingency Reserve -- a real new cost commitment funded from reserve (no Tax Levy line): expansive."
+ },
+ {
+  "id": "1d7c40b467ec",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements",
+  "reason": "Gate round 3 already re-derived this one (see corrections.json): directs EXCLUDING a proposed spending CUT ('Reduced Road Network Improvements', the same case as sibling 22951914b4b2/P-6) from the 2026 Budget Update -- excluding a cut keeps the road-network spending in the budget: expansive."
+ },
+ {
+  "id": "1f5ca5da65a4",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 \u2013 The Grand Theatre",
+  "reason": "Re-vote of the Grand Theatre Business Case #P-39 amendment: adds $100,000/year in NEW funding. Expansive."
+ },
+ {
+  "id": "2bb2090dcda1",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% \u2013 3.9% as identified to maintain existing service levels as well as additional investments of an additional 0.5% in funding for additional investment, for planning purposes;",
+  "reason": "Advises Civic Administration of Council's desired average annual tax-levy INCREASE of 2.9%-3.9% plus a further 0.5% for additional investment -- an explicit increase-direction stated in the clause's own prose, no dollar table needed: expansive."
+ },
+ {
+  "id": "3751f8ed1ef5",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "a) to support investment of $31,000 for expansion of the services delivered by the Central Library\u2019s 2nd Floor Creativity Lab",
+  "reason": "Adds $31,000 in NEW capital spending (Business Case #P-30, Central Library Creativity Lab expansion), funded from reserve (Tax Levy lines are $0 because reserve-funded, not because nothing changed): expansive."
+ },
+ {
+  "id": "59db5e3fabf9",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "BE AMENDED to remove Business Case #P-34 \u2013 City Hall Main Lobby Security Guard.",
+  "reason": "Removes Business Case #P-34 (City Hall Main Lobby Security Guard) from the tabled budget entirely -- a clean full removal of a proposed NEW expenditure: restrictive."
+ },
+ {
+  "id": "5c71af54ca39",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-L3 \u2013 More Homes Built Faster Act, Bill 23 \u2013 Statutory Exemptions.",
+  "reason": "Removes Business Case #P-L3 (Bill 23 statutory DC exemptions, ~$1.8M/yr) from the tabled budget entirely -- a clean full removal of a proposed NEW expenditure: restrictive."
+ },
+ {
+  "id": "5c913d5c0ac8",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements (5 permanent staff, $613,000)",
+  "reason": "Adds a Parks Maintenance Service Enhancements package (Business Case #P-31, 5 permanent staff, $613,000), funded via $404,000 in 2025 capital expenditures -- a genuine new-spending addition, Tax Levy $0 because reserve/capital-funded: expansive."
+ },
+ {
+  "id": "5e7c4ffad8fb",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "BE AMENDED by reducing Business Case #P-2 \u2013 Vehicle and Equipment Replacement to spread the reserve fund repayments over 6 years instead of 5 years",
+  "reason": "Reduces Business Case #P-2 (Vehicle and Equipment Replacement) by spreading reserve-fund repayments over 6 years instead of 5 -- lowers the near-term annual cost: restrictive."
+ },
+ {
+  "id": "641e792f4e4d",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements (2 permanent staff, $214,000)",
+  "reason": "Adds a smaller Parks Maintenance Service Enhancements package (Business Case #P-31, 2 permanent staff, $214,000), funded via $156,000 in 2025 capital expenditures -- new-spending addition: expansive."
+ },
+ {
+  "id": "68d604999a94",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to remove Budget Amendment #P-2 \u2013 \u201cPause Current City of London Annual Community Grants Program and Implement Reduced Program based on Availability of Funding\u201d ($496,000) and the annual contribution to the Economic Development Reserve Fund be reduced by an equivalent amount ($496,000)",
+  "reason": "Would have removed a previously-proposed $496,000 pause/reduction to the Community Grants Program (restoring that funding), offset by an equal $496,000 cut to the Economic Development Reserve Fund contribution -- net $0 impact on THIS budget line's own dollar table, but the operative act is restoring the grants-program funding that was slated for a cut: expansive on the grants-program budget item, consistent with its own whatAYeaDid disclosure of the offsetting mechanism."
+ },
+ {
+  "id": "6e4fcc2b7f1d",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "the Civic Administration BE DIRECTED to bring forward a Business Case to the Annual Budget Update for the Mayor's consideration to pause funding for the Neighbourhood Decision Making program for the remainder of the 2025-2027 Multi-Year Budget",
+  "reason": "Directs Civic Administration to bring forward a Business Case to pause funding for the Neighbourhood Decision Making program for the remainder of the 2025-2027 budget -- an unambiguous restrictive direction (moving toward cutting an existing program's funding to zero): restrictive."
+ },
+ {
+  "id": "732d2c36fa00",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "BE AMENDED to remove Business Case #P-7 \u2013 Implementation of a New Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting.",
+  "reason": "Removes Business Case #P-7 (new Property Tax Software System / Capital Asset Reporting Tool) from the tabled budget entirely -- clean full removal of a proposed NEW expenditure: restrictive."
+ },
+ {
+  "id": "73f1d333b766",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "BE AMENDED to reduce the current Industrial Lands Reserve Fund contribution by $1 million for 2024 only, noting it would have a 0.1% reduction on the 2024 property tax levy",
+  "reason": "Reduces the Industrial Lands Reserve Fund contribution by $1 million for 2024 only, with the clause's own prose stating this 'would have a 0.1% reduction on the 2024 property tax levy': restrictive."
+ },
+ {
+  "id": "84029487a951",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% \u2013 3.9% as identified to maintain existing service levels as well as additional investments of an additional 0.5% in funding for additional investment, for planning purposes",
+  "reason": "Final wrapper ('the motion, as amended, BE APPROVED') ratifying the same 2.9%-3.9%+0.5% tax-levy-increase direction as 2bb2090dcda1 above, confirmed via the full amendment ladder for this item: expansive."
+ },
+ {
+  "id": "85e437b965cd",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "to utilize previously budgeted 2025 tax supported funding for statutory Development Charges (DC) exemptions for tax levy mitigation",
+  "reason": "Final wrapper ('the motion, as amended, BE APPROVED', 12-3) ratifying the DC-exemption tax-levy-mitigation amendment against the true tabled baseline (not a mid-chain pending alternative -- see the axis/polarity correction on sibling c77f2ff22429, which downgrades only the INTERMEDIATE amendment-to-pending step, not this final adoption vote): nets an unambiguous $2,400,000/yr levy reduction relative to the base budget: restrictive."
+ },
+ {
+  "id": "883e5a607787",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "the Garbage Tag fee for use at the curb for extra bags or containers of garbage or for Bagged Residential Garbage brought to the EnviroDepots be increased from $1.50 to $2.00 as part of the upcoming Fees and Charges By-law review as part of the multi-year budget development BE APPROVED.",
+  "reason": "Raises the Garbage Tag fee for extra curbside bags/containers and EnviroDepot bagged garbage from $1.50 to $2.00 -- a direct fee increase: expansive."
+ },
+ {
+  "id": "8e57a868a95d",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "b) an investment of $100,000 to expand the suite of children\u2019s digital literacy discovery programs",
+  "reason": "Adds $100,000 in NEW capital spending (Business Case #P-30, children's digital literacy discovery programs), funded from reserve: expansive."
+ },
+ {
+  "id": "96ff20fe8980",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "BE AMENDED to include Business Case #P-26 \u2013 Community Gardens Program Expansion to Support Food Security",
+  "reason": "Adds Business Case #P-26 (Community Gardens Program Expansion), delayed to 2026, funded partly by a new $12,000 property tax levy in 2026 and 2027 -- new spending: expansive."
+ },
+ {
+  "id": "98b1cc4021c2",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to adjust Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements from $827,000 of Parks Operating Expenditures to $808,000, with an equal adjustment to the contribution to the Climate Change Reserve Fund, and to adjust Parks Capital Expenditures from $560,000 to $221,000",
+  "reason": "One of item A's own cited precedents: reduces Business Case #P-31 (Parks Maintenance Service Enhancements) from $827,000 to $808,000 operating and $560,000 to $221,000 capital, a real -$339,000 capital cut (Tax Levy nets $0 only because offset dollar-for-dollar against the Climate Change Reserve Fund contribution): restrictive."
+ },
+ {
+  "id": "9f3df4886131",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "BE AMENDED to remove Business Case # P-9 \u2013 Giwetashkad Implementation.",
+  "reason": "Removes Business Case #P-9 (Giwetashkad Implementation) from the tabled budget entirely -- clean full removal of a proposed NEW expenditure: restrictive."
+ },
+ {
+  "id": "aa8020fba33e",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "Remaining $16.9 million to be retained in the Operating Budget Contingency Reserve, to be applied evenly as tax levy mitigation in 2026 and 2027 through a business case in the 2026 Budget Update",
+  "reason": "Directs that the remaining $16.9 million of the 2024 operating surplus be retained and applied evenly in 2026-2027 as tax-levy MITIGATION (i.e. to reduce those years' levy increases): restrictive."
+ },
+ {
+  "id": "ad20db2291a4",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "BE AMENDED to remove Business Case #P-37 \u2013 CMHA Holly\u2019s House.",
+  "reason": "Removes Business Case #P-37 (CMHA Holly's House) from the tabled budget entirely -- clean full removal of a proposed NEW expenditure: restrictive."
+ },
+ {
+  "id": "af27bf4fe10a",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "the Civic Administration BE DIRECTED to take no further action for the implementation of an expanded Tax Deferral Program at this time noting the impacts on budget amid the Mayor\u2019s direction to bring forward options for consideration that, if adopted, would produce a 2026 property tax levy increase under 5%",
+  "reason": "Directs taking NO further action on an expanded low-income property-tax deferral program at this time, citing the Mayor's direction to keep the 2026 levy increase under 5% -- declines an expansion: restrictive."
+ },
+ {
+  "id": "b91c1ebdf094",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "That the motion, as amended, be approved.",
+  "reason": "Final wrapper ('the motion, as amended, be approved', 11-3) for item 5.2, surviving text is the -$500,000/yr Economic Development Reserve Fund contribution cut (same substance as sibling a16e518570bf below, confirmed identical against its own immediately preceding motion, not a pending-vs-floor ambiguity): restrictive."
+ },
+ {
+  "id": "c16642a4b383",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements (4 temporary staff, $149,000)",
+  "reason": "Would have added a Parks Maintenance Service Enhancements package (Business Case #P-31, 4 temporary staff, $149,000), funded via $213,000 in 2025 capital expenditures -- new-spending addition: expansive."
+ },
+ {
+  "id": "c3ae84109a7b",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "limit the City of London Community Grants Annual Program to the capital funding category, as defined in the City of London Community Grants Policy for 2026 and 2027",
+  "reason": "Final wrapper ('as amended, BE APPROVED') adopting the Community Grants Annual Program capital-only limitation for 2026-2027 (same substance as ba551f68b461 below): restrictive."
+ },
+ {
+  "id": "cb1ea540f2b8",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "BE AMENDED to remove Business Case #P-27 \u2013 Neighbourhood Decision Making Program Expansion.",
+  "reason": "Removes Business Case #P-27 (Neighbourhood Decision Making Program Expansion) from the tabled budget entirely -- clean full removal of a proposed NEW expenditure: restrictive."
+ },
+ {
+  "id": "e07bab24dc8b",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "BE AMENDED to remove Adj. #4 \u2013 Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget)",
+  "reason": "Removes Adj. #4 (a reduction of Museum London's increase down to 5.4%) and substitutes the higher 6.3% base-budget figure -- a double negative that nets to MORE funding, not less: expansive."
+ },
+ {
+  "id": "e159c6f63bf1",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 \u2013 Parks Operations Service Delivery Enhancements (6 temporary staff, $276,000)",
+  "reason": "Would have added a larger Parks Maintenance Service Enhancements package (Business Case #P-31, 6 temporary staff, $276,000), funded via $213,000 in 2025 capital expenditures -- new-spending addition: expansive."
+ },
+ {
+  "id": "e8331ddb88ab",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the motion, as amended, BE APPROVED.",
+  "reason": "Final wrapper ('the motion, as amended, BE APPROVED', 11-3) for item 3.3, surviving text is the $300,000/yr (2025 and 2026) LDBA grant (motion #2's 2025-only further amendment having failed): expansive."
+ },
+ {
+  "id": "e9ba4b49deae",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "BE AMENDED to include funding at $100,000 a year for Business Case #P-39 \u2013 The Grand Theatre",
+  "reason": "First of the Grand Theatre Business Case #P-39 amendment votes: adds $100,000/year in NEW funding: expansive."
+ },
+ {
+  "id": "f24b17247f48",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "the Civic Administration BE DIRECTED to transfer $3,000,000 from the Community Investment Reserve Fund to the Operating Budget Contingency Reserve (OBCR) to support a $1,000,000 tax-levy reduction in each of the 2025, 2026, 2027 Annual Budget Updates",
+  "reason": "Directs a $3,000,000 transfer from the Community Investment Reserve Fund to the Operating Budget Contingency Reserve specifically to support a $1,000,000/yr property tax-levy REDUCTION in 2025-2027: restrictive."
+ },
+ {
+  "id": "fe3906dd8a26",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "BE AMENDED to remove Business Case #P-38 \u2013 City of London Community Arts Investment Program Expansion",
+  "reason": "Would have removed Business Case #P-38 (City of London Community Arts Investment Program Expansion) from the tabled budget entirely -- clean full removal of a proposed NEW expenditure: restrictive."
+ },
+ {
+  "id": "ff0da2243870",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "the Mayor\u2019s 2024-2027 Multi Year Budget BE AMENDED to remove Adj. #4 \u2013 Museum London Reduction to 5.4% Average Increase and to include the 6.3% Service Program Operating Budget (Base Budget) as set out in the Civic Administration draft 2024-2027 Multi-Year Budget received by the Strategic Priorities and Policy Committee on December 12, 2023.",
+  "reason": "Same Museum London double-negative as e07bab24dc8b above (removes a reduction-to-5.4%, substitutes the higher 6.3% base figure) -- nets to MORE funding: expansive."
+ },
+ {
+  "id": "2789ce535bcb",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and maintenance, such as graffiti removal, power washing, expanded street cleaning (garbage and sharps removal), and beautification and maintenance",
+  "reason": "Amendment-to-pending case, see corrections.json (Gate round 4 item A): relative to the pending motion it further amends (d925b5e3502c, $300,000 in both 2025 AND 2026), this failed further amendment would have dropped the 2026 $300,000 entirely -- restrictive relative to pending."
+ },
+ {
+  "id": "a16e518570bf",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "That the Mayor\u2019s 2025 Annual Budget Update BE AMENDED by reducing by $500,000 the additional annual contribution to the Economic Development Reserve Fund included in 2024-2027 Multi-Year Budget Business Case #P-46 \u2013 Economic and Partnerships Initiatives in the adopted 2024-2027 Multi-Year Budget and that Civic Administration BE DIRECTED to transfer one million dollars from the Community Investment Reserve Fund to the Economic Development Reserve Fund in 2025 only.",
+  "reason": "Self-referential 'the motion be amended to read as follows' wrapper whose replacement text is BYTE-IDENTICAL to the motion it wraps (both propose reducing the Economic Development Reserve Fund's annual contribution by $500,000/yr) -- no pending-vs-amended delta exists, so the printed Tax Levy: -$500,000 figure is read directly against the base budget with no amendment-to-pending ambiguity: restrictive."
+ },
+ {
+  "id": "ad4332ac35af",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That Budget Amendment Case #P-17 BE AMENDED to be in the amount of ($ 475,000).",
+  "reason": "Amendment-to-pending case, see corrections.json (Gate round 4 item A): halves a pending $950,000 levy cut (Case #P-17) to $475,000 -- leaves the levy $475,000 higher than the pending alternative: expansive relative to pending."
+ },
+ {
+  "id": "ba551f68b461",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "limit the City of London Community Grants Annual Program to the capital funding category, as defined in the City of London Community Grants Policy for 2026 and 2027",
+  "reason": "Self-referential 'the motion BE AMENDED to read as follows' wrapper, but the motion it replaces (item 0) was a bare communication-receipt with no fiscal content pending at all -- this substitutes a genuine new restriction (limiting the Community Grants Annual Program to the capital-funding category only for 2026-2027, ending operating-stream grant funding for those years), so there is no pending dollar figure to net against: restrictive."
+ }
+]

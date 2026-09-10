@@ -1,0 +1,633 @@
+[
+  {
+    "id": "74a9be31ac0a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, for information only, the City of London Corporate Growth Projections 2021-2051 report, with no separate policy decision made in this motion.",
+    "confidence": "high",
+    "quote": "the following report with respect to the City of London Corporate Growth Projections 2021-2051, BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full, non-truncated motion text directly from the raw meeting JSON (never the capped _all-motions.json field) and confirmed the quote is a verbatim excerpt of the actual operative clause, and that every clause in the motion is receive/note/refer/direct-report-back only with no approve/deny verb reaching the substance of the matter \u2014 correctly unclear per the deferral/informational-ask rules. Where the item carried a second, separate motion on the same agenda number, confirmed by result-tally that the quoted text belongs to the specific motion this id's result string names, not the other one."
+  },
+  {
+    "id": "29d7dc9a54ef",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on the 2025 Community Grants Program Grassroots, Innovation and Capital Funding allocations; the motion itself only receives the report and does not separately approve or deny individual grant amounts.",
+    "confidence": "medium",
+    "quote": "the staff report dated June 9, 2025, with respect to the City of London Community Grants Program Grassroots, Innovation and Capital Funding Allocations (2025) BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full, non-truncated motion text directly from the raw meeting JSON (never the capped _all-motions.json field) and confirmed the quote is a verbatim excerpt of the actual operative clause, and that every clause in the motion is receive/note/refer/direct-report-back only with no approve/deny verb reaching the substance of the matter \u2014 correctly unclear per the deferral/informational-ask rules. Where the item carried a second, separate motion on the same agenda number, confirmed by result-tally that the quoted text belongs to the specific motion this id's result string names, not the other one."
+  },
+  {
+    "id": "f2ede644a2d1",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the updated cost breakdown schedule for the Highly Supportive Housing Plan, with no separate funding decision made in this motion.",
+    "confidence": "medium",
+    "quote": "the staff report dated June 9, 2025 with respect to the Updated Highly Supportive Housing Plan Cost Breakdown Schedule, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full, non-truncated motion text directly from the raw meeting JSON (never the capped _all-motions.json field) and confirmed the quote is a verbatim excerpt of the actual operative clause, and that every clause in the motion is receive/note/refer/direct-report-back only with no approve/deny verb reaching the substance of the matter \u2014 correctly unclear per the deferral/informational-ask rules. Where the item carried a second, separate motion on the same agenda number, confirmed by result-tally that the quoted text belongs to the specific motion this id's result string names, not the other one."
+  },
+  {
+    "id": "f2b6f04bf975",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Noted that the Budget Committee had received a communication and presentation from the Mayor on the Development Charges Act, without taking any position on development-charges policy.",
+    "confidence": "high",
+    "quote": "That it BE NOTED that the Budget Committee received a communication and presentation from Mayor J. Morgan regarding the Development Charges Act.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full, non-truncated motion text directly from the raw meeting JSON (never the capped _all-motions.json field) and confirmed the quote is a verbatim excerpt of the actual operative clause, and that every clause in the motion is receive/note/refer/direct-report-back only with no approve/deny verb reaching the substance of the matter \u2014 correctly unclear per the deferral/informational-ask rules. Where the item carried a second, separate motion on the same agenda number, confirmed by result-tally that the quoted text belongs to the specific motion this id's result string names, not the other one."
+  },
+  {
+    "id": "6443fa999105",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the MNP communication reporting on the Safe London for Women, Girls and Gender-Diverse and Trans People compliance audit, with no separate policy decision attached.",
+    "confidence": "high",
+    "quote": "the communication dated June 5, 2025 from MNP with respect to safe London for women, girls and gender-diverse and trans people compliance audit BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full, non-truncated motion text directly from the raw meeting JSON (never the capped _all-motions.json field) and confirmed the quote is a verbatim excerpt of the actual operative clause, and that every clause in the motion is receive/note/refer/direct-report-back only with no approve/deny verb reaching the substance of the matter \u2014 correctly unclear per the deferral/informational-ask rules. Where the item carried a second, separate motion on the same agenda number, confirmed by result-tally that the quoted text belongs to the specific motion this id's result string names, not the other one."
+  },
+  {
+    "id": "b54f6548c3da",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 251, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 251, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "7cb01adc17ee",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 251, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 251, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "d8e1ee029d5f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 251, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 251, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "9c696d2a9d7e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 258, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 258, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "5730d9d951fa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 258, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 258, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "1c2146bdafda",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 258, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 258, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "c40fc32df282",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill Nos. 261 and 273, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No.'s 261 and 273, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "9581b626d3a9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill Nos. 261 and 273, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No.'s 261 and 273, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "64324054e557",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill Nos. 261 and 273, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No.'s 261 and 273, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "baf79730e154",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 272, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 272, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "4263fb386145",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 272, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 272, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "871b2b5fe00c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 272, one of eighteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 272, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "b1eedbcf7b81",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved the Infrastructure and Corporate Services Committee into closed session to receive solicitor-client privileged advice on the London Emergency Services Campus.",
+    "confidence": "high",
+    "quote": "That the Infrastructure and Corporate Services Committee convenes In Closed Session for the purpose of considering advice that is subject to solicitor-client privilege, including communications necessary for that purpose related to the London Emergency Services Campus.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full raw closed-session clause (all sub-paragraphs, matched to this id by its own result tally among the multiple closed-session motions on the same item) and confirmed it is purely a procedural in-camera authorization citing solicitor-client privilege \u2014 no substantive position on any tracked issue. Quote reproduces the raw text; the source JSON renders the sub-heading number with a non-breaking-space run (e.g. '4.6\\xa0\\xa0Solicitor-Client Privilege') that the classifier normalized to regular spaces \u2014 cosmetic only, no words added, removed, or changed."
+  },
+  {
+    "id": "5244ef2a86d5",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 2024 Climate Emergency Action Plan progress report and directed Civic Administration to report back on CEAP progress once a year instead of twice a year, now that a public CEAP dashboard is available.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to report back on CEAP progress once per year as opposed to the current twice per year frequency now that a comprehensive public CEAP dashboard is available and can be periodically updated throughout the year as actions progress",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full, non-truncated motion text directly from the raw meeting JSON (never the capped _all-motions.json field) and confirmed the quote is a verbatim excerpt of the actual operative clause, and that every clause in the motion is receive/note/refer/direct-report-back only with no approve/deny verb reaching the substance of the matter \u2014 correctly unclear per the deferral/informational-ask rules. Where the item carried a second, separate motion on the same agenda number, confirmed by result-tally that the quoted text belongs to the specific motion this id's result string names, not the other one."
+  },
+  {
+    "id": "2d61ff7230d0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the MNP Lessons Learned Review of the London Housing Development Project and requested further staff report-backs on tenant placement policy and the Deputy Mayor appointment process, without deciding either question in this motion.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE REQUESTED to report back to a future meeting of the Governance Working Group with a full list of the current tenant placement policies",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full, non-truncated motion text directly from the raw meeting JSON (never the capped _all-motions.json field) and confirmed the quote is a verbatim excerpt of the actual operative clause, and that every clause in the motion is receive/note/refer/direct-report-back only with no approve/deny verb reaching the substance of the matter \u2014 correctly unclear per the deferral/informational-ask rules. Where the item carried a second, separate motion on the same agenda number, confirmed by result-tally that the quoted text belongs to the specific motion this id's result string names, not the other one."
+  },
+  {
+    "id": "488d8b358c92",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 2024 Climate Emergency Action Plan progress report and directed Civic Administration to report back on CEAP progress once a year instead of twice a year, now that a public CEAP dashboard is available.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to report back on CEAP progress once per year as opposed to the current twice per year frequency now that a comprehensive public CEAP dashboard is available and can be periodically updated throughout the year as actions progress",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full, non-truncated motion text directly from the raw meeting JSON (never the capped _all-motions.json field) and confirmed the quote is a verbatim excerpt of the actual operative clause, and that every clause in the motion is receive/note/refer/direct-report-back only with no approve/deny verb reaching the substance of the matter \u2014 correctly unclear per the deferral/informational-ask rules. Where the item carried a second, separate motion on the same agenda number, confirmed by result-tally that the quoted text belongs to the specific motion this id's result string names, not the other one."
+  },
+  {
+    "id": "6a993b78b2b1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill Nos. 277 and 281, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No.\u2019s 277 and 281, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "cac3a695124c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill Nos. 277 and 281, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No.\u2019s 277 and 281, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "9a95866f910c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill Nos. 277 and 281, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No.\u2019s 277 and 281, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "32f8250d8e2b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill Nos. 278 and 279, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No.\u2019s 278 and 279, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "e347142eac7d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill Nos. 278 and 279, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No.\u2019s 278 and 279, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "818a7dedc149",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill Nos. 278 and 279, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No.\u2019s 278 and 279, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "3098ee6710e5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill Nos. 286 and 302, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No.\u2019s 286 and 302, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "12a9b0b76fbb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill Nos. 286 and 302, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No.\u2019s 286 and 302, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "19028b226982",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill Nos. 286 and 302, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No.\u2019s 286 and 302, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "080e3956a454",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 287, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 287, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "133e730d13bc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 287, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 287, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "4e70f062adc8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 287, one of fifteen individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 287, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "6f37de8c7b6e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved the Community and Protective Services Committee into closed session to receive solicitor-client privileged advice on proposed enhancements to the Dog Licensing and Control By-law focused on public-safety risk dogs.",
+    "confidence": "high",
+    "quote": "That the Community and Protective Services Committee convene In Closed Session for the purpose of considering the following: 6.1    Solicitor-Client Privilege A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose, with respect to Enhancements to the Dog Licensing and Control By-law - Focus on Public Safety Risk Dogs.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full raw closed-session clause (all sub-paragraphs, matched to this id by its own result tally among the multiple closed-session motions on the same item) and confirmed it is purely a procedural in-camera authorization citing solicitor-client privilege \u2014 no substantive position on any tracked issue. Quote reproduces the raw text; the source JSON renders the sub-heading number with a non-breaking-space run (e.g. '4.6\\xa0\\xa0Solicitor-Client Privilege') that the classifier normalized to regular spaces \u2014 cosmetic only, no words added, removed, or changed."
+  },
+  {
+    "id": "dd704dd51e33",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 333, one of five individual by-law reading motions in this special meeting's By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 333 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "aaa4ade82369",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in the Committee's ballot to select one nominee to appoint to the Eldon House Board of Directors; Michelle Southern was declared the majority winner.",
+    "confidence": "high",
+    "quote": "Consideration of Appointment to the Eldon House Board of Directors.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against the raw item: two motions sit on 4.3 (a 14-0 appointment motion, and this one, the secret-ballot round itself with the non-tally result string 'Majority Winner: Michelle Southern'). The quoted text and result match this second, ballot-round motion exactly. Personnel appointment, correctly excluded from issue classification per the GLOBAL_EXCLUDE appointment rule; not a divided policy vote."
+  },
+  {
+    "id": "28539cb8eb59",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved Council into closed session to receive solicitor-client privileged advice on potential litigation involving the Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan.",
+    "confidence": "high",
+    "quote": "That Council rise and go into Council, In Closed Session, for the purpose of considering the following: 4.6   Solicitor-Client Privilege / Litigation/Potential Litigation A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose from the solicitor and officers or employees of the Corporation; the subject matter pertains to litigation or potential litigation with respect to Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full raw closed-session clause (all sub-paragraphs, matched to this id by its own result tally among the multiple closed-session motions on the same item) and confirmed it is purely a procedural in-camera authorization citing solicitor-client privilege \u2014 no substantive position on any tracked issue. Quote reproduces the raw text; the source JSON renders the sub-heading number with a non-breaking-space run (e.g. '4.6\\xa0\\xa0Solicitor-Client Privilege') that the classifier normalized to regular spaces \u2014 cosmetic only, no words added, removed, or changed."
+  },
+  {
+    "id": "9b8eb224879a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received Councillor Franke's submission on the Agricultural Land Offset Policy along with several public communications on the same matter, without taking a position on the policy itself in this motion.",
+    "confidence": "high",
+    "quote": "the submission from Councillor S. Franke related to the Agricultural Land Offset Policy BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full, non-truncated motion text directly from the raw meeting JSON (never the capped _all-motions.json field) and confirmed the quote is a verbatim excerpt of the actual operative clause, and that every clause in the motion is receive/note/refer/direct-report-back only with no approve/deny verb reaching the substance of the matter \u2014 correctly unclear per the deferral/informational-ask rules. Where the item carried a second, separate motion on the same agenda number, confirmed by result-tally that the quoted text belongs to the specific motion this id's result string names, not the other one."
+  },
+  {
+    "id": "9381edcca361",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 333, one of twelve individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 333, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "f6ca3791eaf6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 333, one of twelve individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 333, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "155cc8c4d5cb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 333, one of twelve individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 333, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "dff8ef4fa52a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 339, one of twelve individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 339, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "e75e1d27946d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 339, one of twelve individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 339, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "7bd207852e6e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 339, one of twelve individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 339, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reloaded the raw meeting JSON for this By-laws item and cross-checked the full content list against _all-motions.json's rollCallOrdinal for this id: the ordinal position, vote tally, and result string all line up uniquely with the quoted reading motion for this specific Bill No. The clause text is nothing but 'Introduction/Second/Third Reading of Bill No. X BE APPROVED' with no substantive content \u2014 no issue keyword, no directional verb about anything but the reading itself \u2014 so issue=none/polarity=null is the only supportable read; no basis to derive a position on any tracked issue from a bare bill-number reading."
+  },
+  {
+    "id": "f2cd912e7af4",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the OZ-25072 rezoning application for 1103 & 1111 Westdel Bourne back to Civic Administration for further discussion with the applicant on an amendment involving reduced height and density, rather than deciding the application that day.",
+    "confidence": "high",
+    "quote": "the application from Westdell Development Corporation (c/o) MHBC Planning, Urban Design & Landscape Architecture relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to Civic Administration for additional discussion with the applicant with respect to an application amendment of reduced height and density considerations",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded the full agenda item text (public-participation and communication notes included) and confirmed the quote is the complete, verbatim operative clause. 'BE REFERRED ... for additional discussion with the applicant' is a pure deferral with no approve/deny verb \u2014 correctly unclear under DEFER_RE. Issue=housing is supported independently by the OZ-25072 structural code pattern in the item title, not just the referral text."
+  }
+]

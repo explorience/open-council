@@ -671,7 +671,7 @@
   "reason": "Stays unclear: 'Item 9, clause 4.1, as amended, BE APPROVED' is a wrapper ratifying all the sub-decisions above; no independent direction of its own."
  },
  {
-  "id": "a72a219550ae",
+  "id": "6dd7c2a2b04d",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",
@@ -682,7 +682,7 @@
   "reason": "Old axis application-approval renamed: awarding the 'Rapid Transit Implementation - Wellington Street' contract (Bre-Ex, $28.5M) is dedicated BRT corridor construction, despite the irregular-result note about exceeding the (unrelated) Downtown Loop Phase 3 budget line."
  },
  {
-  "id": "2b8601e1e24e",
+  "id": "c3e9daee4341",
   "oldAxis": "application-approval",
   "oldPolarity": "expansive",
   "newAxis": "transit-service",

@@ -183,9 +183,19 @@ check("business-case axis no longer appears anywhere in stances.json (axis empti
 
 # 2026-09-02 (PR #202 round): see the item-2 header comment - ids below
 # chased through rekey-map-20260902*.json to their current equivalent.
+#
+# Gate round 3 item A OVERRIDE: 0666282b30d3's expected polarity below was
+# "restrictive", per round-4/5's now-PROVEN-INVERTED verb-based levy-sign
+# table (see sweep-levy-sign-consistency.py's docstring for the full proof
+# from precedent rows P-25/P-24/P-6). Under the corrected effect-of-passing
+# convention (printed Tax Levy sign IS the answer, regardless of verb),
+# 0666282b30d3 (Case #P-12, BE EXCLUDED, 2027 Tax Levy: $28,000, a positive
+# figure) is expansive, not restrictive. Updated here to the corrected
+# expectation rather than leaving this self-check asserting a value the
+# gate itself proved wrong.
 for mid, expect_axis, expect_pol in [
     ("81604ebe0e88", "levy-size", "restrictive"),  # was 987a0e7529b2
-    ("0666282b30d3", "levy-size", "restrictive"),  # was f7c197957c99
+    ("0666282b30d3", "levy-size", "expansive"),  # was f7c197957c99; was "restrictive" pre-round-3-item-A
 ]:
     if not require_current(mid, "item 3"):
         continue
@@ -196,13 +206,20 @@ for mid, expect_axis, expect_pol in [
         str(now),
     )
 
+# Gate round 3 item A: 1d7c40b467ec REMOVED from this list. It was
+# downgraded to unclear here (round 4: no Tax Levy dollar line in its own
+# clause, "not mechanically sign-derivable") but round 3 item A aligned it
+# onto its sibling 22951914b4b2/P-6's verified direction instead (same
+# underlying case, "Reduced Road Network Improvements", at an earlier
+# procedural stage) -- see that correction's reason for the full
+# title-based derivation. No longer unclear, so no longer belongs in a list
+# asserting "downgraded to unclear".
 downgraded_business_case_ids = [
     "050a9f0f9146",  # was 01d52536f471 -> (20260902) be1f4927f690 -> (20260902d)
     "fdbfa59e401a",  # was 69288d65e04c
     "90cb7d09948d",  # was 5581ea6993ac
     "a41ecd8d8212",  # was a4eb827c855c
     "5d8be07a288c",  # was e11dd21254b2
-    "1d7c40b467ec",  # was d167a282544f
     "0c2a411423be",  # was 3dd05e479854
     "a6473f2744cd",  # was 1c8075648323
     "c08daf018133",  # was ba9608551c5e

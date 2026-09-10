@@ -1,0 +1,508 @@
+[
+  {
+    "id": "20bd87838867",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introducing the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "confidence": "low",
+    "quote": "the proposed by-law, as appended to the staff report dated May 1, 2025 as Appendix “A”, being the “Municipal Diversity Plan for Appointments to the London Police Service Board Policy” BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025 to adopt the Municipal Diversity Plan for Appointments to the London Police Service Board.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "691ae2ebf06d",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+    "confidence": "medium",
+    "quote": "A by-law to approve the Ontario Renovates Home Repair Loan Agreement (“Agreement”), between the City of London and eligible applicants; to authorize behalf the City of London and execute the Agreement.",
+    "flags": []
+  },
+  {
+    "id": "7f52f9d63ae8",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+    "confidence": "medium",
+    "quote": "A by-law to approve the Ontario Renovates Home Repair Loan Agreement (“Agreement”), between the City of London and eligible applicants; to authorize behalf the City of London and execute the Agreement.",
+    "flags": []
+  },
+  {
+    "id": "6e90419d5680",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+    "confidence": "medium",
+    "quote": "A by-law to approve the Ontario Renovates Home Repair Loan Agreement (“Agreement”), between the City of London and eligible applicants; to authorize behalf the City of London and execute the Agreement.",
+    "flags": []
+  },
+  {
+    "id": "6ac6d8117556",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "confidence": "low",
+    "quote": "A by-law to adopt the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "0f0874c4c603",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "confidence": "low",
+    "quote": "A by-law to adopt the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "b495f6dfd0e0",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "confidence": "low",
+    "quote": "A by-law to adopt the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "9ed9e0193161",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+    "confidence": "medium",
+    "quote": "TO a Residential R5/R6/R8/R9 (R5-4(*)/R6-5(*)/R8-4(*)-D100-H32/ R9-3(*)-H32), a Residential R5/R6 (R5-4(**)/R6-5(**), and an Open Space (OS5) Zone",
+    "flags": []
+  },
+  {
+    "id": "24342621063b",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+    "confidence": "medium",
+    "quote": "TO a Residential R5/R6/R8/R9 (R5-4(*)/R6-5(*)/R8-4(*)-D100-H32/ R9-3(*)-H32), a Residential R5/R6 (R5-4(**)/R6-5(**), and an Open Space (OS5) Zone",
+    "flags": []
+  },
+  {
+    "id": "fc91920ce872",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+    "confidence": "medium",
+    "quote": "TO a Residential R5/R6/R8/R9 (R5-4(*)/R6-5(*)/R8-4(*)-D100-H32/ R9-3(*)-H32), a Residential R5/R6 (R5-4(**)/R6-5(**), and an Open Space (OS5) Zone",
+    "flags": []
+  },
+  {
+    "id": "a0ee8dad3c2b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as one bundled first reading, the remaining by-laws on the agenda (Bill Nos. 155 to 178, excluding 156, 157, 158 and 163) covering multiple unrelated administrative, infrastructure, and planning matters.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.’s 155 to Bill No. 178, excluding Bill No.’s 156, 157, 158 and 163 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "33eae9c3c03e",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Councillor's communication on the Whole of Community System Response Overview with no further action directed.",
+    "confidence": "high",
+    "quote": "That the communication from Councillor S. Stevenson, dated May 12, 2025, with respect to the Whole of Community System Response Overview, BE RECEIVED and no further action be taken.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "ec95d27cf359",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to prepare an information report on amounts owed by Aspire Food Group and the process to collect them.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to prepare an information report summarizing the amounts owed by Aspire Food Group, the process to collect, expected outcomes and a brief summary of property taxes, fines and other accounts receivable that are deemed uncollectible.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "2e558469012f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to consult the community and prepare a revised rendering addressing parking, accessibility, and loading-dock concerns on Eleanor Street.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to consult with the community, including local businesses, regarding the changes to this part of Eleanor Street",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "f3df78573c8d",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the 2025 London and Middlesex Community Housing Asset Management Plan.",
+    "confidence": "medium",
+    "quote": "the “2025 London and Middlesex Community Housing Asset Management Plan”, as appended to the staff report dated May 27, 2025 as Appendix “A”, BE APPROVED in accordance with Ontario Regulation 588/17.",
+    "flags": []
+  },
+  {
+    "id": "e58982c980db",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the 2025 London and Middlesex Community Housing Asset Management Plan back for revisions, including a property-by-property facilities-condition breakdown and further options on financing the infrastructure gap.",
+    "confidence": "high",
+    "quote": "the “2025 London and Middlesex Community Housing Asset Management Plan”, appended to the staff report as Appendix “A”, BE REFERRED to the meeting of the Strategic Priorities and Policy Committee to be held on June 17, 2025 with a request to London and Middlesex Housing Community Housing to include in a revised Asset Management Plan",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "4a7dbd9fd06d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved Council into closed session to receive solicitor-client privileged legal advice on a matter related to the London and Middlesex Community Housing Asset Management Plan.",
+    "confidence": "high",
+    "quote": "That Council rise and go into Council, In Closed Session, for the purpose of considering the following: 4.2 Litigation/Potential Litigation / Solicitor-Client Privileged Advice",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "c7ad56fac08d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved Council into closed session to receive solicitor-client privileged legal advice on a matter related to a Highly Supportive Housing contribution agreement.",
+    "confidence": "high",
+    "quote": "That Council convenes In Closed session for the purpose of considering the following: 4.3 Litigation/Potential Litigation / Solicitor-Client Privileged Advice",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "4177fd20e31b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a batch of public communications and referred them as noted on the added agenda, covering a heritage-property demolition request, an infrastructure project, and two rezoning applications.",
+    "confidence": "high",
+    "quote": "That the following communications BE RECEIVED, and BE REFERRED as noted on the Added Agenda",
+    "flags": [
+      "procedural",
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "656e01676285",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 2025 Mid-Year Strategic Plan Implementation Update report for information.",
+    "confidence": "high",
+    "quote": "the report regarding 2025 Mid-Year Strategic Plan Implementation Update BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "0c5a09ed47d9",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the 2025 London and Middlesex Community Housing Asset Management Plan.",
+    "confidence": "medium",
+    "quote": "the “2025 London and Middlesex Community Housing Asset Management Plan”, as appended to the staff report dated May 27, 2025 as Appendix “A”, BE APPROVED in accordance with Ontario Regulation 588/17.",
+    "flags": []
+  },
+  {
+    "id": "72c528522624",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Noted that the Infrastructure and Corporate Services Committee had received a councillor's communication about Aspire Food Group bad debts, with no further action.",
+    "confidence": "high",
+    "quote": "That it BE NOTED that the Infrastructure and Corporate Services Committee received a communication dated May 15, 2025 from Councillor S. Stevenson with respect to this matter.",
+    "flags": [
+      "procedural",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "fa37bf340814",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reconsidered a prior committee decision under the Council Procedure By-law to let a councillor recast her vote on the Eleanor Street communication.",
+    "confidence": "high",
+    "quote": "the Council decision with respect to item 16 (5.2) having to do with Councillor Stevenson's Communication BE RECONSIDERED to provide for Councillor Stevenson to recast her vote.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "c49083574229",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Noted that the Infrastructure and Corporate Services Committee had received a councillor's communication about the Eleanor Street infrastructure project, with no further action.",
+    "confidence": "high",
+    "quote": "That it BE NOTED that the Infrastructure and Corporate Services Committee received a communication dated May 15, 2025 from Councillor S. Stevenson with respect to this matter.",
+    "flags": [
+      "procedural",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "88ebf9bb250f",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Councillor's communication on the Whole of Community System Response Overview with no further action directed.",
+    "confidence": "high",
+    "quote": "That the communication from Councillor S. Stevenson, dated May 12, 2025, with respect to the Whole of Community System Response Overview, BE RECEIVED and no further action be taken.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "3419490f3101",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+    "confidence": "medium",
+    "quote": "A by-law to approve a template Contribution Agreement for affordable housing project owners awarded funding through procurement processes.",
+    "flags": []
+  },
+  {
+    "id": "50c4d89fbbc9",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+    "confidence": "medium",
+    "quote": "A by-law to approve a template Contribution Agreement for affordable housing project owners awarded funding through procurement processes.",
+    "flags": []
+  },
+  {
+    "id": "3892d99b84bc",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+    "confidence": "medium",
+    "quote": "A by-law to approve a template Contribution Agreement for affordable housing project owners awarded funding through procurement processes.",
+    "flags": []
+  },
+  {
+    "id": "33925b2151f0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved housekeeping by-laws updating the City's Access and Privacy Policy schedule and its Free of Fear Services for All Policy.",
+    "confidence": "medium",
+    "quote": "A by-law to amend By-law No. CPOL.-378-473, as amended, being the “Access and Privacy Policy” by deleting and replacing Schedule “A”.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "4e55703afbf3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved housekeeping by-laws updating the City's Access and Privacy Policy schedule and its Free of Fear Services for All Policy.",
+    "confidence": "medium",
+    "quote": "A by-law to amend By-law No. CPOL.-378-473, as amended, being the “Access and Privacy Policy” by deleting and replacing Schedule “A”.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d47eb50329f2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved housekeeping by-laws updating the City's Access and Privacy Policy schedule and its Free of Fear Services for All Policy.",
+    "confidence": "medium",
+    "quote": "A by-law to amend By-law No. CPOL.-378-473, as amended, being the “Access and Privacy Policy” by deleting and replacing Schedule “A”.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "a2f046689f4d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+    "confidence": "medium",
+    "quote": "the recommended amendment facilitates residential intensification within the Built-Area Boundary",
+    "flags": []
+  },
+  {
+    "id": "03e79279ff06",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+    "confidence": "medium",
+    "quote": "the recommended amendment facilitates residential intensification within the Built-Area Boundary",
+    "flags": []
+  },
+  {
+    "id": "c619398e063d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+    "confidence": "medium",
+    "quote": "the recommended amendment facilitates residential intensification within the Built-Area Boundary",
+    "flags": []
+  },
+  {
+    "id": "a1a32e213ed5",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+    "confidence": "high",
+    "quote": "add a new Specific Policy to the Neighbourhoods Place Type for Block 2 of the subject lands to permit stacked townhouses with a maximum height of 3.5 storeys on a Neighbourhood Street, for Block 3 of the subject lands to permit an apartment building with a maximum height of 8 storeys, and for Block 4 of the subject lands to permit an apartment building with a maximum height of 8 to 12 storeys",
+    "flags": []
+  },
+  {
+    "id": "ffe105377ba3",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+    "confidence": "high",
+    "quote": "add a new Specific Policy to the Neighbourhoods Place Type for Block 2 of the subject lands to permit stacked townhouses with a maximum height of 3.5 storeys on a Neighbourhood Street, for Block 3 of the subject lands to permit an apartment building with a maximum height of 8 storeys, and for Block 4 of the subject lands to permit an apartment building with a maximum height of 8 to 12 storeys",
+    "flags": []
+  },
+  {
+    "id": "0530fb10adb8",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+    "confidence": "high",
+    "quote": "add a new Specific Policy to the Neighbourhoods Place Type for Block 2 of the subject lands to permit stacked townhouses with a maximum height of 3.5 storeys on a Neighbourhood Street, for Block 3 of the subject lands to permit an apartment building with a maximum height of 8 storeys, and for Block 4 of the subject lands to permit an apartment building with a maximum height of 8 to 12 storeys",
+    "flags": []
+  },
+  {
+    "id": "434e1f895232",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+    "confidence": "medium",
+    "quote": "to change the zoning of the subject property FROM a Holding Residential R1 (h- 2*R1-14) Zone, TO a Residential R1 (R1-14) Zone",
+    "flags": []
+  },
+  {
+    "id": "07d34b3acbf4",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+    "confidence": "medium",
+    "quote": "to change the zoning of the subject property FROM a Holding Residential R1 (h- 2*R1-14) Zone, TO a Residential R1 (R1-14) Zone",
+    "flags": []
+  },
+  {
+    "id": "ade980876004",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+    "confidence": "medium",
+    "quote": "to change the zoning of the subject property FROM a Holding Residential R1 (h- 2*R1-14) Zone, TO a Residential R1 (R1-14) Zone",
+    "flags": []
+  },
+  {
+    "id": "bc36553d2001",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+    "confidence": "low",
+    "quote": "A by-law to expropriate lands in the City of London, in the County of Middlesex, for the Wellington Gateway Project.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "24c2e69564b6",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+    "confidence": "low",
+    "quote": "A by-law to expropriate lands in the City of London, in the County of Middlesex, for the Wellington Gateway Project.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e0556d8a489b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Corporate Growth Projections 2021-2051 report for information.",
+    "confidence": "high",
+    "quote": "the following report with respect to the City of London Corporate Growth Projections 2021-2051, BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "85b22c226701",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the London & Middlesex Community Housing 2024 Financial Statements presented at its Annual General Meeting.",
+    "confidence": "high",
+    "quote": "the 2024 Financial Statements BE RECEIVED",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "d7df3dccd45a",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law ratifying the Annual Resolutions of the Shareholder of London & Middlesex Community Housing, and received its 2024 Annual Report.",
+    "confidence": "medium",
+    "quote": "the proposed by-law as appended to the staff report dated June 17, 2025 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London & Middlesex Community Housing”, BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ]
+  }
+]
