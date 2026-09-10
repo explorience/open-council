@@ -1,0 +1,138 @@
+[
+  {
+    "id": "110c098c5989",
+    "field": "whatAYeaDid",
+    "live_value": "Endorsed the comments and discussion in the staff report on the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting on its draft Guideline on Community Emissions Reduction Planning, and directed that they be submitted to the Ministry by the March 4, 2018 comment deadline.",
+    "pass2_value": "Adopted the comments and discussion in the staff report on the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting on its draft Guideline on Community Emissions Reduction Planning, and directed that they be submitted to the Ministry by the March 4, 2018 comment deadline.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Adopted the comments and discussion in the staff report on the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting on its draft Guideline on Community Emissions Reduction Planning, and directed that they be submitted to the Ministry by the March 4, 2018 comment deadline.",
+    "quote": "BE ENDORSED and BE SUBMITTED to the Ministry of the Environment (motion's own clause) -- but convention: 'whatAYeaDid in motion-action voice, never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence, hedged or not'",
+    "reason": "Convention explicitly bans 'Endorsed' as the whatAYeaDid opening verb even when the motion's own text literally reads 'BE ENDORSED' -- the source wording is not an excuse. Pass2 correctly reworded to 'Adopted', a compliant motion-action verb; no factual content changed.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed: batch-92-classified/verified.json (live/pass1) both still read 'Endorsed' -- pass1's own verification pass failed to catch the banned stance-verb defect it itself corrected elsewhere in this same tranche (see aaf2ab13294c, batch-93, where pass1 replaced 'endorsing' with 'approving' for the identical BE ENDORSED source clause). Pass2's 'Adopted' fix is convention-compliant and changes no factual content about any vote."
+  },
+  {
+    "id": "23b8f0a55fcc",
+    "field": "flags",
+    "live_value": [
+      "not_divided",
+      "procedural"
+    ],
+    "pass2_value": [
+      "not_divided"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "not_divided",
+      "procedural"
+    ],
+    "quote": "flags: [\"procedural\"] on id 72970ed2dbd2 (batch-25, the exact precedent pass2 itself cites for this fact pattern: standard-form agreement template + signing-authority delegation, no $ figure)",
+    "reason": "Pass2's own verifierNote cites 72970ed2dbd2 as the controlling precedent for this standard-form-template pattern, but that precedent entry itself carries the 'procedural' flag. Removing 'procedural' here breaks corpus-wide consistency with the very precedent pass2 relies on; pass1's flags match established practice.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed: precedent id 72970ed2dbd2 (batch-25-verified.json, live) does carry flags:['procedural'] for the identical standard-form-agreement + signing-delegation pattern that pass2 itself cites. Pass2's removal of 'procedural' here is inconsistent with its own cited authority; keep_pass1 is correct."
+  },
+  {
+    "id": "13bfb27ca62c",
+    "field": "flags",
+    "live_value": [
+      "not_divided",
+      "procedural"
+    ],
+    "pass2_value": [
+      "not_divided"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "not_divided",
+      "procedural"
+    ],
+    "quote": "flags: [\"procedural\"] on id 72970ed2dbd2 (batch-25 precedent for the identical standard-form-agreement + signing-authority pattern, cited by pass2 itself)",
+    "reason": "Same reasoning as twin id 23b8f0a55fcc: pass2's own cited precedent (72970ed2dbd2) carries 'procedural'; stripping it here is an internal inconsistency in pass2, not a fix. Keep pass1's flags.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same precedent check as 23b8f0a55fcc (72970ed2dbd2 carries 'procedural' live) -- pass2's removal is internally inconsistent. keep_pass1 correct."
+  },
+  {
+    "id": "c987563b1b3c",
+    "field": "quote",
+    "live_value": "the proposed by-law appended to the staff report dated March 19, 2018 BE INTRODUCED at the Municipal Council meeting to be held on March 27, 2018 to amend the Southwest Area Secondary Plan TO DELETE policy 20.5.6.1.v) a), which requires that commercial development within a portion of the Wonderland Road Community Enterprise Corridor south of Bradley Avenue not exceed 100,000 square metres in gross floor area",
+    "pass2_value": "the proposed by-law appended to the staff report dated March 19, 2018 BE INTRODUCED at the Municipal Council meeting to be held on March 27, 2018 to amend the Southwest Area Secondary Plan TO DELETE policy 20.5.6.1.v) a), which requires that commercial development within a portion of the Wonderland Road Community Enterprise Corridor designation south of Bradley Avenue not exceed 100,000 square metres in gross floor area",
+    "decision": "adopt_pass2",
+    "chosen_value": "the proposed by-law appended to the staff report dated March 19, 2018 BE INTRODUCED at the Municipal Council meeting to be held on March 27, 2018 to amend the Southwest Area Secondary Plan TO DELETE policy 20.5.6.1.v) a), which requires that commercial development within a portion of the Wonderland Road Community Enterprise Corridor designation south of Bradley Avenue not exceed 100,000 square metres in gross floor area",
+    "quote": "\"...commercial development within a portion of the Wonderland Road Community Enterprise Corridor designation south of Bradley Avenue not exceed 100,000 square metres in gross floor area;\" (2018-03-19 Planning and Environment Committee.json, item 4)",
+    "reason": "Verified verbatim against the source meeting JSON: the word 'designation' is present in the motion's own text and was silently dropped in pass1's quote. Pass2's restoration is provably correct -- convention requires the motion's own exact words.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against source: both 2018-03-19 Planning and Environment Committee.json and 2018-03-27 Council.json read '...Community Enterprise Corridor designation south of Bradley Avenue...' -- the word 'designation' is present in the motion's own text. Pass1's quote (and batch-92-verified.json's own 'confirmed' pass) silently dropped it; pass2's restoration is verbatim-correct, no operative meaning changed."
+  },
+  {
+    "id": "0eb59b48a11a",
+    "field": "whatAYeaDid",
+    "live_value": "Endorsed the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+    "pass2_value": "Approved the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approved the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+    "quote": "\"the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report dated March 26, 2018, BE ENDORSED\" -- but convention bans 'Endorsed' as the whatAYeaDid verb regardless of source wording",
+    "reason": "Same stance-verb defect as 110c098c5989: whatAYeaDid opened with banned 'Endorsed'. Pass2's 'Approved' is the compliant fix; no factual content changed.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same defect/fix pattern as 110c098c5989: source clause is 'BE ENDORSED', pass1 (live) retained the banned stance verb, pass2's 'Approved' is the compliant, factually-identical fix."
+  },
+  {
+    "id": "3f7c0b9517b0",
+    "field": "quote",
+    "live_value": "the proposed by-law appended to the staff report dated March 19, 2018 BE INTRODUCED at the Municipal Council meeting to be held on March 27, 2018 to amend the Southwest Area Secondary Plan TO DELETE policy 20.5.6.1.v) a), which requires that commercial development within a portion of the Wonderland Road Community Enterprise Corridor south of Bradley Avenue not exceed 100,000 square metres in gross floor area",
+    "pass2_value": "the proposed by-law appended to the staff report dated March 19, 2018 BE INTRODUCED at the Municipal Council meeting to be held on March 27, 2018 to amend the Southwest Area Secondary Plan TO DELETE policy 20.5.6.1.v) a), which requires that commercial development within a portion of the Wonderland Road Community Enterprise Corridor designation south of Bradley Avenue not exceed 100,000 square metres in gross floor area",
+    "decision": "adopt_pass2",
+    "chosen_value": "the proposed by-law appended to the staff report dated March 19, 2018 BE INTRODUCED at the Municipal Council meeting to be held on March 27, 2018 to amend the Southwest Area Secondary Plan TO DELETE policy 20.5.6.1.v) a), which requires that commercial development within a portion of the Wonderland Road Community Enterprise Corridor designation south of Bradley Avenue not exceed 100,000 square metres in gross floor area",
+    "quote": "\"...commercial development within a portion of the Wonderland Road Community Enterprise Corridor designation south of Bradley Avenue not exceed 100,000 square metres in gross floor area;\" (2018-03-27 Council.json, item 17, Council twin of the PEC motion)",
+    "reason": "Council twin of c987563b1b3c, same source clause, same silently-dropped 'designation'. Verified verbatim against source JSON; pass2's restoration is correct.",
+    "checkVerdict": "upheld",
+    "checkNote": "Council twin of c987563b1b3c -- verified 'designation' present verbatim in 2018-03-27 Council.json's copy of the same clause. Pass2's restoration correct."
+  },
+  {
+    "id": "286131c377d8",
+    "field": "whatAYeaDid",
+    "live_value": "Endorsed the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+    "pass2_value": "Approved the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approved the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+    "quote": "\"the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report dated March 26, 2018, BE ENDORSED\" -- but convention bans 'Endorsed' as the whatAYeaDid verb regardless of source wording",
+    "reason": "Council twin of 0eb59b48a11a, identical text and defect. Pass2's 'Approved' is the compliant fix, applied consistently to both twins.",
+    "checkVerdict": "upheld",
+    "checkNote": "Council twin of 0eb59b48a11a, identical BE ENDORSED source clause and defect. Pass2's 'Approved' fix correct and consistently applied to both twins."
+  },
+  {
+    "id": "aaf2ab13294c",
+    "field": "whatAYeaDid",
+    "live_value": "Approved that part b) of the gaming-site expansion item commence with wording approving entertainment options allowing up to 1,200 slots at a casino and up to 50 live table games within the City of London's jurisdiction.",
+    "pass2_value": "Approved that part b) of the gaming-site expansion item commence with wording endorsing entertainment options allowing up to 1,200 slots at a casino and up to 50 live table games within the City of London's jurisdiction.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approved that part b) of the gaming-site expansion item commence with wording approving entertainment options allowing up to 1,200 slots at a casino and up to 50 live table games within the City of London's jurisdiction.",
+    "quote": "convention: 'whatAYeaDid in motion-action voice, never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence, hedged or not' -- source clause itself: '...BE ENDORSED;'",
+    "reason": "Pass2 reintroduces the banned stance verb 'endorsing' mid-sentence (the convention explicitly bans it mid-sentence, not just at the opening). Pass1's 'approving' is the compliant paraphrase and changes no factual content -- the underlying vote/quote are identical in both passes.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed keep_pass1: batch-93-verified.json (live) already reads 'approving' (not 'endorsing') for this exact BE ENDORSED clause -- pass1's own verification already applied the banned-verb fix pass2 re-broke by reintroducing 'endorsing' mid-sentence, which the convention forbids regardless of position. No missed improvement in pass2."
+  },
+  {
+    "id": "5d477f5ee6e3",
+    "field": "whatAYeaDid",
+    "live_value": "Approved, at Council, the introduction to part b) of the gaming-site expansion item, approving entertainment options allowing up to 1,200 slots at a casino and up to 50 live table games within the City of London's jurisdiction.",
+    "pass2_value": "Approved, at Council, the introduction to part b) of the gaming-site expansion item, endorsing entertainment options allowing up to 1,200 slots at a casino and up to 50 live table games within the City of London's jurisdiction.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approved, at Council, the introduction to part b) of the gaming-site expansion item, approving entertainment options allowing up to 1,200 slots at a casino and up to 50 live table games within the City of London's jurisdiction.",
+    "quote": "convention: 'whatAYeaDid in motion-action voice, never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence, hedged or not' -- source clause itself: '...BE ENDORSED;'",
+    "reason": "Council twin of aaf2ab13294c; same mid-sentence banned-verb reintroduction in pass2. Keep pass1's convention-compliant 'approving'.",
+    "checkVerdict": "upheld",
+    "checkNote": "Council twin of aaf2ab13294c, same check: live value already uses compliant 'approving'; pass2's 'endorsing' is a regression, not a fix. keep_pass1 correct."
+  },
+  {
+    "id": "f93d13a026d8",
+    "field": "whatAYeaDid",
+    "live_value": "Adopted a four percent (4%) Municipal Accommodation Tax on the purchase price of transient accommodation in the City of London effective October 1, 2018, directed the Civic Administration to bring back the required by-laws and agreements, and approved key principles for establishing the tax and for the use and monitoring of Tourism London's share of the revenue.",
+    "pass2_value": "Adopted a four percent (4%) Municipal Accommodation Tax on the purchase price of transient accommodation in the City of London effective October 1, 2018, directed the Civic Administration to bring back the required by-laws and agreements, and adopted key principles for establishing the tax and for the use and monitoring of Tourism London's share of the revenue.",
+    "decision": "keep_pass1",
+    "chosen_value": "Adopted a four percent (4%) Municipal Accommodation Tax on the purchase price of transient accommodation in the City of London effective October 1, 2018, directed the Civic Administration to bring back the required by-laws and agreements, and approved key principles for establishing the tax and for the use and monitoring of Tourism London's share of the revenue.",
+    "quote": "\"a) ... BE ADOPTED effective October 1, 2018; ... c) the key principles ... BE ENDORSED ... e) the key principles ... BE ENDORSED\" (2018-05 SPPC/Council Municipal Accommodation Tax item)",
+    "reason": "Source uses two distinct operative verbs: 'ADOPTED' for the tax rate and 'ENDORSED' for the key principles. Pass1 preserves that distinction, matching the source verbatim for the tax clause and using the corpus's own safe substitute 'approved' for the endorsed clause (the same substitution the corpus uses elsewhere, e.g. aaf2ab13294c). Pass2 collapses both into 'adopted', losing the distinction without any convention requiring it -- not a directional error, but pass1 is the more precise and internally consistent choice.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against full source text: clause a) reads 'BE ADOPTED' (tax rate) and clauses c)/e) read 'BE ENDORSED' (key principles) -- two genuinely distinct source verbs. Pass1 preserves that distinction ('Adopted' + 'approved', the corpus's established safe substitute for banned 'endorsed'); pass2 flattens both to 'adopted'. Neither choice is a factual or convention violation ('adopted' is not a banned verb), so pass2 offers no positive, confirmable improvement over pass1 -- keep_pass1 stands."
+  }
+]
